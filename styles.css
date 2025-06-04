@@ -1,0 +1,67 @@
+:root {
+  --primary-blue: #002b80; /* Azul institucional tipo FIDE */
+  --light-blue: #f0f8ff;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bg-primary-blue {
+  background-color: var(--primary-blue);
+}
+
+.text-primary {
+  color: var(--primary-blue) !important;
+}
+
+.section-bg {
+  background-color: var(--light-blue);
+  border-radius: 0.75rem;
+}
+
+/* Navbar links */
+.navbar .nav-link {
+  color: #ffffff !important;
+}
+
+.navbar .nav-link.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* Hover para abrir el menú principal Rankings */
+.navbar-nav .dropdown:hover > .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}
+
+/* Submenús visibles al pasar el ratón */
+.dropdown-submenu:hover > .submenu {
+  display: block;
+}
+
+/* Submenús a la izquierda */
+.dropdown-submenu .submenu {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: auto;
+  right: 100%;
+  margin-top: -0.1rem;
+  margin-right: 0.1rem;
+  border-radius: 0.25rem;
+  z-index: 1000;
+}
+
+@media (max-width: 1199.98px) {
+  .hide-lg {
+    display: none;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .hide-md {
+    display: none;
+  }
+}
