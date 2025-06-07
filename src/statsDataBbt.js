@@ -42,22 +42,22 @@ const statsData = [
         "rating": 91.2109276489256
       },
       "2025": {
-        "tournaments": 28,
-        "gamesWon": 99,
-        "gamesDraw": 82,
-        "gamesLost": 204,
-        "gamesTotal": 385,
-        "winRatio": 36.36,
-        "rating": 92.33507633164386
+        "tournaments": 34,
+        "gamesWon": 132,
+        "gamesDraw": 106,
+        "gamesLost": 250,
+        "gamesTotal": 488,
+        "winRatio": 37.91,
+        "rating": 122.00781098355513
       }
     },
-    "rating": 98.4783715910984,
-    "totalTournaments": 108,
-    "totalGames": 1289,
-    "totalWins": 340,
-    "totalDraws": 298,
-    "totalLosses": 651,
-    "totalWinRatio": 37.94
+    "rating": 124.63178757375971,
+    "totalTournaments": 114,
+    "totalGames": 1392,
+    "totalWins": 373,
+    "totalDraws": 322,
+    "totalLosses": 697,
+    "totalWinRatio": 38.36
   },
   {
     "NAF Nr": "35234",
@@ -211,22 +211,22 @@ const statsData = [
         "rating": 202.59469222110667
       },
       "2025": {
-        "tournaments": 10,
-        "gamesWon": 20,
-        "gamesDraw": 7,
-        "gamesLost": 12,
-        "gamesTotal": 39,
-        "winRatio": 60.26,
-        "rating": 180.2628087022201
+        "tournaments": 11,
+        "gamesWon": 22,
+        "gamesDraw": 8,
+        "gamesLost": 13,
+        "gamesTotal": 43,
+        "winRatio": 60.47,
+        "rating": 182.7001576349398
       }
     },
-    "rating": 203.06113523762946,
-    "totalTournaments": 60,
-    "totalGames": 245,
-    "totalWins": 124,
-    "totalDraws": 62,
-    "totalLosses": 59,
-    "totalWinRatio": 63.27
+    "rating": 204.54303660175856,
+    "totalTournaments": 61,
+    "totalGames": 249,
+    "totalWins": 126,
+    "totalDraws": 63,
+    "totalLosses": 60,
+    "totalWinRatio": 63.25
   },
   {
     "NAF Nr": "40076",
@@ -250,10 +250,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 130.54748414611956
+        "rating": 130.54748414592814
       }
     },
-    "rating": 123.59834574244039,
+    "rating": 123.59834588876168,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 1,
@@ -322,10 +322,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 66.67,
-        "rating": 155.79842199985475
+        "rating": 155.79862688591794
       }
     },
-    "rating": 157.5440153236785,
+    "rating": 157.54416952967895,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -396,22 +396,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 1,
-        "gamesDraw": 1,
+        "gamesDraw": 2,
         "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 37.5,
-        "rating": 145.0860161876384
+        "gamesTotal": 5,
+        "winRatio": 40,
+        "rating": 145.29927023532358
       }
     },
-    "rating": 145.1571739764157,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 145.36734282552268,
+    "totalTournaments": 2,
+    "totalGames": 5,
     "totalWins": 1,
-    "totalDraws": 1,
+    "totalDraws": 2,
     "totalLosses": 2,
-    "totalWinRatio": 37.5
+    "totalWinRatio": 40
   },
   {
     "NAF Nr": "28631",
@@ -459,10 +459,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 152.4691623547149
+        "rating": 152.46916235043668
       }
     },
-    "rating": 142.67837855638365,
+    "rating": 142.67838243730435,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 10,
@@ -507,10 +507,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 6,
         "winRatio": 33.33,
-        "rating": 137.86985339003147
+        "rating": 137.8699357987276
       }
     },
-    "rating": 138.18731954097737,
+    "rating": 138.1873845361261,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 2,
@@ -523,14 +523,24 @@ const statsData = [
     "NAF Name": "Afur",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 0,
+        "gamesLost": 1,
+        "gamesTotal": 3,
+        "winRatio": 66.67,
+        "rating": 155.28955626213875
+      }
+    },
+    "rating": 155.26305087802646,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 2,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalLosses": 1,
+    "totalWinRatio": 66.67
   },
   {
     "NAF Nr": "34557",
@@ -554,10 +564,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 6,
         "winRatio": 50,
-        "rating": 152.10396835108054
+        "rating": 152.10474909395208
       }
     },
-    "rating": 171.4827452957354,
+    "rating": 171.4832324405861,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 3,
@@ -581,22 +591,22 @@ const statsData = [
         "rating": 150.56863538352147
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 6,
-        "gamesDraw": 3,
-        "gamesLost": 3,
-        "gamesTotal": 12,
-        "winRatio": 62.5,
-        "rating": 163.05153989344933
+        "tournaments": 4,
+        "gamesWon": 7,
+        "gamesDraw": 4,
+        "gamesLost": 5,
+        "gamesTotal": 16,
+        "winRatio": 56.25,
+        "rating": 155.62243141635548
       }
     },
-    "rating": 163.78400805954402,
-    "totalTournaments": 6,
-    "totalGames": 24,
-    "totalWins": 11,
-    "totalDraws": 5,
-    "totalLosses": 8,
-    "totalWinRatio": 56.25
+    "rating": 155.8423748722529,
+    "totalTournaments": 7,
+    "totalGames": 28,
+    "totalWins": 12,
+    "totalDraws": 6,
+    "totalLosses": 10,
+    "totalWinRatio": 53.57
   },
   {
     "NAF Nr": "12649",
@@ -638,10 +648,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 31.25,
-        "rating": 132.93998616614778
+        "rating": 132.9402967052683
       }
     },
-    "rating": 127.64287254836294,
+    "rating": 127.64305899613238,
     "totalTournaments": 8,
     "totalGames": 31,
     "totalWins": 8,
@@ -671,10 +681,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 8,
         "winRatio": 62.5,
-        "rating": 160.34550642778035
+        "rating": 160.34589347795367
       }
     },
-    "rating": 159.80206897315335,
+    "rating": 159.80666584285663,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 3,
@@ -704,10 +714,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 66.67,
-        "rating": 162.74108159096568
+        "rating": 162.74189646439368
       }
     },
-    "rating": 190.66739525143615,
+    "rating": 190.66917912760522,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 13,
@@ -764,10 +774,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 18,
         "winRatio": 66.67,
-        "rating": 175.35364970724817
+        "rating": 175.36905244709087
       }
     },
-    "rating": 193.43527335073657,
+    "rating": 193.44467362520538,
     "totalTournaments": 22,
     "totalGames": 85,
     "totalWins": 36,
@@ -811,20 +821,20 @@ const statsData = [
       "2025": {
         "tournaments": 2,
         "gamesWon": 3,
-        "gamesDraw": 2,
+        "gamesDraw": 3,
         "gamesLost": 3,
-        "gamesTotal": 8,
+        "gamesTotal": 9,
         "winRatio": 50,
-        "rating": 147.98424145167695
+        "rating": 147.12042091840283
       }
     },
-    "rating": 137.8954947038272,
+    "rating": 137.29023588761996,
     "totalTournaments": 8,
-    "totalGames": 31,
+    "totalGames": 32,
     "totalWins": 8,
-    "totalDraws": 11,
+    "totalDraws": 12,
     "totalLosses": 12,
-    "totalWinRatio": 43.55
+    "totalWinRatio": 43.75
   },
   {
     "NAF Nr": "37585",
@@ -875,36 +885,46 @@ const statsData = [
         "rating": 155.83846939703187
       },
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 2,
-        "gamesDraw": 2,
+        "gamesDraw": 6,
         "gamesLost": 0,
-        "gamesTotal": 4,
-        "winRatio": 75,
-        "rating": 162.02821115286147
+        "gamesTotal": 8,
+        "winRatio": 62.5,
+        "rating": 158.48835156119486
       }
     },
-    "rating": 168.02968679839435,
-    "totalTournaments": 4,
-    "totalGames": 16,
+    "rating": 163.61471405274682,
+    "totalTournaments": 5,
+    "totalGames": 20,
     "totalWins": 7,
-    "totalDraws": 5,
+    "totalDraws": 9,
     "totalLosses": 4,
-    "totalWinRatio": 59.38
+    "totalWinRatio": 57.5
   },
   {
     "NAF Nr": "19905",
     "NAF Name": "Airam",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 0,
+        "gamesLost": 2,
+        "gamesTotal": 3,
+        "winRatio": 33.33,
+        "rating": 144.9009804864072
+      }
+    },
+    "rating": 144.9009804864072,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 1,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalLosses": 2,
+    "totalWinRatio": 33.33
   },
   {
     "NAF Nr": "26819",
@@ -913,22 +933,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 1,
-        "gamesDraw": 3,
+        "gamesDraw": 4,
         "gamesLost": 0,
-        "gamesTotal": 4,
-        "winRatio": 62.5,
-        "rating": 154.79188239956093
+        "gamesTotal": 5,
+        "winRatio": 60,
+        "rating": 153.65642344795833
       }
     },
-    "rating": 154.2731883300051,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 153.18140354788707,
+    "totalTournaments": 2,
+    "totalGames": 5,
     "totalWins": 1,
-    "totalDraws": 3,
+    "totalDraws": 4,
     "totalLosses": 0,
-    "totalWinRatio": 62.5
+    "totalWinRatio": 60
   },
   {
     "NAF Nr": "27559",
@@ -1006,14 +1026,24 @@ const statsData = [
     "NAF Name": "Alameda 54",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 1,
+        "gamesLost": 0,
+        "gamesTotal": 1,
+        "winRatio": 50,
+        "rating": 150
+      }
+    },
+    "rating": 149.85750746500744,
+    "totalTournaments": 1,
+    "totalGames": 1,
     "totalWins": 0,
-    "totalDraws": 0,
+    "totalDraws": 1,
     "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "34553",
@@ -1031,22 +1061,22 @@ const statsData = [
         "rating": 150.4761177545491
       },
       "2025": {
-        "tournaments": 5,
-        "gamesWon": 10,
-        "gamesDraw": 3,
-        "gamesLost": 9,
-        "gamesTotal": 22,
-        "winRatio": 52.27,
-        "rating": 150.37434551178217
+        "tournaments": 6,
+        "gamesWon": 11,
+        "gamesDraw": 4,
+        "gamesLost": 11,
+        "gamesTotal": 26,
+        "winRatio": 50,
+        "rating": 145.3376442071391
       }
     },
-    "rating": 154.9010630466391,
-    "totalTournaments": 6,
-    "totalGames": 26,
-    "totalWins": 12,
-    "totalDraws": 3,
-    "totalLosses": 11,
-    "totalWinRatio": 51.92
+    "rating": 149.36913164540425,
+    "totalTournaments": 7,
+    "totalGames": 30,
+    "totalWins": 13,
+    "totalDraws": 4,
+    "totalLosses": 13,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "33188",
@@ -1079,20 +1109,20 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 1,
-        "gamesDraw": 2,
+        "gamesDraw": 3,
         "gamesLost": 1,
-        "gamesTotal": 4,
+        "gamesTotal": 5,
         "winRatio": 50,
-        "rating": 150.44878085924907
+        "rating": 150.1843819821662
       }
     },
-    "rating": 149.88456733957466,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 149.64726594112625,
+    "totalTournaments": 2,
+    "totalGames": 5,
     "totalWins": 1,
-    "totalDraws": 2,
+    "totalDraws": 3,
     "totalLosses": 1,
     "totalWinRatio": 50
   },
@@ -1193,10 +1223,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 9,
         "winRatio": 55.56,
-        "rating": 155.12816958904745
+        "rating": 155.1299223282204
       }
     },
-    "rating": 173.3175539421224,
+    "rating": 173.318680420028,
     "totalTournaments": 12,
     "totalGames": 48,
     "totalWins": 24,
@@ -1226,10 +1256,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 12,
         "winRatio": 45.83,
-        "rating": 147.20068836852107
+        "rating": 147.00516790559846
       }
     },
-    "rating": 156.7448031424565,
+    "rating": 156.5136281689827,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 12,
@@ -1277,22 +1307,22 @@ const statsData = [
         "rating": 152.66583208334478
       },
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 1,
+        "tournaments": 2,
+        "gamesWon": 3,
         "gamesDraw": 1,
-        "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 37.5,
-        "rating": 146.7644186902034
+        "gamesLost": 3,
+        "gamesTotal": 7,
+        "winRatio": 50,
+        "rating": 148.5586575155022
       }
     },
-    "rating": 151.56050085920953,
-    "totalTournaments": 4,
-    "totalGames": 14,
-    "totalWins": 5,
+    "rating": 153.27273390111827,
+    "totalTournaments": 5,
+    "totalGames": 17,
+    "totalWins": 7,
     "totalDraws": 4,
-    "totalLosses": 5,
-    "totalWinRatio": 50
+    "totalLosses": 6,
+    "totalWinRatio": 52.94
   },
   {
     "NAF Nr": "23159",
@@ -1316,10 +1346,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 10,
         "winRatio": 65,
-        "rating": 166.60416845553652
+        "rating": 166.6125016134469
       }
     },
-    "rating": 189.60257221484164,
+    "rating": 189.6114878944978,
     "totalTournaments": 7,
     "totalGames": 30,
     "totalWins": 16,
@@ -1340,10 +1370,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 155.32234385817293
+        "rating": 155.32269949351428
       }
     },
-    "rating": 155.24945519039815,
+    "rating": 155.2496687448982,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -1378,10 +1408,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 149.2910020788108
+        "rating": 149.3066333254316
       }
     },
-    "rating": 150.1778427911521,
+    "rating": 150.18714518830527,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -1453,10 +1483,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 33.33,
-        "rating": 140.51686839818413
+        "rating": 140.6848324180662
       }
     },
-    "rating": 142.247874089134,
+    "rating": 142.45096843880108,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 1,
@@ -1477,10 +1507,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 87.5,
-        "rating": 166.65526989806423
+        "rating": 166.6555273489613
       }
     },
-    "rating": 166.4240460880972,
+    "rating": 166.42420280991007,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 3,
@@ -1510,10 +1540,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 33.33,
-        "rating": 138.16283010535219
+        "rating": 138.27361609287595
       }
     },
-    "rating": 145.73485677913118,
+    "rating": 145.8196293290153,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 5,
@@ -1603,10 +1633,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 66.67,
-        "rating": 161.08017828677913
+        "rating": 161.09595711313426
       }
     },
-    "rating": 183.89060958442943,
+    "rating": 183.89641180552744,
     "totalTournaments": 11,
     "totalGames": 43,
     "totalWins": 17,
@@ -1654,16 +1684,40 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 33.33,
-        "rating": 143.46127969314435
+        "rating": 143.46236410242324
       }
     },
-    "rating": 126.95044980508158,
+    "rating": 126.95099387655316,
     "totalTournaments": 8,
     "totalGames": 31,
     "totalWins": 8,
     "totalDraws": 7,
     "totalLosses": 16,
     "totalWinRatio": 37.1
+  },
+  {
+    "NAF Nr": "21637",
+    "NAF Name": "AlWiggin",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 1,
+        "gamesLost": 0,
+        "gamesTotal": 1,
+        "winRatio": 50,
+        "rating": 149.78674595231482
+      }
+    },
+    "rating": 149.789831150893,
+    "totalTournaments": 1,
+    "totalGames": 1,
+    "totalWins": 0,
+    "totalDraws": 1,
+    "totalLosses": 0,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "37041",
@@ -1729,10 +1783,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 8,
         "winRatio": 81.25,
-        "rating": 175.15975605073277
+        "rating": 175.1603436090358
       }
     },
-    "rating": 185.79028083346458,
+    "rating": 185.790631674053,
     "totalTournaments": 4,
     "totalGames": 17,
     "totalWins": 10,
@@ -1786,10 +1840,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 41.67,
-        "rating": 144.49200248780562
+        "rating": 144.49234703723855
       }
     },
-    "rating": 146.5648917717746,
+    "rating": 146.56494961300925,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 1,
@@ -1852,10 +1906,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 20,
         "winRatio": 50,
-        "rating": 151.19696201550548
+        "rating": 151.19843878760497
       }
     },
-    "rating": 137.55615798725339,
+    "rating": 137.55745687635877,
     "totalTournaments": 9,
     "totalGames": 36,
     "totalWins": 8,
@@ -1928,10 +1982,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 7,
         "winRatio": 71.43,
-        "rating": 164.27604899917924
+        "rating": 164.31189795297138
       }
     },
-    "rating": 162.3533572630686,
+    "rating": 162.38178359568255,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 5,
@@ -2000,10 +2054,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 136.80595162312238
+        "rating": 136.81276113742408
       }
     },
-    "rating": 137.72333354042348,
+    "rating": 137.72768126150257,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -2024,10 +2078,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 137.08545147165808
+        "rating": 137.08545343255224
       }
     },
-    "rating": 135.85749041811056,
+    "rating": 135.8575070401658,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -2065,22 +2119,22 @@ const statsData = [
         "rating": 194.35333343930608
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 6,
-        "gamesDraw": 5,
-        "gamesLost": 3,
-        "gamesTotal": 14,
-        "winRatio": 60.71,
-        "rating": 161.22754825955346
+        "tournaments": 4,
+        "gamesWon": 8,
+        "gamesDraw": 6,
+        "gamesLost": 4,
+        "gamesTotal": 18,
+        "winRatio": 61.11,
+        "rating": 165.89823538070934
       }
     },
-    "rating": 188.7182518842883,
-    "totalTournaments": 6,
-    "totalGames": 26,
-    "totalWins": 15,
-    "totalDraws": 8,
-    "totalLosses": 3,
-    "totalWinRatio": 73.08
+    "rating": 189.59047659276834,
+    "totalTournaments": 7,
+    "totalGames": 30,
+    "totalWins": 17,
+    "totalDraws": 9,
+    "totalLosses": 4,
+    "totalWinRatio": 71.67
   },
   {
     "NAF Nr": "38803",
@@ -2095,10 +2149,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 50,
-        "rating": 150.04681246191936
+        "rating": 150.05291735747676
       }
     },
-    "rating": 151.36624114699083,
+    "rating": 151.37092310226097,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 3,
@@ -2108,7 +2162,7 @@ const statsData = [
   },
   {
     "NAF Nr": "21596",
-    "NAF Name": "Apostol_del_Gas",
+    "NAF Name": "Apostol del Gas",
     "Country": "Spain",
     "CCAA": "Apatrida",
     "yearStats": {
@@ -2146,10 +2200,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 75,
-        "rating": 161.4896747023414
+        "rating": 161.4897032118336
       }
     },
-    "rating": 173.19495081894976,
+    "rating": 173.19512544625,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 7,
@@ -2203,10 +2257,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 132.99137510503456
+        "rating": 132.99141297601554
       }
     },
-    "rating": 132.2876178013857,
+    "rating": 132.28763870903484,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -2251,10 +2305,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 4,
         "winRatio": 0,
-        "rating": 127.40340192987883
+        "rating": 127.41175749816557
       }
     },
-    "rating": 127.11340650074024,
+    "rating": 127.12061518492816,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -2489,10 +2543,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 20,
         "winRatio": 52.5,
-        "rating": 150.3626407986844
+        "rating": 150.389683992205
       }
     },
-    "rating": 152.13205423077767,
+    "rating": 152.15232652413667,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 8,
@@ -2522,10 +2576,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 16.67,
-        "rating": 137.80819974531784
+        "rating": 137.80821997715782
       }
     },
-    "rating": 127.50603232138042,
+    "rating": 127.50603783737796,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 1,
@@ -2603,10 +2657,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 75,
-        "rating": 165.67759449343146
+        "rating": 165.66954167729256
       }
     },
-    "rating": 185.8931332173849,
+    "rating": 185.88550691746877,
     "totalTournaments": 6,
     "totalGames": 26,
     "totalWins": 15,
@@ -2627,10 +2681,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 10,
         "winRatio": 55,
-        "rating": 151.58662006748204
+        "rating": 151.5975646588079
       }
     },
-    "rating": 158.5807647807294,
+    "rating": 158.58724094036214,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 5,
@@ -2664,21 +2718,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 2,
-        "gamesWon": 3,
+        "gamesWon": 4,
         "gamesDraw": 5,
         "gamesLost": 0,
-        "gamesTotal": 8,
-        "winRatio": 68.75,
-        "rating": 166.02785861601708
+        "gamesTotal": 9,
+        "winRatio": 72.22,
+        "rating": 170.60944189894676
       }
     },
-    "rating": 193.75259368554936,
+    "rating": 197.71841168177272,
     "totalTournaments": 5,
-    "totalGames": 20,
-    "totalWins": 12,
+    "totalGames": 21,
+    "totalWins": 13,
     "totalDraws": 6,
     "totalLosses": 2,
-    "totalWinRatio": 75
+    "totalWinRatio": 76.19
   },
   {
     "NAF Nr": "32280",
@@ -2720,10 +2774,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 3,
         "winRatio": 66.67,
-        "rating": 155.50480855420025
+        "rating": 155.50480994083625
       }
     },
-    "rating": 153.19859405487415,
+    "rating": 153.19859477717952,
     "totalTournaments": 6,
     "totalGames": 20,
     "totalWins": 7,
@@ -2744,10 +2798,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 155.453728496399
+        "rating": 155.45372932840314
       }
     },
-    "rating": 154.81328865828294,
+    "rating": 154.8132924059511,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -2784,14 +2838,24 @@ const statsData = [
     "NAF Name": "A_Lozano",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 2,
+        "gamesLost": 0,
+        "gamesTotal": 4,
+        "winRatio": 75,
+        "rating": 161.44882055937003
+      }
+    },
+    "rating": 160.9814264716039,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 2,
+    "totalDraws": 2,
     "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalWinRatio": 75
   },
   {
     "NAF Nr": "31906",
@@ -2857,10 +2921,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 50,
-        "rating": 153.65579499548812
+        "rating": 153.65620927383253
       }
     },
-    "rating": 187.2660180852316,
+    "rating": 187.26642886029276,
     "totalTournaments": 7,
     "totalGames": 34,
     "totalWins": 18,
@@ -2904,20 +2968,20 @@ const statsData = [
       "2025": {
         "tournaments": 3,
         "gamesWon": 4,
-        "gamesDraw": 3,
+        "gamesDraw": 4,
         "gamesLost": 5,
-        "gamesTotal": 12,
-        "winRatio": 45.83,
-        "rating": 144.60104628554336
+        "gamesTotal": 13,
+        "winRatio": 46.15,
+        "rating": 145.15981393544473
       }
     },
-    "rating": 133.67136980852075,
+    "rating": 134.9105248631534,
     "totalTournaments": 7,
-    "totalGames": 28,
+    "totalGames": 29,
     "totalWins": 8,
-    "totalDraws": 7,
+    "totalDraws": 8,
     "totalLosses": 13,
-    "totalWinRatio": 41.07
+    "totalWinRatio": 41.38
   },
   {
     "NAF Nr": "27156",
@@ -2932,10 +2996,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 148.18648215333107
+        "rating": 148.19798806428588
       }
     },
-    "rating": 150.84089228609352,
+    "rating": 150.84772102969882,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -3034,22 +3098,22 @@ const statsData = [
         "rating": 186.01045493107728
       },
       "2025": {
-        "tournaments": 4,
-        "gamesWon": 7,
-        "gamesDraw": 3,
-        "gamesLost": 6,
-        "gamesTotal": 16,
-        "winRatio": 53.13,
-        "rating": 149.87162390116555
+        "tournaments": 5,
+        "gamesWon": 9,
+        "gamesDraw": 4,
+        "gamesLost": 7,
+        "gamesTotal": 20,
+        "winRatio": 55,
+        "rating": 158.26785567813323
       }
     },
-    "rating": 187.66853502498066,
-    "totalTournaments": 26,
-    "totalGames": 104,
-    "totalWins": 55,
-    "totalDraws": 24,
-    "totalLosses": 25,
-    "totalWinRatio": 64.42
+    "rating": 194.88453354462663,
+    "totalTournaments": 27,
+    "totalGames": 108,
+    "totalWins": 57,
+    "totalDraws": 25,
+    "totalLosses": 26,
+    "totalWinRatio": 64.35
   },
   {
     "NAF Nr": "0",
@@ -3077,21 +3141,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 6,
-        "gamesWon": 4,
+        "gamesWon": 3,
         "gamesDraw": 4,
         "gamesLost": 15,
-        "gamesTotal": 23,
-        "winRatio": 26.09,
-        "rating": 102.37946150260537
+        "gamesTotal": 22,
+        "winRatio": 22.73,
+        "rating": 97.8768222762369
       }
     },
-    "rating": 86.09273870202391,
+    "rating": 81.03215086411257,
     "totalTournaments": 12,
-    "totalGames": 49,
-    "totalWins": 9,
+    "totalGames": 48,
+    "totalWins": 8,
     "totalDraws": 9,
     "totalLosses": 31,
-    "totalWinRatio": 27.55
+    "totalWinRatio": 26.04
   },
   {
     "NAF Nr": "34536",
@@ -3115,10 +3179,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 133.23381215238976
+        "rating": 133.23404931090187
       }
     },
-    "rating": 128.480775439439,
+    "rating": 128.48092194837238,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -3148,10 +3212,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 157.22793961260064
+        "rating": 157.22795582511324
       }
     },
-    "rating": 152.8373216489618,
+    "rating": 152.83733144733543,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -3219,10 +3283,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 75,
-        "rating": 159.15958813876247
+        "rating": 159.16466080901208
       }
     },
-    "rating": 158.94114178148442,
+    "rating": 158.94423246598302,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -3243,10 +3307,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 16.67,
-        "rating": 141.17942803464
+        "rating": 141.17962194376213
       }
     },
-    "rating": 141.6238247779881,
+    "rating": 141.62395218541909,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 0,
@@ -3276,10 +3340,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 149.9713030372254
+        "rating": 149.97130303297854
       }
     },
-    "rating": 141.43888333307027,
+    "rating": 141.4388880919897,
     "totalTournaments": 3,
     "totalGames": 16,
     "totalWins": 5,
@@ -3342,10 +3406,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 87.5,
-        "rating": 166.43178343219708
+        "rating": 166.43857726734683
       }
     },
-    "rating": 157.4405695629266,
+    "rating": 157.44540216943,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 3,
@@ -3375,10 +3439,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 8,
         "winRatio": 37.5,
-        "rating": 141.13796074726653
+        "rating": 141.13988200371105
       }
     },
-    "rating": 138.3631558441654,
+    "rating": 138.3643436184446,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -3470,10 +3534,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 10,
         "winRatio": 55,
-        "rating": 158.18178614120984
+        "rating": 158.18264023104695
       }
     },
-    "rating": 168.36870359898748,
+    "rating": 168.36934133113903,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 8,
@@ -3512,10 +3576,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 154.84654949415784
+        "rating": 154.86513549326497
       }
     },
-    "rating": 137.8330690115775,
+    "rating": 137.844176055558,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -3550,10 +3614,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 37.5,
-        "rating": 136.96423274638977
+        "rating": 136.9720967959001
       }
     },
-    "rating": 137.865347342263,
+    "rating": 137.87006516689402,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -3604,22 +3668,22 @@ const statsData = [
         "rating": 167.27368615611232
       },
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 2,
-        "gamesDraw": 1,
-        "gamesLost": 0,
-        "gamesTotal": 3,
-        "winRatio": 83.33,
-        "rating": 161.31370849898474
+        "tournaments": 2,
+        "gamesWon": 3,
+        "gamesDraw": 2,
+        "gamesLost": 2,
+        "gamesTotal": 7,
+        "winRatio": 57.14,
+        "rating": 157.60351251155865
       }
     },
-    "rating": 192.87453350834554,
-    "totalTournaments": 12,
-    "totalGames": 47,
-    "totalWins": 21,
-    "totalDraws": 13,
-    "totalLosses": 13,
-    "totalWinRatio": 58.51
+    "rating": 188.4539245069548,
+    "totalTournaments": 13,
+    "totalGames": 51,
+    "totalWins": 22,
+    "totalDraws": 14,
+    "totalLosses": 15,
+    "totalWinRatio": 56.86
   },
   {
     "NAF Nr": "21331",
@@ -3672,20 +3736,20 @@ const statsData = [
       "2025": {
         "tournaments": 1,
         "gamesWon": 0,
-        "gamesDraw": 1,
+        "gamesDraw": 2,
         "gamesLost": 3,
-        "gamesTotal": 4,
-        "winRatio": 12.5,
-        "rating": 135.05887196173805
+        "gamesTotal": 5,
+        "winRatio": 20,
+        "rating": 134.72675312670788
       }
     },
-    "rating": 135.0336211650606,
+    "rating": 134.58935169522047,
     "totalTournaments": 1,
-    "totalGames": 4,
+    "totalGames": 5,
     "totalWins": 0,
-    "totalDraws": 1,
+    "totalDraws": 2,
     "totalLosses": 3,
-    "totalWinRatio": 12.5
+    "totalWinRatio": 20
   },
   {
     "NAF Nr": "37455",
@@ -3733,10 +3797,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 8,
         "winRatio": 25,
-        "rating": 129.2772238280822
+        "rating": 129.2770673768254
       }
     },
-    "rating": 121.86613596394216,
+    "rating": 121.86599593294682,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 1,
@@ -3781,16 +3845,67 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 143.79226261638937
+        "rating": 143.79228683398756
       }
     },
-    "rating": 143.63048798618465,
+    "rating": 143.6304152850703,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
     "totalDraws": 1,
     "totalLosses": 2,
     "totalWinRatio": 37.5
+  },
+  {
+    "NAF Nr": "32829",
+    "NAF Name": "Ramiux",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {
+      "2022": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 1,
+        "gamesLost": 2,
+        "gamesTotal": 4,
+        "winRatio": 37.5,
+        "rating": 145.72145496762215
+      },
+      "2023": {
+        "tournaments": 2,
+        "gamesWon": 0,
+        "gamesDraw": 0,
+        "gamesLost": 8,
+        "gamesTotal": 8,
+        "winRatio": 0,
+        "rating": 116.61660573037118
+      },
+      "2024": {
+        "tournaments": 3,
+        "gamesWon": 3,
+        "gamesDraw": 2,
+        "gamesLost": 7,
+        "gamesTotal": 12,
+        "winRatio": 33.33,
+        "rating": 131.11461153907595
+      },
+      "2025": {
+        "tournaments": 2,
+        "gamesWon": 2,
+        "gamesDraw": 2,
+        "gamesLost": 4,
+        "gamesTotal": 8,
+        "winRatio": 37.5,
+        "rating": 138.52181960723559
+      }
+    },
+    "rating": 109.5422928679729,
+    "totalTournaments": 8,
+    "totalGames": 32,
+    "totalWins": 6,
+    "totalDraws": 5,
+    "totalLosses": 21,
+    "totalWinRatio": 26.56
   },
   {
     "NAF Nr": "34694",
@@ -3817,22 +3932,22 @@ const statsData = [
         "rating": 139.0188856134322
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 2,
-        "gamesDraw": 3,
+        "tournaments": 3,
+        "gamesWon": 4,
+        "gamesDraw": 5,
         "gamesLost": 3,
-        "gamesTotal": 8,
-        "winRatio": 43.75,
-        "rating": 144.0991076841276
+        "gamesTotal": 12,
+        "winRatio": 54.17,
+        "rating": 154.8894787057897
       }
     },
-    "rating": 130.95654790910504,
-    "totalTournaments": 4,
-    "totalGames": 16,
-    "totalWins": 3,
-    "totalDraws": 5,
+    "rating": 144.072725876743,
+    "totalTournaments": 5,
+    "totalGames": 20,
+    "totalWins": 5,
+    "totalDraws": 7,
     "totalLosses": 8,
-    "totalWinRatio": 34.38
+    "totalWinRatio": 42.5
   },
   {
     "NAF Nr": "31027",
@@ -3871,10 +3986,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 3,
         "winRatio": 100,
-        "rating": 162.70770841678421
+        "rating": 162.70967784020723
       }
     },
-    "rating": 162.72171460886653,
+    "rating": 162.7232664893358,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 3,
@@ -3973,22 +4088,22 @@ const statsData = [
         "rating": 202.77947460593984
       },
       "2025": {
-        "tournaments": 6,
-        "gamesWon": 13,
+        "tournaments": 7,
+        "gamesWon": 17,
         "gamesDraw": 7,
         "gamesLost": 6,
-        "gamesTotal": 26,
-        "winRatio": 63.46,
-        "rating": 174.78473034708963
+        "gamesTotal": 30,
+        "winRatio": 68.33,
+        "rating": 194.47075948462245
       }
     },
-    "rating": 203.82193431385485,
-    "totalTournaments": 22,
-    "totalGames": 87,
-    "totalWins": 47,
+    "rating": 220.7212612756535,
+    "totalTournaments": 23,
+    "totalGames": 91,
+    "totalWins": 51,
     "totalDraws": 19,
     "totalLosses": 21,
-    "totalWinRatio": 64.94
+    "totalWinRatio": 66.48
   },
   {
     "NAF Nr": "28785",
@@ -4003,10 +4118,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 140.98378143372165
+        "rating": 140.98378296767888
       }
     },
-    "rating": 141.83216166396986,
+    "rating": 141.8321624309285,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -4057,22 +4172,22 @@ const statsData = [
         "rating": 194.61787599836708
       },
       "2025": {
-        "tournaments": 6,
-        "gamesWon": 11,
+        "tournaments": 8,
+        "gamesWon": 16,
         "gamesDraw": 5,
-        "gamesLost": 9,
-        "gamesTotal": 25,
-        "winRatio": 54,
-        "rating": 157.45499150471971
+        "gamesLost": 12,
+        "gamesTotal": 33,
+        "winRatio": 56.06,
+        "rating": 169.887077406874
       }
     },
-    "rating": 192.15700628706875,
-    "totalTournaments": 43,
-    "totalGames": 176,
-    "totalWins": 99,
+    "rating": 201.04396344535172,
+    "totalTournaments": 45,
+    "totalGames": 184,
+    "totalWins": 104,
     "totalDraws": 34,
-    "totalLosses": 43,
-    "totalWinRatio": 65.91
+    "totalLosses": 46,
+    "totalWinRatio": 65.76
   },
   {
     "NAF Nr": "39349",
@@ -4137,22 +4252,22 @@ const statsData = [
         "rating": 145.31626321912492
       },
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 1,
-        "gamesDraw": 2,
-        "gamesLost": 1,
-        "gamesTotal": 4,
+        "tournaments": 2,
+        "gamesWon": 2,
+        "gamesDraw": 4,
+        "gamesLost": 2,
+        "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 149.49599761260498
+        "rating": 150.11493935769738
       }
     },
-    "rating": 146.31622917290136,
-    "totalTournaments": 3,
-    "totalGames": 12,
-    "totalWins": 3,
-    "totalDraws": 5,
-    "totalLosses": 4,
-    "totalWinRatio": 45.83
+    "rating": 147.50710804989387,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 4,
+    "totalDraws": 7,
+    "totalLosses": 5,
+    "totalWinRatio": 46.88
   },
   {
     "NAF Nr": "40369",
@@ -4191,10 +4306,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 12,
         "winRatio": 33.33,
-        "rating": 126.61781025547357
+        "rating": 126.6350796250232
       }
     },
-    "rating": 126.94035651194646,
+    "rating": 126.95077887510368,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 3,
@@ -4224,10 +4339,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 50,
-        "rating": 151.23331631396135
+        "rating": 151.2345922785787
       }
     },
-    "rating": 174.28319161056402,
+    "rating": 174.28378611642523,
     "totalTournaments": 5,
     "totalGames": 21,
     "totalWins": 10,
@@ -4248,10 +4363,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 66.67,
-        "rating": 154.1812905022127
+        "rating": 154.18294328691545
       }
     },
-    "rating": 154.1735360948366,
+    "rating": 154.17483054576786,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -4319,10 +4434,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 37.5,
-        "rating": 138.92697860750093
+        "rating": 138.92697860325026
       }
     },
-    "rating": 154.13508907050064,
+    "rating": 154.13509372754356,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 8,
@@ -4387,22 +4502,22 @@ const statsData = [
         "rating": 150.95291394060968
       },
       "2025": {
-        "tournaments": 9,
-        "gamesWon": 16,
-        "gamesDraw": 9,
-        "gamesLost": 9,
-        "gamesTotal": 34,
-        "winRatio": 60.29,
-        "rating": 170.98228628977205
+        "tournaments": 10,
+        "gamesWon": 17,
+        "gamesDraw": 10,
+        "gamesLost": 11,
+        "gamesTotal": 38,
+        "winRatio": 57.89,
+        "rating": 163.40136143260827
       }
     },
-    "rating": 178.22355960832374,
-    "totalTournaments": 63,
-    "totalGames": 249,
-    "totalWins": 117,
-    "totalDraws": 63,
-    "totalLosses": 69,
-    "totalWinRatio": 59.64
+    "rating": 168.67457250528014,
+    "totalTournaments": 64,
+    "totalGames": 253,
+    "totalWins": 118,
+    "totalDraws": 64,
+    "totalLosses": 71,
+    "totalWinRatio": 59.29
   },
   {
     "NAF Nr": "37408",
@@ -4426,10 +4541,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 136.1510552105069
+        "rating": 136.15677008445275
       }
     },
-    "rating": 127.06072341891819,
+    "rating": 127.06453219047926,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 0,
@@ -4468,10 +4583,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 12,
         "winRatio": 62.5,
-        "rating": 167.56882370855126
+        "rating": 167.57218409300913
       }
     },
-    "rating": 169.31314801906626,
+    "rating": 169.31675233852405,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 11,
@@ -4519,10 +4634,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 11,
         "winRatio": 63.64,
-        "rating": 164.36852626587935
+        "rating": 164.37811392467248
       }
     },
-    "rating": 151.3973205320075,
+    "rating": 151.4038451785091,
     "totalTournaments": 17,
     "totalGames": 66,
     "totalWins": 19,
@@ -4543,10 +4658,10 @@ const statsData = [
         "gamesLost": 8,
         "gamesTotal": 12,
         "winRatio": 29.17,
-        "rating": 127.23275622926124
+        "rating": 127.23313471159555
       }
     },
-    "rating": 126.82760526012802,
+    "rating": 126.87646294065617,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 3,
@@ -4615,10 +4730,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 7,
         "winRatio": 42.86,
-        "rating": 142.7912192738112
+        "rating": 142.89109778128497
       }
     },
-    "rating": 142.3375616860881,
+    "rating": 142.41613362846547,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 3,
@@ -4663,10 +4778,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 148.2242278677868
+        "rating": 148.22923899947406
       }
     },
-    "rating": 147.84846243972055,
+    "rating": 147.85158944924987,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -4701,10 +4816,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 156.9595464565898
+        "rating": 156.95967063497656
       }
     },
-    "rating": 157.3829419650279,
+    "rating": 157.3830331955884,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -4796,10 +4911,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 16.67,
-        "rating": 140.01047460302573
+        "rating": 140.01086762073763
       }
     },
-    "rating": 140.7244876977118,
+    "rating": 140.72478253362985,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 0,
@@ -4895,10 +5010,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 43.75,
-        "rating": 145.1399839905967
+        "rating": 145.14003968687476
       }
     },
-    "rating": 165.24357464326982,
+    "rating": 165.24537013549275,
     "totalTournaments": 21,
     "totalGames": 81,
     "totalWins": 33,
@@ -4928,10 +5043,10 @@ const statsData = [
         "gamesLost": 9,
         "gamesTotal": 20,
         "winRatio": 47.5,
-        "rating": 141.2106093909815
+        "rating": 141.21064071966217
       }
     },
-    "rating": 143.63251142210902,
+    "rating": 143.62834032280833,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 9,
@@ -4952,10 +5067,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 41.67,
-        "rating": 144.20882606731044
+        "rating": 144.31812293928562
       }
     },
-    "rating": 145.44863209946251,
+    "rating": 145.53781101101686,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 2,
@@ -4988,22 +5103,22 @@ const statsData = [
         "rating": 150.14048423901858
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 7,
-        "gamesDraw": 1,
-        "gamesLost": 4,
-        "gamesTotal": 12,
-        "winRatio": 62.5,
-        "rating": 164.87160554398585
+        "tournaments": 4,
+        "gamesWon": 8,
+        "gamesDraw": 3,
+        "gamesLost": 5,
+        "gamesTotal": 16,
+        "winRatio": 59.38,
+        "rating": 162.52318360290406
       }
     },
-    "rating": 163.1534046286432,
-    "totalTournaments": 6,
-    "totalGames": 23,
-    "totalWins": 12,
-    "totalDraws": 2,
-    "totalLosses": 9,
-    "totalWinRatio": 56.52
+    "rating": 162.79706562153518,
+    "totalTournaments": 7,
+    "totalGames": 27,
+    "totalWins": 13,
+    "totalDraws": 4,
+    "totalLosses": 10,
+    "totalWinRatio": 55.56
   },
   {
     "NAF Nr": "34040",
@@ -5030,22 +5145,22 @@ const statsData = [
         "rating": 145.93510168005463
       },
       "2025": {
-        "tournaments": 10,
+        "tournaments": 11,
         "gamesWon": 18,
-        "gamesDraw": 11,
+        "gamesDraw": 15,
         "gamesLost": 10,
-        "gamesTotal": 39,
-        "winRatio": 60.26,
-        "rating": 173.91194445378693
+        "gamesTotal": 43,
+        "winRatio": 59.3,
+        "rating": 172.84229720966323
       }
     },
-    "rating": 184.3384091798098,
-    "totalTournaments": 29,
-    "totalGames": 115,
+    "rating": 183.53535281398007,
+    "totalTournaments": 30,
+    "totalGames": 119,
     "totalWins": 47,
-    "totalDraws": 28,
+    "totalDraws": 32,
     "totalLosses": 40,
-    "totalWinRatio": 53.04
+    "totalWinRatio": 52.94
   },
   {
     "NAF Nr": "37980",
@@ -5054,21 +5169,21 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 1,
-        "gamesDraw": 2,
-        "gamesLost": 1,
-        "gamesTotal": 4,
+        "tournaments": 2,
+        "gamesWon": 2,
+        "gamesDraw": 4,
+        "gamesLost": 2,
+        "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 147.65452203980055
+        "rating": 147.0545909097243
       }
     },
-    "rating": 147.61000152653313,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 1,
-    "totalDraws": 2,
-    "totalLosses": 1,
+    "rating": 147.64353956239557,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 2,
+    "totalDraws": 4,
+    "totalLosses": 2,
     "totalWinRatio": 50
   },
   {
@@ -5174,10 +5289,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 12,
         "winRatio": 37.5,
-        "rating": 137.58465384523845
+        "rating": 137.6028428178903
       }
     },
-    "rating": 139.57712299996615,
+    "rating": 139.5878951605197,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 3,
@@ -5221,10 +5336,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 6,
         "winRatio": 25,
-        "rating": 137.00462007647235
+        "rating": 137.00491108081727
       }
     },
-    "rating": 145.80836611107816,
+    "rating": 145.80860071029593,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 5,
@@ -5278,10 +5393,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 66.67,
-        "rating": 161.94590522804532
+        "rating": 161.947363388227
       }
     },
-    "rating": 164.0109063269279,
+    "rating": 164.01222057501525,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 4,
@@ -5338,22 +5453,22 @@ const statsData = [
         "rating": 137.58782236380537
       },
       "2025": {
-        "tournaments": 4,
+        "tournaments": 5,
         "gamesWon": 4,
-        "gamesDraw": 1,
-        "gamesLost": 11,
-        "gamesTotal": 16,
-        "winRatio": 28.13,
-        "rating": 119.85153772655768
+        "gamesDraw": 2,
+        "gamesLost": 14,
+        "gamesTotal": 20,
+        "winRatio": 25,
+        "rating": 108.63400058786596
       }
     },
-    "rating": 116.57037978974937,
-    "totalTournaments": 11,
-    "totalGames": 46,
+    "rating": 106.66000277667605,
+    "totalTournaments": 12,
+    "totalGames": 50,
     "totalWins": 13,
-    "totalDraws": 7,
-    "totalLosses": 26,
-    "totalWinRatio": 35.87
+    "totalDraws": 8,
+    "totalLosses": 29,
+    "totalWinRatio": 34
   },
   {
     "NAF Nr": "30898",
@@ -5412,6 +5527,20 @@ const statsData = [
     "totalWinRatio": 0
   },
   {
+    "NAF Nr": "30368",
+    "NAF Name": "ChicaV",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {},
+    "rating": 150,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0
+  },
+  {
     "NAF Nr": "41132",
     "NAF Name": "ChichoBlizter",
     "Country": "Spain",
@@ -5424,10 +5553,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 139.70974003437047
+        "rating": 139.7008839351876
       }
     },
-    "rating": 140.08477559414422,
+    "rating": 140.07431351728746,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -5457,10 +5586,10 @@ const statsData = [
         "gamesLost": 9,
         "gamesTotal": 20,
         "winRatio": 42.5,
-        "rating": 139.9009834346348
+        "rating": 139.89927927025386
       }
     },
-    "rating": 141.01626513706225,
+    "rating": 141.01348177333557,
     "totalTournaments": 11,
     "totalGames": 44,
     "totalWins": 15,
@@ -5481,10 +5610,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 7,
         "winRatio": 64.29,
-        "rating": 153.5156322088246
+        "rating": 153.57015294351035
       }
     },
-    "rating": 154.05082203687806,
+    "rating": 154.0928779086819,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 3,
@@ -5502,19 +5631,19 @@ const statsData = [
         "tournaments": 2,
         "gamesWon": 4,
         "gamesDraw": 2,
-        "gamesLost": 2,
-        "gamesTotal": 8,
-        "winRatio": 62.5,
-        "rating": 159.837951871864
+        "gamesLost": 3,
+        "gamesTotal": 9,
+        "winRatio": 55.56,
+        "rating": 155.7218228825694
       }
     },
-    "rating": 160.3196177567416,
+    "rating": 156.17469362727635,
     "totalTournaments": 2,
-    "totalGames": 8,
+    "totalGames": 9,
     "totalWins": 4,
     "totalDraws": 2,
-    "totalLosses": 2,
-    "totalWinRatio": 62.5
+    "totalLosses": 3,
+    "totalWinRatio": 55.56
   },
   {
     "NAF Nr": "21688",
@@ -5569,14 +5698,24 @@ const statsData = [
     "NAF Name": "Chul",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 1,
+        "gamesLost": 1,
+        "gamesTotal": 3,
+        "winRatio": 50,
+        "rating": 148.44371330295388
+      }
+    },
+    "rating": 148.39199578468796,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 1,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "37929",
@@ -5609,10 +5748,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 66.67,
-        "rating": 157.0095331748158
+        "rating": 157.01028737574416
       }
     },
-    "rating": 168.4664089912856,
+    "rating": 168.4667923226824,
     "totalTournaments": 5,
     "totalGames": 18,
     "totalWins": 9,
@@ -5642,10 +5781,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 7,
         "winRatio": 35.71,
-        "rating": 138.03387151034147
+        "rating": 138.03501297515297
       }
     },
-    "rating": 128.2199362471758,
+    "rating": 128.2220118926688,
     "totalTournaments": 3,
     "totalGames": 11,
     "totalWins": 0,
@@ -5693,22 +5832,22 @@ const statsData = [
         "rating": 177.96197072837293
       },
       "2025": {
-        "tournaments": 6,
+        "tournaments": 7,
         "gamesWon": 13,
-        "gamesDraw": 2,
-        "gamesLost": 9,
-        "gamesTotal": 24,
-        "winRatio": 58.33,
-        "rating": 163.87932443245091
+        "gamesDraw": 5,
+        "gamesLost": 10,
+        "gamesTotal": 28,
+        "winRatio": 55.36,
+        "rating": 158.19133166404794
       }
     },
-    "rating": 178.8887077676552,
-    "totalTournaments": 17,
-    "totalGames": 72,
+    "rating": 172.5836985589722,
+    "totalTournaments": 18,
+    "totalGames": 76,
     "totalWins": 38,
-    "totalDraws": 11,
-    "totalLosses": 23,
-    "totalWinRatio": 60.42
+    "totalDraws": 14,
+    "totalLosses": 24,
+    "totalWinRatio": 59.21
   },
   {
     "NAF Nr": "39960",
@@ -5723,10 +5862,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 141.3608596383838
+        "rating": 141.36618221107358
       }
     },
-    "rating": 141.65907442633304,
+    "rating": 141.66255558504787,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -5830,22 +5969,22 @@ const statsData = [
         "rating": 161.66872250857958
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 3,
-        "gamesDraw": 1,
-        "gamesLost": 4,
-        "gamesTotal": 8,
-        "winRatio": 43.75,
-        "rating": 145.6274435604817
+        "tournaments": 3,
+        "gamesWon": 4,
+        "gamesDraw": 3,
+        "gamesLost": 5,
+        "gamesTotal": 12,
+        "winRatio": 45.83,
+        "rating": 148.97014564883514
       }
     },
-    "rating": 165.58995946870553,
-    "totalTournaments": 6,
-    "totalGames": 24,
-    "totalWins": 11,
-    "totalDraws": 4,
-    "totalLosses": 9,
-    "totalWinRatio": 54.17
+    "rating": 168.18123923143116,
+    "totalTournaments": 7,
+    "totalGames": 28,
+    "totalWins": 12,
+    "totalDraws": 6,
+    "totalLosses": 10,
+    "totalWinRatio": 53.57
   },
   {
     "NAF Nr": "34283",
@@ -5860,10 +5999,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 75,
-        "rating": 161.72754814963992
+        "rating": 161.72756080528993
       }
     },
-    "rating": 162.55535774293898,
+    "rating": 162.55536764487348,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -5914,14 +6053,24 @@ const statsData = [
     "NAF Name": "COLEMANTREBOR",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 1,
+        "gamesLost": 0,
+        "gamesTotal": 3,
+        "winRatio": 83.33,
+        "rating": 160.0891119131587
+      }
+    },
+    "rating": 160.07165697477208,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 2,
+    "totalDraws": 1,
     "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalWinRatio": 83.33
   },
   {
     "NAF Nr": "41140",
@@ -5936,10 +6085,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 33.33,
-        "rating": 145.26582346244157
+        "rating": 145.26616441442113
       }
     },
-    "rating": 145.36795529092342,
+    "rating": 145.36814821962804,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -6035,10 +6184,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 50,
-        "rating": 150.62481417169283
+        "rating": 150.62482879405414
       }
     },
-    "rating": 173.3432749509569,
+    "rating": 173.34328357842656,
     "totalTournaments": 13,
     "totalGames": 50,
     "totalWins": 22,
@@ -6167,22 +6316,22 @@ const statsData = [
         "rating": 190.46569222506136
       },
       "2025": {
-        "tournaments": 5,
-        "gamesWon": 13,
+        "tournaments": 6,
+        "gamesWon": 15,
         "gamesDraw": 4,
-        "gamesLost": 3,
-        "gamesTotal": 20,
-        "winRatio": 75,
-        "rating": 194.6092672630992
+        "gamesLost": 5,
+        "gamesTotal": 24,
+        "winRatio": 70.83,
+        "rating": 188.18656021508167
       }
     },
-    "rating": 213.24680113160946,
-    "totalTournaments": 18,
-    "totalGames": 76,
-    "totalWins": 40,
+    "rating": 204.63097831165788,
+    "totalTournaments": 19,
+    "totalGames": 80,
+    "totalWins": 42,
     "totalDraws": 16,
-    "totalLosses": 20,
-    "totalWinRatio": 63.16
+    "totalLosses": 22,
+    "totalWinRatio": 62.5
   },
   {
     "NAF Nr": "15444",
@@ -6197,10 +6346,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 66.67,
-        "rating": 154.20630616992236
+        "rating": 154.20809366581958
       }
     },
-    "rating": 153.69570451702702,
+    "rating": 153.69716876603982,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -6230,10 +6379,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 33.33,
-        "rating": 144.3880715351308
+        "rating": 144.38809210078065
       }
     },
-    "rating": 142.8142849251482,
+    "rating": 142.81429030375648,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 1,
@@ -6272,22 +6421,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 2,
-        "gamesDraw": 0,
-        "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 50,
-        "rating": 150.00756133187127
+        "tournaments": 2,
+        "gamesWon": 3,
+        "gamesDraw": 1,
+        "gamesLost": 4,
+        "gamesTotal": 8,
+        "winRatio": 43.75,
+        "rating": 146.79570637696
       }
     },
-    "rating": 150.2752791366642,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 2,
-    "totalDraws": 0,
-    "totalLosses": 2,
-    "totalWinRatio": 50
+    "rating": 148.00547581880218,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 3,
+    "totalDraws": 1,
+    "totalLosses": 4,
+    "totalWinRatio": 43.75
   },
   {
     "NAF Nr": "7691",
@@ -6296,22 +6445,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 5,
-        "gamesDraw": 1,
-        "gamesLost": 2,
-        "gamesTotal": 8,
-        "winRatio": 68.75,
-        "rating": 157.83496214596877
+        "tournaments": 3,
+        "gamesWon": 6,
+        "gamesDraw": 3,
+        "gamesLost": 3,
+        "gamesTotal": 12,
+        "winRatio": 62.5,
+        "rating": 156.5765058749238
       }
     },
-    "rating": 158.24359712174214,
-    "totalTournaments": 2,
-    "totalGames": 8,
-    "totalWins": 5,
-    "totalDraws": 1,
-    "totalLosses": 2,
-    "totalWinRatio": 68.75
+    "rating": 157.29050057448788,
+    "totalTournaments": 3,
+    "totalGames": 12,
+    "totalWins": 6,
+    "totalDraws": 3,
+    "totalLosses": 3,
+    "totalWinRatio": 62.5
   },
   {
     "NAF Nr": "31448",
@@ -6350,10 +6499,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 50,
-        "rating": 147.35053448764856
+        "rating": 147.4382697109056
       }
     },
-    "rating": 147.2050230179473,
+    "rating": 147.2742076222298,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -6425,10 +6574,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 58.33,
-        "rating": 156.70833059399789
+        "rating": 156.70878250376492
       }
     },
-    "rating": 190.29534009518844,
+    "rating": 190.29571715029675,
     "totalTournaments": 6,
     "totalGames": 26,
     "totalWins": 14,
@@ -6476,22 +6625,22 @@ const statsData = [
         "rating": 139.93742890305438
       },
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 1,
-        "gamesDraw": 1,
+        "tournaments": 2,
+        "gamesWon": 4,
+        "gamesDraw": 2,
         "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 37.5,
-        "rating": 144.11854245589421
+        "gamesTotal": 8,
+        "winRatio": 62.5,
+        "rating": 162.41021186633228
       }
     },
-    "rating": 137.3330216484316,
-    "totalTournaments": 2,
-    "totalGames": 8,
-    "totalWins": 1,
-    "totalDraws": 3,
+    "rating": 156.68878733357644,
+    "totalTournaments": 3,
+    "totalGames": 12,
+    "totalWins": 4,
+    "totalDraws": 4,
     "totalLosses": 4,
-    "totalWinRatio": 31.25
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "22993",
@@ -6515,10 +6664,10 @@ const statsData = [
         "gamesLost": 8,
         "gamesTotal": 20,
         "winRatio": 47.5,
-        "rating": 149.16078330830996
+        "rating": 149.16289418871455
       }
     },
-    "rating": 156.02043724645273,
+    "rating": 156.0266309477762,
     "totalTournaments": 13,
     "totalGames": 52,
     "totalWins": 22,
@@ -6540,15 +6689,24 @@ const statsData = [
         "gamesTotal": 4,
         "winRatio": 87.5,
         "rating": 168.06208218352822
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 0,
+        "gamesLost": 3,
+        "gamesTotal": 4,
+        "winRatio": 25,
+        "rating": 136.43820310582046
       }
     },
-    "rating": 168.23274994778546,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 3,
+    "rating": 152.83711968920613,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 4,
     "totalDraws": 1,
-    "totalLosses": 0,
-    "totalWinRatio": 87.5
+    "totalLosses": 3,
+    "totalWinRatio": 56.25
   },
   {
     "NAF Nr": "40953",
@@ -6563,10 +6721,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 140.6192146255685
+        "rating": 140.6192146277074
       }
     },
-    "rating": 140.84724001659924,
+    "rating": 140.84724001764033,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -6608,22 +6766,22 @@ const statsData = [
         "rating": 166.87277200343559
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 5,
-        "gamesDraw": 1,
-        "gamesLost": 2,
-        "gamesTotal": 8,
-        "winRatio": 68.75,
-        "rating": 166.11205367608736
+        "tournaments": 3,
+        "gamesWon": 7,
+        "gamesDraw": 2,
+        "gamesLost": 3,
+        "gamesTotal": 12,
+        "winRatio": 66.67,
+        "rating": 169.16405326877663
       }
     },
-    "rating": 181.0035150344731,
-    "totalTournaments": 8,
-    "totalGames": 32,
-    "totalWins": 16,
-    "totalDraws": 5,
-    "totalLosses": 11,
-    "totalWinRatio": 57.81
+    "rating": 182.53785537830822,
+    "totalTournaments": 9,
+    "totalGames": 36,
+    "totalWins": 18,
+    "totalDraws": 6,
+    "totalLosses": 12,
+    "totalWinRatio": 58.33
   },
   {
     "NAF Nr": "22046",
@@ -6652,10 +6810,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 143.0766876016106
+        "rating": 143.08346036140685
       }
     },
-    "rating": 145.3477423330696,
+    "rating": 145.35199531254713,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -6685,16 +6843,40 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 6,
         "winRatio": 75,
-        "rating": 168.10908298658597
+        "rating": 168.12245030494654
       }
     },
-    "rating": 171.34370796641562,
+    "rating": 171.35686287297773,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 4,
     "totalDraws": 5,
     "totalLosses": 1,
     "totalWinRatio": 65
+  },
+  {
+    "NAF Nr": "34913",
+    "NAF Name": "Darkgordu 34913",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 1,
+        "gamesLost": 0,
+        "gamesTotal": 1,
+        "winRatio": 50,
+        "rating": 150.94865397897303
+      }
+    },
+    "rating": 151.527804904349,
+    "totalTournaments": 1,
+    "totalGames": 1,
+    "totalWins": 0,
+    "totalDraws": 1,
+    "totalLosses": 0,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "34111",
@@ -6723,10 +6905,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 10,
         "winRatio": 55,
-        "rating": 154.6654717564962
+        "rating": 154.667824400516
       }
     },
-    "rating": 159.09021733205077,
+    "rating": 159.0927964141402,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 3,
@@ -6739,14 +6921,24 @@ const statsData = [
     "NAF Name": "DarthMG",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 1,
+        "gamesLost": 1,
+        "gamesTotal": 3,
+        "winRatio": 50,
+        "rating": 148.77833715473946
+      }
+    },
+    "rating": 148.93043058436842,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 1,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "32651",
@@ -6875,10 +7067,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 14,
         "winRatio": 57.14,
-        "rating": 158.99181546204213
+        "rating": 159.01410122839954
       }
     },
-    "rating": 162.2333239523375,
+    "rating": 162.24548788107205,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 8,
@@ -6913,10 +7105,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 142.44345378738475
+        "rating": 142.451738054521
       }
     },
-    "rating": 143.9895455658444,
+    "rating": 143.99472519960645,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -6973,10 +7165,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 153.28071260806274
+        "rating": 153.13719375117367
       }
     },
-    "rating": 171.9791098758042,
+    "rating": 171.8367209541096,
     "totalTournaments": 20,
     "totalGames": 84,
     "totalWins": 29,
@@ -6989,14 +7181,24 @@ const statsData = [
     "NAF Name": "Del Castillo",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 0,
+        "gamesLost": 1,
+        "gamesTotal": 3,
+        "winRatio": 66.67,
+        "rating": 155.05468311096942
+      }
+    },
+    "rating": 155.07592546996077,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 2,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalLosses": 1,
+    "totalWinRatio": 66.67
   },
   {
     "NAF Nr": "31337",
@@ -7012,14 +7214,23 @@ const statsData = [
         "gamesTotal": 3,
         "winRatio": 33.33,
         "rating": 144.43821382840778
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 2,
+        "gamesLost": 1,
+        "gamesTotal": 3,
+        "winRatio": 33.33,
+        "rating": 144.98887892421908
       }
     },
-    "rating": 144.5280333307204,
-    "totalTournaments": 1,
-    "totalGames": 3,
+    "rating": 140.12734164016754,
+    "totalTournaments": 2,
+    "totalGames": 6,
     "totalWins": 1,
-    "totalDraws": 0,
-    "totalLosses": 2,
+    "totalDraws": 2,
+    "totalLosses": 3,
     "totalWinRatio": 33.33
   },
   {
@@ -7072,10 +7283,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 148.50579224567608
+        "rating": 148.51176731095785
       }
     },
-    "rating": 144.31525209126,
+    "rating": 144.3199028549856,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -7133,21 +7344,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 5,
-        "gamesWon": 9,
+        "gamesWon": 10,
         "gamesDraw": 3,
         "gamesLost": 8,
-        "gamesTotal": 20,
-        "winRatio": 52.5,
-        "rating": 154.8435528235378
+        "gamesTotal": 21,
+        "winRatio": 54.76,
+        "rating": 159.0993749759602
       }
     },
-    "rating": 163.16544791910653,
+    "rating": 166.73354017947744,
     "totalTournaments": 7,
-    "totalGames": 28,
-    "totalWins": 13,
+    "totalGames": 29,
+    "totalWins": 14,
     "totalDraws": 6,
     "totalLosses": 9,
-    "totalWinRatio": 57.14
+    "totalWinRatio": 58.62
   },
   {
     "NAF Nr": "31564",
@@ -7208,10 +7419,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 13,
         "winRatio": 46.15,
-        "rating": 140.72746349360443
+        "rating": 140.7563002646571
       }
     },
-    "rating": 125.32401961794281,
+    "rating": 125.34472596954227,
     "totalTournaments": 14,
     "totalGames": 47,
     "totalWins": 12,
@@ -7384,10 +7595,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 41.67,
-        "rating": 143.76813191563232
+        "rating": 143.58207956429004
       }
     },
-    "rating": 143.4363645646222,
+    "rating": 143.25645831402736,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 3,
@@ -7431,10 +7642,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 37.5,
-        "rating": 138.10825959173374
+        "rating": 138.10825940047127
       }
     },
-    "rating": 135.96104141677347,
+    "rating": 135.9612552751858,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 3,
@@ -7455,10 +7666,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 41.67,
-        "rating": 145.74743648970625
+        "rating": 145.73925117846647
       }
     },
-    "rating": 147.68305796233568,
+    "rating": 147.6747251440562,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 0,
@@ -7506,10 +7717,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 16.67,
-        "rating": 142.9819676867235
+        "rating": 142.9828430111334
       }
     },
-    "rating": 121.37920599839111,
+    "rating": 121.37961446366415,
     "totalTournaments": 12,
     "totalGames": 47,
     "totalWins": 12,
@@ -7542,22 +7753,22 @@ const statsData = [
         "rating": 155.26721581965947
       },
       "2025": {
-        "tournaments": 3,
+        "tournaments": 4,
         "gamesWon": 9,
-        "gamesDraw": 1,
+        "gamesDraw": 2,
         "gamesLost": 4,
-        "gamesTotal": 14,
-        "winRatio": 67.86,
-        "rating": 176.1266061451298
+        "gamesTotal": 15,
+        "winRatio": 66.67,
+        "rating": 175.36363896658858
       }
     },
-    "rating": 191.26525150613693,
-    "totalTournaments": 5,
-    "totalGames": 22,
+    "rating": 190.09424224366458,
+    "totalTournaments": 6,
+    "totalGames": 23,
     "totalWins": 14,
-    "totalDraws": 2,
+    "totalDraws": 3,
     "totalLosses": 6,
-    "totalWinRatio": 68.18
+    "totalWinRatio": 67.39
   },
   {
     "NAF Nr": "28214",
@@ -7587,14 +7798,23 @@ const statsData = [
         "gamesTotal": 4,
         "winRatio": 37.5,
         "rating": 143.66621496782537
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 1,
+        "gamesLost": 2,
+        "gamesTotal": 4,
+        "winRatio": 37.5,
+        "rating": 147.2277685573647
       }
     },
-    "rating": 142.47257879430376,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 1,
-    "totalDraws": 1,
-    "totalLosses": 2,
+    "rating": 143.32763512807801,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 2,
+    "totalDraws": 2,
+    "totalLosses": 4,
     "totalWinRatio": 37.5
   },
   {
@@ -7705,10 +7925,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 37.5,
-        "rating": 139.21016250322023
+        "rating": 139.2393206997611
       }
     },
-    "rating": 114.13963476341331,
+    "rating": 114.16442645580476,
     "totalTournaments": 8,
     "totalGames": 32,
     "totalWins": 7,
@@ -7798,10 +8018,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 10,
         "winRatio": 45,
-        "rating": 146.8045770902481
+        "rating": 146.8047687093803
       }
     },
-    "rating": 143.03389650207953,
+    "rating": 143.03579866510563,
     "totalTournaments": 7,
     "totalGames": 29,
     "totalWins": 8,
@@ -7816,22 +8036,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 3,
+        "tournaments": 4,
         "gamesWon": 2,
-        "gamesDraw": 1,
-        "gamesLost": 9,
-        "gamesTotal": 12,
-        "winRatio": 20.83,
-        "rating": 114.61321564038232
+        "gamesDraw": 3,
+        "gamesLost": 11,
+        "gamesTotal": 16,
+        "winRatio": 21.88,
+        "rating": 105.71221170555513
       }
     },
-    "rating": 116.55146764397709,
-    "totalTournaments": 3,
-    "totalGames": 12,
+    "rating": 107.66580092193357,
+    "totalTournaments": 4,
+    "totalGames": 16,
     "totalWins": 2,
-    "totalDraws": 1,
-    "totalLosses": 9,
-    "totalWinRatio": 20.83
+    "totalDraws": 3,
+    "totalLosses": 11,
+    "totalWinRatio": 21.88
   },
   {
     "NAF Nr": "31794",
@@ -7888,10 +8108,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 12,
         "winRatio": 41.67,
-        "rating": 142.6181332009808
+        "rating": 142.45760032644029
       }
     },
-    "rating": 139.33929186056923,
+    "rating": 139.2106078412369,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 5,
@@ -7906,22 +8126,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 2,
-        "gamesDraw": 1,
+        "gamesDraw": 2,
         "gamesLost": 1,
-        "gamesTotal": 4,
-        "winRatio": 62.5,
-        "rating": 155.41186032516137
+        "gamesTotal": 5,
+        "winRatio": 60,
+        "rating": 155.25438850447338
       }
     },
-    "rating": 153.22417553981714,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 153.894569219554,
+    "totalTournaments": 2,
+    "totalGames": 5,
     "totalWins": 2,
-    "totalDraws": 1,
+    "totalDraws": 2,
     "totalLosses": 1,
-    "totalWinRatio": 62.5
+    "totalWinRatio": 60
   },
   {
     "NAF Nr": "31011",
@@ -7937,15 +8157,24 @@ const statsData = [
         "gamesTotal": 4,
         "winRatio": 0,
         "rating": 126.38192319729367
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 1,
+        "gamesLost": 2,
+        "gamesTotal": 4,
+        "winRatio": 37.5,
+        "rating": 143.68234011414947
       }
     },
-    "rating": 125.24497431776608,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 4,
-    "totalWinRatio": 0
+    "rating": 122.9505184674277,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 6,
+    "totalWinRatio": 18.75
   },
   {
     "NAF Nr": "10506",
@@ -7969,10 +8198,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 146.90794408107573
+        "rating": 146.9340441123299
       }
     },
-    "rating": 147.14513326892583,
+    "rating": 147.16011687657138,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 7,
@@ -8036,14 +8265,24 @@ const statsData = [
     "NAF Name": "DTP2411",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 0,
+        "gamesLost": 2,
+        "gamesTotal": 3,
+        "winRatio": 33.33,
+        "rating": 146.86000234720342
+      }
+    },
+    "rating": 147.03161837266015,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 1,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalLosses": 2,
+    "totalWinRatio": 33.33
   },
   {
     "NAF Nr": "36053",
@@ -8052,22 +8291,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 0,
-        "gamesDraw": 0,
+        "gamesDraw": 1,
         "gamesLost": 4,
-        "gamesTotal": 4,
-        "winRatio": 0,
-        "rating": 128.08724839580702
+        "gamesTotal": 5,
+        "winRatio": 10,
+        "rating": 129.23108984163602
       }
     },
-    "rating": 127.5060198775319,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 128.65447549379823,
+    "totalTournaments": 2,
+    "totalGames": 5,
     "totalWins": 0,
-    "totalDraws": 0,
+    "totalDraws": 1,
     "totalLosses": 4,
-    "totalWinRatio": 0
+    "totalWinRatio": 10
   },
   {
     "NAF Nr": "35675",
@@ -8085,22 +8324,22 @@ const statsData = [
         "rating": 134.42517843400486
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 5,
-        "gamesDraw": 2,
-        "gamesLost": 5,
-        "gamesTotal": 12,
-        "winRatio": 50,
-        "rating": 153.0747660247223
+        "tournaments": 4,
+        "gamesWon": 7,
+        "gamesDraw": 3,
+        "gamesLost": 6,
+        "gamesTotal": 16,
+        "winRatio": 53.13,
+        "rating": 153.0739519859719
       }
     },
-    "rating": 146.9600988650638,
-    "totalTournaments": 8,
-    "totalGames": 32,
-    "totalWins": 11,
-    "totalDraws": 6,
-    "totalLosses": 15,
-    "totalWinRatio": 43.75
+    "rating": 148.36811564558496,
+    "totalTournaments": 9,
+    "totalGames": 36,
+    "totalWins": 13,
+    "totalDraws": 7,
+    "totalLosses": 16,
+    "totalWinRatio": 45.83
   },
   {
     "NAF Nr": "11793",
@@ -8145,22 +8384,22 @@ const statsData = [
         "rating": 177.4586585821346
       },
       "2025": {
-        "tournaments": 7,
-        "gamesWon": 19,
-        "gamesDraw": 5,
-        "gamesLost": 5,
-        "gamesTotal": 29,
-        "winRatio": 74.14,
-        "rating": 203.07461215511896
+        "tournaments": 8,
+        "gamesWon": 21,
+        "gamesDraw": 6,
+        "gamesLost": 6,
+        "gamesTotal": 33,
+        "winRatio": 72.73,
+        "rating": 203.26781288944417
       }
     },
-    "rating": 234.27442929894613,
-    "totalTournaments": 25,
-    "totalGames": 101,
-    "totalWins": 65,
-    "totalDraws": 18,
-    "totalLosses": 18,
-    "totalWinRatio": 73.27
+    "rating": 232.79392586438456,
+    "totalTournaments": 26,
+    "totalGames": 105,
+    "totalWins": 67,
+    "totalDraws": 19,
+    "totalLosses": 19,
+    "totalWinRatio": 72.86
   },
   {
     "NAF Nr": "35619",
@@ -8193,10 +8432,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 20,
         "winRatio": 60,
-        "rating": 168.15802262386188
+        "rating": 168.18488208787275
       }
     },
-    "rating": 171.58256268688464,
+    "rating": 171.60236885288964,
     "totalTournaments": 10,
     "totalGames": 40,
     "totalWins": 13,
@@ -8227,6 +8466,20 @@ const statsData = [
     "totalDraws": 2,
     "totalLosses": 2,
     "totalWinRatio": 25
+  },
+  {
+    "NAF Nr": "37998",
+    "NAF Name": "Eduardofer41",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {},
+    "rating": 150,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0
   },
   {
     "NAF Nr": "31339",
@@ -8262,22 +8515,22 @@ const statsData = [
         "rating": 151.24004532681747
       },
       "2025": {
-        "tournaments": 5,
-        "gamesWon": 10,
-        "gamesDraw": 3,
+        "tournaments": 6,
+        "gamesWon": 13,
+        "gamesDraw": 4,
         "gamesLost": 9,
-        "gamesTotal": 22,
-        "winRatio": 52.27,
-        "rating": 146.70505632175605
+        "gamesTotal": 26,
+        "winRatio": 57.69,
+        "rating": 163.30578981629503
       }
     },
-    "rating": 155.2163364785957,
-    "totalTournaments": 19,
-    "totalGames": 79,
-    "totalWins": 31,
-    "totalDraws": 17,
+    "rating": 170.7772558086609,
+    "totalTournaments": 20,
+    "totalGames": 83,
+    "totalWins": 34,
+    "totalDraws": 18,
     "totalLosses": 31,
-    "totalWinRatio": 50
+    "totalWinRatio": 51.81
   },
   {
     "NAF Nr": "34474",
@@ -8292,10 +8545,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 143.58147945629378
+        "rating": 143.5961748801355
       }
     },
-    "rating": 143.44009090213183,
+    "rating": 143.44883623399699,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -8310,22 +8563,36 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 2,
-        "gamesDraw": 0,
-        "gamesLost": 2,
-        "gamesTotal": 4,
+        "tournaments": 2,
+        "gamesWon": 3,
+        "gamesDraw": 2,
+        "gamesLost": 3,
+        "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 150.3762839785001
+        "rating": 148.10226838178394
       }
     },
-    "rating": 150.14822076797543,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 2,
-    "totalDraws": 0,
-    "totalLosses": 2,
+    "rating": 148.23927439695137,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 3,
+    "totalDraws": 2,
+    "totalLosses": 3,
     "totalWinRatio": 50
+  },
+  {
+    "NAF Nr": "31712",
+    "NAF Name": "Eider",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {},
+    "rating": 150,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0
   },
   {
     "NAF Nr": "8821",
@@ -8391,10 +8658,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 87.5,
-        "rating": 164.94700064141196
+        "rating": 164.94704190989262
       }
     },
-    "rating": 173.4324772332674,
+    "rating": 173.43249894808838,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 8,
@@ -8415,10 +8682,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 155.8397328746372
+        "rating": 155.840598503838
       }
     },
-    "rating": 156.39470295738326,
+    "rating": 156.3951933568981,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -8448,10 +8715,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 15,
         "winRatio": 73.33,
-        "rating": 170.47102086781717
+        "rating": 170.48310745181485
       }
     },
-    "rating": 159.5486046427916,
+    "rating": 159.5556985542839,
     "totalTournaments": 8,
     "totalGames": 27,
     "totalWins": 13,
@@ -8464,14 +8731,24 @@ const statsData = [
     "NAF Name": "ElGoblinVolador",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 1,
+        "gamesLost": 1,
+        "gamesTotal": 3,
+        "winRatio": 50,
+        "rating": 149.4003775519205
+      }
+    },
+    "rating": 149.44755090514565,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 1,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "12313313",
@@ -8500,10 +8777,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 58.33,
-        "rating": 156.28645052034074
+        "rating": 156.287361197979
       }
     },
-    "rating": 160.8616723410964,
+    "rating": 160.86213142659898,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 3,
@@ -8542,10 +8819,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 33.33,
-        "rating": 137.3949585460882
+        "rating": 137.49489765545303
       }
     },
-    "rating": 130.16473151070798,
+    "rating": 130.24335050673292,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 3,
@@ -8593,22 +8870,22 @@ const statsData = [
         "rating": 156.75989304294652
       },
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 3,
-        "gamesDraw": 0,
+        "gamesDraw": 1,
         "gamesLost": 1,
-        "gamesTotal": 4,
-        "winRatio": 75,
-        "rating": 162.39957767731735
+        "gamesTotal": 5,
+        "winRatio": 70,
+        "rating": 162.10991813910414
       }
     },
-    "rating": 170.22760438777888,
-    "totalTournaments": 2,
-    "totalGames": 8,
+    "rating": 170.96809273290103,
+    "totalTournaments": 3,
+    "totalGames": 9,
     "totalWins": 5,
-    "totalDraws": 1,
+    "totalDraws": 2,
     "totalLosses": 2,
-    "totalWinRatio": 68.75
+    "totalWinRatio": 66.67
   },
   {
     "NAF Nr": "30593",
@@ -8674,10 +8951,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 8,
         "winRatio": 68.75,
-        "rating": 166.4995984588164
+        "rating": 166.50003566723336
       }
     },
-    "rating": 164.38936898739436,
+    "rating": 164.38960438321908,
     "totalTournaments": 7,
     "totalGames": 27,
     "totalWins": 10,
@@ -8755,10 +9032,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 150.88877868284962
+        "rating": 150.8888201364853
       }
     },
-    "rating": 151.48711096878083,
+    "rating": 151.48713198481096,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -8856,22 +9133,22 @@ const statsData = [
         "rating": 170.8416031024819
       },
       "2025": {
-        "tournaments": 8,
-        "gamesWon": 13,
-        "gamesDraw": 6,
-        "gamesLost": 12,
-        "gamesTotal": 31,
-        "winRatio": 51.61,
-        "rating": 156.68312026809187
+        "tournaments": 10,
+        "gamesWon": 15,
+        "gamesDraw": 10,
+        "gamesLost": 14,
+        "gamesTotal": 39,
+        "winRatio": 51.28,
+        "rating": 156.65139385862662
       }
     },
-    "rating": 174.13024148889426,
-    "totalTournaments": 46,
-    "totalGames": 186,
-    "totalWins": 75,
-    "totalDraws": 53,
-    "totalLosses": 58,
-    "totalWinRatio": 54.57
+    "rating": 173.0257540364317,
+    "totalTournaments": 48,
+    "totalGames": 194,
+    "totalWins": 77,
+    "totalDraws": 57,
+    "totalLosses": 60,
+    "totalWinRatio": 54.38
   },
   {
     "NAF Nr": "31737",
@@ -8942,10 +9219,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 12,
         "winRatio": 70.83,
-        "rating": 177.62873307651608
+        "rating": 177.63005962614628
       }
     },
-    "rating": 177.3017058000836,
+    "rating": 177.30275978905266,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 8,
@@ -9038,10 +9315,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 33.33,
-        "rating": 143.93455954879727
+        "rating": 143.9836728867374
       }
     },
-    "rating": 143.70412549836425,
+    "rating": 143.7425930267521,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -9062,10 +9339,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 8,
         "winRatio": 25,
-        "rating": 130.678137207467
+        "rating": 130.67813522767554
       }
     },
-    "rating": 130.57449702670903,
+    "rating": 130.57671847011497,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -9146,22 +9423,22 @@ const statsData = [
         "rating": 148.59704254245548
       },
       "2025": {
-        "tournaments": 4,
-        "gamesWon": 9,
-        "gamesDraw": 4,
-        "gamesLost": 3,
-        "gamesTotal": 16,
-        "winRatio": 68.75,
-        "rating": 169.63971888317985
+        "tournaments": 5,
+        "gamesWon": 11,
+        "gamesDraw": 5,
+        "gamesLost": 5,
+        "gamesTotal": 21,
+        "winRatio": 64.29,
+        "rating": 165.05615433930745
       }
     },
-    "rating": 169.30667422286615,
-    "totalTournaments": 8,
-    "totalGames": 31,
-    "totalWins": 13,
-    "totalDraws": 11,
-    "totalLosses": 7,
-    "totalWinRatio": 59.68
+    "rating": 165.23925854184546,
+    "totalTournaments": 9,
+    "totalGames": 36,
+    "totalWins": 15,
+    "totalDraws": 12,
+    "totalLosses": 9,
+    "totalWinRatio": 58.33
   },
   {
     "NAF Nr": "25284",
@@ -9185,10 +9462,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 16,
         "winRatio": 53.13,
-        "rating": 152.81526447355054
+        "rating": 152.8222731190134
       }
     },
-    "rating": 150.22585995257387,
+    "rating": 150.23352889255003,
     "totalTournaments": 6,
     "totalGames": 28,
     "totalWins": 10,
@@ -9251,10 +9528,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 148.25101603376547
+        "rating": 148.25385574007333
       }
     },
-    "rating": 145.23468366833745,
+    "rating": 145.2366816494531,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 5,
@@ -9341,10 +9618,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 62.5,
-        "rating": 159.0698175312735
+        "rating": 159.07276921895206
       }
     },
-    "rating": 154.8136641085936,
+    "rating": 154.81584575906578,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 7,
@@ -9467,10 +9744,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 6,
         "winRatio": 75,
-        "rating": 168.88172969090638
+        "rating": 169.03204009422444
       }
     },
-    "rating": 218.80572403877912,
+    "rating": 218.95631210985002,
     "totalTournaments": 9,
     "totalGames": 37,
     "totalWins": 25,
@@ -9503,22 +9780,22 @@ const statsData = [
         "rating": 144.62882312229743
       },
       "2025": {
-        "tournaments": 5,
+        "tournaments": 6,
         "gamesWon": 7,
         "gamesDraw": 8,
-        "gamesLost": 7,
-        "gamesTotal": 22,
-        "winRatio": 50,
-        "rating": 142.9012645059574
+        "gamesLost": 11,
+        "gamesTotal": 26,
+        "winRatio": 42.31,
+        "rating": 120.97911931929171
       }
     },
-    "rating": 142.56649603733888,
-    "totalTournaments": 14,
-    "totalGames": 60,
+    "rating": 118.95357045074608,
+    "totalTournaments": 15,
+    "totalGames": 64,
     "totalWins": 20,
     "totalDraws": 16,
-    "totalLosses": 24,
-    "totalWinRatio": 46.67
+    "totalLosses": 28,
+    "totalWinRatio": 43.75
   },
   {
     "NAF Nr": "28393",
@@ -9556,10 +9833,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 50,
-        "rating": 151.49169099573902
+        "rating": 151.50847364705146
       }
     },
-    "rating": 153.21901203826752,
+    "rating": 153.22803623203777,
     "totalTournaments": 2,
     "totalGames": 9,
     "totalWins": 3,
@@ -9581,15 +9858,24 @@ const statsData = [
         "gamesTotal": 4,
         "winRatio": 25,
         "rating": 137.91750621682385
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 1,
+        "gamesLost": 1,
+        "gamesTotal": 4,
+        "winRatio": 62.5,
+        "rating": 154.81445048059092
       }
     },
-    "rating": 138.6203169811941,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 0,
-    "totalDraws": 2,
-    "totalLosses": 2,
-    "totalWinRatio": 25
+    "rating": 143.6096956737469,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 2,
+    "totalDraws": 3,
+    "totalLosses": 3,
+    "totalWinRatio": 43.75
   },
   {
     "NAF Nr": "34288",
@@ -9604,10 +9890,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 147.91253712051613
+        "rating": 148.20983270432092
       }
     },
-    "rating": 147.3387983589706,
+    "rating": 147.49412734578215,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -9670,10 +9956,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 149.98261630447985
+        "rating": 149.98274192700717
       }
     },
-    "rating": 150.63798949779692,
+    "rating": 150.63842528141237,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -9697,22 +9983,22 @@ const statsData = [
         "rating": 140.44097111660614
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 6,
-        "gamesDraw": 4,
-        "gamesLost": 2,
-        "gamesTotal": 12,
-        "winRatio": 66.67,
-        "rating": 170.970334358685
+        "tournaments": 4,
+        "gamesWon": 7,
+        "gamesDraw": 6,
+        "gamesLost": 3,
+        "gamesTotal": 16,
+        "winRatio": 62.5,
+        "rating": 167.57414447783776
       }
     },
-    "rating": 163.01232290963964,
-    "totalTournaments": 4,
-    "totalGames": 16,
-    "totalWins": 6,
-    "totalDraws": 6,
-    "totalLosses": 4,
-    "totalWinRatio": 56.25
+    "rating": 159.61671653222385,
+    "totalTournaments": 5,
+    "totalGames": 20,
+    "totalWins": 7,
+    "totalDraws": 8,
+    "totalLosses": 5,
+    "totalWinRatio": 55
   },
   {
     "NAF Nr": "39204",
@@ -9730,22 +10016,22 @@ const statsData = [
         "rating": 146.5185553925282
       },
       "2025": {
-        "tournaments": 5,
+        "tournaments": 6,
         "gamesWon": 5,
-        "gamesDraw": 6,
-        "gamesLost": 9,
-        "gamesTotal": 20,
-        "winRatio": 40,
-        "rating": 139.95320334498436
+        "gamesDraw": 7,
+        "gamesLost": 12,
+        "gamesTotal": 24,
+        "winRatio": 35.42,
+        "rating": 125.67600336535664
       }
     },
-    "rating": 141.4757986484527,
-    "totalTournaments": 8,
-    "totalGames": 36,
+    "rating": 128.20384171585388,
+    "totalTournaments": 9,
+    "totalGames": 40,
     "totalWins": 10,
-    "totalDraws": 10,
-    "totalLosses": 16,
-    "totalWinRatio": 41.67
+    "totalDraws": 11,
+    "totalLosses": 19,
+    "totalWinRatio": 38.75
   },
   {
     "NAF Nr": "29700",
@@ -9787,10 +10073,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 66.67,
-        "rating": 155.54162788033304
+        "rating": 155.5597088052792
       }
     },
-    "rating": 102.67673535818389,
+    "rating": 102.68441566215188,
     "totalTournaments": 24,
     "totalGames": 92,
     "totalWins": 18,
@@ -9811,10 +10097,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 138.19973265882942
+        "rating": 138.19973256576034
       }
     },
-    "rating": 139.0368721061508,
+    "rating": 139.03694665367706,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -9963,10 +10249,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 8,
         "winRatio": 31.25,
-        "rating": 132.26222658237288
+        "rating": 132.26222605581705
       }
     },
-    "rating": 131.94113781146723,
+    "rating": 131.942950963692,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -9987,10 +10273,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 3,
         "winRatio": 66.67,
-        "rating": 154.16730235662658
+        "rating": 154.17074912473078
       }
     },
-    "rating": 154.203109871945,
+    "rating": 154.2058110983622,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -10062,10 +10348,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 75,
-        "rating": 159.90483184843038
+        "rating": 159.9093992638073
       }
     },
-    "rating": 199.8003099047011,
+    "rating": 199.80235715799338,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 13,
@@ -10089,22 +10375,22 @@ const statsData = [
         "rating": 155.94312048646296
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 4,
+        "tournaments": 4,
+        "gamesWon": 6,
         "gamesDraw": 3,
-        "gamesLost": 4,
-        "gamesTotal": 11,
-        "winRatio": 50,
-        "rating": 151.56150914356084
+        "gamesLost": 5,
+        "gamesTotal": 14,
+        "winRatio": 53.57,
+        "rating": 153.96412836989214
       }
     },
-    "rating": 157.90121720824564,
-    "totalTournaments": 4,
-    "totalGames": 15,
-    "totalWins": 6,
+    "rating": 159.9483298261432,
+    "totalTournaments": 5,
+    "totalGames": 18,
+    "totalWins": 8,
     "totalDraws": 4,
-    "totalLosses": 5,
-    "totalWinRatio": 53.33
+    "totalLosses": 6,
+    "totalWinRatio": 55.56
   },
   {
     "NAF Nr": "30425",
@@ -10140,22 +10426,22 @@ const statsData = [
         "rating": 158.23909342199659
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 8,
-        "gamesDraw": 2,
-        "gamesLost": 2,
-        "gamesTotal": 12,
-        "winRatio": 75,
-        "rating": 176.62889708972517
+        "tournaments": 4,
+        "gamesWon": 9,
+        "gamesDraw": 4,
+        "gamesLost": 3,
+        "gamesTotal": 16,
+        "winRatio": 68.75,
+        "rating": 168.2268884348087
       }
     },
-    "rating": 189.73054419571247,
-    "totalTournaments": 17,
-    "totalGames": 72,
-    "totalWins": 34,
-    "totalDraws": 14,
-    "totalLosses": 24,
-    "totalWinRatio": 56.94
+    "rating": 179.82534892899665,
+    "totalTournaments": 18,
+    "totalGames": 76,
+    "totalWins": 35,
+    "totalDraws": 16,
+    "totalLosses": 25,
+    "totalWinRatio": 56.58
   },
   {
     "NAF Nr": "31364",
@@ -10224,22 +10510,22 @@ const statsData = [
         "rating": 137.82223713703195
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 3,
+        "tournaments": 4,
+        "gamesWon": 5,
         "gamesDraw": 4,
-        "gamesLost": 5,
-        "gamesTotal": 12,
-        "winRatio": 41.67,
-        "rating": 142.3343264653707
+        "gamesLost": 7,
+        "gamesTotal": 16,
+        "winRatio": 43.75,
+        "rating": 145.04847026869393
       }
     },
-    "rating": 138.74406973817597,
-    "totalTournaments": 17,
-    "totalGames": 68,
-    "totalWins": 22,
+    "rating": 144.0186500240882,
+    "totalTournaments": 18,
+    "totalGames": 72,
+    "totalWins": 24,
     "totalDraws": 17,
-    "totalLosses": 29,
-    "totalWinRatio": 44.85
+    "totalLosses": 31,
+    "totalWinRatio": 45.14
   },
   {
     "NAF Nr": "25049",
@@ -10317,22 +10603,22 @@ const statsData = [
         "rating": 187.7971954226283
       },
       "2025": {
-        "tournaments": 5,
-        "gamesWon": 16,
-        "gamesDraw": 1,
-        "gamesLost": 3,
-        "gamesTotal": 20,
-        "winRatio": 82.5,
-        "rating": 201.0645957870259
+        "tournaments": 7,
+        "gamesWon": 22,
+        "gamesDraw": 2,
+        "gamesLost": 4,
+        "gamesTotal": 28,
+        "winRatio": 82.14,
+        "rating": 211.91390503782077
       }
     },
-    "rating": 229.34919495130387,
-    "totalTournaments": 15,
-    "totalGames": 60,
-    "totalWins": 40,
-    "totalDraws": 10,
-    "totalLosses": 10,
-    "totalWinRatio": 75
+    "rating": 236.13242149942639,
+    "totalTournaments": 17,
+    "totalGames": 68,
+    "totalWins": 46,
+    "totalDraws": 11,
+    "totalLosses": 11,
+    "totalWinRatio": 75.74
   },
   {
     "NAF Nr": "39326",
@@ -10347,10 +10633,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 141.69981442494537
+        "rating": 141.70423625423456
       }
     },
-    "rating": 141.0471505516427,
+    "rating": 141.05004832781245,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -10413,10 +10699,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 150.0012356566603
+        "rating": 150.00123571393485
       }
     },
-    "rating": 164.20810234078596,
+    "rating": 164.20810236905191,
     "totalTournaments": 7,
     "totalGames": 26,
     "totalWins": 15,
@@ -10541,10 +10827,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 11,
         "winRatio": 54.55,
-        "rating": 158.62522599977868
+        "rating": 158.62346463787753
       }
     },
-    "rating": 176.33010723955695,
+    "rating": 176.32740360878566,
     "totalTournaments": 8,
     "totalGames": 35,
     "totalWins": 14,
@@ -10581,14 +10867,24 @@ const statsData = [
     "NAF Name": "Gallardo94",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 0,
+        "gamesLost": 2,
+        "gamesTotal": 4,
+        "winRatio": 50,
+        "rating": 152.02916760425452
+      }
+    },
+    "rating": 152.58875303997942,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 2,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalLosses": 2,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "31026",
@@ -10633,22 +10929,22 @@ const statsData = [
         "rating": 136.572200762027
       },
       "2025": {
-        "tournaments": 5,
+        "tournaments": 6,
         "gamesWon": 4,
-        "gamesDraw": 3,
-        "gamesLost": 8,
-        "gamesTotal": 15,
-        "winRatio": 36.67,
-        "rating": 135.89629179473835
+        "gamesDraw": 5,
+        "gamesLost": 9,
+        "gamesTotal": 18,
+        "winRatio": 36.11,
+        "rating": 133.19560912331588
       }
     },
-    "rating": 114.70493067112596,
-    "totalTournaments": 17,
-    "totalGames": 60,
+    "rating": 113.41154375641631,
+    "totalTournaments": 18,
+    "totalGames": 63,
     "totalWins": 16,
-    "totalDraws": 12,
-    "totalLosses": 32,
-    "totalWinRatio": 36.67
+    "totalDraws": 14,
+    "totalLosses": 33,
+    "totalWinRatio": 36.51
   },
   {
     "NAF Nr": "17074",
@@ -10741,10 +11037,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 14,
         "winRatio": 39.29,
-        "rating": 133.5396137564488
+        "rating": 133.86953612921758
       }
     },
-    "rating": 136.25271043681556,
+    "rating": 136.42557601681517,
     "totalTournaments": 31,
     "totalGames": 125,
     "totalWins": 41,
@@ -10777,22 +11073,22 @@ const statsData = [
         "rating": 154.13333274358584
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 2,
+        "tournaments": 3,
+        "gamesWon": 6,
         "gamesDraw": 5,
         "gamesLost": 3,
-        "gamesTotal": 10,
-        "winRatio": 45,
-        "rating": 146.17500278604896
+        "gamesTotal": 14,
+        "winRatio": 60.71,
+        "rating": 167.06177060614482
       }
     },
-    "rating": 162.20821975166095,
-    "totalTournaments": 4,
-    "totalGames": 18,
-    "totalWins": 6,
+    "rating": 181.3050278745558,
+    "totalTournaments": 5,
+    "totalGames": 22,
+    "totalWins": 10,
     "totalDraws": 9,
     "totalLosses": 3,
-    "totalWinRatio": 58.33
+    "totalWinRatio": 65.91
   },
   {
     "NAF Nr": "17266",
@@ -10863,10 +11159,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 6,
         "winRatio": 25,
-        "rating": 132.91612768536862
+        "rating": 132.91612774827803
       }
     },
-    "rating": 127.96440537353324,
+    "rating": 127.9644054036552,
     "totalTournaments": 3,
     "totalGames": 10,
     "totalWins": 1,
@@ -10977,10 +11273,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 10,
         "winRatio": 45,
-        "rating": 149.21580477664895
+        "rating": 149.21679048326973
       }
     },
-    "rating": 149.47863981672305,
+    "rating": 149.47943745788706,
     "totalTournaments": 5,
     "totalGames": 21,
     "totalWins": 5,
@@ -11043,10 +11339,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 10,
         "winRatio": 35,
-        "rating": 133.56118516357958
+        "rating": 133.56342489614968
       }
     },
-    "rating": 136.68689625419262,
+    "rating": 136.68805506173726,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 1,
@@ -11108,22 +11404,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 0,
-        "gamesDraw": 2,
+        "tournaments": 2,
+        "gamesWon": 2,
+        "gamesDraw": 3,
         "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 25,
-        "rating": 138.68629150101526
+        "gamesTotal": 7,
+        "winRatio": 50,
+        "rating": 150.3560719432813
       }
     },
-    "rating": 140.02950023901198,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 0,
-    "totalDraws": 2,
+    "rating": 151.54892022270175,
+    "totalTournaments": 2,
+    "totalGames": 7,
+    "totalWins": 2,
+    "totalDraws": 3,
     "totalLosses": 2,
-    "totalWinRatio": 25
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "9440",
@@ -11183,22 +11479,22 @@ const statsData = [
         "rating": 171.16065567855864
       },
       "2025": {
-        "tournaments": 4,
-        "gamesWon": 9,
-        "gamesDraw": 4,
-        "gamesLost": 2,
-        "gamesTotal": 15,
-        "winRatio": 73.33,
-        "rating": 181.56559995019919
+        "tournaments": 5,
+        "gamesWon": 11,
+        "gamesDraw": 5,
+        "gamesLost": 3,
+        "gamesTotal": 19,
+        "winRatio": 71.05,
+        "rating": 186.799204119954
       }
     },
-    "rating": 203.82985435238788,
-    "totalTournaments": 16,
-    "totalGames": 63,
-    "totalWins": 29,
-    "totalDraws": 22,
-    "totalLosses": 12,
-    "totalWinRatio": 63.49
+    "rating": 210.74103563012102,
+    "totalTournaments": 17,
+    "totalGames": 67,
+    "totalWins": 31,
+    "totalDraws": 23,
+    "totalLosses": 13,
+    "totalWinRatio": 63.43
   },
   {
     "NAF Nr": "23323",
@@ -11255,22 +11551,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 2,
+        "tournaments": 2,
+        "gamesWon": 4,
         "gamesDraw": 1,
-        "gamesLost": 1,
-        "gamesTotal": 4,
-        "winRatio": 62.5,
-        "rating": 155.65685424949237
+        "gamesLost": 3,
+        "gamesTotal": 8,
+        "winRatio": 56.25,
+        "rating": 158.13814664581164
       }
     },
-    "rating": 153.32337309183,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 2,
+    "rating": 157.55292660010394,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 4,
     "totalDraws": 1,
-    "totalLosses": 1,
-    "totalWinRatio": 62.5
+    "totalLosses": 3,
+    "totalWinRatio": 56.25
   },
   {
     "NAF Nr": "30439",
@@ -11315,22 +11611,46 @@ const statsData = [
         "rating": 145.5096491793674
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 6,
+        "tournaments": 3,
+        "gamesWon": 10,
         "gamesDraw": 1,
         "gamesLost": 1,
-        "gamesTotal": 8,
-        "winRatio": 81.25,
-        "rating": 175.85413454870704
+        "gamesTotal": 12,
+        "winRatio": 87.5,
+        "rating": 193.70760053399852
       }
     },
-    "rating": 189.20191952657916,
-    "totalTournaments": 28,
-    "totalGames": 108,
-    "totalWins": 50,
+    "rating": 203.34658884360545,
+    "totalTournaments": 29,
+    "totalGames": 112,
+    "totalWins": 54,
     "totalDraws": 19,
     "totalLosses": 39,
-    "totalWinRatio": 55.09
+    "totalWinRatio": 56.7
+  },
+  {
+    "NAF Nr": "40485",
+    "NAF Name": "gmateu89",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 0,
+        "gamesLost": 4,
+        "gamesTotal": 4,
+        "winRatio": 0,
+        "rating": 126.7487299622094
+      }
+    },
+    "rating": 126.53668809448357,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 4,
+    "totalWinRatio": 0
   },
   {
     "NAF Nr": "34379",
@@ -11417,22 +11737,22 @@ const statsData = [
         "rating": 160.901865660659
       },
       "2025": {
-        "tournaments": 7,
-        "gamesWon": 10,
-        "gamesDraw": 6,
-        "gamesLost": 11,
-        "gamesTotal": 27,
-        "winRatio": 48.15,
-        "rating": 146.45744130844167
+        "tournaments": 9,
+        "gamesWon": 11,
+        "gamesDraw": 8,
+        "gamesLost": 15,
+        "gamesTotal": 34,
+        "winRatio": 44.12,
+        "rating": 138.39734254352632
       }
     },
-    "rating": 166.28566714667352,
-    "totalTournaments": 27,
-    "totalGames": 107,
-    "totalWins": 42,
-    "totalDraws": 32,
-    "totalLosses": 33,
-    "totalWinRatio": 54.21
+    "rating": 155.4385987516624,
+    "totalTournaments": 29,
+    "totalGames": 114,
+    "totalWins": 43,
+    "totalDraws": 34,
+    "totalLosses": 37,
+    "totalWinRatio": 52.63
   },
   {
     "NAF Nr": "28939",
@@ -11504,10 +11824,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 8,
         "winRatio": 25,
-        "rating": 129.352456408352
+        "rating": 129.35245631054852
       }
     },
-    "rating": 135.4507227589568,
+    "rating": 135.45083046202106,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 3,
@@ -11551,10 +11871,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 131.75051706801383
+        "rating": 131.77430826856985
       }
     },
-    "rating": 133.22925692381,
+    "rating": 133.24717337533048,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -11605,14 +11925,24 @@ const statsData = [
     "NAF Name": "Gor",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 2,
+        "gamesLost": 0,
+        "gamesTotal": 4,
+        "winRatio": 75,
+        "rating": 162.49774801860733
+      }
+    },
+    "rating": 163.65351935439554,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 2,
+    "totalDraws": 2,
     "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalWinRatio": 75
   },
   {
     "NAF Nr": "36402",
@@ -11621,22 +11951,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 2,
+        "tournaments": 3,
         "gamesWon": 4,
         "gamesDraw": 1,
-        "gamesLost": 3,
-        "gamesTotal": 8,
-        "winRatio": 56.25,
-        "rating": 154.7653121456214
+        "gamesLost": 7,
+        "gamesTotal": 12,
+        "winRatio": 37.5,
+        "rating": 133.63426125581867
       }
     },
-    "rating": 154.1902380523324,
-    "totalTournaments": 2,
-    "totalGames": 8,
+    "rating": 134.65322965121842,
+    "totalTournaments": 3,
+    "totalGames": 12,
     "totalWins": 4,
     "totalDraws": 1,
-    "totalLosses": 3,
-    "totalWinRatio": 56.25
+    "totalLosses": 7,
+    "totalWinRatio": 37.5
   },
   {
     "NAF Nr": "24106",
@@ -11674,10 +12004,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 50,
-        "rating": 150.8709640896293
+        "rating": 150.67611422609906
       }
     },
-    "rating": 153.97259008745596,
+    "rating": 153.78546539448257,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 8,
@@ -11749,10 +12079,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 87.5,
-        "rating": 169.40796255449723
+        "rating": 169.40843370103278
       }
     },
-    "rating": 174.42658229723077,
+    "rating": 174.42686399375268,
     "totalTournaments": 12,
     "totalGames": 48,
     "totalWins": 22,
@@ -11774,15 +12104,24 @@ const statsData = [
         "gamesTotal": 4,
         "winRatio": 50,
         "rating": 150.38714724637975
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 3,
+        "gamesDraw": 0,
+        "gamesLost": 0,
+        "gamesTotal": 3,
+        "winRatio": 100,
+        "rating": 164.20849830119656
       }
     },
-    "rating": 150.40726907650435,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 2,
+    "rating": 164.73005770830125,
+    "totalTournaments": 2,
+    "totalGames": 7,
+    "totalWins": 5,
     "totalDraws": 0,
     "totalLosses": 2,
-    "totalWinRatio": 50
+    "totalWinRatio": 71.43
   },
   {
     "NAF Nr": "33930",
@@ -11805,22 +12144,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 0,
-        "gamesDraw": 1,
+        "tournaments": 2,
+        "gamesWon": 1,
+        "gamesDraw": 3,
         "gamesLost": 2,
-        "gamesTotal": 3,
-        "winRatio": 16.67,
-        "rating": 144.31206830320963
+        "gamesTotal": 6,
+        "winRatio": 41.67,
+        "rating": 146.40320101019955
       }
     },
-    "rating": 144.4433346005161,
-    "totalTournaments": 1,
-    "totalGames": 3,
-    "totalWins": 0,
-    "totalDraws": 1,
+    "rating": 146.84647438370536,
+    "totalTournaments": 2,
+    "totalGames": 6,
+    "totalWins": 1,
+    "totalDraws": 3,
     "totalLosses": 2,
-    "totalWinRatio": 16.67
+    "totalWinRatio": 41.67
   },
   {
     "NAF Nr": "31006",
@@ -11948,10 +12287,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 7,
         "winRatio": 64.29,
-        "rating": 157.71263971946158
+        "rating": 157.8037515232035
       }
     },
-    "rating": 157.99348639611947,
+    "rating": 158.06476608738117,
     "totalTournaments": 3,
     "totalGames": 11,
     "totalWins": 5,
@@ -12044,10 +12383,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 7,
         "winRatio": 7.14,
-        "rating": 115.7681474014925
+        "rating": 115.7798258885255
       }
     },
-    "rating": 119.82403592697435,
+    "rating": 119.83095046227326,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 0,
@@ -12080,22 +12419,22 @@ const statsData = [
         "rating": 144.31074697626056
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 5,
+        "tournaments": 4,
+        "gamesWon": 8,
         "gamesDraw": 3,
         "gamesLost": 5,
-        "gamesTotal": 13,
-        "winRatio": 50,
-        "rating": 152.185126610157
+        "gamesTotal": 16,
+        "winRatio": 59.38,
+        "rating": 158.4395005274134
       }
     },
-    "rating": 157.92729532699528,
-    "totalTournaments": 5,
-    "totalGames": 19,
-    "totalWins": 7,
+    "rating": 164.07681034595407,
+    "totalTournaments": 6,
+    "totalGames": 22,
+    "totalWins": 10,
     "totalDraws": 5,
     "totalLosses": 7,
-    "totalWinRatio": 50
+    "totalWinRatio": 56.82
   },
   {
     "NAF Nr": "7630",
@@ -12287,22 +12626,22 @@ const statsData = [
         "rating": 154.88154684605362
       },
       "2025": {
-        "tournaments": 5,
-        "gamesWon": 6,
+        "tournaments": 6,
+        "gamesWon": 9,
         "gamesDraw": 5,
-        "gamesLost": 8,
-        "gamesTotal": 19,
-        "winRatio": 44.74,
-        "rating": 146.0177372427177
+        "gamesLost": 9,
+        "gamesTotal": 23,
+        "winRatio": 50,
+        "rating": 156.85014939760796
       }
     },
-    "rating": 157.9276188712385,
-    "totalTournaments": 48,
-    "totalGames": 194,
-    "totalWins": 74,
+    "rating": 169.4053229304663,
+    "totalTournaments": 49,
+    "totalGames": 198,
+    "totalWins": 77,
     "totalDraws": 46,
-    "totalLosses": 74,
-    "totalWinRatio": 50
+    "totalLosses": 75,
+    "totalWinRatio": 50.51
   },
   {
     "NAF Nr": "34554",
@@ -12320,22 +12659,22 @@ const statsData = [
         "rating": 155.7813545118797
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 4,
-        "gamesDraw": 4,
-        "gamesLost": 2,
-        "gamesTotal": 10,
-        "winRatio": 60,
-        "rating": 162.11592938694415
+        "tournaments": 3,
+        "gamesWon": 6,
+        "gamesDraw": 5,
+        "gamesLost": 3,
+        "gamesTotal": 14,
+        "winRatio": 60.71,
+        "rating": 165.02396380995225
       }
     },
-    "rating": 169.55413396659432,
-    "totalTournaments": 3,
-    "totalGames": 14,
-    "totalWins": 6,
-    "totalDraws": 5,
-    "totalLosses": 3,
-    "totalWinRatio": 60.71
+    "rating": 170.5873548762151,
+    "totalTournaments": 4,
+    "totalGames": 18,
+    "totalWins": 8,
+    "totalDraws": 6,
+    "totalLosses": 4,
+    "totalWinRatio": 61.11
   },
   {
     "NAF Nr": "20932",
@@ -12344,22 +12683,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 2,
+        "tournaments": 3,
         "gamesWon": 5,
-        "gamesDraw": 1,
+        "gamesDraw": 2,
         "gamesLost": 4,
-        "gamesTotal": 10,
-        "winRatio": 55,
-        "rating": 158.26640651852105
+        "gamesTotal": 11,
+        "winRatio": 54.55,
+        "rating": 159.0383846940574
       }
     },
-    "rating": 163.66278937535424,
-    "totalTournaments": 2,
-    "totalGames": 10,
+    "rating": 164.84481478625403,
+    "totalTournaments": 3,
+    "totalGames": 11,
     "totalWins": 5,
-    "totalDraws": 1,
+    "totalDraws": 2,
     "totalLosses": 4,
-    "totalWinRatio": 55
+    "totalWinRatio": 54.55
   },
   {
     "NAF Nr": "21448",
@@ -12399,15 +12738,24 @@ const statsData = [
         "gamesTotal": 4,
         "winRatio": 75,
         "rating": 159.45045574260567
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 1,
+        "gamesLost": 0,
+        "gamesTotal": 1,
+        "winRatio": 50,
+        "rating": 150
       }
     },
-    "rating": 159.45242228079383,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 158.9467872248778,
+    "totalTournaments": 2,
+    "totalGames": 5,
     "totalWins": 3,
-    "totalDraws": 0,
+    "totalDraws": 1,
     "totalLosses": 1,
-    "totalWinRatio": 75
+    "totalWinRatio": 70
   },
   {
     "NAF Nr": "8001",
@@ -12425,22 +12773,22 @@ const statsData = [
         "rating": 149.65048514488475
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 1,
-        "gamesDraw": 5,
+        "tournaments": 3,
+        "gamesWon": 3,
+        "gamesDraw": 7,
         "gamesLost": 4,
-        "gamesTotal": 10,
-        "winRatio": 35,
-        "rating": 131.5728851661583
+        "gamesTotal": 14,
+        "winRatio": 46.43,
+        "rating": 144.01816535619972
       }
     },
-    "rating": 130.75618704391403,
-    "totalTournaments": 3,
-    "totalGames": 13,
-    "totalWins": 2,
-    "totalDraws": 6,
+    "rating": 143.3567501189597,
+    "totalTournaments": 4,
+    "totalGames": 17,
+    "totalWins": 4,
+    "totalDraws": 8,
     "totalLosses": 5,
-    "totalWinRatio": 38.46
+    "totalWinRatio": 47.06
   },
   {
     "NAF Nr": "40410",
@@ -12455,10 +12803,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 135.66486237114884
+        "rating": 135.67266177929943
       }
     },
-    "rating": 135.55808871825244,
+    "rating": 135.5628828737409,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -12539,10 +12887,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 16.67,
-        "rating": 136.90754749080293
+        "rating": 136.91463544758827
       }
     },
-    "rating": 109.19501598741593,
+    "rating": 109.19971744775914,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 4,
@@ -12628,10 +12976,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 148.84677963497288
+        "rating": 148.8518469211441
       }
     },
-    "rating": 162.63568876837218,
+    "rating": 162.63862651288514,
     "totalTournaments": 4,
     "totalGames": 15,
     "totalWins": 8,
@@ -12661,10 +13009,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 8,
         "winRatio": 25,
-        "rating": 129.69320480594905
+        "rating": 129.69440131773285
       }
     },
-    "rating": 115.51476377715252,
+    "rating": 115.51588822095052,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 7,
@@ -12712,10 +13060,10 @@ const statsData = [
         "gamesLost": 8,
         "gamesTotal": 25,
         "winRatio": 62,
-        "rating": 179.40891193521725
+        "rating": 179.41132853354736
       }
     },
-    "rating": 185.24608476050452,
+    "rating": 185.24730826603738,
     "totalTournaments": 20,
     "totalGames": 81,
     "totalWins": 40,
@@ -12772,22 +13120,22 @@ const statsData = [
         "rating": 149.55181041688425
       },
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 2,
         "gamesDraw": 1,
-        "gamesLost": 1,
-        "gamesTotal": 4,
-        "winRatio": 62.5,
-        "rating": 152.88424289910995
+        "gamesLost": 5,
+        "gamesTotal": 8,
+        "winRatio": 31.25,
+        "rating": 129.23639933306225
       }
     },
-    "rating": 151.52041003544184,
-    "totalTournaments": 2,
-    "totalGames": 8,
+    "rating": 128.6091888586291,
+    "totalTournaments": 3,
+    "totalGames": 12,
     "totalWins": 4,
     "totalDraws": 1,
-    "totalLosses": 3,
-    "totalWinRatio": 56.25
+    "totalLosses": 7,
+    "totalWinRatio": 37.5
   },
   {
     "NAF Nr": "23299",
@@ -12829,10 +13177,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 22,
         "winRatio": 65.91,
-        "rating": 177.04339224289237
+        "rating": 177.05019972865415
       }
     },
-    "rating": 215.41302567704562,
+    "rating": 215.41589013238237,
     "totalTournaments": 17,
     "totalGames": 68,
     "totalWins": 40,
@@ -12924,10 +13272,10 @@ const statsData = [
         "gamesLost": 8,
         "gamesTotal": 12,
         "winRatio": 29.17,
-        "rating": 132.08330294721543
+        "rating": 132.0833010419784
       }
     },
-    "rating": 89.19744396182733,
+    "rating": 89.19923753946948,
     "totalTournaments": 8,
     "totalGames": 32,
     "totalWins": 4,
@@ -12994,10 +13342,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 26,
         "winRatio": 61.54,
-        "rating": 182.31167600893428
+        "rating": 182.31563776356433
       }
     },
-    "rating": 199.6647855427383,
+    "rating": 199.6843899080208,
     "totalTournaments": 17,
     "totalGames": 74,
     "totalWins": 33,
@@ -13027,10 +13375,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 16,
         "winRatio": 65.63,
-        "rating": 166.39947321550892
+        "rating": 166.39983296291223
       }
     },
-    "rating": 160.85538410144747,
+    "rating": 160.8556324653844,
     "totalTournaments": 6,
     "totalGames": 28,
     "totalWins": 11,
@@ -13084,10 +13432,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 10,
         "winRatio": 60,
-        "rating": 160.52899649822723
+        "rating": 160.5369420737484
       }
     },
-    "rating": 164.66807096472667,
+    "rating": 164.67433797306705,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 5,
@@ -13108,10 +13456,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 6,
         "winRatio": 25,
-        "rating": 133.69201339967879
+        "rating": 133.69639369081182
       }
     },
-    "rating": 132.72152411948363,
+    "rating": 132.72429193477558,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 1,
@@ -13156,10 +13504,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 134.45294681331228
+        "rating": 134.48783056941159
       }
     },
-    "rating": 134.28353565020922,
+    "rating": 134.3035254796332,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -13228,10 +13576,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 87.5,
-        "rating": 164.1039514677969
+        "rating": 164.1039530088778
       }
     },
-    "rating": 164.41193535943762,
+    "rating": 164.4119361657081,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 3,
@@ -13252,10 +13600,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 33.33,
-        "rating": 141.7231745135117
+        "rating": 141.87192820729086
       }
     },
-    "rating": 143.0154719027828,
+    "rating": 143.15529587730222,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 1,
@@ -13314,10 +13662,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 154.53460223121527
+        "rating": 154.54061385233345
       }
     },
-    "rating": 153.585035379271,
+    "rating": 153.58961533836296,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -13355,22 +13703,22 @@ const statsData = [
         "rating": 160.24323742130863
       },
       "2025": {
-        "tournaments": 3,
+        "tournaments": 4,
         "gamesWon": 6,
-        "gamesDraw": 4,
+        "gamesDraw": 5,
         "gamesLost": 4,
-        "gamesTotal": 14,
-        "winRatio": 57.14,
-        "rating": 159.68493238515998
+        "gamesTotal": 15,
+        "winRatio": 56.67,
+        "rating": 159.26530672095538
       }
     },
-    "rating": 169.67457573916528,
-    "totalTournaments": 5,
-    "totalGames": 22,
+    "rating": 169.19707528896512,
+    "totalTournaments": 6,
+    "totalGames": 23,
     "totalWins": 10,
-    "totalDraws": 6,
+    "totalDraws": 7,
     "totalLosses": 6,
-    "totalWinRatio": 59.09
+    "totalWinRatio": 58.7
   },
   {
     "NAF Nr": "32888",
@@ -13388,22 +13736,22 @@ const statsData = [
         "rating": 132.7967345349025
       },
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 1,
-        "gamesDraw": 2,
+        "gamesDraw": 3,
         "gamesLost": 1,
-        "gamesTotal": 4,
+        "gamesTotal": 5,
         "winRatio": 50,
-        "rating": 150.25563012696853
+        "rating": 149.7739871559771
       }
     },
-    "rating": 136.68710666806857,
-    "totalTournaments": 2,
-    "totalGames": 7,
+    "rating": 136.89273407521915,
+    "totalTournaments": 3,
+    "totalGames": 8,
     "totalWins": 1,
-    "totalDraws": 2,
+    "totalDraws": 3,
     "totalLosses": 4,
-    "totalWinRatio": 28.57
+    "totalWinRatio": 31.25
   },
   {
     "NAF Nr": "15912",
@@ -13419,15 +13767,24 @@ const statsData = [
         "gamesTotal": 8,
         "winRatio": 43.75,
         "rating": 148.1471099468968
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 1,
+        "gamesLost": 0,
+        "gamesTotal": 1,
+        "winRatio": 50,
+        "rating": 150
       }
     },
-    "rating": 147.77550003323265,
-    "totalTournaments": 2,
-    "totalGames": 8,
+    "rating": 148.28113508914868,
+    "totalTournaments": 3,
+    "totalGames": 9,
     "totalWins": 2,
-    "totalDraws": 3,
+    "totalDraws": 4,
     "totalLosses": 3,
-    "totalWinRatio": 43.75
+    "totalWinRatio": 44.44
   },
   {
     "NAF Nr": "26310",
@@ -13469,10 +13826,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 25,
-        "rating": 127.87525518066742
+        "rating": 127.87587855968131
       }
     },
-    "rating": 154.21396489920116,
+    "rating": 154.21432999491685,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 9,
@@ -13541,10 +13898,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 150.00119607122787
+        "rating": 150
       }
     },
-    "rating": 149.07773591750103,
+    "rating": 150.42144326164606,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -13574,10 +13931,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 16,
         "winRatio": 43.75,
-        "rating": 138.54453140957264
+        "rating": 138.54456147053253
       }
     },
-    "rating": 126.85757643714369,
+    "rating": 126.85761536043861,
     "totalTournaments": 10,
     "totalGames": 40,
     "totalWins": 11,
@@ -13598,10 +13955,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 6,
         "winRatio": 33.33,
-        "rating": 139.41387445923456
+        "rating": 139.41387446208506
       }
     },
-    "rating": 142.32649919238213,
+    "rating": 142.3264991937484,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 2,
@@ -13631,10 +13988,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 144.42126941391618
+        "rating": 144.41452742146075
       }
     },
-    "rating": 145.34998230241212,
+    "rating": 145.34173833717153,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -13664,10 +14021,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 8,
         "winRatio": 56.25,
-        "rating": 155.6149575920861
+        "rating": 155.61677179063994
       }
     },
-    "rating": 154.75704033035697,
+    "rating": 154.7581421448495,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -13715,10 +14072,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 144.87134778044688
+        "rating": 144.8713758307483
       }
     },
-    "rating": 152.09219162660293,
+    "rating": 152.09227478884267,
     "totalTournaments": 9,
     "totalGames": 36,
     "totalWins": 14,
@@ -13739,10 +14096,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 144.38554648662446
+        "rating": 144.40832164375044
       }
     },
-    "rating": 143.78974582122504,
+    "rating": 143.8021164439279,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -13777,10 +14134,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 150.000400630795
+        "rating": 150.00040126488688
       }
     },
-    "rating": 150.95823835632368,
+    "rating": 150.95824144373938,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -13801,10 +14158,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 6,
         "winRatio": 16.67,
-        "rating": 128.7954018269069
+        "rating": 128.79718263988934
       }
     },
-    "rating": 131.59193117540477,
+    "rating": 131.59296230241236,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 0,
@@ -13941,22 +14298,22 @@ const statsData = [
         "rating": 182.11875465655288
       },
       "2025": {
-        "tournaments": 7,
-        "gamesWon": 16,
-        "gamesDraw": 9,
-        "gamesLost": 5,
-        "gamesTotal": 30,
-        "winRatio": 68.33,
-        "rating": 186.87570451121573
+        "tournaments": 8,
+        "gamesWon": 18,
+        "gamesDraw": 10,
+        "gamesLost": 6,
+        "gamesTotal": 34,
+        "winRatio": 67.65,
+        "rating": 187.21365691385057
       }
     },
-    "rating": 199.03193951938607,
-    "totalTournaments": 22,
-    "totalGames": 93,
-    "totalWins": 49,
-    "totalDraws": 23,
-    "totalLosses": 21,
-    "totalWinRatio": 65.05
+    "rating": 198.08622306286475,
+    "totalTournaments": 23,
+    "totalGames": 97,
+    "totalWins": 51,
+    "totalDraws": 24,
+    "totalLosses": 22,
+    "totalWinRatio": 64.95
   },
   {
     "NAF Nr": "8196",
@@ -14001,22 +14358,22 @@ const statsData = [
         "rating": 138.12828841079053
       },
       "2025": {
-        "tournaments": 5,
-        "gamesWon": 5,
-        "gamesDraw": 5,
-        "gamesLost": 6,
-        "gamesTotal": 16,
-        "winRatio": 46.88,
-        "rating": 146.13141888484742
+        "tournaments": 7,
+        "gamesWon": 8,
+        "gamesDraw": 6,
+        "gamesLost": 10,
+        "gamesTotal": 24,
+        "winRatio": 45.83,
+        "rating": 146.6781917685953
       }
     },
-    "rating": 141.01698650734738,
-    "totalTournaments": 26,
-    "totalGames": 100,
-    "totalWins": 27,
-    "totalDraws": 29,
-    "totalLosses": 44,
-    "totalWinRatio": 41.5
+    "rating": 145.77186406735774,
+    "totalTournaments": 28,
+    "totalGames": 108,
+    "totalWins": 30,
+    "totalDraws": 30,
+    "totalLosses": 48,
+    "totalWinRatio": 41.67
   },
   {
     "NAF Nr": "18066",
@@ -14040,10 +14397,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 66.67,
-        "rating": 162.6833522827911
+        "rating": 162.68377448384044
       }
     },
-    "rating": 167.1155006869204,
+    "rating": 167.11577479307127,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 6,
@@ -14056,14 +14413,24 @@ const statsData = [
     "NAF Name": "Jacaro",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 1,
+        "gamesLost": 0,
+        "gamesTotal": 3,
+        "winRatio": 83.33,
+        "rating": 159.72755414993512
+      }
+    },
+    "rating": 159.7735795237109,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 2,
+    "totalDraws": 1,
     "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalWinRatio": 83.33
   },
   {
     "NAF Nr": "32063",
@@ -14096,10 +14463,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 50,
-        "rating": 149.48152424544338
+        "rating": 149.48261260707176
       }
     },
-    "rating": 127.31272987947547,
+    "rating": 127.31323942246574,
     "totalTournaments": 3,
     "totalGames": 11,
     "totalWins": 2,
@@ -14153,10 +14520,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 150.4585326399959
+        "rating": 150.45854628331128
       }
     },
-    "rating": 151.70379507543967,
+    "rating": 151.70395216437637,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -14233,10 +14600,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 16,
         "winRatio": 62.5,
-        "rating": 172.6008840348485
+        "rating": 172.60155926352485
       }
     },
-    "rating": 179.22224887153303,
+    "rating": 179.22457935704864,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 11,
@@ -14284,22 +14651,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 2,
+        "tournaments": 3,
         "gamesWon": 4,
-        "gamesDraw": 3,
+        "gamesDraw": 4,
         "gamesLost": 3,
-        "gamesTotal": 10,
-        "winRatio": 55,
-        "rating": 157.0933842197518
+        "gamesTotal": 11,
+        "winRatio": 54.55,
+        "rating": 157.18638812904607
       }
     },
-    "rating": 159.7055688186302,
-    "totalTournaments": 2,
-    "totalGames": 10,
+    "rating": 159.78778912947718,
+    "totalTournaments": 3,
+    "totalGames": 11,
     "totalWins": 4,
-    "totalDraws": 3,
+    "totalDraws": 4,
     "totalLosses": 3,
-    "totalWinRatio": 55
+    "totalWinRatio": 54.55
   },
   {
     "NAF Nr": "21410",
@@ -14388,10 +14755,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 10,
         "winRatio": 25,
-        "rating": 124.87294067954292
+        "rating": 124.88895325139609
       }
     },
-    "rating": 118.82130611462192,
+    "rating": 118.83293138946384,
     "totalTournaments": 29,
     "totalGames": 119,
     "totalWins": 37,
@@ -14400,7 +14767,7 @@ const statsData = [
     "totalWinRatio": 42.02
   },
   {
-    "NAF Nr": "13816",
+    "NAF Nr": "13826",
     "NAF Name": "Jarvi",
     "Country": "Spain",
     "CCAA": "Apatrida",
@@ -14415,22 +14782,22 @@ const statsData = [
         "rating": 144.26125434362623
       },
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 0,
-        "gamesDraw": 1,
-        "gamesLost": 3,
-        "gamesTotal": 4,
-        "winRatio": 12.5,
-        "rating": 131.57694291942354
+        "tournaments": 2,
+        "gamesWon": 1,
+        "gamesDraw": 3,
+        "gamesLost": 4,
+        "gamesTotal": 8,
+        "winRatio": 31.25,
+        "rating": 133.54311473468434
       }
     },
-    "rating": 127.3685857353447,
-    "totalTournaments": 3,
-    "totalGames": 11,
-    "totalWins": 3,
-    "totalDraws": 1,
-    "totalLosses": 7,
-    "totalWinRatio": 31.82
+    "rating": 129.76441715947044,
+    "totalTournaments": 4,
+    "totalGames": 15,
+    "totalWins": 4,
+    "totalDraws": 3,
+    "totalLosses": 8,
+    "totalWinRatio": 36.67
   },
   {
     "NAF Nr": "16103",
@@ -14495,6 +14862,20 @@ const statsData = [
     "totalWinRatio": 25
   },
   {
+    "NAF Nr": "41386",
+    "NAF Name": "JaviiCastle",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {},
+    "rating": 150,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0
+  },
+  {
     "NAF Nr": "28328",
     "NAF Name": "javin23",
     "Country": "Spain",
@@ -14537,22 +14918,22 @@ const statsData = [
         "rating": 231.26503937640723
       },
       "2025": {
-        "tournaments": 6,
-        "gamesWon": 15,
-        "gamesDraw": 3,
-        "gamesLost": 2,
-        "gamesTotal": 20,
-        "winRatio": 82.5,
-        "rating": 199.96099676478735
+        "tournaments": 8,
+        "gamesWon": 21,
+        "gamesDraw": 4,
+        "gamesLost": 3,
+        "gamesTotal": 28,
+        "winRatio": 82.14,
+        "rating": 214.10651996319442
       }
     },
-    "rating": 259.0666419823479,
-    "totalTournaments": 59,
-    "totalGames": 235,
-    "totalWins": 163,
-    "totalDraws": 43,
-    "totalLosses": 29,
-    "totalWinRatio": 78.51
+    "rating": 263.6547155739494,
+    "totalTournaments": 61,
+    "totalGames": 243,
+    "totalWins": 169,
+    "totalDraws": 44,
+    "totalLosses": 30,
+    "totalWinRatio": 78.6
   },
   {
     "NAF Nr": "25499",
@@ -14594,22 +14975,22 @@ const statsData = [
         "rating": 172.6532709930125
       },
       "2025": {
-        "tournaments": 4,
-        "gamesWon": 9,
-        "gamesDraw": 6,
-        "gamesLost": 3,
-        "gamesTotal": 18,
-        "winRatio": 66.67,
-        "rating": 172.8911702045257
+        "tournaments": 6,
+        "gamesWon": 12,
+        "gamesDraw": 7,
+        "gamesLost": 4,
+        "gamesTotal": 23,
+        "winRatio": 67.39,
+        "rating": 178.62667034445695
       }
     },
-    "rating": 190.7493054829806,
-    "totalTournaments": 10,
-    "totalGames": 42,
-    "totalWins": 22,
-    "totalDraws": 10,
-    "totalLosses": 10,
-    "totalWinRatio": 64.29
+    "rating": 193.8846109687939,
+    "totalTournaments": 12,
+    "totalGames": 47,
+    "totalWins": 25,
+    "totalDraws": 11,
+    "totalLosses": 11,
+    "totalWinRatio": 64.89
   },
   {
     "NAF Nr": "13475",
@@ -14647,10 +15028,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 9,
         "winRatio": 22.22,
-        "rating": 129.62523340370817
+        "rating": 129.62954818882594
       }
     },
-    "rating": 125.86101307696319,
+    "rating": 125.86440250151729,
     "totalTournaments": 4,
     "totalGames": 13,
     "totalWins": 1,
@@ -14737,10 +15118,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 21,
         "winRatio": 61.9,
-        "rating": 168.74214951251693
+        "rating": 168.9503982658243
       }
     },
-    "rating": 169.13400841536924,
+    "rating": 169.24952775094937,
     "totalTournaments": 10,
     "totalGames": 45,
     "totalWins": 19,
@@ -14767,19 +15148,19 @@ const statsData = [
         "tournaments": 2,
         "gamesWon": 0,
         "gamesDraw": 3,
-        "gamesLost": 5,
-        "gamesTotal": 8,
-        "winRatio": 18.75,
-        "rating": 124.4488691446534
+        "gamesLost": 6,
+        "gamesTotal": 9,
+        "winRatio": 16.67,
+        "rating": 120.3340372032691
       }
     },
-    "rating": 96.76998222220456,
+    "rating": 93.25848350559782,
     "totalTournaments": 5,
-    "totalGames": 19,
+    "totalGames": 20,
     "totalWins": 0,
     "totalDraws": 6,
-    "totalLosses": 13,
-    "totalWinRatio": 15.79
+    "totalLosses": 14,
+    "totalWinRatio": 15
   },
   {
     "NAF Nr": "26685",
@@ -14842,19 +15223,19 @@ const statsData = [
         "tournaments": 3,
         "gamesWon": 4,
         "gamesDraw": 4,
-        "gamesLost": 6,
-        "gamesTotal": 14,
-        "winRatio": 42.86,
-        "rating": 137.47564563152946
+        "gamesLost": 7,
+        "gamesTotal": 15,
+        "winRatio": 40,
+        "rating": 133.9585961778912
       }
     },
-    "rating": 129.32855675422152,
+    "rating": 125.77555182274055,
     "totalTournaments": 5,
-    "totalGames": 21,
+    "totalGames": 22,
     "totalWins": 4,
     "totalDraws": 7,
-    "totalLosses": 10,
-    "totalWinRatio": 35.71
+    "totalLosses": 11,
+    "totalWinRatio": 34.09
   },
   {
     "NAF Nr": "26295",
@@ -14896,10 +15277,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 16,
         "winRatio": 59.38,
-        "rating": 153.7517214000496
+        "rating": 153.7952709022288
       }
     },
-    "rating": 162.13515401370375,
+    "rating": 162.1676535177067,
     "totalTournaments": 9,
     "totalGames": 35,
     "totalWins": 17,
@@ -14977,10 +15358,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 145.26877067729046
+        "rating": 145.26880677142105
       }
     },
-    "rating": 171.55414983531415,
+    "rating": 171.55432413789245,
     "totalTournaments": 3,
     "totalGames": 16,
     "totalWins": 7,
@@ -15028,10 +15409,10 @@ const statsData = [
         "gamesLost": 10,
         "gamesTotal": 34,
         "winRatio": 57.35,
-        "rating": 163.4423502536034
+        "rating": 163.46291155627392
       }
     },
-    "rating": 173.27910993970875,
+    "rating": 173.29238750840602,
     "totalTournaments": 50,
     "totalGames": 199,
     "totalWins": 78,
@@ -15075,10 +15456,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 18,
         "winRatio": 77.78,
-        "rating": 191.22013047471606
+        "rating": 191.22084738357964
       }
     },
-    "rating": 206.4886965109184,
+    "rating": 206.49039602977243,
     "totalTournaments": 10,
     "totalGames": 46,
     "totalWins": 24,
@@ -15091,14 +15472,24 @@ const statsData = [
     "NAF Name": "JGarrido",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 1,
+        "gamesLost": 0,
+        "gamesTotal": 3,
+        "winRatio": 83.33,
+        "rating": 158.74322881605735
+      }
+    },
+    "rating": 158.16274182039456,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 2,
+    "totalDraws": 1,
     "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalWinRatio": 83.33
   },
   {
     "NAF Nr": "37672",
@@ -15113,10 +15504,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 3,
         "winRatio": 0,
-        "rating": 137.92076832729734
+        "rating": 137.921225999458
       }
     },
-    "rating": 138.96368395136025,
+    "rating": 138.96385924615504,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 0,
@@ -15146,10 +15537,10 @@ const statsData = [
         "gamesLost": 10,
         "gamesTotal": 12,
         "winRatio": 12.5,
-        "rating": 107.608204324979
+        "rating": 107.60812279713846
       }
     },
-    "rating": 98.75983447875723,
+    "rating": 98.76276378818812,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 1,
@@ -15162,14 +15553,24 @@ const statsData = [
     "NAF Name": "Jinamero",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 0,
+        "gamesLost": 1,
+        "gamesTotal": 3,
+        "winRatio": 66.67,
+        "rating": 154.49345446253076
+      }
+    },
+    "rating": 154.5413818453351,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 2,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalLosses": 1,
+    "totalWinRatio": 66.67
   },
   {
     "NAF Nr": "22214",
@@ -15202,22 +15603,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 3,
+        "tournaments": 2,
+        "gamesWon": 4,
         "gamesDraw": 0,
-        "gamesLost": 1,
-        "gamesTotal": 4,
-        "winRatio": 75,
-        "rating": 160.88595640053208
+        "gamesLost": 4,
+        "gamesTotal": 8,
+        "winRatio": 50,
+        "rating": 150.47247000198047
       }
     },
-    "rating": 160.8118750584685,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 3,
+    "rating": 150.9995309793001,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 4,
     "totalDraws": 0,
-    "totalLosses": 1,
-    "totalWinRatio": 75
+    "totalLosses": 4,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "37200",
@@ -15283,22 +15684,22 @@ const statsData = [
         "rating": 170.02335093087646
       },
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 2,
-        "gamesDraw": 2,
+        "tournaments": 2,
+        "gamesWon": 3,
+        "gamesDraw": 3,
         "gamesLost": 0,
-        "gamesTotal": 4,
+        "gamesTotal": 6,
         "winRatio": 75,
-        "rating": 159.60772321872864
+        "rating": 164.20082549938783
       }
     },
-    "rating": 176.10010204604137,
-    "totalTournaments": 2,
-    "totalGames": 8,
-    "totalWins": 5,
-    "totalDraws": 3,
+    "rating": 179.9749765376552,
+    "totalTournaments": 3,
+    "totalGames": 10,
+    "totalWins": 6,
+    "totalDraws": 4,
     "totalLosses": 0,
-    "totalWinRatio": 81.25
+    "totalWinRatio": 80
   },
   {
     "NAF Nr": "20101",
@@ -15337,10 +15738,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 155.45221435481747
+        "rating": 155.45245550980414
       }
     },
-    "rating": 154.63598001764515,
+    "rating": 154.63612713947865,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -15397,10 +15798,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 3,
         "winRatio": 83.33,
-        "rating": 159.49844124456402
+        "rating": 159.5203179646838
       }
     },
-    "rating": 165.76593869483298,
+    "rating": 165.7781951668779,
     "totalTournaments": 9,
     "totalGames": 35,
     "totalWins": 17,
@@ -15445,10 +15846,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 143.11795493900368
+        "rating": 143.11964756147293
       }
     },
-    "rating": 143.48547463169157,
+    "rating": 143.4887828059499,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -15502,10 +15903,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 150.34620796548919
+        "rating": 150.35996196888755
       }
     },
-    "rating": 152.36102091728856,
+    "rating": 152.3682669035694,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -15534,22 +15935,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 6,
-        "gamesWon": 8,
+        "tournaments": 7,
+        "gamesWon": 9,
         "gamesDraw": 6,
-        "gamesLost": 10,
-        "gamesTotal": 24,
-        "winRatio": 45.83,
-        "rating": 138.33155970578633
+        "gamesLost": 13,
+        "gamesTotal": 28,
+        "winRatio": 42.86,
+        "rating": 127.86259171080505
       }
     },
-    "rating": 138.29994074360414,
-    "totalTournaments": 6,
-    "totalGames": 24,
-    "totalWins": 8,
+    "rating": 128.23395448379532,
+    "totalTournaments": 7,
+    "totalGames": 28,
+    "totalWins": 9,
     "totalDraws": 6,
-    "totalLosses": 10,
-    "totalWinRatio": 45.83
+    "totalLosses": 13,
+    "totalWinRatio": 42.86
   },
   {
     "NAF Nr": "27067",
@@ -15567,20 +15968,20 @@ const statsData = [
         "rating": 149.97766284620138
       },
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 1,
-        "gamesDraw": 2,
+        "gamesDraw": 3,
         "gamesLost": 1,
-        "gamesTotal": 4,
+        "gamesTotal": 5,
         "winRatio": 50,
-        "rating": 149.52013232810742
+        "rating": 149.54096710970936
       }
     },
-    "rating": 151.07250520181196,
-    "totalTournaments": 2,
-    "totalGames": 8,
+    "rating": 151.02594026467793,
+    "totalTournaments": 3,
+    "totalGames": 9,
     "totalWins": 3,
-    "totalDraws": 2,
+    "totalDraws": 3,
     "totalLosses": 3,
     "totalWinRatio": 50
   },
@@ -15600,22 +16001,22 @@ const statsData = [
         "rating": 164.44059377231162
       },
       "2025": {
-        "tournaments": 3,
+        "tournaments": 4,
         "gamesWon": 6,
-        "gamesDraw": 6,
+        "gamesDraw": 7,
         "gamesLost": 2,
-        "gamesTotal": 14,
-        "winRatio": 64.29,
-        "rating": 172.05642382903818
+        "gamesTotal": 15,
+        "winRatio": 63.33,
+        "rating": 171.10904251366205
       }
     },
-    "rating": 186.08256312624732,
-    "totalTournaments": 9,
-    "totalGames": 38,
+    "rating": 184.55560959010137,
+    "totalTournaments": 10,
+    "totalGames": 39,
     "totalWins": 15,
-    "totalDraws": 15,
+    "totalDraws": 16,
     "totalLosses": 8,
-    "totalWinRatio": 59.21
+    "totalWinRatio": 58.97
   },
   {
     "NAF Nr": "38170",
@@ -15647,36 +16048,46 @@ const statsData = [
         "rating": 134.59620575376283
       },
       "2025": {
-        "tournaments": 4,
-        "gamesWon": 4,
-        "gamesDraw": 3,
-        "gamesLost": 11,
-        "gamesTotal": 18,
-        "winRatio": 30.56,
-        "rating": 118.2651802628758
+        "tournaments": 5,
+        "gamesWon": 6,
+        "gamesDraw": 4,
+        "gamesLost": 12,
+        "gamesTotal": 22,
+        "winRatio": 36.36,
+        "rating": 127.79513748041299
       }
     },
-    "rating": 115.24438041751228,
-    "totalTournaments": 5,
-    "totalGames": 21,
-    "totalWins": 4,
-    "totalDraws": 3,
-    "totalLosses": 14,
-    "totalWinRatio": 26.19
+    "rating": 126.74555393107354,
+    "totalTournaments": 6,
+    "totalGames": 25,
+    "totalWins": 6,
+    "totalDraws": 4,
+    "totalLosses": 15,
+    "totalWinRatio": 32
   },
   {
     "NAF Nr": "30060",
     "NAF Name": "JositoSoft",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 1,
+        "gamesLost": 2,
+        "gamesTotal": 4,
+        "winRatio": 37.5,
+        "rating": 138.83905687667956
+      }
+    },
+    "rating": 139.17836593705113,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 2,
+    "totalWinRatio": 37.5
   },
   {
     "NAF Nr": "26535",
@@ -15719,10 +16130,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 140.13221789558344
+        "rating": 140.132217952574
       }
     },
-    "rating": 140.2995427555286,
+    "rating": 140.29954278404563,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -15779,22 +16190,22 @@ const statsData = [
         "rating": 147.77406791900336
       },
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 1,
-        "gamesDraw": 1,
+        "gamesDraw": 2,
         "gamesLost": 4,
-        "gamesTotal": 6,
-        "winRatio": 25,
-        "rating": 133.59537218718216
+        "gamesTotal": 7,
+        "winRatio": 28.57,
+        "rating": 134.30161245739916
       }
     },
-    "rating": 133.2147189152035,
-    "totalTournaments": 3,
-    "totalGames": 14,
+    "rating": 133.93615836530685,
+    "totalTournaments": 4,
+    "totalGames": 15,
     "totalWins": 5,
-    "totalDraws": 1,
+    "totalDraws": 2,
     "totalLosses": 8,
-    "totalWinRatio": 39.29
+    "totalWinRatio": 40
   },
   {
     "NAF Nr": "40780",
@@ -15809,10 +16220,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 145.14362306193058
+        "rating": 145.14371227378558
       }
     },
-    "rating": 145.4823494017869,
+    "rating": 145.48444871316184,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -15881,10 +16292,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 148.1413890852705
+        "rating": 148.15505651198305
       }
     },
-    "rating": 147.51539072717938,
+    "rating": 147.52361485128924,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -15908,22 +16319,22 @@ const statsData = [
         "rating": 137.03320178325475
       },
       "2025": {
-        "tournaments": 2,
+        "tournaments": 3,
         "gamesWon": 3,
-        "gamesDraw": 1,
-        "gamesLost": 4,
-        "gamesTotal": 8,
-        "winRatio": 43.75,
-        "rating": 145.81402612287403
+        "gamesDraw": 3,
+        "gamesLost": 6,
+        "gamesTotal": 12,
+        "winRatio": 37.5,
+        "rating": 133.89306624154727
       }
     },
-    "rating": 135.7889505372294,
-    "totalTournaments": 3,
-    "totalGames": 12,
+    "rating": 125.77510539113588,
+    "totalTournaments": 4,
+    "totalGames": 16,
     "totalWins": 4,
-    "totalDraws": 1,
-    "totalLosses": 7,
-    "totalWinRatio": 37.5
+    "totalDraws": 3,
+    "totalLosses": 9,
+    "totalWinRatio": 34.38
   },
   {
     "NAF Nr": "33618",
@@ -15971,10 +16382,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 155.70417430965773
+        "rating": 155.70417545033806
       }
     },
-    "rating": 153.26718053825897,
+    "rating": 153.2671812432924,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -16004,30 +16415,16 @@ const statsData = [
         "gamesLost": 9,
         "gamesTotal": 20,
         "winRatio": 50,
-        "rating": 142.9700458545011
+        "rating": 142.97722618400363
       }
     },
-    "rating": 145.07257699460186,
+    "rating": 145.1089813395902,
     "totalTournaments": 8,
     "totalGames": 32,
     "totalWins": 12,
     "totalDraws": 6,
     "totalLosses": 14,
     "totalWinRatio": 46.88
-  },
-  {
-    "NAF Nr": "16754",
-    "NAF Name": "Juanraman",
-    "Country": "Spain",
-    "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
   },
   {
     "NAF Nr": "36956",
@@ -16075,10 +16472,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 37.5,
-        "rating": 141.26355505065575
+        "rating": 141.26355495822003
       }
     },
-    "rating": 149.24806958190368,
+    "rating": 149.24815677883566,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 5,
@@ -16111,22 +16508,22 @@ const statsData = [
         "rating": 160.741943571053
       },
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 1,
-        "gamesDraw": 1,
-        "gamesLost": 2,
-        "gamesTotal": 4,
+        "tournaments": 2,
+        "gamesWon": 2,
+        "gamesDraw": 2,
+        "gamesLost": 4,
+        "gamesTotal": 8,
         "winRatio": 37.5,
-        "rating": 143.33463257838173
+        "rating": 141.64604201543446
       }
     },
-    "rating": 162.46232885444226,
-    "totalTournaments": 6,
-    "totalGames": 24,
-    "totalWins": 9,
-    "totalDraws": 9,
-    "totalLosses": 6,
-    "totalWinRatio": 56.25
+    "rating": 161.1874342092037,
+    "totalTournaments": 7,
+    "totalGames": 28,
+    "totalWins": 10,
+    "totalDraws": 10,
+    "totalLosses": 8,
+    "totalWinRatio": 53.57
   },
   {
     "NAF Nr": "35235",
@@ -16135,21 +16532,21 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 1,
-        "gamesDraw": 0,
-        "gamesLost": 3,
-        "gamesTotal": 4,
+        "gamesDraw": 2,
+        "gamesLost": 5,
+        "gamesTotal": 8,
         "winRatio": 25,
-        "rating": 138.90350527932378
+        "rating": 128.12761855505127
       }
     },
-    "rating": 137.34546096821055,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 125.4455539108556,
+    "totalTournaments": 2,
+    "totalGames": 8,
     "totalWins": 1,
-    "totalDraws": 0,
-    "totalLosses": 3,
+    "totalDraws": 2,
+    "totalLosses": 5,
     "totalWinRatio": 25
   },
   {
@@ -16240,10 +16637,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 50,
-        "rating": 149.1055779026874
+        "rating": 149.47770881694865
       }
     },
-    "rating": 163.42929247510457,
+    "rating": 163.608850992498,
     "totalTournaments": 9,
     "totalGames": 31,
     "totalWins": 13,
@@ -16304,14 +16701,24 @@ const statsData = [
     "NAF Name": "Justjon",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 1,
+        "gamesLost": 1,
+        "gamesTotal": 3,
+        "winRatio": 50,
+        "rating": 148.33903214230799
+      }
+    },
+    "rating": 147.75843003857608,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 1,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "31038",
@@ -16423,22 +16830,22 @@ const statsData = [
         "rating": 173.84495047538084
       },
       "2025": {
-        "tournaments": 7,
+        "tournaments": 8,
         "gamesWon": 12,
-        "gamesDraw": 6,
-        "gamesLost": 11,
-        "gamesTotal": 29,
-        "winRatio": 51.72,
-        "rating": 146.74425840028033
+        "gamesDraw": 8,
+        "gamesLost": 13,
+        "gamesTotal": 33,
+        "winRatio": 48.48,
+        "rating": 141.70425848154656
       }
     },
-    "rating": 160.20093246030538,
-    "totalTournaments": 16,
-    "totalGames": 65,
+    "rating": 156.4210726956774,
+    "totalTournaments": 17,
+    "totalGames": 69,
     "totalWins": 30,
-    "totalDraws": 13,
-    "totalLosses": 22,
-    "totalWinRatio": 56.15
+    "totalDraws": 15,
+    "totalLosses": 24,
+    "totalWinRatio": 54.35
   },
   {
     "NAF Nr": "28204",
@@ -16519,10 +16926,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 149.38606769449612
+        "rating": 149.38680150684436
       }
     },
-    "rating": 161.15752452572997,
+    "rating": 161.15804302985077,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 7,
@@ -16629,20 +17036,20 @@ const statsData = [
       "2025": {
         "tournaments": 1,
         "gamesWon": 2,
-        "gamesDraw": 1,
-        "gamesLost": 1,
-        "gamesTotal": 4,
-        "winRatio": 62.5,
-        "rating": 154.50201757126413
+        "gamesDraw": 0,
+        "gamesLost": 3,
+        "gamesTotal": 5,
+        "winRatio": 40,
+        "rating": 143.7786045813301
       }
     },
-    "rating": 134.2570322880567,
+    "rating": 124.17538511702179,
     "totalTournaments": 4,
-    "totalGames": 16,
+    "totalGames": 17,
     "totalWins": 3,
-    "totalDraws": 5,
-    "totalLosses": 8,
-    "totalWinRatio": 34.38
+    "totalDraws": 4,
+    "totalLosses": 10,
+    "totalWinRatio": 29.41
   },
   {
     "NAF Nr": "22222",
@@ -16693,16 +17100,30 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 8,
         "winRatio": 75,
-        "rating": 171.99856360756286
+        "rating": 171.99971831063755
       }
     },
-    "rating": 183.88522530523684,
+    "rating": 183.88588300393812,
     "totalTournaments": 21,
     "totalGames": 85,
     "totalWins": 41,
     "totalDraws": 13,
     "totalLosses": 31,
     "totalWinRatio": 55.88
+  },
+  {
+    "NAF Nr": "39122",
+    "NAF Name": "Kast",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {},
+    "rating": 150,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0
   },
   {
     "NAF Nr": "36606",
@@ -16755,19 +17176,19 @@ const statsData = [
         "tournaments": 1,
         "gamesWon": 2,
         "gamesDraw": 2,
-        "gamesLost": 0,
-        "gamesTotal": 4,
-        "winRatio": 75,
-        "rating": 157.45468512844576
+        "gamesLost": 1,
+        "gamesTotal": 5,
+        "winRatio": 60,
+        "rating": 152.68993602929618
       }
     },
-    "rating": 190.66253385531238,
+    "rating": 184.90300356240624,
     "totalTournaments": 7,
-    "totalGames": 28,
+    "totalGames": 29,
     "totalWins": 17,
     "totalDraws": 6,
-    "totalLosses": 5,
-    "totalWinRatio": 71.43
+    "totalLosses": 6,
+    "totalWinRatio": 68.97
   },
   {
     "NAF Nr": "8834",
@@ -16791,10 +17212,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 41.67,
-        "rating": 147.42056690432273
+        "rating": 147.42201745942
       }
     },
-    "rating": 160.3907628692528,
+    "rating": 160.39142094376572,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 6,
@@ -16857,10 +17278,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 138.38581430061467
+        "rating": 138.39813205599177
       }
     },
-    "rating": 139.0235994411847,
+    "rating": 139.03086082360568,
     "totalTournaments": 3,
     "totalGames": 11,
     "totalWins": 1,
@@ -16873,14 +17294,24 @@ const statsData = [
     "NAF Name": "KeL",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 0,
+        "gamesLost": 3,
+        "gamesTotal": 4,
+        "winRatio": 25,
+        "rating": 138.01184975317452
+      }
+    },
+    "rating": 137.06389019287118,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 1,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalLosses": 3,
+    "totalWinRatio": 25
   },
   {
     "NAF Nr": "21667",
@@ -16919,10 +17350,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 144.46482791629194
+        "rating": 144.46482791628327
       }
     },
-    "rating": 144.66896064749153,
+    "rating": 144.66896065408642,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -16994,10 +17425,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 10,
         "winRatio": 70,
-        "rating": 174.1135142018734
+        "rating": 174.12932619567093
       }
     },
-    "rating": 212.6410498398964,
+    "rating": 212.64683809927456,
     "totalTournaments": 6,
     "totalGames": 26,
     "totalWins": 18,
@@ -17027,10 +17458,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 8,
         "winRatio": 68.75,
-        "rating": 165.68681503575104
+        "rating": 165.68681494950565
       }
     },
-    "rating": 160.82323980112596,
+    "rating": 160.82333801137858,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 6,
@@ -17065,10 +17496,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 134.10018742095474
+        "rating": 133.9467460167744
       }
     },
-    "rating": 135.2063760912017,
+    "rating": 135.05447753840681,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -17083,22 +17514,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 1,
-        "gamesDraw": 9,
-        "gamesLost": 2,
-        "gamesTotal": 12,
-        "winRatio": 45.83,
-        "rating": 149.0885228659115
+        "tournaments": 4,
+        "gamesWon": 2,
+        "gamesDraw": 10,
+        "gamesLost": 4,
+        "gamesTotal": 16,
+        "winRatio": 43.75,
+        "rating": 146.16855329190435
       }
     },
-    "rating": 151.418621289459,
-    "totalTournaments": 3,
-    "totalGames": 12,
-    "totalWins": 1,
-    "totalDraws": 9,
-    "totalLosses": 2,
-    "totalWinRatio": 45.83
+    "rating": 150.2684393638047,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 2,
+    "totalDraws": 10,
+    "totalLosses": 4,
+    "totalWinRatio": 43.75
   },
   {
     "NAF Nr": "29128",
@@ -17155,10 +17586,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 138.21163065715749
+        "rating": 138.21175601880026
       }
     },
-    "rating": 134.45064909315522,
+    "rating": 134.45077445846306,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -17203,10 +17634,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 11,
         "winRatio": 45.45,
-        "rating": 144.20336792001825
+        "rating": 144.24119662975883
       }
     },
-    "rating": 144.46161370448067,
+    "rating": 144.4876742363187,
     "totalTournaments": 3,
     "totalGames": 11,
     "totalWins": 3,
@@ -17227,10 +17658,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 146.17669691226754
+        "rating": 146.18521242103142
       }
     },
-    "rating": 146.04967167349002,
+    "rating": 146.05487166338293,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -17284,10 +17715,10 @@ const statsData = [
         "gamesLost": 11,
         "gamesTotal": 18,
         "winRatio": 27.78,
-        "rating": 116.05956753415686
+        "rating": 116.31997384020073
       }
     },
-    "rating": 101.82396472801611,
+    "rating": 102.08143578322193,
     "totalTournaments": 7,
     "totalGames": 30,
     "totalWins": 3,
@@ -17374,10 +17805,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 58.33,
-        "rating": 155.37617999823075
+        "rating": 155.49785024487102
       }
     },
-    "rating": 157.56260381771523,
+    "rating": 157.65944402528652,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 4,
@@ -17407,10 +17838,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 56.25,
-        "rating": 159.08840199553322
+        "rating": 159.08950061310836
       }
     },
-    "rating": 157.3723184241169,
+    "rating": 157.3727650629083,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 6,
@@ -17431,10 +17862,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 131.08232900506854
+        "rating": 131.09606918259522
       }
     },
-    "rating": 132.6698146392591,
+    "rating": 132.6780320273388,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -17464,10 +17895,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 143.04802996744277
+        "rating": 143.06538956232686
       }
     },
-    "rating": 152.928332747331,
+    "rating": 152.93838392093647,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -17488,10 +17919,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 66.67,
-        "rating": 162.17581071114833
+        "rating": 161.9789610945113
       }
     },
-    "rating": 162.67024242360847,
+    "rating": 162.47762131638885,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 3,
@@ -17524,22 +17955,22 @@ const statsData = [
         "rating": 150.64961375419063
       },
       "2025": {
-        "tournaments": 2,
+        "tournaments": 3,
         "gamesWon": 1,
-        "gamesDraw": 4,
+        "gamesDraw": 5,
         "gamesLost": 5,
-        "gamesTotal": 10,
-        "winRatio": 30,
-        "rating": 130.48264093320898
+        "gamesTotal": 11,
+        "winRatio": 31.82,
+        "rating": 131.5917293949845
       }
     },
-    "rating": 141.4577201314849,
-    "totalTournaments": 4,
-    "totalGames": 18,
+    "rating": 142.20652012281593,
+    "totalTournaments": 5,
+    "totalGames": 19,
     "totalWins": 4,
-    "totalDraws": 8,
+    "totalDraws": 9,
     "totalLosses": 6,
-    "totalWinRatio": 44.44
+    "totalWinRatio": 44.74
   },
   {
     "NAF Nr": "11010102",
@@ -17578,10 +18009,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 132.17634552333016
+        "rating": 132.17766912297392
       }
     },
-    "rating": 131.8931349003675,
+    "rating": 131.8939307096532,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -17620,22 +18051,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 1,
-        "gamesDraw": 2,
-        "gamesLost": 6,
-        "gamesTotal": 9,
-        "winRatio": 22.22,
-        "rating": 125.29845927212916
+        "tournaments": 5,
+        "gamesWon": 2,
+        "gamesDraw": 4,
+        "gamesLost": 9,
+        "gamesTotal": 15,
+        "winRatio": 26.67,
+        "rating": 122.46177730434287
       }
     },
-    "rating": 127.40531366294644,
-    "totalTournaments": 3,
-    "totalGames": 9,
-    "totalWins": 1,
-    "totalDraws": 2,
-    "totalLosses": 6,
-    "totalWinRatio": 22.22
+    "rating": 124.26979359544292,
+    "totalTournaments": 5,
+    "totalGames": 15,
+    "totalWins": 2,
+    "totalDraws": 4,
+    "totalLosses": 9,
+    "totalWinRatio": 26.67
   },
   {
     "NAF Nr": "29332",
@@ -17671,22 +18102,22 @@ const statsData = [
         "rating": 164.14928691492065
       },
       "2025": {
-        "tournaments": 4,
-        "gamesWon": 9,
-        "gamesDraw": 2,
-        "gamesLost": 7,
-        "gamesTotal": 18,
-        "winRatio": 55.56,
-        "rating": 148.87762755092612
+        "tournaments": 5,
+        "gamesWon": 11,
+        "gamesDraw": 3,
+        "gamesLost": 8,
+        "gamesTotal": 22,
+        "winRatio": 56.82,
+        "rating": 156.23091948547366
       }
     },
-    "rating": 158.48480683230056,
-    "totalTournaments": 11,
-    "totalGames": 45,
-    "totalWins": 21,
-    "totalDraws": 6,
-    "totalLosses": 18,
-    "totalWinRatio": 53.33
+    "rating": 164.94153696204535,
+    "totalTournaments": 12,
+    "totalGames": 49,
+    "totalWins": 23,
+    "totalDraws": 7,
+    "totalLosses": 19,
+    "totalWinRatio": 54.08
   },
   {
     "NAF Nr": "34562",
@@ -17767,10 +18198,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 4,
         "winRatio": 0,
-        "rating": 127.59477936862052
+        "rating": 127.59731642592801
       }
     },
-    "rating": 119.19079600918336,
+    "rating": 119.1926404112178,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -17880,10 +18311,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 155.74096127085915
+        "rating": 155.74228304157612
       }
     },
-    "rating": 159.67312452692957,
+    "rating": 159.67392327441297,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -17913,10 +18344,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 43.75,
-        "rating": 145.26393686662286
+        "rating": 145.26388914454856
       }
     },
-    "rating": 147.4332637213749,
+    "rating": 147.48692414110394,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 5,
@@ -17937,10 +18368,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 148.20635390414827
+        "rating": 148.22285125293732
       }
     },
-    "rating": 148.07082887329383,
+    "rating": 148.08079313660951,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -18084,10 +18515,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 155.58252356115955
+        "rating": 155.58256463178822
       }
     },
-    "rating": 155.6891151336549,
+    "rating": 155.68913566695116,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -18100,14 +18531,24 @@ const statsData = [
     "NAF Name": "kvothe",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 1,
+        "gamesLost": 1,
+        "gamesTotal": 3,
+        "winRatio": 50,
+        "rating": 149.8814391071042
+      }
+    },
+    "rating": 149.8337534764385,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 1,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "18108",
@@ -18202,10 +18643,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 155.44913145443653
+        "rating": 155.44946027759062
       }
     },
-    "rating": 153.79420790655524,
+    "rating": 153.79443686854316,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -18220,22 +18661,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 0,
-        "gamesDraw": 2,
+        "gamesDraw": 3,
         "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 25,
-        "rating": 139.1355332882475
+        "gamesTotal": 5,
+        "winRatio": 30,
+        "rating": 139.61717625923893
       }
     },
-    "rating": 141.42519298436136,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 141.21956557721077,
+    "totalTournaments": 2,
+    "totalGames": 5,
     "totalWins": 0,
-    "totalDraws": 2,
+    "totalDraws": 3,
     "totalLosses": 2,
-    "totalWinRatio": 25
+    "totalWinRatio": 30
   },
   {
     "NAF Nr": "36390",
@@ -18273,10 +18714,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 140.83537099892175
+        "rating": 140.83906328774688
       }
     },
-    "rating": 148.05625308175874,
+    "rating": 148.0588219600715,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -18291,22 +18732,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 2,
+        "tournaments": 3,
         "gamesWon": 1,
-        "gamesDraw": 3,
+        "gamesDraw": 4,
         "gamesLost": 6,
-        "gamesTotal": 10,
-        "winRatio": 25,
-        "rating": 122.10383704036562
+        "gamesTotal": 11,
+        "winRatio": 27.27,
+        "rating": 124.5109801931775
       }
     },
-    "rating": 121.95950286929958,
-    "totalTournaments": 2,
-    "totalGames": 10,
+    "rating": 124.90136736237392,
+    "totalTournaments": 3,
+    "totalGames": 11,
     "totalWins": 1,
-    "totalDraws": 3,
+    "totalDraws": 4,
     "totalLosses": 6,
-    "totalWinRatio": 25
+    "totalWinRatio": 27.27
   },
   {
     "NAF Nr": "37813",
@@ -18330,10 +18771,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 140.1925203438079
+        "rating": 140.4522576844555
       }
     },
-    "rating": 125.19307643384336,
+    "rating": 125.35282177697101,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 1,
@@ -18394,14 +18835,24 @@ const statsData = [
     "NAF Name": "Largo-Puerto",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 0,
+        "gamesLost": 1,
+        "gamesTotal": 3,
+        "winRatio": 66.67,
+        "rating": 155.0990195135928
+      }
+    },
+    "rating": 155.0990195135928,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 2,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalLosses": 1,
+    "totalWinRatio": 66.67
   },
   {
     "NAF Nr": "31702",
@@ -18425,10 +18876,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 12,
         "winRatio": 66.67,
-        "rating": 173.54131412939662
+        "rating": 173.54091877880302
       }
     },
-    "rating": 182.7389371491244,
+    "rating": 182.73856277948929,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 10,
@@ -18497,10 +18948,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 50,
-        "rating": 149.6573346204467
+        "rating": 149.93624434873516
       }
     },
-    "rating": 150.58021342138161,
+    "rating": 150.87086558160107,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 2,
@@ -18592,10 +19043,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 66.67,
-        "rating": 157.9216564626104
+        "rating": 157.94457446897886
       }
     },
-    "rating": 157.01284199161776,
+    "rating": 157.0252089856906,
     "totalTournaments": 3,
     "totalGames": 10,
     "totalWins": 4,
@@ -18616,10 +19067,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 4,
         "winRatio": 0,
-        "rating": 127.3854258179095
+        "rating": 127.38422974644679
       }
     },
-    "rating": 123.59609956310183,
+    "rating": 124.95092607728171,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -18632,14 +19083,24 @@ const statsData = [
     "NAF Name": "lgr83",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 2,
+        "gamesLost": 2,
+        "gamesTotal": 4,
+        "winRatio": 25,
+        "rating": 137.48799889216218
+      }
+    },
+    "rating": 137.9188655190452,
+    "totalTournaments": 1,
+    "totalGames": 4,
     "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalDraws": 2,
+    "totalLosses": 2,
+    "totalWinRatio": 25
   },
   {
     "NAF Nr": "29391",
@@ -18716,10 +19177,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 146.2268540066293
+        "rating": 146.22718422249775
       }
     },
-    "rating": 147.03983522131142,
+    "rating": 147.04018235561767,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -18740,10 +19201,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 58.33,
-        "rating": 151.86150654598316
+        "rating": 151.88720562730342
       }
     },
-    "rating": 152.04398475160158,
+    "rating": 152.05933491749818,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 3,
@@ -18764,10 +19225,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 50,
-        "rating": 149.920132260665
+        "rating": 149.92062734242066
       }
     },
-    "rating": 152.21510160323527,
+    "rating": 152.21551049561003,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 3,
@@ -18877,10 +19338,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 151.56682063367364
+        "rating": 151.56787145796963
       }
     },
-    "rating": 174.70446923105186,
+    "rating": 174.70639895557733,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 8,
@@ -18934,16 +19395,30 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 75,
-        "rating": 162.1986189156125
+        "rating": 162.19833516094855
       }
     },
-    "rating": 167.24566651348346,
+    "rating": 167.24526776860483,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
     "totalDraws": 3,
     "totalLosses": 1,
     "totalWinRatio": 68.75
+  },
+  {
+    "NAF Nr": "41471",
+    "NAF Name": "Lord Axia",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {},
+    "rating": 150,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0
   },
   {
     "NAF Nr": "27476",
@@ -18961,22 +19436,22 @@ const statsData = [
         "rating": 142.74087752747047
       },
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 2,
+        "tournaments": 2,
+        "gamesWon": 3,
         "gamesDraw": 0,
-        "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 50,
-        "rating": 150
+        "gamesLost": 5,
+        "gamesTotal": 8,
+        "winRatio": 37.5,
+        "rating": 141.6028541109659
       }
     },
-    "rating": 143.87909872500242,
-    "totalTournaments": 2,
-    "totalGames": 7,
-    "totalWins": 3,
+    "rating": 138.2495330525245,
+    "totalTournaments": 3,
+    "totalGames": 11,
+    "totalWins": 4,
     "totalDraws": 0,
-    "totalLosses": 4,
-    "totalWinRatio": 42.86
+    "totalLosses": 7,
+    "totalWinRatio": 36.36
   },
   {
     "NAF Nr": "37484",
@@ -19000,10 +19475,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 14,
         "winRatio": 53.57,
-        "rating": 155.72709449974175
+        "rating": 155.74949455702412
       }
     },
-    "rating": 152.20430330962986,
+    "rating": 152.22176524682504,
     "totalTournaments": 4,
     "totalGames": 17,
     "totalWins": 6,
@@ -19057,10 +19532,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 50,
-        "rating": 149.43726127206355
+        "rating": 149.45319996351859
       }
     },
-    "rating": 160.4416152175531,
+    "rating": 160.4498972135115,
     "totalTournaments": 6,
     "totalGames": 26,
     "totalWins": 11,
@@ -19150,10 +19625,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 12,
         "winRatio": 66.67,
-        "rating": 168.63101093063204
+        "rating": 168.63183799139216
       }
     },
-    "rating": 186.26349248625624,
+    "rating": 186.26501682166332,
     "totalTournaments": 19,
     "totalGames": 76,
     "totalWins": 40,
@@ -19210,10 +19685,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 133.02772340298202
+        "rating": 133.04141514164434
       }
     },
-    "rating": 135.3298795242487,
+    "rating": 135.3371949724765,
     "totalTournaments": 38,
     "totalGames": 156,
     "totalWins": 47,
@@ -19243,10 +19718,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 150.61361066746557
+        "rating": 150.613830052609
       }
     },
-    "rating": 157.75231993763194,
+    "rating": 157.75243745625173,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -19276,10 +19751,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 56.25,
-        "rating": 153.8110373484705
+        "rating": 153.819754855067
       }
     },
-    "rating": 150.69249041015485,
+    "rating": 150.6977370118574,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 6,
@@ -19333,10 +19808,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 8,
         "winRatio": 62.5,
-        "rating": 159.80858479596347
+        "rating": 159.808538319088
       }
     },
-    "rating": 181.06236988663062,
+    "rating": 181.0638534919315,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 9,
@@ -19365,22 +19840,46 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 0,
-        "gamesDraw": 0,
-        "gamesLost": 4,
-        "gamesTotal": 4,
-        "winRatio": 0,
-        "rating": 131.42487138692195
+        "tournaments": 2,
+        "gamesWon": 1,
+        "gamesDraw": 1,
+        "gamesLost": 6,
+        "gamesTotal": 8,
+        "winRatio": 18.75,
+        "rating": 130.83154848632765
       }
     },
-    "rating": 131.38598950493767,
+    "rating": 131.83554619671906,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 6,
+    "totalWinRatio": 18.75
+  },
+  {
+    "NAF Nr": "23358",
+    "NAF Name": "lro_demons",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 1,
+        "gamesLost": 0,
+        "gamesTotal": 1,
+        "winRatio": 50,
+        "rating": 150.6416569503605
+      }
+    },
+    "rating": 151.33378742604543,
     "totalTournaments": 1,
-    "totalGames": 4,
+    "totalGames": 1,
     "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 4,
-    "totalWinRatio": 0
+    "totalDraws": 1,
+    "totalLosses": 0,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "31574",
@@ -19413,10 +19912,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 151.45564510085975
+        "rating": 151.45564500705666
       }
     },
-    "rating": 153.054295510721,
+    "rating": 153.0544001805587,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 7,
@@ -19527,16 +20026,40 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 43.75,
-        "rating": 143.9866756266474
+        "rating": 143.98667356319234
       }
     },
-    "rating": 135.19747778682435,
+    "rating": 135.19979155995256,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 4,
     "totalDraws": 5,
     "totalLosses": 7,
     "totalWinRatio": 40.63
+  },
+  {
+    "NAF Nr": "21996",
+    "NAF Name": "Luisete",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 1,
+        "gamesLost": 0,
+        "gamesTotal": 1,
+        "winRatio": 50,
+        "rating": 149.97916521839807
+      }
+    },
+    "rating": 150.04656493713404,
+    "totalTournaments": 1,
+    "totalGames": 1,
+    "totalWins": 0,
+    "totalDraws": 1,
+    "totalLosses": 0,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "30089",
@@ -19569,10 +20092,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 6,
         "winRatio": 33.33,
-        "rating": 141.40122192628928
+        "rating": 141.40296107886826
       }
     },
-    "rating": 149.6194836236719,
+    "rating": 149.62066487928888,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 6,
@@ -19602,10 +20125,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 136.94204403767134
+        "rating": 136.9466580215247
       }
     },
-    "rating": 126.58138967660992,
+    "rating": 126.5844581468894,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 0,
@@ -19674,10 +20197,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 148.48917199919623
+        "rating": 148.50146244323653
       }
     },
-    "rating": 149.43695860774986,
+    "rating": 149.44431139875513,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -19755,10 +20278,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 12,
         "winRatio": 62.5,
-        "rating": 166.6592954264476
+        "rating": 166.6628189983572
       }
     },
-    "rating": 161.44330351941974,
+    "rating": 161.44741164027042,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 7,
@@ -19883,10 +20406,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 142.38901419577104
+        "rating": 142.68441827227028
       }
     },
-    "rating": 141.37890639187492,
+    "rating": 141.53587268459236,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -19930,10 +20453,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 25,
-        "rating": 129.8122304820987
+        "rating": 129.81222917837002
       }
     },
-    "rating": 121.0658323597596,
+    "rating": 121.06801042570402,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 1,
@@ -19984,22 +20507,22 @@ const statsData = [
         "rating": 158.05100829380282
       },
       "2025": {
-        "tournaments": 2,
+        "tournaments": 3,
         "gamesWon": 4,
-        "gamesDraw": 5,
-        "gamesLost": 1,
-        "gamesTotal": 10,
-        "winRatio": 65,
-        "rating": 164.1979489522234
+        "gamesDraw": 7,
+        "gamesLost": 3,
+        "gamesTotal": 14,
+        "winRatio": 53.57,
+        "rating": 155.06021741349684
       }
     },
-    "rating": 184.07810149510854,
-    "totalTournaments": 12,
-    "totalGames": 50,
+    "rating": 174.23200439584002,
+    "totalTournaments": 13,
+    "totalGames": 54,
     "totalWins": 24,
-    "totalDraws": 14,
-    "totalLosses": 12,
-    "totalWinRatio": 62
+    "totalDraws": 16,
+    "totalLosses": 14,
+    "totalWinRatio": 59.26
   },
   {
     "NAF Nr": "24530",
@@ -20038,10 +20561,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 150.8391613756809
+        "rating": 150.83987073223386
       }
     },
-    "rating": 153.5844120484324,
+    "rating": 153.58483404273932,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -20224,10 +20747,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 140.32678320460653
+        "rating": 140.32686437454578
       }
     },
-    "rating": 144.44334871509187,
+    "rating": 144.44348038452262,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -20275,22 +20798,22 @@ const statsData = [
         "rating": 144.54512455129205
       },
       "2025": {
-        "tournaments": 4,
-        "gamesWon": 2,
+        "tournaments": 5,
+        "gamesWon": 4,
         "gamesDraw": 7,
-        "gamesLost": 9,
-        "gamesTotal": 18,
-        "winRatio": 30.56,
-        "rating": 119.35746819488371
+        "gamesLost": 11,
+        "gamesTotal": 22,
+        "winRatio": 34.09,
+        "rating": 121.26759698571709
       }
     },
-    "rating": 116.93981902806331,
-    "totalTournaments": 9,
-    "totalGames": 38,
-    "totalWins": 8,
+    "rating": 119.62193587315728,
+    "totalTournaments": 10,
+    "totalGames": 42,
+    "totalWins": 10,
     "totalDraws": 14,
-    "totalLosses": 16,
-    "totalWinRatio": 39.47
+    "totalLosses": 18,
+    "totalWinRatio": 40.48
   },
   {
     "NAF Nr": "30823",
@@ -20314,10 +20837,10 @@ const statsData = [
         "gamesLost": 8,
         "gamesTotal": 16,
         "winRatio": 40.63,
-        "rating": 140.95601795863507
+        "rating": 140.95616240059528
       }
     },
-    "rating": 137.36070681079266,
+    "rating": 137.3641692226212,
     "totalTournaments": 9,
     "totalGames": 40,
     "totalWins": 13,
@@ -20347,10 +20870,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 6,
         "winRatio": 83.33,
-        "rating": 175.3181041621931
+        "rating": 175.32551369122268
       }
     },
-    "rating": 192.10270685205998,
+    "rating": 192.1108356485527,
     "totalTournaments": 6,
     "totalGames": 26,
     "totalWins": 14,
@@ -20363,14 +20886,24 @@ const statsData = [
     "NAF Name": "MAKOTTE",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 0,
+        "gamesLost": 2,
+        "gamesTotal": 3,
+        "winRatio": 33.33,
+        "rating": 143.7824569418403
+      }
+    },
+    "rating": 143.92702749101548,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 1,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalLosses": 2,
+    "totalWinRatio": 33.33
   },
   {
     "NAF Nr": "35282",
@@ -20409,10 +20942,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 4,
         "winRatio": 0,
-        "rating": 128.7248265335757
+        "rating": 128.7248264423129
       }
     },
-    "rating": 129.00596604099073,
+    "rating": 129.00604847838673,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -20436,22 +20969,22 @@ const statsData = [
         "rating": 178.47362774725906
       },
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 2,
-        "gamesDraw": 3,
+        "gamesDraw": 4,
         "gamesLost": 1,
-        "gamesTotal": 6,
-        "winRatio": 58.33,
-        "rating": 157.36240267268107
+        "gamesTotal": 7,
+        "winRatio": 57.14,
+        "rating": 156.58510090407498
       }
     },
-    "rating": 183.27700536643223,
-    "totalTournaments": 4,
-    "totalGames": 18,
+    "rating": 181.4389206279465,
+    "totalTournaments": 5,
+    "totalGames": 19,
     "totalWins": 9,
-    "totalDraws": 6,
+    "totalDraws": 7,
     "totalLosses": 3,
-    "totalWinRatio": 66.67
+    "totalWinRatio": 65.79
   },
   {
     "NAF Nr": "41138",
@@ -20466,10 +20999,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 33.33,
-        "rating": 142.34977161197457
+        "rating": 142.37611386203133
       }
     },
-    "rating": 142.6561725540915,
+    "rating": 142.67641504298788,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 0,
@@ -20499,10 +21032,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 145.22001940355872
+        "rating": 145.2204615731809
       }
     },
-    "rating": 135.6934540409162,
+    "rating": 135.69519360539616,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -20660,10 +21193,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 150.0422596528797
+        "rating": 150.04384086031286
       }
     },
-    "rating": 149.61761706690282,
+    "rating": 149.6185233011473,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -20696,22 +21229,22 @@ const statsData = [
         "rating": 159.16536913940539
       },
       "2025": {
-        "tournaments": 5,
-        "gamesWon": 9,
-        "gamesDraw": 6,
+        "tournaments": 6,
+        "gamesWon": 12,
+        "gamesDraw": 7,
         "gamesLost": 7,
-        "gamesTotal": 22,
-        "winRatio": 54.55,
-        "rating": 161.09594345813173
+        "gamesTotal": 26,
+        "winRatio": 59.62,
+        "rating": 177.83595393657095
       }
     },
-    "rating": 167.9026377937871,
-    "totalTournaments": 13,
-    "totalGames": 59,
-    "totalWins": 21,
-    "totalDraws": 19,
+    "rating": 185.30026091423537,
+    "totalTournaments": 14,
+    "totalGames": 63,
+    "totalWins": 24,
+    "totalDraws": 20,
     "totalLosses": 19,
-    "totalWinRatio": 51.69
+    "totalWinRatio": 53.97
   },
   {
     "NAF Nr": "29363",
@@ -20756,22 +21289,22 @@ const statsData = [
         "rating": 122.36958644342454
       },
       "2025": {
-        "tournaments": 4,
-        "gamesWon": 4,
-        "gamesDraw": 2,
+        "tournaments": 5,
+        "gamesWon": 6,
+        "gamesDraw": 3,
         "gamesLost": 8,
-        "gamesTotal": 14,
-        "winRatio": 35.71,
-        "rating": 136.45856742195352
+        "gamesTotal": 17,
+        "winRatio": 44.12,
+        "rating": 142.6732666512343
       }
     },
-    "rating": 119.80244419162362,
-    "totalTournaments": 28,
-    "totalGames": 114,
-    "totalWins": 33,
-    "totalDraws": 27,
+    "rating": 127.09625060940556,
+    "totalTournaments": 29,
+    "totalGames": 117,
+    "totalWins": 35,
+    "totalDraws": 28,
     "totalLosses": 54,
-    "totalWinRatio": 40.79
+    "totalWinRatio": 41.88
   },
   {
     "NAF Nr": "24866",
@@ -20822,10 +21355,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 11,
         "winRatio": 63.64,
-        "rating": 163.2004838092382
+        "rating": 163.205207068137
       }
     },
-    "rating": 175.4510172769292,
+    "rating": 175.45462050211938,
     "totalTournaments": 17,
     "totalGames": 67,
     "totalWins": 28,
@@ -20860,10 +21393,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 87.5,
-        "rating": 166.96738590389003
+        "rating": 166.96789353687086
       }
     },
-    "rating": 168.74677894561106,
+    "rating": 168.74706197607526,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 3,
@@ -20893,10 +21426,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 149.20090360755603
+        "rating": 149.20710257275132
       }
     },
-    "rating": 139.07980530525379,
+    "rating": 139.08410970385347,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -20917,10 +21450,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 33.33,
-        "rating": 144.73969521520803
+        "rating": 144.79052502279964
       }
     },
-    "rating": 144.14638606465277,
+    "rating": 144.1865762618004,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -20964,10 +21497,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 10,
         "winRatio": 35,
-        "rating": 137.06215635027164
+        "rating": 137.07652609413776
       }
     },
-    "rating": 145.89448457325693,
+    "rating": 145.90199324574283,
     "totalTournaments": 7,
     "totalGames": 25,
     "totalWins": 10,
@@ -20980,14 +21513,24 @@ const statsData = [
     "NAF Name": "Martillazos",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 1,
+        "gamesLost": 1,
+        "gamesTotal": 3,
+        "winRatio": 50,
+        "rating": 149.95024274710877
+      }
+    },
+    "rating": 149.956437042674,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 1,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "9937",
@@ -21002,10 +21545,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 66.67,
-        "rating": 161.13096499608946
+        "rating": 161.25149601317605
       }
     },
-    "rating": 161.90848490310745,
+    "rating": 162.00894897236788,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 3,
@@ -21089,15 +21632,24 @@ const statsData = [
         "gamesTotal": 12,
         "winRatio": 45.83,
         "rating": 146.891570786312
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 1,
+        "gamesLost": 0,
+        "gamesTotal": 1,
+        "winRatio": 50,
+        "rating": 150
       }
     },
-    "rating": 146.71742567153365,
-    "totalTournaments": 3,
-    "totalGames": 12,
+    "rating": 146.8599182065262,
+    "totalTournaments": 4,
+    "totalGames": 13,
     "totalWins": 3,
-    "totalDraws": 5,
+    "totalDraws": 6,
     "totalLosses": 4,
-    "totalWinRatio": 45.83
+    "totalWinRatio": 46.15
   },
   {
     "NAF Nr": "27591",
@@ -21168,10 +21720,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 33.33,
-        "rating": 138.46040726391442
+        "rating": 138.62398490929567
       }
     },
-    "rating": 117.38015361653092,
+    "rating": 117.56474833816182,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 2,
@@ -21216,10 +21768,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 139.86561595840226
+        "rating": 139.86646290152441
       }
     },
-    "rating": 141.8613522614668,
+    "rating": 141.86203629871233,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -21369,10 +21921,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 20,
         "winRatio": 70,
-        "rating": 185.53843268326378
+        "rating": 185.53212867375592
       }
     },
-    "rating": 196.90223350167884,
+    "rating": 196.89806692355617,
     "totalTournaments": 9,
     "totalGames": 36,
     "totalWins": 18,
@@ -21385,14 +21937,24 @@ const statsData = [
     "NAF Name": "Melow",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 1,
+        "gamesLost": 1,
+        "gamesTotal": 3,
+        "winRatio": 50,
+        "rating": 148.40913522156146
+      }
+    },
+    "rating": 148.5738865508888,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 1,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "27841",
@@ -21485,10 +22047,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 18,
         "winRatio": 66.67,
-        "rating": 176.97382395765013
+        "rating": 176.97435060957747
       }
     },
-    "rating": 202.0436938076184,
+    "rating": 202.04561995416626,
     "totalTournaments": 24,
     "totalGames": 96,
     "totalWins": 48,
@@ -21527,10 +22089,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 14,
         "winRatio": 50,
-        "rating": 147.84965907541903
+        "rating": 147.88652310071828
       }
     },
-    "rating": 163.00055428809813,
+    "rating": 163.02128126290188,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 7,
@@ -21593,10 +22155,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 144.24519089584925
+        "rating": 144.2644994526876
       }
     },
-    "rating": 142.28826742242475,
+    "rating": 142.298265577527,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 7,
@@ -21650,10 +22212,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 4,
         "winRatio": 0,
-        "rating": 127.54930541704724
+        "rating": 127.54903156653927
       }
     },
-    "rating": 115.44117345140909,
+    "rating": 115.44100928660471,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 2,
@@ -21697,10 +22259,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 56.25,
-        "rating": 153.24611420615074
+        "rating": 153.2514697439435
       }
     },
-    "rating": 149.54218471123966,
+    "rating": 149.5461827798153,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -21745,10 +22307,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 8,
         "winRatio": 43.75,
-        "rating": 142.859914456034
+        "rating": 142.88382798441566
       }
     },
-    "rating": 144.31697373078651,
+    "rating": 144.3350893418083,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -21778,10 +22340,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 150.59606661283425
+        "rating": 150.5961259753655
       }
     },
-    "rating": 147.51927003110455,
+    "rating": 147.51930222232122,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -21832,22 +22394,22 @@ const statsData = [
         "rating": 161.79951038869189
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 3,
-        "gamesDraw": 4,
-        "gamesLost": 4,
-        "gamesTotal": 11,
-        "winRatio": 45.45,
-        "rating": 143.22409866868458
+        "tournaments": 4,
+        "gamesWon": 4,
+        "gamesDraw": 5,
+        "gamesLost": 6,
+        "gamesTotal": 15,
+        "winRatio": 43.33,
+        "rating": 140.0308201125592
       }
     },
-    "rating": 152.6799679065716,
-    "totalTournaments": 17,
-    "totalGames": 69,
-    "totalWins": 20,
-    "totalDraws": 26,
-    "totalLosses": 23,
-    "totalWinRatio": 47.83
+    "rating": 147.99658602788904,
+    "totalTournaments": 18,
+    "totalGames": 73,
+    "totalWins": 21,
+    "totalDraws": 27,
+    "totalLosses": 25,
+    "totalWinRatio": 47.26
   },
   {
     "NAF Nr": "21012",
@@ -21958,22 +22520,22 @@ const statsData = [
         "rating": 164.65137480730985
       },
       "2025": {
-        "tournaments": 5,
-        "gamesWon": 6,
-        "gamesDraw": 5,
-        "gamesLost": 6,
-        "gamesTotal": 17,
+        "tournaments": 6,
+        "gamesWon": 7,
+        "gamesDraw": 7,
+        "gamesLost": 7,
+        "gamesTotal": 21,
         "winRatio": 50,
-        "rating": 145.14418001328167
+        "rating": 148.97093290939108
       }
     },
-    "rating": 162.92274593838715,
-    "totalTournaments": 29,
-    "totalGames": 111,
-    "totalWins": 54,
-    "totalDraws": 15,
-    "totalLosses": 42,
-    "totalWinRatio": 55.41
+    "rating": 167.47662211303222,
+    "totalTournaments": 30,
+    "totalGames": 115,
+    "totalWins": 55,
+    "totalDraws": 17,
+    "totalLosses": 43,
+    "totalWinRatio": 55.22
   },
   {
     "NAF Nr": "27861",
@@ -21997,10 +22559,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 142.31106825426224
+        "rating": 142.31888675561376
       }
     },
-    "rating": 156.68894310496356,
+    "rating": 156.6932616594745,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 6,
@@ -22084,13 +22646,23 @@ const statsData = [
     "NAF Name": "Mistygun",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 0,
+        "gamesLost": 3,
+        "gamesTotal": 3,
+        "winRatio": 0,
+        "rating": 133.43716431871505
+      }
+    },
+    "rating": 133.5744244858598,
+    "totalTournaments": 1,
+    "totalGames": 3,
     "totalWins": 0,
     "totalDraws": 0,
-    "totalLosses": 0,
+    "totalLosses": 3,
     "totalWinRatio": 0
   },
   {
@@ -22115,10 +22687,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 145.5053795897142
+        "rating": 145.50538112343133
       }
     },
-    "rating": 139.8367063941762,
+    "rating": 139.83670715871182,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 4,
@@ -22163,10 +22735,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 144.69078351234847
+        "rating": 144.69153277876762
       }
     },
-    "rating": 145.62455379149029,
+    "rating": 145.62500734294136,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -22190,22 +22762,22 @@ const statsData = [
         "rating": 127.02151521079769
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 1,
-        "gamesDraw": 3,
-        "gamesLost": 4,
-        "gamesTotal": 8,
-        "winRatio": 31.25,
-        "rating": 131.22558512078973
+        "tournaments": 3,
+        "gamesWon": 3,
+        "gamesDraw": 4,
+        "gamesLost": 5,
+        "gamesTotal": 12,
+        "winRatio": 41.67,
+        "rating": 137.83707480290127
       }
     },
-    "rating": 116.48158650095365,
-    "totalTournaments": 5,
-    "totalGames": 20,
-    "totalWins": 4,
-    "totalDraws": 4,
-    "totalLosses": 12,
-    "totalWinRatio": 30
+    "rating": 124.69742481612809,
+    "totalTournaments": 6,
+    "totalGames": 24,
+    "totalWins": 6,
+    "totalDraws": 5,
+    "totalLosses": 13,
+    "totalWinRatio": 35.42
   },
   {
     "NAF Nr": "21072",
@@ -22214,22 +22786,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 1,
-        "gamesDraw": 3,
+        "gamesDraw": 4,
         "gamesLost": 0,
-        "gamesTotal": 4,
-        "winRatio": 62.5,
-        "rating": 155.4641191120418
+        "gamesTotal": 5,
+        "winRatio": 60,
+        "rating": 155.54228536467437
       }
     },
-    "rating": 157.10312576899392,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 157.22495929819488,
+    "totalTournaments": 2,
+    "totalGames": 5,
     "totalWins": 1,
-    "totalDraws": 3,
+    "totalDraws": 4,
     "totalLosses": 0,
-    "totalWinRatio": 62.5
+    "totalWinRatio": 60
   },
   {
     "NAF Nr": "25247",
@@ -22253,10 +22825,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 6,
         "winRatio": 25,
-        "rating": 136.29788527388078
+        "rating": 136.29899728810176
       }
     },
-    "rating": 138.86218478656485,
+    "rating": 138.86293152818962,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 4,
@@ -22289,22 +22861,22 @@ const statsData = [
         "rating": 141.45072122230874
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 6,
+        "tournaments": 3,
+        "gamesWon": 8,
         "gamesDraw": 1,
-        "gamesLost": 1,
-        "gamesTotal": 8,
-        "winRatio": 81.25,
-        "rating": 176.09437235663424
+        "gamesLost": 3,
+        "gamesTotal": 12,
+        "winRatio": 70.83,
+        "rating": 175.55459965009956
       }
     },
-    "rating": 175.8945302786914,
-    "totalTournaments": 7,
-    "totalGames": 28,
-    "totalWins": 13,
+    "rating": 178.7205407658075,
+    "totalTournaments": 8,
+    "totalGames": 32,
+    "totalWins": 15,
     "totalDraws": 6,
-    "totalLosses": 9,
-    "totalWinRatio": 57.14
+    "totalLosses": 11,
+    "totalWinRatio": 56.25
   },
   {
     "NAF Nr": "34513",
@@ -22378,50 +22950,70 @@ const statsData = [
         "rating": 150.23631549992143
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 7,
-        "gamesDraw": 5,
-        "gamesLost": 2,
-        "gamesTotal": 14,
-        "winRatio": 67.86,
-        "rating": 173.71391612861103
+        "tournaments": 4,
+        "gamesWon": 8,
+        "gamesDraw": 6,
+        "gamesLost": 4,
+        "gamesTotal": 18,
+        "winRatio": 61.11,
+        "rating": 164.12609715315944
       }
     },
-    "rating": 177.18340779604443,
-    "totalTournaments": 6,
-    "totalGames": 26,
-    "totalWins": 10,
-    "totalDraws": 12,
-    "totalLosses": 4,
-    "totalWinRatio": 61.54
+    "rating": 167.75414005089212,
+    "totalTournaments": 7,
+    "totalGames": 30,
+    "totalWins": 11,
+    "totalDraws": 13,
+    "totalLosses": 6,
+    "totalWinRatio": 58.33
   },
   {
     "NAF Nr": "15458",
     "NAF Name": "MORGAN01",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 2,
+        "gamesLost": 1,
+        "gamesTotal": 4,
+        "winRatio": 50,
+        "rating": 149.5511437810761
+      }
+    },
+    "rating": 149.22614956323844,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 1,
+    "totalDraws": 2,
+    "totalLosses": 1,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "34542",
     "NAF Name": "Morneos",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 3,
+        "gamesDraw": 0,
+        "gamesLost": 1,
+        "gamesTotal": 4,
+        "winRatio": 75,
+        "rating": 159.58581506369825
+      }
+    },
+    "rating": 158.6575803346149,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 3,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalLosses": 1,
+    "totalWinRatio": 75
   },
   {
     "NAF Nr": "32882",
@@ -22565,10 +23157,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 16,
         "winRatio": 59.38,
-        "rating": 156.19136094150142
+        "rating": 156.19296057027162
       }
     },
-    "rating": 164.13411519421206,
+    "rating": 164.17504583012962,
     "totalTournaments": 9,
     "totalGames": 36,
     "totalWins": 19,
@@ -22608,6 +23200,20 @@ const statsData = [
     "totalDraws": 1,
     "totalLosses": 2,
     "totalWinRatio": 68.75
+  },
+  {
+    "NAF Nr": "37805",
+    "NAF Name": "Mrs.Heavy",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {},
+    "rating": 150,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0
   },
   {
     "NAF Nr": "15105",
@@ -22673,10 +23279,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 8,
         "winRatio": 18.75,
-        "rating": 127.43355712905243
+        "rating": 127.44830049365629
       }
     },
-    "rating": 95.02891241615556,
+    "rating": 95.03305117082995,
     "totalTournaments": 8,
     "totalGames": 32,
     "totalWins": 4,
@@ -22691,22 +23297,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 1,
-        "gamesDraw": 1,
+        "gamesDraw": 2,
         "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 37.5,
-        "rating": 144.35472074074542
+        "gamesTotal": 5,
+        "winRatio": 40,
+        "rating": 144.6191196178283
       }
     },
-    "rating": 144.41584569425507,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 144.65314709270348,
+    "totalTournaments": 2,
+    "totalGames": 5,
     "totalWins": 1,
-    "totalDraws": 1,
+    "totalDraws": 2,
     "totalLosses": 2,
-    "totalWinRatio": 37.5
+    "totalWinRatio": 40
   },
   {
     "NAF Nr": "26166",
@@ -22748,22 +23354,22 @@ const statsData = [
         "rating": 186.0612690568269
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 9,
-        "gamesDraw": 2,
+        "tournaments": 4,
+        "gamesWon": 10,
+        "gamesDraw": 5,
         "gamesLost": 1,
-        "gamesTotal": 12,
-        "winRatio": 83.33,
-        "rating": 187.85853599950377
+        "gamesTotal": 16,
+        "winRatio": 78.13,
+        "rating": 188.20715581074143
       }
     },
-    "rating": 210.52650699652108,
-    "totalTournaments": 6,
-    "totalGames": 24,
-    "totalWins": 18,
-    "totalDraws": 4,
+    "rating": 208.50894300837717,
+    "totalTournaments": 7,
+    "totalGames": 28,
+    "totalWins": 19,
+    "totalDraws": 7,
     "totalLosses": 2,
-    "totalWinRatio": 83.33
+    "totalWinRatio": 80.36
   },
   {
     "NAF Nr": "28259",
@@ -22805,10 +23411,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 58.33,
-        "rating": 155.5536211811917
+        "rating": 155.55372753819896
       }
     },
-    "rating": 169.093416921752,
+    "rating": 169.0936014315779,
     "totalTournaments": 6,
     "totalGames": 23,
     "totalWins": 11,
@@ -22865,10 +23471,10 @@ const statsData = [
         "gamesLost": 8,
         "gamesTotal": 17,
         "winRatio": 41.18,
-        "rating": 126.51753636802681
+        "rating": 126.62144678244336
       }
     },
-    "rating": 118.54769783112918,
+    "rating": 118.63053695502643,
     "totalTournaments": 16,
     "totalGames": 70,
     "totalWins": 21,
@@ -22898,10 +23504,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 41.67,
-        "rating": 145.44318437620004
+        "rating": 145.46016097447574
       }
     },
-    "rating": 145.6129619291976,
+    "rating": 145.62961535242826,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 9,
@@ -22940,10 +23546,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 14,
         "winRatio": 50,
-        "rating": 145.78406078326972
+        "rating": 145.8847776448581
       }
     },
-    "rating": 134.0325619184548,
+    "rating": 134.1101822142469,
     "totalTournaments": 5,
     "totalGames": 23,
     "totalWins": 4,
@@ -23020,10 +23626,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 145.75575386216693
+        "rating": 145.75637249022776
       }
     },
-    "rating": 142.44498878326343,
+    "rating": 142.44524529611948,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -23167,10 +23773,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 6,
         "winRatio": 16.67,
-        "rating": 128.6736207405122
+        "rating": 128.6890620965771
       }
     },
-    "rating": 164.1449855699297,
+    "rating": 164.16202449054816,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 10,
@@ -23224,10 +23830,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 143.1524357574267
+        "rating": 143.44468108022295
       }
     },
-    "rating": 137.6001460415871,
+    "rating": 137.7604203620102,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -23266,10 +23872,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 3,
         "winRatio": 83.33,
-        "rating": 157.48896773976557
+        "rating": 157.51561412770306
       }
     },
-    "rating": 176.59247690791418,
+    "rating": 176.609760735779,
     "totalTournaments": 6,
     "totalGames": 22,
     "totalWins": 13,
@@ -23284,22 +23890,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 1,
-        "gamesDraw": 1,
+        "gamesDraw": 5,
         "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 37.5,
-        "rating": 143.87775044937328
+        "gamesTotal": 8,
+        "winRatio": 43.75,
+        "rating": 146.65940139776788
       }
     },
-    "rating": 140.5460430528867,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 144.1401805902922,
+    "totalTournaments": 2,
+    "totalGames": 8,
     "totalWins": 1,
-    "totalDraws": 1,
+    "totalDraws": 5,
     "totalLosses": 2,
-    "totalWinRatio": 37.5
+    "totalWinRatio": 43.75
   },
   {
     "NAF Nr": "36106",
@@ -23323,10 +23929,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 41.67,
-        "rating": 146.4738372164075
+        "rating": 146.48883231973784
       }
     },
-    "rating": 142.3578064560155,
+    "rating": 142.36253871114786,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 5,
@@ -23422,10 +24028,10 @@ const statsData = [
         "gamesLost": 9,
         "gamesTotal": 10,
         "winRatio": 10,
-        "rating": 115.0486110083895
+        "rating": 115.42309060819078
       }
     },
-    "rating": 113.90882448833496,
+    "rating": 114.13025186222808,
     "totalTournaments": 4,
     "totalGames": 13,
     "totalWins": 2,
@@ -23447,15 +24053,24 @@ const statsData = [
         "gamesTotal": 4,
         "winRatio": 12.5,
         "rating": 133.2859004127899
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 3,
+        "gamesLost": 0,
+        "gamesTotal": 4,
+        "winRatio": 62.5,
+        "rating": 156.36440763652425
       }
     },
-    "rating": 133.27734352150168,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 0,
-    "totalDraws": 1,
+    "rating": 142.50047644085225,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 1,
+    "totalDraws": 4,
     "totalLosses": 3,
-    "totalWinRatio": 12.5
+    "totalWinRatio": 37.5
   },
   {
     "NAF Nr": "20830",
@@ -23488,10 +24103,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 66.67,
-        "rating": 153.26554958418714
+        "rating": 153.32634329093898
       }
     },
-    "rating": 107.25694915552944,
+    "rating": 107.30729132781603,
     "totalTournaments": 8,
     "totalGames": 31,
     "totalWins": 5,
@@ -23524,6 +24139,30 @@ const statsData = [
     "totalWinRatio": 37.5
   },
   {
+    "NAF Nr": "40325",
+    "NAF Name": "NESSA",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {
+      "2025": {
+        "tournaments": 2,
+        "gamesWon": 1,
+        "gamesDraw": 2,
+        "gamesLost": 5,
+        "gamesTotal": 8,
+        "winRatio": 25,
+        "rating": 126.2627356174389
+      }
+    },
+    "rating": 124.75303245182488,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 1,
+    "totalDraws": 2,
+    "totalLosses": 5,
+    "totalWinRatio": 25
+  },
+  {
     "NAF Nr": "18615",
     "NAF Name": "NES_one",
     "Country": "Spain",
@@ -23536,10 +24175,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 50,
-        "rating": 149.7863762342495
+        "rating": 149.7871582629121
       }
     },
-    "rating": 150.3169796144976,
+    "rating": 150.31767486330233,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 2,
@@ -23596,22 +24235,22 @@ const statsData = [
         "rating": 156.08135278627648
       },
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 2,
-        "gamesDraw": 0,
-        "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 50,
-        "rating": 150
+        "gamesDraw": 2,
+        "gamesLost": 4,
+        "gamesTotal": 8,
+        "winRatio": 37.5,
+        "rating": 138.4475233331284
       }
     },
-    "rating": 153.79486180150366,
-    "totalTournaments": 3,
-    "totalGames": 12,
+    "rating": 141.25075938014496,
+    "totalTournaments": 4,
+    "totalGames": 16,
     "totalWins": 5,
-    "totalDraws": 3,
-    "totalLosses": 4,
-    "totalWinRatio": 54.17
+    "totalDraws": 5,
+    "totalLosses": 6,
+    "totalWinRatio": 46.88
   },
   {
     "NAF Nr": "23359",
@@ -23620,22 +24259,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 0,
-        "gamesDraw": 2,
+        "gamesDraw": 3,
         "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 25,
-        "rating": 139.15634968733278
+        "gamesTotal": 5,
+        "winRatio": 30,
+        "rating": 139.9420728539726
       }
     },
-    "rating": 139.1688805494709,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 141.01429185187106,
+    "totalTournaments": 2,
+    "totalGames": 5,
     "totalWins": 0,
-    "totalDraws": 2,
+    "totalDraws": 3,
     "totalLosses": 2,
-    "totalWinRatio": 25
+    "totalWinRatio": 30
   },
   {
     "NAF Nr": "28512",
@@ -23683,10 +24322,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 18,
         "winRatio": 47.22,
-        "rating": 143.27962952889155
+        "rating": 143.2879457030219
       }
     },
-    "rating": 144.5093337991822,
+    "rating": 144.5146631161129,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 7,
@@ -23772,10 +24411,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 150.53283142600458
+        "rating": 150.5388886118285
       }
     },
-    "rating": 163.11673451847855,
+    "rating": 163.11988901521937,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 6,
@@ -23805,10 +24444,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 144.34434182173854
+        "rating": 144.34314575050763
       }
     },
-    "rating": 126.72304256909206,
+    "rating": 128.10457206427125,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 4,
@@ -23838,10 +24477,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 138.60712787819074
+        "rating": 138.60733725789657
       }
     },
-    "rating": 132.68709910372124,
+    "rating": 132.6872379949374,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -23874,22 +24513,22 @@ const statsData = [
         "rating": 192.4879329476441
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 6,
-        "gamesDraw": 3,
+        "tournaments": 3,
+        "gamesWon": 9,
+        "gamesDraw": 4,
         "gamesLost": 1,
-        "gamesTotal": 10,
-        "winRatio": 75,
-        "rating": 173.53763137693605
+        "gamesTotal": 14,
+        "winRatio": 78.57,
+        "rating": 187.93786544098688
       }
     },
-    "rating": 205.85797555936426,
-    "totalTournaments": 7,
-    "totalGames": 30,
-    "totalWins": 18,
-    "totalDraws": 9,
+    "rating": 216.47091778621916,
+    "totalTournaments": 8,
+    "totalGames": 34,
+    "totalWins": 21,
+    "totalDraws": 10,
     "totalLosses": 3,
-    "totalWinRatio": 75
+    "totalWinRatio": 76.47
   },
   {
     "NAF Nr": "6398",
@@ -23964,10 +24603,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 137.65163269425827
+        "rating": 137.66615966105948
       }
     },
-    "rating": 132.0378756626766,
+    "rating": 132.04640144276303,
     "totalTournaments": 11,
     "totalGames": 44,
     "totalWins": 15,
@@ -24021,10 +24660,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 147.224517963286
+        "rating": 147.2354280612252
       }
     },
-    "rating": 149.64528278964553,
+    "rating": 149.65300320551336,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -24068,10 +24707,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 150.0961461294433
+        "rating": 150.09665954396644
       }
     },
-    "rating": 147.03017897237814,
+    "rating": 147.03052307086372,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -24125,10 +24764,10 @@ const statsData = [
         "gamesLost": 8,
         "gamesTotal": 30,
         "winRatio": 60,
-        "rating": 165.15980745927916
+        "rating": 165.15158747153774
       }
     },
-    "rating": 181.67700729535426,
+    "rating": 181.6639566004779,
     "totalTournaments": 19,
     "totalGames": 82,
     "totalWins": 39,
@@ -24182,10 +24821,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 41.67,
-        "rating": 143.47802253444596
+        "rating": 143.4837556003223
       }
     },
-    "rating": 150.20045671411035,
+    "rating": 150.20508481227412,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 4,
@@ -24200,22 +24839,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 2,
+        "tournaments": 3,
         "gamesWon": 4,
-        "gamesDraw": 0,
+        "gamesDraw": 1,
         "gamesLost": 6,
-        "gamesTotal": 10,
-        "winRatio": 40,
-        "rating": 136.9110968871222
+        "gamesTotal": 11,
+        "winRatio": 40.91,
+        "rating": 136.23957062839747
       }
     },
-    "rating": 141.10282971005122,
-    "totalTournaments": 2,
-    "totalGames": 10,
+    "rating": 140.36083971508899,
+    "totalTournaments": 3,
+    "totalGames": 11,
     "totalWins": 4,
-    "totalDraws": 0,
+    "totalDraws": 1,
     "totalLosses": 6,
-    "totalWinRatio": 40
+    "totalWinRatio": 40.91
   },
   {
     "NAF Nr": "20188",
@@ -24386,10 +25025,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 75,
-        "rating": 160.27084816322295
+        "rating": 160.27088979024512
       }
     },
-    "rating": 161.79742730500664,
+    "rating": 161.79744867473792,
     "totalTournaments": 6,
     "totalGames": 28,
     "totalWins": 12,
@@ -24509,10 +25148,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 147.7975177981913
+        "rating": 147.80324043369274
       }
     },
-    "rating": 147.71620197328522,
+    "rating": 147.7198451690345,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -24563,22 +25202,22 @@ const statsData = [
         "rating": 156.01482588365963
       },
       "2025": {
-        "tournaments": 11,
-        "gamesWon": 15,
-        "gamesDraw": 10,
-        "gamesLost": 15,
-        "gamesTotal": 40,
-        "winRatio": 50,
-        "rating": 150.47182460143958
+        "tournaments": 13,
+        "gamesWon": 18,
+        "gamesDraw": 13,
+        "gamesLost": 17,
+        "gamesTotal": 48,
+        "winRatio": 51.04,
+        "rating": 158.29392635077073
       }
     },
-    "rating": 159.07450447911032,
-    "totalTournaments": 71,
-    "totalGames": 278,
-    "totalWins": 102,
-    "totalDraws": 71,
-    "totalLosses": 105,
-    "totalWinRatio": 49.46
+    "rating": 168.52750441594497,
+    "totalTournaments": 73,
+    "totalGames": 286,
+    "totalWins": 105,
+    "totalDraws": 74,
+    "totalLosses": 107,
+    "totalWinRatio": 49.65
   },
   {
     "NAF Nr": "33276",
@@ -24596,22 +25235,22 @@ const statsData = [
         "rating": 143.89318833645154
       },
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 2,
-        "gamesDraw": 1,
-        "gamesLost": 1,
-        "gamesTotal": 4,
+        "tournaments": 2,
+        "gamesWon": 4,
+        "gamesDraw": 2,
+        "gamesLost": 2,
+        "gamesTotal": 8,
         "winRatio": 62.5,
-        "rating": 154.5993739966246
+        "rating": 157.43220355048234
       }
     },
-    "rating": 150.03898372621856,
-    "totalTournaments": 3,
-    "totalGames": 12,
-    "totalWins": 4,
-    "totalDraws": 4,
-    "totalLosses": 4,
-    "totalWinRatio": 50
+    "rating": 152.87144837661106,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 6,
+    "totalDraws": 5,
+    "totalLosses": 5,
+    "totalWinRatio": 53.13
   },
   {
     "NAF Nr": "18545",
@@ -24640,10 +25279,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 3,
         "winRatio": 0,
-        "rating": 137.2746163706561
+        "rating": 137.27464252583772
       }
     },
-    "rating": 137.3034815072372,
+    "rating": 137.30349902696994,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 0,
@@ -24709,22 +25348,22 @@ const statsData = [
         "rating": 178.9152083095892
       },
       "2025": {
-        "tournaments": 2,
+        "tournaments": 3,
         "gamesWon": 5,
-        "gamesDraw": 3,
+        "gamesDraw": 4,
         "gamesLost": 2,
-        "gamesTotal": 10,
-        "winRatio": 65,
-        "rating": 164.02404857962907
+        "gamesTotal": 11,
+        "winRatio": 63.64,
+        "rating": 164.31877941912347
       }
     },
-    "rating": 187.66197108199842,
-    "totalTournaments": 8,
-    "totalGames": 34,
+    "rating": 186.97278074202106,
+    "totalTournaments": 9,
+    "totalGames": 35,
     "totalWins": 19,
-    "totalDraws": 7,
+    "totalDraws": 8,
     "totalLosses": 8,
-    "totalWinRatio": 66.18
+    "totalWinRatio": 65.71
   },
   {
     "NAF Nr": "27859",
@@ -24742,22 +25381,22 @@ const statsData = [
         "rating": 125.55131566845567
       },
       "2025": {
-        "tournaments": 5,
+        "tournaments": 6,
         "gamesWon": 9,
-        "gamesDraw": 8,
-        "gamesLost": 5,
-        "gamesTotal": 22,
-        "winRatio": 59.09,
-        "rating": 161.31293055266286
+        "gamesDraw": 9,
+        "gamesLost": 8,
+        "gamesTotal": 26,
+        "winRatio": 51.92,
+        "rating": 142.14180233934056
       }
     },
-    "rating": 157.48688588012362,
-    "totalTournaments": 6,
-    "totalGames": 26,
+    "rating": 139.23356276850637,
+    "totalTournaments": 7,
+    "totalGames": 30,
     "totalWins": 9,
-    "totalDraws": 8,
-    "totalLosses": 9,
-    "totalWinRatio": 50
+    "totalDraws": 9,
+    "totalLosses": 12,
+    "totalWinRatio": 45
   },
   {
     "NAF Nr": "31769",
@@ -24775,22 +25414,22 @@ const statsData = [
         "rating": 140.34348630571452
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 3,
-        "gamesDraw": 4,
-        "gamesLost": 1,
-        "gamesTotal": 8,
+        "tournaments": 3,
+        "gamesWon": 5,
+        "gamesDraw": 5,
+        "gamesLost": 2,
+        "gamesTotal": 12,
         "winRatio": 62.5,
-        "rating": 158.72418984411806
+        "rating": 161.62619572685543
       }
     },
-    "rating": 152.86625573877478,
-    "totalTournaments": 4,
-    "totalGames": 16,
-    "totalWins": 5,
-    "totalDraws": 6,
-    "totalLosses": 5,
-    "totalWinRatio": 50
+    "rating": 157.95907956731273,
+    "totalTournaments": 5,
+    "totalGames": 20,
+    "totalWins": 7,
+    "totalDraws": 7,
+    "totalLosses": 6,
+    "totalWinRatio": 52.5
   },
   {
     "NAF Nr": "23459",
@@ -24895,10 +25534,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 145.0811959649847
+        "rating": 145.08119596497644
       }
     },
-    "rating": 158.55113133949612,
+    "rating": 158.5511313472317,
     "totalTournaments": 6,
     "totalGames": 28,
     "totalWins": 11,
@@ -24940,22 +25579,22 @@ const statsData = [
         "rating": 163.12430167406532
       },
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 2,
-        "gamesDraw": 0,
+        "gamesDraw": 1,
         "gamesLost": 2,
-        "gamesTotal": 4,
+        "gamesTotal": 5,
         "winRatio": 50,
-        "rating": 150.00046271114994
+        "rating": 150.4201736268223
       }
     },
-    "rating": 158.60624401428615,
-    "totalTournaments": 4,
-    "totalGames": 16,
+    "rating": 159.08574176312817,
+    "totalTournaments": 5,
+    "totalGames": 17,
     "totalWins": 7,
-    "totalDraws": 3,
+    "totalDraws": 4,
     "totalLosses": 6,
-    "totalWinRatio": 53.13
+    "totalWinRatio": 52.94
   },
   {
     "NAF Nr": "33417",
@@ -24979,10 +25618,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 144.34314586234802
+        "rating": 144.34314575050763
       }
     },
-    "rating": 143.78144640983172,
+    "rating": 143.78157199011892,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -25069,10 +25708,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 14,
         "winRatio": 64.29,
-        "rating": 169.33595592388625
+        "rating": 169.33888815187697
       }
     },
-    "rating": 190.40614802669452,
+    "rating": 190.40790847537005,
     "totalTournaments": 8,
     "totalGames": 34,
     "totalWins": 18,
@@ -25093,10 +25732,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 150.45000191059498
+        "rating": 150.4500019104283
       }
     },
-    "rating": 149.1883601840342,
+    "rating": 149.18836031836625,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -25153,10 +25792,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 10,
         "winRatio": 55,
-        "rating": 156.9742024693445
+        "rating": 157.21613181420173
       }
     },
-    "rating": 168.0505373197992,
+    "rating": 168.16637710659543,
     "totalTournaments": 17,
     "totalGames": 72,
     "totalWins": 29,
@@ -25186,10 +25825,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 8,
         "winRatio": 75,
-        "rating": 171.11063372373792
+        "rating": 171.11043845302726
       }
     },
-    "rating": 183.73015219567316,
+    "rating": 183.72995393613172,
     "totalTournaments": 9,
     "totalGames": 40,
     "totalWins": 18,
@@ -25237,10 +25876,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 18,
         "winRatio": 47.22,
-        "rating": 143.4646736896636
+        "rating": 143.4654979445076
       }
     },
-    "rating": 155.16749877289686,
+    "rating": 155.1681235390795,
     "totalTournaments": 9,
     "totalGames": 38,
     "totalWins": 13,
@@ -25270,10 +25909,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 66.67,
-        "rating": 162.74240610255362
+        "rating": 162.74361756944128
       }
     },
-    "rating": 166.39136252284973,
+    "rating": 166.39286223438438,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 4,
@@ -25306,22 +25945,22 @@ const statsData = [
         "rating": 156.84723319001
       },
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 3,
+        "tournaments": 2,
+        "gamesWon": 5,
         "gamesDraw": 3,
-        "gamesLost": 0,
-        "gamesTotal": 6,
-        "winRatio": 75,
-        "rating": 167.10340986445416
+        "gamesLost": 2,
+        "gamesTotal": 10,
+        "winRatio": 65,
+        "rating": 166.13165707215973
       }
     },
-    "rating": 187.2598977270816,
-    "totalTournaments": 6,
-    "totalGames": 26,
-    "totalWins": 12,
+    "rating": 185.55891201926218,
+    "totalTournaments": 7,
+    "totalGames": 30,
+    "totalWins": 14,
     "totalDraws": 9,
-    "totalLosses": 5,
-    "totalWinRatio": 63.46
+    "totalLosses": 7,
+    "totalWinRatio": 61.67
   },
   {
     "NAF Nr": "31507",
@@ -25345,10 +25984,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 12,
         "winRatio": 54.17,
-        "rating": 156.1071621490923
+        "rating": 156.10748023253535
       }
     },
-    "rating": 157.8156534209703,
+    "rating": 157.81586488814665,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 6,
@@ -25390,22 +26029,22 @@ const statsData = [
         "rating": 153.60976915540488
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 2,
-        "gamesDraw": 2,
+        "tournaments": 3,
+        "gamesWon": 5,
+        "gamesDraw": 3,
         "gamesLost": 6,
-        "gamesTotal": 10,
-        "winRatio": 30,
-        "rating": 129.50516585162097
+        "gamesTotal": 14,
+        "winRatio": 46.43,
+        "rating": 148.07648932546059
       }
     },
-    "rating": 149.3769412293183,
-    "totalTournaments": 8,
-    "totalGames": 33,
-    "totalWins": 13,
-    "totalDraws": 9,
+    "rating": 164.49806795558843,
+    "totalTournaments": 9,
+    "totalGames": 37,
+    "totalWins": 16,
+    "totalDraws": 10,
     "totalLosses": 11,
-    "totalWinRatio": 53.03
+    "totalWinRatio": 56.76
   },
   {
     "NAF Nr": "24824",
@@ -25480,10 +26119,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 10,
         "winRatio": 65,
-        "rating": 164.39266564013957
+        "rating": 164.40211876880255
       }
     },
-    "rating": 163.90853501424783,
+    "rating": 163.91393744320857,
     "totalTournaments": 11,
     "totalGames": 43,
     "totalWins": 16,
@@ -25525,22 +26164,22 @@ const statsData = [
         "rating": 156.77982867865586
       },
       "2025": {
-        "tournaments": 5,
-        "gamesWon": 7,
+        "tournaments": 6,
+        "gamesWon": 10,
         "gamesDraw": 6,
-        "gamesLost": 6,
-        "gamesTotal": 19,
-        "winRatio": 52.63,
-        "rating": 163.25176034451604
+        "gamesLost": 7,
+        "gamesTotal": 23,
+        "winRatio": 56.52,
+        "rating": 172.97207655881394
       }
     },
-    "rating": 172.42983707458492,
-    "totalTournaments": 34,
-    "totalGames": 136,
-    "totalWins": 55,
+    "rating": 181.91704842367415,
+    "totalTournaments": 35,
+    "totalGames": 140,
+    "totalWins": 58,
     "totalDraws": 39,
-    "totalLosses": 42,
-    "totalWinRatio": 54.78
+    "totalLosses": 43,
+    "totalWinRatio": 55.36
   },
   {
     "NAF Nr": "31447",
@@ -25564,10 +26203,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 10,
         "winRatio": 90,
-        "rating": 190.86911552843824
+        "rating": 190.8763843626861
       }
     },
-    "rating": 212.2315995407933,
+    "rating": 212.23814131687317,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 12,
@@ -25645,10 +26284,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 138.78701099434636
+        "rating": 138.78701080441775
       }
     },
-    "rating": 140.36211515978104,
+    "rating": 140.36232968384684,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -25801,10 +26440,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 145.2112203835909
+        "rating": 145.21122029053362
       }
     },
-    "rating": 146.93641744862276,
+    "rating": 146.93649338910606,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -25900,10 +26539,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 133.3486753091212
+        "rating": 133.34867523197178
       }
     },
-    "rating": 134.04101906186497,
+    "rating": 134.0410839384013,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -26061,10 +26700,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 7,
         "winRatio": 28.57,
-        "rating": 141.91363720537382
+        "rating": 141.91476886072337
       }
     },
-    "rating": 107.48509615467485,
+    "rating": 107.48585317785424,
     "totalTournaments": 13,
     "totalGames": 47,
     "totalWins": 9,
@@ -26109,10 +26748,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 25,
-        "rating": 128.88699024436468
+        "rating": 128.88701708154198
       }
     },
-    "rating": 129.13784676370472,
+    "rating": 129.13769490709123,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 0,
@@ -26133,10 +26772,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 139.58643237212226
+        "rating": 139.58644525667674
       }
     },
-    "rating": 140.60150063801208,
+    "rating": 140.60151566549445,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -26160,22 +26799,22 @@ const statsData = [
         "rating": 134.2004318753433
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 1,
-        "gamesDraw": 3,
-        "gamesLost": 4,
-        "gamesTotal": 8,
-        "winRatio": 31.25,
-        "rating": 133.7088226662901
+        "tournaments": 3,
+        "gamesWon": 2,
+        "gamesDraw": 5,
+        "gamesLost": 5,
+        "gamesTotal": 12,
+        "winRatio": 37.5,
+        "rating": 138.03371117046387
       }
     },
-    "rating": 125.84002604268966,
-    "totalTournaments": 4,
-    "totalGames": 16,
-    "totalWins": 3,
-    "totalDraws": 4,
-    "totalLosses": 9,
-    "totalWinRatio": 31.25
+    "rating": 132.49382071080345,
+    "totalTournaments": 5,
+    "totalGames": 20,
+    "totalWins": 4,
+    "totalDraws": 6,
+    "totalLosses": 10,
+    "totalWinRatio": 35
   },
   {
     "NAF Nr": "24916",
@@ -26199,10 +26838,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 11,
         "winRatio": 40.91,
-        "rating": 135.90906822231327
+        "rating": 135.94126871659142
       }
     },
-    "rating": 131.8155624578516,
+    "rating": 131.839255252553,
     "totalTournaments": 5,
     "totalGames": 21,
     "totalWins": 7,
@@ -26245,35 +26884,45 @@ const statsData = [
       },
       "2025": {
         "tournaments": 5,
-        "gamesWon": 11,
+        "gamesWon": 12,
         "gamesDraw": 6,
         "gamesLost": 5,
-        "gamesTotal": 22,
-        "winRatio": 63.64,
-        "rating": 175.5639248798003
+        "gamesTotal": 23,
+        "winRatio": 65.22,
+        "rating": 178.9140002680298
       }
     },
-    "rating": 193.6992451639454,
+    "rating": 197.08951680657952,
     "totalTournaments": 12,
-    "totalGames": 49,
-    "totalWins": 24,
+    "totalGames": 50,
+    "totalWins": 25,
     "totalDraws": 15,
     "totalLosses": 10,
-    "totalWinRatio": 64.29
+    "totalWinRatio": 65
   },
   {
     "NAF Nr": "29187",
     "NAF Name": "Pol_BTS",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 1,
+        "gamesLost": 2,
+        "gamesTotal": 4,
+        "winRatio": 37.5,
+        "rating": 145.1524786864611
+      }
+    },
+    "rating": 146.1678222863755,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 2,
+    "totalWinRatio": 37.5
   },
   {
     "NAF Nr": "38819",
@@ -26297,10 +26946,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 150.92018093169665
+        "rating": 150.92013545784647
       }
     },
-    "rating": 118.51904972620297,
+    "rating": 118.56743262343743,
     "totalTournaments": 4,
     "totalGames": 20,
     "totalWins": 3,
@@ -26348,22 +26997,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 2,
+        "tournaments": 3,
         "gamesWon": 4,
-        "gamesDraw": 3,
+        "gamesDraw": 4,
         "gamesLost": 3,
-        "gamesTotal": 10,
-        "winRatio": 55,
-        "rating": 156.1716731416931
+        "gamesTotal": 11,
+        "winRatio": 54.55,
+        "rating": 155.07215190239896
       }
     },
-    "rating": 158.64522332942275,
-    "totalTournaments": 2,
-    "totalGames": 10,
+    "rating": 157.9042861959437,
+    "totalTournaments": 3,
+    "totalGames": 11,
     "totalWins": 4,
-    "totalDraws": 3,
+    "totalDraws": 4,
     "totalLosses": 3,
-    "totalWinRatio": 55
+    "totalWinRatio": 54.55
   },
   {
     "NAF Nr": "32404",
@@ -26372,22 +27021,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 2,
+        "tournaments": 3,
         "gamesWon": 3,
-        "gamesDraw": 3,
+        "gamesDraw": 4,
         "gamesLost": 4,
-        "gamesTotal": 10,
-        "winRatio": 45,
-        "rating": 146.3049017893811
+        "gamesTotal": 11,
+        "winRatio": 45.45,
+        "rating": 146.46660248175357
       }
     },
-    "rating": 150.0629584294657,
-    "totalTournaments": 2,
-    "totalGames": 10,
+    "rating": 150.06230684531715,
+    "totalTournaments": 3,
+    "totalGames": 11,
     "totalWins": 3,
-    "totalDraws": 3,
+    "totalDraws": 4,
     "totalLosses": 4,
-    "totalWinRatio": 45
+    "totalWinRatio": 45.45
   },
   {
     "NAF Nr": "39712",
@@ -26396,22 +27045,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 0,
-        "gamesDraw": 2,
-        "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 25,
-        "rating": 136.5120698211342
+        "tournaments": 2,
+        "gamesWon": 1,
+        "gamesDraw": 3,
+        "gamesLost": 4,
+        "gamesTotal": 8,
+        "winRatio": 31.25,
+        "rating": 131.51367635780613
       }
     },
-    "rating": 137.31928689119107,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 0,
-    "totalDraws": 2,
-    "totalLosses": 2,
-    "totalWinRatio": 25
+    "rating": 132.83642334197407,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 1,
+    "totalDraws": 3,
+    "totalLosses": 4,
+    "totalWinRatio": 31.25
   },
   {
     "NAF Nr": "36531",
@@ -26518,22 +27167,22 @@ const statsData = [
         "rating": 162.9406857924211
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 7,
-        "gamesDraw": 3,
-        "gamesLost": 4,
-        "gamesTotal": 14,
-        "winRatio": 60.71,
-        "rating": 170.31996792779822
+        "tournaments": 5,
+        "gamesWon": 10,
+        "gamesDraw": 5,
+        "gamesLost": 7,
+        "gamesTotal": 22,
+        "winRatio": 56.82,
+        "rating": 168.38559305558636
       }
     },
-    "rating": 193.35977205491898,
-    "totalTournaments": 9,
-    "totalGames": 36,
-    "totalWins": 17,
-    "totalDraws": 12,
-    "totalLosses": 7,
-    "totalWinRatio": 63.89
+    "rating": 190.0212916742656,
+    "totalTournaments": 11,
+    "totalGames": 44,
+    "totalWins": 20,
+    "totalDraws": 14,
+    "totalLosses": 10,
+    "totalWinRatio": 61.36
   },
   {
     "NAF Nr": "24071",
@@ -26690,10 +27339,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 8,
         "winRatio": 31.25,
-        "rating": 131.98434088047057
+        "rating": 132.00200449638973
       }
     },
-    "rating": 131.34741101444936,
+    "rating": 131.35823116499662,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -26770,10 +27419,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 151.8244441370633
+        "rating": 151.82453079596837
       }
     },
-    "rating": 149.30465224945706,
+    "rating": 149.30622714214493,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -26854,10 +27503,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 13,
         "winRatio": 57.69,
-        "rating": 155.2774625339822
+        "rating": 155.30363253595024
       }
     },
-    "rating": 160.33561152750872,
+    "rating": 160.35107826221073,
     "totalTournaments": 14,
     "totalGames": 56,
     "totalWins": 18,
@@ -26878,10 +27527,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 155.61386654836204
+        "rating": 155.61464584328334
       }
     },
-    "rating": 157.8739677304144,
+    "rating": 157.87437301946653,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -26897,63 +27546,21 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 1,
-        "gamesWon": 0,
+        "gamesWon": 1,
         "gamesDraw": 3,
         "gamesLost": 1,
-        "gamesTotal": 4,
-        "winRatio": 37.5,
-        "rating": 144.4462826472547
+        "gamesTotal": 5,
+        "winRatio": 50,
+        "rating": 148.3641255567336
       }
     },
-    "rating": 143.1885941732096,
+    "rating": 147.0392443316252,
     "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 0,
+    "totalGames": 5,
+    "totalWins": 1,
     "totalDraws": 3,
     "totalLosses": 1,
-    "totalWinRatio": 37.5
-  },
-  {
-    "NAF Nr": "32829",
-    "NAF Name": "Ramiux",
-    "Country": "Spain",
-    "CCAA": "Apatrida",
-    "yearStats": {
-      "2022": {
-        "tournaments": 1,
-        "gamesWon": 1,
-        "gamesDraw": 1,
-        "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 37.5,
-        "rating": 145.72145496762215
-      },
-      "2023": {
-        "tournaments": 2,
-        "gamesWon": 0,
-        "gamesDraw": 0,
-        "gamesLost": 8,
-        "gamesTotal": 8,
-        "winRatio": 0,
-        "rating": 116.61660573037118
-      },
-      "2024": {
-        "tournaments": 3,
-        "gamesWon": 3,
-        "gamesDraw": 2,
-        "gamesLost": 7,
-        "gamesTotal": 12,
-        "winRatio": 33.33,
-        "rating": 131.11461153907595
-      }
-    },
-    "rating": 109.85273530714475,
-    "totalTournaments": 6,
-    "totalGames": 24,
-    "totalWins": 4,
-    "totalDraws": 3,
-    "totalLosses": 17,
-    "totalWinRatio": 22.92
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "28013",
@@ -26969,29 +27576,72 @@ const statsData = [
         "gamesTotal": 4,
         "winRatio": 62.5,
         "rating": 155.11603370905704
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 2,
+        "gamesLost": 2,
+        "gamesTotal": 4,
+        "winRatio": 25,
+        "rating": 139.23708921761582
       }
     },
-    "rating": 154.72856582604774,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 142.0976248747942,
+    "totalTournaments": 2,
+    "totalGames": 8,
     "totalWins": 2,
-    "totalDraws": 1,
-    "totalLosses": 1,
-    "totalWinRatio": 62.5
+    "totalDraws": 3,
+    "totalLosses": 3,
+    "totalWinRatio": 43.75
   },
   {
     "NAF Nr": "36923",
     "NAF Name": "RaptureZero",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 0,
+        "gamesLost": 3,
+        "gamesTotal": 3,
+        "winRatio": 0,
+        "rating": 135.07634168738616
+      }
+    },
+    "rating": 135.05180194195836,
+    "totalTournaments": 1,
+    "totalGames": 3,
     "totalWins": 0,
     "totalDraws": 0,
-    "totalLosses": 0,
+    "totalLosses": 3,
     "totalWinRatio": 0
+  },
+  {
+    "NAF Nr": "25347",
+    "NAF Name": "Raspu",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 1,
+        "gamesLost": 3,
+        "gamesTotal": 4,
+        "winRatio": 12.5,
+        "rating": 131.3771127399716
+      }
+    },
+    "rating": 132.14200855612037,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 0,
+    "totalDraws": 1,
+    "totalLosses": 3,
+    "totalWinRatio": 12.5
   },
   {
     "NAF Nr": "14051",
@@ -27057,10 +27707,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 9,
         "winRatio": 16.67,
-        "rating": 129.4528457926761
+        "rating": 129.4697779036962
       }
     },
-    "rating": 105.63178909262622,
+    "rating": 105.64025617412857,
     "totalTournaments": 9,
     "totalGames": 33,
     "totalWins": 6,
@@ -27162,10 +27812,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 16.67,
-        "rating": 139.95126298013503
+        "rating": 139.95404232204297
       }
     },
-    "rating": 139.45234360557842,
+    "rating": 139.4542298965363,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 0,
@@ -27227,22 +27877,22 @@ const statsData = [
         "rating": 152.9937235305902
       },
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 2,
-        "gamesDraw": 1,
+        "tournaments": 2,
+        "gamesWon": 4,
+        "gamesDraw": 2,
         "gamesLost": 0,
-        "gamesTotal": 3,
+        "gamesTotal": 6,
         "winRatio": 83.33,
-        "rating": 160.07619589543322
+        "rating": 164.50246152342095
       }
     },
-    "rating": 160.53241406494598,
-    "totalTournaments": 3,
-    "totalGames": 11,
-    "totalWins": 6,
-    "totalDraws": 3,
+    "rating": 164.32043003395063,
+    "totalTournaments": 4,
+    "totalGames": 14,
+    "totalWins": 8,
+    "totalDraws": 4,
     "totalLosses": 2,
-    "totalWinRatio": 68.18
+    "totalWinRatio": 71.43
   },
   {
     "NAF Nr": "38432",
@@ -27258,15 +27908,24 @@ const statsData = [
         "gamesTotal": 4,
         "winRatio": 25,
         "rating": 136.59855636412303
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 0,
+        "gamesLost": 2,
+        "gamesTotal": 4,
+        "winRatio": 50,
+        "rating": 150.58164500571644
       }
     },
-    "rating": 136.67366483145264,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 0,
+    "rating": 139.65295753344466,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 2,
     "totalDraws": 2,
-    "totalLosses": 2,
-    "totalWinRatio": 25
+    "totalLosses": 4,
+    "totalWinRatio": 37.5
   },
   {
     "NAF Nr": "25909",
@@ -27305,16 +27964,40 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 8,
         "winRatio": 87.5,
-        "rating": 179.24677266723174
+        "rating": 179.24678497378417
       }
     },
-    "rating": 177.33833397179697,
+    "rating": 177.34045352434362,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 6,
     "totalDraws": 2,
     "totalLosses": 0,
     "totalWinRatio": 87.5
+  },
+  {
+    "NAF Nr": "29200",
+    "NAF Name": "Rewind",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 0,
+        "gamesLost": 3,
+        "gamesTotal": 4,
+        "winRatio": 25,
+        "rating": 137.35870241838688
+      }
+    },
+    "rating": 138.62901479512678,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 1,
+    "totalDraws": 0,
+    "totalLosses": 3,
+    "totalWinRatio": 25
   },
   {
     "NAF Nr": "12272",
@@ -27332,22 +28015,22 @@ const statsData = [
         "rating": 167.3477805759639
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 5,
+        "tournaments": 3,
+        "gamesWon": 8,
         "gamesDraw": 0,
-        "gamesLost": 3,
-        "gamesTotal": 8,
-        "winRatio": 62.5,
-        "rating": 157.98930414067846
+        "gamesLost": 4,
+        "gamesTotal": 12,
+        "winRatio": 66.67,
+        "rating": 169.72662465751318
       }
     },
-    "rating": 172.55855062236887,
-    "totalTournaments": 4,
-    "totalGames": 16,
-    "totalWins": 9,
+    "rating": 182.9041456117325,
+    "totalTournaments": 5,
+    "totalGames": 20,
+    "totalWins": 12,
     "totalDraws": 3,
-    "totalLosses": 4,
-    "totalWinRatio": 65.63
+    "totalLosses": 5,
+    "totalWinRatio": 67.5
   },
   {
     "NAF Nr": "22236",
@@ -27419,10 +28102,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 155.50948548525966
+        "rating": 155.51099575789317
       }
     },
-    "rating": 156.0340520380111,
+    "rating": 156.03495082787975,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -27476,10 +28159,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 43.75,
-        "rating": 145.32184127987196
+        "rating": 145.32184127967938
       }
     },
-    "rating": 150.61006518507475,
+    "rating": 150.6100653930553,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 11,
@@ -27571,10 +28254,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 144.57160231717995
+        "rating": 144.57160231367826
       }
     },
-    "rating": 147.32643959999666,
+    "rating": 147.32644254380938,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -27595,10 +28278,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 10,
         "winRatio": 60,
-        "rating": 161.546075169426
+        "rating": 161.56229478066632
       }
     },
-    "rating": 162.22743976113387,
+    "rating": 162.23609229651237,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 5,
@@ -27637,10 +28320,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 22,
         "winRatio": 56.82,
-        "rating": 157.35375226630842
+        "rating": 157.35455638573282
       }
     },
-    "rating": 158.12242526952966,
+    "rating": 158.12441552302596,
     "totalTournaments": 17,
     "totalGames": 66,
     "totalWins": 23,
@@ -27685,10 +28368,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 153.87265101097296
+        "rating": 153.8783240550401
       }
     },
-    "rating": 153.65747453932212,
+    "rating": 153.66092796244018,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -27732,10 +28415,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 100,
-        "rating": 170.6155044361558
+        "rating": 170.61550434337775
       }
     },
-    "rating": 162.08595600627464,
+    "rating": 162.08602661397424,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 5,
@@ -27867,10 +28550,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 12,
         "winRatio": 70.83,
-        "rating": 165.3331209708152
+        "rating": 165.38873600687498
       }
     },
-    "rating": 180.85761744459805,
+    "rating": 180.8952964480644,
     "totalTournaments": 8,
     "totalGames": 31,
     "totalWins": 13,
@@ -27933,10 +28616,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 155.81434141707484
+        "rating": 155.815000700245
       }
     },
-    "rating": 147.97720681358584,
+    "rating": 147.9775933445623,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 7,
@@ -27990,10 +28673,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 147.64491972728865
+        "rating": 147.64422118828946
       }
     },
-    "rating": 151.377745356519,
+    "rating": 151.37323512695903,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 5,
@@ -28008,22 +28691,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 0,
-        "gamesDraw": 2,
-        "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 25,
-        "rating": 136.7875954214229
+        "tournaments": 2,
+        "gamesWon": 1,
+        "gamesDraw": 3,
+        "gamesLost": 4,
+        "gamesTotal": 8,
+        "winRatio": 31.25,
+        "rating": 134.09902757604397
       }
     },
-    "rating": 136.71342371529127,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 0,
-    "totalDraws": 2,
-    "totalLosses": 2,
-    "totalWinRatio": 25
+    "rating": 132.43010480748225,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 1,
+    "totalDraws": 3,
+    "totalLosses": 4,
+    "totalWinRatio": 31.25
   },
   {
     "NAF Nr": "34138",
@@ -28071,10 +28754,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 10,
         "winRatio": 55,
-        "rating": 153.22784227142006
+        "rating": 153.23016592735317
       }
     },
-    "rating": 153.00827006718652,
+    "rating": 153.00988003703344,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 5,
@@ -28173,22 +28856,22 @@ const statsData = [
         "rating": 175.94859152082066
       },
       "2025": {
-        "tournaments": 5,
-        "gamesWon": 7,
-        "gamesDraw": 9,
-        "gamesLost": 4,
-        "gamesTotal": 20,
-        "winRatio": 57.5,
-        "rating": 168.88381818457412
+        "tournaments": 6,
+        "gamesWon": 8,
+        "gamesDraw": 11,
+        "gamesLost": 5,
+        "gamesTotal": 24,
+        "winRatio": 56.25,
+        "rating": 165.3109529294357
       }
     },
-    "rating": 189.41303455844505,
-    "totalTournaments": 20,
-    "totalGames": 80,
-    "totalWins": 35,
-    "totalDraws": 24,
-    "totalLosses": 21,
-    "totalWinRatio": 58.75
+    "rating": 183.0513052734006,
+    "totalTournaments": 21,
+    "totalGames": 84,
+    "totalWins": 36,
+    "totalDraws": 26,
+    "totalLosses": 22,
+    "totalWinRatio": 58.33
   },
   {
     "NAF Nr": "36333",
@@ -28212,10 +28895,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 12,
         "winRatio": 50,
-        "rating": 153.85153691783515
+        "rating": 153.85296037813643
       }
     },
-    "rating": 148.72755484195417,
+    "rating": 148.72918074168172,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 9,
@@ -28290,36 +28973,46 @@ const statsData = [
         "rating": 133.971535545822
       },
       "2025": {
-        "tournaments": 4,
-        "gamesWon": 5,
+        "tournaments": 5,
+        "gamesWon": 7,
         "gamesDraw": 3,
-        "gamesLost": 8,
-        "gamesTotal": 16,
-        "winRatio": 40.63,
-        "rating": 135.91802348371297
+        "gamesLost": 10,
+        "gamesTotal": 20,
+        "winRatio": 42.5,
+        "rating": 137.16816589430096
       }
     },
-    "rating": 123.77711100293595,
-    "totalTournaments": 13,
-    "totalGames": 49,
-    "totalWins": 12,
+    "rating": 126.99226980394054,
+    "totalTournaments": 14,
+    "totalGames": 53,
+    "totalWins": 14,
     "totalDraws": 13,
-    "totalLosses": 24,
-    "totalWinRatio": 37.76
+    "totalLosses": 26,
+    "totalWinRatio": 38.68
   },
   {
     "NAF Nr": "24452",
     "NAF Name": "SAO",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 0,
+        "gamesLost": 1,
+        "gamesTotal": 3,
+        "winRatio": 66.67,
+        "rating": 153.93126705774026
+      }
+    },
+    "rating": 153.88137975264866,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 2,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalLosses": 1,
+    "totalWinRatio": 66.67
   },
   {
     "NAF Nr": "31561",
@@ -28367,10 +29060,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 50,
-        "rating": 150.3126640869994
+        "rating": 150.31948890833982
       }
     },
-    "rating": 153.41708609963786,
+    "rating": 153.42354927733936,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 2,
@@ -28427,22 +29120,22 @@ const statsData = [
         "rating": 161.24539476391084
       },
       "2025": {
-        "tournaments": 4,
-        "gamesWon": 8,
-        "gamesDraw": 6,
-        "gamesLost": 2,
-        "gamesTotal": 16,
-        "winRatio": 68.75,
-        "rating": 172.93268225072788
+        "tournaments": 5,
+        "gamesWon": 9,
+        "gamesDraw": 7,
+        "gamesLost": 3,
+        "gamesTotal": 19,
+        "winRatio": 65.79,
+        "rating": 170.72521895346694
       }
     },
-    "rating": 186.797008845628,
-    "totalTournaments": 8,
-    "totalGames": 30,
-    "totalWins": 15,
-    "totalDraws": 9,
-    "totalLosses": 6,
-    "totalWinRatio": 65
+    "rating": 183.97768206196704,
+    "totalTournaments": 9,
+    "totalGames": 33,
+    "totalWins": 16,
+    "totalDraws": 10,
+    "totalLosses": 7,
+    "totalWinRatio": 63.64
   },
   {
     "NAF Nr": "17549",
@@ -28602,22 +29295,22 @@ const statsData = [
         "rating": 160.99906586224034
       },
       "2025": {
-        "tournaments": 3,
+        "tournaments": 4,
         "gamesWon": 5,
-        "gamesDraw": 3,
-        "gamesLost": 4,
-        "gamesTotal": 12,
-        "winRatio": 54.17,
-        "rating": 152.02116588850808
+        "gamesDraw": 6,
+        "gamesLost": 5,
+        "gamesTotal": 16,
+        "winRatio": 50,
+        "rating": 147.5133363762745
       }
     },
-    "rating": 167.61889350719306,
-    "totalTournaments": 22,
-    "totalGames": 88,
+    "rating": 162.14367151814693,
+    "totalTournaments": 23,
+    "totalGames": 92,
     "totalWins": 37,
-    "totalDraws": 24,
-    "totalLosses": 27,
-    "totalWinRatio": 55.68
+    "totalDraws": 27,
+    "totalLosses": 28,
+    "totalWinRatio": 54.89
   },
   {
     "NAF Nr": "30087",
@@ -28632,10 +29325,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 66.67,
-        "rating": 156.20401490729932
+        "rating": 156.2092592436159
       }
     },
-    "rating": 157.77911896185887,
+    "rating": 157.78308840243278,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -28656,10 +29349,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 144.34314821456854
+        "rating": 144.34314575050763
       }
     },
-    "rating": 144.72047856125008,
+    "rating": 144.72324551966767,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -28738,15 +29431,24 @@ const statsData = [
         "gamesTotal": 4,
         "winRatio": 0,
         "rating": 128.32321070653828
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 1,
+        "gamesLost": 1,
+        "gamesTotal": 4,
+        "winRatio": 62.5,
+        "rating": 158.85827431916175
       }
     },
-    "rating": 109.62832815051321,
-    "totalTournaments": 2,
-    "totalGames": 8,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 8,
-    "totalWinRatio": 0
+    "rating": 125.9973867710238,
+    "totalTournaments": 3,
+    "totalGames": 12,
+    "totalWins": 2,
+    "totalDraws": 1,
+    "totalLosses": 9,
+    "totalWinRatio": 20.83
   },
   {
     "NAF Nr": "31736",
@@ -28782,8 +29484,8 @@ const statsData = [
     "totalWinRatio": 75
   },
   {
-    "NAF Nr": "619",
-    "NAF Name": "Serrano0",
+    "NAF Nr": "39954",
+    "NAF Name": "Serrano02",
     "Country": "Spain",
     "CCAA": "Apatrida",
     "yearStats": {
@@ -28795,14 +29497,23 @@ const statsData = [
         "gamesTotal": 4,
         "winRatio": 62.5,
         "rating": 156.08840648836332
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 1,
+        "gamesLost": 1,
+        "gamesTotal": 4,
+        "winRatio": 62.5,
+        "rating": 154.63059500130447
       }
     },
-    "rating": 156.7882697055317,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 2,
-    "totalDraws": 1,
-    "totalLosses": 1,
+    "rating": 160.87085211640257,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 4,
+    "totalDraws": 2,
+    "totalLosses": 2,
     "totalWinRatio": 62.5
   },
   {
@@ -28893,10 +29604,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 129.69559194785546
+        "rating": 129.71466044142474
       }
     },
-    "rating": 117.86021187046597,
+    "rating": 117.8749473701449,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 0,
@@ -28941,10 +29652,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 33.33,
-        "rating": 147.67212929879267
+        "rating": 147.6723234411716
       }
     },
-    "rating": 147.90508508990638,
+    "rating": 147.90515104920019,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -29043,22 +29754,22 @@ const statsData = [
         "rating": 204.1571067950287
       },
       "2025": {
-        "tournaments": 4,
+        "tournaments": 5,
         "gamesWon": 11,
         "gamesDraw": 4,
-        "gamesLost": 3,
-        "gamesTotal": 18,
-        "winRatio": 72.22,
-        "rating": 188.94388012294507
+        "gamesLost": 7,
+        "gamesTotal": 22,
+        "winRatio": 59.09,
+        "rating": 169.8868773737067
       }
     },
-    "rating": 233.78070993796533,
-    "totalTournaments": 32,
-    "totalGames": 129,
+    "rating": 212.5235570762505,
+    "totalTournaments": 33,
+    "totalGames": 133,
     "totalWins": 79,
     "totalDraws": 26,
-    "totalLosses": 24,
-    "totalWinRatio": 71.32
+    "totalLosses": 28,
+    "totalWinRatio": 69.17
   },
   {
     "NAF Nr": "23843",
@@ -29135,10 +29846,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 149.72341201530307
+        "rating": 149.73521128850976
       }
     },
-    "rating": 149.8985002921317,
+    "rating": 149.9042950919476,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -29168,10 +29879,10 @@ const statsData = [
         "gamesLost": 9,
         "gamesTotal": 20,
         "winRatio": 47.5,
-        "rating": 137.79383370489077
+        "rating": 138.0788816031916
       }
     },
-    "rating": 132.68583668162935,
+    "rating": 132.83770470100288,
     "totalTournaments": 11,
     "totalGames": 36,
     "totalWins": 16,
@@ -29222,22 +29933,22 @@ const statsData = [
         "rating": 192.93408103937242
       },
       "2025": {
-        "tournaments": 8,
-        "gamesWon": 16,
-        "gamesDraw": 8,
-        "gamesLost": 5,
-        "gamesTotal": 29,
-        "winRatio": 68.97,
-        "rating": 184.24933335002657
+        "tournaments": 10,
+        "gamesWon": 21,
+        "gamesDraw": 10,
+        "gamesLost": 6,
+        "gamesTotal": 37,
+        "winRatio": 70.27,
+        "rating": 194.81814512423472
       }
     },
-    "rating": 219.57830339331548,
-    "totalTournaments": 42,
-    "totalGames": 168,
-    "totalWins": 98,
-    "totalDraws": 45,
-    "totalLosses": 25,
-    "totalWinRatio": 71.73
+    "rating": 225.80339239693367,
+    "totalTournaments": 44,
+    "totalGames": 176,
+    "totalWins": 103,
+    "totalDraws": 47,
+    "totalLosses": 26,
+    "totalWinRatio": 71.88
   },
   {
     "NAF Nr": "35169",
@@ -29270,10 +29981,10 @@ const statsData = [
         "gamesLost": 8,
         "gamesTotal": 12,
         "winRatio": 29.17,
-        "rating": 123.30224633551595
+        "rating": 123.31282218738887
       }
     },
-    "rating": 90.62031082963142,
+    "rating": 90.6293046382116,
     "totalTournaments": 11,
     "totalGames": 44,
     "totalWins": 9,
@@ -29327,10 +30038,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 148.84850954942254
+        "rating": 148.8560662232514
       }
     },
-    "rating": 128.6735836214069,
+    "rating": 128.6786233676159,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 6,
@@ -29454,10 +30165,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 12,
         "winRatio": 41.67,
-        "rating": 138.92426352665444
+        "rating": 138.9296145822197
       }
     },
-    "rating": 155.43915793715522,
+    "rating": 155.4420415408336,
     "totalTournaments": 20,
     "totalGames": 77,
     "totalWins": 30,
@@ -29504,6 +30215,30 @@ const statsData = [
     "totalWinRatio": 0
   },
   {
+    "NAF Nr": "41392",
+    "NAF Name": "Slorten",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 1,
+        "gamesLost": 0,
+        "gamesTotal": 1,
+        "winRatio": 50,
+        "rating": 149.83966878312003
+      }
+    },
+    "rating": 150.00282802292662,
+    "totalTournaments": 1,
+    "totalGames": 1,
+    "totalWins": 0,
+    "totalDraws": 1,
+    "totalLosses": 0,
+    "totalWinRatio": 50
+  },
+  {
     "NAF Nr": "35260",
     "NAF Name": "SmellyDiaper",
     "Country": "Spain",
@@ -29525,10 +30260,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 151.16561831179376
+        "rating": 151.1671961858405
       }
     },
-    "rating": 156.93916900283426,
+    "rating": 156.94005326391786,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -29648,10 +30383,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 43.75,
-        "rating": 145.39689456250528
+        "rating": 145.39707880666526
       }
     },
-    "rating": 129.38782792945884,
+    "rating": 129.3879221184275,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 7,
@@ -29681,10 +30416,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 148.34699821342352
+        "rating": 148.3662299743328
       }
     },
-    "rating": 141.02157535000651,
+    "rating": 141.03695163606545,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -29905,10 +30640,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 139.2605987870292
+        "rating": 139.26059878288314
       }
     },
-    "rating": 140.4991461581983,
+    "rating": 140.49914987388777,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 3,
@@ -29935,19 +30670,19 @@ const statsData = [
         "tournaments": 2,
         "gamesWon": 2,
         "gamesDraw": 3,
-        "gamesLost": 3,
-        "gamesTotal": 8,
-        "winRatio": 43.75,
-        "rating": 143.03616741878554
+        "gamesLost": 4,
+        "gamesTotal": 9,
+        "winRatio": 38.89,
+        "rating": 137.56512181889485
       }
     },
-    "rating": 132.50393400600856,
+    "rating": 126.42774323209028,
     "totalTournaments": 3,
-    "totalGames": 12,
+    "totalGames": 13,
     "totalWins": 2,
     "totalDraws": 4,
-    "totalLosses": 6,
-    "totalWinRatio": 33.33
+    "totalLosses": 7,
+    "totalWinRatio": 30.77
   },
   {
     "NAF Nr": "12937",
@@ -29971,10 +30706,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 155.2453285079343
+        "rating": 155.2514497254455
       }
     },
-    "rating": 155.14441945988975,
+    "rating": 155.14879938355853,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -30009,10 +30744,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 4,
         "winRatio": 0,
-        "rating": 127.92135722611455
+        "rating": 127.92267524198475
       }
     },
-    "rating": 128.89658819353383,
+    "rating": 128.89742018560554,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -30025,14 +30760,24 @@ const statsData = [
     "NAF Name": "Splinter",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 4,
+        "gamesDraw": 0,
+        "gamesLost": 0,
+        "gamesTotal": 4,
+        "winRatio": 100,
+        "rating": 171.59946266601378
+      }
+    },
+    "rating": 172.65580860125522,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 4,
     "totalDraws": 0,
     "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalWinRatio": 100
   },
   {
     "NAF Nr": "27299",
@@ -30169,21 +30914,21 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 1,
-        "gamesDraw": 2,
-        "gamesLost": 1,
-        "gamesTotal": 4,
+        "tournaments": 2,
+        "gamesWon": 2,
+        "gamesDraw": 3,
+        "gamesLost": 2,
+        "gamesTotal": 7,
         "winRatio": 50,
-        "rating": 149.9688251476333
+        "rating": 149.58123930290586
       }
     },
-    "rating": 149.4572123243221,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 1,
-    "totalDraws": 2,
-    "totalLosses": 1,
+    "rating": 148.92966726338452,
+    "totalTournaments": 2,
+    "totalGames": 7,
+    "totalWins": 2,
+    "totalDraws": 3,
+    "totalLosses": 2,
     "totalWinRatio": 50
   },
   {
@@ -30199,10 +30944,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 37.5,
-        "rating": 138.71258562651434
+        "rating": 138.7214012558409
       }
     },
-    "rating": 137.48783426108415,
+    "rating": 137.49320209712215,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -30273,10 +31018,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 10,
         "winRatio": 35,
-        "rating": 129.69956360699152
+        "rating": 129.7421796698796
       }
     },
-    "rating": 131.79267515539655,
+    "rating": 131.8257079133952,
     "totalTournaments": 8,
     "totalGames": 34,
     "totalWins": 10,
@@ -30312,15 +31057,24 @@ const statsData = [
         "gamesTotal": 8,
         "winRatio": 68.75,
         "rating": 167.59147027054127
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 3,
+        "gamesDraw": 1,
+        "gamesLost": 0,
+        "gamesTotal": 4,
+        "winRatio": 87.5,
+        "rating": 167.96919615606296
       }
     },
-    "rating": 168.73145727294278,
-    "totalTournaments": 2,
-    "totalGames": 8,
-    "totalWins": 5,
-    "totalDraws": 1,
+    "rating": 184.43063864086818,
+    "totalTournaments": 3,
+    "totalGames": 12,
+    "totalWins": 8,
+    "totalDraws": 2,
     "totalLosses": 2,
-    "totalWinRatio": 68.75
+    "totalWinRatio": 75
   },
   {
     "NAF Nr": "33402",
@@ -30529,10 +31283,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 8,
         "winRatio": 56.25,
-        "rating": 156.01151467622398
+        "rating": 156.01273872458682
       }
     },
-    "rating": 165.73664942946775,
+    "rating": 165.73738253548737,
     "totalTournaments": 8,
     "totalGames": 31,
     "totalWins": 13,
@@ -30571,10 +31325,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 12,
         "winRatio": 79.17,
-        "rating": 183.44750874651194
+        "rating": 183.44754863257623
       }
     },
-    "rating": 192.34653243428815,
+    "rating": 192.39402623188244,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 12,
@@ -30741,10 +31495,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 6,
         "winRatio": 33.33,
-        "rating": 141.8159624804587
+        "rating": 141.81678953967366
       }
     },
-    "rating": 165.21993102503413,
+    "rating": 165.2205089971936,
     "totalTournaments": 7,
     "totalGames": 29,
     "totalWins": 16,
@@ -30792,22 +31546,22 @@ const statsData = [
         "rating": 182.5828039821899
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 5,
+        "tournaments": 4,
+        "gamesWon": 8,
         "gamesDraw": 3,
-        "gamesLost": 4,
-        "gamesTotal": 12,
-        "winRatio": 54.17,
-        "rating": 152.49908481044343
+        "gamesLost": 5,
+        "gamesTotal": 16,
+        "winRatio": 59.38,
+        "rating": 162.5406346227074
       }
     },
-    "rating": 174.6706971618053,
-    "totalTournaments": 14,
-    "totalGames": 60,
-    "totalWins": 25,
+    "rating": 182.5240012428206,
+    "totalTournaments": 15,
+    "totalGames": 64,
+    "totalWins": 28,
     "totalDraws": 15,
-    "totalLosses": 20,
-    "totalWinRatio": 54.17
+    "totalLosses": 21,
+    "totalWinRatio": 55.47
   },
   {
     "NAF Nr": "12816",
@@ -30869,10 +31623,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 75,
-        "rating": 162.07384481378918
+        "rating": 162.08597323466182
       }
     },
-    "rating": 171.47387895031122,
+    "rating": 171.48058156568567,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 5,
@@ -30923,22 +31677,22 @@ const statsData = [
         "rating": 124.32287849596077
       },
       "2025": {
-        "tournaments": 6,
+        "tournaments": 7,
         "gamesWon": 10,
-        "gamesDraw": 10,
-        "gamesLost": 2,
-        "gamesTotal": 22,
-        "winRatio": 68.18,
-        "rating": 185.8988112172815
+        "gamesDraw": 11,
+        "gamesLost": 5,
+        "gamesTotal": 26,
+        "winRatio": 59.62,
+        "rating": 165.3367641266819
       }
     },
-    "rating": 181.8389897964255,
-    "totalTournaments": 35,
-    "totalGames": 144,
+    "rating": 162.887639950836,
+    "totalTournaments": 36,
+    "totalGames": 148,
     "totalWins": 49,
-    "totalDraws": 38,
-    "totalLosses": 57,
-    "totalWinRatio": 47.22
+    "totalDraws": 39,
+    "totalLosses": 60,
+    "totalWinRatio": 46.28
   },
   {
     "NAF Nr": "34323",
@@ -30962,10 +31716,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 6,
         "winRatio": 8.33,
-        "rating": 122.37288677570109
+        "rating": 122.37002065896421
       }
     },
-    "rating": 116.83392491630181,
+    "rating": 116.83036164140805,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 3,
@@ -30995,10 +31749,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 148.3640011826205
+        "rating": 148.39475373260726
       }
     },
-    "rating": 153.60322760047802,
+    "rating": 153.62538127312146,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 5,
@@ -31045,22 +31799,22 @@ const statsData = [
         "rating": 128.2000101852242
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 6,
+        "tournaments": 4,
+        "gamesWon": 9,
         "gamesDraw": 3,
-        "gamesLost": 3,
-        "gamesTotal": 12,
-        "winRatio": 62.5,
-        "rating": 159.42859719081403
+        "gamesLost": 5,
+        "gamesTotal": 17,
+        "winRatio": 61.76,
+        "rating": 161.05693415269445
       }
     },
-    "rating": 144.01184341245045,
-    "totalTournaments": 6,
-    "totalGames": 23,
-    "totalWins": 7,
+    "rating": 148.30594239845598,
+    "totalTournaments": 7,
+    "totalGames": 28,
+    "totalWins": 10,
     "totalDraws": 6,
-    "totalLosses": 10,
-    "totalWinRatio": 43.48
+    "totalLosses": 12,
+    "totalWinRatio": 46.43
   },
   {
     "NAF Nr": "37543",
@@ -31188,10 +31942,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 75,
-        "rating": 161.48942179210835
+        "rating": 161.48941955469152
       }
     },
-    "rating": 193.21182012844105,
+    "rating": 193.21431414472656,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 9,
@@ -31233,22 +31987,22 @@ const statsData = [
         "rating": 147.58401359025734
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 2,
-        "gamesDraw": 4,
-        "gamesLost": 6,
-        "gamesTotal": 12,
-        "winRatio": 33.33,
-        "rating": 130.71420704856658
+        "tournaments": 4,
+        "gamesWon": 5,
+        "gamesDraw": 5,
+        "gamesLost": 7,
+        "gamesTotal": 17,
+        "winRatio": 44.12,
+        "rating": 144.99183394959587
       }
     },
-    "rating": 116.15720235698889,
-    "totalTournaments": 9,
-    "totalGames": 35,
-    "totalWins": 6,
-    "totalDraws": 10,
-    "totalLosses": 19,
-    "totalWinRatio": 31.43
+    "rating": 134.8805380195343,
+    "totalTournaments": 10,
+    "totalGames": 40,
+    "totalWins": 9,
+    "totalDraws": 11,
+    "totalLosses": 20,
+    "totalWinRatio": 36.25
   },
   {
     "NAF Nr": "22254",
@@ -31296,10 +32050,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 100,
-        "rating": 172.5971917054011
+        "rating": 172.59751531641666
       }
     },
-    "rating": 158.62232513939415,
+    "rating": 158.62259793113267,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -31465,10 +32219,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 154.88183892351861
+        "rating": 154.88184051474923
       }
     },
-    "rating": 146.8838437861693,
+    "rating": 146.88384457804804,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 5,
@@ -31653,22 +32407,22 @@ const statsData = [
         "rating": 176.22954861285015
       },
       "2025": {
-        "tournaments": 5,
-        "gamesWon": 8,
-        "gamesDraw": 11,
+        "tournaments": 6,
+        "gamesWon": 9,
+        "gamesDraw": 14,
         "gamesLost": 2,
-        "gamesTotal": 21,
-        "winRatio": 64.29,
-        "rating": 174.66523799093378
+        "gamesTotal": 25,
+        "winRatio": 64,
+        "rating": 177.50860330234354
       }
     },
-    "rating": 192.25456299388412,
-    "totalTournaments": 19,
-    "totalGames": 81,
-    "totalWins": 38,
-    "totalDraws": 26,
+    "rating": 193.4073230654799,
+    "totalTournaments": 20,
+    "totalGames": 85,
+    "totalWins": 39,
+    "totalDraws": 29,
     "totalLosses": 17,
-    "totalWinRatio": 62.96
+    "totalWinRatio": 62.94
   },
   {
     "NAF Nr": "18293",
@@ -31683,10 +32437,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 75,
-        "rating": 158.79787505314746
+        "rating": 158.8173555496754
       }
     },
-    "rating": 161.02578951067554,
+    "rating": 161.0365004448942,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 3,
@@ -31716,10 +32470,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 140.65235907035762
+        "rating": 140.65236061835037
       }
     },
-    "rating": 139.96328521822699,
+    "rating": 139.96328600280845,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -31794,22 +32548,22 @@ const statsData = [
         "rating": 158.4498890020926
       },
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 2,
+        "tournaments": 2,
+        "gamesWon": 3,
         "gamesDraw": 0,
-        "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 50,
-        "rating": 151.77209783764727
+        "gamesLost": 5,
+        "gamesTotal": 8,
+        "winRatio": 37.5,
+        "rating": 142.70813079188713
       }
     },
-    "rating": 152.59321882182917,
-    "totalTournaments": 34,
-    "totalGames": 137,
-    "totalWins": 45,
+    "rating": 144.52990538051316,
+    "totalTournaments": 35,
+    "totalGames": 141,
+    "totalWins": 46,
     "totalDraws": 36,
-    "totalLosses": 56,
-    "totalWinRatio": 45.99
+    "totalLosses": 59,
+    "totalWinRatio": 45.39
   },
   {
     "NAF Nr": "24865",
@@ -31833,10 +32587,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 33.33,
-        "rating": 144.94683215122842
+        "rating": 144.94683221359548
       }
     },
-    "rating": 141.48263990756573,
+    "rating": 141.48263993751223,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 1,
@@ -31875,10 +32629,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 12,
         "winRatio": 58.33,
-        "rating": 158.24119050439995
+        "rating": 158.24632012330926
       }
     },
-    "rating": 168.5107355315766,
+    "rating": 168.51383619555193,
     "totalTournaments": 7,
     "totalGames": 27,
     "totalWins": 14,
@@ -31909,15 +32663,24 @@ const statsData = [
         "gamesTotal": 12,
         "winRatio": 41.67,
         "rating": 145.72481903689734
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 0,
+        "gamesLost": 2,
+        "gamesTotal": 4,
+        "winRatio": 50,
+        "rating": 152.1032025538546
       }
     },
-    "rating": 151.98535885282257,
-    "totalTournaments": 4,
-    "totalGames": 14,
-    "totalWins": 6,
+    "rating": 154.46291643818768,
+    "totalTournaments": 5,
+    "totalGames": 18,
+    "totalWins": 8,
     "totalDraws": 1,
-    "totalLosses": 7,
-    "totalWinRatio": 46.43
+    "totalLosses": 9,
+    "totalWinRatio": 47.22
   },
   {
     "NAF Nr": "35817",
@@ -31932,10 +32695,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 14,
         "winRatio": 60.71,
-        "rating": 164.42953220188318
+        "rating": 164.69460881164173
       }
     },
-    "rating": 167.07306346189745,
+    "rating": 167.2185866693119,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 7,
@@ -32003,10 +32766,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 8,
         "winRatio": 75,
-        "rating": 171.82655051538347
+        "rating": 171.81781161984355
       }
     },
-    "rating": 186.44912941329866,
+    "rating": 186.43928737946754,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 10,
@@ -32048,22 +32811,22 @@ const statsData = [
         "rating": 125.49920066733367
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 3,
+        "tournaments": 4,
+        "gamesWon": 4,
         "gamesDraw": 4,
-        "gamesLost": 5,
-        "gamesTotal": 12,
-        "winRatio": 41.67,
-        "rating": 144.59673993411732
+        "gamesLost": 8,
+        "gamesTotal": 16,
+        "winRatio": 37.5,
+        "rating": 136.14841075437332
       }
     },
-    "rating": 138.62904838547882,
-    "totalTournaments": 24,
-    "totalGames": 94,
-    "totalWins": 33,
+    "rating": 132.97742719908354,
+    "totalTournaments": 25,
+    "totalGames": 98,
+    "totalWins": 34,
     "totalDraws": 28,
-    "totalLosses": 33,
-    "totalWinRatio": 50
+    "totalLosses": 36,
+    "totalWinRatio": 48.98
   },
   {
     "NAF Nr": "20919",
@@ -32105,10 +32868,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 66.67,
-        "rating": 153.14910109933268
+        "rating": 153.20195156746644
       }
     },
-    "rating": 137.84236173536087,
+    "rating": 137.88644944474305,
     "totalTournaments": 6,
     "totalGames": 23,
     "totalWins": 6,
@@ -32162,10 +32925,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 75,
-        "rating": 161.32253517383575
+        "rating": 161.32254914411143
       }
     },
-    "rating": 170.58466052833896,
+    "rating": 170.5847288977049,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 5,
@@ -32228,22 +32991,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 0,
-        "gamesDraw": 2,
+        "gamesDraw": 3,
         "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 25,
-        "rating": 139.13554860554137
+        "gamesTotal": 5,
+        "winRatio": 30,
+        "rating": 138.33328162024455
       }
     },
-    "rating": 141.64099417313625,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 140.84088511170515,
+    "totalTournaments": 2,
+    "totalGames": 5,
     "totalWins": 0,
-    "totalDraws": 2,
+    "totalDraws": 3,
     "totalLosses": 2,
-    "totalWinRatio": 25
+    "totalWinRatio": 30
   },
   {
     "NAF Nr": "20837",
@@ -32252,21 +33015,21 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 2,
-        "gamesDraw": 1,
-        "gamesLost": 1,
-        "gamesTotal": 4,
+        "tournaments": 2,
+        "gamesWon": 4,
+        "gamesDraw": 2,
+        "gamesLost": 2,
+        "gamesTotal": 8,
         "winRatio": 62.5,
-        "rating": 155.89082427109642
+        "rating": 160.83855665532116
       }
     },
-    "rating": 155.95242485565234,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 2,
-    "totalDraws": 1,
-    "totalLosses": 1,
+    "rating": 161.13492981549783,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 4,
+    "totalDraws": 2,
+    "totalLosses": 2,
     "totalWinRatio": 62.5
   },
   {
@@ -32282,10 +33045,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 145.25216223353115
+        "rating": 145.25216020717713
       }
     },
-    "rating": 147.13539878924755,
+    "rating": 147.1375884171704,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -32434,20 +33197,20 @@ const statsData = [
       "2025": {
         "tournaments": 1,
         "gamesWon": 3,
-        "gamesDraw": 1,
+        "gamesDraw": 2,
         "gamesLost": 0,
-        "gamesTotal": 4,
-        "winRatio": 87.5,
-        "rating": 164.9906897311056
+        "gamesTotal": 5,
+        "winRatio": 80,
+        "rating": 165.20560190579278
       }
     },
-    "rating": 175.76496753507146,
+    "rating": 176.5953779838168,
     "totalTournaments": 5,
-    "totalGames": 19,
+    "totalGames": 20,
     "totalWins": 9,
-    "totalDraws": 5,
+    "totalDraws": 6,
     "totalLosses": 5,
-    "totalWinRatio": 60.53
+    "totalWinRatio": 60
   },
   {
     "NAF Nr": "24206",
@@ -32471,10 +33234,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 14,
         "winRatio": 50,
-        "rating": 152.2710562874538
+        "rating": 152.27250800239318
       }
     },
-    "rating": 163.6039951275456,
+    "rating": 163.607815239601,
     "totalTournaments": 6,
     "totalGames": 25,
     "totalWins": 11,
@@ -32527,10 +33290,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 8,
         "winRatio": 68.75,
-        "rating": 169.60130205470657
+        "rating": 169.43970314366032
       }
     },
-    "rating": 169.8699497072058,
+    "rating": 169.68017757730772,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 9,
@@ -32587,10 +33350,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 66.67,
-        "rating": 159.8624312952391
+        "rating": 159.87608269911524
       }
     },
-    "rating": 222.49277400192258,
+    "rating": 222.4980075651018,
     "totalTournaments": 24,
     "totalGames": 92,
     "totalWins": 47,
@@ -32625,10 +33388,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 8,
         "winRatio": 62.5,
-        "rating": 161.13580363818053
+        "rating": 161.13587161918326
       }
     },
-    "rating": 161.74529557039475,
+    "rating": 161.74745413336868,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -32649,10 +33412,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 140.44368988593888
+        "rating": 140.44402443926208
       }
     },
-    "rating": 140.8945271291483,
+    "rating": 140.89474428160673,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -32682,10 +33445,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 6,
         "winRatio": 75,
-        "rating": 167.17230744694075
+        "rating": 167.18792689220314
       }
     },
-    "rating": 170.13294657206802,
+    "rating": 170.1412084384224,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 6,
@@ -32812,14 +33575,24 @@ const statsData = [
     "NAF Name": "Valeck",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 1,
+        "gamesLost": 2,
+        "gamesTotal": 4,
+        "winRatio": 37.5,
+        "rating": 144.15062733551625
+      }
+    },
+    "rating": 144.55833711776748,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 2,
+    "totalWinRatio": 37.5
   },
   {
     "NAF Nr": "31716",
@@ -32828,21 +33601,21 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 8,
+        "tournaments": 4,
+        "gamesWon": 11,
         "gamesDraw": 2,
-        "gamesLost": 2,
-        "gamesTotal": 12,
+        "gamesLost": 3,
+        "gamesTotal": 16,
         "winRatio": 75,
-        "rating": 173.16952422016462
+        "rating": 181.1635328669059
       }
     },
-    "rating": 175.6430458791828,
-    "totalTournaments": 3,
-    "totalGames": 12,
-    "totalWins": 8,
+    "rating": 184.6492327638475,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 11,
     "totalDraws": 2,
-    "totalLosses": 2,
+    "totalLosses": 3,
     "totalWinRatio": 75
   },
   {
@@ -32867,10 +33640,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 147.40111167579184
+        "rating": 147.40110952870194
       }
     },
-    "rating": 166.46473860365754,
+    "rating": 166.46684521647225,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 7,
@@ -32965,10 +33738,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 8,
         "winRatio": 75,
-        "rating": 171.43929480057238
+        "rating": 171.43959746766063
       }
     },
-    "rating": 196.5228022329354,
+    "rating": 196.52655638699937,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 14,
@@ -32994,20 +33767,20 @@ const statsData = [
       "2025": {
         "tournaments": 2,
         "gamesWon": 0,
-        "gamesDraw": 2,
+        "gamesDraw": 3,
         "gamesLost": 6,
-        "gamesTotal": 8,
-        "winRatio": 12.5,
-        "rating": 121.16753255530467
+        "gamesTotal": 9,
+        "winRatio": 16.67,
+        "rating": 121.79508417882744
       }
     },
-    "rating": 106.95103756066108,
+    "rating": 107.53848359017456,
     "totalTournaments": 3,
-    "totalGames": 12,
+    "totalGames": 13,
     "totalWins": 0,
-    "totalDraws": 2,
+    "totalDraws": 3,
     "totalLosses": 10,
-    "totalWinRatio": 8.33
+    "totalWinRatio": 11.54
   },
   {
     "NAF Nr": "26034",
@@ -33022,10 +33795,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 133.79675472215646
+        "rating": 133.7980386819423
       }
     },
-    "rating": 134.57070802460683,
+    "rating": 134.57153118697738,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -33046,10 +33819,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 150.02959647870688
+        "rating": 150.0305668396356
       }
     },
-    "rating": 151.43368534333283,
+    "rating": 151.4342647136281,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -33062,14 +33835,24 @@ const statsData = [
     "NAF Name": "Varone",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 1,
+        "gamesLost": 0,
+        "gamesTotal": 1,
+        "winRatio": 50,
+        "rating": 149.29138310978303
+      }
+    },
+    "rating": 149.27507385447944,
+    "totalTournaments": 1,
+    "totalGames": 1,
     "totalWins": 0,
-    "totalDraws": 0,
+    "totalDraws": 1,
     "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "8021",
@@ -33087,22 +33870,22 @@ const statsData = [
         "rating": 187.6796797736086
       },
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 2,
-        "gamesDraw": 3,
+        "gamesDraw": 4,
         "gamesLost": 1,
-        "gamesTotal": 6,
-        "winRatio": 58.33,
-        "rating": 155.70769866205592
+        "gamesTotal": 7,
+        "winRatio": 57.14,
+        "rating": 156.00510189695757
       }
     },
-    "rating": 187.36769779508094,
-    "totalTournaments": 6,
-    "totalGames": 26,
+    "rating": 186.63481392551037,
+    "totalTournaments": 7,
+    "totalGames": 27,
     "totalWins": 13,
-    "totalDraws": 9,
+    "totalDraws": 10,
     "totalLosses": 4,
-    "totalWinRatio": 67.31
+    "totalWinRatio": 66.67
   },
   {
     "NAF Nr": "25696",
@@ -33150,10 +33933,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 12,
         "winRatio": 50,
-        "rating": 150.32714715355112
+        "rating": 150.32708814541886
       }
     },
-    "rating": 148.7718293550433,
+    "rating": 149.75384669011132,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 6,
@@ -33192,22 +33975,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 4,
-        "gamesDraw": 3,
-        "gamesLost": 5,
-        "gamesTotal": 12,
-        "winRatio": 45.83,
-        "rating": 145.8123843352435
+        "tournaments": 4,
+        "gamesWon": 5,
+        "gamesDraw": 5,
+        "gamesLost": 6,
+        "gamesTotal": 16,
+        "winRatio": 46.88,
+        "rating": 144.01882230241372
       }
     },
-    "rating": 148.0873489580707,
-    "totalTournaments": 3,
-    "totalGames": 12,
-    "totalWins": 4,
-    "totalDraws": 3,
-    "totalLosses": 5,
-    "totalWinRatio": 45.83
+    "rating": 145.96781132668943,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 5,
+    "totalDraws": 5,
+    "totalLosses": 6,
+    "totalWinRatio": 46.88
   },
   {
     "NAF Nr": "17065",
@@ -33243,22 +34026,22 @@ const statsData = [
         "rating": 185.32818688692296
       },
       "2025": {
-        "tournaments": 8,
-        "gamesWon": 15,
-        "gamesDraw": 6,
-        "gamesLost": 11,
-        "gamesTotal": 32,
-        "winRatio": 56.25,
-        "rating": 147.49895504023155
+        "tournaments": 9,
+        "gamesWon": 16,
+        "gamesDraw": 8,
+        "gamesLost": 13,
+        "gamesTotal": 37,
+        "winRatio": 54.05,
+        "rating": 142.9244373098439
       }
     },
-    "rating": 159.49639759037046,
-    "totalTournaments": 16,
-    "totalGames": 63,
-    "totalWins": 31,
-    "totalDraws": 12,
-    "totalLosses": 20,
-    "totalWinRatio": 58.73
+    "rating": 152.2939092444878,
+    "totalTournaments": 17,
+    "totalGames": 68,
+    "totalWins": 32,
+    "totalDraws": 14,
+    "totalLosses": 22,
+    "totalWinRatio": 57.35
   },
   {
     "NAF Nr": "13507",
@@ -33342,22 +34125,22 @@ const statsData = [
     "CCAA": "P. Vasco",
     "yearStats": {
       "2025": {
-        "tournaments": 2,
+        "tournaments": 3,
         "gamesWon": 4,
-        "gamesDraw": 4,
+        "gamesDraw": 5,
         "gamesLost": 0,
-        "gamesTotal": 8,
-        "winRatio": 75,
-        "rating": 170.8009697895656
+        "gamesTotal": 9,
+        "winRatio": 72.22,
+        "rating": 170.50794827933166
       }
     },
-    "rating": 171.69694883042794,
-    "totalTournaments": 2,
-    "totalGames": 8,
+    "rating": 172.38726213694898,
+    "totalTournaments": 3,
+    "totalGames": 9,
     "totalWins": 4,
-    "totalDraws": 4,
+    "totalDraws": 5,
     "totalLosses": 0,
-    "totalWinRatio": 75
+    "totalWinRatio": 72.22
   },
   {
     "NAF Nr": "21324",
@@ -33381,10 +34164,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 7,
         "winRatio": 28.57,
-        "rating": 133.30251203518483
+        "rating": 133.3075984903967
       }
     },
-    "rating": 129.97192829496842,
+    "rating": 129.97536841159987,
     "totalTournaments": 4,
     "totalGames": 17,
     "totalWins": 5,
@@ -33455,16 +34238,30 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 10,
         "winRatio": 50,
-        "rating": 151.31411509111297
+        "rating": 151.3156141093802
       }
     },
-    "rating": 176.8062881550224,
+    "rating": 176.8085802259256,
     "totalTournaments": 15,
     "totalGames": 58,
     "totalWins": 27,
     "totalDraws": 16,
     "totalLosses": 15,
     "totalWinRatio": 60.34
+  },
+  {
+    "NAF Nr": "11",
+    "NAF Name": "Voidis0",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {},
+    "rating": 150,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0
   },
   {
     "NAF Nr": "7397",
@@ -33536,10 +34333,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 139.86587844922786
+        "rating": 139.86589680463544
       }
     },
-    "rating": 132.43759772590025,
+    "rating": 132.4376810422386,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -33560,10 +34357,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 149.55228483753976
+        "rating": 149.55228643581358
       }
     },
-    "rating": 149.57078353771743,
+    "rating": 149.57078437159134,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -33587,22 +34384,22 @@ const statsData = [
         "rating": 167.6374817885643
       },
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 2,
-        "gamesDraw": 2,
+        "gamesDraw": 3,
         "gamesLost": 2,
-        "gamesTotal": 6,
+        "gamesTotal": 7,
         "winRatio": 50,
-        "rating": 151.78326827022602
+        "rating": 151.94151286825547
       }
     },
-    "rating": 168.7350621096951,
-    "totalTournaments": 2,
-    "totalGames": 10,
+    "rating": 168.06715132891574,
+    "totalTournaments": 3,
+    "totalGames": 11,
     "totalWins": 5,
-    "totalDraws": 3,
+    "totalDraws": 4,
     "totalLosses": 2,
-    "totalWinRatio": 65
+    "totalWinRatio": 63.64
   },
   {
     "NAF Nr": "21984",
@@ -33659,10 +34456,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 144.9524014012905
+        "rating": 144.95327775881992
       }
     },
-    "rating": 166.05679790366398,
+    "rating": 166.05723344002158,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 11,
@@ -33724,10 +34521,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 41.67,
-        "rating": 144.81981942586933
+        "rating": 144.84088856125308
       }
     },
-    "rating": 142.21865893416498,
+    "rating": 142.23113740595392,
     "totalTournaments": 6,
     "totalGames": 21,
     "totalWins": 6,
@@ -33772,10 +34569,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 156.31924284068
+        "rating": 156.31924077491524
       }
     },
-    "rating": 157.63452454048786,
+    "rating": 157.6368802694357,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -33796,10 +34593,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 33.33,
-        "rating": 144.69139353215843
+        "rating": 144.74976779615636
       }
     },
-    "rating": 143.13232959416197,
+    "rating": 143.1783675452154,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -33884,36 +34681,46 @@ const statsData = [
         "rating": 173.50740771606263
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 9,
-        "gamesDraw": 2,
-        "gamesLost": 3,
-        "gamesTotal": 14,
-        "winRatio": 71.43,
-        "rating": 172.4960859066107
+        "tournaments": 4,
+        "gamesWon": 11,
+        "gamesDraw": 3,
+        "gamesLost": 4,
+        "gamesTotal": 18,
+        "winRatio": 69.44,
+        "rating": 172.61537558235858
       }
     },
-    "rating": 193.17914392932386,
-    "totalTournaments": 8,
-    "totalGames": 38,
-    "totalWins": 17,
-    "totalDraws": 17,
-    "totalLosses": 4,
-    "totalWinRatio": 67.11
+    "rating": 190.50651613253996,
+    "totalTournaments": 9,
+    "totalGames": 42,
+    "totalWins": 19,
+    "totalDraws": 18,
+    "totalLosses": 5,
+    "totalWinRatio": 66.67
   },
   {
     "NAF Nr": "36797",
     "NAF Name": "Xartrir",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 1,
+        "gamesDraw": 1,
+        "gamesLost": 1,
+        "gamesTotal": 3,
+        "winRatio": 50,
+        "rating": 148.5393719299934
+      }
+    },
+    "rating": 147.94814726674784,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 1,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "20836",
@@ -33922,22 +34729,22 @@ const statsData = [
     "CCAA": "C. Valenciana",
     "yearStats": {
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 5,
-        "gamesDraw": 4,
-        "gamesLost": 1,
-        "gamesTotal": 10,
-        "winRatio": 70,
-        "rating": 171.3207297044771
+        "tournaments": 3,
+        "gamesWon": 7,
+        "gamesDraw": 5,
+        "gamesLost": 2,
+        "gamesTotal": 14,
+        "winRatio": 67.86,
+        "rating": 173.6726208180771
       }
     },
-    "rating": 179.08934600607284,
-    "totalTournaments": 2,
-    "totalGames": 10,
-    "totalWins": 5,
-    "totalDraws": 4,
-    "totalLosses": 1,
-    "totalWinRatio": 70
+    "rating": 181.17973147586983,
+    "totalTournaments": 3,
+    "totalGames": 14,
+    "totalWins": 7,
+    "totalDraws": 5,
+    "totalLosses": 2,
+    "totalWinRatio": 67.86
   },
   {
     "NAF Nr": "31701",
@@ -34012,10 +34819,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 29,
         "winRatio": 60.34,
-        "rating": 174.8057325315172
+        "rating": 174.83306989875544
       }
     },
-    "rating": 178.77966302402476,
+    "rating": 178.79982980505275,
     "totalTournaments": 41,
     "totalGames": 166,
     "totalWins": 63,
@@ -34123,22 +34930,22 @@ const statsData = [
         "rating": 155.59964314831961
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 5,
+        "tournaments": 3,
+        "gamesWon": 6,
         "gamesDraw": 0,
-        "gamesLost": 3,
-        "gamesTotal": 8,
-        "winRatio": 62.5,
-        "rating": 156.63790634089258
+        "gamesLost": 6,
+        "gamesTotal": 12,
+        "winRatio": 50,
+        "rating": 144.53837198972795
       }
     },
-    "rating": 164.66328914537291,
-    "totalTournaments": 4,
-    "totalGames": 15,
-    "totalWins": 8,
+    "rating": 150.85917128682078,
+    "totalTournaments": 5,
+    "totalGames": 19,
+    "totalWins": 9,
     "totalDraws": 2,
-    "totalLosses": 5,
-    "totalWinRatio": 60
+    "totalLosses": 8,
+    "totalWinRatio": 52.63
   },
   {
     "NAF Nr": "36258",
@@ -34153,10 +34960,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 142.27646236078166
+        "rating": 142.28825094317006
       }
     },
-    "rating": 142.4705573688673,
+    "rating": 142.47765203675436,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -34177,10 +34984,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 50,
-        "rating": 149.29578348222
+        "rating": 149.3014500167239
       }
     },
-    "rating": 151.15419659731575,
+    "rating": 151.15896390857134,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 2,
@@ -34210,10 +35017,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 12,
         "winRatio": 66.67,
-        "rating": 170.8266944235308
+        "rating": 170.83105258439699
       }
     },
-    "rating": 169.59386940494855,
+    "rating": 169.598185937924,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 10,
@@ -34276,10 +35083,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 3,
         "winRatio": 83.33,
-        "rating": 159.7811115664329
+        "rating": 159.7882352618962
       }
     },
-    "rating": 169.5641065299652,
+    "rating": 169.56810897811746,
     "totalTournaments": 4,
     "totalGames": 15,
     "totalWins": 8,
@@ -34369,10 +35176,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 10,
         "winRatio": 30,
-        "rating": 133.77309442360186
+        "rating": 133.77548045522735
       }
     },
-    "rating": 149.46714338008795,
+    "rating": 149.46854330787357,
     "totalTournaments": 14,
     "totalGames": 56,
     "totalWins": 21,
@@ -34402,10 +35209,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 12,
         "winRatio": 54.17,
-        "rating": 150.45548331086192
+        "rating": 150.4555081560173
       }
     },
-    "rating": 153.82171547372255,
+    "rating": 153.82197966821994,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 6,
@@ -34426,10 +35233,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 136.41099993572195
+        "rating": 136.4149972232672
       }
     },
-    "rating": 136.82916843957082,
+    "rating": 136.8317556412813,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -34483,10 +35290,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 134.8656696770843
+        "rating": 134.88586129660268
       }
     },
-    "rating": 134.50074020936296,
+    "rating": 134.51294390004958,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -34534,10 +35341,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 8,
         "winRatio": 81.25,
-        "rating": 175.00219276673502
+        "rating": 175.00569737360877
       }
     },
-    "rating": 167.17373558326912,
+    "rating": 167.1761707561835,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 10,
@@ -34598,14 +35405,24 @@ const statsData = [
     "NAF Name": "Zak",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 1,
+        "gamesLost": 1,
+        "gamesTotal": 4,
+        "winRatio": 62.5,
+        "rating": 156.92275454795362
+      }
+    },
+    "rating": 158.20889042802796,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 2,
+    "totalDraws": 1,
+    "totalLosses": 1,
+    "totalWinRatio": 62.5
   },
   {
     "NAF Nr": "39961",
@@ -34616,20 +35433,20 @@ const statsData = [
       "2025": {
         "tournaments": 2,
         "gamesWon": 4,
-        "gamesDraw": 2,
+        "gamesDraw": 3,
         "gamesLost": 2,
-        "gamesTotal": 8,
-        "winRatio": 62.5,
-        "rating": 160.24619002383903
+        "gamesTotal": 9,
+        "winRatio": 61.11,
+        "rating": 160.39183862538758
       }
     },
-    "rating": 162.9766955732726,
+    "rating": 162.45431541915164,
     "totalTournaments": 2,
-    "totalGames": 8,
+    "totalGames": 9,
     "totalWins": 4,
-    "totalDraws": 2,
+    "totalDraws": 3,
     "totalLosses": 2,
-    "totalWinRatio": 62.5
+    "totalWinRatio": 61.11
   },
   {
     "NAF Nr": "34692",
@@ -34654,14 +35471,23 @@ const statsData = [
         "gamesTotal": 4,
         "winRatio": 62.5,
         "rating": 156.49528433493475
+      },
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 2,
+        "gamesDraw": 1,
+        "gamesLost": 1,
+        "gamesTotal": 4,
+        "winRatio": 62.5,
+        "rating": 156.3101219940094
       }
     },
-    "rating": 164.4506123942874,
-    "totalTournaments": 2,
-    "totalGames": 8,
-    "totalWins": 4,
-    "totalDraws": 2,
-    "totalLosses": 2,
+    "rating": 170.51915691140638,
+    "totalTournaments": 3,
+    "totalGames": 12,
+    "totalWins": 6,
+    "totalDraws": 3,
+    "totalLosses": 3,
     "totalWinRatio": 62.5
   },
   {
@@ -34880,10 +35706,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 148.44013786102886
+        "rating": 148.44131496923538
       }
     },
-    "rating": 146.84532129930932,
+    "rating": 146.84636714432625,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -34951,10 +35777,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 8,
         "winRatio": 56.25,
-        "rating": 153.80021985887436
+        "rating": 153.8246858121197
       }
     },
-    "rating": 166.73721716924413,
+    "rating": 166.7523054092371,
     "totalTournaments": 9,
     "totalGames": 40,
     "totalWins": 16,
@@ -34988,21 +35814,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 2,
-        "gamesWon": 3,
+        "gamesWon": 4,
         "gamesDraw": 5,
         "gamesLost": 2,
-        "gamesTotal": 10,
-        "winRatio": 55,
-        "rating": 153.08351874470813
+        "gamesTotal": 11,
+        "winRatio": 59.09,
+        "rating": 156.75429025003498
       }
     },
-    "rating": 156.22328704589734,
+    "rating": 160.68489227332174,
     "totalTournaments": 4,
-    "totalGames": 18,
-    "totalWins": 4,
+    "totalGames": 19,
+    "totalWins": 5,
     "totalDraws": 12,
     "totalLosses": 2,
-    "totalWinRatio": 55.56
+    "totalWinRatio": 57.89
   },
   {
     "NAF Nr": "17366",
@@ -35053,10 +35879,10 @@ const statsData = [
         "gamesLost": 10,
         "gamesTotal": 41,
         "winRatio": 57.32,
-        "rating": 176.24050374206317
+        "rating": 176.25031763415822
       }
     },
-    "rating": 193.54147649033627,
+    "rating": 193.5488616864167,
     "totalTournaments": 47,
     "totalGames": 191,
     "totalWins": 86,
