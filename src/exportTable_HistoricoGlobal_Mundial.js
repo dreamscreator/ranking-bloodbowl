@@ -131,4 +131,33 @@ document.addEventListener('DOMContentLoaded', () => {
   nafFilter.addEventListener('input', applyFilters);
   coachFilter.addEventListener('input', applyFilters);
   countryFilter.addEventListener('change', applyFilters);
-  w
+  wrMinFilter.addEventListener('change', applyFilters);
+  wrMaxFilter.addEventListener('change', applyFilters);
+  gamesMinFilter.addEventListener('change', applyFilters);
+  gamesMaxFilter.addEventListener('change', applyFilters);
+
+  // ==========================
+  // Función para renderizar la tabla
+  // ==========================
+  function renderTable(rows) {
+    tableBody.innerHTML = '';
+    rows.forEach(row => {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td>${row.rankOverall}</td>
+        <td>${row.nafNr}</td>
+        <td>${row.coach}</td>
+        <td class="country-column">${row.country} (${row.rankCountry})</td>
+        <td class="hide-lg">${row.tournaments}</td>
+        <td class="hide-lg">${row.games}</td>
+        <td class="hide-md">${row.wins}/${row.draws}/${row.losses}</td>
+        <td class="hide-md">${row.winRatio}%</td>
+        <td>${row.rating.toFixed(2)}</td>
+      `;
+      tableBody.appendChild(tr);
+    });
+  }
+
+  // Renderizado inicial
+  renderTable(data);
+});
