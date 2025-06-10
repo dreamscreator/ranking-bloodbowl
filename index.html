@@ -8,19 +8,8 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-primary-blue">
-    <div class="container">
-      <a class="navbar-brand fw-bold" href="index.html">Blood Bowl Ranking</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link active" href="index.html" data-i18n="inicio">Inicio</a>
-          </li>
 
+<<<<<<< HEAD
           <li class="nav-item dropdown">
             <span><a class="nav-link dropdown-toggle" role="button" aria-expanded="false" href="rankings.html">
               Rankings</a>
@@ -51,27 +40,161 @@
               </li>
             </ul>
           </li>
+=======
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary-blue">
+  <div class="container">
+    <a class="navbar-brand fw-bold" href="index.html">Blood Bowl Ranking</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+>>>>>>> 913091f0e1e33da56f45a0adadff2bbbdd779219
 
-          <li class="nav-item">
-            <a class="nav-link" href="contacto.html" data-i18n="contacto">Contacto</a>
-          </li>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+      <ul class="navbar-nav">
 
+<<<<<<< HEAD
           <li class="nav-item">
             <a class="nav-link" target="_blank" href="https://paypal.me/BBdados?country.x=ES&locale.x=es_ES" data-i18n="donacion">Donación</a>
           </li>
+=======
+        <li class="nav-item">
+          <a class="nav-link active" href="index.html" data-i18n="inicio">Inicio</a>
+        </li>
+>>>>>>> 913091f0e1e33da56f45a0adadff2bbbdd779219
 
-          <li class="nav-item d-flex align-items-center">
-            <a class="nav-link" href="#" onclick="setLanguage('es')">
-              <img src="img/flag-es.png" alt="Español" width="24" height="16">
-            </a>
-            <a class="nav-link" href="#" onclick="setLanguage('en')">
-              <img src="img/flag-uk.png" alt="English" width="24" height="16">
-            </a>
-          </li>
-        </ul>
-      </div>
+        <!-- Menú principal con dropdown -->
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarRankings" role="button" data-bs-toggle="dropdown" aria-expanded="false">Rankings</a>
+          <ul class="dropdown-menu" aria-labelledby="navbarRankings">
+
+            <!-- Ranking explicación -->
+            <li class="dropend">
+              <a class="dropdown-item" href="rankings.html" data-i18n="rankingComo">¿Cómo funciona?</a>
+            </li>
+
+            <!-- BBT: dropend para que abra a la derecha -->
+            <li class="dropend">
+              <a class="dropdown-item dropdown-toggle" href="#" id="submenuBBT" role="button" data-bs-toggle="dropdown" aria-expanded="false">BBT</a>
+              <ul class="dropdown-menu" aria-labelledby="submenuBBT">
+                <li>
+                  <a class="dropdown-item" href="bbtGlobalAnual.html" data-i18n="rankingGlobalAnual">
+                    Global Anual
+                  </a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="bbtGlobalHistorico.html" data-i18n="rankingGlobalHistorico">
+                    Global Histórico
+                  </a>
+                </li>
+              </ul>
+            </li>
+
+            <!-- NAF España -->
+            <li class="dropend">
+              <a
+                class="dropdown-item dropdown-toggle"
+                href="#"
+                id="submenuNAFES"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                NAF España
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="submenuNAFES">
+                <li>
+                  <a class="dropdown-item" href="nafGlobalAnual.html" data-i18n="rankingGlobalAnual">
+                    Global Anual
+                  </a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="nafGlobalHistorico.html" data-i18n="rankingGlobalHistorico">
+                    Global Histórico
+                  </a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="nafRazasHistorico.html" data-i18n="rankingRazasHistorico">
+                    Razas Histórico
+                  </a>
+                </li>
+              </ul>
+            </li>
+
+            <!-- NAF Mundial -->
+            <li class="dropend">
+              <a
+                class="dropdown-item dropdown-toggle"
+                href="#"
+                id="submenuNAFM"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                NAF Mundial
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="submenuNAFM">
+                <li>
+                  <a
+                    class="dropdown-item"
+                    href="nafGlobalAnualMundial.html"
+                    data-i18n="rankingGlobalAnual"
+                  >
+                    Global Anual
+                  </a>
+                </li>
+                <li>
+                  <a
+                    class="dropdown-item"
+                    href="nafGlobalHistoricoMundial.html"
+                    data-i18n="rankingGlobalHistorico"
+                  >
+                    Global Histórico
+                  </a>
+                </li>
+                <li>
+                  <a
+                    class="dropdown-item"
+                    href="nafRazasHistoricoMundial.html"
+                    data-i18n="rankingRazasHistorico"
+                  >
+                    Razas Histórico
+                  </a>
+                </li>
+              </ul>
+            </li>
+
+          </ul>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="contacto.html" data-i18n="contacto">Contacto</a>
+        </li>
+
+        <li class="nav-item">
+          <a
+            class="nav-link"
+            target="_blank"
+            href="https://paypal.me/BBdados?country.x=ES&locale.x=es_ES"
+            data-i18n="donacion"
+          >
+            Donación
+          </a>
+        </li>
+
+        <li class="nav-item d-flex align-items-center">
+          <a class="nav-link" href="#" onclick="setLanguage('es')">
+            <img src="img/flag-es.png" alt="Español" width="24" height="16">
+          </a>
+          <a class="nav-link" href="#" onclick="setLanguage('en')">
+            <img src="img/flag-uk.png" alt="English" width="24" height="16">
+          </a>
+        </li>
+
+      </ul>
     </div>
-  </nav>
+  </div>
+</nav>
 
   <!-- Contenido principal -->
   <div class="container py-5 mt-4">
@@ -88,7 +211,12 @@
         <div class="p-4 shadow rounded section-bg">
           <h4 class="fw-bold text-primary" data-i18n="queEs">¿QUÉ ES EL BLOOD BOWL RANKING ESPAÑA?</h4>
           <p data-i18n="queEsTexto1">
+<<<<<<< HEAD
             Blood Bowl Ranking España nace con el objetivo de compartir diferentes clasificaciones ELO de los jugadores españoles tanto en los resultados de los partidos NAF como de los partidos de BBT (BBTournaments).
+=======
+            Blood Bowl Ranking nace con el objetivo de compartir diferentes clasificaciones ELO de los jugadores tanto
+            españoles como de todo el mundo, tanto en los resultados de los partidos NAF como de los partidos de BBT (BBTournaments).
+>>>>>>> 913091f0e1e33da56f45a0adadff2bbbdd779219
           </p>
           <p data-i18n="queEsTexto2">
             Se puede encontrar las clasificaciones divididas en dos grupos: NAF España, NAF Mundial y BBT. La primera englobará todos los torneos registrados en la NAF, la segunda todos los torneos registrados en BBT.
@@ -119,6 +247,7 @@
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
+<<<<<<< HEAD
 <script>
   const translations = {
     es: {
@@ -178,6 +307,53 @@
       const key = el.getAttribute('data-i18n');
       if (translations[lang][key]) {
         el.innerHTML = translations[lang][key];
+=======
+  <script>
+    const translations = {
+      es: {
+        title: "Blood Bowl Ranking",
+        inicio: "Inicio",
+        rankings: "Rankings",
+        contacto: "Contacto",
+        donacion: "Donación",
+        rankingComo: "¿Cómo funciona?",
+        rankingGlobalAnual: "Global Anual",
+        rankingGlobalHistorico: "Global Histórico",
+        rankingRazasHistorico: "Razas Histórico",
+        webCreada: "Web creada por dreamscreator",
+        // Agrega aquí el resto de traducciones independientes de cada página
+        ultimaActualizacion: "Última actualización: ",
+        queEs: "¿QUÉ ES EL BLOOD BOWL RANKING?",
+        queEsTexto1: "Blood Bowl Ranking nace con el objetivo de compartir diferentes clasificaciones ELO de los jugadores tanto españoles como de todo el mundo, tanto en los resultados de los partidos NAF como de los partidos de BBT (BBTournaments).",
+        queEsTexto2: "Se puede encontrar las clasificaciones divididas en dos grupos: NAF España, NAF Mundial y BBT. La primera englobará todos los torneos registrados en la NAF, la segunda todos los torneos registrados en BBT.",
+        queEsTexto3: "A su vez, los grupos de la NAF está dividido en NAF España dónde están filtrado solo los jugadores españoles, y NAF Mundial con todos los jugadores NAF del mundo. A su vez estás estarán divididas en tres clasificaciones distintas: un ranking global, dónde el ELO evoluciona a lo largo de la historia y no se resetea nunca y no está separado por razas, un ranking anual, dónde el ELO evoluciona a lo largo de un año natural y se resetea a 150 cada 1 de enero y no está separado por razas, y el clásico ranking global por razas, dónde el ELO evoluciona a lo largo de la historia y no se resetea nunca y está separado por razas.",
+        queEsTexto4: "En el caso del grupo del BBT estará dividido en dos clasificaciones distintas: un ranking global y un ranking anual.",
+        queEsTexto5: "Cada página del ranking encontrarás en la clasificación tanto la posición general de la clasificación, el número NAF, el nick de entrenador, la Comunidad Autónoma de ese entrenador, o el País en el caso de los rankings de NAF Mundial, y entre paréntesis la posición en la clasificación entre los jugadores de esas Comunidad Autónoma/País, el número de torneos y partidos jugados, las victorias, empates y derrotas, el win ratio y el ranking de dicha clasificación.",
+        queEsTexto6: "La Comunidad Autónoma de cada jugador se irá rellenando poco a poco según se vaya indicando puesto que no hay ningún lugar dónde consultar dicho dato, en caso de no tener el dato aparecerá como 'Apatrida', si deseas indicar cuál es tu Comunidad Autónoma o el de algún otro entrenador o corregir algún error que detectes, puedes ponerte en contacto a través del formulario de contacto.",
+        queEsTexto7: "Si te gusta la web y lo deseas puedes colaborar con el mantenimiento de la página y los rankings con el botón de donación en el menú principal. ¡Gracias!",
+      },
+      en: {
+        title: "Blood Bowl Ranking",
+        inicio: "Home",
+        rankings: "Rankings",
+        contacto: "Contact",
+        donacion: "Donate",
+        rankingComo: "¿How it works?",
+        rankingGlobalAnual: "Global Annual",
+        rankingGlobalHistorico: "Global Historical",
+        rankingRazasHistorico: "Races Historical",
+        webCreada: "Website create by dreamscreator",
+        // Agrega aquí el resto de traducciones independientes de cada página
+        ultimaActualizacion: "Last update: ",
+        queEs: "WHAT IS THE BLOOD BOWL RANKING?",
+        queEsTexto1: "Blood Bowl Ranking was born with the aim of sharing different ELO rankings of players from Spain and all over the world, both NAF and BBT (BBTournaments) match results.",
+        queEsTexto2: "You can find the rankings divided into two groups: NAF Spain, NAF World and BBT. The first one will include all the tournaments registered in the NAF, the second one all the tournaments registered in BBT.",
+        queEsTexto3: "In turn, the NAF groups are divided into NAF Spain, where only Spanish players are filtered, and NAF World with all NAF players in the world. In turn these will be divided into three different classifications: a global ranking, where the ELO evolves throughout history and is never reset and is not separated by races, an annual ranking, where the ELO evolves throughout a calendar year and is reset to 150 every January 1st and is not separated by races, and the classic global ranking by races, where the ELO evolves throughout history and is never reset and is separated by races.",
+        queEsTexto4: "In the case of the BBT group, it will be divided into two different classifications: a global ranking and an annual ranking.",
+        queEsTexto5: "On each ranking page you will find the overall ranking position, the NAF number, the coach's nickname, the Autonomous Community of that coach, or the Country in the case of NAF World rankings, and in brackets the ranking position among the players of that Autonomous Community/Country, the number of tournaments and matches played, the wins, draws and losses, the win ratio and the ranking of that ranking.",
+        queEsTexto6: "The Autonomous Community of each player will be filled in little by little as it is indicated since there is no place where to consult this data, in case of not having the data it will appear as 'Apatrida', if you want to indicate which is your Autonomous Community or that of another coach or correct any error that you detect, you can contact us through the contact form.",
+        queEsTexto7: "If you like the website and you wish you can collaborate with the maintenance of the page and the rankings with the donation button in the main menu, thank you!",
+>>>>>>> 913091f0e1e33da56f45a0adadff2bbbdd779219
       }
     });
   }
