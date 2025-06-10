@@ -42,22 +42,22 @@ const statsData = [
         "rating": 91.2109276489256
       },
       "2025": {
-        "tournaments": 34,
-        "gamesWon": 132,
-        "gamesDraw": 106,
-        "gamesLost": 250,
-        "gamesTotal": 488,
-        "winRatio": 37.91,
-        "rating": 122.00781098355513
+        "tournaments": 35,
+        "gamesWon": 138,
+        "gamesDraw": 107,
+        "gamesLost": 261,
+        "gamesTotal": 506,
+        "winRatio": 37.85,
+        "rating": 111.60743691955453
       }
     },
-    "rating": 124.63178757375971,
-    "totalTournaments": 114,
-    "totalGames": 1392,
-    "totalWins": 373,
-    "totalDraws": 322,
-    "totalLosses": 697,
-    "totalWinRatio": 38.36
+    "rating": 113.82826078124134,
+    "totalTournaments": 115,
+    "totalGames": 1410,
+    "totalWins": 379,
+    "totalDraws": 323,
+    "totalLosses": 708,
+    "totalWinRatio": 38.33
   },
   {
     "NAF Nr": "35234",
@@ -87,7 +87,7 @@ const statsData = [
     "NAF Nr": "33354",
     "NAF Name": "eljabalicojo",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -217,10 +217,10 @@ const statsData = [
         "gamesLost": 13,
         "gamesTotal": 43,
         "winRatio": 60.47,
-        "rating": 182.7001576349398
+        "rating": 182.7004715224697
       }
     },
-    "rating": 204.54303660175856,
+    "rating": 204.54332429075035,
     "totalTournaments": 61,
     "totalGames": 249,
     "totalWins": 126,
@@ -399,19 +399,19 @@ const statsData = [
         "tournaments": 2,
         "gamesWon": 1,
         "gamesDraw": 2,
-        "gamesLost": 2,
-        "gamesTotal": 5,
-        "winRatio": 40,
-        "rating": 145.29927023532358
+        "gamesLost": 7,
+        "gamesTotal": 10,
+        "winRatio": 20,
+        "rating": 117.26211943354404
       }
     },
-    "rating": 145.36734282552268,
+    "rating": 117.45515056463904,
     "totalTournaments": 2,
-    "totalGames": 5,
+    "totalGames": 10,
     "totalWins": 1,
     "totalDraws": 2,
-    "totalLosses": 2,
-    "totalWinRatio": 40
+    "totalLosses": 7,
+    "totalWinRatio": 20
   },
   {
     "NAF Nr": "28631",
@@ -441,7 +441,7 @@ const statsData = [
     "NAF Nr": "36673",
     "NAF Name": "Aegis",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 5,
@@ -474,7 +474,7 @@ const statsData = [
     "NAF Nr": "26833",
     "NAF Name": "Aekold",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "I. Baleares",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -579,7 +579,7 @@ const statsData = [
     "NAF Nr": "25699",
     "NAF Name": "Agazapado",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -597,10 +597,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 16,
         "winRatio": 56.25,
-        "rating": 155.62243141635548
+        "rating": 155.62234627584252
       }
     },
-    "rating": 155.8423748722529,
+    "rating": 155.84228367213296,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 12,
@@ -696,7 +696,7 @@ const statsData = [
     "NAF Nr": "24485",
     "NAF Name": "Agurck",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 4,
@@ -714,10 +714,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 66.67,
-        "rating": 162.74189646439368
+        "rating": 162.74191147813048
       }
     },
-    "rating": 190.66917912760522,
+    "rating": 190.66919391362387,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 13,
@@ -774,10 +774,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 18,
         "winRatio": 66.67,
-        "rating": 175.36905244709087
+        "rating": 175.36865099765535
       }
     },
-    "rating": 193.44467362520538,
+    "rating": 193.44428168956193,
     "totalTournaments": 22,
     "totalGames": 85,
     "totalWins": 36,
@@ -837,6 +837,20 @@ const statsData = [
     "totalWinRatio": 43.75
   },
   {
+    "NAF Nr": "455",
+    "NAF Name": "Ailannan",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {},
+    "rating": 150,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0
+  },
+  {
     "NAF Nr": "37585",
     "NAF Name": "Ainun",
     "Country": "Spain",
@@ -864,7 +878,7 @@ const statsData = [
     "NAF Nr": "25218",
     "NAF Name": "Ainur",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -891,10 +905,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 8,
         "winRatio": 62.5,
-        "rating": 158.48835156119486
+        "rating": 158.4878514436702
       }
     },
-    "rating": 163.61471405274682,
+    "rating": 163.61415001473162,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 7,
@@ -934,27 +948,27 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 2,
-        "gamesWon": 1,
+        "gamesWon": 4,
         "gamesDraw": 4,
-        "gamesLost": 0,
-        "gamesTotal": 5,
+        "gamesLost": 2,
+        "gamesTotal": 10,
         "winRatio": 60,
-        "rating": 153.65642344795833
+        "rating": 159.17711326602648
       }
     },
-    "rating": 153.18140354788707,
+    "rating": 161.9099416919386,
     "totalTournaments": 2,
-    "totalGames": 5,
-    "totalWins": 1,
+    "totalGames": 10,
+    "totalWins": 4,
     "totalDraws": 4,
-    "totalLosses": 0,
+    "totalLosses": 2,
     "totalWinRatio": 60
   },
   {
     "NAF Nr": "27559",
     "NAF Name": "Aitrok",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {},
     "rating": 150,
     "totalTournaments": 0,
@@ -1025,25 +1039,25 @@ const statsData = [
     "NAF Nr": "26835",
     "NAF Name": "Alameda 54",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "I. Baleares",
     "yearStats": {
       "2025": {
         "tournaments": 1,
         "gamesWon": 0,
         "gamesDraw": 1,
-        "gamesLost": 0,
-        "gamesTotal": 1,
-        "winRatio": 50,
-        "rating": 150
+        "gamesLost": 5,
+        "gamesTotal": 6,
+        "winRatio": 8.33,
+        "rating": 122.36979149074647
       }
     },
-    "rating": 149.85750746500744,
+    "rating": 122.40237586869344,
     "totalTournaments": 1,
-    "totalGames": 1,
+    "totalGames": 6,
     "totalWins": 0,
     "totalDraws": 1,
-    "totalLosses": 0,
-    "totalWinRatio": 50
+    "totalLosses": 5,
+    "totalWinRatio": 8.33
   },
   {
     "NAF Nr": "34553",
@@ -1067,10 +1081,10 @@ const statsData = [
         "gamesLost": 11,
         "gamesTotal": 26,
         "winRatio": 50,
-        "rating": 145.3376442071391
+        "rating": 145.34243053782345
       }
     },
-    "rating": 149.36913164540425,
+    "rating": 149.3737820682639,
     "totalTournaments": 7,
     "totalGames": 30,
     "totalWins": 13,
@@ -1110,21 +1124,21 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 2,
-        "gamesWon": 1,
-        "gamesDraw": 3,
-        "gamesLost": 1,
-        "gamesTotal": 5,
-        "winRatio": 50,
-        "rating": 150.1843819821662
+        "gamesWon": 3,
+        "gamesDraw": 2,
+        "gamesLost": 5,
+        "gamesTotal": 10,
+        "winRatio": 40,
+        "rating": 138.89051571297477
       }
     },
-    "rating": 149.64726594112625,
+    "rating": 139.50545449506524,
     "totalTournaments": 2,
-    "totalGames": 5,
-    "totalWins": 1,
-    "totalDraws": 3,
-    "totalLosses": 1,
-    "totalWinRatio": 50
+    "totalGames": 10,
+    "totalWins": 3,
+    "totalDraws": 2,
+    "totalLosses": 5,
+    "totalWinRatio": 40
   },
   {
     "NAF Nr": "33863",
@@ -1163,7 +1177,7 @@ const statsData = [
     "NAF Nr": "29110",
     "NAF Name": "AlbertoFCB",
     "Country": "Spain",
-    "CCAA": "Cataluña",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -1223,10 +1237,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 9,
         "winRatio": 55.56,
-        "rating": 155.1299223282204
+        "rating": 155.12973787790943
       }
     },
-    "rating": 173.318680420028,
+    "rating": 173.31852447375272,
     "totalTournaments": 12,
     "totalGames": 48,
     "totalWins": 24,
@@ -1238,7 +1252,7 @@ const statsData = [
     "NAF Nr": "23309",
     "NAF Name": "albruv",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -1256,10 +1270,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 12,
         "winRatio": 45.83,
-        "rating": 147.00516790559846
+        "rating": 147.00520045247072
       }
     },
-    "rating": 156.5136281689827,
+    "rating": 156.51365093523606,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 12,
@@ -1313,10 +1327,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 7,
         "winRatio": 50,
-        "rating": 148.5586575155022
+        "rating": 148.55881900399424
       }
     },
-    "rating": 153.27273390111827,
+    "rating": 153.27290132467297,
     "totalTournaments": 5,
     "totalGames": 17,
     "totalWins": 7,
@@ -1328,7 +1342,7 @@ const statsData = [
     "NAF Nr": "23159",
     "NAF Name": "alex182",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 5,
@@ -1364,22 +1378,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 2,
-        "gamesDraw": 1,
+        "gamesDraw": 5,
         "gamesLost": 1,
-        "gamesTotal": 4,
-        "winRatio": 62.5,
-        "rating": 155.32269949351428
+        "gamesTotal": 8,
+        "winRatio": 56.25,
+        "rating": 154.52104801197035
       }
     },
-    "rating": 155.2496687448982,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 154.26539359931002,
+    "totalTournaments": 2,
+    "totalGames": 8,
     "totalWins": 2,
-    "totalDraws": 1,
+    "totalDraws": 5,
     "totalLosses": 1,
-    "totalWinRatio": 62.5
+    "totalWinRatio": 56.25
   },
   {
     "NAF Nr": "33403",
@@ -1474,7 +1488,7 @@ const statsData = [
     "NAF Nr": "39833",
     "NAF Name": "alghimo",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -1522,7 +1536,7 @@ const statsData = [
     "NAF Nr": "23169",
     "NAF Name": "Allorolorito",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -1633,10 +1647,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 66.67,
-        "rating": 161.09595711313426
+        "rating": 161.0962906956224
       }
     },
-    "rating": 183.89641180552744,
+    "rating": 183.89670087948087,
     "totalTournaments": 11,
     "totalGames": 43,
     "totalWins": 17,
@@ -1699,31 +1713,31 @@ const statsData = [
     "NAF Nr": "21637",
     "NAF Name": "AlWiggin",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "I. Baleares",
     "yearStats": {
       "2025": {
         "tournaments": 1,
-        "gamesWon": 0,
-        "gamesDraw": 1,
+        "gamesWon": 4,
+        "gamesDraw": 2,
         "gamesLost": 0,
-        "gamesTotal": 1,
-        "winRatio": 50,
-        "rating": 149.78674595231482
+        "gamesTotal": 6,
+        "winRatio": 83.33,
+        "rating": 168.65937088399744
       }
     },
-    "rating": 149.789831150893,
+    "rating": 169.9897435742322,
     "totalTournaments": 1,
-    "totalGames": 1,
-    "totalWins": 0,
-    "totalDraws": 1,
+    "totalGames": 6,
+    "totalWins": 4,
+    "totalDraws": 2,
     "totalLosses": 0,
-    "totalWinRatio": 50
+    "totalWinRatio": 83.33
   },
   {
     "NAF Nr": "37041",
     "NAF Name": "Amarok",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -1756,7 +1770,7 @@ const statsData = [
     "NAF Nr": "16831",
     "NAF Name": "amen0",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Cantabria",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -1783,10 +1797,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 8,
         "winRatio": 81.25,
-        "rating": 175.1603436090358
+        "rating": 175.1603441851037
       }
     },
-    "rating": 185.790631674053,
+    "rating": 185.79063214839965,
     "totalTournaments": 4,
     "totalGames": 17,
     "totalWins": 10,
@@ -1840,10 +1854,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 41.67,
-        "rating": 144.49234703723855
+        "rating": 144.49234724290315
       }
     },
-    "rating": 146.56494961300925,
+    "rating": 146.5649490397329,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 1,
@@ -1888,7 +1902,7 @@ const statsData = [
     "NAF Nr": "34976",
     "NAF Name": "Andrades",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 4,
@@ -1921,7 +1935,7 @@ const statsData = [
     "NAF Nr": "21299",
     "NAF Name": "Andre",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -1973,7 +1987,7 @@ const statsData = [
     "NAF Nr": "12371",
     "NAF Name": "Anguita",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "yearStats": {
       "2025": {
         "tournaments": 2,
@@ -1982,10 +1996,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 7,
         "winRatio": 71.43,
-        "rating": 164.31189795297138
+        "rating": 164.31189797835123
       }
     },
-    "rating": 162.38178359568255,
+    "rating": 162.38178361933038,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 5,
@@ -2054,10 +2068,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 136.81276113742408
+        "rating": 136.81122467420073
       }
     },
-    "rating": 137.72768126150257,
+    "rating": 137.72610320575208,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -2107,7 +2121,7 @@ const statsData = [
     "NAF Nr": "31444",
     "NAF Name": "Apoli",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -2125,10 +2139,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 18,
         "winRatio": 61.11,
-        "rating": 165.89823538070934
+        "rating": 166.03708299601595
       }
     },
-    "rating": 189.59047659276834,
+    "rating": 189.73497108193237,
     "totalTournaments": 7,
     "totalGames": 30,
     "totalWins": 17,
@@ -2272,7 +2286,7 @@ const statsData = [
     "NAF Nr": "35523",
     "NAF Name": "Archen",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -2534,7 +2548,7 @@ const statsData = [
     "NAF Nr": "14619",
     "NAF Name": "Astroas",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 5,
@@ -2543,10 +2557,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 20,
         "winRatio": 52.5,
-        "rating": 150.389683992205
+        "rating": 150.38488387003045
       }
     },
-    "rating": 152.15232652413667,
+    "rating": 152.14767648013256,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 8,
@@ -2639,7 +2653,7 @@ const statsData = [
     "NAF Nr": "21333",
     "NAF Name": "Atrellu",
     "Country": "Spain",
-    "CCAA": "Cataluña",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 5,
@@ -2837,7 +2851,7 @@ const statsData = [
     "NAF Nr": "23166",
     "NAF Name": "A_Lozano",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -2846,10 +2860,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 75,
-        "rating": 161.44882055937003
+        "rating": 161.4487884070665
       }
     },
-    "rating": 160.9814264716039,
+    "rating": 160.98139400315145,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -2921,10 +2935,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 50,
-        "rating": 153.65620927383253
+        "rating": 153.65653756801717
       }
     },
-    "rating": 187.26642886029276,
+    "rating": 187.26674679722498,
     "totalTournaments": 7,
     "totalGames": 34,
     "totalWins": 18,
@@ -2966,22 +2980,22 @@ const statsData = [
         "rating": 150.4894041955601
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 4,
-        "gamesDraw": 4,
-        "gamesLost": 5,
-        "gamesTotal": 13,
-        "winRatio": 46.15,
-        "rating": 145.15981393544473
+        "tournaments": 4,
+        "gamesWon": 5,
+        "gamesDraw": 6,
+        "gamesLost": 6,
+        "gamesTotal": 17,
+        "winRatio": 47.06,
+        "rating": 145.9150298131342
       }
     },
-    "rating": 134.9105248631534,
-    "totalTournaments": 7,
-    "totalGames": 29,
-    "totalWins": 8,
-    "totalDraws": 8,
-    "totalLosses": 13,
-    "totalWinRatio": 41.38
+    "rating": 137.86557642267124,
+    "totalTournaments": 8,
+    "totalGames": 33,
+    "totalWins": 9,
+    "totalDraws": 10,
+    "totalLosses": 14,
+    "totalWinRatio": 42.42
   },
   {
     "NAF Nr": "27156",
@@ -3104,10 +3118,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 20,
         "winRatio": 55,
-        "rating": 158.26785567813323
+        "rating": 158.2613980713732
       }
     },
-    "rating": 194.88453354462663,
+    "rating": 194.8788111891042,
     "totalTournaments": 27,
     "totalGames": 108,
     "totalWins": 57,
@@ -3140,28 +3154,28 @@ const statsData = [
         "rating": 116.34552258905136
       },
       "2025": {
-        "tournaments": 6,
-        "gamesWon": 3,
-        "gamesDraw": 4,
-        "gamesLost": 15,
-        "gamesTotal": 22,
-        "winRatio": 22.73,
-        "rating": 97.8768222762369
+        "tournaments": 7,
+        "gamesWon": 5,
+        "gamesDraw": 5,
+        "gamesLost": 16,
+        "gamesTotal": 26,
+        "winRatio": 28.85,
+        "rating": 113.17855719120594
       }
     },
-    "rating": 81.03215086411257,
-    "totalTournaments": 12,
-    "totalGames": 48,
-    "totalWins": 8,
-    "totalDraws": 9,
-    "totalLosses": 31,
-    "totalWinRatio": 26.04
+    "rating": 99.4283221394438,
+    "totalTournaments": 13,
+    "totalGames": 52,
+    "totalWins": 10,
+    "totalDraws": 10,
+    "totalLosses": 32,
+    "totalWinRatio": 28.85
   },
   {
     "NAF Nr": "34536",
     "NAF Name": "Barrullero",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Cantabria",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -3194,7 +3208,7 @@ const statsData = [
     "NAF Nr": "35479",
     "NAF Name": "Bastibasss",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -3322,7 +3336,7 @@ const statsData = [
     "NAF Nr": "35132",
     "NAF Name": "Beli",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -3388,7 +3402,7 @@ const statsData = [
     "NAF Nr": "15226",
     "NAF Name": "Belthasor",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -3406,10 +3420,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 87.5,
-        "rating": 166.43857726734683
+        "rating": 166.43687957460287
       }
     },
-    "rating": 157.44540216943,
+    "rating": 157.44348183985687,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 3,
@@ -3433,21 +3447,21 @@ const statsData = [
         "rating": 143.79186387104994
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 3,
-        "gamesDraw": 0,
-        "gamesLost": 5,
-        "gamesTotal": 8,
+        "tournaments": 3,
+        "gamesWon": 4,
+        "gamesDraw": 1,
+        "gamesLost": 7,
+        "gamesTotal": 12,
         "winRatio": 37.5,
-        "rating": 141.13988200371105
+        "rating": 137.20545156857887
       }
     },
-    "rating": 138.3643436184446,
-    "totalTournaments": 3,
-    "totalGames": 12,
-    "totalWins": 4,
-    "totalDraws": 1,
-    "totalLosses": 7,
+    "rating": 135.63287712820977,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 5,
+    "totalDraws": 2,
+    "totalLosses": 9,
     "totalWinRatio": 37.5
   },
   {
@@ -3534,10 +3548,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 10,
         "winRatio": 55,
-        "rating": 158.18264023104695
+        "rating": 158.18291961033097
       }
     },
-    "rating": 168.36934133113903,
+    "rating": 168.36960348140724,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 8,
@@ -3629,7 +3643,7 @@ const statsData = [
     "NAF Nr": "11789",
     "NAF Name": "Blapymetal",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2021": {
         "tournaments": 2,
@@ -3674,10 +3688,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 7,
         "winRatio": 57.14,
-        "rating": 157.60351251155865
+        "rating": 157.60348446333867
       }
     },
-    "rating": 188.4539245069548,
+    "rating": 188.45392519141006,
     "totalTournaments": 13,
     "totalGames": 51,
     "totalWins": 22,
@@ -3791,22 +3805,22 @@ const statsData = [
         "rating": 135.61340792196714
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 1,
-        "gamesDraw": 2,
-        "gamesLost": 5,
-        "gamesTotal": 8,
-        "winRatio": 25,
-        "rating": 129.2770673768254
+        "tournaments": 3,
+        "gamesWon": 2,
+        "gamesDraw": 3,
+        "gamesLost": 7,
+        "gamesTotal": 12,
+        "winRatio": 29.17,
+        "rating": 128.1854381446886
       }
     },
-    "rating": 121.86599593294682,
-    "totalTournaments": 4,
-    "totalGames": 16,
-    "totalWins": 1,
-    "totalDraws": 7,
-    "totalLosses": 8,
-    "totalWinRatio": 28.13
+    "rating": 122.42424820687754,
+    "totalTournaments": 5,
+    "totalGames": 20,
+    "totalWins": 2,
+    "totalDraws": 8,
+    "totalLosses": 10,
+    "totalWinRatio": 30
   },
   {
     "NAF Nr": "40054",
@@ -3845,16 +3859,30 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 143.79228683398756
+        "rating": 143.7922100530226
       }
     },
-    "rating": 143.6304152850703,
+    "rating": 143.63033548683234,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
     "totalDraws": 1,
     "totalLosses": 2,
     "totalWinRatio": 37.5
+  },
+  {
+    "NAF Nr": "35249",
+    "NAF Name": "BorjaGM",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {},
+    "rating": 150,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0
   },
   {
     "NAF Nr": "32829",
@@ -3896,10 +3924,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 37.5,
-        "rating": 138.52181960723559
+        "rating": 138.52187984880806
       }
     },
-    "rating": 109.5422928679729,
+    "rating": 109.54233226885958,
     "totalTournaments": 8,
     "totalGames": 32,
     "totalWins": 6,
@@ -3911,7 +3939,7 @@ const statsData = [
     "NAF Nr": "34694",
     "NAF Name": "Boti",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -3938,10 +3966,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 12,
         "winRatio": 54.17,
-        "rating": 154.8894787057897
+        "rating": 154.89560946978435
       }
     },
-    "rating": 144.072725876743,
+    "rating": 144.0782560034196,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 5,
@@ -3977,7 +4005,7 @@ const statsData = [
     "NAF Nr": "34234",
     "NAF Name": "Brenne",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Asturias",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -4088,22 +4116,22 @@ const statsData = [
         "rating": 202.77947460593984
       },
       "2025": {
-        "tournaments": 7,
-        "gamesWon": 17,
-        "gamesDraw": 7,
+        "tournaments": 8,
+        "gamesWon": 20,
+        "gamesDraw": 8,
         "gamesLost": 6,
-        "gamesTotal": 30,
-        "winRatio": 68.33,
-        "rating": 194.47075948462245
+        "gamesTotal": 34,
+        "winRatio": 70.59,
+        "rating": 206.71278967639338
       }
     },
-    "rating": 220.7212612756535,
-    "totalTournaments": 23,
-    "totalGames": 91,
-    "totalWins": 51,
-    "totalDraws": 19,
+    "rating": 230.5888084607677,
+    "totalTournaments": 24,
+    "totalGames": 95,
+    "totalWins": 54,
+    "totalDraws": 20,
     "totalLosses": 21,
-    "totalWinRatio": 66.48
+    "totalWinRatio": 67.37
   },
   {
     "NAF Nr": "28785",
@@ -4178,10 +4206,10 @@ const statsData = [
         "gamesLost": 12,
         "gamesTotal": 33,
         "winRatio": 56.06,
-        "rating": 169.887077406874
+        "rating": 169.89064430998422
       }
     },
-    "rating": 201.04396344535172,
+    "rating": 201.0476502777332,
     "totalTournaments": 45,
     "totalGames": 184,
     "totalWins": 104,
@@ -4252,22 +4280,22 @@ const statsData = [
         "rating": 145.31626321912492
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 2,
+        "tournaments": 3,
+        "gamesWon": 3,
         "gamesDraw": 4,
-        "gamesLost": 2,
-        "gamesTotal": 8,
-        "winRatio": 50,
-        "rating": 150.11493935769738
+        "gamesLost": 5,
+        "gamesTotal": 12,
+        "winRatio": 41.67,
+        "rating": 139.04121801750793
       }
     },
-    "rating": 147.50710804989387,
-    "totalTournaments": 4,
-    "totalGames": 16,
-    "totalWins": 4,
+    "rating": 137.45919298422464,
+    "totalTournaments": 5,
+    "totalGames": 20,
+    "totalWins": 5,
     "totalDraws": 7,
-    "totalLosses": 5,
-    "totalWinRatio": 46.88
+    "totalLosses": 8,
+    "totalWinRatio": 42.5
   },
   {
     "NAF Nr": "40369",
@@ -4339,10 +4367,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 50,
-        "rating": 151.2345922785787
+        "rating": 151.23460725422908
       }
     },
-    "rating": 174.28378611642523,
+    "rating": 174.28379992590803,
     "totalTournaments": 5,
     "totalGames": 21,
     "totalWins": 10,
@@ -4416,7 +4444,7 @@ const statsData = [
     "NAF Nr": "24764",
     "NAF Name": "Califa_Mortal",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -4508,10 +4536,10 @@ const statsData = [
         "gamesLost": 11,
         "gamesTotal": 38,
         "winRatio": 57.89,
-        "rating": 163.40136143260827
+        "rating": 163.40516043165155
       }
     },
-    "rating": 168.67457250528014,
+    "rating": 168.6783008286745,
     "totalTournaments": 64,
     "totalGames": 253,
     "totalWins": 118,
@@ -4541,10 +4569,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 136.15677008445275
+        "rating": 136.15538340330724
       }
     },
-    "rating": 127.06453219047926,
+    "rating": 127.06303256178965,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 0,
@@ -4577,28 +4605,28 @@ const statsData = [
         "rating": 143.21349003906343
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 6,
-        "gamesDraw": 3,
+        "tournaments": 4,
+        "gamesWon": 8,
+        "gamesDraw": 5,
         "gamesLost": 3,
-        "gamesTotal": 12,
-        "winRatio": 62.5,
-        "rating": 167.57218409300913
+        "gamesTotal": 16,
+        "winRatio": 65.63,
+        "rating": 175.5140860071405
       }
     },
-    "rating": 169.31675233852405,
-    "totalTournaments": 7,
-    "totalGames": 28,
-    "totalWins": 11,
-    "totalDraws": 9,
+    "rating": 178.26263794019994,
+    "totalTournaments": 8,
+    "totalGames": 32,
+    "totalWins": 13,
+    "totalDraws": 11,
     "totalLosses": 8,
-    "totalWinRatio": 55.36
+    "totalWinRatio": 57.81
   },
   {
     "NAF Nr": "27634",
     "NAF Name": "CAOS1990",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2022": {
         "tournaments": 7,
@@ -4634,10 +4662,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 11,
         "winRatio": 63.64,
-        "rating": 164.37811392467248
+        "rating": 164.3776157478433
       }
     },
-    "rating": 151.4038451785091,
+    "rating": 151.40333534389225,
     "totalTournaments": 17,
     "totalGames": 66,
     "totalWins": 19,
@@ -4649,7 +4677,7 @@ const statsData = [
     "NAF Nr": "40288",
     "NAF Name": "Capi",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 3,
@@ -4673,7 +4701,7 @@ const statsData = [
     "NAF Nr": "35522",
     "NAF Name": "CapitanLiteral",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -4816,10 +4844,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 156.95967063497656
+        "rating": 156.95967066049522
       }
     },
-    "rating": 157.3830331955884,
+    "rating": 157.38303321588967,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -4911,10 +4939,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 16.67,
-        "rating": 140.01086762073763
+        "rating": 140.01108102638216
       }
     },
-    "rating": 140.72478253362985,
+    "rating": 140.72495024462486,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 0,
@@ -5025,7 +5053,7 @@ const statsData = [
     "NAF Nr": "27111",
     "NAF Name": "centruki",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -5043,10 +5071,10 @@ const statsData = [
         "gamesLost": 9,
         "gamesTotal": 20,
         "winRatio": 47.5,
-        "rating": 141.21064071966217
+        "rating": 141.2089992611017
       }
     },
-    "rating": 143.62834032280833,
+    "rating": 143.62666216296554,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 9,
@@ -5109,10 +5137,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 16,
         "winRatio": 59.38,
-        "rating": 162.52318360290406
+        "rating": 162.52318516278183
       }
     },
-    "rating": 162.79706562153518,
+    "rating": 162.79706298212017,
     "totalTournaments": 7,
     "totalGames": 27,
     "totalWins": 13,
@@ -5124,7 +5152,7 @@ const statsData = [
     "NAF Nr": "34040",
     "NAF Name": "ChachePerrache",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Murcia",
     "yearStats": {
       "2023": {
         "tournaments": 9,
@@ -5151,10 +5179,10 @@ const statsData = [
         "gamesLost": 10,
         "gamesTotal": 43,
         "winRatio": 59.3,
-        "rating": 172.84229720966323
+        "rating": 172.84766879874178
       }
     },
-    "rating": 183.53535281398007,
+    "rating": 183.54049613786634,
     "totalTournaments": 30,
     "totalGames": 119,
     "totalWins": 47,
@@ -5169,21 +5197,21 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 2,
+        "tournaments": 3,
+        "gamesWon": 4,
         "gamesDraw": 4,
-        "gamesLost": 2,
-        "gamesTotal": 8,
+        "gamesLost": 4,
+        "gamesTotal": 12,
         "winRatio": 50,
-        "rating": 147.0545909097243
+        "rating": 146.91436498392073
       }
     },
-    "rating": 147.64353956239557,
-    "totalTournaments": 2,
-    "totalGames": 8,
-    "totalWins": 2,
+    "rating": 147.44220619164784,
+    "totalTournaments": 3,
+    "totalGames": 12,
+    "totalWins": 4,
     "totalDraws": 4,
-    "totalLosses": 2,
+    "totalLosses": 4,
     "totalWinRatio": 50
   },
   {
@@ -5289,10 +5317,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 12,
         "winRatio": 37.5,
-        "rating": 137.6028428178903
+        "rating": 137.60284347702162
       }
     },
-    "rating": 139.5878951605197,
+    "rating": 139.58789578373595,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 3,
@@ -5336,10 +5364,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 6,
         "winRatio": 25,
-        "rating": 137.00491108081727
+        "rating": 137.00492412168828
       }
     },
-    "rating": 145.80860071029593,
+    "rating": 145.80861275973587,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 5,
@@ -5432,7 +5460,7 @@ const statsData = [
     "NAF Nr": "33929",
     "NAF Name": "Chemarvi",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -5459,10 +5487,10 @@ const statsData = [
         "gamesLost": 14,
         "gamesTotal": 20,
         "winRatio": 25,
-        "rating": 108.63400058786596
+        "rating": 108.63410334287138
       }
     },
-    "rating": 106.66000277667605,
+    "rating": 106.66008523851745,
     "totalTournaments": 12,
     "totalGames": 50,
     "totalWins": 13,
@@ -5553,10 +5581,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 139.7008839351876
+        "rating": 139.7008854102083
       }
     },
-    "rating": 140.07431351728746,
+    "rating": 140.0743145496186,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -5568,7 +5596,7 @@ const statsData = [
     "NAF Nr": "24820",
     "NAF Name": "chicobowl",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 6,
@@ -5586,10 +5614,10 @@ const statsData = [
         "gamesLost": 9,
         "gamesTotal": 20,
         "winRatio": 42.5,
-        "rating": 139.89927927025386
+        "rating": 139.89927667884527
       }
     },
-    "rating": 141.01348177333557,
+    "rating": 141.01348023959065,
     "totalTournaments": 11,
     "totalGames": 44,
     "totalWins": 15,
@@ -5610,10 +5638,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 7,
         "winRatio": 64.29,
-        "rating": 153.57015294351035
+        "rating": 153.56694079356342
       }
     },
-    "rating": 154.0928779086819,
+    "rating": 154.08972392083112,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 3,
@@ -5629,21 +5657,21 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 2,
-        "gamesWon": 4,
-        "gamesDraw": 2,
+        "gamesWon": 5,
+        "gamesDraw": 1,
         "gamesLost": 3,
         "gamesTotal": 9,
-        "winRatio": 55.56,
-        "rating": 155.7218228825694
+        "winRatio": 61.11,
+        "rating": 160.51765440588213
       }
     },
-    "rating": 156.17469362727635,
+    "rating": 160.97052515058908,
     "totalTournaments": 2,
     "totalGames": 9,
-    "totalWins": 4,
-    "totalDraws": 2,
+    "totalWins": 5,
+    "totalDraws": 1,
     "totalLosses": 3,
-    "totalWinRatio": 55.56
+    "totalWinRatio": 61.11
   },
   {
     "NAF Nr": "21688",
@@ -5706,10 +5734,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 50,
-        "rating": 148.44371330295388
+        "rating": 148.44344347695247
       }
     },
-    "rating": 148.39199578468796,
+    "rating": 148.39168810185106,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -5748,10 +5776,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 66.67,
-        "rating": 157.01028737574416
+        "rating": 157.01048672935278
       }
     },
-    "rating": 168.4667923226824,
+    "rating": 168.46690647303737,
     "totalTournaments": 5,
     "totalGames": 18,
     "totalWins": 9,
@@ -5781,10 +5809,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 7,
         "winRatio": 35.71,
-        "rating": 138.03501297515297
+        "rating": 138.0350214549445
       }
     },
-    "rating": 128.2220118926688,
+    "rating": 128.22201826237094,
     "totalTournaments": 3,
     "totalGames": 11,
     "totalWins": 0,
@@ -5820,7 +5848,7 @@ const statsData = [
     "NAF Nr": "36600",
     "NAF Name": "Claverosky",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 11,
@@ -5838,10 +5866,10 @@ const statsData = [
         "gamesLost": 10,
         "gamesTotal": 28,
         "winRatio": 55.36,
-        "rating": 158.19133166404794
+        "rating": 158.19108673708394
       }
     },
-    "rating": 172.5836985589722,
+    "rating": 172.5834666038413,
     "totalTournaments": 18,
     "totalGames": 76,
     "totalWins": 38,
@@ -5939,7 +5967,7 @@ const statsData = [
     "NAF Nr": "24523",
     "NAF Name": "Cobreti",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2022": {
         "tournaments": 1,
@@ -5975,10 +6003,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 12,
         "winRatio": 45.83,
-        "rating": 148.97014564883514
+        "rating": 148.97485012389964
       }
     },
-    "rating": 168.18123923143116,
+    "rating": 168.18580286622858,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 12,
@@ -6061,10 +6089,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 3,
         "winRatio": 83.33,
-        "rating": 160.0891119131587
+        "rating": 160.08910025927943
       }
     },
-    "rating": 160.07165697477208,
+    "rating": 160.07164363766677,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -6247,7 +6275,7 @@ const statsData = [
     "NAF Nr": "38651",
     "NAF Name": "CristianDrack",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -6322,10 +6350,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 24,
         "winRatio": 70.83,
-        "rating": 188.18656021508167
+        "rating": 188.1867372935101
       }
     },
-    "rating": 204.63097831165788,
+    "rating": 204.63111895965486,
     "totalTournaments": 19,
     "totalGames": 80,
     "totalWins": 42,
@@ -6337,7 +6365,7 @@ const statsData = [
     "NAF Nr": "15444",
     "NAF Name": "CT_Konrad",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Asturias",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -6418,7 +6446,7 @@ const statsData = [
     "NAF Nr": "27478",
     "NAF Name": "DaCamRo",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "C. La Mancha",
     "yearStats": {
       "2025": {
         "tournaments": 2,
@@ -6427,10 +6455,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 43.75,
-        "rating": 146.79570637696
+        "rating": 146.79570639316208
       }
     },
-    "rating": 148.00547581880218,
+    "rating": 148.00547583286482,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -6442,7 +6470,7 @@ const statsData = [
     "NAF Nr": "7691",
     "NAF Name": "Dado",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "yearStats": {
       "2025": {
         "tournaments": 3,
@@ -6451,10 +6479,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 12,
         "winRatio": 62.5,
-        "rating": 156.5765058749238
+        "rating": 156.50219168522085
       }
     },
-    "rating": 157.29050057448788,
+    "rating": 157.2161637912974,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 6,
@@ -6490,7 +6518,7 @@ const statsData = [
     "NAF Nr": "25234",
     "NAF Name": "Daigus",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Asturias",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -6556,7 +6584,7 @@ const statsData = [
     "NAF Nr": "25564",
     "NAF Name": "Dake",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 5,
@@ -6574,10 +6602,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 58.33,
-        "rating": 156.70878250376492
+        "rating": 156.7091180476271
       }
     },
-    "rating": 190.29571715029675,
+    "rating": 190.29603954439463,
     "totalTournaments": 6,
     "totalGames": 26,
     "totalWins": 14,
@@ -6613,7 +6641,7 @@ const statsData = [
     "NAF Nr": "27475",
     "NAF Name": "Dalesway",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "C. La Mancha",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -6631,10 +6659,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 8,
         "winRatio": 62.5,
-        "rating": 162.41021186633228
+        "rating": 162.41019789868028
       }
     },
-    "rating": 156.68878733357644,
+    "rating": 156.6887704168625,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -6646,7 +6674,7 @@ const statsData = [
     "NAF Nr": "22993",
     "NAF Name": "DaniFrogger",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 8,
@@ -6679,7 +6707,7 @@ const statsData = [
     "NAF Nr": "23165",
     "NAF Name": "daniwarpaint",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -6697,10 +6725,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 136.43820310582046
+        "rating": 136.4373773209894
       }
     },
-    "rating": 152.83711968920613,
+    "rating": 152.8362407044766,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -6766,22 +6794,22 @@ const statsData = [
         "rating": 166.87277200343559
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 7,
-        "gamesDraw": 2,
-        "gamesLost": 3,
-        "gamesTotal": 12,
-        "winRatio": 66.67,
-        "rating": 169.16405326877663
+        "tournaments": 4,
+        "gamesWon": 9,
+        "gamesDraw": 3,
+        "gamesLost": 4,
+        "gamesTotal": 16,
+        "winRatio": 65.63,
+        "rating": 171.9532303518862
       }
     },
-    "rating": 182.53785537830822,
-    "totalTournaments": 9,
-    "totalGames": 36,
-    "totalWins": 18,
-    "totalDraws": 6,
-    "totalLosses": 12,
-    "totalWinRatio": 58.33
+    "rating": 184.32941011344357,
+    "totalTournaments": 10,
+    "totalGames": 40,
+    "totalWins": 20,
+    "totalDraws": 7,
+    "totalLosses": 13,
+    "totalWinRatio": 58.75
   },
   {
     "NAF Nr": "22046",
@@ -6862,21 +6890,21 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 1,
-        "gamesWon": 0,
+        "gamesWon": 2,
         "gamesDraw": 1,
-        "gamesLost": 0,
-        "gamesTotal": 1,
-        "winRatio": 50,
-        "rating": 150.94865397897303
+        "gamesLost": 3,
+        "gamesTotal": 6,
+        "winRatio": 41.67,
+        "rating": 145.55780216909343
       }
     },
-    "rating": 151.527804904349,
+    "rating": 147.117338121528,
     "totalTournaments": 1,
-    "totalGames": 1,
-    "totalWins": 0,
+    "totalGames": 6,
+    "totalWins": 2,
     "totalDraws": 1,
-    "totalLosses": 0,
-    "totalWinRatio": 50
+    "totalLosses": 3,
+    "totalWinRatio": 41.67
   },
   {
     "NAF Nr": "34111",
@@ -6905,10 +6933,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 10,
         "winRatio": 55,
-        "rating": 154.667824400516
+        "rating": 154.66784002740374
       }
     },
-    "rating": 159.0927964141402,
+    "rating": 159.0928109718111,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 3,
@@ -6929,10 +6957,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 50,
-        "rating": 148.77833715473946
+        "rating": 148.7780526486338
       }
     },
-    "rating": 148.93043058436842,
+    "rating": 148.9301064025319,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -7067,10 +7095,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 14,
         "winRatio": 57.14,
-        "rating": 159.01410122839954
+        "rating": 159.0143841968516
       }
     },
-    "rating": 162.24548788107205,
+    "rating": 162.24574594747207,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 8,
@@ -7120,7 +7148,7 @@ const statsData = [
     "NAF Nr": "30519",
     "NAF Name": "DeivySP",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2021": {
         "tournaments": 2,
@@ -7165,10 +7193,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 153.13719375117367
+        "rating": 153.13719507992653
       }
     },
-    "rating": 171.8367209541096,
+    "rating": 171.83672208968764,
     "totalTournaments": 20,
     "totalGames": 84,
     "totalWins": 29,
@@ -7189,10 +7217,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 66.67,
-        "rating": 155.05468311096942
+        "rating": 155.0546708990774
       }
     },
-    "rating": 155.07592546996077,
+    "rating": 155.075911584597,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -7222,10 +7250,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 33.33,
-        "rating": 144.98887892421908
+        "rating": 144.98885662185546
       }
     },
-    "rating": 140.12734164016754,
+    "rating": 140.12731632863935,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 1,
@@ -7237,7 +7265,7 @@ const statsData = [
     "NAF Nr": "31572",
     "NAF Name": "DeLiar",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {},
     "rating": 150,
     "totalTournaments": 0,
@@ -7283,10 +7311,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 148.51176731095785
+        "rating": 148.51027450740915
       }
     },
-    "rating": 144.3199028549856,
+    "rating": 144.31829234231228,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -7298,7 +7326,7 @@ const statsData = [
     "NAF Nr": "30351",
     "NAF Name": "Dendrith",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -7419,10 +7447,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 13,
         "winRatio": 46.15,
-        "rating": 140.7563002646571
+        "rating": 140.75362506207702
       }
     },
-    "rating": 125.34472596954227,
+    "rating": 125.34178128032144,
     "totalTournaments": 14,
     "totalGames": 47,
     "totalWins": 12,
@@ -7496,7 +7524,7 @@ const statsData = [
     "NAF Nr": "36958",
     "NAF Name": "Dmizu",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -7729,6 +7757,20 @@ const statsData = [
     "totalWinRatio": 36.17
   },
   {
+    "NAF Nr": "35610",
+    "NAF Name": "donnerer",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {},
+    "rating": 150,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0
+  },
+  {
     "NAF Nr": "20865",
     "NAF Name": "Donpimpon",
     "Country": "Spain",
@@ -7754,21 +7796,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 4,
-        "gamesWon": 9,
+        "gamesWon": 14,
         "gamesDraw": 2,
         "gamesLost": 4,
-        "gamesTotal": 15,
-        "winRatio": 66.67,
-        "rating": 175.36363896658858
+        "gamesTotal": 20,
+        "winRatio": 75,
+        "rating": 198.46855233411551
       }
     },
-    "rating": 190.09424224366458,
+    "rating": 212.0159379066661,
     "totalTournaments": 6,
-    "totalGames": 23,
-    "totalWins": 14,
+    "totalGames": 28,
+    "totalWins": 19,
     "totalDraws": 3,
     "totalLosses": 6,
-    "totalWinRatio": 67.39
+    "totalWinRatio": 73.21
   },
   {
     "NAF Nr": "28214",
@@ -7806,10 +7848,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 147.2277685573647
+        "rating": 147.22770192486593
       }
     },
-    "rating": 143.32763512807801,
+    "rating": 143.3275875869907,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -7907,7 +7949,7 @@ const statsData = [
     "NAF Nr": "37042",
     "NAF Name": "Dranosh",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 6,
@@ -7925,10 +7967,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 37.5,
-        "rating": 139.2393206997611
+        "rating": 139.23414607808576
       }
     },
-    "rating": 114.16442645580476,
+    "rating": 114.15870404928707,
     "totalTournaments": 8,
     "totalGames": 32,
     "totalWins": 7,
@@ -8042,10 +8084,10 @@ const statsData = [
         "gamesLost": 11,
         "gamesTotal": 16,
         "winRatio": 21.88,
-        "rating": 105.71221170555513
+        "rating": 105.71009657706033
       }
     },
-    "rating": 107.66580092193357,
+    "rating": 107.66351843603333,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 2,
@@ -8108,10 +8150,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 12,
         "winRatio": 41.67,
-        "rating": 142.45760032644029
+        "rating": 142.45749163831994
       }
     },
-    "rating": 139.2106078412369,
+    "rating": 139.21049316684284,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 5,
@@ -8127,21 +8169,21 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 2,
-        "gamesWon": 2,
-        "gamesDraw": 2,
-        "gamesLost": 1,
-        "gamesTotal": 5,
-        "winRatio": 60,
-        "rating": 155.25438850447338
+        "gamesWon": 5,
+        "gamesDraw": 3,
+        "gamesLost": 2,
+        "gamesTotal": 10,
+        "winRatio": 65,
+        "rating": 164.03692440767222
       }
     },
-    "rating": 153.894569219554,
+    "rating": 163.72821233661452,
     "totalTournaments": 2,
-    "totalGames": 5,
-    "totalWins": 2,
-    "totalDraws": 2,
-    "totalLosses": 1,
-    "totalWinRatio": 60
+    "totalGames": 10,
+    "totalWins": 5,
+    "totalDraws": 3,
+    "totalLosses": 2,
+    "totalWinRatio": 65
   },
   {
     "NAF Nr": "31011",
@@ -8165,10 +8207,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 143.68234011414947
+        "rating": 143.6822678627337
       }
     },
-    "rating": 122.9505184674277,
+    "rating": 122.95043813850836,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -8213,7 +8255,7 @@ const statsData = [
     "NAF Nr": "30605",
     "NAF Name": "Dr_McKey",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2021": {
         "tournaments": 2,
@@ -8273,10 +8315,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 33.33,
-        "rating": 146.86000234720342
+        "rating": 146.8600768661393
       }
     },
-    "rating": 147.03161837266015,
+    "rating": 147.0316833545558,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -8293,26 +8335,26 @@ const statsData = [
       "2025": {
         "tournaments": 2,
         "gamesWon": 0,
-        "gamesDraw": 1,
-        "gamesLost": 4,
-        "gamesTotal": 5,
+        "gamesDraw": 2,
+        "gamesLost": 8,
+        "gamesTotal": 10,
         "winRatio": 10,
-        "rating": 129.23108984163602
+        "rating": 109.4303750951866
       }
     },
-    "rating": 128.65447549379823,
+    "rating": 109.04500614605354,
     "totalTournaments": 2,
-    "totalGames": 5,
+    "totalGames": 10,
     "totalWins": 0,
-    "totalDraws": 1,
-    "totalLosses": 4,
+    "totalDraws": 2,
+    "totalLosses": 8,
     "totalWinRatio": 10
   },
   {
     "NAF Nr": "35675",
     "NAF Name": "Duffman0110",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 5,
@@ -8330,10 +8372,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 16,
         "winRatio": 53.13,
-        "rating": 153.0739519859719
+        "rating": 153.0730523531426
       }
     },
-    "rating": 148.36811564558496,
+    "rating": 148.36706243211393,
     "totalTournaments": 9,
     "totalGames": 36,
     "totalWins": 13,
@@ -8390,10 +8432,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 33,
         "winRatio": 72.73,
-        "rating": 203.26781288944417
+        "rating": 203.2617902528404
       }
     },
-    "rating": 232.79392586438456,
+    "rating": 232.78877566299718,
     "totalTournaments": 26,
     "totalGames": 105,
     "totalWins": 67,
@@ -8432,10 +8474,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 20,
         "winRatio": 60,
-        "rating": 168.18488208787275
+        "rating": 168.18495664551358
       }
     },
-    "rating": 171.60236885288964,
+    "rating": 171.60243450479757,
     "totalTournaments": 10,
     "totalGames": 40,
     "totalWins": 13,
@@ -8472,14 +8514,24 @@ const statsData = [
     "NAF Name": "Eduardofer41",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 2,
+        "gamesLost": 2,
+        "gamesTotal": 4,
+        "winRatio": 25,
+        "rating": 137.2915965055077
+      }
+    },
+    "rating": 137.11152733802143,
+    "totalTournaments": 1,
+    "totalGames": 4,
     "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalDraws": 2,
+    "totalLosses": 2,
+    "totalWinRatio": 25
   },
   {
     "NAF Nr": "31339",
@@ -8515,22 +8567,22 @@ const statsData = [
         "rating": 151.24004532681747
       },
       "2025": {
-        "tournaments": 6,
-        "gamesWon": 13,
-        "gamesDraw": 4,
-        "gamesLost": 9,
-        "gamesTotal": 26,
-        "winRatio": 57.69,
-        "rating": 163.30578981629503
+        "tournaments": 7,
+        "gamesWon": 14,
+        "gamesDraw": 5,
+        "gamesLost": 11,
+        "gamesTotal": 30,
+        "winRatio": 55,
+        "rating": 156.33067483968492
       }
     },
-    "rating": 170.7772558086609,
-    "totalTournaments": 20,
-    "totalGames": 83,
-    "totalWins": 34,
-    "totalDraws": 18,
-    "totalLosses": 31,
-    "totalWinRatio": 51.81
+    "rating": 163.51603985201848,
+    "totalTournaments": 21,
+    "totalGames": 87,
+    "totalWins": 35,
+    "totalDraws": 19,
+    "totalLosses": 33,
+    "totalWinRatio": 51.15
   },
   {
     "NAF Nr": "34474",
@@ -8563,36 +8615,46 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 3,
-        "gamesDraw": 2,
-        "gamesLost": 3,
-        "gamesTotal": 8,
-        "winRatio": 50,
-        "rating": 148.10226838178394
+        "tournaments": 3,
+        "gamesWon": 5,
+        "gamesDraw": 3,
+        "gamesLost": 4,
+        "gamesTotal": 12,
+        "winRatio": 54.17,
+        "rating": 153.71848680778933
       }
     },
-    "rating": 148.23927439695137,
-    "totalTournaments": 2,
-    "totalGames": 8,
-    "totalWins": 3,
-    "totalDraws": 2,
-    "totalLosses": 3,
-    "totalWinRatio": 50
+    "rating": 154.19297007815072,
+    "totalTournaments": 3,
+    "totalGames": 12,
+    "totalWins": 5,
+    "totalDraws": 3,
+    "totalLosses": 4,
+    "totalWinRatio": 54.17
   },
   {
     "NAF Nr": "31712",
     "NAF Name": "Eider",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "yearStats": {},
-    "rating": 150,
-    "totalTournaments": 0,
-    "totalGames": 0,
+    "yearStats": {
+      "2025": {
+        "tournaments": 1,
+        "gamesWon": 0,
+        "gamesDraw": 1,
+        "gamesLost": 3,
+        "gamesTotal": 4,
+        "winRatio": 12.5,
+        "rating": 131.01135358199716
+      }
+    },
+    "rating": 129.77513600355223,
+    "totalTournaments": 1,
+    "totalGames": 4,
     "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0
+    "totalDraws": 1,
+    "totalLosses": 3,
+    "totalWinRatio": 12.5
   },
   {
     "NAF Nr": "8821",
@@ -8640,7 +8702,7 @@ const statsData = [
     "NAF Nr": "18351",
     "NAF Name": "el-reche",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -8682,10 +8744,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 155.840598503838
+        "rating": 155.8408165359633
       }
     },
-    "rating": 156.3951933568981,
+    "rating": 156.3953843448044,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -8715,10 +8777,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 15,
         "winRatio": 73.33,
-        "rating": 170.48310745181485
+        "rating": 170.48326026985384
       }
     },
-    "rating": 159.5556985542839,
+    "rating": 159.5558492225967,
     "totalTournaments": 8,
     "totalGames": 27,
     "totalWins": 13,
@@ -8730,7 +8792,7 @@ const statsData = [
     "NAF Nr": "24458",
     "NAF Name": "ElGoblinVolador",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "I. Canarias",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -8749,6 +8811,20 @@ const statsData = [
     "totalDraws": 1,
     "totalLosses": 1,
     "totalWinRatio": 50
+  },
+  {
+    "NAF Nr": "18731",
+    "NAF Name": "Elklingonesfacil",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {},
+    "rating": 150,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0
   },
   {
     "NAF Nr": "12313313",
@@ -8792,7 +8868,7 @@ const statsData = [
     "NAF Nr": "2949",
     "NAF Name": "elonti",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -8871,21 +8947,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 2,
-        "gamesWon": 3,
-        "gamesDraw": 1,
-        "gamesLost": 1,
-        "gamesTotal": 5,
-        "winRatio": 70,
-        "rating": 162.10991813910414
+        "gamesWon": 4,
+        "gamesDraw": 2,
+        "gamesLost": 4,
+        "gamesTotal": 10,
+        "winRatio": 50,
+        "rating": 149.40000618042433
       }
     },
-    "rating": 170.96809273290103,
+    "rating": 158.71929437886942,
     "totalTournaments": 3,
-    "totalGames": 9,
-    "totalWins": 5,
-    "totalDraws": 2,
-    "totalLosses": 2,
-    "totalWinRatio": 66.67
+    "totalGames": 14,
+    "totalWins": 6,
+    "totalDraws": 3,
+    "totalLosses": 5,
+    "totalWinRatio": 53.57
   },
   {
     "NAF Nr": "30593",
@@ -9094,7 +9170,7 @@ const statsData = [
     "NAF Nr": "6376",
     "NAF Name": "Emi_-13-_",
     "Country": "Spain",
-    "CCAA": "Madrid",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2021": {
         "tournaments": 1,
@@ -9139,10 +9215,10 @@ const statsData = [
         "gamesLost": 14,
         "gamesTotal": 39,
         "winRatio": 51.28,
-        "rating": 156.65139385862662
+        "rating": 156.65090514359582
       }
     },
-    "rating": 173.0257540364317,
+    "rating": 173.02524312253823,
     "totalTournaments": 48,
     "totalGames": 194,
     "totalWins": 77,
@@ -9210,7 +9286,7 @@ const statsData = [
     "NAF Nr": "31506",
     "NAF Name": "Enrik",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 3,
@@ -9219,10 +9295,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 12,
         "winRatio": 70.83,
-        "rating": 177.63005962614628
+        "rating": 177.6298435465829
       }
     },
-    "rating": 177.30275978905266,
+    "rating": 177.3025466349791,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 8,
@@ -9258,7 +9334,7 @@ const statsData = [
     "NAF Nr": "25213",
     "NAF Name": "Erdetolavida",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -9306,7 +9382,7 @@ const statsData = [
     "NAF Nr": "40508",
     "NAF Name": "Eren",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Asturias",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -9330,7 +9406,7 @@ const statsData = [
     "NAF Nr": "21327",
     "NAF Name": "ErJose",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 2,
@@ -9378,7 +9454,7 @@ const statsData = [
     "NAF Nr": "35461",
     "NAF Name": "ERMANU81",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -9425,26 +9501,26 @@ const statsData = [
       "2025": {
         "tournaments": 5,
         "gamesWon": 11,
-        "gamesDraw": 5,
-        "gamesLost": 5,
+        "gamesDraw": 4,
+        "gamesLost": 6,
         "gamesTotal": 21,
-        "winRatio": 64.29,
-        "rating": 165.05615433930745
+        "winRatio": 61.9,
+        "rating": 161.23700810579018
       }
     },
-    "rating": 165.23925854184546,
+    "rating": 161.38735771719323,
     "totalTournaments": 9,
     "totalGames": 36,
     "totalWins": 15,
-    "totalDraws": 12,
-    "totalLosses": 9,
-    "totalWinRatio": 58.33
+    "totalDraws": 11,
+    "totalLosses": 10,
+    "totalWinRatio": 56.94
   },
   {
     "NAF Nr": "25284",
     "NAF Name": "Erys",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -9462,10 +9538,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 16,
         "winRatio": 53.13,
-        "rating": 152.8222731190134
+        "rating": 152.822285833337
       }
     },
-    "rating": 150.23352889255003,
+    "rating": 150.23353983673,
     "totalTournaments": 6,
     "totalGames": 28,
     "totalWins": 10,
@@ -9528,10 +9604,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 148.25385574007333
+        "rating": 148.25386842590476
       }
     },
-    "rating": 145.2366816494531,
+    "rating": 145.2366930228289,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 5,
@@ -9567,7 +9643,7 @@ const statsData = [
     "NAF Nr": "26834",
     "NAF Name": "Espartanoks",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "I. Baleares",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -9618,10 +9694,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 62.5,
-        "rating": 159.07276921895206
+        "rating": 159.0727692446789
       }
     },
-    "rating": 154.81584575906578,
+    "rating": 154.8158457804665,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 7,
@@ -9717,7 +9793,7 @@ const statsData = [
     "NAF Nr": "13511",
     "NAF Name": "Ever",
     "Country": "Spain",
-    "CCAA": "Madrid",
+    "CCAA": "Aragón",
     "yearStats": {
       "2023": {
         "tournaments": 4,
@@ -9744,16 +9820,30 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 6,
         "winRatio": 75,
-        "rating": 169.03204009422444
+        "rating": 169.19493518776954
       }
     },
-    "rating": 218.95631210985002,
+    "rating": 219.12192858962962,
     "totalTournaments": 9,
     "totalGames": 37,
     "totalWins": 25,
     "totalDraws": 10,
     "totalLosses": 2,
     "totalWinRatio": 81.08
+  },
+  {
+    "NAF Nr": "8121",
+    "NAF Name": "EvilGaunt",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {},
+    "rating": 150,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0
   },
   {
     "NAF Nr": "30804",
@@ -9786,10 +9876,10 @@ const statsData = [
         "gamesLost": 11,
         "gamesTotal": 26,
         "winRatio": 42.31,
-        "rating": 120.97911931929171
+        "rating": 120.9773170314897
       }
     },
-    "rating": 118.95357045074608,
+    "rating": 118.95166497692784,
     "totalTournaments": 15,
     "totalGames": 64,
     "totalWins": 20,
@@ -9866,10 +9956,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 154.81445048059092
+        "rating": 154.81472251278967
       }
     },
-    "rating": 143.6096956737469,
+    "rating": 143.60995206219334,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -9881,7 +9971,7 @@ const statsData = [
     "NAF Nr": "34288",
     "NAF Name": "FerBaez",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -9956,10 +10046,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 149.98274192700717
+        "rating": 149.98274149961512
       }
     },
-    "rating": 150.63842528141237,
+    "rating": 150.6384248248897,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -9989,10 +10079,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 16,
         "winRatio": 62.5,
-        "rating": 167.57414447783776
+        "rating": 167.57414504323492
       }
     },
-    "rating": 159.61671653222385,
+    "rating": 159.61671698639512,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 7,
@@ -10004,7 +10094,7 @@ const statsData = [
     "NAF Nr": "39204",
     "NAF Name": "Ferni",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -10022,10 +10112,10 @@ const statsData = [
         "gamesLost": 12,
         "gamesTotal": 24,
         "winRatio": 35.42,
-        "rating": 125.67600336535664
+        "rating": 125.68204118511464
       }
     },
-    "rating": 128.20384171585388,
+    "rating": 128.20945784076858,
     "totalTournaments": 9,
     "totalGames": 40,
     "totalWins": 10,
@@ -10240,7 +10330,7 @@ const statsData = [
     "NAF Nr": "40293",
     "NAF Name": "FlekyCK",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 2,
@@ -10381,10 +10471,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 14,
         "winRatio": 53.57,
-        "rating": 153.96412836989214
+        "rating": 153.9629002714021
       }
     },
-    "rating": 159.9483298261432,
+    "rating": 159.94706757101272,
     "totalTournaments": 5,
     "totalGames": 18,
     "totalWins": 8,
@@ -10396,7 +10486,7 @@ const statsData = [
     "NAF Nr": "30425",
     "NAF Name": "franki129",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2021": {
         "tournaments": 1,
@@ -10432,10 +10522,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 16,
         "winRatio": 68.75,
-        "rating": 168.2268884348087
+        "rating": 168.22621112674142
       }
     },
-    "rating": 179.82534892899665,
+    "rating": 179.82462648947782,
     "totalTournaments": 18,
     "totalGames": 76,
     "totalWins": 35,
@@ -10447,7 +10537,7 @@ const statsData = [
     "NAF Nr": "31364",
     "NAF Name": "Franlinkfm",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -10516,10 +10606,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 16,
         "winRatio": 43.75,
-        "rating": 145.04847026869393
+        "rating": 145.04866264193817
       }
     },
-    "rating": 144.0186500240882,
+    "rating": 144.01882394589714,
     "totalTournaments": 18,
     "totalGames": 72,
     "totalWins": 24,
@@ -10603,22 +10693,22 @@ const statsData = [
         "rating": 187.7971954226283
       },
       "2025": {
-        "tournaments": 7,
-        "gamesWon": 22,
-        "gamesDraw": 2,
-        "gamesLost": 4,
-        "gamesTotal": 28,
-        "winRatio": 82.14,
-        "rating": 211.91390503782077
+        "tournaments": 8,
+        "gamesWon": 24,
+        "gamesDraw": 3,
+        "gamesLost": 5,
+        "gamesTotal": 32,
+        "winRatio": 79.69,
+        "rating": 209.02266739112264
       }
     },
-    "rating": 236.13242149942639,
-    "totalTournaments": 17,
-    "totalGames": 68,
-    "totalWins": 46,
-    "totalDraws": 11,
-    "totalLosses": 11,
-    "totalWinRatio": 75.74
+    "rating": 230.8582687226824,
+    "totalTournaments": 18,
+    "totalGames": 72,
+    "totalWins": 48,
+    "totalDraws": 12,
+    "totalLosses": 12,
+    "totalWinRatio": 75
   },
   {
     "NAF Nr": "39326",
@@ -10714,7 +10804,7 @@ const statsData = [
     "NAF Nr": "25205",
     "NAF Name": "Furiwel",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Asturias",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -10809,7 +10899,7 @@ const statsData = [
     "NAF Nr": "37199",
     "NAF Name": "Gafiiis",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 5,
@@ -10827,10 +10917,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 11,
         "winRatio": 54.55,
-        "rating": 158.62346463787753
+        "rating": 158.62329412991764
       }
     },
-    "rating": 176.32740360878566,
+    "rating": 176.32724125858104,
     "totalTournaments": 8,
     "totalGames": 35,
     "totalWins": 14,
@@ -10875,10 +10965,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 152.02916760425452
+        "rating": 152.02917545748133
       }
     },
-    "rating": 152.58875303997942,
+    "rating": 152.58875941247598,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -10890,7 +10980,7 @@ const statsData = [
     "NAF Nr": "31026",
     "NAF Name": "Galle",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2021": {
         "tournaments": 2,
@@ -10935,10 +11025,10 @@ const statsData = [
         "gamesLost": 9,
         "gamesTotal": 18,
         "winRatio": 36.11,
-        "rating": 133.19560912331588
+        "rating": 133.19307999141228
       }
     },
-    "rating": 113.41154375641631,
+    "rating": 113.40874008023206,
     "totalTournaments": 18,
     "totalGames": 63,
     "totalWins": 16,
@@ -10992,7 +11082,7 @@ const statsData = [
     "NAF Nr": "27154",
     "NAF Name": "gangcha",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2021": {
         "tournaments": 2,
@@ -11079,10 +11169,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 14,
         "winRatio": 60.71,
-        "rating": 167.06177060614482
+        "rating": 167.06174597835087
       }
     },
-    "rating": 181.3050278745558,
+    "rating": 181.3049303101909,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 10,
@@ -11273,10 +11363,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 10,
         "winRatio": 45,
-        "rating": 149.21679048326973
+        "rating": 149.2171188928623
       }
     },
-    "rating": 149.47943745788706,
+    "rating": 149.47973960009787,
     "totalTournaments": 5,
     "totalGames": 21,
     "totalWins": 5,
@@ -11339,10 +11429,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 10,
         "winRatio": 35,
-        "rating": 133.56342489614968
+        "rating": 133.56343959375403
       }
     },
-    "rating": 136.68805506173726,
+    "rating": 136.6880679035014,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 1,
@@ -11449,7 +11539,7 @@ const statsData = [
     "NAF Nr": "11788",
     "NAF Name": "Gilles_Cacciari",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2022": {
         "tournaments": 2,
@@ -11485,10 +11575,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 19,
         "winRatio": 71.05,
-        "rating": 186.799204119954
+        "rating": 186.80428922063297
       }
     },
-    "rating": 210.74103563012102,
+    "rating": 210.7464968837173,
     "totalTournaments": 17,
     "totalGames": 67,
     "totalWins": 31,
@@ -11548,7 +11638,7 @@ const statsData = [
     "NAF Nr": "26770",
     "NAF Name": "Gliuon",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 2,
@@ -11557,10 +11647,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 56.25,
-        "rating": 158.13814664581164
+        "rating": 158.1384089056276
       }
     },
-    "rating": 157.55292660010394,
+    "rating": 157.5531762859766,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -11572,7 +11662,7 @@ const statsData = [
     "NAF Nr": "30439",
     "NAF Name": "glukosidiko",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2021": {
         "tournaments": 2,
@@ -11617,10 +11707,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 12,
         "winRatio": 87.5,
-        "rating": 193.70760053399852
+        "rating": 193.70780994980072
       }
     },
-    "rating": 203.34658884360545,
+    "rating": 203.346799535048,
     "totalTournaments": 29,
     "totalGames": 112,
     "totalWins": 54,
@@ -11641,10 +11731,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 4,
         "winRatio": 0,
-        "rating": 126.7487299622094
+        "rating": 126.74870360617392
       }
     },
-    "rating": 126.53668809448357,
+    "rating": 126.53662530081353,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -11743,10 +11833,10 @@ const statsData = [
         "gamesLost": 15,
         "gamesTotal": 34,
         "winRatio": 44.12,
-        "rating": 138.39734254352632
+        "rating": 138.40182688606387
       }
     },
-    "rating": 155.4385987516624,
+    "rating": 155.44277126271604,
     "totalTournaments": 29,
     "totalGames": 114,
     "totalWins": 43,
@@ -11806,7 +11896,7 @@ const statsData = [
     "NAF Nr": "33098",
     "NAF Name": "gominolo",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -11853,7 +11943,7 @@ const statsData = [
     "NAF Nr": "184",
     "NAF Name": "gonmorcas",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "yearStats": {
       "2022": {
         "tournaments": 1,
@@ -11871,10 +11961,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 131.77430826856985
+        "rating": 131.77089606219317
       }
     },
-    "rating": 133.24717337533048,
+    "rating": 133.24383655603853,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -11933,10 +12023,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 75,
-        "rating": 162.49774801860733
+        "rating": 162.50388364901133
       }
     },
-    "rating": 163.65351935439554,
+    "rating": 163.65931065227272,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -11948,7 +12038,7 @@ const statsData = [
     "NAF Nr": "36402",
     "NAF Name": "Gordini",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "yearStats": {
       "2025": {
         "tournaments": 3,
@@ -11957,10 +12047,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 12,
         "winRatio": 37.5,
-        "rating": 133.63426125581867
+        "rating": 133.63425548382904
       }
     },
-    "rating": 134.65322965121842,
+    "rating": 134.65322172071686,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -12112,10 +12202,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 3,
         "winRatio": 100,
-        "rating": 164.20849830119656
+        "rating": 164.20819845553982
       }
     },
-    "rating": 164.73005770830125,
+    "rating": 164.72971679247544,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 5,
@@ -12127,7 +12217,7 @@ const statsData = [
     "NAF Nr": "33930",
     "NAF Name": "GreenTerror",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "yearStats": {},
     "rating": 150,
     "totalTournaments": 0,
@@ -12150,10 +12240,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 41.67,
-        "rating": 146.40320101019955
+        "rating": 146.40296986409794
       }
     },
-    "rating": 146.84647438370536,
+    "rating": 146.84626588238524,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 1,
@@ -12189,7 +12279,7 @@ const statsData = [
     "NAF Nr": "25263",
     "NAF Name": "Grigonian",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2022": {
         "tournaments": 2,
@@ -12245,7 +12335,7 @@ const statsData = [
     "NAF Nr": "23167",
     "NAF Name": "Gripnar",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -12287,10 +12377,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 7,
         "winRatio": 64.29,
-        "rating": 157.8037515232035
+        "rating": 157.80361209488115
       }
     },
-    "rating": 158.06476608738117,
+    "rating": 158.0646284822427,
     "totalTournaments": 3,
     "totalGames": 11,
     "totalWins": 5,
@@ -12425,10 +12515,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 16,
         "winRatio": 59.38,
-        "rating": 158.4395005274134
+        "rating": 158.43933918545827
       }
     },
-    "rating": 164.07681034595407,
+    "rating": 164.07667319941638,
     "totalTournaments": 6,
     "totalGames": 22,
     "totalWins": 10,
@@ -12632,10 +12722,10 @@ const statsData = [
         "gamesLost": 9,
         "gamesTotal": 23,
         "winRatio": 50,
-        "rating": 156.85014939760796
+        "rating": 156.84619399410462
       }
     },
-    "rating": 169.4053229304663,
+    "rating": 169.4020885170983,
     "totalTournaments": 49,
     "totalGames": 198,
     "totalWins": 77,
@@ -12665,10 +12755,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 14,
         "winRatio": 60.71,
-        "rating": 165.02396380995225
+        "rating": 165.16303814661214
       }
     },
-    "rating": 170.5873548762151,
+    "rating": 170.72406982338305,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 8,
@@ -12684,21 +12774,21 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 3,
-        "gamesWon": 5,
-        "gamesDraw": 2,
-        "gamesLost": 4,
-        "gamesTotal": 11,
-        "winRatio": 54.55,
-        "rating": 159.0383846940574
+        "gamesWon": 7,
+        "gamesDraw": 3,
+        "gamesLost": 6,
+        "gamesTotal": 16,
+        "winRatio": 53.13,
+        "rating": 156.0839741679651
       }
     },
-    "rating": 164.84481478625403,
+    "rating": 161.21605367301154,
     "totalTournaments": 3,
-    "totalGames": 11,
-    "totalWins": 5,
-    "totalDraws": 2,
-    "totalLosses": 4,
-    "totalWinRatio": 54.55
+    "totalGames": 16,
+    "totalWins": 7,
+    "totalDraws": 3,
+    "totalLosses": 6,
+    "totalWinRatio": 53.13
   },
   {
     "NAF Nr": "21448",
@@ -12741,21 +12831,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 1,
-        "gamesWon": 0,
+        "gamesWon": 4,
         "gamesDraw": 1,
-        "gamesLost": 0,
-        "gamesTotal": 1,
-        "winRatio": 50,
-        "rating": 150
+        "gamesLost": 1,
+        "gamesTotal": 6,
+        "winRatio": 75,
+        "rating": 165.46170905713902
       }
     },
-    "rating": 158.9467872248778,
+    "rating": 172.51469087364637,
     "totalTournaments": 2,
-    "totalGames": 5,
-    "totalWins": 3,
+    "totalGames": 10,
+    "totalWins": 7,
     "totalDraws": 1,
-    "totalLosses": 1,
-    "totalWinRatio": 70
+    "totalLosses": 2,
+    "totalWinRatio": 75
   },
   {
     "NAF Nr": "8001",
@@ -12779,10 +12869,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 14,
         "winRatio": 46.43,
-        "rating": 144.01816535619972
+        "rating": 144.0241212876259
       }
     },
-    "rating": 143.3567501189597,
+    "rating": 143.36232714895053,
     "totalTournaments": 4,
     "totalGames": 17,
     "totalWins": 4,
@@ -12794,7 +12884,7 @@ const statsData = [
     "NAF Nr": "40410",
     "NAF Name": "Handywandy",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -12991,7 +13081,7 @@ const statsData = [
     "NAF Nr": "37043",
     "NAF Name": "Harrylargo",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 5,
@@ -13009,10 +13099,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 8,
         "winRatio": 25,
-        "rating": 129.69440131773285
+        "rating": 129.69419419075334
       }
     },
-    "rating": 115.51588822095052,
+    "rating": 115.51566443673714,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 7,
@@ -13024,7 +13114,7 @@ const statsData = [
     "NAF Nr": "24529",
     "NAF Name": "HarrySp",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2022": {
         "tournaments": 1,
@@ -13060,10 +13150,10 @@ const statsData = [
         "gamesLost": 8,
         "gamesTotal": 25,
         "winRatio": 62,
-        "rating": 179.41132853354736
+        "rating": 179.4111893172128
       }
     },
-    "rating": 185.24730826603738,
+    "rating": 185.24716728138898,
     "totalTournaments": 20,
     "totalGames": 81,
     "totalWins": 40,
@@ -13120,21 +13210,21 @@ const statsData = [
         "rating": 149.55181041688425
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 2,
-        "gamesDraw": 1,
-        "gamesLost": 5,
-        "gamesTotal": 8,
-        "winRatio": 31.25,
-        "rating": 129.23639933306225
+        "tournaments": 3,
+        "gamesWon": 3,
+        "gamesDraw": 2,
+        "gamesLost": 7,
+        "gamesTotal": 12,
+        "winRatio": 33.33,
+        "rating": 126.63601035220529
       }
     },
-    "rating": 128.6091888586291,
-    "totalTournaments": 3,
-    "totalGames": 12,
-    "totalWins": 4,
-    "totalDraws": 1,
-    "totalLosses": 7,
+    "rating": 127.09112471741695,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 5,
+    "totalDraws": 2,
+    "totalLosses": 9,
     "totalWinRatio": 37.5
   },
   {
@@ -13230,7 +13320,7 @@ const statsData = [
     "NAF Nr": "39056",
     "NAF Name": "HELLRAISER89",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -13315,7 +13405,7 @@ const statsData = [
     "NAF Nr": "25665",
     "NAF Name": "Hestiar",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -13342,10 +13432,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 26,
         "winRatio": 61.54,
-        "rating": 182.31563776356433
+        "rating": 182.31551008860941
       }
     },
-    "rating": 199.6843899080208,
+    "rating": 199.6842672714424,
     "totalTournaments": 17,
     "totalGames": 74,
     "totalWins": 33,
@@ -13357,7 +13447,7 @@ const statsData = [
     "NAF Nr": "21191",
     "NAF Name": "Hicks",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -13375,10 +13465,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 16,
         "winRatio": 65.63,
-        "rating": 166.39983296291223
+        "rating": 166.39982399404647
       }
     },
-    "rating": 160.8556324653844,
+    "rating": 160.85562312462804,
     "totalTournaments": 6,
     "totalGames": 28,
     "totalWins": 11,
@@ -13414,7 +13504,7 @@ const statsData = [
     "NAF Nr": "13607",
     "NAF Name": "Hiruma_Zeo",
     "Country": "Spain",
-    "CCAA": "Andalucía",
+    "CCAA": "Murcia",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -13426,22 +13516,22 @@ const statsData = [
         "rating": 147.42621033278292
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 5,
-        "gamesDraw": 2,
-        "gamesLost": 3,
-        "gamesTotal": 10,
-        "winRatio": 60,
-        "rating": 160.5369420737484
+        "tournaments": 3,
+        "gamesWon": 7,
+        "gamesDraw": 3,
+        "gamesLost": 4,
+        "gamesTotal": 14,
+        "winRatio": 60.71,
+        "rating": 161.63848793797283
       }
     },
-    "rating": 164.67433797306705,
-    "totalTournaments": 3,
-    "totalGames": 14,
-    "totalWins": 5,
-    "totalDraws": 6,
-    "totalLosses": 3,
-    "totalWinRatio": 57.14
+    "rating": 164.79979017430918,
+    "totalTournaments": 4,
+    "totalGames": 18,
+    "totalWins": 7,
+    "totalDraws": 7,
+    "totalLosses": 4,
+    "totalWinRatio": 58.33
   },
   {
     "NAF Nr": "40408",
@@ -13600,10 +13690,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 33.33,
-        "rating": 141.87192820729086
+        "rating": 142.0331670454076
       }
     },
-    "rating": 143.15529587730222,
+    "rating": 143.30468017520556,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 1,
@@ -13662,10 +13752,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 154.54061385233345
+        "rating": 154.54072150391082
       }
     },
-    "rating": 153.58961533836296,
+    "rating": 153.58968329227147,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -13691,7 +13781,7 @@ const statsData = [
     "NAF Nr": "20930",
     "NAF Name": "idroj",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "I. Baleares",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -13704,21 +13794,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 4,
-        "gamesWon": 6,
+        "gamesWon": 9,
         "gamesDraw": 5,
-        "gamesLost": 4,
-        "gamesTotal": 15,
-        "winRatio": 56.67,
-        "rating": 159.26530672095538
+        "gamesLost": 6,
+        "gamesTotal": 20,
+        "winRatio": 57.5,
+        "rating": 165.51823804792923
       }
     },
-    "rating": 169.19707528896512,
+    "rating": 175.04701694665894,
     "totalTournaments": 6,
-    "totalGames": 23,
-    "totalWins": 10,
+    "totalGames": 28,
+    "totalWins": 13,
     "totalDraws": 7,
-    "totalLosses": 6,
-    "totalWinRatio": 58.7
+    "totalLosses": 8,
+    "totalWinRatio": 58.93
   },
   {
     "NAF Nr": "32888",
@@ -13737,27 +13827,27 @@ const statsData = [
       },
       "2025": {
         "tournaments": 2,
-        "gamesWon": 1,
-        "gamesDraw": 3,
-        "gamesLost": 1,
-        "gamesTotal": 5,
+        "gamesWon": 3,
+        "gamesDraw": 4,
+        "gamesLost": 3,
+        "gamesTotal": 10,
         "winRatio": 50,
-        "rating": 149.7739871559771
+        "rating": 149.2958237626891
       }
     },
-    "rating": 136.89273407521915,
+    "rating": 139.77572697665934,
     "totalTournaments": 3,
-    "totalGames": 8,
-    "totalWins": 1,
-    "totalDraws": 3,
-    "totalLosses": 4,
-    "totalWinRatio": 31.25
+    "totalGames": 13,
+    "totalWins": 3,
+    "totalDraws": 4,
+    "totalLosses": 6,
+    "totalWinRatio": 38.46
   },
   {
     "NAF Nr": "15912",
     "NAF Name": "ignii",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -13770,21 +13860,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 1,
-        "gamesWon": 0,
-        "gamesDraw": 1,
-        "gamesLost": 0,
-        "gamesTotal": 1,
-        "winRatio": 50,
-        "rating": 150
+        "gamesWon": 2,
+        "gamesDraw": 3,
+        "gamesLost": 1,
+        "gamesTotal": 6,
+        "winRatio": 58.33,
+        "rating": 155.3382112103023
       }
     },
-    "rating": 148.28113508914868,
+    "rating": 154.59626570412087,
     "totalTournaments": 3,
-    "totalGames": 9,
-    "totalWins": 2,
-    "totalDraws": 4,
-    "totalLosses": 3,
-    "totalWinRatio": 44.44
+    "totalGames": 14,
+    "totalWins": 4,
+    "totalDraws": 6,
+    "totalLosses": 4,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "26310",
@@ -13913,7 +14003,7 @@ const statsData = [
     "NAF Nr": "31178",
     "NAF Name": "Indeviduo",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 6,
@@ -13982,22 +14072,22 @@ const statsData = [
         "rating": 149.87316523028426
       },
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 1,
-        "gamesDraw": 1,
-        "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 37.5,
-        "rating": 144.41452742146075
+        "tournaments": 2,
+        "gamesWon": 3,
+        "gamesDraw": 2,
+        "gamesLost": 3,
+        "gamesTotal": 8,
+        "winRatio": 50,
+        "rating": 150.70144342555267
       }
     },
-    "rating": 145.34173833717153,
-    "totalTournaments": 2,
-    "totalGames": 8,
-    "totalWins": 2,
-    "totalDraws": 3,
-    "totalLosses": 3,
-    "totalWinRatio": 43.75
+    "rating": 151.2574779607784,
+    "totalTournaments": 3,
+    "totalGames": 12,
+    "totalWins": 4,
+    "totalDraws": 4,
+    "totalLosses": 4,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "20669",
@@ -14021,10 +14111,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 8,
         "winRatio": 56.25,
-        "rating": 155.61677179063994
+        "rating": 155.61679695835656
       }
     },
-    "rating": 154.7581421448495,
+    "rating": 154.75816438880253,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -14096,10 +14186,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 144.40832164375044
+        "rating": 144.40844784842182
       }
     },
-    "rating": 143.8021164439279,
+    "rating": 143.80220023305813,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -14304,10 +14394,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 34,
         "winRatio": 67.65,
-        "rating": 187.21365691385057
+        "rating": 187.21960416617426
       }
     },
-    "rating": 198.08622306286475,
+    "rating": 198.0926082338356,
     "totalTournaments": 23,
     "totalGames": 97,
     "totalWins": 51,
@@ -14364,10 +14454,10 @@ const statsData = [
         "gamesLost": 10,
         "gamesTotal": 24,
         "winRatio": 45.83,
-        "rating": 146.6781917685953
+        "rating": 146.68088272791232
       }
     },
-    "rating": 145.77186406735774,
+    "rating": 145.77388909878422,
     "totalTournaments": 28,
     "totalGames": 108,
     "totalWins": 30,
@@ -14379,7 +14469,7 @@ const statsData = [
     "NAF Nr": "18066",
     "NAF Name": "Jaap",
     "Country": "Spain",
-    "CCAA": "Cataluña",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -14421,10 +14511,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 3,
         "winRatio": 83.33,
-        "rating": 159.72755414993512
+        "rating": 159.7275431607316
       }
     },
-    "rating": 159.7735795237109,
+    "rating": 159.77356699291272,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -14549,7 +14639,7 @@ const statsData = [
     "NAF Nr": "13819",
     "NAF Name": "Jandro",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -14582,7 +14672,7 @@ const statsData = [
     "NAF Nr": "21280",
     "NAF Name": "jandron",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -14600,10 +14690,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 16,
         "winRatio": 62.5,
-        "rating": 172.60155926352485
+        "rating": 172.60155928632327
       }
     },
-    "rating": 179.22457935704864,
+    "rating": 179.22457937586685,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 11,
@@ -14652,21 +14742,21 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 3,
-        "gamesWon": 4,
-        "gamesDraw": 4,
-        "gamesLost": 3,
-        "gamesTotal": 11,
-        "winRatio": 54.55,
-        "rating": 157.18638812904607
+        "gamesWon": 6,
+        "gamesDraw": 6,
+        "gamesLost": 4,
+        "gamesTotal": 16,
+        "winRatio": 56.25,
+        "rating": 159.85386197499648
       }
     },
-    "rating": 159.78778912947718,
+    "rating": 162.18067444834438,
     "totalTournaments": 3,
-    "totalGames": 11,
-    "totalWins": 4,
-    "totalDraws": 4,
-    "totalLosses": 3,
-    "totalWinRatio": 54.55
+    "totalGames": 16,
+    "totalWins": 6,
+    "totalDraws": 6,
+    "totalLosses": 4,
+    "totalWinRatio": 56.25
   },
   {
     "NAF Nr": "21410",
@@ -14755,10 +14845,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 10,
         "winRatio": 25,
-        "rating": 124.88895325139609
+        "rating": 124.89611205277072
       }
     },
-    "rating": 118.83293138946384,
+    "rating": 118.83900179637153,
     "totalTournaments": 29,
     "totalGames": 119,
     "totalWins": 37,
@@ -14770,7 +14860,7 @@ const statsData = [
     "NAF Nr": "13826",
     "NAF Name": "Jarvi",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Murcia",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -14782,22 +14872,22 @@ const statsData = [
         "rating": 144.26125434362623
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 1,
+        "tournaments": 3,
+        "gamesWon": 2,
         "gamesDraw": 3,
-        "gamesLost": 4,
-        "gamesTotal": 8,
-        "winRatio": 31.25,
-        "rating": 133.54311473468434
+        "gamesLost": 7,
+        "gamesTotal": 12,
+        "winRatio": 29.17,
+        "rating": 125.52369504054165
       }
     },
-    "rating": 129.76441715947044,
-    "totalTournaments": 4,
-    "totalGames": 15,
-    "totalWins": 4,
+    "rating": 122.60979816737786,
+    "totalTournaments": 5,
+    "totalGames": 19,
+    "totalWins": 5,
     "totalDraws": 3,
-    "totalLosses": 8,
-    "totalWinRatio": 36.67
+    "totalLosses": 11,
+    "totalWinRatio": 34.21
   },
   {
     "NAF Nr": "16103",
@@ -14924,10 +15014,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 28,
         "winRatio": 82.14,
-        "rating": 214.10651996319442
+        "rating": 214.10988569402681
       }
     },
-    "rating": 263.6547155739494,
+    "rating": 263.6582375883235,
     "totalTournaments": 61,
     "totalGames": 243,
     "totalWins": 169,
@@ -14939,7 +15029,7 @@ const statsData = [
     "NAF Nr": "25499",
     "NAF Name": "Javitron",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -14963,7 +15053,7 @@ const statsData = [
     "NAF Nr": "17038",
     "NAF Name": "Jazmin",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 6,
@@ -14976,21 +15066,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 6,
-        "gamesWon": 12,
-        "gamesDraw": 7,
-        "gamesLost": 4,
-        "gamesTotal": 23,
-        "winRatio": 67.39,
-        "rating": 178.62667034445695
+        "gamesWon": 14,
+        "gamesDraw": 8,
+        "gamesLost": 6,
+        "gamesTotal": 28,
+        "winRatio": 64.29,
+        "rating": 174.49626702770433
       }
     },
-    "rating": 193.8846109687939,
+    "rating": 188.11938325590353,
     "totalTournaments": 12,
-    "totalGames": 47,
-    "totalWins": 25,
-    "totalDraws": 11,
-    "totalLosses": 11,
-    "totalWinRatio": 64.89
+    "totalGames": 52,
+    "totalWins": 27,
+    "totalDraws": 12,
+    "totalLosses": 13,
+    "totalWinRatio": 63.46
   },
   {
     "NAF Nr": "13475",
@@ -15028,10 +15118,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 9,
         "winRatio": 22.22,
-        "rating": 129.62954818882594
+        "rating": 129.62955646266045
       }
     },
-    "rating": 125.86440250151729,
+    "rating": 125.86440895162855,
     "totalTournaments": 4,
     "totalGames": 13,
     "totalWins": 1,
@@ -15067,7 +15157,7 @@ const statsData = [
     "NAF Nr": "18606",
     "NAF Name": "Jcjuanky23",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -15091,7 +15181,7 @@ const statsData = [
     "NAF Nr": "34406",
     "NAF Name": "Jdiegar",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -15118,10 +15208,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 21,
         "winRatio": 61.9,
-        "rating": 168.9503982658243
+        "rating": 168.948394233299
       }
     },
-    "rating": 169.24952775094937,
+    "rating": 169.24747666358837,
     "totalTournaments": 10,
     "totalGames": 45,
     "totalWins": 19,
@@ -15226,10 +15316,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 15,
         "winRatio": 40,
-        "rating": 133.9585961778912
+        "rating": 133.95610666101672
       }
     },
-    "rating": 125.77555182274055,
+    "rating": 125.77292669291784,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 4,
@@ -15277,10 +15367,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 16,
         "winRatio": 59.38,
-        "rating": 153.7952709022288
+        "rating": 153.79159396300608
       }
     },
-    "rating": 162.1676535177067,
+    "rating": 162.16412771725666,
     "totalTournaments": 9,
     "totalGames": 35,
     "totalWins": 17,
@@ -15340,7 +15430,7 @@ const statsData = [
     "NAF Nr": "20468",
     "NAF Name": "JesuR",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -15358,10 +15448,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 145.26880677142105
+        "rating": 145.26880677244324
       }
     },
-    "rating": 171.55432413789245,
+    "rating": 171.5543241387212,
     "totalTournaments": 3,
     "totalGames": 16,
     "totalWins": 7,
@@ -15409,10 +15499,10 @@ const statsData = [
         "gamesLost": 10,
         "gamesTotal": 34,
         "winRatio": 57.35,
-        "rating": 163.46291155627392
+        "rating": 163.4610323941812
       }
     },
-    "rating": 173.29238750840602,
+    "rating": 173.29068899905928,
     "totalTournaments": 50,
     "totalGames": 199,
     "totalWins": 78,
@@ -15438,7 +15528,7 @@ const statsData = [
     "NAF Nr": "22364",
     "NAF Name": "JF_",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 6,
@@ -15456,10 +15546,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 18,
         "winRatio": 77.78,
-        "rating": 191.22084738357964
+        "rating": 191.22110585890528
       }
     },
-    "rating": 206.49039602977243,
+    "rating": 206.4906503909315,
     "totalTournaments": 10,
     "totalGames": 46,
     "totalWins": 24,
@@ -15480,10 +15570,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 3,
         "winRatio": 83.33,
-        "rating": 158.74322881605735
+        "rating": 158.74322669795353
       }
     },
-    "rating": 158.16274182039456,
+    "rating": 158.1627379915341,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -15519,7 +15609,7 @@ const statsData = [
     "NAF Nr": "39361",
     "NAF Name": "jimi88",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -15537,10 +15627,10 @@ const statsData = [
         "gamesLost": 10,
         "gamesTotal": 12,
         "winRatio": 12.5,
-        "rating": 107.60812279713846
+        "rating": 107.60812282173828
       }
     },
-    "rating": 98.76276378818812,
+    "rating": 98.76276380809553,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 1,
@@ -15576,7 +15666,7 @@ const statsData = [
     "NAF Nr": "22214",
     "NAF Name": "JISU",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -15600,7 +15690,7 @@ const statsData = [
     "NAF Nr": "40324",
     "NAF Name": "JL.Cano",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 2,
@@ -15609,10 +15699,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 150.47247000198047
+        "rating": 150.47247764086305
       }
     },
-    "rating": 150.9995309793001,
+    "rating": 150.99953659468133,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -15685,21 +15775,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 2,
-        "gamesWon": 3,
-        "gamesDraw": 3,
-        "gamesLost": 0,
-        "gamesTotal": 6,
-        "winRatio": 75,
-        "rating": 164.20082549938783
+        "gamesWon": 6,
+        "gamesDraw": 2,
+        "gamesLost": 3,
+        "gamesTotal": 11,
+        "winRatio": 63.64,
+        "rating": 164.62722185193644
       }
     },
-    "rating": 179.9749765376552,
+    "rating": 178.17619226794224,
     "totalTournaments": 3,
-    "totalGames": 10,
-    "totalWins": 6,
-    "totalDraws": 4,
-    "totalLosses": 0,
-    "totalWinRatio": 80
+    "totalGames": 15,
+    "totalWins": 9,
+    "totalDraws": 3,
+    "totalLosses": 3,
+    "totalWinRatio": 70
   },
   {
     "NAF Nr": "20101",
@@ -15932,7 +16022,7 @@ const statsData = [
     "NAF Nr": "39626",
     "NAF Name": "JordanMungandr",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 7,
@@ -15941,10 +16031,10 @@ const statsData = [
         "gamesLost": 13,
         "gamesTotal": 28,
         "winRatio": 42.86,
-        "rating": 127.86259171080505
+        "rating": 127.86256244995698
       }
     },
-    "rating": 128.23395448379532,
+    "rating": 128.2339197147386,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 9,
@@ -15956,7 +16046,7 @@ const statsData = [
     "NAF Nr": "27067",
     "NAF Name": "JoseGomezPedriza",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "I. Baleares",
     "yearStats": {
       "2021": {
         "tournaments": 1,
@@ -15969,27 +16059,27 @@ const statsData = [
       },
       "2025": {
         "tournaments": 2,
-        "gamesWon": 1,
+        "gamesWon": 4,
         "gamesDraw": 3,
-        "gamesLost": 1,
-        "gamesTotal": 5,
-        "winRatio": 50,
-        "rating": 149.54096710970936
+        "gamesLost": 3,
+        "gamesTotal": 10,
+        "winRatio": 55,
+        "rating": 154.12231848239932
       }
     },
-    "rating": 151.02594026467793,
+    "rating": 154.93431296413337,
     "totalTournaments": 3,
-    "totalGames": 9,
-    "totalWins": 3,
+    "totalGames": 14,
+    "totalWins": 6,
     "totalDraws": 3,
-    "totalLosses": 3,
-    "totalWinRatio": 50
+    "totalLosses": 5,
+    "totalWinRatio": 53.57
   },
   {
     "NAF Nr": "17063",
     "NAF Name": "Josepe",
     "Country": "Spain",
-    "CCAA": "Cataluña",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 6,
@@ -16002,21 +16092,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 4,
-        "gamesWon": 6,
+        "gamesWon": 10,
         "gamesDraw": 7,
-        "gamesLost": 2,
-        "gamesTotal": 15,
-        "winRatio": 63.33,
-        "rating": 171.10904251366205
+        "gamesLost": 3,
+        "gamesTotal": 20,
+        "winRatio": 67.5,
+        "rating": 184.48688634860827
       }
     },
-    "rating": 184.55560959010137,
+    "rating": 197.14715300337463,
     "totalTournaments": 10,
-    "totalGames": 39,
-    "totalWins": 15,
+    "totalGames": 44,
+    "totalWins": 19,
     "totalDraws": 16,
-    "totalLosses": 8,
-    "totalWinRatio": 58.97
+    "totalLosses": 9,
+    "totalWinRatio": 61.36
   },
   {
     "NAF Nr": "38170",
@@ -16054,10 +16144,10 @@ const statsData = [
         "gamesLost": 12,
         "gamesTotal": 22,
         "winRatio": 36.36,
-        "rating": 127.79513748041299
+        "rating": 127.80370315010848
       }
     },
-    "rating": 126.74555393107354,
+    "rating": 126.75264230090892,
     "totalTournaments": 6,
     "totalGames": 25,
     "totalWins": 6,
@@ -16069,7 +16159,7 @@ const statsData = [
     "NAF Nr": "30060",
     "NAF Name": "JositoSoft",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -16078,10 +16168,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 138.83905687667956
+        "rating": 138.8377383418895
       }
     },
-    "rating": 139.17836593705113,
+    "rating": 139.1768431265265,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -16191,21 +16281,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 2,
-        "gamesWon": 1,
-        "gamesDraw": 2,
-        "gamesLost": 4,
-        "gamesTotal": 7,
-        "winRatio": 28.57,
-        "rating": 134.30161245739916
+        "gamesWon": 4,
+        "gamesDraw": 3,
+        "gamesLost": 5,
+        "gamesTotal": 12,
+        "winRatio": 45.83,
+        "rating": 149.92601944200064
       }
     },
-    "rating": 133.93615836530685,
+    "rating": 152.28967461141335,
     "totalTournaments": 4,
-    "totalGames": 15,
-    "totalWins": 5,
-    "totalDraws": 2,
-    "totalLosses": 8,
-    "totalWinRatio": 40
+    "totalGames": 20,
+    "totalWins": 8,
+    "totalDraws": 3,
+    "totalLosses": 9,
+    "totalWinRatio": 47.5
   },
   {
     "NAF Nr": "40780",
@@ -16235,7 +16325,7 @@ const statsData = [
     "NAF Nr": "26831",
     "NAF Name": "JPH",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "I. Baleares",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -16319,22 +16409,22 @@ const statsData = [
         "rating": 137.03320178325475
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 3,
-        "gamesDraw": 3,
-        "gamesLost": 6,
-        "gamesTotal": 12,
+        "tournaments": 4,
+        "gamesWon": 4,
+        "gamesDraw": 4,
+        "gamesLost": 8,
+        "gamesTotal": 16,
         "winRatio": 37.5,
-        "rating": 133.89306624154727
+        "rating": 129.81902100496677
       }
     },
-    "rating": 125.77510539113588,
-    "totalTournaments": 4,
-    "totalGames": 16,
-    "totalWins": 4,
-    "totalDraws": 3,
-    "totalLosses": 9,
-    "totalWinRatio": 34.38
+    "rating": 123.72398137360834,
+    "totalTournaments": 5,
+    "totalGames": 20,
+    "totalWins": 5,
+    "totalDraws": 4,
+    "totalLosses": 11,
+    "totalWinRatio": 35
   },
   {
     "NAF Nr": "33618",
@@ -16397,7 +16487,7 @@ const statsData = [
     "NAF Nr": "27557",
     "NAF Name": "juanr1969",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -16415,10 +16505,10 @@ const statsData = [
         "gamesLost": 9,
         "gamesTotal": 20,
         "winRatio": 50,
-        "rating": 142.97722618400363
+        "rating": 142.9755852831804
       }
     },
-    "rating": 145.1089813395902,
+    "rating": 145.10731552809733,
     "totalTournaments": 8,
     "totalGames": 32,
     "totalWins": 12,
@@ -16514,10 +16604,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 37.5,
-        "rating": 141.64604201543446
+        "rating": 141.64387736283882
       }
     },
-    "rating": 161.1874342092037,
+    "rating": 161.18549995197088,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 10,
@@ -16529,7 +16619,7 @@ const statsData = [
     "NAF Nr": "35235",
     "NAF Name": "Jujopepe",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 2,
@@ -16538,10 +16628,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 8,
         "winRatio": 25,
-        "rating": 128.12761855505127
+        "rating": 128.12753092060407
       }
     },
-    "rating": 125.4455539108556,
+    "rating": 125.4454600416257,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -16709,10 +16799,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 50,
-        "rating": 148.33903214230799
+        "rating": 148.33903049966202
       }
     },
-    "rating": 147.75843003857608,
+    "rating": 147.75842671543356,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -16762,7 +16852,7 @@ const statsData = [
     "NAF Nr": "272",
     "NAF Name": "Kafre",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "yearStats": {},
     "rating": 150,
     "totalTournaments": 0,
@@ -16800,7 +16890,7 @@ const statsData = [
     "NAF Nr": "22482",
     "NAF Name": "Kale",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2022": {
         "tournaments": 3,
@@ -16836,10 +16926,10 @@ const statsData = [
         "gamesLost": 13,
         "gamesTotal": 33,
         "winRatio": 48.48,
-        "rating": 141.70425848154656
+        "rating": 141.7057044063084
       }
     },
-    "rating": 156.4210726956774,
+    "rating": 156.42234386270962,
     "totalTournaments": 17,
     "totalGames": 69,
     "totalWins": 30,
@@ -16875,7 +16965,7 @@ const statsData = [
     "NAF Nr": "11262",
     "NAF Name": "Kanzo",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -16899,7 +16989,7 @@ const statsData = [
     "NAF Nr": "20025",
     "NAF Name": "Kapi",
     "Country": "Spain",
-    "CCAA": "P. Vasco",
+    "CCAA": "Euskadi",
     "yearStats": {
       "2022": {
         "tournaments": 1,
@@ -16926,10 +17016,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 149.38680150684436
+        "rating": 149.38707069368908
       }
     },
-    "rating": 161.15804302985077,
+    "rating": 161.15826659606492,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 7,
@@ -17013,7 +17103,7 @@ const statsData = [
     "NAF Nr": "24224",
     "NAF Name": "Karrash",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "yearStats": {
       "2022": {
         "tournaments": 2,
@@ -17100,10 +17190,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 8,
         "winRatio": 75,
-        "rating": 171.99971831063755
+        "rating": 171.99973950699965
       }
     },
-    "rating": 183.88588300393812,
+    "rating": 183.88590193289227,
     "totalTournaments": 21,
     "totalGames": 85,
     "totalWins": 41,
@@ -17260,7 +17350,7 @@ const statsData = [
     "NAF Nr": "38735",
     "NAF Name": "keikosan",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2022": {
         "tournaments": 2,
@@ -17302,10 +17392,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 138.01184975317452
+        "rating": 138.0046174297974
       }
     },
-    "rating": 137.06389019287118,
+    "rating": 137.05717443603018,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -17496,10 +17586,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 133.9467460167744
+        "rating": 133.946746563682
       }
     },
-    "rating": 135.05447753840681,
+    "rating": 135.05447772553865,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -17511,7 +17601,7 @@ const statsData = [
     "NAF Nr": "40468",
     "NAF Name": "khuzad",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "yearStats": {
       "2025": {
         "tournaments": 4,
@@ -17520,10 +17610,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 16,
         "winRatio": 43.75,
-        "rating": 146.16855329190435
+        "rating": 146.1683233857006
       }
     },
-    "rating": 150.2684393638047,
+    "rating": 150.26820093139807,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 2,
@@ -17568,7 +17658,7 @@ const statsData = [
     "NAF Nr": "32416",
     "NAF Name": "Kiffie",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -17586,10 +17676,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 138.21175601880026
+        "rating": 138.21174660237745
       }
     },
-    "rating": 134.45077445846306,
+    "rating": 134.45076438272832,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -17601,7 +17691,7 @@ const statsData = [
     "NAF Nr": "26511",
     "NAF Name": "kikekortizo 26511",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "yearStats": {
       "2022": {
         "tournaments": 2,
@@ -17625,7 +17715,7 @@ const statsData = [
     "NAF Nr": "33892",
     "NAF Name": "Killmister",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "yearStats": {
       "2025": {
         "tournaments": 3,
@@ -17634,10 +17724,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 11,
         "winRatio": 45.45,
-        "rating": 144.24119662975883
+        "rating": 144.23731400948537
       }
     },
-    "rating": 144.4876742363187,
+    "rating": 144.48386469396024,
     "totalTournaments": 3,
     "totalGames": 11,
     "totalWins": 3,
@@ -17730,7 +17820,7 @@ const statsData = [
     "NAF Nr": "35281",
     "NAF Name": "kimura-trap",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -17832,22 +17922,22 @@ const statsData = [
         "rating": 144.17111731548803
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 4,
-        "gamesDraw": 1,
+        "tournaments": 3,
+        "gamesWon": 5,
+        "gamesDraw": 4,
         "gamesLost": 3,
-        "gamesTotal": 8,
-        "winRatio": 56.25,
-        "rating": 159.08950061310836
+        "gamesTotal": 12,
+        "winRatio": 58.33,
+        "rating": 163.96495751304016
       }
     },
-    "rating": 157.3727650629083,
-    "totalTournaments": 4,
-    "totalGames": 16,
-    "totalWins": 6,
-    "totalDraws": 4,
+    "rating": 163.1392919271902,
+    "totalTournaments": 5,
+    "totalGames": 20,
+    "totalWins": 7,
+    "totalDraws": 7,
     "totalLosses": 6,
-    "totalWinRatio": 50
+    "totalWinRatio": 52.5
   },
   {
     "NAF Nr": "36848",
@@ -17956,21 +18046,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 3,
-        "gamesWon": 1,
-        "gamesDraw": 5,
-        "gamesLost": 5,
-        "gamesTotal": 11,
-        "winRatio": 31.82,
-        "rating": 131.5917293949845
+        "gamesWon": 4,
+        "gamesDraw": 6,
+        "gamesLost": 6,
+        "gamesTotal": 16,
+        "winRatio": 43.75,
+        "rating": 148.63256626465054
       }
     },
-    "rating": 142.20652012281593,
+    "rating": 159.35021454360265,
     "totalTournaments": 5,
-    "totalGames": 19,
-    "totalWins": 4,
-    "totalDraws": 9,
-    "totalLosses": 6,
-    "totalWinRatio": 44.74
+    "totalGames": 24,
+    "totalWins": 7,
+    "totalDraws": 10,
+    "totalLosses": 7,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "11010102",
@@ -18003,22 +18093,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 0,
         "gamesDraw": 1,
-        "gamesLost": 3,
-        "gamesTotal": 4,
-        "winRatio": 12.5,
-        "rating": 132.17766912297392
+        "gamesLost": 7,
+        "gamesTotal": 8,
+        "winRatio": 6.25,
+        "rating": 111.76237975712311
       }
     },
-    "rating": 131.8939307096532,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "rating": 111.48281586653286,
+    "totalTournaments": 2,
+    "totalGames": 8,
     "totalWins": 0,
     "totalDraws": 1,
-    "totalLosses": 3,
-    "totalWinRatio": 12.5
+    "totalLosses": 7,
+    "totalWinRatio": 6.25
   },
   {
     "NAF Nr": "7383",
@@ -18057,10 +18147,10 @@ const statsData = [
         "gamesLost": 9,
         "gamesTotal": 15,
         "winRatio": 26.67,
-        "rating": 122.46177730434287
+        "rating": 122.46167993613304
       }
     },
-    "rating": 124.26979359544292,
+    "rating": 124.26969078260612,
     "totalTournaments": 5,
     "totalGames": 15,
     "totalWins": 2,
@@ -18102,22 +18192,22 @@ const statsData = [
         "rating": 164.14928691492065
       },
       "2025": {
-        "tournaments": 5,
+        "tournaments": 6,
         "gamesWon": 11,
-        "gamesDraw": 3,
-        "gamesLost": 8,
-        "gamesTotal": 22,
-        "winRatio": 56.82,
-        "rating": 156.23091948547366
+        "gamesDraw": 5,
+        "gamesLost": 10,
+        "gamesTotal": 26,
+        "winRatio": 51.92,
+        "rating": 143.54225681696116
       }
     },
-    "rating": 164.94153696204535,
-    "totalTournaments": 12,
-    "totalGames": 49,
+    "rating": 151.00358638374212,
+    "totalTournaments": 13,
+    "totalGames": 53,
     "totalWins": 23,
-    "totalDraws": 7,
-    "totalLosses": 19,
-    "totalWinRatio": 54.08
+    "totalDraws": 9,
+    "totalLosses": 21,
+    "totalWinRatio": 51.89
   },
   {
     "NAF Nr": "34562",
@@ -18198,10 +18288,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 4,
         "winRatio": 0,
-        "rating": 127.59731642592801
+        "rating": 127.59731702289821
       }
     },
-    "rating": 119.1926404112178,
+    "rating": 119.19264093977732,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -18539,10 +18629,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 50,
-        "rating": 149.8814391071042
+        "rating": 149.88143897226558
       }
     },
-    "rating": 149.8337534764385,
+    "rating": 149.8337532054343,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -18658,25 +18748,25 @@ const statsData = [
     "NAF Nr": "26830",
     "NAF Name": "LadyPuto",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "I. Baleares",
     "yearStats": {
       "2025": {
         "tournaments": 2,
-        "gamesWon": 0,
-        "gamesDraw": 3,
-        "gamesLost": 2,
-        "gamesTotal": 5,
-        "winRatio": 30,
-        "rating": 139.61717625923893
+        "gamesWon": 1,
+        "gamesDraw": 5,
+        "gamesLost": 4,
+        "gamesTotal": 10,
+        "winRatio": 35,
+        "rating": 137.0275480587954
       }
     },
-    "rating": 141.21956557721077,
+    "rating": 139.54137374068165,
     "totalTournaments": 2,
-    "totalGames": 5,
-    "totalWins": 0,
-    "totalDraws": 3,
-    "totalLosses": 2,
-    "totalWinRatio": 30
+    "totalGames": 10,
+    "totalWins": 1,
+    "totalDraws": 5,
+    "totalLosses": 4,
+    "totalWinRatio": 35
   },
   {
     "NAF Nr": "36390",
@@ -18696,7 +18786,7 @@ const statsData = [
     "NAF Nr": "28845",
     "NAF Name": "Lakai",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -18714,10 +18804,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 140.83906328774688
+        "rating": 140.83906386280174
       }
     },
-    "rating": 148.0588219600715,
+    "rating": 148.05882243532147,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -18733,27 +18823,27 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 3,
-        "gamesWon": 1,
-        "gamesDraw": 4,
-        "gamesLost": 6,
-        "gamesTotal": 11,
-        "winRatio": 27.27,
-        "rating": 124.5109801931775
+        "gamesWon": 3,
+        "gamesDraw": 5,
+        "gamesLost": 8,
+        "gamesTotal": 16,
+        "winRatio": 34.38,
+        "rating": 129.32131324469427
       }
     },
-    "rating": 124.90136736237392,
+    "rating": 130.3017128751,
     "totalTournaments": 3,
-    "totalGames": 11,
-    "totalWins": 1,
-    "totalDraws": 4,
-    "totalLosses": 6,
-    "totalWinRatio": 27.27
+    "totalGames": 16,
+    "totalWins": 3,
+    "totalDraws": 5,
+    "totalLosses": 8,
+    "totalWinRatio": 34.38
   },
   {
     "NAF Nr": "37813",
     "NAF Name": "LanderGB",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -18771,10 +18861,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 140.4522576844555
+        "rating": 140.4488478227068
       }
     },
-    "rating": 125.35282177697101,
+    "rating": 125.34904349290446,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 1,
@@ -18858,7 +18948,7 @@ const statsData = [
     "NAF Nr": "31702",
     "NAF Name": "Laz",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -18876,10 +18966,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 12,
         "winRatio": 66.67,
-        "rating": 173.54091877880302
+        "rating": 173.54091828473472
       }
     },
-    "rating": 182.73856277948929,
+    "rating": 182.73856235945678,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 10,
@@ -19043,10 +19133,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 6,
         "winRatio": 66.67,
-        "rating": 157.94457446897886
+        "rating": 157.94298056374944
       }
     },
-    "rating": 157.0252089856906,
+    "rating": 157.02339821404496,
     "totalTournaments": 3,
     "totalGames": 10,
     "totalWins": 4,
@@ -19091,10 +19181,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 137.48799889216218
+        "rating": 137.48448022747496
       }
     },
-    "rating": 137.9188655190452,
+    "rating": 137.91526515268347,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -19168,7 +19258,7 @@ const statsData = [
     "NAF Nr": "40513",
     "NAF Name": "Lladd",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -19240,7 +19330,7 @@ const statsData = [
     "NAF Nr": "10505",
     "NAF Name": "LOBERAS",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2022": {
         "tournaments": 3,
@@ -19320,7 +19410,7 @@ const statsData = [
     "NAF Nr": "25189",
     "NAF Name": "Lope84",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -19338,10 +19428,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 151.56787145796963
+        "rating": 151.56814650877126
       }
     },
-    "rating": 174.70639895557733,
+    "rating": 174.70664623876988,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 8,
@@ -19353,7 +19443,7 @@ const statsData = [
     "NAF Nr": "31793",
     "NAF Name": "Lopez_Surround",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -19389,22 +19479,22 @@ const statsData = [
         "rating": 155.65685424949237
       },
       "2025": {
-        "tournaments": 1,
+        "tournaments": 2,
         "gamesWon": 2,
-        "gamesDraw": 2,
-        "gamesLost": 0,
-        "gamesTotal": 4,
-        "winRatio": 75,
-        "rating": 162.19833516094855
+        "gamesDraw": 4,
+        "gamesLost": 2,
+        "gamesTotal": 8,
+        "winRatio": 50,
+        "rating": 149.22303815565405
       }
     },
-    "rating": 167.24526776860483,
-    "totalTournaments": 2,
-    "totalGames": 8,
+    "rating": 153.54689993656913,
+    "totalTournaments": 3,
+    "totalGames": 12,
     "totalWins": 4,
-    "totalDraws": 3,
-    "totalLosses": 1,
-    "totalWinRatio": 68.75
+    "totalDraws": 5,
+    "totalLosses": 3,
+    "totalWinRatio": 54.17
   },
   {
     "NAF Nr": "41471",
@@ -19442,10 +19532,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 8,
         "winRatio": 37.5,
-        "rating": 141.6028541109659
+        "rating": 141.60277769348286
       }
     },
-    "rating": 138.2495330525245,
+    "rating": 138.24946294896674,
     "totalTournaments": 3,
     "totalGames": 11,
     "totalWins": 4,
@@ -19457,7 +19547,7 @@ const statsData = [
     "NAF Nr": "37484",
     "NAF Name": "lordjuan",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -19475,10 +19565,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 14,
         "winRatio": 53.57,
-        "rating": 155.74949455702412
+        "rating": 155.7457600011854
       }
     },
-    "rating": 152.22176524682504,
+    "rating": 152.21796378513076,
     "totalTournaments": 4,
     "totalGames": 17,
     "totalWins": 6,
@@ -19547,7 +19637,7 @@ const statsData = [
     "NAF Nr": "21680",
     "NAF Name": "lordsoth",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "yearStats": {
       "2022": {
         "tournaments": 1,
@@ -19625,10 +19715,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 12,
         "winRatio": 66.67,
-        "rating": 168.63183799139216
+        "rating": 168.63185020227326
       }
     },
-    "rating": 186.26501682166332,
+    "rating": 186.26502823001724,
     "totalTournaments": 19,
     "totalGames": 76,
     "totalWins": 40,
@@ -19685,10 +19775,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 133.04141514164434
+        "rating": 133.0414129069487
       }
     },
-    "rating": 135.3371949724765,
+    "rating": 135.33719258255428,
     "totalTournaments": 38,
     "totalGames": 156,
     "totalWins": 47,
@@ -19700,7 +19790,7 @@ const statsData = [
     "NAF Nr": "20671",
     "NAF Name": "Lord_Destruccion",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -19733,7 +19823,7 @@ const statsData = [
     "NAF Nr": "31446",
     "NAF Name": "Lord_Fede",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -19790,7 +19880,7 @@ const statsData = [
     "NAF Nr": "22365",
     "NAF Name": "LORD_TARAMOR",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -19808,10 +19898,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 8,
         "winRatio": 62.5,
-        "rating": 159.808538319088
+        "rating": 159.8085510435669
       }
     },
-    "rating": 181.0638534919315,
+    "rating": 181.0638643297355,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 9,
@@ -19823,7 +19913,7 @@ const statsData = [
     "NAF Nr": "38262",
     "NAF Name": "lorenzus",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {},
     "rating": 150,
     "totalTournaments": 0,
@@ -19837,7 +19927,7 @@ const statsData = [
     "NAF Nr": "38431",
     "NAF Name": "Loufter",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "yearStats": {
       "2025": {
         "tournaments": 2,
@@ -19846,10 +19936,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 8,
         "winRatio": 18.75,
-        "rating": 130.83154848632765
+        "rating": 130.82537249858703
       }
     },
-    "rating": 131.83554619671906,
+    "rating": 131.83111464162943,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -19865,27 +19955,27 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 1,
-        "gamesWon": 0,
+        "gamesWon": 2,
         "gamesDraw": 1,
-        "gamesLost": 0,
-        "gamesTotal": 1,
-        "winRatio": 50,
-        "rating": 150.6416569503605
+        "gamesLost": 3,
+        "gamesTotal": 6,
+        "winRatio": 41.67,
+        "rating": 144.53087010351192
       }
     },
-    "rating": 151.33378742604543,
+    "rating": 145.98302850439302,
     "totalTournaments": 1,
-    "totalGames": 1,
-    "totalWins": 0,
+    "totalGames": 6,
+    "totalWins": 2,
     "totalDraws": 1,
-    "totalLosses": 0,
-    "totalWinRatio": 50
+    "totalLosses": 3,
+    "totalWinRatio": 41.67
   },
   {
     "NAF Nr": "31574",
     "NAF Name": "Lucas",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2022": {
         "tournaments": 1,
@@ -20008,7 +20098,7 @@ const statsData = [
     "NAF Nr": "32997",
     "NAF Name": "Lucovik",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -20045,21 +20135,21 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 1,
-        "gamesWon": 0,
-        "gamesDraw": 1,
-        "gamesLost": 0,
-        "gamesTotal": 1,
-        "winRatio": 50,
-        "rating": 149.97916521839807
+        "gamesWon": 4,
+        "gamesDraw": 0,
+        "gamesLost": 2,
+        "gamesTotal": 6,
+        "winRatio": 66.67,
+        "rating": 164.4504041001293
       }
     },
-    "rating": 150.04656493713404,
+    "rating": 165.98945852958855,
     "totalTournaments": 1,
-    "totalGames": 1,
-    "totalWins": 0,
-    "totalDraws": 1,
-    "totalLosses": 0,
-    "totalWinRatio": 50
+    "totalGames": 6,
+    "totalWins": 4,
+    "totalDraws": 0,
+    "totalLosses": 2,
+    "totalWinRatio": 66.67
   },
   {
     "NAF Nr": "30089",
@@ -20092,10 +20182,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 6,
         "winRatio": 33.33,
-        "rating": 141.40296107886826
+        "rating": 141.40276953436637
       }
     },
-    "rating": 149.62066487928888,
+    "rating": 149.62047605650508,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 6,
@@ -20212,7 +20302,7 @@ const statsData = [
     "NAF Nr": "23669",
     "NAF Name": "Luis_Roka",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -20260,7 +20350,7 @@ const statsData = [
     "NAF Nr": "20816",
     "NAF Name": "LUMIBRALO",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -20278,10 +20368,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 12,
         "winRatio": 62.5,
-        "rating": 166.6628189983572
+        "rating": 166.66274555101347
       }
     },
-    "rating": 161.44741164027042,
+    "rating": 161.4473288363562,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 7,
@@ -20340,7 +20430,7 @@ const statsData = [
     "NAF Nr": "25500",
     "NAF Name": "Lunero32",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -20435,7 +20525,7 @@ const statsData = [
     "NAF Nr": "34275",
     "NAF Name": "lyrael",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -20513,10 +20603,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 14,
         "winRatio": 53.57,
-        "rating": 155.06021741349684
+        "rating": 155.05990947461535
       }
     },
-    "rating": 174.23200439584002,
+    "rating": 174.23172471463377,
     "totalTournaments": 13,
     "totalGames": 54,
     "totalWins": 24,
@@ -20729,7 +20819,7 @@ const statsData = [
     "NAF Nr": "30880",
     "NAF Name": "magoco",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -20783,10 +20873,24 @@ const statsData = [
     "totalWinRatio": 25
   },
   {
+    "NAF Nr": "41439",
+    "NAF Name": "Maikelrat",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "yearStats": {},
+    "rating": 150,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0
+  },
+  {
     "NAF Nr": "24819",
     "NAF Name": "maillo",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 5,
@@ -20804,10 +20908,10 @@ const statsData = [
         "gamesLost": 11,
         "gamesTotal": 22,
         "winRatio": 34.09,
-        "rating": 121.26759698571709
+        "rating": 121.26682951516104
       }
     },
-    "rating": 119.62193587315728,
+    "rating": 119.62105690804783,
     "totalTournaments": 10,
     "totalGames": 42,
     "totalWins": 10,
@@ -20819,7 +20923,7 @@ const statsData = [
     "NAF Nr": "30823",
     "NAF Name": "Majestyc12",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 5,
@@ -20837,10 +20941,10 @@ const statsData = [
         "gamesLost": 8,
         "gamesTotal": 16,
         "winRatio": 40.63,
-        "rating": 140.95616240059528
+        "rating": 140.9561732566857
       }
     },
-    "rating": 137.3641692226212,
+    "rating": 137.36417842542204,
     "totalTournaments": 9,
     "totalGames": 40,
     "totalWins": 13,
@@ -20852,7 +20956,7 @@ const statsData = [
     "NAF Nr": "27763",
     "NAF Name": "Major",
     "Country": "Spain",
-    "CCAA": "Cataluña",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 5,
@@ -20870,10 +20974,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 6,
         "winRatio": 83.33,
-        "rating": 175.32551369122268
+        "rating": 175.33320693987585
       }
     },
-    "rating": 192.1108356485527,
+    "rating": 192.11750853718715,
     "totalTournaments": 6,
     "totalGames": 26,
     "totalWins": 14,
@@ -20894,10 +20998,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 33.33,
-        "rating": 143.7824569418403
+        "rating": 143.78218556533793
       }
     },
-    "rating": 143.92702749101548,
+    "rating": 143.92672045348783,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -20933,7 +21037,7 @@ const statsData = [
     "NAF Nr": "40461",
     "NAF Name": "Malarquey",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -20957,7 +21061,7 @@ const statsData = [
     "NAF Nr": "17068",
     "NAF Name": "malasnoticias",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -20970,21 +21074,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 2,
-        "gamesWon": 2,
-        "gamesDraw": 4,
-        "gamesLost": 1,
-        "gamesTotal": 7,
-        "winRatio": 57.14,
-        "rating": 156.58510090407498
+        "gamesWon": 5,
+        "gamesDraw": 5,
+        "gamesLost": 2,
+        "gamesTotal": 12,
+        "winRatio": 62.5,
+        "rating": 165.28600910514731
       }
     },
-    "rating": 181.4389206279465,
+    "rating": 186.28911969487027,
     "totalTournaments": 5,
-    "totalGames": 19,
-    "totalWins": 9,
-    "totalDraws": 7,
-    "totalLosses": 3,
-    "totalWinRatio": 65.79
+    "totalGames": 24,
+    "totalWins": 12,
+    "totalDraws": 8,
+    "totalLosses": 4,
+    "totalWinRatio": 66.67
   },
   {
     "NAF Nr": "41138",
@@ -20999,10 +21103,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 33.33,
-        "rating": 142.37611386203133
+        "rating": 142.37147469363154
       }
     },
-    "rating": 142.67641504298788,
+    "rating": 142.67178114636525,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 0,
@@ -21032,10 +21136,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 145.2204615731809
+        "rating": 145.22039040842833
       }
     },
-    "rating": 135.69519360539616,
+    "rating": 135.6951234480222,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -21184,7 +21288,7 @@ const statsData = [
     "NAF Nr": "39206",
     "NAF Name": "Mapache",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -21235,10 +21339,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 26,
         "winRatio": 59.62,
-        "rating": 177.83595393657095
+        "rating": 177.83618562485574
       }
     },
-    "rating": 185.30026091423537,
+    "rating": 185.30046120816394,
     "totalTournaments": 14,
     "totalGames": 63,
     "totalWins": 24,
@@ -21295,10 +21399,10 @@ const statsData = [
         "gamesLost": 8,
         "gamesTotal": 17,
         "winRatio": 44.12,
-        "rating": 142.6732666512343
+        "rating": 142.67326771823113
       }
     },
-    "rating": 127.09625060940556,
+    "rating": 127.09625092099603,
     "totalTournaments": 29,
     "totalGames": 117,
     "totalWins": 35,
@@ -21355,10 +21459,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 11,
         "winRatio": 63.64,
-        "rating": 163.205207068137
+        "rating": 163.20454375300906
       }
     },
-    "rating": 175.45462050211938,
+    "rating": 175.4539156937555,
     "totalTournaments": 17,
     "totalGames": 67,
     "totalWins": 28,
@@ -21426,10 +21530,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 149.20710257275132
+        "rating": 149.20555970995403
       }
     },
-    "rating": 139.08410970385347,
+    "rating": 139.08243566170546,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -21441,7 +21545,7 @@ const statsData = [
     "NAF Nr": "24917",
     "NAF Name": "Marolla",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Asturias",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -21497,10 +21601,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 10,
         "winRatio": 35,
-        "rating": 137.07652609413776
+        "rating": 137.07652720765546
       }
     },
-    "rating": 145.90199324574283,
+    "rating": 145.90199264687377,
     "totalTournaments": 7,
     "totalGames": 25,
     "totalWins": 10,
@@ -21521,10 +21625,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 50,
-        "rating": 149.95024274710877
+        "rating": 149.95023116019124
       }
     },
-    "rating": 149.956437042674,
+    "rating": 149.95642383960012,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -21574,7 +21678,7 @@ const statsData = [
     "NAF Nr": "36957",
     "NAF Name": "Maryzell",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -21622,7 +21726,7 @@ const statsData = [
     "NAF Nr": "31910",
     "NAF Name": "Massa",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -21635,21 +21739,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 1,
-        "gamesWon": 0,
+        "gamesWon": 2,
         "gamesDraw": 1,
-        "gamesLost": 0,
-        "gamesTotal": 1,
-        "winRatio": 50,
-        "rating": 150
+        "gamesLost": 3,
+        "gamesTotal": 6,
+        "winRatio": 41.67,
+        "rating": 145.15442191387436
       }
     },
-    "rating": 146.8599182065262,
+    "rating": 144.25477135038494,
     "totalTournaments": 4,
-    "totalGames": 13,
-    "totalWins": 3,
+    "totalGames": 18,
+    "totalWins": 5,
     "totalDraws": 6,
-    "totalLosses": 4,
-    "totalWinRatio": 46.15
+    "totalLosses": 7,
+    "totalWinRatio": 44.44
   },
   {
     "NAF Nr": "27591",
@@ -21693,7 +21797,7 @@ const statsData = [
     "NAF Nr": "31311",
     "NAF Name": "Matrako",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Aragón",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -21735,7 +21839,7 @@ const statsData = [
     "NAF Nr": "31460",
     "NAF Name": "Matt",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "I. Baleares",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -21768,10 +21872,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 139.86646290152441
+        "rating": 139.86672562366724
       }
     },
-    "rating": 141.86203629871233,
+    "rating": 141.86229426564188,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -21831,7 +21935,7 @@ const statsData = [
     "NAF Nr": "37215",
     "NAF Name": "mek",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 5,
@@ -21903,7 +22007,7 @@ const statsData = [
     "NAF Nr": "32174",
     "NAF Name": "Meli",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 4,
@@ -21921,10 +22025,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 20,
         "winRatio": 70,
-        "rating": 185.53212867375592
+        "rating": 185.532040217582
       }
     },
-    "rating": 196.89806692355617,
+    "rating": 196.89798169404614,
     "totalTournaments": 9,
     "totalGames": 36,
     "totalWins": 18,
@@ -21945,10 +22049,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 50,
-        "rating": 148.40913522156146
+        "rating": 148.40885450938237
       }
     },
-    "rating": 148.5738865508888,
+    "rating": 148.57356701771081,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -22002,7 +22106,7 @@ const statsData = [
     "NAF Nr": "30436",
     "NAF Name": "Mengu",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2021": {
         "tournaments": 2,
@@ -22089,10 +22193,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 14,
         "winRatio": 50,
-        "rating": 147.88652310071828
+        "rating": 147.8829848634996
       }
     },
-    "rating": 163.02128126290188,
+    "rating": 163.01822375951562,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 7,
@@ -22212,10 +22316,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 4,
         "winRatio": 0,
-        "rating": 127.54903156653927
+        "rating": 127.54903163348497
       }
     },
-    "rating": 115.44100928660471,
+    "rating": 115.44100933285281,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 2,
@@ -22241,7 +22345,7 @@ const statsData = [
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Cantabria",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -22259,10 +22363,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 56.25,
-        "rating": 153.2514697439435
+        "rating": 153.25145460986835
       }
     },
-    "rating": 149.5461827798153,
+    "rating": 149.5461678800588,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -22307,10 +22411,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 8,
         "winRatio": 43.75,
-        "rating": 142.88382798441566
+        "rating": 142.88064498454722
       }
     },
-    "rating": 144.3350893418083,
+    "rating": 144.331981710856,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -22355,7 +22459,7 @@ const statsData = [
     "NAF Nr": "26536",
     "NAF Name": "mime",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2021": {
         "tournaments": 1,
@@ -22400,10 +22504,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 15,
         "winRatio": 43.33,
-        "rating": 140.0308201125592
+        "rating": 140.0309941637696
       }
     },
-    "rating": 147.99658602788904,
+    "rating": 147.9967191486884,
     "totalTournaments": 18,
     "totalGames": 73,
     "totalWins": 21,
@@ -22415,7 +22519,7 @@ const statsData = [
     "NAF Nr": "21012",
     "NAF Name": "Mirabet",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -22481,7 +22585,7 @@ const statsData = [
     "NAF Nr": "26199",
     "NAF Name": "Misifu",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2021": {
         "tournaments": 2,
@@ -22526,10 +22630,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 21,
         "winRatio": 50,
-        "rating": 148.97093290939108
+        "rating": 148.97541612344142
       }
     },
-    "rating": 167.47662211303222,
+    "rating": 167.48078702882356,
     "totalTournaments": 30,
     "totalGames": 115,
     "totalWins": 55,
@@ -22541,7 +22645,7 @@ const statsData = [
     "NAF Nr": "27861",
     "NAF Name": "Mising",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Murcia",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -22553,22 +22657,22 @@ const statsData = [
         "rating": 164.5259689483463
       },
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 1,
-        "gamesDraw": 1,
-        "gamesLost": 2,
-        "gamesTotal": 4,
-        "winRatio": 37.5,
-        "rating": 142.31888675561376
+        "tournaments": 2,
+        "gamesWon": 3,
+        "gamesDraw": 2,
+        "gamesLost": 3,
+        "gamesTotal": 8,
+        "winRatio": 50,
+        "rating": 150.36233994163246
       }
     },
-    "rating": 156.6932616594745,
-    "totalTournaments": 3,
-    "totalGames": 12,
-    "totalWins": 6,
-    "totalDraws": 2,
-    "totalLosses": 4,
-    "totalWinRatio": 58.33
+    "rating": 163.75759417722963,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 8,
+    "totalDraws": 3,
+    "totalLosses": 5,
+    "totalWinRatio": 59.38
   },
   {
     "NAF Nr": "37255",
@@ -22654,10 +22758,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 3,
         "winRatio": 0,
-        "rating": 133.43716431871505
+        "rating": 133.43690675844545
       }
     },
-    "rating": 133.5744244858598,
+    "rating": 133.57413285923306,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 0,
@@ -22750,7 +22854,7 @@ const statsData = [
     "NAF Nr": "27084",
     "NAF Name": "Moi_Morenate",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -22762,22 +22866,22 @@ const statsData = [
         "rating": 127.02151521079769
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 3,
-        "gamesDraw": 4,
-        "gamesLost": 5,
-        "gamesTotal": 12,
-        "winRatio": 41.67,
-        "rating": 137.83707480290127
+        "tournaments": 4,
+        "gamesWon": 4,
+        "gamesDraw": 5,
+        "gamesLost": 7,
+        "gamesTotal": 16,
+        "winRatio": 40.63,
+        "rating": 134.87794958261628
       }
     },
-    "rating": 124.69742481612809,
-    "totalTournaments": 6,
-    "totalGames": 24,
-    "totalWins": 6,
-    "totalDraws": 5,
-    "totalLosses": 13,
-    "totalWinRatio": 35.42
+    "rating": 123.9491221885619,
+    "totalTournaments": 7,
+    "totalGames": 28,
+    "totalWins": 7,
+    "totalDraws": 6,
+    "totalLosses": 15,
+    "totalWinRatio": 35.71
   },
   {
     "NAF Nr": "21072",
@@ -22787,27 +22891,27 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 2,
-        "gamesWon": 1,
-        "gamesDraw": 4,
-        "gamesLost": 0,
-        "gamesTotal": 5,
-        "winRatio": 60,
-        "rating": 155.54228536467437
+        "gamesWon": 3,
+        "gamesDraw": 5,
+        "gamesLost": 2,
+        "gamesTotal": 10,
+        "winRatio": 55,
+        "rating": 153.45605197726974
       }
     },
-    "rating": 157.22495929819488,
+    "rating": 156.27535410741507,
     "totalTournaments": 2,
-    "totalGames": 5,
-    "totalWins": 1,
-    "totalDraws": 4,
-    "totalLosses": 0,
-    "totalWinRatio": 60
+    "totalGames": 10,
+    "totalWins": 3,
+    "totalDraws": 5,
+    "totalLosses": 2,
+    "totalWinRatio": 55
   },
   {
     "NAF Nr": "25247",
     "NAF Name": "Mongloom",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Aragón",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -22825,10 +22929,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 6,
         "winRatio": 25,
-        "rating": 136.29899728810176
+        "rating": 136.29933114452115
       }
     },
-    "rating": 138.86293152818962,
+    "rating": 138.86322419876456,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 4,
@@ -22867,10 +22971,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 12,
         "winRatio": 70.83,
-        "rating": 175.55459965009956
+        "rating": 175.55480944505663
       }
     },
-    "rating": 178.7205407658075,
+    "rating": 178.72070456024053,
     "totalTournaments": 8,
     "totalGames": 32,
     "totalWins": 15,
@@ -22950,22 +23054,22 @@ const statsData = [
         "rating": 150.23631549992143
       },
       "2025": {
-        "tournaments": 4,
-        "gamesWon": 8,
+        "tournaments": 5,
+        "gamesWon": 10,
         "gamesDraw": 6,
-        "gamesLost": 4,
-        "gamesTotal": 18,
-        "winRatio": 61.11,
-        "rating": 164.12609715315944
+        "gamesLost": 6,
+        "gamesTotal": 22,
+        "winRatio": 59.09,
+        "rating": 160.55488992619516
       }
     },
-    "rating": 167.75414005089212,
-    "totalTournaments": 7,
-    "totalGames": 30,
-    "totalWins": 11,
+    "rating": 162.89851854049465,
+    "totalTournaments": 8,
+    "totalGames": 34,
+    "totalWins": 13,
     "totalDraws": 13,
-    "totalLosses": 6,
-    "totalWinRatio": 58.33
+    "totalLosses": 8,
+    "totalWinRatio": 57.35
   },
   {
     "NAF Nr": "15458",
@@ -22980,10 +23084,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 149.5511437810761
+        "rating": 149.551076593586
       }
     },
-    "rating": 149.22614956323844,
+    "rating": 149.2260862628977,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -23004,10 +23108,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 75,
-        "rating": 159.58581506369825
+        "rating": 159.57857446705972
       }
     },
-    "rating": 158.6575803346149,
+    "rating": 158.65082361600344,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 3,
@@ -23091,7 +23195,7 @@ const statsData = [
     "NAF Nr": "20002",
     "NAF Name": "moyate",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -23139,7 +23243,7 @@ const statsData = [
     "NAF Nr": "28565",
     "NAF Name": "Mromvir",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 5,
@@ -23157,10 +23261,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 16,
         "winRatio": 59.38,
-        "rating": 156.19296057027162
+        "rating": 156.19296103831812
       }
     },
-    "rating": 164.17504583012962,
+    "rating": 164.17504620631672,
     "totalTournaments": 9,
     "totalGames": 36,
     "totalWins": 19,
@@ -23172,7 +23276,7 @@ const statsData = [
     "NAF Nr": "31043",
     "NAF Name": "MrPini",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -23279,10 +23383,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 8,
         "winRatio": 18.75,
-        "rating": 127.44830049365629
+        "rating": 127.44831119376501
       }
     },
-    "rating": 95.03305117082995,
+    "rating": 95.0330588781171,
     "totalTournaments": 8,
     "totalGames": 32,
     "totalWins": 4,
@@ -23294,31 +23398,31 @@ const statsData = [
     "NAF Nr": "21636",
     "NAF Name": "Mr_goblin",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "I. Baleares",
     "yearStats": {
       "2025": {
         "tournaments": 2,
-        "gamesWon": 1,
+        "gamesWon": 4,
         "gamesDraw": 2,
-        "gamesLost": 2,
-        "gamesTotal": 5,
-        "winRatio": 40,
-        "rating": 144.6191196178283
+        "gamesLost": 4,
+        "gamesTotal": 10,
+        "winRatio": 50,
+        "rating": 148.6334083758432
       }
     },
-    "rating": 144.65314709270348,
+    "rating": 148.89736606262548,
     "totalTournaments": 2,
-    "totalGames": 5,
-    "totalWins": 1,
+    "totalGames": 10,
+    "totalWins": 4,
     "totalDraws": 2,
-    "totalLosses": 2,
-    "totalWinRatio": 40
+    "totalLosses": 4,
+    "totalWinRatio": 50
   },
   {
     "NAF Nr": "26166",
     "NAF Name": "Mudarra",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -23342,7 +23446,7 @@ const statsData = [
     "NAF Nr": "25531",
     "NAF Name": "Mudarra93",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -23360,10 +23464,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 16,
         "winRatio": 78.13,
-        "rating": 188.20715581074143
+        "rating": 188.2070908331972
       }
     },
-    "rating": 208.50894300837717,
+    "rating": 208.508881191586,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 19,
@@ -23375,7 +23479,7 @@ const statsData = [
     "NAF Nr": "28259",
     "NAF Name": "Muppetillo",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Aragón",
     "yearStats": {
       "2022": {
         "tournaments": 1,
@@ -23471,10 +23575,10 @@ const statsData = [
         "gamesLost": 8,
         "gamesTotal": 17,
         "winRatio": 41.18,
-        "rating": 126.62144678244336
+        "rating": 126.61699636216741
       }
     },
-    "rating": 118.63053695502643,
+    "rating": 118.6257562524601,
     "totalTournaments": 16,
     "totalGames": 70,
     "totalWins": 21,
@@ -23519,7 +23623,7 @@ const statsData = [
     "NAF Nr": "36082",
     "NAF Name": "mygaitero",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -23546,10 +23650,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 14,
         "winRatio": 50,
-        "rating": 145.8847776448581
+        "rating": 145.8844564436913
       }
     },
-    "rating": 134.1101822142469,
+    "rating": 134.10986794171174,
     "totalTournaments": 5,
     "totalGames": 23,
     "totalWins": 4,
@@ -23599,7 +23703,7 @@ const statsData = [
     "NAF Nr": "25003",
     "NAF Name": "Nackaro",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "yearStats": {
       "2022": {
         "tournaments": 1,
@@ -23746,7 +23850,7 @@ const statsData = [
     "NAF Nr": "17305",
     "NAF Name": "Nans",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2021": {
         "tournaments": 1,
@@ -23788,7 +23892,7 @@ const statsData = [
     "NAF Nr": "34695",
     "NAF Name": "Narrek",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 5,
@@ -23872,10 +23976,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 3,
         "winRatio": 83.33,
-        "rating": 157.51561412770306
+        "rating": 157.51087486539262
       }
     },
-    "rating": 176.609760735779,
+    "rating": 176.60575710054962,
     "totalTournaments": 6,
     "totalGames": 22,
     "totalWins": 13,
@@ -23887,7 +23991,7 @@ const statsData = [
     "NAF Nr": "27474",
     "NAF Name": "NDiayo",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "C. La Mancha",
     "yearStats": {
       "2025": {
         "tournaments": 2,
@@ -23896,10 +24000,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 8,
         "winRatio": 43.75,
-        "rating": 146.65940139776788
+        "rating": 146.65937792982655
       }
     },
-    "rating": 144.1401805902922,
+    "rating": 144.14015462185802,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -23929,10 +24033,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 41.67,
-        "rating": 146.48883231973784
+        "rating": 146.48884805584296
       }
     },
-    "rating": 142.36253871114786,
+    "rating": 142.36255346084243,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 5,
@@ -23944,7 +24048,7 @@ const statsData = [
     "NAF Nr": "31070",
     "NAF Name": "Neirolh",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -24061,10 +24165,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 156.36440763652425
+        "rating": 156.36438172306615
       }
     },
-    "rating": 142.50047644085225,
+    "rating": 142.50044879133407,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -24118,7 +24222,7 @@ const statsData = [
     "NAF Nr": "27584",
     "NAF Name": "Nergatsul",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -24142,7 +24246,7 @@ const statsData = [
     "NAF Nr": "40325",
     "NAF Name": "NESSA",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 2,
@@ -24151,10 +24255,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 8,
         "winRatio": 25,
-        "rating": 126.2627356174389
+        "rating": 126.26228436226484
       }
     },
-    "rating": 124.75303245182488,
+    "rating": 124.75251934707998,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -24223,7 +24327,7 @@ const statsData = [
     "NAF Nr": "31373",
     "NAF Name": "neutrinux",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -24241,10 +24345,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 37.5,
-        "rating": 138.4475233331284
+        "rating": 138.447523675483
       }
     },
-    "rating": 141.25075938014496,
+    "rating": 141.2507596771229,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 5,
@@ -24262,19 +24366,19 @@ const statsData = [
         "tournaments": 2,
         "gamesWon": 0,
         "gamesDraw": 3,
-        "gamesLost": 2,
-        "gamesTotal": 5,
-        "winRatio": 30,
-        "rating": 139.9420728539726
+        "gamesLost": 7,
+        "gamesTotal": 10,
+        "winRatio": 15,
+        "rating": 114.3822297942247
       }
     },
-    "rating": 141.01429185187106,
+    "rating": 115.69894613056361,
     "totalTournaments": 2,
-    "totalGames": 5,
+    "totalGames": 10,
     "totalWins": 0,
     "totalDraws": 3,
-    "totalLosses": 2,
-    "totalWinRatio": 30
+    "totalLosses": 7,
+    "totalWinRatio": 15
   },
   {
     "NAF Nr": "28512",
@@ -24322,10 +24426,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 18,
         "winRatio": 47.22,
-        "rating": 143.2879457030219
+        "rating": 143.28681149754692
       }
     },
-    "rating": 144.5146631161129,
+    "rating": 144.51344307780658,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 7,
@@ -24405,28 +24509,28 @@ const statsData = [
         "rating": 166.8528679116743
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 3,
+        "tournaments": 3,
+        "gamesWon": 5,
         "gamesDraw": 2,
-        "gamesLost": 3,
-        "gamesTotal": 8,
+        "gamesLost": 5,
+        "gamesTotal": 12,
         "winRatio": 50,
-        "rating": 150.5388886118285
+        "rating": 152.28787665090664
       }
     },
-    "rating": 163.11988901521937,
-    "totalTournaments": 3,
-    "totalGames": 12,
-    "totalWins": 6,
+    "rating": 163.26213797378367,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 8,
     "totalDraws": 3,
-    "totalLosses": 3,
-    "totalWinRatio": 62.5
+    "totalLosses": 5,
+    "totalWinRatio": 59.38
   },
   {
     "NAF Nr": "25704",
     "NAF Name": "Noctua",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -24459,7 +24563,7 @@ const statsData = [
     "NAF Nr": "34259",
     "NAF Name": "Noe",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -24519,10 +24623,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 14,
         "winRatio": 78.57,
-        "rating": 187.93786544098688
+        "rating": 187.93787444960205
       }
     },
-    "rating": 216.47091778621916,
+    "rating": 216.47092485464538,
     "totalTournaments": 8,
     "totalGames": 34,
     "totalWins": 21,
@@ -24534,7 +24638,7 @@ const statsData = [
     "NAF Nr": "6398",
     "NAF Name": "Nonio",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -24642,7 +24746,7 @@ const statsData = [
     "NAF Nr": "20672",
     "NAF Name": "Nota",
     "Country": "Spain",
-    "CCAA": "P. Vasco",
+    "CCAA": "Euskadi",
     "yearStats": {
       "2021": {
         "tournaments": 1,
@@ -24764,10 +24868,10 @@ const statsData = [
         "gamesLost": 8,
         "gamesTotal": 30,
         "winRatio": 60,
-        "rating": 165.15158747153774
+        "rating": 165.1576744421095
       }
     },
-    "rating": 181.6639566004779,
+    "rating": 181.669391121408,
     "totalTournaments": 19,
     "totalGames": 82,
     "totalWins": 39,
@@ -24836,31 +24940,31 @@ const statsData = [
     "NAF Nr": "26832",
     "NAF Name": "OBERON.",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "I. Baleares",
     "yearStats": {
       "2025": {
         "tournaments": 3,
-        "gamesWon": 4,
-        "gamesDraw": 1,
-        "gamesLost": 6,
-        "gamesTotal": 11,
-        "winRatio": 40.91,
-        "rating": 136.23957062839747
+        "gamesWon": 6,
+        "gamesDraw": 2,
+        "gamesLost": 8,
+        "gamesTotal": 16,
+        "winRatio": 43.75,
+        "rating": 139.70653951582707
       }
     },
-    "rating": 140.36083971508899,
+    "rating": 144.11873417129408,
     "totalTournaments": 3,
-    "totalGames": 11,
-    "totalWins": 4,
-    "totalDraws": 1,
-    "totalLosses": 6,
-    "totalWinRatio": 40.91
+    "totalGames": 16,
+    "totalWins": 6,
+    "totalDraws": 2,
+    "totalLosses": 8,
+    "totalWinRatio": 43.75
   },
   {
     "NAF Nr": "20188",
     "NAF Name": "Obi",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {},
     "rating": 150,
     "totalTournaments": 0,
@@ -25007,7 +25111,7 @@ const statsData = [
     "NAF Nr": "27590",
     "NAF Name": "Orioncillo",
     "Country": "Spain",
-    "CCAA": "Cataluña",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 5,
@@ -25040,7 +25144,7 @@ const statsData = [
     "NAF Nr": "26889",
     "NAF Name": "Ossian",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -25148,10 +25252,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 147.80324043369274
+        "rating": 147.80177515260198
       }
     },
-    "rating": 147.7198451690345,
+    "rating": 147.71833943346627,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -25208,10 +25312,10 @@ const statsData = [
         "gamesLost": 17,
         "gamesTotal": 48,
         "winRatio": 51.04,
-        "rating": 158.29392635077073
+        "rating": 158.28709692283968
       }
     },
-    "rating": 168.52750441594497,
+    "rating": 168.52145292166944,
     "totalTournaments": 73,
     "totalGames": 286,
     "totalWins": 105,
@@ -25241,10 +25345,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 8,
         "winRatio": 62.5,
-        "rating": 157.43220355048234
+        "rating": 157.43039102850994
       }
     },
-    "rating": 152.87144837661106,
+    "rating": 152.8694770271782,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 6,
@@ -25270,7 +25374,7 @@ const statsData = [
     "NAF Nr": "37063",
     "NAF Name": "Pablofa",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Asturias",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -25294,7 +25398,7 @@ const statsData = [
     "NAF Nr": "27060",
     "NAF Name": "PABLOOD75",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "yearStats": {
       "2022": {
         "tournaments": 2,
@@ -25327,7 +25431,7 @@ const statsData = [
     "NAF Nr": "20513",
     "NAF Name": "Pacho",
     "Country": "Spain",
-    "CCAA": "Cataluña",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2022": {
         "tournaments": 1,
@@ -25349,27 +25453,27 @@ const statsData = [
       },
       "2025": {
         "tournaments": 3,
-        "gamesWon": 5,
-        "gamesDraw": 4,
-        "gamesLost": 2,
-        "gamesTotal": 11,
-        "winRatio": 63.64,
-        "rating": 164.31877941912347
+        "gamesWon": 7,
+        "gamesDraw": 5,
+        "gamesLost": 4,
+        "gamesTotal": 16,
+        "winRatio": 59.38,
+        "rating": 162.25853361536664
       }
     },
-    "rating": 186.97278074202106,
+    "rating": 181.237626187962,
     "totalTournaments": 9,
-    "totalGames": 35,
-    "totalWins": 19,
-    "totalDraws": 8,
-    "totalLosses": 8,
-    "totalWinRatio": 65.71
+    "totalGames": 40,
+    "totalWins": 21,
+    "totalDraws": 9,
+    "totalLosses": 10,
+    "totalWinRatio": 63.75
   },
   {
     "NAF Nr": "27859",
     "NAF Name": "Paco",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Murcia",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -25381,22 +25485,22 @@ const statsData = [
         "rating": 125.55131566845567
       },
       "2025": {
-        "tournaments": 6,
-        "gamesWon": 9,
-        "gamesDraw": 9,
-        "gamesLost": 8,
-        "gamesTotal": 26,
-        "winRatio": 51.92,
-        "rating": 142.14180233934056
+        "tournaments": 7,
+        "gamesWon": 10,
+        "gamesDraw": 11,
+        "gamesLost": 9,
+        "gamesTotal": 30,
+        "winRatio": 51.67,
+        "rating": 142.55939300930743
       }
     },
-    "rating": 139.23356276850637,
-    "totalTournaments": 7,
-    "totalGames": 30,
-    "totalWins": 9,
-    "totalDraws": 9,
-    "totalLosses": 12,
-    "totalWinRatio": 45
+    "rating": 139.65942414158096,
+    "totalTournaments": 8,
+    "totalGames": 34,
+    "totalWins": 10,
+    "totalDraws": 11,
+    "totalLosses": 13,
+    "totalWinRatio": 45.59
   },
   {
     "NAF Nr": "31769",
@@ -25420,10 +25524,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 12,
         "winRatio": 62.5,
-        "rating": 161.62619572685543
+        "rating": 161.62604267707877
       }
     },
-    "rating": 157.95907956731273,
+    "rating": 157.95892420671066,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 7,
@@ -25435,7 +25539,7 @@ const statsData = [
     "NAF Nr": "23459",
     "NAF Name": "Padywan",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -25580,21 +25684,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 2,
-        "gamesWon": 2,
-        "gamesDraw": 1,
-        "gamesLost": 2,
-        "gamesTotal": 5,
+        "gamesWon": 4,
+        "gamesDraw": 2,
+        "gamesLost": 4,
+        "gamesTotal": 10,
         "winRatio": 50,
-        "rating": 150.4201736268223
+        "rating": 149.639360492768
       }
     },
-    "rating": 159.08574176312817,
+    "rating": 156.5265938444968,
     "totalTournaments": 5,
-    "totalGames": 17,
-    "totalWins": 7,
-    "totalDraws": 4,
-    "totalLosses": 6,
-    "totalWinRatio": 52.94
+    "totalGames": 22,
+    "totalWins": 9,
+    "totalDraws": 5,
+    "totalLosses": 8,
+    "totalWinRatio": 52.27
   },
   {
     "NAF Nr": "33417",
@@ -25681,7 +25785,7 @@ const statsData = [
     "NAF Nr": "21691",
     "NAF Name": "Pandiani",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -25792,10 +25896,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 10,
         "winRatio": 55,
-        "rating": 157.21613181420173
+        "rating": 157.2223546211467
       }
     },
-    "rating": 168.16637710659543,
+    "rating": 168.17193540121696,
     "totalTournaments": 17,
     "totalGames": 72,
     "totalWins": 29,
@@ -25807,7 +25911,7 @@ const statsData = [
     "NAF Nr": "23479",
     "NAF Name": "Pardakis",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 7,
@@ -25825,10 +25929,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 8,
         "winRatio": 75,
-        "rating": 171.11043845302726
+        "rating": 171.11043897041213
       }
     },
-    "rating": 183.72995393613172,
+    "rating": 183.72995437281483,
     "totalTournaments": 9,
     "totalGames": 40,
     "totalWins": 18,
@@ -25924,7 +26028,7 @@ const statsData = [
     "NAF Nr": "11534",
     "NAF Name": "Pas_Mao",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -25951,10 +26055,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 10,
         "winRatio": 65,
-        "rating": 166.13165707215973
+        "rating": 166.1318278649409
       }
     },
-    "rating": 185.55891201926218,
+    "rating": 185.55907273239853,
     "totalTournaments": 7,
     "totalGames": 30,
     "totalWins": 14,
@@ -25966,7 +26070,7 @@ const statsData = [
     "NAF Nr": "31507",
     "NAF Name": "Pateroide",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -26035,10 +26139,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 14,
         "winRatio": 46.43,
-        "rating": 148.07648932546059
+        "rating": 148.07646465008332
       }
     },
-    "rating": 164.49806795558843,
+    "rating": 164.49800261727054,
     "totalTournaments": 9,
     "totalGames": 37,
     "totalWins": 16,
@@ -26050,7 +26154,7 @@ const statsData = [
     "NAF Nr": "24824",
     "NAF Name": "Paula",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -26119,10 +26223,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 10,
         "winRatio": 65,
-        "rating": 164.40211876880255
+        "rating": 164.40228639738476
       }
     },
-    "rating": 163.91393744320857,
+    "rating": 163.91409183508992,
     "totalTournaments": 11,
     "totalGames": 43,
     "totalWins": 16,
@@ -26170,10 +26274,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 23,
         "winRatio": 56.52,
-        "rating": 172.97207655881394
+        "rating": 172.9723548070476
       }
     },
-    "rating": 181.91704842367415,
+    "rating": 181.91725551041716,
     "totalTournaments": 35,
     "totalGames": 140,
     "totalWins": 58,
@@ -26203,10 +26307,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 10,
         "winRatio": 90,
-        "rating": 190.8763843626861
+        "rating": 190.88398055105944
       }
     },
-    "rating": 212.23814131687317,
+    "rating": 212.24524297960096,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 12,
@@ -26218,7 +26322,7 @@ const statsData = [
     "NAF Nr": "34076",
     "NAF Name": "Pedrowsky",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -26251,7 +26355,7 @@ const statsData = [
     "NAF Nr": "27794",
     "NAF Name": "Pegoles",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -26365,7 +26469,7 @@ const statsData = [
     "NAF Nr": "24044",
     "NAF Name": "Pepin09",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -26455,7 +26559,7 @@ const statsData = [
     "NAF Nr": "22824",
     "NAF Name": "periprocto",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2022": {
         "tournaments": 10,
@@ -26700,10 +26804,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 7,
         "winRatio": 28.57,
-        "rating": 141.91476886072337
+        "rating": 141.9147091347732
       }
     },
-    "rating": 107.48585317785424,
+    "rating": 107.4857850624513,
     "totalTournaments": 13,
     "totalGames": 47,
     "totalWins": 9,
@@ -26715,7 +26819,7 @@ const statsData = [
     "NAF Nr": "33685",
     "NAF Name": "Piolin",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -26748,10 +26852,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 25,
-        "rating": 128.88701708154198
+        "rating": 128.88693446514387
       }
     },
-    "rating": 129.13769490709123,
+    "rating": 129.13760502607198,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 0,
@@ -26787,7 +26891,7 @@ const statsData = [
     "NAF Nr": "39201",
     "NAF Name": "Polemos",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -26805,10 +26909,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 12,
         "winRatio": 37.5,
-        "rating": 138.03371117046387
+        "rating": 138.03364314963227
       }
     },
-    "rating": 132.49382071080345,
+    "rating": 132.49375770728423,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 4,
@@ -26820,7 +26924,7 @@ const statsData = [
     "NAF Nr": "24916",
     "NAF Name": "Polin",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -26838,10 +26942,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 11,
         "winRatio": 40.91,
-        "rating": 135.94126871659142
+        "rating": 135.9378040699348
       }
     },
-    "rating": 131.839255252553,
+    "rating": 131.83574181850156,
     "totalTournaments": 5,
     "totalGames": 21,
     "totalWins": 7,
@@ -26884,21 +26988,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 5,
-        "gamesWon": 12,
-        "gamesDraw": 6,
+        "gamesWon": 13,
+        "gamesDraw": 5,
         "gamesLost": 5,
         "gamesTotal": 23,
-        "winRatio": 65.22,
-        "rating": 178.9140002680298
+        "winRatio": 67.39,
+        "rating": 182.6028562163706
       }
     },
-    "rating": 197.08951680657952,
+    "rating": 200.7970881590421,
     "totalTournaments": 12,
     "totalGames": 50,
-    "totalWins": 25,
-    "totalDraws": 15,
+    "totalWins": 26,
+    "totalDraws": 14,
     "totalLosses": 10,
-    "totalWinRatio": 65
+    "totalWinRatio": 66
   },
   {
     "NAF Nr": "29187",
@@ -26913,10 +27017,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 145.1524786864611
+        "rating": 145.1587893496717
       }
     },
-    "rating": 146.1678222863755,
+    "rating": 146.17382700284207,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -26928,7 +27032,7 @@ const statsData = [
     "NAF Nr": "38819",
     "NAF Name": "poppen",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -26994,25 +27098,25 @@ const statsData = [
     "NAF Nr": "32814",
     "NAF Name": "potti",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "I. Baleares",
     "yearStats": {
       "2025": {
         "tournaments": 3,
-        "gamesWon": 4,
-        "gamesDraw": 4,
-        "gamesLost": 3,
-        "gamesTotal": 11,
-        "winRatio": 54.55,
-        "rating": 155.07215190239896
+        "gamesWon": 6,
+        "gamesDraw": 6,
+        "gamesLost": 4,
+        "gamesTotal": 16,
+        "winRatio": 56.25,
+        "rating": 159.9818832658514
       }
     },
-    "rating": 157.9042861959437,
+    "rating": 162.66319156348032,
     "totalTournaments": 3,
-    "totalGames": 11,
-    "totalWins": 4,
-    "totalDraws": 4,
-    "totalLosses": 3,
-    "totalWinRatio": 54.55
+    "totalGames": 16,
+    "totalWins": 6,
+    "totalDraws": 6,
+    "totalLosses": 4,
+    "totalWinRatio": 56.25
   },
   {
     "NAF Nr": "32404",
@@ -27022,21 +27126,21 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 3,
-        "gamesWon": 3,
-        "gamesDraw": 4,
+        "gamesWon": 7,
+        "gamesDraw": 5,
         "gamesLost": 4,
-        "gamesTotal": 11,
-        "winRatio": 45.45,
-        "rating": 146.46660248175357
+        "gamesTotal": 16,
+        "winRatio": 59.38,
+        "rating": 170.14471657027414
       }
     },
-    "rating": 150.06230684531715,
+    "rating": 175.45857420745713,
     "totalTournaments": 3,
-    "totalGames": 11,
-    "totalWins": 3,
-    "totalDraws": 4,
+    "totalGames": 16,
+    "totalWins": 7,
+    "totalDraws": 5,
     "totalLosses": 4,
-    "totalWinRatio": 45.45
+    "totalWinRatio": 59.38
   },
   {
     "NAF Nr": "39712",
@@ -27051,10 +27155,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 8,
         "winRatio": 31.25,
-        "rating": 131.51367635780613
+        "rating": 131.51173628550478
       }
     },
-    "rating": 132.83642334197407,
+    "rating": 132.83435257690172,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -27066,7 +27170,7 @@ const statsData = [
     "NAF Nr": "36531",
     "NAF Name": "Puchy",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -27146,7 +27250,7 @@ const statsData = [
     "NAF Nr": "24728",
     "NAF Name": "Purohit",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2023": {
         "tournaments": 5,
@@ -27173,10 +27277,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 22,
         "winRatio": 56.82,
-        "rating": 168.38559305558636
+        "rating": 168.38566933020218
       }
     },
-    "rating": 190.0212916742656,
+    "rating": 190.02133962728763,
     "totalTournaments": 11,
     "totalGames": 44,
     "totalWins": 20,
@@ -27339,10 +27443,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 8,
         "winRatio": 31.25,
-        "rating": 132.00200449638973
+        "rating": 132.00200504791982
       }
     },
-    "rating": 131.35823116499662,
+    "rating": 131.3582316178127,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -27419,10 +27523,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 151.82453079596837
+        "rating": 151.8248056479052
       }
     },
-    "rating": 149.30622714214493,
+    "rating": 149.3064597397453,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -27503,10 +27607,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 13,
         "winRatio": 57.69,
-        "rating": 155.30363253595024
+        "rating": 155.30938373027192
       }
     },
-    "rating": 160.35107826221073,
+    "rating": 160.35593487275696,
     "totalTournaments": 14,
     "totalGames": 56,
     "totalWins": 18,
@@ -27566,7 +27670,7 @@ const statsData = [
     "NAF Nr": "28013",
     "NAF Name": "Raptor",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "yearStats": {
       "2022": {
         "tournaments": 1,
@@ -27584,10 +27688,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 139.23708921761582
+        "rating": 139.23357346185153
       }
     },
-    "rating": 142.0976248747942,
+    "rating": 142.09409958561787,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -27632,10 +27736,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 131.3771127399716
+        "rating": 131.37709246218847
       }
     },
-    "rating": 132.14200855612037,
+    "rating": 132.14194766006864,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -27812,10 +27916,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 16.67,
-        "rating": 139.95404232204297
+        "rating": 139.95379937781192
       }
     },
-    "rating": 139.4542298965363,
+    "rating": 139.4539856169636,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 0,
@@ -27883,10 +27987,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 6,
         "winRatio": 83.33,
-        "rating": 164.50246152342095
+        "rating": 164.50238298481676
       }
     },
-    "rating": 164.32043003395063,
+    "rating": 164.3203496504941,
     "totalTournaments": 4,
     "totalGames": 14,
     "totalWins": 8,
@@ -27916,10 +28020,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 150.58164500571644
+        "rating": 150.58190939783228
       }
     },
-    "rating": 139.65295753344466,
+    "rating": 139.65320822234014,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -27955,7 +28059,7 @@ const statsData = [
     "NAF Nr": "40479",
     "NAF Name": "Requena115",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 2,
@@ -27988,10 +28092,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 25,
-        "rating": 137.35870241838688
+        "rating": 137.3644853614977
       }
     },
-    "rating": 138.62901479512678,
+    "rating": 138.63451534751593,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -28003,7 +28107,7 @@ const statsData = [
     "NAF Nr": "12272",
     "NAF Name": "Rhox",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -28021,10 +28125,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 12,
         "winRatio": 66.67,
-        "rating": 169.72662465751318
+        "rating": 169.72656755040776
       }
     },
-    "rating": 182.9041456117325,
+    "rating": 182.90408827256553,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 12,
@@ -28141,7 +28245,7 @@ const statsData = [
     "NAF Nr": "28278",
     "NAF Name": "Roi",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 4,
@@ -28207,7 +28311,7 @@ const statsData = [
     "NAF Nr": "22857",
     "NAF Name": "ROKE13",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -28293,7 +28397,7 @@ const statsData = [
     "NAF Nr": "31469",
     "NAF Name": "Ronda",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2022": {
         "tournaments": 5,
@@ -28320,10 +28424,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 22,
         "winRatio": 56.82,
-        "rating": 157.35455638573282
+        "rating": 157.35448792238375
       }
     },
-    "rating": 158.12441552302596,
+    "rating": 158.12434599257512,
     "totalTournaments": 17,
     "totalGames": 66,
     "totalWins": 23,
@@ -28544,22 +28648,22 @@ const statsData = [
         "rating": 165.7371435937487
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 6,
-        "gamesDraw": 5,
+        "tournaments": 4,
+        "gamesWon": 9,
+        "gamesDraw": 6,
         "gamesLost": 1,
-        "gamesTotal": 12,
-        "winRatio": 70.83,
-        "rating": 165.38873600687498
+        "gamesTotal": 16,
+        "winRatio": 75,
+        "rating": 178.61265671692436
       }
     },
-    "rating": 180.8952964480644,
-    "totalTournaments": 8,
-    "totalGames": 31,
-    "totalWins": 13,
-    "totalDraws": 13,
+    "rating": 192.3375172898596,
+    "totalTournaments": 9,
+    "totalGames": 35,
+    "totalWins": 16,
+    "totalDraws": 14,
     "totalLosses": 5,
-    "totalWinRatio": 62.9
+    "totalWinRatio": 65.71
   },
   {
     "NAF Nr": "30639",
@@ -28667,22 +28771,22 @@ const statsData = [
         "rating": 156.04455475515564
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 3,
-        "gamesDraw": 2,
+        "tournaments": 3,
+        "gamesWon": 5,
+        "gamesDraw": 4,
         "gamesLost": 3,
-        "gamesTotal": 8,
-        "winRatio": 50,
-        "rating": 147.64422118828946
+        "gamesTotal": 12,
+        "winRatio": 58.33,
+        "rating": 159.4315593122155
       }
     },
-    "rating": 151.37323512695903,
-    "totalTournaments": 3,
-    "totalGames": 12,
-    "totalWins": 5,
-    "totalDraws": 3,
+    "rating": 162.62572822506797,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 7,
+    "totalDraws": 5,
     "totalLosses": 4,
-    "totalWinRatio": 54.17
+    "totalWinRatio": 59.38
   },
   {
     "NAF Nr": "26198",
@@ -28691,22 +28795,22 @@ const statsData = [
     "CCAA": "Apatrida",
     "yearStats": {
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 1,
-        "gamesDraw": 3,
-        "gamesLost": 4,
-        "gamesTotal": 8,
-        "winRatio": 31.25,
-        "rating": 134.09902757604397
+        "tournaments": 3,
+        "gamesWon": 2,
+        "gamesDraw": 4,
+        "gamesLost": 6,
+        "gamesTotal": 12,
+        "winRatio": 33.33,
+        "rating": 128.54561284419546
       }
     },
-    "rating": 132.43010480748225,
-    "totalTournaments": 2,
-    "totalGames": 8,
-    "totalWins": 1,
-    "totalDraws": 3,
-    "totalLosses": 4,
-    "totalWinRatio": 31.25
+    "rating": 127.24101428491348,
+    "totalTournaments": 3,
+    "totalGames": 12,
+    "totalWins": 2,
+    "totalDraws": 4,
+    "totalLosses": 6,
+    "totalWinRatio": 33.33
   },
   {
     "NAF Nr": "34138",
@@ -28736,7 +28840,7 @@ const statsData = [
     "NAF Nr": "26838",
     "NAF Name": "Samiel",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "I. Baleares",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -28862,10 +28966,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 24,
         "winRatio": 56.25,
-        "rating": 165.3109529294357
+        "rating": 165.31117617040152
       }
     },
-    "rating": 183.0513052734006,
+    "rating": 183.05151405769035,
     "totalTournaments": 21,
     "totalGames": 84,
     "totalWins": 36,
@@ -28877,7 +28981,7 @@ const statsData = [
     "NAF Nr": "36333",
     "NAF Name": "Sandwichpulpo69",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -28895,10 +28999,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 12,
         "winRatio": 50,
-        "rating": 153.85296037813643
+        "rating": 153.85272917178133
       }
     },
-    "rating": 148.72918074168172,
+    "rating": 148.7289425165301,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 9,
@@ -28973,22 +29077,22 @@ const statsData = [
         "rating": 133.971535545822
       },
       "2025": {
-        "tournaments": 5,
-        "gamesWon": 7,
-        "gamesDraw": 3,
-        "gamesLost": 10,
-        "gamesTotal": 20,
-        "winRatio": 42.5,
-        "rating": 137.16816589430096
+        "tournaments": 6,
+        "gamesWon": 8,
+        "gamesDraw": 4,
+        "gamesLost": 12,
+        "gamesTotal": 24,
+        "winRatio": 41.67,
+        "rating": 135.3732391191225
       }
     },
-    "rating": 126.99226980394054,
-    "totalTournaments": 14,
-    "totalGames": 53,
-    "totalWins": 14,
-    "totalDraws": 13,
-    "totalLosses": 26,
-    "totalWinRatio": 38.68
+    "rating": 127.39888960977626,
+    "totalTournaments": 15,
+    "totalGames": 57,
+    "totalWins": 15,
+    "totalDraws": 14,
+    "totalLosses": 28,
+    "totalWinRatio": 38.6
   },
   {
     "NAF Nr": "24452",
@@ -29003,10 +29107,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 66.67,
-        "rating": 153.93126705774026
+        "rating": 153.93098862636126
       }
     },
-    "rating": 153.88137975264866,
+    "rating": 153.88106366232455,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -29060,10 +29164,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 50,
-        "rating": 150.31948890833982
+        "rating": 150.3268070804226
       }
     },
-    "rating": 153.42354927733936,
+    "rating": 153.4303210660855,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 2,
@@ -29126,10 +29230,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 19,
         "winRatio": 65.79,
-        "rating": 170.72521895346694
+        "rating": 170.7251426818959
       }
     },
-    "rating": 183.97768206196704,
+    "rating": 183.97761976619486,
     "totalTournaments": 9,
     "totalGames": 33,
     "totalWins": 16,
@@ -29301,10 +29405,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 16,
         "winRatio": 50,
-        "rating": 147.5133363762745
+        "rating": 147.51297896939292
       }
     },
-    "rating": 162.14367151814693,
+    "rating": 162.14325443105378,
     "totalTournaments": 23,
     "totalGames": 92,
     "totalWins": 37,
@@ -29325,10 +29429,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 66.67,
-        "rating": 156.2092592436159
+        "rating": 156.2147203111772
       }
     },
-    "rating": 157.78308840243278,
+    "rating": 157.7873806284552,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -29340,7 +29444,7 @@ const statsData = [
     "NAF Nr": "24818",
     "NAF Name": "Sergio_gear",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -29439,10 +29543,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 158.85827431916175
+        "rating": 158.85845657266879
       }
     },
-    "rating": 125.9973867710238,
+    "rating": 125.99749037782621,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 2,
@@ -29499,22 +29603,22 @@ const statsData = [
         "rating": 156.08840648836332
       },
       "2025": {
-        "tournaments": 1,
-        "gamesWon": 2,
+        "tournaments": 2,
+        "gamesWon": 5,
         "gamesDraw": 1,
-        "gamesLost": 1,
-        "gamesTotal": 4,
-        "winRatio": 62.5,
-        "rating": 154.63059500130447
+        "gamesLost": 2,
+        "gamesTotal": 8,
+        "winRatio": 68.75,
+        "rating": 165.8983860665275
       }
     },
-    "rating": 160.87085211640257,
-    "totalTournaments": 2,
-    "totalGames": 8,
-    "totalWins": 4,
+    "rating": 171.52802815129866,
+    "totalTournaments": 3,
+    "totalGames": 12,
+    "totalWins": 7,
     "totalDraws": 2,
-    "totalLosses": 2,
-    "totalWinRatio": 62.5
+    "totalLosses": 3,
+    "totalWinRatio": 66.67
   },
   {
     "NAF Nr": "30537",
@@ -29604,10 +29708,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 129.71466044142474
+        "rating": 129.7100868403006
       }
     },
-    "rating": 117.8749473701449,
+    "rating": 117.87000086273187,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 0,
@@ -29619,7 +29723,7 @@ const statsData = [
     "NAF Nr": "34729",
     "NAF Name": "SheKaR",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 3,
@@ -29652,10 +29756,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 3,
         "winRatio": 33.33,
-        "rating": 147.6723234411716
+        "rating": 147.67232597320958
       }
     },
-    "rating": 147.90515104920019,
+    "rating": 147.90515264813612,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -29760,10 +29864,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 22,
         "winRatio": 59.09,
-        "rating": 169.8868773737067
+        "rating": 169.89032931865296
       }
     },
-    "rating": 212.5235570762505,
+    "rating": 212.52719702443903,
     "totalTournaments": 33,
     "totalGames": 133,
     "totalWins": 79,
@@ -29846,10 +29950,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 149.73521128850976
+        "rating": 149.73549345241332
       }
     },
-    "rating": 149.9042950919476,
+    "rating": 149.90454649795583,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -29879,10 +29983,10 @@ const statsData = [
         "gamesLost": 9,
         "gamesTotal": 20,
         "winRatio": 47.5,
-        "rating": 138.0788816031916
+        "rating": 138.07883227619004
       }
     },
-    "rating": 132.83770470100288,
+    "rating": 132.83765202207465,
     "totalTournaments": 11,
     "totalGames": 36,
     "totalWins": 16,
@@ -29939,10 +30043,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 37,
         "winRatio": 70.27,
-        "rating": 194.81814512423472
+        "rating": 194.91787735925107
       }
     },
-    "rating": 225.80339239693367,
+    "rating": 225.9076796342718,
     "totalTournaments": 44,
     "totalGames": 176,
     "totalWins": 103,
@@ -29981,10 +30085,10 @@ const statsData = [
         "gamesLost": 8,
         "gamesTotal": 12,
         "winRatio": 29.17,
-        "rating": 123.31282218738887
+        "rating": 123.31289586523205
       }
     },
-    "rating": 90.6293046382116,
+    "rating": 90.62934996494133,
     "totalTournaments": 11,
     "totalGames": 44,
     "totalWins": 9,
@@ -29996,7 +30100,7 @@ const statsData = [
     "NAF Nr": "26837",
     "NAF Name": "Sir_Isildur",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "I. Baleares",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -30165,10 +30269,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 12,
         "winRatio": 41.67,
-        "rating": 138.9296145822197
+        "rating": 138.9296145833794
       }
     },
-    "rating": 155.4420415408336,
+    "rating": 155.44204154178934,
     "totalTournaments": 20,
     "totalGames": 77,
     "totalWins": 30,
@@ -30222,21 +30326,21 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 1,
-        "gamesWon": 0,
-        "gamesDraw": 1,
-        "gamesLost": 0,
-        "gamesTotal": 1,
-        "winRatio": 50,
-        "rating": 149.83966878312003
+        "gamesWon": 1,
+        "gamesDraw": 2,
+        "gamesLost": 3,
+        "gamesTotal": 6,
+        "winRatio": 33.33,
+        "rating": 137.82963050213863
       }
     },
-    "rating": 150.00282802292662,
+    "rating": 138.0590347043291,
     "totalTournaments": 1,
-    "totalGames": 1,
-    "totalWins": 0,
-    "totalDraws": 1,
-    "totalLosses": 0,
-    "totalWinRatio": 50
+    "totalGames": 6,
+    "totalWins": 1,
+    "totalDraws": 2,
+    "totalLosses": 3,
+    "totalWinRatio": 33.33
   },
   {
     "NAF Nr": "35260",
@@ -30254,22 +30358,22 @@ const statsData = [
         "rating": 150.64212386005642
       },
       "2025": {
-        "tournaments": 2,
-        "gamesWon": 3,
-        "gamesDraw": 2,
-        "gamesLost": 3,
-        "gamesTotal": 8,
-        "winRatio": 50,
-        "rating": 151.1671961858405
+        "tournaments": 3,
+        "gamesWon": 4,
+        "gamesDraw": 3,
+        "gamesLost": 5,
+        "gamesTotal": 12,
+        "winRatio": 45.83,
+        "rating": 146.76071491304933
       }
     },
-    "rating": 156.94005326391786,
-    "totalTournaments": 3,
-    "totalGames": 12,
-    "totalWins": 4,
-    "totalDraws": 4,
-    "totalLosses": 4,
-    "totalWinRatio": 50
+    "rating": 152.6162441536305,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 5,
+    "totalDraws": 5,
+    "totalLosses": 6,
+    "totalWinRatio": 46.88
   },
   {
     "NAF Nr": "32127",
@@ -30416,10 +30520,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 148.3662299743328
+        "rating": 148.36286961501787
       }
     },
-    "rating": 141.03695163606545,
+    "rating": 141.03344972682876,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -30622,7 +30726,7 @@ const statsData = [
     "NAF Nr": "21707",
     "NAF Name": "Soycu",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -30706,10 +30810,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 155.2514497254455
+        "rating": 155.25157069087012
       }
     },
-    "rating": 155.14879938355853,
+    "rating": 155.14890584855075,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -30759,7 +30863,7 @@ const statsData = [
     "NAF Nr": "20886",
     "NAF Name": "Splinter",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -30768,10 +30872,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 100,
-        "rating": 171.59946266601378
+        "rating": 171.60581055319375
       }
     },
-    "rating": 172.65580860125522,
+    "rating": 172.66182370153254,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 4,
@@ -30797,7 +30901,7 @@ const statsData = [
     "NAF Nr": "30287",
     "NAF Name": "Spynkie",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -30911,7 +31015,7 @@ const statsData = [
     "NAF Nr": "31491",
     "NAF Name": "sr_lobo",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 2,
@@ -31018,10 +31122,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 10,
         "winRatio": 35,
-        "rating": 129.7421796698796
+        "rating": 129.73510779383474
       }
     },
-    "rating": 131.8257079133952,
+    "rating": 131.81883773600066,
     "totalTournaments": 8,
     "totalGames": 34,
     "totalWins": 10,
@@ -31065,10 +31169,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 87.5,
-        "rating": 167.96919615606296
+        "rating": 167.96904369761728
       }
     },
-    "rating": 184.43063864086818,
+    "rating": 184.4304862021196,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 8,
@@ -31298,7 +31402,7 @@ const statsData = [
     "NAF Nr": "29381",
     "NAF Name": "Tanis",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2022": {
         "tournaments": 1,
@@ -31325,10 +31429,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 12,
         "winRatio": 79.17,
-        "rating": 183.44754863257623
+        "rating": 183.44754919133987
       }
     },
-    "rating": 192.39402623188244,
+    "rating": 192.39402668175316,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 12,
@@ -31396,7 +31500,7 @@ const statsData = [
     "NAF Nr": "35970",
     "NAF Name": "Taty",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -31495,10 +31599,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 6,
         "winRatio": 33.33,
-        "rating": 141.81678953967366
+        "rating": 141.81678956997317
       }
     },
-    "rating": 165.2205089971936,
+    "rating": 165.220509024676,
     "totalTournaments": 7,
     "totalGames": 29,
     "totalWins": 16,
@@ -31534,7 +31638,7 @@ const statsData = [
     "NAF Nr": "31442",
     "NAF Name": "Teseojdm",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 11,
@@ -31552,10 +31656,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 16,
         "winRatio": 59.38,
-        "rating": 162.5406346227074
+        "rating": 162.54060064799668
       }
     },
-    "rating": 182.5240012428206,
+    "rating": 182.52396682970405,
     "totalTournaments": 15,
     "totalGames": 64,
     "totalWins": 28,
@@ -31623,10 +31727,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 75,
-        "rating": 162.08597323466182
+        "rating": 162.08578834785908
       }
     },
-    "rating": 171.48058156568567,
+    "rating": 171.48040428279526,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 5,
@@ -31638,7 +31742,7 @@ const statsData = [
     "NAF Nr": "27740",
     "NAF Name": "Tharsis",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2021": {
         "tournaments": 2,
@@ -31683,10 +31787,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 26,
         "winRatio": 59.62,
-        "rating": 165.3367641266819
+        "rating": 165.33722312107818
       }
     },
-    "rating": 162.887639950836,
+    "rating": 162.88808495517512,
     "totalTournaments": 36,
     "totalGames": 148,
     "totalWins": 49,
@@ -31731,7 +31835,7 @@ const statsData = [
     "NAF Nr": "27456",
     "NAF Name": "TheAdrix",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -31749,10 +31853,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 8,
         "winRatio": 50,
-        "rating": 148.39475373260726
+        "rating": 148.38995267819075
       }
     },
-    "rating": 153.62538127312146,
+    "rating": 153.62083956941888,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 5,
@@ -31805,10 +31909,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 17,
         "winRatio": 61.76,
-        "rating": 161.05693415269445
+        "rating": 161.0566165056996
       }
     },
-    "rating": 148.30594239845598,
+    "rating": 148.3056073264653,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 10,
@@ -31915,7 +32019,7 @@ const statsData = [
     "NAF Nr": "8601",
     "NAF Name": "Thibault",
     "Country": "Spain",
-    "CCAA": "P. Vasco",
+    "CCAA": "Euskadi",
     "yearStats": {
       "2021": {
         "tournaments": 1,
@@ -31993,10 +32097,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 17,
         "winRatio": 44.12,
-        "rating": 144.99183394959587
+        "rating": 144.99182507982354
       }
     },
-    "rating": 134.8805380195343,
+    "rating": 134.88049589000028,
     "totalTournaments": 10,
     "totalGames": 40,
     "totalWins": 9,
@@ -32032,7 +32136,7 @@ const statsData = [
     "NAF Nr": "1191",
     "NAF Name": "Thorgrum",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "yearStats": {
       "2022": {
         "tournaments": 1,
@@ -32050,10 +32154,10 @@ const statsData = [
         "gamesLost": 0,
         "gamesTotal": 4,
         "winRatio": 100,
-        "rating": 172.59751531641666
+        "rating": 172.59752079214738
       }
     },
-    "rating": 158.62259793113267,
+    "rating": 158.6226027415722,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -32065,7 +32169,7 @@ const statsData = [
     "NAF Nr": "31050",
     "NAF Name": "Thormanue",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2023": {
         "tournaments": 2,
@@ -32187,7 +32291,7 @@ const statsData = [
     "NAF Nr": "2757",
     "NAF Name": "tirkha",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {},
     "rating": 150,
     "totalTournaments": 0,
@@ -32362,7 +32466,7 @@ const statsData = [
     "NAF Nr": "22057",
     "NAF Name": "Tomisky",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -32413,10 +32517,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 25,
         "winRatio": 64,
-        "rating": 177.50860330234354
+        "rating": 177.5074376081021
       }
     },
-    "rating": 193.4073230654799,
+    "rating": 193.4061865667033,
     "totalTournaments": 20,
     "totalGames": 85,
     "totalWins": 39,
@@ -32485,7 +32589,7 @@ const statsData = [
     "NAF Nr": "39054",
     "NAF Name": "TorrijasYum",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -32554,10 +32658,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 8,
         "winRatio": 37.5,
-        "rating": 142.70813079188713
+        "rating": 142.70816871211366
       }
     },
-    "rating": 144.52990538051316,
+    "rating": 144.52988746582045,
     "totalTournaments": 35,
     "totalGames": 141,
     "totalWins": 46,
@@ -32671,10 +32775,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 152.1032025538546
+        "rating": 152.10337631359408
       }
     },
-    "rating": 154.46291643818768,
+    "rating": 154.46308001876093,
     "totalTournaments": 5,
     "totalGames": 18,
     "totalWins": 8,
@@ -32686,7 +32790,7 @@ const statsData = [
     "NAF Nr": "35817",
     "NAF Name": "Trejo",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "yearStats": {
       "2025": {
         "tournaments": 3,
@@ -32695,10 +32799,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 14,
         "winRatio": 60.71,
-        "rating": 164.69460881164173
+        "rating": 164.69051199538842
       }
     },
-    "rating": 167.2185866693119,
+    "rating": 167.2146099295804,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 7,
@@ -32748,7 +32852,7 @@ const statsData = [
     "NAF Nr": "22366",
     "NAF Name": "TRISKELBIKER",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -32766,10 +32870,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 8,
         "winRatio": 75,
-        "rating": 171.81781161984355
+        "rating": 171.81780073217217
       }
     },
-    "rating": 186.43928737946754,
+    "rating": 186.43927811597268,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 10,
@@ -32817,10 +32921,10 @@ const statsData = [
         "gamesLost": 8,
         "gamesTotal": 16,
         "winRatio": 37.5,
-        "rating": 136.14841075437332
+        "rating": 136.14872518254967
       }
     },
-    "rating": 132.97742719908354,
+    "rating": 132.9776999469753,
     "totalTournaments": 25,
     "totalGames": 98,
     "totalWins": 34,
@@ -32992,21 +33096,21 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 2,
-        "gamesWon": 0,
-        "gamesDraw": 3,
-        "gamesLost": 2,
-        "gamesTotal": 5,
-        "winRatio": 30,
-        "rating": 138.33328162024455
+        "gamesWon": 1,
+        "gamesDraw": 5,
+        "gamesLost": 4,
+        "gamesTotal": 10,
+        "winRatio": 35,
+        "rating": 137.38109278521537
       }
     },
-    "rating": 140.84088511170515,
+    "rating": 139.79551965236877,
     "totalTournaments": 2,
-    "totalGames": 5,
-    "totalWins": 0,
-    "totalDraws": 3,
-    "totalLosses": 2,
-    "totalWinRatio": 30
+    "totalGames": 10,
+    "totalWins": 1,
+    "totalDraws": 5,
+    "totalLosses": 4,
+    "totalWinRatio": 35
   },
   {
     "NAF Nr": "20837",
@@ -33021,10 +33125,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 8,
         "winRatio": 62.5,
-        "rating": 160.83855665532116
+        "rating": 160.83849500307437
       }
     },
-    "rating": 161.13492981549783,
+    "rating": 161.13486422614085,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -33060,7 +33164,7 @@ const statsData = [
     "NAF Nr": "15415",
     "NAF Name": "Txapo",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -33141,7 +33245,7 @@ const statsData = [
     "NAF Nr": "30297",
     "NAF Name": "TZero",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -33234,10 +33338,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 14,
         "winRatio": 50,
-        "rating": 152.27250800239318
+        "rating": 152.27252103522673
       }
     },
-    "rating": 163.607815239601,
+    "rating": 163.6078268576649,
     "totalTournaments": 6,
     "totalGames": 25,
     "totalWins": 11,
@@ -33290,10 +33394,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 8,
         "winRatio": 68.75,
-        "rating": 169.43970314366032
+        "rating": 169.4395022136404
       }
     },
-    "rating": 169.68017757730772,
+    "rating": 169.6799989134751,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 9,
@@ -33350,10 +33454,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 6,
         "winRatio": 66.67,
-        "rating": 159.87608269911524
+        "rating": 159.87536806041552
       }
     },
-    "rating": 222.4980075651018,
+    "rating": 222.49756058143137,
     "totalTournaments": 24,
     "totalGames": 92,
     "totalWins": 47,
@@ -33379,7 +33483,7 @@ const statsData = [
     "NAF Nr": "40480",
     "NAF Name": "Unicornio_Feliz",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2025": {
         "tournaments": 2,
@@ -33427,7 +33531,7 @@ const statsData = [
     "NAF Nr": "2940",
     "NAF Name": "uriah",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Aragón",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -33583,10 +33687,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 37.5,
-        "rating": 144.15062733551625
+        "rating": 144.15056637168175
       }
     },
-    "rating": 144.55833711776748,
+    "rating": 144.55827286620809,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -33607,10 +33711,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 16,
         "winRatio": 75,
-        "rating": 181.1635328669059
+        "rating": 181.16317666597885
       }
     },
-    "rating": 184.6492327638475,
+    "rating": 184.64883140513962,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 11,
@@ -33622,7 +33726,7 @@ const statsData = [
     "NAF Nr": "24116",
     "NAF Name": "Valpurgios",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 2,
@@ -33693,7 +33797,7 @@ const statsData = [
     "NAF Nr": "8630",
     "NAF Name": "varagh",
     "Country": "Spain",
-    "CCAA": "P. Vasco",
+    "CCAA": "Euskadi",
     "yearStats": {
       "2021": {
         "tournaments": 1,
@@ -33795,10 +33899,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 4,
         "winRatio": 12.5,
-        "rating": 133.7980386819423
+        "rating": 133.79816476612473
       }
     },
-    "rating": 134.57153118697738,
+    "rating": 134.57164111431786,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -33838,27 +33942,27 @@ const statsData = [
     "yearStats": {
       "2025": {
         "tournaments": 1,
-        "gamesWon": 0,
-        "gamesDraw": 1,
-        "gamesLost": 0,
-        "gamesTotal": 1,
-        "winRatio": 50,
-        "rating": 149.29138310978303
+        "gamesWon": 1,
+        "gamesDraw": 2,
+        "gamesLost": 3,
+        "gamesTotal": 6,
+        "winRatio": 33.33,
+        "rating": 136.86319791494557
       }
     },
-    "rating": 149.27507385447944,
+    "rating": 136.46350145296066,
     "totalTournaments": 1,
-    "totalGames": 1,
-    "totalWins": 0,
-    "totalDraws": 1,
-    "totalLosses": 0,
-    "totalWinRatio": 50
+    "totalGames": 6,
+    "totalWins": 1,
+    "totalDraws": 2,
+    "totalLosses": 3,
+    "totalWinRatio": 33.33
   },
   {
     "NAF Nr": "8021",
     "NAF Name": "Velkor",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2024": {
         "tournaments": 5,
@@ -33871,21 +33975,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 2,
-        "gamesWon": 2,
+        "gamesWon": 5,
         "gamesDraw": 4,
-        "gamesLost": 1,
-        "gamesTotal": 7,
-        "winRatio": 57.14,
-        "rating": 156.00510189695757
+        "gamesLost": 3,
+        "gamesTotal": 12,
+        "winRatio": 58.33,
+        "rating": 160.42141675691775
       }
     },
-    "rating": 186.63481392551037,
+    "rating": 186.08004268330393,
     "totalTournaments": 7,
-    "totalGames": 27,
-    "totalWins": 13,
+    "totalGames": 32,
+    "totalWins": 16,
     "totalDraws": 10,
-    "totalLosses": 4,
-    "totalWinRatio": 66.67
+    "totalLosses": 6,
+    "totalWinRatio": 65.63
   },
   {
     "NAF Nr": "25696",
@@ -33915,7 +34019,7 @@ const statsData = [
     "NAF Nr": "40285",
     "NAF Name": "Vicente",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -33981,10 +34085,10 @@ const statsData = [
         "gamesLost": 6,
         "gamesTotal": 16,
         "winRatio": 46.88,
-        "rating": 144.01882230241372
+        "rating": 144.01864419712638
       }
     },
-    "rating": 145.96781132668943,
+    "rating": 145.96754745600276,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 5,
@@ -34032,10 +34136,10 @@ const statsData = [
         "gamesLost": 13,
         "gamesTotal": 37,
         "winRatio": 54.05,
-        "rating": 142.9244373098439
+        "rating": 142.91970649549492
       }
     },
-    "rating": 152.2939092444878,
+    "rating": 152.2896049576924,
     "totalTournaments": 17,
     "totalGames": 68,
     "totalWins": 32,
@@ -34089,7 +34193,7 @@ const statsData = [
     "NAF Nr": "30300",
     "NAF Name": "Viking634",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -34122,25 +34226,25 @@ const statsData = [
     "NAF Nr": "27915",
     "NAF Name": "vikingkop",
     "Country": "Spain",
-    "CCAA": "P. Vasco",
+    "CCAA": "Euskadi",
     "yearStats": {
       "2025": {
         "tournaments": 3,
-        "gamesWon": 4,
-        "gamesDraw": 5,
-        "gamesLost": 0,
-        "gamesTotal": 9,
-        "winRatio": 72.22,
-        "rating": 170.50794827933166
+        "gamesWon": 6,
+        "gamesDraw": 7,
+        "gamesLost": 1,
+        "gamesTotal": 14,
+        "winRatio": 67.86,
+        "rating": 173.35868865342172
       }
     },
-    "rating": 172.38726213694898,
+    "rating": 176.69818739987628,
     "totalTournaments": 3,
-    "totalGames": 9,
-    "totalWins": 4,
-    "totalDraws": 5,
-    "totalLosses": 0,
-    "totalWinRatio": 72.22
+    "totalGames": 14,
+    "totalWins": 6,
+    "totalDraws": 7,
+    "totalLosses": 1,
+    "totalWinRatio": 67.86
   },
   {
     "NAF Nr": "21324",
@@ -34164,10 +34268,10 @@ const statsData = [
         "gamesLost": 4,
         "gamesTotal": 7,
         "winRatio": 28.57,
-        "rating": 133.3075984903967
+        "rating": 133.3068516554604
       }
     },
-    "rating": 129.97536841159987,
+    "rating": 129.97447148286614,
     "totalTournaments": 4,
     "totalGames": 17,
     "totalWins": 5,
@@ -34238,10 +34342,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 10,
         "winRatio": 50,
-        "rating": 151.3156141093802
+        "rating": 151.31581069298588
       }
     },
-    "rating": 176.8085802259256,
+    "rating": 176.80877200231012,
     "totalTournaments": 15,
     "totalGames": 58,
     "totalWins": 27,
@@ -34385,21 +34489,21 @@ const statsData = [
       },
       "2025": {
         "tournaments": 2,
-        "gamesWon": 2,
-        "gamesDraw": 3,
-        "gamesLost": 2,
-        "gamesTotal": 7,
-        "winRatio": 50,
-        "rating": 151.94151286825547
+        "gamesWon": 4,
+        "gamesDraw": 2,
+        "gamesLost": 6,
+        "gamesTotal": 12,
+        "winRatio": 41.67,
+        "rating": 140.01426460641687
       }
     },
-    "rating": 168.06715132891574,
+    "rating": 153.519566353683,
     "totalTournaments": 3,
-    "totalGames": 11,
-    "totalWins": 5,
-    "totalDraws": 4,
-    "totalLosses": 2,
-    "totalWinRatio": 63.64
+    "totalGames": 16,
+    "totalWins": 7,
+    "totalDraws": 3,
+    "totalLosses": 6,
+    "totalWinRatio": 53.13
   },
   {
     "NAF Nr": "21984",
@@ -34521,10 +34625,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 6,
         "winRatio": 41.67,
-        "rating": 144.84088856125308
+        "rating": 144.84089119138105
       }
     },
-    "rating": 142.23113740595392,
+    "rating": 142.2311390498915,
     "totalTournaments": 6,
     "totalGames": 21,
     "totalWins": 6,
@@ -34584,7 +34688,7 @@ const statsData = [
     "NAF Nr": "24915",
     "NAF Name": "Winter",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Asturias",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -34681,22 +34785,22 @@ const statsData = [
         "rating": 173.50740771606263
       },
       "2025": {
-        "tournaments": 4,
-        "gamesWon": 11,
-        "gamesDraw": 3,
+        "tournaments": 5,
+        "gamesWon": 14,
+        "gamesDraw": 4,
         "gamesLost": 4,
-        "gamesTotal": 18,
-        "winRatio": 69.44,
-        "rating": 172.61537558235858
+        "gamesTotal": 22,
+        "winRatio": 72.73,
+        "rating": 184.11439341097986
       }
     },
-    "rating": 190.50651613253996,
-    "totalTournaments": 9,
-    "totalGames": 42,
-    "totalWins": 19,
-    "totalDraws": 18,
+    "rating": 199.68445548800747,
+    "totalTournaments": 10,
+    "totalGames": 46,
+    "totalWins": 22,
+    "totalDraws": 19,
     "totalLosses": 5,
-    "totalWinRatio": 66.67
+    "totalWinRatio": 68.48
   },
   {
     "NAF Nr": "36797",
@@ -34711,10 +34815,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 3,
         "winRatio": 50,
-        "rating": 148.5393719299934
+        "rating": 148.53937026251504
       }
     },
-    "rating": 147.94814726674784,
+    "rating": 147.9481438970835,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -34735,10 +34839,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 14,
         "winRatio": 67.86,
-        "rating": 173.6726208180771
+        "rating": 173.67258287734242
       }
     },
-    "rating": 181.17973147586983,
+    "rating": 181.17965238122068,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 7,
@@ -34819,10 +34923,10 @@ const statsData = [
         "gamesLost": 7,
         "gamesTotal": 29,
         "winRatio": 60.34,
-        "rating": 174.83306989875544
+        "rating": 174.8300695995934
       }
     },
-    "rating": 178.79982980505275,
+    "rating": 178.79681874624035,
     "totalTournaments": 41,
     "totalGames": 166,
     "totalWins": 63,
@@ -34930,28 +35034,28 @@ const statsData = [
         "rating": 155.59964314831961
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 6,
-        "gamesDraw": 0,
-        "gamesLost": 6,
-        "gamesTotal": 12,
-        "winRatio": 50,
-        "rating": 144.53837198972795
+        "tournaments": 4,
+        "gamesWon": 8,
+        "gamesDraw": 1,
+        "gamesLost": 7,
+        "gamesTotal": 16,
+        "winRatio": 53.13,
+        "rating": 150.64492263907792
       }
     },
-    "rating": 150.85917128682078,
-    "totalTournaments": 5,
-    "totalGames": 19,
-    "totalWins": 9,
-    "totalDraws": 2,
-    "totalLosses": 8,
-    "totalWinRatio": 52.63
+    "rating": 156.81582245818058,
+    "totalTournaments": 6,
+    "totalGames": 23,
+    "totalWins": 11,
+    "totalDraws": 3,
+    "totalLosses": 9,
+    "totalWinRatio": 54.35
   },
   {
     "NAF Nr": "36258",
     "NAF Name": "Yakolito",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "yearStats": {
       "2025": {
         "tournaments": 1,
@@ -35011,22 +35115,22 @@ const statsData = [
         "rating": 147.9502562261237
       },
       "2025": {
-        "tournaments": 3,
-        "gamesWon": 7,
+        "tournaments": 4,
+        "gamesWon": 10,
         "gamesDraw": 2,
-        "gamesLost": 3,
-        "gamesTotal": 12,
-        "winRatio": 66.67,
-        "rating": 170.83105258439699
+        "gamesLost": 4,
+        "gamesTotal": 16,
+        "winRatio": 68.75,
+        "rating": 178.02919669188464
       }
     },
-    "rating": 169.598185937924,
-    "totalTournaments": 5,
-    "totalGames": 20,
-    "totalWins": 10,
+    "rating": 177.57563485535684,
+    "totalTournaments": 6,
+    "totalGames": 24,
+    "totalWins": 13,
     "totalDraws": 4,
-    "totalLosses": 6,
-    "totalWinRatio": 60
+    "totalLosses": 7,
+    "totalWinRatio": 62.5
   },
   {
     "NAF Nr": "5663",
@@ -35098,7 +35202,7 @@ const statsData = [
     "NAF Nr": "21349",
     "NAF Name": "Yohancryer",
     "Country": "Spain",
-    "CCAA": "Cataluña",
+    "CCAA": "Catalunya",
     "yearStats": {
       "2022": {
         "tournaments": 1,
@@ -35131,7 +35235,7 @@ const statsData = [
     "NAF Nr": "30893",
     "NAF Name": "Yorch",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "yearStats": {
       "2021": {
         "tournaments": 1,
@@ -35176,10 +35280,10 @@ const statsData = [
         "gamesLost": 5,
         "gamesTotal": 10,
         "winRatio": 30,
-        "rating": 133.77548045522735
+        "rating": 133.77522542988982
       }
     },
-    "rating": 149.46854330787357,
+    "rating": 149.46834190519857,
     "totalTournaments": 14,
     "totalGames": 56,
     "totalWins": 21,
@@ -35191,7 +35295,7 @@ const statsData = [
     "NAF Nr": "22825",
     "NAF Name": "yoryo1979",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 1,
@@ -35209,10 +35313,10 @@ const statsData = [
         "gamesLost": 3,
         "gamesTotal": 12,
         "winRatio": 54.17,
-        "rating": 150.4555081560173
+        "rating": 150.4555205405508
       }
     },
-    "rating": 153.82197966821994,
+    "rating": 153.8219900327918,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 6,
@@ -35413,10 +35517,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 156.92275454795362
+        "rating": 156.92249802010448
       }
     },
-    "rating": 158.20889042802796,
+    "rating": 158.20866620219553,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -35479,10 +35583,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 4,
         "winRatio": 62.5,
-        "rating": 156.3101219940094
+        "rating": 156.3103254833293
       }
     },
-    "rating": 170.51915691140638,
+    "rating": 170.51933950106812,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 6,
@@ -35608,7 +35712,7 @@ const statsData = [
     "NAF Nr": "22001",
     "NAF Name": "Zenit",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {},
     "rating": 150,
     "totalTournaments": 0,
@@ -35706,10 +35810,10 @@ const statsData = [
         "gamesLost": 2,
         "gamesTotal": 4,
         "winRatio": 50,
-        "rating": 148.44131496923538
+        "rating": 148.44110733522362
       }
     },
-    "rating": 146.84636714432625,
+    "rating": 146.84614500138014,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -35759,7 +35863,7 @@ const statsData = [
     "NAF Nr": "16121",
     "NAF Name": "Zusto",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "yearStats": {
       "2024": {
         "tournaments": 7,
@@ -35777,10 +35881,10 @@ const statsData = [
         "gamesLost": 1,
         "gamesTotal": 8,
         "winRatio": 56.25,
-        "rating": 153.8246858121197
+        "rating": 153.82220475567655
       }
     },
-    "rating": 166.7523054092371,
+    "rating": 166.75001368577722,
     "totalTournaments": 9,
     "totalGames": 40,
     "totalWins": 16,
@@ -35792,7 +35896,7 @@ const statsData = [
     "NAF Nr": "27181",
     "NAF Name": "Zweken",
     "Country": "Spain",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "yearStats": {
       "2023": {
         "tournaments": 1,
@@ -35879,10 +35983,10 @@ const statsData = [
         "gamesLost": 10,
         "gamesTotal": 41,
         "winRatio": 57.32,
-        "rating": 176.25031763415822
+        "rating": 176.2537361366957
       }
     },
-    "rating": 193.5488616864167,
+    "rating": 193.55211875792736,
     "totalTournaments": 47,
     "totalGames": 191,
     "totalWins": 86,
