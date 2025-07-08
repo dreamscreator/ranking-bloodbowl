@@ -2,6 +2,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3",
     "NAF Name": "AnthonyTBBF",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.0530718275599,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13,6 +15,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5",
     "NAF Name": "Christer",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 150.44192387762976,
     "tournaments": 1,
     "gamesWon": 2,
@@ -24,6 +28,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "25",
     "NAF Name": "neoliminal",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 151.00286154749062,
     "tournaments": 3,
     "gamesWon": 6,
@@ -35,6 +41,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "30",
     "NAF Name": "DonShula",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.0218147415722,
     "tournaments": 2,
     "gamesWon": 2,
@@ -46,6 +54,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "33",
     "NAF Name": "ggiersch",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.5956936782458,
     "tournaments": 3,
     "gamesWon": 5,
@@ -57,6 +67,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "36",
     "NAF Name": "Deathwing",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 179.35053807116108,
     "tournaments": 5,
     "gamesWon": 12,
@@ -68,6 +80,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "37",
     "NAF Name": "CyberHare",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 154.377249983272,
     "tournaments": 6,
     "gamesWon": 12,
@@ -79,6 +93,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "49",
     "NAF Name": "Tutenkharnage",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.9076830813671,
     "tournaments": 1,
     "gamesWon": 3,
@@ -90,6 +106,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "50",
     "NAF Name": "Marcus",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.89300636014502,
     "tournaments": 1,
     "gamesWon": 2,
@@ -101,6 +119,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "51",
     "NAF Name": "IanTBBF",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.9640884312656,
     "tournaments": 1,
     "gamesWon": 2,
@@ -112,6 +132,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "52",
     "NAF Name": "Mestari",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 146.4437516299069,
     "tournaments": 1,
     "gamesWon": 0,
@@ -123,6 +145,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "53",
     "NAF Name": "Ancalagon",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 176.8357935419557,
     "tournaments": 5,
     "gamesWon": 8,
@@ -134,6 +158,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "54",
     "NAF Name": "Babs",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 165.17114712893502,
     "tournaments": 2,
     "gamesWon": 6,
@@ -145,6 +171,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "55",
     "NAF Name": "wolfzell",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 154.56952020823076,
     "tournaments": 2,
     "gamesWon": 1,
@@ -156,6 +184,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "57",
     "NAF Name": "Lucy",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 158.2295064782114,
     "tournaments": 4,
     "gamesWon": 10,
@@ -167,6 +197,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "60",
     "NAF Name": "Indigo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.17216946328972,
     "tournaments": 5,
     "gamesWon": 10,
@@ -178,6 +210,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "68",
     "NAF Name": "Sputnik",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 216.13485040194806,
     "tournaments": 11,
     "gamesWon": 35,
@@ -189,6 +223,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "69",
     "NAF Name": "Venomous_Breath",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.38175379840627,
     "tournaments": 7,
     "gamesWon": 13,
@@ -200,6 +236,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "70",
     "NAF Name": "Geggster",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 179.96036812364213,
     "tournaments": 9,
     "gamesWon": 22,
@@ -211,6 +249,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "73",
     "NAF Name": "Cidervampire",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 120.99383373824475,
     "tournaments": 3,
     "gamesWon": 2,
@@ -222,6 +262,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "75",
     "NAF Name": "Ace2k00",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 158.94882990402687,
     "tournaments": 2,
     "gamesWon": 3,
@@ -233,6 +275,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "78",
     "NAF Name": "Da_Sheriff",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.4562041866554,
     "tournaments": 2,
     "gamesWon": 2,
@@ -244,6 +288,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "79",
     "NAF Name": "Andy_Christian",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 126.4822452019763,
     "tournaments": 1,
     "gamesWon": 0,
@@ -255,6 +301,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "83",
     "NAF Name": "Firebreather",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 157.20521439746364,
     "tournaments": 6,
     "gamesWon": 15,
@@ -266,6 +314,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "86",
     "NAF Name": "Zy_Nox",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 190.56092514744748,
     "tournaments": 3,
     "gamesWon": 11,
@@ -277,6 +327,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "87",
     "NAF Name": "longfang",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 187.90643503407654,
     "tournaments": 5,
     "gamesWon": 14,
@@ -288,6 +340,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "88",
     "NAF Name": "Spyke",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.13447581458203,
     "tournaments": 1,
     "gamesWon": 0,
@@ -299,6 +353,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "89",
     "NAF Name": "E_Fotherby",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.03316920731913,
     "tournaments": 1,
     "gamesWon": 1,
@@ -310,6 +366,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "91",
     "NAF Name": "Erix",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 158.33669204512776,
     "tournaments": 1,
     "gamesWon": 2,
@@ -321,6 +379,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "99",
     "NAF Name": "Trambi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 131.78273185231882,
     "tournaments": 3,
     "gamesWon": 3,
@@ -332,6 +392,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "100",
     "NAF Name": "McDeth",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 180.82487554122162,
     "tournaments": 2,
     "gamesWon": 7,
@@ -343,6 +405,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "101",
     "NAF Name": "Longshot",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 169.77518353610245,
     "tournaments": 7,
     "gamesWon": 19,
@@ -354,6 +418,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "102",
     "NAF Name": "Darkson",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 151.86396375879065,
     "tournaments": 2,
     "gamesWon": 3,
@@ -365,6 +431,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "103",
     "NAF Name": "Grumbledook",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 171.34517536074628,
     "tournaments": 5,
     "gamesWon": 11,
@@ -376,6 +444,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "104",
     "NAF Name": "Kolja_TBBF",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 170.84149435310172,
     "tournaments": 2,
     "gamesWon": 7,
@@ -387,6 +457,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "105",
     "NAF Name": "GalakStarscraper",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.94380998439175,
     "tournaments": 2,
     "gamesWon": 2,
@@ -398,6 +470,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "106",
     "NAF Name": "twist",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 142.98074104618655,
     "tournaments": 3,
     "gamesWon": 7,
@@ -409,6 +483,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "111",
     "NAF Name": "Thrud",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.0651870590387,
     "tournaments": 5,
     "gamesWon": 5,
@@ -420,6 +496,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "113",
     "NAF Name": "Da_Scum",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 173.93084171474365,
     "tournaments": 3,
     "gamesWon": 9,
@@ -431,6 +509,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "116",
     "NAF Name": "Blank_Page",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.99760030308104,
     "tournaments": 1,
     "gamesWon": 2,
@@ -442,6 +522,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "121",
     "NAF Name": "kjonesin",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 170.2450206264201,
     "tournaments": 1,
     "gamesWon": 4,
@@ -453,6 +535,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "123",
     "NAF Name": "BUD",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 180.1310120643303,
     "tournaments": 2,
     "gamesWon": 7,
@@ -464,6 +548,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "124",
     "NAF Name": "Edpannelap",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 132.3842380827309,
     "tournaments": 1,
     "gamesWon": 0,
@@ -475,6 +561,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "125",
     "NAF Name": "Yavatol",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 194.28386538594083,
     "tournaments": 3,
     "gamesWon": 11,
@@ -486,6 +574,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "126",
     "NAF Name": "dolferl",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 166.50921222851497,
     "tournaments": 5,
     "gamesWon": 11,
@@ -497,6 +587,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "127",
     "NAF Name": "Aurelius_of_Nagaryhte",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 144.69153866793317,
     "tournaments": 1,
     "gamesWon": 1,
@@ -508,6 +600,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "128",
     "NAF Name": "miloquaser",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 175.08451860708544,
     "tournaments": 6,
     "gamesWon": 15,
@@ -519,6 +613,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "129",
     "NAF Name": "jelmer",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 153.23762765912,
     "tournaments": 5,
     "gamesWon": 10,
@@ -530,6 +626,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "130",
     "NAF Name": "madhobbit",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 136.86911508627028,
     "tournaments": 5,
     "gamesWon": 9,
@@ -541,6 +639,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "131",
     "NAF Name": "wouterkuyper",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 156.64110864355493,
     "tournaments": 1,
     "gamesWon": 3,
@@ -552,6 +652,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "132",
     "NAF Name": "Blackscale",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 148.1458139084334,
     "tournaments": 2,
     "gamesWon": 3,
@@ -563,6 +665,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "133",
     "NAF Name": "RickA",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 156.63809434349275,
     "tournaments": 4,
     "gamesWon": 13,
@@ -574,6 +678,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "134",
     "NAF Name": "WGF",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 150.19905733341898,
     "tournaments": 1,
     "gamesWon": 1,
@@ -585,6 +691,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "137",
     "NAF Name": "Bluedevil",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 152.5850957460716,
     "tournaments": 3,
     "gamesWon": 10,
@@ -596,6 +704,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "138",
     "NAF Name": "Donovan",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 138.74615263381747,
     "tournaments": 5,
     "gamesWon": 9,
@@ -607,6 +717,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "139",
     "NAF Name": "Niels",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 144.5393445037939,
     "tournaments": 2,
     "gamesWon": 4,
@@ -618,6 +730,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "140",
     "NAF Name": "Dave",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 164.79785082234216,
     "tournaments": 3,
     "gamesWon": 9,
@@ -629,6 +743,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "141",
     "NAF Name": "Grotemuis",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 159.46144337423428,
     "tournaments": 5,
     "gamesWon": 10,
@@ -640,6 +756,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "142",
     "NAF Name": "grep_v",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 158.597555120642,
     "tournaments": 2,
     "gamesWon": 4,
@@ -651,6 +769,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "143",
     "NAF Name": "Redfang",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 145.31611749123317,
     "tournaments": 5,
     "gamesWon": 7,
@@ -662,6 +782,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "144",
     "NAF Name": "Norse",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.93071547886993,
     "tournaments": 6,
     "gamesWon": 17,
@@ -673,6 +795,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "145",
     "NAF Name": "Bem",
+    "CCAA": "Apatrida",
+    "Country": "Aruba",
     "rating": 143.90310603562605,
     "tournaments": 1,
     "gamesWon": 2,
@@ -684,6 +808,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "146",
     "NAF Name": "Max_Horseman",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 163.99527089949072,
     "tournaments": 5,
     "gamesWon": 12,
@@ -695,6 +821,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "147",
     "NAF Name": "Double_Skullz",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 144.10918325935648,
     "tournaments": 1,
     "gamesWon": 1,
@@ -706,6 +834,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "149",
     "NAF Name": "Podfrey",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 156.92833545552844,
     "tournaments": 5,
     "gamesWon": 9,
@@ -717,6 +847,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "150",
     "NAF Name": "Triq",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.83221871573062,
     "tournaments": 1,
     "gamesWon": 2,
@@ -728,6 +860,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "151",
     "NAF Name": "Straeten",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 180.4969381389066,
     "tournaments": 3,
     "gamesWon": 10,
@@ -739,6 +873,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "152",
     "NAF Name": "Gorbad",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 159.85060882408797,
     "tournaments": 4,
     "gamesWon": 8,
@@ -750,6 +886,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "153",
     "NAF Name": "Mole",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 150.51632586599894,
     "tournaments": 3,
     "gamesWon": 6,
@@ -761,6 +899,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "154",
     "NAF Name": "Jonny_P",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.98095793879435,
     "tournaments": 1,
     "gamesWon": 2,
@@ -772,6 +912,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "163",
     "NAF Name": "Carnage4u",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.74344522397,
     "tournaments": 1,
     "gamesWon": 3,
@@ -783,6 +925,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "166",
     "NAF Name": "liviath",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.3190330769306,
     "tournaments": 2,
     "gamesWon": 5,
@@ -794,6 +938,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "167",
     "NAF Name": "reify",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.32014227285032,
     "tournaments": 1,
     "gamesWon": 2,
@@ -805,6 +951,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "168",
     "NAF Name": "CBBakke",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.43074783319713,
     "tournaments": 1,
     "gamesWon": 2,
@@ -816,6 +964,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "170",
     "NAF Name": "Zarhan",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 158.23649127303614,
     "tournaments": 2,
     "gamesWon": 3,
@@ -827,6 +977,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "171",
     "NAF Name": "majortusk",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.32355341872966,
     "tournaments": 4,
     "gamesWon": 8,
@@ -838,6 +990,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "172",
     "NAF Name": "Tim",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 207.11298060199223,
     "tournaments": 7,
     "gamesWon": 27,
@@ -849,6 +1003,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "176",
     "NAF Name": "veron",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 157.0058590554171,
     "tournaments": 1,
     "gamesWon": 3,
@@ -860,6 +1016,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "179",
     "NAF Name": "guenne",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 133.53908713712428,
     "tournaments": 2,
     "gamesWon": 3,
@@ -871,6 +1029,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "181",
     "NAF Name": "TiMuN",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 162.91428622118482,
     "tournaments": 1,
     "gamesWon": 3,
@@ -882,6 +1042,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "182",
     "NAF Name": "Ureus",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.45408348682557,
     "tournaments": 1,
     "gamesWon": 1,
@@ -893,6 +1055,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "184",
     "NAF Name": "gonmorcas",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 143.87332574769076,
     "tournaments": 2,
     "gamesWon": 1,
@@ -904,6 +1068,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "185",
     "NAF Name": "mrinprophet",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.29241529227,
     "tournaments": 1,
     "gamesWon": 2,
@@ -915,6 +1081,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "188",
     "NAF Name": "Narkotic",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 135.98521840280364,
     "tournaments": 1,
     "gamesWon": 2,
@@ -926,6 +1094,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "190",
     "NAF Name": "GDRA",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.9815649774137,
     "tournaments": 3,
     "gamesWon": 2,
@@ -937,6 +1107,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "192",
     "NAF Name": "Poul_Piepgrass",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 166.43296906343195,
     "tournaments": 2,
     "gamesWon": 6,
@@ -948,6 +1120,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "195",
     "NAF Name": "skummy",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 180.3318122569416,
     "tournaments": 3,
     "gamesWon": 9,
@@ -959,6 +1133,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "196",
     "NAF Name": "Apedog",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.99734478332172,
     "tournaments": 2,
     "gamesWon": 3,
@@ -970,6 +1146,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "198",
     "NAF Name": "snew",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.53288325512477,
     "tournaments": 2,
     "gamesWon": 3,
@@ -981,6 +1159,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "200",
     "NAF Name": "phil",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.18520082727395,
     "tournaments": 1,
     "gamesWon": 1,
@@ -992,6 +1172,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "201",
     "NAF Name": "darthnoir",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.37334277016174,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1003,6 +1185,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "203",
     "NAF Name": "MattRobson",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.14895907777912,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1014,6 +1198,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "207",
     "NAF Name": "doc_drak",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 195.05765854398882,
     "tournaments": 8,
     "gamesWon": 17,
@@ -1025,6 +1211,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "208",
     "NAF Name": "Pyrius",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 149.02064013064023,
     "tournaments": 2,
     "gamesWon": 3,
@@ -1036,6 +1224,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "210",
     "NAF Name": "fe2mike",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 164.58800866169844,
     "tournaments": 3,
     "gamesWon": 6,
@@ -1047,6 +1237,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "211",
     "NAF Name": "Draud",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.53204308607374,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1058,6 +1250,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "212",
     "NAF Name": "Lupus",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 175.28085879548388,
     "tournaments": 9,
     "gamesWon": 18,
@@ -1069,6 +1263,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "219",
     "NAF Name": "Thadrin",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 173.2932210607992,
     "tournaments": 2,
     "gamesWon": 4,
@@ -1080,6 +1276,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "224",
     "NAF Name": "Eje",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 147.98172515316787,
     "tournaments": 3,
     "gamesWon": 5,
@@ -1091,6 +1289,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "227",
     "NAF Name": "Evilbutgood",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.4307390836219,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1102,6 +1302,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "229",
     "NAF Name": "Odium_Khan",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 144.23372898372443,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1113,6 +1315,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "230",
     "NAF Name": "lawquoter",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.75256885697016,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1124,6 +1328,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "231",
     "NAF Name": "Arkeo",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 164.94601432685283,
     "tournaments": 2,
     "gamesWon": 6,
@@ -1135,6 +1341,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "237",
     "NAF Name": "shaven_wookie",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 136.14579367799516,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1146,6 +1354,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "247",
     "NAF Name": "DangerousDave",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 168.68421912071128,
     "tournaments": 2,
     "gamesWon": 7,
@@ -1157,6 +1367,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "248",
     "NAF Name": "Melifaxis",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.57358029480926,
     "tournaments": 2,
     "gamesWon": 2,
@@ -1168,6 +1380,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "249",
     "NAF Name": "Colin",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.5431297584221,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1179,6 +1393,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "256",
     "NAF Name": "Deacon",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 166.12734515674418,
     "tournaments": 2,
     "gamesWon": 6,
@@ -1190,6 +1406,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "264",
     "NAF Name": "LouisX",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 170.3263115970178,
     "tournaments": 5,
     "gamesWon": 15,
@@ -1201,6 +1419,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "268",
     "NAF Name": "TBL",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.80726074076716,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1212,6 +1432,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "270",
     "NAF Name": "Haggislad",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.822795417663,
     "tournaments": 2,
     "gamesWon": 3,
@@ -1223,6 +1445,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "272",
     "NAF Name": "Kafre",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 146.79749186220533,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1234,6 +1458,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "283",
     "NAF Name": "Quermitt",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 153.28180599377544,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1245,6 +1471,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "285",
     "NAF Name": "DaveGee",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.97372056339813,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1256,6 +1484,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "296",
     "NAF Name": "Frank",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 165.14204556952956,
     "tournaments": 5,
     "gamesWon": 12,
@@ -1267,6 +1497,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "314",
     "NAF Name": "Tomba",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.3288031421388,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1278,6 +1510,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "327",
     "NAF Name": "Charger",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.44757854688308,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1289,6 +1523,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "329",
     "NAF Name": "Elan",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 163.9756527005234,
     "tournaments": 3,
     "gamesWon": 10,
@@ -1300,6 +1536,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "340",
     "NAF Name": "McSnaga",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 122.52161028985678,
     "tournaments": 5,
     "gamesWon": 9,
@@ -1311,6 +1549,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "341",
     "NAF Name": "Prince",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 129.04928807290113,
     "tournaments": 5,
     "gamesWon": 5,
@@ -1322,6 +1562,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "347",
     "NAF Name": "Aramil",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 141.26150044687586,
     "tournaments": 4,
     "gamesWon": 2,
@@ -1333,6 +1575,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "372",
     "NAF Name": "Maitre_tactac",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 209.09091933732708,
     "tournaments": 6,
     "gamesWon": 21,
@@ -1344,6 +1588,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "379",
     "NAF Name": "Holf003",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 187.01492169809342,
     "tournaments": 1,
     "gamesWon": 5,
@@ -1355,6 +1601,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "419",
     "NAF Name": "Arkhandzar",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 179.90635464917776,
     "tournaments": 4,
     "gamesWon": 9,
@@ -1366,6 +1614,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "436",
     "NAF Name": "Robert",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.27362944716248,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1377,6 +1627,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "438",
     "NAF Name": "nmoran",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 129.48995728225495,
     "tournaments": 2,
     "gamesWon": 1,
@@ -1388,6 +1640,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "439",
     "NAF Name": "shadow",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 185.08437275314213,
     "tournaments": 2,
     "gamesWon": 10,
@@ -1399,6 +1653,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "441",
     "NAF Name": "freckles",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.0958559629647,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1410,6 +1666,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "442",
     "NAF Name": "philyoung",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 152.51429440059735,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1421,6 +1679,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "443",
     "NAF Name": "smeborg",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 169.50274050286362,
     "tournaments": 2,
     "gamesWon": 7,
@@ -1432,6 +1692,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "448",
     "NAF Name": "Bevan",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 149.89802270527304,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1443,6 +1705,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "453",
     "NAF Name": "crazyzig",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.0872635095291,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1454,6 +1718,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "458",
     "NAF Name": "shambles",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 179.8586903096246,
     "tournaments": 1,
     "gamesWon": 6,
@@ -1465,6 +1731,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "459",
     "NAF Name": "Gornak",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 166.5179711147453,
     "tournaments": 1,
     "gamesWon": 5,
@@ -1476,6 +1744,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "460",
     "NAF Name": "Nobby",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 138.887585622085,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1487,6 +1757,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "461",
     "NAF Name": "biggy",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 126.08828139308827,
     "tournaments": 2,
     "gamesWon": 1,
@@ -1498,6 +1770,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "463",
     "NAF Name": "mhorton",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 166.95441565035264,
     "tournaments": 1,
     "gamesWon": 5,
@@ -1509,6 +1783,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "468",
     "NAF Name": "Traveller",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 151.62593200069878,
     "tournaments": 3,
     "gamesWon": 5,
@@ -1520,6 +1796,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "472",
     "NAF Name": "joker_BBBL",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 166.26714962836746,
     "tournaments": 4,
     "gamesWon": 10,
@@ -1531,6 +1809,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "493",
     "NAF Name": "Mordredd",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 190.08195725467067,
     "tournaments": 2,
     "gamesWon": 8,
@@ -1542,6 +1822,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "495",
     "NAF Name": "alakhai",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.3959754909151,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1553,6 +1835,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "519",
     "NAF Name": "vt_doogie",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.1664324330491,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1564,6 +1848,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "533",
     "NAF Name": "Spiky",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 118.8385132295443,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1575,6 +1861,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "544",
     "NAF Name": "neverdodge_BBBL",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 164.4385564078444,
     "tournaments": 2,
     "gamesWon": 7,
@@ -1586,6 +1874,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "556",
     "NAF Name": "Ben",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 189.5093793837848,
     "tournaments": 4,
     "gamesWon": 14,
@@ -1597,6 +1887,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "559",
     "NAF Name": "jaylazer",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.7763441793005,
     "tournaments": 5,
     "gamesWon": 10,
@@ -1608,6 +1900,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "567",
     "NAF Name": "Shadewe",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.14978128379926,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1619,6 +1913,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "568",
     "NAF Name": "ChrisB",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 166.92024290877973,
     "tournaments": 1,
     "gamesWon": 4,
@@ -1630,6 +1926,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "574",
     "NAF Name": "Snake_Eyes",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 144.97450405641004,
     "tournaments": 2,
     "gamesWon": 2,
@@ -1641,6 +1939,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "579",
     "NAF Name": "Adrian_Finklehelm",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 140.13584191679212,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1652,6 +1952,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "581",
     "NAF Name": "ZanzerTem",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.98237290154213,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1663,6 +1965,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "601",
     "NAF Name": "SBG",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 173.8390172786021,
     "tournaments": 2,
     "gamesWon": 8,
@@ -1674,6 +1978,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "626",
     "NAF Name": "kaboom",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.08689206283287,
     "tournaments": 3,
     "gamesWon": 4,
@@ -1685,6 +1991,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "650",
     "NAF Name": "Esrik",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 129.904934225785,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1696,6 +2004,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "652",
     "NAF Name": "Captain_Chaos",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 150.77117097966138,
     "tournaments": 5,
     "gamesWon": 14,
@@ -1707,6 +2017,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "678",
     "NAF Name": "soda",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 127.74012727399959,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1718,6 +2030,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "713",
     "NAF Name": "Fubar",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 171.43052308365392,
     "tournaments": 2,
     "gamesWon": 5,
@@ -1729,6 +2043,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "726",
     "NAF Name": "Slinky78",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 160.38974595657012,
     "tournaments": 2,
     "gamesWon": 5,
@@ -1740,6 +2056,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "750",
     "NAF Name": "Snorson",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 149.69440806721815,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1751,6 +2069,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "754",
     "NAF Name": "hawkmoon",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.2136842058094,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1762,6 +2082,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "762",
     "NAF Name": "BennyRoberts",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.78462127423285,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1773,6 +2095,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "767",
     "NAF Name": "Kungfooery",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.82545751426727,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1784,6 +2108,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "783",
     "NAF Name": "Chris",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.169692776994,
     "tournaments": 2,
     "gamesWon": 3,
@@ -1795,6 +2121,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "846",
     "NAF Name": "Have11toes",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.4563710552599,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1806,6 +2134,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "896",
     "NAF Name": "joevictory",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.81022460585675,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1817,6 +2147,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "922",
     "NAF Name": "Orange_Jews",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 147.24795048609082,
     "tournaments": 2,
     "gamesWon": 3,
@@ -1828,6 +2160,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1019",
     "NAF Name": "pastaga",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.58019414635788,
     "tournaments": 2,
     "gamesWon": 3,
@@ -1839,6 +2173,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1039",
     "NAF Name": "Bitterman",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.2654017051747,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1850,6 +2186,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1063",
     "NAF Name": "Trog",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 167.36903750655114,
     "tournaments": 1,
     "gamesWon": 4,
@@ -1861,6 +2199,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1101",
     "NAF Name": "Tommer",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 123.50203187090808,
     "tournaments": 3,
     "gamesWon": 2,
@@ -1872,6 +2212,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1102",
     "NAF Name": "K",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 142.53646477096927,
     "tournaments": 11,
     "gamesWon": 17,
@@ -1883,6 +2225,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1103",
     "NAF Name": "Tarra",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 200.257599732976,
     "tournaments": 8,
     "gamesWon": 19,
@@ -1894,6 +2238,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1104",
     "NAF Name": "baekno",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 141.77446742310042,
     "tournaments": 4,
     "gamesWon": 7,
@@ -1905,6 +2251,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1105",
     "NAF Name": "Emyr18",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 135.45996617039174,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1916,6 +2264,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1109",
     "NAF Name": "Corvidius",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 157.63911934018563,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1927,6 +2277,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1112",
     "NAF Name": "Neramoor",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 151.76889862738386,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1938,6 +2290,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1115",
     "NAF Name": "Foxen",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 138.619600896492,
     "tournaments": 2,
     "gamesWon": 2,
@@ -1949,6 +2303,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1116",
     "NAF Name": "Zodiac",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 153.44500745159013,
     "tournaments": 3,
     "gamesWon": 5,
@@ -1960,6 +2316,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1117",
     "NAF Name": "N_Key",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 105.21436694020196,
     "tournaments": 4,
     "gamesWon": 1,
@@ -1971,6 +2329,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1123",
     "NAF Name": "Shaniepoo1",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.68646119437938,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1982,6 +2342,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1124",
     "NAF Name": "Al_the_Trowel",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 118.19323644910081,
     "tournaments": 3,
     "gamesWon": 4,
@@ -1993,6 +2355,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1125",
     "NAF Name": "Doubleskulls",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 212.07402010294638,
     "tournaments": 7,
     "gamesWon": 20,
@@ -2004,6 +2368,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1126",
     "NAF Name": "Long_Bomb",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 156.31089962415007,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2015,6 +2381,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1127",
     "NAF Name": "Relborn",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 151.90097989623195,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2026,6 +2394,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1128",
     "NAF Name": "Tasca",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.10059777195818,
     "tournaments": 2,
     "gamesWon": 3,
@@ -2037,6 +2407,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1129",
     "NAF Name": "Dazak",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.33397825545777,
     "tournaments": 2,
     "gamesWon": 3,
@@ -2048,6 +2420,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1132",
     "NAF Name": "cjtaylor_uk",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 164.0072252495796,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2059,6 +2433,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1133",
     "NAF Name": "Butane",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.94850495999682,
     "tournaments": 2,
     "gamesWon": 1,
@@ -2070,6 +2446,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1134",
     "NAF Name": "EvilGit",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.72776053443965,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2081,6 +2459,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1135",
     "NAF Name": "Blitzwing",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 209.58039869219445,
     "tournaments": 6,
     "gamesWon": 21,
@@ -2092,6 +2472,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1137",
     "NAF Name": "Coldark",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 164.6224981990116,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2103,6 +2485,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1138",
     "NAF Name": "Bite_bite",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.11715850104542,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2114,6 +2498,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1143",
     "NAF Name": "mawph",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 157.04402418875142,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2125,6 +2511,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1144",
     "NAF Name": "ITCHOU",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 160.82445397144292,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2136,6 +2524,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1147",
     "NAF Name": "Dan_Titan",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 168.85231091812173,
     "tournaments": 9,
     "gamesWon": 18,
@@ -2147,6 +2537,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1149",
     "NAF Name": "lowsman",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 171.77605066223276,
     "tournaments": 6,
     "gamesWon": 15,
@@ -2158,6 +2550,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1150",
     "NAF Name": "Chaostic",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.03229061261968,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2169,6 +2563,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1152",
     "NAF Name": "Madzit",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.25860375555018,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2180,6 +2576,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1153",
     "NAF Name": "Stikki1",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 157.50582612117628,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2191,6 +2589,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1156",
     "NAF Name": "ManticoreRich",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.59703891139796,
     "tournaments": 1,
     "gamesWon": 0,
@@ -2202,6 +2602,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1157",
     "NAF Name": "JJB",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 162.4661503908862,
     "tournaments": 1,
     "gamesWon": 4,
@@ -2213,6 +2615,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1163",
     "NAF Name": "Mike_Pye",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.67504970429306,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2224,6 +2628,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1183",
     "NAF Name": "Fondu77",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 163.88172258259098,
     "tournaments": 3,
     "gamesWon": 5,
@@ -2235,6 +2641,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1184",
     "NAF Name": "huanquayle",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 157.48658980431358,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2246,6 +2654,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1191",
     "NAF Name": "thorgrum",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 151.8615519869732,
     "tournaments": 2,
     "gamesWon": 2,
@@ -2257,6 +2667,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1199",
     "NAF Name": "Phoenix",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 152.92627432449822,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2268,6 +2680,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1219",
     "NAF Name": "Kekskommander",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 169.81296776971215,
     "tournaments": 4,
     "gamesWon": 9,
@@ -2279,6 +2693,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1256",
     "NAF Name": "kurro",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.65685424949237,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2290,6 +2706,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1295",
     "NAF Name": "Kyrie",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 118.50035304027203,
     "tournaments": 4,
     "gamesWon": 0,
@@ -2301,6 +2719,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1315",
     "NAF Name": "Xtreme",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.872370298069,
     "tournaments": 4,
     "gamesWon": 7,
@@ -2312,6 +2732,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1347",
     "NAF Name": "Garil",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 187.8481894152354,
     "tournaments": 5,
     "gamesWon": 12,
@@ -2323,6 +2745,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1359",
     "NAF Name": "hoomin_erra",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 163.51463855455026,
     "tournaments": 8,
     "gamesWon": 18,
@@ -2334,6 +2758,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1368",
     "NAF Name": "GriffOberwald69",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.1028393058251,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2345,6 +2771,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1420",
     "NAF Name": "Torpor",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.75918713400497,
     "tournaments": 3,
     "gamesWon": 4,
@@ -2356,6 +2784,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1430",
     "NAF Name": "squighunter",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 160.79292100679598,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2367,6 +2797,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1501",
     "NAF Name": "Bneus",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 161.11359384453158,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2378,6 +2810,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1502",
     "NAF Name": "CassusLebna",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 143.64360942584923,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2389,6 +2823,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1503",
     "NAF Name": "Mad_Man_Of_Prague",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 139.56413522352983,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2400,6 +2836,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1507",
     "NAF Name": "Six_Foot_Dwarf",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 163.52909689516662,
     "tournaments": 2,
     "gamesWon": 7,
@@ -2411,6 +2849,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1524",
     "NAF Name": "El_Condor",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 169.49574152245458,
     "tournaments": 6,
     "gamesWon": 17,
@@ -2422,6 +2862,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1538",
     "NAF Name": "Valen",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 152.87093641167445,
     "tournaments": 3,
     "gamesWon": 6,
@@ -2433,6 +2875,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1546",
     "NAF Name": "raggabagga",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.4150002437421,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2444,6 +2888,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1554",
     "NAF Name": "peikko",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 163.5946932554893,
     "tournaments": 1,
     "gamesWon": 5,
@@ -2455,6 +2901,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1616",
     "NAF Name": "MinorDread",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 143.34315036841704,
     "tournaments": 1,
     "gamesWon": 0,
@@ -2466,6 +2914,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1620",
     "NAF Name": "thedragon",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.11693291432837,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2477,6 +2927,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1621",
     "NAF Name": "vmcat",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 128.20531793912323,
     "tournaments": 1,
     "gamesWon": 0,
@@ -2488,6 +2940,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1654",
     "NAF Name": "Hoshi_Komi",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 198.69418209141338,
     "tournaments": 6,
     "gamesWon": 17,
@@ -2499,6 +2953,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1713",
     "NAF Name": "littlemute",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 160.8244775436365,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2510,6 +2966,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1724",
     "NAF Name": "weerdo",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 137.98003223633998,
     "tournaments": 5,
     "gamesWon": 8,
@@ -2521,6 +2979,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1761",
     "NAF Name": "dwarfcoach",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 167.35382206309714,
     "tournaments": 6,
     "gamesWon": 14,
@@ -2532,6 +2992,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1814",
     "NAF Name": "Old_Man_Monkey",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 171.94965645203985,
     "tournaments": 7,
     "gamesWon": 15,
@@ -2543,6 +3005,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1879",
     "NAF Name": "orkfrau",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 134.89037760560097,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2554,6 +3018,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1885",
     "NAF Name": "OZjesting",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 162.18547328482674,
     "tournaments": 4,
     "gamesWon": 12,
@@ -2565,6 +3031,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1888",
     "NAF Name": "anderson",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.79977542574372,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2576,6 +3044,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1890",
     "NAF Name": "JoeKano",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 143.02561583604637,
     "tournaments": 3,
     "gamesWon": 5,
@@ -2587,6 +3057,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1991",
     "NAF Name": "Apostol",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 142.56667690194934,
     "tournaments": 5,
     "gamesWon": 3,
@@ -2598,6 +3070,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "1999",
     "NAF Name": "Justin_Kase",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.88372630146725,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2609,6 +3083,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2024",
     "NAF Name": "vegeta021",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.74573161996935,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2620,6 +3096,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2085",
     "NAF Name": "Jordellfb",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.9171065934828,
     "tournaments": 2,
     "gamesWon": 4,
@@ -2631,6 +3109,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2164",
     "NAF Name": "Krimsoni",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 146.44619989445854,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2642,6 +3122,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2193",
     "NAF Name": "OdoGoodgrubb",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.99123732709262,
     "tournaments": 1,
     "gamesWon": 0,
@@ -2653,6 +3135,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2233",
     "NAF Name": "Sjapie",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 136.6869604628006,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2664,6 +3148,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2234",
     "NAF Name": "BrassSam",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 157.58784786316923,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2675,6 +3161,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2236",
     "NAF Name": "Alexe",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.77860082877658,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2686,6 +3174,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2269",
     "NAF Name": "dalakenra",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 155.43472598813605,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2697,6 +3187,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2271",
     "NAF Name": "frostie",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.86901167631135,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2708,6 +3200,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2329",
     "NAF Name": "SkinkFury",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.52883237911553,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2719,6 +3213,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2344",
     "NAF Name": "Grasshopper",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.2363954255074,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2730,6 +3226,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2351",
     "NAF Name": "noodle1978uk",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.91952805847697,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2741,6 +3239,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2372",
     "NAF Name": "olaf",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 177.09568061342668,
     "tournaments": 5,
     "gamesWon": 13,
@@ -2752,6 +3252,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2402",
     "NAF Name": "superjay",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 144.76190310651072,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2763,6 +3265,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2412",
     "NAF Name": "fnord23",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 154.76063430251662,
     "tournaments": 1,
     "gamesWon": 4,
@@ -2774,6 +3278,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2420",
     "NAF Name": "Hangus",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.64215571491403,
     "tournaments": 5,
     "gamesWon": 7,
@@ -2785,6 +3291,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2433",
     "NAF Name": "Airus",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 144.25150411474328,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2796,6 +3304,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2441",
     "NAF Name": "coffin_dodger",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.04043559462698,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2807,6 +3317,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2443",
     "NAF Name": "Ull",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 134.5850452817659,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2818,6 +3330,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2456",
     "NAF Name": "MrSmith",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.23550058764394,
     "tournaments": 1,
     "gamesWon": 0,
@@ -2829,6 +3343,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2459",
     "NAF Name": "kaboom",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.49252774426452,
     "tournaments": 1,
     "gamesWon": 0,
@@ -2840,6 +3356,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2460",
     "NAF Name": "KaduC",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 158.16341338535608,
     "tournaments": 6,
     "gamesWon": 13,
@@ -2851,6 +3369,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2463",
     "NAF Name": "groron",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 167.82906197050374,
     "tournaments": 4,
     "gamesWon": 7,
@@ -2862,6 +3382,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2464",
     "NAF Name": "Sladmortis",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 189.55078496106975,
     "tournaments": 4,
     "gamesWon": 14,
@@ -2873,6 +3395,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2499",
     "NAF Name": "Pregal",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 161.22434796228777,
     "tournaments": 2,
     "gamesWon": 7,
@@ -2884,6 +3408,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2502",
     "NAF Name": "Senard",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.9393278264101,
     "tournaments": 8,
     "gamesWon": 11,
@@ -2895,6 +3421,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2504",
     "NAF Name": "Eban",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 165.91968629801588,
     "tournaments": 5,
     "gamesWon": 7,
@@ -2906,6 +3434,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2508",
     "NAF Name": "Tutatis",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 166.4477736377663,
     "tournaments": 4,
     "gamesWon": 6,
@@ -2917,6 +3447,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2512",
     "NAF Name": "Javidioz",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 165.46438506189813,
     "tournaments": 3,
     "gamesWon": 6,
@@ -2928,6 +3460,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2514",
     "NAF Name": "Cocacola",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 142.98192545236918,
     "tournaments": 1,
     "gamesWon": 0,
@@ -2939,6 +3473,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2515",
     "NAF Name": "Yeti",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.79330885837737,
     "tournaments": 7,
     "gamesWon": 6,
@@ -2950,6 +3486,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2516",
     "NAF Name": "Enologo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.0974224200855,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2961,6 +3499,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2517",
     "NAF Name": "Durin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.2373843406912,
     "tournaments": 2,
     "gamesWon": 3,
@@ -2972,6 +3512,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2519",
     "NAF Name": "obeliz",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 159.1851689456339,
     "tournaments": 7,
     "gamesWon": 10,
@@ -2983,6 +3525,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2521",
     "NAF Name": "Gonzo_the_Loon",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 151.7550753021423,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2994,6 +3538,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2529",
     "NAF Name": "lackey",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 136.76648808469525,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3005,6 +3551,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2557",
     "NAF Name": "devilstree",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 135.6341498849386,
     "tournaments": 2,
     "gamesWon": 0,
@@ -3016,6 +3564,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2591",
     "NAF Name": "Tojurub",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 147.39628235277587,
     "tournaments": 8,
     "gamesWon": 17,
@@ -3027,6 +3577,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2602",
     "NAF Name": "Nocstar",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 133.0609485845819,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3038,6 +3590,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2654",
     "NAF Name": "Vesto",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 153.46416329473755,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3049,6 +3603,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2686",
     "NAF Name": "Fierro_Elfo_Oscuro",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 148.080486723564,
     "tournaments": 4,
     "gamesWon": 5,
@@ -3060,6 +3616,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2705",
     "NAF Name": "Ithilkir",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.29189380553927,
     "tournaments": 2,
     "gamesWon": 5,
@@ -3071,6 +3629,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2710",
     "NAF Name": "Benji",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 127.34089507071734,
     "tournaments": 6,
     "gamesWon": 7,
@@ -3082,6 +3642,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2714",
     "NAF Name": "Schwifty",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 103.45547507653522,
     "tournaments": 6,
     "gamesWon": 8,
@@ -3093,6 +3655,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2717",
     "NAF Name": "Vindicta_Mickey",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 137.8179747144205,
     "tournaments": 2,
     "gamesWon": 3,
@@ -3104,6 +3668,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2719",
     "NAF Name": "Anak",
+    "CCAA": "Apatrida",
+    "Country": "Indonesia",
     "rating": 138.58245097670124,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3115,6 +3681,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2730",
     "NAF Name": "Juke",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 139.00769174958475,
     "tournaments": 2,
     "gamesWon": 3,
@@ -3126,6 +3694,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2732",
     "NAF Name": "Fnord",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.2300862258633,
     "tournaments": 2,
     "gamesWon": 5,
@@ -3137,6 +3707,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2736",
     "NAF Name": "Sharky2k",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 162.3228797343274,
     "tournaments": 5,
     "gamesWon": 10,
@@ -3148,6 +3720,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2738",
     "NAF Name": "Pyellottjr",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 133.71121776640993,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3159,6 +3733,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2739",
     "NAF Name": "Pyellott",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 148.92334446301066,
     "tournaments": 2,
     "gamesWon": 4,
@@ -3170,6 +3746,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2745",
     "NAF Name": "Opus",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.24803084323176,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3181,6 +3759,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2746",
     "NAF Name": "Xeterog",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 158.5117441771268,
     "tournaments": 2,
     "gamesWon": 4,
@@ -3192,6 +3772,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2747",
     "NAF Name": "Rash",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.24265974508037,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3203,6 +3785,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2748",
     "NAF Name": "MadMan70",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.66751055449657,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3214,6 +3798,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2755",
     "NAF Name": "Zinak",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.01388336722144,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3225,6 +3811,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2757",
     "NAF Name": "tirkha",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 143.98443180817222,
     "tournaments": 2,
     "gamesWon": 1,
@@ -3236,6 +3824,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2781",
     "NAF Name": "The_Captain",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 150.4481349344661,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3247,6 +3837,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2785",
     "NAF Name": "Jokaero",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 174.11743125434646,
     "tournaments": 1,
     "gamesWon": 5,
@@ -3258,6 +3850,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2795",
     "NAF Name": "Planlos",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 155.7852620492523,
     "tournaments": 4,
     "gamesWon": 8,
@@ -3269,6 +3863,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2796",
     "NAF Name": "J.Bugmann",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 155.80970984256768,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3280,6 +3876,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2797",
     "NAF Name": "Hál",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 154.16891194594174,
     "tournaments": 5,
     "gamesWon": 10,
@@ -3291,6 +3889,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2798",
     "NAF Name": "Glorian_Underhill",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 206.61715409387895,
     "tournaments": 5,
     "gamesWon": 16,
@@ -3302,6 +3902,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2800",
     "NAF Name": "Muadib",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 148.28118162081154,
     "tournaments": 5,
     "gamesWon": 8,
@@ -3313,6 +3915,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2802",
     "NAF Name": "Utak",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 181.7184653247131,
     "tournaments": 4,
     "gamesWon": 11,
@@ -3324,6 +3928,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2803",
     "NAF Name": "Mindless",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 158.7838493455505,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3335,6 +3941,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2804",
     "NAF Name": "Trantor",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 155.96545003379273,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3346,6 +3954,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2805",
     "NAF Name": "Flynn",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 133.47773217136108,
     "tournaments": 2,
     "gamesWon": 1,
@@ -3357,6 +3967,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2806",
     "NAF Name": "Mad_Mike",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 178.97561057714947,
     "tournaments": 5,
     "gamesWon": 12,
@@ -3368,6 +3980,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2808",
     "NAF Name": "Miko",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 148.9737644046914,
     "tournaments": 4,
     "gamesWon": 8,
@@ -3379,6 +3993,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2809",
     "NAF Name": "Altbiertrinker",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 120.13041918185041,
     "tournaments": 3,
     "gamesWon": 2,
@@ -3390,6 +4006,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2810",
     "NAF Name": "JOD Drop",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 131.63143563898728,
     "tournaments": 3,
     "gamesWon": 3,
@@ -3401,6 +4019,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2819",
     "NAF Name": "Teambloodyhorns",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.74019488039386,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3412,6 +4032,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2845",
     "NAF Name": "malki",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.4924402007206,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3423,6 +4045,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2852",
     "NAF Name": "40KVet",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 139.81662857659555,
     "tournaments": 2,
     "gamesWon": 2,
@@ -3434,6 +4058,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2854",
     "NAF Name": "Clan_Skaven",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 135.05006469672088,
     "tournaments": 4,
     "gamesWon": 5,
@@ -3445,6 +4071,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2870",
     "NAF Name": "Lycos",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 174.8866371256015,
     "tournaments": 5,
     "gamesWon": 15,
@@ -3456,6 +4084,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2899",
     "NAF Name": "cataphract",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 151.38367575761905,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3467,6 +4097,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2907",
     "NAF Name": "Sir",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 157.9867989232207,
     "tournaments": 2,
     "gamesWon": 4,
@@ -3478,6 +4110,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2909",
     "NAF Name": "Katti",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 131.6271803986337,
     "tournaments": 2,
     "gamesWon": 2,
@@ -3489,6 +4123,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2910",
     "NAF Name": "Muck",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 143.88296174365775,
     "tournaments": 2,
     "gamesWon": 2,
@@ -3500,6 +4136,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2912",
     "NAF Name": "MAX",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 142.00132162759246,
     "tournaments": 3,
     "gamesWon": 2,
@@ -3511,6 +4149,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2913",
     "NAF Name": "Kheldar",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 145.05986602627345,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3522,6 +4162,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2914",
     "NAF Name": "Copper",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 151.95785337488263,
     "tournaments": 2,
     "gamesWon": 4,
@@ -3533,6 +4175,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2916",
     "NAF Name": "Willi",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 153.81892337580157,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3544,6 +4188,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2925",
     "NAF Name": "Dark_Duke",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 140.81444617300878,
     "tournaments": 2,
     "gamesWon": 2,
@@ -3555,6 +4201,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2929",
     "NAF Name": "TanteKaethe",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 132.9604064996021,
     "tournaments": 2,
     "gamesWon": 2,
@@ -3566,6 +4214,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2940",
     "NAF Name": "Uriah",
+    "CCAA": "Aragón",
+    "Country": "Spain",
     "rating": 161.1246526842012,
     "tournaments": 4,
     "gamesWon": 6,
@@ -3577,6 +4227,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2949",
     "NAF Name": "elonti",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 128.33172854891737,
     "tournaments": 3,
     "gamesWon": 3,
@@ -3588,6 +4240,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2973",
     "NAF Name": "TFritz",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 149.1836296115846,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3599,6 +4253,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2974",
     "NAF Name": "Mick Moon",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 174.06948850497392,
     "tournaments": 2,
     "gamesWon": 6,
@@ -3610,6 +4266,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "2975",
     "NAF Name": "Doc Tito",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 149.96944807497553,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3621,6 +4279,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3020",
     "NAF Name": "Ice_phoenix",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 146.98430022877554,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3632,6 +4292,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3042",
     "NAF Name": "Scarpo",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 144.41552510736616,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3643,6 +4305,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3166",
     "NAF Name": "squatront",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.16306860723242,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3654,6 +4318,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3273",
     "NAF Name": "Peste",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 141.41721231877838,
     "tournaments": 3,
     "gamesWon": 2,
@@ -3665,6 +4331,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3276",
     "NAF Name": "rozen",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 145.25350878434168,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3676,6 +4344,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3277",
     "NAF Name": "ShadowMik",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 121.11213868227179,
     "tournaments": 2,
     "gamesWon": 3,
@@ -3687,6 +4357,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3278",
     "NAF Name": "RIPNEI",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 160.16331002630082,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3698,6 +4370,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3279",
     "NAF Name": "anthrax",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 143.38103845404183,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3709,6 +4383,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3281",
     "NAF Name": "Sharkan",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 159.95485502961566,
     "tournaments": 1,
     "gamesWon": 4,
@@ -3720,6 +4396,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3289",
     "NAF Name": "Frost",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 173.8949524535051,
     "tournaments": 4,
     "gamesWon": 7,
@@ -3731,6 +4409,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3290",
     "NAF Name": "barry",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 161.24914230174656,
     "tournaments": 3,
     "gamesWon": 3,
@@ -3742,6 +4422,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3291",
     "NAF Name": "Baley",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.53111027895483,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3753,6 +4435,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3293",
     "NAF Name": "Nem",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 135.49063260995015,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3764,6 +4448,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3294",
     "NAF Name": "SirMayans",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 153.82860922069025,
     "tournaments": 5,
     "gamesWon": 6,
@@ -3775,6 +4461,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3296",
     "NAF Name": "Sebas",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.6514907442972,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3786,6 +4474,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3298",
     "NAF Name": "draude",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 159.22619922093676,
     "tournaments": 4,
     "gamesWon": 7,
@@ -3797,6 +4487,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3299",
     "NAF Name": "skarsnik",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.21254198138607,
     "tournaments": 2,
     "gamesWon": 1,
@@ -3808,6 +4500,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3300",
     "NAF Name": "badmoon",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 154.52880450423098,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3819,6 +4513,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3302",
     "NAF Name": "shumy",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 129.79225177609462,
     "tournaments": 3,
     "gamesWon": 1,
@@ -3830,6 +4526,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3354",
     "NAF Name": "ForceCommander",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.04583297303728,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3841,6 +4539,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3356",
     "NAF Name": "El_Verde",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 140.779086374601,
     "tournaments": 3,
     "gamesWon": 4,
@@ -3852,6 +4552,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3398",
     "NAF Name": "Tatxen",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 152.7461108547996,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3863,6 +4565,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3407",
     "NAF Name": "GreenrockRaiders",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.1049039754208,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3874,6 +4578,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3408",
     "NAF Name": "Zeeboub",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.80625916573646,
     "tournaments": 5,
     "gamesWon": 11,
@@ -3885,6 +4591,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3409",
     "NAF Name": "Kool",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.0496658491678,
     "tournaments": 5,
     "gamesWon": 10,
@@ -3896,6 +4604,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3410",
     "NAF Name": "WompRat35",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.78521465186515,
     "tournaments": 2,
     "gamesWon": 2,
@@ -3907,6 +4617,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3413",
     "NAF Name": "covertfun",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 137.9894523479835,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3918,6 +4630,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3431",
     "NAF Name": "Sr__Fran",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 176.6665386781075,
     "tournaments": 4,
     "gamesWon": 9,
@@ -3929,6 +4643,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3440",
     "NAF Name": "sftone",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.84414664022924,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3940,6 +4656,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3452",
     "NAF Name": "Sygtrigger",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 139.91790121085538,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3951,6 +4669,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3453",
     "NAF Name": "Vincyeyes",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 166.12526100396013,
     "tournaments": 1,
     "gamesWon": 4,
@@ -3962,6 +4682,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3454",
     "NAF Name": "VBZ",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 154.4067996601075,
     "tournaments": 2,
     "gamesWon": 4,
@@ -3973,6 +4695,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3455",
     "NAF Name": "LordOfTheHorde",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 134.11114231877357,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3984,6 +4708,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3456",
     "NAF Name": "Nova",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 137.74906145763075,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3995,6 +4721,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3519",
     "NAF Name": "chilly",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.19400143969295,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4006,6 +4734,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3521",
     "NAF Name": "Meurte",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 143.95543672956816,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4017,6 +4747,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3528",
     "NAF Name": "Roller",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 184.48185461723304,
     "tournaments": 6,
     "gamesWon": 10,
@@ -4028,6 +4760,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3530",
     "NAF Name": "Rootsman",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 180.40744510094234,
     "tournaments": 6,
     "gamesWon": 12,
@@ -4039,6 +4773,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3531",
     "NAF Name": "Diogen",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 152.16187849696456,
     "tournaments": 4,
     "gamesWon": 7,
@@ -4050,6 +4786,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3532",
     "NAF Name": "Mistery",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 162.59777989264802,
     "tournaments": 1,
     "gamesWon": 4,
@@ -4061,6 +4799,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3533",
     "NAF Name": "Farina",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 200.1436694698317,
     "tournaments": 4,
     "gamesWon": 11,
@@ -4072,6 +4812,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3534",
     "NAF Name": "Matron de Vil",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 164.4679826009342,
     "tournaments": 2,
     "gamesWon": 7,
@@ -4083,6 +4825,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3539",
     "NAF Name": "Orin",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 136.89817685777518,
     "tournaments": 3,
     "gamesWon": 5,
@@ -4094,6 +4838,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3549",
     "NAF Name": "Hunk",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 145.2933551350257,
     "tournaments": 1,
     "gamesWon": 0,
@@ -4105,6 +4851,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3564",
     "NAF Name": "Beppe",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 167.35746537852316,
     "tournaments": 3,
     "gamesWon": 4,
@@ -4116,6 +4864,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3585",
     "NAF Name": "aleha",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 149.70373894470723,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4127,6 +4877,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3587",
     "NAF Name": "Megaleif",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 154.90744704898657,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4138,6 +4890,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3588",
     "NAF Name": "siscor",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 124.15769852219374,
     "tournaments": 6,
     "gamesWon": 6,
@@ -4149,6 +4903,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3598",
     "NAF Name": "Djengis_kahn",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 104.06443082450147,
     "tournaments": 3,
     "gamesWon": 2,
@@ -4160,6 +4916,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3599",
     "NAF Name": "Nighthawk",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 143.02732194957815,
     "tournaments": 2,
     "gamesWon": 3,
@@ -4171,6 +4929,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3615",
     "NAF Name": "Wightlord",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 156.93276472740996,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4182,6 +4942,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3623",
     "NAF Name": "battlepuppy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 132.2570079673328,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4193,6 +4955,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3632",
     "NAF Name": "LegendPOW",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 164.21806335915397,
     "tournaments": 2,
     "gamesWon": 3,
@@ -4204,6 +4968,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3681",
     "NAF Name": "Honeycomb_Kid",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 160.5861761560345,
     "tournaments": 2,
     "gamesWon": 5,
@@ -4215,6 +4981,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3706",
     "NAF Name": "Ferdinand",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 134.67382888522286,
     "tournaments": 2,
     "gamesWon": 1,
@@ -4226,6 +4994,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3709",
     "NAF Name": "howlinggriffon",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.56617025180051,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4237,6 +5007,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3726",
     "NAF Name": "Kevin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 148.80554976946124,
     "tournaments": 3,
     "gamesWon": 3,
@@ -4248,6 +5020,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3750",
     "NAF Name": "PunisherCed",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 136.28239375179783,
     "tournaments": 5,
     "gamesWon": 6,
@@ -4259,6 +5033,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3790",
     "NAF Name": "Galis",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.85192426554357,
     "tournaments": 4,
     "gamesWon": 5,
@@ -4270,6 +5046,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3796",
     "NAF Name": "Emi78",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 135.16988799925602,
     "tournaments": 2,
     "gamesWon": 1,
@@ -4281,6 +5059,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3799",
     "NAF Name": "Hamster_Boy",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 129.81920005541568,
     "tournaments": 1,
     "gamesWon": 0,
@@ -4292,6 +5072,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3815",
     "NAF Name": "punishertonio",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.39632274816478,
     "tournaments": 3,
     "gamesWon": 4,
@@ -4303,6 +5085,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3823",
     "NAF Name": "Giraffe",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 163.24549305999787,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4314,6 +5098,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3834",
     "NAF Name": "bengtslaanesh",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 145.68172382217975,
     "tournaments": 1,
     "gamesWon": 0,
@@ -4325,6 +5111,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3836",
     "NAF Name": "CLAUCEL",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.21019626383367,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4336,6 +5124,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3847",
     "NAF Name": "Skeelo",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.50680691090813,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4347,6 +5137,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3874",
     "NAF Name": "Kithor",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 192.1752598412159,
     "tournaments": 7,
     "gamesWon": 19,
@@ -4358,6 +5150,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3882",
     "NAF Name": "LordCruSel",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.0495323796872,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4369,6 +5163,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3892",
     "NAF Name": "DonWaldorf",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 126.12247512695095,
     "tournaments": 4,
     "gamesWon": 4,
@@ -4380,6 +5176,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3899",
     "NAF Name": "P_Chan",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.9212103206866,
     "tournaments": 2,
     "gamesWon": 1,
@@ -4391,6 +5189,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3900",
     "NAF Name": "Manol13",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.88977454490743,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4402,6 +5202,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3901",
     "NAF Name": "Idonek",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 147.72174361030534,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4413,6 +5215,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3902",
     "NAF Name": "Azaghal_es",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 186.99799612396683,
     "tournaments": 8,
     "gamesWon": 18,
@@ -4424,6 +5228,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3903",
     "NAF Name": "DarthBLU",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 162.49905037666778,
     "tournaments": 7,
     "gamesWon": 10,
@@ -4435,6 +5241,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3904",
     "NAF Name": "MUKITAURO",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.89117378903387,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4446,6 +5254,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3905",
     "NAF Name": "Popy",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 177.74033581881525,
     "tournaments": 5,
     "gamesWon": 10,
@@ -4457,6 +5267,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3909",
     "NAF Name": "punishergrim",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 126.21404389492908,
     "tournaments": 5,
     "gamesWon": 5,
@@ -4468,6 +5280,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3911",
     "NAF Name": "lukestrotz",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.97343676465556,
     "tournaments": 1,
     "gamesWon": 0,
@@ -4479,6 +5293,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3934",
     "NAF Name": "Shoggoth",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.63584798207086,
     "tournaments": 1,
     "gamesWon": 0,
@@ -4490,6 +5306,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3961",
     "NAF Name": "DarkViper",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 160.46410614076478,
     "tournaments": 2,
     "gamesWon": 7,
@@ -4501,6 +5319,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3966",
     "NAF Name": "TuernRedvenom",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 175.66385086583574,
     "tournaments": 1,
     "gamesWon": 5,
@@ -4512,6 +5332,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3967",
     "NAF Name": "FischerKing",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 156.97679670818843,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4523,6 +5345,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "3981",
     "NAF Name": "Claymore",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 154.3535320403796,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4534,6 +5358,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4002",
     "NAF Name": "Ronnie",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.0745829740402,
     "tournaments": 4,
     "gamesWon": 10,
@@ -4545,6 +5371,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4006",
     "NAF Name": "Poder_Rojo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 153.8336191852586,
     "tournaments": 2,
     "gamesWon": 3,
@@ -4556,6 +5384,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4018",
     "NAF Name": "General_Izo",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 153.65008445028081,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4567,6 +5397,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4019",
     "NAF Name": "JC",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 180.94834166626183,
     "tournaments": 3,
     "gamesWon": 11,
@@ -4578,6 +5410,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4020",
     "NAF Name": "guy_leonend",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 148.1582924542799,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4589,6 +5423,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4023",
     "NAF Name": "lucash",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.7384872297436,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4600,6 +5436,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4034",
     "NAF Name": "White",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.20319990098494,
     "tournaments": 4,
     "gamesWon": 6,
@@ -4611,6 +5449,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4043",
     "NAF Name": "hunter335",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 149.98078602020973,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4622,6 +5462,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4051",
     "NAF Name": "bigallium",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.76188647442916,
     "tournaments": 2,
     "gamesWon": 4,
@@ -4633,6 +5475,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4063",
     "NAF Name": "Tripleskulls",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 156.48797976247022,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4644,6 +5488,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4095",
     "NAF Name": "Dante",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.54313745163404,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4655,6 +5501,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4102",
     "NAF Name": "Flix",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 189.78125202909447,
     "tournaments": 4,
     "gamesWon": 12,
@@ -4666,6 +5514,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4114",
     "NAF Name": "HUMBY",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.50664359193863,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4677,6 +5527,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4126",
     "NAF Name": "LittleFatPetey",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.43017950543228,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4688,6 +5540,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4148",
     "NAF Name": "lolodelabombe",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 142.85138431550365,
     "tournaments": 4,
     "gamesWon": 4,
@@ -4699,6 +5553,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4191",
     "NAF Name": "Blondcoach",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 148.59422814044018,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4710,6 +5566,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4225",
     "NAF Name": "Nomad",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.47219982812965,
     "tournaments": 1,
     "gamesWon": 0,
@@ -4721,6 +5579,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4244",
     "NAF Name": "flyingdingle",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.60006090535603,
     "tournaments": 2,
     "gamesWon": 5,
@@ -4732,6 +5592,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4246",
     "NAF Name": "Totti",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 155.12720338555962,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4743,6 +5605,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4250",
     "NAF Name": "jrswantz",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.31579428905047,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4754,6 +5618,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4258",
     "NAF Name": "Juzzo",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 143.85413156720213,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4765,6 +5631,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4259",
     "NAF Name": "cj",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 155.16986473388096,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4776,6 +5644,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4260",
     "NAF Name": "troutie",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 171.44246316973266,
     "tournaments": 1,
     "gamesWon": 5,
@@ -4787,6 +5657,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4261",
     "NAF Name": "Sledge",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 166.3633474746287,
     "tournaments": 1,
     "gamesWon": 4,
@@ -4798,6 +5670,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4262",
     "NAF Name": "trout",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 143.58571337777803,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4809,6 +5683,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4263",
     "NAF Name": "Sparticus",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 134.41238251207585,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4820,6 +5696,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4264",
     "NAF Name": "RAMBOY",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 134.81173860641152,
     "tournaments": 2,
     "gamesWon": 2,
@@ -4831,6 +5709,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4265",
     "NAF Name": "Dreadful_Dan",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 109.96812755395142,
     "tournaments": 1,
     "gamesWon": 0,
@@ -4842,6 +5722,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4266",
     "NAF Name": "P_Brane",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 180.22224707535185,
     "tournaments": 2,
     "gamesWon": 9,
@@ -4853,6 +5735,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4267",
     "NAF Name": "dgcox",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 160.94851619616333,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4864,6 +5748,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4268",
     "NAF Name": "coach_McGinty",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 134.4404685371316,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4875,6 +5761,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4269",
     "NAF Name": "Awcox",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 132.79477841425123,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4886,6 +5774,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4270",
     "NAF Name": "Xing",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 149.54292571904202,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4897,6 +5787,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4271",
     "NAF Name": "Dawso",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 155.90137764621556,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4908,6 +5800,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4272",
     "NAF Name": "minderbinder",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 160.70856278290566,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4919,6 +5813,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4273",
     "NAF Name": "Damage",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 116.57694312625694,
     "tournaments": 1,
     "gamesWon": 0,
@@ -4930,6 +5826,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4287",
     "NAF Name": "Canbacon",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 139.16156778608763,
     "tournaments": 1,
     "gamesWon": 0,
@@ -4941,6 +5839,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4310",
     "NAF Name": "Sturmjarl",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.46899604373527,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4952,6 +5852,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4329",
     "NAF Name": "Seannewboy",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.87556875218053,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4963,6 +5865,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4345",
     "NAF Name": "mikestachnik",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 129.3042717030443,
     "tournaments": 2,
     "gamesWon": 1,
@@ -4974,6 +5878,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4349",
     "NAF Name": "Quirkworthy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.16569813795795,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4985,6 +5891,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4350",
     "NAF Name": "Kruel_Kharlle",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.61347494791983,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4996,6 +5904,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4362",
     "NAF Name": "duckvador",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 112.34889550913549,
     "tournaments": 4,
     "gamesWon": 4,
@@ -5007,6 +5917,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4363",
     "NAF Name": "Kenogui",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.90391628601768,
     "tournaments": 4,
     "gamesWon": 5,
@@ -5018,6 +5930,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4364",
     "NAF Name": "jaybi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.16481376292967,
     "tournaments": 2,
     "gamesWon": 4,
@@ -5029,6 +5943,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4365",
     "NAF Name": "chgoor",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 157.81786394865662,
     "tournaments": 1,
     "gamesWon": 4,
@@ -5040,6 +5956,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4377",
     "NAF Name": "Satanas",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.4405616030008,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5051,6 +5969,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4380",
     "NAF Name": "Leipziger",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 136.46670017411574,
     "tournaments": 2,
     "gamesWon": 4,
@@ -5062,6 +5982,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4387",
     "NAF Name": "OldManDraco",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 93.4615180872409,
     "tournaments": 5,
     "gamesWon": 5,
@@ -5073,6 +5995,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4388",
     "NAF Name": "Cern",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 204.87737570037504,
     "tournaments": 3,
     "gamesWon": 13,
@@ -5084,6 +6008,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4389",
     "NAF Name": "Ray-me",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 138.0843211876301,
     "tournaments": 3,
     "gamesWon": 5,
@@ -5095,6 +6021,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4390",
     "NAF Name": "Daudey",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 126.30699919238042,
     "tournaments": 2,
     "gamesWon": 3,
@@ -5106,6 +6034,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4391",
     "NAF Name": "Wondervince",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 139.7295933967367,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5117,6 +6047,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4392",
     "NAF Name": "SQAR1969",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 152.66112035970377,
     "tournaments": 3,
     "gamesWon": 8,
@@ -5128,6 +6060,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4393",
     "NAF Name": "Mickey3d",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.11379758706815,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5139,6 +6073,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4394",
     "NAF Name": "Miriam",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 131.86600003543984,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5150,6 +6086,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4395",
     "NAF Name": "Djobe",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 134.31756493491022,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5161,6 +6099,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4396",
     "NAF Name": "Lordvad",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 167.77451926331435,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5172,6 +6112,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4397",
     "NAF Name": "Malcolm",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 137.631771513776,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5183,6 +6125,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4398",
     "NAF Name": "Talkarde",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 186.159745958137,
     "tournaments": 4,
     "gamesWon": 9,
@@ -5194,6 +6138,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4399",
     "NAF Name": "Hzoool",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 158.14849048413353,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5205,6 +6151,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4404",
     "NAF Name": "troyfisher",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 160.80688575011646,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5216,6 +6164,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4435",
     "NAF Name": "Emberbreeze",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 167.05173961042945,
     "tournaments": 3,
     "gamesWon": 8,
@@ -5227,6 +6177,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4438",
     "NAF Name": "Gallien",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 133.26382902534593,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5238,6 +6190,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4443",
     "NAF Name": "Agrier79",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 111.07447857655909,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5249,6 +6203,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4477",
     "NAF Name": "Mallin",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 135.53226719414116,
     "tournaments": 2,
     "gamesWon": 2,
@@ -5260,6 +6216,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4479",
     "NAF Name": "Grell",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 137.1145667526688,
     "tournaments": 2,
     "gamesWon": 2,
@@ -5271,6 +6229,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4494",
     "NAF Name": "Klaymore",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 143.21753436847527,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5282,6 +6242,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4503",
     "NAF Name": "wag4803055",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.18439749253523,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5293,6 +6255,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4504",
     "NAF Name": "kilroy07",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.3625918915136,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5304,6 +6268,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4521",
     "NAF Name": "BusterGut",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 180.34557308309985,
     "tournaments": 1,
     "gamesWon": 5,
@@ -5315,6 +6281,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4538",
     "NAF Name": "Margot",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 133.3342279089893,
     "tournaments": 2,
     "gamesWon": 2,
@@ -5326,6 +6294,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4539",
     "NAF Name": "Hullekoenig",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 143.19716299038262,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5337,6 +6307,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4540",
     "NAF Name": "DiNaturz",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 138.5233230710499,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5348,6 +6320,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4541",
     "NAF Name": "Jake McDeath",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 142.75589825208343,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5359,6 +6333,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4542",
     "NAF Name": "Dugar",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 136.70651228110617,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5370,6 +6346,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4543",
     "NAF Name": "Mis Tvieh",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 132.48521824164894,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5381,6 +6359,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4544",
     "NAF Name": "Brugtuul",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 163.7460608657433,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5392,6 +6372,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4545",
     "NAF Name": "Executor",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 167.47682451076722,
     "tournaments": 2,
     "gamesWon": 5,
@@ -5403,6 +6385,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4546",
     "NAF Name": "Eatmoremeat",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 175.2665152582264,
     "tournaments": 2,
     "gamesWon": 7,
@@ -5414,6 +6398,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4547",
     "NAF Name": "Micirio",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 149.53309652314175,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5425,6 +6411,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4548",
     "NAF Name": "Handyman",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 155.80796429374595,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5436,6 +6424,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4549",
     "NAF Name": "ListenRaich",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.52845706322566,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5447,6 +6437,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4552",
     "NAF Name": "ZFurelli",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 135.3569087916923,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5458,6 +6450,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4554",
     "NAF Name": "Oliver",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 174.10574858931372,
     "tournaments": 6,
     "gamesWon": 15,
@@ -5469,6 +6463,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4555",
     "NAF Name": "DivingCatch100",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.31634266234035,
     "tournaments": 2,
     "gamesWon": 2,
@@ -5480,6 +6476,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4561",
     "NAF Name": "danbury",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.12274075220375,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5491,6 +6489,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4580",
     "NAF Name": "juergen",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 158.2327748460727,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5502,6 +6502,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4600",
     "NAF Name": "Orogen",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.1665632767857,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5513,6 +6515,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4602",
     "NAF Name": "KoS",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 160.8334375550596,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5524,6 +6528,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4658",
     "NAF Name": "Anthracis",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 155.5473702582242,
     "tournaments": 3,
     "gamesWon": 4,
@@ -5535,6 +6541,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4664",
     "NAF Name": "icd65",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 140.20893214036607,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5546,6 +6554,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4665",
     "NAF Name": "Da_boss",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.00438738228937,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5557,6 +6567,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4666",
     "NAF Name": "typhon",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 124.76846543895732,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5568,6 +6580,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4667",
     "NAF Name": "djspurlz",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 135.99223169415134,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5579,6 +6593,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4668",
     "NAF Name": "tombstone_frank",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.1869938706131,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5590,6 +6606,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4669",
     "NAF Name": "redjack",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.89485380418898,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5601,6 +6619,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4670",
     "NAF Name": "pred_dachande",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.81129064541713,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5612,6 +6632,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4671",
     "NAF Name": "sarasotasteve",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 144.74294808134894,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5623,6 +6645,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4672",
     "NAF Name": "Marcvus",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 167.75790692448484,
     "tournaments": 2,
     "gamesWon": 6,
@@ -5634,6 +6658,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4673",
     "NAF Name": "furuta",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.74746730987982,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5645,6 +6671,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4684",
     "NAF Name": "SirBrendan",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 155.42153119682501,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5656,6 +6684,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4693",
     "NAF Name": "MathiasToss",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 155.30798377049945,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5667,6 +6697,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4728",
     "NAF Name": "Blizzards",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.41298594220996,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5678,6 +6710,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4767",
     "NAF Name": "Ryan",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 109.67539366234351,
     "tournaments": 2,
     "gamesWon": 2,
@@ -5689,6 +6723,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4768",
     "NAF Name": "Indibro",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 180.88718590053858,
     "tournaments": 3,
     "gamesWon": 8,
@@ -5700,6 +6736,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4769",
     "NAF Name": "Prez",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 176.99748179620937,
     "tournaments": 2,
     "gamesWon": 8,
@@ -5711,6 +6749,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4770",
     "NAF Name": "Lucky_B",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 122.1861372961979,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5722,6 +6762,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4771",
     "NAF Name": "Richred_UK",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.89252061764012,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5733,6 +6775,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4772",
     "NAF Name": "Shortenegger",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 177.7532013564282,
     "tournaments": 1,
     "gamesWon": 5,
@@ -5744,6 +6788,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4774",
     "NAF Name": "sproutman",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 128.33779471438226,
     "tournaments": 4,
     "gamesWon": 5,
@@ -5755,6 +6801,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4778",
     "NAF Name": "Tanar-ri",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 143.89140266657697,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5766,6 +6814,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4780",
     "NAF Name": "Metallkopp",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 126.21437129134374,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5777,6 +6827,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4782",
     "NAF Name": "Artico",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 154.94358167676114,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5788,6 +6840,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4818",
     "NAF Name": "Frikipe",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 160.53512086375338,
     "tournaments": 4,
     "gamesWon": 4,
@@ -5799,6 +6853,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4822",
     "NAF Name": "juck101",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 162.15868216656526,
     "tournaments": 3,
     "gamesWon": 8,
@@ -5810,6 +6866,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4824",
     "NAF Name": "Lizardcore",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 158.08258194259886,
     "tournaments": 3,
     "gamesWon": 4,
@@ -5821,6 +6879,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4828",
     "NAF Name": "Yamagata",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 153.1781838862037,
     "tournaments": 4,
     "gamesWon": 5,
@@ -5832,6 +6892,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4836",
     "NAF Name": "Naru",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.59582956499028,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5843,6 +6905,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4837",
     "NAF Name": "ElMasMalo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 132.85385987922638,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5854,6 +6918,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4838",
     "NAF Name": "kaneda",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 137.59793847908276,
     "tournaments": 2,
     "gamesWon": 1,
@@ -5865,6 +6931,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4839",
     "NAF Name": "Rayito",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 161.90378044958175,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5876,6 +6944,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4841",
     "NAF Name": "Madmoi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.39164894480766,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5887,6 +6957,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4843",
     "NAF Name": "Mephisto",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 153.87165593724401,
     "tournaments": 2,
     "gamesWon": 3,
@@ -5898,6 +6970,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4844",
     "NAF Name": "Zulo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 114.2999680977816,
     "tournaments": 3,
     "gamesWon": 1,
@@ -5909,6 +6983,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4845",
     "NAF Name": "Zhuz_A_Zharr",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.772311844378,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5920,6 +6996,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4865",
     "NAF Name": "Levinas",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 160.44232367813171,
     "tournaments": 2,
     "gamesWon": 5,
@@ -5931,6 +7009,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4919",
     "NAF Name": "PowerTurtle",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 134.87024515566966,
     "tournaments": 3,
     "gamesWon": 5,
@@ -5942,6 +7022,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4926",
     "NAF Name": "Rhonono",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.9415667555203,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5953,6 +7035,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4927",
     "NAF Name": "Comm",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 152.492031607493,
     "tournaments": 2,
     "gamesWon": 4,
@@ -5964,6 +7048,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4928",
     "NAF Name": "Qchto",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.08195872803017,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5975,6 +7061,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4929",
     "NAF Name": "Wonder",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 172.1516461172857,
     "tournaments": 3,
     "gamesWon": 9,
@@ -5986,6 +7074,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4930",
     "NAF Name": "Mickbeth",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 128.76612409314413,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5997,6 +7087,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4931",
     "NAF Name": "Pierrot",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 174.2858463746786,
     "tournaments": 1,
     "gamesWon": 4,
@@ -6008,6 +7100,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4932",
     "NAF Name": "Phenix",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.3328825633476,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6019,6 +7113,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4933",
     "NAF Name": "Battleaxe",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 153.03820334695993,
     "tournaments": 3,
     "gamesWon": 6,
@@ -6030,6 +7126,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4934",
     "NAF Name": "Sgt_Taliesin",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.797270057547,
     "tournaments": 2,
     "gamesWon": 4,
@@ -6041,6 +7139,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4935",
     "NAF Name": "Pern",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.24040800202445,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6052,6 +7152,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4936",
     "NAF Name": "Kenichi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.20259940434812,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6063,6 +7165,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4937",
     "NAF Name": "Sim",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.72207753946762,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6074,6 +7178,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4938",
     "NAF Name": "Lord_Gabriel",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.8126287242256,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6085,6 +7191,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4939",
     "NAF Name": "Bellenthan",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.8354285859887,
     "tournaments": 3,
     "gamesWon": 7,
@@ -6096,6 +7204,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4940",
     "NAF Name": "Fenris",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 135.41326499844502,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6107,6 +7217,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4941",
     "NAF Name": "FroggyNik",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 132.01852758600552,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6118,6 +7230,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4942",
     "NAF Name": "Turret",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.34788045747658,
     "tournaments": 2,
     "gamesWon": 4,
@@ -6129,6 +7243,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4943",
     "NAF Name": "Tinky_Winky",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.78234027594925,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6140,6 +7256,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4944",
     "NAF Name": "Strider",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 158.8937708629138,
     "tournaments": 2,
     "gamesWon": 5,
@@ -6151,6 +7269,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4945",
     "NAF Name": "KM.Pegus",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 131.97804650079868,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6162,6 +7282,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4977",
     "NAF Name": "Pandora",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 157.29598502316833,
     "tournaments": 2,
     "gamesWon": 3,
@@ -6173,6 +7295,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "4978",
     "NAF Name": "Aredhel",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.87977652238325,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6184,6 +7308,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5000",
     "NAF Name": "Varaghaz",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 166.4615072462303,
     "tournaments": 1,
     "gamesWon": 4,
@@ -6195,6 +7321,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5004",
     "NAF Name": "Stratego",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 153.99454499790022,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6206,6 +7334,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5007",
     "NAF Name": "Ptitjaune",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.43529581164702,
     "tournaments": 3,
     "gamesWon": 5,
@@ -6217,6 +7347,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5013",
     "NAF Name": "Alfindor",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.14174155330844,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6228,6 +7360,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5014",
     "NAF Name": "Papy_Sardokar",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.70950693139795,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6239,6 +7373,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5015",
     "NAF Name": "Pizzanakin",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 141.10040756360206,
     "tournaments": 2,
     "gamesWon": 3,
@@ -6250,6 +7386,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5017",
     "NAF Name": "Richy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.67042028978264,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6261,6 +7399,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5024",
     "NAF Name": "Rodders",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.6438051058608,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6272,6 +7412,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5089",
     "NAF Name": "kablz",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 136.4575077531283,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6283,6 +7425,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5091",
     "NAF Name": "shorty",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.15183822052353,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6294,6 +7438,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5112",
     "NAF Name": "PepaGacy",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.3817950828314,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6305,6 +7451,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5131",
     "NAF Name": "Besters",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.69979138180831,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6316,6 +7464,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5132",
     "NAF Name": "Turnip",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 132.2592725696943,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6327,6 +7477,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5133",
     "NAF Name": "92Pardon",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.98890930789509,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6338,6 +7490,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5134",
     "NAF Name": "Squig87",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 148.69767527144492,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6349,6 +7503,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5135",
     "NAF Name": "Scorpio",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 128.7663247897446,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6360,6 +7516,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5136",
     "NAF Name": "ChrisBlairDammit",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 120.61593906244748,
     "tournaments": 2,
     "gamesWon": 2,
@@ -6371,6 +7529,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5137",
     "NAF Name": "KungFuChip",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 149.68030270262716,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6382,6 +7542,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5138",
     "NAF Name": "Vymo",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 140.94528186791672,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6393,6 +7555,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5139",
     "NAF Name": "ChrisW",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 118.22782006108089,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6404,6 +7568,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5143",
     "NAF Name": "MagicDave",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.74733089900707,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6415,6 +7581,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5144",
     "NAF Name": "Ghostwriter",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 129.47703818045434,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6426,6 +7594,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5146",
     "NAF Name": "DargED",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 133.95350881005567,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6437,6 +7607,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5147",
     "NAF Name": "Monkfish",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.69906076532837,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6448,6 +7620,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5148",
     "NAF Name": "JorisB",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 135.2819622968391,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6459,6 +7633,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5149",
     "NAF Name": "Grunvold",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 156.93229930714728,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6470,6 +7646,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5150",
     "NAF Name": "WhiteSabreTooth",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 156.28640642727026,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6481,6 +7659,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5151",
     "NAF Name": "JezAllum",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 131.98885921839664,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6492,6 +7672,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5152",
     "NAF Name": "WoodenBullfrog",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.16039715968003,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6503,6 +7685,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5153",
     "NAF Name": "Lowny",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.98846550609616,
     "tournaments": 2,
     "gamesWon": 3,
@@ -6514,6 +7698,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5154",
     "NAF Name": "AdmiralAndy",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 143.08541048095825,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6525,6 +7711,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5189",
     "NAF Name": "geova",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 138.92840711585922,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6536,6 +7724,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5206",
     "NAF Name": "Tosto",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 140.0308505436785,
     "tournaments": 2,
     "gamesWon": 1,
@@ -6547,6 +7737,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5207",
     "NAF Name": "doneagle",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 147.3789155246692,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6558,6 +7750,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5225",
     "NAF Name": "Nightfalke",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.52907355214268,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6569,6 +7763,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5227",
     "NAF Name": "landrover",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.26921641349296,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6580,6 +7776,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5236",
     "NAF Name": "KarlLagerbottom",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.53060999545377,
     "tournaments": 3,
     "gamesWon": 5,
@@ -6591,6 +7789,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5244",
     "NAF Name": "Artos",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 147.3542486889354,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6602,6 +7802,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5245",
     "NAF Name": "Skirbo",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 147.3542486889354,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6613,6 +7815,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5246",
     "NAF Name": "PontusG",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 147.60840377470518,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6624,6 +7828,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5248",
     "NAF Name": "Mufazza",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 147.3594419703196,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6635,6 +7841,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5249",
     "NAF Name": "Weeks",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 150.00196206612281,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6646,6 +7854,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5256",
     "NAF Name": "docGneri",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 147.0535742511457,
     "tournaments": 3,
     "gamesWon": 2,
@@ -6657,6 +7867,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5262",
     "NAF Name": "McMardigan",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 152.91655932021183,
     "tournaments": 3,
     "gamesWon": 2,
@@ -6668,6 +7880,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5269",
     "NAF Name": "RatDaddy",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 144.0836895802875,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6679,6 +7893,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5270",
     "NAF Name": "Ricki_NL",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 138.0201661515091,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6690,6 +7906,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5271",
     "NAF Name": "SirSebstar",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 172.01831835307374,
     "tournaments": 1,
     "gamesWon": 4,
@@ -6701,6 +7919,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5272",
     "NAF Name": "Darknova",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 120.31785936099479,
     "tournaments": 3,
     "gamesWon": 4,
@@ -6712,6 +7932,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5278",
     "NAF Name": "Ranger",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.99989636443294,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6723,6 +7945,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5283",
     "NAF Name": "RedGrunge",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.34314575050763,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6734,6 +7958,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5290",
     "NAF Name": "Pipey",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 175.5410004209576,
     "tournaments": 2,
     "gamesWon": 7,
@@ -6745,6 +7971,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5305",
     "NAF Name": "Gavswiney",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 151.04890895830945,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6756,6 +7984,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5324",
     "NAF Name": "Pow!",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 120.94584571934479,
     "tournaments": 3,
     "gamesWon": 2,
@@ -6767,6 +7997,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5326",
     "NAF Name": "Grod",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 161.53100602554358,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6778,6 +8010,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5334",
     "NAF Name": "recornman",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 125.18768176120588,
     "tournaments": 2,
     "gamesWon": 1,
@@ -6789,6 +8023,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5341",
     "NAF Name": "DukeJan",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 160.79892948037798,
     "tournaments": 2,
     "gamesWon": 5,
@@ -6800,6 +8036,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5408",
     "NAF Name": "Ushoran",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 144.1194885809385,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6811,6 +8049,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5434",
     "NAF Name": "bampf",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.87970087774218,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6822,6 +8062,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5446",
     "NAF Name": "angryrob",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 145.81557988180023,
     "tournaments": 2,
     "gamesWon": 4,
@@ -6833,6 +8075,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5454",
     "NAF Name": "TulloOstilio",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.89330164252172,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6844,6 +8088,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5456",
     "NAF Name": "KarlRanseier",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 127.16707069007292,
     "tournaments": 2,
     "gamesWon": 0,
@@ -6855,6 +8101,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5457",
     "NAF Name": "gismo820",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 145.0822779379001,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6866,6 +8114,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5458",
     "NAF Name": "Pauli",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 149.9611325615148,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6877,6 +8127,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5462",
     "NAF Name": "Kuerbo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.20026263762628,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6888,6 +8140,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5464",
     "NAF Name": "ConanSPQR",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.45794446359074,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6899,6 +8153,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5509",
     "NAF Name": "Henry4th",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.4494897427832,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6910,6 +8166,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5527",
     "NAF Name": "LordNase",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 168.93808298367827,
     "tournaments": 1,
     "gamesWon": 4,
@@ -6921,6 +8179,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5528",
     "NAF Name": "Hellsing",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 146.84331958547898,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6932,6 +8192,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5529",
     "NAF Name": "Civain",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 139.0823167370582,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6943,6 +8205,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5530",
     "NAF Name": "Ragme",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 134.93957091029625,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6954,6 +8218,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5531",
     "NAF Name": "Ethrylain",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 157.91667931492393,
     "tournaments": 2,
     "gamesWon": 5,
@@ -6965,6 +8231,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5532",
     "NAF Name": "Evilknight",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 161.38353778894822,
     "tournaments": 1,
     "gamesWon": 4,
@@ -6976,6 +8244,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5553",
     "NAF Name": "Grimmzahn",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 138.6494514594937,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6987,6 +8257,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5570",
     "NAF Name": "jordell",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 146.53834664941388,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6998,6 +8270,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5572",
     "NAF Name": "crimsondawn",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 146.53589838486224,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7009,6 +8283,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5573",
     "NAF Name": "ouagadougou",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 146.53589838486224,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7020,6 +8296,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5575",
     "NAF Name": "himura_k",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 149.82317267127453,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7031,6 +8309,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5576",
     "NAF Name": "riktikticheck",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 149.82073147669462,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7042,6 +8322,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5584",
     "NAF Name": "SpawnoSotek",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 147.60193708618473,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7053,6 +8335,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5585",
     "NAF Name": "Metal_Matt",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 124.01051618933322,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7064,6 +8348,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5587",
     "NAF Name": "Rurik",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 149.97697550542657,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7075,6 +8361,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5588",
     "NAF Name": "affe",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 148.26794919243113,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7086,6 +8374,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5593",
     "NAF Name": "Ikkit",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.89717920123422,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7097,6 +8387,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5595",
     "NAF Name": "txemapres",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 161.0871122288435,
     "tournaments": 2,
     "gamesWon": 4,
@@ -7108,6 +8400,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5600",
     "NAF Name": "Peterpk",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 145.09264154561836,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7119,6 +8413,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5605",
     "NAF Name": "DonJuan",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 127.81583836946754,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7130,6 +8426,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5611",
     "NAF Name": "PeterMack",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.8896271006496,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7141,6 +8439,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5623",
     "NAF Name": "KevinMackay",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.90414579624985,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7152,6 +8452,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5624",
     "NAF Name": "Buffalo_Chris",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 147.83721497209078,
     "tournaments": 2,
     "gamesWon": 4,
@@ -7163,6 +8465,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5625",
     "NAF Name": "WolfManJim",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 132.54265467316804,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7174,6 +8478,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5626",
     "NAF Name": "nifty_gecko",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.4952106821466,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7185,6 +8491,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5636",
     "NAF Name": "RichPOPOL",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.87966098451642,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7196,6 +8504,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5641",
     "NAF Name": "Dwarven_Madam",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.15417517988843,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7207,6 +8517,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5642",
     "NAF Name": "Schwager",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 148.00541332480597,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7218,6 +8530,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5643",
     "NAF Name": "Grinn",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 160.05273770689791,
     "tournaments": 1,
     "gamesWon": 4,
@@ -7229,6 +8543,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5644",
     "NAF Name": "Candidate_X",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 140.9223031738953,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7240,6 +8556,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5648",
     "NAF Name": "greghagg",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 152.71316049434776,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7251,6 +8569,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5654",
     "NAF Name": "Pulpo_Fiction",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 163.54715778890636,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7262,6 +8582,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5663",
     "NAF Name": "yiyo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.7270393307752,
     "tournaments": 2,
     "gamesWon": 3,
@@ -7273,6 +8595,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5675",
     "NAF Name": "Spazzfist",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 132.43572841607323,
     "tournaments": 2,
     "gamesWon": 3,
@@ -7284,6 +8608,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5681",
     "NAF Name": "Musta_Surma",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.44759731387867,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7295,6 +8621,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5682",
     "NAF Name": "Carpet_Man",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.84217796339712,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7306,6 +8634,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5683",
     "NAF Name": "Excitable_Rob",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.89602605562402,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7317,6 +8647,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5684",
     "NAF Name": "Brandy",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 134.59599627649155,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7328,6 +8660,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5685",
     "NAF Name": "Rob_Horn",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 129.2115226058725,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7339,6 +8673,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5693",
     "NAF Name": "Arylith",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.57063867427155,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7350,6 +8686,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5697",
     "NAF Name": "brogan_a",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.65685424949237,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7361,6 +8699,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5698",
     "NAF Name": "Mortarion",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.69649366008068,
     "tournaments": 2,
     "gamesWon": 2,
@@ -7372,6 +8712,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5699",
     "NAF Name": "Sticky",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 184.57527902013402,
     "tournaments": 2,
     "gamesWon": 6,
@@ -7383,6 +8725,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5700",
     "NAF Name": "Sofiane",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.15949581499873,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7394,6 +8738,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5701",
     "NAF Name": "Jarjarus",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.95673003630156,
     "tournaments": 3,
     "gamesWon": 4,
@@ -7405,6 +8751,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5702",
     "NAF Name": "R2D2",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.70670752076617,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7416,6 +8764,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5703",
     "NAF Name": "Crazy_Horse",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.41324434498182,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7427,6 +8777,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5704",
     "NAF Name": "Punisher_Ketil",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 134.01372368787116,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7438,6 +8790,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5705",
     "NAF Name": "Seb80",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 157.23181513242068,
     "tournaments": 2,
     "gamesWon": 4,
@@ -7449,6 +8803,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5706",
     "NAF Name": "Davidus",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.1830869678105,
     "tournaments": 2,
     "gamesWon": 4,
@@ -7460,6 +8816,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5707",
     "NAF Name": "Pellox",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 127.71616389120206,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7471,6 +8829,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5709",
     "NAF Name": "DIEU",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 183.62637257542156,
     "tournaments": 4,
     "gamesWon": 9,
@@ -7482,6 +8842,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5734",
     "NAF Name": "Talons",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 137.6584384143834,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7493,6 +8855,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5735",
     "NAF Name": "Quack _ Groovis",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 138.75159897831898,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7504,6 +8868,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5736",
     "NAF Name": "SkavenBoy",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.23108954913394,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7515,6 +8881,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5767",
     "NAF Name": "Schmee",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 126.68931328987689,
     "tournaments": 2,
     "gamesWon": 1,
@@ -7526,6 +8894,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5769",
     "NAF Name": "lorenzo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 139.16656327678572,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7537,6 +8907,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5773",
     "NAF Name": "Mitico",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 157.9223699510937,
     "tournaments": 2,
     "gamesWon": 3,
@@ -7548,6 +8920,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5775",
     "NAF Name": "absent",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.12952055272288,
     "tournaments": 3,
     "gamesWon": 7,
@@ -7559,6 +8933,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5776",
     "NAF Name": "FortheEmpire",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 140.32381860600356,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7570,6 +8946,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5778",
     "NAF Name": "koliriokolapso",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.20660991546478,
     "tournaments": 2,
     "gamesWon": 1,
@@ -7581,6 +8959,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5783",
     "NAF Name": "Bikerbob",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.41069948050682,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7592,6 +8972,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5787",
     "NAF Name": "Motorheadjones",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 166.4892445972774,
     "tournaments": 2,
     "gamesWon": 7,
@@ -7603,6 +8985,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5790",
     "NAF Name": "Grotuk",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.49465020009416,
     "tournaments": 2,
     "gamesWon": 3,
@@ -7614,6 +8998,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5791",
     "NAF Name": "Uzog",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 138.08388195679515,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7625,6 +9011,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5795",
     "NAF Name": "Panico",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 157.92722616231882,
     "tournaments": 3,
     "gamesWon": 5,
@@ -7636,6 +9024,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5796",
     "NAF Name": "Panic",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 143.31656797887888,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7647,6 +9037,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5797",
     "NAF Name": "Francesco",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 147.88807438464156,
     "tournaments": 2,
     "gamesWon": 3,
@@ -7658,6 +9050,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5798",
     "NAF Name": "Yena",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 149.05324700282384,
     "tournaments": 2,
     "gamesWon": 3,
@@ -7669,6 +9063,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5799",
     "NAF Name": "Zona_Lomu",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.01180512800047,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7680,6 +9076,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5803",
     "NAF Name": "limona",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.85850709198542,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7691,6 +9089,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5804",
     "NAF Name": "Nagash",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.51062017529242,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7702,6 +9102,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5815",
     "NAF Name": "Inaspin",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 131.34708274859844,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7713,6 +9115,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5816",
     "NAF Name": "Smintys",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 128.3425072636106,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7724,6 +9128,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5817",
     "NAF Name": "Da_Imp",
+    "CCAA": "Apatrida",
+    "Country": "South Africa",
     "rating": 138.6112566311075,
     "tournaments": 2,
     "gamesWon": 4,
@@ -7735,6 +9141,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5819",
     "NAF Name": "Oldstonemonkey",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7746,6 +9154,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5820",
     "NAF Name": "vonPaulus",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.9961230069219,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7757,6 +9167,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5853",
     "NAF Name": "Glum",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 176.42909843940296,
     "tournaments": 1,
     "gamesWon": 5,
@@ -7768,6 +9180,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5872",
     "NAF Name": "garth",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 132.78006395185545,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7779,6 +9193,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5877",
     "NAF Name": "Ironskins",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 144.18632818665816,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7790,6 +9206,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5878",
     "NAF Name": "T_Gecko",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 137.7063117562452,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7801,6 +9219,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5879",
     "NAF Name": "Phlogiston",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 144.77849905884295,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7812,6 +9232,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5880",
     "NAF Name": "cmac123",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 131.18393944585276,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7823,6 +9245,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5881",
     "NAF Name": "Sionis",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.02189708055744,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7834,6 +9258,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5882",
     "NAF Name": "Barraq",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 127.61058385168742,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7845,6 +9271,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5890",
     "NAF Name": "Dougernaut",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.70132778915035,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7856,6 +9284,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5893",
     "NAF Name": "GORGOROTH",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 151.88045713546146,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7867,6 +9297,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5894",
     "NAF Name": "whatsanaxa",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.30866918816153,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7878,6 +9310,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5899",
     "NAF Name": "Marcuz",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 161.5537611182968,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7889,6 +9323,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5900",
     "NAF Name": "Dirold",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 162.1951775912317,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7900,6 +9336,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5901",
     "NAF Name": "Nichi",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 138.45203874190622,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7911,6 +9349,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5903",
     "NAF Name": "andrea_parrella",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 146.37257680301315,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7922,6 +9362,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5904",
     "NAF Name": "Solignac",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 155.99101763785504,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7933,6 +9375,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5905",
     "NAF Name": "Mr_Hrod",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 150.26956208742038,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7944,6 +9388,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5906",
     "NAF Name": "Liam",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 134.3794189209479,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7955,6 +9401,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5907",
     "NAF Name": "Caronte",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 143.36535154595532,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7966,6 +9414,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5909",
     "NAF Name": "DarkSteve",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 166.75003698863978,
     "tournaments": 2,
     "gamesWon": 4,
@@ -7977,6 +9427,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5910",
     "NAF Name": "Stregone_Perverso",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 144.45888663302526,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7988,6 +9440,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5911",
     "NAF Name": "Meuro",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.30268848982243,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7999,6 +9453,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5912",
     "NAF Name": "Gurdulo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 157.54084654817925,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8010,6 +9466,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5913",
     "NAF Name": "King_Canapino",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 155.23949074603172,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8021,6 +9479,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5934",
     "NAF Name": "General_Jonty",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 124.51085326269998,
     "tournaments": 2,
     "gamesWon": 2,
@@ -8032,6 +9492,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5955",
     "NAF Name": "Ouro",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 138.39708482394144,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8043,6 +9505,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5957",
     "NAF Name": "Luger",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 129.99307884865812,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8054,6 +9518,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "5987",
     "NAF Name": "TrevTBBF",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 156.3238764206086,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8065,6 +9531,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6014",
     "NAF Name": "jimi",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 133.12197134918807,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8076,6 +9544,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6038",
     "NAF Name": "ma_libu",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 153.9087598341195,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8087,6 +9557,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6039",
     "NAF Name": "Lines",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 159.69955809984313,
     "tournaments": 2,
     "gamesWon": 4,
@@ -8098,6 +9570,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6040",
     "NAF Name": "Uwe_G",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 149.46941285087811,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8109,6 +9583,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6044",
     "NAF Name": "Buldogr",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.17476097157567,
     "tournaments": 4,
     "gamesWon": 6,
@@ -8120,6 +9596,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6047",
     "NAF Name": "Rowlf",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.6955115838617,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8131,6 +9609,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6060",
     "NAF Name": "Taxal",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 145.9226374740082,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8142,6 +9622,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6061",
     "NAF Name": "DS702",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 157.58270361066013,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8153,6 +9635,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6085",
     "NAF Name": "Ogeee",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.53517071817222,
     "tournaments": 2,
     "gamesWon": 3,
@@ -8164,6 +9648,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6089",
     "NAF Name": "Tauwolf",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.8445123210362,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8175,6 +9661,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6091",
     "NAF Name": "Shonuff",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.14876226532346,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8186,6 +9674,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6096",
     "NAF Name": "Admont",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.1260629771631,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8197,6 +9687,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6098",
     "NAF Name": "Arackam",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.22185688999824,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8208,6 +9700,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6121",
     "NAF Name": "JaM",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 135.68851059703516,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8219,6 +9713,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6122",
     "NAF Name": "SM",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 146.2067102562649,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8230,6 +9726,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6123",
     "NAF Name": "Mepmuff",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 138.6060538130729,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8241,6 +9739,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6132",
     "NAF Name": "zeboulet",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.8039629653509,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8252,6 +9752,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6144",
     "NAF Name": "SolarFlare",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 166.5052149943314,
     "tournaments": 2,
     "gamesWon": 4,
@@ -8263,6 +9765,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6151",
     "NAF Name": "OrgangunKelly",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.75209719379222,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8274,6 +9778,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6154",
     "NAF Name": "DrDave",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 156.00685474073506,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8285,6 +9791,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6157",
     "NAF Name": "avatar666",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 166.18287012408942,
     "tournaments": 1,
     "gamesWon": 4,
@@ -8296,6 +9804,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6165",
     "NAF Name": "Dolpfin",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.76371671787516,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8307,6 +9817,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6179",
     "NAF Name": "trogdu",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 154.79199502357883,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8318,6 +9830,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6181",
     "NAF Name": "Lorion",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 161.42040741976672,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8329,6 +9843,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6183",
     "NAF Name": "Driesfield",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 143.2414984330403,
     "tournaments": 2,
     "gamesWon": 3,
@@ -8340,6 +9856,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6188",
     "NAF Name": "Twahn",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 155.49983957799466,
     "tournaments": 1,
     "gamesWon": 4,
@@ -8351,6 +9869,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6192",
     "NAF Name": "mrschutte",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 141.1007272393902,
     "tournaments": 2,
     "gamesWon": 0,
@@ -8362,6 +9882,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6193",
     "NAF Name": "szrlm",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.13116813205517,
     "tournaments": 2,
     "gamesWon": 2,
@@ -8373,6 +9895,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6232",
     "NAF Name": "Thordallim",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 138.94856613842353,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8384,6 +9908,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6233",
     "NAF Name": "BlackOrc",
+    "CCAA": "Apatrida",
+    "Country": "Hungary",
     "rating": 170.19809179546246,
     "tournaments": 1,
     "gamesWon": 4,
@@ -8395,6 +9921,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6258",
     "NAF Name": "Lewis",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 148.16650908928625,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8406,6 +9934,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6261",
     "NAF Name": "Sebco",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.50252310907607,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8417,6 +9947,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6294",
     "NAF Name": "DJC_555",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.0204688882867,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8428,6 +9960,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6298",
     "NAF Name": "Thiophene",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.15758891943418,
     "tournaments": 2,
     "gamesWon": 6,
@@ -8439,6 +9973,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6299",
     "NAF Name": "Dain",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.6837027186701,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8450,6 +9986,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6300",
     "NAF Name": "Spaki",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.5923391443357,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8461,6 +9999,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6301",
     "NAF Name": "The_Destructor",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 125.18248525237284,
     "tournaments": 3,
     "gamesWon": 3,
@@ -8472,6 +10012,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6302",
     "NAF Name": "Big_Boss",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 132.92888198936316,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8483,6 +10025,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6303",
     "NAF Name": "fefth",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.95385744339364,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8494,6 +10038,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6319",
     "NAF Name": "Little_Arm",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 132.19746212743865,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8505,6 +10051,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6320",
     "NAF Name": "Pote_fr",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.9093932294972,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8516,6 +10064,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6321",
     "NAF Name": "Youl",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 132.60394785981416,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8527,6 +10077,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6322",
     "NAF Name": "Drizzt",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.4118864267644,
     "tournaments": 2,
     "gamesWon": 3,
@@ -8538,6 +10090,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6323",
     "NAF Name": "Maroli",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.8821396483814,
     "tournaments": 2,
     "gamesWon": 2,
@@ -8549,6 +10103,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6324",
     "NAF Name": "Sammy",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.70641914500976,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8560,6 +10116,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6325",
     "NAF Name": "Teonanacalt",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 132.87412030516563,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8571,6 +10129,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6326",
     "NAF Name": "Markus",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.75874086999178,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8582,6 +10142,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6327",
     "NAF Name": "Jolmel",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.4613865133665,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8593,6 +10155,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6328",
     "NAF Name": "Pierre_Tevez",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 158.36615917327114,
     "tournaments": 2,
     "gamesWon": 5,
@@ -8604,6 +10168,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6329",
     "NAF Name": "Ptit_Kiwi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.65721294576505,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8615,6 +10181,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6330",
     "NAF Name": "Zeboss",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.70270192083993,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8626,6 +10194,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6341",
     "NAF Name": "Red_Dawn",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 153.37273399866527,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8637,6 +10207,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6350",
     "NAF Name": "MSpanke",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.57786317480358,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8648,6 +10220,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6446",
     "NAF Name": "Chunky",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.9113772075437,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8659,6 +10233,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "6451",
     "NAF Name": "Aelendwir",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 145.15637668361396,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8670,6 +10246,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "7024",
     "NAF Name": "Silphirian",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 140.96766461587058,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8681,6 +10259,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "7590",
     "NAF Name": "pallinar",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.93887076228478,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8692,6 +10272,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "7594",
     "NAF Name": "Oak",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 172.67175036963238,
     "tournaments": 1,
     "gamesWon": 4,
@@ -8703,6 +10285,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "7710",
     "NAF Name": "Kewan",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 166.21597528487092,
     "tournaments": 3,
     "gamesWon": 7,
@@ -8714,6 +10298,8 @@ const statsYear2004 = [
   {
     "NAF Nr": "13774",
     "NAF Name": "Monkeyboy888",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 167.19067713144986,
     "tournaments": 1,
     "gamesWon": 3,
