@@ -2,6 +2,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3",
     "NAF Name": "AnthonyTBBF",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 155.65685424949237,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13,6 +15,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "30",
     "NAF Name": "DonShula",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 159.66375057945325,
     "tournaments": 2,
     "gamesWon": 5,
@@ -24,6 +28,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "36",
     "NAF Name": "Deathwing",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.29240183603045,
     "tournaments": 3,
     "gamesWon": 5,
@@ -35,6 +41,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "54",
     "NAF Name": "Babs",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 164.68342665853922,
     "tournaments": 3,
     "gamesWon": 8,
@@ -46,6 +54,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "60",
     "NAF Name": "Indigo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 170.3977703081811,
     "tournaments": 4,
     "gamesWon": 11,
@@ -57,6 +67,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "68",
     "NAF Name": "Sputnik",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 159.83872976188053,
     "tournaments": 4,
     "gamesWon": 13,
@@ -68,6 +80,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "69",
     "NAF Name": "Venomous_Breath",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 178.8124158359442,
     "tournaments": 1,
     "gamesWon": 6,
@@ -79,6 +93,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "70",
     "NAF Name": "Geggster",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 236.33687547793357,
     "tournaments": 16,
     "gamesWon": 58,
@@ -90,6 +106,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "78",
     "NAF Name": "Da_Sheriff",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.7540355899545,
     "tournaments": 1,
     "gamesWon": 2,
@@ -101,6 +119,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "83",
     "NAF Name": "Firebreather",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 164.10732421137817,
     "tournaments": 7,
     "gamesWon": 19,
@@ -112,6 +132,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "87",
     "NAF Name": "longfang",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.38921333211735,
     "tournaments": 1,
     "gamesWon": 3,
@@ -123,6 +145,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "91",
     "NAF Name": "Erix",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 166.4823793912391,
     "tournaments": 2,
     "gamesWon": 5,
@@ -134,6 +158,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "92",
     "NAF Name": "Skaffen",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.99565855634714,
     "tournaments": 1,
     "gamesWon": 1,
@@ -145,6 +171,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "99",
     "NAF Name": "Trambi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.64634664004237,
     "tournaments": 4,
     "gamesWon": 6,
@@ -156,6 +184,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "101",
     "NAF Name": "Longshot",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 171.1536195454167,
     "tournaments": 1,
     "gamesWon": 4,
@@ -167,6 +197,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "102",
     "NAF Name": "Darkson",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 157.46713506604178,
     "tournaments": 5,
     "gamesWon": 12,
@@ -178,6 +210,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "103",
     "NAF Name": "Grumbledook",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.7299212121135,
     "tournaments": 7,
     "gamesWon": 15,
@@ -189,6 +223,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "104",
     "NAF Name": "Kolja_TBBF",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.8389296058621,
     "tournaments": 1,
     "gamesWon": 1,
@@ -200,6 +236,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "105",
     "NAF Name": "GalakStarscraper",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.1223047830436,
     "tournaments": 1,
     "gamesWon": 2,
@@ -211,6 +249,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "113",
     "NAF Name": "Da_Scum",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 157.4803076461943,
     "tournaments": 1,
     "gamesWon": 3,
@@ -222,6 +262,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "126",
     "NAF Name": "dolferl",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 149.86443649035405,
     "tournaments": 1,
     "gamesWon": 2,
@@ -233,6 +275,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "128",
     "NAF Name": "miloquaser",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 194.6401101328489,
     "tournaments": 5,
     "gamesWon": 14,
@@ -244,6 +288,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "129",
     "NAF Name": "jelmer",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 227.98762889030033,
     "tournaments": 7,
     "gamesWon": 27,
@@ -255,6 +301,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "130",
     "NAF Name": "madhobbit",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 131.26296018349564,
     "tournaments": 2,
     "gamesWon": 4,
@@ -266,6 +314,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "137",
     "NAF Name": "Bluedevil",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 153.90449992818736,
     "tournaments": 1,
     "gamesWon": 3,
@@ -277,6 +327,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "140",
     "NAF Name": "Dave",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 154.0078515122569,
     "tournaments": 3,
     "gamesWon": 5,
@@ -288,6 +340,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "141",
     "NAF Name": "Grotemuis",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 174.91556772571047,
     "tournaments": 2,
     "gamesWon": 8,
@@ -299,6 +353,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "144",
     "NAF Name": "Norse",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.40996688366386,
     "tournaments": 2,
     "gamesWon": 3,
@@ -310,6 +366,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "149",
     "NAF Name": "Podfrey",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 201.22614187474127,
     "tournaments": 7,
     "gamesWon": 20,
@@ -321,6 +379,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "151",
     "NAF Name": "Straeten",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 141.893661735978,
     "tournaments": 3,
     "gamesWon": 7,
@@ -332,6 +392,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "152",
     "NAF Name": "Gorbad",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 147.2543635107893,
     "tournaments": 2,
     "gamesWon": 4,
@@ -343,6 +405,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "153",
     "NAF Name": "Mole",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 158.19686992796773,
     "tournaments": 1,
     "gamesWon": 3,
@@ -354,6 +418,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "154",
     "NAF Name": "Jonny_P",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 158.6487505074235,
     "tournaments": 8,
     "gamesWon": 15,
@@ -365,6 +431,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "171",
     "NAF Name": "majortusk",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 165.4341146505975,
     "tournaments": 1,
     "gamesWon": 3,
@@ -376,6 +444,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "172",
     "NAF Name": "Tim",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 182.4771317510612,
     "tournaments": 4,
     "gamesWon": 10,
@@ -387,6 +457,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "184",
     "NAF Name": "gonmorcas",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 155.39155701566006,
     "tournaments": 1,
     "gamesWon": 2,
@@ -398,6 +470,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "190",
     "NAF Name": "GDRA",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 148.30128814744788,
     "tournaments": 1,
     "gamesWon": 2,
@@ -409,6 +483,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "203",
     "NAF Name": "MattRobson",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 136.32565708094558,
     "tournaments": 3,
     "gamesWon": 5,
@@ -420,6 +496,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "207",
     "NAF Name": "doc_drak",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 122.84072635326322,
     "tournaments": 2,
     "gamesWon": 5,
@@ -431,6 +509,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "210",
     "NAF Name": "fe2mike",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 120.24845897206525,
     "tournaments": 4,
     "gamesWon": 3,
@@ -442,6 +522,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "219",
     "NAF Name": "Thadrin",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 136.7163636736701,
     "tournaments": 3,
     "gamesWon": 5,
@@ -453,6 +535,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "227",
     "NAF Name": "Evilbutgood",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.31131106219158,
     "tournaments": 4,
     "gamesWon": 8,
@@ -464,6 +548,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "229",
     "NAF Name": "Odium_Khan",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 157.6710500424838,
     "tournaments": 1,
     "gamesWon": 3,
@@ -475,6 +561,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "230",
     "NAF Name": "lawquoter",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 140.8269956104022,
     "tournaments": 2,
     "gamesWon": 2,
@@ -486,6 +574,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "256",
     "NAF Name": "Deacon",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 151.535755198256,
     "tournaments": 1,
     "gamesWon": 3,
@@ -497,6 +587,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "272",
     "NAF Name": "Kafre",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 133.84187665224988,
     "tournaments": 3,
     "gamesWon": 2,
@@ -508,6 +600,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "283",
     "NAF Name": "Quermitt",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 153.43168652692623,
     "tournaments": 4,
     "gamesWon": 8,
@@ -519,6 +613,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "314",
     "NAF Name": "Tomba",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.31319055708579,
     "tournaments": 1,
     "gamesWon": 0,
@@ -530,6 +626,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "329",
     "NAF Name": "Elan",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 171.1775255154383,
     "tournaments": 1,
     "gamesWon": 6,
@@ -541,6 +639,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "341",
     "NAF Name": "Prince",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 160.5365366233854,
     "tournaments": 6,
     "gamesWon": 16,
@@ -552,6 +652,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "347",
     "NAF Name": "Aramil",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 149.7517080122981,
     "tournaments": 1,
     "gamesWon": 0,
@@ -563,6 +665,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "371",
     "NAF Name": "Loki",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 132.86578525880563,
     "tournaments": 3,
     "gamesWon": 5,
@@ -574,6 +678,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "372",
     "NAF Name": "Maitre_tactac",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 175.77902017920448,
     "tournaments": 3,
     "gamesWon": 7,
@@ -585,6 +691,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "419",
     "NAF Name": "Arkhandzar",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.34360926038414,
     "tournaments": 1,
     "gamesWon": 2,
@@ -596,6 +704,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "439",
     "NAF Name": "shadow",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 186.2300056646777,
     "tournaments": 10,
     "gamesWon": 31,
@@ -607,6 +717,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "441",
     "NAF Name": "freckles",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.84309838775437,
     "tournaments": 1,
     "gamesWon": 1,
@@ -618,6 +730,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "443",
     "NAF Name": "smeborg",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 165.67665443130582,
     "tournaments": 1,
     "gamesWon": 4,
@@ -629,6 +743,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "444",
     "NAF Name": "ponkavitch",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 172.41283802805506,
     "tournaments": 4,
     "gamesWon": 11,
@@ -640,6 +756,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "445",
     "NAF Name": "Chopper",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 169.42997345960424,
     "tournaments": 2,
     "gamesWon": 6,
@@ -651,6 +769,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "450",
     "NAF Name": "mkfan",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 135.25506005611695,
     "tournaments": 1,
     "gamesWon": 0,
@@ -662,6 +782,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "451",
     "NAF Name": "Drakeular",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 145.50467164877168,
     "tournaments": 4,
     "gamesWon": 10,
@@ -673,6 +795,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "454",
     "NAF Name": "jaron",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 143.03985955685826,
     "tournaments": 1,
     "gamesWon": 2,
@@ -684,6 +808,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "456",
     "NAF Name": "Azza",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 209.72053838728033,
     "tournaments": 6,
     "gamesWon": 25,
@@ -695,6 +821,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "458",
     "NAF Name": "shambles",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 164.7202118281817,
     "tournaments": 1,
     "gamesWon": 2,
@@ -706,6 +834,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "468",
     "NAF Name": "Traveller",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 132.06852395008488,
     "tournaments": 2,
     "gamesWon": 2,
@@ -717,6 +847,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "493",
     "NAF Name": "Mordredd",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 180.33563453868356,
     "tournaments": 1,
     "gamesWon": 5,
@@ -728,6 +860,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "494",
     "NAF Name": "Khail",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 174.53634567015226,
     "tournaments": 3,
     "gamesWon": 7,
@@ -739,6 +873,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "517",
     "NAF Name": "Rustycan",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 135.3826639527138,
     "tournaments": 1,
     "gamesWon": 2,
@@ -750,6 +886,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "520",
     "NAF Name": "Balbaroy",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 143.47865696573464,
     "tournaments": 1,
     "gamesWon": 1,
@@ -761,6 +899,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "533",
     "NAF Name": "Spiky",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.18993479040333,
     "tournaments": 1,
     "gamesWon": 4,
@@ -772,6 +912,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "556",
     "NAF Name": "Ben",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 153.39667988365483,
     "tournaments": 1,
     "gamesWon": 2,
@@ -783,6 +925,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "559",
     "NAF Name": "jaylazer",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.7554698849292,
     "tournaments": 1,
     "gamesWon": 1,
@@ -794,6 +938,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "574",
     "NAF Name": "Snake_Eyes",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 143.35110133626802,
     "tournaments": 4,
     "gamesWon": 5,
@@ -805,6 +951,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "772",
     "NAF Name": "madrobot",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 171.5672083896994,
     "tournaments": 4,
     "gamesWon": 10,
@@ -816,6 +964,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "885",
     "NAF Name": "unholyjeti",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 158.21042602775427,
     "tournaments": 2,
     "gamesWon": 4,
@@ -827,6 +977,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1014",
     "NAF Name": "daloonieshaman",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 105.73956324792752,
     "tournaments": 8,
     "gamesWon": 4,
@@ -838,6 +990,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1101",
     "NAF Name": "Tommer",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 211.04808349716598,
     "tournaments": 6,
     "gamesWon": 18,
@@ -849,6 +1003,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1102",
     "NAF Name": "K",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 174.57759081420642,
     "tournaments": 12,
     "gamesWon": 26,
@@ -860,6 +1016,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1103",
     "NAF Name": "Tarra",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 153.33702039341253,
     "tournaments": 2,
     "gamesWon": 3,
@@ -871,6 +1029,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1106",
     "NAF Name": "Furelli",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 153.23569637447585,
     "tournaments": 1,
     "gamesWon": 1,
@@ -882,6 +1042,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1109",
     "NAF Name": "Corvidius",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.85638378088547,
     "tournaments": 1,
     "gamesWon": 1,
@@ -893,6 +1055,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1116",
     "NAF Name": "Zodiac",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 157.6971123394786,
     "tournaments": 2,
     "gamesWon": 4,
@@ -904,6 +1068,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1117",
     "NAF Name": "N_Key",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 131.18853493872717,
     "tournaments": 2,
     "gamesWon": 1,
@@ -915,6 +1081,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1121",
     "NAF Name": "Sewer Scum",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 121.20669622702869,
     "tournaments": 1,
     "gamesWon": 0,
@@ -926,6 +1094,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1123",
     "NAF Name": "Shaniepoo1",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 132.1889601856998,
     "tournaments": 4,
     "gamesWon": 7,
@@ -937,6 +1107,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1125",
     "NAF Name": "Doubleskulls",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.433890932539,
     "tournaments": 5,
     "gamesWon": 13,
@@ -948,6 +1120,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1126",
     "NAF Name": "Long_Bomb",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 175.5594443159488,
     "tournaments": 4,
     "gamesWon": 13,
@@ -959,6 +1133,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1135",
     "NAF Name": "Blitzwing",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 180.72799308100193,
     "tournaments": 3,
     "gamesWon": 10,
@@ -970,6 +1146,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1141",
     "NAF Name": "Shortarse",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.24514605211792,
     "tournaments": 1,
     "gamesWon": 2,
@@ -981,6 +1159,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1155",
     "NAF Name": "Slatfordicus",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 164.69768280781966,
     "tournaments": 1,
     "gamesWon": 4,
@@ -992,6 +1172,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1156",
     "NAF Name": "ManticoreRich",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.01658544696622,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1003,6 +1185,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1158",
     "NAF Name": "Tashton1",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.1037503657976,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1014,6 +1198,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1191",
     "NAF Name": "thorgrum",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 145.25074188153627,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1025,6 +1211,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1305",
     "NAF Name": "wesleytj",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.5436824805798,
     "tournaments": 2,
     "gamesWon": 1,
@@ -1036,6 +1224,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1315",
     "NAF Name": "Xtreme",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.63511858345126,
     "tournaments": 7,
     "gamesWon": 13,
@@ -1047,6 +1237,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1484",
     "NAF Name": "Raverten",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 116.58529559300447,
     "tournaments": 2,
     "gamesWon": 1,
@@ -1058,6 +1250,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1507",
     "NAF Name": "Six_Foot_Dwarf",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 153.9317191726899,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1069,6 +1263,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1524",
     "NAF Name": "El_Condor",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 142.88548369403784,
     "tournaments": 3,
     "gamesWon": 7,
@@ -1080,6 +1276,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1538",
     "NAF Name": "Valen",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 189.67139788336675,
     "tournaments": 4,
     "gamesWon": 11,
@@ -1091,6 +1289,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1621",
     "NAF Name": "vmcat",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 179.33887368888603,
     "tournaments": 14,
     "gamesWon": 38,
@@ -1102,6 +1302,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1724",
     "NAF Name": "weerdo",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 147.51031303899927,
     "tournaments": 1,
     "gamesWon": 4,
@@ -1113,6 +1315,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1761",
     "NAF Name": "dwarfcoach",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.44054150399313,
     "tournaments": 2,
     "gamesWon": 5,
@@ -1124,6 +1328,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1814",
     "NAF Name": "Old_Man_Monkey",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 162.5241982039013,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1135,6 +1341,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1825",
     "NAF Name": "Maddog2020",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.10765826091472,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1146,6 +1354,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1879",
     "NAF Name": "orkfrau",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.84310998849725,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1157,6 +1367,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1882",
     "NAF Name": "Ombi",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.13457363483428,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1168,6 +1380,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1885",
     "NAF Name": "OZjesting",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 139.10825965360698,
     "tournaments": 3,
     "gamesWon": 6,
@@ -1179,6 +1393,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1886",
     "NAF Name": "Thymian",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 158.52626443831062,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1190,6 +1406,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1890",
     "NAF Name": "JoeKano",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 89.46060233111656,
     "tournaments": 4,
     "gamesWon": 5,
@@ -1201,6 +1419,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "1991",
     "NAF Name": "Apostol",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 148.86812598183582,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1212,6 +1432,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2100",
     "NAF Name": "MrNuffle",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 147.8486777629057,
     "tournaments": 5,
     "gamesWon": 10,
@@ -1223,6 +1445,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2118",
     "NAF Name": "keith_reed",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.7398424266651,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1234,6 +1458,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2193",
     "NAF Name": "OdoGoodgrubb",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1245,6 +1471,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2233",
     "NAF Name": "Sjapie",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 176.9322954088161,
     "tournaments": 8,
     "gamesWon": 19,
@@ -1256,6 +1484,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2234",
     "NAF Name": "BrassSam",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 164.67472851573677,
     "tournaments": 5,
     "gamesWon": 11,
@@ -1267,6 +1497,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2271",
     "NAF Name": "frostie",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 149.52614052727577,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1278,6 +1510,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2402",
     "NAF Name": "superjay",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 146.47788633574754,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1289,6 +1523,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2412",
     "NAF Name": "fnord23",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 179.03994195137997,
     "tournaments": 13,
     "gamesWon": 31,
@@ -1300,6 +1536,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2420",
     "NAF Name": "Hangus",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 186.40103882723471,
     "tournaments": 6,
     "gamesWon": 20,
@@ -1311,6 +1549,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2433",
     "NAF Name": "Airus",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 168.14840363855654,
     "tournaments": 3,
     "gamesWon": 5,
@@ -1322,6 +1562,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2443",
     "NAF Name": "Ull",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 152.76726094766133,
     "tournaments": 1,
     "gamesWon": 4,
@@ -1333,6 +1575,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2444",
     "NAF Name": "Sugarwookie",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 127.409755170716,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1344,6 +1588,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2460",
     "NAF Name": "KaduC",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.65388419957443,
     "tournaments": 10,
     "gamesWon": 12,
@@ -1355,6 +1601,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2464",
     "NAF Name": "Sladmortis",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 204.32090521015928,
     "tournaments": 9,
     "gamesWon": 26,
@@ -1366,6 +1614,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2514",
     "NAF Name": "Cocacola",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 147.13211675323353,
     "tournaments": 2,
     "gamesWon": 2,
@@ -1377,6 +1627,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2515",
     "NAF Name": "Yeti",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 152.50744963152695,
     "tournaments": 6,
     "gamesWon": 12,
@@ -1388,6 +1640,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2516",
     "NAF Name": "Enologo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 127.06961302239081,
     "tournaments": 3,
     "gamesWon": 3,
@@ -1399,6 +1653,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2519",
     "NAF Name": "obeliz",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 204.32202309205917,
     "tournaments": 7,
     "gamesWon": 15,
@@ -1410,6 +1666,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2557",
     "NAF Name": "devilstree",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 153.52550148294344,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1421,6 +1679,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2659",
     "NAF Name": "turfchewer",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 132.8429133232472,
     "tournaments": 3,
     "gamesWon": 2,
@@ -1432,6 +1692,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2702",
     "NAF Name": "jkarr",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.8151563018538,
     "tournaments": 4,
     "gamesWon": 5,
@@ -1443,6 +1705,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2714",
     "NAF Name": "Schwifty",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 134.11059007699728,
     "tournaments": 7,
     "gamesWon": 17,
@@ -1454,6 +1718,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2730",
     "NAF Name": "Juke",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 140.23443452745974,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1465,6 +1731,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2736",
     "NAF Name": "Sharky2k",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 135.31785995721643,
     "tournaments": 2,
     "gamesWon": 4,
@@ -1476,6 +1744,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2746",
     "NAF Name": "Xeterog",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.4018216422931,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1487,6 +1757,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2748",
     "NAF Name": "MadMan70",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.09392714549068,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1498,6 +1770,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2756",
     "NAF Name": "Dragonbait",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 136.38640256085432,
     "tournaments": 6,
     "gamesWon": 6,
@@ -1509,6 +1783,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2757",
     "NAF Name": "tirkha",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 149.90415047026812,
     "tournaments": 3,
     "gamesWon": 6,
@@ -1520,6 +1796,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2762",
     "NAF Name": "strangelovess",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 132.3252762042718,
     "tournaments": 2,
     "gamesWon": 3,
@@ -1531,6 +1809,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2785",
     "NAF Name": "Jokaero",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 204.35597914545346,
     "tournaments": 7,
     "gamesWon": 29,
@@ -1542,6 +1822,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2795",
     "NAF Name": "Planlos",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 176.4785686077974,
     "tournaments": 8,
     "gamesWon": 20,
@@ -1553,6 +1835,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2802",
     "NAF Name": "Utak",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 170.7220910058609,
     "tournaments": 7,
     "gamesWon": 18,
@@ -1564,6 +1848,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2803",
     "NAF Name": "Mindless",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 137.7190052963242,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1575,6 +1861,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2808",
     "NAF Name": "Miko",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 163.7618989080288,
     "tournaments": 2,
     "gamesWon": 7,
@@ -1586,6 +1874,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2854",
     "NAF Name": "Clan_Skaven",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 147.12426333621036,
     "tournaments": 2,
     "gamesWon": 5,
@@ -1597,6 +1887,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2870",
     "NAF Name": "Lycos",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 238.6301897074745,
     "tournaments": 26,
     "gamesWon": 95,
@@ -1608,6 +1900,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2907",
     "NAF Name": "Sir",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 139.50093111530268,
     "tournaments": 2,
     "gamesWon": 4,
@@ -1619,6 +1913,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2910",
     "NAF Name": "Muck",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 153.15498057730812,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1630,6 +1926,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2913",
     "NAF Name": "Kheldar",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 166.21569065557273,
     "tournaments": 1,
     "gamesWon": 6,
@@ -1641,6 +1939,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2914",
     "NAF Name": "Copper",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 138.3910580296483,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1652,6 +1952,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2916",
     "NAF Name": "Willi",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 134.4387256095366,
     "tournaments": 2,
     "gamesWon": 4,
@@ -1663,6 +1965,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2925",
     "NAF Name": "Dark_Duke",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 178.69486808212554,
     "tournaments": 7,
     "gamesWon": 19,
@@ -1674,6 +1978,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2949",
     "NAF Name": "elonti",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 147.13267480436863,
     "tournaments": 2,
     "gamesWon": 4,
@@ -1685,6 +1991,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "2971",
     "NAF Name": "SuM",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 141.99456885870254,
     "tournaments": 2,
     "gamesWon": 0,
@@ -1696,6 +2004,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3038",
     "NAF Name": "SHADEKNIGHT",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 204.5821367339991,
     "tournaments": 6,
     "gamesWon": 19,
@@ -1707,6 +2017,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3122",
     "NAF Name": "AGF",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 163.19965747493134,
     "tournaments": 4,
     "gamesWon": 9,
@@ -1718,6 +2030,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3225",
     "NAF Name": "laraigne",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 141.85545379515406,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1729,6 +2043,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3228",
     "NAF Name": "valdric",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.08865914931027,
     "tournaments": 9,
     "gamesWon": 13,
@@ -1740,6 +2056,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3279",
     "NAF Name": "anthrax",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 142.28145229492333,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1751,6 +2069,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3290",
     "NAF Name": "barry",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 157.5227691077039,
     "tournaments": 9,
     "gamesWon": 17,
@@ -1762,6 +2082,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3294",
     "NAF Name": "SirMayans",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 193.50886283553137,
     "tournaments": 12,
     "gamesWon": 36,
@@ -1773,6 +2095,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3300",
     "NAF Name": "badmoon",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 150.1264105108284,
     "tournaments": 2,
     "gamesWon": 3,
@@ -1784,6 +2108,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3302",
     "NAF Name": "shumy",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 113.69562588086525,
     "tournaments": 4,
     "gamesWon": 3,
@@ -1795,6 +2121,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3312",
     "NAF Name": "Joemanji",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 262.74770052886237,
     "tournaments": 20,
     "gamesWon": 79,
@@ -1806,6 +2134,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3354",
     "NAF Name": "ForceCommander",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.7034878951295,
     "tournaments": 3,
     "gamesWon": 3,
@@ -1817,6 +2147,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3398",
     "NAF Name": "Tatxen",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 130.5382857857889,
     "tournaments": 4,
     "gamesWon": 4,
@@ -1828,6 +2160,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3408",
     "NAF Name": "Zeeboub",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 136.68308208752913,
     "tournaments": 2,
     "gamesWon": 4,
@@ -1839,6 +2173,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3409",
     "NAF Name": "Kool",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 129.64824575601344,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1850,6 +2186,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3528",
     "NAF Name": "Roller",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 205.16104798741188,
     "tournaments": 10,
     "gamesWon": 39,
@@ -1861,6 +2199,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3529",
     "NAF Name": "AMARANTH",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 112.34841857066512,
     "tournaments": 3,
     "gamesWon": 3,
@@ -1872,6 +2212,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3531",
     "NAF Name": "Diogen",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 108.71769654561874,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1883,6 +2225,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3533",
     "NAF Name": "Farina",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 185.8747217672475,
     "tournaments": 8,
     "gamesWon": 28,
@@ -1894,6 +2238,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3564",
     "NAF Name": "Beppe",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 218.27363546775615,
     "tournaments": 12,
     "gamesWon": 47,
@@ -1905,6 +2251,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3573",
     "NAF Name": "Baugh2",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 158.0316597525221,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1916,6 +2264,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3615",
     "NAF Name": "Wightlord",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 191.29085036985427,
     "tournaments": 4,
     "gamesWon": 14,
@@ -1927,6 +2277,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3623",
     "NAF Name": "battlepuppy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.04234964288904,
     "tournaments": 3,
     "gamesWon": 4,
@@ -1938,6 +2290,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3676",
     "NAF Name": "Ignaz",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 170.0881346237191,
     "tournaments": 4,
     "gamesWon": 14,
@@ -1949,6 +2303,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3709",
     "NAF Name": "howlinggriffon",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 148.7317930951268,
     "tournaments": 2,
     "gamesWon": 4,
@@ -1960,6 +2316,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3743",
     "NAF Name": "DaBoar",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 212.3997799096014,
     "tournaments": 11,
     "gamesWon": 32,
@@ -1971,6 +2329,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3823",
     "NAF Name": "Giraffe",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.67641032802237,
     "tournaments": 3,
     "gamesWon": 6,
@@ -1982,6 +2342,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3843",
     "NAF Name": "Casper",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 164.9976441032235,
     "tournaments": 2,
     "gamesWon": 4,
@@ -1993,6 +2355,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3874",
     "NAF Name": "Kithor",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 178.12519819528248,
     "tournaments": 6,
     "gamesWon": 19,
@@ -2004,6 +2368,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3902",
     "NAF Name": "Azaghal_es",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 161.53911187962694,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2015,6 +2381,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3909",
     "NAF Name": "punishergrim",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 152.45006840769207,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2026,6 +2394,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3966",
     "NAF Name": "TuernRedvenom",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 151.69689157360855,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2037,6 +2407,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "3967",
     "NAF Name": "FischerKing",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 203.93066746920357,
     "tournaments": 1,
     "gamesWon": 7,
@@ -2048,6 +2420,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4002",
     "NAF Name": "Ronnie",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 167.5416304910344,
     "tournaments": 7,
     "gamesWon": 18,
@@ -2059,6 +2433,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4019",
     "NAF Name": "JC",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 185.12957639355952,
     "tournaments": 3,
     "gamesWon": 8,
@@ -2070,6 +2446,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4051",
     "NAF Name": "bigallium",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.15520313760962,
     "tournaments": 4,
     "gamesWon": 9,
@@ -2081,6 +2459,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4095",
     "NAF Name": "Dante",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 160.63128053372068,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2092,6 +2472,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4102",
     "NAF Name": "Flix",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 226.60686132262165,
     "tournaments": 5,
     "gamesWon": 22,
@@ -2103,6 +2485,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4243",
     "NAF Name": "Boshka",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.79555504416413,
     "tournaments": 3,
     "gamesWon": 5,
@@ -2114,6 +2498,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4244",
     "NAF Name": "flyingdingle",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 204.5803730950216,
     "tournaments": 9,
     "gamesWon": 27,
@@ -2125,6 +2511,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4246",
     "NAF Name": "Totti",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 158.32042932704567,
     "tournaments": 2,
     "gamesWon": 4,
@@ -2136,6 +2524,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4261",
     "NAF Name": "Sledge",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 165.53970831265076,
     "tournaments": 9,
     "gamesWon": 19,
@@ -2147,6 +2537,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4265",
     "NAF Name": "Dreadful_Dan",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 140.8015508273505,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2158,6 +2550,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4268",
     "NAF Name": "coach_McGinty",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 147.7428072401223,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2169,6 +2563,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4273",
     "NAF Name": "Damage",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 143.37207631349077,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2180,6 +2576,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4380",
     "NAF Name": "Leipziger",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 175.72855018962255,
     "tournaments": 10,
     "gamesWon": 27,
@@ -2191,6 +2589,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4387",
     "NAF Name": "OldManDraco",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 116.22322603213168,
     "tournaments": 5,
     "gamesWon": 3,
@@ -2202,6 +2602,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4398",
     "NAF Name": "Talkarde",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.4237780830644,
     "tournaments": 4,
     "gamesWon": 8,
@@ -2213,6 +2615,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4504",
     "NAF Name": "kilroy07",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 136.84867780576528,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2224,6 +2628,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4539",
     "NAF Name": "Hullekoenig",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 142.9476623526415,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2235,6 +2641,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4551",
     "NAF Name": "Thorson",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 112.70100999325932,
     "tournaments": 2,
     "gamesWon": 3,
@@ -2246,6 +2654,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4554",
     "NAF Name": "Oliver",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 166.50006280873285,
     "tournaments": 1,
     "gamesWon": 4,
@@ -2257,6 +2667,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4580",
     "NAF Name": "juergen",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 142.87771136429703,
     "tournaments": 2,
     "gamesWon": 4,
@@ -2268,6 +2680,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4693",
     "NAF Name": "MathiasToss",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 158.19357611265343,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2279,6 +2693,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4768",
     "NAF Name": "Indibro",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 164.03512098952706,
     "tournaments": 1,
     "gamesWon": 4,
@@ -2290,6 +2706,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4769",
     "NAF Name": "Prez",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 166.60571569802417,
     "tournaments": 2,
     "gamesWon": 3,
@@ -2301,6 +2719,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4782",
     "NAF Name": "Artico",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 177.77421055184803,
     "tournaments": 6,
     "gamesWon": 18,
@@ -2312,6 +2732,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4789",
     "NAF Name": "frozenflame",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 171.0535863969435,
     "tournaments": 3,
     "gamesWon": 8,
@@ -2323,6 +2745,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4812",
     "NAF Name": "alternat",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 101.52894445639983,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2334,6 +2758,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4818",
     "NAF Name": "Frikipe",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 237.4407318236212,
     "tournaments": 13,
     "gamesWon": 50,
@@ -2345,6 +2771,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4824",
     "NAF Name": "Lizardcore",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 168.3471096065449,
     "tournaments": 7,
     "gamesWon": 21,
@@ -2356,6 +2784,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4828",
     "NAF Name": "Yamagata",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 162.46932358701508,
     "tournaments": 3,
     "gamesWon": 8,
@@ -2367,6 +2797,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4844",
     "NAF Name": "Zulo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 143.7278043448018,
     "tournaments": 1,
     "gamesWon": 0,
@@ -2378,6 +2810,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4895",
     "NAF Name": "Banelord",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 198.010942173866,
     "tournaments": 5,
     "gamesWon": 20,
@@ -2389,6 +2823,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4933",
     "NAF Name": "Battleaxe",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.91157491418673,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2400,6 +2836,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "4978",
     "NAF Name": "Aredhel",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 123.18113703050406,
     "tournaments": 7,
     "gamesWon": 7,
@@ -2411,6 +2849,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5009",
     "NAF Name": "Fyennyj",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.35968792460815,
     "tournaments": 2,
     "gamesWon": 4,
@@ -2422,6 +2862,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5013",
     "NAF Name": "Alfindor",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.90149863497717,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2433,6 +2875,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5017",
     "NAF Name": "Richy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 173.85097257057657,
     "tournaments": 2,
     "gamesWon": 6,
@@ -2444,6 +2888,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5024",
     "NAF Name": "Rodders",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 162.66986933194292,
     "tournaments": 4,
     "gamesWon": 9,
@@ -2455,6 +2901,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5075",
     "NAF Name": "slup",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 171.02680070831775,
     "tournaments": 4,
     "gamesWon": 7,
@@ -2466,6 +2914,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5116",
     "NAF Name": "Boomer",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 153.9455222862916,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2477,6 +2927,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5131",
     "NAF Name": "Besters",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 219.18427656964087,
     "tournaments": 12,
     "gamesWon": 42,
@@ -2488,6 +2940,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5143",
     "NAF Name": "MagicDave",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 148.4827704613917,
     "tournaments": 5,
     "gamesWon": 9,
@@ -2499,6 +2953,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5153",
     "NAF Name": "Lowny",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.99032624147426,
     "tournaments": 3,
     "gamesWon": 6,
@@ -2510,6 +2966,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5227",
     "NAF Name": "landrover",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 153.40730730381077,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2521,6 +2979,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5232",
     "NAF Name": "neilpferd",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 164.38464133530408,
     "tournaments": 3,
     "gamesWon": 5,
@@ -2532,6 +2992,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5236",
     "NAF Name": "KarlLagerbottom",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.69087220228633,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2543,6 +3005,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5256",
     "NAF Name": "docGneri",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 181.56820173999728,
     "tournaments": 4,
     "gamesWon": 14,
@@ -2554,6 +3018,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5269",
     "NAF Name": "RatDaddy",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 111.72037598636012,
     "tournaments": 3,
     "gamesWon": 5,
@@ -2565,6 +3031,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5271",
     "NAF Name": "SirSebstar",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 147.5678106338352,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2576,6 +3044,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5275",
     "NAF Name": "bb_nut",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 173.49888209579433,
     "tournaments": 1,
     "gamesWon": 4,
@@ -2587,6 +3057,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5290",
     "NAF Name": "Pipey",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 186.71006789852012,
     "tournaments": 15,
     "gamesWon": 50,
@@ -2598,6 +3070,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5299",
     "NAF Name": "CoffinDodger",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 161.85479747294633,
     "tournaments": 3,
     "gamesWon": 4,
@@ -2609,6 +3083,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5326",
     "NAF Name": "Grod",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 171.4978071046667,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2620,6 +3096,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5341",
     "NAF Name": "DukeJan",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 155.46853845546815,
     "tournaments": 7,
     "gamesWon": 19,
@@ -2631,6 +3109,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5432",
     "NAF Name": "shadark",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 143.65005977689532,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2642,6 +3122,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5434",
     "NAF Name": "bampf",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 177.58854511270206,
     "tournaments": 5,
     "gamesWon": 9,
@@ -2653,6 +3135,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5446",
     "NAF Name": "angryrob",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 141.2343696749681,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2664,6 +3148,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5454",
     "NAF Name": "TulloOstilio",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 149.19630176918884,
     "tournaments": 2,
     "gamesWon": 6,
@@ -2675,6 +3161,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5458",
     "NAF Name": "Pauli",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 148.37599582158884,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2686,6 +3174,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5464",
     "NAF Name": "ConanSPQR",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 170.24701703922932,
     "tournaments": 4,
     "gamesWon": 11,
@@ -2697,6 +3187,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5530",
     "NAF Name": "Ragme",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 141.91581235027596,
     "tournaments": 3,
     "gamesWon": 6,
@@ -2708,6 +3200,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5531",
     "NAF Name": "Ethrylain",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 169.1471253524272,
     "tournaments": 3,
     "gamesWon": 6,
@@ -2719,6 +3213,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5594",
     "NAF Name": "Gotrek",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 193.04082501439248,
     "tournaments": 8,
     "gamesWon": 20,
@@ -2730,6 +3226,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5596",
     "NAF Name": "ATWA",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 178.46890744636667,
     "tournaments": 4,
     "gamesWon": 8,
@@ -2741,6 +3239,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5642",
     "NAF Name": "Schwager",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 149.99599040612654,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2752,6 +3252,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5648",
     "NAF Name": "greghagg",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 146.93236473514457,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2763,6 +3265,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5654",
     "NAF Name": "Pulpo_Fiction",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 175.45233970794897,
     "tournaments": 3,
     "gamesWon": 9,
@@ -2774,6 +3278,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5663",
     "NAF Name": "yiyo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.3085982484885,
     "tournaments": 6,
     "gamesWon": 10,
@@ -2785,6 +3291,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5675",
     "NAF Name": "Spazzfist",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 138.04320105006374,
     "tournaments": 7,
     "gamesWon": 9,
@@ -2796,6 +3304,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5683",
     "NAF Name": "Excitable_Rob",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.4197576413846,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2807,6 +3317,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5707",
     "NAF Name": "Pellox",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.85190404514543,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2818,6 +3330,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5734",
     "NAF Name": "Talons",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.94649382504358,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2829,6 +3343,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5736",
     "NAF Name": "SkavenBoy",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 148.99014141013816,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2840,6 +3356,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5767",
     "NAF Name": "Schmee",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 107.20365792572505,
     "tournaments": 5,
     "gamesWon": 7,
@@ -2851,6 +3369,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5773",
     "NAF Name": "Mitico",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 163.98065836766187,
     "tournaments": 10,
     "gamesWon": 22,
@@ -2862,6 +3382,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5778",
     "NAF Name": "koliriokolapso",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 169.07817322054842,
     "tournaments": 12,
     "gamesWon": 32,
@@ -2873,6 +3395,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5787",
     "NAF Name": "Motorheadjones",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 165.5648654116049,
     "tournaments": 3,
     "gamesWon": 8,
@@ -2884,6 +3408,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5790",
     "NAF Name": "Grotuk",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 158.1734714706345,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2895,6 +3421,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5798",
     "NAF Name": "Yena",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 235.03722454155638,
     "tournaments": 7,
     "gamesWon": 34,
@@ -2906,6 +3434,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5803",
     "NAF Name": "limona",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.5226491733992,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2917,6 +3447,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5804",
     "NAF Name": "Nagash",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.41108562562366,
     "tournaments": 3,
     "gamesWon": 3,
@@ -2928,6 +3460,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5844",
     "NAF Name": "Candlejack",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 181.64328825212954,
     "tournaments": 3,
     "gamesWon": 11,
@@ -2939,6 +3473,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5863",
     "NAF Name": "Rabid_Bogscum",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 205.71728348489268,
     "tournaments": 8,
     "gamesWon": 28,
@@ -2950,6 +3486,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5893",
     "NAF Name": "GORGOROTH",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 184.3434405354751,
     "tournaments": 3,
     "gamesWon": 11,
@@ -2961,6 +3499,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5900",
     "NAF Name": "Dirold",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 215.71492285096505,
     "tournaments": 10,
     "gamesWon": 34,
@@ -2972,6 +3512,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5903",
     "NAF Name": "andrea_parrella",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 172.22412001222708,
     "tournaments": 3,
     "gamesWon": 12,
@@ -2983,6 +3525,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5904",
     "NAF Name": "Solignac",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 151.64175857181007,
     "tournaments": 2,
     "gamesWon": 4,
@@ -2994,6 +3538,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5906",
     "NAF Name": "Liam",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 195.6234813068154,
     "tournaments": 11,
     "gamesWon": 35,
@@ -3005,6 +3551,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5907",
     "NAF Name": "Caronte",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 157.6575254095988,
     "tournaments": 2,
     "gamesWon": 6,
@@ -3016,6 +3564,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5909",
     "NAF Name": "DarkSteve",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 178.8734833492677,
     "tournaments": 3,
     "gamesWon": 10,
@@ -3027,6 +3577,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5912",
     "NAF Name": "Gurdulo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 112.65807076546537,
     "tournaments": 2,
     "gamesWon": 1,
@@ -3038,6 +3590,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "5952",
     "NAF Name": "Agiess",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.9414410885796,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3049,6 +3603,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6031",
     "NAF Name": "Amaroo",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 132.70239958518917,
     "tournaments": 5,
     "gamesWon": 6,
@@ -3060,6 +3616,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6034",
     "NAF Name": "alex_yde",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 142.28606970116832,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3071,6 +3629,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6039",
     "NAF Name": "Lines",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 141.00793948270257,
     "tournaments": 2,
     "gamesWon": 2,
@@ -3082,6 +3642,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6044",
     "NAF Name": "Buldogr",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 176.72433624320098,
     "tournaments": 6,
     "gamesWon": 14,
@@ -3093,6 +3655,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6046",
     "NAF Name": "Yashin",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 135.9201345483322,
     "tournaments": 2,
     "gamesWon": 3,
@@ -3104,6 +3668,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6048",
     "NAF Name": "mobo",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 147.39181728554541,
     "tournaments": 4,
     "gamesWon": 13,
@@ -3115,6 +3681,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6060",
     "NAF Name": "Taxal",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.83289906314624,
     "tournaments": 3,
     "gamesWon": 6,
@@ -3126,6 +3694,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6121",
     "NAF Name": "JaM",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 156.49694554405843,
     "tournaments": 2,
     "gamesWon": 5,
@@ -3137,6 +3707,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6123",
     "NAF Name": "Mepmuff",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 180.14018779011536,
     "tournaments": 5,
     "gamesWon": 14,
@@ -3148,6 +3720,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6144",
     "NAF Name": "SolarFlare",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 229.5284541295746,
     "tournaments": 9,
     "gamesWon": 31,
@@ -3159,6 +3733,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6145",
     "NAF Name": "Nathaniël",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 148.8003201269881,
     "tournaments": 3,
     "gamesWon": 5,
@@ -3170,6 +3746,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6157",
     "NAF Name": "avatar666",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.6489099905537,
     "tournaments": 6,
     "gamesWon": 9,
@@ -3181,6 +3759,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6164",
     "NAF Name": "TheLizardKing",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.47311403396742,
     "tournaments": 2,
     "gamesWon": 5,
@@ -3192,6 +3772,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6173",
     "NAF Name": "Ceridwen",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.4089507306978,
     "tournaments": 2,
     "gamesWon": 0,
@@ -3203,6 +3785,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6183",
     "NAF Name": "Driesfield",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 181.463544954329,
     "tournaments": 10,
     "gamesWon": 30,
@@ -3214,6 +3798,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6192",
     "NAF Name": "mrschutte",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 132.5978321643701,
     "tournaments": 2,
     "gamesWon": 3,
@@ -3225,6 +3811,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6193",
     "NAF Name": "szrlm",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 136.84973221178663,
     "tournaments": 5,
     "gamesWon": 10,
@@ -3236,6 +3824,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6208",
     "NAF Name": "Ocelot",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 148.97564391907846,
     "tournaments": 2,
     "gamesWon": 3,
@@ -3247,6 +3837,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6226",
     "NAF Name": "GeoffWatson",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 172.89172206608006,
     "tournaments": 6,
     "gamesWon": 17,
@@ -3258,6 +3850,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6261",
     "NAF Name": "Sebco",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 182.94215136566916,
     "tournaments": 5,
     "gamesWon": 15,
@@ -3269,6 +3863,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6269",
     "NAF Name": "Parroco",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 167.87644293505292,
     "tournaments": 5,
     "gamesWon": 9,
@@ -3280,6 +3876,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6298",
     "NAF Name": "Thiophene",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 140.09663306399594,
     "tournaments": 2,
     "gamesWon": 2,
@@ -3291,6 +3889,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6311",
     "NAF Name": "Necro",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.689626684266,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3302,6 +3902,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6327",
     "NAF Name": "Jolmel",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 163.4100023265134,
     "tournaments": 2,
     "gamesWon": 4,
@@ -3313,6 +3915,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6363",
     "NAF Name": "Topper",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 181.89474750769136,
     "tournaments": 1,
     "gamesWon": 6,
@@ -3324,6 +3928,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6376",
     "NAF Name": "Emi_-13-_",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 133.81236403017053,
     "tournaments": 8,
     "gamesWon": 16,
@@ -3335,6 +3941,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6384",
     "NAF Name": "Kalamier",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.15913746548168,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3346,6 +3954,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6398",
     "NAF Name": "Nonio",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 184.19194287285765,
     "tournaments": 5,
     "gamesWon": 14,
@@ -3357,6 +3967,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6433",
     "NAF Name": "KSL",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 135.25739382728528,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3368,6 +3980,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6438",
     "NAF Name": "Lasagna",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 161.5994045284586,
     "tournaments": 1,
     "gamesWon": 4,
@@ -3379,6 +3993,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6443",
     "NAF Name": "hunter",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 164.85199290974126,
     "tournaments": 3,
     "gamesWon": 5,
@@ -3390,6 +4006,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6481",
     "NAF Name": "Girathon",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 128.50053871071398,
     "tournaments": 5,
     "gamesWon": 10,
@@ -3401,6 +4019,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6487",
     "NAF Name": "Kuzzone",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 151.72635192442195,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3412,6 +4032,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6507",
     "NAF Name": "Bayernkini",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 147.01198537389863,
     "tournaments": 2,
     "gamesWon": 3,
@@ -3423,6 +4045,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6531",
     "NAF Name": "tag",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 139.017963365602,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3434,6 +4058,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6539",
     "NAF Name": "bifron",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 142.92312408424868,
     "tournaments": 3,
     "gamesWon": 3,
@@ -3445,6 +4071,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6554",
     "NAF Name": "Gaiba",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 168.24067244796797,
     "tournaments": 5,
     "gamesWon": 12,
@@ -3456,6 +4084,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6555",
     "NAF Name": "Eagle",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 154.76246735124613,
     "tournaments": 2,
     "gamesWon": 5,
@@ -3467,6 +4097,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6556",
     "NAF Name": "Maso",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 164.2614832628071,
     "tournaments": 2,
     "gamesWon": 4,
@@ -3478,6 +4110,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6576",
     "NAF Name": "Ranthorn",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 167.410579560117,
     "tournaments": 2,
     "gamesWon": 3,
@@ -3489,6 +4123,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6586",
     "NAF Name": "5000towin",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 109.07963133639309,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3500,6 +4136,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6587",
     "NAF Name": "Vinz_D",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 87.55508261778202,
     "tournaments": 5,
     "gamesWon": 3,
@@ -3511,6 +4149,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6588",
     "NAF Name": "Snoep",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 102.95300293359416,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3522,6 +4162,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6589",
     "NAF Name": "Bowlhunter",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 131.22374956318944,
     "tournaments": 2,
     "gamesWon": 3,
@@ -3533,6 +4175,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6617",
     "NAF Name": "Hellraiser",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 151.77468285822147,
     "tournaments": 5,
     "gamesWon": 14,
@@ -3544,6 +4188,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6619",
     "NAF Name": "Goloman",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 166.24139935155037,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3555,6 +4201,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6620",
     "NAF Name": "shlominus",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 171.94005931031248,
     "tournaments": 1,
     "gamesWon": 4,
@@ -3566,6 +4214,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6621",
     "NAF Name": "butcher",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 124.47466278253434,
     "tournaments": 2,
     "gamesWon": 3,
@@ -3577,6 +4227,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6623",
     "NAF Name": "Hellcat",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 138.52382637553862,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3588,6 +4240,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6626",
     "NAF Name": "Green_Velvet",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.32150004546574,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3599,6 +4253,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6627",
     "NAF Name": "Bossbazi",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 155.4718756215638,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3610,6 +4266,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6636",
     "NAF Name": "Floridaboy",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 195.4481012831733,
     "tournaments": 2,
     "gamesWon": 8,
@@ -3621,6 +4279,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6639",
     "NAF Name": "Nordmann",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 142.08619903448044,
     "tournaments": 2,
     "gamesWon": 6,
@@ -3632,6 +4292,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6640",
     "NAF Name": "Tom_Brady",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 147.36744452995634,
     "tournaments": 3,
     "gamesWon": 7,
@@ -3643,6 +4305,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6641",
     "NAF Name": "Steamroller",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 107.2857061644947,
     "tournaments": 2,
     "gamesWon": 2,
@@ -3654,6 +4318,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6670",
     "NAF Name": "zedsdead",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 184.42111745361413,
     "tournaments": 5,
     "gamesWon": 15,
@@ -3665,6 +4331,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6681",
     "NAF Name": "Alkaline13",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.92538036068862,
     "tournaments": 7,
     "gamesWon": 11,
@@ -3676,6 +4344,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6724",
     "NAF Name": "dan",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 149.1922111751898,
     "tournaments": 2,
     "gamesWon": 5,
@@ -3687,6 +4357,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6737",
     "NAF Name": "Twyllenimor",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 147.87321418225366,
     "tournaments": 5,
     "gamesWon": 9,
@@ -3698,6 +4370,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6742",
     "NAF Name": "Sworddancer",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.37081152555731,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3709,6 +4383,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6748",
     "NAF Name": "LordOrc",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 149.6488478861037,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3720,6 +4396,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6770",
     "NAF Name": "Fizzle",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.35745587918194,
     "tournaments": 5,
     "gamesWon": 7,
@@ -3731,6 +4409,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6773",
     "NAF Name": "yobenny",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 132.96658179767286,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3742,6 +4422,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6780",
     "NAF Name": "runki_khrum",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 177.9154144020222,
     "tournaments": 6,
     "gamesWon": 18,
@@ -3753,6 +4435,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6788",
     "NAF Name": "Igor_Tahavanale",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.70024458910345,
     "tournaments": 2,
     "gamesWon": 4,
@@ -3764,6 +4448,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6800",
     "NAF Name": "bloody",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 194.87261523632156,
     "tournaments": 10,
     "gamesWon": 24,
@@ -3775,6 +4461,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6822",
     "NAF Name": "Eric.R.",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 108.4254690257127,
     "tournaments": 3,
     "gamesWon": 0,
@@ -3786,6 +4474,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6833",
     "NAF Name": "Nicodaz",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 217.81897667417755,
     "tournaments": 6,
     "gamesWon": 21,
@@ -3797,6 +4487,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6858",
     "NAF Name": "TalonBay",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 191.59429985912416,
     "tournaments": 5,
     "gamesWon": 16,
@@ -3808,6 +4500,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6922",
     "NAF Name": "JennyAFur",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 135.00621079516128,
     "tournaments": 2,
     "gamesWon": 2,
@@ -3819,6 +4513,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6923",
     "NAF Name": "Boy_Wonder",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.08921543478655,
     "tournaments": 2,
     "gamesWon": 4,
@@ -3830,6 +4526,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6952",
     "NAF Name": "michaelD54",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 122.07117230287477,
     "tournaments": 2,
     "gamesWon": 3,
@@ -3841,6 +4539,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6970",
     "NAF Name": "BloodReaper",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 153.14791984114675,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3852,6 +4552,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6982",
     "NAF Name": "NodeR",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.99800033778945,
     "tournaments": 2,
     "gamesWon": 5,
@@ -3863,6 +4565,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6984",
     "NAF Name": "Nicap",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 180.50948513349218,
     "tournaments": 2,
     "gamesWon": 7,
@@ -3874,6 +4578,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6985",
     "NAF Name": "Lust4blood",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.01613739021278,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3885,6 +4591,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6986",
     "NAF Name": "Bozo",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 171.5356310784535,
     "tournaments": 6,
     "gamesWon": 10,
@@ -3896,6 +4604,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "6999",
     "NAF Name": "Martoni",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.4536239955266,
     "tournaments": 2,
     "gamesWon": 5,
@@ -3907,6 +4617,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7000",
     "NAF Name": "Requiem",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.24711871691065,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3918,6 +4630,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7037",
     "NAF Name": "GardenGnome",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 173.18747750198523,
     "tournaments": 12,
     "gamesWon": 33,
@@ -3929,6 +4643,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7066",
     "NAF Name": "Hastings",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 162.1436709774056,
     "tournaments": 2,
     "gamesWon": 6,
@@ -3940,6 +4656,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7068",
     "NAF Name": "Diamond_Joe_Quimby",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 171.9071877227366,
     "tournaments": 11,
     "gamesWon": 37,
@@ -3951,6 +4669,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7084",
     "NAF Name": "Atropabelladonna",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 171.43519703677907,
     "tournaments": 1,
     "gamesWon": 4,
@@ -3962,6 +4682,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7111",
     "NAF Name": "Uriel",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 154.83373203906416,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3973,6 +4695,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7162",
     "NAF Name": "pigstar69",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 184.58201043762938,
     "tournaments": 3,
     "gamesWon": 10,
@@ -3984,6 +4708,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7192",
     "NAF Name": "VultureSquadron",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 153.44834331040119,
     "tournaments": 2,
     "gamesWon": 5,
@@ -3995,6 +4721,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7194",
     "NAF Name": "Alronno",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 178.16811043845695,
     "tournaments": 4,
     "gamesWon": 13,
@@ -4006,6 +4734,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7196",
     "NAF Name": "Mootaz",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 167.6238618664141,
     "tournaments": 6,
     "gamesWon": 17,
@@ -4017,6 +4747,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7221",
     "NAF Name": "#5Renton",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 167.2093626641046,
     "tournaments": 5,
     "gamesWon": 13,
@@ -4028,6 +4760,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7230",
     "NAF Name": "Eddie",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.16691799815555,
     "tournaments": 6,
     "gamesWon": 9,
@@ -4039,6 +4773,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7234",
     "NAF Name": "ghorgh",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 164.6827216856258,
     "tournaments": 6,
     "gamesWon": 8,
@@ -4050,6 +4786,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7242",
     "NAF Name": "lei",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 181.7933911310811,
     "tournaments": 7,
     "gamesWon": 15,
@@ -4061,6 +4799,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7280",
     "NAF Name": "Haritz",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.8533611169986,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4072,6 +4812,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7293",
     "NAF Name": "Treno",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 127.20504454467766,
     "tournaments": 6,
     "gamesWon": 6,
@@ -4083,6 +4825,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7306",
     "NAF Name": "skars",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 141.3079463486332,
     "tournaments": 2,
     "gamesWon": 2,
@@ -4094,6 +4838,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7309",
     "NAF Name": "zoesky",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 120.50415429966999,
     "tournaments": 4,
     "gamesWon": 7,
@@ -4105,6 +4851,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7313",
     "NAF Name": "Aitor",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 151.43011906493913,
     "tournaments": 5,
     "gamesWon": 7,
@@ -4116,6 +4864,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7323",
     "NAF Name": "Xanote",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 127.38751254105145,
     "tournaments": 2,
     "gamesWon": 3,
@@ -4127,6 +4877,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7337",
     "NAF Name": "Raykieboy",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 112.5152027235682,
     "tournaments": 2,
     "gamesWon": 1,
@@ -4138,6 +4890,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7357",
     "NAF Name": "DrunkenDwarf",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 82.05778894567928,
     "tournaments": 2,
     "gamesWon": 0,
@@ -4149,6 +4903,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7374",
     "NAF Name": "Wosret",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 143.20561158415737,
     "tournaments": 4,
     "gamesWon": 10,
@@ -4160,6 +4916,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7375",
     "NAF Name": "Snotty",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 95.41522110261981,
     "tournaments": 3,
     "gamesWon": 4,
@@ -4171,6 +4929,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7376",
     "NAF Name": "Fatty",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 161.19877748683695,
     "tournaments": 4,
     "gamesWon": 9,
@@ -4182,6 +4942,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7378",
     "NAF Name": "Cloggie",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 149.75498780026945,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4193,6 +4955,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7383",
     "NAF Name": "Padiblatter",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 168.80924476451753,
     "tournaments": 3,
     "gamesWon": 6,
@@ -4204,6 +4968,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7385",
     "NAF Name": "infectious_velvet",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 126.20562674162738,
     "tournaments": 2,
     "gamesWon": 1,
@@ -4215,6 +4981,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7389",
     "NAF Name": "soward",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 130.97420396200036,
     "tournaments": 1,
     "gamesWon": 0,
@@ -4226,6 +4994,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7394",
     "NAF Name": "charditobravo",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 168.37704737201096,
     "tournaments": 7,
     "gamesWon": 14,
@@ -4237,6 +5007,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7397",
     "NAF Name": "Volstagg",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 144.1280529115377,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4248,6 +5020,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7407",
     "NAF Name": "Pakulkan",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 153.56992129793392,
     "tournaments": 5,
     "gamesWon": 6,
@@ -4259,6 +5033,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7408",
     "NAF Name": "potablava",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 149.15693405841472,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4270,6 +5046,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7411",
     "NAF Name": "NosPatris",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 162.3513987606819,
     "tournaments": 1,
     "gamesWon": 5,
@@ -4281,6 +5059,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7422",
     "NAF Name": "StoutYoungblood",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.23730486724608,
     "tournaments": 3,
     "gamesWon": 6,
@@ -4292,6 +5072,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7465",
     "NAF Name": "L3athalK",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 172.93295473636357,
     "tournaments": 5,
     "gamesWon": 14,
@@ -4303,6 +5085,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7478",
     "NAF Name": "Wakko",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.83629369148372,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4314,6 +5098,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7479",
     "NAF Name": "Olaf_Wolf",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 163.28477654179997,
     "tournaments": 4,
     "gamesWon": 11,
@@ -4325,6 +5111,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7480",
     "NAF Name": "Dani112233",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 147.0409868503808,
     "tournaments": 11,
     "gamesWon": 24,
@@ -4336,6 +5124,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7525",
     "NAF Name": "Gumb0",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 191.72671460551157,
     "tournaments": 3,
     "gamesWon": 12,
@@ -4347,6 +5137,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7539",
     "NAF Name": "Lord_Bojo",
+    "CCAA": "Apatrida",
+    "Country": "Guadeloupe",
     "rating": 150.17817026084106,
     "tournaments": 8,
     "gamesWon": 14,
@@ -4358,6 +5150,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7541",
     "NAF Name": "Jaskaban",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 126.53864821905033,
     "tournaments": 2,
     "gamesWon": 2,
@@ -4369,6 +5163,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7545",
     "NAF Name": "Teg",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 146.15565711019087,
     "tournaments": 4,
     "gamesWon": 11,
@@ -4380,6 +5176,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7548",
     "NAF Name": "Tricky",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 174.0290964948213,
     "tournaments": 4,
     "gamesWon": 10,
@@ -4391,6 +5189,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7550",
     "NAF Name": "Murzh",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 165.78458012978075,
     "tournaments": 5,
     "gamesWon": 13,
@@ -4402,6 +5202,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7551",
     "NAF Name": "Ivs",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 172.89150385373236,
     "tournaments": 3,
     "gamesWon": 9,
@@ -4413,6 +5215,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7553",
     "NAF Name": "stick_with_poo_on_the_end",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 217.28163918074958,
     "tournaments": 9,
     "gamesWon": 28,
@@ -4424,6 +5228,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7569",
     "NAF Name": "Northernknight",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 150.2010033912294,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4435,6 +5241,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7593",
     "NAF Name": "DarkOrk20",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 130.11624969064164,
     "tournaments": 10,
     "gamesWon": 16,
@@ -4446,6 +5254,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7612",
     "NAF Name": "Imerikol",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 160.3395216041094,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4457,6 +5267,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7633",
     "NAF Name": "PianoDan",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 164.69693845669906,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4468,6 +5280,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7634",
     "NAF Name": "Heroic_Tackle",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 167.9702856140133,
     "tournaments": 3,
     "gamesWon": 10,
@@ -4479,6 +5293,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7635",
     "NAF Name": "Ferragosto14",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 165.9778443157201,
     "tournaments": 2,
     "gamesWon": 8,
@@ -4490,6 +5306,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7650",
     "NAF Name": "mrbrownesquire",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.53009285945652,
     "tournaments": 2,
     "gamesWon": 6,
@@ -4501,6 +5319,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7653",
     "NAF Name": "Notorious_jtb",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 170.34903469401473,
     "tournaments": 1,
     "gamesWon": 4,
@@ -4512,6 +5332,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7656",
     "NAF Name": "KinkyWinky",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 187.9363348676475,
     "tournaments": 3,
     "gamesWon": 8,
@@ -4523,6 +5345,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7668",
     "NAF Name": "freeze",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 110.93673232792439,
     "tournaments": 4,
     "gamesWon": 3,
@@ -4534,6 +5358,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7678",
     "NAF Name": "Wolfsbane",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 160.14522708521397,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4545,6 +5371,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7683",
     "NAF Name": "PANDA",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 114.96441849558845,
     "tournaments": 2,
     "gamesWon": 3,
@@ -4556,6 +5384,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7685",
     "NAF Name": "FESTEN",
+    "CCAA": "Apatrida",
+    "Country": "Jamaica",
     "rating": 44.45317664599184,
     "tournaments": 10,
     "gamesWon": 1,
@@ -4567,6 +5397,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7690",
     "NAF Name": "Joanet",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 206.4229304721335,
     "tournaments": 7,
     "gamesWon": 24,
@@ -4578,6 +5410,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7691",
     "NAF Name": "DADO",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 138.0594527467667,
     "tournaments": 3,
     "gamesWon": 3,
@@ -4589,6 +5423,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7693",
     "NAF Name": "Marc.Andy",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 147.81276389712107,
     "tournaments": 5,
     "gamesWon": 12,
@@ -4600,6 +5436,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7710",
     "NAF Name": "Kewan",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 183.76322798335445,
     "tournaments": 7,
     "gamesWon": 21,
@@ -4611,6 +5449,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7727",
     "NAF Name": "DarkHand",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 158.21838774377272,
     "tournaments": 1,
     "gamesWon": 4,
@@ -4622,6 +5462,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7729",
     "NAF Name": "Vimes",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 119.6193291904835,
     "tournaments": 6,
     "gamesWon": 5,
@@ -4633,6 +5475,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7730",
     "NAF Name": "Virral",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 199.0988122252969,
     "tournaments": 5,
     "gamesWon": 18,
@@ -4644,6 +5488,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7734",
     "NAF Name": "BeefyGoodness",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 177.37371672457695,
     "tournaments": 3,
     "gamesWon": 10,
@@ -4655,6 +5501,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7737",
     "NAF Name": "skonos",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 145.66292225920492,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4666,6 +5514,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7739",
     "NAF Name": "Goldfish",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.19793439094184,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4677,6 +5527,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7741",
     "NAF Name": "Stu2",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 183.36999189279462,
     "tournaments": 4,
     "gamesWon": 10,
@@ -4688,6 +5540,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7757",
     "NAF Name": "WiccanMan",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.05899774502697,
     "tournaments": 1,
     "gamesWon": 0,
@@ -4699,6 +5553,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7769",
     "NAF Name": "PeteW",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 202.9719065230664,
     "tournaments": 4,
     "gamesWon": 16,
@@ -4710,6 +5566,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7770",
     "NAF Name": "magictobe",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 193.13293948519384,
     "tournaments": 5,
     "gamesWon": 15,
@@ -4721,6 +5579,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7772",
     "NAF Name": "sheridan",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 152.73920015524152,
     "tournaments": 3,
     "gamesWon": 6,
@@ -4732,6 +5592,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7774",
     "NAF Name": "Hammer",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 159.41096628233527,
     "tournaments": 2,
     "gamesWon": 8,
@@ -4743,6 +5605,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7806",
     "NAF Name": "antipixi",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.2938972830819,
     "tournaments": 5,
     "gamesWon": 7,
@@ -4754,6 +5618,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7832",
     "NAF Name": "Moro",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 130.96048096137477,
     "tournaments": 2,
     "gamesWon": 2,
@@ -4765,6 +5631,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7834",
     "NAF Name": "CoachRattenfetza",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 130.88526211942857,
     "tournaments": 2,
     "gamesWon": 3,
@@ -4776,6 +5644,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7853",
     "NAF Name": "Bob",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 157.28373580367804,
     "tournaments": 2,
     "gamesWon": 6,
@@ -4787,6 +5657,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7873",
     "NAF Name": "Maverick",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 165.93775029157837,
     "tournaments": 3,
     "gamesWon": 9,
@@ -4798,6 +5670,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7885",
     "NAF Name": "Horus07",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.35922480797544,
     "tournaments": 3,
     "gamesWon": 5,
@@ -4809,6 +5683,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7886",
     "NAF Name": "Dante2",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.27385492418026,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4820,6 +5696,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7894",
     "NAF Name": "Peter_Meers",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.44708364452097,
     "tournaments": 6,
     "gamesWon": 11,
@@ -4831,6 +5709,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7930",
     "NAF Name": "lauth81",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 170.3276772520885,
     "tournaments": 4,
     "gamesWon": 12,
@@ -4842,6 +5722,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7953",
     "NAF Name": "JABO",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 166.30583975792513,
     "tournaments": 1,
     "gamesWon": 4,
@@ -4853,6 +5735,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7957",
     "NAF Name": "pjut",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 157.33450760547134,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4864,6 +5748,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7978",
     "NAF Name": "steelydan187",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.06128570573745,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4875,6 +5761,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "7999",
     "NAF Name": "ebondrow",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 147.4243065964941,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4886,6 +5774,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8001",
     "NAF Name": "Hamlet",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 111.48528798803466,
     "tournaments": 9,
     "gamesWon": 10,
@@ -4897,6 +5787,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8003",
     "NAF Name": "principe_vegeta",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 177.828987945575,
     "tournaments": 1,
     "gamesWon": 7,
@@ -4908,6 +5800,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8010",
     "NAF Name": "Grimrod",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 163.70375227568405,
     "tournaments": 7,
     "gamesWon": 18,
@@ -4919,6 +5813,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8020",
     "NAF Name": "Juster",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 177.98306097311206,
     "tournaments": 7,
     "gamesWon": 18,
@@ -4930,6 +5826,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8021",
     "NAF Name": "Velkor",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 169.54654023332813,
     "tournaments": 11,
     "gamesWon": 22,
@@ -4941,6 +5839,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8040",
     "NAF Name": "Short_Man",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.37408073258032,
     "tournaments": 3,
     "gamesWon": 6,
@@ -4952,6 +5852,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8041",
     "NAF Name": "Wuckal",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 165.36242165092148,
     "tournaments": 3,
     "gamesWon": 8,
@@ -4963,6 +5865,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8042",
     "NAF Name": "Don_Pedro",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 164.74190948125755,
     "tournaments": 2,
     "gamesWon": 4,
@@ -4974,6 +5878,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8069",
     "NAF Name": "Acid",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.7359025022693,
     "tournaments": 4,
     "gamesWon": 5,
@@ -4985,6 +5891,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8071",
     "NAF Name": "Darktroll",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 170.3356927147163,
     "tournaments": 4,
     "gamesWon": 8,
@@ -4996,6 +5904,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8072",
     "NAF Name": "Khelby",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 174.5062900204754,
     "tournaments": 6,
     "gamesWon": 16,
@@ -5007,6 +5917,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8074",
     "NAF Name": "Willem",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 197.80689095647253,
     "tournaments": 5,
     "gamesWon": 16,
@@ -5018,6 +5930,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8087",
     "NAF Name": "LordWriggly",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 108.02565060942047,
     "tournaments": 4,
     "gamesWon": 4,
@@ -5029,6 +5943,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8094",
     "NAF Name": "Dan_Zan",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 137.99292871883912,
     "tournaments": 2,
     "gamesWon": 5,
@@ -5040,6 +5956,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8109",
     "NAF Name": "jmanu",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 214.75527679658913,
     "tournaments": 5,
     "gamesWon": 19,
@@ -5051,6 +5969,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8115",
     "NAF Name": "darfed",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.0596503918382,
     "tournaments": 3,
     "gamesWon": 7,
@@ -5062,6 +5982,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8117",
     "NAF Name": "Hummer",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 141.27742116742886,
     "tournaments": 4,
     "gamesWon": 6,
@@ -5073,6 +5995,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8121",
     "NAF Name": "Evilgaunt",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 130.2552592958105,
     "tournaments": 2,
     "gamesWon": 5,
@@ -5084,6 +6008,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8122",
     "NAF Name": "Godzilla",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 176.25481694731027,
     "tournaments": 5,
     "gamesWon": 16,
@@ -5095,6 +6021,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8125",
     "NAF Name": "Mystic_Lolo",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.71593662755618,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5106,6 +6034,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8143",
     "NAF Name": "Turin",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 127.10257697338724,
     "tournaments": 2,
     "gamesWon": 3,
@@ -5117,6 +6047,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8168",
     "NAF Name": "Da_Great_MC",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 179.24533943508618,
     "tournaments": 9,
     "gamesWon": 25,
@@ -5128,6 +6060,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8169",
     "NAF Name": "Kwek",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 147.7066960831056,
     "tournaments": 13,
     "gamesWon": 27,
@@ -5139,6 +6073,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8170",
     "NAF Name": "Carloz",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 128.63814297864172,
     "tournaments": 6,
     "gamesWon": 12,
@@ -5150,6 +6086,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8171",
     "NAF Name": "Zoror",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 118.85672822958018,
     "tournaments": 10,
     "gamesWon": 18,
@@ -5161,6 +6099,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8192",
     "NAF Name": "docdeth",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 119.94437421572891,
     "tournaments": 3,
     "gamesWon": 5,
@@ -5172,6 +6112,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8196",
     "NAF Name": "J.a.m",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 142.754719921571,
     "tournaments": 6,
     "gamesWon": 14,
@@ -5183,6 +6125,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8199",
     "NAF Name": "disk",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 201.0119822361987,
     "tournaments": 4,
     "gamesWon": 13,
@@ -5194,6 +6138,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8243",
     "NAF Name": "Devilsreject",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.81118868409868,
     "tournaments": 4,
     "gamesWon": 9,
@@ -5205,6 +6151,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8282",
     "NAF Name": "lesya",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 178.47214829328,
     "tournaments": 2,
     "gamesWon": 5,
@@ -5216,6 +6164,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8312",
     "NAF Name": "PTT69",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.80742793245764,
     "tournaments": 2,
     "gamesWon": 1,
@@ -5227,6 +6177,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8326",
     "NAF Name": "Psycho",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 126.24289591932676,
     "tournaments": 5,
     "gamesWon": 6,
@@ -5238,6 +6190,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8332",
     "NAF Name": "Veritas",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.92473509097513,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5249,6 +6203,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8401",
     "NAF Name": "MaD",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 187.42839297049557,
     "tournaments": 9,
     "gamesWon": 21,
@@ -5260,6 +6216,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8402",
     "NAF Name": "Phoenix11",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 189.5392320303963,
     "tournaments": 8,
     "gamesWon": 27,
@@ -5271,6 +6229,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8439",
     "NAF Name": "Darth_Dreddolo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 174.20827896653216,
     "tournaments": 9,
     "gamesWon": 24,
@@ -5282,6 +6242,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8441",
     "NAF Name": "Creature",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 166.17320231039312,
     "tournaments": 11,
     "gamesWon": 27,
@@ -5293,6 +6255,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8442",
     "NAF Name": "ClayInfinity",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 166.29238406098068,
     "tournaments": 2,
     "gamesWon": 6,
@@ -5304,6 +6268,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8444",
     "NAF Name": "Thomsy",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 207.8944900482041,
     "tournaments": 13,
     "gamesWon": 43,
@@ -5315,6 +6281,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8490",
     "NAF Name": "Numenoreans",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 152.6658791688952,
     "tournaments": 3,
     "gamesWon": 7,
@@ -5326,6 +6294,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8491",
     "NAF Name": "everyman",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.3907488651259,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5337,6 +6307,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8512",
     "NAF Name": "Eolallo",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 172.3916470809734,
     "tournaments": 2,
     "gamesWon": 7,
@@ -5348,6 +6320,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8514",
     "NAF Name": "Canales",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 183.6844065460221,
     "tournaments": 4,
     "gamesWon": 14,
@@ -5359,6 +6333,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8546",
     "NAF Name": "Ironjaw",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 126.96369668454943,
     "tournaments": 6,
     "gamesWon": 17,
@@ -5370,6 +6346,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8554",
     "NAF Name": "Ghostmaker",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 131.35638909988185,
     "tournaments": 4,
     "gamesWon": 8,
@@ -5381,6 +6359,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8557",
     "NAF Name": "Knox",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 201.5108078272275,
     "tournaments": 8,
     "gamesWon": 24,
@@ -5392,6 +6372,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8558",
     "NAF Name": "Marco_Gianni",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 131.1690366767746,
     "tournaments": 2,
     "gamesWon": 3,
@@ -5403,6 +6385,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8559",
     "NAF Name": "G16",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 160.45647547890982,
     "tournaments": 1,
     "gamesWon": 4,
@@ -5414,6 +6398,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8561",
     "NAF Name": "Gros Ben des Bois",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 173.95557128930207,
     "tournaments": 4,
     "gamesWon": 10,
@@ -5425,6 +6411,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8582",
     "NAF Name": "MadMö",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.22410750925707,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5436,6 +6424,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8583",
     "NAF Name": "Clement",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 150.90904383070466,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5447,6 +6437,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8601",
     "NAF Name": "Thibault",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 186.22759386227915,
     "tournaments": 2,
     "gamesWon": 8,
@@ -5458,6 +6450,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8611",
     "NAF Name": "nyarlathotep",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.72318609097542,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5469,6 +6463,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8615",
     "NAF Name": "Wil",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 135.78650099499905,
     "tournaments": 2,
     "gamesWon": 1,
@@ -5480,6 +6476,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8630",
     "NAF Name": "varagh",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 195.41869901367443,
     "tournaments": 2,
     "gamesWon": 8,
@@ -5491,6 +6489,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8631",
     "NAF Name": "Ojo-de-Pato",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 132.23356760031044,
     "tournaments": 3,
     "gamesWon": 5,
@@ -5502,6 +6502,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8634",
     "NAF Name": "Didy",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 128.1831312125284,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5513,6 +6515,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8639",
     "NAF Name": "Alder",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 140.2769011677969,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5524,6 +6528,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8666",
     "NAF Name": "Schlee",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.39796612776738,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5535,6 +6541,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8668",
     "NAF Name": "Gremdel_BB",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.2280143985239,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5546,6 +6554,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8669",
     "NAF Name": "Cyzygystic",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 130.6293970999831,
     "tournaments": 6,
     "gamesWon": 8,
@@ -5557,6 +6567,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8671",
     "NAF Name": "el_vagabundo",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 134.69344003178028,
     "tournaments": 5,
     "gamesWon": 5,
@@ -5568,6 +6580,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8672",
     "NAF Name": "Elinfame",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 166.4418710160436,
     "tournaments": 13,
     "gamesWon": 29,
@@ -5579,6 +6593,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8681",
     "NAF Name": "Marley",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.4345966741079,
     "tournaments": 4,
     "gamesWon": 5,
@@ -5590,6 +6606,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8687",
     "NAF Name": "Cookie",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 115.81623945446016,
     "tournaments": 2,
     "gamesWon": 3,
@@ -5601,6 +6619,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8688",
     "NAF Name": "PolarBear",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.74940869677192,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5612,6 +6632,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8690",
     "NAF Name": "Ambush3",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 173.48556387742408,
     "tournaments": 6,
     "gamesWon": 15,
@@ -5623,6 +6645,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8691",
     "NAF Name": "darktremere",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 133.52021731344163,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5634,6 +6658,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8705",
     "NAF Name": "Davzilla",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 127.18164551478128,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5645,6 +6671,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8730",
     "NAF Name": "bellowthunderslam",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 135.75804379925796,
     "tournaments": 2,
     "gamesWon": 1,
@@ -5656,6 +6684,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8731",
     "NAF Name": "Colonel Castor",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 152.067736336454,
     "tournaments": 8,
     "gamesWon": 11,
@@ -5667,6 +6697,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8734",
     "NAF Name": "Haktar",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 141.13586148283426,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5678,6 +6710,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8735",
     "NAF Name": "Leif",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 134.36099522021487,
     "tournaments": 2,
     "gamesWon": 2,
@@ -5689,6 +6723,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8737",
     "NAF Name": "Mangouste",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 141.95750741046973,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5700,6 +6736,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8738",
     "NAF Name": "Titouch",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 226.69161777574388,
     "tournaments": 10,
     "gamesWon": 34,
@@ -5711,6 +6749,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8741",
     "NAF Name": "Royal_Pingouin",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 148.27992166500923,
     "tournaments": 4,
     "gamesWon": 5,
@@ -5722,6 +6762,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8742",
     "NAF Name": "Drix",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.63316975332341,
     "tournaments": 2,
     "gamesWon": 4,
@@ -5733,6 +6775,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8743",
     "NAF Name": "Obi_Wan",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.13953639587223,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5744,6 +6788,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8744",
     "NAF Name": "R2",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.0386163262895,
     "tournaments": 2,
     "gamesWon": 3,
@@ -5755,6 +6801,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8756",
     "NAF Name": "calvofai",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 147.82278954398632,
     "tournaments": 4,
     "gamesWon": 4,
@@ -5766,6 +6814,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8759",
     "NAF Name": "malkavian",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 180.13363524021693,
     "tournaments": 8,
     "gamesWon": 20,
@@ -5777,6 +6827,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8760",
     "NAF Name": "Redarrows",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 170.30140057738853,
     "tournaments": 3,
     "gamesWon": 7,
@@ -5788,6 +6840,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8765",
     "NAF Name": "Oleg",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.2239097791935,
     "tournaments": 4,
     "gamesWon": 5,
@@ -5799,6 +6853,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8771",
     "NAF Name": "Nardo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 141.99590819811755,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5810,6 +6866,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8821",
     "NAF Name": "EKI",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 194.43677392493322,
     "tournaments": 7,
     "gamesWon": 19,
@@ -5821,6 +6879,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8827",
     "NAF Name": "Reznick",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.3956941502207,
     "tournaments": 2,
     "gamesWon": 1,
@@ -5832,6 +6892,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8834",
     "NAF Name": "Kazan",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 175.59424844310647,
     "tournaments": 2,
     "gamesWon": 7,
@@ -5843,6 +6905,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8836",
     "NAF Name": "Elyoukey",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 178.1619570184471,
     "tournaments": 10,
     "gamesWon": 25,
@@ -5854,6 +6918,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8850",
     "NAF Name": "Aksho",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 138.73975101306996,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5865,6 +6931,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8854",
     "NAF Name": "Lokis_World",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 142.88057702260167,
     "tournaments": 3,
     "gamesWon": 6,
@@ -5876,6 +6944,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8861",
     "NAF Name": "OON",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 196.23408135881047,
     "tournaments": 18,
     "gamesWon": 46,
@@ -5887,6 +6957,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8866",
     "NAF Name": "sann0638",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 179.7812282090433,
     "tournaments": 5,
     "gamesWon": 11,
@@ -5898,6 +6970,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8901",
     "NAF Name": "wilzif",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 128.0708163142634,
     "tournaments": 5,
     "gamesWon": 9,
@@ -5909,6 +6983,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8917",
     "NAF Name": "folly01",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.01597805652415,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5920,6 +6996,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8923",
     "NAF Name": "Nonumber",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 122.62809416822648,
     "tournaments": 4,
     "gamesWon": 7,
@@ -5931,6 +7009,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8924",
     "NAF Name": "89er",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.35126236995805,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5942,6 +7022,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8951",
     "NAF Name": "tribalsinner",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 183.51293831430132,
     "tournaments": 7,
     "gamesWon": 20,
@@ -5953,6 +7035,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8956",
     "NAF Name": "GreedySmurf",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 185.2514802626642,
     "tournaments": 2,
     "gamesWon": 8,
@@ -5964,6 +7048,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8964",
     "NAF Name": "Jeff",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 205.5944052477695,
     "tournaments": 5,
     "gamesWon": 15,
@@ -5975,6 +7061,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8983",
     "NAF Name": "Van_da_Coach",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 137.40319104778322,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5986,6 +7074,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8988",
     "NAF Name": "Tornados",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 157.7692475511571,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5997,6 +7087,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "8994",
     "NAF Name": "Lordm",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 140.45566819288345,
     "tournaments": 6,
     "gamesWon": 11,
@@ -6008,6 +7100,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9003",
     "NAF Name": "DOA",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 126.2668450789215,
     "tournaments": 6,
     "gamesWon": 6,
@@ -6019,6 +7113,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9004",
     "NAF Name": "Toni85",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 178.05954852810714,
     "tournaments": 3,
     "gamesWon": 10,
@@ -6030,6 +7126,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9010",
     "NAF Name": "Buggrit",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.51570580239154,
     "tournaments": 6,
     "gamesWon": 14,
@@ -6041,6 +7139,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9031",
     "NAF Name": "King_Koch",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 157.4066200289128,
     "tournaments": 2,
     "gamesWon": 5,
@@ -6052,6 +7152,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9032",
     "NAF Name": "Kalmi",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 153.11070460161346,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6063,6 +7165,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9035",
     "NAF Name": "Timmetot",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.13412741445072,
     "tournaments": 2,
     "gamesWon": 3,
@@ -6074,6 +7178,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9061",
     "NAF Name": "Shadowseer2005",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 144.23589606356694,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6085,6 +7191,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9072",
     "NAF Name": "jammydodger",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 136.2050726299793,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6096,6 +7204,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9085",
     "NAF Name": "Nigromante",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.1217407157918,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6107,6 +7217,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9088",
     "NAF Name": "Niger",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.06940727064998,
     "tournaments": 2,
     "gamesWon": 4,
@@ -6118,6 +7230,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9089",
     "NAF Name": "Kalandrakas",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.54022397230267,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6129,6 +7243,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9091",
     "NAF Name": "Clipper",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.552499468851,
     "tournaments": 2,
     "gamesWon": 4,
@@ -6140,6 +7256,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9096",
     "NAF Name": "Willy",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 168.61301757586693,
     "tournaments": 4,
     "gamesWon": 9,
@@ -6151,6 +7269,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9109",
     "NAF Name": "Goldmember",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 115.59937557918806,
     "tournaments": 3,
     "gamesWon": 2,
@@ -6162,6 +7282,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9151",
     "NAF Name": "Puppolo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 164.97402071870974,
     "tournaments": 3,
     "gamesWon": 6,
@@ -6173,6 +7295,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9152",
     "NAF Name": "Buttinho",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.19203491154306,
     "tournaments": 3,
     "gamesWon": 6,
@@ -6184,6 +7308,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9191",
     "NAF Name": "Mr_Breaker",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.01246994395402,
     "tournaments": 3,
     "gamesWon": 2,
@@ -6195,6 +7321,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9231",
     "NAF Name": "Butch",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.5389055315929,
     "tournaments": 2,
     "gamesWon": 3,
@@ -6206,6 +7334,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9232",
     "NAF Name": "SteveTemplar",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.04323450224143,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6217,6 +7347,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9235",
     "NAF Name": "Tatsujin",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 102.36007893576225,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6228,6 +7360,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9242",
     "NAF Name": "Anthony_Times",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.24712489119645,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6239,6 +7373,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9252",
     "NAF Name": "D_Arquebus",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 185.71856337608205,
     "tournaments": 14,
     "gamesWon": 45,
@@ -6250,6 +7386,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9253",
     "NAF Name": "Brother_Tycho",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 85.19009645185794,
     "tournaments": 3,
     "gamesWon": 2,
@@ -6261,6 +7399,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9255",
     "NAF Name": "Shasta_McNasty",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 121.95438784117992,
     "tournaments": 3,
     "gamesWon": 4,
@@ -6272,6 +7412,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9258",
     "NAF Name": "Pizza_Boy",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 151.56802664010473,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6283,6 +7425,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9259",
     "NAF Name": "gumbi",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 154.3252841233305,
     "tournaments": 2,
     "gamesWon": 4,
@@ -6294,6 +7438,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9287",
     "NAF Name": "YOUR_EYE",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.4254368960661,
     "tournaments": 2,
     "gamesWon": 3,
@@ -6305,6 +7451,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9311",
     "NAF Name": "nerostinto",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 162.71303583742082,
     "tournaments": 3,
     "gamesWon": 6,
@@ -6316,6 +7464,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9370",
     "NAF Name": "Ceetee",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 186.02742719050096,
     "tournaments": 7,
     "gamesWon": 24,
@@ -6327,6 +7477,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9395",
     "NAF Name": "Pelle",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 152.6139304295248,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6338,6 +7490,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9436",
     "NAF Name": "Heinous",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 132.79462033448587,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6349,6 +7503,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9440",
     "NAF Name": "Gilead",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 160.08484446608264,
     "tournaments": 3,
     "gamesWon": 10,
@@ -6360,6 +7516,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9471",
     "NAF Name": "jollyork",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.24071942537498,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6371,6 +7529,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9487",
     "NAF Name": "Bastius",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.22007282533738,
     "tournaments": 3,
     "gamesWon": 5,
@@ -6382,6 +7542,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9488",
     "NAF Name": "MightyYruHa",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.64294266734578,
     "tournaments": 3,
     "gamesWon": 2,
@@ -6393,6 +7555,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9497",
     "NAF Name": "Azoth",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 142.23497237548287,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6404,6 +7568,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9509",
     "NAF Name": "Slanesh17",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 162.27812021228243,
     "tournaments": 2,
     "gamesWon": 4,
@@ -6415,6 +7581,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9510",
     "NAF Name": "Lablatte",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.4378315870718,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6426,6 +7594,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9519",
     "NAF Name": "Kesta",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 173.25682520335005,
     "tournaments": 3,
     "gamesWon": 6,
@@ -6437,6 +7607,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9524",
     "NAF Name": "Tripleskull",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 214.69097810321531,
     "tournaments": 2,
     "gamesWon": 12,
@@ -6448,6 +7620,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9567",
     "NAF Name": "grumpsh",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 187.82965710819263,
     "tournaments": 6,
     "gamesWon": 20,
@@ -6459,6 +7633,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9610",
     "NAF Name": "Oventa",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 158.42648683755294,
     "tournaments": 3,
     "gamesWon": 10,
@@ -6470,6 +7646,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9625",
     "NAF Name": "Daggers",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 161.82012571194855,
     "tournaments": 4,
     "gamesWon": 10,
@@ -6481,6 +7659,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9630",
     "NAF Name": "Galanthil",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 175.60687249824394,
     "tournaments": 3,
     "gamesWon": 8,
@@ -6492,6 +7672,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9649",
     "NAF Name": "Pacasso",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.9356372513176,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6503,6 +7685,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9650",
     "NAF Name": "Juanant",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.05261201932692,
     "tournaments": 4,
     "gamesWon": 8,
@@ -6514,6 +7698,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9659",
     "NAF Name": "Doc_Grotznik",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.41490043348642,
     "tournaments": 4,
     "gamesWon": 6,
@@ -6525,6 +7711,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9660",
     "NAF Name": "Krannix",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 126.42658921687098,
     "tournaments": 3,
     "gamesWon": 3,
@@ -6536,6 +7724,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9711",
     "NAF Name": "Pug",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 79.71476496495467,
     "tournaments": 8,
     "gamesWon": 10,
@@ -6547,6 +7737,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9724",
     "NAF Name": "Flash_Toby",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 162.50146915644132,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6558,6 +7750,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9747",
     "NAF Name": "kynde",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 159.04885989588092,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6569,6 +7763,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9753",
     "NAF Name": "Manz62",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.12126325551097,
     "tournaments": 4,
     "gamesWon": 7,
@@ -6580,6 +7776,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9807",
     "NAF Name": "eaven",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 122.00406556839337,
     "tournaments": 2,
     "gamesWon": 3,
@@ -6591,6 +7789,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9808",
     "NAF Name": "iikon",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 145.82599309496769,
     "tournaments": 3,
     "gamesWon": 6,
@@ -6602,6 +7802,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9811",
     "NAF Name": "Gamenutter",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 165.88291283232064,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6613,6 +7815,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9812",
     "NAF Name": "Father_Gailus",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 172.96989433784069,
     "tournaments": 8,
     "gamesWon": 20,
@@ -6624,6 +7828,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9813",
     "NAF Name": "Rodney_Dangerfield",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 216.49005575219263,
     "tournaments": 7,
     "gamesWon": 20,
@@ -6635,6 +7841,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9817",
     "NAF Name": "Casper1",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 162.72432540731896,
     "tournaments": 2,
     "gamesWon": 4,
@@ -6646,6 +7854,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9819",
     "NAF Name": "rowdykatie",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.48122923456404,
     "tournaments": 10,
     "gamesWon": 17,
@@ -6657,6 +7867,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9830",
     "NAF Name": "Tristelune",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 157.5293953516656,
     "tournaments": 4,
     "gamesWon": 6,
@@ -6668,6 +7880,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9832",
     "NAF Name": "Djaou",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 131.05552620174007,
     "tournaments": 3,
     "gamesWon": 3,
@@ -6679,6 +7893,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9843",
     "NAF Name": "Bulldog",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 114.50359789118299,
     "tournaments": 3,
     "gamesWon": 3,
@@ -6690,6 +7906,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9847",
     "NAF Name": "Ocaple",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 188.29905515153024,
     "tournaments": 3,
     "gamesWon": 10,
@@ -6701,6 +7919,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9848",
     "NAF Name": "El_Gobbo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 126.7078491901182,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6712,6 +7932,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9849",
     "NAF Name": "Pretoriano",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 165.73058725279984,
     "tournaments": 4,
     "gamesWon": 7,
@@ -6723,6 +7945,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9862",
     "NAF Name": "vegeta7913",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.61930294814414,
     "tournaments": 2,
     "gamesWon": 4,
@@ -6734,6 +7958,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9884",
     "NAF Name": "delevus",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 209.40987594137766,
     "tournaments": 8,
     "gamesWon": 28,
@@ -6745,6 +7971,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9897",
     "NAF Name": "NippyLongskar",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 199.78665845791826,
     "tournaments": 4,
     "gamesWon": 13,
@@ -6756,6 +7984,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9902",
     "NAF Name": "Zelien",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 167.1732883158618,
     "tournaments": 3,
     "gamesWon": 7,
@@ -6767,6 +7997,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9903",
     "NAF Name": "Gregory_N_White",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 154.09223190933142,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6778,6 +8010,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9922",
     "NAF Name": "Hudson",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 119.6801250739748,
     "tournaments": 4,
     "gamesWon": 7,
@@ -6789,6 +8023,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9935",
     "NAF Name": "Leyron",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 183.0997758555175,
     "tournaments": 6,
     "gamesWon": 19,
@@ -6800,6 +8036,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9937",
     "NAF Name": "Marulick",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 158.00049409891096,
     "tournaments": 5,
     "gamesWon": 10,
@@ -6811,6 +8049,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9938",
     "NAF Name": "Lleme",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 184.01901183106185,
     "tournaments": 4,
     "gamesWon": 15,
@@ -6822,6 +8062,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "9957",
     "NAF Name": "Barnacles",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 158.12589687820122,
     "tournaments": 3,
     "gamesWon": 7,
@@ -6833,6 +8075,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10006",
     "NAF Name": "dante_121",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 141.8467597090417,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6844,6 +8088,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10011",
     "NAF Name": "Rednick",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 147.15170901088052,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6855,6 +8101,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10033",
     "NAF Name": "Orkboss",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 155.5369823468581,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6866,6 +8114,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10041",
     "NAF Name": "poundfist",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 143.4628219548168,
     "tournaments": 3,
     "gamesWon": 5,
@@ -6877,6 +8127,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10060",
     "NAF Name": "King-Nerd",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.4455137581178,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6888,6 +8140,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10078",
     "NAF Name": "bajonetor",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.92533258906292,
     "tournaments": 4,
     "gamesWon": 7,
@@ -6899,6 +8153,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10110",
     "NAF Name": "Innocent",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 143.35829196068738,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6910,6 +8166,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10145",
     "NAF Name": "Kriddl",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 142.88922759643813,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6921,6 +8179,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10152",
     "NAF Name": "DazLamb",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.72446220903277,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6932,6 +8192,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10155",
     "NAF Name": "Ulrik",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 150.21177791145064,
     "tournaments": 2,
     "gamesWon": 4,
@@ -6943,6 +8205,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10228",
     "NAF Name": "Lurtzo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 151.04383565541374,
     "tournaments": 5,
     "gamesWon": 11,
@@ -6954,6 +8218,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10230",
     "NAF Name": "Ich",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 166.75683179174226,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6965,6 +8231,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10236",
     "NAF Name": "Hachablanca",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 157.95801483476254,
     "tournaments": 10,
     "gamesWon": 18,
@@ -6976,6 +8244,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10279",
     "NAF Name": "Cesar",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 131.24970008792155,
     "tournaments": 8,
     "gamesWon": 10,
@@ -6987,6 +8257,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10280",
     "NAF Name": "Peter_Blas_y_2_Mas",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 165.75649453106746,
     "tournaments": 2,
     "gamesWon": 7,
@@ -6998,6 +8270,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10282",
     "NAF Name": "Mur",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 139.7547289638859,
     "tournaments": 16,
     "gamesWon": 32,
@@ -7009,6 +8283,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10283",
     "NAF Name": "Poups",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 101.04768683895436,
     "tournaments": 6,
     "gamesWon": 4,
@@ -7020,6 +8296,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10300",
     "NAF Name": "Monkeyrouge",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 137.45855729141002,
     "tournaments": 2,
     "gamesWon": 3,
@@ -7031,6 +8309,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10305",
     "NAF Name": "Cana",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 158.47356278764735,
     "tournaments": 9,
     "gamesWon": 20,
@@ -7042,6 +8322,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10307",
     "NAF Name": "Parmeg",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 145.5457536647258,
     "tournaments": 2,
     "gamesWon": 6,
@@ -7053,6 +8335,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10320",
     "NAF Name": "Magikmoon",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 186.09210919229622,
     "tournaments": 5,
     "gamesWon": 14,
@@ -7064,6 +8348,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10328",
     "NAF Name": "Pask",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 160.3632431812944,
     "tournaments": 5,
     "gamesWon": 13,
@@ -7075,6 +8361,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10345",
     "NAF Name": "Bosk",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 116.5716375649769,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7086,6 +8374,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10346",
     "NAF Name": "Bucks",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 189.3278059256497,
     "tournaments": 15,
     "gamesWon": 38,
@@ -7097,6 +8387,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10347",
     "NAF Name": "Darkstorm",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 189.45500226632092,
     "tournaments": 7,
     "gamesWon": 17,
@@ -7108,6 +8400,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10350",
     "NAF Name": "Osskpo",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 140.89475463271037,
     "tournaments": 6,
     "gamesWon": 12,
@@ -7119,6 +8413,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10361",
     "NAF Name": "Lister",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.03389611435935,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7130,6 +8426,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10414",
     "NAF Name": "Artica",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 116.6127865613393,
     "tournaments": 6,
     "gamesWon": 12,
@@ -7141,6 +8439,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10434",
     "NAF Name": "Don_Vito",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 214.8389258248076,
     "tournaments": 12,
     "gamesWon": 42,
@@ -7152,6 +8452,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10470",
     "NAF Name": "Manfre",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 133.49530073467824,
     "tournaments": 2,
     "gamesWon": 2,
@@ -7163,6 +8465,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10471",
     "NAF Name": "Sascio",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 124.7277271000773,
     "tournaments": 2,
     "gamesWon": 4,
@@ -7174,6 +8478,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10472",
     "NAF Name": "Cip",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 187.94853015699522,
     "tournaments": 2,
     "gamesWon": 7,
@@ -7185,6 +8491,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10475",
     "NAF Name": "inoculator",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.3717300861851,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7196,6 +8504,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10483",
     "NAF Name": "delos",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 134.37320541241655,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7207,6 +8517,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10488",
     "NAF Name": "JJ",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 158.2534555397239,
     "tournaments": 10,
     "gamesWon": 23,
@@ -7218,6 +8530,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10491",
     "NAF Name": "Jarlaxle",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.6674904521299,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7229,6 +8543,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10502",
     "NAF Name": "Cabezacubo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.198457597825,
     "tournaments": 2,
     "gamesWon": 2,
@@ -7240,6 +8556,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10503",
     "NAF Name": "Yoxes",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 138.02891811857822,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7251,6 +8569,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10504",
     "NAF Name": "Yoyoel",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 125.59018880913241,
     "tournaments": 7,
     "gamesWon": 12,
@@ -7262,6 +8582,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10505",
     "NAF Name": "Loberas",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 148.963970534232,
     "tournaments": 5,
     "gamesWon": 8,
@@ -7273,6 +8595,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10506",
     "NAF Name": "Dr_Cross",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 118.06026022517275,
     "tournaments": 2,
     "gamesWon": 2,
@@ -7284,6 +8608,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10524",
     "NAF Name": "woelfchen",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 167.58024443452962,
     "tournaments": 1,
     "gamesWon": 4,
@@ -7295,6 +8621,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10525",
     "NAF Name": "Frantic",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 150.00538313269385,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7306,6 +8634,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10563",
     "NAF Name": "spiderblast",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 165.73441806907277,
     "tournaments": 2,
     "gamesWon": 5,
@@ -7317,6 +8647,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10572",
     "NAF Name": "Barney_the_Lurker",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.24710236523052,
     "tournaments": 7,
     "gamesWon": 17,
@@ -7328,6 +8660,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10579",
     "NAF Name": "Mortimer",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.53287094056822,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7339,6 +8673,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10583",
     "NAF Name": "erikpitysthefool",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.443451745851,
     "tournaments": 5,
     "gamesWon": 9,
@@ -7350,6 +8686,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10584",
     "NAF Name": "Black_rose",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.75194774114064,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7361,6 +8699,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10590",
     "NAF Name": "BigBadBeeste",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 121.66626531799372,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7372,6 +8712,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10591",
     "NAF Name": "FishFingers",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 111.95205970559486,
     "tournaments": 2,
     "gamesWon": 2,
@@ -7383,6 +8725,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10594",
     "NAF Name": "Cracol",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 214.3278344370709,
     "tournaments": 10,
     "gamesWon": 37,
@@ -7394,6 +8738,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10619",
     "NAF Name": "LoveMunkey",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.84565545878567,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7405,6 +8751,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10622",
     "NAF Name": "Leonida",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 160.84939595898513,
     "tournaments": 11,
     "gamesWon": 23,
@@ -7416,6 +8764,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10634",
     "NAF Name": "Léguman",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 119.65469780877082,
     "tournaments": 4,
     "gamesWon": 2,
@@ -7427,6 +8777,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10636",
     "NAF Name": "Scampi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.84966500361818,
     "tournaments": 2,
     "gamesWon": 6,
@@ -7438,6 +8790,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10639",
     "NAF Name": "Jugaka",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.06167995112506,
     "tournaments": 2,
     "gamesWon": 2,
@@ -7449,6 +8803,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10640",
     "NAF Name": "Slane",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.18454597580597,
     "tournaments": 6,
     "gamesWon": 11,
@@ -7460,6 +8816,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10658",
     "NAF Name": "Sizzler",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 164.30304096421594,
     "tournaments": 7,
     "gamesWon": 17,
@@ -7471,6 +8829,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10661",
     "NAF Name": "zoglug",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.2186878119567,
     "tournaments": 3,
     "gamesWon": 7,
@@ -7482,6 +8842,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10665",
     "NAF Name": "Dragonboy",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 150.7297373926064,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7493,6 +8855,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10666",
     "NAF Name": "Prunk-Frosch",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 159.66267751809045,
     "tournaments": 3,
     "gamesWon": 7,
@@ -7504,6 +8868,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10669",
     "NAF Name": "BudSpencer",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 206.14114005804137,
     "tournaments": 3,
     "gamesWon": 11,
@@ -7515,6 +8881,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10670",
     "NAF Name": "p4m",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 192.84771830932644,
     "tournaments": 3,
     "gamesWon": 13,
@@ -7526,6 +8894,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10686",
     "NAF Name": "ninjahamster",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.7803748513844,
     "tournaments": 2,
     "gamesWon": 2,
@@ -7537,6 +8907,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10690",
     "NAF Name": "Beanbag",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.89904408044038,
     "tournaments": 4,
     "gamesWon": 8,
@@ -7548,6 +8920,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10691",
     "NAF Name": "KFoged",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 192.54936900608723,
     "tournaments": 13,
     "gamesWon": 43,
@@ -7559,6 +8933,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10697",
     "NAF Name": "dangerman",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 153.121255840104,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7570,6 +8946,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10755",
     "NAF Name": "Punkpogoer",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.73527010553835,
     "tournaments": 2,
     "gamesWon": 4,
@@ -7581,6 +8959,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10757",
     "NAF Name": "Homie",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.3843504243171,
     "tournaments": 7,
     "gamesWon": 17,
@@ -7592,6 +8972,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10758",
     "NAF Name": "Veruca",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 136.7702992130912,
     "tournaments": 2,
     "gamesWon": 2,
@@ -7603,6 +8985,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10761",
     "NAF Name": "Boeufbowl",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 165.34983973869447,
     "tournaments": 1,
     "gamesWon": 4,
@@ -7614,6 +8998,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10768",
     "NAF Name": "Diablange",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.0553404981356,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7625,6 +9011,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10772",
     "NAF Name": "Emphasy",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 156.8889183783765,
     "tournaments": 1,
     "gamesWon": 4,
@@ -7636,6 +9024,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10775",
     "NAF Name": "Kunta",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 142.18381671225174,
     "tournaments": 1,
     "gamesWon": 4,
@@ -7647,6 +9037,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10791",
     "NAF Name": "rabid-squig",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 154.1726297501337,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7658,6 +9050,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10827",
     "NAF Name": "Lukechin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 151.85197418363762,
     "tournaments": 13,
     "gamesWon": 20,
@@ -7669,6 +9063,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10831",
     "NAF Name": "Purdindas",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 166.79829635541077,
     "tournaments": 5,
     "gamesWon": 12,
@@ -7680,6 +9076,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10832",
     "NAF Name": "Reaver",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.6712816786125,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7691,6 +9089,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10840",
     "NAF Name": "Hippie",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 176.0730510672566,
     "tournaments": 2,
     "gamesWon": 7,
@@ -7702,6 +9102,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10845",
     "NAF Name": "Glowworm",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.52650342989145,
     "tournaments": 7,
     "gamesWon": 13,
@@ -7713,6 +9115,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10864",
     "NAF Name": "Little",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 133.16922353902333,
     "tournaments": 2,
     "gamesWon": 1,
@@ -7724,6 +9128,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10904",
     "NAF Name": "Grither",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 179.22480485820174,
     "tournaments": 5,
     "gamesWon": 12,
@@ -7735,6 +9141,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10919",
     "NAF Name": "Malignant",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 158.87226283440404,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7746,6 +9154,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10920",
     "NAF Name": "Eckythump",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 152.70969754572982,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7757,6 +9167,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10926",
     "NAF Name": "Aenur",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.67899417933657,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7768,6 +9180,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10943",
     "NAF Name": "Alfred_J_Puag",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 124.21592865188597,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7779,6 +9193,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10958",
     "NAF Name": "Munson",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.44994871159716,
     "tournaments": 4,
     "gamesWon": 7,
@@ -7790,6 +9206,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10959",
     "NAF Name": "MattWhile",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 188.6135202511436,
     "tournaments": 8,
     "gamesWon": 28,
@@ -7801,6 +9219,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10960",
     "NAF Name": "Gazza",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 163.72156962491619,
     "tournaments": 8,
     "gamesWon": 18,
@@ -7812,6 +9232,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10988",
     "NAF Name": "Stormpsych",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 137.2796089831443,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7823,6 +9245,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "10997",
     "NAF Name": "Mamapepe",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 179.67761369247205,
     "tournaments": 4,
     "gamesWon": 12,
@@ -7834,6 +9258,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11001",
     "NAF Name": "Gourry73",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 142.11894159244557,
     "tournaments": 4,
     "gamesWon": 3,
@@ -7845,6 +9271,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11002",
     "NAF Name": "chocho",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 131.19967226422725,
     "tournaments": 4,
     "gamesWon": 5,
@@ -7856,6 +9284,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11027",
     "NAF Name": "MikeW",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 134.9957212093002,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7867,6 +9297,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11052",
     "NAF Name": "Black_Jack",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 164.86039155455526,
     "tournaments": 3,
     "gamesWon": 4,
@@ -7878,6 +9310,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11065",
     "NAF Name": "Jeeves",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 201.99092343389196,
     "tournaments": 5,
     "gamesWon": 18,
@@ -7889,6 +9323,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11076",
     "NAF Name": "odul",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 184.7970086620639,
     "tournaments": 3,
     "gamesWon": 10,
@@ -7900,6 +9336,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11077",
     "NAF Name": "zoul",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 190.74730149383691,
     "tournaments": 6,
     "gamesWon": 14,
@@ -7911,6 +9349,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11102",
     "NAF Name": "Sunvirgo77",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.22771828845862,
     "tournaments": 3,
     "gamesWon": 3,
@@ -7922,6 +9362,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11120",
     "NAF Name": "PowderMonkey",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 95.04621910953203,
     "tournaments": 5,
     "gamesWon": 4,
@@ -7933,6 +9375,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11130",
     "NAF Name": "Elixir",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.1313390424484,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7944,6 +9388,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 170.71345727718997,
     "tournaments": 3,
     "gamesWon": 7,
@@ -7955,6 +9401,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11133",
     "NAF Name": "Karkass",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 153.23721653577763,
     "tournaments": 3,
     "gamesWon": 7,
@@ -7966,6 +9414,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11134",
     "NAF Name": "Galladur",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 164.24879136978575,
     "tournaments": 4,
     "gamesWon": 8,
@@ -7977,6 +9427,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11136",
     "NAF Name": "Pym",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.67355491986595,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7988,6 +9440,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11137",
     "NAF Name": "F.XIII",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 221.60647428394225,
     "tournaments": 8,
     "gamesWon": 25,
@@ -7999,6 +9453,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11144",
     "NAF Name": "cagouillemaster",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.4059283172253,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8010,6 +9466,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11177",
     "NAF Name": "Xod",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 133.3003620624793,
     "tournaments": 11,
     "gamesWon": 23,
@@ -8021,6 +9479,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11202",
     "NAF Name": "Helvetion",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 156.32421873939148,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8032,6 +9492,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11207",
     "NAF Name": "jps20",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.56302588426584,
     "tournaments": 2,
     "gamesWon": 2,
@@ -8043,6 +9505,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11257",
     "NAF Name": "Montfalcon",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 181.21177143243756,
     "tournaments": 3,
     "gamesWon": 9,
@@ -8054,6 +9518,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11263",
     "NAF Name": "Tulark",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.84082090270226,
     "tournaments": 4,
     "gamesWon": 12,
@@ -8065,6 +9531,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11264",
     "NAF Name": "Ender",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 172.82053724274832,
     "tournaments": 5,
     "gamesWon": 14,
@@ -8076,6 +9544,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11265",
     "NAF Name": "Neo_Maquiavelo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 180.33600712048522,
     "tournaments": 3,
     "gamesWon": 9,
@@ -8087,6 +9557,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11266",
     "NAF Name": "Ramtut_III",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 118.83294755094549,
     "tournaments": 6,
     "gamesWon": 11,
@@ -8098,6 +9570,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11269",
     "NAF Name": "PapyHarzen",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.2684090135779,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8109,6 +9583,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11278",
     "NAF Name": "Kilowoggy",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 148.69859716394583,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8120,6 +9596,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11280",
     "NAF Name": "Philip",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 153.47966193220728,
     "tournaments": 3,
     "gamesWon": 5,
@@ -8131,6 +9609,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11281",
     "NAF Name": "Masterfit",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 196.61925402893095,
     "tournaments": 7,
     "gamesWon": 22,
@@ -8142,6 +9622,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11282",
     "NAF Name": "Thanquol",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 153.43936083427883,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8153,6 +9635,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11283",
     "NAF Name": "MeneerTim",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 181.0458915259502,
     "tournaments": 2,
     "gamesWon": 7,
@@ -8164,6 +9648,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11285",
     "NAF Name": "Feu_Follet",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.2931472009427,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8175,6 +9661,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11292",
     "NAF Name": "Da5id",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.41594465959216,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8186,6 +9674,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11296",
     "NAF Name": "Random",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 134.70239126422373,
     "tournaments": 2,
     "gamesWon": 4,
@@ -8197,6 +9687,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11297",
     "NAF Name": "Sulidamor",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 170.81704462211988,
     "tournaments": 3,
     "gamesWon": 11,
@@ -8208,6 +9700,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11304",
     "NAF Name": "walliesmith",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 157.49390539961973,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8219,6 +9713,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11333",
     "NAF Name": "DaHesse",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 139.14190079903395,
     "tournaments": 2,
     "gamesWon": 3,
@@ -8230,6 +9726,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11334",
     "NAF Name": "Surion",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 163.1533578410158,
     "tournaments": 2,
     "gamesWon": 6,
@@ -8241,6 +9739,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11345",
     "NAF Name": "thechosengobbo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 185.17791945508898,
     "tournaments": 4,
     "gamesWon": 11,
@@ -8252,6 +9752,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11361",
     "NAF Name": "Nestyr",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 126.01497319556154,
     "tournaments": 2,
     "gamesWon": 2,
@@ -8263,6 +9765,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11399",
     "NAF Name": "Pathfinder77",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 135.3487656360368,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8274,6 +9778,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11470",
     "NAF Name": "El_hombre",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 156.84887972419548,
     "tournaments": 4,
     "gamesWon": 9,
@@ -8285,6 +9791,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11491",
     "NAF Name": "BiBi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 197.47899645592545,
     "tournaments": 10,
     "gamesWon": 29,
@@ -8296,6 +9804,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11492",
     "NAF Name": "Lahatiel",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.99334757185528,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8307,6 +9817,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11497",
     "NAF Name": "Knaegten",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 148.91594397453892,
     "tournaments": 2,
     "gamesWon": 6,
@@ -8318,6 +9830,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11498",
     "NAF Name": "MissSweden",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 169.39331340325833,
     "tournaments": 3,
     "gamesWon": 12,
@@ -8329,6 +9843,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11499",
     "NAF Name": "MrNiebling",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 151.88482561580767,
     "tournaments": 2,
     "gamesWon": 4,
@@ -8340,6 +9856,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11500",
     "NAF Name": "Madsmuff",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 147.59488073099632,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8351,6 +9869,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11501",
     "NAF Name": "Tank",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 186.86973991825653,
     "tournaments": 3,
     "gamesWon": 12,
@@ -8362,6 +9882,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11524",
     "NAF Name": "Drong",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 182.0677553442243,
     "tournaments": 2,
     "gamesWon": 7,
@@ -8373,6 +9895,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11531",
     "NAF Name": "ktulu",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 205.74399702948628,
     "tournaments": 7,
     "gamesWon": 21,
@@ -8384,6 +9908,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11533",
     "NAF Name": "Bileman",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 166.47511210013707,
     "tournaments": 1,
     "gamesWon": 4,
@@ -8395,6 +9921,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11534",
     "NAF Name": "Pas_Mao",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 169.32744668749098,
     "tournaments": 1,
     "gamesWon": 4,
@@ -8406,6 +9934,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11535",
     "NAF Name": "Chou",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 168.75047156378213,
     "tournaments": 8,
     "gamesWon": 18,
@@ -8417,6 +9947,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11536",
     "NAF Name": "Sr_Desague",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 108.04317934682047,
     "tournaments": 4,
     "gamesWon": 3,
@@ -8428,6 +9960,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11538",
     "NAF Name": "Shovel",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.20198276811377,
     "tournaments": 2,
     "gamesWon": 5,
@@ -8439,6 +9973,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11546",
     "NAF Name": "Bleakeyes",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.52671541633418,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8450,6 +9986,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11552",
     "NAF Name": "jrock56",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 185.24195378066108,
     "tournaments": 6,
     "gamesWon": 20,
@@ -8461,6 +9999,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11554",
     "NAF Name": "JenMoe",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 129.3759366346669,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8472,6 +10012,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11566",
     "NAF Name": "bowlingballoffury",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 166.72893931958325,
     "tournaments": 3,
     "gamesWon": 7,
@@ -8483,6 +10025,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11606",
     "NAF Name": "AdvanceOp",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.43234244814926,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8494,6 +10038,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11622",
     "NAF Name": "Barks",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 143.1670732725527,
     "tournaments": 4,
     "gamesWon": 8,
@@ -8505,6 +10051,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11651",
     "NAF Name": "KSHARPER",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 170.05286998043434,
     "tournaments": 4,
     "gamesWon": 12,
@@ -8516,6 +10064,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11655",
     "NAF Name": "SinisterDexter",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 147.35027055098746,
     "tournaments": 2,
     "gamesWon": 5,
@@ -8527,6 +10077,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11658",
     "NAF Name": "Chevanta",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.19360494640975,
     "tournaments": 3,
     "gamesWon": 7,
@@ -8538,6 +10090,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11659",
     "NAF Name": "Klark",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 123.83728540472345,
     "tournaments": 2,
     "gamesWon": 2,
@@ -8549,6 +10103,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11660",
     "NAF Name": "IcoGiannini",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 180.1442627457861,
     "tournaments": 8,
     "gamesWon": 21,
@@ -8560,6 +10116,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11661",
     "NAF Name": "Solar",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.2489056421711,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8571,6 +10129,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11678",
     "NAF Name": "scottprime",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.7765268607958,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8582,6 +10142,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11688",
     "NAF Name": "giorss",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 198.10135223134213,
     "tournaments": 4,
     "gamesWon": 14,
@@ -8593,6 +10155,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11691",
     "NAF Name": "ni_se",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.43052565804257,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8604,6 +10168,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11758",
     "NAF Name": "Communiste",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.96473161622853,
     "tournaments": 5,
     "gamesWon": 7,
@@ -8615,6 +10181,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11764",
     "NAF Name": "Dabouda",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.09812385357486,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8626,6 +10194,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11771",
     "NAF Name": "El_Grande",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 157.6356147686967,
     "tournaments": 2,
     "gamesWon": 5,
@@ -8637,6 +10207,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11777",
     "NAF Name": "Purplegoo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 213.26242469810668,
     "tournaments": 20,
     "gamesWon": 58,
@@ -8648,6 +10220,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11784",
     "NAF Name": "Joluveal",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 159.34131449953844,
     "tournaments": 3,
     "gamesWon": 6,
@@ -8659,6 +10233,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11785",
     "NAF Name": "Sandokan",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 148.67318219863807,
     "tournaments": 5,
     "gamesWon": 9,
@@ -8670,6 +10246,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11788",
     "NAF Name": "Gilles_Cacciari",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 161.1810226614961,
     "tournaments": 7,
     "gamesWon": 18,
@@ -8681,6 +10259,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11789",
     "NAF Name": "BlapyMetal",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 132.2716271979156,
     "tournaments": 9,
     "gamesWon": 13,
@@ -8692,6 +10272,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11790",
     "NAF Name": "Yun",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 127.7006153172547,
     "tournaments": 4,
     "gamesWon": 4,
@@ -8703,6 +10285,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11791",
     "NAF Name": "Pauman",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 165.5804719842138,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8714,6 +10298,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11793",
     "NAF Name": "Duke_Luthor",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 226.04892948465584,
     "tournaments": 9,
     "gamesWon": 34,
@@ -8725,6 +10311,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11794",
     "NAF Name": "Predicador",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 126.63810804491958,
     "tournaments": 6,
     "gamesWon": 5,
@@ -8736,6 +10324,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11801",
     "NAF Name": "dams",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 131.89435192316395,
     "tournaments": 2,
     "gamesWon": 3,
@@ -8747,6 +10337,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11802",
     "NAF Name": "Alf",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.95489228128574,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8758,6 +10350,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11804",
     "NAF Name": "Santo",
+    "CCAA": "Apatrida",
+    "Country": "Ladonia",
     "rating": 145.88094631105346,
     "tournaments": 5,
     "gamesWon": 9,
@@ -8769,6 +10363,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11805",
     "NAF Name": "Samday020",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 142.04338775198536,
     "tournaments": 5,
     "gamesWon": 7,
@@ -8780,6 +10376,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11832",
     "NAF Name": "SillySod",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 198.9929159200809,
     "tournaments": 8,
     "gamesWon": 28,
@@ -8791,6 +10389,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11834",
     "NAF Name": "osoi",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 146.78866007168475,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8802,6 +10402,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11855",
     "NAF Name": "a_tad_vain",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.36737142509497,
     "tournaments": 2,
     "gamesWon": 5,
@@ -8813,6 +10415,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11857",
     "NAF Name": "Big-A",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 151.57181478922493,
     "tournaments": 4,
     "gamesWon": 9,
@@ -8824,6 +10428,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11910",
     "NAF Name": "woodelf81",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.81100532562803,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8835,6 +10441,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11924",
     "NAF Name": "Kaltenland",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 197.54910092054035,
     "tournaments": 3,
     "gamesWon": 12,
@@ -8846,6 +10454,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11943",
     "NAF Name": "HornedDwarf",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 153.52674061858002,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8857,6 +10467,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "11980",
     "NAF Name": "Miyuso",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 137.27129208334188,
     "tournaments": 2,
     "gamesWon": 3,
@@ -8868,6 +10480,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12005",
     "NAF Name": "Patxi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.60809346820852,
     "tournaments": 4,
     "gamesWon": 8,
@@ -8879,6 +10493,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12006",
     "NAF Name": "NolipJohn",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.24514322725244,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8890,6 +10506,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12007",
     "NAF Name": "Mimi_rats",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 115.3519511367559,
     "tournaments": 3,
     "gamesWon": 4,
@@ -8901,6 +10519,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12009",
     "NAF Name": "Handycapyann",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.97799930535786,
     "tournaments": 2,
     "gamesWon": 4,
@@ -8912,6 +10532,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12011",
     "NAF Name": "Cassal",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 132.65227760499215,
     "tournaments": 2,
     "gamesWon": 2,
@@ -8923,6 +10545,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12018",
     "NAF Name": "Grin",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 142.52167637260803,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8934,6 +10558,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12020",
     "NAF Name": "Gernork",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 178.29244128550732,
     "tournaments": 2,
     "gamesWon": 7,
@@ -8945,6 +10571,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12021",
     "NAF Name": "Schattenschwinge",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 139.60525750524326,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8956,6 +10584,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12022",
     "NAF Name": "Menxar",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 159.18022774866608,
     "tournaments": 2,
     "gamesWon": 7,
@@ -8967,6 +10597,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12023",
     "NAF Name": "kaptain.karacho",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 155.27828154919135,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8978,6 +10610,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12032",
     "NAF Name": "Stig",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.78334522829417,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8989,6 +10623,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12056",
     "NAF Name": "duttydave",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.28653651111583,
     "tournaments": 2,
     "gamesWon": 5,
@@ -9000,6 +10636,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12061",
     "NAF Name": "Quizz",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.32579621783728,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9011,6 +10649,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12062",
     "NAF Name": "Rackam",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 160.9992378078532,
     "tournaments": 2,
     "gamesWon": 4,
@@ -9022,6 +10662,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12063",
     "NAF Name": "RackLuhr",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 152.8587969393927,
     "tournaments": 4,
     "gamesWon": 10,
@@ -9033,6 +10675,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12087",
     "NAF Name": "Kubbo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 165.34268029285067,
     "tournaments": 4,
     "gamesWon": 10,
@@ -9044,6 +10688,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12101",
     "NAF Name": "Indigogyre",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 124.61184899368175,
     "tournaments": 2,
     "gamesWon": 2,
@@ -9055,6 +10701,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12126",
     "NAF Name": "shuran",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.56350944395345,
     "tournaments": 3,
     "gamesWon": 4,
@@ -9066,6 +10714,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12131",
     "NAF Name": "Mikko",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 131.64175083262663,
     "tournaments": 1,
     "gamesWon": 3,
@@ -9077,6 +10727,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12133",
     "NAF Name": "commodore_protheus",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.02003796860023,
     "tournaments": 1,
     "gamesWon": 3,
@@ -9088,6 +10740,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12145",
     "NAF Name": "lunchmoney",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 98.61119418399076,
     "tournaments": 5,
     "gamesWon": 5,
@@ -9099,6 +10753,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12164",
     "NAF Name": "Nosferatu82",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 163.85145955010097,
     "tournaments": 1,
     "gamesWon": 4,
@@ -9110,6 +10766,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12184",
     "NAF Name": "MadeofWelsh",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.00588962115683,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9121,6 +10779,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12229",
     "NAF Name": "Spieroz",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 142.06026290442878,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9132,6 +10792,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12243",
     "NAF Name": "richy376",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.92240736696758,
     "tournaments": 2,
     "gamesWon": 3,
@@ -9143,6 +10805,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12256",
     "NAF Name": "Dilvish",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 166.27673896671317,
     "tournaments": 1,
     "gamesWon": 3,
@@ -9154,6 +10818,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12263",
     "NAF Name": "Rando",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 141.24018151696916,
     "tournaments": 2,
     "gamesWon": 2,
@@ -9165,6 +10831,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12272",
     "NAF Name": "Rhox",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 195.80427743057788,
     "tournaments": 5,
     "gamesWon": 15,
@@ -9176,6 +10844,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12273",
     "NAF Name": "Alberto",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.44280742231314,
     "tournaments": 2,
     "gamesWon": 5,
@@ -9187,6 +10857,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12277",
     "NAF Name": "Pnita",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 186.3970194896739,
     "tournaments": 6,
     "gamesWon": 16,
@@ -9198,6 +10870,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12281",
     "NAF Name": "ADG",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 235.45338342967156,
     "tournaments": 10,
     "gamesWon": 35,
@@ -9209,6 +10883,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12282",
     "NAF Name": "Chema",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 206.07236918018256,
     "tournaments": 6,
     "gamesWon": 21,
@@ -9220,6 +10896,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12283",
     "NAF Name": "Omake",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.9095679994077,
     "tournaments": 8,
     "gamesWon": 14,
@@ -9231,6 +10909,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12285",
     "NAF Name": "Xac",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 148.9088579074006,
     "tournaments": 6,
     "gamesWon": 10,
@@ -9242,6 +10922,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12286",
     "NAF Name": "BBFanatic",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.90172891087585,
     "tournaments": 2,
     "gamesWon": 5,
@@ -9253,6 +10935,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12287",
     "NAF Name": "Nebur_El_Sanguinario",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 151.08885609691802,
     "tournaments": 2,
     "gamesWon": 3,
@@ -9264,6 +10948,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12319",
     "NAF Name": "Justicium",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 172.19904229833557,
     "tournaments": 7,
     "gamesWon": 17,
@@ -9275,6 +10961,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12321",
     "NAF Name": "Ziben",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 140.32128404459732,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9286,6 +10974,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12346",
     "NAF Name": "endycarus",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 106.4768670353618,
     "tournaments": 2,
     "gamesWon": 0,
@@ -9297,6 +10987,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12362",
     "NAF Name": "cas",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 156.14095067634418,
     "tournaments": 1,
     "gamesWon": 3,
@@ -9308,6 +11000,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12377",
     "NAF Name": "TomSimms109",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.5115899629999,
     "tournaments": 5,
     "gamesWon": 12,
@@ -9319,6 +11013,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12378",
     "NAF Name": "PaulWinter87",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.9122703361361,
     "tournaments": 5,
     "gamesWon": 9,
@@ -9330,6 +11026,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12379",
     "NAF Name": "AdamPorter200",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.8557515293899,
     "tournaments": 1,
     "gamesWon": 3,
@@ -9341,6 +11039,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12380",
     "NAF Name": "NicSpreng137",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.02643631018515,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9352,6 +11052,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12386",
     "NAF Name": "ShaunBotting",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 75.53589332470764,
     "tournaments": 3,
     "gamesWon": 1,
@@ -9363,6 +11065,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12387",
     "NAF Name": "Grantbotting",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 108.71812708005304,
     "tournaments": 3,
     "gamesWon": 3,
@@ -9374,6 +11078,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12390",
     "NAF Name": "onthedownlow",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 124.01117749972825,
     "tournaments": 4,
     "gamesWon": 5,
@@ -9385,6 +11091,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12391",
     "NAF Name": "Shape",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.4302545832055,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9396,6 +11104,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12392",
     "NAF Name": "Drengi",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 159.42759423752366,
     "tournaments": 1,
     "gamesWon": 3,
@@ -9407,6 +11117,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12395",
     "NAF Name": "Chewie_Sanderson",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 168.29355055472743,
     "tournaments": 1,
     "gamesWon": 5,
@@ -9418,6 +11130,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12396",
     "NAF Name": "Phil78",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 158.08323542886518,
     "tournaments": 4,
     "gamesWon": 10,
@@ -9429,6 +11143,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12403",
     "NAF Name": "Jimjimany",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 248.48981168520064,
     "tournaments": 15,
     "gamesWon": 55,
@@ -9440,6 +11156,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12408",
     "NAF Name": "Acerimmer",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 136.35253448877862,
     "tournaments": 4,
     "gamesWon": 8,
@@ -9451,6 +11169,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12409",
     "NAF Name": "JockMcRowdy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 175.89025838762635,
     "tournaments": 2,
     "gamesWon": 7,
@@ -9462,6 +11182,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12425",
     "NAF Name": "Lyricoz",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 157.10974889191294,
     "tournaments": 2,
     "gamesWon": 7,
@@ -9473,6 +11195,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12442",
     "NAF Name": "brettness37",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 144.914907052412,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9484,6 +11208,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12457",
     "NAF Name": "Pink_Charlie",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 134.1471273958954,
     "tournaments": 12,
     "gamesWon": 16,
@@ -9495,6 +11221,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12460",
     "NAF Name": "Duff64",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.93826615001973,
     "tournaments": 2,
     "gamesWon": 1,
@@ -9506,6 +11234,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12461",
     "NAF Name": "Dimiento",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.59482526228734,
     "tournaments": 2,
     "gamesWon": 4,
@@ -9517,6 +11247,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12462",
     "NAF Name": "Pelopidas",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 167.95977695164066,
     "tournaments": 6,
     "gamesWon": 9,
@@ -9528,6 +11260,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12465",
     "NAF Name": "Gimli",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 171.71341849461749,
     "tournaments": 2,
     "gamesWon": 6,
@@ -9539,6 +11273,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12468",
     "NAF Name": "Wormy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 166.93208901245018,
     "tournaments": 6,
     "gamesWon": 11,
@@ -9550,6 +11286,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12486",
     "NAF Name": "ChrisB82",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.55296355015037,
     "tournaments": 4,
     "gamesWon": 11,
@@ -9561,6 +11299,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12496",
     "NAF Name": "RedDawn",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.58051824656667,
     "tournaments": 5,
     "gamesWon": 9,
@@ -9572,6 +11312,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12499",
     "NAF Name": "Baltus",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 121.75728382277175,
     "tournaments": 7,
     "gamesWon": 6,
@@ -9583,6 +11325,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12500",
     "NAF Name": "woete",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 138.87869894961622,
     "tournaments": 7,
     "gamesWon": 12,
@@ -9594,6 +11338,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12501",
     "NAF Name": "timtje",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 139.10599336519218,
     "tournaments": 1,
     "gamesWon": 0,
@@ -9605,6 +11351,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12511",
     "NAF Name": "Maestre",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.36809653440122,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9616,6 +11364,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12517",
     "NAF Name": "Israel2121",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.21939346860597,
     "tournaments": 2,
     "gamesWon": 5,
@@ -9627,6 +11377,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12518",
     "NAF Name": "Zoliak",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 167.54008928846977,
     "tournaments": 3,
     "gamesWon": 8,
@@ -9638,6 +11390,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12533",
     "NAF Name": "Tiamat",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 134.27802710329055,
     "tournaments": 4,
     "gamesWon": 5,
@@ -9649,6 +11403,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12534",
     "NAF Name": "Carpenter",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 122.54581427352095,
     "tournaments": 4,
     "gamesWon": 4,
@@ -9660,6 +11416,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12535",
     "NAF Name": "Mefi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.44826995261195,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9671,6 +11429,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12538",
     "NAF Name": "Fat_Emrys",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.03022297899744,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9682,6 +11442,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12539",
     "NAF Name": "pey",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 142.68686980249151,
     "tournaments": 2,
     "gamesWon": 3,
@@ -9693,6 +11455,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12540",
     "NAF Name": "swartz24",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 132.3422902681923,
     "tournaments": 1,
     "gamesWon": 0,
@@ -9704,6 +11468,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12541",
     "NAF Name": "giobin",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 139.57334065577373,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9715,6 +11481,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12542",
     "NAF Name": "capomuta_harkonnen",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 149.7020244866332,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9726,6 +11494,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12545",
     "NAF Name": "Winkle_Picka",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 189.65424603116193,
     "tournaments": 10,
     "gamesWon": 36,
@@ -9737,6 +11507,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12565",
     "NAF Name": "Marvelhoeller",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 136.2509513740986,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9748,6 +11520,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12585",
     "NAF Name": "eion755",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 151.58473843056962,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9759,6 +11533,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12592",
     "NAF Name": "lordchaos",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 131.55632887447862,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9770,6 +11546,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12620",
     "NAF Name": "Bearhug",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 134.598783627753,
     "tournaments": 1,
     "gamesWon": 0,
@@ -9781,6 +11559,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12621",
     "NAF Name": "Dropshort",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 149.74119817511632,
     "tournaments": 2,
     "gamesWon": 2,
@@ -9792,6 +11572,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12622",
     "NAF Name": "Khorgor",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 149.1577524388292,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9803,6 +11585,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12623",
     "NAF Name": "Ratt",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 138.29448078471313,
     "tournaments": 2,
     "gamesWon": 3,
@@ -9814,6 +11598,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12625",
     "NAF Name": "Caveman",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 139.26822495459396,
     "tournaments": 1,
     "gamesWon": 0,
@@ -9825,6 +11611,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12626",
     "NAF Name": "Talanis",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 151.359957518782,
     "tournaments": 4,
     "gamesWon": 6,
@@ -9836,6 +11624,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12639",
     "NAF Name": "Turenne",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 182.8743005192208,
     "tournaments": 7,
     "gamesWon": 18,
@@ -9847,6 +11637,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12646",
     "NAF Name": "Subhedgehog",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 154.57850166977897,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9858,6 +11650,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12650",
     "NAF Name": "Thronos",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 134.9930439597088,
     "tournaments": 3,
     "gamesWon": 3,
@@ -9869,6 +11663,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12654",
     "NAF Name": "Jerry07",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 147.61106986003261,
     "tournaments": 2,
     "gamesWon": 5,
@@ -9880,6 +11676,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12660",
     "NAF Name": "TheCunning",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 125.76238863533001,
     "tournaments": 2,
     "gamesWon": 1,
@@ -9891,6 +11689,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12661",
     "NAF Name": "Gloeckchen",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 137.56278352482306,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9902,6 +11702,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12663",
     "NAF Name": "Boon",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 154.3005324009013,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9913,6 +11715,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12672",
     "NAF Name": "SierraKiloBravo",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 164.690898254102,
     "tournaments": 2,
     "gamesWon": 6,
@@ -9924,6 +11728,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12673",
     "NAF Name": "lordshane",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.20337628881433,
     "tournaments": 2,
     "gamesWon": 2,
@@ -9935,6 +11741,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12687",
     "NAF Name": "Melenkurion",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 163.4646401286472,
     "tournaments": 1,
     "gamesWon": 4,
@@ -9946,6 +11754,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12713",
     "NAF Name": "arturin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.02420731076006,
     "tournaments": 1,
     "gamesWon": 0,
@@ -9957,6 +11767,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12715",
     "NAF Name": "revell",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 106.80992602046264,
     "tournaments": 4,
     "gamesWon": 2,
@@ -9968,6 +11780,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12719",
     "NAF Name": "Zaladino",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.57574588783885,
     "tournaments": 2,
     "gamesWon": 3,
@@ -9979,6 +11793,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12721",
     "NAF Name": "}ZALADINO{",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 142.1847396889941,
     "tournaments": 4,
     "gamesWon": 5,
@@ -9990,6 +11806,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12728",
     "NAF Name": "Bizargorri",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.84990936927824,
     "tournaments": 1,
     "gamesWon": 4,
@@ -10001,6 +11819,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12734",
     "NAF Name": "Darkhorse",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 154.8771942927929,
     "tournaments": 1,
     "gamesWon": 3,
@@ -10012,6 +11832,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12738",
     "NAF Name": "Sukram",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 161.28953784975053,
     "tournaments": 1,
     "gamesWon": 3,
@@ -10023,6 +11845,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12746",
     "NAF Name": "Chapuzas",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 116.3007377166702,
     "tournaments": 2,
     "gamesWon": 0,
@@ -10034,6 +11858,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12748",
     "NAF Name": "Strahd",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 135.43502105911713,
     "tournaments": 2,
     "gamesWon": 0,
@@ -10045,6 +11871,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12769",
     "NAF Name": "doudou",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.31855063516295,
     "tournaments": 2,
     "gamesWon": 5,
@@ -10056,6 +11884,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12770",
     "NAF Name": "basurdi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 176.37132676876774,
     "tournaments": 10,
     "gamesWon": 21,
@@ -10067,6 +11897,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12774",
     "NAF Name": "RobRan",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.40926078622252,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10078,6 +11910,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12788",
     "NAF Name": "Berock",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 139.12346695787122,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10089,6 +11923,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12791",
     "NAF Name": "Slothman",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 145.58430277115338,
     "tournaments": 2,
     "gamesWon": 3,
@@ -10100,6 +11936,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12801",
     "NAF Name": "Benny36",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 129.5381783412243,
     "tournaments": 2,
     "gamesWon": 2,
@@ -10111,6 +11949,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12802",
     "NAF Name": "The_Gaffer",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 132.01256822421357,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10122,6 +11962,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12805",
     "NAF Name": "Centurion",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 151.78912809188253,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10133,6 +11975,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12812",
     "NAF Name": "siggyllama",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.44243482444384,
     "tournaments": 2,
     "gamesWon": 4,
@@ -10144,6 +11988,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12821",
     "NAF Name": "Tet",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 151.40067466284054,
     "tournaments": 2,
     "gamesWon": 4,
@@ -10155,6 +12001,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12834",
     "NAF Name": "Gesmachiene",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 181.10447704186276,
     "tournaments": 5,
     "gamesWon": 16,
@@ -10166,6 +12014,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12835",
     "NAF Name": "Quetzal",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 141.5659245784639,
     "tournaments": 8,
     "gamesWon": 15,
@@ -10177,6 +12027,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12847",
     "NAF Name": "Jugar",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 113.11966374044718,
     "tournaments": 6,
     "gamesWon": 11,
@@ -10188,6 +12040,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12865",
     "NAF Name": "Scar",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 146.00484436311928,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10199,6 +12053,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12867",
     "NAF Name": "redcard",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 187.76954820570754,
     "tournaments": 6,
     "gamesWon": 14,
@@ -10210,6 +12066,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12868",
     "NAF Name": "Borzag",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 102.04012578095889,
     "tournaments": 4,
     "gamesWon": 2,
@@ -10221,6 +12079,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12869",
     "NAF Name": "Mango",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 162.54912025472788,
     "tournaments": 1,
     "gamesWon": 3,
@@ -10232,6 +12092,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12872",
     "NAF Name": "Xian11283",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.01666151640183,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10243,6 +12105,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12877",
     "NAF Name": "N12877",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 113.74004873680296,
     "tournaments": 6,
     "gamesWon": 9,
@@ -10254,6 +12118,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12882",
     "NAF Name": "Yos_T",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 132.7397632451485,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10265,6 +12131,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12904",
     "NAF Name": "andyinjapan",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 139.09451675847532,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10276,6 +12144,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12927",
     "NAF Name": "Hogshine",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 148.5682327886414,
     "tournaments": 2,
     "gamesWon": 5,
@@ -10287,6 +12157,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12932",
     "NAF Name": "Griffon31",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 160.59847782079015,
     "tournaments": 1,
     "gamesWon": 3,
@@ -10298,6 +12170,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12937",
     "NAF Name": "Sphinx",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 136.61585688342183,
     "tournaments": 5,
     "gamesWon": 7,
@@ -10309,6 +12183,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12938",
     "NAF Name": "oryxwild",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.08267510133103,
     "tournaments": 1,
     "gamesWon": 4,
@@ -10320,6 +12196,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12958",
     "NAF Name": "WYSiWYG",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 149.84034227070615,
     "tournaments": 1,
     "gamesWon": 4,
@@ -10331,6 +12209,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12960",
     "NAF Name": "Drakk",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.62995154265204,
     "tournaments": 2,
     "gamesWon": 4,
@@ -10342,6 +12222,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12964",
     "NAF Name": "Charon",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 132.20474885299325,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10353,6 +12235,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12972",
     "NAF Name": "Hellboy",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 131.30557588825545,
     "tournaments": 6,
     "gamesWon": 9,
@@ -10364,6 +12248,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12973",
     "NAF Name": "Nichren",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 140.77291466193924,
     "tournaments": 2,
     "gamesWon": 4,
@@ -10375,6 +12261,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12975",
     "NAF Name": "Jester",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 142.22280245543226,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10386,6 +12274,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12981",
     "NAF Name": "snoopy",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 128.5422662838317,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10397,6 +12287,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12984",
     "NAF Name": "erkenrath",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.80009038422008,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10408,6 +12300,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12985",
     "NAF Name": "fly",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.44888163644393,
     "tournaments": 2,
     "gamesWon": 2,
@@ -10419,6 +12313,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12987",
     "NAF Name": "bud_wiser",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 209.08306490133697,
     "tournaments": 5,
     "gamesWon": 15,
@@ -10430,6 +12326,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12989",
     "NAF Name": "sir-galaad",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.62123781716,
     "tournaments": 4,
     "gamesWon": 7,
@@ -10441,6 +12339,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12990",
     "NAF Name": "Shogun",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 182.9631719368058,
     "tournaments": 3,
     "gamesWon": 9,
@@ -10452,6 +12352,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "12999",
     "NAF Name": "ikki",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 147.36048195158847,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10463,6 +12365,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13000",
     "NAF Name": "Lord_Lexious",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 153.93399951151738,
     "tournaments": 2,
     "gamesWon": 4,
@@ -10474,6 +12378,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13004",
     "NAF Name": "elvelux",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.38891914951787,
     "tournaments": 2,
     "gamesWon": 3,
@@ -10485,6 +12391,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13014",
     "NAF Name": "hana_666",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 151.3146925996843,
     "tournaments": 8,
     "gamesWon": 16,
@@ -10496,6 +12404,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13036",
     "NAF Name": "Rayd",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 176.6216268184398,
     "tournaments": 6,
     "gamesWon": 14,
@@ -10507,6 +12417,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13054",
     "NAF Name": "Sander",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 146.05083248865972,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10518,6 +12430,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13064",
     "NAF Name": "leverloos",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 127.17405277420974,
     "tournaments": 4,
     "gamesWon": 6,
@@ -10529,6 +12443,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13078",
     "NAF Name": "Durden",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 136.48638706250708,
     "tournaments": 8,
     "gamesWon": 16,
@@ -10540,6 +12456,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13082",
     "NAF Name": "senechalkong",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.80555055883468,
     "tournaments": 2,
     "gamesWon": 2,
@@ -10551,6 +12469,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13093",
     "NAF Name": "Weav",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 122.403033400464,
     "tournaments": 2,
     "gamesWon": 2,
@@ -10562,6 +12482,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13104",
     "NAF Name": "Mgmads",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 157.28063251176525,
     "tournaments": 2,
     "gamesWon": 4,
@@ -10573,6 +12495,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13121",
     "NAF Name": "BigBelcher",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.53108238388951,
     "tournaments": 4,
     "gamesWon": 4,
@@ -10584,6 +12508,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13122",
     "NAF Name": "MoodyGit",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.92924369116102,
     "tournaments": 4,
     "gamesWon": 7,
@@ -10595,6 +12521,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13123",
     "NAF Name": "TheyreDeadDave",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.643882750469,
     "tournaments": 1,
     "gamesWon": 3,
@@ -10606,6 +12534,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13128",
     "NAF Name": "MyKi#1",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 117.30885668247424,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10617,6 +12547,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13144",
     "NAF Name": "Joaquinignacio",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 148.40111273300317,
     "tournaments": 2,
     "gamesWon": 3,
@@ -10628,6 +12560,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13148",
     "NAF Name": "NitNit",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 156.8243826166106,
     "tournaments": 2,
     "gamesWon": 5,
@@ -10639,6 +12573,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13152",
     "NAF Name": "frog",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 176.12461718128563,
     "tournaments": 4,
     "gamesWon": 10,
@@ -10650,6 +12586,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13156",
     "NAF Name": "BooBoo",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 153.6761267881601,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10661,6 +12599,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13157",
     "NAF Name": "Agggghhhh",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 146.05635011702728,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10672,6 +12612,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13158",
     "NAF Name": "Spooky",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.85805845078966,
     "tournaments": 2,
     "gamesWon": 1,
@@ -10683,6 +12625,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13159",
     "NAF Name": "TickTickBoom",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.938906782212,
     "tournaments": 1,
     "gamesWon": 3,
@@ -10694,6 +12638,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13160",
     "NAF Name": "GhostDad",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 126.55700889539476,
     "tournaments": 2,
     "gamesWon": 1,
@@ -10705,6 +12651,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13161",
     "NAF Name": "RichieRich",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.91770269918737,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10716,6 +12664,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13164",
     "NAF Name": "ScarySpice",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 136.6880270275034,
     "tournaments": 2,
     "gamesWon": 3,
@@ -10727,6 +12677,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13193",
     "NAF Name": "chefaroo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 126.44064623112257,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10738,6 +12690,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13194",
     "NAF Name": "KevinParkin",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.73056502068542,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10749,6 +12703,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13201",
     "NAF Name": "le_ong",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.75272446635057,
     "tournaments": 3,
     "gamesWon": 5,
@@ -10760,6 +12716,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13205",
     "NAF Name": "Warpstone",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 172.81116092977248,
     "tournaments": 2,
     "gamesWon": 5,
@@ -10771,6 +12729,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13211",
     "NAF Name": "ARKNGEL",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 177.51464255020568,
     "tournaments": 5,
     "gamesWon": 16,
@@ -10782,6 +12742,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13213",
     "NAF Name": "tzoscey",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 134.46907734519934,
     "tournaments": 3,
     "gamesWon": 4,
@@ -10793,6 +12755,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13215",
     "NAF Name": "Chiku",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 129.25053440209328,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10804,6 +12768,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13228",
     "NAF Name": "Bjorn9486",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 140.26739002944734,
     "tournaments": 2,
     "gamesWon": 2,
@@ -10815,6 +12781,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13232",
     "NAF Name": "Caran",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 143.85418078417632,
     "tournaments": 3,
     "gamesWon": 8,
@@ -10826,6 +12794,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13234",
     "NAF Name": "PumpkinBrother",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 165.28546217411332,
     "tournaments": 1,
     "gamesWon": 5,
@@ -10837,6 +12807,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13235",
     "NAF Name": "KrausesHaar",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 151.12829406227496,
     "tournaments": 1,
     "gamesWon": 3,
@@ -10848,6 +12820,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13236",
     "NAF Name": "NISHIKO",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 146.62524150457787,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10859,6 +12833,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13244",
     "NAF Name": "HospiAmazona",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.27485767376285,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10870,6 +12846,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13246",
     "NAF Name": "Brunificus",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 145.9920640413659,
     "tournaments": 3,
     "gamesWon": 8,
@@ -10881,6 +12859,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13249",
     "NAF Name": "SumBloke",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 163.2875281268817,
     "tournaments": 7,
     "gamesWon": 16,
@@ -10892,6 +12872,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13251",
     "NAF Name": "lootpuppy",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.71870327797492,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10903,6 +12885,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13255",
     "NAF Name": "StoneColdSpider",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 145.61757540699315,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10914,6 +12898,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13256",
     "NAF Name": "WeissM",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 153.5457211656434,
     "tournaments": 2,
     "gamesWon": 4,
@@ -10925,6 +12911,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13257",
     "NAF Name": "Olaf_The_Stout",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 130.03519109653803,
     "tournaments": 2,
     "gamesWon": 2,
@@ -10936,6 +12924,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13260",
     "NAF Name": "Johy",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 138.7586623272264,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10947,6 +12937,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13270",
     "NAF Name": "ddark",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 169.64258612936908,
     "tournaments": 2,
     "gamesWon": 7,
@@ -10958,6 +12950,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13280",
     "NAF Name": "Freud",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 147.81415704834137,
     "tournaments": 6,
     "gamesWon": 13,
@@ -10969,6 +12963,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13292",
     "NAF Name": "theLAB",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 160.38363249137345,
     "tournaments": 1,
     "gamesWon": 3,
@@ -10980,6 +12976,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13301",
     "NAF Name": "TankFace",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 168.94887111969254,
     "tournaments": 2,
     "gamesWon": 7,
@@ -10991,6 +12989,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13303",
     "NAF Name": "Chops",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 138.50448684620093,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11002,6 +13002,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13335",
     "NAF Name": "rippersly",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 212.58671758686026,
     "tournaments": 10,
     "gamesWon": 26,
@@ -11013,6 +13015,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13344",
     "NAF Name": "Paulip",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.24034843518538,
     "tournaments": 4,
     "gamesWon": 9,
@@ -11024,6 +13028,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13345",
     "NAF Name": "Fricotti",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.87463621645801,
     "tournaments": 1,
     "gamesWon": 4,
@@ -11035,6 +13041,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13347",
     "NAF Name": "Bear",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 132.81955644640828,
     "tournaments": 2,
     "gamesWon": 3,
@@ -11046,6 +13054,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13356",
     "NAF Name": "Otherdave",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 147.346658828796,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11057,6 +13067,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13369",
     "NAF Name": "gus_the_hut",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.33203660588674,
     "tournaments": 2,
     "gamesWon": 3,
@@ -11068,6 +13080,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13387",
     "NAF Name": "AngryMan",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 180.02749551066924,
     "tournaments": 2,
     "gamesWon": 8,
@@ -11079,6 +13093,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13389",
     "NAF Name": "GladiatorLuke",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 130.415947729206,
     "tournaments": 3,
     "gamesWon": 5,
@@ -11090,6 +13106,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13409",
     "NAF Name": "mubo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 170.86404430971677,
     "tournaments": 5,
     "gamesWon": 16,
@@ -11101,6 +13119,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13411",
     "NAF Name": "RobDowney",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.94223788023947,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11112,6 +13132,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13417",
     "NAF Name": "Spartako",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 191.92069924768654,
     "tournaments": 8,
     "gamesWon": 25,
@@ -11123,6 +13145,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13418",
     "NAF Name": "Aark_Boneaxe",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 119.83045906083485,
     "tournaments": 1,
     "gamesWon": 0,
@@ -11134,6 +13158,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13422",
     "NAF Name": "Mumule",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.36699911740868,
     "tournaments": 2,
     "gamesWon": 4,
@@ -11145,6 +13171,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13424",
     "NAF Name": "Darkraak",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.98063832023487,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11156,6 +13184,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13425",
     "NAF Name": "Yannolegob",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 161.3137248427011,
     "tournaments": 9,
     "gamesWon": 17,
@@ -11167,6 +13197,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13427",
     "NAF Name": "PapaNoel",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 104.30727933217705,
     "tournaments": 5,
     "gamesWon": 1,
@@ -11178,6 +13210,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13434",
     "NAF Name": "Blacktemplar",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 145.15842003089503,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11189,6 +13223,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13441",
     "NAF Name": "DrunkZombie",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 134.73361847256763,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11200,6 +13236,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13445",
     "NAF Name": "MarcMan",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 125.55097530493947,
     "tournaments": 1,
     "gamesWon": 0,
@@ -11211,6 +13249,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13452",
     "NAF Name": "French_Maverick",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 165.57486364247632,
     "tournaments": 10,
     "gamesWon": 16,
@@ -11222,6 +13262,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13453",
     "NAF Name": "Ankmorpork",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.5382904882067,
     "tournaments": 3,
     "gamesWon": 4,
@@ -11233,6 +13275,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13455",
     "NAF Name": "Karaak",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 173.297808612942,
     "tournaments": 9,
     "gamesWon": 17,
@@ -11244,6 +13288,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13458",
     "NAF Name": "Em",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 159.81605530438387,
     "tournaments": 1,
     "gamesWon": 4,
@@ -11255,6 +13301,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13459",
     "NAF Name": "EasyKicker",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 130.18250206255925,
     "tournaments": 2,
     "gamesWon": 4,
@@ -11266,6 +13314,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13461",
     "NAF Name": "Carbrawn",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 162.54684336789333,
     "tournaments": 3,
     "gamesWon": 7,
@@ -11277,6 +13327,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13462",
     "NAF Name": "Foad",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 158.47153301871995,
     "tournaments": 2,
     "gamesWon": 3,
@@ -11288,6 +13340,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13464",
     "NAF Name": "Invideous",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 108.59424535181664,
     "tournaments": 1,
     "gamesWon": 0,
@@ -11299,6 +13353,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13470",
     "NAF Name": "Brutle",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 157.98556055349525,
     "tournaments": 1,
     "gamesWon": 3,
@@ -11310,6 +13366,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13474",
     "NAF Name": "Luizda",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 139.64804705198443,
     "tournaments": 2,
     "gamesWon": 3,
@@ -11321,6 +13379,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13475",
     "NAF Name": "JBdemon",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.6426587049732,
     "tournaments": 1,
     "gamesWon": 0,
@@ -11332,6 +13392,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13476",
     "NAF Name": "Mr_Karpio",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 136.1031637279194,
     "tournaments": 4,
     "gamesWon": 8,
@@ -11343,6 +13405,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13478",
     "NAF Name": "Sneky",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 165.52310097082977,
     "tournaments": 3,
     "gamesWon": 5,
@@ -11354,6 +13418,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13484",
     "NAF Name": "Gosth",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 126.6969503605138,
     "tournaments": 1,
     "gamesWon": 0,
@@ -11365,6 +13431,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13490",
     "NAF Name": "figpas",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.1906788421627,
     "tournaments": 5,
     "gamesWon": 6,
@@ -11376,6 +13444,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13491",
     "NAF Name": "Angazi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 119.8416602387662,
     "tournaments": 3,
     "gamesWon": 3,
@@ -11387,6 +13457,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13492",
     "NAF Name": "grumm",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 127.60684186368239,
     "tournaments": 4,
     "gamesWon": 4,
@@ -11398,6 +13470,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13494",
     "NAF Name": "trollcrusher",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.43684927188363,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11409,6 +13483,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13500",
     "NAF Name": "Gaffaj",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.9307843898278,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11420,6 +13496,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13501",
     "NAF Name": "Darth_prophet",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 148.95803899425036,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11431,6 +13509,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13502",
     "NAF Name": "sosoomi",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.01112477366732,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11442,6 +13522,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13507",
     "NAF Name": "Videador",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 104.93837023943554,
     "tournaments": 5,
     "gamesWon": 7,
@@ -11453,6 +13535,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13509",
     "NAF Name": "Lycian",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 167.48067279990752,
     "tournaments": 1,
     "gamesWon": 4,
@@ -11464,6 +13548,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13512",
     "NAF Name": "Juakot",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.40245866059388,
     "tournaments": 3,
     "gamesWon": 5,
@@ -11475,6 +13561,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13513",
     "NAF Name": "Dardorl",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.13412621989926,
     "tournaments": 7,
     "gamesWon": 13,
@@ -11486,6 +13574,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13517",
     "NAF Name": "Titor",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 146.06084189002968,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11497,6 +13587,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13524",
     "NAF Name": "Dajegas",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 125.50285591219931,
     "tournaments": 9,
     "gamesWon": 20,
@@ -11508,6 +13600,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13525",
     "NAF Name": "Varamyr",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 141.90519371068734,
     "tournaments": 5,
     "gamesWon": 9,
@@ -11519,6 +13613,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13527",
     "NAF Name": "Fudo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 113.47298486705408,
     "tournaments": 4,
     "gamesWon": 1,
@@ -11530,6 +13626,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13529",
     "NAF Name": "Catto",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 134.69959145654883,
     "tournaments": 2,
     "gamesWon": 2,
@@ -11541,6 +13639,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13537",
     "NAF Name": "Florrent",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 179.87464255548713,
     "tournaments": 4,
     "gamesWon": 14,
@@ -11552,6 +13652,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13544",
     "NAF Name": "Aino",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 131.67578614710902,
     "tournaments": 2,
     "gamesWon": 4,
@@ -11563,6 +13665,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13549",
     "NAF Name": "Mister_Sandman",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 139.90932000599767,
     "tournaments": 4,
     "gamesWon": 10,
@@ -11574,6 +13678,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13553",
     "NAF Name": "Armydave",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.79555701565968,
     "tournaments": 4,
     "gamesWon": 7,
@@ -11585,6 +13691,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13555",
     "NAF Name": "CromFrance",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.3113294471737,
     "tournaments": 5,
     "gamesWon": 6,
@@ -11596,6 +13704,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13558",
     "NAF Name": "wise",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.60842113796943,
     "tournaments": 4,
     "gamesWon": 3,
@@ -11607,6 +13717,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13561",
     "NAF Name": "Matt_le_Fou",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 195.27215800685576,
     "tournaments": 9,
     "gamesWon": 24,
@@ -11618,6 +13730,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13562",
     "NAF Name": "ricky_tchan",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 187.30423394229047,
     "tournaments": 7,
     "gamesWon": 16,
@@ -11629,6 +13743,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13563",
     "NAF Name": "Miyata",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 176.28965024462354,
     "tournaments": 6,
     "gamesWon": 14,
@@ -11640,6 +13756,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13564",
     "NAF Name": "Ilui",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.93232734250336,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11651,6 +13769,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13565",
     "NAF Name": "ElKeupon",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.51537903968523,
     "tournaments": 3,
     "gamesWon": 2,
@@ -11662,6 +13782,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13568",
     "NAF Name": "Lurch",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 156.87841680518596,
     "tournaments": 2,
     "gamesWon": 5,
@@ -11673,6 +13795,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13569",
     "NAF Name": "Balias",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 179.90216249474517,
     "tournaments": 2,
     "gamesWon": 6,
@@ -11684,6 +13808,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13570",
     "NAF Name": "Deadwannabe",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 132.23589249376352,
     "tournaments": 2,
     "gamesWon": 3,
@@ -11695,6 +13821,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13571",
     "NAF Name": "Bsking",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 175.11131443839108,
     "tournaments": 7,
     "gamesWon": 21,
@@ -11706,6 +13834,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13572",
     "NAF Name": "iaphyr",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.94754583216246,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11717,6 +13847,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13573",
     "NAF Name": "Blorc",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 156.59183866937855,
     "tournaments": 1,
     "gamesWon": 4,
@@ -11728,6 +13860,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13576",
     "NAF Name": "Galmor",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 218.82216651403434,
     "tournaments": 11,
     "gamesWon": 34,
@@ -11739,6 +13873,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13578",
     "NAF Name": "LoMas",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.99576700461571,
     "tournaments": 3,
     "gamesWon": 10,
@@ -11750,6 +13886,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13583",
     "NAF Name": "Harti",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 207.41065293323723,
     "tournaments": 14,
     "gamesWon": 40,
@@ -11761,6 +13899,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13592",
     "NAF Name": "swntzu",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 150.4218808125009,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11772,6 +13912,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13596",
     "NAF Name": "Binns",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 128.67211609593076,
     "tournaments": 4,
     "gamesWon": 3,
@@ -11783,6 +13925,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13597",
     "NAF Name": "mr_pignon",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 140.08931955105302,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11794,6 +13938,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13605",
     "NAF Name": "Daenoeris",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 112.8989668026918,
     "tournaments": 5,
     "gamesWon": 3,
@@ -11805,6 +13951,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13606",
     "NAF Name": "Chester",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 157.61267245413725,
     "tournaments": 1,
     "gamesWon": 3,
@@ -11816,6 +13964,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13607",
     "NAF Name": "Hiruma_Zeo",
+    "CCAA": "Murcia",
+    "Country": "Spain",
     "rating": 154.35257705005523,
     "tournaments": 6,
     "gamesWon": 12,
@@ -11827,6 +13977,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13608",
     "NAF Name": "MrSerch",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 161.2257144267335,
     "tournaments": 3,
     "gamesWon": 7,
@@ -11838,6 +13990,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13611",
     "NAF Name": "Garrison",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 103.03420109912342,
     "tournaments": 2,
     "gamesWon": 0,
@@ -11849,6 +14003,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13612",
     "NAF Name": "Darkend",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 171.21428869139223,
     "tournaments": 2,
     "gamesWon": 6,
@@ -11860,6 +14016,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13614",
     "NAF Name": "Depravadix",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 157.39962263869666,
     "tournaments": 2,
     "gamesWon": 4,
@@ -11871,6 +14029,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13616",
     "NAF Name": "Ragnotti",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 137.70721669233376,
     "tournaments": 2,
     "gamesWon": 2,
@@ -11882,6 +14042,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13617",
     "NAF Name": "Ocelot_III",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 147.14478516374888,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11893,6 +14055,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13620",
     "NAF Name": "Ulvardar",
+    "CCAA": "Apatrida",
+    "Country": "Ladonia",
     "rating": 153.76058877386123,
     "tournaments": 4,
     "gamesWon": 10,
@@ -11904,6 +14068,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13623",
     "NAF Name": "Wakefiend",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 166.08359743595068,
     "tournaments": 3,
     "gamesWon": 8,
@@ -11915,6 +14081,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13624",
     "NAF Name": "Dork",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 159.1342724065809,
     "tournaments": 2,
     "gamesWon": 5,
@@ -11926,6 +14094,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13625",
     "NAF Name": "The_Tyser",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 135.8762689620103,
     "tournaments": 4,
     "gamesWon": 5,
@@ -11937,6 +14107,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13626",
     "NAF Name": "Expat",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 166.8258977540313,
     "tournaments": 3,
     "gamesWon": 10,
@@ -11948,6 +14120,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13627",
     "NAF Name": "Mitspieler",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 168.94284163754998,
     "tournaments": 1,
     "gamesWon": 4,
@@ -11959,6 +14133,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13629",
     "NAF Name": "Raist",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.06016950690585,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11970,6 +14146,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13630",
     "NAF Name": "Tutanchemon",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 147.30319267973167,
     "tournaments": 4,
     "gamesWon": 6,
@@ -11981,6 +14159,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13632",
     "NAF Name": "Fagui",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.32249272882436,
     "tournaments": 3,
     "gamesWon": 5,
@@ -11992,6 +14172,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13636",
     "NAF Name": "Shinjo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 136.51138092781324,
     "tournaments": 5,
     "gamesWon": 6,
@@ -12003,6 +14185,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13643",
     "NAF Name": "Thommynator",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 164.1171968085117,
     "tournaments": 5,
     "gamesWon": 10,
@@ -12014,6 +14198,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13644",
     "NAF Name": "Zvonir",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 180.18755124649417,
     "tournaments": 5,
     "gamesWon": 13,
@@ -12025,6 +14211,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13650",
     "NAF Name": "Wylder",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 158.78993546413457,
     "tournaments": 2,
     "gamesWon": 6,
@@ -12036,6 +14224,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13652",
     "NAF Name": "Mathfuric",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 135.8395013487775,
     "tournaments": 3,
     "gamesWon": 4,
@@ -12047,6 +14237,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13663",
     "NAF Name": "SSB",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 229.35558361854817,
     "tournaments": 13,
     "gamesWon": 35,
@@ -12058,6 +14250,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13664",
     "NAF Name": "Blackheim",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 126.06238342420181,
     "tournaments": 3,
     "gamesWon": 3,
@@ -12069,6 +14263,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13665",
     "NAF Name": "Joechost",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 152.65229298864386,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12080,6 +14276,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13666",
     "NAF Name": "DavidVador",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 125.22192372204937,
     "tournaments": 2,
     "gamesWon": 0,
@@ -12091,6 +14289,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13670",
     "NAF Name": "Jordel",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 153.8247256498745,
     "tournaments": 3,
     "gamesWon": 3,
@@ -12102,6 +14302,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13689",
     "NAF Name": "Annachie",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 140.18811688853756,
     "tournaments": 1,
     "gamesWon": 0,
@@ -12113,6 +14315,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13692",
     "NAF Name": "GotrekFBB",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 166.72284234074846,
     "tournaments": 2,
     "gamesWon": 6,
@@ -12124,6 +14328,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13696",
     "NAF Name": "Gaixo",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.0316601749012,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12135,6 +14341,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13699",
     "NAF Name": "wedge22",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 152.14062064921745,
     "tournaments": 2,
     "gamesWon": 3,
@@ -12146,6 +14354,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13702",
     "NAF Name": "Warrasen",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 118.06178011971708,
     "tournaments": 3,
     "gamesWon": 4,
@@ -12157,6 +14367,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13707",
     "NAF Name": "Fanglord13",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 153.5346712622829,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12168,6 +14380,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13710",
     "NAF Name": "NeilW",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.1554669269317,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12179,6 +14393,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13721",
     "NAF Name": "Fassbinder75",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 143.43426350278648,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12190,6 +14406,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13728",
     "NAF Name": "JokerLAN",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 125.66807959276187,
     "tournaments": 2,
     "gamesWon": 0,
@@ -12201,6 +14419,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13729",
     "NAF Name": "JezUK",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.53341571832752,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12212,6 +14432,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13732",
     "NAF Name": "GreenReaper",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 127.62036125910977,
     "tournaments": 5,
     "gamesWon": 3,
@@ -12223,6 +14445,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13733",
     "NAF Name": "feyj",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.80769796825086,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12234,6 +14458,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13735",
     "NAF Name": "1st_lady",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 108.81351721363049,
     "tournaments": 2,
     "gamesWon": 2,
@@ -12245,6 +14471,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13736",
     "NAF Name": "Genersis",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.31520872591295,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12256,6 +14484,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13740",
     "NAF Name": "Hogfather",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 112.48832304507071,
     "tournaments": 4,
     "gamesWon": 5,
@@ -12267,6 +14497,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13741",
     "NAF Name": "DeeTee",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 125.40877281664464,
     "tournaments": 4,
     "gamesWon": 8,
@@ -12278,6 +14510,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13742",
     "NAF Name": "DocNeil",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.80516247641216,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12289,6 +14523,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13744",
     "NAF Name": "spubbbba",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 180.07356666991856,
     "tournaments": 2,
     "gamesWon": 7,
@@ -12300,6 +14536,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13746",
     "NAF Name": "Geospencer88",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 101.91952710142378,
     "tournaments": 5,
     "gamesWon": 8,
@@ -12311,6 +14549,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13747",
     "NAF Name": "Beastboy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 118.56301060000126,
     "tournaments": 2,
     "gamesWon": 2,
@@ -12322,6 +14562,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13748",
     "NAF Name": "Celt",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 161.16699803153165,
     "tournaments": 6,
     "gamesWon": 16,
@@ -12333,6 +14575,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13753",
     "NAF Name": "TomClark",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 153.3539530589825,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12344,6 +14588,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13754",
     "NAF Name": "Redneckdavey",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.8596503345485,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12355,6 +14601,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13758",
     "NAF Name": "Hekdar",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.7160612675113,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12366,6 +14614,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13759",
     "NAF Name": "Tiamo69",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 131.86123223507667,
     "tournaments": 4,
     "gamesWon": 5,
@@ -12377,6 +14627,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13762",
     "NAF Name": "NeilCooper",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 170.1804168287097,
     "tournaments": 4,
     "gamesWon": 11,
@@ -12388,6 +14640,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13763",
     "NAF Name": "Canteloup",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 117.3404606323998,
     "tournaments": 6,
     "gamesWon": 14,
@@ -12399,6 +14653,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13764",
     "NAF Name": "Barbie",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.82322890731777,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12410,6 +14666,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13785",
     "NAF Name": "Matte8",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 160.9621894732036,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12421,6 +14679,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13793",
     "NAF Name": "Junkel",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 152.9594053639505,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12432,6 +14692,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13798",
     "NAF Name": "Plp",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.1833488010143,
     "tournaments": 2,
     "gamesWon": 6,
@@ -12443,6 +14705,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13828",
     "NAF Name": "pedep",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 149.8332192951782,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12454,6 +14718,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13836",
     "NAF Name": "neonknight",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 154.28095591818828,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12465,6 +14731,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13857",
     "NAF Name": "pixmen",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 153.81969484310326,
     "tournaments": 4,
     "gamesWon": 6,
@@ -12476,6 +14744,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13885",
     "NAF Name": "wheeler",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 154.41287143863067,
     "tournaments": 2,
     "gamesWon": 5,
@@ -12487,6 +14757,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13886",
     "NAF Name": "jabba",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 172.89444880790032,
     "tournaments": 1,
     "gamesWon": 4,
@@ -12498,6 +14770,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13909",
     "NAF Name": "Pépé_Stilence",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.63146683615588,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12509,6 +14783,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13910",
     "NAF Name": "valvin",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 134.89905182722086,
     "tournaments": 1,
     "gamesWon": 0,
@@ -12520,6 +14796,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13911",
     "NAF Name": "la_hache",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.78888133559914,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12531,6 +14809,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13954",
     "NAF Name": "hosko",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.63874993994028,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12542,6 +14822,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13958",
     "NAF Name": "zebulon",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 153.2010042226964,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12553,6 +14835,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13971",
     "NAF Name": "Monk",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.19436730013962,
     "tournaments": 2,
     "gamesWon": 4,
@@ -12564,6 +14848,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13984",
     "NAF Name": "winterwald",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.84686251583415,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12575,6 +14861,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13991",
     "NAF Name": "mickael",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 145.60822423595707,
     "tournaments": 3,
     "gamesWon": 5,
@@ -12586,6 +14874,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13992",
     "NAF Name": "Mirkino",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 138.16850196129684,
     "tournaments": 4,
     "gamesWon": 8,
@@ -12597,6 +14887,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "13997",
     "NAF Name": "zahiko",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 187.7682587992432,
     "tournaments": 3,
     "gamesWon": 9,
@@ -12608,6 +14900,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14034",
     "NAF Name": "Whilky",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 158.47151625226766,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12619,6 +14913,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14069",
     "NAF Name": "lestat",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 149.2763986150462,
     "tournaments": 2,
     "gamesWon": 5,
@@ -12630,6 +14926,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14074",
     "NAF Name": "KIMA",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 183.10593442545257,
     "tournaments": 8,
     "gamesWon": 22,
@@ -12641,6 +14939,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14075",
     "NAF Name": "Foug",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 167.81489790143328,
     "tournaments": 2,
     "gamesWon": 7,
@@ -12652,6 +14952,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14078",
     "NAF Name": "dontcallmeflossy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 211.78311288331432,
     "tournaments": 4,
     "gamesWon": 15,
@@ -12663,6 +14965,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14081",
     "NAF Name": "Crimsonpilot",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 131.29696856769934,
     "tournaments": 2,
     "gamesWon": 2,
@@ -12674,6 +14978,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14083",
     "NAF Name": "Merlin",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 141.34042220147225,
     "tournaments": 1,
     "gamesWon": 0,
@@ -12685,6 +14991,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14084",
     "NAF Name": "Guizmo",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 175.32842769449164,
     "tournaments": 3,
     "gamesWon": 6,
@@ -12696,6 +15004,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14086",
     "NAF Name": "PetitePoire",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 125.36533532407046,
     "tournaments": 3,
     "gamesWon": 2,
@@ -12707,6 +15017,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14087",
     "NAF Name": "ViceBall",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.5187385156432,
     "tournaments": 2,
     "gamesWon": 4,
@@ -12718,6 +15030,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14088",
     "NAF Name": "QGN",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.33333805688184,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12729,6 +15043,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14102",
     "NAF Name": "Dannny",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.0393250544283,
     "tournaments": 5,
     "gamesWon": 5,
@@ -12740,6 +15056,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14110",
     "NAF Name": "bajau",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 139.67777485856536,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12751,6 +15069,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14113",
     "NAF Name": "strider84",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 190.05841605539862,
     "tournaments": 4,
     "gamesWon": 17,
@@ -12762,6 +15082,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14133",
     "NAF Name": "marga",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.0998494372445,
     "tournaments": 2,
     "gamesWon": 3,
@@ -12773,6 +15095,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14147",
     "NAF Name": "whilou",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.63070136089263,
     "tournaments": 3,
     "gamesWon": 4,
@@ -12784,6 +15108,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14157",
     "NAF Name": "Shoveler",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.94402017404977,
     "tournaments": 4,
     "gamesWon": 8,
@@ -12795,6 +15121,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14167",
     "NAF Name": "bobthebomb",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.1829438355036,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12806,6 +15134,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14176",
     "NAF Name": "gwjunkie",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 127.24430745812572,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12817,6 +15147,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14231",
     "NAF Name": "Jaba",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 162.1602243353759,
     "tournaments": 4,
     "gamesWon": 8,
@@ -12828,6 +15160,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 161.55679583299175,
     "tournaments": 6,
     "gamesWon": 12,
@@ -12839,6 +15173,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14234",
     "NAF Name": "Zatohitxy",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.36571752850477,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12850,6 +15186,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14237",
     "NAF Name": "Papitos",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 162.78396123778063,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12861,6 +15199,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14238",
     "NAF Name": "Maru",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 147.76096941976263,
     "tournaments": 3,
     "gamesWon": 4,
@@ -12872,6 +15212,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14242",
     "NAF Name": "Raggnarok",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.71482750042503,
     "tournaments": 3,
     "gamesWon": 5,
@@ -12883,6 +15225,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14244",
     "NAF Name": "Strang",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.58607634212612,
     "tournaments": 1,
     "gamesWon": 0,
@@ -12894,6 +15238,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14253",
     "NAF Name": "sebvdw",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 153.464877068886,
     "tournaments": 3,
     "gamesWon": 4,
@@ -12905,6 +15251,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14257",
     "NAF Name": "Tamariz",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 168.96497493717885,
     "tournaments": 5,
     "gamesWon": 8,
@@ -12916,6 +15264,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14279",
     "NAF Name": "Coach_O'Neill",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 113.73771545518268,
     "tournaments": 1,
     "gamesWon": 0,
@@ -12927,6 +15277,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14326",
     "NAF Name": "Raggie",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.1569895189035,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12938,6 +15290,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14328",
     "NAF Name": "Headstrong",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 186.4415727081931,
     "tournaments": 5,
     "gamesWon": 18,
@@ -12949,6 +15303,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14332",
     "NAF Name": "Kanga1869",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 161.19748886910665,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12960,6 +15316,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14333",
     "NAF Name": "MegaNob",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 148.37048998859274,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12971,6 +15329,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14334",
     "NAF Name": "CableSGC",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 153.6161096652119,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12982,6 +15342,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14335",
     "NAF Name": "Peakie",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 133.89413278222037,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12993,6 +15355,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14337",
     "NAF Name": "Malygn",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 161.80432866803628,
     "tournaments": 2,
     "gamesWon": 5,
@@ -13004,6 +15368,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14372",
     "NAF Name": "qman",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 126.47067777737384,
     "tournaments": 2,
     "gamesWon": 1,
@@ -13015,6 +15381,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14387",
     "NAF Name": "Netsmurf",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 136.70141807492092,
     "tournaments": 4,
     "gamesWon": 7,
@@ -13026,6 +15394,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14395",
     "NAF Name": "Theeyeofsauron",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.57945476111337,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13037,6 +15407,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14401",
     "NAF Name": "nayfan",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 155.36683708916405,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13048,6 +15420,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14406",
     "NAF Name": "Sart",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.00419760148392,
     "tournaments": 1,
     "gamesWon": 0,
@@ -13059,6 +15433,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14409",
     "NAF Name": "Smirk",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.21635659103188,
     "tournaments": 1,
     "gamesWon": 4,
@@ -13070,6 +15446,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14424",
     "NAF Name": "tzarkual",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 131.76324559217102,
     "tournaments": 5,
     "gamesWon": 8,
@@ -13081,6 +15459,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14445",
     "NAF Name": "Kilted_Kiwi",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 126.95653196713576,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13092,6 +15472,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14485",
     "NAF Name": "darkstar70",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 158.76957759613086,
     "tournaments": 1,
     "gamesWon": 3,
@@ -13103,6 +15485,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14499",
     "NAF Name": "shinta_hid",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 123.81277177339871,
     "tournaments": 2,
     "gamesWon": 0,
@@ -13114,6 +15498,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14519",
     "NAF Name": "azzroag",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 171.62955357974417,
     "tournaments": 7,
     "gamesWon": 16,
@@ -13125,6 +15511,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14523",
     "NAF Name": "theodoric",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 145.74110069060302,
     "tournaments": 1,
     "gamesWon": 0,
@@ -13136,6 +15524,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14524",
     "NAF Name": "grosnain",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 166.71021797413826,
     "tournaments": 7,
     "gamesWon": 16,
@@ -13147,6 +15537,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14542",
     "NAF Name": "coriaus",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.92799781004516,
     "tournaments": 5,
     "gamesWon": 6,
@@ -13158,6 +15550,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14543",
     "NAF Name": "namor",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 132.99864535584882,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13169,6 +15563,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14558",
     "NAF Name": "spike",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 141.1945153867466,
     "tournaments": 2,
     "gamesWon": 3,
@@ -13180,6 +15576,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14586",
     "NAF Name": "Glamdryn",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.72520374211447,
     "tournaments": 3,
     "gamesWon": 4,
@@ -13191,6 +15589,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14598",
     "NAF Name": "Legoman",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 123.96664128990295,
     "tournaments": 4,
     "gamesWon": 6,
@@ -13202,6 +15602,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14615",
     "NAF Name": "Mitch666",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.36776166327812,
     "tournaments": 2,
     "gamesWon": 3,
@@ -13213,6 +15615,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14616",
     "NAF Name": "silkoun",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 174.0068034254551,
     "tournaments": 5,
     "gamesWon": 11,
@@ -13224,6 +15628,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14631",
     "NAF Name": "janot",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 162.80193401973222,
     "tournaments": 2,
     "gamesWon": 5,
@@ -13235,6 +15641,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14633",
     "NAF Name": "belette",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 171.79433397447633,
     "tournaments": 5,
     "gamesWon": 12,
@@ -13246,6 +15654,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14644",
     "NAF Name": "cyr_jb",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 140.9785436628229,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13257,6 +15667,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14665",
     "NAF Name": "lord_fantur",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.6765321506629,
     "tournaments": 3,
     "gamesWon": 5,
@@ -13268,6 +15680,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14678",
     "NAF Name": "dtleon72488",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.04478209952703,
     "tournaments": 2,
     "gamesWon": 5,
@@ -13279,6 +15693,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14683",
     "NAF Name": "mr.gordon",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.71146970192288,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13290,6 +15706,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14684",
     "NAF Name": "blammaham",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 162.27877554519765,
     "tournaments": 3,
     "gamesWon": 6,
@@ -13301,6 +15719,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14685",
     "NAF Name": "tremere",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 120.07241793912489,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13312,6 +15732,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14687",
     "NAF Name": "Dr.Evil",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 151.64662034718168,
     "tournaments": 2,
     "gamesWon": 3,
@@ -13323,6 +15745,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14689",
     "NAF Name": "ragginbone",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 136.76525231652911,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13334,6 +15758,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14720",
     "NAF Name": "falcon",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 212.75658706059022,
     "tournaments": 8,
     "gamesWon": 24,
@@ -13345,6 +15771,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14735",
     "NAF Name": "Lemf",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 156.3918890005783,
     "tournaments": 2,
     "gamesWon": 4,
@@ -13356,6 +15784,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14736",
     "NAF Name": "ApatheticRooster",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.7876141881501,
     "tournaments": 1,
     "gamesWon": 0,
@@ -13367,6 +15797,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14737",
     "NAF Name": "Belafon",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.22353249466101,
     "tournaments": 3,
     "gamesWon": 6,
@@ -13378,6 +15810,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14738",
     "NAF Name": "Bobafettsmum",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 175.29389582279674,
     "tournaments": 2,
     "gamesWon": 6,
@@ -13389,6 +15823,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14739",
     "NAF Name": "Blocknroll",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.222181254758,
     "tournaments": 4,
     "gamesWon": 12,
@@ -13400,6 +15836,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14767",
     "NAF Name": "tryskell",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.7228832130892,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13411,6 +15849,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14770",
     "NAF Name": "OneEye",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 188.51911169854955,
     "tournaments": 3,
     "gamesWon": 11,
@@ -13422,6 +15862,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14772",
     "NAF Name": "dazedmw",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 159.23886157379698,
     "tournaments": 4,
     "gamesWon": 9,
@@ -13433,6 +15875,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14830",
     "NAF Name": "devilline",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 148.77840403386705,
     "tournaments": 4,
     "gamesWon": 8,
@@ -13444,6 +15888,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14860",
     "NAF Name": "Murxl",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 119.06485073039674,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13455,6 +15901,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14868",
     "NAF Name": "Loneduck",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 149.5056177772408,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13466,6 +15914,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14877",
     "NAF Name": "Peakey",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.08930488189898,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13477,6 +15927,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14880",
     "NAF Name": "Exp.god",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.64495447428519,
     "tournaments": 1,
     "gamesWon": 0,
@@ -13488,6 +15940,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14920",
     "NAF Name": "wapcaplets",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 153.4238028805655,
     "tournaments": 5,
     "gamesWon": 9,
@@ -13499,6 +15953,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14922",
     "NAF Name": "GodzillaHeartstopper",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.6264536103034,
     "tournaments": 3,
     "gamesWon": 4,
@@ -13510,6 +15966,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14935",
     "NAF Name": "jyvindar",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 141.99290275298884,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13521,6 +15979,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14947",
     "NAF Name": "pcm",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 135.08807020388514,
     "tournaments": 1,
     "gamesWon": 0,
@@ -13532,6 +15992,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14949",
     "NAF Name": "adavandil",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 140.17813388122977,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13543,6 +16005,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14970",
     "NAF Name": "Azhag",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.14268561237543,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13554,6 +16018,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14973",
     "NAF Name": "Funny_Valentine",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 164.43015860020623,
     "tournaments": 9,
     "gamesWon": 15,
@@ -13565,6 +16031,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "14977",
     "NAF Name": "Seb27",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.31227121625653,
     "tournaments": 2,
     "gamesWon": 4,
@@ -13576,6 +16044,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15001",
     "NAF Name": "luintost",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 207.55876388026053,
     "tournaments": 9,
     "gamesWon": 32,
@@ -13587,6 +16057,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15003",
     "NAF Name": "thedrubber1",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.62080937327096,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13598,6 +16070,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15010",
     "NAF Name": "kroovian",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 143.53480473347872,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13609,6 +16083,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15020",
     "NAF Name": "kojihama",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 171.0592643661972,
     "tournaments": 2,
     "gamesWon": 8,
@@ -13620,6 +16096,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15022",
     "NAF Name": "conanb",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 167.8364144228633,
     "tournaments": 3,
     "gamesWon": 7,
@@ -13631,6 +16109,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15024",
     "NAF Name": "anc001",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 131.65301122806946,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13642,6 +16122,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15027",
     "NAF Name": "dadde",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 152.32342147027043,
     "tournaments": 2,
     "gamesWon": 5,
@@ -13653,6 +16135,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15045",
     "NAF Name": "Zombie",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 140.17093804755112,
     "tournaments": 2,
     "gamesWon": 2,
@@ -13664,6 +16148,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15050",
     "NAF Name": "nicklaus",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.95295905986026,
     "tournaments": 2,
     "gamesWon": 3,
@@ -13675,6 +16161,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15068",
     "NAF Name": "fassa",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 159.1426416233519,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13686,6 +16174,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15082",
     "NAF Name": "kaazor",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 153.89232237131506,
     "tournaments": 6,
     "gamesWon": 6,
@@ -13697,6 +16187,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15086",
     "NAF Name": "Necrox",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 142.20513368564153,
     "tournaments": 10,
     "gamesWon": 20,
@@ -13708,6 +16200,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15105",
     "NAF Name": "MrToyce",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 166.3821918066844,
     "tournaments": 1,
     "gamesWon": 3,
@@ -13719,6 +16213,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15126",
     "NAF Name": "orcreich",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 155.77773202957698,
     "tournaments": 4,
     "gamesWon": 10,
@@ -13730,6 +16226,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15142",
     "NAF Name": "Sandune",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 137.06430376060544,
     "tournaments": 1,
     "gamesWon": 0,
@@ -13741,6 +16239,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15154",
     "NAF Name": "Goesgoch",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 156.01837540988777,
     "tournaments": 1,
     "gamesWon": 3,
@@ -13752,6 +16252,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15160",
     "NAF Name": "Shipley_Dancing_Man",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.53000800715606,
     "tournaments": 3,
     "gamesWon": 4,
@@ -13763,6 +16265,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15171",
     "NAF Name": "Ahriman",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 151.18277634849574,
     "tournaments": 1,
     "gamesWon": 3,
@@ -13774,6 +16278,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15175",
     "NAF Name": "Angron",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.32482735430054,
     "tournaments": 2,
     "gamesWon": 4,
@@ -13785,6 +16291,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15205",
     "NAF Name": "domi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.26310105898642,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13796,6 +16304,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15207",
     "NAF Name": "plicky",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 160.11976379081588,
     "tournaments": 1,
     "gamesWon": 3,
@@ -13807,6 +16317,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15213",
     "NAF Name": "Isequiel",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 170.013291794656,
     "tournaments": 6,
     "gamesWon": 10,
@@ -13818,6 +16330,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15214",
     "NAF Name": "Auzxanio",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 176.4311862740551,
     "tournaments": 6,
     "gamesWon": 13,
@@ -13829,6 +16343,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15221",
     "NAF Name": "Tim_D",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 137.79515798659622,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13840,6 +16356,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15223",
     "NAF Name": "Elrudok",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 159.91449381503426,
     "tournaments": 2,
     "gamesWon": 5,
@@ -13851,6 +16369,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15226",
     "NAF Name": "Belthasor",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 162.51957512227224,
     "tournaments": 2,
     "gamesWon": 4,
@@ -13862,6 +16382,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15227",
     "NAF Name": "Gatoamr",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 162.82292105190479,
     "tournaments": 2,
     "gamesWon": 4,
@@ -13873,6 +16395,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15229",
     "NAF Name": "Bentivoglio",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.06693570019988,
     "tournaments": 2,
     "gamesWon": 1,
@@ -13884,6 +16408,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15231",
     "NAF Name": "Jaxom",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 179.60722541520016,
     "tournaments": 2,
     "gamesWon": 7,
@@ -13895,6 +16421,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15233",
     "NAF Name": "Lito",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 132.82760992175338,
     "tournaments": 1,
     "gamesWon": 0,
@@ -13906,6 +16434,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15234",
     "NAF Name": "Murmullos",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 177.9276105553078,
     "tournaments": 5,
     "gamesWon": 14,
@@ -13917,6 +16447,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15236",
     "NAF Name": "agingralcoholic",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 156.803927538871,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13928,6 +16460,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15242",
     "NAF Name": "Obelix",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 172.3918579106262,
     "tournaments": 4,
     "gamesWon": 10,
@@ -13939,6 +16473,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15247",
     "NAF Name": "Euh…Ouais",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.7213011766823,
     "tournaments": 4,
     "gamesWon": 5,
@@ -13950,6 +16486,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15248",
     "NAF Name": "Chatman",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 142.73132827065788,
     "tournaments": 7,
     "gamesWon": 9,
@@ -13961,6 +16499,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15254",
     "NAF Name": "Trondur",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 134.18325135273528,
     "tournaments": 3,
     "gamesWon": 8,
@@ -13972,6 +16512,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15257",
     "NAF Name": "Chewblocka",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 120.81700327931843,
     "tournaments": 9,
     "gamesWon": 20,
@@ -13983,6 +16525,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15259",
     "NAF Name": "Maskil",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 201.76762191682297,
     "tournaments": 5,
     "gamesWon": 13,
@@ -13994,6 +16538,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15262",
     "NAF Name": "Penwaaagh",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.4122280607076,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14005,6 +16551,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15263",
     "NAF Name": "Brocki-6",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 137.58374623028527,
     "tournaments": 5,
     "gamesWon": 7,
@@ -14016,6 +16564,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15264",
     "NAF Name": "Kralli",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 130.36502379210162,
     "tournaments": 2,
     "gamesWon": 1,
@@ -14027,6 +16577,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15265",
     "NAF Name": "generaljason",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 154.49958517003446,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14038,6 +16590,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15273",
     "NAF Name": "Gaspez",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 120.86808942220229,
     "tournaments": 3,
     "gamesWon": 3,
@@ -14049,6 +16603,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15275",
     "NAF Name": "Chele",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.5968550409598,
     "tournaments": 2,
     "gamesWon": 1,
@@ -14060,6 +16616,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15278",
     "NAF Name": "Akemi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.18512496531162,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14071,6 +16629,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15279",
     "NAF Name": "Blues",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 159.64374066433783,
     "tournaments": 1,
     "gamesWon": 3,
@@ -14082,6 +16642,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15286",
     "NAF Name": "Paloji",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.2705617440512,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14093,6 +16655,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15287",
     "NAF Name": "Sasser",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.06812289171882,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14104,6 +16668,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15290",
     "NAF Name": "Guille_VII",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 117.54891505938213,
     "tournaments": 4,
     "gamesWon": 4,
@@ -14115,6 +16681,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15291",
     "NAF Name": "elminster",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 111.13745833071621,
     "tournaments": 8,
     "gamesWon": 14,
@@ -14126,6 +16694,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15292",
     "NAF Name": "Petitgars",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.9436533302502,
     "tournaments": 2,
     "gamesWon": 3,
@@ -14137,6 +16707,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15293",
     "NAF Name": "kador",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 176.29422190007773,
     "tournaments": 12,
     "gamesWon": 25,
@@ -14148,6 +16720,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15296",
     "NAF Name": "Cragus_Maximus",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 117.54621687410925,
     "tournaments": 3,
     "gamesWon": 2,
@@ -14159,6 +16733,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15300",
     "NAF Name": "Rayshen",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.28043462149492,
     "tournaments": 2,
     "gamesWon": 5,
@@ -14170,6 +16746,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15302",
     "NAF Name": "Erven",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 142.7084499752935,
     "tournaments": 2,
     "gamesWon": 2,
@@ -14181,6 +16759,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15303",
     "NAF Name": "Hirarik0",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.13758562494058,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14192,6 +16772,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15306",
     "NAF Name": "Amber",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 131.61076102330307,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14203,6 +16785,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15308",
     "NAF Name": "DWBailey",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 171.67915110095137,
     "tournaments": 4,
     "gamesWon": 9,
@@ -14214,6 +16798,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15310",
     "NAF Name": "Kibito",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.20295532592039,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14225,6 +16811,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15311",
     "NAF Name": "Torpored",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.68408952484157,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14236,6 +16824,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15315",
     "NAF Name": "RaiderRedleg",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.23312793376962,
     "tournaments": 2,
     "gamesWon": 1,
@@ -14247,6 +16837,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15316",
     "NAF Name": "GamesvaultSteve",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 159.3086453583165,
     "tournaments": 3,
     "gamesWon": 7,
@@ -14258,6 +16850,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15322",
     "NAF Name": "ruben_mboma",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 126.01759406489141,
     "tournaments": 2,
     "gamesWon": 2,
@@ -14269,6 +16863,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15323",
     "NAF Name": "purrelito",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 150.00002259165913,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14280,6 +16876,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15325",
     "NAF Name": "Hoggle",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 138.81513291499,
     "tournaments": 2,
     "gamesWon": 3,
@@ -14291,6 +16889,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15336",
     "NAF Name": "natsirtdm",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 146.12381252407937,
     "tournaments": 4,
     "gamesWon": 8,
@@ -14302,6 +16902,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15338",
     "NAF Name": "zootsuitjeff",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 141.20286530079596,
     "tournaments": 8,
     "gamesWon": 17,
@@ -14313,6 +16915,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15343",
     "NAF Name": "crujach",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 135.27292104332662,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14324,6 +16928,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15347",
     "NAF Name": "mammatorta",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 125.66859836469763,
     "tournaments": 2,
     "gamesWon": 1,
@@ -14335,6 +16941,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15354",
     "NAF Name": "mrjack",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 151.37321897669446,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14346,6 +16954,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15355",
     "NAF Name": "wazzu",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 153.60205262645948,
     "tournaments": 1,
     "gamesWon": 3,
@@ -14357,6 +16967,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15367",
     "NAF Name": "orangebeard",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 163.60589344736997,
     "tournaments": 3,
     "gamesWon": 6,
@@ -14368,6 +16980,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15377",
     "NAF Name": "aggroduisburg",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 159.59941072346277,
     "tournaments": 1,
     "gamesWon": 4,
@@ -14379,6 +16993,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15379",
     "NAF Name": "edwad69",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.56444002775206,
     "tournaments": 3,
     "gamesWon": 5,
@@ -14390,6 +17006,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15384",
     "NAF Name": "OneChiquita",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 116.61225761433421,
     "tournaments": 3,
     "gamesWon": 3,
@@ -14401,6 +17019,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15387",
     "NAF Name": "jdub",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 140.65782491955878,
     "tournaments": 2,
     "gamesWon": 2,
@@ -14412,6 +17032,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15393",
     "NAF Name": "piousman",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.59156195116725,
     "tournaments": 3,
     "gamesWon": 6,
@@ -14423,6 +17045,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15402",
     "NAF Name": "ginuss",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 152.1857122548772,
     "tournaments": 4,
     "gamesWon": 9,
@@ -14434,6 +17058,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15409",
     "NAF Name": "machtin",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 173.40631641967593,
     "tournaments": 5,
     "gamesWon": 13,
@@ -14445,6 +17071,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15413",
     "NAF Name": "adjuster",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 135.02433109374198,
     "tournaments": 2,
     "gamesWon": 3,
@@ -14456,6 +17084,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15415",
     "NAF Name": "txapo",
+    "CCAA": "La Rioja",
+    "Country": "Spain",
     "rating": 149.32120200611115,
     "tournaments": 6,
     "gamesWon": 8,
@@ -14467,6 +17097,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15417",
     "NAF Name": "snaber",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 109.85183395519158,
     "tournaments": 1,
     "gamesWon": 0,
@@ -14478,6 +17110,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15424",
     "NAF Name": "babass",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 164.2673627961933,
     "tournaments": 3,
     "gamesWon": 6,
@@ -14489,6 +17123,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15434",
     "NAF Name": "beaux",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 198.03747739873728,
     "tournaments": 6,
     "gamesWon": 20,
@@ -14500,6 +17136,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15435",
     "NAF Name": "duketyrion",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 174.0148059414225,
     "tournaments": 2,
     "gamesWon": 7,
@@ -14511,6 +17149,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15439",
     "NAF Name": "Yorick",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 116.27653356221535,
     "tournaments": 3,
     "gamesWon": 4,
@@ -14522,6 +17162,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15444",
     "NAF Name": "CT_konrad",
+    "CCAA": "Asturias",
+    "Country": "Spain",
     "rating": 136.309914105345,
     "tournaments": 3,
     "gamesWon": 2,
@@ -14533,6 +17175,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15456",
     "NAF Name": "meatloafx",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.12318324428972,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14544,6 +17188,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15487",
     "NAF Name": "Kamalh",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 181.0697505143509,
     "tournaments": 5,
     "gamesWon": 11,
@@ -14555,6 +17201,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15493",
     "NAF Name": "shriekbob",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 133.22032971284523,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14566,6 +17214,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15500",
     "NAF Name": "toblerona",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 126.50941961528054,
     "tournaments": 2,
     "gamesWon": 4,
@@ -14577,6 +17227,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15504",
     "NAF Name": "dosadi",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 155.18888041155202,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14588,6 +17240,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15534",
     "NAF Name": "tbopfalcon",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 159.42973838674493,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14599,6 +17253,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15549",
     "NAF Name": "GreenGears",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.4066394221452,
     "tournaments": 3,
     "gamesWon": 6,
@@ -14610,6 +17266,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15551",
     "NAF Name": "Snowmonkey",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.64265070563653,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14621,6 +17279,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15570",
     "NAF Name": "muttley",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.99162755264234,
     "tournaments": 1,
     "gamesWon": 3,
@@ -14632,6 +17292,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15577",
     "NAF Name": "ZeFrite",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 163.34739972873683,
     "tournaments": 10,
     "gamesWon": 16,
@@ -14643,6 +17305,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15578",
     "NAF Name": "Hely",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 179.8819680368059,
     "tournaments": 9,
     "gamesWon": 20,
@@ -14654,6 +17318,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15579",
     "NAF Name": "LordUhr",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 135.632808718752,
     "tournaments": 2,
     "gamesWon": 1,
@@ -14665,6 +17331,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15580",
     "NAF Name": "RaistlinFrance",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.59022569442195,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14676,6 +17344,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15586",
     "NAF Name": "addy",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 129.08459529320925,
     "tournaments": 2,
     "gamesWon": 2,
@@ -14687,6 +17357,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15602",
     "NAF Name": "skullric",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.95925935746428,
     "tournaments": 1,
     "gamesWon": 3,
@@ -14698,6 +17370,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15621",
     "NAF Name": "monxixi",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 132.7915235137534,
     "tournaments": 1,
     "gamesWon": 0,
@@ -14709,6 +17383,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15625",
     "NAF Name": "Ragnar",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 153.80902235593717,
     "tournaments": 2,
     "gamesWon": 7,
@@ -14720,6 +17396,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15627",
     "NAF Name": "Kingofspin",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.77460070335135,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14731,6 +17409,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15642",
     "NAF Name": "Arcturus",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 155.4424168564036,
     "tournaments": 1,
     "gamesWon": 3,
@@ -14742,6 +17422,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15652",
     "NAF Name": "Redman",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 170.15022177021424,
     "tournaments": 1,
     "gamesWon": 4,
@@ -14753,6 +17435,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15653",
     "NAF Name": "Aberrant",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 136.88179510942484,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14764,6 +17448,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15662",
     "NAF Name": "Majyk",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 154.24144494610775,
     "tournaments": 1,
     "gamesWon": 3,
@@ -14775,6 +17461,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15678",
     "NAF Name": "demerzel",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 148.97553208503018,
     "tournaments": 2,
     "gamesWon": 4,
@@ -14786,6 +17474,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15679",
     "NAF Name": "Gentil_Novice",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.94190791533975,
     "tournaments": 4,
     "gamesWon": 6,
@@ -14797,6 +17487,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15682",
     "NAF Name": "JP",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 148.58943901384046,
     "tournaments": 6,
     "gamesWon": 8,
@@ -14808,6 +17500,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15683",
     "NAF Name": "Superdave",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.03621971163594,
     "tournaments": 5,
     "gamesWon": 8,
@@ -14819,6 +17513,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15685",
     "NAF Name": "Splicer",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.32835637937632,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14830,6 +17526,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15704",
     "NAF Name": "kozmo",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.43433508586966,
     "tournaments": 2,
     "gamesWon": 4,
@@ -14841,6 +17539,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15720",
     "NAF Name": "Ghostboogie",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.2310246887295,
     "tournaments": 2,
     "gamesWon": 3,
@@ -14852,6 +17552,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15733",
     "NAF Name": "bouzzy",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 180.2525214583665,
     "tournaments": 6,
     "gamesWon": 12,
@@ -14863,6 +17565,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15734",
     "NAF Name": "hob",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 136.64292031640096,
     "tournaments": 5,
     "gamesWon": 7,
@@ -14874,6 +17578,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15739",
     "NAF Name": "awesome",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 124.71656595717977,
     "tournaments": 2,
     "gamesWon": 0,
@@ -14885,6 +17591,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15758",
     "NAF Name": "rakkar",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 171.90639168950597,
     "tournaments": 3,
     "gamesWon": 7,
@@ -14896,6 +17604,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15759",
     "NAF Name": "smythe",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.66231728524227,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14907,6 +17617,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15781",
     "NAF Name": "powl",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 159.40570992406498,
     "tournaments": 1,
     "gamesWon": 3,
@@ -14918,6 +17630,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15782",
     "NAF Name": "Jason16983",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 134.95394213281338,
     "tournaments": 1,
     "gamesWon": 0,
@@ -14929,6 +17643,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15783",
     "NAF Name": "Flatsch",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 130.78497234862238,
     "tournaments": 4,
     "gamesWon": 6,
@@ -14940,6 +17656,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15787",
     "NAF Name": "kaboom.it",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 135.60188252994752,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14951,6 +17669,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15805",
     "NAF Name": "Dents_de_sabre",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 167.65533054134963,
     "tournaments": 4,
     "gamesWon": 10,
@@ -14962,6 +17682,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15807",
     "NAF Name": "SuperNova",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.06956529475448,
     "tournaments": 3,
     "gamesWon": 4,
@@ -14973,6 +17695,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15808",
     "NAF Name": "JeanBibi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 118.81780523772088,
     "tournaments": 3,
     "gamesWon": 0,
@@ -14984,6 +17708,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15809",
     "NAF Name": "Minimax",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 140.16865312846798,
     "tournaments": 3,
     "gamesWon": 2,
@@ -14995,6 +17721,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15810",
     "NAF Name": "Legalodec",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 131.31222328441874,
     "tournaments": 4,
     "gamesWon": 3,
@@ -15006,6 +17734,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15818",
     "NAF Name": "caeser-22",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.5629934278543,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15017,6 +17747,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15843",
     "NAF Name": "Poncis13",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 130.5031874862171,
     "tournaments": 2,
     "gamesWon": 3,
@@ -15028,6 +17760,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15844",
     "NAF Name": "Mishima",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 146.5834381610551,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15039,6 +17773,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15845",
     "NAF Name": "Baez",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 161.58516807624892,
     "tournaments": 1,
     "gamesWon": 3,
@@ -15050,6 +17786,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15870",
     "NAF Name": "beaso",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 153.00084842584653,
     "tournaments": 2,
     "gamesWon": 3,
@@ -15061,6 +17799,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15912",
     "NAF Name": "ignii",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 149.39466531675532,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15072,6 +17812,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15914",
     "NAF Name": "gruumph",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.69839894584436,
     "tournaments": 2,
     "gamesWon": 3,
@@ -15083,6 +17825,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "15927",
     "NAF Name": "le_troll",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 194.77439660022912,
     "tournaments": 4,
     "gamesWon": 12,
@@ -15094,6 +17838,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16007",
     "NAF Name": "gormath",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 122.2354763370983,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15105,6 +17851,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16012",
     "NAF Name": "Grotsnot",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.798427326317,
     "tournaments": 2,
     "gamesWon": 6,
@@ -15116,6 +17864,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16013",
     "NAF Name": "Den44",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 151.95749178590032,
     "tournaments": 2,
     "gamesWon": 3,
@@ -15127,6 +17877,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16014",
     "NAF Name": "Konate",
+    "CCAA": "Apatrida",
+    "Country": "Taiwan",
     "rating": 159.97853236196133,
     "tournaments": 2,
     "gamesWon": 5,
@@ -15138,6 +17890,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16015",
     "NAF Name": "A-Bomb",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.68226870980678,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15149,6 +17903,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16057",
     "NAF Name": "Atlas04",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 130.2949541766718,
     "tournaments": 2,
     "gamesWon": 4,
@@ -15160,6 +17916,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16060",
     "NAF Name": "Jayfizz",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.181184874167,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15171,6 +17929,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16064",
     "NAF Name": "Billy_boy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 126.9828175142532,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15182,6 +17942,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16068",
     "NAF Name": "thatasianguy",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 127.40974127758442,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15193,6 +17955,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16073",
     "NAF Name": "behindu",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.2236252765527,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15204,6 +17968,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16075",
     "NAF Name": "Kalebh",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.16318092101852,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15215,6 +17981,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16089",
     "NAF Name": "TheShepherd",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 133.38189020847346,
     "tournaments": 3,
     "gamesWon": 7,
@@ -15226,6 +17994,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16091",
     "NAF Name": "Rolex",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 190.36599632396445,
     "tournaments": 13,
     "gamesWon": 33,
@@ -15237,6 +18007,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16094",
     "NAF Name": "LastTimelord",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 158.96856516521947,
     "tournaments": 2,
     "gamesWon": 4,
@@ -15248,6 +18020,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16097",
     "NAF Name": "Assassin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 134.60020856493475,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15259,6 +18033,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16098",
     "NAF Name": "Luigi86",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 178.91652807490973,
     "tournaments": 3,
     "gamesWon": 9,
@@ -15270,6 +18046,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16100",
     "NAF Name": "Saburo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.78099878965892,
     "tournaments": 4,
     "gamesWon": 9,
@@ -15281,6 +18059,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16105",
     "NAF Name": "DaCrusha",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.7961774514161,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15292,6 +18072,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16110",
     "NAF Name": "celedyr",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 152.62860063447974,
     "tournaments": 3,
     "gamesWon": 4,
@@ -15303,6 +18085,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16111",
     "NAF Name": "karmaslide",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 151.32192065871934,
     "tournaments": 2,
     "gamesWon": 3,
@@ -15314,6 +18098,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16113",
     "NAF Name": "Paez",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.79944722378679,
     "tournaments": 5,
     "gamesWon": 10,
@@ -15325,6 +18111,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16116",
     "NAF Name": "Scally",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 117.2961957631423,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15336,6 +18124,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16122",
     "NAF Name": "Ayo_jurbal",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 156.26210703594683,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15347,6 +18137,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16130",
     "NAF Name": "Noerciux",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 183.8839426122263,
     "tournaments": 2,
     "gamesWon": 8,
@@ -15358,6 +18150,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16140",
     "NAF Name": "Poppel",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 119.1735634387491,
     "tournaments": 2,
     "gamesWon": 1,
@@ -15369,6 +18163,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16144",
     "NAF Name": "karandras",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 151.29158875410914,
     "tournaments": 3,
     "gamesWon": 6,
@@ -15380,6 +18176,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16153",
     "NAF Name": "Tschantalle",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 142.8961808255888,
     "tournaments": 2,
     "gamesWon": 3,
@@ -15391,6 +18189,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16154",
     "NAF Name": "Papa_Nurgle",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 122.48601169342804,
     "tournaments": 3,
     "gamesWon": 2,
@@ -15402,6 +18202,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16162",
     "NAF Name": "stab_ruti",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.05327370132443,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15413,6 +18215,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16171",
     "NAF Name": "underatedsuperstar",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 127.5645530321429,
     "tournaments": 4,
     "gamesWon": 3,
@@ -15424,6 +18228,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16172",
     "NAF Name": "justice1",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 146.7088099593491,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15435,6 +18241,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16174",
     "NAF Name": "Guthwine",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 150.17828024009657,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15446,6 +18254,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16175",
     "NAF Name": "Shonkhor",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 148.06397878521716,
     "tournaments": 1,
     "gamesWon": 3,
@@ -15457,6 +18267,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16176",
     "NAF Name": "Nazgob",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 186.56591234933097,
     "tournaments": 5,
     "gamesWon": 18,
@@ -15468,6 +18280,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16178",
     "NAF Name": "Darkgreenangel",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.14058817820043,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15479,6 +18293,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16180",
     "NAF Name": "Eski",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 130.67104952362814,
     "tournaments": 4,
     "gamesWon": 8,
@@ -15490,6 +18306,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16184",
     "NAF Name": "wotfudboy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 158.62522082340732,
     "tournaments": 1,
     "gamesWon": 3,
@@ -15501,6 +18319,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16193",
     "NAF Name": "Muddi",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 132.9461423981696,
     "tournaments": 2,
     "gamesWon": 1,
@@ -15512,6 +18332,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16201",
     "NAF Name": "Jygro",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.97550633722415,
     "tournaments": 2,
     "gamesWon": 2,
@@ -15523,6 +18345,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16204",
     "NAF Name": "Alchemy",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.9505844039281,
     "tournaments": 3,
     "gamesWon": 4,
@@ -15534,6 +18358,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16205",
     "NAF Name": "Frakas",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 119.9800089273148,
     "tournaments": 3,
     "gamesWon": 4,
@@ -15545,6 +18371,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16206",
     "NAF Name": "Darky",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 184.21335160945233,
     "tournaments": 3,
     "gamesWon": 7,
@@ -15556,6 +18384,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16207",
     "NAF Name": "Gregereggae",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 130.9482351494344,
     "tournaments": 5,
     "gamesWon": 6,
@@ -15567,6 +18397,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16208",
     "NAF Name": "Atom",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.87925508112397,
     "tournaments": 2,
     "gamesWon": 3,
@@ -15578,6 +18410,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16209",
     "NAF Name": "Lion_Noir",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.3056889813856,
     "tournaments": 3,
     "gamesWon": 5,
@@ -15589,6 +18423,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16210",
     "NAF Name": "Mimic",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.35257565817136,
     "tournaments": 3,
     "gamesWon": 2,
@@ -15600,6 +18436,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16211",
     "NAF Name": "Popov",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 130.57166771544374,
     "tournaments": 3,
     "gamesWon": 1,
@@ -15611,6 +18449,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16212",
     "NAF Name": "Ghostdog",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 187.09010942554946,
     "tournaments": 9,
     "gamesWon": 21,
@@ -15622,6 +18462,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16213",
     "NAF Name": "Sebotouno",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 153.96947133786432,
     "tournaments": 8,
     "gamesWon": 14,
@@ -15633,6 +18475,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16218",
     "NAF Name": "diogeneNorfine",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.48189826296922,
     "tournaments": 2,
     "gamesWon": 3,
@@ -15644,6 +18488,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16242",
     "NAF Name": "JamesAG13",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.65619012891582,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15655,6 +18501,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16246",
     "NAF Name": "Rodiantox",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 161.8527580379823,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15666,6 +18514,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16250",
     "NAF Name": "yost",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 136.6339396188622,
     "tournaments": 2,
     "gamesWon": 3,
@@ -15677,6 +18527,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16255",
     "NAF Name": "kidstealth",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 143.02873101666069,
     "tournaments": 2,
     "gamesWon": 4,
@@ -15688,6 +18540,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16259",
     "NAF Name": "Bidone",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 152.627382567604,
     "tournaments": 7,
     "gamesWon": 22,
@@ -15699,6 +18553,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16260",
     "NAF Name": "Matos",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 175.15363958340996,
     "tournaments": 4,
     "gamesWon": 10,
@@ -15710,6 +18566,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16263",
     "NAF Name": "Scratch",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 153.2753546604714,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15721,6 +18579,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16264",
     "NAF Name": "Mimmus",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 134.5554552938304,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15732,6 +18592,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16265",
     "NAF Name": "Kalloc",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.7804702009489,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15743,6 +18605,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16273",
     "NAF Name": "suffer",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 142.35009850221212,
     "tournaments": 3,
     "gamesWon": 5,
@@ -15754,6 +18618,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16292",
     "NAF Name": "drdookums",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 173.4487734252209,
     "tournaments": 3,
     "gamesWon": 9,
@@ -15765,6 +18631,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16302",
     "NAF Name": "ptchnk",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 118.91329455195293,
     "tournaments": 7,
     "gamesWon": 5,
@@ -15776,6 +18644,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16303",
     "NAF Name": "jago",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 151.3712784449458,
     "tournaments": 2,
     "gamesWon": 3,
@@ -15787,6 +18657,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16311",
     "NAF Name": "goat314",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.5616074051282,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15798,6 +18670,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16320",
     "NAF Name": "gerbido",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 130.64796617248672,
     "tournaments": 1,
     "gamesWon": 3,
@@ -15809,6 +18683,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16322",
     "NAF Name": "phelanward",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 166.32097938321058,
     "tournaments": 1,
     "gamesWon": 3,
@@ -15820,6 +18696,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16323",
     "NAF Name": "Fenix",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 135.80636749635917,
     "tournaments": 6,
     "gamesWon": 11,
@@ -15831,6 +18709,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16324",
     "NAF Name": "Guntar",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 151.85443288913126,
     "tournaments": 2,
     "gamesWon": 4,
@@ -15842,6 +18722,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16329",
     "NAF Name": "kazzuya",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 146.31051881808548,
     "tournaments": 2,
     "gamesWon": 3,
@@ -15853,6 +18735,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16331",
     "NAF Name": "Sarge",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.02852383015326,
     "tournaments": 3,
     "gamesWon": 6,
@@ -15864,6 +18748,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16340",
     "NAF Name": "pazzer",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 124.93621647736848,
     "tournaments": 2,
     "gamesWon": 2,
@@ -15875,6 +18761,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16347",
     "NAF Name": "docmaxx",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 187.78644521473115,
     "tournaments": 7,
     "gamesWon": 18,
@@ -15886,6 +18774,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16350",
     "NAF Name": "Phags",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.40472251461375,
     "tournaments": 2,
     "gamesWon": 1,
@@ -15897,6 +18787,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16351",
     "NAF Name": "Cryx",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 115.99213098230211,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15908,6 +18800,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16353",
     "NAF Name": "Chavrouze51",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 152.17140213579512,
     "tournaments": 5,
     "gamesWon": 7,
@@ -15919,6 +18813,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16357",
     "NAF Name": "thunderchicken",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.50962566807232,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15930,6 +18826,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16364",
     "NAF Name": "ogrilion",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.09308653913268,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15941,6 +18839,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16373",
     "NAF Name": "Trubbell",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 161.42395029570102,
     "tournaments": 2,
     "gamesWon": 5,
@@ -15952,6 +18852,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16380",
     "NAF Name": "pressie",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 128.67766340515186,
     "tournaments": 4,
     "gamesWon": 5,
@@ -15963,6 +18865,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16386",
     "NAF Name": "Kayvorn",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.99612870819223,
     "tournaments": 2,
     "gamesWon": 3,
@@ -15974,6 +18878,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16390",
     "NAF Name": "valean",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 129.47446546126505,
     "tournaments": 3,
     "gamesWon": 3,
@@ -15985,6 +18891,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16395",
     "NAF Name": "starblayde",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.45425992422332,
     "tournaments": 3,
     "gamesWon": 5,
@@ -15996,6 +18904,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16403",
     "NAF Name": "LC_kami",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 170.72628224188745,
     "tournaments": 1,
     "gamesWon": 4,
@@ -16007,6 +18917,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16404",
     "NAF Name": "Gaftein",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.7521513726149,
     "tournaments": 2,
     "gamesWon": 2,
@@ -16018,6 +18930,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16408",
     "NAF Name": "Jackson",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.49370752002298,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16029,6 +18943,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16416",
     "NAF Name": "knowmad",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.71676569606078,
     "tournaments": 2,
     "gamesWon": 4,
@@ -16040,6 +18956,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16417",
     "NAF Name": "ploppy_mcploppy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 188.03848899695953,
     "tournaments": 2,
     "gamesWon": 8,
@@ -16051,6 +18969,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16426",
     "NAF Name": "nono",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.25755209912128,
     "tournaments": 2,
     "gamesWon": 4,
@@ -16062,6 +18982,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16427",
     "NAF Name": "Stigmard",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.585013625543,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16073,6 +18995,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16441",
     "NAF Name": "Mustang",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.231388684739,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16084,6 +19008,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16442",
     "NAF Name": "teiken",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 148.63724967640462,
     "tournaments": 4,
     "gamesWon": 6,
@@ -16095,6 +19021,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16445",
     "NAF Name": "elscorcho",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 173.21230619106083,
     "tournaments": 4,
     "gamesWon": 10,
@@ -16106,6 +19034,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16449",
     "NAF Name": "bucky",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 147.16803184438237,
     "tournaments": 2,
     "gamesWon": 3,
@@ -16117,6 +19047,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16464",
     "NAF Name": "unstoffe",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 166.3958645748771,
     "tournaments": 2,
     "gamesWon": 5,
@@ -16128,6 +19060,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16472",
     "NAF Name": "speeder",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 127.32518877776475,
     "tournaments": 5,
     "gamesWon": 9,
@@ -16139,6 +19073,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16475",
     "NAF Name": "Menzogna",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 152.79127041629977,
     "tournaments": 4,
     "gamesWon": 7,
@@ -16150,6 +19086,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16478",
     "NAF Name": "Artedil",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 151.21064604525236,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16161,6 +19099,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16483",
     "NAF Name": "Luskio",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 164.05221924586638,
     "tournaments": 3,
     "gamesWon": 10,
@@ -16172,6 +19112,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16489",
     "NAF Name": "The_Chad",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 142.28704417191906,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16183,6 +19125,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16490",
     "NAF Name": "Collywobbler",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 146.80748279593,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16194,6 +19138,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16504",
     "NAF Name": "millandson",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 158.05614286498562,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16205,6 +19151,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16509",
     "NAF Name": "air139",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.77404973431143,
     "tournaments": 3,
     "gamesWon": 3,
@@ -16216,6 +19164,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16514",
     "NAF Name": "GarryDeacons",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 148.91486489948483,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16227,6 +19177,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16520",
     "NAF Name": "floleblanc",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 147.18503455390135,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16238,6 +19190,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16525",
     "NAF Name": "SunDevil",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 137.94578316146172,
     "tournaments": 2,
     "gamesWon": 2,
@@ -16249,6 +19203,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16538",
     "NAF Name": "gerald",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 118.44080312618688,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16260,6 +19216,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16542",
     "NAF Name": "sharkrudi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.68701286502312,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16271,6 +19229,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16552",
     "NAF Name": "frank_the_tank",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 142.0808656865792,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16282,6 +19242,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16560",
     "NAF Name": "Pollo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 148.37190360348245,
     "tournaments": 8,
     "gamesWon": 18,
@@ -16293,6 +19255,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16562",
     "NAF Name": "tuss",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 147.35331007359235,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16304,6 +19268,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16563",
     "NAF Name": "pipeline",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 141.60037807788848,
     "tournaments": 7,
     "gamesWon": 11,
@@ -16315,6 +19281,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16564",
     "NAF Name": "Trag_Sifarin",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.57249010111954,
     "tournaments": 2,
     "gamesWon": 3,
@@ -16326,6 +19294,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16565",
     "NAF Name": "DaBomb897",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.38817478090675,
     "tournaments": 2,
     "gamesWon": 3,
@@ -16337,6 +19307,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16571",
     "NAF Name": "effe",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 125.14586365018955,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16348,6 +19320,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16579",
     "NAF Name": "the_mad_lombric",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.89613199772174,
     "tournaments": 3,
     "gamesWon": 3,
@@ -16359,6 +19333,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16582",
     "NAF Name": "kim",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.26212154321388,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16370,6 +19346,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16585",
     "NAF Name": "yan64",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 173.31986564853008,
     "tournaments": 3,
     "gamesWon": 5,
@@ -16381,6 +19359,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16586",
     "NAF Name": "taraspoutine",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.03687181732369,
     "tournaments": 3,
     "gamesWon": 2,
@@ -16392,6 +19372,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16587",
     "NAF Name": "elf_O'Nath",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 130.79604621917136,
     "tournaments": 4,
     "gamesWon": 2,
@@ -16403,6 +19385,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16588",
     "NAF Name": "pershum",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 135.3371411239605,
     "tournaments": 9,
     "gamesWon": 11,
@@ -16414,6 +19398,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16589",
     "NAF Name": "kirtarleet",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 154.98722635375634,
     "tournaments": 2,
     "gamesWon": 2,
@@ -16425,6 +19411,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16591",
     "NAF Name": "lordgarlack",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 145.1716261995189,
     "tournaments": 3,
     "gamesWon": 3,
@@ -16436,6 +19424,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16592",
     "NAF Name": "Tempest",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 95.70949123560379,
     "tournaments": 4,
     "gamesWon": 5,
@@ -16447,6 +19437,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16593",
     "NAF Name": "inkpwn",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 117.11701534621417,
     "tournaments": 8,
     "gamesWon": 16,
@@ -16458,6 +19450,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16599",
     "NAF Name": "skindog",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 136.0556540326795,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16469,6 +19463,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16603",
     "NAF Name": "bdg",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 137.75357008504963,
     "tournaments": 5,
     "gamesWon": 8,
@@ -16480,6 +19476,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16604",
     "NAF Name": "artus",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 132.61110729557222,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16491,6 +19489,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16612",
     "NAF Name": "vudelfo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 168.7275741426023,
     "tournaments": 6,
     "gamesWon": 15,
@@ -16502,6 +19502,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16619",
     "NAF Name": "peterd",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 133.65454863007122,
     "tournaments": 4,
     "gamesWon": 6,
@@ -16513,6 +19515,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16620",
     "NAF Name": "bogdan",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 138.70453766253388,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16524,6 +19528,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16627",
     "NAF Name": "Ako",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 122.2634090308913,
     "tournaments": 2,
     "gamesWon": 1,
@@ -16535,6 +19541,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16637",
     "NAF Name": "enrico",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 147.10629863189405,
     "tournaments": 3,
     "gamesWon": 4,
@@ -16546,6 +19554,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16644",
     "NAF Name": "babychaos",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.32669796223405,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16557,6 +19567,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16646",
     "NAF Name": "Bloodangel",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 139.36471822025274,
     "tournaments": 2,
     "gamesWon": 1,
@@ -16568,6 +19580,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16647",
     "NAF Name": "BigMadDrongo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 132.00576926490726,
     "tournaments": 3,
     "gamesWon": 3,
@@ -16579,6 +19593,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16648",
     "NAF Name": "TheGonkMachine",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.53601040975903,
     "tournaments": 2,
     "gamesWon": 3,
@@ -16590,6 +19606,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16649",
     "NAF Name": "Harroguk",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 158.4422889022325,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16601,6 +19619,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16650",
     "NAF Name": "SurrenderMonkey",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.80917419988512,
     "tournaments": 2,
     "gamesWon": 3,
@@ -16612,6 +19632,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16652",
     "NAF Name": "VaultconExperiment",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.96083360783942,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16623,6 +19645,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16654",
     "NAF Name": "akalabeth",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 142.18807894863698,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16634,6 +19658,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16655",
     "NAF Name": "Ocrumsprug",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 157.86116699876683,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16645,6 +19671,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16656",
     "NAF Name": "gazgul",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.27772214373957,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16656,6 +19684,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16657",
     "NAF Name": "burk",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 148.3929296631614,
     "tournaments": 2,
     "gamesWon": 3,
@@ -16667,6 +19697,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16658",
     "NAF Name": "frostitute",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.00281655654533,
     "tournaments": 2,
     "gamesWon": 4,
@@ -16678,6 +19710,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16662",
     "NAF Name": "darkangeldave",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 185.79111753191577,
     "tournaments": 2,
     "gamesWon": 6,
@@ -16689,6 +19723,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16663",
     "NAF Name": "macphee",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 146.73107280133834,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16700,6 +19736,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16667",
     "NAF Name": "filo.buscaroli",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 154.31512946999172,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16711,6 +19749,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16670",
     "NAF Name": "tran",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 134.30115264122014,
     "tournaments": 3,
     "gamesWon": 2,
@@ -16722,6 +19762,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16672",
     "NAF Name": "blacksalamander",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.01739506694102,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16733,6 +19775,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16673",
     "NAF Name": "blackfrog",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.60149443847735,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16744,6 +19788,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16683",
     "NAF Name": "jack1080",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 147.11744917350697,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16755,6 +19801,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16685",
     "NAF Name": "falcon_cup",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 154.01654577371934,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16766,6 +19814,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16688",
     "NAF Name": "the_pit",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.65265797754674,
     "tournaments": 3,
     "gamesWon": 4,
@@ -16777,6 +19827,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16690",
     "NAF Name": "ttthomas",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.87641472884857,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16788,6 +19840,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16692",
     "NAF Name": "OptimisticAl",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 156.39654749915093,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16799,6 +19853,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16694",
     "NAF Name": "Sandwich",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 144.07488708639048,
     "tournaments": 6,
     "gamesWon": 10,
@@ -16810,6 +19866,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16697",
     "NAF Name": "Embeth",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.47090777903375,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16821,6 +19879,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16715",
     "NAF Name": "Anakin",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 127.27029971994719,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16832,6 +19892,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16716",
     "NAF Name": "Moute",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 176.72026320341055,
     "tournaments": 3,
     "gamesWon": 7,
@@ -16843,6 +19905,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16718",
     "NAF Name": "Chana",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.17639989164036,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16854,6 +19918,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16719",
     "NAF Name": "Gilko",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 162.0385119161578,
     "tournaments": 6,
     "gamesWon": 12,
@@ -16865,6 +19931,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16722",
     "NAF Name": "Gergy42",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 161.60315253659167,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16876,6 +19944,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16734",
     "NAF Name": "GunnarBranden",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 150.158934536399,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16887,6 +19957,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16737",
     "NAF Name": "styx",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.66056265657986,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16898,6 +19970,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16742",
     "NAF Name": "SpecialOne",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 173.24251488641448,
     "tournaments": 3,
     "gamesWon": 10,
@@ -16909,6 +19983,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16743",
     "NAF Name": "Balkir",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 143.65399731717733,
     "tournaments": 2,
     "gamesWon": 4,
@@ -16920,6 +19996,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16760",
     "NAF Name": "furry",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.69659334688743,
     "tournaments": 3,
     "gamesWon": 8,
@@ -16931,6 +20009,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16761",
     "NAF Name": "waaght",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.31979437502142,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16942,6 +20022,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16762",
     "NAF Name": "Tropical_Knights",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 127.77394653845107,
     "tournaments": 3,
     "gamesWon": 3,
@@ -16953,6 +20035,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16764",
     "NAF Name": "carillion",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 162.86690492986793,
     "tournaments": 3,
     "gamesWon": 8,
@@ -16964,6 +20048,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16770",
     "NAF Name": "Communis",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 143.9089423942512,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16975,6 +20061,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16772",
     "NAF Name": "cudasquarius",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.24425786254534,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16986,6 +20074,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16773",
     "NAF Name": "zatoc",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 158.08718187535325,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16997,6 +20087,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16779",
     "NAF Name": "moz-kito",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.34226050808851,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17008,6 +20100,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16782",
     "NAF Name": "otis",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 168.05450882392714,
     "tournaments": 3,
     "gamesWon": 9,
@@ -17019,6 +20113,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16786",
     "NAF Name": "nedkelly",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.02080755212484,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17030,6 +20126,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16791",
     "NAF Name": "Busso",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 154.44374303543466,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17041,6 +20139,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16792",
     "NAF Name": "Estremo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 158.2718353568567,
     "tournaments": 3,
     "gamesWon": 8,
@@ -17052,6 +20152,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16793",
     "NAF Name": "Sowsav",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 147.04218420185276,
     "tournaments": 3,
     "gamesWon": 4,
@@ -17063,6 +20165,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16794",
     "NAF Name": "Hamstertaker",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 167.39931775207413,
     "tournaments": 1,
     "gamesWon": 4,
@@ -17074,6 +20178,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16795",
     "NAF Name": "NikolaSavic",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 173.38042111901217,
     "tournaments": 1,
     "gamesWon": 4,
@@ -17085,6 +20191,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16802",
     "NAF Name": "daht",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.0364873158421,
     "tournaments": 3,
     "gamesWon": 6,
@@ -17096,6 +20204,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16803",
     "NAF Name": "sasjhwa",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 129.5434230586601,
     "tournaments": 1,
     "gamesWon": 0,
@@ -17107,6 +20217,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16805",
     "NAF Name": "Steiner",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 161.9619564140109,
     "tournaments": 1,
     "gamesWon": 3,
@@ -17118,6 +20230,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16807",
     "NAF Name": "Küpperus",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 141.73939812246186,
     "tournaments": 1,
     "gamesWon": 0,
@@ -17129,6 +20243,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16808",
     "NAF Name": "Kailer",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 159.4857089504798,
     "tournaments": 2,
     "gamesWon": 4,
@@ -17140,6 +20256,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16811",
     "NAF Name": "Popo",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 160.45987233484092,
     "tournaments": 1,
     "gamesWon": 3,
@@ -17151,6 +20269,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16812",
     "NAF Name": "Coyotte",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 148.03182147392187,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17162,6 +20282,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16813",
     "NAF Name": "AngusDad",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 110.07332955132864,
     "tournaments": 3,
     "gamesWon": 1,
@@ -17173,6 +20295,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16816",
     "NAF Name": "BeardyFluffbag",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.15382695238742,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17184,6 +20308,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16819",
     "NAF Name": "Bourrin64",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.70263185584724,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17195,6 +20321,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16820",
     "NAF Name": "daobak",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.59570916877655,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17206,6 +20334,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16821",
     "NAF Name": "holleb",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.29089792236303,
     "tournaments": 1,
     "gamesWon": 3,
@@ -17217,6 +20347,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16823",
     "NAF Name": "Rhix",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.9764097176321,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17228,6 +20360,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16824",
     "NAF Name": "Raztout",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 120.95514960692992,
     "tournaments": 8,
     "gamesWon": 7,
@@ -17239,6 +20373,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16825",
     "NAF Name": "Papa_Ours",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 130.7544164250877,
     "tournaments": 3,
     "gamesWon": 1,
@@ -17250,6 +20386,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16829",
     "NAF Name": "Zulu",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 157.71214589851544,
     "tournaments": 1,
     "gamesWon": 3,
@@ -17261,6 +20399,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
+    "CCAA": "Cantabria ",
+    "Country": "Spain",
     "rating": 158.9347793363956,
     "tournaments": 2,
     "gamesWon": 3,
@@ -17272,6 +20412,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16836",
     "NAF Name": "Djô",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.06386298641644,
     "tournaments": 2,
     "gamesWon": 1,
@@ -17283,6 +20425,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16837",
     "NAF Name": "KPM2008",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.23096659540406,
     "tournaments": 5,
     "gamesWon": 9,
@@ -17294,6 +20438,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16839",
     "NAF Name": "Jobo",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 130.83818072368646,
     "tournaments": 2,
     "gamesWon": 2,
@@ -17305,6 +20451,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16848",
     "NAF Name": "Akzaar",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 125.40634906165099,
     "tournaments": 5,
     "gamesWon": 6,
@@ -17316,6 +20464,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16850",
     "NAF Name": "Gotti",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 127.70979718627926,
     "tournaments": 7,
     "gamesWon": 10,
@@ -17327,6 +20477,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16854",
     "NAF Name": "Pippo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 138.960373057197,
     "tournaments": 2,
     "gamesWon": 2,
@@ -17338,6 +20490,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16855",
     "NAF Name": "DalloSixx",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 135.0409573615221,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17349,6 +20503,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16857",
     "NAF Name": "Stark",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.0008279643139,
     "tournaments": 1,
     "gamesWon": 0,
@@ -17360,6 +20516,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16858",
     "NAF Name": "MarcoCaccia",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 154.00118412071998,
     "tournaments": 5,
     "gamesWon": 9,
@@ -17371,6 +20529,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16871",
     "NAF Name": "TeamBarnard",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.49835894708607,
     "tournaments": 1,
     "gamesWon": 0,
@@ -17382,6 +20542,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16875",
     "NAF Name": "BomberMM",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.2410808423553,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17393,6 +20555,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16876",
     "NAF Name": "happygrue",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.00566337478216,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17404,6 +20568,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16879",
     "NAF Name": "kandi",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 133.0294372515229,
     "tournaments": 1,
     "gamesWon": 0,
@@ -17415,6 +20581,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16880",
     "NAF Name": "Frannie88",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.69966676932466,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17426,6 +20594,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16881",
     "NAF Name": "mistmatz",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.7196773819868,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17437,6 +20607,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16882",
     "NAF Name": "runejack",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 161.4353377862688,
     "tournaments": 2,
     "gamesWon": 4,
@@ -17448,6 +20620,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16883",
     "NAF Name": "Dent",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 149.11839417303224,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17459,6 +20633,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16890",
     "NAF Name": "ironkodiak",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.63455383733572,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17470,6 +20646,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16891",
     "NAF Name": "Nagz",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 142.66200856654305,
     "tournaments": 5,
     "gamesWon": 5,
@@ -17481,6 +20659,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16893",
     "NAF Name": "K1",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.32674063063757,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17492,6 +20672,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16894",
     "NAF Name": "Abohrash",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.55164664523855,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17503,6 +20685,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16896",
     "NAF Name": "lord_aion",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 141.81217384020823,
     "tournaments": 4,
     "gamesWon": 4,
@@ -17514,6 +20698,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16898",
     "NAF Name": "Mago_slann",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 153.99001374691454,
     "tournaments": 2,
     "gamesWon": 5,
@@ -17525,6 +20711,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16902",
     "NAF Name": "fili",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.743908938629,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17536,6 +20724,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16904",
     "NAF Name": "deesnider",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 162.44087019719288,
     "tournaments": 2,
     "gamesWon": 5,
@@ -17547,6 +20737,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16914",
     "NAF Name": "be4ch",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.134947504841,
     "tournaments": 1,
     "gamesWon": 3,
@@ -17558,6 +20750,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16928",
     "NAF Name": "forgeronfurieux",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 134.43544692493822,
     "tournaments": 1,
     "gamesWon": 0,
@@ -17569,6 +20763,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16930",
     "NAF Name": "Verrinho",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 147.8607885506732,
     "tournaments": 3,
     "gamesWon": 6,
@@ -17580,6 +20776,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16932",
     "NAF Name": "peo2223",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.33034105111815,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17591,6 +20789,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16936",
     "NAF Name": "Redom",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.26948376760586,
     "tournaments": 3,
     "gamesWon": 3,
@@ -17602,6 +20802,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16937",
     "NAF Name": "Makeivan",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 146.89819999497777,
     "tournaments": 2,
     "gamesWon": 2,
@@ -17613,6 +20815,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16938",
     "NAF Name": "Victor",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 151.00359712808498,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17624,6 +20828,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16944",
     "NAF Name": "Jalex",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.24247086350755,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17635,6 +20841,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16947",
     "NAF Name": "pierrus",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.07341418758614,
     "tournaments": 1,
     "gamesWon": 0,
@@ -17646,6 +20854,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16948",
     "NAF Name": "Quercio",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 136.42914990121344,
     "tournaments": 4,
     "gamesWon": 8,
@@ -17657,6 +20867,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16952",
     "NAF Name": "nikie",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 91.97250036113343,
     "tournaments": 2,
     "gamesWon": 0,
@@ -17668,6 +20880,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16953",
     "NAF Name": "Gilga",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 165.8634929131716,
     "tournaments": 2,
     "gamesWon": 5,
@@ -17679,6 +20893,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16954",
     "NAF Name": "Grandinata",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 153.87763910918608,
     "tournaments": 2,
     "gamesWon": 5,
@@ -17690,6 +20906,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16955",
     "NAF Name": "Christian",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 146.16687120941248,
     "tournaments": 3,
     "gamesWon": 6,
@@ -17701,6 +20919,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16957",
     "NAF Name": "wynters",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 158.27859200610277,
     "tournaments": 1,
     "gamesWon": 3,
@@ -17712,6 +20932,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16959",
     "NAF Name": "phifoe",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 150.38849194172374,
     "tournaments": 2,
     "gamesWon": 6,
@@ -17723,6 +20945,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16960",
     "NAF Name": "storm",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 136.53114785683402,
     "tournaments": 2,
     "gamesWon": 6,
@@ -17734,6 +20958,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16961",
     "NAF Name": "halex",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 146.2083238247438,
     "tournaments": 2,
     "gamesWon": 6,
@@ -17745,6 +20971,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16962",
     "NAF Name": "lod_1234",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.33429292949305,
     "tournaments": 2,
     "gamesWon": 2,
@@ -17756,6 +20984,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16965",
     "NAF Name": "mazzocco",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 126.80501038661038,
     "tournaments": 2,
     "gamesWon": 2,
@@ -17767,6 +20997,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16970",
     "NAF Name": "yeash",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 123.69597829861571,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17778,6 +21010,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16972",
     "NAF Name": "magic",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 125.7014007512522,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17789,6 +21023,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16974",
     "NAF Name": "randroid",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 113.88917325386923,
     "tournaments": 6,
     "gamesWon": 4,
@@ -17800,6 +21036,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16978",
     "NAF Name": "captain",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 127.64592175242343,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17811,6 +21049,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16982",
     "NAF Name": "scarloc",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 157.9161981432093,
     "tournaments": 1,
     "gamesWon": 3,
@@ -17822,6 +21062,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16985",
     "NAF Name": "kikurasis",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 143.52351346104626,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17833,6 +21075,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16987",
     "NAF Name": "nostok",
+    "CCAA": "Apatrida",
+    "Country": "Luxembourg",
     "rating": 144.82295561085422,
     "tournaments": 1,
     "gamesWon": 0,
@@ -17844,6 +21088,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16988",
     "NAF Name": "gasser",
+    "CCAA": "Apatrida",
+    "Country": "Luxembourg",
     "rating": 155.22665484153146,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17855,6 +21101,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16992",
     "NAF Name": "Trentus",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 136.60128277941465,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17866,6 +21114,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16995",
     "NAF Name": "Oly1987",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 132.71837043440343,
     "tournaments": 2,
     "gamesWon": 3,
@@ -17877,6 +21127,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "16998",
     "NAF Name": "candex",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 123.17254858354868,
     "tournaments": 3,
     "gamesWon": 3,
@@ -17888,6 +21140,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17003",
     "NAF Name": "sigu70",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 147.61801426007864,
     "tournaments": 2,
     "gamesWon": 4,
@@ -17899,6 +21153,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17005",
     "NAF Name": "Fredao",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 142.93726734909274,
     "tournaments": 5,
     "gamesWon": 6,
@@ -17910,6 +21166,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17008",
     "NAF Name": "tdriscoll97",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 151.3077731598913,
     "tournaments": 3,
     "gamesWon": 4,
@@ -17921,6 +21179,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17009",
     "NAF Name": "dabla",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 128.5883996274137,
     "tournaments": 5,
     "gamesWon": 9,
@@ -17932,6 +21192,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17010",
     "NAF Name": "Wolf2026",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.91783485621994,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17943,6 +21205,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17011",
     "NAF Name": "talarius",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 130.89878488518514,
     "tournaments": 3,
     "gamesWon": 3,
@@ -17954,6 +21218,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17017",
     "NAF Name": "irishdave",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.33604504688523,
     "tournaments": 4,
     "gamesWon": 6,
@@ -17965,6 +21231,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17018",
     "NAF Name": "litos",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150,
     "tournaments": 1,
     "gamesWon": 0,
@@ -17976,6 +21244,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17020",
     "NAF Name": "Millsy",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 125.62111386474243,
     "tournaments": 2,
     "gamesWon": 2,
@@ -17987,6 +21257,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17021",
     "NAF Name": "bch",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 133.95342290120155,
     "tournaments": 6,
     "gamesWon": 6,
@@ -17998,6 +21270,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17022",
     "NAF Name": "baiocco",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 163.99592277038644,
     "tournaments": 4,
     "gamesWon": 12,
@@ -18009,6 +21283,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17023",
     "NAF Name": "pitchinvader",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.01300009685622,
     "tournaments": 2,
     "gamesWon": 2,
@@ -18020,6 +21296,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17024",
     "NAF Name": "giamma",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 164.54572702329426,
     "tournaments": 2,
     "gamesWon": 6,
@@ -18031,6 +21309,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17027",
     "NAF Name": "voltar55",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.29191112322584,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18042,6 +21322,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17033",
     "NAF Name": "divvur",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.4389072673178,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18053,6 +21335,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17034",
     "NAF Name": "Benni",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 131.70130331055373,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18064,6 +21348,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17035",
     "NAF Name": "bargerald",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 161.34020583057148,
     "tournaments": 1,
     "gamesWon": 3,
@@ -18075,6 +21361,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17038",
     "NAF Name": "Jazmin",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 103.91414256346754,
     "tournaments": 8,
     "gamesWon": 7,
@@ -18086,6 +21374,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17039",
     "NAF Name": "Legendario",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 132.02264913504004,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18097,6 +21387,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17046",
     "NAF Name": "magi",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.47967799439158,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18108,6 +21400,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17047",
     "NAF Name": "chocolate_pudding",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 134.52177350523922,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18119,6 +21413,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17051",
     "NAF Name": "bijo",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 145.3973014343675,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18130,6 +21426,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17052",
     "NAF Name": "ascari",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 122.62764879728434,
     "tournaments": 2,
     "gamesWon": 0,
@@ -18141,6 +21439,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17053",
     "NAF Name": "Chippy",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 142.30211284266284,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18152,6 +21452,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17054",
     "NAF Name": "Phill",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.3284284586794,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18163,6 +21465,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17055",
     "NAF Name": "Vossie",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 142.9354939808915,
     "tournaments": 2,
     "gamesWon": 3,
@@ -18174,6 +21478,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17056",
     "NAF Name": "amoeba_bait",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 141.13511498544787,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18185,6 +21491,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17057",
     "NAF Name": "NedPiggot",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 127.56508302256164,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18196,6 +21504,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17058",
     "NAF Name": "Payne_Train",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 133.5043468248855,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18207,6 +21517,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17059",
     "NAF Name": "rfalcon",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 134.9233091092011,
     "tournaments": 3,
     "gamesWon": 0,
@@ -18218,6 +21530,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17060",
     "NAF Name": "Rodney",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.80555250189727,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18229,6 +21543,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17061",
     "NAF Name": "exalveus",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 137.62375843994155,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18240,6 +21556,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17063",
     "NAF Name": "Josepe",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 145.09396965226122,
     "tournaments": 5,
     "gamesWon": 7,
@@ -18251,6 +21569,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17065",
     "NAF Name": "Vidal",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 149.98163770833943,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18262,6 +21582,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17066",
     "NAF Name": "Rancio",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 101.86648756786532,
     "tournaments": 8,
     "gamesWon": 9,
@@ -18273,6 +21595,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17067",
     "NAF Name": "Pachi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.62642962123974,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18284,6 +21608,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17068",
     "NAF Name": "Malasnoticias",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 181.6731841408763,
     "tournaments": 8,
     "gamesWon": 19,
@@ -18295,6 +21621,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17069",
     "NAF Name": "Sidius",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 175.1648619476244,
     "tournaments": 6,
     "gamesWon": 15,
@@ -18306,6 +21634,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17070",
     "NAF Name": "Etolini",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.8091518604049,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18317,6 +21647,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17071",
     "NAF Name": "Pocketpunki",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.24541566326778,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18328,6 +21660,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17072",
     "NAF Name": "Jasevito",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.0200515918007,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18339,6 +21673,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17073",
     "NAF Name": "Beldilucho",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 182.2113480450331,
     "tournaments": 7,
     "gamesWon": 16,
@@ -18350,6 +21686,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17074",
     "NAF Name": "Galo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 138.43108504938616,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18361,6 +21699,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17075",
     "NAF Name": "Zibow",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.42205652760845,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18372,6 +21712,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17077",
     "NAF Name": "Kriek",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 163.68222896153165,
     "tournaments": 2,
     "gamesWon": 6,
@@ -18383,6 +21725,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17084",
     "NAF Name": "rickardo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 129.5979231092436,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18394,6 +21738,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17085",
     "NAF Name": "sonofbattlepuppy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.900952563488,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18405,6 +21751,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17088",
     "NAF Name": "JimmyFantastic",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 167.16600644281613,
     "tournaments": 1,
     "gamesWon": 3,
@@ -18416,6 +21764,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17090",
     "NAF Name": "Hobnail",
+    "CCAA": "Apatrida",
+    "Country": "Pitcairn Island",
     "rating": 164.82802065483915,
     "tournaments": 2,
     "gamesWon": 6,
@@ -18427,6 +21777,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17091",
     "NAF Name": "Javrel",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.30848481699218,
     "tournaments": 2,
     "gamesWon": 5,
@@ -18438,6 +21790,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17092",
     "NAF Name": "Doomy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 117.47534660030917,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18449,6 +21803,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17093",
     "NAF Name": "Chaos101",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.1588617596439,
     "tournaments": 5,
     "gamesWon": 14,
@@ -18460,6 +21816,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17094",
     "NAF Name": "Ando79",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.19270396463898,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18471,6 +21829,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17095",
     "NAF Name": "Haree",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.02193497071192,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18482,6 +21842,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17100",
     "NAF Name": "maqui",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 131.74011469642141,
     "tournaments": 2,
     "gamesWon": 1,
@@ -18493,6 +21855,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17101",
     "NAF Name": "nissha",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.4514937791313,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18504,6 +21868,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17106",
     "NAF Name": "Norry03",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.99120682843116,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18515,6 +21881,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17107",
     "NAF Name": "Schyso",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.79382917361352,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18526,6 +21894,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17108",
     "NAF Name": "vallezz",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 153.56861633813153,
     "tournaments": 2,
     "gamesWon": 4,
@@ -18537,6 +21907,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17113",
     "NAF Name": "betterzthendead",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.89963553279654,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18548,6 +21920,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17114",
     "NAF Name": "mellis1644",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.7000133876153,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18559,6 +21933,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17118",
     "NAF Name": "Horse",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 147.9900218980893,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18570,6 +21946,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17124",
     "NAF Name": "redbeard",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.0168596532882,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18581,6 +21959,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17125",
     "NAF Name": "Gulag_Urag",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 146.98384326053758,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18592,6 +21972,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17126",
     "NAF Name": "Hound",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.43442506014924,
     "tournaments": 3,
     "gamesWon": 6,
@@ -18603,6 +21985,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17127",
     "NAF Name": "Gingadom",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 131.882474807917,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18614,6 +21998,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17129",
     "NAF Name": "riffyD",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.85830274283504,
     "tournaments": 2,
     "gamesWon": 5,
@@ -18625,6 +22011,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17130",
     "NAF Name": "Tom_McKenna",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 110.03035825357905,
     "tournaments": 3,
     "gamesWon": 4,
@@ -18636,6 +22024,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17131",
     "NAF Name": "Michael_Murphy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 118.71710704858127,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18647,6 +22037,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17132",
     "NAF Name": "Andrew_Hopper",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.8100214998841,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18658,6 +22050,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17133",
     "NAF Name": "Paul_Groves",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 128.79873071035834,
     "tournaments": 2,
     "gamesWon": 4,
@@ -18669,6 +22063,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17134",
     "NAF Name": "Dobby",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.66890336896813,
     "tournaments": 4,
     "gamesWon": 5,
@@ -18680,6 +22076,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17135",
     "NAF Name": "Ste_Halliwell",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 148.40840868112264,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18691,6 +22089,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17136",
     "NAF Name": "Damion_Dakin",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 98.99197372684263,
     "tournaments": 3,
     "gamesWon": 2,
@@ -18702,6 +22102,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17137",
     "NAF Name": "Arcani_spark",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.23596093239874,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18713,6 +22115,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17138",
     "NAF Name": "Tommyw",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.38260642845475,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18724,6 +22128,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17139",
     "NAF Name": "Simon_Rose",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.5357294823569,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18735,6 +22141,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17140",
     "NAF Name": "Neil_Lordybloke",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.96335225826317,
     "tournaments": 1,
     "gamesWon": 3,
@@ -18746,6 +22154,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17141",
     "NAF Name": "Chris_Lewis",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.46486577353684,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18757,6 +22167,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17142",
     "NAF Name": "Matt_Walters",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.118986060937,
     "tournaments": 1,
     "gamesWon": 3,
@@ -18768,6 +22180,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17143",
     "NAF Name": "David_Baker",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.73338410220782,
     "tournaments": 3,
     "gamesWon": 5,
@@ -18779,6 +22193,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17144",
     "NAF Name": "Andrew_Neave",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.5152595958216,
     "tournaments": 1,
     "gamesWon": 3,
@@ -18790,6 +22206,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17145",
     "NAF Name": "Luke_Porter",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.78578566531905,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18801,6 +22219,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17149",
     "NAF Name": "el_afable",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 136.2246138651022,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18812,6 +22232,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17150",
     "NAF Name": "Ank",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.84978212446288,
     "tournaments": 3,
     "gamesWon": 4,
@@ -18823,6 +22245,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17151",
     "NAF Name": "Kaditx",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 146.92565602058284,
     "tournaments": 3,
     "gamesWon": 3,
@@ -18834,6 +22258,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17152",
     "NAF Name": "Ronny",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.76560750887882,
     "tournaments": 4,
     "gamesWon": 5,
@@ -18845,6 +22271,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17153",
     "NAF Name": "Artza",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 135.24035511120903,
     "tournaments": 3,
     "gamesWon": 3,
@@ -18856,6 +22284,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17154",
     "NAF Name": "FelixEH",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 162.58216415923397,
     "tournaments": 3,
     "gamesWon": 6,
@@ -18867,6 +22297,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17155",
     "NAF Name": "Txa",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 158.19137445736035,
     "tournaments": 2,
     "gamesWon": 4,
@@ -18878,6 +22310,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17156",
     "NAF Name": "Idos",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.21761662215414,
     "tournaments": 2,
     "gamesWon": 0,
@@ -18889,6 +22323,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17157",
     "NAF Name": "Oso",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 136.5954882902947,
     "tournaments": 2,
     "gamesWon": 2,
@@ -18900,6 +22336,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17158",
     "NAF Name": "Beni",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.72370636239629,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18911,6 +22349,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17163",
     "NAF Name": "Gataka",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 159.36437748365825,
     "tournaments": 3,
     "gamesWon": 7,
@@ -18922,6 +22362,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17165",
     "NAF Name": "Herodes",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 142.76541067983808,
     "tournaments": 4,
     "gamesWon": 4,
@@ -18933,6 +22375,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17166",
     "NAF Name": "jungler0t",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.48153401082502,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18944,6 +22388,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17167",
     "NAF Name": "omnipotent",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.68126728753387,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18955,6 +22401,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17168",
     "NAF Name": "whitechedder",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.92235986528516,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18966,6 +22414,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17169",
     "NAF Name": "gutstabba",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 155.75572062111493,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18977,6 +22427,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17170",
     "NAF Name": "edicius",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 151.72561712394244,
     "tournaments": 2,
     "gamesWon": 3,
@@ -18988,6 +22440,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17172",
     "NAF Name": "PsychoT",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 129.20254914325352,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18999,6 +22453,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17173",
     "NAF Name": "Bronko",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.13030777773437,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19010,6 +22466,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17174",
     "NAF Name": "Megusta",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 140.05969269017774,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19021,6 +22479,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17178",
     "NAF Name": "anvilbrow",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 162.74661581770263,
     "tournaments": 2,
     "gamesWon": 2,
@@ -19032,6 +22492,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17187",
     "NAF Name": "Rafa",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 123.70383008256381,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19043,6 +22505,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17188",
     "NAF Name": "ducky83",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 132.99241435575988,
     "tournaments": 2,
     "gamesWon": 1,
@@ -19054,6 +22518,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17190",
     "NAF Name": "keggiemckill",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 178.88664612905353,
     "tournaments": 1,
     "gamesWon": 4,
@@ -19065,6 +22531,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17192",
     "NAF Name": "pvthudson01",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.45622316614157,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19076,6 +22544,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17193",
     "NAF Name": "Aldis-Snow",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 133.52857565049263,
     "tournaments": 3,
     "gamesWon": 2,
@@ -19087,6 +22557,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17198",
     "NAF Name": "darkdan",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.1404232065998,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19098,6 +22570,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17201",
     "NAF Name": "redradish",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 140.98830133706082,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19109,6 +22583,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17202",
     "NAF Name": "geoffles",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 159.10712766667942,
     "tournaments": 2,
     "gamesWon": 5,
@@ -19120,6 +22596,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17206",
     "NAF Name": "hipcat",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 151.5066382399225,
     "tournaments": 1,
     "gamesWon": 4,
@@ -19131,6 +22609,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17209",
     "NAF Name": "Hitonagashi",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 191.39732574492928,
     "tournaments": 3,
     "gamesWon": 10,
@@ -19142,6 +22622,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17216",
     "NAF Name": "BSUGrad",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 123.87934386562883,
     "tournaments": 3,
     "gamesWon": 1,
@@ -19153,6 +22635,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17217",
     "NAF Name": "Zippy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.99123481959415,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19164,6 +22648,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17218",
     "NAF Name": "CMarsden",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 158.8921686604716,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19175,6 +22661,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17219",
     "NAF Name": "vespero",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.7354344047672,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19186,6 +22674,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17220",
     "NAF Name": "The_Gremster",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 106.58437350633575,
     "tournaments": 3,
     "gamesWon": 1,
@@ -19197,6 +22687,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17221",
     "NAF Name": "huchi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 123.48324593607636,
     "tournaments": 3,
     "gamesWon": 2,
@@ -19208,6 +22700,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17225",
     "NAF Name": "Célénite",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.50814934987122,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19219,6 +22713,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17226",
     "NAF Name": "orxymandiuz",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 145.9326838682977,
     "tournaments": 2,
     "gamesWon": 4,
@@ -19230,6 +22726,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17228",
     "NAF Name": "stareater",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 147.35313615520363,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19241,6 +22739,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17229",
     "NAF Name": "MrsXod",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 112.06356835531989,
     "tournaments": 2,
     "gamesWon": 1,
@@ -19252,6 +22752,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17235",
     "NAF Name": "ibram",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 153.52323408078144,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19263,6 +22765,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17240",
     "NAF Name": "Ray648",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.93747833436205,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19274,6 +22778,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17241",
     "NAF Name": "Pass",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.85576118272303,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19285,6 +22791,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17242",
     "NAF Name": "Endalos",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 155.7506611477231,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19296,6 +22804,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17243",
     "NAF Name": "Rubick",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 141.18872437919856,
     "tournaments": 3,
     "gamesWon": 6,
@@ -19307,6 +22817,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17244",
     "NAF Name": "Warpedmind32",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.40875621012668,
     "tournaments": 2,
     "gamesWon": 4,
@@ -19318,6 +22830,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17245",
     "NAF Name": "Stimme",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 182.29595781544415,
     "tournaments": 5,
     "gamesWon": 15,
@@ -19329,6 +22843,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17250",
     "NAF Name": "wujiahui",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 137.27020875265077,
     "tournaments": 2,
     "gamesWon": 1,
@@ -19340,6 +22856,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17253",
     "NAF Name": "meliandri",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 152.127678387202,
     "tournaments": 4,
     "gamesWon": 8,
@@ -19351,6 +22869,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17254",
     "NAF Name": "Tom_Harland",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.5370183373847,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19362,6 +22882,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17255",
     "NAF Name": "m4ik1ng",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 158.97892018305888,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19373,6 +22895,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17256",
     "NAF Name": "Jericho",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 131.68296739430696,
     "tournaments": 3,
     "gamesWon": 3,
@@ -19384,6 +22908,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17257",
     "NAF Name": "TechnoLugo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 146.08759027447684,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19395,6 +22921,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17258",
     "NAF Name": "Joe_Difoster",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 128.77736259952107,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19406,6 +22934,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17259",
     "NAF Name": "Ochisor",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 138.61039620401144,
     "tournaments": 2,
     "gamesWon": 6,
@@ -19417,6 +22947,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17260",
     "NAF Name": "Sammi97",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 133.39343092276502,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19428,6 +22960,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17261",
     "NAF Name": "Orsobruno",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 133.16335648257146,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19439,6 +22973,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17264",
     "NAF Name": "Grendel",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 161.04702436851468,
     "tournaments": 1,
     "gamesWon": 4,
@@ -19450,6 +22986,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17265",
     "NAF Name": "Aeldur",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.1253208575892,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19461,6 +22999,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17266",
     "NAF Name": "Garban",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 157.16036157486417,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19472,6 +23012,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17267",
     "NAF Name": "Wararkam",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 170.31085960532198,
     "tournaments": 3,
     "gamesWon": 9,
@@ -19483,6 +23025,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17268",
     "NAF Name": "Tauro",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 162.97973185300708,
     "tournaments": 2,
     "gamesWon": 6,
@@ -19494,6 +23038,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17273",
     "NAF Name": "polo64",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.61001040965104,
     "tournaments": 4,
     "gamesWon": 9,
@@ -19505,6 +23051,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17277",
     "NAF Name": "Thundergod",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.4188472698793,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19516,6 +23064,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17278",
     "NAF Name": "Chumpster",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 166.88238194642952,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19527,6 +23077,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17280",
     "NAF Name": "Gauntlet",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 118.15312595918046,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19538,6 +23090,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17281",
     "NAF Name": "Connal_b",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.59054246725256,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19549,6 +23103,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17282",
     "NAF Name": "jpf1982",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.76036784057794,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19560,6 +23116,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17284",
     "NAF Name": "AngryMiguel",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.46041146661793,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19571,6 +23129,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17286",
     "NAF Name": "NufflesMom",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.14669869284705,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19582,6 +23142,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17294",
     "NAF Name": "flytime",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.68675972912698,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19593,6 +23155,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17295",
     "NAF Name": "jimidrengen",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 140.5081358890267,
     "tournaments": 2,
     "gamesWon": 2,
@@ -19604,6 +23168,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17302",
     "NAF Name": "S_T_Y_X",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.4421309737961,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19615,6 +23181,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17303",
     "NAF Name": "pipi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.6562680809148,
     "tournaments": 2,
     "gamesWon": 3,
@@ -19626,6 +23194,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17305",
     "NAF Name": "nans",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 122.05704631509803,
     "tournaments": 3,
     "gamesWon": 3,
@@ -19637,6 +23207,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17306",
     "NAF Name": "PLOTJUK",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 135.63655033466821,
     "tournaments": 2,
     "gamesWon": 2,
@@ -19648,6 +23220,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17307",
     "NAF Name": "MAKISH",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.18236927332137,
     "tournaments": 2,
     "gamesWon": 4,
@@ -19659,6 +23233,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 117.42546125009923,
     "tournaments": 5,
     "gamesWon": 7,
@@ -19670,6 +23246,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17309",
     "NAF Name": "GATOCION",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 126.10154706616925,
     "tournaments": 2,
     "gamesWon": 2,
@@ -19681,6 +23259,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 152.92789231363574,
     "tournaments": 3,
     "gamesWon": 7,
@@ -19692,6 +23272,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17311",
     "NAF Name": "VonKa",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.86287752687227,
     "tournaments": 4,
     "gamesWon": 6,
@@ -19703,6 +23285,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17312",
     "NAF Name": "Kevindez",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 140.72066589402044,
     "tournaments": 5,
     "gamesWon": 10,
@@ -19714,6 +23298,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17316",
     "NAF Name": "Heff",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 159.22753205412423,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19725,6 +23311,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17317",
     "NAF Name": "Alber1ch",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.0296603311919,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19736,6 +23324,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17321",
     "NAF Name": "Strife",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 139.2394270908345,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19747,6 +23337,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17322",
     "NAF Name": "CMF",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 129.62341625196746,
     "tournaments": 2,
     "gamesWon": 1,
@@ -19758,6 +23350,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17327",
     "NAF Name": "Thoringar",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 145.65192135545402,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19769,6 +23363,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17328",
     "NAF Name": "Deus",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 145.33672366420916,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19780,6 +23376,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17329",
     "NAF Name": "Serial",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 140.8013321748024,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19791,6 +23389,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17331",
     "NAF Name": "movin_target",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 134.1697799872427,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19802,6 +23402,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17334",
     "NAF Name": "richelieu",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.87149961324533,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19813,6 +23415,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17337",
     "NAF Name": "skavena",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.03019594528257,
     "tournaments": 2,
     "gamesWon": 3,
@@ -19824,6 +23428,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17340",
     "NAF Name": "Arioch",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 142.55980480449898,
     "tournaments": 7,
     "gamesWon": 13,
@@ -19835,6 +23441,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17341",
     "NAF Name": "Paul_Gaskhorne",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 139.55242944321677,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19846,6 +23454,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17342",
     "NAF Name": "Kukko",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 133.20087605080093,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19857,6 +23467,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17343",
     "NAF Name": "Jeppson",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.28744224814702,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19868,6 +23480,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17344",
     "NAF Name": "Thore_Bloodaxe",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 140.46370198402897,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19879,6 +23493,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17346",
     "NAF Name": "Rez_Azarpour",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 177.99535631979032,
     "tournaments": 2,
     "gamesWon": 8,
@@ -19890,6 +23506,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17348",
     "NAF Name": "Whiskeyjack",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 147.53256952119258,
     "tournaments": 3,
     "gamesWon": 5,
@@ -19901,6 +23519,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17350",
     "NAF Name": "Deletio",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.77669829204984,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19912,6 +23532,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17351",
     "NAF Name": "Captain_Caver",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.33250465809436,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19923,6 +23545,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17352",
     "NAF Name": "Paulkouhan",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 165.96501994360094,
     "tournaments": 3,
     "gamesWon": 5,
@@ -19934,6 +23558,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17353",
     "NAF Name": "Australopithecus",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.26818492461727,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19945,6 +23571,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17355",
     "NAF Name": "badenprinz",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 143.76633994581627,
     "tournaments": 2,
     "gamesWon": 3,
@@ -19956,6 +23584,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17356",
     "NAF Name": "skwidzo",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 148.26154857458405,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19967,6 +23597,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17357",
     "NAF Name": "RobPerk",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 133.63237595098497,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19978,6 +23610,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17358",
     "NAF Name": "downblock",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 141.04464450303377,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19989,6 +23623,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17361",
     "NAF Name": "Deathwind",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 136.9872286384826,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20000,6 +23636,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17362",
     "NAF Name": "Lanista",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 138.96597757321925,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20011,6 +23649,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17363",
     "NAF Name": "Jenjiyana",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 147.28140536785625,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20022,6 +23662,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17365",
     "NAF Name": "taprolano",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 124.42602349245657,
     "tournaments": 3,
     "gamesWon": 3,
@@ -20033,6 +23675,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17370",
     "NAF Name": "Kai_Schmelz",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.1127103627653,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20044,6 +23688,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17373",
     "NAF Name": "Krys_Rajca",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 135.80547299875835,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20055,6 +23701,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17376",
     "NAF Name": "Colin_Hayward",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.4453233496516,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20066,6 +23714,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17377",
     "NAF Name": "boothdom",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.59612521438765,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20077,6 +23727,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17378",
     "NAF Name": "JimNastic",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.1065680234066,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20088,6 +23740,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17379",
     "NAF Name": "EklatPif",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 130.87666695398087,
     "tournaments": 4,
     "gamesWon": 7,
@@ -20099,6 +23753,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17380",
     "NAF Name": "Sherman",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.82473418124843,
     "tournaments": 4,
     "gamesWon": 7,
@@ -20110,6 +23766,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17382",
     "NAF Name": "the_sage",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 175.29233265733237,
     "tournaments": 2,
     "gamesWon": 8,
@@ -20121,6 +23779,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17383",
     "NAF Name": "Stevutz",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.37095598155713,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20132,6 +23792,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17384",
     "NAF Name": "MexicanChilli",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 139.9877021507178,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20143,6 +23805,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17385",
     "NAF Name": "LDP",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 142.62249348969132,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20154,6 +23818,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17386",
     "NAF Name": "Chedy1",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 153.37470975692426,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20165,6 +23831,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17388",
     "NAF Name": "Brychan",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.73921986030004,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20176,6 +23844,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17389",
     "NAF Name": "drah",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.61859194792146,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20187,6 +23857,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17396",
     "NAF Name": "kungfupanda",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 155.59272077109716,
     "tournaments": 1,
     "gamesWon": 3,
@@ -20198,6 +23870,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17404",
     "NAF Name": "nevaenuffbass",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 157.5357057446177,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20209,6 +23883,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17405",
     "NAF Name": "Nezzy",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 139.16976536556064,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20220,6 +23896,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17407",
     "NAF Name": "Jimbil",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 139.67978659590813,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20231,6 +23909,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17414",
     "NAF Name": "Patoulfou",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 124.66271941682442,
     "tournaments": 3,
     "gamesWon": 4,
@@ -20242,6 +23922,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17415",
     "NAF Name": "Cyrlesire",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.78431925515335,
     "tournaments": 2,
     "gamesWon": 6,
@@ -20253,6 +23935,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17416",
     "NAF Name": "BrutalDeluxe",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.43316093315218,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20264,6 +23948,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17418",
     "NAF Name": "klauser",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 146.95480117772,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20275,6 +23961,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17420",
     "NAF Name": "Steve388",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 143.92044440931267,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20286,6 +23974,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17426",
     "NAF Name": "sutters",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 152.25927068613055,
     "tournaments": 2,
     "gamesWon": 5,
@@ -20297,6 +23987,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17433",
     "NAF Name": "Silverchocobo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.26174719859682,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20308,6 +24000,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17446",
     "NAF Name": "insidiousspike",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 131.78051406362445,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20319,6 +24013,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17472",
     "NAF Name": "morena",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 106.82133160446584,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20330,6 +24026,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17473",
     "NAF Name": "SteelyKnife",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 149.20662830978475,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20341,6 +24039,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17474",
     "NAF Name": "ChemicalPeter",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 146.93602207119355,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20352,6 +24052,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17475",
     "NAF Name": "NisseLars",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 142.04938750785035,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20363,6 +24065,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17476",
     "NAF Name": "JMSJ",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 152.4304162761151,
     "tournaments": 1,
     "gamesWon": 3,
@@ -20374,6 +24078,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17477",
     "NAF Name": "Jeguan",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 141.03124005604263,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20385,6 +24091,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17478",
     "NAF Name": "wookie",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 125.53964403898884,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20396,6 +24104,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17479",
     "NAF Name": "norse-of-course",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.7001281867107,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20407,6 +24117,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17484",
     "NAF Name": "Leto",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.2722326059023,
     "tournaments": 2,
     "gamesWon": 2,
@@ -20418,6 +24130,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17485",
     "NAF Name": "Ghost",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 127.99993812097918,
     "tournaments": 2,
     "gamesWon": 2,
@@ -20429,6 +24143,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17486",
     "NAF Name": "Elric",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.20243678859575,
     "tournaments": 2,
     "gamesWon": 1,
@@ -20440,6 +24156,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17492",
     "NAF Name": "flo",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 131.21251657718653,
     "tournaments": 3,
     "gamesWon": 3,
@@ -20451,6 +24169,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17494",
     "NAF Name": "classicflava",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.82548528249316,
     "tournaments": 2,
     "gamesWon": 5,
@@ -20462,6 +24182,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17495",
     "NAF Name": "uktabi",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 151.17657138484827,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20473,6 +24195,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17496",
     "NAF Name": "killerbean",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 177.83283691273456,
     "tournaments": 1,
     "gamesWon": 4,
@@ -20484,6 +24208,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17497",
     "NAF Name": "spock",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 148.62280198326454,
     "tournaments": 2,
     "gamesWon": 4,
@@ -20495,6 +24221,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17498",
     "NAF Name": "coachjb",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 156.66980869010314,
     "tournaments": 1,
     "gamesWon": 3,
@@ -20506,6 +24234,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17502",
     "NAF Name": "Formico",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 143.73431634921167,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20517,6 +24247,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17503",
     "NAF Name": "Kikko",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 155.28768191778798,
     "tournaments": 1,
     "gamesWon": 3,
@@ -20528,6 +24260,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17504",
     "NAF Name": "Urbaman",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 133.8799765765559,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20539,6 +24273,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17506",
     "NAF Name": "Baphomet_72",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 133.38067126194997,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20550,6 +24286,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17507",
     "NAF Name": "anto.bb",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 143.75953728050007,
     "tournaments": 2,
     "gamesWon": 4,
@@ -20561,6 +24299,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17518",
     "NAF Name": "dartheo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.00739864770725,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20572,6 +24312,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17519",
     "NAF Name": "zin",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 124.15607075264509,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20583,6 +24325,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17520",
     "NAF Name": "ttyler",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 136.40670031732435,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20594,6 +24338,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17521",
     "NAF Name": "kinks",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 158.80141879919358,
     "tournaments": 1,
     "gamesWon": 3,
@@ -20605,6 +24351,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17522",
     "NAF Name": "jonboy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.2616408547474,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20616,6 +24364,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17523",
     "NAF Name": "nexxie",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.42170226747643,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20627,6 +24377,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17524",
     "NAF Name": "maice76",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.94728748779877,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20638,6 +24390,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17527",
     "NAF Name": "Ivan",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.78146244774402,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20649,6 +24403,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17528",
     "NAF Name": "Ebonstar",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.0724152168738,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20660,6 +24416,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17532",
     "NAF Name": "davidelmistico",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.9126477730093,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20671,6 +24429,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17536",
     "NAF Name": "nubs11",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.15050196248015,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20682,6 +24442,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17542",
     "NAF Name": "BrockGT",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.75088181563348,
     "tournaments": 2,
     "gamesWon": 0,
@@ -20693,6 +24455,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17543",
     "NAF Name": "gizmogirl",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.21584392752487,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20704,6 +24468,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17544",
     "NAF Name": "joneo",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.65470156714045,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20715,6 +24481,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17545",
     "NAF Name": "biosteelman",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.91253302633115,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20726,6 +24494,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17547",
     "NAF Name": "BuckNukem",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.72168476830424,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20737,6 +24507,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17548",
     "NAF Name": "Hawk",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 136.43764438033028,
     "tournaments": 4,
     "gamesWon": 9,
@@ -20748,6 +24520,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17549",
     "NAF Name": "scs.sam",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 152.7811988737235,
     "tournaments": 5,
     "gamesWon": 9,
@@ -20759,6 +24533,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17550",
     "NAF Name": "Greymurphy42",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.08864263261745,
     "tournaments": 4,
     "gamesWon": 8,
@@ -20770,6 +24546,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17553",
     "NAF Name": "Matze",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 168.4246166048372,
     "tournaments": 2,
     "gamesWon": 5,
@@ -20781,6 +24559,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17555",
     "NAF Name": "beuargh",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 140.90083637136385,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20792,6 +24572,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17556",
     "NAF Name": "Zype",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 127.7980762643725,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20803,6 +24585,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17558",
     "NAF Name": "rich",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 124.89930153195711,
     "tournaments": 2,
     "gamesWon": 2,
@@ -20814,6 +24598,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17560",
     "NAF Name": "ragnarok78mg",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.8926198909532,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20825,6 +24611,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17561",
     "NAF Name": "Gibbo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.88589946197058,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20836,6 +24624,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17562",
     "NAF Name": "lewycheuy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.39810456414665,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20847,6 +24637,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17563",
     "NAF Name": "smurf1917",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 171.9918103603587,
     "tournaments": 1,
     "gamesWon": 5,
@@ -20858,6 +24650,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17565",
     "NAF Name": "Sleepypaladin",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.56727216494556,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20869,6 +24663,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17566",
     "NAF Name": "Aflo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 166.49216899693388,
     "tournaments": 2,
     "gamesWon": 5,
@@ -20880,6 +24676,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17571",
     "NAF Name": "savion47",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.77474176318012,
     "tournaments": 1,
     "gamesWon": 3,
@@ -20891,6 +24689,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17572",
     "NAF Name": "da",
+    "CCAA": "Apatrida",
+    "Country": "Taiwan",
     "rating": 147.79575777021537,
     "tournaments": 2,
     "gamesWon": 2,
@@ -20902,6 +24702,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17573",
     "NAF Name": "snakees",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 133.36932979622676,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20913,6 +24715,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17576",
     "NAF Name": "calliphora",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 151.191921634103,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20924,6 +24728,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17583",
     "NAF Name": "hemlighallaren",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 150.0977041080389,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20935,6 +24741,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17594",
     "NAF Name": "Beorg",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 135.2874465006764,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20946,6 +24754,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17595",
     "NAF Name": "fingerc",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 164.29863912526417,
     "tournaments": 1,
     "gamesWon": 3,
@@ -20957,6 +24767,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17600",
     "NAF Name": "wageslave2006",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 161.46085060063666,
     "tournaments": 1,
     "gamesWon": 3,
@@ -20968,6 +24780,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17603",
     "NAF Name": "Simon_ACP",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 126.53560608722988,
     "tournaments": 5,
     "gamesWon": 5,
@@ -20979,6 +24793,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17607",
     "NAF Name": "wfstar429",
+    "CCAA": "Apatrida",
+    "Country": "Taiwan",
     "rating": 147.23296550033464,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20990,6 +24806,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17608",
     "NAF Name": "templarphoenix",
+    "CCAA": "Apatrida",
+    "Country": "Taiwan",
     "rating": 144.40453837558846,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21001,6 +24819,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17609",
     "NAF Name": "stirling",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 144.88408349816862,
     "tournaments": 2,
     "gamesWon": 2,
@@ -21012,6 +24832,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17610",
     "NAF Name": "walkure",
+    "CCAA": "Apatrida",
+    "Country": "Taiwan",
     "rating": 155.59546162441154,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21023,6 +24845,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17611",
     "NAF Name": "Half-Tone",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 160.45422170266377,
     "tournaments": 2,
     "gamesWon": 5,
@@ -21034,6 +24858,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17612",
     "NAF Name": "vsiren",
+    "CCAA": "Apatrida",
+    "Country": "Taiwan",
     "rating": 137.2071980520848,
     "tournaments": 2,
     "gamesWon": 0,
@@ -21045,6 +24871,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17614",
     "NAF Name": "lheero",
+    "CCAA": "Apatrida",
+    "Country": "Taiwan",
     "rating": 152.44724111457145,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21056,6 +24884,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17632",
     "NAF Name": "IUDeth",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.0874323964834,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21067,6 +24897,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17633",
     "NAF Name": "atmiller666",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.94257725850184,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21078,6 +24910,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17634",
     "NAF Name": "Lrdlother6",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 162.76224670941173,
     "tournaments": 1,
     "gamesWon": 3,
@@ -21089,6 +24923,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17635",
     "NAF Name": "Xeliel",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.01921425950516,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21100,6 +24936,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17640",
     "NAF Name": "knockout",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 172.5776375860369,
     "tournaments": 2,
     "gamesWon": 5,
@@ -21111,6 +24949,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17641",
     "NAF Name": "Hacker",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 101.78545019242863,
     "tournaments": 2,
     "gamesWon": 0,
@@ -21122,6 +24962,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17642",
     "NAF Name": "faulcon",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 167.78107518825354,
     "tournaments": 1,
     "gamesWon": 3,
@@ -21133,6 +24975,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17643",
     "NAF Name": "giant_slayer",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 132.71129970580043,
     "tournaments": 2,
     "gamesWon": 1,
@@ -21144,6 +24988,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17644",
     "NAF Name": "drusus82",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 125.78925489052742,
     "tournaments": 3,
     "gamesWon": 4,
@@ -21155,6 +25001,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17651",
     "NAF Name": "Malefixx",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 140.2788706539099,
     "tournaments": 1,
     "gamesWon": 4,
@@ -21166,6 +25014,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17652",
     "NAF Name": "Pool",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 127.0259058998489,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21177,6 +25027,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17653",
     "NAF Name": "Irish",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 146.48087289558345,
     "tournaments": 1,
     "gamesWon": 3,
@@ -21188,6 +25040,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17654",
     "NAF Name": "Black_Panda",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 116.36718747598495,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21199,6 +25053,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17656",
     "NAF Name": "bobpoundmax",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.8982994992036,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21210,6 +25066,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17658",
     "NAF Name": "DaBoss",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 139.66580817430054,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21221,6 +25079,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17659",
     "NAF Name": "HrOlsen",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 160.14020323727829,
     "tournaments": 1,
     "gamesWon": 4,
@@ -21232,6 +25092,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17660",
     "NAF Name": "Viajero",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 152.428423011255,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21243,6 +25105,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17666",
     "NAF Name": "fishsticks",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.01255599976471,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21254,6 +25118,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17668",
     "NAF Name": "artburns79",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 132.61753235086513,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21265,6 +25131,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17671",
     "NAF Name": "solmyr",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.51827017541055,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21276,6 +25144,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17677",
     "NAF Name": "hilzari",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.05379323473662,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21287,6 +25157,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17684",
     "NAF Name": "vagabond1982uk",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.43627383917672,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21298,6 +25170,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17686",
     "NAF Name": "Ismelllikeatroll",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.49091271524193,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21309,6 +25183,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17688",
     "NAF Name": "mathias",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.28654313331458,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21320,6 +25196,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.57577078673623,
     "tournaments": 2,
     "gamesWon": 1,
@@ -21331,6 +25209,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17691",
     "NAF Name": "Toturi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 168.90451676025972,
     "tournaments": 3,
     "gamesWon": 6,
@@ -21342,6 +25222,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17696",
     "NAF Name": "christiannielsen",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 139.51636442022067,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21353,6 +25235,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17698",
     "NAF Name": "giacomo.benuzzi",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 143.5934216499529,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21364,6 +25248,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17700",
     "NAF Name": "rookiz",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 140.07822376193283,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21375,6 +25261,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17701",
     "NAF Name": "narro",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.50167913653334,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21386,6 +25274,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17704",
     "NAF Name": "Nusby",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 163.91279055413696,
     "tournaments": 1,
     "gamesWon": 4,
@@ -21397,6 +25287,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17708",
     "NAF Name": "subtle54",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 138.04924778704944,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21408,6 +25300,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17709",
     "NAF Name": "redeagle",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.57914290214723,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21419,6 +25313,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17710",
     "NAF Name": "GardenLutece",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.88713768107758,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21430,6 +25326,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17714",
     "NAF Name": "thewizard",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 131.37844829647432,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21441,6 +25339,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17715",
     "NAF Name": "slay",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 140.98328683251913,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21452,6 +25352,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17716",
     "NAF Name": "dista",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 125.79072883493563,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21463,6 +25365,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17717",
     "NAF Name": "ulrian",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 141.39787371630172,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21474,6 +25378,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17718",
     "NAF Name": "kupra",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.81082991324416,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21485,6 +25391,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17719",
     "NAF Name": "pop",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.06653823656904,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21496,6 +25404,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17720",
     "NAF Name": "cyclope06",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 127.42025340103508,
     "tournaments": 2,
     "gamesWon": 1,
@@ -21507,6 +25417,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17722",
     "NAF Name": "HobgoblinSteve",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 151.70910323173703,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21518,6 +25430,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17723",
     "NAF Name": "Painted_by_G",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.070660314112,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21529,6 +25443,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17725",
     "NAF Name": "balder",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 142.36795918362944,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21540,6 +25456,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17727",
     "NAF Name": "maram",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 142.51217834586652,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21551,6 +25469,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17730",
     "NAF Name": "Ivelios",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 151.49694867066214,
     "tournaments": 3,
     "gamesWon": 6,
@@ -21562,6 +25482,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17731",
     "NAF Name": "Peli",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 147.98222971263309,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21573,6 +25495,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17732",
     "NAF Name": "SuperMario",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.84654135473417,
     "tournaments": 6,
     "gamesWon": 12,
@@ -21584,6 +25508,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17738",
     "NAF Name": "vampirelogan",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 156.02528720055795,
     "tournaments": 1,
     "gamesWon": 3,
@@ -21595,6 +25521,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17741",
     "NAF Name": "Rumble",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 159.21287538362444,
     "tournaments": 1,
     "gamesWon": 4,
@@ -21606,6 +25534,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17742",
     "NAF Name": "BrotherKane",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.15693186798944,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21617,6 +25547,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17743",
     "NAF Name": "MonkeyNutts",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 153.1135736964497,
     "tournaments": 1,
     "gamesWon": 3,
@@ -21628,6 +25560,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17744",
     "NAF Name": "Dieseluk",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.60753921631922,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21639,6 +25573,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17745",
     "NAF Name": "SensiHoiMonkey",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 130.6870666800961,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21650,6 +25586,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17751",
     "NAF Name": "canadiannerd85",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 134.02072241231588,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21661,6 +25599,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17752",
     "NAF Name": "Mr.Bloodweiser",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 157.62044173191956,
     "tournaments": 1,
     "gamesWon": 3,
@@ -21672,6 +25612,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17753",
     "NAF Name": "hellcannon",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.2157808850112,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21683,6 +25625,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17754",
     "NAF Name": "eterenal",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 157.04355262443158,
     "tournaments": 1,
     "gamesWon": 3,
@@ -21694,6 +25638,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17755",
     "NAF Name": "varulf",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.31696738534498,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21705,6 +25651,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17756",
     "NAF Name": "TestingGoblin",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.02986772842226,
     "tournaments": 2,
     "gamesWon": 3,
@@ -21716,6 +25664,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17757",
     "NAF Name": "Dr.Kitties",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 109.61784365062782,
     "tournaments": 3,
     "gamesWon": 1,
@@ -21727,6 +25677,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17758",
     "NAF Name": "Cmd_Crow",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 133.19999256018093,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21738,6 +25690,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17759",
     "NAF Name": "Narwhalfanatic",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 127.75863049173842,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21749,6 +25703,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17760",
     "NAF Name": "gollumullog",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 158.16385546609814,
     "tournaments": 1,
     "gamesWon": 3,
@@ -21760,6 +25716,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17769",
     "NAF Name": "lolvenom",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 142.33740569111552,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21771,6 +25729,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17770",
     "NAF Name": "Mark13",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.43896158848764,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21782,6 +25742,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17771",
     "NAF Name": "Krazi_B",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 136.67791625137733,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21793,6 +25755,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17772",
     "NAF Name": "Karonte",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.34190638811094,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21804,6 +25768,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17773",
     "NAF Name": "Chalao",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.39828571406733,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21815,6 +25781,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17775",
     "NAF Name": "Nithrom",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 137.34911901846607,
     "tournaments": 2,
     "gamesWon": 4,
@@ -21826,6 +25794,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17776",
     "NAF Name": "Bonico",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 146.10847355802022,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21837,6 +25807,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17777",
     "NAF Name": "Miguelillo_6",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 120.21708087632086,
     "tournaments": 2,
     "gamesWon": 1,
@@ -21848,6 +25820,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17778",
     "NAF Name": "Sir_Aeron",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.5545882186106,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21859,6 +25833,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17779",
     "NAF Name": "McKandyKain",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.6667114480378,
     "tournaments": 2,
     "gamesWon": 2,
@@ -21870,6 +25846,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17780",
     "NAF Name": "TheDoc",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.49005699232868,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21881,6 +25859,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17781",
     "NAF Name": "Gortexgunnerson",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.44073184437906,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21892,6 +25872,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17784",
     "NAF Name": "Gnyffen",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 150.4434220241788,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21903,6 +25885,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17785",
     "NAF Name": "MissRussia",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 140.04045307777656,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21914,6 +25898,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17786",
     "NAF Name": "Manwe",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 151.3387722409086,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21925,6 +25911,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17799",
     "NAF Name": "Sensei",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 142.20915089939604,
     "tournaments": 2,
     "gamesWon": 1,
@@ -21936,6 +25924,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17801",
     "NAF Name": "Lysira",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 133.93741196819732,
     "tournaments": 2,
     "gamesWon": 3,
@@ -21947,6 +25937,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17802",
     "NAF Name": "Swarley",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 141.17697678095408,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21958,6 +25950,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17810",
     "NAF Name": "Lenny",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.3148170844383,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21969,6 +25963,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17817",
     "NAF Name": "miserable",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 136.97570831446197,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21980,6 +25976,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17831",
     "NAF Name": "cerumol",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 132.6552919570632,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21991,6 +25989,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17832",
     "NAF Name": "Gninocker",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 125.80779160035347,
     "tournaments": 2,
     "gamesWon": 0,
@@ -22002,6 +26002,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17834",
     "NAF Name": "Winni",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 169.88612567272378,
     "tournaments": 1,
     "gamesWon": 3,
@@ -22013,6 +26015,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17836",
     "NAF Name": "Robodukky",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 147.8697957100166,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22024,6 +26028,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17838",
     "NAF Name": "Smee",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 158.17950251661196,
     "tournaments": 1,
     "gamesWon": 3,
@@ -22035,6 +26041,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17840",
     "NAF Name": "Freak_in_a_Frock",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 168.5447413783096,
     "tournaments": 1,
     "gamesWon": 4,
@@ -22046,6 +26054,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17841",
     "NAF Name": "Cactus",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.50646589011058,
     "tournaments": 1,
     "gamesWon": 3,
@@ -22057,6 +26067,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17843",
     "NAF Name": "ayvess",
+    "CCAA": "Apatrida",
+    "Country": "FRANCE",
     "rating": 144.1035555658422,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22068,6 +26080,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17844",
     "NAF Name": "zypher",
+    "CCAA": "Apatrida",
+    "Country": "FRANCE",
     "rating": 145.59244586320486,
     "tournaments": 2,
     "gamesWon": 1,
@@ -22079,6 +26093,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17845",
     "NAF Name": "opyruso",
+    "CCAA": "Apatrida",
+    "Country": "FRANCE",
     "rating": 149.6561033913018,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22090,6 +26106,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17846",
     "NAF Name": "AntonLunau",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 173.3008945371349,
     "tournaments": 1,
     "gamesWon": 5,
@@ -22101,6 +26119,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17848",
     "NAF Name": "dr._rudolf_von_richten",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 134.17414657796635,
     "tournaments": 1,
     "gamesWon": 3,
@@ -22112,6 +26132,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17850",
     "NAF Name": "sharp1011",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 146.90166716093998,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22123,6 +26145,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17851",
     "NAF Name": "irphaeus",
+    "CCAA": "Apatrida",
+    "Country": "FRANCE",
     "rating": 145.4746716605018,
     "tournaments": 3,
     "gamesWon": 1,
@@ -22134,6 +26158,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17852",
     "NAF Name": "gorgoth",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.96383039797246,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22145,6 +26171,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17854",
     "NAF Name": "supergrass",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 143.83618008357305,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22156,6 +26184,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17862",
     "NAF Name": "Jimm",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 137.96103517445923,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22167,6 +26197,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17863",
     "NAF Name": "Grimario",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 148.33374994966718,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22178,6 +26210,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17864",
     "NAF Name": "whitetailscramblers",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 138.9287389398093,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22189,6 +26223,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17865",
     "NAF Name": "Froggy",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 143.85555348823885,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22200,6 +26236,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17866",
     "NAF Name": "Scooterpie",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 138.49942820588035,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22211,6 +26249,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17867",
     "NAF Name": "Tarentus",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 149.0316206344805,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22222,6 +26262,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17868",
     "NAF Name": "Aaron316",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 160.73142863930715,
     "tournaments": 1,
     "gamesWon": 3,
@@ -22233,6 +26275,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17869",
     "NAF Name": "Cthululovin",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 160.8006413561011,
     "tournaments": 1,
     "gamesWon": 4,
@@ -22244,6 +26288,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17870",
     "NAF Name": "Phukmanyeman",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 143.70305829209923,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22255,6 +26301,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17871",
     "NAF Name": "Tombstone",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.76000267364893,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22266,6 +26314,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17875",
     "NAF Name": "jameses",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 168.62363073525827,
     "tournaments": 1,
     "gamesWon": 4,
@@ -22277,6 +26327,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17876",
     "NAF Name": "BenCox",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.28475955056825,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22288,6 +26340,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17883",
     "NAF Name": "oddjob123",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.48836409160992,
     "tournaments": 1,
     "gamesWon": 3,
@@ -22299,6 +26353,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17886",
     "NAF Name": "bespalk",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.9828498419565,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22310,6 +26366,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17887",
     "NAF Name": "swabs77",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.51823763914336,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22321,6 +26379,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17888",
     "NAF Name": "Nijil",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.57097950697417,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22332,6 +26392,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17893",
     "NAF Name": "fackko",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 124.60025724605472,
     "tournaments": 2,
     "gamesWon": 1,
@@ -22343,6 +26405,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17894",
     "NAF Name": "DonAHess",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.81011566430567,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22354,6 +26418,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17896",
     "NAF Name": "Igmar",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 137.81374151372023,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22365,6 +26431,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17903",
     "NAF Name": "AnthonyJones",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.72984099296278,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22376,6 +26444,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17904",
     "NAF Name": "Gman",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 126.52266724098017,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22387,6 +26457,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17912",
     "NAF Name": "Bapt",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.7925107997096,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22398,6 +26470,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17914",
     "NAF Name": "Mr_Pan",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.74772969833384,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22409,6 +26483,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17916",
     "NAF Name": "Ydroegir",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.4857888227121,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22420,6 +26496,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17917",
     "NAF Name": "Arnal",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.95841151042575,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22431,6 +26509,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17918",
     "NAF Name": "Lord_Asmodai",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 127.19356544363488,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22442,6 +26522,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17931",
     "NAF Name": "Coach_Redbeard",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 117.6120090020682,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22453,6 +26535,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17933",
     "NAF Name": "matasar",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 162.07469203009364,
     "tournaments": 1,
     "gamesWon": 3,
@@ -22464,6 +26548,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17949",
     "NAF Name": "Oigelb",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 145.0704675563252,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22475,6 +26561,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17950",
     "NAF Name": "Kaylon",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 154.69788999988472,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22486,6 +26574,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17951",
     "NAF Name": "Muttis_Liebling",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 132.33517896414682,
     "tournaments": 2,
     "gamesWon": 1,
@@ -22497,6 +26587,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17952",
     "NAF Name": "MMartin1980",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 155.52989201890725,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22508,6 +26600,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17954",
     "NAF Name": "Hedgehog",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.58868080195802,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22519,6 +26613,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17955",
     "NAF Name": "Marzon",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 142.34502851957973,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22530,6 +26626,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17960",
     "NAF Name": "Hubsi",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 142.47730329288424,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22541,6 +26639,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17961",
     "NAF Name": "Erdhorn",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 137.17288614817625,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22552,6 +26652,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17964",
     "NAF Name": "Ingrimsh",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 139.33978485806452,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22563,6 +26665,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17965",
     "NAF Name": "Killertomate",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 131.31871886223908,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22574,6 +26678,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17969",
     "NAF Name": "DerNebel",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 128.3484599009418,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22585,6 +26691,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17973",
     "NAF Name": "xavitocalella",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.52245783100645,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22596,6 +26704,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "17996",
     "NAF Name": "setesh",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.13665801109934,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22607,6 +26717,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18009",
     "NAF Name": "Pythrr",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 169.62187536291992,
     "tournaments": 2,
     "gamesWon": 4,
@@ -22618,6 +26730,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18010",
     "NAF Name": "MilitaryThug",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.7253688158508,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22629,6 +26743,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18015",
     "NAF Name": "shizentai",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 145.49014977255734,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22640,6 +26756,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18034",
     "NAF Name": "The.tok",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 132.7602022311695,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22651,6 +26769,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18037",
     "NAF Name": "Gavin_FE",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.6866079860837,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22662,6 +26782,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18038",
     "NAF Name": "shirraku",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.31089825011813,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22673,6 +26795,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18046",
     "NAF Name": "Azylius",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 138.034705808797,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22684,6 +26808,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18057",
     "NAF Name": "Rluke",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 132.73628082352906,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22695,6 +26821,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18062",
     "NAF Name": "Koak",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 142.38690090910907,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22706,6 +26834,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18063",
     "NAF Name": "Parry",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 153.35940332405136,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22717,6 +26847,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18066",
     "NAF Name": "Jaap",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 162.04762478077689,
     "tournaments": 3,
     "gamesWon": 6,
@@ -22728,6 +26860,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18067",
     "NAF Name": "Obi_Hayv",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 136.9979505284683,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22739,6 +26873,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18068",
     "NAF Name": "Juffo_wup",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 149.85444311504972,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22750,6 +26886,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18079",
     "NAF Name": "KhemriBob",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.35164897025356,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22761,6 +26899,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18080",
     "NAF Name": "Jasksta",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.3314952934798,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22772,6 +26912,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18081",
     "NAF Name": "PCha",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.38047651826872,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22783,6 +26925,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18104",
     "NAF Name": "Manfro",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 138.33425558808895,
     "tournaments": 2,
     "gamesWon": 2,
@@ -22794,6 +26938,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18138",
     "NAF Name": "Wicked_elves",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 140.5477726836074,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22805,6 +26951,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18139",
     "NAF Name": "Foulmi",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 153.5675545112971,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22816,6 +26964,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18140",
     "NAF Name": "Hereticus",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 153.39662692063402,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22827,6 +26977,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18141",
     "NAF Name": "Gingerninja",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 152.82552469980232,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22838,6 +26990,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18142",
     "NAF Name": "Gas_Monkey",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 146.76323637714322,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22849,6 +27003,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18171",
     "NAF Name": "johnnyd",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 150,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22860,6 +27016,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18335",
     "NAF Name": "sascha.b",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 132.09234092721744,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22871,6 +27029,8 @@ const statsYear2011 = [
   {
     "NAF Nr": "18385",
     "NAF Name": "meowth",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 147.84001894568038,
     "tournaments": 1,
     "gamesWon": 1,

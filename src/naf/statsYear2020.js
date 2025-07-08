@@ -2,6 +2,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5",
     "NAF Name": "Christer",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 149.96880836583276,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13,6 +15,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29",
     "NAF Name": "Milo",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 153.20418595887114,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24,6 +28,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "68",
     "NAF Name": "Sputnik",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 167.59870729780135,
     "tournaments": 2,
     "gamesWon": 6,
@@ -35,6 +41,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "69",
     "NAF Name": "Venomous_Breath",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.5871910274276,
     "tournaments": 1,
     "gamesWon": 3,
@@ -46,6 +54,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "83",
     "NAF Name": "Firebreather",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 163.41833255179242,
     "tournaments": 3,
     "gamesWon": 6,
@@ -57,6 +67,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "111",
     "NAF Name": "Thrud",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 129.99872792501054,
     "tournaments": 1,
     "gamesWon": 1,
@@ -68,6 +80,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "113",
     "NAF Name": "Da_Scum",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 160.9896615381045,
     "tournaments": 2,
     "gamesWon": 5,
@@ -79,6 +93,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "128",
     "NAF Name": "miloquaser",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 146.72456358277992,
     "tournaments": 2,
     "gamesWon": 3,
@@ -90,6 +106,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "129",
     "NAF Name": "jelmer",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 163.41074472841572,
     "tournaments": 3,
     "gamesWon": 7,
@@ -101,6 +119,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "140",
     "NAF Name": "Dave",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 179.27918657902137,
     "tournaments": 2,
     "gamesWon": 7,
@@ -112,6 +132,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "146",
     "NAF Name": "Max_Horseman",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.93853046753603,
     "tournaments": 1,
     "gamesWon": 3,
@@ -123,6 +145,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "149",
     "NAF Name": "Podfrey",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 190.04167500130762,
     "tournaments": 2,
     "gamesWon": 8,
@@ -134,6 +158,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "152",
     "NAF Name": "Gorbad",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 144.6015706231862,
     "tournaments": 1,
     "gamesWon": 2,
@@ -145,6 +171,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "184",
     "NAF Name": "gonmorcas",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 157.99986572156664,
     "tournaments": 2,
     "gamesWon": 3,
@@ -156,6 +184,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "248",
     "NAF Name": "Melifaxis",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.24909088322255,
     "tournaments": 2,
     "gamesWon": 4,
@@ -167,6 +197,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "256",
     "NAF Name": "Deacon",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.21720279515267,
     "tournaments": 1,
     "gamesWon": 1,
@@ -178,6 +210,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "341",
     "NAF Name": "Prince",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 166.80541600473518,
     "tournaments": 2,
     "gamesWon": 5,
@@ -189,6 +223,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "371",
     "NAF Name": "Loki",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 154.70867750365153,
     "tournaments": 1,
     "gamesWon": 3,
@@ -200,6 +236,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "372",
     "NAF Name": "Maitre_tactac",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 159.93915343573866,
     "tournaments": 1,
     "gamesWon": 3,
@@ -211,6 +249,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "443",
     "NAF Name": "smeborg",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 158.13969397978906,
     "tournaments": 1,
     "gamesWon": 3,
@@ -222,6 +262,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "520",
     "NAF Name": "Balbaroy",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 137.66777950326528,
     "tournaments": 3,
     "gamesWon": 6,
@@ -233,6 +275,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "618",
     "NAF Name": "Pigsofa",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 155.06910351244315,
     "tournaments": 1,
     "gamesWon": 3,
@@ -244,6 +288,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "1009",
     "NAF Name": "GColeman76",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 173.8545779320957,
     "tournaments": 3,
     "gamesWon": 10,
@@ -255,6 +301,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "1014",
     "NAF Name": "daloonieshaman",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.7054552450606,
     "tournaments": 1,
     "gamesWon": 2,
@@ -266,6 +314,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "1102",
     "NAF Name": "K",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 161.48859184743074,
     "tournaments": 1,
     "gamesWon": 4,
@@ -277,6 +327,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "1123",
     "NAF Name": "Shaniepoo1",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.2748930116447,
     "tournaments": 1,
     "gamesWon": 1,
@@ -288,6 +340,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "1143",
     "NAF Name": "mawph",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.3800939726884,
     "tournaments": 1,
     "gamesWon": 2,
@@ -299,6 +353,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "1191",
     "NAF Name": "thorgrum",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 145.96759695144044,
     "tournaments": 4,
     "gamesWon": 6,
@@ -310,6 +366,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "1264",
     "NAF Name": "DaFoola",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.17745685489876,
     "tournaments": 1,
     "gamesWon": 2,
@@ -321,6 +379,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "1305",
     "NAF Name": "wesleytj",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.21092831878082,
     "tournaments": 1,
     "gamesWon": 1,
@@ -332,6 +392,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "1389",
     "NAF Name": "netrnner",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.31453213880994,
     "tournaments": 1,
     "gamesWon": 1,
@@ -343,6 +405,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "1524",
     "NAF Name": "El_Condor",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 159.17259911811885,
     "tournaments": 2,
     "gamesWon": 6,
@@ -354,6 +418,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "1621",
     "NAF Name": "vmcat",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 156.30234096274745,
     "tournaments": 1,
     "gamesWon": 3,
@@ -365,6 +431,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "1654",
     "NAF Name": "Hoshi_Komi",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.31341047136007,
     "tournaments": 1,
     "gamesWon": 2,
@@ -376,6 +444,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "1822",
     "NAF Name": "Dream17",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.5546372141411,
     "tournaments": 3,
     "gamesWon": 1,
@@ -387,6 +457,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2150",
     "NAF Name": "Gaunab",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 155.6497087203835,
     "tournaments": 1,
     "gamesWon": 3,
@@ -398,6 +470,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2233",
     "NAF Name": "Sjapie",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 150.27287991025682,
     "tournaments": 1,
     "gamesWon": 1,
@@ -409,6 +483,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2271",
     "NAF Name": "frostie",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 157.4056320974917,
     "tournaments": 2,
     "gamesWon": 5,
@@ -420,6 +496,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2406",
     "NAF Name": "spartan357",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 136.84443871325254,
     "tournaments": 4,
     "gamesWon": 5,
@@ -431,6 +509,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2460",
     "NAF Name": "KaduC",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.0441947304297,
     "tournaments": 1,
     "gamesWon": 2,
@@ -442,6 +522,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2464",
     "NAF Name": "Sladmortis",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 169.01746278020454,
     "tournaments": 2,
     "gamesWon": 6,
@@ -453,6 +535,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2504",
     "NAF Name": "Eban",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 135.2648332840818,
     "tournaments": 2,
     "gamesWon": 2,
@@ -464,6 +548,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2519",
     "NAF Name": "obeliz",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 161.3022539909366,
     "tournaments": 1,
     "gamesWon": 2,
@@ -475,6 +561,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2520",
     "NAF Name": "Jango",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 151.47589618066323,
     "tournaments": 1,
     "gamesWon": 1,
@@ -486,6 +574,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2591",
     "NAF Name": "Tojurub",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 138.75830306419098,
     "tournaments": 5,
     "gamesWon": 6,
@@ -497,6 +587,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2714",
     "NAF Name": "Schwifty",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 144.90340056751168,
     "tournaments": 2,
     "gamesWon": 4,
@@ -508,6 +600,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2726",
     "NAF Name": "Tackledummy",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 146.00011186060956,
     "tournaments": 1,
     "gamesWon": 1,
@@ -519,6 +613,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2736",
     "NAF Name": "Sharky2k",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 153.03231317720167,
     "tournaments": 1,
     "gamesWon": 2,
@@ -530,6 +626,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2745",
     "NAF Name": "Opus",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.06173731625486,
     "tournaments": 1,
     "gamesWon": 2,
@@ -541,6 +639,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2785",
     "NAF Name": "Jokaero",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 150.2299777731613,
     "tournaments": 1,
     "gamesWon": 1,
@@ -552,6 +652,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2808",
     "NAF Name": "Miko",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 170.0595373214313,
     "tournaments": 2,
     "gamesWon": 8,
@@ -563,6 +665,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2854",
     "NAF Name": "Clan_Skaven",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 164.6906412249814,
     "tournaments": 2,
     "gamesWon": 5,
@@ -574,6 +678,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2870",
     "NAF Name": "Lycos",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 165.93514403103478,
     "tournaments": 4,
     "gamesWon": 8,
@@ -585,6 +691,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2925",
     "NAF Name": "Dark_Duke",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 150.1730759883903,
     "tournaments": 1,
     "gamesWon": 2,
@@ -596,6 +704,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "2971",
     "NAF Name": "SuM",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 134.4319515748588,
     "tournaments": 1,
     "gamesWon": 0,
@@ -607,6 +717,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "3038",
     "NAF Name": "SHADEKNIGHT",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.881353024453,
     "tournaments": 1,
     "gamesWon": 2,
@@ -618,6 +730,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "3294",
     "NAF Name": "SirMayans",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 214.01229577871027,
     "tournaments": 6,
     "gamesWon": 15,
@@ -629,6 +743,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "3312",
     "NAF Name": "Joemanji",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 174.39775457158538,
     "tournaments": 4,
     "gamesWon": 9,
@@ -640,6 +756,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "3354",
     "NAF Name": "ForceCommander",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.20728397999545,
     "tournaments": 1,
     "gamesWon": 1,
@@ -651,6 +769,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "3367",
     "NAF Name": "Bjorgrim",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 160.86562438091684,
     "tournaments": 1,
     "gamesWon": 2,
@@ -662,6 +782,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "3528",
     "NAF Name": "Roller",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 160.39028058530585,
     "tournaments": 3,
     "gamesWon": 6,
@@ -673,6 +795,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "3623",
     "NAF Name": "battlepuppy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.0057405113271,
     "tournaments": 1,
     "gamesWon": 2,
@@ -684,6 +808,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "3676",
     "NAF Name": "Ignaz",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 181.4927188422154,
     "tournaments": 5,
     "gamesWon": 13,
@@ -695,6 +821,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "3709",
     "NAF Name": "howlinggriffon",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.83257434821405,
     "tournaments": 1,
     "gamesWon": 1,
@@ -706,6 +834,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "3741",
     "NAF Name": "cubefarmer",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.75006825989794,
     "tournaments": 1,
     "gamesWon": 3,
@@ -717,6 +847,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "3743",
     "NAF Name": "DaBoar",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 161.97516239613304,
     "tournaments": 1,
     "gamesWon": 4,
@@ -728,6 +860,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "3874",
     "NAF Name": "Kithor",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 169.0286107271021,
     "tournaments": 2,
     "gamesWon": 5,
@@ -739,6 +873,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "3902",
     "NAF Name": "Azaghal_es",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 186.57147467406878,
     "tournaments": 2,
     "gamesWon": 8,
@@ -750,6 +886,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "3981",
     "NAF Name": "Claymore",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 192.74834242380916,
     "tournaments": 8,
     "gamesWon": 21,
@@ -761,6 +899,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4243",
     "NAF Name": "Boshka",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150,
     "tournaments": 1,
     "gamesWon": 1,
@@ -772,6 +912,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4244",
     "NAF Name": "flyingdingle",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 168.24710918478476,
     "tournaments": 2,
     "gamesWon": 7,
@@ -783,6 +925,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4261",
     "NAF Name": "Sledge",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 149.74247129262795,
     "tournaments": 1,
     "gamesWon": 1,
@@ -794,6 +938,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4310",
     "NAF Name": "Sturmjarl",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.70627014180423,
     "tournaments": 2,
     "gamesWon": 4,
@@ -805,6 +951,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4380",
     "NAF Name": "Leipziger",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.68542039503077,
     "tournaments": 2,
     "gamesWon": 4,
@@ -816,6 +964,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4387",
     "NAF Name": "OldManDraco",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 145.4963052146184,
     "tournaments": 1,
     "gamesWon": 1,
@@ -827,6 +977,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4398",
     "NAF Name": "Talkarde",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 167.16657475644038,
     "tournaments": 1,
     "gamesWon": 4,
@@ -838,6 +990,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4479",
     "NAF Name": "Grell",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.2803559682793,
     "tournaments": 1,
     "gamesWon": 1,
@@ -849,6 +1003,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4693",
     "NAF Name": "MathiasToss",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 145.01852507955888,
     "tournaments": 1,
     "gamesWon": 1,
@@ -860,6 +1016,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4768",
     "NAF Name": "Indibro",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 159.7621827687521,
     "tournaments": 2,
     "gamesWon": 5,
@@ -871,6 +1029,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4789",
     "NAF Name": "frozenflame",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 165.87450786638752,
     "tournaments": 1,
     "gamesWon": 3,
@@ -882,6 +1042,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4798",
     "NAF Name": "topomuschiato",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 149.884288361406,
     "tournaments": 1,
     "gamesWon": 3,
@@ -893,6 +1055,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4822",
     "NAF Name": "juck101",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 166.17686574110684,
     "tournaments": 2,
     "gamesWon": 6,
@@ -904,6 +1068,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4844",
     "NAF Name": "Zulo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 161.31330113595288,
     "tournaments": 1,
     "gamesWon": 3,
@@ -915,6 +1081,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4865",
     "NAF Name": "Levinas",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.97862354935694,
     "tournaments": 1,
     "gamesWon": 2,
@@ -926,6 +1094,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "4885",
     "NAF Name": "WIldManTX",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.09895156593532,
     "tournaments": 2,
     "gamesWon": 4,
@@ -937,6 +1107,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5017",
     "NAF Name": "Richy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.65685424949237,
     "tournaments": 1,
     "gamesWon": 2,
@@ -948,6 +1120,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5075",
     "NAF Name": "slup",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 135.73640944837058,
     "tournaments": 1,
     "gamesWon": 0,
@@ -959,6 +1133,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5122",
     "NAF Name": "OTS",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.29150262212917,
     "tournaments": 1,
     "gamesWon": 2,
@@ -970,6 +1146,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5131",
     "NAF Name": "Besters",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.89435739784045,
     "tournaments": 2,
     "gamesWon": 3,
@@ -981,6 +1159,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5222",
     "NAF Name": "LEGION",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 141.88366042128465,
     "tournaments": 4,
     "gamesWon": 4,
@@ -992,6 +1172,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5269",
     "NAF Name": "RatDaddy",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 149.29702450511158,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1003,6 +1185,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5271",
     "NAF Name": "SirSebstar",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 160.49714053074254,
     "tournaments": 2,
     "gamesWon": 5,
@@ -1014,6 +1198,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5290",
     "NAF Name": "Pipey",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 165.56144737081848,
     "tournaments": 2,
     "gamesWon": 6,
@@ -1025,6 +1211,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5341",
     "NAF Name": "DukeJan",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 158.3920015828294,
     "tournaments": 2,
     "gamesWon": 4,
@@ -1036,6 +1224,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5594",
     "NAF Name": "Gotrek",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 136.33867387815627,
     "tournaments": 2,
     "gamesWon": 2,
@@ -1047,6 +1237,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5624",
     "NAF Name": "Buffalo_Chris",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 146.2458150904204,
     "tournaments": 2,
     "gamesWon": 3,
@@ -1058,6 +1250,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5642",
     "NAF Name": "Schwager",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 145.19764330239687,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1069,6 +1263,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5663",
     "NAF Name": "yiyo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 160.63982121552044,
     "tournaments": 2,
     "gamesWon": 4,
@@ -1080,6 +1276,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5693",
     "NAF Name": "Arylith",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.63178461358947,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1091,6 +1289,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5734",
     "NAF Name": "Talons",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 153.7608521223313,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1102,6 +1302,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5737",
     "NAF Name": "SewerRat",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 141.8936753718054,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1113,6 +1315,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5767",
     "NAF Name": "Schmee",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.21531420152047,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1124,6 +1328,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5773",
     "NAF Name": "Mitico",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.0374240552054,
     "tournaments": 3,
     "gamesWon": 6,
@@ -1135,6 +1341,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5798",
     "NAF Name": "Yena",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 195.75295447016475,
     "tournaments": 4,
     "gamesWon": 13,
@@ -1146,6 +1354,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5817",
     "NAF Name": "Da_Imp",
+    "CCAA": "Apatrida",
+    "Country": "South Africa",
     "rating": 150.50441529337766,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1157,6 +1367,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5844",
     "NAF Name": "Candlejack",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 199.99070215592835,
     "tournaments": 4,
     "gamesWon": 17,
@@ -1168,6 +1380,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5863",
     "NAF Name": "Rabid_Bogscum",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 161.03228105211193,
     "tournaments": 2,
     "gamesWon": 5,
@@ -1179,6 +1393,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5893",
     "NAF Name": "GORGOROTH",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 152.74127138034444,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1190,6 +1406,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5900",
     "NAF Name": "Dirold",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 177.72090611942517,
     "tournaments": 3,
     "gamesWon": 10,
@@ -1201,6 +1419,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5903",
     "NAF Name": "andrea_parrella",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 181.6725160154821,
     "tournaments": 3,
     "gamesWon": 9,
@@ -1212,6 +1432,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5906",
     "NAF Name": "Liam",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 165.42573713417983,
     "tournaments": 3,
     "gamesWon": 5,
@@ -1223,6 +1445,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "5912",
     "NAF Name": "Gurdulo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.19384457334888,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1234,6 +1458,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6027",
     "NAF Name": "Temujin71",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.49571615381902,
     "tournaments": 3,
     "gamesWon": 5,
@@ -1245,6 +1471,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6048",
     "NAF Name": "mobo",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 162.82045904675806,
     "tournaments": 5,
     "gamesWon": 8,
@@ -1256,6 +1484,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6114",
     "NAF Name": "zsinj",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.95167270833286,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1267,6 +1497,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6121",
     "NAF Name": "JaM",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 131.60822568602987,
     "tournaments": 3,
     "gamesWon": 4,
@@ -1278,6 +1510,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6123",
     "NAF Name": "Mepmuff",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 171.40073728809963,
     "tournaments": 3,
     "gamesWon": 8,
@@ -1289,6 +1523,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6145",
     "NAF Name": "Nathaniël",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.05589191541677,
     "tournaments": 2,
     "gamesWon": 1,
@@ -1300,6 +1536,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6157",
     "NAF Name": "avatar666",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 136.97063554215842,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1311,6 +1549,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6177",
     "NAF Name": "Nadsoker",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 150.38654165513688,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1322,6 +1562,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6183",
     "NAF Name": "Driesfield",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 155.1065425097593,
     "tournaments": 2,
     "gamesWon": 4,
@@ -1333,6 +1575,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6193",
     "NAF Name": "szrlm",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 177.50183188381052,
     "tournaments": 1,
     "gamesWon": 4,
@@ -1344,6 +1588,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6261",
     "NAF Name": "Sebco",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 171.9719178769701,
     "tournaments": 4,
     "gamesWon": 7,
@@ -1355,6 +1601,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6269",
     "NAF Name": "Parroco",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 174.58491301433776,
     "tournaments": 1,
     "gamesWon": 4,
@@ -1366,6 +1614,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6322",
     "NAF Name": "Drizzt",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.42074686860335,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1377,6 +1627,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6376",
     "NAF Name": "Emi_-13-_",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 169.46867766055348,
     "tournaments": 5,
     "gamesWon": 10,
@@ -1388,6 +1640,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6398",
     "NAF Name": "Nonio",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 149.3880724871968,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1399,6 +1653,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6443",
     "NAF Name": "hunter",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.70021229446337,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1410,6 +1666,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6470",
     "NAF Name": "skaven27",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.2352579782494,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1421,6 +1679,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6482",
     "NAF Name": "grant85",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 168.2654514986904,
     "tournaments": 3,
     "gamesWon": 7,
@@ -1432,6 +1692,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6487",
     "NAF Name": "Kuzzone",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 156.11154438938195,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1443,6 +1705,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6554",
     "NAF Name": "Gaiba",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.36565235998225,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1454,6 +1718,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6618",
     "NAF Name": "Steinhammer",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 154.92066405192057,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1465,6 +1731,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6619",
     "NAF Name": "Goloman",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.3357815503361,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1476,6 +1744,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6636",
     "NAF Name": "Floridaboy",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 152.93205174641506,
     "tournaments": 2,
     "gamesWon": 3,
@@ -1487,6 +1757,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6639",
     "NAF Name": "Nordmann",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 136.5210098214414,
     "tournaments": 2,
     "gamesWon": 1,
@@ -1498,6 +1770,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6641",
     "NAF Name": "Steamroller",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 137.22636203819326,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1509,6 +1783,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6666",
     "NAF Name": "mysticforce",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.07671276428135,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1520,6 +1796,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6737",
     "NAF Name": "Twyllenimor",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 169.27958805889656,
     "tournaments": 3,
     "gamesWon": 7,
@@ -1531,6 +1809,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6780",
     "NAF Name": "runki_khrum",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 170.10964510688603,
     "tournaments": 2,
     "gamesWon": 5,
@@ -1542,6 +1822,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6800",
     "NAF Name": "bloody",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.74405010623624,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1553,6 +1835,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6857",
     "NAF Name": "HermitDaFrog",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.15852967263007,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1564,6 +1848,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6879",
     "NAF Name": "Tuern_Blackvenom",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.03128499339113,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1575,6 +1861,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6984",
     "NAF Name": "Nicap",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.92862430885103,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1586,6 +1874,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "6986",
     "NAF Name": "Bozo",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.32672348402826,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1597,6 +1887,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7037",
     "NAF Name": "GardenGnome",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.2675599403403,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1608,6 +1900,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7078",
     "NAF Name": "Ratman",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.65968938526925,
     "tournaments": 2,
     "gamesWon": 3,
@@ -1619,6 +1913,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7192",
     "NAF Name": "VultureSquadron",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 167.18175316073098,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1630,6 +1926,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7194",
     "NAF Name": "Alronno",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 158.6051725314135,
     "tournaments": 1,
     "gamesWon": 4,
@@ -1641,6 +1939,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7218",
     "NAF Name": "misterhobbs",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.36902985765462,
     "tournaments": 5,
     "gamesWon": 8,
@@ -1652,6 +1952,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7230",
     "NAF Name": "Eddie",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 140.62224586755073,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1663,6 +1965,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7234",
     "NAF Name": "ghorgh",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.50223437999787,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1674,6 +1978,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7293",
     "NAF Name": "Treno",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 123.63813326661074,
     "tournaments": 2,
     "gamesWon": 0,
@@ -1685,6 +1991,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7309",
     "NAF Name": "zoesky",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 143.3971951919565,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1696,6 +2004,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7312",
     "NAF Name": "moira",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 133.05235495267755,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1707,6 +2017,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7357",
     "NAF Name": "DrunkenDwarf",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 139.08972458637768,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1718,6 +2030,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7374",
     "NAF Name": "Wosret",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 144.76145910660966,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1729,6 +2043,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7375",
     "NAF Name": "Snotty",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 114.7889504583305,
     "tournaments": 3,
     "gamesWon": 1,
@@ -1740,6 +2056,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7376",
     "NAF Name": "Fatty",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 144.8458332214296,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1751,6 +2069,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7394",
     "NAF Name": "charditobravo",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 145.46157757520194,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1762,6 +2082,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7403",
     "NAF Name": "Akaro",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 138.2060197252448,
     "tournaments": 1,
     "gamesWon": 0,
@@ -1773,6 +2095,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7407",
     "NAF Name": "Pakulkan",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 153.2840436484121,
     "tournaments": 3,
     "gamesWon": 5,
@@ -1784,6 +2108,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7408",
     "NAF Name": "potablava",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 151.65814439647465,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1795,6 +2121,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7416",
     "NAF Name": "MaceJedi",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.13846666392334,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1806,6 +2134,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7422",
     "NAF Name": "StoutYoungblood",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.77284489711218,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1817,6 +2147,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7465",
     "NAF Name": "L3athalK",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 174.59276342516733,
     "tournaments": 3,
     "gamesWon": 8,
@@ -1828,6 +2160,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7503",
     "NAF Name": "Tonalt",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 161.71018029163264,
     "tournaments": 3,
     "gamesWon": 5,
@@ -1839,6 +2173,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7539",
     "NAF Name": "Lord_Bojo",
+    "CCAA": "Apatrida",
+    "Country": "Guadeloupe",
     "rating": 177.86488062594648,
     "tournaments": 4,
     "gamesWon": 10,
@@ -1850,6 +2186,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7550",
     "NAF Name": "Murzh",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 136.90982681100513,
     "tournaments": 2,
     "gamesWon": 3,
@@ -1861,6 +2199,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7553",
     "NAF Name": "stick_with_poo_on_the_end",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.35986605930023,
     "tournaments": 2,
     "gamesWon": 2,
@@ -1872,6 +2212,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7634",
     "NAF Name": "Heroic_Tackle",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 174.62920059403046,
     "tournaments": 2,
     "gamesWon": 7,
@@ -1883,6 +2225,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7656",
     "NAF Name": "KinkyWinky",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.44573916257934,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1894,6 +2238,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7685",
     "NAF Name": "FESTEN",
+    "CCAA": "Apatrida",
+    "Country": "Jamaica",
     "rating": 132.83355548997375,
     "tournaments": 1,
     "gamesWon": 1,
@@ -1905,6 +2251,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7690",
     "NAF Name": "Joanet",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 161.42862434548366,
     "tournaments": 2,
     "gamesWon": 5,
@@ -1916,6 +2264,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7693",
     "NAF Name": "Marc.Andy",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 154.33457972096005,
     "tournaments": 2,
     "gamesWon": 5,
@@ -1927,6 +2277,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7710",
     "NAF Name": "Kewan",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 155.65685424949237,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1938,6 +2290,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7729",
     "NAF Name": "Vimes",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 155.65441098666466,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1949,6 +2303,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7746",
     "NAF Name": "Icaro",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.4788147155631,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1960,6 +2316,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7769",
     "NAF Name": "PeteW",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 162.6032108547628,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1971,6 +2329,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7770",
     "NAF Name": "magictobe",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 155.53764629867376,
     "tournaments": 1,
     "gamesWon": 2,
@@ -1982,6 +2342,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7935",
     "NAF Name": "Engel",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.49923915498243,
     "tournaments": 1,
     "gamesWon": 3,
@@ -1993,6 +2355,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "7957",
     "NAF Name": "pjut",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 158.17962536811515,
     "tournaments": 4,
     "gamesWon": 7,
@@ -2004,6 +2368,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8001",
     "NAF Name": "Hamlet",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 143.9792275225542,
     "tournaments": 3,
     "gamesWon": 5,
@@ -2015,6 +2381,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8018",
     "NAF Name": "habasta",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 138.13172788136052,
     "tournaments": 1,
     "gamesWon": 0,
@@ -2026,6 +2394,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8072",
     "NAF Name": "Khelby",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 158.19326767746594,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2037,6 +2407,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8117",
     "NAF Name": "Hummer",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.9023664526157,
     "tournaments": 3,
     "gamesWon": 6,
@@ -2048,6 +2420,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8122",
     "NAF Name": "Godzilla",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 177.8146970703379,
     "tournaments": 3,
     "gamesWon": 7,
@@ -2059,6 +2433,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8168",
     "NAF Name": "Da_Great_MC",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 170.2738969169387,
     "tournaments": 2,
     "gamesWon": 6,
@@ -2070,6 +2446,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8196",
     "NAF Name": "J.a.m",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 151.4383203841128,
     "tournaments": 2,
     "gamesWon": 4,
@@ -2081,6 +2459,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8218",
     "NAF Name": "Eagle_Park",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.35742972100618,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2092,6 +2472,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8270",
     "NAF Name": "GORBLITZ",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.83411762653682,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2103,6 +2485,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8320",
     "NAF Name": "Giappone",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.34314575050763,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2114,6 +2498,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8351",
     "NAF Name": "Dodge",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 133.61293312611258,
     "tournaments": 1,
     "gamesWon": 0,
@@ -2125,6 +2511,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8401",
     "NAF Name": "MaD",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 138.63074967050065,
     "tournaments": 2,
     "gamesWon": 3,
@@ -2136,6 +2524,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8402",
     "NAF Name": "Phoenix11",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 166.87373406006648,
     "tournaments": 2,
     "gamesWon": 6,
@@ -2147,6 +2537,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8439",
     "NAF Name": "Darth_Dreddolo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 159.16822762340544,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2158,6 +2550,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8512",
     "NAF Name": "Eolallo",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 170.61705315821573,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2169,6 +2563,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8562",
     "NAF Name": "Khimar",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 141.40746390713664,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2180,6 +2576,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8601",
     "NAF Name": "Thibault",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 181.5700919653135,
     "tournaments": 2,
     "gamesWon": 7,
@@ -2191,6 +2589,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8611",
     "NAF Name": "nyarlathotep",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 140.64013211111325,
     "tournaments": 1,
     "gamesWon": 0,
@@ -2202,6 +2602,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8630",
     "NAF Name": "varagh",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 182.21372504896252,
     "tournaments": 4,
     "gamesWon": 11,
@@ -2213,6 +2615,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8660",
     "NAF Name": "tpalhares",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.1227659692996,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2224,6 +2628,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8672",
     "NAF Name": "Elinfame",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 150.41991741763937,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2235,6 +2641,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8691",
     "NAF Name": "darktremere",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.57757647481512,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2246,6 +2654,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8730",
     "NAF Name": "bellowthunderslam",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 141.5165389480243,
     "tournaments": 2,
     "gamesWon": 2,
@@ -2257,6 +2667,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8731",
     "NAF Name": "Colonel Castor",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 169.46621693614938,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2268,6 +2680,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8734",
     "NAF Name": "Haktar",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 161.04305576515858,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2279,6 +2693,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8735",
     "NAF Name": "Leif",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.2424881448183,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2290,6 +2706,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8743",
     "NAF Name": "Obi_Wan",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.22216741545068,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2301,6 +2719,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8756",
     "NAF Name": "calvofai",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.50970902729333,
     "tournaments": 1,
     "gamesWon": 0,
@@ -2312,6 +2732,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8771",
     "NAF Name": "Nardo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 161.32302733466634,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2323,6 +2745,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8861",
     "NAF Name": "OON",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 159.41639629330007,
     "tournaments": 3,
     "gamesWon": 5,
@@ -2334,6 +2758,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8866",
     "NAF Name": "sann0638",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 148.9242756966658,
     "tournaments": 4,
     "gamesWon": 5,
@@ -2345,6 +2771,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8901",
     "NAF Name": "wilzif",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 177.23815350724124,
     "tournaments": 1,
     "gamesWon": 5,
@@ -2356,6 +2784,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8923",
     "NAF Name": "Nonumber",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 159.80664351789102,
     "tournaments": 4,
     "gamesWon": 9,
@@ -2367,6 +2797,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8956",
     "NAF Name": "GreedySmurf",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.59977323743075,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2378,6 +2810,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "8994",
     "NAF Name": "Lordm",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 169.64161636688266,
     "tournaments": 5,
     "gamesWon": 10,
@@ -2389,6 +2823,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9085",
     "NAF Name": "Nigromante",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.42729959619737,
     "tournaments": 2,
     "gamesWon": 1,
@@ -2400,6 +2836,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9100",
     "NAF Name": "Spielmacher",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 173.58065859769798,
     "tournaments": 8,
     "gamesWon": 14,
@@ -2411,6 +2849,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9136",
     "NAF Name": "LioN",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 164.2967450951039,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2422,6 +2862,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9252",
     "NAF Name": "D_Arquebus",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 153.46410161513774,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2433,6 +2875,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9259",
     "NAF Name": "gumbi",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.66701418507517,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2444,6 +2888,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9294",
     "NAF Name": "YLD",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 131.49547341273802,
     "tournaments": 2,
     "gamesWon": 3,
@@ -2455,6 +2901,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9370",
     "NAF Name": "Ceetee",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 185.8996344579161,
     "tournaments": 4,
     "gamesWon": 12,
@@ -2466,6 +2914,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9413",
     "NAF Name": "zerak",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 155.7964338979917,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2477,6 +2927,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9488",
     "NAF Name": "MightyYruHa",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.43515534072972,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2488,6 +2940,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9491",
     "NAF Name": "Spongebob",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 153.87435083804718,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2499,6 +2953,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9519",
     "NAF Name": "Kesta",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.02163784546082,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2510,6 +2966,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9524",
     "NAF Name": "Tripleskull",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 185.09782888705075,
     "tournaments": 8,
     "gamesWon": 16,
@@ -2521,6 +2979,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9610",
     "NAF Name": "Oventa",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 171.82537296275927,
     "tournaments": 2,
     "gamesWon": 7,
@@ -2532,6 +2992,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9621",
     "NAF Name": "Jonny_Kanone",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.78237234828742,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2543,6 +3005,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9625",
     "NAF Name": "Daggers",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 166.98121988532662,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2554,6 +3018,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9630",
     "NAF Name": "Galanthil",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 178.06736586625337,
     "tournaments": 2,
     "gamesWon": 6,
@@ -2565,6 +3031,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9659",
     "NAF Name": "Doc_Grotznik",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.24937660435495,
     "tournaments": 2,
     "gamesWon": 4,
@@ -2576,6 +3044,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9672",
     "NAF Name": "Fireolli",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.68443040497576,
     "tournaments": 2,
     "gamesWon": 6,
@@ -2587,6 +3057,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9753",
     "NAF Name": "Manz62",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 168.8697096670331,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2598,6 +3070,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9812",
     "NAF Name": "Father_Gailus",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 158.12912127769155,
     "tournaments": 2,
     "gamesWon": 4,
@@ -2609,6 +3083,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9813",
     "NAF Name": "Rodney_Dangerfield",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 179.42693924432606,
     "tournaments": 1,
     "gamesWon": 4,
@@ -2620,6 +3096,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9830",
     "NAF Name": "Tristelune",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 168.72692121882403,
     "tournaments": 2,
     "gamesWon": 6,
@@ -2631,6 +3109,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9862",
     "NAF Name": "vegeta7913",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.34964814479724,
     "tournaments": 2,
     "gamesWon": 3,
@@ -2642,6 +3122,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9865",
     "NAF Name": "Morpheous",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.70849737787083,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2653,6 +3135,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9884",
     "NAF Name": "delevus",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 168.0623542243361,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2664,6 +3148,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9897",
     "NAF Name": "NippyLongskar",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 166.89658044630664,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2675,6 +3161,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9935",
     "NAF Name": "Leyron",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.4601980474181,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2686,6 +3174,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "9938",
     "NAF Name": "Lleme",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.63187415278503,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2697,6 +3187,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10216",
     "NAF Name": "Meradanis",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 169.99386471842814,
     "tournaments": 2,
     "gamesWon": 7,
@@ -2708,6 +3200,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10228",
     "NAF Name": "Lurtzo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 166.43144521840512,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2719,6 +3213,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10236",
     "NAF Name": "Hachablanca",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 144.1576751409114,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2730,6 +3226,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10279",
     "NAF Name": "Cesar",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 162.26685892968794,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2741,6 +3239,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10282",
     "NAF Name": "Mur",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 161.29569831578462,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2752,6 +3252,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10295",
     "NAF Name": "kar2nr",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.42571817662866,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2763,6 +3265,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10296",
     "NAF Name": "xawier",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.43967602282424,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2774,6 +3278,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10300",
     "NAF Name": "Monkeyrouge",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 167.43138448699483,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2785,6 +3291,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10305",
     "NAF Name": "Cana",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.02301201178784,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2796,6 +3304,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10320",
     "NAF Name": "Magikmoon",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 160.5962493213491,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2807,6 +3317,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10328",
     "NAF Name": "Pask",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 148.9530894060269,
     "tournaments": 2,
     "gamesWon": 3,
@@ -2818,6 +3330,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10346",
     "NAF Name": "Bucks",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.77054667014846,
     "tournaments": 2,
     "gamesWon": 1,
@@ -2829,6 +3343,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10350",
     "NAF Name": "Osskpo",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.96369765691387,
     "tournaments": 2,
     "gamesWon": 3,
@@ -2840,6 +3356,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10434",
     "NAF Name": "Don_Vito",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 169.7425674325497,
     "tournaments": 3,
     "gamesWon": 8,
@@ -2851,6 +3369,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10500",
     "NAF Name": "indio",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.45788759307254,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2862,6 +3382,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10505",
     "NAF Name": "Loberas",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 167.36597454597128,
     "tournaments": 4,
     "gamesWon": 8,
@@ -2873,6 +3395,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10525",
     "NAF Name": "Frantic",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 146.07635744243757,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2884,6 +3408,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10572",
     "NAF Name": "Barney_the_Lurker",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.47879647410758,
     "tournaments": 2,
     "gamesWon": 5,
@@ -2895,6 +3421,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10582",
     "NAF Name": "Inderol",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 157.32209087900668,
     "tournaments": 1,
     "gamesWon": 3,
@@ -2906,6 +3434,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10634",
     "NAF Name": "Léguman",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 121.76187070554924,
     "tournaments": 2,
     "gamesWon": 0,
@@ -2917,6 +3447,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10658",
     "NAF Name": "Sizzler",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.70141777802414,
     "tournaments": 2,
     "gamesWon": 4,
@@ -2928,6 +3460,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10661",
     "NAF Name": "zoglug",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 129.0800198635366,
     "tournaments": 2,
     "gamesWon": 2,
@@ -2939,6 +3473,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10677",
     "NAF Name": "Wulfgar",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 153.40777013597256,
     "tournaments": 1,
     "gamesWon": 2,
@@ -2950,6 +3486,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10690",
     "NAF Name": "Beanbag",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 167.9921186601539,
     "tournaments": 2,
     "gamesWon": 6,
@@ -2961,6 +3499,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10691",
     "NAF Name": "KFoged",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 181.5232799400739,
     "tournaments": 2,
     "gamesWon": 6,
@@ -2972,6 +3512,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10737",
     "NAF Name": "HungryTaz",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.19314510502062,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2983,6 +3525,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10775",
     "NAF Name": "Kunta",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 147.67103033979728,
     "tournaments": 1,
     "gamesWon": 1,
@@ -2994,6 +3538,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10831",
     "NAF Name": "Purdindas",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 165.22267996886606,
     "tournaments": 2,
     "gamesWon": 5,
@@ -3005,6 +3551,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10840",
     "NAF Name": "Hippie",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 173.85022344666544,
     "tournaments": 1,
     "gamesWon": 5,
@@ -3016,6 +3564,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10845",
     "NAF Name": "Glowworm",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 131.1444475960588,
     "tournaments": 4,
     "gamesWon": 5,
@@ -3027,6 +3577,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10904",
     "NAF Name": "Grither",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 185.51214757950808,
     "tournaments": 9,
     "gamesWon": 22,
@@ -3038,6 +3590,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "10997",
     "NAF Name": "Mamapepe",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.85096300217393,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3049,6 +3603,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11065",
     "NAF Name": "Jeeves",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 156.60335249954056,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3060,6 +3616,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11134",
     "NAF Name": "Galladur",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.77108211607867,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3071,6 +3629,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11227",
     "NAF Name": "imperialdeadite",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.2567604436499,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3082,6 +3642,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11295",
     "NAF Name": "Nanorso",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 142.0964284119133,
     "tournaments": 3,
     "gamesWon": 3,
@@ -3093,6 +3655,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11297",
     "NAF Name": "Sulidamor",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 173.4481794689603,
     "tournaments": 1,
     "gamesWon": 4,
@@ -3104,6 +3668,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11491",
     "NAF Name": "BiBi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 166.79529990177298,
     "tournaments": 1,
     "gamesWon": 4,
@@ -3115,6 +3681,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11497",
     "NAF Name": "Knaegten",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 119.86180404792994,
     "tournaments": 2,
     "gamesWon": 1,
@@ -3126,6 +3694,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11498",
     "NAF Name": "MissSweden",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 175.0663924258407,
     "tournaments": 4,
     "gamesWon": 9,
@@ -3137,6 +3707,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11499",
     "NAF Name": "MrNiebling",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 188.97447467107568,
     "tournaments": 8,
     "gamesWon": 15,
@@ -3148,6 +3720,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11501",
     "NAF Name": "Tank",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 206.3503650864061,
     "tournaments": 8,
     "gamesWon": 24,
@@ -3159,6 +3733,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11531",
     "NAF Name": "ktulu",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 144.64466647910663,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3170,6 +3746,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11534",
     "NAF Name": "Pas_Mao",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 172.58563746076467,
     "tournaments": 2,
     "gamesWon": 6,
@@ -3181,6 +3759,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11535",
     "NAF Name": "Chou",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 137.5506187400579,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3192,6 +3772,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11552",
     "NAF Name": "jrock56",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 167.7553417105088,
     "tournaments": 2,
     "gamesWon": 5,
@@ -3203,6 +3785,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11658",
     "NAF Name": "Chevanta",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 151.1461909333864,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3214,6 +3798,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11678",
     "NAF Name": "scottprime",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.50265465309192,
     "tournaments": 2,
     "gamesWon": 5,
@@ -3225,6 +3811,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11689",
     "NAF Name": "Segastian",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 145.5355685631175,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3236,6 +3824,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11777",
     "NAF Name": "Purplegoo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 163.90269441687477,
     "tournaments": 2,
     "gamesWon": 6,
@@ -3247,6 +3837,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11784",
     "NAF Name": "Joluveal",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.02150503684183,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3258,6 +3850,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11789",
     "NAF Name": "BlapyMetal",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 161.3129329132635,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3269,6 +3863,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11793",
     "NAF Name": "Duke_Luthor",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 200.04194651223926,
     "tournaments": 7,
     "gamesWon": 17,
@@ -3280,6 +3876,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11801",
     "NAF Name": "dams",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.99721751822912,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3291,6 +3889,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11802",
     "NAF Name": "Alf",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.87220606393694,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3302,6 +3902,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11804",
     "NAF Name": "Santo",
+    "CCAA": "Apatrida",
+    "Country": "Ladonia",
     "rating": 150.17072552881444,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3313,6 +3915,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11857",
     "NAF Name": "Big-A",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 160.57547361332766,
     "tournaments": 2,
     "gamesWon": 4,
@@ -3324,6 +3928,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11924",
     "NAF Name": "Kaltenland",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 161.25564247528757,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3335,6 +3941,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11932",
     "NAF Name": "Schouf",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.05548850468045,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3346,6 +3954,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "11936",
     "NAF Name": "bonairesharks",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 136.92846965271485,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3357,6 +3967,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12019",
     "NAF Name": "Z.F.",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 155.60331227341035,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3368,6 +3980,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12037",
     "NAF Name": "winterhorse",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.83437048967684,
     "tournaments": 2,
     "gamesWon": 3,
@@ -3379,6 +3993,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12061",
     "NAF Name": "Quizz",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.57505810239957,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3390,6 +4006,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12130",
     "NAF Name": "Cosius",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.2033829257677,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3401,6 +4019,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12145",
     "NAF Name": "lunchmoney",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.53032775386342,
     "tournaments": 3,
     "gamesWon": 6,
@@ -3412,6 +4032,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12195",
     "NAF Name": "Voscaroff",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.99265111473255,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3423,6 +4045,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12263",
     "NAF Name": "Rando",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.71620250469252,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3434,6 +4058,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12272",
     "NAF Name": "Rhox",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 143.86264245419673,
     "tournaments": 2,
     "gamesWon": 4,
@@ -3445,6 +4071,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12285",
     "NAF Name": "Xac",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.1171801329712,
     "tournaments": 2,
     "gamesWon": 4,
@@ -3456,6 +4084,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12319",
     "NAF Name": "Justicium",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 168.73159112426478,
     "tournaments": 2,
     "gamesWon": 6,
@@ -3467,6 +4097,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12347",
     "NAF Name": "flickcom",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.23485601598045,
     "tournaments": 2,
     "gamesWon": 2,
@@ -3478,6 +4110,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12396",
     "NAF Name": "Phil78",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 161.11960774060458,
     "tournaments": 1,
     "gamesWon": 4,
@@ -3489,6 +4123,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12403",
     "NAF Name": "Jimjimany",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 171.41687644490653,
     "tournaments": 1,
     "gamesWon": 5,
@@ -3500,6 +4136,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12457",
     "NAF Name": "Pink_Charlie",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 170.41482475527562,
     "tournaments": 5,
     "gamesWon": 12,
@@ -3511,6 +4149,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12458",
     "NAF Name": "Melphios",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 167.21625924918845,
     "tournaments": 1,
     "gamesWon": 4,
@@ -3522,6 +4162,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12496",
     "NAF Name": "RedDawn",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.70320228679736,
     "tournaments": 3,
     "gamesWon": 5,
@@ -3533,6 +4175,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12500",
     "NAF Name": "woete",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 148.1373013904276,
     "tournaments": 2,
     "gamesWon": 1,
@@ -3544,6 +4188,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12506",
     "NAF Name": "Dadou",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.0477924142222,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3555,6 +4201,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12511",
     "NAF Name": "Maestre",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.21044190199046,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3566,6 +4214,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12520",
     "NAF Name": "Shirokov",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 183.26363573554718,
     "tournaments": 5,
     "gamesWon": 12,
@@ -3577,6 +4227,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12545",
     "NAF Name": "Winkle_Picka",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.65685424949237,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3588,6 +4240,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12552",
     "NAF Name": "brocCooLi",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 156.85319599648196,
     "tournaments": 2,
     "gamesWon": 6,
@@ -3599,6 +4253,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12565",
     "NAF Name": "Marvelhoeller",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 151.20146118761332,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3610,6 +4266,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12569",
     "NAF Name": "Vanguard",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 165.67198355659332,
     "tournaments": 2,
     "gamesWon": 5,
@@ -3621,6 +4279,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12621",
     "NAF Name": "Dropshort",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 135.81118811433507,
     "tournaments": 2,
     "gamesWon": 0,
@@ -3632,6 +4292,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12626",
     "NAF Name": "Talanis",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 155.6146281889012,
     "tournaments": 2,
     "gamesWon": 4,
@@ -3643,6 +4305,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12639",
     "NAF Name": "Turenne",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.43153814379463,
     "tournaments": 2,
     "gamesWon": 0,
@@ -3654,6 +4318,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12649",
     "NAF Name": "Agolfo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 155.45212933309242,
     "tournaments": 2,
     "gamesWon": 4,
@@ -3665,6 +4331,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12712",
     "NAF Name": "Ikterus",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 157.42394395968466,
     "tournaments": 2,
     "gamesWon": 6,
@@ -3676,6 +4344,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12737",
     "NAF Name": "frzntoz",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 176.2412948941902,
     "tournaments": 2,
     "gamesWon": 8,
@@ -3687,6 +4357,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12805",
     "NAF Name": "Centurion",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 147.84988407180597,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3698,6 +4370,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12842",
     "NAF Name": "badger89",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 148.03335215284343,
     "tournaments": 3,
     "gamesWon": 4,
@@ -3709,6 +4383,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12937",
     "NAF Name": "Sphinx",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 142.57911660516288,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3720,6 +4396,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12973",
     "NAF Name": "Nichren",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.0174320799296,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3731,6 +4409,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "12990",
     "NAF Name": "Shogun",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 175.87511757007258,
     "tournaments": 3,
     "gamesWon": 8,
@@ -3742,6 +4422,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13064",
     "NAF Name": "leverloos",
+    "CCAA": "Apatrida",
+    "Country": "",
     "rating": 131.03918912240414,
     "tournaments": 2,
     "gamesWon": 2,
@@ -3753,6 +4435,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13093",
     "NAF Name": "Weav",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.92206327330564,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3764,6 +4448,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13119",
     "NAF Name": "Araznaroth",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 145.01880818669656,
     "tournaments": 5,
     "gamesWon": 5,
@@ -3775,6 +4461,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13178",
     "NAF Name": "Manu",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 129.46574585903628,
     "tournaments": 2,
     "gamesWon": 2,
@@ -3786,6 +4474,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13200",
     "NAF Name": "Owen86",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 171.80633231074708,
     "tournaments": 4,
     "gamesWon": 9,
@@ -3797,6 +4487,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13213",
     "NAF Name": "tzoscey",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 144.03117361115017,
     "tournaments": 1,
     "gamesWon": 1,
@@ -3808,6 +4500,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13246",
     "NAF Name": "Brunificus",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 171.5949852813252,
     "tournaments": 4,
     "gamesWon": 10,
@@ -3819,6 +4513,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13251",
     "NAF Name": "lootpuppy",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 131.6336999206703,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3830,6 +4526,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13257",
     "NAF Name": "Olaf_The_Stout",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 162.0764613462236,
     "tournaments": 1,
     "gamesWon": 5,
@@ -3841,6 +4539,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13270",
     "NAF Name": "ddark",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.07889158194774,
     "tournaments": 1,
     "gamesWon": 2,
@@ -3852,6 +4552,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13280",
     "NAF Name": "Freud",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 163.63221312922838,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3863,6 +4565,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13301",
     "NAF Name": "TankFace",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 166.25113667998002,
     "tournaments": 1,
     "gamesWon": 4,
@@ -3874,6 +4578,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13335",
     "NAF Name": "rippersly",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 162.89084094647532,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3885,6 +4591,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13358",
     "NAF Name": "gsxr750emt",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 166.2412420057693,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3896,6 +4604,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13417",
     "NAF Name": "Spartako",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 182.55791190223906,
     "tournaments": 3,
     "gamesWon": 10,
@@ -3907,6 +4617,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13425",
     "NAF Name": "Yannolegob",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 168.65723109434597,
     "tournaments": 2,
     "gamesWon": 6,
@@ -3918,6 +4630,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13428",
     "NAF Name": "Cossack",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 136.11746032304012,
     "tournaments": 3,
     "gamesWon": 3,
@@ -3929,6 +4643,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13442",
     "NAF Name": "Darth_Vader",
+    "CCAA": "Apatrida",
+    "Country": "Virgin Islands (USA)",
     "rating": 144.54682222633443,
     "tournaments": 2,
     "gamesWon": 2,
@@ -3940,6 +4656,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13455",
     "NAF Name": "Karaak",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 163.19950165338372,
     "tournaments": 2,
     "gamesWon": 5,
@@ -3951,6 +4669,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13462",
     "NAF Name": "Foad",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 156.92820323027553,
     "tournaments": 1,
     "gamesWon": 3,
@@ -3962,6 +4682,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13501",
     "NAF Name": "Darth_prophet",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 149.69432197019333,
     "tournaments": 5,
     "gamesWon": 8,
@@ -3973,6 +4695,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13506",
     "NAF Name": "Welshy",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 141.74480484565512,
     "tournaments": 2,
     "gamesWon": 3,
@@ -3984,6 +4708,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13507",
     "NAF Name": "Videador",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 132.8070897004735,
     "tournaments": 1,
     "gamesWon": 0,
@@ -3995,6 +4721,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13513",
     "NAF Name": "Dardorl",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.93064752957753,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4006,6 +4734,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13525",
     "NAF Name": "Varamyr",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 149.83520358335795,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4017,6 +4747,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13527",
     "NAF Name": "Fudo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 157.05388403075582,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4028,6 +4760,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13529",
     "NAF Name": "Catto",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.75612527112085,
     "tournaments": 1,
     "gamesWon": 0,
@@ -4039,6 +4773,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13532",
     "NAF Name": "Monty",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.72629879116127,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4050,6 +4786,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13555",
     "NAF Name": "CromFrance",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.27548130421266,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4061,6 +4799,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13558",
     "NAF Name": "wise",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.17199163572744,
     "tournaments": 2,
     "gamesWon": 1,
@@ -4072,6 +4812,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13561",
     "NAF Name": "Matt_le_Fou",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.37583891749395,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4083,6 +4825,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13583",
     "NAF Name": "Harti",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 187.10802241003915,
     "tournaments": 3,
     "gamesWon": 10,
@@ -4094,6 +4838,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13607",
     "NAF Name": "Hiruma_Zeo",
+    "CCAA": "Murcia",
+    "Country": "Spain",
     "rating": 161.50438147195484,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4105,6 +4851,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13611",
     "NAF Name": "Garrison",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.3328712792884,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4116,6 +4864,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13620",
     "NAF Name": "Ulvardar",
+    "CCAA": "Apatrida",
+    "Country": "Ladonia",
     "rating": 138.46675870733068,
     "tournaments": 5,
     "gamesWon": 6,
@@ -4127,6 +4877,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13625",
     "NAF Name": "The_Tyser",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 169.58991802431527,
     "tournaments": 3,
     "gamesWon": 7,
@@ -4138,6 +4890,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13634",
     "NAF Name": "Norbi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.05163327211133,
     "tournaments": 2,
     "gamesWon": 1,
@@ -4149,6 +4903,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13644",
     "NAF Name": "Zvonir",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 167.31199463853125,
     "tournaments": 3,
     "gamesWon": 6,
@@ -4160,6 +4916,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13663",
     "NAF Name": "SSB",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.06761456356162,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4171,6 +4929,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13696",
     "NAF Name": "Gaixo",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.67807432513922,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4182,6 +4942,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13697",
     "NAF Name": "Coma",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 150.1778138073533,
     "tournaments": 3,
     "gamesWon": 7,
@@ -4193,6 +4955,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13707",
     "NAF Name": "Fanglord13",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 157.59187957390688,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4204,6 +4968,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13715",
     "NAF Name": "Narok",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 158.62833095958823,
     "tournaments": 2,
     "gamesWon": 4,
@@ -4215,6 +4981,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13731",
     "NAF Name": "Astypal",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.72365085545576,
     "tournaments": 3,
     "gamesWon": 5,
@@ -4226,6 +4994,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13748",
     "NAF Name": "Celt",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 173.9920275840134,
     "tournaments": 3,
     "gamesWon": 9,
@@ -4237,6 +5007,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13763",
     "NAF Name": "Canteloup",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.55872235394227,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4248,6 +5020,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13766",
     "NAF Name": "OptimusPrime",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 179.18214162106352,
     "tournaments": 4,
     "gamesWon": 10,
@@ -4259,6 +5033,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13785",
     "NAF Name": "Matte8",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 153.30818795252586,
     "tournaments": 5,
     "gamesWon": 10,
@@ -4270,6 +5046,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13812",
     "NAF Name": "Barboza",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.33466205644132,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4281,6 +5059,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13826",
     "NAF Name": "Jarvi",
+    "CCAA": "Murcia",
+    "Country": "Spain",
     "rating": 124.93304907819652,
     "tournaments": 2,
     "gamesWon": 2,
@@ -4292,6 +5072,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13857",
     "NAF Name": "pixmen",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.1264980069545,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4303,6 +5085,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13958",
     "NAF Name": "zebulon",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.3478435538961,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4314,6 +5098,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "13997",
     "NAF Name": "zahiko",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.71819900064426,
     "tournaments": 4,
     "gamesWon": 5,
@@ -4325,6 +5111,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14086",
     "NAF Name": "PetitePoire",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.91237116326212,
     "tournaments": 2,
     "gamesWon": 5,
@@ -4336,6 +5124,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14113",
     "NAF Name": "strider84",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 148.22810210709753,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4347,6 +5137,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14125",
     "NAF Name": "hanniball",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 161.81166065998403,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4358,6 +5150,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14147",
     "NAF Name": "whilou",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 172.41252977152197,
     "tournaments": 1,
     "gamesWon": 4,
@@ -4369,6 +5163,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14176",
     "NAF Name": "gwjunkie",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.5339151891406,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4380,6 +5176,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14231",
     "NAF Name": "Jaba",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.6203143715854,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4391,6 +5189,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 166.86401428500085,
     "tournaments": 2,
     "gamesWon": 6,
@@ -4402,6 +5202,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14257",
     "NAF Name": "Tamariz",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 161.32436563583425,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4413,6 +5215,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14266",
     "NAF Name": "psiclone",
+    "CCAA": "Apatrida",
+    "Country": "South Africa",
     "rating": 157.20502075217715,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4424,6 +5228,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14335",
     "NAF Name": "Peakie",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 141.04083190955728,
     "tournaments": 2,
     "gamesWon": 2,
@@ -4435,6 +5241,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14342",
     "NAF Name": "Rostek",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.43225095487898,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4446,6 +5254,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14387",
     "NAF Name": "Netsmurf",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 145.6293664523297,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4457,6 +5267,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14445",
     "NAF Name": "Kilted_Kiwi",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 151.70965066477228,
     "tournaments": 2,
     "gamesWon": 4,
@@ -4468,6 +5280,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14485",
     "NAF Name": "darkstar70",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 164.92765695464504,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4479,6 +5293,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14519",
     "NAF Name": "azzroag",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.8257396872123,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4490,6 +5306,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14524",
     "NAF Name": "grosnain",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.0421931548551,
     "tournaments": 2,
     "gamesWon": 2,
@@ -4501,6 +5319,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14616",
     "NAF Name": "silkoun",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 177.87257784972175,
     "tournaments": 2,
     "gamesWon": 8,
@@ -4512,6 +5332,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14684",
     "NAF Name": "blammaham",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.68016207879975,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4523,6 +5345,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14685",
     "NAF Name": "tremere",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 141.40220714888886,
     "tournaments": 3,
     "gamesWon": 6,
@@ -4534,6 +5358,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14720",
     "NAF Name": "falcon",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 166.79495654474508,
     "tournaments": 1,
     "gamesWon": 4,
@@ -4545,6 +5371,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14735",
     "NAF Name": "Lemf",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 160.39475133409223,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4556,6 +5384,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14737",
     "NAF Name": "Belafon",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.0896351260131,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4567,6 +5397,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14738",
     "NAF Name": "Bobafettsmum",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 160.21058801278352,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4578,6 +5410,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14770",
     "NAF Name": "OneEye",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 156.08747070881165,
     "tournaments": 1,
     "gamesWon": 5,
@@ -4589,6 +5423,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14772",
     "NAF Name": "dazedmw",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 172.9356043109869,
     "tournaments": 1,
     "gamesWon": 4,
@@ -4600,6 +5436,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14784",
     "NAF Name": "echalon",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 155.33615088576204,
     "tournaments": 1,
     "gamesWon": 4,
@@ -4611,6 +5449,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14843",
     "NAF Name": "Taurean_Beast",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 200.98288335216174,
     "tournaments": 4,
     "gamesWon": 12,
@@ -4622,6 +5462,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14938",
     "NAF Name": "highmecca",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.17878897119215,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4633,6 +5475,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "14941",
     "NAF Name": "ozt",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 181.7609171434922,
     "tournaments": 5,
     "gamesWon": 16,
@@ -4644,6 +5488,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15043",
     "NAF Name": "khanmank",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 145.66106527764097,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4655,6 +5501,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15050",
     "NAF Name": "nicklaus",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.92077011654845,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4666,6 +5514,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15082",
     "NAF Name": "kaazor",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 153.2112716962493,
     "tournaments": 2,
     "gamesWon": 3,
@@ -4677,6 +5527,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15105",
     "NAF Name": "MrToyce",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.73504177064999,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4688,6 +5540,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15142",
     "NAF Name": "Sandune",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 191.18961116299735,
     "tournaments": 4,
     "gamesWon": 14,
@@ -4699,6 +5553,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15144",
     "NAF Name": "Vinnie",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 113.75566421784163,
     "tournaments": 3,
     "gamesWon": 2,
@@ -4710,6 +5566,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15226",
     "NAF Name": "Belthasor",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 127.39234528733982,
     "tournaments": 1,
     "gamesWon": 0,
@@ -4721,6 +5579,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15239",
     "NAF Name": "Lowie",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 145.92464447175084,
     "tournaments": 2,
     "gamesWon": 3,
@@ -4732,6 +5592,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15254",
     "NAF Name": "Trondur",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 156.27674850035632,
     "tournaments": 4,
     "gamesWon": 8,
@@ -4743,6 +5605,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15257",
     "NAF Name": "Chewblocka",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 152.26380225936163,
     "tournaments": 2,
     "gamesWon": 3,
@@ -4754,6 +5618,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15259",
     "NAF Name": "Maskil",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.02318393853207,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4765,6 +5631,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15261",
     "NAF Name": "La_fouine",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 134.25743427238132,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4776,6 +5644,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15273",
     "NAF Name": "Gaspez",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 143.9710649694493,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4787,6 +5657,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15285",
     "NAF Name": "Orkoide",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.99996364285113,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4798,6 +5670,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15287",
     "NAF Name": "Sasser",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 158.51120450999866,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4809,6 +5683,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15300",
     "NAF Name": "Rayshen",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.99399257987028,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4820,6 +5696,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15302",
     "NAF Name": "Erven",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 152.27660834307972,
     "tournaments": 3,
     "gamesWon": 5,
@@ -4831,6 +5709,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15305",
     "NAF Name": "parapapau",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 127.85092190810374,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4842,6 +5722,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15336",
     "NAF Name": "natsirtdm",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.76520227811605,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4853,6 +5735,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15338",
     "NAF Name": "zootsuitjeff",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 166.02536971284326,
     "tournaments": 4,
     "gamesWon": 8,
@@ -4864,6 +5748,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15384",
     "NAF Name": "OneChiquita",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 158.8514462660567,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4875,6 +5761,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15413",
     "NAF Name": "adjuster",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.10188589707445,
     "tournaments": 1,
     "gamesWon": 0,
@@ -4886,6 +5774,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15415",
     "NAF Name": "txapo",
+    "CCAA": "La Rioja",
+    "Country": "Spain",
     "rating": 162.22177183818994,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4897,6 +5787,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15444",
     "NAF Name": "CT_konrad",
+    "CCAA": "Asturias",
+    "Country": "Spain",
     "rating": 146.54085591463783,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4908,6 +5800,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15448",
     "NAF Name": "Greater_Fishy",
+    "CCAA": "Apatrida",
+    "Country": "South Africa",
     "rating": 142.54326495516176,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4919,6 +5813,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15455",
     "NAF Name": "luckart",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 146.93041802395425,
     "tournaments": 3,
     "gamesWon": 5,
@@ -4930,6 +5826,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15458",
     "NAF Name": "Morgan01",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 176.329950046218,
     "tournaments": 3,
     "gamesWon": 8,
@@ -4941,6 +5839,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15502",
     "NAF Name": "slauz",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.93267981698128,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4952,6 +5852,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15570",
     "NAF Name": "muttley",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.02937587199614,
     "tournaments": 1,
     "gamesWon": 2,
@@ -4963,6 +5865,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15578",
     "NAF Name": "Hely",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 152.0143913763964,
     "tournaments": 1,
     "gamesWon": 1,
@@ -4974,6 +5878,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15579",
     "NAF Name": "LordUhr",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 140.19452035799236,
     "tournaments": 3,
     "gamesWon": 4,
@@ -4985,6 +5891,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15679",
     "NAF Name": "Gentil_Novice",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.95532096227498,
     "tournaments": 1,
     "gamesWon": 3,
@@ -4996,6 +5904,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15739",
     "NAF Name": "awesome",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 133.23458930640663,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5007,6 +5917,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15758",
     "NAF Name": "rakkar",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 168.22727145681907,
     "tournaments": 1,
     "gamesWon": 4,
@@ -5018,6 +5930,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15805",
     "NAF Name": "Dents_de_sabre",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.68310541727138,
     "tournaments": 2,
     "gamesWon": 2,
@@ -5029,6 +5943,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15807",
     "NAF Name": "SuperNova",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 153.74496582435413,
     "tournaments": 3,
     "gamesWon": 5,
@@ -5040,6 +5956,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15808",
     "NAF Name": "JeanBibi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 142.83520582043252,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5051,6 +5969,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15818",
     "NAF Name": "caeser-22",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.66140531746893,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5062,6 +5982,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15843",
     "NAF Name": "Poncis13",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.00019220270656,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5073,6 +5995,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "15963",
     "NAF Name": "cereal_killer",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 153.70647376105742,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5084,6 +6008,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16057",
     "NAF Name": "Atlas04",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 152.4406124503291,
     "tournaments": 2,
     "gamesWon": 4,
@@ -5095,6 +6021,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16068",
     "NAF Name": "thatasianguy",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 166.572899846213,
     "tournaments": 1,
     "gamesWon": 4,
@@ -5106,6 +6034,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16081",
     "NAF Name": "JowPow",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 146.21024311143648,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5117,6 +6047,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16089",
     "NAF Name": "TheShepherd",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 145.1859622483027,
     "tournaments": 2,
     "gamesWon": 3,
@@ -5128,6 +6060,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16091",
     "NAF Name": "Rolex",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 176.85529119500325,
     "tournaments": 5,
     "gamesWon": 12,
@@ -5139,6 +6073,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16093",
     "NAF Name": "Morenz",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 140.69276389432233,
     "tournaments": 2,
     "gamesWon": 1,
@@ -5150,6 +6086,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16097",
     "NAF Name": "Assassin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.02971924597588,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5161,6 +6099,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16103",
     "NAF Name": "Javibal",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.6237215620304,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5172,6 +6112,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16105",
     "NAF Name": "DaCrusha",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 141.287658712403,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5183,6 +6125,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16108",
     "NAF Name": "burgun824",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.55730764693294,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5194,6 +6138,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16116",
     "NAF Name": "Scally",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.56389948712297,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5205,6 +6151,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16121",
     "NAF Name": "Zusto",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 183.9948862576392,
     "tournaments": 4,
     "gamesWon": 10,
@@ -5216,6 +6164,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16130",
     "NAF Name": "Noerciux",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 190.53177127800942,
     "tournaments": 3,
     "gamesWon": 9,
@@ -5227,6 +6177,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16131",
     "NAF Name": "Pako_SF",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 166.18568885948784,
     "tournaments": 4,
     "gamesWon": 7,
@@ -5238,6 +6190,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16176",
     "NAF Name": "Nazgob",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 160.4440157737441,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5249,6 +6203,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16184",
     "NAF Name": "wotfudboy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 156.3444688156141,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5260,6 +6216,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16185",
     "NAF Name": "AL13N",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 170.58374502480945,
     "tournaments": 5,
     "gamesWon": 13,
@@ -5271,6 +6229,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16204",
     "NAF Name": "Alchemy",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.59993025437234,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5282,6 +6242,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16205",
     "NAF Name": "Frakas",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.35018624036155,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5293,6 +6255,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16206",
     "NAF Name": "Darky",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.36545795826507,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5304,6 +6268,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16213",
     "NAF Name": "Sebotouno",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 191.197080739718,
     "tournaments": 3,
     "gamesWon": 11,
@@ -5315,6 +6281,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16238",
     "NAF Name": "melisqus",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 158.97491351697602,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5326,6 +6294,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16259",
     "NAF Name": "Bidone",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 193.3109699040119,
     "tournaments": 4,
     "gamesWon": 11,
@@ -5337,6 +6307,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16273",
     "NAF Name": "suffer",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 154.41755525595917,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5348,6 +6320,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16278",
     "NAF Name": "duckwing",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 161.4258291679825,
     "tournaments": 7,
     "gamesWon": 18,
@@ -5359,6 +6333,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16320",
     "NAF Name": "gerbido",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 153.9418482500508,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5370,6 +6346,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16323",
     "NAF Name": "Fenix",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 167.2687457073011,
     "tournaments": 3,
     "gamesWon": 5,
@@ -5381,6 +6359,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16347",
     "NAF Name": "docmaxx",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 167.24614763187452,
     "tournaments": 3,
     "gamesWon": 6,
@@ -5392,6 +6372,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16350",
     "NAF Name": "Phags",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 172.4783096836216,
     "tournaments": 2,
     "gamesWon": 7,
@@ -5403,6 +6385,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16354",
     "NAF Name": "teufane",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.21452699169717,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5414,6 +6398,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16390",
     "NAF Name": "valean",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 154.7852737844456,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5425,6 +6411,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16403",
     "NAF Name": "LC_kami",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 159.97519043633872,
     "tournaments": 2,
     "gamesWon": 4,
@@ -5436,6 +6424,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16413",
     "NAF Name": "toffer",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 146.32992315902985,
     "tournaments": 2,
     "gamesWon": 4,
@@ -5447,6 +6437,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16416",
     "NAF Name": "knowmad",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.91820237601453,
     "tournaments": 2,
     "gamesWon": 2,
@@ -5458,6 +6450,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16448",
     "NAF Name": "KhorneliusPraxx",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.20746253021974,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5469,6 +6463,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16449",
     "NAF Name": "bucky",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 145.37450522196374,
     "tournaments": 2,
     "gamesWon": 2,
@@ -5480,6 +6476,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16459",
     "NAF Name": "quentin",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 164.39762127720135,
     "tournaments": 4,
     "gamesWon": 9,
@@ -5491,6 +6489,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16473",
     "NAF Name": "Burke",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.47341337607756,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5502,6 +6502,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16475",
     "NAF Name": "Menzogna",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 199.0356045591245,
     "tournaments": 5,
     "gamesWon": 14,
@@ -5513,6 +6515,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16519",
     "NAF Name": "josdelo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.8128938873587,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5524,6 +6528,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16525",
     "NAF Name": "SunDevil",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.05683150537456,
     "tournaments": 2,
     "gamesWon": 2,
@@ -5535,6 +6541,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16529",
     "NAF Name": "gerardmonster",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 165.66844142942668,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5546,6 +6554,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16538",
     "NAF Name": "gerald",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 125.81445805314617,
     "tournaments": 2,
     "gamesWon": 0,
@@ -5557,6 +6567,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16560",
     "NAF Name": "Pollo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 158.81375578335576,
     "tournaments": 3,
     "gamesWon": 5,
@@ -5568,6 +6580,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16577",
     "NAF Name": "masteraries",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 155.50421219362053,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5579,6 +6593,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16588",
     "NAF Name": "pershum",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.04034379874517,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5590,6 +6606,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16590",
     "NAF Name": "tinuks",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.78518346606123,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5601,6 +6619,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16591",
     "NAF Name": "lordgarlack",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 161.63639338697837,
     "tournaments": 2,
     "gamesWon": 5,
@@ -5612,6 +6632,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16619",
     "NAF Name": "peterd",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 182.78870589903292,
     "tournaments": 7,
     "gamesWon": 17,
@@ -5623,6 +6645,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16629",
     "NAF Name": "Monkey_d_luffy",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.05655481696343,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5634,6 +6658,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16635",
     "NAF Name": "tomguro",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 148.33905119182774,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5645,6 +6671,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16657",
     "NAF Name": "burk",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.5956730643808,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5656,6 +6684,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16658",
     "NAF Name": "frostitute",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.56102191918296,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5667,6 +6697,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16688",
     "NAF Name": "the_pit",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.8192637251199,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5678,6 +6710,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16694",
     "NAF Name": "Sandwich",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 144.83448140625475,
     "tournaments": 1,
     "gamesWon": 2,
@@ -5689,6 +6723,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16719",
     "NAF Name": "Gilko",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 153.3886879174123,
     "tournaments": 3,
     "gamesWon": 4,
@@ -5700,6 +6736,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16723",
     "NAF Name": "principatius",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 178.7634032988088,
     "tournaments": 4,
     "gamesWon": 11,
@@ -5711,6 +6749,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16742",
     "NAF Name": "SpecialOne",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 163.95743337952302,
     "tournaments": 2,
     "gamesWon": 4,
@@ -5722,6 +6762,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16782",
     "NAF Name": "otis",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 144.9445095989286,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5733,6 +6775,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16821",
     "NAF Name": "holleb",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.98371185981497,
     "tournaments": 2,
     "gamesWon": 2,
@@ -5744,6 +6788,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16824",
     "NAF Name": "Raztout",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 177.39505717665045,
     "tournaments": 2,
     "gamesWon": 7,
@@ -5755,6 +6801,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16829",
     "NAF Name": "Zulu",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 154.18202864858483,
     "tournaments": 2,
     "gamesWon": 5,
@@ -5766,6 +6814,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16836",
     "NAF Name": "Djô",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.3078755210246,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5777,6 +6827,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16843",
     "NAF Name": "BigBullies",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 145.03210691023673,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5788,6 +6840,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16845",
     "NAF Name": "speedingbullet",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.55888943125387,
     "tournaments": 2,
     "gamesWon": 3,
@@ -5799,6 +6853,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16932",
     "NAF Name": "peo2223",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.37881151843564,
     "tournaments": 2,
     "gamesWon": 3,
@@ -5810,6 +6866,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16955",
     "NAF Name": "Christian",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 164.1093400713718,
     "tournaments": 2,
     "gamesWon": 5,
@@ -5821,6 +6879,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16963",
     "NAF Name": "caio",
+    "CCAA": "Apatrida",
+    "Country": "Uruguay",
     "rating": 152.3528757920459,
     "tournaments": 3,
     "gamesWon": 5,
@@ -5832,6 +6892,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16977",
     "NAF Name": "slysi",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.92063250573202,
     "tournaments": 1,
     "gamesWon": 0,
@@ -5843,6 +6905,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16984",
     "NAF Name": "ugnash",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 148.86739360384553,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5854,6 +6918,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "16998",
     "NAF Name": "candex",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 149.78401975182823,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5865,6 +6931,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17005",
     "NAF Name": "Fredao",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 149.87092850995504,
     "tournaments": 2,
     "gamesWon": 3,
@@ -5876,6 +6944,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17030",
     "NAF Name": "Morkman",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.58917521116265,
     "tournaments": 4,
     "gamesWon": 6,
@@ -5887,6 +6957,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17038",
     "NAF Name": "Jazmin",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 178.1637556709963,
     "tournaments": 4,
     "gamesWon": 13,
@@ -5898,6 +6970,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17043",
     "NAF Name": "Frenchbenny",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.77084104534202,
     "tournaments": 2,
     "gamesWon": 3,
@@ -5909,6 +6983,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17063",
     "NAF Name": "Josepe",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 154.02119496861636,
     "tournaments": 4,
     "gamesWon": 8,
@@ -5920,6 +6996,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17065",
     "NAF Name": "Vidal",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 106.07285305925821,
     "tournaments": 3,
     "gamesWon": 0,
@@ -5931,6 +7009,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17068",
     "NAF Name": "Malasnoticias",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 181.0672679456997,
     "tournaments": 2,
     "gamesWon": 7,
@@ -5942,6 +7022,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17073",
     "NAF Name": "Beldilucho",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 175.90019963182388,
     "tournaments": 5,
     "gamesWon": 12,
@@ -5953,6 +7035,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17074",
     "NAF Name": "Galo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 135.3015953424085,
     "tournaments": 2,
     "gamesWon": 2,
@@ -5964,6 +7048,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17153",
     "NAF Name": "Artza",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.1920696808631,
     "tournaments": 2,
     "gamesWon": 0,
@@ -5975,6 +7061,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17154",
     "NAF Name": "FelixEH",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.59884487439894,
     "tournaments": 1,
     "gamesWon": 3,
@@ -5986,6 +7074,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17178",
     "NAF Name": "anvilbrow",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.02984800286274,
     "tournaments": 1,
     "gamesWon": 1,
@@ -5997,6 +7087,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17198",
     "NAF Name": "darkdan",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.85623665264959,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6008,6 +7100,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17200",
     "NAF Name": "rabbi420",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.15646771372397,
     "tournaments": 2,
     "gamesWon": 2,
@@ -6019,6 +7113,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17221",
     "NAF Name": "huchi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.97452243331276,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6030,6 +7126,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17225",
     "NAF Name": "Célénite",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.188370892545,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6041,6 +7139,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17228",
     "NAF Name": "stareater",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 158.92096110534638,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6052,6 +7152,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17235",
     "NAF Name": "ibram",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 172.4291809179545,
     "tournaments": 3,
     "gamesWon": 7,
@@ -6063,6 +7165,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17243",
     "NAF Name": "Rubick",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 158.43238461641855,
     "tournaments": 2,
     "gamesWon": 5,
@@ -6074,6 +7178,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17245",
     "NAF Name": "Stimme",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 185.53194031878067,
     "tournaments": 3,
     "gamesWon": 10,
@@ -6085,6 +7191,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17255",
     "NAF Name": "m4ik1ng",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 161.31370849898474,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6096,6 +7204,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17275",
     "NAF Name": "waldorf",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.5826815164842,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6107,6 +7217,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17291",
     "NAF Name": "hellx",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.6728561036503,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6118,6 +7230,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17294",
     "NAF Name": "flytime",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 160.5224451706084,
     "tournaments": 3,
     "gamesWon": 5,
@@ -6129,6 +7243,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17305",
     "NAF Name": "nans",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 179.21441166755935,
     "tournaments": 5,
     "gamesWon": 13,
@@ -6140,6 +7256,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 137.84632299365217,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6151,6 +7269,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 180.08854736956664,
     "tournaments": 4,
     "gamesWon": 10,
@@ -6162,6 +7282,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17312",
     "NAF Name": "Kevindez",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 157.32954484257252,
     "tournaments": 2,
     "gamesWon": 5,
@@ -6173,6 +7295,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17316",
     "NAF Name": "Heff",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.9553993461136,
     "tournaments": 2,
     "gamesWon": 2,
@@ -6184,6 +7308,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17319",
     "NAF Name": "eldritchfox",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.304293874361,
     "tournaments": 2,
     "gamesWon": 4,
@@ -6195,6 +7321,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17327",
     "NAF Name": "Thoringar",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 161.07290925027195,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6206,6 +7334,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17340",
     "NAF Name": "Arioch",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 156.63534338092822,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6217,6 +7347,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17344",
     "NAF Name": "Thore_Bloodaxe",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 139.22212379905574,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6228,6 +7360,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17350",
     "NAF Name": "Deletio",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 159.69757564612144,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6239,6 +7373,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17366",
     "NAF Name": "zzking",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 150.67683354862692,
     "tournaments": 2,
     "gamesWon": 4,
@@ -6250,6 +7386,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17371",
     "NAF Name": "Jäärä",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 141.99841520355676,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6261,6 +7399,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17378",
     "NAF Name": "JimNastic",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.4464258842463,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6272,6 +7412,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17382",
     "NAF Name": "the_sage",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 161.75630522549977,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6283,6 +7425,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17383",
     "NAF Name": "Stevutz",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 145.6757938395079,
     "tournaments": 2,
     "gamesWon": 2,
@@ -6294,6 +7438,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17415",
     "NAF Name": "Cyrlesire",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.98802223815585,
     "tournaments": 5,
     "gamesWon": 9,
@@ -6305,6 +7451,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17437",
     "NAF Name": "sunhawk8044",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6316,6 +7464,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17457",
     "NAF Name": "Guldor",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 138.58127977692482,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6327,6 +7477,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17462",
     "NAF Name": "Papadoc",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 148.4978989163811,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6338,6 +7490,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17473",
     "NAF Name": "SteelyKnife",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 148.73033316089789,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6349,6 +7503,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17476",
     "NAF Name": "JMSJ",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 141.02768712579058,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6360,6 +7516,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17484",
     "NAF Name": "Leto",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 132.57663248201422,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6371,6 +7529,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17503",
     "NAF Name": "Kikko",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.392440283641,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6382,6 +7542,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17506",
     "NAF Name": "Baphomet_72",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 141.90271737614762,
     "tournaments": 3,
     "gamesWon": 4,
@@ -6393,6 +7555,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17509",
     "NAF Name": "kokopelli23",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 122.42185673403142,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6404,6 +7568,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17536",
     "NAF Name": "nubs11",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 164.8449946059034,
     "tournaments": 2,
     "gamesWon": 4,
@@ -6415,6 +7581,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17548",
     "NAF Name": "Hawk",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 176.2074891862281,
     "tournaments": 1,
     "gamesWon": 5,
@@ -6426,6 +7594,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17549",
     "NAF Name": "scs.sam",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 155.82341468311307,
     "tournaments": 2,
     "gamesWon": 6,
@@ -6437,6 +7607,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17563",
     "NAF Name": "smurf1917",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.05590324292618,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6448,6 +7620,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17591",
     "NAF Name": "Kindé",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.53323147079786,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6459,6 +7633,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17594",
     "NAF Name": "Beorg",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 168.47795142838348,
     "tournaments": 3,
     "gamesWon": 8,
@@ -6470,6 +7646,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17603",
     "NAF Name": "Simon_ACP",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 162.2705345198233,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6481,6 +7659,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17629",
     "NAF Name": "Old_dwarf",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 140.8248710684743,
     "tournaments": 2,
     "gamesWon": 2,
@@ -6492,6 +7672,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17654",
     "NAF Name": "Black_Panda",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.81342460942741,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6503,6 +7685,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17671",
     "NAF Name": "solmyr",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 147.46378345922128,
     "tournaments": 2,
     "gamesWon": 2,
@@ -6514,6 +7698,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17677",
     "NAF Name": "hilzari",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.41713432561306,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6525,6 +7711,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17684",
     "NAF Name": "vagabond1982uk",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.0633289633631,
     "tournaments": 2,
     "gamesWon": 3,
@@ -6536,6 +7724,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.0778510385967,
     "tournaments": 3,
     "gamesWon": 4,
@@ -6547,6 +7737,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17691",
     "NAF Name": "Toturi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 160.55957283339274,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6558,6 +7750,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17703",
     "NAF Name": "Rhum",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 160.38510102152247,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6569,6 +7763,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17711",
     "NAF Name": "davey",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 131.89271773223777,
     "tournaments": 3,
     "gamesWon": 3,
@@ -6580,6 +7776,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17719",
     "NAF Name": "pop",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.4130938349469,
     "tournaments": 2,
     "gamesWon": 2,
@@ -6591,6 +7789,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17727",
     "NAF Name": "maram",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.92733454995914,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6602,6 +7802,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17768",
     "NAF Name": "Nîme_l_Ancien",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 135.3160910859617,
     "tournaments": 2,
     "gamesWon": 2,
@@ -6613,6 +7815,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17775",
     "NAF Name": "Nithrom",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.65685424949237,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6624,6 +7828,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17780",
     "NAF Name": "TheDoc",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.09414095999568,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6635,6 +7841,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17799",
     "NAF Name": "Sensei",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.87351358038836,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6646,6 +7854,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17817",
     "NAF Name": "miserable",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 162.1419295625783,
     "tournaments": 1,
     "gamesWon": 4,
@@ -6657,6 +7867,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17831",
     "NAF Name": "cerumol",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 161.74710283957,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6668,6 +7880,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17832",
     "NAF Name": "Gninocker",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 135.783146959344,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6679,6 +7893,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17839",
     "NAF Name": "Oun",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.31105869128504,
     "tournaments": 2,
     "gamesWon": 4,
@@ -6690,6 +7906,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17843",
     "NAF Name": "ayvess",
+    "CCAA": "Apatrida",
+    "Country": "FRANCE",
     "rating": 123.22960998460995,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6701,6 +7919,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17846",
     "NAF Name": "AntonLunau",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 184.35859561943138,
     "tournaments": 2,
     "gamesWon": 7,
@@ -6712,6 +7932,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17848",
     "NAF Name": "dr._rudolf_von_richten",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 159.89413323029726,
     "tournaments": 2,
     "gamesWon": 5,
@@ -6723,6 +7945,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17854",
     "NAF Name": "supergrass",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.24666584947332,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6734,6 +7958,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17892",
     "NAF Name": "98mxz4440",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 133.01044059724464,
     "tournaments": 2,
     "gamesWon": 1,
@@ -6745,6 +7971,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17924",
     "NAF Name": "fluffythealien",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 150.81256161947215,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6756,6 +7984,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17948",
     "NAF Name": "king_ghidra",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 170.203712167541,
     "tournaments": 2,
     "gamesWon": 5,
@@ -6767,6 +7997,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17991",
     "NAF Name": "tazaryoot",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.991276579113,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6778,6 +8010,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "17992",
     "NAF Name": "bistouf",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.05302970281053,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6789,6 +8023,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18004",
     "NAF Name": "DaBlackSkull",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 167.93591490762836,
     "tournaments": 4,
     "gamesWon": 9,
@@ -6800,6 +8036,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18059",
     "NAF Name": "Manuel",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 159.9668618151595,
     "tournaments": 1,
     "gamesWon": 3,
@@ -6811,6 +8049,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18061",
     "NAF Name": "Elestel",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 134.6769703352678,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6822,6 +8062,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18066",
     "NAF Name": "Jaap",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 163.81803013177026,
     "tournaments": 4,
     "gamesWon": 9,
@@ -6833,6 +8075,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18072",
     "NAF Name": "noble",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 172.26350203337026,
     "tournaments": 3,
     "gamesWon": 8,
@@ -6844,6 +8088,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18117",
     "NAF Name": "chicagork",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 122.00653297510709,
     "tournaments": 2,
     "gamesWon": 1,
@@ -6855,6 +8101,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18132",
     "NAF Name": "Sran_isback",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 141.09822959491186,
     "tournaments": 3,
     "gamesWon": 3,
@@ -6866,6 +8114,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18140",
     "NAF Name": "Hereticus",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 149.99909928595417,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6877,6 +8127,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18141",
     "NAF Name": "Gingerninja",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 139.66380954624412,
     "tournaments": 2,
     "gamesWon": 3,
@@ -6888,6 +8140,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18145",
     "NAF Name": "billydee",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.67809012841926,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6899,6 +8153,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18161",
     "NAF Name": "grendelknight",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.41023034500168,
     "tournaments": 1,
     "gamesWon": 1,
@@ -6910,6 +8166,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18181",
     "NAF Name": "itchen",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 159.14272964951036,
     "tournaments": 2,
     "gamesWon": 3,
@@ -6921,6 +8179,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18208",
     "NAF Name": "tulkas",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.56279196224037,
     "tournaments": 3,
     "gamesWon": 5,
@@ -6932,6 +8192,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18217",
     "NAF Name": "profgoldfinch",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.301627660967,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6943,6 +8205,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18245",
     "NAF Name": "BeerBeer",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 139.82554810990953,
     "tournaments": 2,
     "gamesWon": 1,
@@ -6954,6 +8218,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18261",
     "NAF Name": "Mr_Frodo",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 140.7700698192381,
     "tournaments": 2,
     "gamesWon": 3,
@@ -6965,6 +8231,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18281",
     "NAF Name": "Jam201",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 136.2522499330212,
     "tournaments": 1,
     "gamesWon": 0,
@@ -6976,6 +8244,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18283",
     "NAF Name": "Pathfinder_James",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 169.14279142496136,
     "tournaments": 2,
     "gamesWon": 5,
@@ -6987,6 +8257,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18293",
     "NAF Name": "toriel",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.4270546236451,
     "tournaments": 1,
     "gamesWon": 2,
@@ -6998,6 +8270,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18296",
     "NAF Name": "Bronkachuzo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.45092330055235,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7009,6 +8283,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18318",
     "NAF Name": "lord_vortigern",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 153.90133858620396,
     "tournaments": 2,
     "gamesWon": 4,
@@ -7020,6 +8296,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18344",
     "NAF Name": "RedDawn_Junior",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.75245223922488,
     "tournaments": 3,
     "gamesWon": 5,
@@ -7031,6 +8309,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18351",
     "NAF Name": "el-reche",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 143.87902036769572,
     "tournaments": 2,
     "gamesWon": 3,
@@ -7042,6 +8322,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18367",
     "NAF Name": "Captain_Prosecco",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 159.40140027524478,
     "tournaments": 2,
     "gamesWon": 4,
@@ -7053,6 +8335,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18378",
     "NAF Name": "arioso",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 180.49521881116982,
     "tournaments": 4,
     "gamesWon": 12,
@@ -7064,6 +8348,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18390",
     "NAF Name": "HighElfMage",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 171.7117506293743,
     "tournaments": 1,
     "gamesWon": 4,
@@ -7075,6 +8361,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18398",
     "NAF Name": "Bora",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 161.5059204782585,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7086,6 +8374,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18399",
     "NAF Name": "MOLOK",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 157.69241036801512,
     "tournaments": 2,
     "gamesWon": 5,
@@ -7097,6 +8387,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18431",
     "NAF Name": "verbal_hm",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 151.01128642810045,
     "tournaments": 2,
     "gamesWon": 5,
@@ -7108,6 +8400,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18435",
     "NAF Name": "corav",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.5844830235852,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7119,6 +8413,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18473",
     "NAF Name": "NIWnW",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 153.8291302167802,
     "tournaments": 3,
     "gamesWon": 7,
@@ -7130,6 +8426,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18497",
     "NAF Name": "Lutece_Jay",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.04853381079303,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7141,6 +8439,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18503",
     "NAF Name": "douglowe",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.77078172995107,
     "tournaments": 2,
     "gamesWon": 6,
@@ -7152,6 +8452,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18508",
     "NAF Name": "Da_Git",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 138.71307167896995,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7163,6 +8465,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18512",
     "NAF Name": "Vash666",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7174,6 +8478,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18514",
     "NAF Name": "minenbonnie",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 147.29973177034012,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7185,6 +8491,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18516",
     "NAF Name": "Kuei-Jin",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 197.6934873573355,
     "tournaments": 4,
     "gamesWon": 13,
@@ -7196,6 +8504,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18520",
     "NAF Name": "duder",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.03426234618163,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7207,6 +8517,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18529",
     "NAF Name": "Cathol",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 163.29766995170505,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7218,6 +8530,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18530",
     "NAF Name": "Acklar",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.51055222515905,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7229,6 +8543,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18531",
     "NAF Name": "Lon_Chaney_3rd",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.57123640433915,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7240,6 +8556,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18543",
     "NAF Name": "zammerath",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.66994481842423,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7251,6 +8569,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18550",
     "NAF Name": "russcastronovo",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 164.36028031088856,
     "tournaments": 2,
     "gamesWon": 5,
@@ -7262,6 +8582,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18560",
     "NAF Name": "Jerem",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 141.63073173327533,
     "tournaments": 5,
     "gamesWon": 7,
@@ -7273,6 +8595,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18561",
     "NAF Name": "Zig",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 134.20141865663817,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7284,6 +8608,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18578",
     "NAF Name": "OscarSchoen",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 160.64858363365485,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7295,6 +8621,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18579",
     "NAF Name": "Bakunin",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 146.0202915815093,
     "tournaments": 2,
     "gamesWon": 3,
@@ -7306,6 +8634,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18584",
     "NAF Name": "OneMillionMonkeys",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 141.37868599077447,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7317,6 +8647,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18595",
     "NAF Name": "zombatar",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 152.02561333494407,
     "tournaments": 2,
     "gamesWon": 3,
@@ -7328,6 +8660,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18606",
     "NAF Name": "Jcjuanky23",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 166.69547397210275,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7339,6 +8673,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18610",
     "NAF Name": "Garaz",
+    "CCAA": "C. La Mancha",
+    "Country": "Spain",
     "rating": 164.31830558807377,
     "tournaments": 4,
     "gamesWon": 7,
@@ -7350,6 +8686,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18615",
     "NAF Name": "Nes_one",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.2464174142288,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7361,6 +8699,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18626",
     "NAF Name": "Watto",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 170.24702429404704,
     "tournaments": 5,
     "gamesWon": 11,
@@ -7372,6 +8712,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18639",
     "NAF Name": "mr.selecta",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 134.26852594586182,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7383,6 +8725,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18660",
     "NAF Name": "Tyra",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 178.11038100495227,
     "tournaments": 2,
     "gamesWon": 7,
@@ -7394,6 +8738,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18675",
     "NAF Name": "Getyaya",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 174.54594167863672,
     "tournaments": 4,
     "gamesWon": 12,
@@ -7405,6 +8751,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18676",
     "NAF Name": "Belfort-Tempest",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.14251645299385,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7416,6 +8764,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18685",
     "NAF Name": "month",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 135.9601505036063,
     "tournaments": 4,
     "gamesWon": 4,
@@ -7427,6 +8777,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18704",
     "NAF Name": "rotersternhochdahl",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 155.04125607272306,
     "tournaments": 2,
     "gamesWon": 5,
@@ -7438,6 +8790,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18725",
     "NAF Name": "Kramerica",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.69624021229694,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7449,6 +8803,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.0307731451239,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7460,6 +8816,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18757",
     "NAF Name": "Peter_Moller",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.06224008793293,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7471,6 +8829,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18770",
     "NAF Name": "mohgreen",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.48467475691902,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7482,6 +8842,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18772",
     "NAF Name": "valkohukka",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 139.96226033321807,
     "tournaments": 2,
     "gamesWon": 1,
@@ -7493,6 +8855,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18783",
     "NAF Name": "Doombeard_Dave",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 120.33796469854391,
     "tournaments": 3,
     "gamesWon": 1,
@@ -7504,6 +8868,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18795",
     "NAF Name": "scuttlebut",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.02337091368733,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7515,6 +8881,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18811",
     "NAF Name": "AngryHobbit",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 132.60144976006887,
     "tournaments": 3,
     "gamesWon": 1,
@@ -7526,6 +8894,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18818",
     "NAF Name": "Merrick",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 148.36114002539347,
     "tournaments": 2,
     "gamesWon": 3,
@@ -7537,6 +8907,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18826",
     "NAF Name": "Rockstar",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 140.88290125179958,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7548,6 +8920,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18834",
     "NAF Name": "moosuey",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 158.40727815064653,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7559,6 +8933,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18859",
     "NAF Name": "Jimmieblla",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 147.16691522956305,
     "tournaments": 2,
     "gamesWon": 3,
@@ -7570,6 +8946,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18872",
     "NAF Name": "stelacero",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 137.84890483948018,
     "tournaments": 4,
     "gamesWon": 5,
@@ -7581,6 +8959,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18893",
     "NAF Name": "Coach_K.",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 152.40341913719857,
     "tournaments": 3,
     "gamesWon": 6,
@@ -7592,6 +8972,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18901",
     "NAF Name": "Olivierdulac",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 191.592908833581,
     "tournaments": 3,
     "gamesWon": 9,
@@ -7603,6 +8985,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18902",
     "NAF Name": "Oni",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 136.85661842595624,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7614,6 +8998,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18903",
     "NAF Name": "Foxxx",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 179.12623754738502,
     "tournaments": 4,
     "gamesWon": 12,
@@ -7625,6 +9011,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18914",
     "NAF Name": "Infinito",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 166.9917145535074,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7636,6 +9024,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18915",
     "NAF Name": "Tupiboy",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.18416341323334,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7647,6 +9037,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18947",
     "NAF Name": "kb10r",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 167.18656999278562,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7658,6 +9050,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18958",
     "NAF Name": "coachbb",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.40266623337763,
     "tournaments": 1,
     "gamesWon": 0,
@@ -7669,6 +9063,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18962",
     "NAF Name": "CelticViking",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.2486842728485,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7680,6 +9076,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18970",
     "NAF Name": "Clement0",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.4448994850014,
     "tournaments": 6,
     "gamesWon": 10,
@@ -7691,6 +9089,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18996",
     "NAF Name": "Dixoncider",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 160.2155108033211,
     "tournaments": 2,
     "gamesWon": 7,
@@ -7702,6 +9102,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "18998",
     "NAF Name": "Innerdemon",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 178.36371302901165,
     "tournaments": 6,
     "gamesWon": 16,
@@ -7713,6 +9115,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19004",
     "NAF Name": "Thursablot",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 161.43666368595115,
     "tournaments": 3,
     "gamesWon": 10,
@@ -7724,6 +9128,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19016",
     "NAF Name": "Coolice",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 175.10919079810714,
     "tournaments": 2,
     "gamesWon": 7,
@@ -7735,6 +9141,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19023",
     "NAF Name": "MirFar83",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.36233746365573,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7746,6 +9154,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19045",
     "NAF Name": "Jose_Q",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 168.594106319368,
     "tournaments": 2,
     "gamesWon": 5,
@@ -7757,6 +9167,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19056",
     "NAF Name": "MattEdge666",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.7027401844473,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7768,6 +9180,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19064",
     "NAF Name": "Baki",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 174.91335949007788,
     "tournaments": 2,
     "gamesWon": 8,
@@ -7779,6 +9193,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19068",
     "NAF Name": "Cunning",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.5996937419853,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7790,6 +9206,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19071",
     "NAF Name": "Bourpif",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 186.13828913069366,
     "tournaments": 4,
     "gamesWon": 12,
@@ -7801,6 +9219,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19078",
     "NAF Name": "Plasmoid",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 155.29150262212917,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7812,6 +9232,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19081",
     "NAF Name": "belentor",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 164.36216811472957,
     "tournaments": 1,
     "gamesWon": 4,
@@ -7823,6 +9245,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19082",
     "NAF Name": "Orkimedes",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.994090797932,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7834,6 +9258,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19092",
     "NAF Name": "Gobdomino",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.1835172464078,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7845,6 +9271,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19103",
     "NAF Name": "bigashw",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.96004384258953,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7856,6 +9284,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19113",
     "NAF Name": "Txanke",
+    "CCAA": "C. La Mancha",
+    "Country": "Spain",
     "rating": 144.5294820435886,
     "tournaments": 1,
     "gamesWon": 1,
@@ -7867,6 +9297,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19114",
     "NAF Name": "Mordekay",
+    "CCAA": "C. La Mancha",
+    "Country": "Spain",
     "rating": 156.66126165558512,
     "tournaments": 4,
     "gamesWon": 7,
@@ -7878,6 +9310,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19124",
     "NAF Name": "Snatch",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.08434897682648,
     "tournaments": 2,
     "gamesWon": 3,
@@ -7889,6 +9323,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19131",
     "NAF Name": "Gamin",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.64158936076123,
     "tournaments": 1,
     "gamesWon": 2,
@@ -7900,6 +9336,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19132",
     "NAF Name": "Polly",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 136.09194054710818,
     "tournaments": 5,
     "gamesWon": 7,
@@ -7911,6 +9349,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19133",
     "NAF Name": "xarro",
+    "CCAA": "C. La Mancha",
+    "Country": "Spain",
     "rating": 184.332297169738,
     "tournaments": 5,
     "gamesWon": 10,
@@ -7922,6 +9362,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19138",
     "NAF Name": "Underworld",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 157.6234204620037,
     "tournaments": 4,
     "gamesWon": 5,
@@ -7933,6 +9375,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19139",
     "NAF Name": "shushnik",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 160.9460260610579,
     "tournaments": 1,
     "gamesWon": 3,
@@ -7944,6 +9388,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19142",
     "NAF Name": "kaoragh",
+    "CCAA": "Apatrida",
+    "Country": "Mongolia",
     "rating": 161.640133848885,
     "tournaments": 2,
     "gamesWon": 5,
@@ -7955,6 +9401,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19152",
     "NAF Name": "Bastich",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 161.98691020033786,
     "tournaments": 3,
     "gamesWon": 6,
@@ -7966,6 +9414,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19156",
     "NAF Name": "Dlo132",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 133.73804288111012,
     "tournaments": 2,
     "gamesWon": 2,
@@ -7977,6 +9427,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19160",
     "NAF Name": "Lichemaster",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 169.53397945191568,
     "tournaments": 5,
     "gamesWon": 9,
@@ -7988,6 +9440,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19185",
     "NAF Name": "Boggolegobbo",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 148.31283681987784,
     "tournaments": 2,
     "gamesWon": 3,
@@ -7999,6 +9453,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19196",
     "NAF Name": "Brownstone",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.13904241942933,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8010,6 +9466,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19207",
     "NAF Name": "Acryosis",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 182.6939425865467,
     "tournaments": 3,
     "gamesWon": 9,
@@ -8021,6 +9479,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19213",
     "NAF Name": "ghostgorn",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.91111340837313,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8032,6 +9492,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19218",
     "NAF Name": "mcbagpipes",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 153.1622776601684,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8043,6 +9505,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19236",
     "NAF Name": "Barbossa",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 204.31162640255076,
     "tournaments": 4,
     "gamesWon": 15,
@@ -8054,6 +9518,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19239",
     "NAF Name": "El_Tuko",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 155.67607352748334,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8065,6 +9531,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19252",
     "NAF Name": "spoiledsquid",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 131.11563192961526,
     "tournaments": 5,
     "gamesWon": 8,
@@ -8076,6 +9544,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19260",
     "NAF Name": "Guigui",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 135.88029534369585,
     "tournaments": 2,
     "gamesWon": 2,
@@ -8087,6 +9557,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19271",
     "NAF Name": "pellevin",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 179.32492719369444,
     "tournaments": 4,
     "gamesWon": 11,
@@ -8098,6 +9570,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19279",
     "NAF Name": "drannakh",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 149.99907826197386,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8109,6 +9583,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19280",
     "NAF Name": "riky_deka",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 149.4741588952119,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8120,6 +9596,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19300",
     "NAF Name": "winny",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.53504158704868,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8131,6 +9609,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19311",
     "NAF Name": "floyd",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 142.1376815784576,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8142,6 +9622,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19316",
     "NAF Name": "reroll",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
     "rating": 146.04658141570067,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8153,6 +9635,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19324",
     "NAF Name": "maydaymick",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 160.78932027645524,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8164,6 +9648,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19328",
     "NAF Name": "Marty33",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 155.40197508362826,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8175,6 +9661,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19329",
     "NAF Name": "orrin83",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 136.7322937227371,
     "tournaments": 5,
     "gamesWon": 8,
@@ -8186,6 +9674,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19341",
     "NAF Name": "gailn_kharghelen",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 152.65013633739005,
     "tournaments": 2,
     "gamesWon": 4,
@@ -8197,6 +9687,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19345",
     "NAF Name": "Plt44",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 134.4668669749106,
     "tournaments": 2,
     "gamesWon": 3,
@@ -8208,6 +9700,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19377",
     "NAF Name": "englishdemon",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.61002885472408,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8219,6 +9713,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19381",
     "NAF Name": "Grax",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 154.07377891794798,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8230,6 +9726,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19384",
     "NAF Name": "vampireduke",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 137.06122953034597,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8241,6 +9739,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19388",
     "NAF Name": "packarn",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 146.9754682101092,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8252,6 +9752,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19393",
     "NAF Name": "Kilgannon",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.943396289342,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8263,6 +9765,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19395",
     "NAF Name": "20phoenix",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 159.41492841347664,
     "tournaments": 2,
     "gamesWon": 3,
@@ -8274,6 +9778,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19409",
     "NAF Name": "Redlantern",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.63375873522,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8285,6 +9791,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19424",
     "NAF Name": "feerikon",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.80829739078013,
     "tournaments": 3,
     "gamesWon": 3,
@@ -8296,6 +9804,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19446",
     "NAF Name": "Gus_",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 140.3483657958297,
     "tournaments": 2,
     "gamesWon": 2,
@@ -8307,6 +9817,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19450",
     "NAF Name": "Bromain",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.48502391476433,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8318,6 +9830,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19452",
     "NAF Name": "Samdulac",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 197.5996772024905,
     "tournaments": 4,
     "gamesWon": 14,
@@ -8329,6 +9843,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19454",
     "NAF Name": "Galrauch",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.3589067479684,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8340,6 +9856,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19457",
     "NAF Name": "Sirjam",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 124.6835882098092,
     "tournaments": 2,
     "gamesWon": 1,
@@ -8351,6 +9869,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19479",
     "NAF Name": "Caid",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 159.8568338211212,
     "tournaments": 3,
     "gamesWon": 5,
@@ -8362,6 +9882,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19480",
     "NAF Name": "dionysian",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 157.19394201921767,
     "tournaments": 2,
     "gamesWon": 4,
@@ -8373,6 +9895,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19483",
     "NAF Name": "inforthepain",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 188.7965095775472,
     "tournaments": 7,
     "gamesWon": 17,
@@ -8384,6 +9908,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19490",
     "NAF Name": "theoperat0r",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 172.8871375682241,
     "tournaments": 1,
     "gamesWon": 4,
@@ -8395,6 +9921,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19492",
     "NAF Name": "juanolo",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 158.1778733813417,
     "tournaments": 2,
     "gamesWon": 5,
@@ -8406,6 +9934,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19504",
     "NAF Name": "Neuendorf",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 166.56598963362643,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8417,6 +9947,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19516",
     "NAF Name": "jeades",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.39395076925615,
     "tournaments": 2,
     "gamesWon": 4,
@@ -8428,6 +9960,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19517",
     "NAF Name": "NobbyNobbs",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 176.5971088029705,
     "tournaments": 2,
     "gamesWon": 5,
@@ -8439,6 +9973,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19526",
     "NAF Name": "Thot",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 192.12811788229988,
     "tournaments": 4,
     "gamesWon": 14,
@@ -8450,6 +9986,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19529",
     "NAF Name": "kaju",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 196.8744234132286,
     "tournaments": 6,
     "gamesWon": 17,
@@ -8461,6 +9999,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19538",
     "NAF Name": "cyberedelf",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 185.9549876153478,
     "tournaments": 4,
     "gamesWon": 10,
@@ -8472,6 +10012,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19544",
     "NAF Name": "paralla67",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.63337139491733,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8483,6 +10025,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19547",
     "NAF Name": "Cloud",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 162.2596096355164,
     "tournaments": 4,
     "gamesWon": 7,
@@ -8494,6 +10038,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19551",
     "NAF Name": "Oni_Goku",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 171.0329537722048,
     "tournaments": 4,
     "gamesWon": 9,
@@ -8505,6 +10051,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19585",
     "NAF Name": "Albe",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 155.72514715934648,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8516,6 +10064,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19602",
     "NAF Name": "rolo",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 168.73671526144867,
     "tournaments": 4,
     "gamesWon": 10,
@@ -8527,6 +10077,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19627",
     "NAF Name": "Torello",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 157.28803213808317,
     "tournaments": 3,
     "gamesWon": 5,
@@ -8538,6 +10090,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19638",
     "NAF Name": "Slannmann",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.8919446495032,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8549,6 +10103,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19643",
     "NAF Name": "Darayawus",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.90601006210966,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8560,6 +10116,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 168.02722668477594,
     "tournaments": 6,
     "gamesWon": 12,
@@ -8571,6 +10129,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19685",
     "NAF Name": "stuartddj",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.19478487444817,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8582,6 +10142,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19687",
     "NAF Name": "Touchdown",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.33838861225544,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8593,6 +10155,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19689",
     "NAF Name": "Apollo78",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 134.251938547446,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8604,6 +10168,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19690",
     "NAF Name": "JanMattys",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.8809466550002,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8615,6 +10181,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19693",
     "NAF Name": "SkippyD",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.9853469321785,
     "tournaments": 2,
     "gamesWon": 3,
@@ -8626,6 +10194,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19719",
     "NAF Name": "jj2",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.23738713990247,
     "tournaments": 5,
     "gamesWon": 12,
@@ -8637,6 +10207,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19726",
     "NAF Name": "AndyDavo",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 164.87367775537933,
     "tournaments": 3,
     "gamesWon": 7,
@@ -8648,6 +10220,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19727",
     "NAF Name": "Tank15",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.16835194344802,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8659,6 +10233,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19739",
     "NAF Name": "Yaouch",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 167.3877593718142,
     "tournaments": 1,
     "gamesWon": 4,
@@ -8670,6 +10246,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19748",
     "NAF Name": "Giope",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 153.95441014683735,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8681,6 +10259,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19749",
     "NAF Name": "sir_twist_089",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 157.26333580393413,
     "tournaments": 7,
     "gamesWon": 14,
@@ -8692,6 +10272,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19750",
     "NAF Name": "Jaqra",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 174.41015987421966,
     "tournaments": 8,
     "gamesWon": 14,
@@ -8703,6 +10285,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19789",
     "NAF Name": "ozeeb",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.85870435882404,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8714,6 +10298,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19801",
     "NAF Name": "scotthabanero",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.31370849898474,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8725,6 +10311,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19811",
     "NAF Name": "Buzzard",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.70366195851378,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8736,6 +10324,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19814",
     "NAF Name": "teza25",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 133.97976819943244,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8747,6 +10337,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19816",
     "NAF Name": "Lockmund",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 157.81575677461558,
     "tournaments": 1,
     "gamesWon": 3,
@@ -8758,6 +10350,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19828",
     "NAF Name": "Kiave",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 176.9215293050069,
     "tournaments": 5,
     "gamesWon": 11,
@@ -8769,6 +10363,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19840",
     "NAF Name": "charzheidi",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.86465708360757,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8780,6 +10376,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19848",
     "NAF Name": "georgiechristo",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8791,6 +10389,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19850",
     "NAF Name": "Shteve0",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 176.3234505041509,
     "tournaments": 4,
     "gamesWon": 11,
@@ -8802,6 +10402,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19855",
     "NAF Name": "drandon",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 171.34416082888853,
     "tournaments": 1,
     "gamesWon": 4,
@@ -8813,6 +10415,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19860",
     "NAF Name": "Opulis",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 149.99657098410486,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8824,6 +10428,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19865",
     "NAF Name": "Pdarby",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 140.2262395129514,
     "tournaments": 3,
     "gamesWon": 4,
@@ -8835,6 +10441,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19874",
     "NAF Name": "Dhampy",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.8171030593975,
     "tournaments": 1,
     "gamesWon": 0,
@@ -8846,6 +10454,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19878",
     "NAF Name": "Keogh",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.92871413128142,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8857,6 +10467,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19888",
     "NAF Name": "dylanthesquig",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.42318190163627,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8868,6 +10480,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19902",
     "NAF Name": "Nightwing",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 145.11979355195388,
     "tournaments": 2,
     "gamesWon": 3,
@@ -8879,6 +10493,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19905",
     "NAF Name": "airam",
+    "CCAA": "I. Canarias",
+    "Country": "Spain",
     "rating": 144.58678315087752,
     "tournaments": 1,
     "gamesWon": 2,
@@ -8890,6 +10506,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19914",
     "NAF Name": "Le_totor",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.6960596165396,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8901,6 +10519,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19921",
     "NAF Name": "Chilli",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 174.72582091651782,
     "tournaments": 3,
     "gamesWon": 10,
@@ -8912,6 +10532,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19932",
     "NAF Name": "macwitt",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 155.14598029210964,
     "tournaments": 2,
     "gamesWon": 3,
@@ -8923,6 +10545,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19958",
     "NAF Name": "poulpi",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.40205770950774,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8934,6 +10558,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "19964",
     "NAF Name": "gunboat",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 140.74832256651788,
     "tournaments": 2,
     "gamesWon": 3,
@@ -8945,6 +10571,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20002",
     "NAF Name": "moyate",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 170.24411845271877,
     "tournaments": 3,
     "gamesWon": 7,
@@ -8956,6 +10584,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20015",
     "NAF Name": "PlantingLemur",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 156.67194092768577,
     "tournaments": 4,
     "gamesWon": 6,
@@ -8967,6 +10597,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20025",
     "NAF Name": "kapi",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 155.4722516844226,
     "tournaments": 2,
     "gamesWon": 5,
@@ -8978,6 +10610,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20030",
     "NAF Name": "mr-t027",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 133.34264491912583,
     "tournaments": 1,
     "gamesWon": 1,
@@ -8989,6 +10623,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20061",
     "NAF Name": "Wolio",
+    "CCAA": "Apatrida",
+    "Country": "Hungary",
     "rating": 154.86461938926297,
     "tournaments": 1,
     "gamesWon": 3,
@@ -9000,6 +10636,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20087",
     "NAF Name": "leevizer",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 152.71911832853,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9011,6 +10649,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20088",
     "NAF Name": "Test42",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.0501420631493,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9022,6 +10662,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20090",
     "NAF Name": "pedda",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 162.18288302446092,
     "tournaments": 5,
     "gamesWon": 10,
@@ -9033,6 +10675,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.00081253227341,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9044,6 +10688,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20113",
     "NAF Name": "suncar",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 140.76293264461253,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9055,6 +10701,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20126",
     "NAF Name": "Monty_ratarsed",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 152.57558432910852,
     "tournaments": 2,
     "gamesWon": 3,
@@ -9066,6 +10714,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20141",
     "NAF Name": "Dadayou",
+    "CCAA": "Apatrida",
+    "Country": "Morocco",
     "rating": 153.75894163111784,
     "tournaments": 8,
     "gamesWon": 13,
@@ -9077,6 +10727,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20148",
     "NAF Name": "Jeffro",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 160.50386305881986,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9088,6 +10740,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20151",
     "NAF Name": "maxwellhauser",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 145.52396359754124,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9099,6 +10753,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20174",
     "NAF Name": "dodger",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.32146625148684,
     "tournaments": 1,
     "gamesWon": 3,
@@ -9110,6 +10766,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20177",
     "NAF Name": "wobert",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.89923103735006,
     "tournaments": 3,
     "gamesWon": 4,
@@ -9121,6 +10779,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20208",
     "NAF Name": "Miketheauthor",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 135.11817748879926,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9132,6 +10792,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 146.28132504570266,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9143,6 +10805,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20226",
     "NAF Name": "ferra",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 149.19028555230724,
     "tournaments": 3,
     "gamesWon": 5,
@@ -9154,6 +10818,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20229",
     "NAF Name": "Stoevers",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 149.74967766793642,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9165,6 +10831,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20231",
     "NAF Name": "mützchen",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 172.6119833938283,
     "tournaments": 1,
     "gamesWon": 4,
@@ -9176,6 +10844,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20233",
     "NAF Name": "Emilskaya",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 140.8272361683244,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9187,6 +10857,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20234",
     "NAF Name": "Snow",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 145.2603647168895,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9198,6 +10870,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20242",
     "NAF Name": "bonto",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 142.87866092799825,
     "tournaments": 3,
     "gamesWon": 4,
@@ -9209,6 +10883,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20248",
     "NAF Name": "gian",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 156.61626825886518,
     "tournaments": 6,
     "gamesWon": 12,
@@ -9220,6 +10896,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20251",
     "NAF Name": "Jonno",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 146.07374757245933,
     "tournaments": 4,
     "gamesWon": 5,
@@ -9231,6 +10909,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20259",
     "NAF Name": "bastion01",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.008723420887,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9242,6 +10922,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20267",
     "NAF Name": "MightyZuk",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 162,
     "tournaments": 1,
     "gamesWon": 3,
@@ -9253,6 +10935,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20280",
     "NAF Name": "domingo",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 161.0131291096221,
     "tournaments": 1,
     "gamesWon": 3,
@@ -9264,6 +10948,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20281",
     "NAF Name": "runestone",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 137.87875511540568,
     "tournaments": 2,
     "gamesWon": 2,
@@ -9275,6 +10961,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20290",
     "NAF Name": "Macbeth9",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 163.74603094108735,
     "tournaments": 6,
     "gamesWon": 11,
@@ -9286,6 +10974,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20318",
     "NAF Name": "ogme",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.7305701095617,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9297,6 +10987,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20320",
     "NAF Name": "Budmilka",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.93581308584794,
     "tournaments": 5,
     "gamesWon": 8,
@@ -9308,6 +11000,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20321",
     "NAF Name": "Ramba",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.95007883953116,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9319,6 +11013,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20323",
     "NAF Name": "Al_batard",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 120.18394270704363,
     "tournaments": 3,
     "gamesWon": 2,
@@ -9330,6 +11026,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20333",
     "NAF Name": "Bonz",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 138.81438698926925,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9341,6 +11039,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20342",
     "NAF Name": "Ramchop",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 170.03538400332195,
     "tournaments": 4,
     "gamesWon": 9,
@@ -9352,6 +11052,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20348",
     "NAF Name": "CJBlackburn",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.4255815645628,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9363,6 +11065,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20351",
     "NAF Name": "Nightwolf",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 133.94880641262063,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9374,6 +11078,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20360",
     "NAF Name": "HumptyTrump",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 145.33745947503326,
     "tournaments": 2,
     "gamesWon": 2,
@@ -9385,6 +11091,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20361",
     "NAF Name": "juanmarin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 129.25494686025533,
     "tournaments": 2,
     "gamesWon": 2,
@@ -9396,6 +11104,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20366",
     "NAF Name": "Troloe",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 160.6833854652639,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9407,6 +11117,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20367",
     "NAF Name": "barbancho",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.56162972005131,
     "tournaments": 2,
     "gamesWon": 5,
@@ -9418,6 +11130,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20369",
     "NAF Name": "tombecker",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.5734695916297,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9429,6 +11143,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20371",
     "NAF Name": "LonGusBarbe",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 127.40105051961723,
     "tournaments": 1,
     "gamesWon": 0,
@@ -9440,6 +11156,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20377",
     "NAF Name": "hammer16",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 157.59026962126003,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9451,6 +11169,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20383",
     "NAF Name": "wifflebat",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.21478985784785,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9462,6 +11182,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20391",
     "NAF Name": "Korinth74",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.08103944119068,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9473,6 +11195,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20393",
     "NAF Name": "deathblader42",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.9297911528826,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9484,6 +11208,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20394",
     "NAF Name": "kirchja14",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.99184473600997,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9495,6 +11221,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20411",
     "NAF Name": "sainthropee",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 134.02219339095134,
     "tournaments": 1,
     "gamesWon": 0,
@@ -9506,6 +11234,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20419",
     "NAF Name": "Hopswitz",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 166.65889467973687,
     "tournaments": 1,
     "gamesWon": 4,
@@ -9517,6 +11247,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20421",
     "NAF Name": "Môrice_le_Gris",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.12071484222685,
     "tournaments": 5,
     "gamesWon": 6,
@@ -9528,6 +11260,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20425",
     "NAF Name": "DonJoker",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 155.834467690961,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9539,6 +11273,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20439",
     "NAF Name": "Joke",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 155.65770184863612,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9550,6 +11286,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20445",
     "NAF Name": "lembocha",
+    "CCAA": "Apatrida",
+    "Country": "Uruguay",
     "rating": 157.34836320836916,
     "tournaments": 1,
     "gamesWon": 3,
@@ -9561,6 +11299,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20447",
     "NAF Name": "Moro84",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 191.53090182425024,
     "tournaments": 4,
     "gamesWon": 11,
@@ -9572,6 +11312,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20464",
     "NAF Name": "dolor",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 158.79080701948476,
     "tournaments": 3,
     "gamesWon": 4,
@@ -9583,6 +11325,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20465",
     "NAF Name": "wato",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 166.08748103012002,
     "tournaments": 3,
     "gamesWon": 5,
@@ -9594,6 +11338,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20466",
     "NAF Name": "frikrik",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 141.32581735155188,
     "tournaments": 1,
     "gamesWon": 0,
@@ -9605,6 +11351,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20468",
     "NAF Name": "JesuR",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 170.4943304069952,
     "tournaments": 2,
     "gamesWon": 4,
@@ -9616,6 +11364,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20481",
     "NAF Name": "Skuld",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 201.25713697549745,
     "tournaments": 9,
     "gamesWon": 29,
@@ -9627,6 +11377,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20492",
     "NAF Name": "MichaelR",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 132.9032950482775,
     "tournaments": 1,
     "gamesWon": 0,
@@ -9638,6 +11390,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20510",
     "NAF Name": "Ruli",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.3840748418756,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9649,6 +11403,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.5663461348889,
     "tournaments": 4,
     "gamesWon": 5,
@@ -9660,6 +11416,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20513",
     "NAF Name": "Pacho",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 157.3261067491842,
     "tournaments": 4,
     "gamesWon": 8,
@@ -9671,6 +11429,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20519",
     "NAF Name": "glorfindel",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.9061133487714,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9682,6 +11442,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20526",
     "NAF Name": "lowinar",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.01087702320874,
     "tournaments": 2,
     "gamesWon": 2,
@@ -9693,6 +11455,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20535",
     "NAF Name": "guy_in_suit",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.1227659692996,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9704,6 +11468,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20537",
     "NAF Name": "kakopolis",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.65820329135857,
     "tournaments": 2,
     "gamesWon": 3,
@@ -9715,6 +11481,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20547",
     "NAF Name": "StarVagabond",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 143.39764743149706,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9726,6 +11494,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20552",
     "NAF Name": "Khorbier",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.32273841284652,
     "tournaments": 1,
     "gamesWon": 0,
@@ -9737,6 +11507,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20553",
     "NAF Name": "JBone",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 131.59244153766355,
     "tournaments": 2,
     "gamesWon": 3,
@@ -9748,6 +11520,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20554",
     "NAF Name": "Munch",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.67883977094189,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9759,6 +11533,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20556",
     "NAF Name": "Wulfyn",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.72838693366623,
     "tournaments": 1,
     "gamesWon": 3,
@@ -9770,6 +11546,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20558",
     "NAF Name": "wookiee1972",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.85905347035677,
     "tournaments": 1,
     "gamesWon": 2,
@@ -9781,6 +11559,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20581",
     "NAF Name": "Nielsdb",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 140.25118391100233,
     "tournaments": 2,
     "gamesWon": 1,
@@ -9792,6 +11572,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20585",
     "NAF Name": "apethemin",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 171.7546155021245,
     "tournaments": 2,
     "gamesWon": 5,
@@ -9803,6 +11585,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20591",
     "NAF Name": "Giom",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.59761151501007,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9814,6 +11598,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20595",
     "NAF Name": "Lothurn",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.10394308244344,
     "tournaments": 4,
     "gamesWon": 8,
@@ -9825,6 +11611,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20617",
     "NAF Name": "YogiBedlamBear",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.00492061212807,
     "tournaments": 2,
     "gamesWon": 3,
@@ -9836,6 +11624,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20630",
     "NAF Name": "pec",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.69843943434932,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9847,6 +11637,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20632",
     "NAF Name": "Moonshine82",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.67877573972794,
     "tournaments": 8,
     "gamesWon": 14,
@@ -9858,6 +11650,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20634",
     "NAF Name": "cornish",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 153.46155908187993,
     "tournaments": 4,
     "gamesWon": 4,
@@ -9869,6 +11663,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20635",
     "NAF Name": "theermine",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.9197899893022,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9880,6 +11676,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20654",
     "NAF Name": "dreamscreator",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 190.9876600482098,
     "tournaments": 6,
     "gamesWon": 15,
@@ -9891,6 +11689,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20663",
     "NAF Name": "templar",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 134.78078122942276,
     "tournaments": 2,
     "gamesWon": 2,
@@ -9902,6 +11702,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20672",
     "NAF Name": "Nota",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 150.00595865283768,
     "tournaments": 2,
     "gamesWon": 4,
@@ -9913,6 +11715,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20685",
     "NAF Name": "Straume",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 173.15665079327195,
     "tournaments": 5,
     "gamesWon": 11,
@@ -9924,6 +11728,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20691",
     "NAF Name": "Enderman",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 159.57833923554568,
     "tournaments": 3,
     "gamesWon": 7,
@@ -9935,6 +11741,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20698",
     "NAF Name": "TweetyRawdon",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.39145877723513,
     "tournaments": 2,
     "gamesWon": 4,
@@ -9946,6 +11754,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20700",
     "NAF Name": "El_Duderino73",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.74124117175754,
     "tournaments": 3,
     "gamesWon": 6,
@@ -9957,6 +11767,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20741",
     "NAF Name": "Slamthrax",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 154.20856239946139,
     "tournaments": 2,
     "gamesWon": 3,
@@ -9968,6 +11780,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20745",
     "NAF Name": "Geoffro",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 146.11295132613603,
     "tournaments": 1,
     "gamesWon": 1,
@@ -9979,6 +11793,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20747",
     "NAF Name": "deeferdan",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.534991793377,
     "tournaments": 3,
     "gamesWon": 5,
@@ -9990,6 +11806,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20750",
     "NAF Name": "Bembel",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 126.36422231516956,
     "tournaments": 5,
     "gamesWon": 4,
@@ -10001,6 +11819,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20755",
     "NAF Name": "viyullas",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.8605531658201,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10012,6 +11832,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20761",
     "NAF Name": "SupWill0048",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.58860060924107,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10023,6 +11845,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20763",
     "NAF Name": "Flabbergasted",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 140.05435243396843,
     "tournaments": 2,
     "gamesWon": 1,
@@ -10034,6 +11858,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20768",
     "NAF Name": "spleggy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.75546105737286,
     "tournaments": 4,
     "gamesWon": 8,
@@ -10045,6 +11871,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20775",
     "NAF Name": "mynock",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 167.38482691682862,
     "tournaments": 3,
     "gamesWon": 8,
@@ -10056,6 +11884,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20776",
     "NAF Name": "Garfunkel",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.68629150101526,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10067,6 +11897,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20777",
     "NAF Name": "Exting",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.68554303953428,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10078,6 +11910,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20783",
     "NAF Name": "jopotzuki",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 149.93128285890012,
     "tournaments": 7,
     "gamesWon": 11,
@@ -10089,6 +11923,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20802",
     "NAF Name": "throweck",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.2335614447059,
     "tournaments": 2,
     "gamesWon": 2,
@@ -10100,6 +11936,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20803",
     "NAF Name": "Der_Schredder",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 122.25220894070196,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10111,6 +11949,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20805",
     "NAF Name": "Wyzard",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 160.7437010988026,
     "tournaments": 4,
     "gamesWon": 10,
@@ -10122,6 +11962,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20811",
     "NAF Name": "pececito",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.90301904553718,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10133,6 +11975,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20812",
     "NAF Name": "JANGO314",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.81071511621337,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10144,6 +11988,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20813",
     "NAF Name": "dewsdwarfs",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.07394015696,
     "tournaments": 2,
     "gamesWon": 2,
@@ -10155,6 +12001,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20816",
     "NAF Name": "Lumibralo",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 164.4025957569827,
     "tournaments": 5,
     "gamesWon": 5,
@@ -10166,6 +12014,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20817",
     "NAF Name": "Ivan_Landwehr",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 196.08238773105973,
     "tournaments": 7,
     "gamesWon": 17,
@@ -10177,6 +12027,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20820",
     "NAF Name": "Raziel",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.14129396862936,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10188,6 +12040,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20827",
     "NAF Name": "klint",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.68568274293145,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10199,6 +12053,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20830",
     "NAF Name": "Neo_chains",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 122.92922294297932,
     "tournaments": 4,
     "gamesWon": 3,
@@ -10210,6 +12066,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20833",
     "NAF Name": "dakayaiza",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.04850191076693,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10221,6 +12079,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20834",
     "NAF Name": "nurglinos",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 144.3337272956673,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10232,6 +12092,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20836",
     "NAF Name": "xaviere",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 145.91608433327428,
     "tournaments": 4,
     "gamesWon": 5,
@@ -10243,6 +12105,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20837",
     "NAF Name": "turlog",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.50724868656513,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10254,6 +12118,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20841",
     "NAF Name": "Coach_Keeper",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.75370632711247,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10265,6 +12131,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20843",
     "NAF Name": "Gethyn",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.18581986717925,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10276,6 +12144,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20844",
     "NAF Name": "Heartsbane",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.44204021907169,
     "tournaments": 2,
     "gamesWon": 3,
@@ -10287,6 +12157,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20846",
     "NAF Name": "Hornorc",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 159.7285469920258,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10298,6 +12170,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20848",
     "NAF Name": "Darkboy",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 166.33109537553318,
     "tournaments": 1,
     "gamesWon": 4,
@@ -10309,6 +12183,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20856",
     "NAF Name": "OTT",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 143.86880717862815,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10320,6 +12196,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20857",
     "NAF Name": "Junior84",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 165.66701232421642,
     "tournaments": 4,
     "gamesWon": 10,
@@ -10331,6 +12209,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20865",
     "NAF Name": "donpimpon",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 181.10095649522273,
     "tournaments": 4,
     "gamesWon": 8,
@@ -10342,6 +12222,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20876",
     "NAF Name": "Charmei91",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.34314575050763,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10353,6 +12235,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20881",
     "NAF Name": "Spindrift",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 149.7890536370181,
     "tournaments": 3,
     "gamesWon": 4,
@@ -10364,6 +12248,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20894",
     "NAF Name": "AyupMeDuck",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.28207909490996,
     "tournaments": 4,
     "gamesWon": 4,
@@ -10375,6 +12261,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20898",
     "NAF Name": "jimbodeany",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.6950163120441,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10386,6 +12274,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20904",
     "NAF Name": "Awer",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 150.61098415283132,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10397,6 +12287,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20907",
     "NAF Name": "Phrygerator",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 148.28049135462166,
     "tournaments": 4,
     "gamesWon": 9,
@@ -10408,6 +12300,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20910",
     "NAF Name": "Buschwiesel",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.1244242429998,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10419,6 +12313,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20911",
     "NAF Name": "Sternenstaub",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 148.98469311768653,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10430,6 +12326,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20914",
     "NAF Name": "canta",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 156.46474064169422,
     "tournaments": 2,
     "gamesWon": 5,
@@ -10441,6 +12339,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20918",
     "NAF Name": "kowal",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.1123480862313,
     "tournaments": 2,
     "gamesWon": 4,
@@ -10452,6 +12352,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20924",
     "NAF Name": "inge",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 161.48040650050814,
     "tournaments": 2,
     "gamesWon": 5,
@@ -10463,6 +12365,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20930",
     "NAF Name": "idroj",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 183.97285043184988,
     "tournaments": 6,
     "gamesWon": 14,
@@ -10474,6 +12378,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20932",
     "NAF Name": "hades",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 176.74145581853395,
     "tournaments": 2,
     "gamesWon": 6,
@@ -10485,6 +12391,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20934",
     "NAF Name": "merlin_el_mago",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.3004672552915,
     "tournaments": 3,
     "gamesWon": 5,
@@ -10496,6 +12404,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20939",
     "NAF Name": "Ogro_Tabernero",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.9458001103993,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10507,6 +12417,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20940",
     "NAF Name": "LEGOLAS74",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 159.2939607416793,
     "tournaments": 7,
     "gamesWon": 11,
@@ -10518,6 +12430,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20945",
     "NAF Name": "leprechaunCT",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 132.91106935315577,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10529,6 +12443,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20953",
     "NAF Name": "Feppel",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 161.98154583405764,
     "tournaments": 4,
     "gamesWon": 9,
@@ -10540,6 +12456,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20957",
     "NAF Name": "Pidpad",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 152.51289972976463,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10551,6 +12469,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20974",
     "NAF Name": "MadArCay",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 145.51845191394057,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10562,6 +12482,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20978",
     "NAF Name": "radge",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 144.6899572976198,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10573,6 +12495,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20979",
     "NAF Name": "soldierant",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.0120115992247,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10584,6 +12508,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20981",
     "NAF Name": "big_mikowsky",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.76837441116743,
     "tournaments": 2,
     "gamesWon": 1,
@@ -10595,6 +12521,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20984",
     "NAF Name": "mintarin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.64098201058167,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10606,6 +12534,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "20999",
     "NAF Name": "Gallo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 145.4674431610093,
     "tournaments": 4,
     "gamesWon": 5,
@@ -10617,6 +12547,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21005",
     "NAF Name": "Entreeri",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 141.2076642444367,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10628,6 +12560,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 164.44315751921565,
     "tournaments": 2,
     "gamesWon": 3,
@@ -10639,6 +12573,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21012",
     "NAF Name": "Mirabet",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 166.64221017025199,
     "tournaments": 2,
     "gamesWon": 4,
@@ -10650,6 +12586,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21040",
     "NAF Name": "iappo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 155.08562936796466,
     "tournaments": 3,
     "gamesWon": 5,
@@ -10661,6 +12599,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21041",
     "NAF Name": "tausino",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.47865216639656,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10672,6 +12612,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21062",
     "NAF Name": "treborius",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 149.7765523830579,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10683,6 +12625,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21068",
     "NAF Name": "tonisuperman",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.76886711085857,
     "tournaments": 2,
     "gamesWon": 3,
@@ -10694,6 +12638,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21071",
     "NAF Name": "clon8",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 152.36480464255817,
     "tournaments": 3,
     "gamesWon": 5,
@@ -10705,6 +12651,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21072",
     "NAF Name": "molinet",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 166.97878305460637,
     "tournaments": 1,
     "gamesWon": 3,
@@ -10716,6 +12664,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21075",
     "NAF Name": "ferdy48",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.44128091806863,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10727,6 +12677,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21087",
     "NAF Name": "Pimax",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.12616180099045,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10738,6 +12690,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21090",
     "NAF Name": "Aurelnatation",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.92003397213583,
     "tournaments": 1,
     "gamesWon": 3,
@@ -10749,6 +12703,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21092",
     "NAF Name": "Twelfman",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 169.24990380207686,
     "tournaments": 2,
     "gamesWon": 4,
@@ -10760,6 +12716,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21101",
     "NAF Name": "shinji_konai",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.1350886017925,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10771,6 +12729,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21107",
     "NAF Name": "wwe2015",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.89531090098754,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10782,6 +12742,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21109",
     "NAF Name": "coach_iosu",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 200.7630539539429,
     "tournaments": 4,
     "gamesWon": 13,
@@ -10793,6 +12755,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21110",
     "NAF Name": "timy",
+    "CCAA": "Apatrida",
+    "Country": "FRANCE",
     "rating": 144.05217136392412,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10804,6 +12768,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21116",
     "NAF Name": "Krix",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.36737379934888,
     "tournaments": 1,
     "gamesWon": 3,
@@ -10815,6 +12781,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21118",
     "NAF Name": "Davouille",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 189.17533482786757,
     "tournaments": 4,
     "gamesWon": 10,
@@ -10826,6 +12794,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21120",
     "NAF Name": "Timbur",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.41065273008064,
     "tournaments": 2,
     "gamesWon": 2,
@@ -10837,6 +12807,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21123",
     "NAF Name": "Kolmena_Morena",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 153.26194214208624,
     "tournaments": 3,
     "gamesWon": 6,
@@ -10848,6 +12820,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21127",
     "NAF Name": "marloch",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 149.77510207312184,
     "tournaments": 2,
     "gamesWon": 2,
@@ -10859,6 +12833,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21133",
     "NAF Name": "Waaghboss",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 153.11425585929962,
     "tournaments": 2,
     "gamesWon": 5,
@@ -10870,6 +12846,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21135",
     "NAF Name": "Sprinter",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 173.31524112306997,
     "tournaments": 3,
     "gamesWon": 9,
@@ -10881,6 +12859,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21137",
     "NAF Name": "endimion",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.32182356937486,
     "tournaments": 1,
     "gamesWon": 2,
@@ -10892,6 +12872,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21141",
     "NAF Name": "metzelder",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.79128425490887,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10903,6 +12885,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21143",
     "NAF Name": "dementor",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 138.3233270613993,
     "tournaments": 3,
     "gamesWon": 3,
@@ -10914,6 +12898,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21144",
     "NAF Name": "Flaa",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 160.7731096451242,
     "tournaments": 1,
     "gamesWon": 3,
@@ -10925,6 +12911,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21170",
     "NAF Name": "penguingod00",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 139.1584815401739,
     "tournaments": 1,
     "gamesWon": 0,
@@ -10936,6 +12924,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21173",
     "NAF Name": "theskele",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 145.1179917671042,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10947,6 +12937,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21178",
     "NAF Name": "Mushoomy",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 156.97975306218706,
     "tournaments": 4,
     "gamesWon": 8,
@@ -10958,6 +12950,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21184",
     "NAF Name": "mrnobody",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.53505913027425,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10969,6 +12963,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21187",
     "NAF Name": "Juarman",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 165.73448876428134,
     "tournaments": 2,
     "gamesWon": 4,
@@ -10980,6 +12976,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21199",
     "NAF Name": "Aristouille",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.59443499903767,
     "tournaments": 1,
     "gamesWon": 1,
@@ -10991,6 +12989,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21200",
     "NAF Name": "Mleud",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.56097889303402,
     "tournaments": 2,
     "gamesWon": 4,
@@ -11002,6 +13002,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21201",
     "NAF Name": "obsidian",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 176.25618202357953,
     "tournaments": 3,
     "gamesWon": 8,
@@ -11013,6 +13015,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21211",
     "NAF Name": "Najof",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.64177306012445,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11024,6 +13028,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21214",
     "NAF Name": "Jur",
+    "CCAA": "Apatrida",
+    "Country": "Faroe Islands",
     "rating": 157.2313992715609,
     "tournaments": 2,
     "gamesWon": 5,
@@ -11035,6 +13041,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21220",
     "NAF Name": "MotherNurgle",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 165.87055583653074,
     "tournaments": 6,
     "gamesWon": 15,
@@ -11046,6 +13054,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21222",
     "NAF Name": "schooma",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.76589850920251,
     "tournaments": 2,
     "gamesWon": 2,
@@ -11057,6 +13067,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21223",
     "NAF Name": "copemon",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.1589819496837,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11068,6 +13080,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21234",
     "NAF Name": "boteu",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 138.22640934697276,
     "tournaments": 1,
     "gamesWon": 0,
@@ -11079,6 +13093,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21240",
     "NAF Name": "courtjester6969",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.8471741224119,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11090,6 +13106,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21243",
     "NAF Name": "patpool",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.1155127907912,
     "tournaments": 2,
     "gamesWon": 3,
@@ -11101,6 +13119,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21266",
     "NAF Name": "GrumpyMaestro",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 159.6542242682563,
     "tournaments": 2,
     "gamesWon": 4,
@@ -11112,6 +13132,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21270",
     "NAF Name": "bagouze",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.72308170369624,
     "tournaments": 3,
     "gamesWon": 6,
@@ -11123,6 +13145,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21284",
     "NAF Name": "steve994",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.81247294710795,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11134,6 +13158,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21291",
     "NAF Name": "yotoden",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.94055676474196,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11145,6 +13171,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21295",
     "NAF Name": "Iltempogigante",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 167.52160920722613,
     "tournaments": 3,
     "gamesWon": 5,
@@ -11156,6 +13184,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21299",
     "NAF Name": "andre",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 138.68629260469118,
     "tournaments": 1,
     "gamesWon": 0,
@@ -11167,6 +13197,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21305",
     "NAF Name": "wexy",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 171.95888331546823,
     "tournaments": 2,
     "gamesWon": 6,
@@ -11178,6 +13210,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21319",
     "NAF Name": "Drexxl",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 172.86934242816253,
     "tournaments": 3,
     "gamesWon": 9,
@@ -11189,6 +13223,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21327",
     "NAF Name": "ErJose",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 150.01019442727053,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11200,6 +13236,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21331",
     "NAF Name": "bletos",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 191.73149038449532,
     "tournaments": 4,
     "gamesWon": 12,
@@ -11211,6 +13249,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21333",
     "NAF Name": "Atrellu",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 176.81287017207796,
     "tournaments": 3,
     "gamesWon": 9,
@@ -11222,6 +13262,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21335",
     "NAF Name": "Tyrion90",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.3224546723379,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11233,6 +13275,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21339",
     "NAF Name": "hammertimehamilton",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 159.9356958369154,
     "tournaments": 1,
     "gamesWon": 3,
@@ -11244,6 +13288,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21344",
     "NAF Name": "dfunkateer",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 162.34255203092363,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11255,6 +13301,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21349",
     "NAF Name": "Yohancryer",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 186.6522762933781,
     "tournaments": 4,
     "gamesWon": 12,
@@ -11266,6 +13314,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21352",
     "NAF Name": "Dr_Funesto",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 153.91228035318554,
     "tournaments": 4,
     "gamesWon": 11,
@@ -11277,6 +13327,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21354",
     "NAF Name": "agingergoblin",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
     "rating": 150.1074244402296,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11288,6 +13340,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21361",
     "NAF Name": "TheAzman",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.31424055179914,
     "tournaments": 1,
     "gamesWon": 0,
@@ -11299,6 +13353,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21377",
     "NAF Name": "Duffception",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 172.35353401365307,
     "tournaments": 1,
     "gamesWon": 5,
@@ -11310,6 +13366,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21378",
     "NAF Name": "Sazooman",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 168.81406359988333,
     "tournaments": 5,
     "gamesWon": 12,
@@ -11321,6 +13379,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21379",
     "NAF Name": "Devilink",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.5358528136753,
     "tournaments": 1,
     "gamesWon": 3,
@@ -11332,6 +13392,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21395",
     "NAF Name": "bauer",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 162.22857743308336,
     "tournaments": 2,
     "gamesWon": 5,
@@ -11343,6 +13405,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21402",
     "NAF Name": "Apothecary",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 154.34695417634035,
     "tournaments": 2,
     "gamesWon": 4,
@@ -11354,6 +13418,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21409",
     "NAF Name": "RealMalteser",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 156.67153113985924,
     "tournaments": 5,
     "gamesWon": 9,
@@ -11365,6 +13431,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21410",
     "NAF Name": "Janninu",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 185.22744943321493,
     "tournaments": 7,
     "gamesWon": 19,
@@ -11376,6 +13444,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21419",
     "NAF Name": "LordBertoCaos",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 131.62188303396664,
     "tournaments": 3,
     "gamesWon": 4,
@@ -11387,6 +13457,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21429",
     "NAF Name": "bogenhafen_bron",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.26084761935846,
     "tournaments": 2,
     "gamesWon": 2,
@@ -11398,6 +13470,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21435",
     "NAF Name": "ishamael",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.240337448521,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11409,6 +13483,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21437",
     "NAF Name": "Zacca",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.8949096929825,
     "tournaments": 2,
     "gamesWon": 3,
@@ -11420,6 +13496,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21450",
     "NAF Name": "Loz",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.68519816077034,
     "tournaments": 1,
     "gamesWon": 0,
@@ -11431,6 +13509,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21451",
     "NAF Name": "dalamar",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.46950482185247,
     "tournaments": 1,
     "gamesWon": 3,
@@ -11442,6 +13522,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21458",
     "NAF Name": "rascal",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
     "rating": 162.71418062970412,
     "tournaments": 1,
     "gamesWon": 4,
@@ -11453,6 +13535,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21461",
     "NAF Name": "coachclyde",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.65068767061547,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11464,6 +13548,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21462",
     "NAF Name": "mandalaky",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 152.19365962791937,
     "tournaments": 2,
     "gamesWon": 3,
@@ -11475,6 +13561,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21464",
     "NAF Name": "ungodlynoob",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.67583641453928,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11486,6 +13574,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21467",
     "NAF Name": "bluedaybreak",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.35700524658134,
     "tournaments": 2,
     "gamesWon": 3,
@@ -11497,6 +13587,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21476",
     "NAF Name": "tommonstrosity",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 124.33573926917087,
     "tournaments": 2,
     "gamesWon": 2,
@@ -11508,6 +13600,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21487",
     "NAF Name": "biereforever",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 165.3234943769901,
     "tournaments": 3,
     "gamesWon": 6,
@@ -11519,6 +13613,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21493",
     "NAF Name": "scrofulla",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 155.89995895883519,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11530,6 +13626,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21494",
     "NAF Name": "princesse",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.36271227723444,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11541,6 +13639,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21497",
     "NAF Name": "airwombat",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.4467826012033,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11552,6 +13652,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21506",
     "NAF Name": "grom",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
     "rating": 150.46024078373773,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11563,6 +13665,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21511",
     "NAF Name": "tmartin",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.23321273136688,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11574,6 +13678,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21512",
     "NAF Name": "bojo",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 146.53589838486226,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11585,6 +13691,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21524",
     "NAF Name": "armor",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.82780654555205,
     "tournaments": 2,
     "gamesWon": 4,
@@ -11596,6 +13704,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21528",
     "NAF Name": "aenir",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.83029591254703,
     "tournaments": 1,
     "gamesWon": 3,
@@ -11607,6 +13717,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21550",
     "NAF Name": "reQQy",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.45764191282845,
     "tournaments": 2,
     "gamesWon": 3,
@@ -11618,6 +13730,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21551",
     "NAF Name": "Agrindar",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.75893153159132,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11629,6 +13743,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21563",
     "NAF Name": "cryptkicker",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.99835113932386,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11640,6 +13756,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21571",
     "NAF Name": "clock",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 146.82331589813526,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11651,6 +13769,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21573",
     "NAF Name": "Reszka",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 171.94163821982826,
     "tournaments": 2,
     "gamesWon": 6,
@@ -11662,6 +13782,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 159.01677161520354,
     "tournaments": 2,
     "gamesWon": 2,
@@ -11673,6 +13795,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21597",
     "NAF Name": "Diceroller",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 158.4568725884923,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11684,6 +13808,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21598",
     "NAF Name": "OrcCleaver",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 157.99989139089894,
     "tournaments": 1,
     "gamesWon": 3,
@@ -11695,6 +13821,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21603",
     "NAF Name": "low-key",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 134.8689181014274,
     "tournaments": 1,
     "gamesWon": 0,
@@ -11706,6 +13834,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21605",
     "NAF Name": "Porkscratching",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.92110841805226,
     "tournaments": 1,
     "gamesWon": 0,
@@ -11717,6 +13847,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21606",
     "NAF Name": "jinxed",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.34124934315113,
     "tournaments": 5,
     "gamesWon": 6,
@@ -11728,6 +13860,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21622",
     "NAF Name": "skullbucket",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 155.47722557505165,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11739,6 +13873,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21627",
     "NAF Name": "Mewash",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 155.4113993907589,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11750,6 +13886,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21628",
     "NAF Name": "Elkolak",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 181.50024771031335,
     "tournaments": 3,
     "gamesWon": 10,
@@ -11761,6 +13899,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21632",
     "NAF Name": "khevlart",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.6581776250898,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11772,6 +13912,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21636",
     "NAF Name": "Mr_goblin",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 161.7838018199761,
     "tournaments": 1,
     "gamesWon": 3,
@@ -11783,6 +13925,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21637",
     "NAF Name": "alwiggin",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 167.73711535892633,
     "tournaments": 1,
     "gamesWon": 3,
@@ -11794,6 +13938,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 148.53499913379426,
     "tournaments": 4,
     "gamesWon": 6,
@@ -11805,6 +13951,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21653",
     "NAF Name": "Traum",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 154.68259580716344,
     "tournaments": 3,
     "gamesWon": 5,
@@ -11816,6 +13964,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21663",
     "NAF Name": "Romerotomillo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 161.93546139539635,
     "tournaments": 3,
     "gamesWon": 6,
@@ -11827,6 +13977,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21667",
     "NAF Name": "kennels",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 158.19207937455477,
     "tournaments": 3,
     "gamesWon": 7,
@@ -11838,6 +13990,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21669",
     "NAF Name": "Uludag",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 128.37411987982614,
     "tournaments": 2,
     "gamesWon": 2,
@@ -11849,6 +14003,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21672",
     "NAF Name": "Monkeytrumpet",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.25255148542738,
     "tournaments": 1,
     "gamesWon": 2,
@@ -11860,6 +14016,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21674",
     "NAF Name": "thor87",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 153.05662924202036,
     "tournaments": 6,
     "gamesWon": 9,
@@ -11871,6 +14029,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21675",
     "NAF Name": "SilverDarwin",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.88003123570977,
     "tournaments": 3,
     "gamesWon": 5,
@@ -11882,6 +14042,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21680",
     "NAF Name": "lordsoth",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 119.38237979884859,
     "tournaments": 2,
     "gamesWon": 1,
@@ -11893,6 +14055,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21684",
     "NAF Name": "TheOldTook",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 145.41889088430582,
     "tournaments": 2,
     "gamesWon": 2,
@@ -11904,6 +14068,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21689",
     "NAF Name": "Gonzas1000",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 145.02434157285617,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11915,6 +14081,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21690",
     "NAF Name": "raukhira",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.56741297812985,
     "tournaments": 1,
     "gamesWon": 0,
@@ -11926,6 +14094,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21691",
     "NAF Name": "pandiani",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 184.97174353485633,
     "tournaments": 3,
     "gamesWon": 10,
@@ -11937,6 +14107,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21702",
     "NAF Name": "Crouch",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.7583797118105,
     "tournaments": 2,
     "gamesWon": 4,
@@ -11948,6 +14120,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21719",
     "NAF Name": "Bayer",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 149.72963250993595,
     "tournaments": 2,
     "gamesWon": 2,
@@ -11959,6 +14133,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21726",
     "NAF Name": "roh",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.13010021198806,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11970,6 +14146,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21730",
     "NAF Name": "Cazalilla",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 157.97117366466392,
     "tournaments": 2,
     "gamesWon": 3,
@@ -11981,6 +14159,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21732",
     "NAF Name": "primerack",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.1614302117895,
     "tournaments": 1,
     "gamesWon": 1,
@@ -11992,6 +14172,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21736",
     "NAF Name": "Pilaf",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 169.1384486119976,
     "tournaments": 3,
     "gamesWon": 7,
@@ -12003,6 +14185,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21744",
     "NAF Name": "wakka",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 134.4010266935755,
     "tournaments": 1,
     "gamesWon": 0,
@@ -12014,6 +14198,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21745",
     "NAF Name": "lazyfox",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 158.91222928239532,
     "tournaments": 3,
     "gamesWon": 6,
@@ -12025,6 +14211,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.88406938925417,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12036,6 +14224,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21762",
     "NAF Name": "fox",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 145.04810423028593,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12047,6 +14237,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21763",
     "NAF Name": "PanicoBlack",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 171.90413159312124,
     "tournaments": 3,
     "gamesWon": 7,
@@ -12058,6 +14250,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21764",
     "NAF Name": "ATP",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 167.43889094195552,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12069,6 +14263,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 175.0273431123664,
     "tournaments": 5,
     "gamesWon": 12,
@@ -12080,6 +14276,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21767",
     "NAF Name": "xabier",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.85302169075908,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12091,6 +14289,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21795",
     "NAF Name": "TaMaMBoLo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 154.58267471522853,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12102,6 +14302,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21809",
     "NAF Name": "Piske",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 152.13667364334037,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12113,6 +14315,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21827",
     "NAF Name": "imp",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 145.19726474924823,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12124,6 +14328,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21828",
     "NAF Name": "Malmir",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 166.674635200126,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12135,6 +14341,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21831",
     "NAF Name": "gillywonka",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 124.79661006441107,
     "tournaments": 2,
     "gamesWon": 2,
@@ -12146,6 +14354,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21835",
     "NAF Name": "monkeyjuice",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.42205652760842,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12157,6 +14367,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21836",
     "NAF Name": "CharlieBanks",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 176.0893797885357,
     "tournaments": 2,
     "gamesWon": 7,
@@ -12168,6 +14380,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21837",
     "NAF Name": "Thyrus",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.38246728913757,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12179,6 +14393,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21844",
     "NAF Name": "KIngWeasel",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 138.78202750622452,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12190,6 +14406,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21853",
     "NAF Name": "cyllax",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.03230681882985,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12201,6 +14419,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21855",
     "NAF Name": "Sagat",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 134.1253945689056,
     "tournaments": 1,
     "gamesWon": 0,
@@ -12212,6 +14432,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21864",
     "NAF Name": "Asgair",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.99292232560472,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12223,6 +14445,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21865",
     "NAF Name": "Menguexe",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.36207003014349,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12234,6 +14458,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21888",
     "NAF Name": "hyperbolemur",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.6894659765407,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12245,6 +14471,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21901",
     "NAF Name": "mother_chucker",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.49555711877824,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12256,6 +14484,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21912",
     "NAF Name": "sumo_gambino",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.9594604794891,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12267,6 +14497,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21919",
     "NAF Name": "ghorghor",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.7352528384813,
     "tournaments": 3,
     "gamesWon": 5,
@@ -12278,6 +14510,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21949",
     "NAF Name": "ringbeard",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 180.08972290669533,
     "tournaments": 2,
     "gamesWon": 7,
@@ -12289,6 +14523,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21955",
     "NAF Name": "Shazam",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 156.8336750349799,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12300,6 +14536,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21957",
     "NAF Name": "Slimaq",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 167.4074741165646,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12311,6 +14549,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21958",
     "NAF Name": "Jakubek",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 138.84963819329695,
     "tournaments": 1,
     "gamesWon": 0,
@@ -12322,6 +14562,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21969",
     "NAF Name": "zorro-crush",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 158.45808296420307,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12333,6 +14575,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21975",
     "NAF Name": "durthu",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.7964720704378,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12344,6 +14588,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21977",
     "NAF Name": "fromherashes",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 154.99074317837986,
     "tournaments": 2,
     "gamesWon": 5,
@@ -12355,6 +14601,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "21978",
     "NAF Name": "felix11_59",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 109.8404237270157,
     "tournaments": 4,
     "gamesWon": 0,
@@ -12366,6 +14614,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22001",
     "NAF Name": "zenit",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 156.37567591437593,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12377,6 +14627,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22007",
     "NAF Name": "RatOgre",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 151.8483977983353,
     "tournaments": 4,
     "gamesWon": 5,
@@ -12388,6 +14640,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22037",
     "NAF Name": "Spooner",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 150.02978018387253,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12399,6 +14653,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22040",
     "NAF Name": "Chinos",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.30690848795098,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12410,6 +14666,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22045",
     "NAF Name": "Nurglesfinest",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 166.9705627484771,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12421,6 +14679,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22049",
     "NAF Name": "trynottoexplode",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.88004503251852,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12432,6 +14692,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22051",
     "NAF Name": "meiffer",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.59000155889623,
     "tournaments": 3,
     "gamesWon": 5,
@@ -12443,6 +14705,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22056",
     "NAF Name": "Tomlin",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 126.36999523164526,
     "tournaments": 2,
     "gamesWon": 1,
@@ -12454,6 +14718,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22057",
     "NAF Name": "Tomisky",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 155.02629833725646,
     "tournaments": 2,
     "gamesWon": 3,
@@ -12465,6 +14731,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22063",
     "NAF Name": "horns_up",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.70809317448064,
     "tournaments": 3,
     "gamesWon": 5,
@@ -12476,6 +14744,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22064",
     "NAF Name": "Shadowblade",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 115.04710839875266,
     "tournaments": 3,
     "gamesWon": 2,
@@ -12487,6 +14757,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22067",
     "NAF Name": "Darlondo",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.94104401568882,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12498,6 +14770,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22081",
     "NAF Name": "Horatio",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.19944487325162,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12509,6 +14783,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22084",
     "NAF Name": "Madmardigan",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.4620968376343,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12520,6 +14796,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22100",
     "NAF Name": "topas",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 155.68306285348132,
     "tournaments": 2,
     "gamesWon": 3,
@@ -12531,6 +14809,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22102",
     "NAF Name": "Lord_buba",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 144.19508850170158,
     "tournaments": 3,
     "gamesWon": 5,
@@ -12542,6 +14822,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22103",
     "NAF Name": "totay",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 123.37029474708605,
     "tournaments": 3,
     "gamesWon": 2,
@@ -12553,6 +14835,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22106",
     "NAF Name": "volkmair",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.95171397328406,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12564,6 +14848,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22121",
     "NAF Name": "spob",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.0223119191928,
     "tournaments": 2,
     "gamesWon": 2,
@@ -12575,6 +14861,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22126",
     "NAF Name": "oklaoma",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 159.63749033405023,
     "tournaments": 2,
     "gamesWon": 5,
@@ -12586,6 +14874,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22129",
     "NAF Name": "Mr_Bison",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 157.19996983690694,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12597,6 +14887,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22136",
     "NAF Name": "voazpro",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.19913683372633,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12608,6 +14900,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22141",
     "NAF Name": "legolas",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.06348074443991,
     "tournaments": 1,
     "gamesWon": 0,
@@ -12619,6 +14913,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22154",
     "NAF Name": "isismoon",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.69759669834062,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12630,6 +14926,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22157",
     "NAF Name": "mrroberto",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 148.75649452639567,
     "tournaments": 2,
     "gamesWon": 2,
@@ -12641,6 +14939,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22170",
     "NAF Name": "TheOriginalForce",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.43223563716998,
     "tournaments": 1,
     "gamesWon": 0,
@@ -12652,6 +14952,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22172",
     "NAF Name": "jip",
+    "CCAA": "Apatrida",
+    "Country": "Bermuda",
     "rating": 155.8829653626542,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12663,6 +14965,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22173",
     "NAF Name": "AlloAllo",
+    "CCAA": "Apatrida",
+    "Country": "Chile",
     "rating": 124.0783545487901,
     "tournaments": 3,
     "gamesWon": 0,
@@ -12674,6 +14978,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22189",
     "NAF Name": "pokrjax",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.34197248575848,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12685,6 +14991,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22192",
     "NAF Name": "badpublicity",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 174.29817382310824,
     "tournaments": 6,
     "gamesWon": 14,
@@ -12696,6 +15004,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22195",
     "NAF Name": "Bloodbath",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 158.75092423987917,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12707,6 +15017,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22198",
     "NAF Name": "smokey",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 151.92249512255572,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12718,6 +15030,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22203",
     "NAF Name": "Handsome",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 149.11068787553,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12729,6 +15043,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22214",
     "NAF Name": "jisu",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 153.79149805241124,
     "tournaments": 5,
     "gamesWon": 6,
@@ -12740,6 +15056,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22217",
     "NAF Name": "Ercarcu",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.21911393519125,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12751,6 +15069,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22218",
     "NAF Name": "lukeadrian",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.22927758238308,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12762,6 +15082,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22222",
     "NAF Name": "Karrashantemi",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 156.61720806640895,
     "tournaments": 2,
     "gamesWon": 3,
@@ -12773,6 +15095,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22234",
     "NAF Name": "neker",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 151.2093787754891,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12784,6 +15108,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22235",
     "NAF Name": "Sunsi",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 120.00310927843289,
     "tournaments": 3,
     "gamesWon": 2,
@@ -12795,6 +15121,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 136.3303084139702,
     "tournaments": 3,
     "gamesWon": 3,
@@ -12806,6 +15134,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22240",
     "NAF Name": "cyberduk",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 153.36957341984214,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12817,6 +15147,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22249",
     "NAF Name": "havaji",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 165.28657135761844,
     "tournaments": 1,
     "gamesWon": 4,
@@ -12828,6 +15160,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22254",
     "NAF Name": "Thorgeir",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 160.68468684490995,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12839,6 +15173,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22256",
     "NAF Name": "tom_LM",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 168.5135334567687,
     "tournaments": 1,
     "gamesWon": 3,
@@ -12850,6 +15186,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22257",
     "NAF Name": "Lunatiko",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 133.40585620501693,
     "tournaments": 1,
     "gamesWon": 0,
@@ -12861,6 +15199,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22259",
     "NAF Name": "Eldar666",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 142.86294383927142,
     "tournaments": 4,
     "gamesWon": 6,
@@ -12872,6 +15212,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22260",
     "NAF Name": "Hammertime",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 153.84563223820277,
     "tournaments": 2,
     "gamesWon": 3,
@@ -12883,6 +15225,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22261",
     "NAF Name": "nightwind",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.1369690921564,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12894,6 +15238,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22270",
     "NAF Name": "El_Madonna",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 140.00293585391535,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12905,6 +15251,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22276",
     "NAF Name": "darukku",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 137.51643156016988,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12916,6 +15264,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22278",
     "NAF Name": "killcox",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.8772340307004,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12927,6 +15277,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22299",
     "NAF Name": "arcayn",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.7044771599062,
     "tournaments": 2,
     "gamesWon": 3,
@@ -12938,6 +15290,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22311",
     "NAF Name": "shadowmk",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 145.60335185495254,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12949,6 +15303,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22312",
     "NAF Name": "Maddaniel",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.55072817240148,
     "tournaments": 1,
     "gamesWon": 1,
@@ -12960,6 +15316,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22316",
     "NAF Name": "Elkantar",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 142.87910345422733,
     "tournaments": 3,
     "gamesWon": 4,
@@ -12971,6 +15329,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22323",
     "NAF Name": "Mawach",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.29585218773082,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12982,6 +15342,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22331",
     "NAF Name": "ensabbah",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.25698756471894,
     "tournaments": 1,
     "gamesWon": 2,
@@ -12993,6 +15355,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22337",
     "NAF Name": "mamap",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 140.5947898285056,
     "tournaments": 1,
     "gamesWon": 0,
@@ -13004,6 +15368,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22344",
     "NAF Name": "boldfox",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.30459254228904,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13015,6 +15381,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22346",
     "NAF Name": "Diomlord",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 201.51895702234762,
     "tournaments": 5,
     "gamesWon": 16,
@@ -13026,6 +15394,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22352",
     "NAF Name": "Alex05",
+    "CCAA": "Apatrida",
+    "Country": "Hungary",
     "rating": 164.04174862601985,
     "tournaments": 1,
     "gamesWon": 3,
@@ -13037,6 +15407,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22354",
     "NAF Name": "Dearnk",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 138.0816664033076,
     "tournaments": 1,
     "gamesWon": 0,
@@ -13048,6 +15420,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22356",
     "NAF Name": "Steel",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.96305364877713,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13059,6 +15433,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22357",
     "NAF Name": "CRuzado17",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 160.78813386761288,
     "tournaments": 5,
     "gamesWon": 10,
@@ -13070,6 +15446,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22359",
     "NAF Name": "FURU",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 157.2657753269194,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13081,6 +15459,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22364",
     "NAF Name": "JF_",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 171.4824524156492,
     "tournaments": 2,
     "gamesWon": 5,
@@ -13092,6 +15472,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22365",
     "NAF Name": "LORD_TARAMOR",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 156.8044557390037,
     "tournaments": 2,
     "gamesWon": 4,
@@ -13103,6 +15485,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22366",
     "NAF Name": "TRISKELBIKER",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 142.09330102796042,
     "tournaments": 3,
     "gamesWon": 4,
@@ -13114,6 +15498,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22375",
     "NAF Name": "Leonek",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 177.3208639222688,
     "tournaments": 2,
     "gamesWon": 7,
@@ -13125,6 +15511,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22376",
     "NAF Name": "Warrior1980",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 179.2431886536125,
     "tournaments": 2,
     "gamesWon": 7,
@@ -13136,6 +15524,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22380",
     "NAF Name": "Mighty1",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 146.60014011721688,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13147,6 +15537,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22393",
     "NAF Name": "hamdi",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 148.60785415930778,
     "tournaments": 3,
     "gamesWon": 5,
@@ -13158,6 +15550,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22411",
     "NAF Name": "Grol",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.9114579980055,
     "tournaments": 3,
     "gamesWon": 5,
@@ -13169,6 +15563,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22433",
     "NAF Name": "HDubbs",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.86062582059938,
     "tournaments": 2,
     "gamesWon": 4,
@@ -13180,6 +15576,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22434",
     "NAF Name": "Coach_Mille",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 162.85471302503586,
     "tournaments": 1,
     "gamesWon": 3,
@@ -13191,6 +15589,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22445",
     "NAF Name": "inyector",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 133.46924337023148,
     "tournaments": 2,
     "gamesWon": 1,
@@ -13202,6 +15602,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22446",
     "NAF Name": "dhutarn",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 150.68282482494624,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13213,6 +15615,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22456",
     "NAF Name": "Dalish",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 153.0360984049013,
     "tournaments": 3,
     "gamesWon": 4,
@@ -13224,6 +15628,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22460",
     "NAF Name": "Jogrenaut",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 165.91776650742352,
     "tournaments": 6,
     "gamesWon": 9,
@@ -13235,6 +15641,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22466",
     "NAF Name": "paladinkwa",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.56803059719115,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13246,6 +15654,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22470",
     "NAF Name": "Helborg",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 179.80102575242378,
     "tournaments": 4,
     "gamesWon": 12,
@@ -13257,6 +15667,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22475",
     "NAF Name": "Warka",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.18475561162936,
     "tournaments": 2,
     "gamesWon": 4,
@@ -13268,6 +15680,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22480",
     "NAF Name": "iantheace",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.95327411000227,
     "tournaments": 1,
     "gamesWon": 3,
@@ -13279,6 +15693,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22482",
     "NAF Name": "Kale",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 158.38037971317846,
     "tournaments": 4,
     "gamesWon": 9,
@@ -13290,6 +15706,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22487",
     "NAF Name": "intak",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 144.80306310977895,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13301,6 +15719,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22488",
     "NAF Name": "Mitch_horde",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 136.0366876389757,
     "tournaments": 3,
     "gamesWon": 4,
@@ -13312,6 +15732,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22544",
     "NAF Name": "gunter",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.28277920124216,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13323,6 +15745,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22559",
     "NAF Name": "minedevil",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 144.2833725898728,
     "tournaments": 1,
     "gamesWon": 0,
@@ -13334,6 +15758,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22572",
     "NAF Name": "Deon",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 154.31638684863782,
     "tournaments": 2,
     "gamesWon": 3,
@@ -13345,6 +15771,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22573",
     "NAF Name": "Barberfett",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 146.46603292209343,
     "tournaments": 3,
     "gamesWon": 3,
@@ -13356,6 +15784,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22580",
     "NAF Name": "dragonborn",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.48045113040973,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13367,6 +15797,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22581",
     "NAF Name": "Nagrom",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.81685585895139,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13378,6 +15810,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22582",
     "NAF Name": "portsmouth",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.84475975154118,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13389,6 +15823,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22583",
     "NAF Name": "BDOW",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 132.60293827830853,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13400,6 +15836,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22584",
     "NAF Name": "FallingDownJoe",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 160.86936648219404,
     "tournaments": 2,
     "gamesWon": 5,
@@ -13411,6 +15849,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22592",
     "NAF Name": "CrazyUnmaker",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13422,6 +15862,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22596",
     "NAF Name": "ljota",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 168.6668211891851,
     "tournaments": 2,
     "gamesWon": 5,
@@ -13433,6 +15875,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22603",
     "NAF Name": "ZENIT_JR",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 133.34285655984107,
     "tournaments": 1,
     "gamesWon": 0,
@@ -13444,6 +15888,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22606",
     "NAF Name": "yishwaagh",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.85026791130304,
     "tournaments": 1,
     "gamesWon": 3,
@@ -13455,6 +15901,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22609",
     "NAF Name": "JackH",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 174.08581703151305,
     "tournaments": 2,
     "gamesWon": 6,
@@ -13466,6 +15914,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22623",
     "NAF Name": "geek_chef",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 134.07825591410733,
     "tournaments": 1,
     "gamesWon": 0,
@@ -13477,6 +15927,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22632",
     "NAF Name": "elperas",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 175.24018588130772,
     "tournaments": 3,
     "gamesWon": 9,
@@ -13488,6 +15940,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22634",
     "NAF Name": "Wazz",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.85460674124312,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13499,6 +15953,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22651",
     "NAF Name": "Cullymon",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 163.7618782652554,
     "tournaments": 1,
     "gamesWon": 4,
@@ -13510,6 +15966,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22664",
     "NAF Name": "SayPou",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.92110101466972,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13521,6 +15979,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22666",
     "NAF Name": "Muad_Dib68",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 111.8776287257763,
     "tournaments": 2,
     "gamesWon": 0,
@@ -13532,6 +15992,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22667",
     "NAF Name": "Historic",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 157.4293075009783,
     "tournaments": 3,
     "gamesWon": 7,
@@ -13543,6 +16005,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22668",
     "NAF Name": "Corrupt",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.57068179628263,
     "tournaments": 3,
     "gamesWon": 5,
@@ -13554,6 +16018,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22669",
     "NAF Name": "Petitof",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.28641661664105,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13565,6 +16031,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22678",
     "NAF Name": "JOHN_RAMBO",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.4400679605247,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13576,6 +16044,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22681",
     "NAF Name": "Begoter",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.4348805877133,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13587,6 +16057,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22693",
     "NAF Name": "fiki",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 152.83394053196793,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13598,6 +16070,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22705",
     "NAF Name": "Ayumu",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.0504879775561,
     "tournaments": 2,
     "gamesWon": 2,
@@ -13609,6 +16083,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22710",
     "NAF Name": "asseos",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 148.76720088322486,
     "tournaments": 3,
     "gamesWon": 4,
@@ -13620,6 +16096,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22712",
     "NAF Name": "tekaa",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 153.9295649076173,
     "tournaments": 2,
     "gamesWon": 3,
@@ -13631,6 +16109,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22723",
     "NAF Name": "Cliquer",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 154.46973877426908,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13642,6 +16122,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22747",
     "NAF Name": "rinjarni",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.31370849898474,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13653,6 +16135,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22768",
     "NAF Name": "Natzo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.94623859367607,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13664,6 +16148,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22770",
     "NAF Name": "Tado",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 142.64332948782334,
     "tournaments": 3,
     "gamesWon": 4,
@@ -13675,6 +16161,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22776",
     "NAF Name": "firedept",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 134.59893793108068,
     "tournaments": 2,
     "gamesWon": 3,
@@ -13686,6 +16174,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22782",
     "NAF Name": "ShadowsOfFear",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 128.75901192998757,
     "tournaments": 1,
     "gamesWon": 0,
@@ -13697,6 +16187,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22787",
     "NAF Name": "kojo",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 158.64209391477976,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13708,6 +16200,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22788",
     "NAF Name": "JuicyBee",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 146.57844580047686,
     "tournaments": 3,
     "gamesWon": 3,
@@ -13719,6 +16213,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22793",
     "NAF Name": "WARPIG197",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.3280125929446,
     "tournaments": 2,
     "gamesWon": 3,
@@ -13730,6 +16226,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22800",
     "NAF Name": "AleksiMeuronen",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 159.36541634587437,
     "tournaments": 2,
     "gamesWon": 4,
@@ -13741,6 +16239,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22814",
     "NAF Name": "Hunt",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 124.83781100322732,
     "tournaments": 2,
     "gamesWon": 2,
@@ -13752,6 +16252,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22822",
     "NAF Name": "jmeis982",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.33649536496225,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13763,6 +16265,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22823",
     "NAF Name": "nilmaen",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.79290575781198,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13774,6 +16278,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22824",
     "NAF Name": "periprocto",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 138.77755232292068,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13785,6 +16291,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22825",
     "NAF Name": "yoryo1979",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 144.36124770381846,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13796,6 +16304,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22826",
     "NAF Name": "bululito",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 161.96764024805617,
     "tournaments": 3,
     "gamesWon": 7,
@@ -13807,6 +16317,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22829",
     "NAF Name": "jetlag22",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.73383524252313,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13818,6 +16330,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22832",
     "NAF Name": "konflyct",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.4961369411801,
     "tournaments": 1,
     "gamesWon": 1,
@@ -13829,6 +16343,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22851",
     "NAF Name": "avecmontage",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 176.60567286675337,
     "tournaments": 2,
     "gamesWon": 7,
@@ -13840,6 +16356,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22852",
     "NAF Name": "kingredwart",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 151.1254572207889,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13851,6 +16369,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22856",
     "NAF Name": "OSTOS25",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 162.07934430404418,
     "tournaments": 2,
     "gamesWon": 4,
@@ -13862,6 +16382,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22857",
     "NAF Name": "ROKE13",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 149.41044603098229,
     "tournaments": 2,
     "gamesWon": 3,
@@ -13873,6 +16395,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22876",
     "NAF Name": "Oberwald",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 178.2042758866897,
     "tournaments": 7,
     "gamesWon": 18,
@@ -13884,6 +16408,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22890",
     "NAF Name": "rulo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 163.9989863877058,
     "tournaments": 4,
     "gamesWon": 8,
@@ -13895,6 +16421,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22907",
     "NAF Name": "gaddockteeg",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.8772340307004,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13906,6 +16434,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22926",
     "NAF Name": "sandor",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 157.52356539236476,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13917,6 +16447,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22978",
     "NAF Name": "rhadghut",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.3429468194082,
     "tournaments": 7,
     "gamesWon": 9,
@@ -13928,6 +16460,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22981",
     "NAF Name": "deepgnome06",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 130.9840141569508,
     "tournaments": 2,
     "gamesWon": 1,
@@ -13939,6 +16473,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22982",
     "NAF Name": "xepherkun",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.61930612131147,
     "tournaments": 1,
     "gamesWon": 3,
@@ -13950,6 +16486,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "22993",
     "NAF Name": "DaniFrogger",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 153.56349633680088,
     "tournaments": 3,
     "gamesWon": 5,
@@ -13961,6 +16499,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23005",
     "NAF Name": "wardaddy33",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.75821190564844,
     "tournaments": 1,
     "gamesWon": 2,
@@ -13972,6 +16512,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23018",
     "NAF Name": "zallas",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 153.89065477293224,
     "tournaments": 2,
     "gamesWon": 3,
@@ -13983,6 +16525,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23019",
     "NAF Name": "kerson",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 146.54323192448487,
     "tournaments": 1,
     "gamesWon": 0,
@@ -13994,6 +16538,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23027",
     "NAF Name": "MegaPikaKeroro",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.7725352475742,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14005,6 +16551,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23028",
     "NAF Name": "BadStorm",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 171.3236139821491,
     "tournaments": 2,
     "gamesWon": 7,
@@ -14016,6 +16564,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23030",
     "NAF Name": "papapump1228",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.8397582627532,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14027,6 +16577,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23041",
     "NAF Name": "asiemoagelis",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 149.861918019442,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14038,6 +16590,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23050",
     "NAF Name": "ziblu",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 155.27077685866905,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14049,6 +16603,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23052",
     "NAF Name": "Duodecimo",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 147.80420307574056,
     "tournaments": 3,
     "gamesWon": 5,
@@ -14060,6 +16616,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23058",
     "NAF Name": "aguss",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.52000449780203,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14071,6 +16629,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23066",
     "NAF Name": "kervin",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 126.5264463913604,
     "tournaments": 7,
     "gamesWon": 6,
@@ -14082,6 +16642,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23071",
     "NAF Name": "User2022",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 160.37829520482924,
     "tournaments": 1,
     "gamesWon": 3,
@@ -14093,6 +16655,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23073",
     "NAF Name": "eldiablito",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.6778911900187,
     "tournaments": 1,
     "gamesWon": 3,
@@ -14104,6 +16668,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23097",
     "NAF Name": "ncrcalamine",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.03263906974587,
     "tournaments": 2,
     "gamesWon": 2,
@@ -14115,6 +16681,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23120",
     "NAF Name": "Mr_Creed",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 166.29927068192336,
     "tournaments": 1,
     "gamesWon": 4,
@@ -14126,6 +16694,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23121",
     "NAF Name": "Adrizel",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.286246186175,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14137,6 +16707,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23126",
     "NAF Name": "nocom",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 159.6203421310889,
     "tournaments": 3,
     "gamesWon": 7,
@@ -14148,6 +16720,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23131",
     "NAF Name": "crazy_cow",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 140.31218989258073,
     "tournaments": 2,
     "gamesWon": 3,
@@ -14159,6 +16733,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23143",
     "NAF Name": "toktraz",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.37162163856735,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14170,6 +16746,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23145",
     "NAF Name": "fetterHobbit",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
     "rating": 153.08367848410253,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14181,6 +16759,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23153",
     "NAF Name": "MrPickles",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 162.49255005357062,
     "tournaments": 2,
     "gamesWon": 5,
@@ -14192,6 +16772,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23159",
     "NAF Name": "alex182",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 150.02779620112088,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14203,6 +16785,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23166",
     "NAF Name": "A_Lozano",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 148.1632234034463,
     "tournaments": 2,
     "gamesWon": 3,
@@ -14214,6 +16798,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23167",
     "NAF Name": "Gripnar",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 150.4591058934267,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14225,6 +16811,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23168",
     "NAF Name": "Ramses_EV",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 150.66691255971082,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14236,6 +16824,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23174",
     "NAF Name": "wozzaa",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 161.65161453008022,
     "tournaments": 2,
     "gamesWon": 4,
@@ -14247,6 +16837,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23176",
     "NAF Name": "HipsterPotter",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 138.75474401643373,
     "tournaments": 1,
     "gamesWon": 0,
@@ -14258,6 +16850,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23188",
     "NAF Name": "thedrunkernaut",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.34238891728103,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14269,6 +16863,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23201",
     "NAF Name": "choidivision",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.79307541834973,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14280,6 +16876,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23205",
     "NAF Name": "nachornr",
+    "CCAA": "Apatrida",
+    "Country": "Uruguay",
     "rating": 159.34478148933778,
     "tournaments": 2,
     "gamesWon": 5,
@@ -14291,6 +16889,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23207",
     "NAF Name": "Ty_lepko",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 169.51139524057646,
     "tournaments": 5,
     "gamesWon": 11,
@@ -14302,6 +16902,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23218",
     "NAF Name": "harryallen",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.1463408052039,
     "tournaments": 1,
     "gamesWon": 0,
@@ -14313,6 +16915,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23233",
     "NAF Name": "lokjaw",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.77130585221187,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14324,6 +16928,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23272",
     "NAF Name": "modedaala",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 137.92405153481315,
     "tournaments": 2,
     "gamesWon": 2,
@@ -14335,6 +16941,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23276",
     "NAF Name": "gentlebren",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.2834121800446,
     "tournaments": 1,
     "gamesWon": 0,
@@ -14346,6 +16954,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23284",
     "NAF Name": "tin_smasher",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 117.73125846362073,
     "tournaments": 2,
     "gamesWon": 1,
@@ -14357,6 +16967,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23293",
     "NAF Name": "Laerthis",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 152.69030510140692,
     "tournaments": 2,
     "gamesWon": 4,
@@ -14368,6 +16980,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23295",
     "NAF Name": "Roze",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.53546915973092,
     "tournaments": 1,
     "gamesWon": 0,
@@ -14379,6 +16993,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23299",
     "NAF Name": "Heavy",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 156.11432803871156,
     "tournaments": 4,
     "gamesWon": 6,
@@ -14390,6 +17006,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23305",
     "NAF Name": "strmwng",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 164.3706299532313,
     "tournaments": 2,
     "gamesWon": 4,
@@ -14401,6 +17019,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23309",
     "NAF Name": "albruv",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 145.12239715782962,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14412,6 +17032,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23321",
     "NAF Name": "Laborkatze",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 127.96452227063692,
     "tournaments": 1,
     "gamesWon": 0,
@@ -14423,6 +17045,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23332",
     "NAF Name": "coewolf",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
     "rating": 138.33169163494927,
     "tournaments": 2,
     "gamesWon": 2,
@@ -14434,6 +17058,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23338",
     "NAF Name": "Pertan",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 125.11738551768286,
     "tournaments": 3,
     "gamesWon": 3,
@@ -14445,6 +17071,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23349",
     "NAF Name": "Smollar",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 127.21013345779711,
     "tournaments": 2,
     "gamesWon": 2,
@@ -14456,6 +17084,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23350",
     "NAF Name": "teillman",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 169.09756287892128,
     "tournaments": 3,
     "gamesWon": 7,
@@ -14467,6 +17097,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23352",
     "NAF Name": "aegnor",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 158.9135869222962,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14478,6 +17110,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23358",
     "NAF Name": "LRD_DEMONS",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 136.93969510520014,
     "tournaments": 1,
     "gamesWon": 0,
@@ -14489,6 +17123,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23359",
     "NAF Name": "NEVIL",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 146.69619966006468,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14500,6 +17136,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23365",
     "NAF Name": "LittleDenny",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.46527760072613,
     "tournaments": 6,
     "gamesWon": 10,
@@ -14511,6 +17149,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23368",
     "NAF Name": "Lohu",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 164.0372039043268,
     "tournaments": 2,
     "gamesWon": 6,
@@ -14522,6 +17162,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23370",
     "NAF Name": "Gally",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.97367927874416,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14533,6 +17175,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23371",
     "NAF Name": "Blackturtle",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 152.1541499185707,
     "tournaments": 2,
     "gamesWon": 4,
@@ -14544,6 +17188,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23372",
     "NAF Name": "Singsorrow",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 175.04357939538,
     "tournaments": 2,
     "gamesWon": 7,
@@ -14555,6 +17201,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23380",
     "NAF Name": "3vecescondenado",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.02916674307954,
     "tournaments": 1,
     "gamesWon": 0,
@@ -14566,6 +17214,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23381",
     "NAF Name": "dafo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.70263621230077,
     "tournaments": 2,
     "gamesWon": 3,
@@ -14577,6 +17227,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23394",
     "NAF Name": "David_Q",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.27506880186567,
     "tournaments": 2,
     "gamesWon": 3,
@@ -14588,6 +17240,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23403",
     "NAF Name": "Azlann",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.14526412516534,
     "tournaments": 1,
     "gamesWon": 3,
@@ -14599,6 +17253,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23406",
     "NAF Name": "Goldengate",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 155.0109841583304,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14610,6 +17266,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23409",
     "NAF Name": "Gadedrengen",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 149.17399711780217,
     "tournaments": 2,
     "gamesWon": 2,
@@ -14621,6 +17279,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23411",
     "NAF Name": "flaponion",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 171.23777339575304,
     "tournaments": 1,
     "gamesWon": 4,
@@ -14632,6 +17292,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23418",
     "NAF Name": "edenkeeper",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 123.78082675108634,
     "tournaments": 2,
     "gamesWon": 3,
@@ -14643,6 +17305,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23424",
     "NAF Name": "HuntlyLoon",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 143.84502353755877,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14654,6 +17318,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23427",
     "NAF Name": "helmet",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
     "rating": 154.17740317802622,
     "tournaments": 2,
     "gamesWon": 3,
@@ -14665,6 +17331,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23442",
     "NAF Name": "creatan",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 137.88320125741478,
     "tournaments": 1,
     "gamesWon": 0,
@@ -14676,6 +17344,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23447",
     "NAF Name": "Alinadrel",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 152.1829349755614,
     "tournaments": 3,
     "gamesWon": 6,
@@ -14687,6 +17357,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23450",
     "NAF Name": "Wolves_in_Exile",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 163.41687264662752,
     "tournaments": 1,
     "gamesWon": 4,
@@ -14698,6 +17370,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23451",
     "NAF Name": "The_Joker",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 147.1538750196647,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14709,6 +17383,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23456",
     "NAF Name": "kekonan",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.165699788254,
     "tournaments": 1,
     "gamesWon": 0,
@@ -14720,6 +17396,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23458",
     "NAF Name": "rodsanlen",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 151.4224310562147,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14731,6 +17409,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23459",
     "NAF Name": "padywan",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 153.73873006348202,
     "tournaments": 5,
     "gamesWon": 8,
@@ -14742,6 +17422,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23461",
     "NAF Name": "seanh1986",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.01305676824333,
     "tournaments": 3,
     "gamesWon": 4,
@@ -14753,6 +17435,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23467",
     "NAF Name": "thevoiceofjericho",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 134.5851602756704,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14764,6 +17448,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23470",
     "NAF Name": "Whitehot",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.9483067414663,
     "tournaments": 2,
     "gamesWon": 2,
@@ -14775,6 +17461,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23478",
     "NAF Name": "LUKECTHULHU",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.48200352097535,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14786,6 +17474,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23479",
     "NAF Name": "PARDAKIS",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 161.91698834931412,
     "tournaments": 5,
     "gamesWon": 9,
@@ -14797,6 +17487,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23480",
     "NAF Name": "ARIAN",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.56322027033315,
     "tournaments": 1,
     "gamesWon": 0,
@@ -14808,6 +17500,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23482",
     "NAF Name": "HIERRO",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 156.65069350801062,
     "tournaments": 2,
     "gamesWon": 4,
@@ -14819,6 +17513,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23483",
     "NAF Name": "DANIHARPO",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 132.87179782010884,
     "tournaments": 2,
     "gamesWon": 1,
@@ -14830,6 +17526,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23487",
     "NAF Name": "sycod",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.77815206692873,
     "tournaments": 1,
     "gamesWon": 3,
@@ -14841,6 +17539,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23496",
     "NAF Name": "Mournival",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 145.2811127591066,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14852,6 +17552,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23497",
     "NAF Name": "Johniczech",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
     "rating": 136.8424431257678,
     "tournaments": 2,
     "gamesWon": 2,
@@ -14863,6 +17565,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23506",
     "NAF Name": "kidrock",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 88.7668319148776,
     "tournaments": 8,
     "gamesWon": 4,
@@ -14874,6 +17578,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23507",
     "NAF Name": "banjoclan",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.21759029758203,
     "tournaments": 1,
     "gamesWon": 3,
@@ -14885,6 +17591,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23512",
     "NAF Name": "Thunden",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 159.19942851675793,
     "tournaments": 1,
     "gamesWon": 4,
@@ -14896,6 +17604,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23517",
     "NAF Name": "rotti",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 150.66286105595233,
     "tournaments": 1,
     "gamesWon": 3,
@@ -14907,6 +17617,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23520",
     "NAF Name": "voorhees_carnivean",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.54273721287313,
     "tournaments": 1,
     "gamesWon": 1,
@@ -14918,6 +17630,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23522",
     "NAF Name": "warashes",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 146.55436983103533,
     "tournaments": 4,
     "gamesWon": 7,
@@ -14929,6 +17643,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23528",
     "NAF Name": "jmaru91",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 140.12505775668183,
     "tournaments": 1,
     "gamesWon": 0,
@@ -14940,6 +17656,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23529",
     "NAF Name": "muzza90",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 155.26097450823332,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14951,6 +17669,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23534",
     "NAF Name": "BulletTooth_Tony",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.7174633447536,
     "tournaments": 1,
     "gamesWon": 2,
@@ -14962,6 +17682,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23537",
     "NAF Name": "Thorfyn",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.43616289500955,
     "tournaments": 1,
     "gamesWon": 0,
@@ -14973,6 +17695,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23538",
     "NAF Name": "Pete",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 164.13675749760344,
     "tournaments": 3,
     "gamesWon": 5,
@@ -14984,6 +17708,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23539",
     "NAF Name": "Gudj",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.007782132707,
     "tournaments": 2,
     "gamesWon": 3,
@@ -14995,6 +17721,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23547",
     "NAF Name": "raban",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 146.2643748080223,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15006,6 +17734,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23554",
     "NAF Name": "alsarion",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.05027942106508,
     "tournaments": 1,
     "gamesWon": 3,
@@ -15017,6 +17747,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23565",
     "NAF Name": "Vampire",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
     "rating": 144.06369340879056,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15028,6 +17760,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23566",
     "NAF Name": "Chroust",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
     "rating": 127.03021349722616,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15039,6 +17773,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23570",
     "NAF Name": "calfykid",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.86277690596648,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15050,6 +17786,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23576",
     "NAF Name": "BLUEWING711",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.82619379012218,
     "tournaments": 2,
     "gamesWon": 2,
@@ -15061,6 +17799,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23577",
     "NAF Name": "DurtWataFlashMob",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.44004028366618,
     "tournaments": 3,
     "gamesWon": 4,
@@ -15072,6 +17812,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23597",
     "NAF Name": "guillerkawasaki",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.23479772188395,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15083,6 +17825,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23600",
     "NAF Name": "Sporran",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 144.48207742505826,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15094,6 +17838,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23619",
     "NAF Name": "Lenharth",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 155.40479187149322,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15105,6 +17851,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23620",
     "NAF Name": "snowmacus",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 153.31303102017927,
     "tournaments": 5,
     "gamesWon": 11,
@@ -15116,6 +17864,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23621",
     "NAF Name": "drewrobertson",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 141.88088736991597,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15127,6 +17877,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23622",
     "NAF Name": "landphil",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.34956955719983,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15138,6 +17890,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23647",
     "NAF Name": "kiosone",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 150.31297982804506,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15149,6 +17903,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23648",
     "NAF Name": "TrevCraig",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 152.50957461491242,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15160,6 +17916,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23665",
     "NAF Name": "pletoriano83",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 147.50857042483187,
     "tournaments": 3,
     "gamesWon": 4,
@@ -15171,6 +17929,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23667",
     "NAF Name": "Maloles",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.39536723430354,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15182,6 +17942,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.67806272033448,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15193,6 +17955,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23669",
     "NAF Name": "Luis_Roka",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 157.9489445761026,
     "tournaments": 5,
     "gamesWon": 9,
@@ -15204,6 +17968,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23693",
     "NAF Name": "Greval",
+    "CCAA": "Apatrida",
+    "Country": "South Africa",
     "rating": 142.41858431828706,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15215,6 +17981,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23698",
     "NAF Name": "GavinM",
+    "CCAA": "Apatrida",
+    "Country": "South Africa",
     "rating": 149.20950987539806,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15226,6 +17994,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23700",
     "NAF Name": "campmark",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 132.79516617653653,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15237,6 +18007,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23701",
     "NAF Name": "grimgor83",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.96616421824658,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15248,6 +18020,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23706",
     "NAF Name": "Embla",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 134.91000123133594,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15259,6 +18033,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23720",
     "NAF Name": "BB-Sprout",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 162.9346978311582,
     "tournaments": 2,
     "gamesWon": 5,
@@ -15270,6 +18046,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23724",
     "NAF Name": "xrishadowchaser",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.65685424949237,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15281,6 +18059,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23727",
     "NAF Name": "stowelly",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.31714954041624,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15292,6 +18072,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23731",
     "NAF Name": "Ehcko",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.19393335524532,
     "tournaments": 2,
     "gamesWon": 3,
@@ -15303,6 +18085,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23733",
     "NAF Name": "dodo73",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 161.77302228799874,
     "tournaments": 1,
     "gamesWon": 4,
@@ -15314,6 +18098,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23739",
     "NAF Name": "bilbon007",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 122.45071156120326,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15325,6 +18111,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23740",
     "NAF Name": "Billa",
+    "CCAA": "Apatrida",
+    "Country": "Uruguay",
     "rating": 147.5136919923705,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15336,6 +18124,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23744",
     "NAF Name": "zalobolso",
+    "CCAA": "Apatrida",
+    "Country": "Uruguay",
     "rating": 147.81546476471425,
     "tournaments": 2,
     "gamesWon": 2,
@@ -15347,6 +18137,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23745",
     "NAF Name": "Winters",
+    "CCAA": "Apatrida",
+    "Country": "Uruguay",
     "rating": 147.46517696876228,
     "tournaments": 2,
     "gamesWon": 1,
@@ -15358,6 +18150,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23747",
     "NAF Name": "Made_In_Korea",
+    "CCAA": "Apatrida",
+    "Country": "Uruguay",
     "rating": 145.36774062122316,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15369,6 +18163,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23757",
     "NAF Name": "Kuismanator",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 152.11548269015665,
     "tournaments": 3,
     "gamesWon": 6,
@@ -15380,6 +18176,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23769",
     "NAF Name": "thomasw",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.417428496845,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15391,6 +18189,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23793",
     "NAF Name": "kwarrend",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.82262422005758,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15402,6 +18202,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23804",
     "NAF Name": "Elfic",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 166.9608109064612,
     "tournaments": 1,
     "gamesWon": 4,
@@ -15413,6 +18215,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23806",
     "NAF Name": "Stikman",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 149.99159454064014,
     "tournaments": 1,
     "gamesWon": 3,
@@ -15424,6 +18228,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23807",
     "NAF Name": "Horn",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 160.61851616853585,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15435,6 +18241,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23820",
     "NAF Name": "kismet",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 136.16414724066092,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15446,6 +18254,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23827",
     "NAF Name": "Wolfhound",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
     "rating": 157.3013553878947,
     "tournaments": 2,
     "gamesWon": 5,
@@ -15457,6 +18267,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23833",
     "NAF Name": "TonyToadKing",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.56259326226524,
     "tournaments": 2,
     "gamesWon": 6,
@@ -15468,6 +18280,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23844",
     "NAF Name": "Naama",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 160.02192463270293,
     "tournaments": 3,
     "gamesWon": 6,
@@ -15479,6 +18293,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23849",
     "NAF Name": "Pravnuk",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 155.0688816979879,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15490,6 +18306,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23858",
     "NAF Name": "Mr_Zay",
+    "CCAA": "Apatrida",
+    "Country": "Venezuela",
     "rating": 144.80256405882366,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15501,6 +18319,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23862",
     "NAF Name": "Stunties",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 165.1962989396129,
     "tournaments": 3,
     "gamesWon": 5,
@@ -15512,6 +18332,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23863",
     "NAF Name": "schumway",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 152.82842712474618,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15523,6 +18345,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23871",
     "NAF Name": "corvoxavier",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.73380468407615,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15534,6 +18358,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23880",
     "NAF Name": "Bobbogamr",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.34410855940843,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15545,6 +18371,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23894",
     "NAF Name": "slimjono",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 128.55776006807682,
     "tournaments": 2,
     "gamesWon": 2,
@@ -15556,6 +18384,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23898",
     "NAF Name": "games",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 139.49634230312697,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15567,6 +18397,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23909",
     "NAF Name": "rivfader",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 145.2220819559485,
     "tournaments": 2,
     "gamesWon": 2,
@@ -15578,6 +18410,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23917",
     "NAF Name": "jeronimo",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 134.99877932659317,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15589,6 +18423,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23922",
     "NAF Name": "Whitey",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 170.65178550425287,
     "tournaments": 4,
     "gamesWon": 9,
@@ -15600,6 +18436,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23925",
     "NAF Name": "Raging82",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 156.67495923844177,
     "tournaments": 3,
     "gamesWon": 5,
@@ -15611,6 +18449,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23927",
     "NAF Name": "SouthernSlayer",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.92862381429825,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15622,6 +18462,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23940",
     "NAF Name": "andswin",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 151.1385248462298,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15633,6 +18475,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23943",
     "NAF Name": "keksmuzh",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.4315918365,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15644,6 +18488,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23955",
     "NAF Name": "tommymcg",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.12759285182574,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15655,6 +18501,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23959",
     "NAF Name": "Cranacti",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.30492049489715,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15666,6 +18514,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23965",
     "NAF Name": "cokyr",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 149.7549807380808,
     "tournaments": 3,
     "gamesWon": 4,
@@ -15677,6 +18527,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23978",
     "NAF Name": "Dummesvin",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 132.66288592490008,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15688,6 +18540,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23984",
     "NAF Name": "Gurgeh",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15699,6 +18553,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23987",
     "NAF Name": "lahobbsy",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 138.1721389685537,
     "tournaments": 2,
     "gamesWon": 0,
@@ -15710,6 +18566,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23988",
     "NAF Name": "jebjeb",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 144.9256102207215,
     "tournaments": 3,
     "gamesWon": 4,
@@ -15721,6 +18579,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23990",
     "NAF Name": "Nomad1825",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 140.6019703735248,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15732,6 +18592,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23991",
     "NAF Name": "darknessone13",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 140.51512541900138,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15743,6 +18605,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23992",
     "NAF Name": "kaintxu",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 167.19706399597513,
     "tournaments": 1,
     "gamesWon": 3,
@@ -15754,6 +18618,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "23994",
     "NAF Name": "hehasmoments",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.9317463597487,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15765,6 +18631,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24000",
     "NAF Name": "Fweddy",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.8325218214385,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15776,6 +18644,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24015",
     "NAF Name": "gg100",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 136.910655500834,
     "tournaments": 2,
     "gamesWon": 1,
@@ -15787,6 +18657,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24028",
     "NAF Name": "LORD_ARIOCH",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 162.66274965677798,
     "tournaments": 1,
     "gamesWon": 3,
@@ -15798,6 +18670,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24030",
     "NAF Name": "bryan506",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.5878406636154,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15809,6 +18683,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24033",
     "NAF Name": "metalmalta",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 177.04581696098958,
     "tournaments": 6,
     "gamesWon": 16,
@@ -15820,6 +18696,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24044",
     "NAF Name": "pepin09",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 156.0782660434916,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15831,6 +18709,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24050",
     "NAF Name": "SaltySeaWench",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 130.23759679807839,
     "tournaments": 2,
     "gamesWon": 2,
@@ -15842,6 +18722,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24051",
     "NAF Name": "Insidious",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.83885832763016,
     "tournaments": 2,
     "gamesWon": 6,
@@ -15853,6 +18735,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24053",
     "NAF Name": "Mad_Coach",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 148.014132895907,
     "tournaments": 8,
     "gamesWon": 13,
@@ -15864,6 +18748,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24059",
     "NAF Name": "Dr.One",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 132.2173297311668,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15875,6 +18761,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24061",
     "NAF Name": "Zimeries",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 141.35385073215164,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15886,6 +18774,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24065",
     "NAF Name": "Scouseboy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.46540002693922,
     "tournaments": 5,
     "gamesWon": 9,
@@ -15897,6 +18787,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24074",
     "NAF Name": "Wulffgang",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 149.07910124585115,
     "tournaments": 3,
     "gamesWon": 4,
@@ -15908,6 +18800,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24084",
     "NAF Name": "beardedweirdo",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 134.01891136612846,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15919,6 +18813,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24087",
     "NAF Name": "Lulu",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.4798116350615,
     "tournaments": 2,
     "gamesWon": 2,
@@ -15930,6 +18826,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24095",
     "NAF Name": "saer",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 148.69417345494543,
     "tournaments": 1,
     "gamesWon": 2,
@@ -15941,6 +18839,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24103",
     "NAF Name": "phesmic",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 151.14875418178076,
     "tournaments": 3,
     "gamesWon": 7,
@@ -15952,6 +18852,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24104",
     "NAF Name": "Loynster",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 161.95118353257615,
     "tournaments": 1,
     "gamesWon": 3,
@@ -15963,6 +18865,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24105",
     "NAF Name": "bastard13",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 151.5722920523482,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15974,6 +18878,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24106",
     "NAF Name": "gorri",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.80627423095737,
     "tournaments": 1,
     "gamesWon": 0,
@@ -15985,6 +18891,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24107",
     "NAF Name": "chaosbunny7",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.46769964214667,
     "tournaments": 1,
     "gamesWon": 1,
@@ -15996,6 +18904,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24110",
     "NAF Name": "rone",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 147.38414415341157,
     "tournaments": 3,
     "gamesWon": 5,
@@ -16007,6 +18917,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24112",
     "NAF Name": "marsh",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 138.57592443195514,
     "tournaments": 2,
     "gamesWon": 2,
@@ -16018,6 +18930,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24114",
     "NAF Name": "finch",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 146.33046486251422,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16029,6 +18943,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24115",
     "NAF Name": "herotosucara",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.0665122973311,
     "tournaments": 2,
     "gamesWon": 2,
@@ -16040,6 +18956,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24116",
     "NAF Name": "Valpurgios",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 150.41940708413983,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16051,6 +18969,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24119",
     "NAF Name": "Vito",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 151.08921911470497,
     "tournaments": 3,
     "gamesWon": 4,
@@ -16062,6 +18982,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24134",
     "NAF Name": "Saki",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 161.3198523244106,
     "tournaments": 3,
     "gamesWon": 7,
@@ -16073,6 +18995,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24138",
     "NAF Name": "gunman",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 131.97243671665066,
     "tournaments": 2,
     "gamesWon": 1,
@@ -16084,6 +19008,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24141",
     "NAF Name": "Argoeth",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 153.6446993892361,
     "tournaments": 2,
     "gamesWon": 3,
@@ -16095,6 +19021,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24144",
     "NAF Name": "mori",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 131.42560625377521,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16106,6 +19034,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24145",
     "NAF Name": "Juggernaut_ZA",
+    "CCAA": "Apatrida",
+    "Country": "South Africa",
     "rating": 150.31245156855238,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16117,6 +19047,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24149",
     "NAF Name": "Karazuki",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.78191537658228,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16128,6 +19060,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24154",
     "NAF Name": "Torpedoman679",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 158.21366457049646,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16139,6 +19073,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24160",
     "NAF Name": "spitfinger",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.01003021925212,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16150,6 +19086,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24161",
     "NAF Name": "Stewbacca",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.1526601696587,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16161,6 +19099,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24171",
     "NAF Name": "Dziczek",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 160.78612796438694,
     "tournaments": 2,
     "gamesWon": 5,
@@ -16172,6 +19112,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24188",
     "NAF Name": "alvic77",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.67371580550395,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16183,6 +19125,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24206",
     "NAF Name": "Uao",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 150.67812098605805,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16194,6 +19138,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24208",
     "NAF Name": "drakmere",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.34314575050763,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16205,6 +19151,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24210",
     "NAF Name": "Nephi",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.2778924842693,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16216,6 +19164,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24212",
     "NAF Name": "Yasmir",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 146.62553351087533,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16227,6 +19177,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24222",
     "NAF Name": "MadVig",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 169.1490827030741,
     "tournaments": 4,
     "gamesWon": 7,
@@ -16238,6 +19190,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24224",
     "NAF Name": "karrash",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 109.8838887506798,
     "tournaments": 3,
     "gamesWon": 0,
@@ -16249,6 +19203,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24229",
     "NAF Name": "stelthelf",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 157.08747920279941,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16260,6 +19216,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24242",
     "NAF Name": "_Nico_",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.64779361605432,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16271,6 +19229,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24243",
     "NAF Name": "Arctulipe",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 148.97223639812447,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16282,6 +19242,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24247",
     "NAF Name": "Wotan",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.35299741555647,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16293,6 +19255,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24248",
     "NAF Name": "Arrow",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.8431536079729,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16304,6 +19268,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24250",
     "NAF Name": "Bulot",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 117.14405289083565,
     "tournaments": 2,
     "gamesWon": 0,
@@ -16315,6 +19281,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24251",
     "NAF Name": "Castor2feu",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.39587979295433,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16326,6 +19294,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24262",
     "NAF Name": "desertwolf978",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 137.22015034076117,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16337,6 +19307,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24279",
     "NAF Name": "geomac88",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.54724169401314,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16348,6 +19320,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24295",
     "NAF Name": "Mabu",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.5225970470947,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16359,6 +19333,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24297",
     "NAF Name": "darkarcher",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
     "rating": 153.74165738677394,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16370,6 +19346,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24298",
     "NAF Name": "crychair",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.43873528673657,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16381,6 +19359,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24311",
     "NAF Name": "Doomfox",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 147.0591605882903,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16392,6 +19372,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24314",
     "NAF Name": "machurto",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 162.34613284712142,
     "tournaments": 2,
     "gamesWon": 4,
@@ -16403,6 +19385,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24319",
     "NAF Name": "Half_Baked",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 165.33266312098243,
     "tournaments": 4,
     "gamesWon": 8,
@@ -16414,6 +19398,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24329",
     "NAF Name": "duffins",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.74927374823494,
     "tournaments": 4,
     "gamesWon": 6,
@@ -16425,6 +19411,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24342",
     "NAF Name": "orklabe",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.39104776541504,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16436,6 +19424,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24343",
     "NAF Name": "renegade23",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 163.21930471315628,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16447,6 +19437,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24357",
     "NAF Name": "DoTheMario",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 172.6478458862924,
     "tournaments": 1,
     "gamesWon": 4,
@@ -16458,6 +19450,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24359",
     "NAF Name": "Grab",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 129.53790917421304,
     "tournaments": 3,
     "gamesWon": 4,
@@ -16469,6 +19463,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24361",
     "NAF Name": "Neeko",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 156.229182414637,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16480,6 +19476,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24370",
     "NAF Name": "eu4ico",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 116.80528736850849,
     "tournaments": 3,
     "gamesWon": 2,
@@ -16491,6 +19489,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24374",
     "NAF Name": "opnicus",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 137.07025047597386,
     "tournaments": 3,
     "gamesWon": 4,
@@ -16502,6 +19502,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24379",
     "NAF Name": "AlphaWolf",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 168.1782187106424,
     "tournaments": 3,
     "gamesWon": 7,
@@ -16513,6 +19515,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24381",
     "NAF Name": "taco-man",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.75306599892735,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16524,6 +19528,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24384",
     "NAF Name": "whatasandwich",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 136.42821010714127,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16535,6 +19541,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24403",
     "NAF Name": "Joker2and53",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 194.0918851774302,
     "tournaments": 5,
     "gamesWon": 13,
@@ -16546,6 +19554,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24404",
     "NAF Name": "Bananahands",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.10545106657608,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16557,6 +19567,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24413",
     "NAF Name": "iniq",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.3946745554859,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16568,6 +19580,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24415",
     "NAF Name": "KidRichard",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 151.06460319534781,
     "tournaments": 3,
     "gamesWon": 4,
@@ -16579,6 +19593,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24423",
     "NAF Name": "haychdee",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.94203326137193,
     "tournaments": 3,
     "gamesWon": 5,
@@ -16590,6 +19606,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24427",
     "NAF Name": "mateuso",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 163.9387754577919,
     "tournaments": 5,
     "gamesWon": 10,
@@ -16601,6 +19619,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24432",
     "NAF Name": "zedinsane",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 147.10712464172522,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16612,6 +19632,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24435",
     "NAF Name": "Mr.Christie",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 161.51074813194808,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16623,6 +19645,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24437",
     "NAF Name": "aarona",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 144.9989672501462,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16634,6 +19658,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24446",
     "NAF Name": "ChAoSmaTac",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 135.2861779140809,
     "tournaments": 4,
     "gamesWon": 4,
@@ -16645,6 +19671,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24449",
     "NAF Name": "calltroop",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 152.96525417782763,
     "tournaments": 3,
     "gamesWon": 5,
@@ -16656,6 +19684,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24457",
     "NAF Name": "DANIFITO",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 141.11069641307316,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16667,6 +19697,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24460",
     "NAF Name": "FRUMFRIM",
+    "CCAA": "I. Canarias",
+    "Country": "Spain",
     "rating": 160.6289483343172,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16678,6 +19710,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24466",
     "NAF Name": "Sparky",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 128.07757923877926,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16689,6 +19723,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24469",
     "NAF Name": "Sobhek",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.25006389561275,
     "tournaments": 2,
     "gamesWon": 3,
@@ -16700,6 +19736,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24473",
     "NAF Name": "Murmelmeister",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.98808696369238,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16711,6 +19749,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24474",
     "NAF Name": "Knäppmeister",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 147,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16722,6 +19762,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24477",
     "NAF Name": "TokenGeordie",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 156.59408675446065,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16733,6 +19775,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24481",
     "NAF Name": "soren_davengard",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.33232343763774,
     "tournaments": 2,
     "gamesWon": 4,
@@ -16744,6 +19788,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24485",
     "NAF Name": "agurck",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 165.82510742579402,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16755,6 +19801,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24496",
     "NAF Name": "rodvil",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 158.00066468818204,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16766,6 +19814,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24501",
     "NAF Name": "Blue_Lyon",
+    "CCAA": "Apatrida",
+    "Country": "Uruguay",
     "rating": 142.65648258306464,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16777,6 +19827,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24508",
     "NAF Name": "punchymcragefists",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 166.04419557701203,
     "tournaments": 2,
     "gamesWon": 5,
@@ -16788,6 +19840,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24515",
     "NAF Name": "Oricodi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.5256836633387,
     "tournaments": 2,
     "gamesWon": 2,
@@ -16799,6 +19853,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24516",
     "NAF Name": "GreySquirrel",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 172.3059036303356,
     "tournaments": 2,
     "gamesWon": 9,
@@ -16810,6 +19866,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24528",
     "NAF Name": "DELKAMP_O",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 142.8633522224285,
     "tournaments": 2,
     "gamesWon": 3,
@@ -16821,6 +19879,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24529",
     "NAF Name": "HarrySp",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 150.33679075740267,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16832,6 +19892,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24530",
     "NAF Name": "Machakazaurioz",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.1848126891472,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16843,6 +19905,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24541",
     "NAF Name": "ootman",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.09245032658498,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16854,6 +19918,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24553",
     "NAF Name": "Jojo_starfish",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.42485905020595,
     "tournaments": 2,
     "gamesWon": 2,
@@ -16865,6 +19931,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24554",
     "NAF Name": "Marcepan",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 150.0199663245191,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16876,6 +19944,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24566",
     "NAF Name": "Oldone",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 157.81238098015672,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16887,6 +19957,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24579",
     "NAF Name": "Pit",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 166.46384609282111,
     "tournaments": 1,
     "gamesWon": 4,
@@ -16898,6 +19970,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24581",
     "NAF Name": "Lepandawan",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 158.2035839597456,
     "tournaments": 1,
     "gamesWon": 3,
@@ -16909,6 +19983,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24582",
     "NAF Name": "Vodka",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 169.6272475626658,
     "tournaments": 3,
     "gamesWon": 8,
@@ -16920,6 +19996,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24586",
     "NAF Name": "OM3GA",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 145.36281994276493,
     "tournaments": 1,
     "gamesWon": 1,
@@ -16931,6 +20009,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24593",
     "NAF Name": "AGAM",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.8563627371904,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16942,6 +20022,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24603",
     "NAF Name": "redstar1",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.90956980258554,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16953,6 +20035,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24604",
     "NAF Name": "SVelez01",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.3592141342339,
     "tournaments": 1,
     "gamesWon": 0,
@@ -16964,6 +20048,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24606",
     "NAF Name": "FACESTOMP",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 158.45609100926836,
     "tournaments": 3,
     "gamesWon": 5,
@@ -16975,6 +20061,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24612",
     "NAF Name": "chupacabra",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.90662765060216,
     "tournaments": 1,
     "gamesWon": 2,
@@ -16986,6 +20074,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24623",
     "NAF Name": "xiete",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 152.71180996076004,
     "tournaments": 3,
     "gamesWon": 6,
@@ -16997,6 +20087,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24632",
     "NAF Name": "rabitsh",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.75272093672464,
     "tournaments": 1,
     "gamesWon": 0,
@@ -17008,6 +20100,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24633",
     "NAF Name": "MattTheBold",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.71731933075668,
     "tournaments": 2,
     "gamesWon": 3,
@@ -17019,6 +20113,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24634",
     "NAF Name": "Modeste_et_Génial",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.30969064026561,
     "tournaments": 3,
     "gamesWon": 3,
@@ -17030,6 +20126,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24641",
     "NAF Name": "Java",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 154.47669916872664,
     "tournaments": 6,
     "gamesWon": 10,
@@ -17041,6 +20139,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24644",
     "NAF Name": "HeadlessCoach",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.72755897161343,
     "tournaments": 1,
     "gamesWon": 3,
@@ -17052,6 +20152,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24645",
     "NAF Name": "PurpleChest",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 171.29792035524994,
     "tournaments": 3,
     "gamesWon": 6,
@@ -17063,6 +20165,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24649",
     "NAF Name": "Ravening",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.75122026505025,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17074,6 +20178,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24651",
     "NAF Name": "TJKnights",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.07807067616463,
     "tournaments": 1,
     "gamesWon": 3,
@@ -17085,6 +20191,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24657",
     "NAF Name": "thebymster",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 158.99528952972364,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17096,6 +20204,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24662",
     "NAF Name": "Mugen_stumpo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 126.04912869368218,
     "tournaments": 2,
     "gamesWon": 2,
@@ -17107,6 +20217,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24666",
     "NAF Name": "larrycroft",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 145.02614094405877,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17118,6 +20230,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24668",
     "NAF Name": "big_be",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 125.53340817037089,
     "tournaments": 2,
     "gamesWon": 2,
@@ -17129,6 +20243,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24669",
     "NAF Name": "JohnnyBravo",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 149.890623874415,
     "tournaments": 2,
     "gamesWon": 3,
@@ -17140,6 +20256,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24677",
     "NAF Name": "FloridaMan",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 167.9818411761222,
     "tournaments": 1,
     "gamesWon": 3,
@@ -17151,6 +20269,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24700",
     "NAF Name": "xagar",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 150.00042340353195,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17162,6 +20282,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24704",
     "NAF Name": "cruciasnz",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 150.01849672756066,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17173,6 +20295,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24705",
     "NAF Name": "enano_mortal",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 159.562638606596,
     "tournaments": 2,
     "gamesWon": 3,
@@ -17184,6 +20308,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24710",
     "NAF Name": "rover",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 161.33454007391865,
     "tournaments": 1,
     "gamesWon": 4,
@@ -17195,6 +20321,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24711",
     "NAF Name": "MarkusNord",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 155.89255484904132,
     "tournaments": 1,
     "gamesWon": 3,
@@ -17206,6 +20334,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24718",
     "NAF Name": "manicmechanic",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 144.42403831502884,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17217,6 +20347,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24722",
     "NAF Name": "BellyBrassknuckle",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.24587643709816,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17228,6 +20360,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24725",
     "NAF Name": "Orinox",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 145.8872706927257,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17239,6 +20373,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24728",
     "NAF Name": "Purohit",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 181.02975380004042,
     "tournaments": 3,
     "gamesWon": 8,
@@ -17250,6 +20386,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24733",
     "NAF Name": "ElMaldito",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.99959263696803,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17261,6 +20399,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24737",
     "NAF Name": "Mourety",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.34730739456103,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17272,6 +20412,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24740",
     "NAF Name": "knine",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 167.94551694090097,
     "tournaments": 2,
     "gamesWon": 6,
@@ -17283,6 +20425,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24743",
     "NAF Name": "Vonhagen",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 135.9087161319808,
     "tournaments": 3,
     "gamesWon": 1,
@@ -17294,6 +20438,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24744",
     "NAF Name": "Machuca",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 161.58791852910463,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17305,6 +20451,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24745",
     "NAF Name": "Roman_Algarond",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 151.63016120137198,
     "tournaments": 2,
     "gamesWon": 1,
@@ -17316,6 +20464,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24746",
     "NAF Name": "kikelin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 132.86671112441059,
     "tournaments": 2,
     "gamesWon": 3,
@@ -17327,6 +20477,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24747",
     "NAF Name": "Franbuho",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.0073878043466,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17338,6 +20490,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24748",
     "NAF Name": "Turbonitro",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.29494329208737,
     "tournaments": 4,
     "gamesWon": 5,
@@ -17349,6 +20503,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24749",
     "NAF Name": "Fichtl",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 156.2303818231416,
     "tournaments": 1,
     "gamesWon": 3,
@@ -17360,6 +20516,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24759",
     "NAF Name": "lord_relictor",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.90213298142027,
     "tournaments": 2,
     "gamesWon": 3,
@@ -17371,6 +20529,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24764",
     "NAF Name": "Califa_Mortal",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 141.4408775331734,
     "tournaments": 2,
     "gamesWon": 2,
@@ -17382,6 +20542,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24768",
     "NAF Name": "Don_Juanfra",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.42003362177917,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17393,6 +20555,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24771",
     "NAF Name": "SrLobo",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 161.08522627578645,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17404,6 +20568,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24778",
     "NAF Name": "Hurankan_Kries",
+    "CCAA": "Apatrida",
+    "Country": "Chile",
     "rating": 156.83612152365885,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17415,6 +20581,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24784",
     "NAF Name": "JaKa",
+    "CCAA": "Apatrida",
+    "Country": "Chile",
     "rating": 153.55618332175445,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17426,6 +20594,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24788",
     "NAF Name": "bialy",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 152.4548096281764,
     "tournaments": 3,
     "gamesWon": 5,
@@ -17437,6 +20607,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24797",
     "NAF Name": "donh",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.6117368319734,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17448,6 +20620,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24798",
     "NAF Name": "dazzir",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 150.00084680706902,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17459,6 +20633,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24799",
     "NAF Name": "ziggens",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.80156148051486,
     "tournaments": 2,
     "gamesWon": 4,
@@ -17470,6 +20646,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24819",
     "NAF Name": "maillo",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 127.41323366388764,
     "tournaments": 2,
     "gamesWon": 2,
@@ -17481,6 +20659,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24820",
     "NAF Name": "chicobowl",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 135.04908365112644,
     "tournaments": 5,
     "gamesWon": 5,
@@ -17492,6 +20672,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24824",
     "NAF Name": "paula",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 151.89156778908142,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17503,6 +20685,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24830",
     "NAF Name": "dgriff",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.6079505097502,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17514,6 +20698,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24840",
     "NAF Name": "Naku",
+    "CCAA": "Apatrida",
+    "Country": "Chile",
     "rating": 142.97971506310782,
     "tournaments": 1,
     "gamesWon": 0,
@@ -17525,6 +20711,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24844",
     "NAF Name": "akkim",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.31882683722296,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17536,6 +20724,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24857",
     "NAF Name": "poj-poj",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 146.52012232781655,
     "tournaments": 1,
     "gamesWon": 0,
@@ -17547,6 +20737,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24859",
     "NAF Name": "todrick",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 158.3980663220597,
     "tournaments": 2,
     "gamesWon": 3,
@@ -17558,6 +20750,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24860",
     "NAF Name": "yapaldz",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 159.65505738563428,
     "tournaments": 2,
     "gamesWon": 4,
@@ -17569,6 +20763,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24861",
     "NAF Name": "Soxarome",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.14111416195172,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17580,6 +20776,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24864",
     "NAF Name": "stormhammer",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.4882259427278,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17591,6 +20789,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24866",
     "NAF Name": "maquinator",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.24720744294777,
     "tournaments": 2,
     "gamesWon": 2,
@@ -17602,6 +20802,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24869",
     "NAF Name": "durzas",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 140.99843602820266,
     "tournaments": 3,
     "gamesWon": 3,
@@ -17613,6 +20815,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24873",
     "NAF Name": "grimfoe",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.54038449020996,
     "tournaments": 2,
     "gamesWon": 2,
@@ -17624,6 +20828,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24874",
     "NAF Name": "Ranzimus",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 160.30719719176759,
     "tournaments": 2,
     "gamesWon": 4,
@@ -17635,6 +20841,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24875",
     "NAF Name": "pauladin",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.58314482192029,
     "tournaments": 2,
     "gamesWon": 3,
@@ -17646,6 +20854,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24876",
     "NAF Name": "matman",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 163.67107198701558,
     "tournaments": 2,
     "gamesWon": 4,
@@ -17657,6 +20867,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24879",
     "NAF Name": "The_Hobgoblin",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.99815001895828,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17668,6 +20880,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24880",
     "NAF Name": "jaruib",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.94454039481514,
     "tournaments": 2,
     "gamesWon": 4,
@@ -17679,6 +20893,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24898",
     "NAF Name": "isrra",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 138.18270075513914,
     "tournaments": 2,
     "gamesWon": 1,
@@ -17690,6 +20906,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24901",
     "NAF Name": "NoahDaNinja",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.09779225040492,
     "tournaments": 2,
     "gamesWon": 4,
@@ -17701,6 +20919,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24918",
     "NAF Name": "MarcosGrande",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 157.66951171452686,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17712,6 +20932,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24919",
     "NAF Name": "Tarvitz",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 132.84462497211715,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17723,6 +20945,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24921",
     "NAF Name": "Deaf_Grot",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.3365793997668,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17734,6 +20958,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24926",
     "NAF Name": "Everybodys_dead_Dave",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 165.4267631462168,
     "tournaments": 4,
     "gamesWon": 9,
@@ -17745,6 +20971,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24927",
     "NAF Name": "gritter",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 172.72619628989628,
     "tournaments": 3,
     "gamesWon": 8,
@@ -17756,6 +20984,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24933",
     "NAF Name": "Dzyndzel",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 159.51357981137417,
     "tournaments": 2,
     "gamesWon": 5,
@@ -17767,6 +20997,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24935",
     "NAF Name": "Zielu",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 124.30954821366505,
     "tournaments": 2,
     "gamesWon": 2,
@@ -17778,6 +21010,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24942",
     "NAF Name": "TheFear",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 171.97867487378105,
     "tournaments": 1,
     "gamesWon": 5,
@@ -17789,6 +21023,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24947",
     "NAF Name": "Kopuł",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 160.4642891452566,
     "tournaments": 2,
     "gamesWon": 4,
@@ -17800,6 +21036,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24950",
     "NAF Name": "Hatack",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 161.69840798312794,
     "tournaments": 2,
     "gamesWon": 5,
@@ -17811,6 +21049,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24954",
     "NAF Name": "razta",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 163.354491847307,
     "tournaments": 2,
     "gamesWon": 5,
@@ -17822,6 +21062,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24978",
     "NAF Name": "DwarfTossers",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 187.04384764894252,
     "tournaments": 3,
     "gamesWon": 8,
@@ -17833,6 +21075,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24982",
     "NAF Name": "jluisbig",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.53023130931714,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17844,6 +21088,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24991",
     "NAF Name": "Talti",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 155.8783130091873,
     "tournaments": 1,
     "gamesWon": 3,
@@ -17855,6 +21101,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24992",
     "NAF Name": "Thorslev",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 156.08521876392004,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17866,6 +21114,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "24995",
     "NAF Name": "Bester",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 128.3427748035429,
     "tournaments": 1,
     "gamesWon": 0,
@@ -17877,6 +21127,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25000",
     "NAF Name": "tobbez",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 161.55194042513122,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17888,6 +21140,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25003",
     "NAF Name": "Nackaro",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 149.75545265619994,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17899,6 +21153,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25005",
     "NAF Name": "MidnightOgre",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 155.86195399276292,
     "tournaments": 1,
     "gamesWon": 3,
@@ -17910,6 +21166,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25008",
     "NAF Name": "hathi91",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.9689532414225,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17921,6 +21179,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25015",
     "NAF Name": "Baixa",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 125.54795125642006,
     "tournaments": 3,
     "gamesWon": 3,
@@ -17932,6 +21192,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25019",
     "NAF Name": "Slimer",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.0472633518718,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17943,6 +21205,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25029",
     "NAF Name": "lithium",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
     "rating": 146.36285491050916,
     "tournaments": 1,
     "gamesWon": 0,
@@ -17954,6 +21218,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25032",
     "NAF Name": "GML",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 146.75171998239463,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17965,6 +21231,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25035",
     "NAF Name": "TheRake",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 163.58848787087868,
     "tournaments": 3,
     "gamesWon": 6,
@@ -17976,6 +21244,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25037",
     "NAF Name": "Trinqit",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 158.77023196612618,
     "tournaments": 1,
     "gamesWon": 2,
@@ -17987,6 +21257,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25044",
     "NAF Name": "Drop_Bear",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 145.0857571835121,
     "tournaments": 1,
     "gamesWon": 1,
@@ -17998,6 +21270,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25049",
     "NAF Name": "frayleon",
+    "CCAA": "C. La Mancha",
+    "Country": "Spain",
     "rating": 149.99973094199166,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18009,6 +21283,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25050",
     "NAF Name": "Hellfish",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.20663435035183,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18020,6 +21296,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25053",
     "NAF Name": "kissthehurricane",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.0293507682194,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18031,6 +21309,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25061",
     "NAF Name": "griffixjedi",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 165.52689133169756,
     "tournaments": 2,
     "gamesWon": 5,
@@ -18042,6 +21322,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25074",
     "NAF Name": "Pegaz",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 160.75481081504316,
     "tournaments": 1,
     "gamesWon": 3,
@@ -18053,6 +21335,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25078",
     "NAF Name": "bpgreenman",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.4113993907589,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18064,6 +21348,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25090",
     "NAF Name": "nithog",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.7219505604372,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18075,6 +21361,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25095",
     "NAF Name": "DexterSpaceport",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 135.12403385233864,
     "tournaments": 2,
     "gamesWon": 1,
@@ -18086,6 +21374,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25101",
     "NAF Name": "locke",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.26892889629727,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18097,6 +21387,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25105",
     "NAF Name": "purpledodo",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 150.00244826455165,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18108,6 +21400,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25106",
     "NAF Name": "pipinzano",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 149.83254211541274,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18119,6 +21413,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25109",
     "NAF Name": "lordhugo",
+    "CCAA": "Apatrida",
+    "Country": "Chile",
     "rating": 156.83612152365885,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18130,6 +21426,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25119",
     "NAF Name": "tms",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 135.18219737442178,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18141,6 +21439,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25123",
     "NAF Name": "orso71",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.5765195351836,
     "tournaments": 6,
     "gamesWon": 10,
@@ -18152,6 +21452,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25130",
     "NAF Name": "Saruman",
+    "CCAA": "Aragón",
+    "Country": "Spain",
     "rating": 141.23108242764752,
     "tournaments": 2,
     "gamesWon": 1,
@@ -18163,6 +21465,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25135",
     "NAF Name": "squeakie",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 143.2600299029907,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18174,6 +21478,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25137",
     "NAF Name": "vernandosanchezz",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.0294372515229,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18185,6 +21491,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25142",
     "NAF Name": "Tenaciousjay",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 160.74731893657804,
     "tournaments": 1,
     "gamesWon": 3,
@@ -18196,6 +21504,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25149",
     "NAF Name": "the_joeker",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 168.98964393507794,
     "tournaments": 2,
     "gamesWon": 6,
@@ -18207,6 +21517,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25150",
     "NAF Name": "amroth",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 167.80071668532474,
     "tournaments": 1,
     "gamesWon": 3,
@@ -18218,6 +21530,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25153",
     "NAF Name": "shm",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.5554092770825,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18229,6 +21543,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25162",
     "NAF Name": "Overgone5",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.80931455466123,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18240,6 +21556,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25167",
     "NAF Name": "kid_cantcomplain",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 122.23631818545813,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18251,6 +21569,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25175",
     "NAF Name": "shren",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 128.3472477387244,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18262,6 +21582,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25183",
     "NAF Name": "lemonpips",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.33747746445925,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18273,6 +21595,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25184",
     "NAF Name": "Bigcrisp",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.13647644461997,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18284,6 +21608,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25186",
     "NAF Name": "miakai",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.2338059276094,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18295,6 +21621,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25189",
     "NAF Name": "lope84",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 165.59430428203677,
     "tournaments": 1,
     "gamesWon": 3,
@@ -18306,6 +21634,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25190",
     "NAF Name": "bloodyluggi",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 121.30006369845627,
     "tournaments": 2,
     "gamesWon": 1,
@@ -18317,6 +21647,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25191",
     "NAF Name": "biggshancock",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 159.65868650870286,
     "tournaments": 1,
     "gamesWon": 3,
@@ -18328,6 +21660,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25196",
     "NAF Name": "borgio",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 152.89641261558202,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18339,6 +21673,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25203",
     "NAF Name": "Kindrin",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 144.34314575050763,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18350,6 +21686,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25204",
     "NAF Name": "Hany",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 152.50989313012315,
     "tournaments": 2,
     "gamesWon": 3,
@@ -18361,6 +21699,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25206",
     "NAF Name": "redil",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 165.60938232356432,
     "tournaments": 2,
     "gamesWon": 6,
@@ -18372,6 +21712,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25207",
     "NAF Name": "AviD",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 167.01087962436947,
     "tournaments": 1,
     "gamesWon": 4,
@@ -18383,6 +21725,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25210",
     "NAF Name": "Miguel_Sabio",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 141.15566300363918,
     "tournaments": 2,
     "gamesWon": 2,
@@ -18394,6 +21738,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25213",
     "NAF Name": "erdetolavida",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 159.64558497294612,
     "tournaments": 2,
     "gamesWon": 4,
@@ -18405,6 +21751,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25214",
     "NAF Name": "Ulrichsw",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.43967445140737,
     "tournaments": 2,
     "gamesWon": 2,
@@ -18416,6 +21764,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25217",
     "NAF Name": "bws",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 118.28417271845719,
     "tournaments": 2,
     "gamesWon": 0,
@@ -18427,6 +21777,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25218",
     "NAF Name": "Ainur",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 155.35463648652637,
     "tournaments": 2,
     "gamesWon": 4,
@@ -18438,6 +21790,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25219",
     "NAF Name": "Loic",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.34314575050763,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18449,6 +21803,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25223",
     "NAF Name": "unwarysi",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.91298805172151,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18460,6 +21816,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25227",
     "NAF Name": "chaoshugs",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.15283501292225,
     "tournaments": 2,
     "gamesWon": 2,
@@ -18471,6 +21829,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25235",
     "NAF Name": "underx",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.35796409399865,
     "tournaments": 2,
     "gamesWon": 2,
@@ -18482,6 +21842,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25237",
     "NAF Name": "simork",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 131.64189377939073,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18493,6 +21855,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25238",
     "NAF Name": "Vonblocker",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 114.92389116995383,
     "tournaments": 2,
     "gamesWon": 1,
@@ -18504,6 +21868,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25239",
     "NAF Name": "Gwilliam",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.12142888177715,
     "tournaments": 2,
     "gamesWon": 4,
@@ -18515,6 +21881,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25242",
     "NAF Name": "AlfaLobo",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.27134130778404,
     "tournaments": 2,
     "gamesWon": 1,
@@ -18526,6 +21894,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25245",
     "NAF Name": "Dashergeaux",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 137.89779045541258,
     "tournaments": 3,
     "gamesWon": 4,
@@ -18537,6 +21907,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25247",
     "NAF Name": "Mongloom",
+    "CCAA": "Aragón",
+    "Country": "Spain",
     "rating": 155.44561191155987,
     "tournaments": 1,
     "gamesWon": 3,
@@ -18548,6 +21920,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25254",
     "NAF Name": "Markymarc",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 176.52340163814412,
     "tournaments": 2,
     "gamesWon": 6,
@@ -18559,6 +21933,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25258",
     "NAF Name": "that_there_phil",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18570,6 +21946,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25259",
     "NAF Name": "ericdsmith5",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.30155756889144,
     "tournaments": 1,
     "gamesWon": 3,
@@ -18581,6 +21959,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25263",
     "NAF Name": "Grigonian",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 141.40804593385388,
     "tournaments": 2,
     "gamesWon": 2,
@@ -18592,6 +21972,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25270",
     "NAF Name": "ramdoman",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 133.27595712458893,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18603,6 +21985,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25277",
     "NAF Name": "Brama",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 160.82326061564964,
     "tournaments": 1,
     "gamesWon": 3,
@@ -18614,6 +21998,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25279",
     "NAF Name": "Czeftek",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 154.6059820678813,
     "tournaments": 2,
     "gamesWon": 4,
@@ -18625,6 +22011,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25280",
     "NAF Name": "Kretonal",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 149.4213870774184,
     "tournaments": 2,
     "gamesWon": 3,
@@ -18636,6 +22024,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25282",
     "NAF Name": "Jaskier",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 154.67330126757764,
     "tournaments": 1,
     "gamesWon": 3,
@@ -18647,6 +22037,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25284",
     "NAF Name": "Erys",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 138.26106997956896,
     "tournaments": 3,
     "gamesWon": 3,
@@ -18658,6 +22050,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25288",
     "NAF Name": "Perro",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 154.93497598503265,
     "tournaments": 2,
     "gamesWon": 4,
@@ -18669,6 +22063,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25293",
     "NAF Name": "castroman",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.25804507267716,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18680,6 +22076,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25294",
     "NAF Name": "Hal9000",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 129.630605578504,
     "tournaments": 2,
     "gamesWon": 3,
@@ -18691,6 +22089,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25298",
     "NAF Name": "ludo",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.1113799178115,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18702,6 +22102,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25299",
     "NAF Name": "Yuri_the_Scourge",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 159.75876397699238,
     "tournaments": 5,
     "gamesWon": 11,
@@ -18713,6 +22115,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25300",
     "NAF Name": "Crack_n_Crunch",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 154.67268117207917,
     "tournaments": 3,
     "gamesWon": 5,
@@ -18724,6 +22128,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25301",
     "NAF Name": "Edwin",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 158.16001542364498,
     "tournaments": 3,
     "gamesWon": 6,
@@ -18735,6 +22141,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25311",
     "NAF Name": "TomekKos",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 189.28287253142528,
     "tournaments": 3,
     "gamesWon": 9,
@@ -18746,6 +22154,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25312",
     "NAF Name": "ironbreaker",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 143.717361245334,
     "tournaments": 2,
     "gamesWon": 3,
@@ -18757,6 +22167,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25313",
     "NAF Name": "kjwhisnant",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.0066514776781,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18768,6 +22180,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25317",
     "NAF Name": "Joak",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.0409788410804,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18779,6 +22193,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25323",
     "NAF Name": "nodgefodgekins",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.2263506515879,
     "tournaments": 2,
     "gamesWon": 1,
@@ -18790,6 +22206,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25331",
     "NAF Name": "kp",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.36212983057106,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18801,6 +22219,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25334",
     "NAF Name": "RumbleFish",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 153.2723455392536,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18812,6 +22232,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25341",
     "NAF Name": "Akol",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.3413884099051,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18823,6 +22245,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25343",
     "NAF Name": "Buckler",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 134.26083704251894,
     "tournaments": 3,
     "gamesWon": 3,
@@ -18834,6 +22258,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25344",
     "NAF Name": "Ashrame",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 164.47739423728808,
     "tournaments": 2,
     "gamesWon": 5,
@@ -18845,6 +22271,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25346",
     "NAF Name": "Baba_Yara",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.00473562592805,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18856,6 +22284,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25356",
     "NAF Name": "glenmorris",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.9140708260485,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18867,6 +22297,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25358",
     "NAF Name": "Andyglashan",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 145.6860601525771,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18878,6 +22310,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25361",
     "NAF Name": "talls",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 167.43808453782054,
     "tournaments": 1,
     "gamesWon": 3,
@@ -18889,6 +22323,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25362",
     "NAF Name": "strixbloodrager",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.45723900881964,
     "tournaments": 2,
     "gamesWon": 1,
@@ -18900,6 +22336,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25373",
     "NAF Name": "Dr_SLM",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 152.11263110320985,
     "tournaments": 2,
     "gamesWon": 4,
@@ -18911,6 +22349,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25374",
     "NAF Name": "Smaugounet",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.13756951975418,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18922,6 +22362,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25376",
     "NAF Name": "Chebby",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.72445912264476,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18933,6 +22375,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25377",
     "NAF Name": "TheGngrNoob",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 150.5670588087705,
     "tournaments": 1,
     "gamesWon": 2,
@@ -18944,6 +22388,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25379",
     "NAF Name": "SilentKnight",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.33249380858535,
     "tournaments": 2,
     "gamesWon": 3,
@@ -18955,6 +22401,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25381",
     "NAF Name": "Tintenfisch",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 151.9508896552228,
     "tournaments": 2,
     "gamesWon": 5,
@@ -18966,6 +22414,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25382",
     "NAF Name": "KillerB",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.2896788694932,
     "tournaments": 1,
     "gamesWon": 0,
@@ -18977,6 +22427,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25383",
     "NAF Name": "blessedknight",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.22341921396244,
     "tournaments": 1,
     "gamesWon": 1,
@@ -18988,6 +22440,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25384",
     "NAF Name": "LewishM",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 157.4992000394985,
     "tournaments": 3,
     "gamesWon": 4,
@@ -18999,6 +22453,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25385",
     "NAF Name": "Moysie",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 155.84025403481823,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19010,6 +22466,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25398",
     "NAF Name": "ernedar",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
     "rating": 158.45594534909253,
     "tournaments": 2,
     "gamesWon": 6,
@@ -19021,6 +22479,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25406",
     "NAF Name": "JustKeith",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 119.91201713913176,
     "tournaments": 2,
     "gamesWon": 0,
@@ -19032,6 +22492,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25411",
     "NAF Name": "Madfrog",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 153.8690623486597,
     "tournaments": 2,
     "gamesWon": 2,
@@ -19043,6 +22505,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25415",
     "NAF Name": "catastrophe",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 123.00147918929422,
     "tournaments": 2,
     "gamesWon": 2,
@@ -19054,6 +22518,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25422",
     "NAF Name": "maxaphelion",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 160.83279515873963,
     "tournaments": 2,
     "gamesWon": 4,
@@ -19065,6 +22531,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25426",
     "NAF Name": "hock",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.13629971633316,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19076,6 +22544,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25429",
     "NAF Name": "Jackal",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 164.39879183225082,
     "tournaments": 2,
     "gamesWon": 6,
@@ -19087,6 +22557,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25430",
     "NAF Name": "Bizteck",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 143.39489829171973,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19098,6 +22570,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25432",
     "NAF Name": "El_Barto",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.10807163715216,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19109,6 +22583,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25433",
     "NAF Name": "Igor99",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.7868826661662,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19120,6 +22596,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25434",
     "NAF Name": "Beardlegend",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.13164450646363,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19131,6 +22609,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25435",
     "NAF Name": "VonLeppard",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.51093967409085,
     "tournaments": 2,
     "gamesWon": 3,
@@ -19142,6 +22622,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25438",
     "NAF Name": "Borror",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.71722079875784,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19153,6 +22635,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25446",
     "NAF Name": "Akosion",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 112.471249515759,
     "tournaments": 2,
     "gamesWon": 0,
@@ -19164,6 +22648,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25447",
     "NAF Name": "Kokkos",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 154,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19175,6 +22661,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25458",
     "NAF Name": "Sam_Agace",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 162.00068603849513,
     "tournaments": 3,
     "gamesWon": 6,
@@ -19186,6 +22674,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25464",
     "NAF Name": "UncleSteve",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.65266510635735,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19197,6 +22687,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25467",
     "NAF Name": "FatboySlimming",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.1400078390125,
     "tournaments": 3,
     "gamesWon": 6,
@@ -19208,6 +22700,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25469",
     "NAF Name": "Bartek",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 150.07527044626457,
     "tournaments": 2,
     "gamesWon": 4,
@@ -19219,6 +22713,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25471",
     "NAF Name": "mysza",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 141.78058945718428,
     "tournaments": 3,
     "gamesWon": 5,
@@ -19230,6 +22726,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25475",
     "NAF Name": "DeletedMember1",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 159.77929412612554,
     "tournaments": 3,
     "gamesWon": 4,
@@ -19241,6 +22739,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25478",
     "NAF Name": "Dakyrus",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
     "rating": 150.10451477134535,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19252,6 +22752,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25479",
     "NAF Name": "Archon11",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.1175477200922,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19263,6 +22765,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25486",
     "NAF Name": "Budy",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.92772920987562,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19274,6 +22778,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25487",
     "NAF Name": "Blackmoon",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.3796856284146,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19285,6 +22791,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25488",
     "NAF Name": "Herejia",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 141.04403036265415,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19296,6 +22804,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25491",
     "NAF Name": "Mamo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.44433458086465,
     "tournaments": 2,
     "gamesWon": 4,
@@ -19307,6 +22817,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25493",
     "NAF Name": "Busta",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.765183082963,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19318,6 +22830,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25499",
     "NAF Name": "Javitron",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 155.47957070447524,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19329,6 +22843,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25505",
     "NAF Name": "Cam011",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 154.88691156681875,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19340,6 +22856,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25506",
     "NAF Name": "Mr_Durden",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 148.45070027564074,
     "tournaments": 4,
     "gamesWon": 6,
@@ -19351,6 +22869,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25515",
     "NAF Name": "juiblex",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 146.4191365891742,
     "tournaments": 4,
     "gamesWon": 8,
@@ -19362,6 +22882,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25522",
     "NAF Name": "slayerozzo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 134.22603528745034,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19373,6 +22895,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25525",
     "NAF Name": "LiHulk",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 160.80833036921914,
     "tournaments": 2,
     "gamesWon": 4,
@@ -19384,6 +22908,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25531",
     "NAF Name": "mudarra93",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 168.9966184106117,
     "tournaments": 2,
     "gamesWon": 6,
@@ -19395,6 +22921,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25539",
     "NAF Name": "ak_the_snake",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 148.62577176679292,
     "tournaments": 2,
     "gamesWon": 3,
@@ -19406,6 +22934,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25541",
     "NAF Name": "gregl",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 128.49890781334113,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19417,6 +22947,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25542",
     "NAF Name": "Weejock",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 128.5899429131543,
     "tournaments": 2,
     "gamesWon": 1,
@@ -19428,6 +22960,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25545",
     "NAF Name": "skarlan",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.56953309885006,
     "tournaments": 2,
     "gamesWon": 4,
@@ -19439,6 +22973,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25547",
     "NAF Name": "RickWreckless",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 155.98226315137038,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19450,6 +22986,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25549",
     "NAF Name": "Ballcrusher",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 162.13020716928463,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19461,6 +22999,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25556",
     "NAF Name": "TheJimintheNorth",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.81314913609685,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19472,6 +23012,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25557",
     "NAF Name": "azzardo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 153.42307564095944,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19483,6 +23025,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25564",
     "NAF Name": "Dake",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 130.726842342911,
     "tournaments": 3,
     "gamesWon": 2,
@@ -19494,6 +23038,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25566",
     "NAF Name": "Hardcore_Stig",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.65397685592836,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19505,6 +23051,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25574",
     "NAF Name": "GentleGiant",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 151.02344671972637,
     "tournaments": 2,
     "gamesWon": 3,
@@ -19516,6 +23064,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25575",
     "NAF Name": "Wardancer74",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.06982114795537,
     "tournaments": 2,
     "gamesWon": 3,
@@ -19527,6 +23077,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25578",
     "NAF Name": "Steynberg",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 145.47707724862715,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19538,6 +23090,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25606",
     "NAF Name": "thedukeofdirty",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 175.55819113100085,
     "tournaments": 3,
     "gamesWon": 6,
@@ -19549,6 +23103,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25614",
     "NAF Name": "Thernlow",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 150.39499102012525,
     "tournaments": 3,
     "gamesWon": 5,
@@ -19560,6 +23116,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25618",
     "NAF Name": "drewcifer77",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.6516773634653,
     "tournaments": 4,
     "gamesWon": 6,
@@ -19571,6 +23129,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25620",
     "NAF Name": "BungoRockzilla",
+    "CCAA": "Apatrida",
+    "Country": "Chile",
     "rating": 153.28006823744596,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19582,6 +23142,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25621",
     "NAF Name": "Blaster",
+    "CCAA": "Apatrida",
+    "Country": "Chile",
     "rating": 153.46410161513776,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19593,6 +23155,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25625",
     "NAF Name": "Porky",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 166.74363729421285,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19604,6 +23168,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25631",
     "NAF Name": "Eldryr",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 161.83401358708193,
     "tournaments": 6,
     "gamesWon": 10,
@@ -19615,6 +23181,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25632",
     "NAF Name": "Sentiar",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 139.39305401289727,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19626,6 +23194,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25633",
     "NAF Name": "Willli",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 133.0400734541604,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19637,6 +23207,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25638",
     "NAF Name": "Negotiator",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 150.07657579985272,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19648,6 +23220,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25640",
     "NAF Name": "nufflebutter",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 133.05064980254798,
     "tournaments": 1,
     "gamesWon": 0,
@@ -19659,6 +23233,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25645",
     "NAF Name": "Trefenwyd",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.479617562145,
     "tournaments": 2,
     "gamesWon": 4,
@@ -19670,6 +23246,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25653",
     "NAF Name": "santiach94",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.52049406389204,
     "tournaments": 2,
     "gamesWon": 4,
@@ -19681,6 +23259,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25665",
     "NAF Name": "Hestiar",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 161.96474572511667,
     "tournaments": 5,
     "gamesWon": 8,
@@ -19692,6 +23272,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25670",
     "NAF Name": "Rick_2018",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.37590586967457,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19703,6 +23285,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25679",
     "NAF Name": "Makosmichio",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.3666622127054,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19714,6 +23298,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25699",
     "NAF Name": "Agazapado",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 144.34401106951734,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19725,6 +23311,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25707",
     "NAF Name": "RafaR",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 146.19827908847915,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19736,6 +23324,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25708",
     "NAF Name": "Zhours",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.11145874773027,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19747,6 +23337,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25714",
     "NAF Name": "enandreassen",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 140.80913007963383,
     "tournaments": 6,
     "gamesWon": 9,
@@ -19758,6 +23350,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25720",
     "NAF Name": "cosmodon",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.1841439077046,
     "tournaments": 2,
     "gamesWon": 2,
@@ -19769,6 +23363,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25725",
     "NAF Name": "SkraggDave",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 170.6994826257053,
     "tournaments": 4,
     "gamesWon": 10,
@@ -19780,6 +23376,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25730",
     "NAF Name": "Dynamike",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 145.6468131072298,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19791,6 +23389,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25733",
     "NAF Name": "Ferick",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 169.8679831949176,
     "tournaments": 3,
     "gamesWon": 10,
@@ -19802,6 +23402,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25739",
     "NAF Name": "Clownthulhu",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.69419109585894,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19813,6 +23415,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25747",
     "NAF Name": "crowdog09",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 161.54769669921464,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19824,6 +23428,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25759",
     "NAF Name": "decaxd",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 154.8655737997277,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19835,6 +23441,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25767",
     "NAF Name": "Stormbicius",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 138.53028244456337,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19846,6 +23454,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25768",
     "NAF Name": "Guidonius",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 145.29727202898746,
     "tournaments": 2,
     "gamesWon": 3,
@@ -19857,6 +23467,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25769",
     "NAF Name": "Ferpa",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 137.21987259326593,
     "tournaments": 2,
     "gamesWon": 3,
@@ -19868,6 +23480,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25780",
     "NAF Name": "Skab",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 137.87975266002908,
     "tournaments": 5,
     "gamesWon": 4,
@@ -19879,6 +23493,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25786",
     "NAF Name": "Derpanzermann",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.98608536417,
     "tournaments": 1,
     "gamesWon": 1,
@@ -19890,6 +23506,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25799",
     "NAF Name": "Vice",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.6335898797837,
     "tournaments": 2,
     "gamesWon": 2,
@@ -19901,6 +23519,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25800",
     "NAF Name": "Squigmire",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 166.25648051893117,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19912,6 +23532,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25811",
     "NAF Name": "destroyer990",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 163.34841374513258,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19923,6 +23545,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25816",
     "NAF Name": "ikitklaw",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.30633838380555,
     "tournaments": 2,
     "gamesWon": 2,
@@ -19934,6 +23558,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25818",
     "NAF Name": "Kikaze",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 145.09436076154932,
     "tournaments": 3,
     "gamesWon": 4,
@@ -19945,6 +23571,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25819",
     "NAF Name": "Nykteas",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 156.12180904591426,
     "tournaments": 4,
     "gamesWon": 6,
@@ -19956,6 +23584,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25820",
     "NAF Name": "MONGOR",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 157.03385798467176,
     "tournaments": 1,
     "gamesWon": 3,
@@ -19967,6 +23597,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25821",
     "NAF Name": "jom",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 165.61627267737737,
     "tournaments": 1,
     "gamesWon": 4,
@@ -19978,6 +23610,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25822",
     "NAF Name": "jarnos",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.8686916151098,
     "tournaments": 1,
     "gamesWon": 2,
@@ -19989,6 +23623,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25824",
     "NAF Name": "Bölk",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 157.02894038707163,
     "tournaments": 2,
     "gamesWon": 3,
@@ -20000,6 +23636,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25825",
     "NAF Name": "morka",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 155.38375545491772,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20011,6 +23649,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25831",
     "NAF Name": "StephenAlbrecht",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.86166891055518,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20022,6 +23662,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25842",
     "NAF Name": "Loken",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.98069530706056,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20033,6 +23675,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25849",
     "NAF Name": "Dirk",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 140.82096985146762,
     "tournaments": 3,
     "gamesWon": 4,
@@ -20044,6 +23688,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25850",
     "NAF Name": "wulfen86",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 147.22875568567207,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20055,6 +23701,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25859",
     "NAF Name": "thatotherasianguy",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 144.32966062816794,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20066,6 +23714,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25867",
     "NAF Name": "deathbydodge",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.25980780160495,
     "tournaments": 2,
     "gamesWon": 2,
@@ -20077,6 +23727,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25868",
     "NAF Name": "moistmuffin",
+    "CCAA": "Apatrida",
+    "Country": "Russia",
     "rating": 144.26247377801224,
     "tournaments": 2,
     "gamesWon": 2,
@@ -20088,6 +23740,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25872",
     "NAF Name": "SARAH_CONNOR",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 131.00732347433114,
     "tournaments": 4,
     "gamesWon": 2,
@@ -20099,6 +23753,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25878",
     "NAF Name": "BartK",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 164.57846368669937,
     "tournaments": 3,
     "gamesWon": 6,
@@ -20110,6 +23766,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25884",
     "NAF Name": "Jvno",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.13635675339523,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20121,6 +23779,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25886",
     "NAF Name": "Flyman",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 118.49917298044343,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20132,6 +23792,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25887",
     "NAF Name": "SteAirey",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 163.7842766294293,
     "tournaments": 3,
     "gamesWon": 7,
@@ -20143,6 +23805,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25893",
     "NAF Name": "Nuwilwarin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 161.3145740889375,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20154,6 +23818,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25897",
     "NAF Name": "Mariolo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 153.0844054559149,
     "tournaments": 2,
     "gamesWon": 3,
@@ -20165,6 +23831,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25912",
     "NAF Name": "Pljs",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 139.24285887315412,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20176,6 +23844,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25922",
     "NAF Name": "LouBega",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 165.25451547456873,
     "tournaments": 1,
     "gamesWon": 3,
@@ -20187,6 +23857,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25923",
     "NAF Name": "Jerricho67",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 132.98988670296902,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20198,6 +23870,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25924",
     "NAF Name": "J",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 139.5671334949515,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20209,6 +23883,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25928",
     "NAF Name": "dalibor",
+    "CCAA": "Apatrida",
+    "Country": "Slovak Republic",
     "rating": 163.43122687556118,
     "tournaments": 1,
     "gamesWon": 4,
@@ -20220,6 +23896,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25930",
     "NAF Name": "Etxajaun",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.61698763097596,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20231,6 +23909,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25932",
     "NAF Name": "I_rracional",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.81557218074394,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20242,6 +23922,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.33718592245967,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20253,6 +23935,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25936",
     "NAF Name": "Picnicmik",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.74319343043607,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20264,6 +23948,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25939",
     "NAF Name": "ianos",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 150.26221588377018,
     "tournaments": 2,
     "gamesWon": 3,
@@ -20275,6 +23961,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25943",
     "NAF Name": "Csáki",
+    "CCAA": "Apatrida",
+    "Country": "Hungary",
     "rating": 139.99704038241828,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20286,6 +23974,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25944",
     "NAF Name": "QueenB",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 147.98302065318543,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20297,6 +23987,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25945",
     "NAF Name": "terrance42",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.5044965122571,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20308,6 +24000,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25947",
     "NAF Name": "eboncrow",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.9074771915375,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20319,6 +24013,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25948",
     "NAF Name": "rogue5",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 135.33018748473287,
     "tournaments": 2,
     "gamesWon": 1,
@@ -20330,6 +24026,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25952",
     "NAF Name": "boss-gorka",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 158.8307734132366,
     "tournaments": 3,
     "gamesWon": 5,
@@ -20341,6 +24039,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25953",
     "NAF Name": "FedeC",
+    "CCAA": "Apatrida",
+    "Country": "Uruguay",
     "rating": 145.11178736868354,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20352,6 +24052,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25955",
     "NAF Name": "BlackCaps",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 157.29407703781837,
     "tournaments": 2,
     "gamesWon": 4,
@@ -20363,6 +24065,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25959",
     "NAF Name": "Pasteque",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.6502820722258,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20374,6 +24078,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25961",
     "NAF Name": "OgreSky511",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.32999589099558,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20385,6 +24091,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25966",
     "NAF Name": "borin_official",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.76372872878642,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20396,6 +24104,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25971",
     "NAF Name": "siggi",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 206.92641767529756,
     "tournaments": 10,
     "gamesWon": 31,
@@ -20407,6 +24117,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25973",
     "NAF Name": "KeepitCoul",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 140.30363002545104,
     "tournaments": 2,
     "gamesWon": 2,
@@ -20418,6 +24130,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25975",
     "NAF Name": "ahzek",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 163.5643358860589,
     "tournaments": 2,
     "gamesWon": 6,
@@ -20429,6 +24143,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25976",
     "NAF Name": "kross",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 130.72624781221577,
     "tournaments": 2,
     "gamesWon": 1,
@@ -20440,6 +24156,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25979",
     "NAF Name": "hwd",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.01862827172616,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20451,6 +24169,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25980",
     "NAF Name": "Lemmiwinks",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.7767199099667,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20462,6 +24182,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25990",
     "NAF Name": "mates",
+    "CCAA": "Apatrida",
+    "Country": "Slovak Republic",
     "rating": 163.73412537401498,
     "tournaments": 1,
     "gamesWon": 4,
@@ -20473,6 +24195,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25994",
     "NAF Name": "Centurion576",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.99973178934965,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20484,6 +24208,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "25998",
     "NAF Name": "Awekids_Orchids",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 156.10360284672038,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20495,6 +24221,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26005",
     "NAF Name": "MJF1704",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.67148700224396,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20506,6 +24234,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26006",
     "NAF Name": "Finn08",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 151.42274399955923,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20517,6 +24247,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26010",
     "NAF Name": "Witch_Ancestor",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 133.83999971445715,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20528,6 +24260,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26012",
     "NAF Name": "pappa_tank",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.28508702624254,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20539,6 +24273,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26024",
     "NAF Name": "JTaylor",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.77953486859826,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20550,6 +24286,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26027",
     "NAF Name": "thertra",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 169.5638234051218,
     "tournaments": 2,
     "gamesWon": 5,
@@ -20561,6 +24299,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26031",
     "NAF Name": "jfavaz",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 150.00002105303332,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20572,6 +24312,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26033",
     "NAF Name": "karnuss",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 158.00066468881894,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20583,6 +24325,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26034",
     "NAF Name": "varese",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 148.39719887711223,
     "tournaments": 2,
     "gamesWon": 3,
@@ -20594,6 +24338,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26036",
     "NAF Name": "tuorgustavo",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 150.5398236180093,
     "tournaments": 2,
     "gamesWon": 2,
@@ -20605,6 +24351,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26050",
     "NAF Name": "cdassak",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 178.7198428323001,
     "tournaments": 3,
     "gamesWon": 9,
@@ -20616,6 +24364,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26053",
     "NAF Name": "polloajillo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 148.48686992863642,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20627,6 +24377,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26057",
     "NAF Name": "Ægir",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.50699056760385,
     "tournaments": 4,
     "gamesWon": 5,
@@ -20638,6 +24390,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26060",
     "NAF Name": "Mordikar",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.53261556488096,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20649,6 +24403,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26062",
     "NAF Name": "Lepropre",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 162.35086463499835,
     "tournaments": 1,
     "gamesWon": 3,
@@ -20660,6 +24416,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26068",
     "NAF Name": "Oren",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 149.5708111739134,
     "tournaments": 3,
     "gamesWon": 5,
@@ -20671,6 +24429,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26069",
     "NAF Name": "Gleniu",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 132.35298493594365,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20682,6 +24442,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26070",
     "NAF Name": "AdiJuve",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 139.13505403202416,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20693,6 +24455,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26074",
     "NAF Name": "M6K3",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 139.8505769625717,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20704,6 +24468,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26075",
     "NAF Name": "jtvombaur",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 132.51851769549504,
     "tournaments": 2,
     "gamesWon": 3,
@@ -20715,6 +24481,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26076",
     "NAF Name": "sonofmus",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.87307569887145,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20726,6 +24494,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26082",
     "NAF Name": "Will_Boston",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 160.36344881574976,
     "tournaments": 1,
     "gamesWon": 3,
@@ -20737,6 +24507,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26084",
     "NAF Name": "jerf",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 148.73831677016744,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20748,6 +24520,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26088",
     "NAF Name": "kellevandros",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 121.97085083825013,
     "tournaments": 3,
     "gamesWon": 1,
@@ -20759,6 +24533,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26089",
     "NAF Name": "L0rdgibby",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 150.70743806175955,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20770,6 +24546,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26090",
     "NAF Name": "Kylerage666",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 138.68402040937718,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20781,6 +24559,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26092",
     "NAF Name": "ChrisRaff88",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 146.05641377234747,
     "tournaments": 2,
     "gamesWon": 3,
@@ -20792,6 +24572,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26093",
     "NAF Name": "Solpugida",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.73607364866217,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20803,6 +24585,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26099",
     "NAF Name": "eisenhans",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 145.96913433357383,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20814,6 +24598,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26115",
     "NAF Name": "FeralChicken",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.0452988221777,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20825,6 +24611,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26139",
     "NAF Name": "Gyro",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 125.12122862328658,
     "tournaments": 2,
     "gamesWon": 0,
@@ -20836,6 +24624,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26141",
     "NAF Name": "K.O.Wall",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 136.07333422067816,
     "tournaments": 2,
     "gamesWon": 2,
@@ -20847,6 +24637,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26154",
     "NAF Name": "Carlos_SPQR",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 162.32513910074542,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20858,6 +24650,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26157",
     "NAF Name": "thepathologist",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 133.05841641556918,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20869,6 +24663,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26158",
     "NAF Name": "strubot",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.68629150101526,
     "tournaments": 1,
     "gamesWon": 0,
@@ -20880,6 +24676,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26161",
     "NAF Name": "Ralsadier",
+    "CCAA": "Apatrida",
+    "Country": "Chile",
     "rating": 146.6279800914789,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20891,6 +24689,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26168",
     "NAF Name": "Danzepan",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 157.2165195877217,
     "tournaments": 2,
     "gamesWon": 6,
@@ -20902,6 +24702,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26177",
     "NAF Name": "MaxIK",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.22197270266707,
     "tournaments": 2,
     "gamesWon": 3,
@@ -20913,6 +24715,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26178",
     "NAF Name": "Azyrael",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.6897725176796,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20924,6 +24728,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26193",
     "NAF Name": "dacrazyorc",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.46410161513776,
     "tournaments": 1,
     "gamesWon": 2,
@@ -20935,6 +24741,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26195",
     "NAF Name": "Melfal",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.54058055095962,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20946,6 +24754,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26199",
     "NAF Name": "Misifu",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 150.15536560098482,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20957,6 +24767,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26213",
     "NAF Name": "Ashira",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 165.65553668725914,
     "tournaments": 2,
     "gamesWon": 4,
@@ -20968,6 +24780,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26216",
     "NAF Name": "Ekogon",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 151.2551352444394,
     "tournaments": 1,
     "gamesWon": 1,
@@ -20979,6 +24793,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26218",
     "NAF Name": "Yaghul",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 172.33435946113573,
     "tournaments": 2,
     "gamesWon": 7,
@@ -20990,6 +24806,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26223",
     "NAF Name": "Flo98",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 127.57316161204663,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21001,6 +24819,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26224",
     "NAF Name": "MiniGhost",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 161.18446851931458,
     "tournaments": 3,
     "gamesWon": 7,
@@ -21012,6 +24832,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26225",
     "NAF Name": "RichTaylor",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.63139575973835,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21023,6 +24845,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26240",
     "NAF Name": "z3us1911",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 151.08748562620286,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21034,6 +24858,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26248",
     "NAF Name": "Margh_Norway",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 151.62655456730926,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21045,6 +24871,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26254",
     "NAF Name": "prof70",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.80439306821924,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21056,6 +24884,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26256",
     "NAF Name": "public",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.88995637827514,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21067,6 +24897,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26263",
     "NAF Name": "NickNaborro",
+    "CCAA": "Murcia",
+    "Country": "Spain",
     "rating": 154.7306587814749,
     "tournaments": 3,
     "gamesWon": 5,
@@ -21078,6 +24910,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26268",
     "NAF Name": "MARURI",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.61359018991843,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21089,6 +24923,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26269",
     "NAF Name": "mrcushtie",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.0073726118141,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21100,6 +24936,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26270",
     "NAF Name": "Wagz",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.67225604327098,
     "tournaments": 1,
     "gamesWon": 4,
@@ -21111,6 +24949,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26274",
     "NAF Name": "Hugo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.00860567658896,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21122,6 +24962,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26279",
     "NAF Name": "laser_owl",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.03616759214145,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21133,6 +24975,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26288",
     "NAF Name": "DavidD",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 135.23264981688627,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21144,6 +24988,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26295",
     "NAF Name": "Jenavil",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 138.96198848503218,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21155,6 +25001,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26303",
     "NAF Name": "shootermcgavin",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.5284760359498,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21166,6 +25014,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26310",
     "NAF Name": "Ignis",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 147.82312771349729,
     "tournaments": 4,
     "gamesWon": 2,
@@ -21177,6 +25027,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26315",
     "NAF Name": "rydog",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.05092569147118,
     "tournaments": 1,
     "gamesWon": 3,
@@ -21188,6 +25040,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26331",
     "NAF Name": "haz1079",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 141.4950243633722,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21199,6 +25053,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26332",
     "NAF Name": "POTI",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.5591027945134,
     "tournaments": 2,
     "gamesWon": 1,
@@ -21210,6 +25066,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26333",
     "NAF Name": "yo",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.13426117300136,
     "tournaments": 1,
     "gamesWon": 3,
@@ -21221,6 +25079,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26337",
     "NAF Name": "Doman",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 161.08908684262994,
     "tournaments": 1,
     "gamesWon": 4,
@@ -21232,6 +25092,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26346",
     "NAF Name": "seriouskinn",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 131.08983772375527,
     "tournaments": 2,
     "gamesWon": 1,
@@ -21243,6 +25105,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26358",
     "NAF Name": "grumplekins",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 146.79374349010953,
     "tournaments": 3,
     "gamesWon": 5,
@@ -21254,6 +25118,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26360",
     "NAF Name": "barthos88",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 145.70794740902738,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21265,6 +25131,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26361",
     "NAF Name": "lelund",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 151.36230467009148,
     "tournaments": 2,
     "gamesWon": 3,
@@ -21276,6 +25144,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26364",
     "NAF Name": "Megalistar",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.217280437264,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21287,6 +25157,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26365",
     "NAF Name": "cissou83",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 142.64888871835655,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21298,6 +25170,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26369",
     "NAF Name": "Tzalaran",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.71369611520075,
     "tournaments": 2,
     "gamesWon": 4,
@@ -21309,6 +25183,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26370",
     "NAF Name": "SaladBar",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.69302170224137,
     "tournaments": 2,
     "gamesWon": 4,
@@ -21320,6 +25196,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26381",
     "NAF Name": "Mcorcison",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.98079285569995,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21331,6 +25209,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26382",
     "NAF Name": "DrMoustachio",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.8283499182554,
     "tournaments": 2,
     "gamesWon": 3,
@@ -21342,6 +25222,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26387",
     "NAF Name": "Bosco",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.69769070645341,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21353,6 +25235,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26388",
     "NAF Name": "Levi",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.14280368907265,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21364,6 +25248,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26398",
     "NAF Name": "EyeBallPaul",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.3190136369809,
     "tournaments": 2,
     "gamesWon": 2,
@@ -21375,6 +25261,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26405",
     "NAF Name": "Gallego",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 134.12514303399553,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21386,6 +25274,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26407",
     "NAF Name": "maciou",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 148.1542625549112,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21397,6 +25287,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26409",
     "NAF Name": "ROJAS",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 138.5357184799843,
     "tournaments": 2,
     "gamesWon": 1,
@@ -21408,6 +25300,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26414",
     "NAF Name": "rafikus",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.1717744509981,
     "tournaments": 3,
     "gamesWon": 6,
@@ -21419,6 +25313,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26416",
     "NAF Name": "AdamHartnett",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 148.41284813261376,
     "tournaments": 3,
     "gamesWon": 3,
@@ -21430,6 +25326,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26417",
     "NAF Name": "TheSavageBeast",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 147.15071397902614,
     "tournaments": 2,
     "gamesWon": 2,
@@ -21441,6 +25339,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26421",
     "NAF Name": "Grufff",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 142.15259680543522,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21452,6 +25352,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26425",
     "NAF Name": "zoddicus",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 147.22097944176494,
     "tournaments": 2,
     "gamesWon": 2,
@@ -21463,6 +25365,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26439",
     "NAF Name": "Manimal89",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.20926810743342,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21474,6 +25378,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26441",
     "NAF Name": "FalcoNero87",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 149.871606942951,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21485,6 +25391,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26444",
     "NAF Name": "Leonhart",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 188.13028765476525,
     "tournaments": 5,
     "gamesWon": 13,
@@ -21496,6 +25404,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26445",
     "NAF Name": "Mydorima",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 141.51734490975304,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21507,6 +25417,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26447",
     "NAF Name": "Woref",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.09916977434636,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21518,6 +25430,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26448",
     "NAF Name": "net0ne",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.17308713363948,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21529,6 +25443,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26466",
     "NAF Name": "minizuk",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21540,6 +25456,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26467",
     "NAF Name": "SilvaGeargrinder",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.1227659692996,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21551,6 +25469,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26477",
     "NAF Name": "mysticjon",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.39473881251922,
     "tournaments": 2,
     "gamesWon": 3,
@@ -21562,6 +25482,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26496",
     "NAF Name": "tommyb",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.48589320268312,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21573,6 +25495,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26498",
     "NAF Name": "jackbedead",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 162.31226153668297,
     "tournaments": 5,
     "gamesWon": 9,
@@ -21584,6 +25508,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26503",
     "NAF Name": "lamour",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.3910047148471,
     "tournaments": 2,
     "gamesWon": 2,
@@ -21595,6 +25521,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26505",
     "NAF Name": "CmptrSean",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.68704896646122,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21606,6 +25534,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26511",
     "NAF Name": "kikecortizo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 144.3381974112818,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21617,6 +25547,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26512",
     "NAF Name": "Harry27",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 145.46650827519738,
     "tournaments": 5,
     "gamesWon": 9,
@@ -21628,6 +25560,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26513",
     "NAF Name": "i-wummi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 148.97234832006646,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21639,6 +25573,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26515",
     "NAF Name": "misterjoshua",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 170.45623834365426,
     "tournaments": 2,
     "gamesWon": 5,
@@ -21650,6 +25586,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26518",
     "NAF Name": "Kilmor",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.09015043281977,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21661,6 +25599,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26519",
     "NAF Name": "Acavenas",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 131.62616238803446,
     "tournaments": 2,
     "gamesWon": 0,
@@ -21672,6 +25612,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26524",
     "NAF Name": "Stonerkn",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 161.89078961358166,
     "tournaments": 1,
     "gamesWon": 3,
@@ -21683,6 +25625,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26536",
     "NAF Name": "Mime",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 140.08779358345285,
     "tournaments": 2,
     "gamesWon": 4,
@@ -21694,6 +25638,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26545",
     "NAF Name": "Txuzo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.58858308045882,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21705,6 +25651,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26554",
     "NAF Name": "orcster",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 150.75840533413918,
     "tournaments": 2,
     "gamesWon": 4,
@@ -21716,6 +25664,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26557",
     "NAF Name": "psykka",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 134.9711392888027,
     "tournaments": 2,
     "gamesWon": 2,
@@ -21727,6 +25677,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26560",
     "NAF Name": "Luisito2036",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 136.23567524606563,
     "tournaments": 1,
     "gamesWon": 0,
@@ -21738,6 +25690,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26561",
     "NAF Name": "Antonio91",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 153.1514435343173,
     "tournaments": 2,
     "gamesWon": 4,
@@ -21749,6 +25703,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26569",
     "NAF Name": "daddyvader501",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.62307498316687,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21760,6 +25716,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26570",
     "NAF Name": "deebee12",
+    "CCAA": "Apatrida",
+    "Country": "South Africa",
     "rating": 150.30816679560488,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21771,6 +25729,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26573",
     "NAF Name": "skii",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 141.33389915838313,
     "tournaments": 3,
     "gamesWon": 3,
@@ -21782,6 +25742,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26575",
     "NAF Name": "Orca",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 159.86855998803017,
     "tournaments": 3,
     "gamesWon": 5,
@@ -21793,6 +25755,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26577",
     "NAF Name": "Wolfkin",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 150.46508387711543,
     "tournaments": 4,
     "gamesWon": 6,
@@ -21804,6 +25768,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26579",
     "NAF Name": "Fieres",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 157.14954309170454,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21815,6 +25781,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26583",
     "NAF Name": "Mordecaïn",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 165.1648879460188,
     "tournaments": 2,
     "gamesWon": 4,
@@ -21826,6 +25794,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26584",
     "NAF Name": "Jems",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.3893931538754,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21837,6 +25807,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26586",
     "NAF Name": "Pyromancien",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.93466280129905,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21848,6 +25820,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26589",
     "NAF Name": "Le_Lapin_Troll",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 146.68723423007083,
     "tournaments": 2,
     "gamesWon": 2,
@@ -21859,6 +25833,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26591",
     "NAF Name": "Argon77",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.8888908332869,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21870,6 +25846,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26597",
     "NAF Name": "Stahlbart",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 141.1238926407317,
     "tournaments": 2,
     "gamesWon": 4,
@@ -21881,6 +25859,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26603",
     "NAF Name": "luisin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.9997175446039,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21892,6 +25872,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26604",
     "NAF Name": "Fustei",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 164.67406045312248,
     "tournaments": 2,
     "gamesWon": 4,
@@ -21903,6 +25885,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26609",
     "NAF Name": "Fonso",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 166.91181849556764,
     "tournaments": 4,
     "gamesWon": 7,
@@ -21914,6 +25898,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26611",
     "NAF Name": "DrHellboy_",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 167.40541586667888,
     "tournaments": 3,
     "gamesWon": 7,
@@ -21925,6 +25911,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26613",
     "NAF Name": "GiantPooFace",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.672000402622,
     "tournaments": 2,
     "gamesWon": 1,
@@ -21936,6 +25924,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26626",
     "NAF Name": "Bungeeman",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 153.77897548660283,
     "tournaments": 1,
     "gamesWon": 2,
@@ -21947,6 +25937,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26627",
     "NAF Name": "Envoien",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.11560550151864,
     "tournaments": 3,
     "gamesWon": 3,
@@ -21958,6 +25950,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26629",
     "NAF Name": "dayday",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.67844880135206,
     "tournaments": 2,
     "gamesWon": 4,
@@ -21969,6 +25963,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26640",
     "NAF Name": "Catleesi",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 146.15018968672436,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21980,6 +25976,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26642",
     "NAF Name": "pexegouva",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 146.5197756303853,
     "tournaments": 1,
     "gamesWon": 1,
@@ -21991,6 +25989,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26644",
     "NAF Name": "alksnis",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 149.72934800889064,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22002,6 +26002,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26658",
     "NAF Name": "JuJuu",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 185.54124354137323,
     "tournaments": 2,
     "gamesWon": 7,
@@ -22013,6 +26015,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26665",
     "NAF Name": "Shaeffer",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.55957048024226,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22024,6 +26028,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26666",
     "NAF Name": "Gizasix66",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.15108380400875,
     "tournaments": 2,
     "gamesWon": 3,
@@ -22035,6 +26041,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26667",
     "NAF Name": "BigRed",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.43367769555562,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22046,6 +26054,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26669",
     "NAF Name": "voodoo_conversions",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 136.42725024323164,
     "tournaments": 2,
     "gamesWon": 1,
@@ -22057,6 +26067,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26681",
     "NAF Name": "Arklash",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 148.48235635918795,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22068,6 +26080,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26685",
     "NAF Name": "Jelmaxy",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.65685424949237,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22079,6 +26093,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26701",
     "NAF Name": "Sigval",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 132.8235140579211,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22090,6 +26106,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26706",
     "NAF Name": "elfboy4president",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.68861655581114,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22101,6 +26119,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26711",
     "NAF Name": "Grentain",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.88080725220138,
     "tournaments": 4,
     "gamesWon": 6,
@@ -22112,6 +26132,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26713",
     "NAF Name": "dragonloup",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 151.34016833584792,
     "tournaments": 2,
     "gamesWon": 3,
@@ -22123,6 +26145,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26717",
     "NAF Name": "forgotmytea",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 159.74402580547581,
     "tournaments": 2,
     "gamesWon": 4,
@@ -22134,6 +26158,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26719",
     "NAF Name": "matt75",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.18692180843044,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22145,6 +26171,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26721",
     "NAF Name": "nyaga",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 167.7125428719705,
     "tournaments": 2,
     "gamesWon": 6,
@@ -22156,6 +26184,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26723",
     "NAF Name": "supertom",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.35498822149597,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22167,6 +26197,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26728",
     "NAF Name": "Mentos",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 150.82915072789112,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22178,6 +26210,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26729",
     "NAF Name": "baywatch",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 144.44710415087408,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22189,6 +26223,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26730",
     "NAF Name": "MikeTheMachine",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 163.66998797633178,
     "tournaments": 1,
     "gamesWon": 3,
@@ -22200,6 +26236,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26737",
     "NAF Name": "motzer",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.94203216536295,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22211,6 +26249,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26738",
     "NAF Name": "DavesCorner",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.17082691244244,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22222,6 +26262,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26743",
     "NAF Name": "mahwell-skel",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.3859029546497,
     "tournaments": 2,
     "gamesWon": 4,
@@ -22233,6 +26275,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26745",
     "NAF Name": "lolcaeser",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 121.87719111590414,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22244,6 +26288,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26749",
     "NAF Name": "S1lentFall",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.62448951283667,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22255,6 +26301,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26750",
     "NAF Name": "mattius",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
     "rating": 166.0184358519762,
     "tournaments": 2,
     "gamesWon": 5,
@@ -22266,6 +26314,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26756",
     "NAF Name": "Fhamdil",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 138.9029544554368,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22277,6 +26327,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26759",
     "NAF Name": "RyuKeN",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.34561910743588,
     "tournaments": 3,
     "gamesWon": 3,
@@ -22288,6 +26340,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26760",
     "NAF Name": "atticus69",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 147.42002875131328,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22299,6 +26353,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26772",
     "NAF Name": "rampage_382",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.0182224983559,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22310,6 +26366,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26776",
     "NAF Name": "Morrigan_Lutece",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.29739824782536,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22321,6 +26379,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26784",
     "NAF Name": "Stupid_Gabe",
+    "CCAA": "Apatrida",
+    "Country": "South Africa",
     "rating": 153.65025082171945,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22332,6 +26392,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26785",
     "NAF Name": "cktrains",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 134.0027981151961,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22343,6 +26405,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26786",
     "NAF Name": "Flamewrot",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.84855364831162,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22354,6 +26418,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26787",
     "NAF Name": "inkhar",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.89518326949883,
     "tournaments": 2,
     "gamesWon": 5,
@@ -22365,6 +26431,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26788",
     "NAF Name": "vannawight",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.99743952590578,
     "tournaments": 2,
     "gamesWon": 3,
@@ -22376,6 +26444,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26790",
     "NAF Name": "poireabricot",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 122.49138064239084,
     "tournaments": 2,
     "gamesWon": 1,
@@ -22387,6 +26457,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26793",
     "NAF Name": "Gerdleah",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 166.8194094259348,
     "tournaments": 1,
     "gamesWon": 3,
@@ -22398,6 +26470,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26800",
     "NAF Name": "Zama",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.99357294701443,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22409,6 +26483,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26802",
     "NAF Name": "suido",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 154.58846809740592,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22420,6 +26496,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26803",
     "NAF Name": "kroxy",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.98226614414284,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22431,6 +26509,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26805",
     "NAF Name": "GeoffA146",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.8690312747189,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22442,6 +26522,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26809",
     "NAF Name": "Gaff",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 134.8243381191567,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22453,6 +26535,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26810",
     "NAF Name": "Padster",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
     "rating": 129.75999610878588,
     "tournaments": 4,
     "gamesWon": 3,
@@ -22464,6 +26548,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26811",
     "NAF Name": "LORD_BONAN",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 155.5472746277283,
     "tournaments": 2,
     "gamesWon": 4,
@@ -22475,6 +26561,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26814",
     "NAF Name": "dudster",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.2958359077923,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22486,6 +26574,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26830",
     "NAF Name": "LadyPuto",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 173.57239969199296,
     "tournaments": 3,
     "gamesWon": 8,
@@ -22497,6 +26587,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26831",
     "NAF Name": "JPH",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 150.9734701979449,
     "tournaments": 3,
     "gamesWon": 5,
@@ -22508,6 +26600,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26832",
     "NAF Name": "OBERON.",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 149.4520481896042,
     "tournaments": 2,
     "gamesWon": 3,
@@ -22519,6 +26613,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26833",
     "NAF Name": "Aekold",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 138.85212212732242,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22530,6 +26626,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26834",
     "NAF Name": "Espartanoks",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 160.28346708264365,
     "tournaments": 3,
     "gamesWon": 7,
@@ -22541,6 +26639,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26835",
     "NAF Name": "Alameda54",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 134.9587994729362,
     "tournaments": 3,
     "gamesWon": 1,
@@ -22552,6 +26652,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26838",
     "NAF Name": "samiel",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 135.57481530852303,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22563,6 +26665,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26844",
     "NAF Name": "rtho1990",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.34314575050763,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22574,6 +26678,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26857",
     "NAF Name": "ulizzez",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 148.28697091238982,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22585,6 +26691,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26872",
     "NAF Name": "mvassao",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 117.64317665377179,
     "tournaments": 2,
     "gamesWon": 0,
@@ -22596,6 +26704,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26876",
     "NAF Name": "zedu_21",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 145.82265942288595,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22607,6 +26717,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26889",
     "NAF Name": "Ossian",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 138.71595918625215,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22618,6 +26730,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26890",
     "NAF Name": "SirPepelu",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 138.747005272326,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22629,6 +26743,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26893",
     "NAF Name": "antman",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 161.6253975809651,
     "tournaments": 1,
     "gamesWon": 4,
@@ -22640,6 +26756,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26897",
     "NAF Name": "Burtblahblahblah",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.71783053920706,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22651,6 +26769,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26899",
     "NAF Name": "PriorBlueC",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.27193156695296,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22662,6 +26782,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26900",
     "NAF Name": "Cyryl",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 157.8119224040909,
     "tournaments": 1,
     "gamesWon": 3,
@@ -22673,6 +26795,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26904",
     "NAF Name": "Widram",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 132.76601373180102,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22684,6 +26808,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26905",
     "NAF Name": "tobyeatworld",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 160.23645369762028,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22695,6 +26821,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26913",
     "NAF Name": "BRaN",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 158.1323655083557,
     "tournaments": 3,
     "gamesWon": 7,
@@ -22706,6 +26834,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26915",
     "NAF Name": "fatgandalf",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 123.60263460148775,
     "tournaments": 2,
     "gamesWon": 1,
@@ -22717,6 +26847,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26917",
     "NAF Name": "zerofr3ak",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 131.64518722217514,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22728,6 +26860,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26929",
     "NAF Name": "simey",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.89450506930132,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22739,6 +26873,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26936",
     "NAF Name": "annalisa",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.07754522031024,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22750,6 +26886,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26946",
     "NAF Name": "AUSTIN_TACIOUS",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.7130084493074,
     "tournaments": 3,
     "gamesWon": 3,
@@ -22761,6 +26899,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26954",
     "NAF Name": "Animal_FI",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 149.98167780708104,
     "tournaments": 2,
     "gamesWon": 1,
@@ -22772,6 +26912,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26968",
     "NAF Name": "dudinhas",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 145.6694408684449,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22783,6 +26925,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26969",
     "NAF Name": "brutopatia",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 193.08108464581662,
     "tournaments": 7,
     "gamesWon": 19,
@@ -22794,6 +26938,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26989",
     "NAF Name": "MiniMorg",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 130.30594867637447,
     "tournaments": 2,
     "gamesWon": 1,
@@ -22805,6 +26951,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26992",
     "NAF Name": "Snajper",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 140.27994550805218,
     "tournaments": 2,
     "gamesWon": 3,
@@ -22816,6 +26964,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26995",
     "NAF Name": "SuicidekidPL",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 144.5779442726924,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22827,6 +26977,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "26997",
     "NAF Name": "Ostry92-92",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 116.55821681886273,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22838,6 +26990,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27003",
     "NAF Name": "Misiozaurus",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 186.37583527557888,
     "tournaments": 3,
     "gamesWon": 9,
@@ -22849,6 +27003,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27007",
     "NAF Name": "Wujo",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 152.02705110740987,
     "tournaments": 2,
     "gamesWon": 5,
@@ -22860,6 +27016,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27013",
     "NAF Name": "Yersinia",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 130.2812534440465,
     "tournaments": 2,
     "gamesWon": 1,
@@ -22871,6 +27029,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27024",
     "NAF Name": "freyn",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.31764902540922,
     "tournaments": 2,
     "gamesWon": 4,
@@ -22882,6 +27042,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27032",
     "NAF Name": "Kuja",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 130.74380757477303,
     "tournaments": 1,
     "gamesWon": 0,
@@ -22893,6 +27055,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27045",
     "NAF Name": "Bubu",
+    "CCAA": "Apatrida",
+    "Country": "Uruguay",
     "rating": 155.0688157939399,
     "tournaments": 3,
     "gamesWon": 5,
@@ -22904,6 +27068,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27052",
     "NAF Name": "corveus",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.34314575050763,
     "tournaments": 1,
     "gamesWon": 2,
@@ -22915,6 +27081,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27058",
     "NAF Name": "NAMYUR",
+    "CCAA": "I. Canarias",
+    "Country": "Spain",
     "rating": 166.7619479430985,
     "tournaments": 1,
     "gamesWon": 4,
@@ -22926,6 +27094,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27060",
     "NAF Name": "PABLOOD75",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 144.34440738082768,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22937,6 +27107,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27064",
     "NAF Name": "schwd",
+    "CCAA": "Apatrida",
+    "Country": "Hungary",
     "rating": 150.30242564032486,
     "tournaments": 1,
     "gamesWon": 3,
@@ -22948,6 +27120,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27066",
     "NAF Name": "Cunibaldo",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 150.02811493590642,
     "tournaments": 2,
     "gamesWon": 4,
@@ -22959,6 +27133,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27067",
     "NAF Name": "C.Hamming",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "rating": 150.9152047463911,
     "tournaments": 3,
     "gamesWon": 4,
@@ -22970,6 +27146,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27071",
     "NAF Name": "HydroHound",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 176.55595963366687,
     "tournaments": 2,
     "gamesWon": 10,
@@ -22981,6 +27159,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27073",
     "NAF Name": "Meals",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 154.57640858993372,
     "tournaments": 1,
     "gamesWon": 1,
@@ -22992,6 +27172,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27077",
     "NAF Name": "Palmtaiga",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 137.2031574497949,
     "tournaments": 2,
     "gamesWon": 0,
@@ -23003,6 +27185,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27083",
     "NAF Name": "daani_sr",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.9308727937945,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23014,6 +27198,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27084",
     "NAF Name": "Moi_Morenate",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 129.1964718212589,
     "tournaments": 2,
     "gamesWon": 1,
@@ -23025,6 +27211,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27089",
     "NAF Name": "glygly",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.58663581686903,
     "tournaments": 2,
     "gamesWon": 1,
@@ -23036,6 +27224,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27095",
     "NAF Name": "NightSword",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 130.0320777793061,
     "tournaments": 4,
     "gamesWon": 4,
@@ -23047,6 +27237,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27100",
     "NAF Name": "xelas1983",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 144.34314575050763,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23058,6 +27250,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27101",
     "NAF Name": "cthulhuie",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 150.1820925981612,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23069,6 +27263,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27103",
     "NAF Name": "dannii",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.15167562494172,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23080,6 +27276,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27111",
     "NAF Name": "centruki",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 133.24285059016452,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23091,6 +27289,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27113",
     "NAF Name": "hasslenutty",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 164.4981675951813,
     "tournaments": 7,
     "gamesWon": 15,
@@ -23102,6 +27302,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27124",
     "NAF Name": "N3Rk",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 145.33109886664974,
     "tournaments": 7,
     "gamesWon": 8,
@@ -23113,6 +27315,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27125",
     "NAF Name": "GrumpyYeti",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.809278598761,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23124,6 +27328,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27127",
     "NAF Name": "neilwat",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 157.45568717627532,
     "tournaments": 3,
     "gamesWon": 5,
@@ -23135,6 +27341,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27130",
     "NAF Name": "sparky73",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 162.127342094746,
     "tournaments": 1,
     "gamesWon": 3,
@@ -23146,6 +27354,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27135",
     "NAF Name": "TheCamshaft",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.21652436086197,
     "tournaments": 2,
     "gamesWon": 2,
@@ -23157,6 +27367,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27138",
     "NAF Name": "heatoncoach",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.7838153057426,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23168,6 +27380,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27139",
     "NAF Name": "Aftershock912",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.81203874581158,
     "tournaments": 1,
     "gamesWon": 2,
@@ -23179,6 +27393,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27141",
     "NAF Name": "RoisterRod",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 146.30849039088852,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23190,6 +27406,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27144",
     "NAF Name": "karariek",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 160.96831369333478,
     "tournaments": 1,
     "gamesWon": 3,
@@ -23201,6 +27419,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27149",
     "NAF Name": "Talion",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.44538185747453,
     "tournaments": 1,
     "gamesWon": 2,
@@ -23212,6 +27432,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27154",
     "NAF Name": "gangcha",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 135.57479723167555,
     "tournaments": 3,
     "gamesWon": 5,
@@ -23223,6 +27445,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27157",
     "NAF Name": "Drummer",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.39392028118107,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23234,6 +27458,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27160",
     "NAF Name": "Txki",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 127.12402506574254,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23245,6 +27471,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27161",
     "NAF Name": "Eldome",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 151.38568432448074,
     "tournaments": 1,
     "gamesWon": 2,
@@ -23256,6 +27484,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27168",
     "NAF Name": "Eraszeul",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.6683426882014,
     "tournaments": 3,
     "gamesWon": 4,
@@ -23267,6 +27497,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27174",
     "NAF Name": "morsocons",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.47141988892832,
     "tournaments": 2,
     "gamesWon": 4,
@@ -23278,6 +27510,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27181",
     "NAF Name": "Zweken",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 143.87445053336063,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23289,6 +27523,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27185",
     "NAF Name": "Flainimal",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 132.69028431192166,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23300,6 +27536,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27198",
     "NAF Name": "Shole",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 157.4676959169191,
     "tournaments": 3,
     "gamesWon": 5,
@@ -23311,6 +27549,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27199",
     "NAF Name": "sarge_the_brewer",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 149.9814385158178,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23322,6 +27562,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27200",
     "NAF Name": "JHEKDS",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 139.14930903064788,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23333,6 +27575,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27202",
     "NAF Name": "mormatt10",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 132.5147464604464,
     "tournaments": 3,
     "gamesWon": 4,
@@ -23344,6 +27588,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27204",
     "NAF Name": "rustus",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 133.50159363746434,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23355,6 +27601,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27206",
     "NAF Name": "chubstep_",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 133.6563188480597,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23366,6 +27614,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27207",
     "NAF Name": "Alucard",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.78307034056306,
     "tournaments": 1,
     "gamesWon": 2,
@@ -23377,6 +27627,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27208",
     "NAF Name": "Goethals",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.83565891621788,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23388,6 +27640,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27209",
     "NAF Name": "Ayreon",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.26868368790795,
     "tournaments": 1,
     "gamesWon": 2,
@@ -23399,6 +27653,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27210",
     "NAF Name": "Turch",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.44042839479812,
     "tournaments": 1,
     "gamesWon": 2,
@@ -23410,6 +27666,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27214",
     "NAF Name": "klanky",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 156.56100522551455,
     "tournaments": 1,
     "gamesWon": 5,
@@ -23421,6 +27679,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27216",
     "NAF Name": "MagicMaciek",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 132.57926591738473,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23432,6 +27692,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27220",
     "NAF Name": "Hercules_BB",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 149.36565817510296,
     "tournaments": 3,
     "gamesWon": 6,
@@ -23443,6 +27705,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27223",
     "NAF Name": "mage923",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150,
     "tournaments": 1,
     "gamesWon": 2,
@@ -23454,6 +27718,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27224",
     "NAF Name": "Chucky56",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.15807128017414,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23465,6 +27731,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27228",
     "NAF Name": "mariatoranja",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 145.23950756091,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23476,6 +27744,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27230",
     "NAF Name": "thegoblinking",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 145.02878294614183,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23487,6 +27757,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27232",
     "NAF Name": "agentsilver",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.0263828340041,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23498,6 +27770,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27238",
     "NAF Name": "ReikiIshza",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.8772340307004,
     "tournaments": 1,
     "gamesWon": 3,
@@ -23509,6 +27783,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27252",
     "NAF Name": "MightyRig",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 149.11471059471086,
     "tournaments": 2,
     "gamesWon": 2,
@@ -23520,6 +27796,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27254",
     "NAF Name": "Chapi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.4600569808744,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23531,6 +27809,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27255",
     "NAF Name": "JohnConnor",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.26080793748474,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23542,6 +27822,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27256",
     "NAF Name": "Fermanowar",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 160.6179426860797,
     "tournaments": 1,
     "gamesWon": 2,
@@ -23553,6 +27835,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27257",
     "NAF Name": "unicornson",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 141.55742917805998,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23564,6 +27848,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27260",
     "NAF Name": "Unicorn_PL",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 160.42899335680025,
     "tournaments": 1,
     "gamesWon": 3,
@@ -23575,6 +27861,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27265",
     "NAF Name": "sadino",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 150.0209856128491,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23586,6 +27874,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27272",
     "NAF Name": "quackers",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.6076951545867,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23597,6 +27887,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27274",
     "NAF Name": "nullpanda",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.75725533068484,
     "tournaments": 1,
     "gamesWon": 2,
@@ -23608,6 +27900,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27275",
     "NAF Name": "alfr0d0",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 159.464215056189,
     "tournaments": 2,
     "gamesWon": 4,
@@ -23619,6 +27913,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27276",
     "NAF Name": "Mysterioushandle",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.51547778938138,
     "tournaments": 4,
     "gamesWon": 5,
@@ -23630,6 +27926,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27277",
     "NAF Name": "Brutal_Deluxe",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.64229206585932,
     "tournaments": 1,
     "gamesWon": 2,
@@ -23641,6 +27939,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27281",
     "NAF Name": "morn82",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 150.10485968795618,
     "tournaments": 2,
     "gamesWon": 4,
@@ -23652,6 +27952,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27282",
     "NAF Name": "Arvid",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 132.55942860001622,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23663,6 +27965,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27286",
     "NAF Name": "Olymau",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 163.23547801962363,
     "tournaments": 1,
     "gamesWon": 3,
@@ -23674,6 +27978,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27298",
     "NAF Name": "shakeyjames89",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.53786782021828,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23685,6 +27991,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27299",
     "NAF Name": "spoony",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.19444657747528,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23696,6 +28004,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27308",
     "NAF Name": "massochrist",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.69227003440525,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23707,6 +28017,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27310",
     "NAF Name": "Dick_Steel",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 153.7013138416532,
     "tournaments": 1,
     "gamesWon": 2,
@@ -23718,6 +28030,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27311",
     "NAF Name": "El_Spoonio",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 157.35877483474448,
     "tournaments": 4,
     "gamesWon": 9,
@@ -23729,6 +28043,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27317",
     "NAF Name": "MrFling",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 145.67125041340523,
     "tournaments": 2,
     "gamesWon": 3,
@@ -23740,6 +28056,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27318",
     "NAF Name": "Tlomax",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 149.98737325593535,
     "tournaments": 2,
     "gamesWon": 3,
@@ -23751,6 +28069,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27323",
     "NAF Name": "thanatos",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.0870149587398,
     "tournaments": 3,
     "gamesWon": 3,
@@ -23762,6 +28082,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27328",
     "NAF Name": "townee",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 134.5020861412463,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23773,6 +28095,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27333",
     "NAF Name": "Magister",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 143.11125292139002,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23784,6 +28108,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27334",
     "NAF Name": "Kipple",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 153.43219552190948,
     "tournaments": 2,
     "gamesWon": 3,
@@ -23795,6 +28121,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27336",
     "NAF Name": "steelprimate",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 139.3737052012695,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23806,6 +28134,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27339",
     "NAF Name": "pondcastle",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 152.05455540818934,
     "tournaments": 1,
     "gamesWon": 2,
@@ -23817,6 +28147,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27340",
     "NAF Name": "Misiek",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 160.3593205344018,
     "tournaments": 2,
     "gamesWon": 6,
@@ -23828,6 +28160,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27344",
     "NAF Name": "coachthrudson",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 140.30523746539322,
     "tournaments": 1,
     "gamesWon": 2,
@@ -23839,6 +28173,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27348",
     "NAF Name": "Albichon",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.35049529253223,
     "tournaments": 1,
     "gamesWon": 2,
@@ -23850,6 +28186,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27349",
     "NAF Name": "unrulyfans",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.3720199085211,
     "tournaments": 1,
     "gamesWon": 2,
@@ -23861,6 +28199,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27355",
     "NAF Name": "aos",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 146.98327106339244,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23872,6 +28212,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27358",
     "NAF Name": "mrking",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 155.4751577538423,
     "tournaments": 2,
     "gamesWon": 2,
@@ -23883,6 +28225,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27362",
     "NAF Name": "Ratriot",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.17328208688501,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23894,6 +28238,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27365",
     "NAF Name": "Krunkle_dunkle",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.32891590623132,
     "tournaments": 2,
     "gamesWon": 4,
@@ -23905,6 +28251,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27366",
     "NAF Name": "DrewDirtlek",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.00042340353193,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23916,6 +28264,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27368",
     "NAF Name": "justchris01",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.33145390219832,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23927,6 +28277,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27376",
     "NAF Name": "Aj_Moe09",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.87688679655741,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23938,6 +28290,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27382",
     "NAF Name": "dutch",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.49370752002298,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23949,6 +28303,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27385",
     "NAF Name": "Herr_Basabius",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.95642417268033,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23960,6 +28316,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27389",
     "NAF Name": "zagori",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 161.7507941185052,
     "tournaments": 1,
     "gamesWon": 3,
@@ -23971,6 +28329,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27392",
     "NAF Name": "wulfryd",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.7551207209145,
     "tournaments": 1,
     "gamesWon": 0,
@@ -23982,6 +28342,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27395",
     "NAF Name": "Karla_Bruti",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.35871204357366,
     "tournaments": 1,
     "gamesWon": 1,
@@ -23993,6 +28355,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27396",
     "NAF Name": "benj",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.05442137089835,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24004,6 +28368,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27397",
     "NAF Name": "nounedsss",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 157.19609979035877,
     "tournaments": 1,
     "gamesWon": 3,
@@ -24015,6 +28381,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27404",
     "NAF Name": "ownisher",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 126.6186211230669,
     "tournaments": 3,
     "gamesWon": 1,
@@ -24026,6 +28394,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27408",
     "NAF Name": "jdk1974",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 168.1140866098635,
     "tournaments": 1,
     "gamesWon": 3,
@@ -24037,6 +28407,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27416",
     "NAF Name": "yugoth",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 135.33633965574228,
     "tournaments": 1,
     "gamesWon": 0,
@@ -24048,6 +28420,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27424",
     "NAF Name": "Odrog",
+    "CCAA": "Apatrida",
+    "Country": "Chile",
     "rating": 139.7917285322785,
     "tournaments": 1,
     "gamesWon": 0,
@@ -24059,6 +28433,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27431",
     "NAF Name": "Piero",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 121.76599001047543,
     "tournaments": 1,
     "gamesWon": 0,
@@ -24070,6 +28446,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27432",
     "NAF Name": "Gano87",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.67764158513114,
     "tournaments": 1,
     "gamesWon": 2,
@@ -24081,6 +28459,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27438",
     "NAF Name": "donnydingel",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 139.00440709571603,
     "tournaments": 2,
     "gamesWon": 3,
@@ -24092,6 +28472,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27439",
     "NAF Name": "spett",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 142.7180012775982,
     "tournaments": 3,
     "gamesWon": 4,
@@ -24103,6 +28485,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27441",
     "NAF Name": "zedd",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 162.1507123231697,
     "tournaments": 4,
     "gamesWon": 11,
@@ -24114,6 +28498,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27442",
     "NAF Name": "el_reverendo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.55708794226126,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24125,6 +28511,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27450",
     "NAF Name": "Hargrim",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 168.71609884816817,
     "tournaments": 9,
     "gamesWon": 14,
@@ -24136,6 +28524,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27456",
     "NAF Name": "TheAdrix",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 150.2891273083384,
     "tournaments": 2,
     "gamesWon": 3,
@@ -24147,6 +28537,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27458",
     "NAF Name": "foomonkey",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 157.80327375146263,
     "tournaments": 2,
     "gamesWon": 4,
@@ -24158,6 +28550,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27467",
     "NAF Name": "tomten",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 132.14367078700892,
     "tournaments": 1,
     "gamesWon": 0,
@@ -24169,6 +28563,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27468",
     "NAF Name": "Biger",
+    "CCAA": "Apatrida",
+    "Country": "Chile",
     "rating": 146.62798009147892,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24180,6 +28576,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27478",
     "NAF Name": "Dacamro",
+    "CCAA": "C. La Mancha",
+    "Country": "Spain",
     "rating": 149.86127894218495,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24191,6 +28589,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27480",
     "NAF Name": "boynamedsue",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.76368553797874,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24202,6 +28602,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27483",
     "NAF Name": "tommytwocups",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 144.41467304277498,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24213,6 +28615,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27484",
     "NAF Name": "shortstack",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 151.38702012539093,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24224,6 +28628,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27486",
     "NAF Name": "4Cough",
+    "CCAA": "Apatrida",
+    "Country": "South Africa",
     "rating": 149.95258895759574,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24235,6 +28641,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27487",
     "NAF Name": "the_little_joker",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 149.89741989742856,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24246,6 +28654,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27488",
     "NAF Name": "manit0u",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 139.22520039600977,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24257,6 +28667,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27489",
     "NAF Name": "IronheartAlex",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 132.56790114126426,
     "tournaments": 1,
     "gamesWon": 0,
@@ -24268,6 +28680,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27490",
     "NAF Name": "Fluff",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.1032693659944,
     "tournaments": 1,
     "gamesWon": 2,
@@ -24279,6 +28693,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27492",
     "NAF Name": "Squall018",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 164.57919353359637,
     "tournaments": 2,
     "gamesWon": 4,
@@ -24290,6 +28706,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27493",
     "NAF Name": "RWoods",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 133.0294372515229,
     "tournaments": 1,
     "gamesWon": 0,
@@ -24301,6 +28719,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27494",
     "NAF Name": "1ravensfan1",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.97510595953534,
     "tournaments": 2,
     "gamesWon": 1,
@@ -24312,6 +28732,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27495",
     "NAF Name": "scalant",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.6670486767629,
     "tournaments": 1,
     "gamesWon": 2,
@@ -24323,6 +28745,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27498",
     "NAF Name": "polaris",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.77333441460758,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24334,6 +28758,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27500",
     "NAF Name": "Pockus",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 146.94061146720134,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24345,6 +28771,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27510",
     "NAF Name": "Getzabye",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.27549522110291,
     "tournaments": 2,
     "gamesWon": 1,
@@ -24356,6 +28784,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27515",
     "NAF Name": "Txuxty_23",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 141.05743182677836,
     "tournaments": 2,
     "gamesWon": 2,
@@ -24367,6 +28797,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27529",
     "NAF Name": "Moscatel",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 134.37277546131122,
     "tournaments": 2,
     "gamesWon": 1,
@@ -24378,6 +28810,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27530",
     "NAF Name": "Ratbert",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.542312598281,
     "tournaments": 2,
     "gamesWon": 1,
@@ -24389,6 +28823,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27541",
     "NAF Name": "GeorWeegie",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 138.4275539005932,
     "tournaments": 2,
     "gamesWon": 3,
@@ -24400,6 +28836,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27543",
     "NAF Name": "Caliban",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 149.48213573720193,
     "tournaments": 1,
     "gamesWon": 2,
@@ -24411,6 +28849,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27546",
     "NAF Name": "monkyjonny",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 132.58080368860652,
     "tournaments": 2,
     "gamesWon": 0,
@@ -24422,6 +28862,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27565",
     "NAF Name": "abeard",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.92022301415605,
     "tournaments": 1,
     "gamesWon": 0,
@@ -24433,6 +28875,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27569",
     "NAF Name": "Vex",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 132.98755804560795,
     "tournaments": 3,
     "gamesWon": 2,
@@ -24444,6 +28888,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27571",
     "NAF Name": "gunny23",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.80139426343337,
     "tournaments": 1,
     "gamesWon": 2,
@@ -24455,6 +28901,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27573",
     "NAF Name": "Xiao",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 147.29759781733125,
     "tournaments": 2,
     "gamesWon": 3,
@@ -24466,6 +28914,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27574",
     "NAF Name": "DIONYSISA18",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 122.42111790561587,
     "tournaments": 1,
     "gamesWon": 0,
@@ -24477,6 +28927,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27575",
     "NAF Name": "AMSFELD",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 155.5024292657348,
     "tournaments": 1,
     "gamesWon": 2,
@@ -24488,6 +28940,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27580",
     "NAF Name": "shireilia",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.5728872450324,
     "tournaments": 1,
     "gamesWon": 0,
@@ -24499,6 +28953,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27582",
     "NAF Name": "Mythos",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.89738594788352,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24510,6 +28966,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27584",
     "NAF Name": "Nergatsul",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 150.0569608080694,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24521,6 +28979,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27589",
     "NAF Name": "lord_chelmsford",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.10247848129853,
     "tournaments": 3,
     "gamesWon": 4,
@@ -24532,6 +28992,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27590",
     "NAF Name": "orioncillo",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 148.00171198645216,
     "tournaments": 4,
     "gamesWon": 5,
@@ -24543,6 +29005,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27591",
     "NAF Name": "mastie",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.55770775004638,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24554,6 +29018,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27592",
     "NAF Name": "putxi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 157.01768877069983,
     "tournaments": 1,
     "gamesWon": 3,
@@ -24565,6 +29031,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27613",
     "NAF Name": "Breakmonker",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 167.64108158762542,
     "tournaments": 3,
     "gamesWon": 7,
@@ -24576,6 +29044,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27621",
     "NAF Name": "TurtleHead",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.59850969307048,
     "tournaments": 1,
     "gamesWon": 0,
@@ -24587,6 +29057,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27625",
     "NAF Name": "canuckadian",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 152.60461765341566,
     "tournaments": 3,
     "gamesWon": 8,
@@ -24598,6 +29070,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27626",
     "NAF Name": "Big_Shawn",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 135.22564014567158,
     "tournaments": 2,
     "gamesWon": 4,
@@ -24609,6 +29083,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27628",
     "NAF Name": "trepis",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 128.93986536736566,
     "tournaments": 5,
     "gamesWon": 10,
@@ -24620,6 +29096,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27629",
     "NAF Name": "greenwalker",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 150.60653340028108,
     "tournaments": 2,
     "gamesWon": 4,
@@ -24631,6 +29109,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27657",
     "NAF Name": "AndyPandyCookiePie",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 142.21286218718828,
     "tournaments": 2,
     "gamesWon": 3,
@@ -24642,6 +29122,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27671",
     "NAF Name": "nene_horrible",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.22629596550473,
     "tournaments": 1,
     "gamesWon": 2,
@@ -24653,6 +29135,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27681",
     "NAF Name": "Yetiasbc",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 142.61740860192492,
     "tournaments": 1,
     "gamesWon": 0,
@@ -24664,6 +29148,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27684",
     "NAF Name": "Jhonny_Velociraptor_Ivano",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 139.17208895206252,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24675,6 +29161,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27685",
     "NAF Name": "Damaldito",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.52228897670346,
     "tournaments": 1,
     "gamesWon": 0,
@@ -24686,6 +29174,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27689",
     "NAF Name": "Felttip",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.23613029392075,
     "tournaments": 2,
     "gamesWon": 4,
@@ -24697,6 +29187,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27692",
     "NAF Name": "Chugmanmilk",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.5470436219038,
     "tournaments": 1,
     "gamesWon": 3,
@@ -24708,6 +29200,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27696",
     "NAF Name": "sgaua",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 138.69806785639162,
     "tournaments": 1,
     "gamesWon": 2,
@@ -24719,6 +29213,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27703",
     "NAF Name": "Baronvdw",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 157.72762500031283,
     "tournaments": 3,
     "gamesWon": 6,
@@ -24730,6 +29226,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27724",
     "NAF Name": "Runes",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.32040232559834,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24741,6 +29239,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27725",
     "NAF Name": "Fnyrksz",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 156.01285037457424,
     "tournaments": 1,
     "gamesWon": 2,
@@ -24752,6 +29252,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27726",
     "NAF Name": "Zandraak",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.7654489314861,
     "tournaments": 1,
     "gamesWon": 2,
@@ -24763,6 +29265,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27740",
     "NAF Name": "tharsis",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 119.17064198473007,
     "tournaments": 2,
     "gamesWon": 1,
@@ -24774,6 +29278,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27741",
     "NAF Name": "lupentercios",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.87832379800875,
     "tournaments": 2,
     "gamesWon": 3,
@@ -24785,6 +29291,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27743",
     "NAF Name": "rebornflames",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 153.32214976202098,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24796,6 +29304,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27745",
     "NAF Name": "unixbot",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 144.52780614494426,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24807,6 +29317,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27746",
     "NAF Name": "Fains2fains",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 136.86558608332453,
     "tournaments": 3,
     "gamesWon": 5,
@@ -24818,6 +29330,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27749",
     "NAF Name": "stevehall",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 146.40336767843056,
     "tournaments": 4,
     "gamesWon": 9,
@@ -24829,6 +29343,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27763",
     "NAF Name": "major",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 155.77332413258898,
     "tournaments": 2,
     "gamesWon": 4,
@@ -24840,6 +29356,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27774",
     "NAF Name": "Moozer",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 132.9235069273731,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24851,6 +29369,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27811",
     "NAF Name": "danthegreat",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 122.25830523109994,
     "tournaments": 2,
     "gamesWon": 0,
@@ -24862,6 +29382,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27815",
     "NAF Name": "opcubby",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.3332713630314,
     "tournaments": 3,
     "gamesWon": 5,
@@ -24873,6 +29395,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27826",
     "NAF Name": "kabilo",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.8494411008618,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24884,6 +29408,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27827",
     "NAF Name": "samyebbqc",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 143.8726089774857,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24895,6 +29421,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27840",
     "NAF Name": "Gr4n0t4",
+    "CCAA": "Apatrida",
+    "Country": "Mordheim",
     "rating": 137.12192269004655,
     "tournaments": 2,
     "gamesWon": 2,
@@ -24906,6 +29434,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27841",
     "NAF Name": "MEMEN",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.16905795984235,
     "tournaments": 2,
     "gamesWon": 2,
@@ -24917,6 +29447,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27850",
     "NAF Name": "Gordokabron",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.19984282986667,
     "tournaments": 2,
     "gamesWon": 3,
@@ -24928,6 +29460,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27852",
     "NAF Name": "Arcaich",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 132.8208642202004,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24939,6 +29473,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27856",
     "NAF Name": "Coy",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.63430514771198,
     "tournaments": 2,
     "gamesWon": 2,
@@ -24950,6 +29486,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27859",
     "NAF Name": "Paco",
+    "CCAA": "Murcia",
+    "Country": "Spain",
     "rating": 144.9621104304029,
     "tournaments": 3,
     "gamesWon": 4,
@@ -24961,6 +29499,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27861",
     "NAF Name": "mising",
+    "CCAA": "Murcia",
+    "Country": "Spain",
     "rating": 144.269880941363,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24972,6 +29512,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27866",
     "NAF Name": "g-bread",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.5957929385911,
     "tournaments": 2,
     "gamesWon": 2,
@@ -24983,6 +29525,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27869",
     "NAF Name": "Nourrou",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.77581661867163,
     "tournaments": 1,
     "gamesWon": 1,
@@ -24994,6 +29538,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27871",
     "NAF Name": "bucky1398",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.33832253054868,
     "tournaments": 2,
     "gamesWon": 2,
@@ -25005,6 +29551,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27873",
     "NAF Name": "Nicholl_Brack",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 142.41796585484641,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25016,6 +29564,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27881",
     "NAF Name": "Arcaich1",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.2053190127633,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25027,6 +29577,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27884",
     "NAF Name": "Biscotti",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 122.40021723860113,
     "tournaments": 4,
     "gamesWon": 3,
@@ -25038,6 +29590,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27885",
     "NAF Name": "Bilorca",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 170.3058656967369,
     "tournaments": 4,
     "gamesWon": 9,
@@ -25049,6 +29603,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27890",
     "NAF Name": "Trickey",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 150.32119358151883,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25060,6 +29616,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27891",
     "NAF Name": "Mike",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 152.25089696734852,
     "tournaments": 4,
     "gamesWon": 8,
@@ -25071,6 +29629,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27899",
     "NAF Name": "ikit",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 127.75054325301653,
     "tournaments": 3,
     "gamesWon": 2,
@@ -25082,6 +29642,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27901",
     "NAF Name": "patinyo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.080921306945,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25093,6 +29655,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27902",
     "NAF Name": "krava",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 119.4269155716648,
     "tournaments": 3,
     "gamesWon": 2,
@@ -25104,6 +29668,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27903",
     "NAF Name": "Mowgli",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.6720918323738,
     "tournaments": 3,
     "gamesWon": 2,
@@ -25115,6 +29681,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27904",
     "NAF Name": "CiętyMieczem",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 144.35380288735715,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25126,6 +29694,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27905",
     "NAF Name": "Miazghul",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 153.9964041595242,
     "tournaments": 2,
     "gamesWon": 3,
@@ -25137,6 +29707,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27913",
     "NAF Name": "LeMarv",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.8282105243378,
     "tournaments": 2,
     "gamesWon": 3,
@@ -25148,6 +29720,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27915",
     "NAF Name": "vikingkop",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "rating": 158.6765699371518,
     "tournaments": 3,
     "gamesWon": 5,
@@ -25159,6 +29733,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27922",
     "NAF Name": "ghento",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 140.83287966824938,
     "tournaments": 3,
     "gamesWon": 2,
@@ -25170,6 +29746,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27938",
     "NAF Name": "FreezingStar",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 168.28370764753356,
     "tournaments": 2,
     "gamesWon": 4,
@@ -25181,6 +29759,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27940",
     "NAF Name": "superchinois",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.84643353008948,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25192,6 +29772,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27944",
     "NAF Name": "thekraken",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 134.27687534489394,
     "tournaments": 1,
     "gamesWon": 0,
@@ -25203,6 +29785,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27954",
     "NAF Name": "Domelski",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 155.4012249526745,
     "tournaments": 1,
     "gamesWon": 3,
@@ -25214,6 +29798,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27955",
     "NAF Name": "Nimar",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 156.39561827302273,
     "tournaments": 2,
     "gamesWon": 5,
@@ -25225,6 +29811,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27963",
     "NAF Name": "xtheth",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 147.10893373186204,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25236,6 +29824,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27964",
     "NAF Name": "astrolay",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 129.01542436958803,
     "tournaments": 2,
     "gamesWon": 2,
@@ -25247,6 +29837,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27969",
     "NAF Name": "felna",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.53589838486224,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25258,6 +29850,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27971",
     "NAF Name": "dug1970",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.95355615572632,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25269,6 +29863,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27977",
     "NAF Name": "bumcheek_dave",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.48988485123684,
     "tournaments": 2,
     "gamesWon": 2,
@@ -25280,6 +29876,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27982",
     "NAF Name": "Jonpw",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 158.48247822277858,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25291,6 +29889,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27983",
     "NAF Name": "Beyond",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 154.65746362800638,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25302,6 +29902,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27985",
     "NAF Name": "Utto",
+    "CCAA": "Apatrida",
+    "Country": "Chile",
     "rating": 156.83612152365887,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25313,6 +29915,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27989",
     "NAF Name": "flashman1234",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 151.16772752366379,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25324,6 +29928,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27991",
     "NAF Name": "Glinrith",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.68657499923893,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25335,6 +29941,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "27992",
     "NAF Name": "Bertu",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.03889799584343,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25346,6 +29954,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28001",
     "NAF Name": "Kovacs",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.46963217011924,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25357,6 +29967,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28002",
     "NAF Name": "xtapodias",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 138.83414592696263,
     "tournaments": 4,
     "gamesWon": 4,
@@ -25368,6 +29980,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28013",
     "NAF Name": "Raptor",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 148.8503097771266,
     "tournaments": 3,
     "gamesWon": 4,
@@ -25379,6 +29993,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28019",
     "NAF Name": "buddbowl",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 156.9281065638943,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25390,6 +30006,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28022",
     "NAF Name": "muotinen",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 144.94884816494232,
     "tournaments": 1,
     "gamesWon": 0,
@@ -25401,6 +30019,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28025",
     "NAF Name": "kapnkrump",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 134.55436520918659,
     "tournaments": 1,
     "gamesWon": 0,
@@ -25412,6 +30032,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28034",
     "NAF Name": "KevMcD",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.2831017846055,
     "tournaments": 2,
     "gamesWon": 3,
@@ -25423,6 +30045,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28048",
     "NAF Name": "roegger79",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 137.0631521424845,
     "tournaments": 1,
     "gamesWon": 0,
@@ -25434,6 +30058,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28052",
     "NAF Name": "Darius_G.R.",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 139.36125432071915,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25445,6 +30071,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28053",
     "NAF Name": "paco44",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 159.4868329805051,
     "tournaments": 1,
     "gamesWon": 3,
@@ -25456,6 +30084,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28060",
     "NAF Name": "SquirrelyDan",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 145.174808935888,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25467,6 +30097,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28077",
     "NAF Name": "SourgBoy",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 133.32234359954677,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25478,6 +30110,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28078",
     "NAF Name": "Jimakos",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 155.28809761265026,
     "tournaments": 3,
     "gamesWon": 5,
@@ -25489,6 +30123,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28079",
     "NAF Name": "CurbStomp",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 150.10952985069733,
     "tournaments": 2,
     "gamesWon": 4,
@@ -25500,6 +30136,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28080",
     "NAF Name": "Troofapes",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 139.95872353773484,
     "tournaments": 2,
     "gamesWon": 3,
@@ -25511,6 +30149,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28081",
     "NAF Name": "RipVedder",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 152.14359300941817,
     "tournaments": 2,
     "gamesWon": 3,
@@ -25522,6 +30162,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28105",
     "NAF Name": "Lewi88",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.03275831638626,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25533,6 +30175,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28109",
     "NAF Name": "Phuqster",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 146.118910834181,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25544,6 +30188,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28111",
     "NAF Name": "JamesJenks92",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.03478908716863,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25555,6 +30201,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28126",
     "NAF Name": "chifakson",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.41096130920903,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25566,6 +30214,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28127",
     "NAF Name": "ilovespeedway",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.24545485873344,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25577,6 +30227,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28148",
     "NAF Name": "eduardokim",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.0101553354975,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25588,6 +30240,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28173",
     "NAF Name": "MrPopularity",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 157.3253171697603,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25599,6 +30253,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28178",
     "NAF Name": "Taltal",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 126.68440075529536,
     "tournaments": 2,
     "gamesWon": 1,
@@ -25610,6 +30266,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28196",
     "NAF Name": "Ionas",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 174.90662883240637,
     "tournaments": 3,
     "gamesWon": 10,
@@ -25621,6 +30279,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28198",
     "NAF Name": "salandra",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
     "rating": 146.25834261322606,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25632,6 +30292,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28201",
     "NAF Name": "romulas_1",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 146.12641930860866,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25643,6 +30305,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28202",
     "NAF Name": "trevor_weimann",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 137.9890434103329,
     "tournaments": 1,
     "gamesWon": 0,
@@ -25654,6 +30318,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28204",
     "NAF Name": "kalitri",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 166.73241506402036,
     "tournaments": 3,
     "gamesWon": 6,
@@ -25665,6 +30331,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28206",
     "NAF Name": "BROCKdodge",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.81123332710538,
     "tournaments": 4,
     "gamesWon": 6,
@@ -25676,6 +30344,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28209",
     "NAF Name": "Pulido",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.2536883066359,
     "tournaments": 1,
     "gamesWon": 0,
@@ -25687,6 +30357,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28222",
     "NAF Name": "barnabyv",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 142.1264158804421,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25698,6 +30370,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28225",
     "NAF Name": "pidrito",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 157.35692810835204,
     "tournaments": 2,
     "gamesWon": 4,
@@ -25709,6 +30383,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28226",
     "NAF Name": "tripli00",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.00809576601486,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25720,6 +30396,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28227",
     "NAF Name": "Ibboni",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 150.19342724697543,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25731,6 +30409,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28239",
     "NAF Name": "thulean",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.16387368015955,
     "tournaments": 2,
     "gamesWon": 3,
@@ -25742,6 +30422,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28242",
     "NAF Name": "Cynial",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 134.87563057802285,
     "tournaments": 2,
     "gamesWon": 3,
@@ -25753,6 +30435,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28254",
     "NAF Name": "ockyboy01",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138,
     "tournaments": 1,
     "gamesWon": 0,
@@ -25764,6 +30448,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28271",
     "NAF Name": "Hedgehogg",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 137.83966866491235,
     "tournaments": 2,
     "gamesWon": 2,
@@ -25775,6 +30461,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28272",
     "NAF Name": "Ross",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 139.90056329072112,
     "tournaments": 2,
     "gamesWon": 2,
@@ -25786,6 +30474,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28278",
     "NAF Name": "Roi",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 150.00262906353987,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25797,6 +30487,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28291",
     "NAF Name": "LargoFL",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 165.1099450951047,
     "tournaments": 2,
     "gamesWon": 7,
@@ -25808,6 +30500,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28292",
     "NAF Name": "Sjenky",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 127.32871331447032,
     "tournaments": 3,
     "gamesWon": 3,
@@ -25819,6 +30513,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28305",
     "NAF Name": "Mcskittles",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 107.07494958821856,
     "tournaments": 3,
     "gamesWon": 2,
@@ -25830,6 +30526,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28306",
     "NAF Name": "Magma",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 142.0522729665764,
     "tournaments": 7,
     "gamesWon": 9,
@@ -25841,6 +30539,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28311",
     "NAF Name": "Hellzapoppin",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 140.43849181458057,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25852,6 +30552,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28312",
     "NAF Name": "IronWolf",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.4972932018397,
     "tournaments": 2,
     "gamesWon": 3,
@@ -25863,6 +30565,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28320",
     "NAF Name": "NotThePornGuy",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 151.11521171216643,
     "tournaments": 2,
     "gamesWon": 3,
@@ -25874,6 +30578,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28327",
     "NAF Name": "goldengoblin",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25885,6 +30591,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28328",
     "NAF Name": "javin23",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 163.15781598150906,
     "tournaments": 1,
     "gamesWon": 3,
@@ -25896,6 +30604,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28333",
     "NAF Name": "Icy--Bee",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.01241168366528,
     "tournaments": 1,
     "gamesWon": 2,
@@ -25907,6 +30617,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28334",
     "NAF Name": "randypandy",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.1293287918187,
     "tournaments": 1,
     "gamesWon": 0,
@@ -25918,6 +30630,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28335",
     "NAF Name": "Meerkul",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 145.42346440725527,
     "tournaments": 2,
     "gamesWon": 3,
@@ -25929,6 +30643,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28336",
     "NAF Name": "stuart",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.99551371436442,
     "tournaments": 1,
     "gamesWon": 0,
@@ -25940,6 +30656,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28348",
     "NAF Name": "bbr_mel",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.66666387799594,
     "tournaments": 2,
     "gamesWon": 2,
@@ -25951,6 +30669,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28349",
     "NAF Name": "s1l3ntm4g1c",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.01721698134116,
     "tournaments": 1,
     "gamesWon": 0,
@@ -25962,6 +30682,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28350",
     "NAF Name": "marcassin",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 166.87494204909873,
     "tournaments": 4,
     "gamesWon": 6,
@@ -25973,6 +30695,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28351",
     "NAF Name": "JoeSolo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.66012027447098,
     "tournaments": 1,
     "gamesWon": 1,
@@ -25984,6 +30708,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28354",
     "NAF Name": "supa",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 164.70865394213178,
     "tournaments": 3,
     "gamesWon": 7,
@@ -25995,6 +30721,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28365",
     "NAF Name": "victorhugo",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 159.26388005736223,
     "tournaments": 2,
     "gamesWon": 3,
@@ -26006,6 +30734,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28366",
     "NAF Name": "gschmidt211",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.840880612134,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26017,6 +30747,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28368",
     "NAF Name": "Renne",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 113.79283098891437,
     "tournaments": 4,
     "gamesWon": 3,
@@ -26028,6 +30760,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28369",
     "NAF Name": "Prince_Mohamed",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 166.49629239488297,
     "tournaments": 1,
     "gamesWon": 3,
@@ -26039,6 +30773,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28371",
     "NAF Name": "nornbreeder",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 132.65898512969343,
     "tournaments": 6,
     "gamesWon": 7,
@@ -26050,6 +30786,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28372",
     "NAF Name": "nukafett",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 140.0007542427696,
     "tournaments": 4,
     "gamesWon": 4,
@@ -26061,6 +30799,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28385",
     "NAF Name": "onyersix",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
     "rating": 131.1924520942965,
     "tournaments": 2,
     "gamesWon": 1,
@@ -26072,6 +30812,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28386",
     "NAF Name": "halfabrain",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.6725691554823,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26083,6 +30825,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28395",
     "NAF Name": "lennartmeri",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 146.6011127060437,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26094,6 +30838,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28398",
     "NAF Name": "könig",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 138.7081807115943,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26105,6 +30851,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28403",
     "NAF Name": "Jofarin",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 161.58583864416,
     "tournaments": 1,
     "gamesWon": 3,
@@ -26116,6 +30864,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28417",
     "NAF Name": "Nabolo",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 154.43304124532295,
     "tournaments": 2,
     "gamesWon": 4,
@@ -26127,6 +30877,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28427",
     "NAF Name": "AWT",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.85478566097487,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26138,6 +30890,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28431",
     "NAF Name": "Vabap",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 166.1548101496799,
     "tournaments": 3,
     "gamesWon": 6,
@@ -26149,6 +30903,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28432",
     "NAF Name": "Vradipous",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 154.4612324690653,
     "tournaments": 3,
     "gamesWon": 5,
@@ -26160,6 +30916,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28433",
     "NAF Name": "ChrisPeeBacon",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 143.8800720850363,
     "tournaments": 3,
     "gamesWon": 3,
@@ -26171,6 +30929,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28434",
     "NAF Name": "Mickorcy",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 122.97389987423594,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26182,6 +30942,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28436",
     "NAF Name": "Jajan1",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 166.96925323039383,
     "tournaments": 1,
     "gamesWon": 4,
@@ -26193,6 +30955,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28440",
     "NAF Name": "xSoRcHx",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 144.34268304107124,
     "tournaments": 1,
     "gamesWon": 2,
@@ -26204,6 +30968,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28450",
     "NAF Name": "aargan",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.6985972285761,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26215,6 +30981,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28451",
     "NAF Name": "origanum",
+    "CCAA": "Apatrida",
+    "Country": "Chile",
     "rating": 133.26379316049682,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26226,6 +30994,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28453",
     "NAF Name": "eldiouk",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 162.37229661663025,
     "tournaments": 1,
     "gamesWon": 3,
@@ -26237,6 +31007,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28454",
     "NAF Name": "alby250",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
     "rating": 149.89583350607936,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26248,6 +31020,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28472",
     "NAF Name": "JaredTheMad",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.43647356373438,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26259,6 +31033,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28473",
     "NAF Name": "mentalkombat",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.94950998185905,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26270,6 +31046,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28478",
     "NAF Name": "rich66",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
     "rating": 150.00584771668986,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26281,6 +31059,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28479",
     "NAF Name": "zaphodbeeblebrox",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 130.13298701045827,
     "tournaments": 3,
     "gamesWon": 1,
@@ -26292,6 +31072,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28490",
     "NAF Name": "i_done_goofd",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 138.1801127229862,
     "tournaments": 3,
     "gamesWon": 3,
@@ -26303,6 +31085,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28499",
     "NAF Name": "Emelius",
+    "CCAA": "Apatrida",
+    "Country": "Chile",
     "rating": 146.53589838486224,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26314,6 +31098,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28504",
     "NAF Name": "maccbowl",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 136.2611491306896,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26325,6 +31111,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28509",
     "NAF Name": "silver",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.27285858131472,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26336,6 +31124,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28510",
     "NAF Name": "rawberry",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.96235525957206,
     "tournaments": 2,
     "gamesWon": 3,
@@ -26347,6 +31137,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28513",
     "NAF Name": "RIVERS2469",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.63274259366636,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26358,6 +31150,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28517",
     "NAF Name": "Fuel",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 168.07091981053293,
     "tournaments": 2,
     "gamesWon": 7,
@@ -26369,6 +31163,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28518",
     "NAF Name": "p1i3gs",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.64295245146485,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26380,6 +31176,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28522",
     "NAF Name": "rainmaker",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 141.94603702024222,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26391,6 +31189,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28524",
     "NAF Name": "pij",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 132.31367268831593,
     "tournaments": 2,
     "gamesWon": 0,
@@ -26402,6 +31202,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28525",
     "NAF Name": "rpateman",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.37723618223401,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26413,6 +31215,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28526",
     "NAF Name": "Sr.Huargo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.61370746281096,
     "tournaments": 1,
     "gamesWon": 2,
@@ -26424,6 +31228,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28534",
     "NAF Name": "houseblackfyre",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.204504523019,
     "tournaments": 3,
     "gamesWon": 5,
@@ -26435,6 +31241,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28535",
     "NAF Name": "scisco",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 146.3243565356613,
     "tournaments": 1,
     "gamesWon": 2,
@@ -26446,6 +31254,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28540",
     "NAF Name": "aburgos",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 127.87722706661832,
     "tournaments": 3,
     "gamesWon": 2,
@@ -26457,6 +31267,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28544",
     "NAF Name": "Angelo8875",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 138.7521233682347,
     "tournaments": 1,
     "gamesWon": 2,
@@ -26468,6 +31280,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28545",
     "NAF Name": "Sascha6378",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 133.79744000971453,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26479,6 +31293,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28546",
     "NAF Name": "Silbertasche",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 128.77176980085218,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26490,6 +31306,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28547",
     "NAF Name": "cyrix",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 148.48646660772943,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26501,6 +31319,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28548",
     "NAF Name": "lodenbar",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.53589838486224,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26512,6 +31332,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28550",
     "NAF Name": "lodge_tom",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 134.42996998114396,
     "tournaments": 2,
     "gamesWon": 3,
@@ -26523,6 +31345,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28553",
     "NAF Name": "getshrektgaming",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 132.82378068879203,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26534,6 +31358,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28555",
     "NAF Name": "beardonboards",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154.86262954655507,
     "tournaments": 1,
     "gamesWon": 2,
@@ -26545,6 +31371,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28558",
     "NAF Name": "dabbingunicorn",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.8772340307004,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26556,6 +31384,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28562",
     "NAF Name": "titi33",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.89161146547985,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26567,6 +31397,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28576",
     "NAF Name": "Jojo84",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.74503917099025,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26578,6 +31410,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28577",
     "NAF Name": "Horus_Puntley",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.3767374835446,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26589,6 +31423,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28578",
     "NAF Name": "Veerja",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 125.5323794683738,
     "tournaments": 3,
     "gamesWon": 1,
@@ -26600,6 +31436,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28580",
     "NAF Name": "sipjin",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.84793188346134,
     "tournaments": 1,
     "gamesWon": 3,
@@ -26611,6 +31449,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28584",
     "NAF Name": "zerefdragneel",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 151.3941221677341,
     "tournaments": 2,
     "gamesWon": 4,
@@ -26622,6 +31462,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28590",
     "NAF Name": "Wally_Gator",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 132.527793826883,
     "tournaments": 2,
     "gamesWon": 1,
@@ -26633,6 +31475,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28606",
     "NAF Name": "LittleYoshi1979",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.34314575050763,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26644,6 +31488,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28610",
     "NAF Name": "JKB",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.82240066753246,
     "tournaments": 4,
     "gamesWon": 6,
@@ -26655,6 +31501,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28612",
     "NAF Name": "wojtaz",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 138.69561990351022,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26666,6 +31514,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28613",
     "NAF Name": "niconarwhal",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 139.3977616822288,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26677,6 +31527,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28616",
     "NAF Name": "Dirkules",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 141.71148480659272,
     "tournaments": 1,
     "gamesWon": 2,
@@ -26688,6 +31540,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28617",
     "NAF Name": "Bob_Gaffa_Blodgins",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.91304536159026,
     "tournaments": 1,
     "gamesWon": 2,
@@ -26699,6 +31553,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28618",
     "NAF Name": "D00glasVert",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 133.26559820717205,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26710,6 +31566,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28619",
     "NAF Name": "EH_Gaming",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.38457202556627,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26721,6 +31579,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28623",
     "NAF Name": "rozyc",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 138.91178003522964,
     "tournaments": 1,
     "gamesWon": 2,
@@ -26732,6 +31592,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28624",
     "NAF Name": "zaethrael",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 150.42970068159576,
     "tournaments": 1,
     "gamesWon": 2,
@@ -26743,6 +31605,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28626",
     "NAF Name": "Manek",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.5372632612991,
     "tournaments": 2,
     "gamesWon": 1,
@@ -26754,6 +31618,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28631",
     "NAF Name": "adriona",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 134.18160817077694,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26765,6 +31631,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28636",
     "NAF Name": "bloodtithe",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.71625317174747,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26776,6 +31644,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28640",
     "NAF Name": "glooping",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.0297737932637,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26787,6 +31657,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28643",
     "NAF Name": "Chaosbob",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.5121847163999,
     "tournaments": 1,
     "gamesWon": 2,
@@ -26798,6 +31670,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28647",
     "NAF Name": "shallam1982",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 152.84930317696566,
     "tournaments": 1,
     "gamesWon": 2,
@@ -26809,6 +31683,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28651",
     "NAF Name": "Haplo3535",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 134.57797485176732,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26820,6 +31696,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28653",
     "NAF Name": "ForgeKnight84",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.0682536402513,
     "tournaments": 1,
     "gamesWon": 2,
@@ -26831,6 +31709,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28654",
     "NAF Name": "BooDah666",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.34314575050763,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26842,6 +31722,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28661",
     "NAF Name": "narcomoeba",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 166.72510788974367,
     "tournaments": 1,
     "gamesWon": 3,
@@ -26853,6 +31735,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28662",
     "NAF Name": "jayward",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 161.03742390764953,
     "tournaments": 1,
     "gamesWon": 3,
@@ -26864,6 +31748,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28663",
     "NAF Name": "księciunio",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 138.96052959692568,
     "tournaments": 1,
     "gamesWon": 2,
@@ -26875,6 +31761,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28664",
     "NAF Name": "Kelpie",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 134.6588089825254,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26886,6 +31774,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28667",
     "NAF Name": "Szaman",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 132.80563867185018,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26897,6 +31787,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28668",
     "NAF Name": "Kryshan",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 133.0196662278467,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26908,6 +31800,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28669",
     "NAF Name": "Jesterical",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.53728247681536,
     "tournaments": 1,
     "gamesWon": 3,
@@ -26919,6 +31813,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28670",
     "NAF Name": "cdman",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.0889738905114,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26930,6 +31826,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28677",
     "NAF Name": "4rchangel777",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 132.8048531745588,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26941,6 +31839,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28679",
     "NAF Name": "ratmaru",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 144.81362568169095,
     "tournaments": 1,
     "gamesWon": 2,
@@ -26952,6 +31852,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28682",
     "NAF Name": "D_Mode",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.31065681855685,
     "tournaments": 1,
     "gamesWon": 1,
@@ -26963,6 +31865,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28686",
     "NAF Name": "captaingrizz",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 127.37758394722502,
     "tournaments": 1,
     "gamesWon": 0,
@@ -26974,6 +31878,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28689",
     "NAF Name": "grimbo",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 144.58771699739782,
     "tournaments": 1,
     "gamesWon": 2,
@@ -26985,6 +31891,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28694",
     "NAF Name": "vizzini",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 165.89199028856515,
     "tournaments": 1,
     "gamesWon": 3,
@@ -26996,6 +31904,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28698",
     "NAF Name": "lunewolf1972",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.20891302142746,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27007,6 +31917,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28699",
     "NAF Name": "Dante83",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 125.43175632867057,
     "tournaments": 3,
     "gamesWon": 3,
@@ -27018,6 +31930,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28700",
     "NAF Name": "moonbiter",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 147.01334736907526,
     "tournaments": 2,
     "gamesWon": 3,
@@ -27029,6 +31943,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28701",
     "NAF Name": "fuko",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 145.5223409951855,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27040,6 +31956,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28702",
     "NAF Name": "noxer",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 152.87210170396946,
     "tournaments": 3,
     "gamesWon": 6,
@@ -27051,6 +31969,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28703",
     "NAF Name": "maquis",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.39245309007342,
     "tournaments": 1,
     "gamesWon": 0,
@@ -27062,6 +31982,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28705",
     "NAF Name": "Snidahhh",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.41699475574165,
     "tournaments": 1,
     "gamesWon": 0,
@@ -27073,6 +31995,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28709",
     "NAF Name": "Tanque",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 138.42233429576308,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27084,6 +32008,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28714",
     "NAF Name": "Brogre",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.0684599784574,
     "tournaments": 2,
     "gamesWon": 2,
@@ -27095,6 +32021,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28721",
     "NAF Name": "paddymick",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.82747401302842,
     "tournaments": 1,
     "gamesWon": 0,
@@ -27106,6 +32034,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28722",
     "NAF Name": "Balon",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 156.1223037709158,
     "tournaments": 2,
     "gamesWon": 5,
@@ -27117,6 +32047,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28726",
     "NAF Name": "Mercy_Flush",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.76880150986037,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27128,6 +32060,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28741",
     "NAF Name": "glore",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 138.31670914838102,
     "tournaments": 2,
     "gamesWon": 1,
@@ -27139,6 +32073,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28743",
     "NAF Name": "herbertwest",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 155.32715629216548,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27150,6 +32086,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28744",
     "NAF Name": "m.r.morgan",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 155.13896308929924,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27161,6 +32099,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28758",
     "NAF Name": "uberspoons",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 135.33276737705913,
     "tournaments": 2,
     "gamesWon": 1,
@@ -27172,6 +32112,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28768",
     "NAF Name": "davestarmaster",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 134.11232973765874,
     "tournaments": 6,
     "gamesWon": 7,
@@ -27183,6 +32125,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28771",
     "NAF Name": "masterfull",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.65685424949237,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27194,6 +32138,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28774",
     "NAF Name": "xuhao",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 150.00212695078162,
     "tournaments": 2,
     "gamesWon": 3,
@@ -27205,6 +32151,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28779",
     "NAF Name": "MathDaddy",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27216,6 +32164,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28780",
     "NAF Name": "Harkonnen",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 142.91459334735416,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27227,6 +32177,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28781",
     "NAF Name": "AndrewR",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 145.65145125500564,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27238,6 +32190,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28783",
     "NAF Name": "EvilSmoothie",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 153.4492664875633,
     "tournaments": 3,
     "gamesWon": 5,
@@ -27249,6 +32203,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28785",
     "NAF Name": "Bufal",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.26597487998862,
     "tournaments": 1,
     "gamesWon": 0,
@@ -27260,6 +32216,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28788",
     "NAF Name": "L.A.PORK",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 147.22910557644695,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27271,6 +32229,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28789",
     "NAF Name": "MBAT",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 141.40216797050482,
     "tournaments": 1,
     "gamesWon": 0,
@@ -27282,6 +32242,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28790",
     "NAF Name": "CaliTheKing",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 152.70010899868615,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27293,6 +32255,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28799",
     "NAF Name": "dolch",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.1769641371457,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27304,6 +32268,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28813",
     "NAF Name": "Bombardiere50",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 109.3825121424759,
     "tournaments": 4,
     "gamesWon": 1,
@@ -27315,6 +32281,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28814",
     "NAF Name": "Vyper",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 118.63197785084026,
     "tournaments": 4,
     "gamesWon": 3,
@@ -27326,6 +32294,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28816",
     "NAF Name": "leprchn21",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.54919846877323,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27337,6 +32307,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28821",
     "NAF Name": "IanMcD83",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 123.10496245244563,
     "tournaments": 1,
     "gamesWon": 0,
@@ -27348,6 +32320,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28823",
     "NAF Name": "Drastak",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
     "rating": 161.85667598756945,
     "tournaments": 1,
     "gamesWon": 3,
@@ -27359,6 +32333,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28825",
     "NAF Name": "maltelund",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 136.47945621731262,
     "tournaments": 3,
     "gamesWon": 4,
@@ -27370,6 +32346,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28828",
     "NAF Name": "ghetti",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 130.85437293165236,
     "tournaments": 2,
     "gamesWon": 1,
@@ -27381,6 +32359,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28836",
     "NAF Name": "Cristobal.J",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.39291778825418,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27392,6 +32372,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28841",
     "NAF Name": "Drakenspear",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 144.36263192434575,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27403,6 +32385,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28844",
     "NAF Name": "Bizarrista",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.60036901739676,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27414,6 +32398,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28846",
     "NAF Name": "tomnus",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 133.4866302130774,
     "tournaments": 2,
     "gamesWon": 1,
@@ -27425,6 +32411,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28848",
     "NAF Name": "NotSlimShady",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 138.91180822331125,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27436,6 +32424,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28864",
     "NAF Name": "Koki",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 160.18442781925606,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27447,6 +32437,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28865",
     "NAF Name": "Vacamu",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 154.99292232619328,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27458,6 +32450,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28866",
     "NAF Name": "Berhane",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 167.50952284253685,
     "tournaments": 2,
     "gamesWon": 4,
@@ -27469,6 +32463,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28875",
     "NAF Name": "OPPO",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 155.22707157537982,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27480,6 +32476,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28877",
     "NAF Name": "EDOFO",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 152.451294687176,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27491,6 +32489,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28883",
     "NAF Name": "banzaï",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.6338810705505,
     "tournaments": 1,
     "gamesWon": 3,
@@ -27502,6 +32502,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28884",
     "NAF Name": "bearcall",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 143.92625974533084,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27513,6 +32515,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28897",
     "NAF Name": "chivite_j",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
     "rating": 150.0053946614398,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27524,6 +32528,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28902",
     "NAF Name": "Sean_M",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.71440566593515,
     "tournaments": 2,
     "gamesWon": 3,
@@ -27535,6 +32541,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28903",
     "NAF Name": "Yudlugar",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.66317839416055,
     "tournaments": 2,
     "gamesWon": 3,
@@ -27546,6 +32554,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28904",
     "NAF Name": "Buchaneer",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.57198453372385,
     "tournaments": 2,
     "gamesWon": 2,
@@ -27557,6 +32567,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28905",
     "NAF Name": "Montagne_Blitz",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 117.64121156264827,
     "tournaments": 1,
     "gamesWon": 0,
@@ -27568,6 +32580,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28908",
     "NAF Name": "Pyra",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.0231912057858,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27579,6 +32593,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28909",
     "NAF Name": "Volume",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 159.99349876206185,
     "tournaments": 1,
     "gamesWon": 3,
@@ -27590,6 +32606,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28910",
     "NAF Name": "YeetMasterExtraordinaire",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 122.01116900544528,
     "tournaments": 1,
     "gamesWon": 0,
@@ -27601,6 +32619,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28913",
     "NAF Name": "reapraptor",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.66353663798708,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27612,6 +32632,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28914",
     "NAF Name": "Upscalegolem",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 137.13625807335725,
     "tournaments": 1,
     "gamesWon": 0,
@@ -27623,6 +32645,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28918",
     "NAF Name": "Erik",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 151.42985773638577,
     "tournaments": 2,
     "gamesWon": 4,
@@ -27634,6 +32658,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28921",
     "NAF Name": "Varadal",
+    "CCAA": "Apatrida",
+    "Country": "Chile",
     "rating": 146.62798009147892,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27645,6 +32671,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28923",
     "NAF Name": "mikismallz",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 133.0689288580037,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27656,6 +32684,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28924",
     "NAF Name": "teacupexplosive",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.7288311869365,
     "tournaments": 2,
     "gamesWon": 4,
@@ -27667,6 +32697,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28925",
     "NAF Name": "reallystupid",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.3452426464493,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27678,6 +32710,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28931",
     "NAF Name": "kevinlevens",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.77888890741227,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27689,6 +32723,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28932",
     "NAF Name": "Pox",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.36887512584858,
     "tournaments": 2,
     "gamesWon": 3,
@@ -27700,6 +32736,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28934",
     "NAF Name": "Just-Nancy",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.8825844265512,
     "tournaments": 2,
     "gamesWon": 3,
@@ -27711,6 +32749,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28939",
     "NAF Name": "GoldenBoy",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.95655726425568,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27722,6 +32762,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28940",
     "NAF Name": "Estertor",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.00736012920282,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27733,6 +32775,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28947",
     "NAF Name": "CROVAX",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 149.02028481938908,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27744,6 +32788,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28960",
     "NAF Name": "Hamez_Rodriguez",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 128.75173174043098,
     "tournaments": 1,
     "gamesWon": 0,
@@ -27755,6 +32801,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28961",
     "NAF Name": "mygind",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 140.68321558723738,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27766,6 +32814,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28962",
     "NAF Name": "kinarulle",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 134.94662509553856,
     "tournaments": 2,
     "gamesWon": 2,
@@ -27777,6 +32827,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28963",
     "NAF Name": "fabulous_beard",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 124.29144122389724,
     "tournaments": 2,
     "gamesWon": 1,
@@ -27788,6 +32840,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28965",
     "NAF Name": "bigmekmilt",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.62418578234127,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27799,6 +32853,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28968",
     "NAF Name": "coach_bodger",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.62661679152794,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27810,6 +32866,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28971",
     "NAF Name": "lacerta",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.99343387235763,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27821,6 +32879,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28974",
     "NAF Name": "kinglydon",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 161.32673634502174,
     "tournaments": 1,
     "gamesWon": 3,
@@ -27832,6 +32892,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28977",
     "NAF Name": "shivaree",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 133.25626734163805,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27843,6 +32905,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28978",
     "NAF Name": "Rajunn",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.90296730552348,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27854,6 +32918,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28979",
     "NAF Name": "Purgatus",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.0192562447235,
     "tournaments": 3,
     "gamesWon": 3,
@@ -27865,6 +32931,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28982",
     "NAF Name": "Pri13",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 123.39062096537513,
     "tournaments": 1,
     "gamesWon": 0,
@@ -27876,6 +32944,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28983",
     "NAF Name": "Possum",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 127.6159219392165,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27887,6 +32957,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28984",
     "NAF Name": "PantsLawyers",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.17278349498505,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27898,6 +32970,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28987",
     "NAF Name": "griffonnz",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 154.73582806307803,
     "tournaments": 2,
     "gamesWon": 5,
@@ -27909,6 +32983,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28989",
     "NAF Name": "James_",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 165.76074217043939,
     "tournaments": 1,
     "gamesWon": 4,
@@ -27920,6 +32996,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28990",
     "NAF Name": "countrymen",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 155.4843572360942,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27931,6 +33009,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28991",
     "NAF Name": "lue",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 145.23406065687422,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27942,6 +33022,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "28994",
     "NAF Name": "darksmurf",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.44775896600282,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27953,6 +33035,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29003",
     "NAF Name": "dcmaligno",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.92751304711433,
     "tournaments": 1,
     "gamesWon": 0,
@@ -27964,6 +33048,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29005",
     "NAF Name": "spielzeitx",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.54594122999526,
     "tournaments": 2,
     "gamesWon": 4,
@@ -27975,6 +33061,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29006",
     "NAF Name": "Xsaw",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 150.98351126066015,
     "tournaments": 1,
     "gamesWon": 2,
@@ -27986,6 +33074,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29007",
     "NAF Name": "Woombat",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 145.42179689422315,
     "tournaments": 1,
     "gamesWon": 1,
@@ -27997,6 +33087,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29011",
     "NAF Name": "Ikeda",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 152.90564761813295,
     "tournaments": 2,
     "gamesWon": 2,
@@ -28008,6 +33100,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29013",
     "NAF Name": "sexmachine",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 135.696718863041,
     "tournaments": 6,
     "gamesWon": 6,
@@ -28019,6 +33113,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29014",
     "NAF Name": "dalyo",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.64619711264285,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28030,6 +33126,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29015",
     "NAF Name": "rwby",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 123.01706479829248,
     "tournaments": 2,
     "gamesWon": 0,
@@ -28041,6 +33139,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29016",
     "NAF Name": "Ekka",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 149.81828316737023,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28052,6 +33152,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29018",
     "NAF Name": "boronate",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 142.01031460281146,
     "tournaments": 3,
     "gamesWon": 2,
@@ -28063,6 +33165,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29019",
     "NAF Name": "TheGoat73",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.1914498085491,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28074,6 +33178,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29020",
     "NAF Name": "2Khorney4u",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 141.34483257510374,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28085,6 +33191,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29021",
     "NAF Name": "baatosan",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 136.9298723542962,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28096,6 +33204,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29022",
     "NAF Name": "evilwagz",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 132.6083989227823,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28107,6 +33217,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29023",
     "NAF Name": "tonyrid",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.34947380104035,
     "tournaments": 1,
     "gamesWon": 3,
@@ -28118,6 +33230,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29024",
     "NAF Name": "Rafal44",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 166.66167750522573,
     "tournaments": 2,
     "gamesWon": 5,
@@ -28129,6 +33243,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29025",
     "NAF Name": "Rolc",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 134.19082569463473,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28140,6 +33256,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29026",
     "NAF Name": "sherbie75",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 125.34389977735606,
     "tournaments": 5,
     "gamesWon": 4,
@@ -28151,6 +33269,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29028",
     "NAF Name": "stevey126",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 149.9797188751901,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28162,6 +33282,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29029",
     "NAF Name": "seanphoenix87",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.75205156885102,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28173,6 +33295,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29030",
     "NAF Name": "Blackhammer",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 133.70685191238172,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28184,6 +33308,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29032",
     "NAF Name": "goldtoof",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 150.33407867685875,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28195,6 +33321,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29035",
     "NAF Name": "torra",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.11578960446133,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28206,6 +33334,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29036",
     "NAF Name": "Inaky",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.4623249022285,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28217,6 +33347,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29037",
     "NAF Name": "lord_wasabi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.17940386843415,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28228,6 +33360,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29038",
     "NAF Name": "liiaam",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 158.2902984404177,
     "tournaments": 2,
     "gamesWon": 3,
@@ -28239,6 +33373,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29043",
     "NAF Name": "toastbandito",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 147.05452825346748,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28250,6 +33386,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29044",
     "NAF Name": "crazywibe",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 147.5867103318945,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28261,6 +33399,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29046",
     "NAF Name": "cbraw",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 156.45806371623746,
     "tournaments": 6,
     "gamesWon": 8,
@@ -28272,6 +33412,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29049",
     "NAF Name": "summertime_luvin",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 138.69694863786478,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28283,6 +33425,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29051",
     "NAF Name": "bounty",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 150.81446362523923,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28294,6 +33438,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29055",
     "NAF Name": "sp3dg3",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.34314575050763,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28305,6 +33451,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29057",
     "NAF Name": "Burninator",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.34314575050763,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28316,6 +33464,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29059",
     "NAF Name": "JennSin",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.6803822992532,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28327,6 +33477,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29060",
     "NAF Name": "roguetrader",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 159.55513063633256,
     "tournaments": 2,
     "gamesWon": 3,
@@ -28338,6 +33490,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29061",
     "NAF Name": "destirelda",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.8328365486126,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28349,6 +33503,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29062",
     "NAF Name": "wrothcoot5990",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 155.93716603282584,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28360,6 +33516,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29067",
     "NAF Name": "Skippy",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 146.35608908153966,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28371,6 +33529,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29068",
     "NAF Name": "Alexian01",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 105.16238227581204,
     "tournaments": 4,
     "gamesWon": 2,
@@ -28382,6 +33542,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29069",
     "NAF Name": "xxaa",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.99511018133953,
     "tournaments": 2,
     "gamesWon": 2,
@@ -28393,6 +33555,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29070",
     "NAF Name": "Krogott",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 140.05893309048992,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28404,6 +33568,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29071",
     "NAF Name": "Boris01",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 134.38429000258927,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28415,6 +33581,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29072",
     "NAF Name": "Zeph",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 148.57906337284223,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28426,6 +33594,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29076",
     "NAF Name": "Gozz",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.35269185365135,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28437,6 +33607,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29078",
     "NAF Name": "Wolter",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 150.84026040992356,
     "tournaments": 6,
     "gamesWon": 8,
@@ -28448,6 +33620,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29086",
     "NAF Name": "roryniners",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 124.54795342578134,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28459,6 +33633,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29087",
     "NAF Name": "savowar",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 147.56990624091372,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28470,6 +33646,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29088",
     "NAF Name": "jabosalinas",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.85523985118147,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28481,6 +33659,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29089",
     "NAF Name": "Nivaro",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.72197367107145,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28492,6 +33672,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29090",
     "NAF Name": "Crisis",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 149.0377140178437,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28503,6 +33685,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29092",
     "NAF Name": "joeldownie",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 145.77632940176906,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28514,6 +33698,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29093",
     "NAF Name": "hellbentginger",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 153.49372022004005,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28525,6 +33711,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29094",
     "NAF Name": "swish",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.76136136959323,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28536,6 +33724,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29095",
     "NAF Name": "Ryan_D_Montgomery",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 139.6826962064018,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28547,6 +33737,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29096",
     "NAF Name": "Rade_Andric",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.99080528596838,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28558,6 +33750,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29098",
     "NAF Name": "qmiw",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 145.7453069851059,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28569,6 +33763,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29099",
     "NAF Name": "Greywater",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28580,6 +33776,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29100",
     "NAF Name": "dwarfhumper",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 154,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28591,6 +33789,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29103",
     "NAF Name": "Sourheart",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.65685424949237,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28602,6 +33802,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29104",
     "NAF Name": "Sam40k",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.34314575050763,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28613,6 +33815,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29105",
     "NAF Name": "Tartyx",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 132.35141475100716,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28624,6 +33828,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29106",
     "NAF Name": "Lasgalen",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 132.99062249720782,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28635,6 +33841,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29107",
     "NAF Name": "Erikcartman91",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 125.74030383081364,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28646,6 +33854,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29110",
     "NAF Name": "albertofcb",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "rating": 155.0113975475198,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28657,6 +33867,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29112",
     "NAF Name": "Cruentus",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.90966835616604,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28668,6 +33880,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29113",
     "NAF Name": "DiceWhore",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 157.25813998335292,
     "tournaments": 1,
     "gamesWon": 3,
@@ -28679,6 +33893,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29114",
     "NAF Name": "WDBadger",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.74359079342744,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28690,6 +33906,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29118",
     "NAF Name": "Aseric",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.23945691402935,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28701,6 +33919,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29120",
     "NAF Name": "zwolan",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 155.66751138634189,
     "tournaments": 1,
     "gamesWon": 3,
@@ -28712,6 +33932,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29121",
     "NAF Name": "killerclip",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 154.00788831494867,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28723,6 +33945,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29123",
     "NAF Name": "Haukionkala",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 154.24954862761842,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28734,6 +33958,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29125",
     "NAF Name": "Diafoleternal",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 149.28847064414572,
     "tournaments": 1,
     "gamesWon": 3,
@@ -28745,6 +33971,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29126",
     "NAF Name": "catosil",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
     "rating": 138.67845442263314,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28756,6 +33984,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29130",
     "NAF Name": "Sandro",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 144.42195442906885,
     "tournaments": 2,
     "gamesWon": 3,
@@ -28767,6 +33997,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29136",
     "NAF Name": "jmgold3183",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.61948915254095,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28778,6 +34010,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29140",
     "NAF Name": "Batted",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 133.89161810839067,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28789,6 +34023,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29141",
     "NAF Name": "Ghenj",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 132.6135061397293,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28800,6 +34036,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29145",
     "NAF Name": "Andriy",
+    "CCAA": "Aragón",
+    "Country": "Spain",
     "rating": 159.94368010588198,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28811,6 +34049,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29150",
     "NAF Name": "Sywert",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 132.88465407560355,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28822,6 +34062,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29151",
     "NAF Name": "hellhorn",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 136.61158069969846,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28833,6 +34075,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29157",
     "NAF Name": "ninjadaterroa",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 138.14372845785456,
     "tournaments": 1,
     "gamesWon": 0,
@@ -28844,6 +34088,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29159",
     "NAF Name": "DesTrickAdo",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 139.44241205920198,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28855,6 +34101,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29160",
     "NAF Name": "Wolf25789",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 133.94746764187175,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28866,6 +34114,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29161",
     "NAF Name": "DrDrez",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 155.89972881816655,
     "tournaments": 1,
     "gamesWon": 3,
@@ -28877,6 +34127,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29165",
     "NAF Name": "Kator",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 148.41734425599077,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28888,6 +34140,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29169",
     "NAF Name": "Pit_FH",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 139.39648309702721,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28899,6 +34153,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29170",
     "NAF Name": "daAlder",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 149.95777093801286,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28910,6 +34166,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29171",
     "NAF Name": "Gerri",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 156.000397488734,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28921,6 +34179,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29179",
     "NAF Name": "grumblypumpkin7570",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.00526699790572,
     "tournaments": 1,
     "gamesWon": 1,
@@ -28932,6 +34192,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29184",
     "NAF Name": "zeps",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 155.4508895436785,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28943,6 +34205,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29186",
     "NAF Name": "misstake",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 129.3460876619905,
     "tournaments": 2,
     "gamesWon": 1,
@@ -28954,6 +34218,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29189",
     "NAF Name": "gatogordo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 156.57587877730597,
     "tournaments": 1,
     "gamesWon": 2,
@@ -28965,6 +34231,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29192",
     "NAF Name": "Mind_Locker",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 155.75330433706097,
     "tournaments": 3,
     "gamesWon": 4,
@@ -28976,6 +34244,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29193",
     "NAF Name": "Dstratsianis",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 181.8503948902034,
     "tournaments": 4,
     "gamesWon": 10,
@@ -28987,6 +34257,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29194",
     "NAF Name": "PaleReaper84",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 134.29058594572084,
     "tournaments": 2,
     "gamesWon": 2,
@@ -28998,6 +34270,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29197",
     "NAF Name": "amerkal",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 138.67420927599764,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29009,6 +34283,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29201",
     "NAF Name": "jawbreaker",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 132.32756440618945,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29020,6 +34296,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29205",
     "NAF Name": "DrewBlood",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 143.88971684000953,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29031,6 +34309,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29206",
     "NAF Name": "Logan03",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.3432519720574,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29042,6 +34322,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29207",
     "NAF Name": "CharlieAnnear",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.10834802862368,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29053,6 +34335,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29208",
     "NAF Name": "zoginnob01",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
     "rating": 146.2672753742332,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29064,6 +34348,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29211",
     "NAF Name": "Quovadis",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 138.75851175410344,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29075,6 +34361,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29212",
     "NAF Name": "sergio",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "rating": 135.4561795683909,
     "tournaments": 2,
     "gamesWon": 0,
@@ -29086,6 +34374,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29216",
     "NAF Name": "Le_Schtroumpf_Boxeur",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.58398402101784,
     "tournaments": 1,
     "gamesWon": 2,
@@ -29097,6 +34387,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29217",
     "NAF Name": "Duda",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 155.65177055102941,
     "tournaments": 1,
     "gamesWon": 3,
@@ -29108,6 +34400,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29218",
     "NAF Name": "Hiliadan",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.22472250140254,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29119,6 +34413,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29220",
     "NAF Name": "Dalron",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 148.8767917079561,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29130,6 +34426,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29221",
     "NAF Name": "Orcthadontist",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 134.1883157729502,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29141,6 +34439,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29222",
     "NAF Name": "Willpower",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 133.63790391866394,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29152,6 +34452,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29223",
     "NAF Name": "Whisk",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.52786404500043,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29163,6 +34465,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29224",
     "NAF Name": "Battleangel",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.81406161223615,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29174,6 +34478,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29225",
     "NAF Name": "greenninja",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 135.87963648407438,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29185,6 +34491,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29227",
     "NAF Name": "Volkajo",
+    "CCAA": "Apatrida",
+    "Country": "Ladonia",
     "rating": 152.30524832930595,
     "tournaments": 4,
     "gamesWon": 5,
@@ -29196,6 +34504,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29230",
     "NAF Name": "NickGuido",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.595197510198,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29207,6 +34517,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29232",
     "NAF Name": "Lemay",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 155.10688427270912,
     "tournaments": 1,
     "gamesWon": 2,
@@ -29218,6 +34530,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29233",
     "NAF Name": "Klipper",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 151.4521497710575,
     "tournaments": 2,
     "gamesWon": 4,
@@ -29229,6 +34543,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29235",
     "NAF Name": "miguel",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 138.70620232858468,
     "tournaments": 1,
     "gamesWon": 2,
@@ -29240,6 +34556,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29236",
     "NAF Name": "Renon",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 161.53788751930102,
     "tournaments": 1,
     "gamesWon": 3,
@@ -29251,6 +34569,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29237",
     "NAF Name": "Siogun",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 123.05501918375928,
     "tournaments": 2,
     "gamesWon": 2,
@@ -29262,6 +34582,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29238",
     "NAF Name": "InChu",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 155.4526430309419,
     "tournaments": 1,
     "gamesWon": 3,
@@ -29273,6 +34595,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29250",
     "NAF Name": "Cooklee",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 155.44200199966554,
     "tournaments": 1,
     "gamesWon": 3,
@@ -29284,6 +34608,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29253",
     "NAF Name": "Alizarin72",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 133.70462204833942,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29295,6 +34621,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29254",
     "NAF Name": "Anraton",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 145.99364332299018,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29306,6 +34634,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29256",
     "NAF Name": "Schredd0r",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 138.1848631486655,
     "tournaments": 3,
     "gamesWon": 5,
@@ -29317,6 +34647,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29257",
     "NAF Name": "Tinyspark",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 127.45963578317634,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29328,6 +34660,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29258",
     "NAF Name": "Wicked",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 134.90633172892024,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29339,6 +34673,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29259",
     "NAF Name": "SundanceKid",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 173.95795409649523,
     "tournaments": 1,
     "gamesWon": 4,
@@ -29350,6 +34686,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29261",
     "NAF Name": "Skyvaheri",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 162.52660528863458,
     "tournaments": 1,
     "gamesWon": 3,
@@ -29361,6 +34699,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29262",
     "NAF Name": "Unruler",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.50511680375942,
     "tournaments": 1,
     "gamesWon": 2,
@@ -29372,6 +34712,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29266",
     "NAF Name": "Delta2Alpha",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 155.16270063637776,
     "tournaments": 1,
     "gamesWon": 3,
@@ -29383,6 +34725,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29267",
     "NAF Name": "Fleaswake",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 139.3430867769215,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29394,6 +34738,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29268",
     "NAF Name": "norfsighed",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.99646094659317,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29405,6 +34751,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29272",
     "NAF Name": "dixie-flatline",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29416,6 +34764,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29273",
     "NAF Name": "maana",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.55726323103704,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29427,6 +34777,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29274",
     "NAF Name": "viamos",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.97741596431845,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29438,6 +34790,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29276",
     "NAF Name": "picas",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.93381924104,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29449,6 +34803,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29277",
     "NAF Name": "dbwater",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29460,6 +34816,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29278",
     "NAF Name": "SKATAS",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 142.1227659692996,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29471,6 +34829,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29279",
     "NAF Name": "Pjovejas",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 149.63262461775614,
     "tournaments": 1,
     "gamesWon": 2,
@@ -29482,6 +34842,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29280",
     "NAF Name": "Mephist",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 154.2671416206025,
     "tournaments": 2,
     "gamesWon": 5,
@@ -29493,6 +34855,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29281",
     "NAF Name": "Mankiz",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 171.70253410183145,
     "tournaments": 2,
     "gamesWon": 7,
@@ -29504,6 +34868,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29282",
     "NAF Name": "Storas",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 165.21800719854906,
     "tournaments": 2,
     "gamesWon": 7,
@@ -29515,6 +34881,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29283",
     "NAF Name": "Padaveja",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 146.62760540623376,
     "tournaments": 2,
     "gamesWon": 4,
@@ -29526,6 +34894,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29284",
     "NAF Name": "Mazylis",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 160.69178235694767,
     "tournaments": 2,
     "gamesWon": 6,
@@ -29537,6 +34907,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29285",
     "NAF Name": "Lukoshius",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 140.17877996143656,
     "tournaments": 2,
     "gamesWon": 3,
@@ -29548,6 +34920,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29286",
     "NAF Name": "Mindziukas",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 149.9213813527329,
     "tournaments": 2,
     "gamesWon": 3,
@@ -29559,6 +34933,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29287",
     "NAF Name": "Boomers",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 146,
     "tournaments": 1,
     "gamesWon": 2,
@@ -29570,6 +34946,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29288",
     "NAF Name": "Catacomba",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 153.99623084760842,
     "tournaments": 1,
     "gamesWon": 2,
@@ -29581,6 +34959,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29289",
     "NAF Name": "ExC",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 130.36737538224386,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29592,6 +34972,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29290",
     "NAF Name": "bigGuy",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 153.76577187922334,
     "tournaments": 1,
     "gamesWon": 2,
@@ -29603,6 +34985,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29293",
     "NAF Name": "pugs1985",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 150.19740333422584,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29614,6 +34998,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29296",
     "NAF Name": "gingervolcano",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 155.34844590483635,
     "tournaments": 1,
     "gamesWon": 2,
@@ -29625,6 +35011,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29299",
     "NAF Name": "asp",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 155.62616144828132,
     "tournaments": 2,
     "gamesWon": 4,
@@ -29636,6 +35024,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29300",
     "NAF Name": "SickasEggs",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 170.60129750025084,
     "tournaments": 2,
     "gamesWon": 6,
@@ -29647,6 +35037,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29303",
     "NAF Name": "huginn",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 154.84629455292492,
     "tournaments": 1,
     "gamesWon": 2,
@@ -29658,6 +35050,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29305",
     "NAF Name": "madorkamalorko",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 141.3715980914769,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29669,6 +35063,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29310",
     "NAF Name": "Scavenhunter",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.16023558938457,
     "tournaments": 1,
     "gamesWon": 2,
@@ -29680,6 +35076,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29315",
     "NAF Name": "ruux",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 126.54132699628977,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29691,6 +35089,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29321",
     "NAF Name": "Wulff",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.8114108983764,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29702,6 +35102,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29322",
     "NAF Name": "Cayu90",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.91363100536705,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29713,6 +35115,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29323",
     "NAF Name": "Frankyoda",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 139.3748204394302,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29724,6 +35128,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29324",
     "NAF Name": "colutus",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 149.50102434074063,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29735,6 +35141,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29326",
     "NAF Name": "Holycen",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.68849825167726,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29746,6 +35154,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29327",
     "NAF Name": "Enrique",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 150.28343428355458,
     "tournaments": 1,
     "gamesWon": 2,
@@ -29757,6 +35167,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29328",
     "NAF Name": "Mafalda",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 134.71429948561232,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29768,6 +35180,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29329",
     "NAF Name": "Pablo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.23261335299213,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29779,6 +35193,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29330",
     "NAF Name": "phydaux",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.3646030353792,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29790,6 +35206,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29332",
     "NAF Name": "kowalsky",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 155.33601647516514,
     "tournaments": 1,
     "gamesWon": 2,
@@ -29801,6 +35219,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29333",
     "NAF Name": "archie",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.85813443249452,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29812,6 +35232,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29342",
     "NAF Name": "Bau",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 162.74990427363156,
     "tournaments": 1,
     "gamesWon": 3,
@@ -29823,6 +35245,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29343",
     "NAF Name": "Wallad83",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 138.95189928802893,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29834,6 +35258,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29344",
     "NAF Name": "TargetLock",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 131.88815696153847,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29845,6 +35271,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29347",
     "NAF Name": "Little_Disaster",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 126.76002312991176,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29856,6 +35284,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29348",
     "NAF Name": "Enricoren",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 138.725278736757,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29867,6 +35297,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29349",
     "NAF Name": "Orconero",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 144.37441322793057,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29878,6 +35310,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29351",
     "NAF Name": "jankis",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 138,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29889,6 +35323,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29353",
     "NAF Name": "Jcaria",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 145.18363431599624,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29900,6 +35336,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29354",
     "NAF Name": "Sovieto",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
     "rating": 150.12354848999803,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29911,6 +35349,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29363",
     "NAF Name": "Mapachecoactivo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.60942182715164,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29922,6 +35362,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29364",
     "NAF Name": "Minisval",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 143.7454640703486,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29933,6 +35375,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29365",
     "NAF Name": "Skub",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 127.60228205169585,
     "tournaments": 1,
     "gamesWon": 0,
@@ -29944,6 +35388,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29366",
     "NAF Name": "Brasseur",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.8072087644508,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29955,6 +35401,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29367",
     "NAF Name": "Caracolito",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 161.38096669418172,
     "tournaments": 1,
     "gamesWon": 3,
@@ -29966,6 +35414,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29378",
     "NAF Name": "Matsuda_XIII",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
     "rating": 147.17490206497732,
     "tournaments": 1,
     "gamesWon": 1,
@@ -29977,6 +35427,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29379",
     "NAF Name": "Flokaost",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.95359370790533,
     "tournaments": 1,
     "gamesWon": 2,
@@ -29988,6 +35440,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29385",
     "NAF Name": "ZMBurnett",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 150.25178228218414,
     "tournaments": 1,
     "gamesWon": 2,
@@ -29999,6 +35453,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29387",
     "NAF Name": "Nomad0159",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.53834664941388,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30010,6 +35466,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29388",
     "NAF Name": "Maverick1911",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.4415054507739,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30021,6 +35479,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29391",
     "NAF Name": "liit00s",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 144.4985973169102,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30032,6 +35492,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29392",
     "NAF Name": "xfuri0us1",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
     "rating": 138.87936723526664,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30043,6 +35505,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29393",
     "NAF Name": "kalmaleth",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
     "rating": 146.26142765786722,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30054,6 +35518,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29394",
     "NAF Name": "densom",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 146.7851777102224,
     "tournaments": 3,
     "gamesWon": 4,
@@ -30065,6 +35531,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29395",
     "NAF Name": "Theomir",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 122.53585289275698,
     "tournaments": 3,
     "gamesWon": 0,
@@ -30076,6 +35544,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29396",
     "NAF Name": "Kharigor",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 141.6964070666414,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30087,6 +35557,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29397",
     "NAF Name": "Torkan",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.8142327541327,
     "tournaments": 1,
     "gamesWon": 2,
@@ -30098,6 +35570,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29403",
     "NAF Name": "DevilForce",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.01585358738618,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30109,6 +35583,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29406",
     "NAF Name": "aya",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 127.80349100686858,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30120,6 +35596,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29409",
     "NAF Name": "Ab3l3s",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "rating": 138.53332718512394,
     "tournaments": 2,
     "gamesWon": 1,
@@ -30131,6 +35609,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29410",
     "NAF Name": "thezanu",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 138.68629150101526,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30142,6 +35622,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29415",
     "NAF Name": "dai",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 140.87363372269,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30153,6 +35635,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29420",
     "NAF Name": "jonesyjones",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
     "rating": 157.48607744482504,
     "tournaments": 1,
     "gamesWon": 2,
@@ -30164,6 +35648,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29421",
     "NAF Name": "BigChuck",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 161.31370849898474,
     "tournaments": 1,
     "gamesWon": 3,
@@ -30175,6 +35661,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29425",
     "NAF Name": "Solenoid",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 145.10157448044876,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30186,6 +35674,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29426",
     "NAF Name": "wooster_shooster",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 147.69917960793296,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30197,6 +35687,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29427",
     "NAF Name": "ajax",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 124.61577367222233,
     "tournaments": 3,
     "gamesWon": 0,
@@ -30208,6 +35700,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29429",
     "NAF Name": "Eldarius",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 144.7948817486152,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30219,6 +35713,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29430",
     "NAF Name": "Giants",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 138.32345062193073,
     "tournaments": 2,
     "gamesWon": 3,
@@ -30230,6 +35726,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29431",
     "NAF Name": "Vorx",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.13327663131253,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30241,6 +35739,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29432",
     "NAF Name": "jonesy83",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 156.76072457141785,
     "tournaments": 1,
     "gamesWon": 2,
@@ -30252,6 +35752,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29433",
     "NAF Name": "caleb157",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 159.83296123715334,
     "tournaments": 1,
     "gamesWon": 2,
@@ -30263,6 +35765,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29435",
     "NAF Name": "Jimmythegoat",
+    "CCAA": "Apatrida",
+    "Country": "South Africa",
     "rating": 156.961760691139,
     "tournaments": 1,
     "gamesWon": 2,
@@ -30274,6 +35778,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29436",
     "NAF Name": "ShaneDS",
+    "CCAA": "Apatrida",
+    "Country": "South Africa",
     "rating": 132.20657010055805,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30285,6 +35791,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29437",
     "NAF Name": "WolfKahn",
+    "CCAA": "Apatrida",
+    "Country": "South Africa",
     "rating": 145.98177624939078,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30296,6 +35804,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29438",
     "NAF Name": "Finrod",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 133.8123551821517,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30307,6 +35817,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29440",
     "NAF Name": "Bettney",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.6039753311095,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30318,6 +35830,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29443",
     "NAF Name": "wild_jiggy",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 154.20568617868767,
     "tournaments": 1,
     "gamesWon": 2,
@@ -30329,6 +35843,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29450",
     "NAF Name": "schaitan",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 155.1547696956109,
     "tournaments": 3,
     "gamesWon": 5,
@@ -30340,6 +35856,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29451",
     "NAF Name": "paragon",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 125.13801041222578,
     "tournaments": 3,
     "gamesWon": 2,
@@ -30351,6 +35869,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29452",
     "NAF Name": "grimr",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 161.72503858272955,
     "tournaments": 3,
     "gamesWon": 7,
@@ -30362,6 +35882,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29453",
     "NAF Name": "lostboyzz",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 146.12276559008018,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30373,6 +35895,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29454",
     "NAF Name": "mahuika",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 157.3137706456069,
     "tournaments": 1,
     "gamesWon": 2,
@@ -30384,6 +35908,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29472",
     "NAF Name": "dromo",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 144.836576866711,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30395,6 +35921,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29484",
     "NAF Name": "bodexius",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 138.53030820201135,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30406,6 +35934,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29499",
     "NAF Name": "the_optimistic_greenskin",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 106.13878891531785,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30417,6 +35947,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29519",
     "NAF Name": "nobilismendax",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 125.03811869269067,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30428,6 +35960,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29526",
     "NAF Name": "ananio",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 155.66885279185976,
     "tournaments": 1,
     "gamesWon": 2,
@@ -30439,6 +35973,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29533",
     "NAF Name": "cymob",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 137.24901037353152,
     "tournaments": 2,
     "gamesWon": 2,
@@ -30450,6 +35986,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29535",
     "NAF Name": "SemiGnu",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
     "rating": 162.80447826391477,
     "tournaments": 2,
     "gamesWon": 4,
@@ -30461,6 +35999,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29538",
     "NAF Name": "Drekthar",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 143.26641784010985,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30472,6 +36012,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29540",
     "NAF Name": "Fuleng",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 151.43626529647904,
     "tournaments": 2,
     "gamesWon": 3,
@@ -30483,6 +36025,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29542",
     "NAF Name": "kelvinius",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 143.67730721082899,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30494,6 +36038,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29543",
     "NAF Name": "dazbrode",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 150.044379882234,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30505,6 +36051,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29551",
     "NAF Name": "smulzer",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 149.18960704923992,
     "tournaments": 2,
     "gamesWon": 2,
@@ -30516,6 +36064,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29559",
     "NAF Name": "Vaggulis",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 139.96115889748341,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30527,6 +36077,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29560",
     "NAF Name": "Eiravel",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 170.2762025829707,
     "tournaments": 2,
     "gamesWon": 6,
@@ -30538,6 +36090,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29561",
     "NAF Name": "JamesDKing",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 137.89310136578473,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30549,6 +36103,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29564",
     "NAF Name": "Hitchhiker",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
     "rating": 129.2054356090614,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30560,6 +36116,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29566",
     "NAF Name": "gamingwithmike",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 136.3277569526823,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30571,6 +36129,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29567",
     "NAF Name": "hightower",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 143.3690642388717,
     "tournaments": 3,
     "gamesWon": 2,
@@ -30582,6 +36142,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29568",
     "NAF Name": "frojdis4life",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 150.1666723916543,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30593,6 +36155,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29569",
     "NAF Name": "lotto",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 123.4097594341954,
     "tournaments": 4,
     "gamesWon": 5,
@@ -30604,6 +36168,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29570",
     "NAF Name": "munken",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 150.62601245819343,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30615,6 +36181,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29571",
     "NAF Name": "freddo",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 140.5557597984115,
     "tournaments": 2,
     "gamesWon": 3,
@@ -30626,6 +36194,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29574",
     "NAF Name": "mackenziew",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 145.66328848429106,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30637,6 +36207,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29577",
     "NAF Name": "Xoon",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 152.11187094810776,
     "tournaments": 2,
     "gamesWon": 2,
@@ -30648,6 +36220,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29580",
     "NAF Name": "tavolaccia",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 138.70802413953768,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30659,6 +36233,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29581",
     "NAF Name": "Mario_Zagallo",
+    "CCAA": "Apatrida",
+    "Country": "Uruguay",
     "rating": 149.9548194174889,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30670,6 +36246,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29588",
     "NAF Name": "badluckboii",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 143.97265731619663,
     "tournaments": 4,
     "gamesWon": 5,
@@ -30681,6 +36259,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29590",
     "NAF Name": "beanbelly",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 144.99304046250938,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30692,6 +36272,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29592",
     "NAF Name": "Armöö",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
     "rating": 143.67730608743858,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30703,6 +36285,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29593",
     "NAF Name": "Khorne",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 153.31203022285902,
     "tournaments": 1,
     "gamesWon": 2,
@@ -30714,6 +36298,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29596",
     "NAF Name": "coachbuck",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.87615608119663,
     "tournaments": 1,
     "gamesWon": 2,
@@ -30725,6 +36311,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29597",
     "NAF Name": "salincoln4",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 141.5015813122617,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30736,6 +36324,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29602",
     "NAF Name": "Tiwaz",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 153.2377584058467,
     "tournaments": 1,
     "gamesWon": 2,
@@ -30747,6 +36337,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29603",
     "NAF Name": "Bohemian",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 147.18814400708285,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30758,6 +36350,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29605",
     "NAF Name": "darius",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 153.53771587414198,
     "tournaments": 3,
     "gamesWon": 3,
@@ -30769,6 +36363,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29608",
     "NAF Name": "nath0n",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 155.04431437638277,
     "tournaments": 1,
     "gamesWon": 3,
@@ -30780,6 +36376,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29610",
     "NAF Name": "pullis",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 149.73309714668062,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30791,6 +36389,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29611",
     "NAF Name": "dizzybess",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 145.99303851457668,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30802,6 +36402,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29617",
     "NAF Name": "nolifekingfin7896",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
     "rating": 129.13762943775018,
     "tournaments": 2,
     "gamesWon": 0,
@@ -30813,6 +36415,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29618",
     "NAF Name": "Drocnan",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 144.3174679800911,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30824,6 +36428,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29619",
     "NAF Name": "Genosse_Kommissar",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 154.0729013189559,
     "tournaments": 1,
     "gamesWon": 2,
@@ -30835,6 +36441,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29622",
     "NAF Name": "drac2000",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 138.00448194521627,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30846,6 +36454,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29624",
     "NAF Name": "miniman",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 141.29576350932066,
     "tournaments": 2,
     "gamesWon": 2,
@@ -30857,6 +36467,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29626",
     "NAF Name": "Kaithoex",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 154.9975321837232,
     "tournaments": 3,
     "gamesWon": 7,
@@ -30868,6 +36480,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29632",
     "NAF Name": "studsup",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 151.90108617828184,
     "tournaments": 2,
     "gamesWon": 3,
@@ -30879,6 +36493,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29635",
     "NAF Name": "Souless_Shoe",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 146.45254664595987,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30890,6 +36506,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29645",
     "NAF Name": "major_grooves",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
     "rating": 142.8688816296162,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30901,6 +36519,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29646",
     "NAF Name": "derkommandant",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 149.1343128415333,
     "tournaments": 1,
     "gamesWon": 2,
@@ -30912,6 +36532,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29650",
     "NAF Name": "lordf00",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 138.44506572990306,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30923,6 +36545,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29652",
     "NAF Name": "rastlin",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 147.78014165146325,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30934,6 +36558,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29653",
     "NAF Name": "Carlos404",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 135.92350094226472,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30945,6 +36571,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29662",
     "NAF Name": "BLUKAN",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 145.2873457295228,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30956,6 +36584,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29666",
     "NAF Name": "Bingoman",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 147.195089349403,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30967,6 +36597,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29667",
     "NAF Name": "Failtego",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 150.2005604374168,
     "tournaments": 1,
     "gamesWon": 1,
@@ -30978,6 +36610,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29668",
     "NAF Name": "Nilbogthe9th",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 142.20905375140762,
     "tournaments": 1,
     "gamesWon": 0,
@@ -30989,6 +36623,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29669",
     "NAF Name": "Sami",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 146.25834261322606,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31000,6 +36636,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29670",
     "NAF Name": "Mimi",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 153.74165738677394,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31011,6 +36649,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29671",
     "NAF Name": "Biggels",
+    "CCAA": "Apatrida",
+    "Country": "Israel",
     "rating": 147.20028938992175,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31022,6 +36662,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29673",
     "NAF Name": "Paisti",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 150.03198216262396,
     "tournaments": 2,
     "gamesWon": 2,
@@ -31033,6 +36675,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29676",
     "NAF Name": "ace_bb",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 156.56542245601486,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31044,6 +36688,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29678",
     "NAF Name": "j3longstaff",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 121.76315763194941,
     "tournaments": 2,
     "gamesWon": 3,
@@ -31055,6 +36701,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29679",
     "NAF Name": "genghiskong",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 161.86254399398456,
     "tournaments": 1,
     "gamesWon": 3,
@@ -31066,6 +36714,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29680",
     "NAF Name": "JPBoegelein",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 151.51467713679574,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31077,6 +36727,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29681",
     "NAF Name": "Zwenn",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 136.79404404390894,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31088,6 +36740,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29687",
     "NAF Name": "karlore",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 135.9714559250113,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31099,6 +36753,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29693",
     "NAF Name": "gorbruk",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 146.43916462498623,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31110,6 +36766,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29695",
     "NAF Name": "SunderedPsyche",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 145.90052625921504,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31121,6 +36779,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29696",
     "NAF Name": "CowTownHero",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 136.99675726901387,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31132,6 +36792,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29697",
     "NAF Name": "S21Rogue",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 146.02844133445953,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31143,6 +36805,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29698",
     "NAF Name": "GhostlyEnvelope",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 137.1374228358023,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31154,6 +36818,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29699",
     "NAF Name": "Azurust",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
     "rating": 154.53862852963513,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31165,6 +36831,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29701",
     "NAF Name": "Happy_Amateur",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 153.99269332147537,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31176,6 +36844,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29704",
     "NAF Name": "DurdOun",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 145.5718735262108,
     "tournaments": 3,
     "gamesWon": 3,
@@ -31187,6 +36857,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29707",
     "NAF Name": "Flownaldinho",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 155.06559912286608,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31198,6 +36870,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29708",
     "NAF Name": "7HAMZA7",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 143.6623321496756,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31209,6 +36883,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29709",
     "NAF Name": "Badgutz",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 140.79941270576384,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31220,6 +36896,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29710",
     "NAF Name": "GriffinOberwald",
+    "CCAA": "Apatrida",
+    "Country": "England",
     "rating": 137.20207888544263,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31231,6 +36909,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29711",
     "NAF Name": "Shadow_Dragon",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.12790344301507,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31242,6 +36922,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29713",
     "NAF Name": "Dellen",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 137.46517340304877,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31253,6 +36935,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29714",
     "NAF Name": "RickyWylde",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 147.0011794544393,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31264,6 +36948,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29715",
     "NAF Name": "Galadang",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 153.4427720899505,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31275,6 +36961,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29716",
     "NAF Name": "Leomassa",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 147.7253492408149,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31286,6 +36974,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29717",
     "NAF Name": "carlito",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 136.34666378961978,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31297,6 +36987,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29719",
     "NAF Name": "Velatorio",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
     "rating": 136.82307576710835,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31308,6 +37000,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29720",
     "NAF Name": "flaxtrue",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 153.8593568824169,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31319,6 +37013,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29730",
     "NAF Name": "codexdan",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 155.99086068615333,
     "tournaments": 2,
     "gamesWon": 4,
@@ -31330,6 +37026,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29734",
     "NAF Name": "grendel_txus",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 136.48095701015816,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31341,6 +37039,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29738",
     "NAF Name": "wolver",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "rating": 154.61019226489992,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31352,6 +37052,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29741",
     "NAF Name": "Mirulo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 167.91743618633654,
     "tournaments": 1,
     "gamesWon": 3,
@@ -31363,6 +37065,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29744",
     "NAF Name": "mrfreeze",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 137.63123750415917,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31374,6 +37078,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29745",
     "NAF Name": "blackdog",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
     "rating": 149.36074653659574,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31385,6 +37091,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29748",
     "NAF Name": "pellejo",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
     "rating": 139.89967829983368,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31396,6 +37104,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29749",
     "NAF Name": "LotharHans",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 150.9267796695495,
     "tournaments": 2,
     "gamesWon": 3,
@@ -31407,6 +37117,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29760",
     "NAF Name": "Mitridatas",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 153.85336622187546,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31418,6 +37130,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29761",
     "NAF Name": "Dolce",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 146.58261501095083,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31429,6 +37143,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29762",
     "NAF Name": "Yzis",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 135.69183064053306,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31440,6 +37156,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29763",
     "NAF Name": "Dzastus",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
     "rating": 142.4365633701503,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31451,6 +37169,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29774",
     "NAF Name": "QueenBee",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 142.30763448012905,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31462,6 +37182,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29775",
     "NAF Name": "Snotgasm",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 150.6778045812153,
     "tournaments": 2,
     "gamesWon": 2,
@@ -31473,6 +37195,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29776",
     "NAF Name": "nuadhor",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 145.98740043256277,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31484,6 +37208,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29777",
     "NAF Name": "walska",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
     "rating": 144.1309343627595,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31495,6 +37221,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29783",
     "NAF Name": "Sutphin",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 143.36174499064134,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31506,6 +37234,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29793",
     "NAF Name": "pixlprops",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
     "rating": 152.69355283411514,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31517,6 +37247,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29798",
     "NAF Name": "becciusmaximus",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
     "rating": 124.235570306466,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31528,6 +37260,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29799",
     "NAF Name": "Ginga",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
     "rating": 146.5676261582783,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31539,6 +37273,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29813",
     "NAF Name": "karrwolves",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 147.1130589453917,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31550,6 +37286,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29814",
     "NAF Name": "scoobyfr",
+    "CCAA": "Apatrida",
+    "Country": "France",
     "rating": 150.0432738708943,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31561,6 +37299,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29817",
     "NAF Name": "8eagle",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "rating": 135.23327540551844,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31572,6 +37312,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29825",
     "NAF Name": "Zephiel",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 149.12180328817945,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31583,6 +37325,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29831",
     "NAF Name": "Teooo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 155.42166214504343,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31594,6 +37338,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29857",
     "NAF Name": "hereticjeff",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 153.24498036393274,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31605,6 +37351,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29858",
     "NAF Name": "zaxtreme13",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 146.76844759806536,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31616,6 +37364,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29866",
     "NAF Name": "AHayes",
+    "CCAA": "Apatrida",
+    "Country": "United States of America",
     "rating": 151.13568595835196,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31627,6 +37377,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29896",
     "NAF Name": "SteUccio",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
     "rating": 145.33575930160376,
     "tournaments": 1,
     "gamesWon": 0,
@@ -31638,6 +37390,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29940",
     "NAF Name": "LTMarcin",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 144.51863442902072,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31649,6 +37403,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29941",
     "NAF Name": "GregX",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 132.98949041233462,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31660,6 +37416,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29942",
     "NAF Name": "Patol",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 149.54019877244096,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31671,6 +37429,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29943",
     "NAF Name": "Sneakiers",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 138.5163937338117,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31682,6 +37442,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "29944",
     "NAF Name": "Pieczar",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 145.2196929294731,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31693,6 +37455,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "30099",
     "NAF Name": "ion",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 142.2586773971811,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31704,6 +37468,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "30157",
     "NAF Name": "Netherite",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
     "rating": 137.2539197194082,
     "tournaments": 1,
     "gamesWon": 1,
@@ -31715,6 +37481,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "30182",
     "NAF Name": "Vini",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 150.8035936422933,
     "tournaments": 1,
     "gamesWon": 2,
@@ -31726,6 +37494,8 @@ const statsYear2020 = [
   {
     "NAF Nr": "33030",
     "NAF Name": "WildWaldek",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
     "rating": 134.35518948508752,
     "tournaments": 1,
     "gamesWon": 1,
