@@ -2,6 +2,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "9",
     "NAF Name": "Zvvvz",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 19,
     "gamesWon": 71,
     "gamesDraw": 82,
@@ -13,6 +15,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29932",
     "NAF Name": "Abaddon",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 15,
     "gamesWon": 28,
     "gamesDraw": 18,
@@ -24,6 +28,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30753",
     "NAF Name": "adrianeden",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 2,
@@ -35,6 +41,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "12649",
     "NAF Name": "Agolfo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 4,
@@ -46,6 +54,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "23058",
     "NAF Name": "Aguss",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 5,
     "gamesWon": 8,
     "gamesDraw": 6,
@@ -57,6 +67,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "23363",
     "NAF Name": "AIBAAL",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 3,
@@ -68,6 +80,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "33188",
     "NAF Name": "Alberich",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -79,6 +93,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "33863",
     "NAF Name": "alberto.emcc",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -90,6 +106,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31812",
     "NAF Name": "albertoz",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -101,6 +119,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "27275",
     "NAF Name": "Alfr0d0",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 4,
     "gamesWon": 4,
     "gamesDraw": 4,
@@ -112,6 +132,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "26548",
     "NAF Name": "Alvar",
+    "CCAA": "Aragón",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -123,6 +145,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "38557",
     "NAF Name": "Alvarito",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 4,
     "gamesWon": 4,
     "gamesDraw": 4,
@@ -134,6 +158,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "3902",
     "NAF Name": "Azaghal_es",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 7,
     "gamesDraw": 0,
@@ -145,6 +171,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "32280",
     "NAF Name": "Azaghtogh",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -156,6 +184,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "33314",
     "NAF Name": "Azier",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -167,6 +197,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "15845",
     "NAF Name": "Baez",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 2,
@@ -178,6 +210,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "25015",
     "NAF Name": "BAIXA",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 3,
@@ -189,6 +223,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "20367",
     "NAF Name": "BARBANCHO",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 9,
     "gamesWon": 20,
     "gamesDraw": 12,
@@ -200,6 +236,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29756",
     "NAF Name": "marquitos",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 2,
@@ -211,6 +249,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31739",
     "NAF Name": "Belmont",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 2,
@@ -222,6 +262,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "11789",
     "NAF Name": "Blapymetal",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -233,6 +275,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "21331",
     "NAF Name": "bletos",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 7,
     "gamesWon": 16,
     "gamesDraw": 7,
@@ -244,6 +288,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "32829",
     "NAF Name": "Ramiux",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -255,6 +301,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30201",
     "NAF Name": "Bubba",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 4,
     "gamesWon": 5,
     "gamesDraw": 3,
@@ -266,6 +314,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "22826",
     "NAF Name": "bululito",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 13,
     "gamesWon": 33,
     "gamesDraw": 9,
@@ -277,6 +327,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "24449",
     "NAF Name": "Calltroop",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 16,
     "gamesWon": 33,
     "gamesDraw": 15,
@@ -288,6 +340,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "27634",
     "NAF Name": "CAOS1990",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 7,
     "gamesWon": 8,
     "gamesDraw": 6,
@@ -299,6 +353,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "21730",
     "NAF Name": "Cazalilla",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 3,
@@ -310,6 +366,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31744",
     "NAF Name": "Celata",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 7,
     "gamesWon": 9,
     "gamesDraw": 9,
@@ -321,6 +379,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31387",
     "NAF Name": "cestroyer",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -332,6 +392,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "7394",
     "NAF Name": "Charditobravo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 3,
@@ -343,6 +405,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31434",
     "NAF Name": "Checo_Perez",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
@@ -354,6 +418,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30898",
     "NAF Name": "Chemical_gnr",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 4,
     "gamesWon": 4,
     "gamesDraw": 0,
@@ -365,6 +431,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "11535",
     "NAF Name": "Chou",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
@@ -376,6 +444,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "37929",
     "NAF Name": "Chusman",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -387,6 +457,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "32728",
     "NAF Name": "Cloud_Cn",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 2,
@@ -398,6 +470,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "24523",
     "NAF Name": "Cobreti",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -409,6 +483,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "27052",
     "NAF Name": "Corveus",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 6,
     "gamesWon": 13,
     "gamesDraw": 3,
@@ -420,6 +496,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30901",
     "NAF Name": "cripi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
@@ -431,6 +509,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31179",
     "NAF Name": "Dakathllu",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 10,
     "gamesWon": 23,
     "gamesDraw": 6,
@@ -442,6 +522,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "27700",
     "NAF Name": "daktaris26",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
@@ -453,6 +535,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "28699",
     "NAF Name": "Dante83",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -464,6 +548,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "32651",
     "NAF Name": "Das",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
@@ -475,6 +561,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30519",
     "NAF Name": "DeivySP",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 5,
     "gamesWon": 5,
     "gamesDraw": 6,
@@ -486,6 +574,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31337",
     "NAF Name": "delatorbin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
@@ -497,6 +587,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "37512",
     "NAF Name": "do0mfire",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -508,6 +600,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "8192",
     "NAF Name": "Docdeth",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
@@ -519,6 +613,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29174",
     "NAF Name": "DonJujanas",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 4,
     "gamesWon": 7,
     "gamesDraw": 2,
@@ -530,6 +626,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29188",
     "NAF Name": "Drainor",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -541,6 +639,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31741",
     "NAF Name": "Drazhem",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 2,
@@ -552,6 +652,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "20654",
     "NAF Name": "dreamscreator",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -563,6 +665,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30605",
     "NAF Name": "Dr_McKey",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 13,
     "gamesWon": 25,
     "gamesDraw": 9,
@@ -574,6 +678,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "11793",
     "NAF Name": "Duke_Luthor",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 7,
     "gamesDraw": 4,
@@ -585,6 +691,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31339",
     "NAF Name": "EduarSmoka",
+    "CCAA": "C. La Mancha",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -596,6 +704,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "8821",
     "NAF Name": "Eki",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 6,
     "gamesDraw": 1,
@@ -607,6 +717,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "32714",
     "NAF Name": "Elrostar",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -618,6 +730,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "14050",
     "NAF Name": "Elth",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -629,6 +743,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "24532",
     "NAF Name": "Emilito",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -640,6 +756,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "6376",
     "NAF Name": "Emi_-13-_",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "tournaments": 4,
     "gamesWon": 9,
     "gamesDraw": 3,
@@ -651,6 +769,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31737",
     "NAF Name": "enano35",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -662,6 +782,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31230",
     "NAF Name": "Eskudero",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
@@ -673,6 +795,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "28940",
     "NAF Name": "Estertor",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
@@ -684,6 +808,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "24370",
     "NAF Name": "eu4ico",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 7,
     "gamesWon": 12,
     "gamesDraw": 6,
@@ -695,6 +821,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "27250",
     "NAF Name": "Fermanowar",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 4,
@@ -706,6 +834,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29700",
     "NAF Name": "Ferre",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 11,
     "gamesWon": 6,
     "gamesDraw": 10,
@@ -717,6 +847,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30433",
     "NAF Name": "Flado",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
@@ -728,6 +860,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "26609",
     "NAF Name": "Fonso",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 3,
@@ -739,6 +873,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30425",
     "NAF Name": "franki129",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "tournaments": 7,
     "gamesWon": 12,
     "gamesDraw": 7,
@@ -750,6 +886,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "21332",
     "NAF Name": "Fran_mutado",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 3,
@@ -761,6 +899,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "25049",
     "NAF Name": "FRAYLEON",
+    "CCAA": "C. La Mancha",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 3,
@@ -772,6 +912,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "4818",
     "NAF Name": "Frikipe",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 3,
@@ -783,6 +925,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "32135",
     "NAF Name": "funatik",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -794,6 +938,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30807",
     "NAF Name": "Gabillas",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -805,6 +951,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31026",
     "NAF Name": "Galle",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
@@ -816,6 +964,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "17074",
     "NAF Name": "Galo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
@@ -827,6 +977,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "27154",
     "NAF Name": "gangcha",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 10,
     "gamesWon": 12,
     "gamesDraw": 11,
@@ -838,6 +990,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "18610",
     "NAF Name": "Garaz",
+    "CCAA": "C. La Mancha",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -849,6 +1003,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30837",
     "NAF Name": "GatoBrutal",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -860,6 +1016,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29189",
     "NAF Name": "Gatogordo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
@@ -871,6 +1029,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "11788",
     "NAF Name": "Gilles_Cacciari",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 3,
@@ -882,6 +1042,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30439",
     "NAF Name": "glukosidiko",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 13,
     "gamesWon": 20,
     "gamesDraw": 11,
@@ -893,6 +1055,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "8122",
     "NAF Name": "Godzilla",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 8,
     "gamesWon": 17,
     "gamesDraw": 8,
@@ -904,6 +1068,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "28939",
     "NAF Name": "GoldenBoy",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -915,6 +1081,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "184",
     "NAF Name": "gonmorcas",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -926,6 +1094,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "32051",
     "NAF Name": "Gpo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
@@ -937,6 +1107,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "27840",
     "NAF Name": "gr4n0t4",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 7,
     "gamesDraw": 4,
@@ -948,6 +1120,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "25263",
     "NAF Name": "Grigonian",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 5,
@@ -959,6 +1133,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "33894",
     "NAF Name": "Guido-kun",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -970,6 +1146,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "33312",
     "NAF Name": "Guly",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 1,
     "gamesDraw": 5,
@@ -981,6 +1159,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30086",
     "NAF Name": "Gustavez",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 2,
@@ -992,6 +1172,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "10236",
     "NAF Name": "Hachablanca",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 8,
     "gamesWon": 10,
     "gamesDraw": 8,
@@ -1003,6 +1185,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "8001",
     "NAF Name": "HAMLET",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -1014,6 +1198,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "24018",
     "NAF Name": "Harec",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -1025,6 +1211,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "26512",
     "NAF Name": "Harry27",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -1036,6 +1224,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "24529",
     "NAF Name": "HarrySp",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -1047,6 +1237,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "26854",
     "NAF Name": "Hawkman",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
@@ -1058,6 +1250,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "23299",
     "NAF Name": "HEAVY",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 6,
     "gamesDraw": 2,
@@ -1069,6 +1263,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "26513",
     "NAF Name": "i-wummi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
@@ -1080,6 +1276,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "32888",
     "NAF Name": "Ignacio_Tardon",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
@@ -1091,6 +1289,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "26310",
     "NAF Name": "Ignis",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 3,
@@ -1102,6 +1302,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "15283",
     "NAF Name": "Ironcat",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 3,
@@ -1113,6 +1315,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "23303",
     "NAF Name": "Issel",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 2,
@@ -1124,6 +1328,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "8196",
     "NAF Name": "j.a.m",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 6,
     "gamesWon": 5,
     "gamesDraw": 9,
@@ -1135,6 +1341,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "20812",
     "NAF Name": "JANGO314",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -1146,6 +1354,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "24880",
     "NAF Name": "jaruib",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 11,
     "gamesWon": 17,
     "gamesDraw": 6,
@@ -1157,6 +1367,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "28328",
     "NAF Name": "javin23",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 15,
     "gamesWon": 41,
     "gamesDraw": 13,
@@ -1168,6 +1380,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "26685",
     "NAF Name": "Jelmaxy",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
@@ -1179,6 +1393,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "26295",
     "NAF Name": "Jenavil",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -1190,6 +1406,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 8,
     "gamesWon": 11,
     "gamesDraw": 5,
@@ -1201,6 +1419,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30090",
     "NAF Name": "Jocky",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 5,
     "gamesWon": 9,
     "gamesDraw": 2,
@@ -1212,6 +1432,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "14960",
     "NAF Name": "JoeRaccoon",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 1,
@@ -1223,6 +1445,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "11784",
     "NAF Name": "joluveal",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -1234,6 +1458,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "32887",
     "NAF Name": "jruiznavarro91",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 2,
@@ -1245,6 +1471,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "33618",
     "NAF Name": "juanjo_valyria",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
@@ -1256,6 +1484,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "32258",
     "NAF Name": "jull45",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
@@ -1267,6 +1497,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "22482",
     "NAF Name": "Kale",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 6,
     "gamesDraw": 3,
@@ -1278,6 +1510,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "20025",
     "NAF Name": "Kapi",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
@@ -1289,6 +1523,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "24224",
     "NAF Name": "Karrash",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 0,
     "gamesDraw": 3,
@@ -1300,6 +1536,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "22222",
     "NAF Name": "Karrashantemi",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 5,
     "gamesWon": 9,
     "gamesDraw": 2,
@@ -1311,6 +1549,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29165",
     "NAF Name": "Kator",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 6,
     "gamesDraw": 0,
@@ -1322,6 +1562,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "38735",
     "NAF Name": "keikosan",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 5,
@@ -1333,6 +1575,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "7710",
     "NAF Name": "Kewan",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -1344,6 +1588,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29128",
     "NAF Name": "Khuzdul619",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
@@ -1355,6 +1601,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "26511",
     "NAF Name": "kikekortizo 26511",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 3,
@@ -1366,6 +1614,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "21123",
     "NAF Name": "Kolmena_morena",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 2,
@@ -1377,6 +1627,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29332",
     "NAF Name": "Kowlasky",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -1388,6 +1640,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "33745",
     "NAF Name": "Kralyx",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
@@ -1399,6 +1653,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "7682",
     "NAF Name": "Kurjo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -1410,6 +1666,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30200",
     "NAF Name": "Kuro82",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 3,
@@ -1421,6 +1679,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30989",
     "NAF Name": "Kwe",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 3,
@@ -1432,6 +1692,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "10505",
     "NAF Name": "LOBERAS",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 3,
@@ -1443,6 +1705,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "27476",
     "NAF Name": "Lordfernando",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
@@ -1454,6 +1718,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "21680",
     "NAF Name": "lordsoth",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
@@ -1465,6 +1731,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "24028",
     "NAF Name": "LORD_ARIOCH",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 7,
     "gamesWon": 15,
     "gamesDraw": 4,
@@ -1476,6 +1744,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "22102",
     "NAF Name": "Lord_buba",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 12,
     "gamesWon": 18,
     "gamesDraw": 14,
@@ -1487,6 +1757,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "33117",
     "NAF Name": "lord_humungus",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -1498,6 +1770,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31574",
     "NAF Name": "Lucas",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -1509,6 +1783,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30089",
     "NAF Name": "Luisfer82",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 3,
@@ -1520,6 +1796,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "26603",
     "NAF Name": "Luisin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
@@ -1531,6 +1809,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "27741",
     "NAF Name": "Lupentercios",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -1542,6 +1822,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "18608",
     "NAF Name": "Macabeo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 3,
@@ -1553,6 +1835,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31857",
     "NAF Name": "MADLOC",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 4,
@@ -1564,6 +1848,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "22084",
     "NAF Name": "Madmardigan",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -1575,6 +1861,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "32257",
     "NAF Name": "Manra69",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -1586,6 +1874,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29363",
     "NAF Name": "MapacheCoactivo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 9,
     "gamesWon": 15,
     "gamesDraw": 7,
@@ -1597,6 +1887,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "24866",
     "NAF Name": "Maquinator",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 4,
     "gamesWon": 5,
     "gamesDraw": 2,
@@ -1608,6 +1900,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "27841",
     "NAF Name": "MEMEN",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -1619,6 +1913,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30436",
     "NAF Name": "Mengu",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 5,
     "gamesWon": 7,
     "gamesDraw": 4,
@@ -1630,6 +1926,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "21865",
     "NAF Name": "Menguexe",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -1641,6 +1939,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "26536",
     "NAF Name": "mime",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 4,
     "gamesDraw": 3,
@@ -1652,6 +1952,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29741",
     "NAF Name": "Mirulo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 4,
     "gamesDraw": 5,
@@ -1663,6 +1965,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "26199",
     "NAF Name": "Misifu",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "tournaments": 6,
     "gamesWon": 13,
     "gamesDraw": 2,
@@ -1674,6 +1978,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "19114",
     "NAF Name": "Mordekay",
+    "CCAA": "C. La Mancha",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -1685,6 +1991,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "15105",
     "NAF Name": "MrToyce",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -1696,6 +2004,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "35667",
     "NAF Name": "mr_coates",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -1707,6 +2017,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "28259",
     "NAF Name": "Muppetillo",
+    "CCAA": "Aragón",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -1718,6 +2030,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30088",
     "NAF Name": "Murdraer",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 3,
@@ -1729,6 +2043,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "25003",
     "NAF Name": "Nackaro",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
@@ -1740,6 +2056,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "33189",
     "NAF Name": "Nairen",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 3,
@@ -1751,6 +2069,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "13481",
     "NAF Name": "Naurgurth",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -1762,6 +2082,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30928",
     "NAF Name": "Naverino",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 4,
     "gamesWon": 9,
     "gamesDraw": 4,
@@ -1773,6 +2095,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "20830",
     "NAF Name": "Neo_chains",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 6,
     "gamesWon": 3,
     "gamesDraw": 7,
@@ -1784,6 +2108,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "28512",
     "NAF Name": "nicco_ebe",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
@@ -1795,6 +2121,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31740",
     "NAF Name": "Nopher",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 5,
     "gamesWon": 5,
     "gamesDraw": 8,
@@ -1806,6 +2134,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "20318",
     "NAF Name": "Ogme",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 3,
@@ -1817,6 +2147,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31029",
     "NAF Name": "oldmanlogan",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 2,
@@ -1828,6 +2160,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "25222",
     "NAF Name": "Ouviwan",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -1839,6 +2173,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "27036",
     "NAF Name": "Oxo_kal",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -1850,6 +2186,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30085",
     "NAF Name": "Pablo1880",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 19,
     "gamesWon": 23,
     "gamesDraw": 21,
@@ -1861,6 +2199,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "27060",
     "NAF Name": "PABLOOD75",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 2,
@@ -1872,6 +2212,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "20513",
     "NAF Name": "Pacho",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -1883,6 +2225,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31769",
     "NAF Name": "PACOTE",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 2,
@@ -1894,6 +2238,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "7407",
     "NAF Name": "Pakulkan",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
@@ -1905,6 +2251,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "18913",
     "NAF Name": "Palmi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -1916,6 +2264,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 6,
     "gamesWon": 9,
     "gamesDraw": 6,
@@ -1927,6 +2277,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30272",
     "NAF Name": "Parra11",
+    "CCAA": "C. La Mancha",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 3,
@@ -1938,6 +2290,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "13900",
     "NAF Name": "Patxacks",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 6,
     "gamesDraw": 4,
@@ -1949,6 +2303,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30815",
     "NAF Name": "Pawel406",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 4,
     "gamesDraw": 6,
@@ -1960,6 +2316,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "20811",
     "NAF Name": "Pececito",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 6,
     "gamesWon": 9,
     "gamesDraw": 7,
@@ -1971,6 +2329,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "22824",
     "NAF Name": "periprocto",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "tournaments": 10,
     "gamesWon": 8,
     "gamesDraw": 12,
@@ -1982,6 +2342,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "25288",
     "NAF Name": "Perro",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 2,
@@ -1993,6 +2355,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "26539",
     "NAF Name": "Pinguino_Tortuga",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
@@ -2004,6 +2368,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "16560",
     "NAF Name": "Pollo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 1,
@@ -2015,6 +2381,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "33084",
     "NAF Name": "Pot3mkin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 5,
@@ -2026,6 +2394,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "34289",
     "NAF Name": "puldi1",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
@@ -2037,6 +2407,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30137",
     "NAF Name": "r0bin",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -2048,6 +2420,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30754",
     "NAF Name": "Rafmar",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 4,
@@ -2059,6 +2433,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "28013",
     "NAF Name": "Raptor",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -2070,6 +2446,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "28510",
     "NAF Name": "RawBerry",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
@@ -2081,6 +2459,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "14964",
     "NAF Name": "Robertuflo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -2092,6 +2472,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "33008",
     "NAF Name": "rojocinco",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -2103,6 +2485,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31469",
     "NAF Name": "Ronda",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 5,
     "gamesWon": 5,
     "gamesDraw": 5,
@@ -2114,6 +2498,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31770",
     "NAF Name": "Ruben_Defens",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
@@ -2125,6 +2511,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "32819",
     "NAF Name": "rukgor",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -2136,6 +2524,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "35647",
     "NAF Name": "Rukser",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
@@ -2147,6 +2537,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "22890",
     "NAF Name": "RULO",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 4,
@@ -2158,6 +2550,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30986",
     "NAF Name": "Sancho-Craft",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
@@ -2169,6 +2563,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "22926",
     "NAF Name": "Sandor",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 6,
     "gamesDraw": 3,
@@ -2180,6 +2576,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "11804",
     "NAF Name": "Santo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 2,
@@ -2191,6 +2589,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31561",
     "NAF Name": "Sart Matae",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
@@ -2202,6 +2602,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "16134",
     "NAF Name": "Sasu",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
@@ -2213,6 +2615,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29212",
     "NAF Name": "sergio",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 8,
     "gamesWon": 14,
     "gamesDraw": 8,
@@ -2224,6 +2628,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31736",
     "NAF Name": "Serrallet",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -2235,6 +2641,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30537",
     "NAF Name": "Serserius",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 1,
@@ -2246,6 +2654,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31945",
     "NAF Name": "Shadesmar",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -2257,6 +2667,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "12520",
     "NAF Name": "Shirokov",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 12,
     "gamesWon": 28,
     "gamesDraw": 10,
@@ -2268,6 +2680,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "28509",
     "NAF Name": "Silver",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
@@ -2279,6 +2693,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "3294",
     "NAF Name": "SirMayans",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 10,
     "gamesWon": 20,
     "gamesDraw": 18,
@@ -2290,6 +2706,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "20824",
     "NAF Name": "skaripense",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 8,
     "gamesDraw": 1,
@@ -2301,6 +2719,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "32384",
     "NAF Name": "Solarius",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 2,
@@ -2312,6 +2732,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29306",
     "NAF Name": "SrPepe",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 1,
@@ -2323,6 +2745,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "18872",
     "NAF Name": "stelacero",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 4,
     "gamesDraw": 2,
@@ -2334,6 +2758,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "21795",
     "NAF Name": "Tamambolo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -2345,6 +2771,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29381",
     "NAF Name": "Tanis",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
@@ -2356,6 +2784,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30083",
     "NAF Name": "Tar_Edain",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -2367,6 +2797,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "23212",
     "NAF Name": "Termikin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -2378,6 +2810,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "27740",
     "NAF Name": "Tharsis",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 8,
     "gamesWon": 9,
     "gamesDraw": 8,
@@ -2389,6 +2823,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "33746",
     "NAF Name": "TheOddRaspu",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
@@ -2400,6 +2836,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "32981",
     "NAF Name": "thorgal1975",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
@@ -2411,6 +2849,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "1191",
     "NAF Name": "Thorgrum",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
@@ -2422,6 +2862,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "25933",
     "NAF Name": "Timmy92",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 5,
     "gamesWon": 6,
     "gamesDraw": 4,
@@ -2433,6 +2875,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31163",
     "NAF Name": "Toponimias",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "tournaments": 4,
     "gamesWon": 9,
     "gamesDraw": 3,
@@ -2444,6 +2888,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "22103",
     "NAF Name": "Totay",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 13,
     "gamesWon": 18,
     "gamesDraw": 13,
@@ -2455,6 +2901,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "24865",
     "NAF Name": "Tote",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -2466,6 +2914,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "20366",
     "NAF Name": "Troloe",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 9,
     "gamesWon": 16,
     "gamesDraw": 12,
@@ -2477,6 +2927,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "20919",
     "NAF Name": "Trompeltom",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
@@ -2488,6 +2940,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "13213",
     "NAF Name": "Tzoscey",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -2499,6 +2953,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "13620",
     "NAF Name": "Ulvardar",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -2510,6 +2966,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29927",
     "NAF Name": "undress_",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 6,
     "gamesWon": 13,
     "gamesDraw": 6,
@@ -2521,6 +2979,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "34742",
     "NAF Name": "Urlock87",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -2532,6 +2992,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "8630",
     "NAF Name": "varagh",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -2543,6 +3005,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "25696",
     "NAF Name": "Venomcio",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 3,
@@ -2554,6 +3018,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "17065",
     "NAF Name": "Vidal",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -2565,6 +3031,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "13507",
     "NAF Name": "Videador",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -2576,6 +3044,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "24533",
     "NAF Name": "VITONATOR",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 5,
     "gamesWon": 11,
     "gamesDraw": 4,
@@ -2587,6 +3057,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "7397",
     "NAF Name": "Volstagg",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -2598,6 +3070,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "12195",
     "NAF Name": "Voscaroff",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
@@ -2609,6 +3083,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "32703",
     "NAF Name": "Whitehead",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 3,
@@ -2620,6 +3096,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "24623",
     "NAF Name": "Xiete",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 8,
     "gamesWon": 12,
     "gamesDraw": 6,
@@ -2631,6 +3109,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30435",
     "NAF Name": "Xinalake",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
@@ -2642,6 +3122,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29458",
     "NAF Name": "Xusona",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -2653,6 +3135,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "24868",
     "NAF Name": "Ylex",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 1,
@@ -2664,6 +3148,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "21349",
     "NAF Name": "Yohancryer",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -2675,6 +3161,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30893",
     "NAF Name": "Yorch",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 4,
     "gamesDraw": 1,
@@ -2686,6 +3174,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "30486",
     "NAF Name": "Yulupuky",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
@@ -2697,6 +3187,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31738",
     "NAF Name": "zarovich",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 3,
@@ -2708,6 +3200,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31320",
     "NAF Name": "Zelda",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
@@ -2719,6 +3213,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "31733",
     "NAF Name": "Zharr",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
@@ -2730,6 +3226,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "17366",
     "NAF Name": "zZKing",
+    "CCAA": "Madrid",
+    "Country": "Spain",
     "tournaments": 8,
     "gamesWon": 19,
     "gamesDraw": 1,
@@ -2741,6 +3239,8 @@ const statsYear2022 = [
   {
     "NAF Nr": "29244",
     "NAF Name": "_david_",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
     "tournaments": 4,
     "gamesWon": 4,
     "gamesDraw": 2,
