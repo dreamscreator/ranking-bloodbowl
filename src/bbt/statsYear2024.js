@@ -1703,19 +1703,6 @@ const statsYear2024 = [
     "rating": 131.37327156633154
   },
   {
-    "NAF Nr": "36958",
-    "NAF Name": "Dmizu",
-    "CCAA": "Andalucía",
-    "Country": "Spain",
-    "tournaments": 3,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 8,
-    "gamesTotal": 11,
-    "winRatio": 22.73,
-    "rating": 120.10063401214384
-  },
-  {
     "NAF Nr": "37512",
     "NAF Name": "do0mfire",
     "CCAA": "Apatrida",
@@ -1727,6 +1714,19 @@ const statsYear2024 = [
     "gamesTotal": 4,
     "winRatio": 25,
     "rating": 138.68629128488107
+  },
+  {
+    "NAF Nr": "36958",
+    "NAF Name": "Dmizu",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "tournaments": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 8,
+    "gamesTotal": 11,
+    "winRatio": 22.73,
+    "rating": 120.10063401214384
   },
   {
     "NAF Nr": "34609",

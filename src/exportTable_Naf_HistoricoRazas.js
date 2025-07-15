@@ -1,9 +1,9 @@
 // exportTable_nafHistoricoRazas.js
-// Carga datos de estadísticas por raza y muestra la tabla con filtros, ordenamiento fijo por raza y ranking fijo por país.
+// Carga datos de estadísticas por raza y muestra la tabla con filtros, ordenamiento fijo por raza y ranking fijo por CCAA.
 
 document.addEventListener('DOMContentLoaded', () => {
   const tableBody      = document.querySelector('#nafTable tbody');
-  const countryFilter  = document.getElementById('countryFilter');
+  const ccaaFilter     = document.getElementById('ccaaFilter'); // Cambio: countryFilter -> ccaaFilter
   const raceFilter     = document.getElementById('raceFilter');
   const wrMinFilter    = document.getElementById('wrMinFilter');
   const wrMaxFilter    = document.getElementById('wrMaxFilter');
@@ -40,12 +40,12 @@ document.addEventListener('DOMContentLoaded', () => {
   function processRaceData(data) {
     // data items include .race property
     return data
-      .filter(item => item.gamesTotal > 0)
+      .filter(item => item.gamesTotal > 0 && item.Country === 'Spain') // Filtrar solo entrenadores de España
       .map(item => ({
         race: item.race,
         naf: item['NAF Nr'],
         coach: item['NAF Name'],
-        country: item.Country,
+        ccaa: item.CCAA, // Cambio: country -> ccaa
         tournaments: item.totalTournaments,
         games: item.gamesTotal,
         wdl: `${item.gamesWon}/${item.gamesDraw}/${item.gamesLost}`,
@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
-    const countryVal = countryFilter.value;
+    const ccaaVal = ccaaFilter.value; // Cambio: countryVal -> ccaaVal
     const wrMin = parseFloat(wrMinFilter.value) || 0;
     const wrMax = parseFloat(wrMaxFilter.value) || 100;
     const gmMin = parseInt(gamesMinFilter.value) || 0;
@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const coachText = coachFilter.value.toLowerCase();
 
     const filtered = raceRows.filter(r =>
-      (!countryVal || r.country === countryVal) &&
+      (!ccaaVal || r.ccaa === ccaaVal) && // Cambio: country -> ccaa
       r.wr >= wrMin && r.wr <= wrMax &&
       r.games >= gmMin && r.games <= gmMax &&
       (!nafText || r.naf.toLowerCase().includes(nafText)) &&
@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', () => {
         r.globalRank,
         r.naf,
         coachCell,
-        `${r.country} (${r.countryRank})`,
+        `${r.ccaa} (${r.ccaaRank})`, // Cambio: country -> ccaa, countryRank -> ccaaRank
         r.tournaments,
         r.games,
         r.wdl,
@@ -135,17 +135,17 @@ document.addEventListener('DOMContentLoaded', () => {
       if (b.wr !== a.wr) return b.wr - a.wr;
       return a.tournaments - b.tournaments;
     });
-    const countryCounters = {};
+    const ccaaCounters = {}; // Cambio: countryCounters -> ccaaCounters
     raceRows.forEach((r, idx) => {
       r.globalRank = idx + 1;
-      countryCounters[r.country] = (countryCounters[r.country] || 0) + 1;
-      r.countryRank = countryCounters[r.country];
+      ccaaCounters[r.ccaa] = (ccaaCounters[r.ccaa] || 0) + 1; // Cambio: country -> ccaa
+      r.ccaaRank = ccaaCounters[r.ccaa]; // Cambio: countryRank -> ccaaRank
     });
 
     // Rellenar filtros dinámicos
-    const countries = Array.from(new Set(currentData.map(i => i.Country))).sort();
-    countryFilter.innerHTML = '<option value="">Todos</option>' +
-      countries.map(c => `<option value="${c}">${c}</option>`).join('');
+    const ccaas = Array.from(new Set(currentData.filter(i => i.Country === 'Spain').map(i => i.CCAA))).sort(); // Cambio: Country -> CCAA
+    ccaaFilter.innerHTML = '<option value="">Todas</option>' +
+      ccaas.map(c => `<option value="${c}">${c}</option>`).join('');
 
     const wrSteps = Array.from({ length: 11 }, (_, i) => i * 10);
     const wrOptions = wrSteps.map(n => `<option value="${n}">${n}</option>`).join('');
@@ -164,7 +164,7 @@ document.addEventListener('DOMContentLoaded', () => {
   function initializeFilters() {
     raceFilter.innerHTML = '<option value="">Todas</option>' +
       raceList.map(r => `<option value="${r}">${r}</option>`).join('');
-    countryFilter.innerHTML = '<option value="">Todos</option>';
+    ccaaFilter.innerHTML = '<option value="">Todas</option>'; // Cambio: countryFilter -> ccaaFilter
     wrMinFilter.innerHTML = '<option value="">Todos</option>';
     wrMaxFilter.innerHTML = '<option value="">Todos</option>';
     gamesMinFilter.innerHTML = '<option value="">Todos</option>';
@@ -173,7 +173,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   initializeFilters();
   raceFilter.addEventListener('change', handleRaceChange);
-  [countryFilter, wrMinFilter, wrMaxFilter, gamesMinFilter, gamesMaxFilter, nafFilter, coachFilter]
+  [ccaaFilter, wrMinFilter, wrMaxFilter, gamesMinFilter, gamesMaxFilter, nafFilter, coachFilter] // Cambio: countryFilter -> ccaaFilter
     .forEach(el => el.addEventListener('change', applyFiltersAndRender));
 
   // Carga inicial mostrando todas las razas
