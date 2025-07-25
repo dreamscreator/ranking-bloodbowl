@@ -4,17 +4,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Contacto - Blood Bowl Ranking</title>
+  <title>¿Cómo funciona? - Blood Bowl Ranking</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
 
   <style>
     /* Logo encima de "Última actualización" */
-    #contact-logo {
+    #howworks-logo {
       width: 50%;
     }
 
     @media (max-width: 768px) {
-      #contact-logo {
+      #howworks-logo {
         width: 70%;
       }
     }
@@ -150,67 +150,56 @@
     </div>
   </nav>
 
-  <!-- Formulario de contacto -->
+  <!-- Contenido principal -->
   <div class="container py-5 mt-4">
     <div class="row justify-content-center">
       <div class="col-md-8">
-        <form action="mailto:dreamscreator@gmail.com" method="POST" enctype="text/plain"
-          class="p-4 shadow rounded section-bg">
-
-          <h4 class="fw-bold mb-4 text-primary" data-i18n="contactoGeneral">CONTACTO GENERAL</h4>
-
-          <div class="mb-3">
-            <label for="nombre" class="form-label" data-i18n="nombreNick">Nombre/Nick *</label>
-            <input type="text" class="form-control" id="nombre" name="Nombre/Nick" required>
-          </div>
-
-          <div class="mb-3">
-            <label for="naf" class="form-label" data-i18n="numeroNaf">Número NAF</label>
-            <input type="text" class="form-control" id="naf" name="Número NAF">
-          </div>
-
-          <div class="mb-3">
-            <label for="email" class="form-label">Email *</label>
-            <input type="email" class="form-control" id="email" name="Email" required>
-          </div>
-
-          <div class="mb-4">
-            <label for="mensaje" class="form-label" data-i18n="mensaje">Mensaje</label>
-            <textarea class="form-control" id="mensaje" name="Mensaje" rows="4"></textarea>
-          </div>
-
-          <hr class="my-4">
-
-          <h4 class="fw-bold mb-3 text-primary" data-i18n="actualizacionDatos">ACTUALIZACIÓN DE DATOS</h4>
-          <p class="mb-3" data-i18n="actualizacionTexto">
-            Si quieres actualizar algún dato erróneo indica el número NAF y los cambios a realizar a ese número.
-          </p>
-
-          <div class="mb-3">
-            <label for="naf-actualizar" class="form-label" data-i18n="numeroNaf">Número NAF</label>
-            <input type="text" class="form-control" id="naf-actualizar" name="NAF actualización">
-          </div>
-
-          <div class="mb-3">
-            <label for="nick-actualizar" class="form-label" data-i18n="nombreNick">Nombre/Nick</label>
-            <input type="text" class="form-control" id="nick-actualizar" name="Nick actualización">
-          </div>
-
-          <div class="mb-4">
-            <label for="ccaa" class="form-label" data-i18n="comunidad">Comunidad Autónoma</label>
-            <input type="text" class="form-control" id="ccaa" name="Comunidad Autónoma">
-          </div>
-
-          <div class="text-end">
-            <button type="submit" class="btn btn-primary" data-i18n="enviar">Enviar</button>
-          </div>
+        <div class="p-4 shadow rounded section-bg">
 
     <!-- Imagen centrada -->
     <div class="text-center mb-3">
-      <img id="contact-logo" src="img/contacto.png" alt="Contacto" class="img-fluid mx-auto d-block">
+      <img id="howworks-logo" src="img/como-funciona.png" alt="¿Cómo funciona?" class="img-fluid mx-auto d-block">
     </div>
 
-        </form>
+          <h4 class="fw-bold text-primary" data-i18n="comoFunciona">¿CÓMO FUNCIONA EL RANKING ANUAL?</h4>
+          <p data-i18n="comoFuncionaTexto">
+            En el ranking anual a cada jugador se le resetea a principio de cada año su ranking a 150, y varía
+            con cada partido que juegue independientemente de la raza con que lo haga.
+          </p>
+
+          <h4 class="fw-bold text-primary mt-4" data-i18n="comoFunciona2">¿CÓMO FUNCIONA EL RANKING HISTÓRICO?
+          </h4>
+          <p data-i18n="comoFunciona2Texto">
+            En el ranking histórico cada jugador empieza con un ranking de 150 con cada raza, y varía con cada
+            partido que juegue independientemente de la raza. Este ranking es histórico y nunca se resetea.
+          </p>
+
+          <h4 class="fw-bold text-primary mt-4" data-i18n="comoFunciona3">¿CÓMO FUNCIONA EL RANKING HISTÓRICO POR RAZAS?
+          </h4>
+          <p data-i18n="comoFunciona3Texto">
+            En el ranking histórico por raza cada jugador empieza con un ranking de 150 con cada raza, y varía con cada
+            partido que juegue con esa raza. Este ranking es histórico y nunca se resetea.
+          </p>
+
+          <h4 class="fw-bold text-primary mt-4" data-i18n="queFiltros">¿QUÉ FILTROS HAY?</h4>
+          <p data-i18n="queFiltrosTexto">
+            Las clasificaciones incluyen solo los jugadores que han indicado en la web de la NAF que son españoles y en
+            los rankings de NAF Mundial con los entrenadores de todo el mundo. Posteriormente se puede filtrar por
+            tramos de Win Ratio, por número NAF, por nick, Comunidad Autónoma o País. Entre paréntesis aparece la
+            clasificación entre los jugadores con la misma CCAA/País. En caso de no tener datos de la CCAA del jugador,
+            aparecerá como Apátrida.
+          </p>
+          <p data-i18n="queFiltrosTexto2">
+            Si estás en el listado como Apátrida y quieres indicar cuál es tu CCAA, ponte en <a
+              href="contacto.html">contacto</a>.
+          </p>
+
+          <h4 class="fw-bold text-primary mt-4" data-i18n="cadaCuanto">¿CADA CUÁNTO SE ACTUALIZA?</h4>
+          <p data-i18n="cadaCuantoTexto">
+            Las clasificaciones no tienen un periodo regular de actualización, pero se intentará que se actualice de
+            manera constante y sin periodos muy extensos entre una actualización y otra.
+          </p>
+        </div>
       </div>
     </div>
   </div>
@@ -220,7 +209,7 @@
   <script>
     const translations = {
       es: {
-        title: "Contacto - Blood Bowl Ranking",
+        title: "¿Cómo funciona? - Blood Bowl Ranking",
         inicio: "Inicio",
         rankings: "Rankings",
         otros: "Otros rankings",
@@ -230,35 +219,22 @@
         rankingGlobalAnual: "Anual",
         rankingGlobalHistorico: "Histórico",
         rankingRazasHistorico: "Razas Histórico",
-        webCreada: "Web creada por dreamscreator",
-        anyo: "Año",
-        ccaa: "CCAA",
-        pais: "País",
-        partidos: "Partidos",
-        todos: "Todos",
-        todas: "Todas",
-        entre: "Entre",
-        y: "y",
-        entrenador: "Entrenador",
-        buscarNaf: "Buscar por NAF",
-        buscarEntrenador: "Buscar por Entrenador",
-        posicionGeneral: "Posición General",
-        ccaaPosicion: "CCAA Posición",
-        torneos: "Torneos",
-        ved: "V/E/D",
         // Agrega aquí el resto de traducciones independientes de cada página
-        contactoGeneral: "CONTACTO GENERAL",
-        nombreNick: "Nombre/Nick *",
-        numeroNaf: "Número NAF",
-        mensaje: "Mensaje",
-        actualizacionDatos: "ACTUALIZACIÓN DE DATOS",
-        actualizacionTexto: "Si quieres actualizar algún dato erróneo indica el nombre o nick y los cambios a realizar a ese entrenador.",
-        comunidad: "Comunidad Autónoma",
-        enviar: "Enviar",
+        comoFunciona: "¿CÓMO FUNCIONA EL RANKING ANUAL?",
+        comoFuncionaTexto: "En el ranking anual a cada jugador se le resetea a principio de cada año su ranking a 150, y varía con cada partido que juegue independientemente de la raza con que lo haga.",
+        comoFunciona2: "¿CÓMO FUNCIONA EL RANKING HISTÓRICO?",
+        comoFunciona2Texto: "En el ranking histórico cada jugador empieza con un ranking de 150 con cada raza, y varía con cada partido que juegue independientemente de la raza. Este ranking es histórico y nunca se resetea.",
+        comoFunciona3: "¿CÓMO FUNCIONA EL RANKING HISTÓRICO POR RAZAS?",
+        comoFunciona3Texto: "En el ranking histórico por raza cada jugador empieza con un ranking de 150 con cada raza, y varía con cada partido que juegue con esa raza. Este ranking es histórico y nunca se resetea.",
+        queFiltros: "¿QUÉ FILTROS HAY?",
+        queFiltrosTexto: "Las clasificaciones incluyen solo los jugadores que han indicado en la web de la NAF que son españoles y en los rankings de NAF Mundial con los entrenadores de todo el mundo. Posteriormente se puede filtrar por tramos de Win Ratio, por número NAF, por nick, Comunidad Autónoma o País. Entre paréntesis aparece la clasificación entre los jugadores con la misma CCAA/País. En caso de no tener datos de la CCAA del jugador, aparecerá como Apátrida.",
+        queFiltrosTexto2: "Si estás en el listado como Apátrida y quieres indicar cuál es tu CCAA, ponte en contacto en el formulario.",
+        cadaCuanto: "¿CADA CUÁNTO SE ACTUALIZA?",
+        cadaCuantoTexto: "Las clasificaciones no tienen un periodo regular de actualización, pero se intentará que se actualice de manera constante y sin periodos muy extensos entre una actualización y otra.",
 
       },
       en: {
-        title: "Contact - Blood Bowl Ranking",
+        title: "How it works? - Blood Bowl Ranking",
         inicio: "Home",
         rankings: "Rankings",
         otros: "Others rankings",
@@ -268,32 +244,18 @@
         rankingGlobalAnual: "Annual",
         rankingGlobalHistorico: "Historical",
         rankingRazasHistorico: "Races Historical",
-        webCreada: "Website create by dreamscreator",
-        anyo: "Year",
-        ccaa: "State",
-        pais: "Country",
-        partidos: "Games",
-        todos: "All",
-        todas: "All",
-        entre: "Between",
-        y: "and",
-        entrenador: "Coach",
-        buscarNaf: "Search by NAF",
-        buscarEntrenador: "Search by Coach",
-        posicionGeneral: "General position",
-        ccaaPosicion: "State Position",
-        torneos: "Tourneys",
-        ved: "W/D/L",
         // Agrega aquí el resto de traducciones independientes de cada página
-        contactoGeneral: "GENERAL CONTACT",
-        nombreNick: "Name/Nick *",
-        numeroNaf: "NAF Number",
-        mensaje: "Message",
-        actualizacionDatos: "UPDATE DETAILS",
-        actualizacionTexto: "If you want to update any erroneous data, indicate the name or nick and the changes to be made to that coach.",
-        comunidad: "State",
-        enviar: "Send",
-
+        comoFunciona: "HOW DOES THE ANNUAL RANKING WORK?",
+        comoFuncionaTexto: "In the annual ranking each player's ranking is reset at the beginning of each year to 150, and varies with each match played regardless of the race with which it is played.",
+        comoFunciona2: "HOW DOES THE HISTORICAL RANKING WORK?",
+        comoFunciona2Texto: "In the historical ranking each player starts with a ranking of 150 with each race, and varies with each match played regardless of race. This ranking is historical and is never reset.",
+        comoFunciona3: "HOW DOES THE HISTORICAL RANKING BY RACE WORK?",
+        comoFunciona3Texto: "In the historical ranking by race each player starts with a ranking of 150 with each race, and varies with each match played with that race. This ranking is historical and is never reset.",
+        queFiltros: "WHAT FILTERS ARE AVAILABLE?",
+        queFiltrosTexto: "The rankings include only players who have indicated on the NAF website that they are Spanish and in the NAF World rankings with coaches from all over the world. Subsequently you can filter by Win Ratio brackets, by NAF number, by nickname, Autonomous Community or Country. In brackets appears the ranking among the players with the same Autonomous Community/Country. In case of not having data of the player's Autonomous Community, it will appear as Stateless.",
+        queFiltrosTexto2: "If you are listed as Stateless and want to indicate which is your CCAA, please contact in the form.",
+        cadaCuanto: "HOW OFTEN IS IT UPDATED?",
+        cadaCuantoTexto: "The rankings do not have a regular update period, but we will try to update them constantly and without long periods between one update and another.",
       }
     };
 

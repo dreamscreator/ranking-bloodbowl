@@ -36,96 +36,100 @@
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
 
+          <!-- Índice -->
           <li class="nav-item">
-            <a class="nav-link active" href="index.html" data-i18n="inicio">Inicio</a>
+            <a class="nav-link" href="index.html" data-i18n="inicio">Inicio</a>
           </li>
 
-          <!-- Menú principal con dropdown -->
+          <!-- Funcionamiento -->
+          <li class="nav-item">
+            <a class="nav-link" href="funcionamiento.html" data-i18n="rankingComo">¿Cómo funciona?</a>
+          </li>
+
+          <!-- Desplegable BBT -->
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarRankings" role="button" data-bs-toggle="dropdown"
-              aria-expanded="false">Rankings</a>
-            <ul class="dropdown-menu" aria-labelledby="navbarRankings">
-
-              <!-- Ranking explicación -->
-              <li class="dropend">
-                <a class="dropdown-item" href="rankings.html" data-i18n="rankingComo">¿Cómo funciona?</a>
-              </li>
-
-              <!-- BBT: dropend para que abra a la derecha -->
-              <li class="dropend">
-                <a class="dropdown-item dropdown-toggle" href="#" id="submenuBBT" role="button"
-                  data-bs-toggle="dropdown" aria-expanded="false">BBT</a>
-                <ul class="dropdown-menu" aria-labelledby="submenuBBT">
-                  <li>
-                    <a class="dropdown-item" href="bbtGlobalAnual.html" data-i18n="rankingGlobalAnual">
-                      Global Anual
+            <a class="nav-link dropdown-toggle" href="#" id="submenuBBT" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false">BBT</a>
+            <ul class="dropdown-menu" aria-labelledby="submenuBBT">
+                <li>
+                    <a class="dropdown-item" href="bbtAnual.html" data-i18n="rankingGlobalAnual">
+                      Anual
                     </a>
                   </li>
                   <li>
-                    <a class="dropdown-item" href="bbtGlobalHistorico.html" data-i18n="rankingGlobalHistorico">
-                      Global Histórico
+                    <a class="dropdown-item" href="bbtHistorico.html" data-i18n="rankingGlobalHistorico">
+                      Histórico
                     </a>
                   </li>
-                </ul>
-              </li>
-
-              <!-- NAF España -->
-              <li class="dropend">
-                <a class="dropdown-item dropdown-toggle" href="#" id="submenuNAFES" role="button"
-                  data-bs-toggle="dropdown" aria-expanded="false">
-                  NAF España
-                </a>
-                <ul class="dropdown-menu" aria-labelledby="submenuNAFES">
-                  <li>
-                    <a class="dropdown-item" href="nafGlobalAnual.html" data-i18n="rankingGlobalAnual">
-                      Global Anual
-                    </a>
-                  </li>
-                  <li>
-                    <a class="dropdown-item" href="nafGlobalHistorico.html" data-i18n="rankingGlobalHistorico">
-                      Global Histórico
-                    </a>
-                  </li>
-                  <li>
-                    <a class="dropdown-item" href="nafRazasHistorico.html" data-i18n="rankingRazasHistorico">
-                      Razas Histórico
-                    </a>
-                  </li>
-                </ul>
-              </li>
-
-              <!-- NAF Mundial -->
-              <li class="dropend">
-                <a class="dropdown-item dropdown-toggle" href="#" id="submenuNAFM" role="button"
-                  data-bs-toggle="dropdown" aria-expanded="false">
-                  NAF Mundial
-                </a>
-                <ul class="dropdown-menu" aria-labelledby="submenuNAFM">
-                  <li>
-                    <a class="dropdown-item" href="nafGlobalAnualMundial.html" data-i18n="rankingGlobalAnual">
-                      Global Anual
-                    </a>
-                  </li>
-                  <li>
-                    <a class="dropdown-item" href="nafGlobalHistoricoMundial.html" data-i18n="rankingGlobalHistorico">
-                      Global Histórico
-                    </a>
-                  </li>
-                  <li>
-                    <a class="dropdown-item" href="nafRazasHistoricoMundial.html" data-i18n="rankingRazasHistorico">
-                      Razas Histórico
-                    </a>
-                  </li>
-                </ul>
-              </li>
-
             </ul>
           </li>
 
+          <!-- Desplegable NAF España -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="submenuNAFES" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false">NAF España</a>
+            <ul class="dropdown-menu" aria-labelledby="submenuNAFES">
+              <li>
+                <a class="dropdown-item" href="nafEspanaAnual.html" data-i18n="rankingGlobalAnual">
+                  Anual
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="nafEspanaHistorico.html" data-i18n="rankingGlobalHistorico">
+                  Histórico
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="nafEspanaRazas.html" data-i18n="rankingRazasHistorico">
+                  Razas Histórico
+                </a>
+              </li>
+            </ul>
+          </li>
+
+          <!-- Desplegable NAF Mundial -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="submenuNAFM" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false">NAF</a>
+            <ul class="dropdown-menu" aria-labelledby="submenuNAFM">
+              <li>
+                <a class="dropdown-item" href="nafAnual.html" data-i18n="rankingGlobalAnual">
+                  Anual
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="nafHistorico.html" data-i18n="rankingGlobalHistorico">
+                  Histórico
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="nafRazas.html" data-i18n="rankingRazasHistorico">
+                  Razas Histórico
+                </a>
+              </li>
+            </ul>
+          </li>
+
+          <!-- Desplegable Otros -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="submenuOtros" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false" data-i18n="otros">Otros rankings</a>
+            <ul class="dropdown-menu" aria-labelledby="submenuOtros">
+                <li>
+                    <a class="dropdown-item" href="#" data-i18n="">
+                      Pronto / Soon
+                    </a>
+                  </li>
+                  <li>
+            </ul>
+          </li>
+
+          <!-- Contacto -->
           <li class="nav-item">
             <a class="nav-link" href="contacto.html" data-i18n="contacto">Contacto</a>
           </li>
 
+          <!-- Donación -->
           <li class="nav-item">
             <a class="nav-link" target="_blank" href="https://paypal.me/BBdados?country.x=ES&locale.x=es_ES"
               data-i18n="donacion">
@@ -152,13 +156,13 @@
 
     <!-- Imagen centrada encima de "Última actualización" -->
     <div class="text-center mb-3">
-      <img id="main-logo" src="img/Logo_BBRanking.png" alt="Logo Blood Bowl Ranking" class="img-fluid mx-auto d-block">
+      <img id="main-logo" src="img/logo_BBRanking.png" alt="Logo Blood Bowl Ranking" class="img-fluid mx-auto d-block">
     </div>
 
     <!-- Última actualización -->
     <div class="text-center mb-4">
       <span style="font-size: small" data-i18n="ultimaActualizacion">Última actualización:</span>
-      <span style="font-size: small">15/07/2025</span>
+      <span style="font-size: small">24/07/2025</span>
     </div>
 
     <div class="row justify-content-center">
@@ -228,11 +232,12 @@
         title: "Blood Bowl Ranking",
         inicio: "Inicio",
         rankings: "Rankings",
+        otros: "Otros rankings",
         contacto: "Contacto",
         donacion: "Donación",
         rankingComo: "¿Cómo funciona?",
-        rankingGlobalAnual: "Global Anual",
-        rankingGlobalHistorico: "Global Histórico",
+        rankingGlobalAnual: "Anual",
+        rankingGlobalHistorico: "Histórico",
         rankingRazasHistorico: "Razas Histórico",
         webCreada: "Web creada por dreamscreator",
         // Agrega aquí el resto de traducciones independientes de cada página
@@ -250,11 +255,12 @@
         title: "Blood Bowl Ranking",
         inicio: "Home",
         rankings: "Rankings",
+        otros: "Others rankings",
         contacto: "Contact",
         donacion: "Donate",
-        rankingComo: "¿How it works?",
-        rankingGlobalAnual: "Global Annual",
-        rankingGlobalHistorico: "Global Historical",
+        rankingComo: "How it works?",
+        rankingGlobalAnual: "Annual",
+        rankingGlobalHistorico: "Historical",
         rankingRazasHistorico: "Races Historical",
         webCreada: "Website create by dreamscreator",
         // Agrega aquí el resto de traducciones independientes de cada página
