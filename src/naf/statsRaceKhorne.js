@@ -6,12 +6,12 @@ const statsRaceKhorne = [
     "Country": "Cayman Islands",
     "race": "Khorne",
     "rating": "150.0",
-    "totalTournaments": 24,
-    "gamesTotal": 88,
-    "gamesWon": 27,
-    "gamesDraw": 14,
-    "gamesLost": 47,
-    "winRatio": 38.64
+    "totalTournaments": 25,
+    "gamesTotal": 93,
+    "gamesWon": 29,
+    "gamesDraw": 15,
+    "gamesLost": 49,
+    "winRatio": 39.25
   },
   {
     "NAF Nr": "29",
@@ -6151,13 +6151,13 @@ const statsRaceKhorne = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Khorne",
-    "rating": "152.15",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "rating": "154.0",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 3,
     "gamesDraw": 2,
-    "gamesLost": 1,
-    "winRatio": 50
+    "gamesLost": 2,
+    "winRatio": 57.14
   },
   {
     "NAF Nr": "20785",
@@ -8918,6 +8918,20 @@ const statsRaceKhorne = [
     "winRatio": 62.5
   },
   {
+    "NAF Nr": "23833",
+    "NAF Name": "TonyToadKing",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Khorne",
+    "rating": "145.16",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "23852",
     "NAF Name": "JericoJackson",
     "CCAA": "Apatrida",
@@ -10743,13 +10757,13 @@ const statsRaceKhorne = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Khorne",
-    "rating": "153.14",
-    "totalTournaments": 4,
-    "gamesTotal": 12,
+    "rating": "147.45",
+    "totalTournaments": 5,
+    "gamesTotal": 15,
     "gamesWon": 4,
-    "gamesDraw": 3,
-    "gamesLost": 5,
-    "winRatio": 45.83
+    "gamesDraw": 5,
+    "gamesLost": 6,
+    "winRatio": 43.33
   },
   {
     "NAF Nr": "25537",
@@ -12110,6 +12124,20 @@ const statsRaceKhorne = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "26889",
+    "NAF Name": "Ossian",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "race": "Khorne",
+    "rating": "140.33",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 25
+  },
+  {
     "NAF Nr": "26911",
     "NAF Name": "knastcore",
     "CCAA": "Apatrida",
@@ -12614,6 +12642,20 @@ const statsRaceKhorne = [
     "winRatio": 55.05
   },
   {
+    "NAF Nr": "27369",
+    "NAF Name": "prodigal_son",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "race": "Khorne",
+    "rating": "150.7",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "27378",
     "NAF Name": "Chaosrulz74",
     "CCAA": "Apatrida",
@@ -12724,6 +12766,20 @@ const statsRaceKhorne = [
     "gamesDraw": 0,
     "gamesLost": 3,
     "winRatio": 40
+  },
+  {
+    "NAF Nr": "27557",
+    "NAF Name": "JuanR1969",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "race": "Khorne",
+    "rating": "154.58",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "27570",
@@ -13039,13 +13095,13 @@ const statsRaceKhorne = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Khorne",
-    "rating": "143.74",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 37.5
+    "rating": "144.42",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 50
   },
   {
     "NAF Nr": "27805",
@@ -15050,6 +15106,20 @@ const statsRaceKhorne = [
     "winRatio": 36.21
   },
   {
+    "NAF Nr": "30193",
+    "NAF Name": "master_wiggins",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Khorne",
+    "rating": "144.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "30231",
     "NAF Name": "jacaro",
     "CCAA": "Apatrida",
@@ -16063,11 +16133,11 @@ const statsRaceKhorne = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Khorne",
-    "rating": "154.5",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 0,
+    "rating": "157.61",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
     "gamesLost": 1,
     "winRatio": 66.67
   },
@@ -16679,7 +16749,7 @@ const statsRaceKhorne = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Khorne",
-    "rating": "186.64",
+    "rating": "190.05",
     "totalTournaments": 7,
     "gamesTotal": 30,
     "gamesWon": 17,
@@ -17057,7 +17127,7 @@ const statsRaceKhorne = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Khorne",
-    "rating": "132.64",
+    "rating": "132.54",
     "totalTournaments": 3,
     "gamesTotal": 17,
     "gamesWon": 6,
@@ -18039,11 +18109,11 @@ const statsRaceKhorne = [
     "race": "Khorne",
     "rating": "139.67",
     "totalTournaments": 2,
-    "gamesTotal": 4,
+    "gamesTotal": 3,
     "gamesWon": 0,
-    "gamesDraw": 2,
+    "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 25
+    "winRatio": 16.67
   },
   {
     "NAF Nr": "32605",
@@ -18247,13 +18317,13 @@ const statsRaceKhorne = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Khorne",
-    "rating": "153.48",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 3,
+    "rating": "168.62",
+    "totalTournaments": 3,
+    "gamesTotal": 11,
+    "gamesWon": 6,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 56.25
+    "winRatio": 68.18
   },
   {
     "NAF Nr": "32756",
@@ -18464,6 +18534,20 @@ const statsRaceKhorne = [
     "gamesDraw": 1,
     "gamesLost": 0,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "32924",
+    "NAF Name": "TitaniumBoy",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Khorne",
+    "rating": "154.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "32925",
@@ -18905,13 +18989,13 @@ const statsRaceKhorne = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Khorne",
-    "rating": "193.08",
-    "totalTournaments": 8,
-    "gamesTotal": 27,
-    "gamesWon": 17,
+    "rating": "193.62",
+    "totalTournaments": 9,
+    "gamesTotal": 30,
+    "gamesWon": 19,
     "gamesDraw": 4,
-    "gamesLost": 6,
-    "winRatio": 70.37
+    "gamesLost": 7,
+    "winRatio": 70
   },
   {
     "NAF Nr": "33291",
@@ -19689,13 +19773,13 @@ const statsRaceKhorne = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Khorne",
-    "rating": "155.17",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
+    "rating": "152.94",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 4,
     "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 62.5
+    "gamesLost": 3,
+    "winRatio": 56.25
   },
   {
     "NAF Nr": "33903",
@@ -21453,13 +21537,13 @@ const statsRaceKhorne = [
     "CCAA": "Apatrida",
     "Country": "Ireland",
     "race": "Khorne",
-    "rating": "153.75",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
+    "rating": "148.59",
+    "totalTournaments": 3,
+    "gamesTotal": 9,
     "gamesWon": 3,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 58.33
+    "gamesDraw": 3,
+    "gamesLost": 3,
+    "winRatio": 50
   },
   {
     "NAF Nr": "35767",
@@ -22097,13 +22181,13 @@ const statsRaceKhorne = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Khorne",
-    "rating": "152.26",
-    "totalTournaments": 1,
-    "gamesTotal": 2,
-    "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 1,
-    "winRatio": 50
+    "rating": "151.3",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "36692",
@@ -22503,13 +22587,13 @@ const statsRaceKhorne = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Khorne",
-    "rating": "145.35",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
+    "rating": "160.09",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "37227",
@@ -23777,13 +23861,13 @@ const statsRaceKhorne = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Khorne",
-    "rating": "147.5",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 0,
-    "gamesDraw": 0,
-    "gamesLost": 3,
-    "winRatio": 0
+    "rating": "147.59",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 31.25
   },
   {
     "NAF Nr": "40201",
@@ -23854,6 +23938,20 @@ const statsRaceKhorne = [
     "gamesDraw": 1,
     "gamesLost": 2,
     "winRatio": 16.67
+  },
+  {
+    "NAF Nr": "40479",
+    "NAF Name": "Requena115",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "race": "Khorne",
+    "rating": "147.0",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 37.5
   },
   {
     "NAF Nr": "40487",
@@ -24044,6 +24142,20 @@ const statsRaceKhorne = [
     "Country": "Scotland",
     "race": "Khorne",
     "rating": "142.27",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
+  },
+  {
+    "NAF Nr": "41720",
+    "NAF Name": "Ok_Pajo",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
+    "race": "Khorne",
+    "rating": "135.82",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,

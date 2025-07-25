@@ -20,12 +20,12 @@ const statsRaceLizardmen = [
     "Country": "Cayman Islands",
     "race": "Lizardmen",
     "rating": "150.0",
-    "totalTournaments": 46,
-    "gamesTotal": 212,
+    "totalTournaments": 47,
+    "gamesTotal": 214,
     "gamesWon": 50,
     "gamesDraw": 48,
-    "gamesLost": 114,
-    "winRatio": 34.91
+    "gamesLost": 116,
+    "winRatio": 34.58
   },
   {
     "NAF Nr": "28",
@@ -2189,13 +2189,13 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Lizardmen",
-    "rating": "149.73",
-    "totalTournaments": 4,
-    "gamesTotal": 21,
+    "rating": "149.29",
+    "totalTournaments": 5,
+    "gamesTotal": 22,
     "gamesWon": 7,
-    "gamesDraw": 6,
+    "gamesDraw": 7,
     "gamesLost": 8,
-    "winRatio": 47.62
+    "winRatio": 47.73
   },
   {
     "NAF Nr": "3741",
@@ -4261,13 +4261,13 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Lizardmen",
-    "rating": "139.88",
-    "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 2,
+    "rating": "145.81",
+    "totalTournaments": 3,
+    "gamesTotal": 10,
+    "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 38.89
+    "winRatio": 45
   },
   {
     "NAF Nr": "7194",
@@ -14565,7 +14565,7 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "Pitcairn Island",
     "race": "Lizardmen",
-    "rating": "188.68",
+    "rating": "176.8",
     "totalTournaments": 4,
     "gamesTotal": 16,
     "gamesWon": 8,
@@ -16707,13 +16707,13 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Lizardmen",
-    "rating": "145.2",
-    "totalTournaments": 3,
-    "gamesTotal": 15,
-    "gamesWon": 3,
+    "rating": "150.9",
+    "totalTournaments": 4,
+    "gamesTotal": 16,
+    "gamesWon": 4,
     "gamesDraw": 8,
     "gamesLost": 4,
-    "winRatio": 46.67
+    "winRatio": 50
   },
   {
     "NAF Nr": "18273",
@@ -17351,7 +17351,7 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Lizardmen",
-    "rating": "236.59",
+    "rating": "242.26",
     "totalTournaments": 13,
     "gamesTotal": 63,
     "gamesWon": 37,
@@ -18093,7 +18093,7 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Lizardmen",
-    "rating": "157.19",
+    "rating": "157.07",
     "totalTournaments": 13,
     "gamesTotal": 66,
     "gamesWon": 29,
@@ -18625,12 +18625,12 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Lizardmen",
-    "rating": "161.76",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
+    "rating": "168.7",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 5,
     "gamesDraw": 2,
-    "gamesLost": 0,
+    "gamesLost": 1,
     "winRatio": 75
   },
   {
@@ -20613,13 +20613,13 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Lizardmen",
-    "rating": "203.17",
-    "totalTournaments": 6,
-    "gamesTotal": 33,
-    "gamesWon": 17,
-    "gamesDraw": 13,
-    "gamesLost": 3,
-    "winRatio": 71.21
+    "rating": "212.08",
+    "totalTournaments": 7,
+    "gamesTotal": 39,
+    "gamesWon": 21,
+    "gamesDraw": 14,
+    "gamesLost": 4,
+    "winRatio": 71.79
   },
   {
     "NAF Nr": "20249",
@@ -21278,6 +21278,20 @@ const statsRaceLizardmen = [
     "gamesDraw": 0,
     "gamesLost": 2,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "20542",
+    "NAF Name": "Bron-k",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Lizardmen",
+    "rating": "134.9",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "winRatio": 20
   },
   {
     "NAF Nr": "20547",
@@ -29247,7 +29261,7 @@ const statsRaceLizardmen = [
   },
   {
     "NAF Nr": "24193",
-    "NAF Name": "serafino",
+    "NAF Name": "Serafino",
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Lizardmen",
@@ -32322,6 +32336,20 @@ const statsRaceLizardmen = [
     "gamesTotal": 15,
     "gamesWon": 6,
     "gamesDraw": 8,
+    "gamesLost": 1,
+    "winRatio": 66.67
+  },
+  {
+    "NAF Nr": "25642",
+    "NAF Name": "KingofDasea",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Lizardmen",
+    "rating": "152.53",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
     "gamesLost": 1,
     "winRatio": 66.67
   },
@@ -39051,13 +39079,13 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Lizardmen",
-    "rating": "151.44",
-    "totalTournaments": 2,
-    "gamesTotal": 7,
-    "gamesWon": 2,
+    "rating": "142.38",
+    "totalTournaments": 3,
+    "gamesTotal": 11,
+    "gamesWon": 3,
     "gamesDraw": 3,
-    "gamesLost": 2,
-    "winRatio": 50
+    "gamesLost": 5,
+    "winRatio": 40.91
   },
   {
     "NAF Nr": "29589",
@@ -39289,13 +39317,13 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Lizardmen",
-    "rating": "131.68",
-    "totalTournaments": 5,
-    "gamesTotal": 12,
+    "rating": "122.45",
+    "totalTournaments": 6,
+    "gamesTotal": 14,
     "gamesWon": 2,
     "gamesDraw": 2,
-    "gamesLost": 8,
-    "winRatio": 25
+    "gamesLost": 10,
+    "winRatio": 21.43
   },
   {
     "NAF Nr": "29783",
@@ -40101,13 +40129,13 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Lizardmen",
-    "rating": "141.73",
-    "totalTournaments": 12,
-    "gamesTotal": 63,
-    "gamesWon": 17,
-    "gamesDraw": 16,
+    "rating": "145.74",
+    "totalTournaments": 13,
+    "gamesTotal": 67,
+    "gamesWon": 18,
+    "gamesDraw": 19,
     "gamesLost": 30,
-    "winRatio": 39.68
+    "winRatio": 41.04
   },
   {
     "NAF Nr": "30463",
@@ -42782,6 +42810,20 @@ const statsRaceLizardmen = [
     "gamesDraw": 0,
     "gamesLost": 0,
     "winRatio": 100
+  },
+  {
+    "NAF Nr": "31710",
+    "NAF Name": "Buyo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Lizardmen",
+    "rating": "150.2",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "31712",
@@ -45576,12 +45618,12 @@ const statsRaceLizardmen = [
     "Country": "Finland",
     "race": "Lizardmen",
     "rating": "150.0",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 3,
     "gamesDraw": 2,
-    "gamesLost": 1,
-    "winRatio": 50
+    "gamesLost": 2,
+    "winRatio": 57.14
   },
   {
     "NAF Nr": "33214",
@@ -45925,13 +45967,13 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Lizardmen",
-    "rating": "150.14",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
-    "gamesDraw": 1,
+    "rating": "156.41",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 58.33
   },
   {
     "NAF Nr": "33388",
@@ -46219,13 +46261,13 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "San Marino",
     "race": "Lizardmen",
-    "rating": "92.42",
-    "totalTournaments": 9,
-    "gamesTotal": 46,
+    "rating": "83.71",
+    "totalTournaments": 10,
+    "gamesTotal": 50,
     "gamesWon": 11,
-    "gamesDraw": 6,
-    "gamesLost": 29,
-    "winRatio": 30.43
+    "gamesDraw": 7,
+    "gamesLost": 32,
+    "winRatio": 29
   },
   {
     "NAF Nr": "33554",
@@ -46387,13 +46429,13 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Lizardmen",
-    "rating": "135.5",
-    "totalTournaments": 11,
-    "gamesTotal": 43,
-    "gamesWon": 14,
+    "rating": "143.34",
+    "totalTournaments": 12,
+    "gamesTotal": 46,
+    "gamesWon": 16,
     "gamesDraw": 13,
-    "gamesLost": 16,
-    "winRatio": 47.67
+    "gamesLost": 17,
+    "winRatio": 48.91
   },
   {
     "NAF Nr": "33672",
@@ -47164,6 +47206,20 @@ const statsRaceLizardmen = [
     "gamesDraw": 0,
     "gamesLost": 3,
     "winRatio": 0
+  },
+  {
+    "NAF Nr": "34195",
+    "NAF Name": "smokinghorse",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Lizardmen",
+    "rating": "154.78",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "34197",
@@ -49980,6 +50036,20 @@ const statsRaceLizardmen = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "36218",
+    "NAF Name": "truffles",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "race": "Lizardmen",
+    "rating": "144.92",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "winRatio": 40
+  },
+  {
     "NAF Nr": "36252",
     "NAF Name": "jen-lui",
     "CCAA": "Apatrida",
@@ -51119,13 +51189,13 @@ const statsRaceLizardmen = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Lizardmen",
-    "rating": "121.75",
-    "totalTournaments": 5,
-    "gamesTotal": 19,
-    "gamesWon": 4,
+    "rating": "131.28",
+    "totalTournaments": 6,
+    "gamesTotal": 23,
+    "gamesWon": 6,
     "gamesDraw": 3,
-    "gamesLost": 12,
-    "winRatio": 28.95
+    "gamesLost": 14,
+    "winRatio": 32.61
   },
   {
     "NAF Nr": "37050",
@@ -53067,11 +53137,11 @@ const statsRaceLizardmen = [
     "race": "Lizardmen",
     "rating": "155.7",
     "totalTournaments": 1,
-    "gamesTotal": 3,
+    "gamesTotal": 2,
     "gamesWon": 1,
-    "gamesDraw": 2,
+    "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 75
   },
   {
     "NAF Nr": "38809",
@@ -53275,13 +53345,13 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "Brazil",
     "race": "Lizardmen",
-    "rating": "128.71",
-    "totalTournaments": 6,
-    "gamesTotal": 23,
-    "gamesWon": 7,
+    "rating": "126.22",
+    "totalTournaments": 7,
+    "gamesTotal": 26,
+    "gamesWon": 8,
     "gamesDraw": 3,
-    "gamesLost": 13,
-    "winRatio": 36.96
+    "gamesLost": 15,
+    "winRatio": 36.54
   },
   {
     "NAF Nr": "39020",
@@ -53345,13 +53415,13 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Lizardmen",
-    "rating": "150.13",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
+    "rating": "144.59",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 2,
     "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 50
+    "gamesLost": 3,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "39119",
@@ -53765,13 +53835,13 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Lizardmen",
-    "rating": "153.97",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
-    "gamesWon": 2,
+    "rating": "170.58",
+    "totalTournaments": 3,
+    "gamesTotal": 9,
+    "gamesWon": 5,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 58.33
+    "winRatio": 72.22
   },
   {
     "NAF Nr": "39714",
@@ -54054,6 +54124,20 @@ const statsRaceLizardmen = [
     "winRatio": 66.67
   },
   {
+    "NAF Nr": "39943",
+    "NAF Name": "Mfarrell87",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "race": "Lizardmen",
+    "rating": "155.29",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
+  },
+  {
     "NAF Nr": "39953",
     "NAF Name": "barritas",
     "CCAA": "Apatrida",
@@ -54129,7 +54213,7 @@ const statsRaceLizardmen = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Lizardmen",
-    "rating": "172.93",
+    "rating": "172.94",
     "totalTournaments": 4,
     "gamesTotal": 16,
     "gamesWon": 9,
@@ -54528,6 +54612,20 @@ const statsRaceLizardmen = [
     "gamesDraw": 0,
     "gamesLost": 0,
     "winRatio": 100
+  },
+  {
+    "NAF Nr": "40341",
+    "NAF Name": "mripka",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Lizardmen",
+    "rating": "147.01",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 16.67
   },
   {
     "NAF Nr": "40343",
@@ -55326,5 +55424,61 @@ const statsRaceLizardmen = [
     "gamesDraw": 0,
     "gamesLost": 2,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "41741",
+    "NAF Name": "SewerTramp",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "race": "Lizardmen",
+    "rating": "146.51",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "41763",
+    "NAF Name": "RAIN",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "race": "Lizardmen",
+    "rating": "144.81",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 37.5
+  },
+  {
+    "NAF Nr": "41785",
+    "NAF Name": "RealityBreak",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Lizardmen",
+    "rating": "140.04",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "41787",
+    "NAF Name": "rmaynardo92",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Lizardmen",
+    "rating": "150.3",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 41.67
   }
 ];

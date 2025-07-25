@@ -1573,13 +1573,13 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Halfling",
-    "rating": "164.58",
-    "totalTournaments": 6,
-    "gamesTotal": 25,
+    "rating": "164.47",
+    "totalTournaments": 7,
+    "gamesTotal": 26,
     "gamesWon": 11,
-    "gamesDraw": 6,
+    "gamesDraw": 7,
     "gamesLost": 8,
-    "winRatio": 56
+    "winRatio": 55.77
   },
   {
     "NAF Nr": "3741",
@@ -2987,13 +2987,13 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Halfling",
-    "rating": "154.45",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
+    "rating": "148.76",
+    "totalTournaments": 2,
+    "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
-    "gamesLost": 1,
-    "winRatio": 66.67
+    "gamesLost": 2,
+    "winRatio": 50
   },
   {
     "NAF Nr": "7218",
@@ -5601,7 +5601,7 @@ const statsRaceHalfling = [
   },
   {
     "NAF Nr": "11655",
-    "NAF Name": "SinisterDexter",
+    "NAF Name": "SinDex66",
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Halfling",
@@ -7201,13 +7201,13 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "Ladonia",
     "race": "Halfling",
-    "rating": "129.35",
-    "totalTournaments": 10,
-    "gamesTotal": 39,
-    "gamesWon": 11,
+    "rating": "136.52",
+    "totalTournaments": 11,
+    "gamesTotal": 42,
+    "gamesWon": 13,
     "gamesDraw": 11,
-    "gamesLost": 17,
-    "winRatio": 42.31
+    "gamesLost": 18,
+    "winRatio": 44.05
   },
   {
     "NAF Nr": "13643",
@@ -7481,13 +7481,13 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Halfling",
-    "rating": "139.26",
-    "totalTournaments": 1,
-    "gamesTotal": 2,
+    "rating": "139.7",
+    "totalTournaments": 2,
+    "gamesTotal": 3,
     "gamesWon": 0,
-    "gamesDraw": 0,
+    "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 0
+    "winRatio": 16.67
   },
   {
     "NAF Nr": "14147",
@@ -8671,12 +8671,12 @@ const statsRaceHalfling = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Halfling",
-    "rating": "173.25",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 5,
+    "rating": "179.47",
+    "totalTournaments": 3,
+    "gamesTotal": 12,
+    "gamesWon": 8,
     "gamesDraw": 2,
-    "gamesLost": 1,
+    "gamesLost": 2,
     "winRatio": 75
   },
   {
@@ -11177,13 +11177,13 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Halfling",
-    "rating": "128.2",
-    "totalTournaments": 4,
-    "gamesTotal": 19,
-    "gamesWon": 3,
+    "rating": "134.61",
+    "totalTournaments": 5,
+    "gamesTotal": 20,
+    "gamesWon": 4,
     "gamesDraw": 7,
     "gamesLost": 9,
-    "winRatio": 34.21
+    "winRatio": 37.5
   },
   {
     "NAF Nr": "18273",
@@ -12437,7 +12437,7 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Halfling",
-    "rating": "151.04",
+    "rating": "150.44",
     "totalTournaments": 21,
     "gamesTotal": 78,
     "gamesWon": 31,
@@ -16147,13 +16147,13 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Halfling",
-    "rating": "56.92",
-    "totalTournaments": 25,
-    "gamesTotal": 128,
-    "gamesWon": 11,
+    "rating": "57.46",
+    "totalTournaments": 26,
+    "gamesTotal": 132,
+    "gamesWon": 12,
     "gamesDraw": 27,
-    "gamesLost": 90,
-    "winRatio": 19.14
+    "gamesLost": 93,
+    "winRatio": 19.32
   },
   {
     "NAF Nr": "22007",
@@ -18060,6 +18060,20 @@ const statsRaceHalfling = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "23470",
+    "NAF Name": "Whitehot",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Halfling",
+    "rating": "144.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "23476",
     "NAF Name": "MURDOCK",
     "CCAA": "Apatrida",
@@ -18660,6 +18674,20 @@ const statsRaceHalfling = [
     "gamesDraw": 11,
     "gamesLost": 34,
     "winRatio": 30.7
+  },
+  {
+    "NAF Nr": "23929",
+    "NAF Name": "reximus",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Halfling",
+    "rating": "155.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "23940",
@@ -21215,12 +21243,12 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Halfling",
-    "rating": "147.5",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
-    "gamesDraw": 1,
-    "gamesLost": 1,
+    "rating": "147.56",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 3,
     "winRatio": 50
   },
   {
@@ -21481,13 +21509,13 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Halfling",
-    "rating": "153.79",
-    "totalTournaments": 3,
-    "gamesTotal": 9,
-    "gamesWon": 5,
+    "rating": "144.07",
+    "totalTournaments": 4,
+    "gamesTotal": 15,
+    "gamesWon": 7,
     "gamesDraw": 0,
-    "gamesLost": 4,
-    "winRatio": 55.56
+    "gamesLost": 8,
+    "winRatio": 46.67
   },
   {
     "NAF Nr": "25860",
@@ -21847,11 +21875,11 @@ const statsRaceHalfling = [
     "race": "Halfling",
     "rating": "144.11",
     "totalTournaments": 2,
-    "gamesTotal": 8,
+    "gamesTotal": 7,
     "gamesWon": 2,
-    "gamesDraw": 3,
+    "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 43.75
+    "winRatio": 42.86
   },
   {
     "NAF Nr": "26084",
@@ -22265,13 +22293,13 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Halfling",
-    "rating": "155.59",
-    "totalTournaments": 13,
-    "gamesTotal": 49,
+    "rating": "149.85",
+    "totalTournaments": 14,
+    "gamesTotal": 50,
     "gamesWon": 15,
     "gamesDraw": 19,
-    "gamesLost": 15,
-    "winRatio": 50
+    "gamesLost": 16,
+    "winRatio": 49
   },
   {
     "NAF Nr": "26404",
@@ -23007,13 +23035,13 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Halfling",
-    "rating": "113.94",
-    "totalTournaments": 6,
-    "gamesTotal": 27,
+    "rating": "109.8",
+    "totalTournaments": 7,
+    "gamesTotal": 30,
     "gamesWon": 6,
-    "gamesDraw": 7,
-    "gamesLost": 14,
-    "winRatio": 35.19
+    "gamesDraw": 8,
+    "gamesLost": 16,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "26906",
@@ -23098,6 +23126,20 @@ const statsRaceHalfling = [
     "gamesDraw": 0,
     "gamesLost": 2,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "26989",
+    "NAF Name": "MiniMorg",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Halfling",
+    "rating": "144.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
   },
   {
     "NAF Nr": "27021",
@@ -23707,7 +23749,7 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Halfling",
-    "rating": "130.02",
+    "rating": "130.01",
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 3,
@@ -26059,13 +26101,13 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Halfling",
-    "rating": "140.3",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
+    "rating": "136.41",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
     "gamesWon": 0,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 16.67
+    "gamesDraw": 3,
+    "gamesLost": 3,
+    "winRatio": 25
   },
   {
     "NAF Nr": "30093",
@@ -26388,6 +26430,20 @@ const statsRaceHalfling = [
     "gamesDraw": 4,
     "gamesLost": 8,
     "winRatio": 60
+  },
+  {
+    "NAF Nr": "30384",
+    "NAF Name": "kidcable",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Halfling",
+    "rating": "145.22",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "30406",
@@ -26787,13 +26843,13 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "race": "Halfling",
-    "rating": "145.87",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 33.33
+    "rating": "146.11",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "30813",
@@ -26955,13 +27011,13 @@ const statsRaceHalfling = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Halfling",
-    "rating": "146.44",
-    "totalTournaments": 5,
-    "gamesTotal": 17,
-    "gamesWon": 5,
-    "gamesDraw": 6,
-    "gamesLost": 6,
-    "winRatio": 47.06
+    "rating": "146.57",
+    "totalTournaments": 6,
+    "gamesTotal": 21,
+    "gamesWon": 6,
+    "gamesDraw": 8,
+    "gamesLost": 7,
+    "winRatio": 47.62
   },
   {
     "NAF Nr": "30932",
@@ -27221,13 +27277,13 @@ const statsRaceHalfling = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Halfling",
-    "rating": "159.02",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
-    "gamesWon": 5,
+    "rating": "158.29",
+    "totalTournaments": 4,
+    "gamesTotal": 16,
+    "gamesWon": 7,
     "gamesDraw": 3,
-    "gamesLost": 4,
-    "winRatio": 54.17
+    "gamesLost": 6,
+    "winRatio": 53.13
   },
   {
     "NAF Nr": "31190",
@@ -27396,6 +27452,20 @@ const statsRaceHalfling = [
     "gamesDraw": 2,
     "gamesLost": 0,
     "winRatio": 66.67
+  },
+  {
+    "NAF Nr": "31336",
+    "NAF Name": "Dinlo",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Halfling",
+    "rating": "155.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "31337",
@@ -29526,6 +29596,20 @@ const statsRaceHalfling = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "33461",
+    "NAF Name": "Rubbo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Halfling",
+    "rating": "160.16",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 83.33
+  },
+  {
     "NAF Nr": "33462",
     "NAF Name": "Lobo1",
     "CCAA": "Apatrida",
@@ -29904,6 +29988,20 @@ const statsRaceHalfling = [
     "winRatio": 0
   },
   {
+    "NAF Nr": "33901",
+    "NAF Name": "Sephiz",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Halfling",
+    "rating": "146.46",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 37.5
+  },
+  {
     "NAF Nr": "33908",
     "NAF Name": "Booze",
     "CCAA": "Apatrida",
@@ -29965,7 +30063,7 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Halfling",
-    "rating": "141.99",
+    "rating": "137.98",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
@@ -30077,13 +30175,13 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Halfling",
-    "rating": "126.15",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
+    "rating": "121.65",
+    "totalTournaments": 4,
+    "gamesTotal": 13,
     "gamesWon": 2,
     "gamesDraw": 3,
-    "gamesLost": 7,
-    "winRatio": 29.17
+    "gamesLost": 8,
+    "winRatio": 26.92
   },
   {
     "NAF Nr": "34134",
@@ -30553,11 +30651,11 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Halfling",
-    "rating": "149.97",
-    "totalTournaments": 1,
-    "gamesTotal": 2,
+    "rating": "151.34",
+    "totalTournaments": 2,
+    "gamesTotal": 3,
     "gamesWon": 1,
-    "gamesDraw": 0,
+    "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 50
   },
@@ -30987,13 +31085,13 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Halfling",
-    "rating": "101.99",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
+    "rating": "98.84",
+    "totalTournaments": 4,
+    "gamesTotal": 13,
     "gamesWon": 0,
     "gamesDraw": 2,
-    "gamesLost": 10,
-    "winRatio": 8.33
+    "gamesLost": 11,
+    "winRatio": 7.69
   },
   {
     "NAF Nr": "35751",
@@ -31402,6 +31500,20 @@ const statsRaceHalfling = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "36344",
+    "NAF Name": "zarganlawful",
+    "CCAA": "Apatrida",
+    "Country": "Brazil",
+    "race": "Halfling",
+    "rating": "155.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
+  },
+  {
     "NAF Nr": "36351",
     "NAF Name": "Furynorsca86",
     "CCAA": "Apatrida",
@@ -31626,6 +31738,20 @@ const statsRaceHalfling = [
     "winRatio": 100
   },
   {
+    "NAF Nr": "36731",
+    "NAF Name": "oxinotl",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "race": "Halfling",
+    "rating": "152.58",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "36747",
     "NAF Name": "zenjo",
     "CCAA": "Apatrida",
@@ -31724,18 +31850,32 @@ const statsRaceHalfling = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "36931",
+    "NAF Name": "Lyrian",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Halfling",
+    "rating": "147.71",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "36939",
     "NAF Name": "ELDESTRUCTO83",
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Halfling",
-    "rating": "114.38",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
+    "rating": "110.35",
+    "totalTournaments": 4,
+    "gamesTotal": 13,
     "gamesWon": 0,
     "gamesDraw": 3,
-    "gamesLost": 9,
-    "winRatio": 12.5
+    "gamesLost": 10,
+    "winRatio": 11.54
   },
   {
     "NAF Nr": "36974",
@@ -32032,6 +32172,20 @@ const statsRaceHalfling = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "37625",
+    "NAF Name": "northernmenace",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "race": "Halfling",
+    "rating": "151.1",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "37663",
     "NAF Name": "Hobbelknopf",
     "CCAA": "Apatrida",
@@ -32142,6 +32296,20 @@ const statsRaceHalfling = [
     "gamesDraw": 1,
     "gamesLost": 2,
     "winRatio": 16.67
+  },
+  {
+    "NAF Nr": "37823",
+    "NAF Name": "dougalmctavish",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Halfling",
+    "rating": "150.0",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 50
   },
   {
     "NAF Nr": "37844",
@@ -32681,7 +32849,7 @@ const statsRaceHalfling = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Halfling",
-    "rating": "140.28",
+    "rating": "140.19",
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 2,
@@ -33010,6 +33178,20 @@ const statsRaceHalfling = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "40942",
+    "NAF Name": "Chiggles",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Halfling",
+    "rating": "144.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
   },
   {
     "NAF Nr": "40994",

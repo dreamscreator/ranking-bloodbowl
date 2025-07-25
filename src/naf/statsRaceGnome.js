@@ -1946,6 +1946,20 @@ const statsRaceGnome = [
     "winRatio": 62.5
   },
   {
+    "NAF Nr": "18390",
+    "NAF Name": "HighElfMage",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Gnome",
+    "rating": "145.85",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "18516",
     "NAF Name": "Kuei-Jin",
     "CCAA": "Apatrida",
@@ -4793,13 +4807,13 @@ const statsRaceGnome = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Gnome",
-    "rating": "149.22",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
+    "rating": "157.46",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 4,
     "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 50
+    "gamesLost": 2,
+    "winRatio": 64.29
   },
   {
     "NAF Nr": "28254",
@@ -5250,6 +5264,20 @@ const statsRaceGnome = [
     "winRatio": 37.5
   },
   {
+    "NAF Nr": "29585",
+    "NAF Name": "izzinatah",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Gnome",
+    "rating": "150.0",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "29611",
     "NAF Name": "dizzybess",
     "CCAA": "Apatrida",
@@ -5502,6 +5530,20 @@ const statsRaceGnome = [
     "winRatio": 0
   },
   {
+    "NAF Nr": "30193",
+    "NAF Name": "master_wiggins",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Gnome",
+    "rating": "144.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "30267",
     "NAF Name": "toxic6ix",
     "CCAA": "Apatrida",
@@ -5677,11 +5719,11 @@ const statsRaceGnome = [
     "race": "Gnome",
     "rating": "143.22",
     "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
+    "gamesTotal": 2,
+    "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 0
   },
   {
     "NAF Nr": "30583",
@@ -5941,13 +5983,13 @@ const statsRaceGnome = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Gnome",
-    "rating": "150.59",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
+    "rating": "146.49",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 2,
     "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 50
+    "gamesLost": 3,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "31068",
@@ -6235,7 +6277,7 @@ const statsRaceGnome = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Gnome",
-    "rating": "164.13",
+    "rating": "164.17",
     "totalTournaments": 4,
     "gamesTotal": 19,
     "gamesWon": 9,
@@ -6263,13 +6305,13 @@ const statsRaceGnome = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Gnome",
-    "rating": "123.72",
-    "totalTournaments": 3,
-    "gamesTotal": 14,
-    "gamesWon": 4,
+    "rating": "131.82",
+    "totalTournaments": 4,
+    "gamesTotal": 17,
+    "gamesWon": 6,
     "gamesDraw": 1,
-    "gamesLost": 9,
-    "winRatio": 32.14
+    "gamesLost": 10,
+    "winRatio": 38.24
   },
   {
     "NAF Nr": "31549",
@@ -6636,6 +6678,20 @@ const statsRaceGnome = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "32430",
+    "NAF Name": "ironlichrich",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Gnome",
+    "rating": "157.09",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 83.33
+  },
+  {
     "NAF Nr": "32447",
     "NAF Name": "Brennus_Mor_Gallach",
     "CCAA": "Apatrida",
@@ -6720,6 +6776,20 @@ const statsRaceGnome = [
     "winRatio": 60
   },
   {
+    "NAF Nr": "32519",
+    "NAF Name": "starferret",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Gnome",
+    "rating": "150.48",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "32532",
     "NAF Name": "totalfuzzylogic",
     "CCAA": "Apatrida",
@@ -6732,6 +6802,20 @@ const statsRaceGnome = [
     "gamesDraw": 1,
     "gamesLost": 0,
     "winRatio": 83.33
+  },
+  {
+    "NAF Nr": "32547",
+    "NAF Name": "cptoats",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Gnome",
+    "rating": "144.64",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
   },
   {
     "NAF Nr": "32583",
@@ -6886,6 +6970,20 @@ const statsRaceGnome = [
     "gamesDraw": 0,
     "gamesLost": 3,
     "winRatio": 0
+  },
+  {
+    "NAF Nr": "32924",
+    "NAF Name": "TitaniumBoy",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Gnome",
+    "rating": "155.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "32956",
@@ -7705,7 +7803,7 @@ const statsRaceGnome = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Gnome",
-    "rating": "150.39",
+    "rating": "154.15",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
@@ -7789,13 +7887,13 @@ const statsRaceGnome = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Gnome",
-    "rating": "165.99",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 3,
-    "gamesDraw": 1,
+    "rating": "172.83",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 5,
+    "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 87.5
+    "winRatio": 81.25
   },
   {
     "NAF Nr": "34694",
@@ -8041,13 +8139,13 @@ const statsRaceGnome = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Gnome",
-    "rating": "143.35",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
+    "rating": "133.7",
+    "totalTournaments": 3,
+    "gamesTotal": 9,
     "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 3,
-    "winRatio": 41.67
+    "gamesDraw": 2,
+    "gamesLost": 5,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "35405",
@@ -8160,6 +8258,20 @@ const statsRaceGnome = [
     "gamesDraw": 3,
     "gamesLost": 10,
     "winRatio": 23.33
+  },
+  {
+    "NAF Nr": "35658",
+    "NAF Name": "passable_painter",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "race": "Gnome",
+    "rating": "144.57",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "35683",
@@ -8806,6 +8918,20 @@ const statsRaceGnome = [
     "winRatio": 12.5
   },
   {
+    "NAF Nr": "37075",
+    "NAF Name": "sophinoise",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
+    "race": "Gnome",
+    "rating": "149.17",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "37084",
     "NAF Name": "Frede_ballade",
     "CCAA": "Apatrida",
@@ -8916,6 +9042,20 @@ const statsRaceGnome = [
     "gamesDraw": 2,
     "gamesLost": 2,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "37415",
+    "NAF Name": "Hiyoko",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "race": "Gnome",
+    "rating": "145.73",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "37416",
@@ -9287,7 +9427,7 @@ const statsRaceGnome = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Gnome",
-    "rating": "94.82",
+    "rating": "95.19",
     "totalTournaments": 7,
     "gamesTotal": 31,
     "gamesWon": 5,
@@ -9534,6 +9674,20 @@ const statsRaceGnome = [
     "winRatio": 40
   },
   {
+    "NAF Nr": "38835",
+    "NAF Name": "Mustela",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "race": "Gnome",
+    "rating": "135.01",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "winRatio": 20
+  },
+  {
     "NAF Nr": "38880",
     "NAF Name": "Mudkip",
     "CCAA": "Apatrida",
@@ -9658,6 +9812,20 @@ const statsRaceGnome = [
     "gamesDraw": 1,
     "gamesLost": 2,
     "winRatio": 16.67
+  },
+  {
+    "NAF Nr": "39189",
+    "NAF Name": "Nigromiaunte",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Gnome",
+    "rating": "142.87",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 25
   },
   {
     "NAF Nr": "39203",
@@ -9840,6 +10008,20 @@ const statsRaceGnome = [
     "gamesDraw": 0,
     "gamesLost": 2,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "39498",
+    "NAF Name": "loosegoose",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Gnome",
+    "rating": "155.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "39505",
@@ -10064,6 +10246,34 @@ const statsRaceGnome = [
     "gamesDraw": 0,
     "gamesLost": 1,
     "winRatio": 66.67
+  },
+  {
+    "NAF Nr": "39933",
+    "NAF Name": "redfacedgoose",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Gnome",
+    "rating": "150.0",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 50
+  },
+  {
+    "NAF Nr": "39947",
+    "NAF Name": "Willdebeast",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Gnome",
+    "rating": "155.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "40121",
@@ -10542,18 +10752,32 @@ const statsRaceGnome = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "41663",
+    "NAF Name": "conceitedaxis",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "race": "Gnome",
+    "rating": "141.1",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 25
+  },
+  {
     "NAF Nr": "41664",
     "NAF Name": "Smokey45",
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Gnome",
-    "rating": "132.92",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
+    "rating": "107.62",
+    "totalTournaments": 2,
+    "gamesTotal": 11,
     "gamesWon": 1,
     "gamesDraw": 0,
-    "gamesLost": 4,
-    "winRatio": 20
+    "gamesLost": 10,
+    "winRatio": 9.09
   },
   {
     "NAF Nr": "41731",
@@ -10561,12 +10785,26 @@ const statsRaceGnome = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Gnome",
-    "rating": 150,
+    "rating": "140.26",
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 2,
     "winRatio": 30
+  },
+  {
+    "NAF Nr": "41786",
+    "NAF Name": "BrandonMaynard",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Gnome",
+    "rating": "129.29",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 5,
+    "winRatio": 16.67
   }
 ];

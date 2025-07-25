@@ -285,7 +285,7 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Human",
-    "rating": "154.79",
+    "rating": "154.78",
     "totalTournaments": 4,
     "gamesTotal": 16,
     "gamesWon": 8,
@@ -2303,11 +2303,11 @@ const statsRaceHuman = [
     "race": "Human",
     "rating": "171.41",
     "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 6,
+    "gamesTotal": 8,
+    "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 77.78
+    "winRatio": 75
   },
   {
     "NAF Nr": "3176",
@@ -8671,7 +8671,7 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Human",
-    "rating": "185.27",
+    "rating": "185.28",
     "totalTournaments": 17,
     "gamesTotal": 58,
     "gamesWon": 23,
@@ -9563,7 +9563,7 @@ const statsRaceHuman = [
   },
   {
     "NAF Nr": "11655",
-    "NAF Name": "SinisterDexter",
+    "NAF Name": "SinDex66",
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Human",
@@ -15909,11 +15909,11 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Human",
-    "rating": "180.35",
-    "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 7,
-    "gamesDraw": 1,
+    "rating": "186.25",
+    "totalTournaments": 3,
+    "gamesTotal": 12,
+    "gamesWon": 9,
+    "gamesDraw": 2,
     "gamesLost": 1,
     "winRatio": 83.33
   },
@@ -17505,7 +17505,7 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Human",
-    "rating": "174.97",
+    "rating": "174.99",
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
@@ -17911,7 +17911,7 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Human",
-    "rating": "190.51",
+    "rating": "202.55",
     "totalTournaments": 12,
     "gamesTotal": 52,
     "gamesWon": 24,
@@ -23436,6 +23436,20 @@ const statsRaceHuman = [
     "winRatio": 58.33
   },
   {
+    "NAF Nr": "19833",
+    "NAF Name": "boobootroid",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "race": "Human",
+    "rating": "150.27",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "19836",
     "NAF Name": "bitchstewie",
     "CCAA": "Apatrida",
@@ -24491,13 +24505,13 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Human",
-    "rating": "166.66",
-    "totalTournaments": 11,
-    "gamesTotal": 41,
-    "gamesWon": 17,
-    "gamesDraw": 11,
-    "gamesLost": 13,
-    "winRatio": 54.88
+    "rating": "164.21",
+    "totalTournaments": 12,
+    "gamesTotal": 44,
+    "gamesWon": 18,
+    "gamesDraw": 12,
+    "gamesLost": 14,
+    "winRatio": 54.55
   },
   {
     "NAF Nr": "20331",
@@ -24848,6 +24862,20 @@ const statsRaceHuman = [
     "gamesDraw": 5,
     "gamesLost": 9,
     "winRatio": 32.35
+  },
+  {
+    "NAF Nr": "20439",
+    "NAF Name": "Joke",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "race": "Human",
+    "rating": "163.84",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "20441",
@@ -26381,13 +26409,13 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Human",
-    "rating": "202.56",
-    "totalTournaments": 21,
-    "gamesTotal": 92,
-    "gamesWon": 56,
-    "gamesDraw": 12,
-    "gamesLost": 24,
-    "winRatio": 67.39
+    "rating": "190.34",
+    "totalTournaments": 22,
+    "gamesTotal": 97,
+    "gamesWon": 57,
+    "gamesDraw": 14,
+    "gamesLost": 26,
+    "winRatio": 65.98
   },
   {
     "NAF Nr": "20934",
@@ -27599,13 +27627,13 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Human",
-    "rating": "159.91",
-    "totalTournaments": 13,
-    "gamesTotal": 70,
+    "rating": "130.67",
+    "totalTournaments": 14,
+    "gamesTotal": 76,
     "gamesWon": 22,
-    "gamesDraw": 17,
-    "gamesLost": 31,
-    "winRatio": 43.57
+    "gamesDraw": 18,
+    "gamesLost": 36,
+    "winRatio": 40.79
   },
   {
     "NAF Nr": "21402",
@@ -33768,6 +33796,20 @@ const statsRaceHuman = [
     "winRatio": 37.5
   },
   {
+    "NAF Nr": "23970",
+    "NAF Name": "gquail",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "race": "Human",
+    "rating": "139.0",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 16.67
+  },
+  {
     "NAF Nr": "23971",
     "NAF Name": "hammer_time",
     "CCAA": "Apatrida",
@@ -33955,13 +33997,13 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Human",
-    "rating": "146.21",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
+    "rating": "146.37",
+    "totalTournaments": 4,
+    "gamesTotal": 13,
     "gamesWon": 5,
-    "gamesDraw": 1,
+    "gamesDraw": 2,
     "gamesLost": 6,
-    "winRatio": 45.83
+    "winRatio": 46.15
   },
   {
     "NAF Nr": "24051",
@@ -34399,7 +34441,7 @@ const statsRaceHuman = [
   },
   {
     "NAF Nr": "24193",
-    "NAF Name": "serafino",
+    "NAF Name": "Serafino",
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Human",
@@ -37833,13 +37875,13 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Human",
-    "rating": "149.06",
-    "totalTournaments": 3,
-    "gamesTotal": 9,
-    "gamesWon": 4,
-    "gamesDraw": 1,
-    "gamesLost": 4,
-    "winRatio": 50
+    "rating": "145.9",
+    "totalTournaments": 4,
+    "gamesTotal": 15,
+    "gamesWon": 5,
+    "gamesDraw": 4,
+    "gamesLost": 6,
+    "winRatio": 46.67
   },
   {
     "NAF Nr": "25636",
@@ -40927,13 +40969,13 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "North Ireland",
     "race": "Human",
-    "rating": "120.28",
-    "totalTournaments": 9,
-    "gamesTotal": 44,
+    "rating": "119.75",
+    "totalTournaments": 10,
+    "gamesTotal": 47,
     "gamesWon": 12,
-    "gamesDraw": 11,
-    "gamesLost": 21,
-    "winRatio": 39.77
+    "gamesDraw": 13,
+    "gamesLost": 22,
+    "winRatio": 39.36
   },
   {
     "NAF Nr": "26823",
@@ -41123,13 +41165,13 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "race": "Human",
-    "rating": "144.67",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
-    "gamesWon": 1,
-    "gamesDraw": 2,
-    "gamesLost": 2,
-    "winRatio": 40
+    "rating": "145.07",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 3,
+    "winRatio": 43.75
   },
   {
     "NAF Nr": "26890",
@@ -43414,6 +43456,20 @@ const statsRaceHuman = [
     "winRatio": 25
   },
   {
+    "NAF Nr": "27746",
+    "NAF Name": "Fains2fains",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "race": "Human",
+    "rating": "132.77",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 6,
+    "winRatio": 27.78
+  },
+  {
     "NAF Nr": "27748",
     "NAF Name": "paladin82",
     "CCAA": "Apatrida",
@@ -45262,6 +45318,20 @@ const statsRaceHuman = [
     "winRatio": 25
   },
   {
+    "NAF Nr": "28783",
+    "NAF Name": "EvilSmoothie",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "race": "Human",
+    "rating": "151.99",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
+  },
+  {
     "NAF Nr": "28793",
     "NAF Name": "themitch",
     "CCAA": "Apatrida",
@@ -45568,6 +45638,20 @@ const statsRaceHuman = [
     "gamesDraw": 0,
     "gamesLost": 6,
     "winRatio": 14.29
+  },
+  {
+    "NAF Nr": "29013",
+    "NAF Name": "sexmachine",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "race": "Human",
+    "rating": "153.41",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "29016",
@@ -47222,18 +47306,32 @@ const statsRaceHuman = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "30054",
+    "NAF Name": "madcatpt",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
+    "race": "Human",
+    "rating": "158.74",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 83.33
+  },
+  {
     "NAF Nr": "30060",
     "NAF Name": "JositoSoft",
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Human",
-    "rating": "144.59",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "rating": "150.32",
+    "totalTournaments": 2,
+    "gamesTotal": 5,
+    "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 50
   },
   {
     "NAF Nr": "30061",
@@ -53401,7 +53499,7 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Human",
-    "rating": "153.99",
+    "rating": "153.9",
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 3,
@@ -53975,13 +54073,13 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Human",
-    "rating": "164.08",
-    "totalTournaments": 5,
-    "gamesTotal": 15,
-    "gamesWon": 8,
-    "gamesDraw": 3,
+    "rating": "166.46",
+    "totalTournaments": 6,
+    "gamesTotal": 18,
+    "gamesWon": 9,
+    "gamesDraw": 5,
     "gamesLost": 4,
-    "winRatio": 63.33
+    "winRatio": 63.89
   },
   {
     "NAF Nr": "34538",
@@ -55207,13 +55305,13 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Human",
-    "rating": "161.36",
-    "totalTournaments": 12,
-    "gamesTotal": 49,
-    "gamesWon": 19,
+    "rating": "164.51",
+    "totalTournaments": 13,
+    "gamesTotal": 50,
+    "gamesWon": 20,
     "gamesDraw": 14,
     "gamesLost": 16,
-    "winRatio": 53.06
+    "winRatio": 54
   },
   {
     "NAF Nr": "35793",
@@ -55368,6 +55466,20 @@ const statsRaceHuman = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "35997",
+    "NAF Name": "lachlanbc",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Human",
+    "rating": "144.3",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
   },
   {
     "NAF Nr": "36012",
@@ -56369,7 +56481,7 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Human",
-    "rating": "134.03",
+    "rating": "134.26",
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 3,
@@ -56425,13 +56537,27 @@ const statsRaceHuman = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Human",
-    "rating": "151.18",
+    "rating": "155.85",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 56.25
+  },
+  {
+    "NAF Nr": "37043",
+    "NAF Name": "harrylargo",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "race": "Human",
+    "rating": "138.2",
     "totalTournaments": 1,
     "gamesTotal": 4,
-    "gamesWon": 2,
+    "gamesWon": 1,
     "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 50
+    "gamesLost": 3,
+    "winRatio": 25
   },
   {
     "NAF Nr": "37052",
@@ -56887,7 +57013,7 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Human",
-    "rating": "161.34",
+    "rating": "161.81",
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
@@ -57587,13 +57713,13 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Human",
-    "rating": "133.07",
-    "totalTournaments": 3,
-    "gamesTotal": 9,
+    "rating": "130.09",
+    "totalTournaments": 4,
+    "gamesTotal": 12,
     "gamesWon": 0,
-    "gamesDraw": 5,
-    "gamesLost": 4,
-    "winRatio": 27.78
+    "gamesDraw": 7,
+    "gamesLost": 5,
+    "winRatio": 29.17
   },
   {
     "NAF Nr": "38281",
@@ -58352,6 +58478,20 @@ const statsRaceHuman = [
     "winRatio": 83.33
   },
   {
+    "NAF Nr": "39282",
+    "NAF Name": "stuballz",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Human",
+    "rating": "145.78",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 37.5
+  },
+  {
     "NAF Nr": "39321",
     "NAF Name": "kaleithel",
     "CCAA": "Apatrida",
@@ -58875,7 +59015,7 @@ const statsRaceHuman = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Human",
-    "rating": "124.29",
+    "rating": "124.27",
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 3,
@@ -59288,6 +59428,20 @@ const statsRaceHuman = [
     "gamesDraw": 0,
     "gamesLost": 3,
     "winRatio": 0
+  },
+  {
+    "NAF Nr": "41439",
+    "NAF Name": "Maikelrat",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Human",
+    "rating": "141.05",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 30
   },
   {
     "NAF Nr": "41466",

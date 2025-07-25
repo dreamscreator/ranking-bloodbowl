@@ -1625,7 +1625,7 @@ const statsRaceBretonnian = [
   },
   {
     "NAF Nr": "11655",
-    "NAF Name": "SinisterDexter",
+    "NAF Name": "SinDex66",
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",

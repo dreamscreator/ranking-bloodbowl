@@ -6,12 +6,12 @@ const statsRaceDark_Elf = [
     "Country": "Cayman Islands",
     "race": "Dark Elf",
     "rating": "150.0",
-    "totalTournaments": 21,
-    "gamesTotal": 78,
-    "gamesWon": 26,
+    "totalTournaments": 22,
+    "gamesTotal": 81,
+    "gamesWon": 27,
     "gamesDraw": 13,
-    "gamesLost": 39,
-    "winRatio": 41.67
+    "gamesLost": 41,
+    "winRatio": 41.36
   },
   {
     "NAF Nr": "25",
@@ -5185,13 +5185,13 @@ const statsRaceDark_Elf = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Dark Elf",
-    "rating": "188.06",
-    "totalTournaments": 11,
-    "gamesTotal": 52,
-    "gamesWon": 25,
-    "gamesDraw": 15,
-    "gamesLost": 12,
-    "winRatio": 62.5
+    "rating": "174.12",
+    "totalTournaments": 12,
+    "gamesTotal": 57,
+    "gamesWon": 26,
+    "gamesDraw": 16,
+    "gamesLost": 15,
+    "winRatio": 59.65
   },
   {
     "NAF Nr": "7337",
@@ -32397,7 +32397,7 @@ const statsRaceDark_Elf = [
   },
   {
     "NAF Nr": "24193",
-    "NAF Name": "serafino",
+    "NAF Name": "Serafino",
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Dark Elf",
@@ -38071,13 +38071,13 @@ const statsRaceDark_Elf = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Dark Elf",
-    "rating": "203.84",
-    "totalTournaments": 4,
-    "gamesTotal": 17,
-    "gamesWon": 12,
-    "gamesDraw": 4,
+    "rating": "209.46",
+    "totalTournaments": 5,
+    "gamesTotal": 21,
+    "gamesWon": 15,
+    "gamesDraw": 5,
     "gamesLost": 1,
-    "winRatio": 82.35
+    "winRatio": 83.33
   },
   {
     "NAF Nr": "26984",
@@ -42771,7 +42771,7 @@ const statsRaceDark_Elf = [
   },
   {
     "NAF Nr": "29947",
-    "NAF Name": "oriolripoll2",
+    "NAF Name": "VonHazel",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Dark Elf",
@@ -47605,7 +47605,7 @@ const statsRaceDark_Elf = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Dark Elf",
-    "rating": 150,
+    "rating": "149.17",
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
@@ -49812,6 +49812,20 @@ const statsRaceDark_Elf = [
     "winRatio": 61.11
   },
   {
+    "NAF Nr": "34913",
+    "NAF Name": "darkgordu",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Dark Elf",
+    "rating": "142.09",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 30
+  },
+  {
     "NAF Nr": "34937",
     "NAF Name": "morathi",
     "CCAA": "Apatrida",
@@ -50461,13 +50475,13 @@ const statsRaceDark_Elf = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Dark Elf",
-    "rating": "143.77",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 0,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 16.67
+    "rating": "144.17",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 3,
+    "winRatio": 35.71
   },
   {
     "NAF Nr": "35494",
@@ -50657,13 +50671,13 @@ const statsRaceDark_Elf = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Dark Elf",
-    "rating": "118.11",
-    "totalTournaments": 3,
-    "gamesTotal": 13,
-    "gamesWon": 1,
-    "gamesDraw": 4,
-    "gamesLost": 8,
-    "winRatio": 23.08
+    "rating": "115.56",
+    "totalTournaments": 4,
+    "gamesTotal": 18,
+    "gamesWon": 2,
+    "gamesDraw": 5,
+    "gamesLost": 11,
+    "winRatio": 25
   },
   {
     "NAF Nr": "35629",
@@ -51590,6 +51604,20 @@ const statsRaceDark_Elf = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "36600",
+    "NAF Name": "Claverosky",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "race": "Dark Elf",
+    "rating": "154.98",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 62.5
+  },
+  {
     "NAF Nr": "36634",
     "NAF Name": "pablito",
     "CCAA": "Apatrida",
@@ -51912,18 +51940,32 @@ const statsRaceDark_Elf = [
     "winRatio": 37.5
   },
   {
+    "NAF Nr": "37012",
+    "NAF Name": "noahscape",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Dark Elf",
+    "rating": "153.82",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
+  },
+  {
     "NAF Nr": "37030",
     "NAF Name": "lloydwhite66",
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Dark Elf",
-    "rating": "186.23",
-    "totalTournaments": 3,
-    "gamesTotal": 16,
-    "gamesWon": 10,
+    "rating": "192.81",
+    "totalTournaments": 4,
+    "gamesTotal": 19,
+    "gamesWon": 13,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 71.88
+    "winRatio": 76.32
   },
   {
     "NAF Nr": "37036",
@@ -52407,13 +52449,13 @@ const statsRaceDark_Elf = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Dark Elf",
-    "rating": "150.15",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
-    "gamesDraw": 1,
+    "rating": "161.66",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "37698",
@@ -53186,6 +53228,20 @@ const statsRaceDark_Elf = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "38654",
+    "NAF Name": "bishf7",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Dark Elf",
+    "rating": "154.19",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
+  },
+  {
     "NAF Nr": "38672",
     "NAF Name": "bradbaker",
     "CCAA": "Apatrida",
@@ -53282,6 +53338,20 @@ const statsRaceDark_Elf = [
     "gamesDraw": 0,
     "gamesLost": 4,
     "winRatio": 20
+  },
+  {
+    "NAF Nr": "38832",
+    "NAF Name": "RobG",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
+    "race": "Dark Elf",
+    "rating": "145.34",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 40
   },
   {
     "NAF Nr": "38866",
@@ -53676,6 +53746,20 @@ const statsRaceDark_Elf = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "39626",
+    "NAF Name": "Jordanmungandr",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "race": "Dark Elf",
+    "rating": "139.16",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 25
+  },
+  {
     "NAF Nr": "39638",
     "NAF Name": "AHopelessBunny",
     "CCAA": "Apatrida",
@@ -54026,6 +54110,20 @@ const statsRaceDark_Elf = [
     "winRatio": 66.67
   },
   {
+    "NAF Nr": "40260",
+    "NAF Name": "RuiSkaikru",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
+    "race": "Dark Elf",
+    "rating": "140.96",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 16.67
+  },
+  {
     "NAF Nr": "40325",
     "NAF Name": "NESSA",
     "CCAA": "Andalucía",
@@ -54101,13 +54199,13 @@ const statsRaceDark_Elf = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Dark Elf",
-    "rating": "143.34",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "rating": "138.38",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 2,
     "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 37.5
+    "gamesLost": 4,
+    "winRatio": 35.71
   },
   {
     "NAF Nr": "40445",
@@ -54348,6 +54446,20 @@ const statsRaceDark_Elf = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "40882",
+    "NAF Name": "Joe_Rhys",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Dark Elf",
+    "rating": "150.8",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "40915",
     "NAF Name": "hiltonr92",
     "CCAA": "Apatrida",
@@ -54530,17 +54642,45 @@ const statsRaceDark_Elf = [
     "winRatio": 20
   },
   {
+    "NAF Nr": "41707",
+    "NAF Name": "kixfox",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "race": "Dark Elf",
+    "rating": "143.02",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 16.67
+  },
+  {
     "NAF Nr": "41732",
     "NAF Name": "Milksandwich",
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Dark Elf",
-    "rating": 150,
+    "rating": "153.27",
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
     "winRatio": 60
+  },
+  {
+    "NAF Nr": "41762",
+    "NAF Name": "Dansatlantic",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "race": "Dark Elf",
+    "rating": "145.08",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 30
   }
 ];
