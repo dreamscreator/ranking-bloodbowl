@@ -4,13 +4,13 @@ const statsYear2025 = [
     "NAF Name": "Zvvvz",
     "CCAA": "Apatrida",
     "Country": "Spain",
-    "tournaments": 41,
-    "gamesWon": 165,
-    "gamesDraw": 119,
-    "gamesLost": 307,
-    "gamesTotal": 591,
-    "winRatio": 37.99,
-    "rating": 115.77330682435517
+    "tournaments": 40,
+    "gamesWon": 163,
+    "gamesDraw": 117,
+    "gamesLost": 302,
+    "gamesTotal": 582,
+    "winRatio": 38.06,
+    "rating": 116.06170221141521
   },
   {
     "NAF Nr": "40158",
@@ -23,7 +23,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 10,
     "winRatio": 40,
-    "rating": 138.8930899162054
+    "rating": 138.89332602940706
   },
   {
     "NAF Nr": "29932",
@@ -36,7 +36,7 @@ const statsYear2025 = [
     "gamesLost": 13,
     "gamesTotal": 46,
     "winRatio": 61.96,
-    "rating": 191.02193802483322
+    "rating": 191.02147543296778
   },
   {
     "NAF Nr": "40076",
@@ -49,7 +49,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 8,
     "winRatio": 6.25,
-    "rating": 110.43766654908677
+    "rating": 110.51413630416657
   },
   {
     "NAF Nr": "13100",
@@ -62,7 +62,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
-    "rating": 155.7986260142272
+    "rating": 155.79860128563385
   },
   {
     "NAF Nr": "32406",
@@ -75,7 +75,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 10,
     "winRatio": 20,
-    "rating": 117.26378714587331
+    "rating": 117.26401016719765
   },
   {
     "NAF Nr": "39328",
@@ -88,7 +88,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 8,
     "winRatio": 37.5,
-    "rating": 142.54477750899747
+    "rating": 142.54494746550756
   },
   {
     "NAF Nr": "36673",
@@ -101,7 +101,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 50,
-    "rating": 152.46916235043668
+    "rating": 152.46869282120056
   },
   {
     "NAF Nr": "26833",
@@ -127,7 +127,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 10,
     "winRatio": 40,
-    "rating": 139.18789234971982
+    "rating": 139.30302349711508
   },
   {
     "NAF Nr": "27817",
@@ -140,7 +140,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
-    "rating": 155.28955626213875
+    "rating": 155.28955585353742
   },
   {
     "NAF Nr": "34557",
@@ -153,7 +153,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 50,
-    "rating": 152.10474909395208
+    "rating": 152.1053677618763
   },
   {
     "NAF Nr": "25699",
@@ -166,7 +166,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 16,
     "winRatio": 56.25,
-    "rating": 155.62137188723614
+    "rating": 155.62080252230646
   },
   {
     "NAF Nr": "12649",
@@ -179,7 +179,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 31.25,
-    "rating": 132.9402967052683
+    "rating": 132.9402548030605
   },
   {
     "NAF Nr": "38965",
@@ -192,7 +192,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 62.5,
-    "rating": 160.34589347795367
+    "rating": 160.34563531932176
   },
   {
     "NAF Nr": "24485",
@@ -205,7 +205,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
-    "rating": 162.74189467587587
+    "rating": 162.74186119121043
   },
   {
     "NAF Nr": "23058",
@@ -218,7 +218,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 26,
     "winRatio": 65.38,
-    "rating": 179.83706123530217
+    "rating": 179.83176508797445
   },
   {
     "NAF Nr": "23363",
@@ -231,7 +231,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 50,
-    "rating": 146.99995277278907
+    "rating": 146.98620926060303
   },
   {
     "NAF Nr": "455",
@@ -244,7 +244,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
-    "rating": 148.72448697458626
+    "rating": 148.74057005869605
   },
   {
     "NAF Nr": "25218",
@@ -257,7 +257,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 8,
     "winRatio": 62.5,
-    "rating": 158.47754798897518
+    "rating": 158.4738910547719
   },
   {
     "NAF Nr": "19905",
@@ -283,7 +283,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 10,
     "winRatio": 60,
-    "rating": 159.17632078454974
+    "rating": 159.17205934758883
   },
   {
     "NAF Nr": "34082",
@@ -309,7 +309,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 6,
     "winRatio": 8.33,
-    "rating": 122.36281956920642
+    "rating": 122.36281242366802
   },
   {
     "NAF Nr": "34553",
@@ -322,7 +322,7 @@ const statsYear2025 = [
     "gamesLost": 12,
     "gamesTotal": 30,
     "winRatio": 48.33,
-    "rating": 141.4017421835148
+    "rating": 141.39135689234374
   },
   {
     "NAF Nr": "31812",
@@ -335,7 +335,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 13,
     "winRatio": 65.38,
-    "rating": 172.2297256735411
+    "rating": 172.23013033693576
   },
   {
     "NAF Nr": "23309",
@@ -348,7 +348,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 16,
     "winRatio": 50,
-    "rating": 152.26165497414752
+    "rating": 152.26155641671264
   },
   {
     "NAF Nr": "14560",
@@ -361,7 +361,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 7,
     "winRatio": 50,
-    "rating": 148.5527956534517
+    "rating": 148.55537354696258
   },
   {
     "NAF Nr": "23159",
@@ -374,7 +374,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 14,
     "winRatio": 53.57,
-    "rating": 149.1440168350694
+    "rating": 149.14386286396453
   },
   {
     "NAF Nr": "35153",
@@ -387,7 +387,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 56.25,
-    "rating": 154.5214132952247
+    "rating": 154.52129818830858
   },
   {
     "NAF Nr": "18146",
@@ -400,7 +400,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 149.3066333254316
+    "rating": 149.30348231950927
   },
   {
     "NAF Nr": "27275",
@@ -426,7 +426,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 33.33,
-    "rating": 140.68580940622485
+    "rating": 140.68508463378248
   },
   {
     "NAF Nr": "39208",
@@ -439,7 +439,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 87.5,
-    "rating": 166.6555273489613
+    "rating": 166.65550348913155
   },
   {
     "NAF Nr": "23169",
@@ -452,7 +452,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 33.33,
-    "rating": 137.94405085221646
+    "rating": 137.94395285782406
   },
   {
     "NAF Nr": "38884",
@@ -478,7 +478,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
-    "rating": 161.09591749800808
+    "rating": 161.09662762776657
   },
   {
     "NAF Nr": "38557",
@@ -491,7 +491,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
-    "rating": 143.46236410242324
+    "rating": 143.46215166811103
   },
   {
     "NAF Nr": "21637",
@@ -504,7 +504,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 83.33,
-    "rating": 168.66024571484033
+    "rating": 168.66045215451763
   },
   {
     "NAF Nr": "37041",
@@ -517,7 +517,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 37.5,
-    "rating": 140.9221875380328
+    "rating": 140.92209042830535
   },
   {
     "NAF Nr": "16831",
@@ -530,7 +530,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 8,
     "winRatio": 81.25,
-    "rating": 175.16031113136165
+    "rating": 175.16029903994828
   },
   {
     "NAF Nr": "41559",
@@ -543,7 +543,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 139.9218021425622
+    "rating": 139.92164908057796
   },
   {
     "NAF Nr": "24902",
@@ -556,7 +556,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 11,
     "winRatio": 45.45,
-    "rating": 142.2251517835779
+    "rating": 142.22623847308643
   },
   {
     "NAF Nr": "37254",
@@ -569,7 +569,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 144.49249557927328
+    "rating": 144.4922042183182
   },
   {
     "NAF Nr": "38417",
@@ -595,7 +595,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 24,
     "winRatio": 54.17,
-    "rating": 162.99506263413778
+    "rating": 162.99484374212975
   },
   {
     "NAF Nr": "21299",
@@ -621,7 +621,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 7,
     "winRatio": 71.43,
-    "rating": 164.2051004946556
+    "rating": 164.20505578341127
   },
   {
     "NAF Nr": "38391",
@@ -634,7 +634,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 136.7848649023374
+    "rating": 136.77489256648212
   },
   {
     "NAF Nr": "40972",
@@ -647,7 +647,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 137.08545343255224
+    "rating": 137.08545295071494
   },
   {
     "NAF Nr": "31444",
@@ -660,7 +660,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 18,
     "winRatio": 61.11,
-    "rating": 165.8738399066201
+    "rating": 165.87342798600264
   },
   {
     "NAF Nr": "38803",
@@ -673,7 +673,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 50,
-    "rating": 150.03915953923928
+    "rating": 150.0382558654184
   },
   {
     "NAF Nr": "21596",
@@ -686,7 +686,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 75,
-    "rating": 161.4897032118336
+    "rating": 161.48969154019957
   },
   {
     "NAF Nr": "27852",
@@ -699,7 +699,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
-    "rating": 132.99141297601554
+    "rating": 132.99139962369188
   },
   {
     "NAF Nr": "40585",
@@ -712,7 +712,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 4,
     "winRatio": 0,
-    "rating": 127.41175749816557
+    "rating": 127.40624272587362
   },
   {
     "NAF Nr": "13211",
@@ -725,7 +725,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 158.0164508507927
+    "rating": 158.01635053949025
   },
   {
     "NAF Nr": "18300",
@@ -738,7 +738,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 62.5,
-    "rating": 160.3916543117201
+    "rating": 160.39126721623254
   },
   {
     "NAF Nr": "14619",
@@ -751,7 +751,7 @@ const statsYear2025 = [
     "gamesLost": 10,
     "gamesTotal": 24,
     "winRatio": 45.83,
-    "rating": 134.83525726422258
+    "rating": 134.81013784135962
   },
   {
     "NAF Nr": "34355",
@@ -764,7 +764,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 16.67,
-    "rating": 137.80821997715782
+    "rating": 137.807077314306
   },
   {
     "NAF Nr": "37978",
@@ -790,7 +790,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 15,
     "winRatio": 66.67,
-    "rating": 172.85805914082573
+    "rating": 172.85891163134949
   },
   {
     "NAF Nr": "31216",
@@ -803,7 +803,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 55,
-    "rating": 151.5975646588079
+    "rating": 151.5945321627988
   },
   {
     "NAF Nr": "3902",
@@ -816,7 +816,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 10,
     "winRatio": 75,
-    "rating": 175.0173133843843
+    "rating": 175.0172102718165
   },
   {
     "NAF Nr": "32280",
@@ -829,7 +829,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 66.67,
-    "rating": 155.50480994083625
+    "rating": 155.50587147175966
   },
   {
     "NAF Nr": "16884",
@@ -842,7 +842,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 155.45372932840314
+    "rating": 155.45372877704045
   },
   {
     "NAF Nr": "23166",
@@ -855,7 +855,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 75,
-    "rating": 161.44075303722113
+    "rating": 161.4404918824478
   },
   {
     "NAF Nr": "15845",
@@ -868,7 +868,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
-    "rating": 153.6561702968456
+    "rating": 153.656152933796
   },
   {
     "NAF Nr": "25015",
@@ -881,7 +881,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 22,
     "winRatio": 56.82,
-    "rating": 164.1580674723334
+    "rating": 164.15672209889937
   },
   {
     "NAF Nr": "27156",
@@ -894,7 +894,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 148.19798806428588
+    "rating": 148.19566302928007
   },
   {
     "NAF Nr": "20367",
@@ -907,7 +907,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 23,
     "winRatio": 52.17,
-    "rating": 155.24155548505118
+    "rating": 155.22992400788797
   },
   {
     "NAF Nr": "0",
@@ -920,7 +920,7 @@ const statsYear2025 = [
     "gamesLost": 16,
     "gamesTotal": 30,
     "winRatio": 36.67,
-    "rating": 136.4991315864691
+    "rating": 136.49027587612343
   },
   {
     "NAF Nr": "34536",
@@ -933,7 +933,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
-    "rating": 133.23404931090187
+    "rating": 133.2340262332379
   },
   {
     "NAF Nr": "35479",
@@ -946,7 +946,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 157.22795582511324
+    "rating": 157.22794512722382
   },
   {
     "NAF Nr": "29756",
@@ -959,7 +959,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 148.01323941435595
+    "rating": 148.05117179015005
   },
   {
     "NAF Nr": "22681",
@@ -972,7 +972,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 75,
-    "rating": 159.16466080901208
+    "rating": 159.16419070854442
   },
   {
     "NAF Nr": "40527",
@@ -985,7 +985,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 16.67,
-    "rating": 141.17913276389882
+    "rating": 141.17913715616763
   },
   {
     "NAF Nr": "35132",
@@ -998,7 +998,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 149.97130303297854
+    "rating": 149.97128164236034
   },
   {
     "NAF Nr": "15226",
@@ -1011,7 +1011,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 87.5,
-    "rating": 166.40735050948166
+    "rating": 166.39605207109258
   },
   {
     "NAF Nr": "39441",
@@ -1024,7 +1024,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 12,
     "winRatio": 37.5,
-    "rating": 137.19186067994482
+    "rating": 137.19096937982752
   },
   {
     "NAF Nr": "11533",
@@ -1037,7 +1037,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 55,
-    "rating": 158.18257534066137
+    "rating": 158.18218370364843
   },
   {
     "NAF Nr": "23934",
@@ -1050,7 +1050,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 154.86513549326497
+    "rating": 154.852870294217
   },
   {
     "NAF Nr": "34555",
@@ -1063,7 +1063,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 45.83,
-    "rating": 143.62823617082643
+    "rating": 143.6883281326434
   },
   {
     "NAF Nr": "11789",
@@ -1076,7 +1076,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 11,
     "winRatio": 59.09,
-    "rating": 162.21262764323436
+    "rating": 162.213148638238
   },
   {
     "NAF Nr": "041898",
@@ -1089,7 +1089,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 6,
     "winRatio": 8.33,
-    "rating": 124.27708583781448
+    "rating": 124.27693179564267
   },
   {
     "NAF Nr": "37455",
@@ -1115,7 +1115,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 12,
     "winRatio": 29.17,
-    "rating": 128.1852608565593
+    "rating": 128.18513456365721
   },
   {
     "NAF Nr": "17776",
@@ -1128,7 +1128,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 143.79052749866452
+    "rating": 143.79002361206722
   },
   {
     "NAF Nr": "32829",
@@ -1141,7 +1141,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 37.5,
-    "rating": 138.5178442387902
+    "rating": 138.5183169971445
   },
   {
     "NAF Nr": "34694",
@@ -1154,7 +1154,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 16,
     "winRatio": 50,
-    "rating": 147.90526557587117
+    "rating": 147.94500287919857
   },
   {
     "NAF Nr": "34234",
@@ -1167,7 +1167,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
-    "rating": 162.70383662857617
+    "rating": 162.7038330653288
   },
   {
     "NAF Nr": "30201",
@@ -1180,7 +1180,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 47,
     "winRatio": 71.28,
-    "rating": 214.39587959429196
+    "rating": 214.3982173353526
   },
   {
     "NAF Nr": "28785",
@@ -1193,7 +1193,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 140.98378296767888
+    "rating": 140.98378261071687
   },
   {
     "NAF Nr": "22826",
@@ -1206,7 +1206,7 @@ const statsYear2025 = [
     "gamesLost": 14,
     "gamesTotal": 41,
     "winRatio": 54.88,
-    "rating": 164.76957622474245
+    "rating": 164.79506094901262
   },
   {
     "NAF Nr": "31710",
@@ -1219,7 +1219,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 41.67,
-    "rating": 139.02352386407833
+    "rating": 139.0231081031708
   },
   {
     "NAF Nr": "40369",
@@ -1245,7 +1245,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 12,
     "winRatio": 33.33,
-    "rating": 126.6350796250232
+    "rating": 126.61773987548142
   },
   {
     "NAF Nr": "24732",
@@ -1258,7 +1258,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
-    "rating": 151.2345904939496
+    "rating": 151.23442523614324
   },
   {
     "NAF Nr": "20675",
@@ -1271,7 +1271,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
-    "rating": 154.17804749316207
+    "rating": 154.1780461262595
   },
   {
     "NAF Nr": "24764",
@@ -1297,7 +1297,7 @@ const statsYear2025 = [
     "gamesLost": 11,
     "gamesTotal": 45,
     "winRatio": 61.11,
-    "rating": 178.14710586340743
+    "rating": 178.25495584017116
   },
   {
     "NAF Nr": "37408",
@@ -1310,7 +1310,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 136.13156179361232
+    "rating": 136.12269220010762
   },
   {
     "NAF Nr": "31709",
@@ -1323,7 +1323,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 16,
     "winRatio": 65.63,
-    "rating": 175.50997541808232
+    "rating": 175.50979385073066
   },
   {
     "NAF Nr": "27634",
@@ -1336,7 +1336,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 11,
     "winRatio": 63.64,
-    "rating": 164.3531303441425
+    "rating": 164.40194372214387
   },
   {
     "NAF Nr": "40288",
@@ -1349,7 +1349,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 12,
     "winRatio": 29.17,
-    "rating": 127.23313471159555
+    "rating": 127.23286277234008
   },
   {
     "NAF Nr": "21962",
@@ -1362,7 +1362,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 7,
     "winRatio": 42.86,
-    "rating": 142.59606442130496
+    "rating": 142.59595156657542
   },
   {
     "NAF Nr": "40171",
@@ -1375,7 +1375,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 148.22923899947406
+    "rating": 148.22876642026904
   },
   {
     "NAF Nr": "34910",
@@ -1388,7 +1388,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 156.95944953391955
+    "rating": 156.95944719104685
   },
   {
     "NAF Nr": "32422",
@@ -1401,7 +1401,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
-    "rating": 153.47973047578847
+    "rating": 153.49301732252746
   },
   {
     "NAF Nr": "34679",
@@ -1427,7 +1427,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 16.67,
-    "rating": 140.01084227635218
+    "rating": 140.0114238243156
   },
   {
     "NAF Nr": "31744",
@@ -1440,7 +1440,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 43.75,
-    "rating": 145.14003968687476
+    "rating": 145.1400018737376
   },
   {
     "NAF Nr": "27111",
@@ -1453,7 +1453,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 20,
     "winRatio": 47.5,
-    "rating": 141.17299983459438
+    "rating": 141.16223927990563
   },
   {
     "NAF Nr": "10279",
@@ -1466,7 +1466,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 144.01499020612633
+    "rating": 144.01485295633995
   },
   {
     "NAF Nr": "31387",
@@ -1479,7 +1479,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 19,
     "winRatio": 60.53,
-    "rating": 167.91629543706716
+    "rating": 167.91580897356585
   },
   {
     "NAF Nr": "34040",
@@ -1492,7 +1492,7 @@ const statsYear2025 = [
     "gamesLost": 10,
     "gamesTotal": 43,
     "winRatio": 59.3,
-    "rating": 172.84905622440456
+    "rating": 172.85022548592138
   },
   {
     "NAF Nr": "37980",
@@ -1505,7 +1505,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 50,
-    "rating": 146.7645208556349
+    "rating": 146.76382086327348
   },
   {
     "NAF Nr": "33797",
@@ -1531,7 +1531,7 @@ const statsYear2025 = [
     "gamesLost": 10,
     "gamesTotal": 16,
     "winRatio": 28.13,
-    "rating": 115.89238777473435
+    "rating": 115.92319175065388
   },
   {
     "NAF Nr": "33944",
@@ -1544,7 +1544,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 10,
     "winRatio": 35,
-    "rating": 138.99828738346693
+    "rating": 138.99814084388962
   },
   {
     "NAF Nr": "12282",
@@ -1557,7 +1557,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 66.67,
-    "rating": 161.9473827055272
+    "rating": 161.94733173672313
   },
   {
     "NAF Nr": "33929",
@@ -1570,7 +1570,7 @@ const statsYear2025 = [
     "gamesLost": 17,
     "gamesTotal": 24,
     "winRatio": 22.92,
-    "rating": 99.41352615586742
+    "rating": 99.41179743208808
   },
   {
     "NAF Nr": "30368",
@@ -1583,7 +1583,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 7,
     "winRatio": 42.86,
-    "rating": 142.28985167875973
+    "rating": 142.31248797528744
   },
   {
     "NAF Nr": "41132",
@@ -1596,7 +1596,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 139.69190001581225
+    "rating": 139.6918993488234
   },
   {
     "NAF Nr": "24820",
@@ -1609,7 +1609,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 20,
     "winRatio": 42.5,
-    "rating": 139.90208123936947
+    "rating": 139.90187841751327
   },
   {
     "NAF Nr": "29899",
@@ -1622,7 +1622,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 7,
     "winRatio": 64.29,
-    "rating": 153.3947203303151
+    "rating": 153.3746283515249
   },
   {
     "NAF Nr": "39327",
@@ -1635,7 +1635,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 14,
     "winRatio": 53.57,
-    "rating": 149.87027279110643
+    "rating": 149.91890402816136
   },
   {
     "NAF Nr": "34472",
@@ -1648,7 +1648,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
-    "rating": 159.87860783555968
+    "rating": 159.89034647351053
   },
   {
     "NAF Nr": "37929",
@@ -1661,7 +1661,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 10,
     "winRatio": 60,
-    "rating": 157.1967058690248
+    "rating": 157.19825108500967
   },
   {
     "NAF Nr": "38349",
@@ -1674,7 +1674,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 7,
     "winRatio": 35.71,
-    "rating": 138.0350119322153
+    "rating": 138.03469574537291
   },
   {
     "NAF Nr": "36600",
@@ -1687,7 +1687,7 @@ const statsYear2025 = [
     "gamesLost": 11,
     "gamesTotal": 32,
     "winRatio": 56.25,
-    "rating": 162.19470398015798
+    "rating": 162.1927794558884
   },
   {
     "NAF Nr": "39960",
@@ -1700,7 +1700,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 141.36618221107358
+    "rating": 141.36600147205667
   },
   {
     "NAF Nr": "24523",
@@ -1713,7 +1713,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 45.83,
-    "rating": 148.96544426919007
+    "rating": 148.96412381737827
   },
   {
     "NAF Nr": "34283",
@@ -1726,7 +1726,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 75,
-    "rating": 161.72756080528993
+    "rating": 161.72755963207499
   },
   {
     "NAF Nr": "27054",
@@ -1739,7 +1739,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
-    "rating": 160.08885372922342
+    "rating": 160.08875210842396
   },
   {
     "NAF Nr": "41140",
@@ -1752,7 +1752,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
-    "rating": 145.26614210263836
+    "rating": 145.2660553007168
   },
   {
     "NAF Nr": "32615",
@@ -1778,7 +1778,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
-    "rating": 150.62482879405414
+    "rating": 150.62481815383532
   },
   {
     "NAF Nr": "22357",
@@ -1791,7 +1791,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 28,
     "winRatio": 67.86,
-    "rating": 182.53359270417963
+    "rating": 182.53188843436672
   },
   {
     "NAF Nr": "15444",
@@ -1804,7 +1804,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
-    "rating": 154.20275063662174
+    "rating": 154.20274943125085
   },
   {
     "NAF Nr": "37852",
@@ -1817,7 +1817,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
-    "rating": 144.38809210078065
+    "rating": 144.38807852770205
   },
   {
     "NAF Nr": "27478",
@@ -1830,7 +1830,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 11,
     "winRatio": 40.91,
-    "rating": 142.6713606163235
+    "rating": 142.67142943885275
   },
   {
     "NAF Nr": "7691",
@@ -1843,7 +1843,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 62.5,
-    "rating": 156.4741757526353
+    "rating": 156.4738810679901
   },
   {
     "NAF Nr": "31448",
@@ -1869,7 +1869,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
-    "rating": 147.1754723814708
+    "rating": 147.17541674657605
   },
   {
     "NAF Nr": "25564",
@@ -1882,7 +1882,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 15,
     "winRatio": 56.67,
-    "rating": 162.4676767914781
+    "rating": 162.47603954937597
   },
   {
     "NAF Nr": "27475",
@@ -1895,7 +1895,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 62.5,
-    "rating": 162.40358955017496
+    "rating": 162.40338361601363
   },
   {
     "NAF Nr": "22993",
@@ -1908,7 +1908,7 @@ const statsYear2025 = [
     "gamesLost": 10,
     "gamesTotal": 24,
     "winRatio": 43.75,
-    "rating": 138.994036301394
+    "rating": 138.99257781957863
   },
   {
     "NAF Nr": "23165",
@@ -1921,7 +1921,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 136.4200930849413
+    "rating": 136.41411299777417
   },
   {
     "NAF Nr": "40953",
@@ -1934,7 +1934,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 140.6192146277074
+    "rating": 140.61921462720966
   },
   {
     "NAF Nr": "28699",
@@ -1947,7 +1947,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 20,
     "winRatio": 60,
-    "rating": 162.21456271390736
+    "rating": 162.21908033776657
   },
   {
     "NAF Nr": "39207",
@@ -1960,7 +1960,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 143.08346036140685
+    "rating": 143.08282452432846
   },
   {
     "NAF Nr": "13513",
@@ -1973,7 +1973,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 75,
-    "rating": 168.10747751210044
+    "rating": 168.1071468195971
   },
   {
     "NAF Nr": "34913",
@@ -1986,7 +1986,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 145.55731739422532
+    "rating": 145.55729028644856
   },
   {
     "NAF Nr": "2925",
@@ -1999,7 +1999,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 10,
     "winRatio": 55,
-    "rating": 154.66782253827475
+    "rating": 154.66681992345474
   },
   {
     "NAF Nr": "30488",
@@ -2012,7 +2012,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
-    "rating": 148.77221567429868
+    "rating": 148.77015569672318
   },
   {
     "NAF Nr": "37851",
@@ -2051,7 +2051,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 14,
     "winRatio": 57.14,
-    "rating": 159.01403008536016
+    "rating": 159.01339611296223
   },
   {
     "NAF Nr": "31711",
@@ -2064,7 +2064,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 142.451738054521
+    "rating": 142.45131645502633
   },
   {
     "NAF Nr": "41609",
@@ -2077,7 +2077,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 144.57787882414766
+    "rating": 144.61487548012454
   },
   {
     "NAF Nr": "30519",
@@ -2090,7 +2090,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 58.33,
-    "rating": 163.67333285563953
+    "rating": 163.67488761344217
   },
   {
     "NAF Nr": "34073",
@@ -2103,7 +2103,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 66.67,
-    "rating": 156.5799402991003
+    "rating": 156.61480340765505
   },
   {
     "NAF Nr": "31337",
@@ -2116,7 +2116,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 58.33,
-    "rating": 154.3123154424215
+    "rating": 154.31272570006553
   },
   {
     "NAF Nr": "24528",
@@ -2129,7 +2129,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 11,
     "winRatio": 36.36,
-    "rating": 141.70301114594278
+    "rating": 141.69756803550936
   },
   {
     "NAF Nr": "37725",
@@ -2142,7 +2142,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 148.48428598991933
+    "rating": 148.4747790175624
   },
   {
     "NAF Nr": "37977",
@@ -2155,7 +2155,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 22,
     "winRatio": 54.55,
-    "rating": 157.81782238222567
+    "rating": 157.81574091904685
   },
   {
     "NAF Nr": "34658",
@@ -2168,7 +2168,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 16,
     "winRatio": 50,
-    "rating": 144.13804911025375
+    "rating": 145.96576360921492
   },
   {
     "NAF Nr": "36364",
@@ -2194,7 +2194,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 143.9315795022894
+    "rating": 143.93192829069005
   },
   {
     "NAF Nr": "34609",
@@ -2220,7 +2220,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 145.75592552071177
+    "rating": 145.7559193424166
   },
   {
     "NAF Nr": "29174",
@@ -2229,11 +2229,11 @@ const statsYear2025 = [
     "Country": "Spain",
     "tournaments": 2,
     "gamesWon": 0,
-    "gamesDraw": 1,
+    "gamesDraw": 2,
     "gamesLost": 3,
-    "gamesTotal": 4,
-    "winRatio": 12.5,
-    "rating": 140.91026198653313
+    "gamesTotal": 5,
+    "winRatio": 20,
+    "rating": 141.08055317635979
   },
   {
     "NAF Nr": "20865",
@@ -2246,7 +2246,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 20,
     "winRatio": 75,
-    "rating": 198.30962729750595
+    "rating": 198.3094239380471
   },
   {
     "NAF Nr": "38248",
@@ -2259,7 +2259,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 147.22585499484197
+    "rating": 147.22530647242473
   },
   {
     "NAF Nr": "37979",
@@ -2285,7 +2285,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 12,
     "winRatio": 41.67,
-    "rating": 146.03826577938267
+    "rating": 146.01090377995797
   },
   {
     "NAF Nr": "20654",
@@ -2298,7 +2298,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 10,
     "winRatio": 45,
-    "rating": 146.8047687093803
+    "rating": 146.8047320968054
   },
   {
     "NAF Nr": "40061",
@@ -2311,7 +2311,7 @@ const statsYear2025 = [
     "gamesLost": 11,
     "gamesTotal": 16,
     "winRatio": 21.88,
-    "rating": 105.66557359692969
+    "rating": 105.64933221659115
   },
   {
     "NAF Nr": "31794",
@@ -2337,7 +2337,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 16,
     "winRatio": 34.38,
-    "rating": 131.22173096756526
+    "rating": 131.22080970267257
   },
   {
     "NAF Nr": "34455",
@@ -2350,7 +2350,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 10,
     "winRatio": 65,
-    "rating": 164.02921768168443
+    "rating": 164.02918489470682
   },
   {
     "NAF Nr": "31011",
@@ -2363,7 +2363,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 143.6791100843282
+    "rating": 143.67858442808537
   },
   {
     "NAF Nr": "10506",
@@ -2376,7 +2376,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 146.9340441123299
+    "rating": 146.91682015636775
   },
   {
     "NAF Nr": "15606",
@@ -2389,7 +2389,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
-    "rating": 146.85925885980242
+    "rating": 146.8596554448672
   },
   {
     "NAF Nr": "36053",
@@ -2402,7 +2402,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 10,
     "winRatio": 10,
-    "rating": 109.43350596304442
+    "rating": 109.43360146978253
   },
   {
     "NAF Nr": "35675",
@@ -2415,7 +2415,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 20,
     "winRatio": 55,
-    "rating": 159.44810009931834
+    "rating": 159.44242753955797
   },
   {
     "NAF Nr": "11793",
@@ -2428,7 +2428,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 33,
     "winRatio": 72.73,
-    "rating": 203.23826066727406
+    "rating": 203.2302321871979
   },
   {
     "NAF Nr": "35619",
@@ -2441,7 +2441,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 28,
     "winRatio": 55.36,
-    "rating": 160.2117313513138
+    "rating": 160.23749517640601
   },
   {
     "NAF Nr": "25855",
@@ -2454,7 +2454,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
-    "rating": 131.59535233545577
+    "rating": 131.60443998933383
   },
   {
     "NAF Nr": "37998",
@@ -2467,7 +2467,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 137.29367807764797
+    "rating": 137.29342810199046
   },
   {
     "NAF Nr": "31339",
@@ -2480,7 +2480,7 @@ const statsYear2025 = [
     "gamesLost": 12,
     "gamesTotal": 34,
     "winRatio": 54.41,
-    "rating": 154.9218586854192
+    "rating": 154.9245928671712
   },
   {
     "NAF Nr": "34474",
@@ -2493,7 +2493,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 143.5961748801355
+    "rating": 143.59239199968158
   },
   {
     "NAF Nr": "38430",
@@ -2506,7 +2506,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 54.17,
-    "rating": 153.55015069032393
+    "rating": 153.54790206202236
   },
   {
     "NAF Nr": "31712",
@@ -2519,7 +2519,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
-    "rating": 131.0091610637495
+    "rating": 131.00903050908119
   },
   {
     "NAF Nr": "18351",
@@ -2532,7 +2532,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 87.5,
-    "rating": 164.94704190989262
+    "rating": 164.94703230644296
   },
   {
     "NAF Nr": "38973",
@@ -2545,7 +2545,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 155.84057182084086
+    "rating": 155.84112743524517
   },
   {
     "NAF Nr": "35904",
@@ -2558,7 +2558,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 18,
     "winRatio": 72.22,
-    "rating": 171.53353128442285
+    "rating": 172.08913149211978
   },
   {
     "NAF Nr": "24458",
@@ -2571,7 +2571,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 144.90220593866093
+    "rating": 144.90213203269568
   },
   {
     "NAF Nr": "24733",
@@ -2584,7 +2584,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 58.33,
-    "rating": 156.287361197979
+    "rating": 156.28762422723923
   },
   {
     "NAF Nr": "2949",
@@ -2597,7 +2597,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 33.33,
-    "rating": 137.18942512250408
+    "rating": 137.18874122805664
   },
   {
     "NAF Nr": "22632",
@@ -2610,7 +2610,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 50,
-    "rating": 149.39908096371454
+    "rating": 149.39941211259872
   },
   {
     "NAF Nr": "30593",
@@ -2636,7 +2636,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 68.75,
-    "rating": 166.50003566723336
+    "rating": 166.49997645249823
   },
   {
     "NAF Nr": "27442",
@@ -2649,7 +2649,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 150.8888201364853
+    "rating": 150.88881048994728
   },
   {
     "NAF Nr": "6376",
@@ -2662,7 +2662,7 @@ const statsYear2025 = [
     "gamesLost": 16,
     "gamesTotal": 53,
     "winRatio": 58.49,
-    "rating": 188.38335657252273
+    "rating": 189.10153087162826
   },
   {
     "NAF Nr": "31506",
@@ -2675,7 +2675,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 70.83,
-    "rating": 177.6252462365975
+    "rating": 177.6238264175893
   },
   {
     "NAF Nr": "17308",
@@ -2688,7 +2688,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 9,
     "winRatio": 50,
-    "rating": 154.25677912136518
+    "rating": 154.2570865083385
   },
   {
     "NAF Nr": "40508",
@@ -2701,7 +2701,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
-    "rating": 143.83819020878408
+    "rating": 143.83814958939155
   },
   {
     "NAF Nr": "21327",
@@ -2727,12 +2727,12 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 9,
     "winRatio": 50,
-    "rating": 153.76266392000974
+    "rating": 153.7633375549294
   },
   {
-    "NAF Nr": "9171",
+    "NAF Nr": "8191",
     "NAF Name": "Erparpa",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 3,
@@ -2740,7 +2740,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 87.5,
-    "rating": 167.99779471832096
+    "rating": 167.99774537881297
   },
   {
     "NAF Nr": "15302",
@@ -2753,7 +2753,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 26,
     "winRatio": 61.54,
-    "rating": 162.38870940675662
+    "rating": 162.44312942875342
   },
   {
     "NAF Nr": "25284",
@@ -2766,7 +2766,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 16,
     "winRatio": 53.13,
-    "rating": 152.82282789804032
+    "rating": 152.81805390116642
   },
   {
     "NAF Nr": "38851",
@@ -2779,7 +2779,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 43.75,
-    "rating": 142.82404273017534
+    "rating": 142.82371854806246
   },
   {
     "NAF Nr": "31296",
@@ -2792,7 +2792,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 50,
-    "rating": 148.2488572026243
+    "rating": 148.24877813367684
   },
   {
     "NAF Nr": "26834",
@@ -2818,7 +2818,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 58.33,
-    "rating": 159.78836132787094
+    "rating": 159.78807655979833
   },
   {
     "NAF Nr": "24370",
@@ -2844,7 +2844,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 75,
-    "rating": 169.01261235788644
+    "rating": 169.01247398620202
   },
   {
     "NAF Nr": "30804",
@@ -2857,7 +2857,7 @@ const statsYear2025 = [
     "gamesLost": 14,
     "gamesTotal": 33,
     "winRatio": 45.45,
-    "rating": 135.19777303226357
+    "rating": 135.20711566005863
   },
   {
     "NAF Nr": "37586",
@@ -2870,7 +2870,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 50,
-    "rating": 151.50786872039754
+    "rating": 151.50713926442472
   },
   {
     "NAF Nr": "39429",
@@ -2883,7 +2883,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 154.81383691019894
+    "rating": 154.8138203036672
   },
   {
     "NAF Nr": "34288",
@@ -2896,7 +2896,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 148.20983270432092
+    "rating": 148.20923351763435
   },
   {
     "NAF Nr": "34583",
@@ -2909,7 +2909,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 149.9827328836207
+    "rating": 149.98272511992087
   },
   {
     "NAF Nr": "33124",
@@ -2922,7 +2922,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 16,
     "winRatio": 62.5,
-    "rating": 167.5747222907869
+    "rating": 167.57432154801685
   },
   {
     "NAF Nr": "39204",
@@ -2935,7 +2935,7 @@ const statsYear2025 = [
     "gamesLost": 12,
     "gamesTotal": 24,
     "winRatio": 35.42,
-    "rating": 125.66685461963161
+    "rating": 125.6659768343302
   },
   {
     "NAF Nr": "29700",
@@ -2948,7 +2948,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
-    "rating": 155.5597088052792
+    "rating": 155.5593831835091
   },
   {
     "NAF Nr": "19109",
@@ -2961,7 +2961,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 138.19973256576034
+    "rating": 138.18264640079693
   },
   {
     "NAF Nr": "40293",
@@ -2974,7 +2974,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 8,
     "winRatio": 31.25,
-    "rating": 132.26222605581705
+    "rating": 132.2622252551314
   },
   {
     "NAF Nr": "35252",
@@ -2987,7 +2987,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 66.67,
-    "rating": 154.1604396093667
+    "rating": 154.16043743347632
   },
   {
     "NAF Nr": "21766",
@@ -3013,7 +3013,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 75,
-    "rating": 159.9093992638073
+    "rating": 159.90926521768077
   },
   {
     "NAF Nr": "26853",
@@ -3026,7 +3026,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 17,
     "winRatio": 50,
-    "rating": 149.80116286843628
+    "rating": 149.63485101592082
   },
   {
     "NAF Nr": "30425",
@@ -3039,7 +3039,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 20,
     "winRatio": 70,
-    "rating": 175.79333486069345
+    "rating": 175.7884549166677
   },
   {
     "NAF Nr": "31364",
@@ -3065,7 +3065,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 20,
     "winRatio": 42.5,
-    "rating": 142.11285441894475
+    "rating": 142.1104703006278
   },
   {
     "NAF Nr": "4818",
@@ -3078,7 +3078,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 36,
     "winRatio": 79.17,
-    "rating": 210.53223762306575
+    "rating": 210.57091044616308
   },
   {
     "NAF Nr": "39326",
@@ -3091,7 +3091,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 37.5,
-    "rating": 138.4349162618249
+    "rating": 138.434673218374
   },
   {
     "NAF Nr": "30625",
@@ -3104,7 +3104,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 150.00123571393485
+    "rating": 150.0012357006067
   },
   {
     "NAF Nr": "37464",
@@ -3117,7 +3117,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
-    "rating": 148.02592147155556
+    "rating": 148.0541126564957
   },
   {
     "NAF Nr": "37199",
@@ -3130,7 +3130,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 18,
     "winRatio": 63.89,
-    "rating": 175.29702602103805
+    "rating": 175.29772734192096
   },
   {
     "NAF Nr": "13500",
@@ -3143,7 +3143,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 152.02961450474487
+    "rating": 152.02955733220608
   },
   {
     "NAF Nr": "31026",
@@ -3156,7 +3156,7 @@ const statsYear2025 = [
     "gamesLost": 11,
     "gamesTotal": 24,
     "winRatio": 37.5,
-    "rating": 128.49784334894733
+    "rating": 130.05522264386204
   },
   {
     "NAF Nr": "17074",
@@ -3169,7 +3169,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
-    "rating": 132.7407391101501
+    "rating": 132.7398202266062
   },
   {
     "NAF Nr": "27154",
@@ -3182,7 +3182,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 14,
     "winRatio": 39.29,
-    "rating": 133.8702200689033
+    "rating": 133.86950072786726
   },
   {
     "NAF Nr": "18610",
@@ -3195,7 +3195,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 14,
     "winRatio": 60.71,
-    "rating": 166.77650654938301
+    "rating": 166.7743841564449
   },
   {
     "NAF Nr": "17266",
@@ -3208,7 +3208,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 157.60276197902172
+    "rating": 157.60328384442312
   },
   {
     "NAF Nr": "36413",
@@ -3234,7 +3234,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 25,
-    "rating": 132.91612774827803
+    "rating": 132.93979742195967
   },
   {
     "NAF Nr": "65",
@@ -3260,7 +3260,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 45,
-    "rating": 149.21675129071116
+    "rating": 149.21669147786636
   },
   {
     "NAF Nr": "33152",
@@ -3273,7 +3273,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 35,
-    "rating": 133.56342314465417
+    "rating": 133.56314073983157
   },
   {
     "NAF Nr": "16833",
@@ -3312,7 +3312,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 19,
     "winRatio": 71.05,
-    "rating": 186.78076783016766
+    "rating": 186.7742485513793
   },
   {
     "NAF Nr": "37517",
@@ -3325,7 +3325,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 9,
     "winRatio": 16.67,
-    "rating": 126.22708921948922
+    "rating": 126.25520383141871
   },
   {
     "NAF Nr": "26770",
@@ -3338,7 +3338,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 56.25,
-    "rating": 158.13102501811363
+    "rating": 158.13079383786393
   },
   {
     "NAF Nr": "30439",
@@ -3351,7 +3351,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 16,
     "winRatio": 78.13,
-    "rating": 188.74881130665423
+    "rating": 188.75213175787707
   },
   {
     "NAF Nr": "40485",
@@ -3364,7 +3364,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 4,
     "winRatio": 0,
-    "rating": 126.72406885167281
+    "rating": 126.72333390143385
   },
   {
     "NAF Nr": "34379",
@@ -3390,7 +3390,7 @@ const statsYear2025 = [
     "gamesLost": 15,
     "gamesTotal": 34,
     "winRatio": 44.12,
-    "rating": 138.3872194942095
+    "rating": 138.41845518416554
   },
   {
     "NAF Nr": "33098",
@@ -3416,7 +3416,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
-    "rating": 131.69068754941586
+    "rating": 131.66910468448907
   },
   {
     "NAF Nr": "24770",
@@ -3429,7 +3429,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 75,
-    "rating": 162.48853120415052
+    "rating": 162.4881303342726
   },
   {
     "NAF Nr": "36402",
@@ -3442,7 +3442,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 12,
     "winRatio": 37.5,
-    "rating": 133.62918156757192
+    "rating": 133.62866054280062
   },
   {
     "NAF Nr": "25157",
@@ -3455,7 +3455,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
-    "rating": 150.08324335871725
+    "rating": 150.14916606747911
   },
   {
     "NAF Nr": "5594",
@@ -3468,7 +3468,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
-    "rating": 151.04235265433738
+    "rating": 151.0423307649125
   },
   {
     "NAF Nr": "27840",
@@ -3481,7 +3481,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 87.5,
-    "rating": 169.40843370103278
+    "rating": 169.40795192724167
   },
   {
     "NAF Nr": "25232",
@@ -3494,7 +3494,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 100,
-    "rating": 175.06846334127695
+    "rating": 175.08685514101677
   },
   {
     "NAF Nr": "39771",
@@ -3507,7 +3507,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 146.39027736949382
+    "rating": 146.39032995457077
   },
   {
     "NAF Nr": "24802",
@@ -3520,7 +3520,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 7,
     "winRatio": 64.29,
-    "rating": 157.5334870350822
+    "rating": 157.53225782517083
   },
   {
     "NAF Nr": "40009",
@@ -3546,7 +3546,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 7,
     "winRatio": 7.14,
-    "rating": 115.7798258885255
+    "rating": 115.77922683071489
   },
   {
     "NAF Nr": "33894",
@@ -3559,7 +3559,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 16,
     "winRatio": 59.38,
-    "rating": 158.43170933293166
+    "rating": 158.43264842852804
   },
   {
     "NAF Nr": "7630",
@@ -3585,7 +3585,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 139.1753449729437
+    "rating": 139.17531762525925
   },
   {
     "NAF Nr": "10236",
@@ -3598,7 +3598,7 @@ const statsYear2025 = [
     "gamesLost": 11,
     "gamesTotal": 31,
     "winRatio": 51.61,
-    "rating": 165.51872900470408
+    "rating": 165.51923029782395
   },
   {
     "NAF Nr": "34554",
@@ -3611,7 +3611,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 14,
     "winRatio": 60.71,
-    "rating": 165.0047599792161
+    "rating": 165.0037841655755
   },
   {
     "NAF Nr": "20932",
@@ -3624,7 +3624,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 16,
     "winRatio": 53.13,
-    "rating": 156.0704390004406
+    "rating": 156.0703039584586
   },
   {
     "NAF Nr": "25294",
@@ -3637,7 +3637,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
-    "rating": 165.46405496980307
+    "rating": 165.4643032699955
   },
   {
     "NAF Nr": "8001",
@@ -3650,7 +3650,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 18,
     "winRatio": 50,
-    "rating": 153.5654092645783
+    "rating": 153.61590672052537
   },
   {
     "NAF Nr": "40410",
@@ -3663,7 +3663,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 135.67266177929943
+    "rating": 135.67188515754276
   },
   {
     "NAF Nr": "24018",
@@ -3676,7 +3676,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 16.67,
-    "rating": 136.91463544758827
+    "rating": 136.90995894347427
   },
   {
     "NAF Nr": "26512",
@@ -3689,7 +3689,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 50,
-    "rating": 151.85743156724433
+    "rating": 151.91039708031707
   },
   {
     "NAF Nr": "37043",
@@ -3702,7 +3702,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 12,
     "winRatio": 25,
-    "rating": 120.8550390982339
+    "rating": 120.85372692684771
   },
   {
     "NAF Nr": "24529",
@@ -3715,7 +3715,7 @@ const statsYear2025 = [
     "gamesLost": 10,
     "gamesTotal": 32,
     "winRatio": 59.38,
-    "rating": 172.0895418587758
+    "rating": 172.09067898465824
   },
   {
     "NAF Nr": "23113",
@@ -3728,7 +3728,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 12,
     "winRatio": 33.33,
-    "rating": 126.7367905802651
+    "rating": 126.73451264291104
   },
   {
     "NAF Nr": "23299",
@@ -3741,7 +3741,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 22,
     "winRatio": 65.91,
-    "rating": 177.05019972865415
+    "rating": 177.04945402839365
   },
   {
     "NAF Nr": "34380",
@@ -3754,7 +3754,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 12,
     "winRatio": 29.17,
-    "rating": 132.0833010419784
+    "rating": 132.08328402949965
   },
   {
     "NAF Nr": "25665",
@@ -3767,7 +3767,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 30,
     "winRatio": 63.33,
-    "rating": 190.80946189483595
+    "rating": 190.80776132102025
   },
   {
     "NAF Nr": "21191",
@@ -3780,7 +3780,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 16,
     "winRatio": 65.63,
-    "rating": 166.3996431765382
+    "rating": 166.3993841027498
   },
   {
     "NAF Nr": "20005",
@@ -3806,7 +3806,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 18,
     "winRatio": 66.67,
-    "rating": 176.6724558738849
+    "rating": 176.80195597412114
   },
   {
     "NAF Nr": "40408",
@@ -3819,7 +3819,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 25,
-    "rating": 133.69639369081182
+    "rating": 133.6962749548596
   },
   {
     "NAF Nr": "40824",
@@ -3832,7 +3832,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 134.48783056941159
+    "rating": 134.4868876503069
   },
   {
     "NAF Nr": "8117",
@@ -3845,7 +3845,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 87.5,
-    "rating": 164.1039530088778
+    "rating": 164.103952650258
   },
   {
     "NAF Nr": "30909",
@@ -3858,7 +3858,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 33.33,
-    "rating": 141.85268641300277
+    "rating": 141.85253620112573
   },
   {
     "NAF Nr": "17235",
@@ -3871,7 +3871,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 154.5267616389352
+    "rating": 154.52546669795464
   },
   {
     "NAF Nr": "20930",
@@ -3884,7 +3884,7 @@ const statsYear2025 = [
     "gamesLost": 10,
     "gamesTotal": 29,
     "winRatio": 55.17,
-    "rating": 164.81868120947064
+    "rating": 164.8269906320513
   },
   {
     "NAF Nr": "32888",
@@ -3897,7 +3897,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 50,
-    "rating": 149.28946888232633
+    "rating": 149.28949122186629
   },
   {
     "NAF Nr": "15912",
@@ -3910,7 +3910,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 58.33,
-    "rating": 155.33135064740785
+    "rating": 155.33135555685817
   },
   {
     "NAF Nr": "26310",
@@ -3923,7 +3923,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 25,
-    "rating": 127.87587855968131
+    "rating": 127.84873139412942
   },
   {
     "NAF Nr": "29036",
@@ -3949,7 +3949,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 20,
     "winRatio": 45,
-    "rating": 141.91435318175513
+    "rating": 141.91433421777842
   },
   {
     "NAF Nr": "10500",
@@ -3962,7 +3962,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 33.33,
-    "rating": 139.41387446208506
+    "rating": 139.41494694992812
   },
   {
     "NAF Nr": "18914",
@@ -3975,7 +3975,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 50,
-    "rating": 150.68483357206856
+    "rating": 150.68444777149668
   },
   {
     "NAF Nr": "20669",
@@ -3988,7 +3988,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 56.25,
-    "rating": 155.61593158877722
+    "rating": 155.61587862802014
   },
   {
     "NAF Nr": "15283",
@@ -4001,7 +4001,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 144.8713758307483
+    "rating": 144.87135727857543
   },
   {
     "NAF Nr": "37023",
@@ -4014,7 +4014,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 144.4047603835682
+    "rating": 144.40372585519322
   },
   {
     "NAF Nr": "21435",
@@ -4027,7 +4027,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 150.00040126488688
+    "rating": 150.00040113266402
   },
   {
     "NAF Nr": "29195",
@@ -4040,7 +4040,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 16.67,
-    "rating": 128.79718263988934
+    "rating": 128.79675417714338
   },
   {
     "NAF Nr": "33369",
@@ -4079,7 +4079,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 38,
     "winRatio": 69.74,
-    "rating": 200.87106762978
+    "rating": 200.86958348496026
   },
   {
     "NAF Nr": "8196",
@@ -4092,7 +4092,7 @@ const statsYear2025 = [
     "gamesLost": 11,
     "gamesTotal": 28,
     "winRatio": 48.21,
-    "rating": 153.55294285178613
+    "rating": 153.57642340856933
   },
   {
     "NAF Nr": "18066",
@@ -4105,7 +4105,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
-    "rating": 162.68377448384044
+    "rating": 162.68374933244516
   },
   {
     "NAF Nr": "30231",
@@ -4118,7 +4118,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
-    "rating": 159.72731770656995
+    "rating": 159.7272381398676
   },
   {
     "NAF Nr": "32063",
@@ -4131,7 +4131,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
-    "rating": 149.48261260707176
+    "rating": 149.4812703522193
   },
   {
     "NAF Nr": "39209",
@@ -4144,7 +4144,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 150.45854628331128
+    "rating": 150.4585449878316
   },
   {
     "NAF Nr": "21280",
@@ -4157,7 +4157,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 16,
     "winRatio": 62.5,
-    "rating": 172.60155926080623
+    "rating": 172.6015306474843
   },
   {
     "NAF Nr": "33840",
@@ -4170,7 +4170,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 16,
     "winRatio": 56.25,
-    "rating": 159.84623704622658
+    "rating": 159.84572284827883
   },
   {
     "NAF Nr": "24880",
@@ -4183,7 +4183,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 10,
     "winRatio": 25,
-    "rating": 124.88810011306512
+    "rating": 124.88229481666565
   },
   {
     "NAF Nr": "13826",
@@ -4196,7 +4196,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 12,
     "winRatio": 29.17,
-    "rating": 125.5078796315162
+    "rating": 125.50742324333119
   },
   {
     "NAF Nr": "16103",
@@ -4222,7 +4222,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 39,
     "winRatio": 82.05,
-    "rating": 227.14450720554848
+    "rating": 227.17014212857066
   },
   {
     "NAF Nr": "17038",
@@ -4235,7 +4235,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 37,
     "winRatio": 64.86,
-    "rating": 184.8909881398495
+    "rating": 184.89096971629962
   },
   {
     "NAF Nr": "40719",
@@ -4245,10 +4245,10 @@ const statsYear2025 = [
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
-    "gamesLost": 0,
-    "gamesTotal": 1,
-    "winRatio": 50,
-    "rating": 150
+    "gamesLost": 1,
+    "gamesTotal": 2,
+    "winRatio": 25,
+    "rating": 147.59655653403414
   },
   {
     "NAF Nr": "36630",
@@ -4261,7 +4261,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 9,
     "winRatio": 22.22,
-    "rating": 129.62954720621232
+    "rating": 129.62919699804635
   },
   {
     "NAF Nr": "34406",
@@ -4274,7 +4274,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 21,
     "winRatio": 61.9,
-    "rating": 168.90986090843512
+    "rating": 168.8972404595093
   },
   {
     "NAF Nr": "36656",
@@ -4287,7 +4287,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 10,
     "winRatio": 20,
-    "rating": 120.84920913422977
+    "rating": 120.8485960755041
   },
   {
     "NAF Nr": "38336",
@@ -4300,7 +4300,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 16,
     "winRatio": 46.88,
-    "rating": 140.4913794889715
+    "rating": 140.4761986559089
   },
   {
     "NAF Nr": "26295",
@@ -4313,7 +4313,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 20,
     "winRatio": 60,
-    "rating": 158.52331580763303
+    "rating": 158.52812383537588
   },
   {
     "NAF Nr": "37945",
@@ -4339,7 +4339,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 145.26880677129915
+    "rating": 145.26880299043094
   },
   {
     "NAF Nr": "25934",
@@ -4352,7 +4352,7 @@ const statsYear2025 = [
     "gamesLost": 14,
     "gamesTotal": 42,
     "winRatio": 52.38,
-    "rating": 146.27264905936755
+    "rating": 146.9961874379377
   },
   {
     "NAF Nr": "22364",
@@ -4365,7 +4365,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 22,
     "winRatio": 75,
-    "rating": 191.42279568960936
+    "rating": 191.42159010939062
   },
   {
     "NAF Nr": "40017",
@@ -4378,7 +4378,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
-    "rating": 158.74300062141066
+    "rating": 158.7425619462486
   },
   {
     "NAF Nr": "37672",
@@ -4391,7 +4391,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
-    "rating": 137.921225999458
+    "rating": 137.9213750987721
   },
   {
     "NAF Nr": "39361",
@@ -4404,7 +4404,7 @@ const statsYear2025 = [
     "gamesLost": 12,
     "gamesTotal": 16,
     "winRatio": 21.88,
-    "rating": 116.98031685153965
+    "rating": 116.97923978378822
   },
   {
     "NAF Nr": "25285",
@@ -4430,7 +4430,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 50,
-    "rating": 150.47299400154827
+    "rating": 150.47295625649167
   },
   {
     "NAF Nr": "7690",
@@ -4443,7 +4443,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 58.33,
-    "rating": 161.23911164673532
+    "rating": 161.23907867832116
   },
   {
     "NAF Nr": "13480",
@@ -4456,7 +4456,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 155.45245550980414
+    "rating": 155.45243312414584
   },
   {
     "NAF Nr": "30090",
@@ -4469,7 +4469,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
-    "rating": 159.5203179646838
+    "rating": 159.51594906788773
   },
   {
     "NAF Nr": "40882",
@@ -4482,7 +4482,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 43.75,
-    "rating": 144.02147029537903
+    "rating": 144.02112716094373
   },
   {
     "NAF Nr": "11784",
@@ -4495,7 +4495,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 150.35996196888755
+    "rating": 150.35990263679116
   },
   {
     "NAF Nr": "39626",
@@ -4508,7 +4508,7 @@ const statsYear2025 = [
     "gamesLost": 16,
     "gamesTotal": 32,
     "winRatio": 40.63,
-    "rating": 120.30039345725203
+    "rating": 120.29963453310744
   },
   {
     "NAF Nr": "27067",
@@ -4521,7 +4521,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 55,
-    "rating": 154.1145163753153
+    "rating": 154.11450528322635
   },
   {
     "NAF Nr": "17063",
@@ -4534,7 +4534,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 29,
     "winRatio": 67.24,
-    "rating": 190.99479512057835
+    "rating": 190.9952911755817
   },
   {
     "NAF Nr": "19045",
@@ -4547,7 +4547,7 @@ const statsYear2025 = [
     "gamesLost": 12,
     "gamesTotal": 26,
     "winRatio": 38.46,
-    "rating": 133.00680727154628
+    "rating": 133.04343988827273
   },
   {
     "NAF Nr": "30060",
@@ -4560,7 +4560,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 11,
     "winRatio": 40.91,
-    "rating": 136.18994163564105
+    "rating": 136.18771715607076
   },
   {
     "NAF Nr": "0000000",
@@ -4573,7 +4573,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 140.132217952574
+    "rating": 140.13221793931191
   },
   {
     "NAF Nr": "29398",
@@ -4586,7 +4586,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 45.83,
-    "rating": 149.9259358501854
+    "rating": 149.92567512487597
   },
   {
     "NAF Nr": "40780",
@@ -4599,7 +4599,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 43.75,
-    "rating": 148.64206919520143
+    "rating": 148.641660867397
   },
   {
     "NAF Nr": "26831",
@@ -4625,7 +4625,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 148.15505651198305
+    "rating": 148.1522378462998
   },
   {
     "NAF Nr": "37659",
@@ -4638,7 +4638,7 @@ const statsYear2025 = [
     "gamesLost": 10,
     "gamesTotal": 20,
     "winRatio": 37.5,
-    "rating": 126.15298579461091
+    "rating": 126.18614088028748
   },
   {
     "NAF Nr": "20361",
@@ -4651,7 +4651,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 155.70417545033806
+    "rating": 155.7041711036462
   },
   {
     "NAF Nr": "27557",
@@ -4664,7 +4664,7 @@ const statsYear2025 = [
     "gamesLost": 10,
     "gamesTotal": 24,
     "winRatio": 52.08,
-    "rating": 149.65746000013283
+    "rating": 149.6474834630568
   },
   {
     "NAF Nr": "21187",
@@ -4690,7 +4690,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 37.5,
-    "rating": 141.5931565336598
+    "rating": 141.57926700121797
   },
   {
     "NAF Nr": "35235",
@@ -4703,7 +4703,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 8,
     "winRatio": 25,
-    "rating": 128.1259653867563
+    "rating": 128.1253864563176
   },
   {
     "NAF Nr": "33122",
@@ -4729,7 +4729,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
-    "rating": 149.47770881694865
+    "rating": 149.47701005593734
   },
   {
     "NAF Nr": "34071",
@@ -4742,7 +4742,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 144.06663192841194
+    "rating": 144.06618805907706
   },
   {
     "NAF Nr": "22482",
@@ -4755,7 +4755,7 @@ const statsYear2025 = [
     "gamesLost": 16,
     "gamesTotal": 41,
     "winRatio": 48.78,
-    "rating": 148.07794775246026
+    "rating": 148.09600267247947
   },
   {
     "NAF Nr": "20025",
@@ -4768,7 +4768,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 149.386566427186
+    "rating": 149.38650007360584
   },
   {
     "NAF Nr": "24224",
@@ -4781,7 +4781,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 50,
-    "rating": 148.2996726956338
+    "rating": 148.29942849556423
   },
   {
     "NAF Nr": "22222",
@@ -4794,7 +4794,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 75,
-    "rating": 171.99965711221884
+    "rating": 172.00033091474964
   },
   {
     "NAF Nr": "29165",
@@ -4807,7 +4807,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
-    "rating": 157.7695976921282
+    "rating": 157.76949178466273
   },
   {
     "NAF Nr": "8834",
@@ -4820,7 +4820,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 147.42201745942
+    "rating": 147.42194219194585
   },
   {
     "NAF Nr": "38735",
@@ -4833,7 +4833,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 138.39813205599177
+    "rating": 138.39000445324638
   },
   {
     "NAF Nr": "31938",
@@ -4846,7 +4846,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 137.64123342247788
+    "rating": 137.64015892130396
   },
   {
     "NAF Nr": "37944",
@@ -4859,7 +4859,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 144.46482791628327
+    "rating": 144.46320221714186
   },
   {
     "NAF Nr": "7710",
@@ -4872,7 +4872,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 19,
     "winRatio": 63.16,
-    "rating": 175.144022838291
+    "rating": 175.1441227738061
   },
   {
     "NAF Nr": "31261",
@@ -4898,7 +4898,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
-    "rating": 134.23325966038158
+    "rating": 134.23325695094618
   },
   {
     "NAF Nr": "40468",
@@ -4911,7 +4911,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 20,
     "winRatio": 45,
-    "rating": 144.95587386533836
+    "rating": 144.95696450486918
   },
   {
     "NAF Nr": "32416",
@@ -4924,7 +4924,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 138.21155677234776
+    "rating": 138.21149388653362
   },
   {
     "NAF Nr": "33892",
@@ -4937,7 +4937,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 11,
     "winRatio": 45.45,
-    "rating": 144.14851607138974
+    "rating": 144.12410479022557
   },
   {
     "NAF Nr": "13825",
@@ -4950,7 +4950,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 146.18521242103142
+    "rating": 146.18429784438757
   },
   {
     "NAF Nr": "31365",
@@ -4963,7 +4963,7 @@ const statsYear2025 = [
     "gamesLost": 14,
     "gamesTotal": 22,
     "winRatio": 27.27,
-    "rating": 112.96328107095374
+    "rating": 112.96316818255694
   },
   {
     "NAF Nr": "7656",
@@ -4976,7 +4976,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 58.33,
-    "rating": 155.16399374475753
+    "rating": 155.16326160819844
   },
   {
     "NAF Nr": "36849",
@@ -4989,7 +4989,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 58.33,
-    "rating": 163.9631593772226
+    "rating": 163.96237390654414
   },
   {
     "NAF Nr": "36848",
@@ -5002,7 +5002,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
-    "rating": 131.09606918259522
+    "rating": 131.09207548537893
   },
   {
     "NAF Nr": "28864",
@@ -5015,7 +5015,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 143.06538956232686
+    "rating": 143.06493001504518
   },
   {
     "NAF Nr": "41631",
@@ -5028,7 +5028,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 149.67714624078084
+    "rating": 149.72305999881456
   },
   {
     "NAF Nr": "5778",
@@ -5041,7 +5041,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
-    "rating": 162.34650820388885
+    "rating": 162.34649818195578
   },
   {
     "NAF Nr": "21123",
@@ -5054,7 +5054,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 16,
     "winRatio": 43.75,
-    "rating": 148.61915336545064
+    "rating": 148.61875928572564
   },
   {
     "NAF Nr": "39579",
@@ -5067,7 +5067,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 8,
     "winRatio": 6.25,
-    "rating": 112.12401242528082
+    "rating": 112.12410426013167
   },
   {
     "NAF Nr": "40947",
@@ -5080,7 +5080,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 15,
     "winRatio": 26.67,
-    "rating": 122.45346909270029
+    "rating": 122.47667736765321
   },
   {
     "NAF Nr": "29332",
@@ -5093,7 +5093,7 @@ const statsYear2025 = [
     "gamesLost": 10,
     "gamesTotal": 26,
     "winRatio": 51.92,
-    "rating": 143.54501042047988
+    "rating": 143.54381651947028
   },
   {
     "NAF Nr": "291199",
@@ -5119,7 +5119,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 4,
     "winRatio": 0,
-    "rating": 127.59225461853138
+    "rating": 127.59221675229749
   },
   {
     "NAF Nr": "25211",
@@ -5145,7 +5145,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 155.74228304157612
+    "rating": 155.74203097129802
   },
   {
     "NAF Nr": "32900",
@@ -5158,7 +5158,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 43.75,
-    "rating": 145.26388914454856
+    "rating": 145.26388909858278
   },
   {
     "NAF Nr": "38369",
@@ -5171,7 +5171,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 148.22285125293732
+    "rating": 148.22241684688487
   },
   {
     "NAF Nr": "30491",
@@ -5184,7 +5184,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 155.58256463178822
+    "rating": 155.58255507438164
   },
   {
     "NAF Nr": "32425",
@@ -5197,7 +5197,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 145.1388783528731
+    "rating": 145.15807972733964
   },
   {
     "NAF Nr": "32089",
@@ -5210,7 +5210,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 155.44946027759062
+    "rating": 155.44942994305177
   },
   {
     "NAF Nr": "26830",
@@ -5223,7 +5223,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 35,
-    "rating": 137.02047559502387
+    "rating": 137.02046187245148
   },
   {
     "NAF Nr": "28845",
@@ -5236,7 +5236,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 8,
     "winRatio": 12.5,
-    "rating": 119.51997506028864
+    "rating": 119.51954877695596
   },
   {
     "NAF Nr": "34135",
@@ -5249,7 +5249,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 16,
     "winRatio": 34.38,
-    "rating": 129.29792229653793
+    "rating": 129.2974294175813
   },
   {
     "NAF Nr": "37813",
@@ -5262,7 +5262,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 140.37918243778384
+    "rating": 140.3573350429129
   },
   {
     "NAF Nr": "39603",
@@ -5275,7 +5275,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
-    "rating": 157.48272315661913
+    "rating": 157.49578074123505
   },
   {
     "NAF Nr": "31702",
@@ -5288,7 +5288,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 12,
     "winRatio": 66.67,
-    "rating": 173.54049259569058
+    "rating": 173.54049171594593
   },
   {
     "NAF Nr": "27527",
@@ -5327,7 +5327,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
-    "rating": 149.60267722917155
+    "rating": 149.60256333670822
   },
   {
     "NAF Nr": "37253",
@@ -5340,7 +5340,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 10,
     "winRatio": 70,
-    "rating": 168.5422612434881
+    "rating": 168.5329792480535
   },
   {
     "NAF Nr": "36404",
@@ -5366,7 +5366,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 137.45837761569706
+    "rating": 137.45610340485362
   },
   {
     "NAF Nr": "40513",
@@ -5379,7 +5379,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 43.75,
-    "rating": 145.40323664670265
+    "rating": 145.4029862848773
   },
   {
     "NAF Nr": "34505",
@@ -5392,7 +5392,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 58.33,
-    "rating": 151.88720562730342
+    "rating": 151.88209994843646
   },
   {
     "NAF Nr": "9938",
@@ -5405,7 +5405,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 50,
-    "rating": 149.9193095531427
+    "rating": 149.9186358216591
   },
   {
     "NAF Nr": "25189",
@@ -5418,7 +5418,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 75,
-    "rating": 176.2755295914812
+    "rating": 176.27511589465803
   },
   {
     "NAF Nr": "16896",
@@ -5431,7 +5431,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 50,
-    "rating": 149.21427136518636
+    "rating": 149.2137733719789
   },
   {
     "NAF Nr": "41471",
@@ -5444,7 +5444,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
-    "rating": 134.20648353782647
+    "rating": 134.20590263379663
   },
   {
     "NAF Nr": "27476",
@@ -5457,7 +5457,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 8,
     "winRatio": 37.5,
-    "rating": 141.59431189566874
+    "rating": 141.5936653081434
   },
   {
     "NAF Nr": "37484",
@@ -5470,7 +5470,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 14,
     "winRatio": 53.57,
-    "rating": 155.6688670979436
+    "rating": 155.6454689685132
   },
   {
     "NAF Nr": "20511",
@@ -5483,7 +5483,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 15,
     "winRatio": 43.33,
-    "rating": 144.49778697214072
+    "rating": 144.49809031934313
   },
   {
     "NAF Nr": "24028",
@@ -5496,7 +5496,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 66.67,
-    "rating": 168.63183227811453
+    "rating": 168.6314763378422
   },
   {
     "NAF Nr": "22102",
@@ -5509,7 +5509,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
-    "rating": 133.0413669678717
+    "rating": 133.0427116739843
   },
   {
     "NAF Nr": "20671",
@@ -5522,7 +5522,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 150.613830052609
+    "rating": 150.61379363900633
   },
   {
     "NAF Nr": "31446",
@@ -5535,7 +5535,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 56.25,
-    "rating": 153.819754855067
+    "rating": 153.81400204847992
   },
   {
     "NAF Nr": "22365",
@@ -5548,7 +5548,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 62.5,
-    "rating": 159.80863314092247
+    "rating": 159.8086264037502
   },
   {
     "NAF Nr": "38431",
@@ -5561,7 +5561,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 8,
     "winRatio": 18.75,
-    "rating": 130.8212395538489
+    "rating": 130.8203602641479
   },
   {
     "NAF Nr": "23358",
@@ -5574,7 +5574,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 144.38086906701773
+    "rating": 144.38111986704203
   },
   {
     "NAF Nr": "31574",
@@ -5613,7 +5613,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 54.17,
-    "rating": 157.48540532295507
+    "rating": 157.48499700127238
   },
   {
     "NAF Nr": "21996",
@@ -5626,7 +5626,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 66.67,
-    "rating": 164.44346129816992
+    "rating": 164.44344408433682
   },
   {
     "NAF Nr": "30089",
@@ -5639,7 +5639,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 33.33,
-    "rating": 141.39889893472193
+    "rating": 141.39849884139414
   },
   {
     "NAF Nr": "26603",
@@ -5652,7 +5652,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 136.9466580215247
+    "rating": 136.94622979523706
   },
   {
     "NAF Nr": "39717",
@@ -5665,7 +5665,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 148.50146244323653
+    "rating": 148.4989797124281
   },
   {
     "NAF Nr": "2966",
@@ -5691,7 +5691,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 16,
     "winRatio": 59.38,
-    "rating": 164.6629711414813
+    "rating": 164.66129427849117
   },
   {
     "NAF Nr": "37481",
@@ -5704,7 +5704,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 142.68441827227028
+    "rating": 142.68385193487953
   },
   {
     "NAF Nr": "34275",
@@ -5717,7 +5717,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 25,
-    "rating": 129.81222917837002
+    "rating": 129.8122287384071
   },
   {
     "NAF Nr": "18608",
@@ -5730,7 +5730,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 14,
     "winRatio": 53.57,
-    "rating": 155.04828916420172
+    "rating": 155.04855122896444
   },
   {
     "NAF Nr": "24744",
@@ -5743,7 +5743,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 150.83987073223386
+    "rating": 150.8397276658758
   },
   {
     "NAF Nr": "39500",
@@ -5756,7 +5756,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 8,
     "winRatio": 31.25,
-    "rating": 135.04946478152397
+    "rating": 135.0477522206226
   },
   {
     "NAF Nr": "30466",
@@ -5782,7 +5782,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 140.32686437454578
+    "rating": 140.32685090191256
   },
   {
     "NAF Nr": "24819",
@@ -5795,7 +5795,7 @@ const statsYear2025 = [
     "gamesLost": 13,
     "gamesTotal": 26,
     "winRatio": 36.54,
-    "rating": 127.4170811675959
+    "rating": 127.41213977787362
   },
   {
     "NAF Nr": "30823",
@@ -5808,7 +5808,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 16,
     "winRatio": 40.63,
-    "rating": 140.95616110384105
+    "rating": 140.95613940555484
   },
   {
     "NAF Nr": "27763",
@@ -5821,7 +5821,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 15,
     "winRatio": 73.33,
-    "rating": 184.57023343260028
+    "rating": 184.57067439867942
   },
   {
     "NAF Nr": "27680",
@@ -5834,7 +5834,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 25,
-    "rating": 133.52769348324497
+    "rating": 133.55702319921062
   },
   {
     "NAF Nr": "40461",
@@ -5860,7 +5860,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 21,
     "winRatio": 59.52,
-    "rating": 166.3481363646544
+    "rating": 166.34993778518654
   },
   {
     "NAF Nr": "41138",
@@ -5873,7 +5873,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 7,
     "winRatio": 21.43,
-    "rating": 127.07912984725975
+    "rating": 127.0790871153741
   },
   {
     "NAF Nr": "34561",
@@ -5886,7 +5886,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 145.21884648506634
+    "rating": 145.21838567348237
   },
   {
     "NAF Nr": "21462",
@@ -5899,7 +5899,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 151.84793051879004
+    "rating": 151.8490489981525
   },
   {
     "NAF Nr": "32257",
@@ -5912,7 +5912,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
-    "rating": 132.81774784194113
+    "rating": 132.81768965610655
   },
   {
     "NAF Nr": "31445",
@@ -5938,7 +5938,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 150.04384086031286
+    "rating": 150.0437981193345
   },
   {
     "NAF Nr": "30930",
@@ -5951,7 +5951,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 34,
     "winRatio": 58.82,
-    "rating": 171.77341811076693
+    "rating": 171.77279190885545
   },
   {
     "NAF Nr": "29363",
@@ -5964,7 +5964,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 17,
     "winRatio": 44.12,
-    "rating": 142.67320793740157
+    "rating": 142.67330769062104
   },
   {
     "NAF Nr": "24866",
@@ -5973,11 +5973,11 @@ const statsYear2025 = [
     "Country": "Spain",
     "tournaments": 5,
     "gamesWon": 9,
-    "gamesDraw": 3,
+    "gamesDraw": 4,
     "gamesLost": 4,
-    "gamesTotal": 16,
-    "winRatio": 65.63,
-    "rating": 167.98971179354413
+    "gamesTotal": 17,
+    "winRatio": 64.71,
+    "rating": 167.8056072345936
   },
   {
     "NAF Nr": "25254",
@@ -5990,7 +5990,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 87.5,
-    "rating": 166.96789353687086
+    "rating": 166.96784649170291
   },
   {
     "NAF Nr": "22691",
@@ -6003,7 +6003,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 37.5,
-    "rating": 140.05331273150503
+    "rating": 140.04389638562867
   },
   {
     "NAF Nr": "24917",
@@ -6016,7 +6016,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
-    "rating": 144.63823781656816
+    "rating": 144.63820558897262
   },
   {
     "NAF Nr": "38855",
@@ -6029,7 +6029,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 14,
     "winRatio": 42.86,
-    "rating": 146.80884230049898
+    "rating": 146.80885239787145
   },
   {
     "NAF Nr": "34070",
@@ -6042,7 +6042,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
-    "rating": 149.9499934411923
+    "rating": 149.9499095457588
   },
   {
     "NAF Nr": "9937",
@@ -6055,7 +6055,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
-    "rating": 160.93832966669697
+    "rating": 160.9382157924976
   },
   {
     "NAF Nr": "31910",
@@ -6068,7 +6068,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 145.0013650722693
+    "rating": 145.00134809856323
   },
   {
     "NAF Nr": "31311",
@@ -6081,7 +6081,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 33.33,
-    "rating": 138.6286438323236
+    "rating": 138.6285910065263
   },
   {
     "NAF Nr": "31460",
@@ -6107,7 +6107,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 7,
     "winRatio": 21.43,
-    "rating": 133.80439912294284
+    "rating": 133.80631720640343
   },
   {
     "NAF Nr": "33365",
@@ -6133,7 +6133,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 24,
     "winRatio": 70.83,
-    "rating": 190.33125711788944
+    "rating": 190.3306895772839
   },
   {
     "NAF Nr": "32424",
@@ -6146,7 +6146,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 143.82483578073098
+    "rating": 143.82270088215193
   },
   {
     "NAF Nr": "30436",
@@ -6159,7 +6159,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 29,
     "winRatio": 62.07,
-    "rating": 172.4678539888204
+    "rating": 172.4692732317567
   },
   {
     "NAF Nr": "21865",
@@ -6172,7 +6172,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 14,
     "winRatio": 50,
-    "rating": 147.7997063111488
+    "rating": 147.77569657468035
   },
   {
     "NAF Nr": "33836",
@@ -6185,7 +6185,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 144.2644994526876
+    "rating": 144.26444917684515
   },
   {
     "NAF Nr": "30690",
@@ -6198,7 +6198,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 8,
     "winRatio": 25,
-    "rating": 131.6755229755035
+    "rating": 131.67528317710247
   },
   {
     "NAF Nr": "28935",
@@ -6211,7 +6211,20 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 56.25,
-    "rating": 153.23915911446255
+    "rating": 153.23902977241582
+  },
+  {
+    "NAF Nr": "41527",
+    "NAF Name": "Mikes_Campos",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "tournaments": 3,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 5,
+    "gamesTotal": 9,
+    "winRatio": 33.33,
+    "rating": 139.06481395045444
   },
   {
     "NAF Nr": "32299",
@@ -6224,7 +6237,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 43.75,
-    "rating": 142.7990091927323
+    "rating": 142.77913446596236
   },
   {
     "NAF Nr": "34016",
@@ -6237,7 +6250,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 50,
-    "rating": 150.5961259753655
+    "rating": 150.5960838247271
   },
   {
     "NAF Nr": "26536",
@@ -6250,7 +6263,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 23,
     "winRatio": 47.83,
-    "rating": 147.83117691377058
+    "rating": 147.86987397916974
   },
   {
     "NAF Nr": "21012",
@@ -6276,7 +6289,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 25,
     "winRatio": 56,
-    "rating": 165.75004167836957
+    "rating": 165.78073169658134
   },
   {
     "NAF Nr": "27861",
@@ -6289,7 +6302,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 50,
-    "rating": 150.35823960212397
+    "rating": 150.357495720661
   },
   {
     "NAF Nr": "37255",
@@ -6328,7 +6341,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 16.67,
-    "rating": 128.45000067744166
+    "rating": 128.48176662243114
   },
   {
     "NAF Nr": "5773",
@@ -6341,7 +6354,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 13,
     "winRatio": 34.62,
-    "rating": 136.60654592379865
+    "rating": 136.6161108309514
   },
   {
     "NAF Nr": "38011",
@@ -6354,7 +6367,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 144.69153277876762
+    "rating": 144.69151298678943
   },
   {
     "NAF Nr": "27084",
@@ -6367,7 +6380,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 16,
     "winRatio": 40.63,
-    "rating": 134.89770856709993
+    "rating": 134.89707951046444
   },
   {
     "NAF Nr": "21072",
@@ -6380,7 +6393,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 10,
     "winRatio": 55,
-    "rating": 153.45545900374586
+    "rating": 153.4554368072207
   },
   {
     "NAF Nr": "25247",
@@ -6393,7 +6406,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 25,
-    "rating": 136.29895750531273
+    "rating": 136.2989493604475
   },
   {
     "NAF Nr": "16629",
@@ -6406,7 +6419,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 16,
     "winRatio": 53.13,
-    "rating": 155.97799776776006
+    "rating": 156.00413557738443
   },
   {
     "NAF Nr": "19114",
@@ -6419,7 +6432,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 22,
     "winRatio": 59.09,
-    "rating": 160.79863569873356
+    "rating": 160.7980458492927
   },
   {
     "NAF Nr": "15458",
@@ -6432,7 +6445,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 149.52960447698248
+    "rating": 149.52834293378197
   },
   {
     "NAF Nr": "34542",
@@ -6445,7 +6458,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 75,
-    "rating": 159.21552316435557
+    "rating": 159.21455735576401
   },
   {
     "NAF Nr": "20002",
@@ -6471,7 +6484,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 20,
     "winRatio": 60,
-    "rating": 162.31848043803694
+    "rating": 162.3181436780368
   },
   {
     "NAF Nr": "31043",
@@ -6497,7 +6510,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 87.5,
-    "rating": 166.5477779132192
+    "rating": 166.5501058484234
   },
   {
     "NAF Nr": "35667",
@@ -6510,7 +6523,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 12,
     "winRatio": 20.83,
-    "rating": 121.42770741387798
+    "rating": 121.42872451120324
   },
   {
     "NAF Nr": "21636",
@@ -6523,7 +6536,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 50,
-    "rating": 148.63610114972786
+    "rating": 148.6363537135755
   },
   {
     "NAF Nr": "25531",
@@ -6536,7 +6549,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 20,
     "winRatio": 80,
-    "rating": 199.78232304251023
+    "rating": 199.78062056799115
   },
   {
     "NAF Nr": "40835",
@@ -6545,11 +6558,11 @@ const statsYear2025 = [
     "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
-    "gamesDraw": 1,
+    "gamesDraw": 2,
     "gamesLost": 0,
-    "gamesTotal": 1,
+    "gamesTotal": 2,
     "winRatio": 50,
-    "rating": 150
+    "rating": 149.8293786683271
   },
   {
     "NAF Nr": "28259",
@@ -6562,7 +6575,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 15,
     "winRatio": 56.67,
-    "rating": 162.25780550408123
+    "rating": 162.2583270115379
   },
   {
     "NAF Nr": "30088",
@@ -6575,7 +6588,7 @@ const statsYear2025 = [
     "gamesLost": 12,
     "gamesTotal": 24,
     "winRatio": 41.67,
-    "rating": 126.52370158460955
+    "rating": 126.59035862150836
   },
   {
     "NAF Nr": "32400",
@@ -6588,7 +6601,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 145.43183244953596
+    "rating": 145.43177970539753
   },
   {
     "NAF Nr": "36082",
@@ -6601,7 +6614,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 17,
     "winRatio": 47.06,
-    "rating": 139.90025096064844
+    "rating": 139.92021104477743
   },
   {
     "NAF Nr": "12512",
@@ -6627,7 +6640,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 8,
     "winRatio": 25,
-    "rating": 128.0980741641793
+    "rating": 128.10246932426122
   },
   {
     "NAF Nr": "17305",
@@ -6640,7 +6653,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 16.67,
-    "rating": 128.68876405300307
+    "rating": 128.6887530420814
   },
   {
     "NAF Nr": "13481",
@@ -6653,7 +6666,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 143.44468108022295
+    "rating": 143.4441001244727
   },
   {
     "NAF Nr": "30928",
@@ -6666,7 +6679,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
-    "rating": 157.41569539870946
+    "rating": 157.41566518844994
   },
   {
     "NAF Nr": "27474",
@@ -6679,7 +6692,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 43.75,
-    "rating": 146.65889444044072
+    "rating": 146.6587228735014
   },
   {
     "NAF Nr": "36106",
@@ -6692,7 +6705,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 146.48883044448084
+    "rating": 146.48834209692322
   },
   {
     "NAF Nr": "40407",
@@ -6705,7 +6718,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 10,
     "winRatio": 10,
-    "rating": 115.42309060819078
+    "rating": 115.42241265583675
   },
   {
     "NAF Nr": "28834",
@@ -6718,7 +6731,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 156.36388301344542
+    "rating": 156.36369679455424
   },
   {
     "NAF Nr": "20830",
@@ -6731,7 +6744,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 50,
-    "rating": 146.9360337692913
+    "rating": 146.9622220210878
   },
   {
     "NAF Nr": "40325",
@@ -6744,7 +6757,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 8,
     "winRatio": 25,
-    "rating": 126.2529838673959
+    "rating": 126.24969013956623
   },
   {
     "NAF Nr": "18615",
@@ -6757,7 +6770,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
-    "rating": 149.78652439256712
+    "rating": 149.78690584827527
   },
   {
     "NAF Nr": "39501",
@@ -6770,7 +6783,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 43.75,
-    "rating": 143.21884669128974
+    "rating": 143.3412742963503
   },
   {
     "NAF Nr": "31373",
@@ -6783,7 +6796,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 37.5,
-    "rating": 138.4484831952537
+    "rating": 138.44845612643653
   },
   {
     "NAF Nr": "23359",
@@ -6796,7 +6809,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 10,
     "winRatio": 15,
-    "rating": 114.38415961054882
+    "rating": 114.3843950098447
   },
   {
     "NAF Nr": "26263",
@@ -6809,11 +6822,11 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 18,
     "winRatio": 47.22,
-    "rating": 143.2571296353019
+    "rating": 143.23809042898455
   },
   {
     "NAF Nr": "39189",
-    "NAF Name": "Nigromiawnte",
+    "NAF Name": "Nigromiaunte",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "tournaments": 1,
@@ -6822,7 +6835,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 140.45339842256615
+    "rating": 140.45328110969663
   },
   {
     "NAF Nr": "17775",
@@ -6835,7 +6848,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 50,
-    "rating": 152.28730118839172
+    "rating": 152.2861142844138
   },
   {
     "NAF Nr": "25704",
@@ -6861,7 +6874,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 138.60733725789657
+    "rating": 138.60731782524553
   },
   {
     "NAF Nr": "16130",
@@ -6874,7 +6887,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 18,
     "winRatio": 77.78,
-    "rating": 192.5494122092877
+    "rating": 192.54768162522333
   },
   {
     "NAF Nr": "6398",
@@ -6900,7 +6913,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 137.66615966105948
+    "rating": 137.6565728312466
   },
   {
     "NAF Nr": "20672",
@@ -6913,7 +6926,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 147.2354280612252
+    "rating": 147.2350766012537
   },
   {
     "NAF Nr": "20834",
@@ -6926,7 +6939,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 62.5,
-    "rating": 159.22051730989955
+    "rating": 159.2236255135402
   },
   {
     "NAF Nr": "25893",
@@ -6952,7 +6965,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 30,
     "winRatio": 60,
-    "rating": 165.13329731388342
+    "rating": 165.13360252111588
   },
   {
     "NAF Nr": "2519",
@@ -6965,7 +6978,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 143.4688756412168
+    "rating": 143.46885262225726
   },
   {
     "NAF Nr": "26832",
@@ -6978,7 +6991,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 16,
     "winRatio": 43.75,
-    "rating": 139.70876486377196
+    "rating": 139.7088396838128
   },
   {
     "NAF Nr": "27590",
@@ -6991,7 +7004,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 75,
-    "rating": 160.27088979024512
+    "rating": 160.27088010335746
   },
   {
     "NAF Nr": "26889",
@@ -7004,7 +7017,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 43.75,
-    "rating": 143.50808777541647
+    "rating": 143.50741689663906
   },
   {
     "NAF Nr": "38392",
@@ -7017,7 +7030,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 147.7765893530664
+    "rating": 147.76722386732442
   },
   {
     "NAF Nr": "30085",
@@ -7030,7 +7043,7 @@ const statsYear2025 = [
     "gamesLost": 26,
     "gamesTotal": 63,
     "winRatio": 47.62,
-    "rating": 143.9694520467862
+    "rating": 143.98951174906898
   },
   {
     "NAF Nr": "33276",
@@ -7043,7 +7056,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 62.5,
-    "rating": 157.36879243239605
+    "rating": 157.35754780679707
   },
   {
     "NAF Nr": "37063",
@@ -7056,7 +7069,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
-    "rating": 137.27464252583772
+    "rating": 137.27463985459556
   },
   {
     "NAF Nr": "20513",
@@ -7069,7 +7082,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 16,
     "winRatio": 59.38,
-    "rating": 162.25102152901977
+    "rating": 162.2508230297312
   },
   {
     "NAF Nr": "27859",
@@ -7082,7 +7095,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 30,
     "winRatio": 51.67,
-    "rating": 142.78586223804717
+    "rating": 142.78490463188882
   },
   {
     "NAF Nr": "31769",
@@ -7095,7 +7108,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 12,
     "winRatio": 62.5,
-    "rating": 161.62587026746994
+    "rating": 161.6251615361484
   },
   {
     "NAF Nr": "16131",
@@ -7121,7 +7134,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 50,
-    "rating": 149.6326910149881
+    "rating": 149.6326704273552
   },
   {
     "NAF Nr": "33417",
@@ -7147,7 +7160,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 14,
     "winRatio": 64.29,
-    "rating": 169.33830438026826
+    "rating": 169.33798246795072
   },
   {
     "NAF Nr": "31215",
@@ -7160,7 +7173,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 150.4500019104283
+    "rating": 150.44994956459468
   },
   {
     "NAF Nr": "33097",
@@ -7186,7 +7199,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 14,
     "winRatio": 60.71,
-    "rating": 165.22276848851064
+    "rating": 165.22052139831663
   },
   {
     "NAF Nr": "23479",
@@ -7199,7 +7212,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 58.33,
-    "rating": 156.19289717659606
+    "rating": 156.19170249852394
   },
   {
     "NAF Nr": "30272",
@@ -7212,7 +7225,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 22,
     "winRatio": 50,
-    "rating": 152.21632149087807
+    "rating": 152.21769185837869
   },
   {
     "NAF Nr": "6269",
@@ -7225,7 +7238,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
-    "rating": 162.74424382050236
+    "rating": 162.74376008479442
   },
   {
     "NAF Nr": "11534",
@@ -7238,7 +7251,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 10,
     "winRatio": 65,
-    "rating": 166.12842667314365
+    "rating": 166.1272530813075
   },
   {
     "NAF Nr": "31507",
@@ -7251,7 +7264,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 54.17,
-    "rating": 156.10748023253535
+    "rating": 156.10727062899045
   },
   {
     "NAF Nr": "13900",
@@ -7264,7 +7277,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 14,
     "winRatio": 46.43,
-    "rating": 148.0604329024716
+    "rating": 148.06006449579027
   },
   {
     "NAF Nr": "24824",
@@ -7290,7 +7303,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 10,
     "winRatio": 65,
-    "rating": 164.40113117145964
+    "rating": 164.40181782364164
   },
   {
     "NAF Nr": "20811",
@@ -7303,7 +7316,7 @@ const statsYear2025 = [
     "gamesLost": 10,
     "gamesTotal": 38,
     "winRatio": 55.26,
-    "rating": 171.8663300354579
+    "rating": 171.87634813091626
   },
   {
     "NAF Nr": "31447",
@@ -7316,7 +7329,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 10,
     "winRatio": 90,
-    "rating": 190.87548251291375
+    "rating": 190.8752680390823
   },
   {
     "NAF Nr": "34076",
@@ -7342,7 +7355,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 138.78701080441775
+    "rating": 138.7870108024388
   },
   {
     "NAF Nr": "24044",
@@ -7381,7 +7394,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
-    "rating": 133.34867523197178
+    "rating": 133.34804269724464
   },
   {
     "NAF Nr": "26539",
@@ -7394,7 +7407,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 10,
     "winRatio": 20,
-    "rating": 132.1375883887544
+    "rating": 131.79805798007757
   },
   {
     "NAF Nr": "33685",
@@ -7420,7 +7433,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 25,
-    "rating": 128.88517113145477
+    "rating": 128.88464694550035
   },
   {
     "NAF Nr": "26404",
@@ -7433,7 +7446,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 139.58644525667674
+    "rating": 139.5864256871443
   },
   {
     "NAF Nr": "39201",
@@ -7446,7 +7459,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 16,
     "winRatio": 37.5,
-    "rating": 136.15069842138527
+    "rating": 136.15017537330021
   },
   {
     "NAF Nr": "24916",
@@ -7459,7 +7472,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 11,
     "winRatio": 40.91,
-    "rating": 135.85819000762172
+    "rating": 135.8361023821937
   },
   {
     "NAF Nr": "16560",
@@ -7472,7 +7485,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 24,
     "winRatio": 64.58,
-    "rating": 178.4768171845233
+    "rating": 178.47641940745677
   },
   {
     "NAF Nr": "29187",
@@ -7485,7 +7498,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 50,
-    "rating": 148.88788194156564
+    "rating": 148.96183328746034
   },
   {
     "NAF Nr": "38819",
@@ -7511,7 +7524,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 16,
     "winRatio": 56.25,
-    "rating": 159.98138982364185
+    "rating": 159.981768588259
   },
   {
     "NAF Nr": "32404",
@@ -7524,7 +7537,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 16,
     "winRatio": 59.38,
-    "rating": 169.98401051692173
+    "rating": 169.9841902561933
   },
   {
     "NAF Nr": "39712",
@@ -7537,7 +7550,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 31.25,
-    "rating": 131.47669692738287
+    "rating": 131.46392887515887
   },
   {
     "NAF Nr": "24728",
@@ -7550,7 +7563,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 26,
     "winRatio": 53.85,
-    "rating": 160.82480220425572
+    "rating": 160.8224802031576
   },
   {
     "NAF Nr": "40169",
@@ -7563,7 +7576,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 8,
     "winRatio": 31.25,
-    "rating": 132.00156978266406
+    "rating": 132.0008317612412
   },
   {
     "NAF Nr": "25707",
@@ -7576,7 +7589,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 151.82409807265054
+    "rating": 151.82409912250094
   },
   {
     "NAF Nr": "30754",
@@ -7589,7 +7602,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 17,
     "winRatio": 55.88,
-    "rating": 153.09667078548776
+    "rating": 153.0932658866205
   },
   {
     "NAF Nr": "31303",
@@ -7602,7 +7615,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 155.61464584328334
+    "rating": 155.6144902608341
   },
   {
     "NAF Nr": "40978",
@@ -7615,7 +7628,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
-    "rating": 148.08303812936458
+    "rating": 148.08233082099403
   },
   {
     "NAF Nr": "28013",
@@ -7628,7 +7641,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 139.23112382830894
+    "rating": 139.23097734810503
   },
   {
     "NAF Nr": "36923",
@@ -7641,7 +7654,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
-    "rating": 135.07634168738616
+    "rating": 135.0763412788378
   },
   {
     "NAF Nr": "25347",
@@ -7654,7 +7667,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 37.5,
-    "rating": 138.9530461404496
+    "rating": 138.95221341247017
   },
   {
     "NAF Nr": "14051",
@@ -7667,7 +7680,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 31.25,
-    "rating": 136.3128359917391
+    "rating": 136.31351180647758
   },
   {
     "NAF Nr": "38732",
@@ -7680,7 +7693,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 9,
     "winRatio": 16.67,
-    "rating": 129.4697779036962
+    "rating": 129.4513315165551
   },
   {
     "NAF Nr": "30594",
@@ -7693,7 +7706,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 8,
     "winRatio": 31.25,
-    "rating": 129.09906127243033
+    "rating": 129.09886047841388
   },
   {
     "NAF Nr": "40309",
@@ -7706,7 +7719,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 16.67,
-    "rating": 139.94836313964637
+    "rating": 139.99968026472183
   },
   {
     "NAF Nr": "37712",
@@ -7719,7 +7732,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 83.33,
-    "rating": 164.5006854403471
+    "rating": 164.51867766638262
   },
   {
     "NAF Nr": "38432",
@@ -7732,7 +7745,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 150.2275659775387
+    "rating": 150.2267967678267
   },
   {
     "NAF Nr": "40479",
@@ -7745,7 +7758,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 12,
     "winRatio": 70.83,
-    "rating": 169.0885014728111
+    "rating": 169.08839445948595
   },
   {
     "NAF Nr": "29200",
@@ -7758,7 +7771,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 137.34778354593712
+    "rating": 137.3444658322005
   },
   {
     "NAF Nr": "12272",
@@ -7771,7 +7784,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 66.67,
-    "rating": 169.72635210615474
+    "rating": 169.72573846525273
   },
   {
     "NAF Nr": "37773",
@@ -7784,7 +7797,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 155.51099575789317
+    "rating": 155.5098895927091
   },
   {
     "NAF Nr": "28278",
@@ -7810,7 +7823,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 144.57160231367826
+    "rating": 144.57157360380253
   },
   {
     "NAF Nr": "21663",
@@ -7823,7 +7836,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 60,
-    "rating": 161.56167033384955
+    "rating": 161.5613193908916
   },
   {
     "NAF Nr": "31469",
@@ -7836,7 +7849,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 26,
     "winRatio": 55.77,
-    "rating": 159.188749070748
+    "rating": 159.18322124091642
   },
   {
     "NAF Nr": "40951",
@@ -7862,7 +7875,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 153.8783240550401
+    "rating": 153.87779829344794
   },
   {
     "NAF Nr": "31770",
@@ -7875,7 +7888,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 87.5,
-    "rating": 179.26928939645978
+    "rating": 179.23839455048795
   },
   {
     "NAF Nr": "32819",
@@ -7901,7 +7914,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 20,
     "winRatio": 75,
-    "rating": 185.72747175121478
+    "rating": 185.73222847284836
   },
   {
     "NAF Nr": "16100",
@@ -7914,7 +7927,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 56.25,
-    "rating": 153.73450462390795
+    "rating": 153.73418765334907
   },
   {
     "NAF Nr": "30082",
@@ -7940,7 +7953,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 58.33,
-    "rating": 159.4226702456429
+    "rating": 159.4220357821855
   },
   {
     "NAF Nr": "26198",
@@ -7953,7 +7966,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 12,
     "winRatio": 33.33,
-    "rating": 128.52442036133226
+    "rating": 128.52443023832924
   },
   {
     "NAF Nr": "34138",
@@ -7979,7 +7992,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 55,
-    "rating": 153.23372804392443
+    "rating": 153.2337225729242
   },
   {
     "NAF Nr": "30986",
@@ -7987,12 +8000,12 @@ const statsYear2025 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "tournaments": 1,
-    "gamesWon": 0,
+    "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "gamesTotal": 1,
-    "winRatio": 50,
-    "rating": 150
+    "gamesTotal": 2,
+    "winRatio": 75,
+    "rating": 152.68953376198516
   },
   {
     "NAF Nr": "22926",
@@ -8005,7 +8018,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 28,
     "winRatio": 57.14,
-    "rating": 169.59734831242392
+    "rating": 169.59958236600605
   },
   {
     "NAF Nr": "36333",
@@ -8018,7 +8031,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 16,
     "winRatio": 43.75,
-    "rating": 142.15799927383887
+    "rating": 142.15669089657302
   },
   {
     "NAF Nr": "11804",
@@ -8031,7 +8044,7 @@ const statsYear2025 = [
     "gamesLost": 14,
     "gamesTotal": 28,
     "winRatio": 42.86,
-    "rating": 138.61873968579124
+    "rating": 138.61737626169528
   },
   {
     "NAF Nr": "24452",
@@ -8044,7 +8057,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 66.67,
-    "rating": 156.30253546273764
+    "rating": 156.33333865684182
   },
   {
     "NAF Nr": "25130",
@@ -8057,7 +8070,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
-    "rating": 150.31861556039965
+    "rating": 150.31863323003208
   },
   {
     "NAF Nr": "21960",
@@ -8070,7 +8083,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 19,
     "winRatio": 65.79,
-    "rating": 170.70770983500404
+    "rating": 170.7087581939722
   },
   {
     "NAF Nr": "09031991",
@@ -8083,7 +8096,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
-    "rating": 151.7302163373755
+    "rating": 151.88906507226343
   },
   {
     "NAF Nr": "29212",
@@ -8096,7 +8109,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 16,
     "winRatio": 50,
-    "rating": 147.25255631350618
+    "rating": 147.24826320279385
   },
   {
     "NAF Nr": "30087",
@@ -8109,7 +8122,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
-    "rating": 156.2086106789848
+    "rating": 156.20850155305538
   },
   {
     "NAF Nr": "24818",
@@ -8135,7 +8148,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 158.85520845272902
+    "rating": 158.85592027335505
   },
   {
     "NAF Nr": "35988",
@@ -8148,7 +8161,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
-    "rating": 153.91242148405377
+    "rating": 153.91297319126664
   },
   {
     "NAF Nr": "39954",
@@ -8161,7 +8174,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 62.5,
-    "rating": 160.5164293518217
+    "rating": 160.5467684989008
   },
   {
     "NAF Nr": "38598",
@@ -8174,7 +8187,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 8,
     "winRatio": 25,
-    "rating": 128.39279886045796
+    "rating": 128.36824290931392
   },
   {
     "NAF Nr": "29651",
@@ -8187,7 +8200,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
-    "rating": 147.67251096101901
+    "rating": 147.67235036520358
   },
   {
     "NAF Nr": "12520",
@@ -8200,7 +8213,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 26,
     "winRatio": 61.54,
-    "rating": 178.08441555687756
+    "rating": 178.11049956865014
   },
   {
     "NAF Nr": "34292",
@@ -8213,7 +8226,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 7,
     "winRatio": 57.14,
-    "rating": 154.48364581339607
+    "rating": 154.5749997857275
   },
   {
     "NAF Nr": "38556",
@@ -8226,7 +8239,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 23,
     "winRatio": 52.17,
-    "rating": 145.49447936564843
+    "rating": 145.9407719304794
   },
   {
     "NAF Nr": "3294",
@@ -8239,7 +8252,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 41,
     "winRatio": 68.29,
-    "rating": 190.43518423858626
+    "rating": 190.43284129243006
   },
   {
     "NAF Nr": "35169",
@@ -8252,7 +8265,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 12,
     "winRatio": 29.17,
-    "rating": 123.30877001312211
+    "rating": 123.30880663189947
   },
   {
     "NAF Nr": "26837",
@@ -8278,7 +8291,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 148.8560662232514
+    "rating": 148.85534207080894
   },
   {
     "NAF Nr": "20824",
@@ -8291,7 +8304,7 @@ const statsYear2025 = [
     "gamesLost": 8,
     "gamesTotal": 20,
     "winRatio": 37.5,
-    "rating": 129.11659281524527
+    "rating": 129.11858387022528
   },
   {
     "NAF Nr": "41392",
@@ -8304,7 +8317,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 33.33,
-    "rating": 137.83243225938466
+    "rating": 137.83270014742666
   },
   {
     "NAF Nr": "35260",
@@ -8317,7 +8330,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 45.83,
-    "rating": 146.7587152924451
+    "rating": 146.75753630698802
   },
   {
     "NAF Nr": "32807",
@@ -8343,7 +8356,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 145.93345423697613
+    "rating": 145.93351015373477
   },
   {
     "NAF Nr": "32384",
@@ -8356,7 +8369,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 54.17,
-    "rating": 156.50121834717933
+    "rating": 156.5569725433297
   },
   {
     "NAF Nr": "34882",
@@ -8369,7 +8382,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 50,
-    "rating": 148.29441207847898
+    "rating": 148.27301662824328
   },
   {
     "NAF Nr": "21707",
@@ -8395,7 +8408,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 14,
     "winRatio": 35.71,
-    "rating": 122.97257117964375
+    "rating": 123.09241228279457
   },
   {
     "NAF Nr": "12937",
@@ -8408,7 +8421,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 155.23621217590517
+    "rating": 155.2351434731057
   },
   {
     "NAF Nr": "27857",
@@ -8421,7 +8434,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 4,
     "winRatio": 0,
-    "rating": 127.92267524198475
+    "rating": 127.92136236107422
   },
   {
     "NAF Nr": "20886",
@@ -8434,7 +8447,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 100,
-    "rating": 171.57315660184094
+    "rating": 171.5708137666605
   },
   {
     "NAF Nr": "31491",
@@ -8447,7 +8460,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 7,
     "winRatio": 50,
-    "rating": 149.58123930290586
+    "rating": 149.58122925647191
   },
   {
     "NAF Nr": "39988",
@@ -8460,7 +8473,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 41.67,
-    "rating": 140.12991713967412
+    "rating": 140.16495821696986
   },
   {
     "NAF Nr": "18872",
@@ -8473,7 +8486,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 14,
     "winRatio": 28.57,
-    "rating": 116.9907670530527
+    "rating": 116.95119133560755
   },
   {
     "NAF Nr": "29747",
@@ -8486,7 +8499,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 87.5,
-    "rating": 167.79796356050142
+    "rating": 167.79785072044118
   },
   {
     "NAF Nr": "27735",
@@ -8495,11 +8508,11 @@ const statsYear2025 = [
     "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
-    "gamesDraw": 1,
+    "gamesDraw": 2,
     "gamesLost": 0,
-    "gamesTotal": 1,
+    "gamesTotal": 2,
     "winRatio": 50,
-    "rating": 150
+    "rating": 149.95395372318268
   },
   {
     "NAF Nr": "21795",
@@ -8512,7 +8525,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 56.25,
-    "rating": 156.01273872458682
+    "rating": 156.01128469480068
   },
   {
     "NAF Nr": "29381",
@@ -8525,7 +8538,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 12,
     "winRatio": 79.17,
-    "rating": 183.44752381235404
+    "rating": 183.4474923926659
   },
   {
     "NAF Nr": "35970",
@@ -8551,7 +8564,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 33.33,
-    "rating": 141.8167895360629
+    "rating": 141.81629238928645
   },
   {
     "NAF Nr": "31442",
@@ -8564,7 +8577,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 20,
     "winRatio": 57.5,
-    "rating": 162.02942208267535
+    "rating": 162.02871321425204
   },
   {
     "NAF Nr": "14233",
@@ -8577,7 +8590,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 75,
-    "rating": 162.0817950240124
+    "rating": 162.08059095694057
   },
   {
     "NAF Nr": "27740",
@@ -8590,7 +8603,7 @@ const statsYear2025 = [
     "gamesLost": 11,
     "gamesTotal": 41,
     "winRatio": 53.66,
-    "rating": 153.06510140465696
+    "rating": 153.05832257911243
   },
   {
     "NAF Nr": "34323",
@@ -8603,7 +8616,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 6,
     "winRatio": 8.33,
-    "rating": 122.37156574907313
+    "rating": 122.37152995220987
   },
   {
     "NAF Nr": "27456",
@@ -8616,7 +8629,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 50,
-    "rating": 148.28337594551482
+    "rating": 148.25373184422824
   },
   {
     "NAF Nr": "33746",
@@ -8629,7 +8642,7 @@ const statsYear2025 = [
     "gamesLost": 14,
     "gamesTotal": 31,
     "winRatio": 45.16,
-    "rating": 135.22959792216483
+    "rating": 135.23929017321473
   },
   {
     "NAF Nr": "29582",
@@ -8655,7 +8668,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 75,
-    "rating": 161.48941955469152
+    "rating": 161.4894185829143
   },
   {
     "NAF Nr": "32981",
@@ -8668,7 +8681,7 @@ const statsYear2025 = [
     "gamesLost": 10,
     "gamesTotal": 22,
     "winRatio": 43.18,
-    "rating": 142.29920171924394
+    "rating": 142.29990539960644
   },
   {
     "NAF Nr": "1191",
@@ -8681,7 +8694,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 100,
-    "rating": 172.59681578435422
+    "rating": 172.596746971696
   },
   {
     "NAF Nr": "31050",
@@ -8707,7 +8720,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 154.88184051474923
+    "rating": 154.88184014445937
   },
   {
     "NAF Nr": "31768",
@@ -8733,7 +8746,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 29,
     "winRatio": 65.52,
-    "rating": 184.87831044620452
+    "rating": 184.8694190693163
   },
   {
     "NAF Nr": "18293",
@@ -8746,7 +8759,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 75,
-    "rating": 158.8173555496754
+    "rating": 158.8167732394931
   },
   {
     "NAF Nr": "34085",
@@ -8759,7 +8772,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 140.65236061835037
+    "rating": 140.65236025812212
   },
   {
     "NAF Nr": "22103",
@@ -8772,7 +8785,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 8,
     "winRatio": 37.5,
-    "rating": 142.70321017737052
+    "rating": 142.70331136309207
   },
   {
     "NAF Nr": "24865",
@@ -8785,7 +8798,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 33.33,
-    "rating": 144.94683221359548
+    "rating": 144.94683116200628
   },
   {
     "NAF Nr": "15440",
@@ -8798,7 +8811,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 58.33,
-    "rating": 158.24632012330926
+    "rating": 158.24592732325965
   },
   {
     "NAF Nr": "35462",
@@ -8811,7 +8824,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 152.10205121262524
+    "rating": 152.10401141872958
   },
   {
     "NAF Nr": "35817",
@@ -8824,7 +8837,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 14,
     "winRatio": 60.71,
-    "rating": 164.60688066580948
+    "rating": 164.58066212165124
   },
   {
     "NAF Nr": "22366",
@@ -8837,7 +8850,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 12,
     "winRatio": 66.67,
-    "rating": 168.69729966220518
+    "rating": 168.69575882266142
   },
   {
     "NAF Nr": "20366",
@@ -8850,7 +8863,7 @@ const statsYear2025 = [
     "gamesLost": 14,
     "gamesTotal": 27,
     "winRatio": 37.04,
-    "rating": 132.95837505795433
+    "rating": 132.95909110060524
   },
   {
     "NAF Nr": "20919",
@@ -8863,7 +8876,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
-    "rating": 153.04391687967032
+    "rating": 153.04388354444828
   },
   {
     "NAF Nr": "16735",
@@ -8876,7 +8889,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 75,
-    "rating": 161.32254914411143
+    "rating": 161.32254623098544
   },
   {
     "NAF Nr": "24748",
@@ -8889,7 +8902,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 35,
-    "rating": 137.23542643343276
+    "rating": 137.23572128192944
   },
   {
     "NAF Nr": "20837",
@@ -8902,7 +8915,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 62.5,
-    "rating": 160.8361068721715
+    "rating": 160.83535924327853
   },
   {
     "NAF Nr": "13630",
@@ -8928,7 +8941,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 75,
-    "rating": 164.92177176627345
+    "rating": 164.9211948718847
   },
   {
     "NAF Nr": "24206",
@@ -8941,7 +8954,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 14,
     "winRatio": 50,
-    "rating": 152.27197846952143
+    "rating": 152.27189846823165
   },
   {
     "NAF Nr": "13620",
@@ -8954,7 +8967,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 68.75,
-    "rating": 169.26505762107595
+    "rating": 169.264980099539
   },
   {
     "NAF Nr": "29927",
@@ -8967,7 +8980,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 21,
     "winRatio": 69.05,
-    "rating": 179.46588216394932
+    "rating": 179.4921316253903
   },
   {
     "NAF Nr": "40480",
@@ -8980,7 +8993,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 62.5,
-    "rating": 166.9014937329632
+    "rating": 166.90146744397222
   },
   {
     "NAF Nr": "2940",
@@ -8993,7 +9006,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 75,
-    "rating": 167.1879277666057
+    "rating": 167.18788930590617
   },
   {
     "NAF Nr": "18056",
@@ -9006,7 +9019,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 144.14864581383182
+    "rating": 144.14795258996406
   },
   {
     "NAF Nr": "31716",
@@ -9019,7 +9032,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 16,
     "winRatio": 75,
-    "rating": 181.1689657982275
+    "rating": 181.1663718984737
   },
   {
     "NAF Nr": "24116",
@@ -9032,7 +9045,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 54.17,
-    "rating": 154.25041180779579
+    "rating": 154.2499095608204
   },
   {
     "NAF Nr": "8630",
@@ -9045,7 +9058,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 75,
-    "rating": 171.43959746766063
+    "rating": 171.43956872837504
   },
   {
     "NAF Nr": "39636",
@@ -9058,7 +9071,7 @@ const statsYear2025 = [
     "gamesLost": 10,
     "gamesTotal": 14,
     "winRatio": 17.86,
-    "rating": 111.5471071103135
+    "rating": 111.55412854451383
   },
   {
     "NAF Nr": "26034",
@@ -9071,7 +9084,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
-    "rating": 133.7960295942322
+    "rating": 133.8409056625634
   },
   {
     "NAF Nr": "40705",
@@ -9084,7 +9097,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 150.0305668396356
+    "rating": 150.03028083258303
   },
   {
     "NAF Nr": "32672",
@@ -9097,7 +9110,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 33.33,
-    "rating": 136.86346953162126
+    "rating": 136.8634724815607
   },
   {
     "NAF Nr": "8021",
@@ -9110,7 +9123,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 21,
     "winRatio": 52.38,
-    "rating": 155.13747943686778
+    "rating": 155.1470892096417
   },
   {
     "NAF Nr": "40285",
@@ -9123,7 +9136,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 50,
-    "rating": 150.32708814541886
+    "rating": 150.32657524677063
   },
   {
     "NAF Nr": "39105",
@@ -9149,7 +9162,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 16,
     "winRatio": 46.88,
-    "rating": 144.00848094049263
+    "rating": 144.00516417003672
   },
   {
     "NAF Nr": "17065",
@@ -9162,7 +9175,7 @@ const statsYear2025 = [
     "gamesLost": 15,
     "gamesTotal": 42,
     "winRatio": 52.38,
-    "rating": 141.9928660802531
+    "rating": 141.99076697419267
   },
   {
     "NAF Nr": "27915",
@@ -9175,7 +9188,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 14,
     "winRatio": 67.86,
-    "rating": 173.20579276101213
+    "rating": 173.20555189953737
   },
   {
     "NAF Nr": "21324",
@@ -9188,7 +9201,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 7,
     "winRatio": 28.57,
-    "rating": 133.28620618353327
+    "rating": 133.27872645519201
   },
   {
     "NAF Nr": "24533",
@@ -9201,7 +9214,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 50,
-    "rating": 151.31452880283402
+    "rating": 151.31607130408716
   },
   {
     "NAF Nr": "24743",
@@ -9227,7 +9240,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 31.25,
-    "rating": 135.71578195604084
+    "rating": 135.75267083218375
   },
   {
     "NAF Nr": "40952",
@@ -9240,7 +9253,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 149.55228643581358
+    "rating": 149.55228606388465
   },
   {
     "NAF Nr": "21748",
@@ -9253,7 +9266,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 12,
     "winRatio": 41.67,
-    "rating": 140.01563331720268
+    "rating": 140.01577368571427
   },
   {
     "NAF Nr": "20828",
@@ -9266,7 +9279,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 37.5,
-    "rating": 142.88217984877488
+    "rating": 142.880588172949
   },
   {
     "NAF Nr": "32703",
@@ -9279,7 +9292,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
-    "rating": 144.84109450659852
+    "rating": 144.83692933905223
   },
   {
     "NAF Nr": "25889",
@@ -9305,7 +9318,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
-    "rating": 144.5754470395633
+    "rating": 144.57541030878662
   },
   {
     "NAF Nr": "26262",
@@ -9331,7 +9344,7 @@ const statsYear2025 = [
     "gamesLost": 5,
     "gamesTotal": 26,
     "winRatio": 73.08,
-    "rating": 190.9352382324014
+    "rating": 190.9347768273715
   },
   {
     "NAF Nr": "36797",
@@ -9344,7 +9357,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
-    "rating": 148.53915107336488
+    "rating": 148.53871019340644
   },
   {
     "NAF Nr": "20836",
@@ -9357,7 +9370,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 18,
     "winRatio": 72.22,
-    "rating": 186.5576126865409
+    "rating": 186.5647089429524
   },
   {
     "NAF Nr": "31701",
@@ -9383,7 +9396,7 @@ const statsYear2025 = [
     "gamesLost": 9,
     "gamesTotal": 36,
     "winRatio": 58.33,
-    "rating": 170.67230606439423
+    "rating": 170.671619922436
   },
   {
     "NAF Nr": "35019",
@@ -9396,7 +9409,7 @@ const statsYear2025 = [
     "gamesLost": 7,
     "gamesTotal": 16,
     "winRatio": 53.13,
-    "rating": 150.63690825206677
+    "rating": 150.63483881594888
   },
   {
     "NAF Nr": "36258",
@@ -9409,7 +9422,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
-    "rating": 142.28825094317006
+    "rating": 142.2879387964293
   },
   {
     "NAF Nr": "4828",
@@ -9422,7 +9435,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
-    "rating": 149.28773500249844
+    "rating": 149.28771091213835
   },
   {
     "NAF Nr": "23668",
@@ -9435,7 +9448,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 16,
     "winRatio": 68.75,
-    "rating": 178.03664569723554
+    "rating": 178.0367373219789
   },
   {
     "NAF Nr": "24868",
@@ -9448,7 +9461,7 @@ const statsYear2025 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
-    "rating": 159.7882352618962
+    "rating": 159.78352453541393
   },
   {
     "NAF Nr": "30893",
@@ -9461,7 +9474,7 @@ const statsYear2025 = [
     "gamesLost": 6,
     "gamesTotal": 14,
     "winRatio": 42.86,
-    "rating": 147.09675196093107
+    "rating": 147.0961919196737
   },
   {
     "NAF Nr": "22825",
@@ -9474,7 +9487,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 54.17,
-    "rating": 150.45548865797826
+    "rating": 150.455478963257
   },
   {
     "NAF Nr": "38875",
@@ -9487,7 +9500,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 136.4149972232672
+    "rating": 136.41410417375778
   },
   {
     "NAF Nr": "27416",
@@ -9500,7 +9513,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
-    "rating": 134.88586129660268
+    "rating": 134.8848803828291
   },
   {
     "NAF Nr": "30486",
@@ -9513,7 +9526,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 12,
     "winRatio": 75,
-    "rating": 175.6139251632891
+    "rating": 175.65547188808463
   },
   {
     "NAF Nr": "33112",
@@ -9552,7 +9565,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 68.75,
-    "rating": 167.90158126853066
+    "rating": 167.9399619750783
   },
   {
     "NAF Nr": "39961",
@@ -9565,7 +9578,7 @@ const statsYear2025 = [
     "gamesLost": 4,
     "gamesTotal": 14,
     "winRatio": 60.71,
-    "rating": 160.25523702347922
+    "rating": 160.30042916840512
   },
   {
     "NAF Nr": "34692",
@@ -9578,7 +9591,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 156.29853636177828
+    "rating": 156.30000420094146
   },
   {
     "NAF Nr": "25708",
@@ -9591,7 +9604,7 @@ const statsYear2025 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
-    "rating": 148.43692154546366
+    "rating": 148.43564601766775
   },
   {
     "NAF Nr": "12518",
@@ -9604,7 +9617,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
-    "rating": 154.75165730404498
+    "rating": 154.75171158914304
   },
   {
     "NAF Nr": "16121",
@@ -9617,7 +9630,7 @@ const statsYear2025 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 56.25,
-    "rating": 153.77123212391066
+    "rating": 153.75508034989548
   },
   {
     "NAF Nr": "27181",
@@ -9630,7 +9643,7 @@ const statsYear2025 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 58.33,
-    "rating": 156.81899906102936
+    "rating": 156.81845529786492
   },
   {
     "NAF Nr": "17366",
@@ -9643,6 +9656,6 @@ const statsYear2025 = [
     "gamesLost": 11,
     "gamesTotal": 45,
     "winRatio": 56.67,
-    "rating": 173.11462327460245
+    "rating": 173.12361562075077
   }
 ];
