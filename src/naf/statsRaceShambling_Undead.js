@@ -6,12 +6,12 @@ const statsRaceShambling_Undead = [
     "Country": "Cayman Islands",
     "race": "Shambling Undead",
     "rating": "150.0",
-    "totalTournaments": 26,
-    "gamesTotal": 178,
-    "gamesWon": 46,
-    "gamesDraw": 47,
-    "gamesLost": 85,
-    "winRatio": 39.04
+    "totalTournaments": 28,
+    "gamesTotal": 183,
+    "gamesWon": 47,
+    "gamesDraw": 49,
+    "gamesLost": 87,
+    "winRatio": 39.07
   },
   {
     "NAF Nr": "28",
@@ -4835,13 +4835,13 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Shambling Undead",
-    "rating": "142.02",
-    "totalTournaments": 3,
-    "gamesTotal": 10,
-    "gamesWon": 4,
-    "gamesDraw": 3,
-    "gamesLost": 3,
-    "winRatio": 55
+    "rating": "149.58",
+    "totalTournaments": 4,
+    "gamesTotal": 15,
+    "gamesWon": 7,
+    "gamesDraw": 4,
+    "gamesLost": 4,
+    "winRatio": 60
   },
   {
     "NAF Nr": "6666",
@@ -6487,13 +6487,13 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "Monaco",
     "race": "Shambling Undead",
-    "rating": "195.87",
-    "totalTournaments": 20,
-    "gamesTotal": 114,
-    "gamesWon": 51,
-    "gamesDraw": 31,
-    "gamesLost": 32,
-    "winRatio": 58.33
+    "rating": "175.51",
+    "totalTournaments": 21,
+    "gamesTotal": 120,
+    "gamesWon": 52,
+    "gamesDraw": 33,
+    "gamesLost": 35,
+    "winRatio": 57.08
   },
   {
     "NAF Nr": "8122",
@@ -6949,13 +6949,13 @@ const statsRaceShambling_Undead = [
     "CCAA": "Euskadi",
     "Country": "Spain",
     "race": "Shambling Undead",
-    "rating": "198.58",
-    "totalTournaments": 13,
-    "gamesTotal": 58,
-    "gamesWon": 26,
-    "gamesDraw": 21,
-    "gamesLost": 11,
-    "winRatio": 62.93
+    "rating": "208.89",
+    "totalTournaments": 14,
+    "gamesTotal": 64,
+    "gamesWon": 30,
+    "gamesDraw": 22,
+    "gamesLost": 12,
+    "winRatio": 64.06
   },
   {
     "NAF Nr": "8631",
@@ -12045,13 +12045,13 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Shambling Undead",
-    "rating": "180.78",
-    "totalTournaments": 13,
-    "gamesTotal": 56,
-    "gamesWon": 29,
-    "gamesDraw": 13,
-    "gamesLost": 14,
-    "winRatio": 63.39
+    "rating": "181.77",
+    "totalTournaments": 14,
+    "gamesTotal": 62,
+    "gamesWon": 32,
+    "gamesDraw": 14,
+    "gamesLost": 16,
+    "winRatio": 62.9
   },
   {
     "NAF Nr": "13094",
@@ -15608,6 +15608,20 @@ const statsRaceShambling_Undead = [
     "gamesDraw": 5,
     "gamesLost": 3,
     "winRatio": 57.69
+  },
+  {
+    "NAF Nr": "15458",
+    "NAF Name": "Morgan01",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Shambling Undead",
+    "rating": "149.06",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
   },
   {
     "NAF Nr": "15487",
@@ -21117,13 +21131,13 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Shambling Undead",
-    "rating": "162.5",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 4,
+    "rating": "165.98",
+    "totalTournaments": 3,
+    "gamesTotal": 11,
+    "gamesWon": 6,
     "gamesDraw": 2,
-    "gamesLost": 2,
-    "winRatio": 62.5
+    "gamesLost": 3,
+    "winRatio": 63.64
   },
   {
     "NAF Nr": "18872",
@@ -28075,13 +28089,13 @@ const statsRaceShambling_Undead = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
-    "rating": "170.92",
-    "totalTournaments": 11,
-    "gamesTotal": 46,
-    "gamesWon": 22,
-    "gamesDraw": 9,
-    "gamesLost": 15,
-    "winRatio": 57.61
+    "rating": "160.28",
+    "totalTournaments": 12,
+    "gamesTotal": 51,
+    "gamesWon": 23,
+    "gamesDraw": 10,
+    "gamesLost": 18,
+    "winRatio": 54.9
   },
   {
     "NAF Nr": "21707",
@@ -28971,13 +28985,13 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Shambling Undead",
-    "rating": "153.2",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
+    "rating": "160.67",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 5,
     "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 62.5
+    "gamesLost": 2,
+    "winRatio": 68.75
   },
   {
     "NAF Nr": "22162",
@@ -32317,12 +32331,12 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Shambling Undead",
-    "rating": "162.81",
-    "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 4,
+    "rating": "165.51",
+    "totalTournaments": 3,
+    "gamesTotal": 12,
+    "gamesWon": 6,
     "gamesDraw": 4,
-    "gamesLost": 1,
+    "gamesLost": 2,
     "winRatio": 66.67
   },
   {
@@ -32352,6 +32366,20 @@ const statsRaceShambling_Undead = [
     "gamesDraw": 3,
     "gamesLost": 5,
     "winRatio": 56.67
+  },
+  {
+    "NAF Nr": "23929",
+    "NAF Name": "reximus",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Shambling Undead",
+    "rating": "155.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "23937",
@@ -32817,7 +32845,7 @@ const statsRaceShambling_Undead = [
   },
   {
     "NAF Nr": "24193",
-    "NAF Name": "serafino",
+    "NAF Name": "Serafino",
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Shambling Undead",
@@ -32905,7 +32933,7 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Shambling Undead",
-    "rating": "193.61",
+    "rating": "193.63",
     "totalTournaments": 5,
     "gamesTotal": 27,
     "gamesWon": 14,
@@ -33773,13 +33801,13 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Shambling Undead",
-    "rating": "144.79",
-    "totalTournaments": 7,
-    "gamesTotal": 36,
-    "gamesWon": 10,
-    "gamesDraw": 10,
-    "gamesLost": 16,
-    "winRatio": 41.67
+    "rating": "153.6",
+    "totalTournaments": 8,
+    "gamesTotal": 41,
+    "gamesWon": 12,
+    "gamesDraw": 12,
+    "gamesLost": 17,
+    "winRatio": 43.9
   },
   {
     "NAF Nr": "24759",
@@ -36491,11 +36519,11 @@ const statsRaceShambling_Undead = [
     "race": "Shambling Undead",
     "rating": "161.69",
     "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 3,
+    "gamesTotal": 3,
+    "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "26270",
@@ -39977,11 +40005,11 @@ const statsRaceShambling_Undead = [
     "race": "Shambling Undead",
     "rating": "161.29",
     "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 5,
+    "gamesTotal": 8,
+    "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "28106",
@@ -40983,13 +41011,13 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Shambling Undead",
-    "rating": "143.43",
-    "totalTournaments": 5,
-    "gamesTotal": 21,
+    "rating": "129.11",
+    "totalTournaments": 6,
+    "gamesTotal": 24,
     "gamesWon": 6,
     "gamesDraw": 6,
-    "gamesLost": 9,
-    "winRatio": 42.86
+    "gamesLost": 12,
+    "winRatio": 37.5
   },
   {
     "NAF Nr": "28741",
@@ -41081,7 +41109,7 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Shambling Undead",
-    "rating": "153.52",
+    "rating": "153.53",
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
@@ -42250,6 +42278,20 @@ const statsRaceShambling_Undead = [
     "gamesDraw": 1,
     "gamesLost": 2,
     "winRatio": 58.33
+  },
+  {
+    "NAF Nr": "29585",
+    "NAF Name": "izzinatah",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Shambling Undead",
+    "rating": "153.33",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "29605",
@@ -43811,7 +43853,7 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Shambling Undead",
-    "rating": "147.83",
+    "rating": "149.73",
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 5,
@@ -47255,13 +47297,13 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Shambling Undead",
-    "rating": "171.57",
-    "totalTournaments": 3,
-    "gamesTotal": 16,
+    "rating": "169.81",
+    "totalTournaments": 4,
+    "gamesTotal": 17,
     "gamesWon": 6,
-    "gamesDraw": 7,
+    "gamesDraw": 8,
     "gamesLost": 3,
-    "winRatio": 59.38
+    "winRatio": 58.82
   },
   {
     "NAF Nr": "32549",
@@ -47719,11 +47761,11 @@ const statsRaceShambling_Undead = [
     "race": "Shambling Undead",
     "rating": "140.22",
     "totalTournaments": 2,
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 16.67
   },
   {
     "NAF Nr": "32807",
@@ -49245,11 +49287,11 @@ const statsRaceShambling_Undead = [
     "race": "Shambling Undead",
     "rating": "158.2",
     "totalTournaments": 16,
-    "gamesTotal": 73,
-    "gamesWon": 24,
+    "gamesTotal": 72,
+    "gamesWon": 23,
     "gamesDraw": 24,
     "gamesLost": 25,
-    "winRatio": 49.32
+    "winRatio": 48.61
   },
   {
     "NAF Nr": "33894",
@@ -49271,13 +49313,13 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Shambling Undead",
-    "rating": "162.63",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 3,
-    "gamesDraw": 2,
+    "rating": "170.6",
+    "totalTournaments": 2,
+    "gamesTotal": 10,
+    "gamesWon": 5,
+    "gamesDraw": 4,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 70
   },
   {
     "NAF Nr": "33915",
@@ -49509,13 +49551,13 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Shambling Undead",
-    "rating": "152.5",
-    "totalTournaments": 1,
-    "gamesTotal": 1,
+    "rating": "146.13",
+    "totalTournaments": 2,
+    "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
-    "gamesLost": 0,
-    "winRatio": 100
+    "gamesLost": 1,
+    "winRatio": 50
   },
   {
     "NAF Nr": "34135",
@@ -52122,6 +52164,20 @@ const statsRaceShambling_Undead = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "36344",
+    "NAF Name": "zarganlawful",
+    "CCAA": "Apatrida",
+    "Country": "Brazil",
+    "race": "Shambling Undead",
+    "rating": "144.27",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "36345",
     "NAF Name": "Dgey",
     "CCAA": "Apatrida",
@@ -53046,6 +53102,20 @@ const statsRaceShambling_Undead = [
     "winRatio": 41.67
   },
   {
+    "NAF Nr": "37325",
+    "NAF Name": "NoveltyBoy",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Shambling Undead",
+    "rating": "159.12",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 83.33
+  },
+  {
     "NAF Nr": "37359",
     "NAF Name": "Panera",
     "CCAA": "Apatrida",
@@ -53407,6 +53477,20 @@ const statsRaceShambling_Undead = [
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 0,
+    "winRatio": 50
+  },
+  {
+    "NAF Nr": "37649",
+    "NAF Name": "theratking",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "race": "Shambling Undead",
+    "rating": "153.43",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 1,
     "winRatio": 50
   },
   {
@@ -54059,13 +54143,13 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Shambling Undead",
-    "rating": "133.74",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 0,
-    "gamesDraw": 1,
-    "gamesLost": 3,
-    "winRatio": 12.5
+    "rating": "131.17",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 5,
+    "winRatio": 25
   },
   {
     "NAF Nr": "38645",
@@ -54458,6 +54542,20 @@ const statsRaceShambling_Undead = [
     "gamesDraw": 2,
     "gamesLost": 2,
     "winRatio": 25
+  },
+  {
+    "NAF Nr": "39498",
+    "NAF Name": "loosegoose",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Shambling Undead",
+    "rating": "150.64",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 50
   },
   {
     "NAF Nr": "39503",
@@ -54990,6 +55088,20 @@ const statsRaceShambling_Undead = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "40158",
+    "NAF Name": "A.costa",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Shambling Undead",
+    "rating": "159.68",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 60
   },
   {
     "NAF Nr": "40164",
@@ -55585,7 +55697,7 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Shambling Undead",
-    "rating": 150,
+    "rating": "160.59",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
@@ -55664,6 +55776,20 @@ const statsRaceShambling_Undead = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "41440",
+    "NAF Name": "Qtsohg",
+    "CCAA": "Apatrida",
+    "Country": "South Africa",
+    "race": "Shambling Undead",
+    "rating": "138.6",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "winRatio": 25
+  },
+  {
     "NAF Nr": "41457",
     "NAF Name": "durante",
     "CCAA": "Apatrida",
@@ -55739,12 +55865,26 @@ const statsRaceShambling_Undead = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Shambling Undead",
-    "rating": 150,
+    "rating": "145.79",
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
     "winRatio": 40
+  },
+  {
+    "NAF Nr": "41782",
+    "NAF Name": "Metsamies",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "race": "Shambling Undead",
+    "rating": "146.77",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 37.5
   }
 ];

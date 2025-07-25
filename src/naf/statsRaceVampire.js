@@ -6,12 +6,12 @@ const statsRaceVampire = [
     "Country": "Cayman Islands",
     "race": "Vampire",
     "rating": "150.0",
-    "totalTournaments": 21,
-    "gamesTotal": 86,
-    "gamesWon": 26,
+    "totalTournaments": 22,
+    "gamesTotal": 89,
+    "gamesWon": 27,
     "gamesDraw": 18,
-    "gamesLost": 42,
-    "winRatio": 40.7
+    "gamesLost": 44,
+    "winRatio": 40.45
   },
   {
     "NAF Nr": "29",
@@ -1041,13 +1041,13 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Vampire",
-    "rating": "183.18",
-    "totalTournaments": 5,
-    "gamesTotal": 22,
+    "rating": "181.81",
+    "totalTournaments": 6,
+    "gamesTotal": 23,
     "gamesWon": 12,
-    "gamesDraw": 6,
+    "gamesDraw": 7,
     "gamesLost": 4,
-    "winRatio": 68.18
+    "winRatio": 67.39
   },
   {
     "NAF Nr": "3741",
@@ -2119,13 +2119,13 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Vampire",
-    "rating": "142.03",
-    "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 2,
+    "rating": "147.87",
+    "totalTournaments": 3,
+    "gamesTotal": 10,
+    "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 38.89
+    "winRatio": 45
   },
   {
     "NAF Nr": "7194",
@@ -2378,6 +2378,20 @@ const statsRaceVampire = [
     "gamesDraw": 2,
     "gamesLost": 30,
     "winRatio": 8.82
+  },
+  {
+    "NAF Nr": "7690",
+    "NAF Name": "Joanet",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "race": "Vampire",
+    "rating": "158.37",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 60
   },
   {
     "NAF Nr": "7693",
@@ -5565,11 +5579,11 @@ const statsRaceVampire = [
     "race": "Vampire",
     "rating": "160.89",
     "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 3,
+    "gamesTotal": 7,
+    "gamesWon": 2,
     "gamesDraw": 4,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 57.14
   },
   {
     "NAF Nr": "13625",
@@ -6249,13 +6263,13 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Vampire",
-    "rating": "205.87",
-    "totalTournaments": 4,
-    "gamesTotal": 27,
-    "gamesWon": 16,
-    "gamesDraw": 8,
+    "rating": "212.11",
+    "totalTournaments": 5,
+    "gamesTotal": 31,
+    "gamesWon": 19,
+    "gamesDraw": 9,
     "gamesLost": 3,
-    "winRatio": 74.07
+    "winRatio": 75.81
   },
   {
     "NAF Nr": "14962",
@@ -7943,13 +7957,13 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Vampire",
-    "rating": "168.14",
-    "totalTournaments": 18,
-    "gamesTotal": 65,
-    "gamesWon": 31,
-    "gamesDraw": 12,
+    "rating": "173.73",
+    "totalTournaments": 19,
+    "gamesTotal": 68,
+    "gamesWon": 33,
+    "gamesDraw": 13,
     "gamesLost": 22,
-    "winRatio": 56.92
+    "winRatio": 58.09
   },
   {
     "NAF Nr": "17291",
@@ -8797,13 +8811,13 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Vampire",
-    "rating": "144.79",
-    "totalTournaments": 3,
-    "gamesTotal": 15,
+    "rating": "145.14",
+    "totalTournaments": 4,
+    "gamesTotal": 16,
     "gamesWon": 5,
-    "gamesDraw": 4,
+    "gamesDraw": 5,
     "gamesLost": 6,
-    "winRatio": 46.67
+    "winRatio": 46.88
   },
   {
     "NAF Nr": "18283",
@@ -15218,6 +15232,20 @@ const statsRaceVampire = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "23507",
+    "NAF Name": "banjoclan",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Vampire",
+    "rating": "160.13",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 58.33
+  },
+  {
     "NAF Nr": "23522",
     "NAF Name": "warashes",
     "CCAA": "Apatrida",
@@ -15881,17 +15909,17 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Vampire",
-    "rating": "144.74",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
+    "rating": "144.96",
+    "totalTournaments": 2,
+    "gamesTotal": 4,
     "gamesWon": 1,
-    "gamesDraw": 0,
+    "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 37.5
   },
   {
     "NAF Nr": "24193",
-    "NAF Name": "serafino",
+    "NAF Name": "Serafino",
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Vampire",
@@ -17757,13 +17785,13 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Vampire",
-    "rating": "152.43",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
+    "rating": "137.54",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
     "gamesWon": 2,
-    "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 50
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 31.25
   },
   {
     "NAF Nr": "25744",
@@ -17862,6 +17890,20 @@ const statsRaceVampire = [
     "gamesDraw": 0,
     "gamesLost": 2,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "25799",
+    "NAF Name": "Vice",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Vampire",
+    "rating": "173.76",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "winRatio": 83.33
   },
   {
     "NAF Nr": "25800",
@@ -18625,7 +18667,7 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Vampire",
-    "rating": "157.45",
+    "rating": "160.25",
     "totalTournaments": 7,
     "gamesTotal": 31,
     "gamesWon": 14,
@@ -19353,7 +19395,7 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Vampire",
-    "rating": "163.29",
+    "rating": "169.62",
     "totalTournaments": 5,
     "gamesTotal": 18,
     "gamesWon": 10,
@@ -21140,6 +21182,20 @@ const statsRaceVampire = [
     "winRatio": 72.22
   },
   {
+    "NAF Nr": "29585",
+    "NAF Name": "izzinatah",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Vampire",
+    "rating": "144.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "29630",
     "NAF Name": "sandpeople",
     "CCAA": "Apatrida",
@@ -21341,13 +21397,13 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Vampire",
-    "rating": "66.05",
-    "totalTournaments": 12,
-    "gamesTotal": 55,
-    "gamesWon": 7,
+    "rating": "74.85",
+    "totalTournaments": 13,
+    "gamesTotal": 59,
+    "gamesWon": 9,
     "gamesDraw": 14,
-    "gamesLost": 34,
-    "winRatio": 25.45
+    "gamesLost": 36,
+    "winRatio": 27.12
   },
   {
     "NAF Nr": "29899",
@@ -21607,13 +21663,13 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Vampire",
-    "rating": "164.89",
-    "totalTournaments": 3,
-    "gamesTotal": 7,
-    "gamesWon": 5,
+    "rating": "168.18",
+    "totalTournaments": 4,
+    "gamesTotal": 10,
+    "gamesWon": 7,
     "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 71.43
+    "gamesLost": 3,
+    "winRatio": 70
   },
   {
     "NAF Nr": "30139",
@@ -21861,11 +21917,11 @@ const statsRaceVampire = [
     "race": "Vampire",
     "rating": "158.79",
     "totalTournaments": 6,
-    "gamesTotal": 22,
-    "gamesWon": 12,
+    "gamesTotal": 21,
+    "gamesWon": 11,
     "gamesDraw": 3,
     "gamesLost": 7,
-    "winRatio": 61.36
+    "winRatio": 59.52
   },
   {
     "NAF Nr": "30575",
@@ -23254,6 +23310,20 @@ const statsRaceVampire = [
     "winRatio": 10
   },
   {
+    "NAF Nr": "31856",
+    "NAF Name": "calaricky",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "race": "Vampire",
+    "rating": "146.68",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 37.5
+  },
+  {
     "NAF Nr": "31865",
     "NAF Name": "efty",
     "CCAA": "Apatrida",
@@ -23399,13 +23469,13 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Vampire",
-    "rating": "161.3",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
+    "rating": "160.82",
+    "totalTournaments": 2,
+    "gamesTotal": 5,
     "gamesWon": 3,
-    "gamesDraw": 0,
+    "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 70
   },
   {
     "NAF Nr": "32046",
@@ -23896,6 +23966,20 @@ const statsRaceVampire = [
     "gamesDraw": 2,
     "gamesLost": 3,
     "winRatio": 77.78
+  },
+  {
+    "NAF Nr": "32547",
+    "NAF Name": "cptoats",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Vampire",
+    "rating": "150.88",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 50
   },
   {
     "NAF Nr": "32553",
@@ -24505,7 +24589,7 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Vampire",
-    "rating": "219.84",
+    "rating": "226.96",
     "totalTournaments": 16,
     "gamesTotal": 72,
     "gamesWon": 46,
@@ -24519,7 +24603,7 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Vampire",
-    "rating": "117.32",
+    "rating": "103.42",
     "totalTournaments": 7,
     "gamesTotal": 35,
     "gamesWon": 8,
@@ -28098,6 +28182,20 @@ const statsRaceVampire = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "38029",
+    "NAF Name": "steamtank",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Vampire",
+    "rating": "155.16",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 58.33
+  },
+  {
     "NAF Nr": "38031",
     "NAF Name": "KaPOWski",
     "CCAA": "Apatrida",
@@ -28117,7 +28215,7 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Vampire",
-    "rating": 150,
+    "rating": "155.62",
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
@@ -28201,13 +28299,13 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Vampire",
-    "rating": "153.94",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
-    "gamesWon": 1,
+    "rating": "159.34",
+    "totalTournaments": 2,
+    "gamesTotal": 10,
+    "gamesWon": 4,
     "gamesDraw": 2,
-    "gamesLost": 2,
-    "winRatio": 40
+    "gamesLost": 4,
+    "winRatio": 50
   },
   {
     "NAF Nr": "38295",
@@ -28691,13 +28789,13 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Vampire",
-    "rating": "145.41",
-    "totalTournaments": 3,
-    "gamesTotal": 13,
-    "gamesWon": 4,
-    "gamesDraw": 4,
-    "gamesLost": 5,
-    "winRatio": 46.15
+    "rating": "143.54",
+    "totalTournaments": 4,
+    "gamesTotal": 19,
+    "gamesWon": 6,
+    "gamesDraw": 5,
+    "gamesLost": 8,
+    "winRatio": 44.74
   },
   {
     "NAF Nr": "38995",
@@ -28824,6 +28922,20 @@ const statsRaceVampire = [
     "gamesDraw": 1,
     "gamesLost": 2,
     "winRatio": 16.67
+  },
+  {
+    "NAF Nr": "39498",
+    "NAF Name": "loosegoose",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Vampire",
+    "rating": "155.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "39578",
@@ -29134,6 +29246,20 @@ const statsRaceVampire = [
     "winRatio": 0
   },
   {
+    "NAF Nr": "40480",
+    "NAF Name": "Unicornio_Feliz",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "race": "Vampire",
+    "rating": "156.77",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 62.5
+  },
+  {
     "NAF Nr": "40533",
     "NAF Name": "tictacjoe",
     "CCAA": "Apatrida",
@@ -29260,6 +29386,20 @@ const statsRaceVampire = [
     "winRatio": 70
   },
   {
+    "NAF Nr": "40935",
+    "NAF Name": "Regor",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
+    "race": "Vampire",
+    "rating": "158.86",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 83.33
+  },
+  {
     "NAF Nr": "41010",
     "NAF Name": "Squishy",
     "CCAA": "Apatrida",
@@ -29321,12 +29461,12 @@ const statsRaceVampire = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Vampire",
-    "rating": "143.81",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
+    "rating": "135.89",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
     "gamesWon": 0,
-    "gamesDraw": 1,
-    "gamesLost": 2,
+    "gamesDraw": 2,
+    "gamesLost": 4,
     "winRatio": 16.67
   },
   {

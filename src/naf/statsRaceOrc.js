@@ -20,12 +20,12 @@ const statsRaceOrc = [
     "Country": "Cayman Islands",
     "race": "Orc",
     "rating": "150.0",
-    "totalTournaments": 45,
-    "gamesTotal": 207,
-    "gamesWon": 51,
-    "gamesDraw": 39,
-    "gamesLost": 117,
-    "winRatio": 34.06
+    "totalTournaments": 46,
+    "gamesTotal": 212,
+    "gamesWon": 54,
+    "gamesDraw": 40,
+    "gamesLost": 118,
+    "winRatio": 34.91
   },
   {
     "NAF Nr": "25",
@@ -4821,13 +4821,13 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Orc",
-    "rating": "176.63",
-    "totalTournaments": 8,
-    "gamesTotal": 34,
-    "gamesWon": 17,
+    "rating": "189.27",
+    "totalTournaments": 9,
+    "gamesTotal": 37,
+    "gamesWon": 20,
     "gamesDraw": 7,
     "gamesLost": 10,
-    "winRatio": 60.29
+    "winRatio": 63.51
   },
   {
     "NAF Nr": "4824",
@@ -11396,6 +11396,20 @@ const statsRaceOrc = [
     "winRatio": 35
   },
   {
+    "NAF Nr": "9649",
+    "NAF Name": "Pacasso",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Orc",
+    "rating": "151.57",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "9650",
     "NAF Name": "Juanant",
     "CCAA": "Apatrida",
@@ -14561,7 +14575,7 @@ const statsRaceOrc = [
   },
   {
     "NAF Nr": "11655",
-    "NAF Name": "SinisterDexter",
+    "NAF Name": "SinDex66",
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Orc",
@@ -18723,7 +18737,7 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Orc",
-    "rating": "152.93",
+    "rating": "153.17",
     "totalTournaments": 12,
     "gamesTotal": 60,
     "gamesWon": 21,
@@ -26423,7 +26437,7 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Orc",
-    "rating": "157.78",
+    "rating": "157.79",
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 2,
@@ -26997,13 +27011,13 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Orc",
-    "rating": "153.05",
-    "totalTournaments": 2,
-    "gamesTotal": 12,
-    "gamesWon": 4,
-    "gamesDraw": 4,
-    "gamesLost": 4,
-    "winRatio": 50
+    "rating": "149.43",
+    "totalTournaments": 3,
+    "gamesTotal": 16,
+    "gamesWon": 5,
+    "gamesDraw": 5,
+    "gamesLost": 6,
+    "winRatio": 46.88
   },
   {
     "NAF Nr": "17701",
@@ -39485,13 +39499,13 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Orc",
-    "rating": "157.74",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 3,
+    "rating": "157.71",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 5,
     "gamesDraw": 0,
-    "gamesLost": 1,
-    "winRatio": 75
+    "gamesLost": 3,
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "21958",
@@ -41837,7 +41851,7 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Orc",
-    "rating": "181.46",
+    "rating": "181.67",
     "totalTournaments": 5,
     "gamesTotal": 28,
     "gamesWon": 14,
@@ -43013,13 +43027,13 @@ const statsRaceOrc = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Orc",
-    "rating": "194.98",
-    "totalTournaments": 10,
-    "gamesTotal": 40,
-    "gamesWon": 19,
+    "rating": "176.31",
+    "totalTournaments": 11,
+    "gamesTotal": 44,
+    "gamesWon": 20,
     "gamesDraw": 12,
-    "gamesLost": 9,
-    "winRatio": 62.5
+    "gamesLost": 12,
+    "winRatio": 59.09
   },
   {
     "NAF Nr": "23165",
@@ -46009,13 +46023,13 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Orc",
-    "rating": "161.92",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
+    "rating": "162.03",
+    "totalTournaments": 4,
+    "gamesTotal": 13,
     "gamesWon": 6,
-    "gamesDraw": 3,
+    "gamesDraw": 4,
     "gamesLost": 3,
-    "winRatio": 62.5
+    "winRatio": 61.54
   },
   {
     "NAF Nr": "24052",
@@ -46551,7 +46565,7 @@ const statsRaceOrc = [
   },
   {
     "NAF Nr": "24193",
-    "NAF Name": "serafino",
+    "NAF Name": "Serafino",
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Orc",
@@ -49789,12 +49803,12 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Orc",
-    "rating": "149.88",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
+    "rating": "148.17",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 4,
     "gamesDraw": 0,
-    "gamesLost": 2,
+    "gamesLost": 4,
     "winRatio": 50
   },
   {
@@ -54073,13 +54087,13 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Orc",
-    "rating": "148.87",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 3,
-    "gamesDraw": 0,
-    "gamesLost": 3,
-    "winRatio": 50
+    "rating": "157.74",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 6,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 54.17
   },
   {
     "NAF Nr": "26396",
@@ -55270,6 +55284,20 @@ const statsRaceOrc = [
     "gamesDraw": 7,
     "gamesLost": 7,
     "winRatio": 62.5
+  },
+  {
+    "NAF Nr": "26832",
+    "NAF Name": "OBERON.",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
+    "race": "Orc",
+    "rating": "127.63",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "winRatio": 10
   },
   {
     "NAF Nr": "26833",
@@ -60065,13 +60093,13 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Orc",
-    "rating": "154.06",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 0,
-    "gamesLost": 1,
-    "winRatio": 66.67
+    "rating": "153.68",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 58.33
   },
   {
     "NAF Nr": "28711",
@@ -63985,13 +64013,13 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Orc",
-    "rating": "141.22",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
+    "rating": "118.71",
+    "totalTournaments": 3,
+    "gamesTotal": 12,
     "gamesWon": 2,
     "gamesDraw": 2,
-    "gamesLost": 4,
-    "winRatio": 37.5
+    "gamesLost": 8,
+    "winRatio": 25
   },
   {
     "NAF Nr": "30609",
@@ -65511,13 +65539,13 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Orc",
-    "rating": "158.07",
-    "totalTournaments": 23,
-    "gamesTotal": 111,
-    "gamesWon": 40,
-    "gamesDraw": 33,
-    "gamesLost": 38,
-    "winRatio": 50.9
+    "rating": "159.37",
+    "totalTournaments": 24,
+    "gamesTotal": 115,
+    "gamesWon": 42,
+    "gamesDraw": 34,
+    "gamesLost": 39,
+    "winRatio": 51.3
   },
   {
     "NAF Nr": "31309",
@@ -65567,13 +65595,13 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Orc",
-    "rating": "95.58",
-    "totalTournaments": 8,
-    "gamesTotal": 30,
+    "rating": "94.54",
+    "totalTournaments": 9,
+    "gamesTotal": 32,
     "gamesWon": 6,
-    "gamesDraw": 6,
-    "gamesLost": 18,
-    "winRatio": 30
+    "gamesDraw": 7,
+    "gamesLost": 19,
+    "winRatio": 29.69
   },
   {
     "NAF Nr": "31337",
@@ -65679,13 +65707,13 @@ const statsRaceOrc = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Orc",
-    "rating": "101.46",
-    "totalTournaments": 20,
-    "gamesTotal": 86,
-    "gamesWon": 17,
+    "rating": "99.51",
+    "totalTournaments": 21,
+    "gamesTotal": 90,
+    "gamesWon": 18,
     "gamesDraw": 21,
-    "gamesLost": 48,
-    "winRatio": 31.98
+    "gamesLost": 51,
+    "winRatio": 31.67
   },
   {
     "NAF Nr": "31367",
@@ -68521,7 +68549,7 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Orc",
-    "rating": "83.75",
+    "rating": "83.77",
     "totalTournaments": 7,
     "gamesTotal": 22,
     "gamesWon": 2,
@@ -68598,6 +68626,20 @@ const statsRaceOrc = [
     "gamesDraw": 0,
     "gamesLost": 4,
     "winRatio": 20
+  },
+  {
+    "NAF Nr": "32519",
+    "NAF Name": "starferret",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Orc",
+    "rating": "154.03",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "32521",
@@ -71657,7 +71699,7 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Orc",
-    "rating": "168.71",
+    "rating": "168.61",
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 6,
@@ -72343,7 +72385,7 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "Ireland",
     "race": "Orc",
-    "rating": "159.98",
+    "rating": "159.99",
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 6,
@@ -72917,13 +72959,13 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Orc",
-    "rating": "178.79",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
-    "gamesWon": 7,
-    "gamesDraw": 4,
-    "gamesLost": 1,
-    "winRatio": 75
+    "rating": "184.93",
+    "totalTournaments": 4,
+    "gamesTotal": 18,
+    "gamesWon": 10,
+    "gamesDraw": 6,
+    "gamesLost": 2,
+    "winRatio": 72.22
   },
   {
     "NAF Nr": "34620",
@@ -72931,13 +72973,13 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Orc",
-    "rating": "193.1",
-    "totalTournaments": 5,
-    "gamesTotal": 21,
-    "gamesWon": 14,
-    "gamesDraw": 5,
-    "gamesLost": 2,
-    "winRatio": 78.57
+    "rating": "189.95",
+    "totalTournaments": 6,
+    "gamesTotal": 27,
+    "gamesWon": 16,
+    "gamesDraw": 8,
+    "gamesLost": 3,
+    "winRatio": 74.07
   },
   {
     "NAF Nr": "34628",
@@ -74592,6 +74634,20 @@ const statsRaceOrc = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "35783",
+    "NAF Name": "Primhak",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Orc",
+    "rating": "144.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "35785",
     "NAF Name": "SeveralSeals",
     "CCAA": "Apatrida",
@@ -74828,6 +74884,20 @@ const statsRaceOrc = [
     "gamesDraw": 2,
     "gamesLost": 6,
     "winRatio": 30
+  },
+  {
+    "NAF Nr": "35997",
+    "NAF Name": "lachlanbc",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Orc",
+    "rating": "155.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "36013",
@@ -76291,13 +76361,13 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Orc",
-    "rating": "161.18",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
+    "rating": "155.41",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
     "gamesWon": 3,
-    "gamesDraw": 2,
-    "gamesLost": 1,
-    "winRatio": 66.67
+    "gamesDraw": 3,
+    "gamesLost": 3,
+    "winRatio": 50
   },
   {
     "NAF Nr": "36950",
@@ -77147,11 +77217,11 @@ const statsRaceOrc = [
     "race": "Orc",
     "rating": "119.74",
     "totalTournaments": 9,
-    "gamesTotal": 36,
+    "gamesTotal": 35,
     "gamesWon": 9,
     "gamesDraw": 6,
-    "gamesLost": 21,
-    "winRatio": 33.33
+    "gamesLost": 20,
+    "winRatio": 34.29
   },
   {
     "NAF Nr": "37665",
@@ -78307,13 +78377,13 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Orc",
-    "rating": "111.21",
-    "totalTournaments": 6,
-    "gamesTotal": 18,
+    "rating": "99.16",
+    "totalTournaments": 7,
+    "gamesTotal": 21,
     "gamesWon": 2,
     "gamesDraw": 2,
-    "gamesLost": 14,
-    "winRatio": 16.67
+    "gamesLost": 17,
+    "winRatio": 14.29
   },
   {
     "NAF Nr": "38615",
@@ -78699,13 +78769,13 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Orc",
-    "rating": "142.97",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 0,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 16.67
+    "rating": "143.36",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "38931",
@@ -79777,13 +79847,27 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Orc",
-    "rating": "156.04",
-    "totalTournaments": 2,
-    "gamesTotal": 5,
+    "rating": "150.08",
+    "totalTournaments": 3,
+    "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 70
+    "gamesLost": 2,
+    "winRatio": 58.33
+  },
+  {
+    "NAF Nr": "39947",
+    "NAF Name": "Willdebeast",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Orc",
+    "rating": "150.06",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 50
   },
   {
     "NAF Nr": "39954",
@@ -79861,7 +79945,7 @@ const statsRaceOrc = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Orc",
-    "rating": "133.26",
+    "rating": "118.69",
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 0,
@@ -80640,6 +80724,20 @@ const statsRaceOrc = [
     "winRatio": 10
   },
   {
+    "NAF Nr": "40942",
+    "NAF Name": "Chiggles",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Orc",
+    "rating": "143.96",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "40949",
     "NAF Name": "easymodenub",
     "CCAA": "Apatrida",
@@ -81032,6 +81130,34 @@ const statsRaceOrc = [
     "winRatio": 10
   },
   {
+    "NAF Nr": "41646",
+    "NAF Name": "olanzo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "race": "Orc",
+    "rating": "143.89",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "41652",
+    "NAF Name": "Medinako",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Orc",
+    "rating": "163.26",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 70
+  },
+  {
     "NAF Nr": "41727",
     "NAF Name": "Gingerstarlord69",
     "CCAA": "Apatrida",
@@ -81044,5 +81170,19 @@ const statsRaceOrc = [
     "gamesDraw": 0,
     "gamesLost": 1,
     "winRatio": 66.67
+  },
+  {
+    "NAF Nr": "41750",
+    "NAF Name": "ketchup",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "race": "Orc",
+    "rating": "153.62",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "winRatio": 50
   }
 ];

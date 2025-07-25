@@ -957,13 +957,13 @@ const statsRaceSnotling = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Snotling",
-    "rating": "150.37",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
-    "gamesDraw": 0,
+    "rating": "169.07",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 5,
+    "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 68.75
   },
   {
     "NAF Nr": "8243",
@@ -2273,13 +2273,13 @@ const statsRaceSnotling = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Snotling",
-    "rating": "186.46",
-    "totalTournaments": 7,
-    "gamesTotal": 26,
-    "gamesWon": 14,
-    "gamesDraw": 9,
-    "gamesLost": 3,
-    "winRatio": 71.15
+    "rating": "186.6",
+    "totalTournaments": 8,
+    "gamesTotal": 32,
+    "gamesWon": 16,
+    "gamesDraw": 12,
+    "gamesLost": 4,
+    "winRatio": 68.75
   },
   {
     "NAF Nr": "16694",
@@ -2308,6 +2308,20 @@ const statsRaceSnotling = [
     "gamesDraw": 1,
     "gamesLost": 2,
     "winRatio": 58.33
+  },
+  {
+    "NAF Nr": "16802",
+    "NAF Name": "daht",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Snotling",
+    "rating": "154.81",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "16821",
@@ -2931,7 +2945,7 @@ const statsRaceSnotling = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Snotling",
-    "rating": "140.13",
+    "rating": "140.02",
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
@@ -3687,13 +3701,13 @@ const statsRaceSnotling = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Snotling",
-    "rating": "167.98",
-    "totalTournaments": 5,
-    "gamesTotal": 18,
-    "gamesWon": 10,
-    "gamesDraw": 2,
-    "gamesLost": 6,
-    "winRatio": 61.11
+    "rating": "164.87",
+    "totalTournaments": 6,
+    "gamesTotal": 22,
+    "gamesWon": 11,
+    "gamesDraw": 4,
+    "gamesLost": 7,
+    "winRatio": 59.09
   },
   {
     "NAF Nr": "20817",
@@ -4114,6 +4128,20 @@ const statsRaceSnotling = [
     "gamesDraw": 2,
     "gamesLost": 1,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "21511",
+    "NAF Name": "tmartin",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Snotling",
+    "rating": "154.98",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "21558",
@@ -11242,6 +11270,20 @@ const statsRaceSnotling = [
     "winRatio": 37.5
   },
   {
+    "NAF Nr": "32391",
+    "NAF Name": "dodge22",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Snotling",
+    "rating": "155.06",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
+  },
+  {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
     "CCAA": "Apatrida",
@@ -11681,13 +11723,13 @@ const statsRaceSnotling = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Snotling",
-    "rating": "133.69",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
+    "rating": "125.95",
+    "totalTournaments": 4,
+    "gamesTotal": 15,
     "gamesWon": 4,
-    "gamesDraw": 2,
-    "gamesLost": 6,
-    "winRatio": 41.67
+    "gamesDraw": 3,
+    "gamesLost": 8,
+    "winRatio": 36.67
   },
   {
     "NAF Nr": "32835",
@@ -12866,6 +12908,20 @@ const statsRaceSnotling = [
     "winRatio": 100
   },
   {
+    "NAF Nr": "34554",
+    "NAF Name": "Hack",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Snotling",
+    "rating": "149.2",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "34572",
     "NAF Name": "bombero911",
     "CCAA": "Apatrida",
@@ -13284,6 +13340,20 @@ const statsRaceSnotling = [
     "gamesDraw": 2,
     "gamesLost": 0,
     "winRatio": 66.67
+  },
+  {
+    "NAF Nr": "35260",
+    "NAF Name": "smellydiaper",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "race": "Snotling",
+    "rating": "149.63",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
   },
   {
     "NAF Nr": "35360",
@@ -14378,6 +14448,20 @@ const statsRaceSnotling = [
     "winRatio": 87.5
   },
   {
+    "NAF Nr": "39265",
+    "NAF Name": "davidmcnicol",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "race": "Snotling",
+    "rating": "133.36",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "39346",
     "NAF Name": "neodaud",
     "CCAA": "Apatrida",
@@ -14418,6 +14502,20 @@ const statsRaceSnotling = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 25
+  },
+  {
+    "NAF Nr": "39512",
+    "NAF Name": "mrpacifist",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Snotling",
+    "rating": "137.14",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
   },
   {
     "NAF Nr": "39809",

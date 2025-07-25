@@ -2189,7 +2189,7 @@ const statsRaceUnderworld_Denizens = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Underworld Denizens",
-    "rating": "191.71",
+    "rating": "191.7",
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 9,
@@ -7672,6 +7672,20 @@ const statsRaceUnderworld_Denizens = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "17030",
+    "NAF Name": "Morkman",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Underworld Denizens",
+    "rating": "162.84",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
+  },
+  {
     "NAF Nr": "17038",
     "NAF Name": "Jazmin",
     "CCAA": "Catalunya ",
@@ -12059,13 +12073,13 @@ const statsRaceUnderworld_Denizens = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Underworld Denizens",
-    "rating": "213.65",
-    "totalTournaments": 12,
-    "gamesTotal": 52,
-    "gamesWon": 34,
-    "gamesDraw": 11,
+    "rating": "223.06",
+    "totalTournaments": 13,
+    "gamesTotal": 56,
+    "gamesWon": 37,
+    "gamesDraw": 12,
     "gamesLost": 7,
-    "winRatio": 75.96
+    "winRatio": 76.79
   },
   {
     "NAF Nr": "20824",
@@ -14481,13 +14495,13 @@ const statsRaceUnderworld_Denizens = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Underworld Denizens",
-    "rating": "197.57",
-    "totalTournaments": 9,
-    "gamesTotal": 42,
-    "gamesWon": 24,
+    "rating": "190.47",
+    "totalTournaments": 10,
+    "gamesTotal": 46,
+    "gamesWon": 26,
     "gamesDraw": 10,
-    "gamesLost": 8,
-    "winRatio": 69.05
+    "gamesLost": 10,
+    "winRatio": 67.39
   },
   {
     "NAF Nr": "22364",
@@ -16689,7 +16703,7 @@ const statsRaceUnderworld_Denizens = [
   },
   {
     "NAF Nr": "24193",
-    "NAF Name": "serafino",
+    "NAF Name": "Serafino",
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Underworld Denizens",
@@ -20711,13 +20725,13 @@ const statsRaceUnderworld_Denizens = [
     "CCAA": "Murcia",
     "Country": "Spain",
     "race": "Underworld Denizens",
-    "rating": "187.48",
-    "totalTournaments": 5,
-    "gamesTotal": 20,
-    "gamesWon": 12,
-    "gamesDraw": 5,
+    "rating": "192.35",
+    "totalTournaments": 6,
+    "gamesTotal": 22,
+    "gamesWon": 13,
+    "gamesDraw": 6,
     "gamesLost": 3,
-    "winRatio": 72.5
+    "winRatio": 72.73
   },
   {
     "NAF Nr": "27866",
@@ -26103,11 +26117,11 @@ const statsRaceUnderworld_Denizens = [
     "race": "Underworld Denizens",
     "rating": "179.26",
     "totalTournaments": 4,
-    "gamesTotal": 17,
-    "gamesWon": 10,
+    "gamesTotal": 16,
+    "gamesWon": 9,
     "gamesDraw": 4,
     "gamesLost": 3,
-    "winRatio": 70.59
+    "winRatio": 68.75
   },
   {
     "NAF Nr": "34067",
@@ -27475,11 +27489,11 @@ const statsRaceUnderworld_Denizens = [
     "race": "Underworld Denizens",
     "rating": "193.89",
     "totalTournaments": 3,
-    "gamesTotal": 13,
-    "gamesWon": 10,
+    "gamesTotal": 12,
+    "gamesWon": 9,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 84.62
+    "winRatio": 83.33
   },
   {
     "NAF Nr": "37253",
@@ -28033,7 +28047,7 @@ const statsRaceUnderworld_Denizens = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Underworld Denizens",
-    "rating": 150,
+    "rating": "145.82",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
@@ -28047,7 +28061,7 @@ const statsRaceUnderworld_Denizens = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Underworld Denizens",
-    "rating": 150,
+    "rating": "150.66",
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,

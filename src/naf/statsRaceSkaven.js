@@ -34,12 +34,12 @@ const statsRaceSkaven = [
     "Country": "Cayman Islands",
     "race": "Skaven",
     "rating": "150.0",
-    "totalTournaments": 32,
-    "gamesTotal": 126,
-    "gamesWon": 39,
-    "gamesDraw": 30,
-    "gamesLost": 57,
-    "winRatio": 42.86
+    "totalTournaments": 34,
+    "gamesTotal": 132,
+    "gamesWon": 41,
+    "gamesDraw": 31,
+    "gamesLost": 60,
+    "winRatio": 42.8
   },
   {
     "NAF Nr": "25",
@@ -11159,7 +11159,7 @@ const statsRaceSkaven = [
   },
   {
     "NAF Nr": "11655",
-    "NAF Name": "SinisterDexter",
+    "NAF Name": "SinDex66",
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Skaven",
@@ -12311,13 +12311,13 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Skaven",
-    "rating": "163.36",
-    "totalTournaments": 5,
-    "gamesTotal": 26,
-    "gamesWon": 13,
-    "gamesDraw": 3,
-    "gamesLost": 10,
-    "winRatio": 55.77
+    "rating": "162.68",
+    "totalTournaments": 6,
+    "gamesTotal": 29,
+    "gamesWon": 14,
+    "gamesDraw": 4,
+    "gamesLost": 11,
+    "winRatio": 55.17
   },
   {
     "NAF Nr": "12600",
@@ -15265,13 +15265,13 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Skaven",
-    "rating": "143.99",
-    "totalTournaments": 2,
-    "gamesTotal": 7,
+    "rating": "130.57",
+    "totalTournaments": 3,
+    "gamesTotal": 11,
     "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 4,
-    "winRatio": 35.71
+    "gamesDraw": 2,
+    "gamesLost": 7,
+    "winRatio": 27.27
   },
   {
     "NAF Nr": "14738",
@@ -18933,13 +18933,13 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Skaven",
-    "rating": "149.99",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "rating": "155.49",
+    "totalTournaments": 2,
+    "gamesTotal": 5,
+    "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 60
   },
   {
     "NAF Nr": "17327",
@@ -19955,7 +19955,7 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Skaven",
-    "rating": "204.77",
+    "rating": "204.93",
     "totalTournaments": 26,
     "gamesTotal": 126,
     "gamesWon": 62,
@@ -22289,7 +22289,7 @@ const statsRaceSkaven = [
   },
   {
     "NAF Nr": "19127",
-    "NAF Name": "Verena",
+    "NAF Name": "mother_of_dragons",
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Skaven",
@@ -24617,13 +24617,13 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Skaven",
-    "rating": "185.97",
-    "totalTournaments": 13,
-    "gamesTotal": 55,
-    "gamesWon": 24,
-    "gamesDraw": 14,
+    "rating": "195.64",
+    "totalTournaments": 14,
+    "gamesTotal": 59,
+    "gamesWon": 27,
+    "gamesDraw": 15,
     "gamesLost": 17,
-    "winRatio": 56.36
+    "winRatio": 58.47
   },
   {
     "NAF Nr": "20259",
@@ -25863,13 +25863,13 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Skaven",
-    "rating": "177.0",
-    "totalTournaments": 6,
-    "gamesTotal": 20,
-    "gamesWon": 12,
+    "rating": "186.41",
+    "totalTournaments": 7,
+    "gamesTotal": 23,
+    "gamesWon": 15,
     "gamesDraw": 4,
     "gamesLost": 4,
-    "winRatio": 70
+    "winRatio": 73.91
   },
   {
     "NAF Nr": "20771",
@@ -29643,13 +29643,13 @@ const statsRaceSkaven = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Skaven",
-    "rating": "212.61",
-    "totalTournaments": 12,
-    "gamesTotal": 58,
-    "gamesWon": 35,
-    "gamesDraw": 11,
-    "gamesLost": 12,
-    "winRatio": 69.83
+    "rating": "210.31",
+    "totalTournaments": 13,
+    "gamesTotal": 62,
+    "gamesWon": 37,
+    "gamesDraw": 12,
+    "gamesLost": 13,
+    "winRatio": 69.35
   },
   {
     "NAF Nr": "22366",
@@ -31379,13 +31379,13 @@ const statsRaceSkaven = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Skaven",
-    "rating": "143.97",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 37.5
+    "rating": "151.81",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 50
   },
   {
     "NAF Nr": "23313",
@@ -33395,13 +33395,13 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Skaven",
-    "rating": "156.76",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
+    "rating": "161.97",
+    "totalTournaments": 2,
+    "gamesTotal": 5,
+    "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 70
   },
   {
     "NAF Nr": "24162",
@@ -33517,7 +33517,7 @@ const statsRaceSkaven = [
   },
   {
     "NAF Nr": "24193",
-    "NAF Name": "serafino",
+    "NAF Name": "Serafino",
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Skaven",
@@ -44413,13 +44413,13 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Skaven",
-    "rating": "150.18",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 2,
-    "gamesDraw": 2,
+    "rating": "154.07",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 4,
+    "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 61.11
   },
   {
     "NAF Nr": "29756",
@@ -46541,13 +46541,13 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Skaven",
-    "rating": "159.0",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 2,
+    "rating": "153.71",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 4,
     "gamesDraw": 1,
-    "gamesLost": 0,
-    "winRatio": 83.33
+    "gamesLost": 2,
+    "winRatio": 64.29
   },
   {
     "NAF Nr": "31339",
@@ -46709,13 +46709,13 @@ const statsRaceSkaven = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Skaven",
-    "rating": "168.44",
-    "totalTournaments": 9,
-    "gamesTotal": 35,
-    "gamesWon": 14,
-    "gamesDraw": 9,
-    "gamesLost": 12,
-    "winRatio": 52.86
+    "rating": "166.21",
+    "totalTournaments": 10,
+    "gamesTotal": 39,
+    "gamesWon": 15,
+    "gamesDraw": 11,
+    "gamesLost": 13,
+    "winRatio": 52.56
   },
   {
     "NAF Nr": "31443",
@@ -47320,18 +47320,32 @@ const statsRaceSkaven = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "31709",
+    "NAF Name": "Cantonalix",
+    "CCAA": "Murcia",
+    "Country": "Spain",
+    "race": "Skaven",
+    "rating": "150.27",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
+  },
+  {
     "NAF Nr": "31718",
     "NAF Name": "Tax-e-CAB",
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Skaven",
-    "rating": "138.52",
-    "totalTournaments": 4,
-    "gamesTotal": 15,
+    "rating": "126.66",
+    "totalTournaments": 5,
+    "gamesTotal": 18,
     "gamesWon": 3,
     "gamesDraw": 4,
-    "gamesLost": 8,
-    "winRatio": 33.33
+    "gamesLost": 11,
+    "winRatio": 27.78
   },
   {
     "NAF Nr": "31727",
@@ -47927,13 +47941,13 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Skaven",
-    "rating": "165.16",
-    "totalTournaments": 2,
-    "gamesTotal": 9,
+    "rating": "164.52",
+    "totalTournaments": 3,
+    "gamesTotal": 10,
     "gamesWon": 4,
-    "gamesDraw": 3,
+    "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 61.11
+    "winRatio": 60
   },
   {
     "NAF Nr": "32030",
@@ -48249,13 +48263,13 @@ const statsRaceSkaven = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Skaven",
-    "rating": "173.69",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 4,
-    "gamesDraw": 0,
+    "rating": "181.66",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 6,
+    "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 87.5
   },
   {
     "NAF Nr": "32177",
@@ -50111,13 +50125,13 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Skaven",
-    "rating": "134.26",
-    "totalTournaments": 3,
-    "gamesTotal": 9,
+    "rating": "124.89",
+    "totalTournaments": 4,
+    "gamesTotal": 12,
     "gamesWon": 1,
-    "gamesDraw": 3,
-    "gamesLost": 5,
-    "winRatio": 27.78
+    "gamesDraw": 4,
+    "gamesLost": 7,
+    "winRatio": 25
   },
   {
     "NAF Nr": "33291",
@@ -50741,13 +50755,13 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Skaven",
-    "rating": "162.1",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 3,
-    "gamesDraw": 0,
+    "rating": "164.36",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 83.33
   },
   {
     "NAF Nr": "33754",
@@ -51007,13 +51021,13 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Skaven",
-    "rating": "154.06",
-    "totalTournaments": 6,
-    "gamesTotal": 29,
-    "gamesWon": 10,
-    "gamesDraw": 6,
-    "gamesLost": 13,
-    "winRatio": 44.83
+    "rating": "158.95",
+    "totalTournaments": 7,
+    "gamesTotal": 33,
+    "gamesWon": 12,
+    "gamesDraw": 7,
+    "gamesLost": 14,
+    "winRatio": 46.97
   },
   {
     "NAF Nr": "33908",
@@ -52127,13 +52141,13 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Skaven",
-    "rating": "142.56",
-    "totalTournaments": 6,
-    "gamesTotal": 27,
-    "gamesWon": 8,
-    "gamesDraw": 7,
+    "rating": "147.1",
+    "totalTournaments": 7,
+    "gamesTotal": 30,
+    "gamesWon": 9,
+    "gamesDraw": 9,
     "gamesLost": 12,
-    "winRatio": 42.59
+    "winRatio": 45
   },
   {
     "NAF Nr": "34558",
@@ -53779,13 +53793,13 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Skaven",
-    "rating": "131.81",
-    "totalTournaments": 3,
-    "gamesTotal": 10,
-    "gamesWon": 1,
+    "rating": "138.18",
+    "totalTournaments": 4,
+    "gamesTotal": 11,
+    "gamesWon": 2,
     "gamesDraw": 4,
     "gamesLost": 5,
-    "winRatio": 30
+    "winRatio": 36.36
   },
   {
     "NAF Nr": "35771",
@@ -54158,12 +54172,12 @@ const statsRaceSkaven = [
     "Country": "England",
     "race": "Skaven",
     "rating": "152.97",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
+    "totalTournaments": 1,
+    "gamesTotal": 3,
     "gamesWon": 1,
-    "gamesDraw": 3,
-    "gamesLost": 2,
-    "winRatio": 41.67
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
   },
   {
     "NAF Nr": "36176",
@@ -56133,10 +56147,10 @@ const statsRaceSkaven = [
     "race": "Skaven",
     "rating": "140.79",
     "totalTournaments": 1,
-    "gamesTotal": 3,
+    "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 0,
-    "gamesLost": 3,
+    "gamesLost": 2,
     "winRatio": 0
   },
   {
@@ -56602,6 +56616,20 @@ const statsRaceSkaven = [
     "winRatio": 7.14
   },
   {
+    "NAF Nr": "38831",
+    "NAF Name": "AdamHuey",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "race": "Skaven",
+    "rating": "164.72",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 70
+  },
+  {
     "NAF Nr": "38881",
     "NAF Name": "naga",
     "CCAA": "Apatrida",
@@ -56656,6 +56684,20 @@ const statsRaceSkaven = [
     "gamesDraw": 0,
     "gamesLost": 2,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "38978",
+    "NAF Name": "Tehgregster",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "race": "Skaven",
+    "rating": "138.26",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 16.67
   },
   {
     "NAF Nr": "39023",
@@ -56831,7 +56873,7 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Skaven",
-    "rating": "147.02",
+    "rating": "147.26",
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 3,
@@ -57335,7 +57377,7 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Skaven",
-    "rating": "161.84",
+    "rating": "161.85",
     "totalTournaments": 4,
     "gamesTotal": 22,
     "gamesWon": 10,
@@ -57965,13 +58007,13 @@ const statsRaceSkaven = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Skaven",
-    "rating": "162.6",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 3,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 58.33
+    "rating": "160.95",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 4,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 55.56
   },
   {
     "NAF Nr": "40860",
@@ -58028,6 +58070,20 @@ const statsRaceSkaven = [
     "gamesDraw": 0,
     "gamesLost": 2,
     "winRatio": 60
+  },
+  {
+    "NAF Nr": "40943",
+    "NAF Name": "Agent3",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Skaven",
+    "rating": "144.5",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
   },
   {
     "NAF Nr": "40944",
@@ -58156,6 +58212,20 @@ const statsRaceSkaven = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "41128",
+    "NAF Name": "jacoble00",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Skaven",
+    "rating": "138.31",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 12.5
+  },
+  {
     "NAF Nr": "41149",
     "NAF Name": "ohioTerrapin",
     "CCAA": "Apatrida",
@@ -58269,7 +58339,7 @@ const statsRaceSkaven = [
   },
   {
     "NAF Nr": "41324",
-    "NAF Name": "malcador",
+    "NAF Name": "johnsonsdignity",
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Skaven",
@@ -58392,5 +58462,19 @@ const statsRaceSkaven = [
     "gamesDraw": 0,
     "gamesLost": 3,
     "winRatio": 40
+  },
+  {
+    "NAF Nr": "41662",
+    "NAF Name": "pirrie5652",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Skaven",
+    "rating": "145.22",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 33.33
   }
 ];
