@@ -364,6 +364,20 @@ const statsRaceNurgle = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "519",
+    "NAF Name": "vt_doogie",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Nurgle",
+    "rating": "153.33",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
+  },
+  {
     "NAF Nr": "520",
     "NAF Name": "Balbaroy",
     "CCAA": "Apatrida",
@@ -775,13 +789,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "race": "Nurgle",
-    "rating": "189.25",
-    "totalTournaments": 13,
-    "gamesTotal": 59,
-    "gamesWon": 28,
+    "rating": "191.73",
+    "totalTournaments": 14,
+    "gamesTotal": 60,
+    "gamesWon": 29,
     "gamesDraw": 17,
     "gamesLost": 14,
-    "winRatio": 61.86
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "2726",
@@ -1517,13 +1531,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Nurgle",
-    "rating": "112.93",
-    "totalTournaments": 7,
-    "gamesTotal": 29,
-    "gamesWon": 7,
-    "gamesDraw": 6,
-    "gamesLost": 16,
-    "winRatio": 34.48
+    "rating": "118.86",
+    "totalTournaments": 8,
+    "gamesTotal": 32,
+    "gamesWon": 8,
+    "gamesDraw": 7,
+    "gamesLost": 17,
+    "winRatio": 35.94
   },
   {
     "NAF Nr": "5456",
@@ -4051,13 +4065,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Nurgle",
-    "rating": "163.75",
-    "totalTournaments": 7,
-    "gamesTotal": 31,
+    "rating": "152.05",
+    "totalTournaments": 8,
+    "gamesTotal": 34,
     "gamesWon": 12,
-    "gamesDraw": 13,
-    "gamesLost": 6,
-    "winRatio": 59.68
+    "gamesDraw": 14,
+    "gamesLost": 8,
+    "winRatio": 55.88
   },
   {
     "NAF Nr": "10594",
@@ -5003,13 +5017,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Nurgle",
-    "rating": "141.43",
-    "totalTournaments": 3,
-    "gamesTotal": 10,
-    "gamesWon": 3,
+    "rating": "149.09",
+    "totalTournaments": 4,
+    "gamesTotal": 13,
+    "gamesWon": 5,
     "gamesDraw": 1,
-    "gamesLost": 6,
-    "winRatio": 35
+    "gamesLost": 7,
+    "winRatio": 42.31
   },
   {
     "NAF Nr": "12518",
@@ -5878,6 +5892,20 @@ const statsRaceNurgle = [
     "gamesDraw": 2,
     "gamesLost": 5,
     "winRatio": 53.85
+  },
+  {
+    "NAF Nr": "13715",
+    "NAF Name": "Narok",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Nurgle",
+    "rating": "149.29",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 37.5
   },
   {
     "NAF Nr": "13726",
@@ -9175,7 +9203,7 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Nurgle",
-    "rating": "174.8",
+    "rating": "175.11",
     "totalTournaments": 18,
     "gamesTotal": 86,
     "gamesWon": 32,
@@ -9399,7 +9427,7 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Nurgle",
-    "rating": "128.21",
+    "rating": "128.23",
     "totalTournaments": 13,
     "gamesTotal": 48,
     "gamesWon": 14,
@@ -10225,13 +10253,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Nurgle",
-    "rating": "136.28",
-    "totalTournaments": 6,
-    "gamesTotal": 28,
-    "gamesWon": 9,
-    "gamesDraw": 8,
-    "gamesLost": 11,
-    "winRatio": 46.43
+    "rating": "141.08",
+    "totalTournaments": 7,
+    "gamesTotal": 31,
+    "gamesWon": 10,
+    "gamesDraw": 9,
+    "gamesLost": 12,
+    "winRatio": 46.77
   },
   {
     "NAF Nr": "19185",
@@ -10617,13 +10645,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Nurgle",
-    "rating": "143.8",
-    "totalTournaments": 2,
-    "gamesTotal": 10,
-    "gamesWon": 3,
-    "gamesDraw": 3,
-    "gamesLost": 4,
-    "winRatio": 45
+    "rating": "139.82",
+    "totalTournaments": 3,
+    "gamesTotal": 15,
+    "gamesWon": 4,
+    "gamesDraw": 5,
+    "gamesLost": 6,
+    "winRatio": 43.33
   },
   {
     "NAF Nr": "19504",
@@ -10883,13 +10911,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Nurgle",
-    "rating": "160.76",
-    "totalTournaments": 9,
-    "gamesTotal": 37,
-    "gamesWon": 15,
+    "rating": "170.66",
+    "totalTournaments": 10,
+    "gamesTotal": 41,
+    "gamesWon": 18,
     "gamesDraw": 7,
-    "gamesLost": 15,
-    "winRatio": 50
+    "gamesLost": 16,
+    "winRatio": 52.44
   },
   {
     "NAF Nr": "19702",
@@ -11289,13 +11317,13 @@ const statsRaceNurgle = [
     "CCAA": "Euskadi",
     "Country": "Spain",
     "race": "Nurgle",
-    "rating": "152.47",
-    "totalTournaments": 14,
-    "gamesTotal": 57,
-    "gamesWon": 22,
-    "gamesDraw": 16,
-    "gamesLost": 19,
-    "winRatio": 52.63
+    "rating": "159.49",
+    "totalTournaments": 15,
+    "gamesTotal": 61,
+    "gamesWon": 24,
+    "gamesDraw": 17,
+    "gamesLost": 20,
+    "winRatio": 53.28
   },
   {
     "NAF Nr": "20036",
@@ -11597,13 +11625,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Nurgle",
-    "rating": "149.69",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
-    "gamesWon": 2,
+    "rating": "144.14",
+    "totalTournaments": 2,
+    "gamesTotal": 10,
+    "gamesWon": 4,
     "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 50
+    "gamesLost": 5,
+    "winRatio": 45
   },
   {
     "NAF Nr": "20281",
@@ -11653,13 +11681,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Nurgle",
-    "rating": "121.88",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
+    "rating": "122.89",
+    "totalTournaments": 4,
+    "gamesTotal": 13,
     "gamesWon": 2,
-    "gamesDraw": 1,
+    "gamesDraw": 2,
     "gamesLost": 9,
-    "winRatio": 20.83
+    "winRatio": 23.08
   },
   {
     "NAF Nr": "20331",
@@ -11989,13 +12017,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Nurgle",
-    "rating": "141.37",
-    "totalTournaments": 3,
-    "gamesTotal": 9,
-    "gamesWon": 2,
-    "gamesDraw": 2,
-    "gamesLost": 5,
-    "winRatio": 33.33
+    "rating": "142.01",
+    "totalTournaments": 4,
+    "gamesTotal": 12,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 6,
+    "winRatio": 37.5
   },
   {
     "NAF Nr": "20561",
@@ -12087,13 +12115,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Nurgle",
-    "rating": "148.73",
-    "totalTournaments": 2,
-    "gamesTotal": 4,
-    "gamesWon": 1,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 37.5
+    "rating": "153.59",
+    "totalTournaments": 3,
+    "gamesTotal": 9,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 3,
+    "winRatio": 50
   },
   {
     "NAF Nr": "20596",
@@ -12367,13 +12395,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Nurgle",
-    "rating": "124.45",
-    "totalTournaments": 12,
-    "gamesTotal": 36,
+    "rating": "127.63",
+    "totalTournaments": 13,
+    "gamesTotal": 39,
     "gamesWon": 10,
-    "gamesDraw": 8,
+    "gamesDraw": 11,
     "gamesLost": 18,
-    "winRatio": 38.89
+    "winRatio": 39.74
   },
   {
     "NAF Nr": "20816",
@@ -12745,7 +12773,7 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Nurgle",
-    "rating": "159.49",
+    "rating": "160.12",
     "totalTournaments": 4,
     "gamesTotal": 22,
     "gamesWon": 9,
@@ -12829,13 +12857,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Nurgle",
-    "rating": "142.68",
-    "totalTournaments": 2,
-    "gamesTotal": 7,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 4,
-    "winRatio": 35.71
+    "rating": "144.61",
+    "totalTournaments": 3,
+    "gamesTotal": 12,
+    "gamesWon": 3,
+    "gamesDraw": 4,
+    "gamesLost": 5,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "21123",
@@ -13076,6 +13104,20 @@ const statsRaceNurgle = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "21318",
+    "NAF Name": "gothmoglordofbalrogs",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Nurgle",
+    "rating": "143.08",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 16.67
+  },
+  {
     "NAF Nr": "21324",
     "NAF Name": "vilka",
     "CCAA": "Apatrida",
@@ -13158,6 +13200,20 @@ const statsRaceNurgle = [
     "gamesDraw": 0,
     "gamesLost": 2,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "21342",
+    "NAF Name": "toranath",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Nurgle",
+    "rating": "141.8",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "winRatio": 30
   },
   {
     "NAF Nr": "21349",
@@ -13930,6 +13986,20 @@ const statsRaceNurgle = [
     "winRatio": 75
   },
   {
+    "NAF Nr": "21864",
+    "NAF Name": "Asgair",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Nurgle",
+    "rating": "161.16",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 75
+  },
+  {
     "NAF Nr": "21901",
     "NAF Name": "mother_chucker",
     "CCAA": "Apatrida",
@@ -14090,6 +14160,20 @@ const statsRaceNurgle = [
     "Country": "United States Of America",
     "race": "Nurgle",
     "rating": "149.75",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
+  },
+  {
+    "NAF Nr": "22049",
+    "NAF Name": "trynottoexplode",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Nurgle",
+    "rating": "151.92",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
@@ -14509,13 +14593,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Nurgle",
-    "rating": "122.59",
-    "totalTournaments": 3,
-    "gamesTotal": 9,
-    "gamesWon": 0,
+    "rating": "120.69",
+    "totalTournaments": 4,
+    "gamesTotal": 12,
+    "gamesWon": 1,
     "gamesDraw": 3,
-    "gamesLost": 6,
-    "winRatio": 16.67
+    "gamesLost": 8,
+    "winRatio": 20.83
   },
   {
     "NAF Nr": "22349",
@@ -15342,6 +15426,20 @@ const statsRaceNurgle = [
     "gamesDraw": 4,
     "gamesLost": 7,
     "winRatio": 25
+  },
+  {
+    "NAF Nr": "23217",
+    "NAF Name": "Emilius",
+    "CCAA": "Apatrida",
+    "Country": "Bulgaria",
+    "race": "Nurgle",
+    "rating": "157.44",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "23265",
@@ -16679,13 +16777,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Nurgle",
-    "rating": "147.13",
-    "totalTournaments": 4,
-    "gamesTotal": 12,
-    "gamesWon": 2,
-    "gamesDraw": 7,
+    "rating": "155.43",
+    "totalTournaments": 5,
+    "gamesTotal": 15,
+    "gamesWon": 4,
+    "gamesDraw": 8,
     "gamesLost": 3,
-    "winRatio": 45.83
+    "winRatio": 53.33
   },
   {
     "NAF Nr": "24325",
@@ -17379,13 +17477,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Nurgle",
-    "rating": "128.03",
-    "totalTournaments": 4,
-    "gamesTotal": 15,
+    "rating": "117.51",
+    "totalTournaments": 5,
+    "gamesTotal": 19,
     "gamesWon": 2,
-    "gamesDraw": 5,
-    "gamesLost": 8,
-    "winRatio": 30
+    "gamesDraw": 6,
+    "gamesLost": 11,
+    "winRatio": 26.32
   },
   {
     "NAF Nr": "24864",
@@ -18018,6 +18116,20 @@ const statsRaceNurgle = [
     "winRatio": 44.83
   },
   {
+    "NAF Nr": "25479",
+    "NAF Name": "Archon11",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Nurgle",
+    "rating": "150.13",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "25486",
     "NAF Name": "Budy",
     "CCAA": "Apatrida",
@@ -18457,13 +18569,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Nurgle",
-    "rating": "134.43",
-    "totalTournaments": 10,
-    "gamesTotal": 57,
+    "rating": "121.51",
+    "totalTournaments": 11,
+    "gamesTotal": 60,
     "gamesWon": 17,
     "gamesDraw": 14,
-    "gamesLost": 26,
-    "winRatio": 42.11
+    "gamesLost": 29,
+    "winRatio": 40
   },
   {
     "NAF Nr": "25878",
@@ -18513,7 +18625,7 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Nurgle",
-    "rating": "154.31",
+    "rating": "154.34",
     "totalTournaments": 5,
     "gamesTotal": 21,
     "gamesWon": 8,
@@ -19549,13 +19661,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Nurgle",
-    "rating": "154.4",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 62.5
+    "rating": "168.94",
+    "totalTournaments": 2,
+    "gamesTotal": 10,
+    "gamesWon": 6,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "winRatio": 70
   },
   {
     "NAF Nr": "26936",
@@ -19754,6 +19866,20 @@ const statsRaceNurgle = [
     "winRatio": 70
   },
   {
+    "NAF Nr": "27080",
+    "NAF Name": "TURRON",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Nurgle",
+    "rating": "145.47",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 37.5
+  },
+  {
     "NAF Nr": "27084",
     "NAF Name": "Moi_Morenate",
     "CCAA": "Andalucía",
@@ -19927,13 +20053,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Nurgle",
-    "rating": "146.06",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
-    "gamesWon": 2,
-    "gamesDraw": 0,
-    "gamesLost": 3,
-    "winRatio": 40
+    "rating": "147.98",
+    "totalTournaments": 2,
+    "gamesTotal": 10,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 45
   },
   {
     "NAF Nr": "27225",
@@ -20291,13 +20417,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Austria",
     "race": "Nurgle",
-    "rating": "152.48",
-    "totalTournaments": 3,
-    "gamesTotal": 9,
-    "gamesWon": 4,
-    "gamesDraw": 1,
-    "gamesLost": 4,
-    "winRatio": 50
+    "rating": "164.34",
+    "totalTournaments": 4,
+    "gamesTotal": 15,
+    "gamesWon": 7,
+    "gamesDraw": 3,
+    "gamesLost": 5,
+    "winRatio": 56.67
   },
   {
     "NAF Nr": "27530",
@@ -21131,13 +21257,13 @@ const statsRaceNurgle = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Nurgle",
-    "rating": "141.81",
-    "totalTournaments": 14,
-    "gamesTotal": 55,
-    "gamesWon": 21,
-    "gamesDraw": 6,
-    "gamesLost": 28,
-    "winRatio": 43.64
+    "rating": "140.18",
+    "totalTournaments": 15,
+    "gamesTotal": 58,
+    "gamesWon": 22,
+    "gamesDraw": 7,
+    "gamesLost": 29,
+    "winRatio": 43.97
   },
   {
     "NAF Nr": "28292",
@@ -21238,6 +21364,20 @@ const statsRaceNurgle = [
     "winRatio": 77.27
   },
   {
+    "NAF Nr": "28371",
+    "NAF Name": "nornbreeder",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Nurgle",
+    "rating": "153.86",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 60
+  },
+  {
     "NAF Nr": "28420",
     "NAF Name": "commisaro",
     "CCAA": "Apatrida",
@@ -21320,6 +21460,20 @@ const statsRaceNurgle = [
     "gamesDraw": 1,
     "gamesLost": 4,
     "winRatio": 25
+  },
+  {
+    "NAF Nr": "28617",
+    "NAF Name": "Bob_Gaffa_Blodgins",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Nurgle",
+    "rating": "158.82",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "28618",
@@ -22433,13 +22587,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Nurgle",
-    "rating": "174.79",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 5,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 68.75
+    "rating": "181.47",
+    "totalTournaments": 4,
+    "gamesTotal": 17,
+    "gamesWon": 10,
+    "gamesDraw": 3,
+    "gamesLost": 4,
+    "winRatio": 67.65
   },
   {
     "NAF Nr": "29681",
@@ -22559,13 +22713,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Nurgle",
-    "rating": "132.08",
-    "totalTournaments": 7,
-    "gamesTotal": 24,
-    "gamesWon": 8,
-    "gamesDraw": 3,
+    "rating": "136.09",
+    "totalTournaments": 8,
+    "gamesTotal": 27,
+    "gamesWon": 9,
+    "gamesDraw": 5,
     "gamesLost": 13,
-    "winRatio": 39.58
+    "winRatio": 42.59
   },
   {
     "NAF Nr": "29932",
@@ -22862,18 +23016,32 @@ const statsRaceNurgle = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "30178",
+    "NAF Name": "snotsmonster",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "race": "Nurgle",
+    "rating": "146.76",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "30190",
     "NAF Name": "manfredironskull",
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Nurgle",
-    "rating": "166.74",
-    "totalTournaments": 5,
-    "gamesTotal": 21,
-    "gamesWon": 10,
-    "gamesDraw": 5,
-    "gamesLost": 6,
-    "winRatio": 59.52
+    "rating": "172.14",
+    "totalTournaments": 6,
+    "gamesTotal": 27,
+    "gamesWon": 13,
+    "gamesDraw": 6,
+    "gamesLost": 8,
+    "winRatio": 59.26
   },
   {
     "NAF Nr": "30275",
@@ -23077,7 +23245,7 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Nurgle",
-    "rating": "144.85",
+    "rating": "144.13",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
@@ -23182,6 +23350,20 @@ const statsRaceNurgle = [
     "gamesDraw": 1,
     "gamesLost": 7,
     "winRatio": 16.67
+  },
+  {
+    "NAF Nr": "30557",
+    "NAF Name": "KnuckleSammich",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Nurgle",
+    "rating": "149.43",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
   },
   {
     "NAF Nr": "30575",
@@ -23301,11 +23483,11 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Nurgle",
-    "rating": "157.52",
-    "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 5,
-    "gamesDraw": 2,
+    "rating": "163.72",
+    "totalTournaments": 3,
+    "gamesTotal": 12,
+    "gamesWon": 6,
+    "gamesDraw": 4,
     "gamesLost": 2,
     "winRatio": 66.67
   },
@@ -23982,6 +24164,20 @@ const statsRaceNurgle = [
     "winRatio": 41.67
   },
   {
+    "NAF Nr": "31533",
+    "NAF Name": "oddgood",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "race": "Nurgle",
+    "rating": "130.41",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "winRatio": 25
+  },
+  {
     "NAF Nr": "31549",
     "NAF Name": "Squirrelbay",
     "CCAA": "Apatrida",
@@ -24393,13 +24589,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Nurgle",
-    "rating": "157.16",
-    "totalTournaments": 2,
-    "gamesTotal": 12,
-    "gamesWon": 6,
-    "gamesDraw": 2,
-    "gamesLost": 4,
-    "winRatio": 58.33
+    "rating": "138.5",
+    "totalTournaments": 3,
+    "gamesTotal": 18,
+    "gamesWon": 7,
+    "gamesDraw": 3,
+    "gamesLost": 8,
+    "winRatio": 47.22
   },
   {
     "NAF Nr": "31958",
@@ -24925,12 +25121,12 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Nurgle",
-    "rating": "145.76",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 0,
+    "rating": "142.49",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 1,
     "gamesDraw": 2,
-    "gamesLost": 1,
+    "gamesLost": 3,
     "winRatio": 33.33
   },
   {
@@ -25340,6 +25536,20 @@ const statsRaceNurgle = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "32987",
+    "NAF Name": "maljam",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "race": "Nurgle",
+    "rating": "141.88",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 16.67
+  },
+  {
     "NAF Nr": "32988",
     "NAF Name": "wiltraft",
     "CCAA": "Apatrida",
@@ -25737,13 +25947,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Nurgle",
-    "rating": "112.38",
-    "totalTournaments": 7,
-    "gamesTotal": 30,
-    "gamesWon": 7,
-    "gamesDraw": 5,
-    "gamesLost": 18,
-    "winRatio": 31.67
+    "rating": "116.33",
+    "totalTournaments": 8,
+    "gamesTotal": 33,
+    "gamesWon": 8,
+    "gamesDraw": 6,
+    "gamesLost": 19,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "33564",
@@ -26045,13 +26255,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Nurgle",
-    "rating": "137.86",
-    "totalTournaments": 3,
-    "gamesTotal": 10,
-    "gamesWon": 2,
+    "rating": "133.49",
+    "totalTournaments": 4,
+    "gamesTotal": 13,
+    "gamesWon": 3,
     "gamesDraw": 3,
-    "gamesLost": 5,
-    "winRatio": 35
+    "gamesLost": 7,
+    "winRatio": 34.62
   },
   {
     "NAF Nr": "33925",
@@ -26213,13 +26423,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Nurgle",
-    "rating": "151.0",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 2,
-    "gamesDraw": 2,
-    "gamesLost": 2,
-    "winRatio": 50
+    "rating": "155.11",
+    "totalTournaments": 3,
+    "gamesTotal": 12,
+    "gamesWon": 5,
+    "gamesDraw": 3,
+    "gamesLost": 4,
+    "winRatio": 54.17
   },
   {
     "NAF Nr": "34128",
@@ -26262,6 +26472,20 @@ const statsRaceNurgle = [
     "gamesDraw": 0,
     "gamesLost": 3,
     "winRatio": 0
+  },
+  {
+    "NAF Nr": "34169",
+    "NAF Name": "feasteater",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Nurgle",
+    "rating": "150.65",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
   },
   {
     "NAF Nr": "34196",
@@ -26339,13 +26563,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Nurgle",
-    "rating": "142.99",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 37.5
+    "rating": "119.58",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 7,
+    "winRatio": 29.17
   },
   {
     "NAF Nr": "34337",
@@ -26913,13 +27137,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Nurgle",
-    "rating": "163.14",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 3,
+    "rating": "159.19",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 4,
     "gamesDraw": 0,
-    "gamesLost": 1,
-    "winRatio": 75
+    "gamesLost": 3,
+    "winRatio": 57.14
   },
   {
     "NAF Nr": "35484",
@@ -26992,6 +27216,20 @@ const statsRaceNurgle = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "35588",
+    "NAF Name": "Eldarion",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Nurgle",
+    "rating": "128.94",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "winRatio": 10
+  },
+  {
     "NAF Nr": "35597",
     "NAF Name": "Umberto",
     "CCAA": "Apatrida",
@@ -27004,6 +27242,20 @@ const statsRaceNurgle = [
     "gamesDraw": 2,
     "gamesLost": 4,
     "winRatio": 58.33
+  },
+  {
+    "NAF Nr": "35619",
+    "NAF Name": "eckae",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "race": "Nurgle",
+    "rating": "149.57",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 50
   },
   {
     "NAF Nr": "35633",
@@ -27025,13 +27277,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Czech Republic",
     "race": "Nurgle",
-    "rating": "178.48",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
-    "gamesWon": 7,
-    "gamesDraw": 5,
-    "gamesLost": 0,
-    "winRatio": 79.17
+    "rating": "176.95",
+    "totalTournaments": 4,
+    "gamesTotal": 15,
+    "gamesWon": 8,
+    "gamesDraw": 6,
+    "gamesLost": 1,
+    "winRatio": 73.33
   },
   {
     "NAF Nr": "35667",
@@ -27356,6 +27608,20 @@ const statsRaceNurgle = [
     "winRatio": 38.89
   },
   {
+    "NAF Nr": "36402",
+    "NAF Name": "Gordini",
+    "CCAA": "Castilla y León",
+    "Country": "Spain",
+    "race": "Nurgle",
+    "rating": "144.95",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "winRatio": 37.5
+  },
+  {
     "NAF Nr": "36403",
     "NAF Name": "Steveo",
     "CCAA": "Apatrida",
@@ -27636,6 +27902,34 @@ const statsRaceNurgle = [
     "winRatio": 66.67
   },
   {
+    "NAF Nr": "37016",
+    "NAF Name": "koen_van_der_laan",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "race": "Nurgle",
+    "rating": "151.57",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 50
+  },
+  {
+    "NAF Nr": "37070",
+    "NAF Name": "xentric",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Nurgle",
+    "rating": "157.03",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 83.33
+  },
+  {
     "NAF Nr": "37196",
     "NAF Name": "Inknights",
     "CCAA": "Apatrida",
@@ -27734,6 +28028,20 @@ const statsRaceNurgle = [
     "winRatio": 66.67
   },
   {
+    "NAF Nr": "37583",
+    "NAF Name": "chnkymnky",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Nurgle",
+    "rating": "149.09",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "37602",
     "NAF Name": "distriction",
     "CCAA": "Apatrida",
@@ -27809,7 +28117,7 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Nurgle",
-    "rating": "144.45",
+    "rating": "144.3",
     "totalTournaments": 2,
     "gamesTotal": 5,
     "gamesWon": 0,
@@ -27837,13 +28145,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Nurgle",
-    "rating": "144.73",
-    "totalTournaments": 1,
-    "gamesTotal": 1,
-    "gamesWon": 0,
+    "rating": "154.29",
+    "totalTournaments": 2,
+    "gamesTotal": 5,
+    "gamesWon": 3,
     "gamesDraw": 0,
-    "gamesLost": 1,
-    "winRatio": 0
+    "gamesLost": 2,
+    "winRatio": 60
   },
   {
     "NAF Nr": "37793",
@@ -28215,7 +28523,7 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Nurgle",
-    "rating": "148.15",
+    "rating": "148.18",
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
@@ -28278,6 +28586,20 @@ const statsRaceNurgle = [
     "gamesDraw": 0,
     "gamesLost": 3,
     "winRatio": 25
+  },
+  {
+    "NAF Nr": "38915",
+    "NAF Name": "hugesinker",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Nurgle",
+    "rating": "134.71",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
   },
   {
     "NAF Nr": "38992",
@@ -28378,18 +28700,32 @@ const statsRaceNurgle = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "39348",
+    "NAF Name": "the_rangoon",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Nurgle",
+    "rating": "150.68",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "39479",
     "NAF Name": "actualpow",
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Nurgle",
-    "rating": "128.11",
-    "totalTournaments": 3,
-    "gamesTotal": 8,
-    "gamesWon": 0,
-    "gamesDraw": 3,
+    "rating": "141.05",
+    "totalTournaments": 4,
+    "gamesTotal": 11,
+    "gamesWon": 2,
+    "gamesDraw": 4,
     "gamesLost": 5,
-    "winRatio": 18.75
+    "winRatio": 36.36
   },
   {
     "NAF Nr": "39578",
@@ -28593,13 +28929,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Nurgle",
-    "rating": "151.09",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
+    "rating": "134.13",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 50
+    "gamesLost": 4,
+    "winRatio": 25
   },
   {
     "NAF Nr": "39956",
@@ -28642,6 +28978,20 @@ const statsRaceNurgle = [
     "gamesDraw": 0,
     "gamesLost": 3,
     "winRatio": 25
+  },
+  {
+    "NAF Nr": "40013",
+    "NAF Name": "Guardianboy",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Nurgle",
+    "rating": "157.63",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "40042",
@@ -28761,13 +29111,13 @@ const statsRaceNurgle = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Nurgle",
-    "rating": "139.55",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "rating": "138.53",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 3,
     "gamesDraw": 0,
-    "gamesLost": 3,
-    "winRatio": 25
+    "gamesLost": 6,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "40324",
@@ -28938,6 +29288,20 @@ const statsRaceNurgle = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "40635",
+    "NAF Name": "rickthom393",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Nurgle",
+    "rating": "137.98",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "40654",
     "NAF Name": "Anakyn",
     "CCAA": "Apatrida",
@@ -28964,6 +29328,20 @@ const statsRaceNurgle = [
     "gamesDraw": 0,
     "gamesLost": 3,
     "winRatio": 25
+  },
+  {
+    "NAF Nr": "40973",
+    "NAF Name": "chrus",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Nurgle",
+    "rating": "145.96",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 5,
+    "gamesLost": 1,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "40975",
@@ -29020,6 +29398,20 @@ const statsRaceNurgle = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "41534",
+    "NAF Name": "twin_earth666",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Nurgle",
+    "rating": "129.44",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 8.33
   },
   {
     "NAF Nr": "41568",

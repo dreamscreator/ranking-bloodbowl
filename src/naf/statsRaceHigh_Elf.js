@@ -635,13 +635,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "High Elf",
-    "rating": "219.38",
-    "totalTournaments": 28,
-    "gamesTotal": 149,
-    "gamesWon": 78,
-    "gamesDraw": 40,
+    "rating": "215.8",
+    "totalTournaments": 29,
+    "gamesTotal": 153,
+    "gamesWon": 79,
+    "gamesDraw": 43,
     "gamesLost": 31,
-    "winRatio": 65.77
+    "winRatio": 65.69
   },
   {
     "NAF Nr": "1014",
@@ -2231,13 +2231,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "High Elf",
-    "rating": "191.29",
-    "totalTournaments": 7,
-    "gamesTotal": 38,
-    "gamesWon": 21,
-    "gamesDraw": 4,
+    "rating": "197.05",
+    "totalTournaments": 8,
+    "gamesTotal": 41,
+    "gamesWon": 23,
+    "gamesDraw": 5,
     "gamesLost": 13,
-    "winRatio": 60.53
+    "winRatio": 62.2
   },
   {
     "NAF Nr": "5858",
@@ -2245,13 +2245,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "High Elf",
-    "rating": "143.49",
-    "totalTournaments": 4,
-    "gamesTotal": 18,
-    "gamesWon": 7,
-    "gamesDraw": 3,
-    "gamesLost": 8,
-    "winRatio": 47.22
+    "rating": "141.52",
+    "totalTournaments": 5,
+    "gamesTotal": 22,
+    "gamesWon": 8,
+    "gamesDraw": 4,
+    "gamesLost": 10,
+    "winRatio": 45.45
   },
   {
     "NAF Nr": "5863",
@@ -2259,13 +2259,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "High Elf",
-    "rating": "144.79",
-    "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 3,
-    "gamesDraw": 2,
+    "rating": "153.15",
+    "totalTournaments": 3,
+    "gamesTotal": 12,
+    "gamesWon": 5,
+    "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 44.44
+    "winRatio": 54.17
   },
   {
     "NAF Nr": "5893",
@@ -4191,13 +4191,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "High Elf",
-    "rating": "203.81",
-    "totalTournaments": 3,
-    "gamesTotal": 15,
-    "gamesWon": 11,
-    "gamesDraw": 4,
+    "rating": "221.95",
+    "totalTournaments": 4,
+    "gamesTotal": 21,
+    "gamesWon": 15,
+    "gamesDraw": 6,
     "gamesLost": 0,
-    "winRatio": 86.67
+    "winRatio": 85.71
   },
   {
     "NAF Nr": "9109",
@@ -4261,13 +4261,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "High Elf",
-    "rating": "205.41",
-    "totalTournaments": 7,
-    "gamesTotal": 34,
-    "gamesWon": 20,
-    "gamesDraw": 7,
-    "gamesLost": 7,
-    "winRatio": 69.12
+    "rating": "200.22",
+    "totalTournaments": 8,
+    "gamesTotal": 40,
+    "gamesWon": 23,
+    "gamesDraw": 8,
+    "gamesLost": 9,
+    "winRatio": 67.5
   },
   {
     "NAF Nr": "9487",
@@ -4858,6 +4858,20 @@ const statsRaceHigh_Elf = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "10495",
+    "NAF Name": "Ka",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "High Elf",
+    "rating": "140.19",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "winRatio": 43.75
+  },
+  {
     "NAF Nr": "10504",
     "NAF Name": "Yoyoel",
     "CCAA": "Apatrida",
@@ -5325,13 +5339,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "High Elf",
-    "rating": "144.23",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 37.5
+    "rating": "144.31",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 42.86
   },
   {
     "NAF Nr": "11281",
@@ -6277,13 +6291,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "High Elf",
-    "rating": "185.8",
-    "totalTournaments": 6,
-    "gamesTotal": 31,
-    "gamesWon": 15,
-    "gamesDraw": 8,
-    "gamesLost": 8,
-    "winRatio": 61.29
+    "rating": "198.84",
+    "totalTournaments": 7,
+    "gamesTotal": 37,
+    "gamesWon": 19,
+    "gamesDraw": 9,
+    "gamesLost": 9,
+    "winRatio": 63.51
   },
   {
     "NAF Nr": "12553",
@@ -7803,7 +7817,7 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "High Elf",
-    "rating": "173.65",
+    "rating": "173.68",
     "totalTournaments": 3,
     "gamesTotal": 13,
     "gamesWon": 5,
@@ -8097,13 +8111,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "La Rioja",
     "Country": "Spain",
     "race": "High Elf",
-    "rating": "181.04",
-    "totalTournaments": 4,
-    "gamesTotal": 17,
-    "gamesWon": 10,
-    "gamesDraw": 3,
-    "gamesLost": 4,
-    "winRatio": 67.65
+    "rating": "173.48",
+    "totalTournaments": 5,
+    "gamesTotal": 25,
+    "gamesWon": 12,
+    "gamesDraw": 7,
+    "gamesLost": 6,
+    "winRatio": 62
   },
   {
     "NAF Nr": "15424",
@@ -10022,6 +10036,20 @@ const statsRaceHigh_Elf = [
     "gamesDraw": 1,
     "gamesLost": 3,
     "winRatio": 41.67
+  },
+  {
+    "NAF Nr": "17948",
+    "NAF Name": "king_ghidra",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "High Elf",
+    "rating": "151.32",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 50
   },
   {
     "NAF Nr": "17950",
@@ -15092,6 +15120,20 @@ const statsRaceHigh_Elf = [
     "winRatio": 41.67
   },
   {
+    "NAF Nr": "21803",
+    "NAF Name": "nerafiamma",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "race": "High Elf",
+    "rating": "139.19",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "21835",
     "NAF Name": "monkeyjuice",
     "CCAA": "Apatrida",
@@ -15699,13 +15741,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "High Elf",
-    "rating": "218.16",
-    "totalTournaments": 7,
-    "gamesTotal": 31,
-    "gamesWon": 22,
+    "rating": "221.07",
+    "totalTournaments": 8,
+    "gamesTotal": 36,
+    "gamesWon": 26,
     "gamesDraw": 5,
-    "gamesLost": 4,
-    "winRatio": 79.03
+    "gamesLost": 5,
+    "winRatio": 79.17
   },
   {
     "NAF Nr": "22475",
@@ -16035,13 +16077,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "High Elf",
-    "rating": "118.96",
-    "totalTournaments": 4,
-    "gamesTotal": 21,
-    "gamesWon": 5,
-    "gamesDraw": 3,
-    "gamesLost": 13,
-    "winRatio": 30.95
+    "rating": "123.26",
+    "totalTournaments": 5,
+    "gamesTotal": 27,
+    "gamesWon": 7,
+    "gamesDraw": 5,
+    "gamesLost": 15,
+    "winRatio": 35.19
   },
   {
     "NAF Nr": "22731",
@@ -16049,7 +16091,7 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "High Elf",
-    "rating": "163.75",
+    "rating": "163.94",
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
@@ -16245,13 +16287,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "High Elf",
-    "rating": "160.52",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
+    "rating": "163.28",
+    "totalTournaments": 2,
+    "gamesTotal": 5,
+    "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 80
   },
   {
     "NAF Nr": "23025",
@@ -17281,7 +17323,7 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "High Elf",
-    "rating": "137.44",
+    "rating": "137.46",
     "totalTournaments": 1,
     "gamesTotal": 7,
     "gamesWon": 1,
@@ -18555,13 +18597,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "High Elf",
-    "rating": "164.85",
-    "totalTournaments": 2,
-    "gamesTotal": 10,
-    "gamesWon": 6,
+    "rating": "186.08",
+    "totalTournaments": 3,
+    "gamesTotal": 16,
+    "gamesWon": 11,
     "gamesDraw": 1,
-    "gamesLost": 3,
-    "winRatio": 65
+    "gamesLost": 4,
+    "winRatio": 71.88
   },
   {
     "NAF Nr": "25566",
@@ -19143,13 +19185,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "High Elf",
-    "rating": "179.72",
-    "totalTournaments": 5,
-    "gamesTotal": 15,
-    "gamesWon": 9,
-    "gamesDraw": 3,
-    "gamesLost": 3,
-    "winRatio": 70
+    "rating": "190.69",
+    "totalTournaments": 6,
+    "gamesTotal": 21,
+    "gamesWon": 13,
+    "gamesDraw": 4,
+    "gamesLost": 4,
+    "winRatio": 71.43
   },
   {
     "NAF Nr": "26199",
@@ -19325,13 +19367,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "High Elf",
-    "rating": "163.53",
-    "totalTournaments": 3,
-    "gamesTotal": 11,
-    "gamesWon": 6,
-    "gamesDraw": 1,
-    "gamesLost": 4,
-    "winRatio": 59.09
+    "rating": "172.12",
+    "totalTournaments": 4,
+    "gamesTotal": 17,
+    "gamesWon": 9,
+    "gamesDraw": 3,
+    "gamesLost": 5,
+    "winRatio": 61.76
   },
   {
     "NAF Nr": "26358",
@@ -19388,6 +19430,20 @@ const statsRaceHigh_Elf = [
     "gamesDraw": 0,
     "gamesLost": 0,
     "winRatio": 100
+  },
+  {
+    "NAF Nr": "26382",
+    "NAF Name": "DrMoustachio",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "High Elf",
+    "rating": "117.62",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 6,
+    "winRatio": 12.5
   },
   {
     "NAF Nr": "26388",
@@ -19703,13 +19759,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "North Ireland",
     "race": "High Elf",
-    "rating": "149.95",
-    "totalTournaments": 2,
-    "gamesTotal": 10,
-    "gamesWon": 4,
+    "rating": "162.83",
+    "totalTournaments": 3,
+    "gamesTotal": 16,
+    "gamesWon": 8,
     "gamesDraw": 2,
-    "gamesLost": 4,
-    "winRatio": 50
+    "gamesLost": 6,
+    "winRatio": 56.25
   },
   {
     "NAF Nr": "26835",
@@ -20305,13 +20361,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "High Elf",
-    "rating": "168.52",
-    "totalTournaments": 8,
-    "gamesTotal": 39,
-    "gamesWon": 17,
-    "gamesDraw": 12,
-    "gamesLost": 10,
-    "winRatio": 58.97
+    "rating": "169.98",
+    "totalTournaments": 9,
+    "gamesTotal": 45,
+    "gamesWon": 20,
+    "gamesDraw": 13,
+    "gamesLost": 12,
+    "winRatio": 58.89
   },
   {
     "NAF Nr": "27480",
@@ -20431,13 +20487,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "High Elf",
-    "rating": "142.26",
-    "totalTournaments": 2,
-    "gamesTotal": 4,
-    "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 3,
-    "winRatio": 25
+    "rating": "153.59",
+    "totalTournaments": 3,
+    "gamesTotal": 10,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 45
   },
   {
     "NAF Nr": "27681",
@@ -21350,6 +21406,20 @@ const statsRaceHigh_Elf = [
     "winRatio": 41.67
   },
   {
+    "NAF Nr": "28783",
+    "NAF Name": "EvilSmoothie",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "race": "High Elf",
+    "rating": "158.95",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 87.5
+  },
+  {
     "NAF Nr": "28806",
     "NAF Name": "Earl_Burgomeister",
     "CCAA": "Apatrida",
@@ -21546,6 +21616,20 @@ const statsRaceHigh_Elf = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "29094",
+    "NAF Name": "swish",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "High Elf",
+    "rating": "145.32",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "29110",
     "NAF Name": "albertofcb",
     "CCAA": "Catalunya ",
@@ -21677,7 +21761,7 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "High Elf",
-    "rating": "143.08",
+    "rating": "143.12",
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
@@ -21726,6 +21810,20 @@ const statsRaceHigh_Elf = [
     "gamesDraw": 1,
     "gamesLost": 2,
     "winRatio": 58.33
+  },
+  {
+    "NAF Nr": "29314",
+    "NAF Name": "bamfuzi",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
+    "race": "High Elf",
+    "rating": "151.76",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "winRatio": 50
   },
   {
     "NAF Nr": "29323",
@@ -21817,13 +21915,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "High Elf",
-    "rating": "150.82",
-    "totalTournaments": 3,
-    "gamesTotal": 10,
-    "gamesWon": 3,
+    "rating": "141.27",
+    "totalTournaments": 4,
+    "gamesTotal": 16,
+    "gamesWon": 5,
     "gamesDraw": 4,
-    "gamesLost": 3,
-    "winRatio": 50
+    "gamesLost": 7,
+    "winRatio": 43.75
   },
   {
     "NAF Nr": "29533",
@@ -22349,13 +22447,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Greece",
     "race": "High Elf",
-    "rating": "186.72",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
-    "gamesWon": 8,
-    "gamesDraw": 2,
-    "gamesLost": 2,
-    "winRatio": 75
+    "rating": "186.37",
+    "totalTournaments": 4,
+    "gamesTotal": 17,
+    "gamesWon": 10,
+    "gamesDraw": 4,
+    "gamesLost": 3,
+    "winRatio": 70.59
   },
   {
     "NAF Nr": "30475",
@@ -22433,13 +22531,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "High Elf",
-    "rating": "217.75",
-    "totalTournaments": 7,
-    "gamesTotal": 38,
-    "gamesWon": 23,
-    "gamesDraw": 11,
+    "rating": "226.55",
+    "totalTournaments": 8,
+    "gamesTotal": 43,
+    "gamesWon": 26,
+    "gamesDraw": 13,
     "gamesLost": 4,
-    "winRatio": 75
+    "winRatio": 75.58
   },
   {
     "NAF Nr": "30625",
@@ -22727,13 +22825,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "High Elf",
-    "rating": "143.25",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
-    "gamesDraw": 1,
+    "rating": "158.01",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 4,
+    "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "31068",
@@ -23002,6 +23100,20 @@ const statsRaceHigh_Elf = [
     "winRatio": 54.17
   },
   {
+    "NAF Nr": "31481",
+    "NAF Name": "L_Asticot",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "High Elf",
+    "rating": "159.31",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "winRatio": 75
+  },
+  {
     "NAF Nr": "31514",
     "NAF Name": "PP",
     "CCAA": "Apatrida",
@@ -23049,7 +23161,7 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "High Elf",
-    "rating": "137.53",
+    "rating": "137.44",
     "totalTournaments": 7,
     "gamesTotal": 33,
     "gamesWon": 8,
@@ -23105,13 +23217,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "High Elf",
-    "rating": "187.87",
-    "totalTournaments": 7,
-    "gamesTotal": 29,
-    "gamesWon": 15,
-    "gamesDraw": 9,
-    "gamesLost": 5,
-    "winRatio": 67.24
+    "rating": "193.39",
+    "totalTournaments": 8,
+    "gamesTotal": 35,
+    "gamesWon": 18,
+    "gamesDraw": 11,
+    "gamesLost": 6,
+    "winRatio": 67.14
   },
   {
     "NAF Nr": "31732",
@@ -23562,6 +23674,20 @@ const statsRaceHigh_Elf = [
     "winRatio": 83.33
   },
   {
+    "NAF Nr": "32437",
+    "NAF Name": "Mr.BombBasti",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "High Elf",
+    "rating": "149.6",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "32442",
     "NAF Name": "Vnk513",
     "CCAA": "Apatrida",
@@ -23596,6 +23722,20 @@ const statsRaceHigh_Elf = [
     "Country": "England",
     "race": "High Elf",
     "rating": "173.98",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "winRatio": 83.33
+  },
+  {
+    "NAF Nr": "32495",
+    "NAF Name": "rubble",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "High Elf",
+    "rating": "172.58",
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
@@ -23651,13 +23791,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "High Elf",
-    "rating": "176.97",
-    "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 6,
+    "rating": "186.07",
+    "totalTournaments": 3,
+    "gamesTotal": 12,
+    "gamesWon": 9,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 77.78
+    "winRatio": 83.33
   },
   {
     "NAF Nr": "32547",
@@ -23707,13 +23847,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "High Elf",
-    "rating": "156.7",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 0,
-    "winRatio": 83.33
+    "rating": "167.27",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 5,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 75
   },
   {
     "NAF Nr": "32636",
@@ -23777,13 +23917,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "High Elf",
-    "rating": "167.23",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
-    "gamesWon": 6,
-    "gamesDraw": 4,
-    "gamesLost": 2,
-    "winRatio": 66.67
+    "rating": "158.19",
+    "totalTournaments": 4,
+    "gamesTotal": 18,
+    "gamesWon": 8,
+    "gamesDraw": 5,
+    "gamesLost": 5,
+    "winRatio": 58.33
   },
   {
     "NAF Nr": "32691",
@@ -23898,18 +24038,32 @@ const statsRaceHigh_Elf = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "32824",
+    "NAF Name": "baahlar",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "High Elf",
+    "rating": "141.32",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 30
+  },
+  {
     "NAF Nr": "32882",
     "NAF Name": "moronicname",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "High Elf",
-    "rating": "167.17",
-    "totalTournaments": 4,
-    "gamesTotal": 18,
-    "gamesWon": 8,
-    "gamesDraw": 6,
-    "gamesLost": 4,
-    "winRatio": 61.11
+    "rating": "165.77",
+    "totalTournaments": 5,
+    "gamesTotal": 24,
+    "gamesWon": 10,
+    "gamesDraw": 7,
+    "gamesLost": 7,
+    "winRatio": 56.25
   },
   {
     "NAF Nr": "32888",
@@ -24015,13 +24169,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "High Elf",
-    "rating": "153.85",
-    "totalTournaments": 3,
-    "gamesTotal": 14,
-    "gamesWon": 5,
-    "gamesDraw": 4,
+    "rating": "160.59",
+    "totalTournaments": 4,
+    "gamesTotal": 20,
+    "gamesWon": 6,
+    "gamesDraw": 9,
     "gamesLost": 5,
-    "winRatio": 50
+    "winRatio": 52.5
   },
   {
     "NAF Nr": "33251",
@@ -24113,13 +24267,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "High Elf",
-    "rating": "167.4",
-    "totalTournaments": 2,
-    "gamesTotal": 10,
-    "gamesWon": 6,
-    "gamesDraw": 2,
+    "rating": "175.87",
+    "totalTournaments": 3,
+    "gamesTotal": 13,
+    "gamesWon": 8,
+    "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 70
+    "winRatio": 73.08
   },
   {
     "NAF Nr": "33340",
@@ -24267,7 +24421,7 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "High Elf",
-    "rating": "129.24",
+    "rating": "129.23",
     "totalTournaments": 10,
     "gamesTotal": 43,
     "gamesWon": 14,
@@ -24519,13 +24673,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "High Elf",
-    "rating": "149.72",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
+    "rating": "152.77",
+    "totalTournaments": 2,
+    "gamesTotal": 4,
+    "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "33967",
@@ -24582,6 +24736,20 @@ const statsRaceHigh_Elf = [
     "gamesDraw": 0,
     "gamesLost": 4,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "34105",
+    "NAF Name": "Waagh",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "High Elf",
+    "rating": "156.9",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "34135",
@@ -24799,13 +24967,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "High Elf",
-    "rating": "160.33",
-    "totalTournaments": 4,
-    "gamesTotal": 20,
-    "gamesWon": 9,
+    "rating": "180.8",
+    "totalTournaments": 5,
+    "gamesTotal": 26,
+    "gamesWon": 14,
     "gamesDraw": 4,
-    "gamesLost": 7,
-    "winRatio": 55
+    "gamesLost": 8,
+    "winRatio": 61.54
   },
   {
     "NAF Nr": "34713",
@@ -25037,13 +25205,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "High Elf",
-    "rating": "138.77",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 0,
+    "rating": "134.74",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 1,
     "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 16.67
+    "gamesLost": 4,
+    "winRatio": 25
   },
   {
     "NAF Nr": "35726",
@@ -25163,13 +25331,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "High Elf",
-    "rating": "154.54",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
+    "rating": "155.61",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 3,
     "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 62.5
+    "gamesLost": 2,
+    "winRatio": 58.33
   },
   {
     "NAF Nr": "35988",
@@ -25345,13 +25513,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "High Elf",
-    "rating": "173.39",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
+    "rating": "169.98",
+    "totalTournaments": 4,
+    "gamesTotal": 15,
     "gamesWon": 9,
-    "gamesDraw": 0,
+    "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 75
+    "winRatio": 70
   },
   {
     "NAF Nr": "36513",
@@ -25732,6 +25900,20 @@ const statsRaceHigh_Elf = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "37485",
+    "NAF Name": "bluxxt",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "High Elf",
+    "rating": "144.45",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "winRatio": 40
+  },
+  {
     "NAF Nr": "37505",
     "NAF Name": "jcr",
     "CCAA": "Apatrida",
@@ -25872,6 +26054,20 @@ const statsRaceHigh_Elf = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "38195",
+    "NAF Name": "joeseph",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
+    "race": "High Elf",
+    "rating": "175.58",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "winRatio": 83.33
+  },
+  {
     "NAF Nr": "38231",
     "NAF Name": "Kumas",
     "CCAA": "Apatrida",
@@ -25898,6 +26094,20 @@ const statsRaceHigh_Elf = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 62.5
+  },
+  {
+    "NAF Nr": "38469",
+    "NAF Name": "margrim",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "High Elf",
+    "rating": "149.7",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 50
   },
   {
     "NAF Nr": "38634",
@@ -25942,6 +26152,20 @@ const statsRaceHigh_Elf = [
     "winRatio": 8.33
   },
   {
+    "NAF Nr": "38874",
+    "NAF Name": "minglesalt",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "High Elf",
+    "rating": "143.42",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "38955",
     "NAF Name": "vishiz",
     "CCAA": "Apatrida",
@@ -25982,6 +26206,20 @@ const statsRaceHigh_Elf = [
     "gamesDraw": 2,
     "gamesLost": 0,
     "winRatio": 66.67
+  },
+  {
+    "NAF Nr": "39017",
+    "NAF Name": "Kazlu",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "High Elf",
+    "rating": "149.22",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 50
   },
   {
     "NAF Nr": "39057",
@@ -26045,13 +26283,13 @@ const statsRaceHigh_Elf = [
     "CCAA": "Apatrida",
     "Country": "North Ireland",
     "race": "High Elf",
-    "rating": "139.45",
-    "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 2,
+    "rating": "144.03",
+    "totalTournaments": 3,
+    "gamesTotal": 12,
+    "gamesWon": 4,
     "gamesDraw": 3,
-    "gamesLost": 4,
-    "winRatio": 38.89
+    "gamesLost": 5,
+    "winRatio": 45.83
   },
   {
     "NAF Nr": "39262",
@@ -26306,6 +26544,20 @@ const statsRaceHigh_Elf = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "40902",
+    "NAF Name": "Relic",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "High Elf",
+    "rating": "136.51",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 4,
+    "winRatio": 31.25
+  },
+  {
     "NAF Nr": "41015",
     "NAF Name": "HenryLam",
     "CCAA": "Apatrida",
@@ -26318,5 +26570,61 @@ const statsRaceHigh_Elf = [
     "gamesDraw": 1,
     "gamesLost": 2,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "41069",
+    "NAF Name": "Napalm_GC",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "High Elf",
+    "rating": "149.13",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 41.67
+  },
+  {
+    "NAF Nr": "41381",
+    "NAF Name": "nox29",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "High Elf",
+    "rating": "142.98",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 4,
+    "gamesLost": 1,
+    "winRatio": 40
+  },
+  {
+    "NAF Nr": "41905",
+    "NAF Name": "Meeegaptera",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "High Elf",
+    "rating": "147.0",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
+  },
+  {
+    "NAF Nr": "42023",
+    "NAF Name": "ColdBeer",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "High Elf",
+    "rating": "142.38",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "winRatio": 33.33
   }
 ];

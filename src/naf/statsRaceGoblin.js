@@ -6,12 +6,12 @@ const statsRaceGoblin = [
     "Country": "Cayman Islands",
     "race": "Goblin",
     "rating": "150.0",
-    "totalTournaments": 18,
-    "gamesTotal": 80,
-    "gamesWon": 13,
-    "gamesDraw": 10,
-    "gamesLost": 57,
-    "winRatio": 22.5
+    "totalTournaments": 21,
+    "gamesTotal": 96,
+    "gamesWon": 14,
+    "gamesDraw": 12,
+    "gamesLost": 70,
+    "winRatio": 20.83
   },
   {
     "NAF Nr": "29",
@@ -1111,13 +1111,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Goblin",
-    "rating": "126.4",
-    "totalTournaments": 24,
-    "gamesTotal": 89,
-    "gamesWon": 27,
+    "rating": "132.96",
+    "totalTournaments": 25,
+    "gamesTotal": 92,
+    "gamesWon": 29,
     "gamesDraw": 14,
-    "gamesLost": 48,
-    "winRatio": 38.2
+    "gamesLost": 49,
+    "winRatio": 39.13
   },
   {
     "NAF Nr": "2234",
@@ -2875,13 +2875,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Goblin",
-    "rating": "158.94",
-    "totalTournaments": 10,
-    "gamesTotal": 47,
-    "gamesWon": 18,
-    "gamesDraw": 15,
-    "gamesLost": 14,
-    "winRatio": 54.26
+    "rating": "155.47",
+    "totalTournaments": 12,
+    "gamesTotal": 54,
+    "gamesWon": 20,
+    "gamesDraw": 17,
+    "gamesLost": 17,
+    "winRatio": 52.78
   },
   {
     "NAF Nr": "6226",
@@ -3379,13 +3379,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Goblin",
-    "rating": "145.92",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 3,
-    "winRatio": 41.67
+    "rating": "145.74",
+    "totalTournaments": 3,
+    "gamesTotal": 9,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 4,
+    "winRatio": 44.44
   },
   {
     "NAF Nr": "7234",
@@ -3967,13 +3967,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Goblin",
-    "rating": "147.16",
-    "totalTournaments": 7,
-    "gamesTotal": 31,
+    "rating": "141.93",
+    "totalTournaments": 8,
+    "gamesTotal": 32,
     "gamesWon": 13,
     "gamesDraw": 4,
-    "gamesLost": 14,
-    "winRatio": 48.39
+    "gamesLost": 15,
+    "winRatio": 46.88
   },
   {
     "NAF Nr": "7894",
@@ -5031,13 +5031,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Goblin",
-    "rating": "144.47",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 2,
-    "gamesDraw": 1,
+    "rating": "150.72",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 3,
+    "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 50
   },
   {
     "NAF Nr": "9294",
@@ -5423,13 +5423,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Goblin",
-    "rating": "149.88",
-    "totalTournaments": 1,
-    "gamesTotal": 1,
-    "gamesWon": 0,
-    "gamesDraw": 1,
+    "rating": "154.99",
+    "totalTournaments": 2,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 50
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "9865",
@@ -6095,13 +6095,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Goblin",
-    "rating": "87.57",
-    "totalTournaments": 40,
-    "gamesTotal": 212,
-    "gamesWon": 48,
-    "gamesDraw": 45,
-    "gamesLost": 119,
-    "winRatio": 33.25
+    "rating": "95.01",
+    "totalTournaments": 41,
+    "gamesTotal": 218,
+    "gamesWon": 49,
+    "gamesDraw": 48,
+    "gamesLost": 121,
+    "winRatio": 33.49
   },
   {
     "NAF Nr": "10904",
@@ -9595,13 +9595,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Goblin",
-    "rating": "134.09",
-    "totalTournaments": 5,
-    "gamesTotal": 22,
-    "gamesWon": 7,
-    "gamesDraw": 5,
-    "gamesLost": 10,
-    "winRatio": 43.18
+    "rating": "126.62",
+    "totalTournaments": 6,
+    "gamesTotal": 27,
+    "gamesWon": 8,
+    "gamesDraw": 6,
+    "gamesLost": 13,
+    "winRatio": 40.74
   },
   {
     "NAF Nr": "15090",
@@ -10085,13 +10085,13 @@ const statsRaceGoblin = [
     "CCAA": "La Rioja",
     "Country": "Spain",
     "race": "Goblin",
-    "rating": "128.45",
-    "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 6,
-    "winRatio": 27.78
+    "rating": "126.77",
+    "totalTournaments": 3,
+    "gamesTotal": 13,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 8,
+    "winRatio": 30.77
   },
   {
     "NAF Nr": "15424",
@@ -12381,13 +12381,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Goblin",
-    "rating": "111.79",
-    "totalTournaments": 2,
-    "gamesTotal": 12,
-    "gamesWon": 1,
+    "rating": "118.82",
+    "totalTournaments": 3,
+    "gamesTotal": 13,
+    "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 8,
-    "winRatio": 20.83
+    "winRatio": 26.92
   },
   {
     "NAF Nr": "17319",
@@ -12577,13 +12577,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Goblin",
-    "rating": "145.7",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
+    "rating": "135.85",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
     "gamesWon": 0,
-    "gamesDraw": 2,
-    "gamesLost": 1,
-    "winRatio": 33.33
+    "gamesDraw": 3,
+    "gamesLost": 3,
+    "winRatio": 25
   },
   {
     "NAF Nr": "17415",
@@ -13963,13 +13963,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Goblin",
-    "rating": "208.58",
-    "totalTournaments": 15,
-    "gamesTotal": 74,
-    "gamesWon": 41,
+    "rating": "201.78",
+    "totalTournaments": 17,
+    "gamesTotal": 83,
+    "gamesWon": 46,
     "gamesDraw": 14,
-    "gamesLost": 19,
-    "winRatio": 64.86
+    "gamesLost": 23,
+    "winRatio": 63.86
   },
   {
     "NAF Nr": "18520",
@@ -16427,7 +16427,7 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Goblin",
-    "rating": "176.99",
+    "rating": "177.18",
     "totalTournaments": 4,
     "gamesTotal": 23,
     "gamesWon": 11,
@@ -17281,13 +17281,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Goblin",
-    "rating": "162.55",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 3,
+    "rating": "166.07",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 5,
     "gamesDraw": 0,
-    "gamesLost": 0,
-    "winRatio": 100
+    "gamesLost": 1,
+    "winRatio": 83.33
   },
   {
     "NAF Nr": "20585",
@@ -18149,12 +18149,12 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Goblin",
-    "rating": "146.01",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
+    "rating": "141.99",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 2,
     "gamesDraw": 0,
-    "gamesLost": 2,
+    "gamesLost": 4,
     "winRatio": 33.33
   },
   {
@@ -19339,13 +19339,13 @@ const statsRaceGoblin = [
     "CCAA": "Euskadi",
     "Country": "Spain",
     "race": "Goblin",
-    "rating": "137.03",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 5,
-    "winRatio": 31.25
+    "rating": "160.55",
+    "totalTournaments": 3,
+    "gamesTotal": 16,
+    "gamesWon": 7,
+    "gamesDraw": 2,
+    "gamesLost": 7,
+    "winRatio": 50
   },
   {
     "NAF Nr": "21603",
@@ -19633,13 +19633,13 @@ const statsRaceGoblin = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Goblin",
-    "rating": "158.07",
-    "totalTournaments": 5,
-    "gamesTotal": 18,
-    "gamesWon": 9,
-    "gamesDraw": 2,
+    "rating": "160.49",
+    "totalTournaments": 6,
+    "gamesTotal": 22,
+    "gamesWon": 10,
+    "gamesDraw": 5,
     "gamesLost": 7,
-    "winRatio": 55.56
+    "winRatio": 56.82
   },
   {
     "NAF Nr": "21709",
@@ -22517,13 +22517,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Goblin",
-    "rating": "170.43",
-    "totalTournaments": 3,
-    "gamesTotal": 9,
-    "gamesWon": 6,
-    "gamesDraw": 2,
-    "gamesLost": 1,
-    "winRatio": 77.78
+    "rating": "168.46",
+    "totalTournaments": 4,
+    "gamesTotal": 12,
+    "gamesWon": 7,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "winRatio": 70.83
   },
   {
     "NAF Nr": "23368",
@@ -23730,6 +23730,20 @@ const statsRaceGoblin = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "24050",
+    "NAF Name": "SaltySeaWench",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Goblin",
+    "rating": "156.5",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
+  },
+  {
     "NAF Nr": "24051",
     "NAF Name": "Insidious",
     "CCAA": "Apatrida",
@@ -24897,12 +24911,12 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Goblin",
-    "rating": "143.0",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
+    "rating": "135.31",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
     "gamesWon": 0,
-    "gamesDraw": 1,
-    "gamesLost": 2,
+    "gamesDraw": 2,
+    "gamesLost": 4,
     "winRatio": 16.67
   },
   {
@@ -25065,13 +25079,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Chile",
     "race": "Goblin",
-    "rating": "151.95",
-    "totalTournaments": 3,
-    "gamesTotal": 9,
+    "rating": "148.96",
+    "totalTournaments": 4,
+    "gamesTotal": 12,
     "gamesWon": 4,
-    "gamesDraw": 2,
-    "gamesLost": 3,
-    "winRatio": 55.56
+    "gamesDraw": 4,
+    "gamesLost": 4,
+    "winRatio": 50
   },
   {
     "NAF Nr": "24784",
@@ -25191,13 +25205,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Chile",
     "race": "Goblin",
-    "rating": "146.84",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 33.33
+    "rating": "147.05",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "24860",
@@ -25765,13 +25779,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Goblin",
-    "rating": "140.0",
-    "totalTournaments": 2,
-    "gamesTotal": 5,
-    "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 4,
-    "winRatio": 20
+    "rating": "161.51",
+    "totalTournaments": 3,
+    "gamesTotal": 11,
+    "gamesWon": 5,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 50
   },
   {
     "NAF Nr": "25235",
@@ -27235,7 +27249,7 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Goblin",
-    "rating": "145.98",
+    "rating": "145.97",
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 4,
@@ -27375,13 +27389,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Goblin",
-    "rating": "166.47",
-    "totalTournaments": 8,
-    "gamesTotal": 40,
+    "rating": "156.22",
+    "totalTournaments": 9,
+    "gamesTotal": 43,
     "gamesWon": 17,
-    "gamesDraw": 9,
-    "gamesLost": 14,
-    "winRatio": 53.75
+    "gamesDraw": 10,
+    "gamesLost": 16,
+    "winRatio": 51.16
   },
   {
     "NAF Nr": "26071",
@@ -27459,13 +27473,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Goblin",
-    "rating": "157.53",
-    "totalTournaments": 2,
-    "gamesTotal": 11,
-    "gamesWon": 5,
-    "gamesDraw": 2,
-    "gamesLost": 4,
-    "winRatio": 54.55
+    "rating": "158.29",
+    "totalTournaments": 3,
+    "gamesTotal": 16,
+    "gamesWon": 6,
+    "gamesDraw": 5,
+    "gamesLost": 5,
+    "winRatio": 53.13
   },
   {
     "NAF Nr": "26101",
@@ -28042,6 +28056,20 @@ const statsRaceGoblin = [
     "winRatio": 41.67
   },
   {
+    "NAF Nr": "26590",
+    "NAF Name": "Tauriel",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Goblin",
+    "rating": "143.65",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "26601",
     "NAF Name": "codered",
     "CCAA": "Apatrida",
@@ -28061,13 +28089,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Goblin",
-    "rating": "119.17",
-    "totalTournaments": 3,
-    "gamesTotal": 15,
-    "gamesWon": 2,
+    "rating": "102.38",
+    "totalTournaments": 4,
+    "gamesTotal": 20,
+    "gamesWon": 3,
     "gamesDraw": 1,
-    "gamesLost": 12,
-    "winRatio": 16.67
+    "gamesLost": 16,
+    "winRatio": 17.5
   },
   {
     "NAF Nr": "26609",
@@ -28756,6 +28784,20 @@ const statsRaceGoblin = [
     "winRatio": 5.56
   },
   {
+    "NAF Nr": "27023",
+    "NAF Name": "minotaurus",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Goblin",
+    "rating": "141.27",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 4,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "27045",
     "NAF Name": "Bubu",
     "CCAA": "Apatrida",
@@ -28831,13 +28873,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Goblin",
-    "rating": "128.57",
-    "totalTournaments": 4,
-    "gamesTotal": 12,
-    "gamesWon": 2,
+    "rating": "125.62",
+    "totalTournaments": 5,
+    "gamesTotal": 15,
+    "gamesWon": 3,
     "gamesDraw": 1,
-    "gamesLost": 9,
-    "winRatio": 20.83
+    "gamesLost": 11,
+    "winRatio": 23.33
   },
   {
     "NAF Nr": "27082",
@@ -29671,13 +29713,13 @@ const statsRaceGoblin = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Goblin",
-    "rating": "132.54",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 1,
-    "gamesDraw": 2,
-    "gamesLost": 5,
-    "winRatio": 25
+    "rating": "132.3",
+    "totalTournaments": 3,
+    "gamesTotal": 16,
+    "gamesWon": 4,
+    "gamesDraw": 3,
+    "gamesLost": 9,
+    "winRatio": 34.38
   },
   {
     "NAF Nr": "27741",
@@ -30198,6 +30240,20 @@ const statsRaceGoblin = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "28083",
+    "NAF Name": "legion_uk",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Goblin",
+    "rating": "160.14",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 75
+  },
+  {
     "NAF Nr": "28088",
     "NAF Name": "HeelHooker",
     "CCAA": "Apatrida",
@@ -30357,13 +30413,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Goblin",
-    "rating": "137.99",
-    "totalTournaments": 2,
-    "gamesTotal": 7,
+    "rating": "117.27",
+    "totalTournaments": 3,
+    "gamesTotal": 13,
     "gamesWon": 2,
     "gamesDraw": 0,
-    "gamesLost": 5,
-    "winRatio": 28.57
+    "gamesLost": 11,
+    "winRatio": 15.38
   },
   {
     "NAF Nr": "28264",
@@ -30371,13 +30427,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Goblin",
-    "rating": "106.03",
-    "totalTournaments": 5,
-    "gamesTotal": 15,
-    "gamesWon": 1,
+    "rating": "105.96",
+    "totalTournaments": 6,
+    "gamesTotal": 18,
+    "gamesWon": 2,
     "gamesDraw": 0,
-    "gamesLost": 14,
-    "winRatio": 6.67
+    "gamesLost": 16,
+    "winRatio": 11.11
   },
   {
     "NAF Nr": "28274",
@@ -30903,13 +30959,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Goblin",
-    "rating": "160.36",
-    "totalTournaments": 11,
-    "gamesTotal": 64,
-    "gamesWon": 19,
-    "gamesDraw": 17,
-    "gamesLost": 28,
-    "winRatio": 42.97
+    "rating": "170.17",
+    "totalTournaments": 13,
+    "gamesTotal": 75,
+    "gamesWon": 24,
+    "gamesDraw": 20,
+    "gamesLost": 31,
+    "winRatio": 45.33
   },
   {
     "NAF Nr": "28623",
@@ -31099,13 +31155,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Goblin",
-    "rating": "123.0",
-    "totalTournaments": 4,
-    "gamesTotal": 17,
+    "rating": "96.63",
+    "totalTournaments": 5,
+    "gamesTotal": 24,
     "gamesWon": 4,
-    "gamesDraw": 3,
-    "gamesLost": 10,
-    "winRatio": 32.35
+    "gamesDraw": 5,
+    "gamesLost": 15,
+    "winRatio": 27.08
   },
   {
     "NAF Nr": "28790",
@@ -31309,13 +31365,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Goblin",
-    "rating": "166.33",
-    "totalTournaments": 14,
-    "gamesTotal": 52,
-    "gamesWon": 23,
+    "rating": "170.16",
+    "totalTournaments": 15,
+    "gamesTotal": 55,
+    "gamesWon": 25,
     "gamesDraw": 10,
-    "gamesLost": 19,
-    "winRatio": 53.85
+    "gamesLost": 20,
+    "winRatio": 54.55
   },
   {
     "NAF Nr": "28934",
@@ -31417,7 +31473,7 @@ const statsRaceGoblin = [
   },
   {
     "NAF Nr": "28989",
-    "NAF Name": "James_",
+    "NAF Name": "Hamez",
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Goblin",
@@ -32214,6 +32270,20 @@ const statsRaceGoblin = [
     "winRatio": 25
   },
   {
+    "NAF Nr": "29796",
+    "NAF Name": "gaheris",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Goblin",
+    "rating": "146.34",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "29817",
     "NAF Name": "8eagle",
     "CCAA": "Apatrida",
@@ -32494,6 +32564,20 @@ const statsRaceGoblin = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "30073",
+    "NAF Name": "Loidl",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Goblin",
+    "rating": "134.53",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "30083",
     "NAF Name": "Tar_Edain",
     "CCAA": "Apatrida",
@@ -32564,6 +32648,20 @@ const statsRaceGoblin = [
     "winRatio": 42.86
   },
   {
+    "NAF Nr": "30174",
+    "NAF Name": "coachcamdog",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Goblin",
+    "rating": "147.26",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "30178",
     "NAF Name": "snotsmonster",
     "CCAA": "Apatrida",
@@ -32611,7 +32709,7 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Goblin",
-    "rating": "113.35",
+    "rating": "113.59",
     "totalTournaments": 5,
     "gamesTotal": 12,
     "gamesWon": 1,
@@ -33647,13 +33745,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Goblin",
-    "rating": "138.96",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 2,
+    "rating": "130.09",
+    "totalTournaments": 3,
+    "gamesTotal": 12,
+    "gamesWon": 3,
     "gamesDraw": 1,
-    "gamesLost": 5,
-    "winRatio": 31.25
+    "gamesLost": 8,
+    "winRatio": 29.17
   },
   {
     "NAF Nr": "31301",
@@ -34389,7 +34487,7 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Goblin",
-    "rating": "129.23",
+    "rating": "129.25",
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
@@ -34669,7 +34767,7 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Goblin",
-    "rating": "130.23",
+    "rating": "130.13",
     "totalTournaments": 3,
     "gamesTotal": 9,
     "gamesWon": 1,
@@ -34753,13 +34851,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Goblin",
-    "rating": "162.15",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
-    "gamesDraw": 2,
-    "gamesLost": 0,
-    "winRatio": 75
+    "rating": "166.51",
+    "totalTournaments": 2,
+    "gamesTotal": 10,
+    "gamesWon": 5,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "winRatio": 65
   },
   {
     "NAF Nr": "32368",
@@ -35131,7 +35229,7 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Goblin",
-    "rating": "158.89",
+    "rating": "158.78",
     "totalTournaments": 7,
     "gamesTotal": 26,
     "gamesWon": 11,
@@ -35551,13 +35649,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Goblin",
-    "rating": "108.78",
-    "totalTournaments": 3,
-    "gamesTotal": 14,
-    "gamesWon": 2,
+    "rating": "115.95",
+    "totalTournaments": 4,
+    "gamesTotal": 20,
+    "gamesWon": 5,
     "gamesDraw": 2,
-    "gamesLost": 10,
-    "winRatio": 21.43
+    "gamesLost": 13,
+    "winRatio": 30
   },
   {
     "NAF Nr": "32950",
@@ -35691,13 +35789,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Goblin",
-    "rating": "137.39",
-    "totalTournaments": 2,
-    "gamesTotal": 10,
-    "gamesWon": 3,
-    "gamesDraw": 1,
-    "gamesLost": 6,
-    "winRatio": 35
+    "rating": "127.91",
+    "totalTournaments": 3,
+    "gamesTotal": 15,
+    "gamesWon": 4,
+    "gamesDraw": 3,
+    "gamesLost": 8,
+    "winRatio": 36.67
   },
   {
     "NAF Nr": "33063",
@@ -36573,7 +36671,7 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Goblin",
-    "rating": "117.07",
+    "rating": "117.11",
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 2,
@@ -36797,7 +36895,7 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Goblin",
-    "rating": "145.63",
+    "rating": "145.64",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
@@ -36874,6 +36972,20 @@ const statsRaceGoblin = [
     "gamesDraw": 0,
     "gamesLost": 2,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "34501",
+    "NAF Name": "Pai_Mei",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Goblin",
+    "rating": "112.04",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 6,
+    "winRatio": 12.5
   },
   {
     "NAF Nr": "34505",
@@ -37338,6 +37450,20 @@ const statsRaceGoblin = [
     "winRatio": 30.77
   },
   {
+    "NAF Nr": "35246",
+    "NAF Name": "Mini-frank",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Goblin",
+    "rating": "145.19",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "35281",
     "NAF Name": "kimura",
     "CCAA": "Catalunya ",
@@ -37651,13 +37777,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Goblin",
-    "rating": "122.3",
-    "totalTournaments": 6,
-    "gamesTotal": 28,
-    "gamesWon": 7,
-    "gamesDraw": 5,
-    "gamesLost": 16,
-    "winRatio": 33.93
+    "rating": "111.1",
+    "totalTournaments": 7,
+    "gamesTotal": 34,
+    "gamesWon": 8,
+    "gamesDraw": 6,
+    "gamesLost": 20,
+    "winRatio": 32.35
   },
   {
     "NAF Nr": "35757",
@@ -37714,6 +37840,20 @@ const statsRaceGoblin = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "35794",
+    "NAF Name": "WoP-Zer0",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Goblin",
+    "rating": "156.06",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 60
   },
   {
     "NAF Nr": "35808",
@@ -37798,6 +37938,20 @@ const statsRaceGoblin = [
     "gamesDraw": 5,
     "gamesLost": 17,
     "winRatio": 42.65
+  },
+  {
+    "NAF Nr": "35873",
+    "NAF Name": "Mister_Stunty",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
+    "race": "Goblin",
+    "rating": "144.53",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 50
   },
   {
     "NAF Nr": "35880",
@@ -38066,6 +38220,20 @@ const statsRaceGoblin = [
     "winRatio": 37.5
   },
   {
+    "NAF Nr": "36375",
+    "NAF Name": "tombstone33",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Goblin",
+    "rating": "149.73",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
+  },
+  {
     "NAF Nr": "36402",
     "NAF Name": "Gordini",
     "CCAA": "Castilla y León",
@@ -38085,13 +38253,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Goblin",
-    "rating": "144.5",
-    "totalTournaments": 1,
-    "gamesTotal": 1,
-    "gamesWon": 0,
+    "rating": "130.95",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 1,
     "gamesDraw": 0,
-    "gamesLost": 1,
-    "winRatio": 0
+    "gamesLost": 5,
+    "winRatio": 16.67
   },
   {
     "NAF Nr": "36452",
@@ -38248,6 +38416,20 @@ const statsRaceGoblin = [
     "winRatio": 0
   },
   {
+    "NAF Nr": "36655",
+    "NAF Name": "Rockwell",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Goblin",
+    "rating": "136.76",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 12.5
+  },
+  {
     "NAF Nr": "36676",
     "NAF Name": "randismkii",
     "CCAA": "Apatrida",
@@ -38343,6 +38525,20 @@ const statsRaceGoblin = [
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
+    "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "36825",
+    "NAF Name": "Badfang",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "race": "Goblin",
+    "rating": "144.76",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
     "winRatio": 33.33
   },
   {
@@ -38442,6 +38638,20 @@ const statsRaceGoblin = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "37012",
+    "NAF Name": "noahscape",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Goblin",
+    "rating": "147.7",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "37062",
@@ -38561,13 +38771,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Goblin",
-    "rating": "151.92",
-    "totalTournaments": 3,
-    "gamesTotal": 15,
-    "gamesWon": 6,
-    "gamesDraw": 4,
-    "gamesLost": 5,
-    "winRatio": 53.33
+    "rating": "160.91",
+    "totalTournaments": 4,
+    "gamesTotal": 20,
+    "gamesWon": 9,
+    "gamesDraw": 5,
+    "gamesLost": 6,
+    "winRatio": 57.5
   },
   {
     "NAF Nr": "37159",
@@ -38883,13 +39093,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Goblin",
-    "rating": "134.16",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 1,
-    "gamesDraw": 1,
-    "gamesLost": 4,
-    "winRatio": 25
+    "rating": "136.69",
+    "totalTournaments": 3,
+    "gamesTotal": 12,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 6,
+    "winRatio": 37.5
   },
   {
     "NAF Nr": "37733",
@@ -38904,6 +39114,20 @@ const statsRaceGoblin = [
     "gamesDraw": 1,
     "gamesLost": 4,
     "winRatio": 10
+  },
+  {
+    "NAF Nr": "37742",
+    "NAF Name": "vonvelten",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Goblin",
+    "rating": "137.72",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 25
   },
   {
     "NAF Nr": "37775",
@@ -38926,6 +39150,20 @@ const statsRaceGoblin = [
     "Country": "France",
     "race": "Goblin",
     "rating": "143.11",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 25
+  },
+  {
+    "NAF Nr": "37819",
+    "NAF Name": "samiwoo",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "race": "Goblin",
+    "rating": "137.43",
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
@@ -39032,6 +39270,20 @@ const statsRaceGoblin = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "38015",
+    "NAF Name": "octopodesm2",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Goblin",
+    "rating": "137.17",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "38038",
     "NAF Name": "The_Wandering_Virologist",
     "CCAA": "Apatrida",
@@ -39058,6 +39310,20 @@ const statsRaceGoblin = [
     "gamesDraw": 0,
     "gamesLost": 2,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "38129",
+    "NAF Name": "LaMordiviasse",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Goblin",
+    "rating": "145.81",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 40
   },
   {
     "NAF Nr": "38131",
@@ -39121,13 +39387,13 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Goblin",
-    "rating": "134.37",
-    "totalTournaments": 5,
-    "gamesTotal": 15,
-    "gamesWon": 4,
-    "gamesDraw": 3,
-    "gamesLost": 8,
-    "winRatio": 36.67
+    "rating": "136.44",
+    "totalTournaments": 6,
+    "gamesTotal": 18,
+    "gamesWon": 5,
+    "gamesDraw": 4,
+    "gamesLost": 9,
+    "winRatio": 38.89
   },
   {
     "NAF Nr": "38419",
@@ -39142,6 +39408,20 @@ const statsRaceGoblin = [
     "gamesDraw": 0,
     "gamesLost": 7,
     "winRatio": 22.22
+  },
+  {
+    "NAF Nr": "38422",
+    "NAF Name": "roberto",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Goblin",
+    "rating": "149.79",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
   },
   {
     "NAF Nr": "38431",
@@ -39368,6 +39648,20 @@ const statsRaceGoblin = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "39007",
+    "NAF Name": "jauntychuffblast",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Goblin",
+    "rating": "141.68",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 16.67
+  },
+  {
     "NAF Nr": "39008",
     "NAF Name": "kingcoverlord",
     "CCAA": "Apatrida",
@@ -39439,7 +39733,7 @@ const statsRaceGoblin = [
   },
   {
     "NAF Nr": "39237",
-    "NAF Name": "Archcoach_Ferdinand",
+    "NAF Name": "SnarkyHobbit",
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Goblin",
@@ -39506,6 +39800,20 @@ const statsRaceGoblin = [
     "gamesDraw": 0,
     "gamesLost": 2,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "39400",
+    "NAF Name": "gromit6909",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Goblin",
+    "rating": "110.63",
+    "totalTournaments": 2,
+    "gamesTotal": 11,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 8,
+    "winRatio": 18.18
   },
   {
     "NAF Nr": "39412",
@@ -39590,6 +39898,20 @@ const statsRaceGoblin = [
     "gamesDraw": 3,
     "gamesLost": 3,
     "winRatio": 25
+  },
+  {
+    "NAF Nr": "39704",
+    "NAF Name": "Navarreteando",
+    "CCAA": "Apatrida",
+    "Country": "Mexico",
+    "race": "Goblin",
+    "rating": "150.29",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 50
   },
   {
     "NAF Nr": "39869",
@@ -39793,13 +40115,13 @@ const statsRaceGoblin = [
     "CCAA": "Castilla y León",
     "Country": "Spain",
     "race": "Goblin",
-    "rating": "144.11",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "rating": "145.01",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 3,
     "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 37.5
+    "gamesLost": 4,
+    "winRatio": 43.75
   },
   {
     "NAF Nr": "40484",
@@ -39863,12 +40185,12 @@ const statsRaceGoblin = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Goblin",
-    "rating": "134.03",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "rating": "124.74",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 2,
     "gamesDraw": 0,
-    "gamesLost": 3,
+    "gamesLost": 6,
     "winRatio": 25
   },
   {
@@ -40026,6 +40348,20 @@ const statsRaceGoblin = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "41755",
+    "NAF Name": "Penteo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Goblin",
+    "rating": "136.49",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "41779",
     "NAF Name": "JimChungus",
     "CCAA": "Apatrida",
@@ -40038,5 +40374,33 @@ const statsRaceGoblin = [
     "gamesDraw": 0,
     "gamesLost": 1,
     "winRatio": 0
+  },
+  {
+    "NAF Nr": "41830",
+    "NAF Name": "SamFatskull",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Goblin",
+    "rating": "138.85",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 16.67
+  },
+  {
+    "NAF Nr": "41966",
+    "NAF Name": "Lodin",
+    "CCAA": "Apatrida",
+    "Country": "Georgia",
+    "race": "Goblin",
+    "rating": "143.0",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 16.67
   }
 ];
