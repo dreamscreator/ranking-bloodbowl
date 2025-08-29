@@ -6,12 +6,12 @@ const statsRaceAmazon = [
     "Country": "Cayman Islands",
     "race": "Amazon",
     "rating": "150.0",
-    "totalTournaments": 32,
-    "gamesTotal": 115,
+    "totalTournaments": 33,
+    "gamesTotal": 118,
     "gamesWon": 36,
     "gamesDraw": 21,
-    "gamesLost": 58,
-    "winRatio": 40.43
+    "gamesLost": 61,
+    "winRatio": 39.41
   },
   {
     "NAF Nr": "29",
@@ -537,13 +537,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Amazon",
-    "rating": "161.91",
-    "totalTournaments": 4,
-    "gamesTotal": 21,
-    "gamesWon": 9,
-    "gamesDraw": 3,
-    "gamesLost": 9,
-    "winRatio": 50
+    "rating": "176.21",
+    "totalTournaments": 7,
+    "gamesTotal": 30,
+    "gamesWon": 15,
+    "gamesDraw": 4,
+    "gamesLost": 11,
+    "winRatio": 56.67
   },
   {
     "NAF Nr": "371",
@@ -1363,13 +1363,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Amazon",
-    "rating": "154.08",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 2,
+    "rating": "155.09",
+    "totalTournaments": 3,
+    "gamesTotal": 11,
+    "gamesWon": 4,
     "gamesDraw": 3,
-    "gamesLost": 3,
-    "winRatio": 43.75
+    "gamesLost": 4,
+    "winRatio": 50
   },
   {
     "NAF Nr": "2702",
@@ -1769,13 +1769,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Amazon",
-    "rating": "157.51",
-    "totalTournaments": 2,
-    "gamesTotal": 7,
-    "gamesWon": 3,
-    "gamesDraw": 2,
-    "gamesLost": 2,
-    "winRatio": 57.14
+    "rating": "158.49",
+    "totalTournaments": 3,
+    "gamesTotal": 10,
+    "gamesWon": 4,
+    "gamesDraw": 3,
+    "gamesLost": 3,
+    "winRatio": 55
   },
   {
     "NAF Nr": "3741",
@@ -2632,6 +2632,20 @@ const statsRaceAmazon = [
     "winRatio": 66.67
   },
   {
+    "NAF Nr": "5571",
+    "NAF Name": "Nyeusi",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "race": "Amazon",
+    "rating": "154.81",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "5588",
     "NAF Name": "affe",
     "CCAA": "Apatrida",
@@ -2931,13 +2945,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Ireland",
     "race": "Amazon",
-    "rating": "203.69",
-    "totalTournaments": 7,
-    "gamesTotal": 32,
-    "gamesWon": 20,
+    "rating": "199.56",
+    "totalTournaments": 8,
+    "gamesTotal": 34,
+    "gamesWon": 21,
     "gamesDraw": 7,
-    "gamesLost": 5,
-    "winRatio": 73.44
+    "gamesLost": 6,
+    "winRatio": 72.06
   },
   {
     "NAF Nr": "5900",
@@ -3939,13 +3953,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Monaco",
     "race": "Amazon",
-    "rating": "165.73",
-    "totalTournaments": 2,
-    "gamesTotal": 11,
-    "gamesWon": 5,
-    "gamesDraw": 4,
-    "gamesLost": 2,
-    "winRatio": 63.64
+    "rating": "184.03",
+    "totalTournaments": 3,
+    "gamesTotal": 19,
+    "gamesWon": 9,
+    "gamesDraw": 6,
+    "gamesLost": 4,
+    "winRatio": 63.16
   },
   {
     "NAF Nr": "7422",
@@ -3981,13 +3995,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Amazon",
-    "rating": "218.52",
-    "totalTournaments": 17,
-    "gamesTotal": 82,
-    "gamesWon": 45,
-    "gamesDraw": 24,
+    "rating": "236.6",
+    "totalTournaments": 18,
+    "gamesTotal": 88,
+    "gamesWon": 50,
+    "gamesDraw": 25,
     "gamesLost": 13,
-    "winRatio": 69.51
+    "winRatio": 71.02
   },
   {
     "NAF Nr": "7539",
@@ -4471,13 +4485,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Monaco",
     "race": "Amazon",
-    "rating": "175.32",
-    "totalTournaments": 5,
-    "gamesTotal": 21,
-    "gamesWon": 11,
-    "gamesDraw": 3,
+    "rating": "190.23",
+    "totalTournaments": 6,
+    "gamesTotal": 29,
+    "gamesWon": 14,
+    "gamesDraw": 8,
     "gamesLost": 7,
-    "winRatio": 59.52
+    "winRatio": 62.07
   },
   {
     "NAF Nr": "8021",
@@ -5381,13 +5395,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Amazon",
-    "rating": "208.15",
-    "totalTournaments": 7,
-    "gamesTotal": 33,
-    "gamesWon": 22,
-    "gamesDraw": 5,
-    "gamesLost": 6,
-    "winRatio": 74.24
+    "rating": "214.27",
+    "totalTournaments": 8,
+    "gamesTotal": 39,
+    "gamesWon": 26,
+    "gamesDraw": 6,
+    "gamesLost": 7,
+    "winRatio": 74.36
   },
   {
     "NAF Nr": "8895",
@@ -6221,13 +6235,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Amazon",
-    "rating": "183.65",
-    "totalTournaments": 2,
-    "gamesTotal": 10,
-    "gamesWon": 7,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 75
+    "rating": "175.88",
+    "totalTournaments": 3,
+    "gamesTotal": 15,
+    "gamesWon": 8,
+    "gamesDraw": 3,
+    "gamesLost": 4,
+    "winRatio": 63.33
   },
   {
     "NAF Nr": "10218",
@@ -7691,13 +7705,13 @@ const statsRaceAmazon = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "165.44",
-    "totalTournaments": 4,
-    "gamesTotal": 19,
-    "gamesWon": 9,
+    "rating": "172.16",
+    "totalTournaments": 5,
+    "gamesTotal": 20,
+    "gamesWon": 10,
     "gamesDraw": 4,
     "gamesLost": 6,
-    "winRatio": 57.89
+    "winRatio": 60
   },
   {
     "NAF Nr": "11789",
@@ -9133,13 +9147,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Amazon",
-    "rating": "181.26",
-    "totalTournaments": 12,
-    "gamesTotal": 50,
-    "gamesWon": 27,
+    "rating": "176.32",
+    "totalTournaments": 13,
+    "gamesTotal": 53,
+    "gamesWon": 28,
     "gamesDraw": 10,
-    "gamesLost": 13,
-    "winRatio": 64
+    "gamesLost": 15,
+    "winRatio": 62.26
   },
   {
     "NAF Nr": "13251",
@@ -10057,13 +10071,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "194.28",
-    "totalTournaments": 5,
-    "gamesTotal": 30,
-    "gamesWon": 16,
-    "gamesDraw": 7,
+    "rating": "225.1",
+    "totalTournaments": 6,
+    "gamesTotal": 38,
+    "gamesWon": 21,
+    "gamesDraw": 10,
     "gamesLost": 7,
-    "winRatio": 65
+    "winRatio": 68.42
   },
   {
     "NAF Nr": "14021",
@@ -11387,13 +11401,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "203.6",
-    "totalTournaments": 18,
-    "gamesTotal": 94,
-    "gamesWon": 44,
-    "gamesDraw": 31,
-    "gamesLost": 19,
-    "winRatio": 63.3
+    "rating": "202.41",
+    "totalTournaments": 19,
+    "gamesTotal": 102,
+    "gamesWon": 48,
+    "gamesDraw": 33,
+    "gamesLost": 21,
+    "winRatio": 63.24
   },
   {
     "NAF Nr": "15581",
@@ -11583,13 +11597,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "173.1",
-    "totalTournaments": 4,
-    "gamesTotal": 14,
-    "gamesWon": 8,
-    "gamesDraw": 3,
-    "gamesLost": 3,
-    "winRatio": 67.86
+    "rating": "181.09",
+    "totalTournaments": 5,
+    "gamesTotal": 19,
+    "gamesWon": 11,
+    "gamesDraw": 4,
+    "gamesLost": 4,
+    "winRatio": 68.42
   },
   {
     "NAF Nr": "15808",
@@ -11625,13 +11639,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "143.66",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
+    "rating": "137.24",
+    "totalTournaments": 2,
+    "gamesTotal": 5,
     "gamesWon": 0,
-    "gamesDraw": 2,
-    "gamesLost": 1,
-    "winRatio": 33.33
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "winRatio": 30
   },
   {
     "NAF Nr": "16057",
@@ -11835,7 +11849,7 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Amazon",
-    "rating": "169.21",
+    "rating": "169.22",
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 6,
@@ -13221,13 +13235,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Amazon",
-    "rating": "208.47",
-    "totalTournaments": 7,
-    "gamesTotal": 26,
-    "gamesWon": 16,
-    "gamesDraw": 7,
-    "gamesLost": 3,
-    "winRatio": 75
+    "rating": "204.36",
+    "totalTournaments": 8,
+    "gamesTotal": 32,
+    "gamesWon": 17,
+    "gamesDraw": 11,
+    "gamesLost": 4,
+    "winRatio": 70.31
   },
   {
     "NAF Nr": "17250",
@@ -13424,20 +13438,6 @@ const statsRaceAmazon = [
     "gamesDraw": 3,
     "gamesLost": 3,
     "winRatio": 62.5
-  },
-  {
-    "NAF Nr": "17319",
-    "NAF Name": "eldritchfox",
-    "CCAA": "Apatrida",
-    "Country": "England",
-    "race": "Amazon",
-    "rating": "155.5",
-    "totalTournaments": 1,
-    "gamesTotal": 1,
-    "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 0,
-    "winRatio": 100
   },
   {
     "NAF Nr": "17337",
@@ -13977,13 +13977,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Amazon",
-    "rating": "166.77",
-    "totalTournaments": 5,
-    "gamesTotal": 20,
-    "gamesWon": 9,
+    "rating": "180.02",
+    "totalTournaments": 6,
+    "gamesTotal": 26,
+    "gamesWon": 13,
     "gamesDraw": 3,
-    "gamesLost": 8,
-    "winRatio": 52.5
+    "gamesLost": 10,
+    "winRatio": 55.77
   },
   {
     "NAF Nr": "17711",
@@ -14243,13 +14243,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Amazon",
-    "rating": "154.0",
-    "totalTournaments": 1,
-    "gamesTotal": 1,
-    "gamesWon": 1,
+    "rating": "149.46",
+    "totalTournaments": 2,
+    "gamesTotal": 4,
+    "gamesWon": 2,
     "gamesDraw": 0,
-    "gamesLost": 0,
-    "winRatio": 100
+    "gamesLost": 2,
+    "winRatio": 50
   },
   {
     "NAF Nr": "18040",
@@ -14299,13 +14299,13 @@ const statsRaceAmazon = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "159.36",
-    "totalTournaments": 4,
-    "gamesTotal": 13,
-    "gamesWon": 5,
-    "gamesDraw": 4,
-    "gamesLost": 4,
-    "winRatio": 53.85
+    "rating": "163.28",
+    "totalTournaments": 5,
+    "gamesTotal": 18,
+    "gamesWon": 7,
+    "gamesDraw": 6,
+    "gamesLost": 5,
+    "winRatio": 55.56
   },
   {
     "NAF Nr": "18117",
@@ -14418,6 +14418,20 @@ const statsRaceAmazon = [
     "gamesDraw": 0,
     "gamesLost": 5,
     "winRatio": 16.67
+  },
+  {
+    "NAF Nr": "18175",
+    "NAF Name": "DangerRat",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Amazon",
+    "rating": "144.99",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 50
   },
   {
     "NAF Nr": "18181",
@@ -14663,13 +14677,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Amazon",
-    "rating": "219.02",
-    "totalTournaments": 34,
-    "gamesTotal": 176,
-    "gamesWon": 104,
-    "gamesDraw": 35,
-    "gamesLost": 37,
-    "winRatio": 69.03
+    "rating": "219.36",
+    "totalTournaments": 36,
+    "gamesTotal": 188,
+    "gamesWon": 111,
+    "gamesDraw": 38,
+    "gamesLost": 39,
+    "winRatio": 69.15
   },
   {
     "NAF Nr": "18380",
@@ -15629,13 +15643,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "284.99",
-    "totalTournaments": 19,
-    "gamesTotal": 110,
-    "gamesWon": 75,
-    "gamesDraw": 25,
+    "rating": "283.88",
+    "totalTournaments": 20,
+    "gamesTotal": 115,
+    "gamesWon": 78,
+    "gamesDraw": 27,
     "gamesLost": 10,
-    "winRatio": 79.55
+    "winRatio": 79.57
   },
   {
     "NAF Nr": "18972",
@@ -15755,7 +15769,7 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "183.37",
+    "rating": "183.91",
     "totalTournaments": 5,
     "gamesTotal": 19,
     "gamesWon": 10,
@@ -15783,13 +15797,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Amazon",
-    "rating": "151.1",
-    "totalTournaments": 5,
-    "gamesTotal": 13,
+    "rating": "135.63",
+    "totalTournaments": 6,
+    "gamesTotal": 16,
     "gamesWon": 4,
     "gamesDraw": 5,
-    "gamesLost": 4,
-    "winRatio": 50
+    "gamesLost": 7,
+    "winRatio": 40.63
   },
   {
     "NAF Nr": "19092",
@@ -15853,13 +15867,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Amazon",
-    "rating": "145.74",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 33.33
+    "rating": "131.54",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 6,
+    "winRatio": 27.78
   },
   {
     "NAF Nr": "19132",
@@ -15881,13 +15895,13 @@ const statsRaceAmazon = [
     "CCAA": "C. La Mancha",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "204.6",
-    "totalTournaments": 8,
-    "gamesTotal": 38,
-    "gamesWon": 23,
-    "gamesDraw": 7,
+    "rating": "228.07",
+    "totalTournaments": 9,
+    "gamesTotal": 46,
+    "gamesWon": 28,
+    "gamesDraw": 10,
     "gamesLost": 8,
-    "winRatio": 69.74
+    "winRatio": 71.74
   },
   {
     "NAF Nr": "19138",
@@ -16567,13 +16581,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Amazon",
-    "rating": "195.43",
-    "totalTournaments": 7,
-    "gamesTotal": 35,
-    "gamesWon": 19,
+    "rating": "213.21",
+    "totalTournaments": 8,
+    "gamesTotal": 41,
+    "gamesWon": 24,
     "gamesDraw": 10,
-    "gamesLost": 6,
-    "winRatio": 68.57
+    "gamesLost": 7,
+    "winRatio": 70.73
   },
   {
     "NAF Nr": "19537",
@@ -17309,13 +17323,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "158.16",
-    "totalTournaments": 1,
-    "gamesTotal": 2,
-    "gamesWon": 2,
-    "gamesDraw": 0,
-    "gamesLost": 0,
-    "winRatio": 100
+    "rating": "171.08",
+    "totalTournaments": 2,
+    "gamesTotal": 10,
+    "gamesWon": 6,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "winRatio": 70
   },
   {
     "NAF Nr": "20019",
@@ -18079,13 +18093,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Amazon",
-    "rating": "192.99",
-    "totalTournaments": 4,
-    "gamesTotal": 22,
-    "gamesWon": 15,
-    "gamesDraw": 3,
-    "gamesLost": 4,
-    "winRatio": 75
+    "rating": "202.37",
+    "totalTournaments": 5,
+    "gamesTotal": 30,
+    "gamesWon": 18,
+    "gamesDraw": 7,
+    "gamesLost": 5,
+    "winRatio": 71.67
   },
   {
     "NAF Nr": "20500",
@@ -18331,13 +18345,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Amazon",
-    "rating": "146.96",
-    "totalTournaments": 4,
-    "gamesTotal": 12,
+    "rating": "143.47",
+    "totalTournaments": 5,
+    "gamesTotal": 14,
     "gamesWon": 5,
-    "gamesDraw": 1,
-    "gamesLost": 6,
-    "winRatio": 45.83
+    "gamesDraw": 2,
+    "gamesLost": 7,
+    "winRatio": 42.86
   },
   {
     "NAF Nr": "20639",
@@ -18681,13 +18695,13 @@ const statsRaceAmazon = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "222.82",
-    "totalTournaments": 24,
-    "gamesTotal": 103,
-    "gamesWon": 64,
-    "gamesDraw": 22,
-    "gamesLost": 17,
-    "winRatio": 72.82
+    "rating": "220.06",
+    "totalTournaments": 25,
+    "gamesTotal": 110,
+    "gamesWon": 68,
+    "gamesDraw": 24,
+    "gamesLost": 18,
+    "winRatio": 72.73
   },
   {
     "NAF Nr": "20820",
@@ -18975,13 +18989,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Amazon",
-    "rating": "160.87",
-    "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 3,
-    "gamesDraw": 3,
-    "gamesLost": 3,
-    "winRatio": 50
+    "rating": "171.35",
+    "totalTournaments": 3,
+    "gamesTotal": 17,
+    "gamesWon": 7,
+    "gamesDraw": 5,
+    "gamesLost": 5,
+    "winRatio": 55.88
   },
   {
     "NAF Nr": "20934",
@@ -19339,13 +19353,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Amazon",
-    "rating": "202.67",
-    "totalTournaments": 8,
-    "gamesTotal": 33,
-    "gamesWon": 16,
-    "gamesDraw": 9,
+    "rating": "203.77",
+    "totalTournaments": 9,
+    "gamesTotal": 35,
+    "gamesWon": 17,
+    "gamesDraw": 10,
     "gamesLost": 8,
-    "winRatio": 62.12
+    "winRatio": 62.86
   },
   {
     "NAF Nr": "21144",
@@ -19409,13 +19423,13 @@ const statsRaceAmazon = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "169.84",
-    "totalTournaments": 8,
-    "gamesTotal": 32,
-    "gamesWon": 14,
-    "gamesDraw": 5,
-    "gamesLost": 13,
-    "winRatio": 51.56
+    "rating": "179.0",
+    "totalTournaments": 9,
+    "gamesTotal": 40,
+    "gamesWon": 18,
+    "gamesDraw": 6,
+    "gamesLost": 16,
+    "winRatio": 52.5
   },
   {
     "NAF Nr": "21200",
@@ -20291,13 +20305,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Amazon",
-    "rating": "156.2",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
+    "rating": "128.37",
+    "totalTournaments": 2,
+    "gamesTotal": 11,
     "gamesWon": 1,
-    "gamesDraw": 2,
-    "gamesLost": 0,
-    "winRatio": 66.67
+    "gamesDraw": 6,
+    "gamesLost": 4,
+    "winRatio": 36.36
   },
   {
     "NAF Nr": "21691",
@@ -20613,13 +20627,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Amazon",
-    "rating": "156.69",
-    "totalTournaments": 4,
-    "gamesTotal": 14,
-    "gamesWon": 5,
+    "rating": "161.62",
+    "totalTournaments": 5,
+    "gamesTotal": 17,
+    "gamesWon": 7,
     "gamesDraw": 5,
-    "gamesLost": 4,
-    "winRatio": 53.57
+    "gamesLost": 5,
+    "winRatio": 55.88
   },
   {
     "NAF Nr": "21882",
@@ -20809,13 +20823,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Amazon",
-    "rating": "162.74",
-    "totalTournaments": 11,
-    "gamesTotal": 47,
-    "gamesWon": 16,
+    "rating": "166.7",
+    "totalTournaments": 12,
+    "gamesTotal": 50,
+    "gamesWon": 18,
     "gamesDraw": 15,
-    "gamesLost": 16,
-    "winRatio": 50
+    "gamesLost": 17,
+    "winRatio": 51
   },
   {
     "NAF Nr": "22040",
@@ -20844,6 +20858,20 @@ const statsRaceAmazon = [
     "gamesDraw": 6,
     "gamesLost": 6,
     "winRatio": 52.63
+  },
+  {
+    "NAF Nr": "22046",
+    "NAF Name": "Danton",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
+    "race": "Amazon",
+    "rating": "150.92",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
   },
   {
     "NAF Nr": "22057",
@@ -21411,7 +21439,7 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Amazon",
-    "rating": "205.12",
+    "rating": "205.18",
     "totalTournaments": 9,
     "gamesTotal": 37,
     "gamesWon": 21,
@@ -21523,13 +21551,13 @@ const statsRaceAmazon = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "185.78",
-    "totalTournaments": 8,
-    "gamesTotal": 42,
-    "gamesWon": 21,
-    "gamesDraw": 6,
-    "gamesLost": 15,
-    "winRatio": 57.14
+    "rating": "183.33",
+    "totalTournaments": 9,
+    "gamesTotal": 49,
+    "gamesWon": 24,
+    "gamesDraw": 7,
+    "gamesLost": 18,
+    "winRatio": 56.12
   },
   {
     "NAF Nr": "22512",
@@ -21985,13 +22013,13 @@ const statsRaceAmazon = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "146.62",
-    "totalTournaments": 2,
-    "gamesTotal": 7,
-    "gamesWon": 2,
+    "rating": "167.55",
+    "totalTournaments": 3,
+    "gamesTotal": 15,
+    "gamesWon": 7,
     "gamesDraw": 2,
-    "gamesLost": 3,
-    "winRatio": 42.86
+    "gamesLost": 6,
+    "winRatio": 53.33
   },
   {
     "NAF Nr": "22827",
@@ -22097,13 +22125,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "150.91",
-    "totalTournaments": 8,
-    "gamesTotal": 29,
-    "gamesWon": 7,
-    "gamesDraw": 10,
-    "gamesLost": 12,
-    "winRatio": 41.38
+    "rating": "154.63",
+    "totalTournaments": 10,
+    "gamesTotal": 38,
+    "gamesWon": 11,
+    "gamesDraw": 11,
+    "gamesLost": 16,
+    "winRatio": 43.42
   },
   {
     "NAF Nr": "22987",
@@ -23380,6 +23408,20 @@ const statsRaceAmazon = [
     "winRatio": 37.5
   },
   {
+    "NAF Nr": "23974",
+    "NAF Name": "bruto",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Amazon",
+    "rating": "148.68",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 41.67
+  },
+  {
     "NAF Nr": "23978",
     "NAF Name": "Dummesvin",
     "CCAA": "Apatrida",
@@ -23567,13 +23609,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Amazon",
-    "rating": "193.13",
-    "totalTournaments": 12,
-    "gamesTotal": 57,
-    "gamesWon": 25,
+    "rating": "204.46",
+    "totalTournaments": 14,
+    "gamesTotal": 69,
+    "gamesWon": 33,
     "gamesDraw": 15,
-    "gamesLost": 17,
-    "winRatio": 57.02
+    "gamesLost": 21,
+    "winRatio": 58.7
   },
   {
     "NAF Nr": "24112",
@@ -23581,13 +23623,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Amazon",
-    "rating": "154.4",
-    "totalTournaments": 7,
-    "gamesTotal": 36,
-    "gamesWon": 13,
-    "gamesDraw": 11,
-    "gamesLost": 12,
-    "winRatio": 51.39
+    "rating": "149.83",
+    "totalTournaments": 8,
+    "gamesTotal": 40,
+    "gamesWon": 14,
+    "gamesDraw": 12,
+    "gamesLost": 14,
+    "winRatio": 50
   },
   {
     "NAF Nr": "24116",
@@ -24211,13 +24253,13 @@ const statsRaceAmazon = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "201.64",
-    "totalTournaments": 36,
-    "gamesTotal": 156,
-    "gamesWon": 73,
-    "gamesDraw": 34,
-    "gamesLost": 49,
-    "winRatio": 57.69
+    "rating": "210.34",
+    "totalTournaments": 37,
+    "gamesTotal": 164,
+    "gamesWon": 78,
+    "gamesDraw": 35,
+    "gamesLost": 51,
+    "winRatio": 58.23
   },
   {
     "NAF Nr": "24452",
@@ -24393,13 +24435,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Amazon",
-    "rating": "158.13",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 4,
+    "rating": "161.4",
+    "totalTournaments": 3,
+    "gamesTotal": 14,
+    "gamesWon": 7,
     "gamesDraw": 1,
-    "gamesLost": 3,
-    "winRatio": 56.25
+    "gamesLost": 6,
+    "winRatio": 53.57
   },
   {
     "NAF Nr": "24558",
@@ -25289,13 +25331,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Amazon",
-    "rating": "154.9",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
-    "gamesWon": 2,
-    "gamesDraw": 3,
+    "rating": "169.29",
+    "totalTournaments": 3,
+    "gamesTotal": 11,
+    "gamesWon": 5,
+    "gamesDraw": 5,
     "gamesLost": 1,
-    "winRatio": 58.33
+    "winRatio": 68.18
   },
   {
     "NAF Nr": "25228",
@@ -25380,6 +25422,20 @@ const statsRaceAmazon = [
     "gamesDraw": 0,
     "gamesLost": 1,
     "winRatio": 75
+  },
+  {
+    "NAF Nr": "25247",
+    "NAF Name": "Mongloom",
+    "CCAA": "Aragón",
+    "Country": "Spain",
+    "race": "Amazon",
+    "rating": "172.47",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 5,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 68.75
   },
   {
     "NAF Nr": "25248",
@@ -25499,13 +25555,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "race": "Amazon",
-    "rating": "167.13",
-    "totalTournaments": 8,
-    "gamesTotal": 34,
-    "gamesWon": 15,
-    "gamesDraw": 10,
-    "gamesLost": 9,
-    "winRatio": 58.82
+    "rating": "180.2",
+    "totalTournaments": 9,
+    "gamesTotal": 40,
+    "gamesWon": 18,
+    "gamesDraw": 12,
+    "gamesLost": 10,
+    "winRatio": 60
   },
   {
     "NAF Nr": "25306",
@@ -25793,12 +25849,12 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "North Ireland",
     "race": "Amazon",
-    "rating": "162.4",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 3,
+    "rating": "165.66",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 5,
     "gamesDraw": 2,
-    "gamesLost": 1,
+    "gamesLost": 2,
     "winRatio": 66.67
   },
   {
@@ -26409,13 +26465,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "153.25",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 3,
-    "gamesDraw": 2,
-    "gamesLost": 3,
-    "winRatio": 50
+    "rating": "130.1",
+    "totalTournaments": 3,
+    "gamesTotal": 16,
+    "gamesWon": 4,
+    "gamesDraw": 5,
+    "gamesLost": 7,
+    "winRatio": 40.63
   },
   {
     "NAF Nr": "25912",
@@ -26493,13 +26549,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Switzerland",
     "race": "Amazon",
-    "rating": "227.21",
-    "totalTournaments": 6,
-    "gamesTotal": 41,
-    "gamesWon": 26,
-    "gamesDraw": 7,
-    "gamesLost": 8,
-    "winRatio": 71.95
+    "rating": "211.7",
+    "totalTournaments": 9,
+    "gamesTotal": 50,
+    "gamesWon": 30,
+    "gamesDraw": 9,
+    "gamesLost": 11,
+    "winRatio": 69
   },
   {
     "NAF Nr": "25975",
@@ -27095,13 +27151,13 @@ const statsRaceAmazon = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "168.28",
-    "totalTournaments": 5,
-    "gamesTotal": 22,
-    "gamesWon": 8,
-    "gamesDraw": 9,
-    "gamesLost": 5,
-    "winRatio": 56.82
+    "rating": "175.15",
+    "totalTournaments": 6,
+    "gamesTotal": 30,
+    "gamesWon": 11,
+    "gamesDraw": 12,
+    "gamesLost": 7,
+    "winRatio": 56.67
   },
   {
     "NAF Nr": "26543",
@@ -27277,13 +27333,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Amazon",
-    "rating": "162.01",
-    "totalTournaments": 16,
-    "gamesTotal": 73,
-    "gamesWon": 24,
-    "gamesDraw": 26,
-    "gamesLost": 23,
-    "winRatio": 50.68
+    "rating": "169.09",
+    "totalTournaments": 18,
+    "gamesTotal": 81,
+    "gamesWon": 28,
+    "gamesDraw": 28,
+    "gamesLost": 25,
+    "winRatio": 51.85
   },
   {
     "NAF Nr": "26664",
@@ -27361,12 +27417,12 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Amazon",
-    "rating": "147.12",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
-    "gamesWon": 3,
-    "gamesDraw": 0,
-    "gamesLost": 3,
+    "rating": "146.63",
+    "totalTournaments": 3,
+    "gamesTotal": 9,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 4,
     "winRatio": 50
   },
   {
@@ -27529,13 +27585,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Amazon",
-    "rating": "132.5",
-    "totalTournaments": 3,
-    "gamesTotal": 16,
-    "gamesWon": 5,
-    "gamesDraw": 2,
-    "gamesLost": 9,
-    "winRatio": 37.5
+    "rating": "129.99",
+    "totalTournaments": 4,
+    "gamesTotal": 22,
+    "gamesWon": 6,
+    "gamesDraw": 5,
+    "gamesLost": 11,
+    "winRatio": 38.64
   },
   {
     "NAF Nr": "26925",
@@ -27851,13 +27907,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Greece",
     "race": "Amazon",
-    "rating": "186.9",
-    "totalTournaments": 6,
-    "gamesTotal": 25,
-    "gamesWon": 15,
-    "gamesDraw": 4,
-    "gamesLost": 6,
-    "winRatio": 68
+    "rating": "190.51",
+    "totalTournaments": 7,
+    "gamesTotal": 30,
+    "gamesWon": 18,
+    "gamesDraw": 5,
+    "gamesLost": 7,
+    "winRatio": 68.33
   },
   {
     "NAF Nr": "27203",
@@ -28061,13 +28117,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Amazon",
-    "rating": "206.99",
-    "totalTournaments": 7,
-    "gamesTotal": 30,
-    "gamesWon": 18,
+    "rating": "213.07",
+    "totalTournaments": 8,
+    "gamesTotal": 32,
+    "gamesWon": 20,
     "gamesDraw": 5,
     "gamesLost": 7,
-    "winRatio": 68.33
+    "winRatio": 70.31
   },
   {
     "NAF Nr": "27323",
@@ -28201,13 +28257,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Amazon",
-    "rating": "145.8",
-    "totalTournaments": 3,
-    "gamesTotal": 11,
-    "gamesWon": 4,
-    "gamesDraw": 2,
-    "gamesLost": 5,
-    "winRatio": 45.45
+    "rating": "154.62",
+    "totalTournaments": 4,
+    "gamesTotal": 16,
+    "gamesWon": 6,
+    "gamesDraw": 4,
+    "gamesLost": 6,
+    "winRatio": 50
   },
   {
     "NAF Nr": "27478",
@@ -28621,13 +28677,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "199.25",
-    "totalTournaments": 7,
-    "gamesTotal": 35,
-    "gamesWon": 20,
+    "rating": "198.78",
+    "totalTournaments": 8,
+    "gamesTotal": 43,
+    "gamesWon": 25,
     "gamesDraw": 5,
-    "gamesLost": 10,
-    "winRatio": 64.29
+    "gamesLost": 13,
+    "winRatio": 63.95
   },
   {
     "NAF Nr": "27840",
@@ -28719,13 +28775,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Amazon",
-    "rating": "167.74",
-    "totalTournaments": 4,
-    "gamesTotal": 22,
-    "gamesWon": 7,
+    "rating": "178.19",
+    "totalTournaments": 5,
+    "gamesTotal": 26,
+    "gamesWon": 10,
     "gamesDraw": 12,
-    "gamesLost": 3,
-    "winRatio": 59.09
+    "gamesLost": 4,
+    "winRatio": 61.54
   },
   {
     "NAF Nr": "27890",
@@ -28824,6 +28880,20 @@ const statsRaceAmazon = [
     "gamesDraw": 2,
     "gamesLost": 2,
     "winRatio": 66.67
+  },
+  {
+    "NAF Nr": "27971",
+    "NAF Name": "dug1970",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Amazon",
+    "rating": "134.22",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
   },
   {
     "NAF Nr": "27972",
@@ -28985,13 +29055,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "197.72",
-    "totalTournaments": 14,
-    "gamesTotal": 60,
-    "gamesWon": 28,
-    "gamesDraw": 17,
+    "rating": "219.11",
+    "totalTournaments": 15,
+    "gamesTotal": 68,
+    "gamesWon": 32,
+    "gamesDraw": 21,
     "gamesLost": 15,
-    "winRatio": 60.83
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "28206",
@@ -29027,13 +29097,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Amazon",
-    "rating": "212.02",
-    "totalTournaments": 10,
-    "gamesTotal": 50,
-    "gamesWon": 30,
-    "gamesDraw": 7,
-    "gamesLost": 13,
-    "winRatio": 67
+    "rating": "221.55",
+    "totalTournaments": 11,
+    "gamesTotal": 58,
+    "gamesWon": 34,
+    "gamesDraw": 10,
+    "gamesLost": 14,
+    "winRatio": 67.24
   },
   {
     "NAF Nr": "28257",
@@ -29167,13 +29237,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Amazon",
-    "rating": "160.9",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
+    "rating": "152.25",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
     "gamesWon": 3,
     "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 58.33
+    "gamesLost": 4,
+    "winRatio": 43.75
   },
   {
     "NAF Nr": "28334",
@@ -29188,6 +29258,20 @@ const statsRaceAmazon = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "28335",
+    "NAF Name": "Meerkul",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "race": "Amazon",
+    "rating": "145.38",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 37.5
   },
   {
     "NAF Nr": "28367",
@@ -29223,13 +29307,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "165.81",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
-    "gamesWon": 3,
-    "gamesDraw": 2,
+    "rating": "173.39",
+    "totalTournaments": 2,
+    "gamesTotal": 10,
+    "gamesWon": 5,
+    "gamesDraw": 5,
     "gamesLost": 0,
-    "winRatio": 80
+    "winRatio": 75
   },
   {
     "NAF Nr": "28436",
@@ -29475,12 +29559,12 @@ const statsRaceAmazon = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "166.17",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 4,
+    "rating": "186.16",
+    "totalTournaments": 2,
+    "gamesTotal": 14,
+    "gamesWon": 10,
     "gamesDraw": 1,
-    "gamesLost": 1,
+    "gamesLost": 3,
     "winRatio": 75
   },
   {
@@ -29580,6 +29664,20 @@ const statsRaceAmazon = [
     "gamesDraw": 0,
     "gamesLost": 3,
     "winRatio": 40
+  },
+  {
+    "NAF Nr": "28864",
+    "NAF Name": "Koki",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Amazon",
+    "rating": "165.16",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 87.5
   },
   {
     "NAF Nr": "28902",
@@ -29895,12 +29993,12 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "141.08",
-    "totalTournaments": 2,
-    "gamesTotal": 12,
-    "gamesWon": 3,
-    "gamesDraw": 3,
-    "gamesLost": 6,
+    "rating": "131.29",
+    "totalTournaments": 3,
+    "gamesTotal": 20,
+    "gamesWon": 5,
+    "gamesDraw": 5,
+    "gamesLost": 10,
     "winRatio": 37.5
   },
   {
@@ -29993,13 +30091,13 @@ const statsRaceAmazon = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "152.88",
-    "totalTournaments": 6,
-    "gamesTotal": 26,
-    "gamesWon": 11,
-    "gamesDraw": 5,
-    "gamesLost": 10,
-    "winRatio": 51.92
+    "rating": "163.16",
+    "totalTournaments": 7,
+    "gamesTotal": 34,
+    "gamesWon": 15,
+    "gamesDraw": 7,
+    "gamesLost": 12,
+    "winRatio": 54.41
   },
   {
     "NAF Nr": "29338",
@@ -30161,13 +30259,27 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Amazon",
-    "rating": "175.11",
-    "totalTournaments": 3,
-    "gamesTotal": 10,
-    "gamesWon": 7,
+    "rating": "178.83",
+    "totalTournaments": 4,
+    "gamesTotal": 13,
+    "gamesWon": 9,
     "gamesDraw": 2,
-    "gamesLost": 1,
-    "winRatio": 80
+    "gamesLost": 2,
+    "winRatio": 76.92
+  },
+  {
+    "NAF Nr": "29500",
+    "NAF Name": "Leman_X_Russ",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Amazon",
+    "rating": "159.06",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "29533",
@@ -30196,6 +30308,20 @@ const statsRaceAmazon = [
     "gamesDraw": 1,
     "gamesLost": 2,
     "winRatio": 16.67
+  },
+  {
+    "NAF Nr": "29545",
+    "NAF Name": "owletta",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Amazon",
+    "rating": "144.6",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 60
   },
   {
     "NAF Nr": "29553",
@@ -30315,13 +30441,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Amazon",
-    "rating": "167.07",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
-    "gamesWon": 4,
-    "gamesDraw": 2,
-    "gamesLost": 0,
-    "winRatio": 83.33
+    "rating": "162.95",
+    "totalTournaments": 3,
+    "gamesTotal": 9,
+    "gamesWon": 5,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "winRatio": 72.22
   },
   {
     "NAF Nr": "29656",
@@ -30427,13 +30553,13 @@ const statsRaceAmazon = [
     "CCAA": "C. La Mancha",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "179.12",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 6,
-    "gamesDraw": 2,
-    "gamesLost": 0,
-    "winRatio": 87.5
+    "rating": "174.39",
+    "totalTournaments": 3,
+    "gamesTotal": 16,
+    "gamesWon": 8,
+    "gamesDraw": 6,
+    "gamesLost": 2,
+    "winRatio": 68.75
   },
   {
     "NAF Nr": "29760",
@@ -30469,13 +30595,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Amazon",
-    "rating": "175.65",
-    "totalTournaments": 7,
-    "gamesTotal": 24,
-    "gamesWon": 11,
+    "rating": "179.02",
+    "totalTournaments": 8,
+    "gamesTotal": 29,
+    "gamesWon": 14,
     "gamesDraw": 8,
-    "gamesLost": 5,
-    "winRatio": 62.5
+    "gamesLost": 7,
+    "winRatio": 62.07
   },
   {
     "NAF Nr": "29826",
@@ -30600,6 +30726,20 @@ const statsRaceAmazon = [
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
+  },
+  {
+    "NAF Nr": "29947",
+    "NAF Name": "VonHazel",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Amazon",
+    "rating": "148.76",
+    "totalTournaments": 1,
+    "gamesTotal": 2,
+    "gamesWon": 1,
+    "gamesDraw": 0,
     "gamesLost": 1,
     "winRatio": 50
   },
@@ -30735,13 +30875,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "148.61",
-    "totalTournaments": 3,
-    "gamesTotal": 10,
-    "gamesWon": 4,
-    "gamesDraw": 1,
-    "gamesLost": 5,
-    "winRatio": 45
+    "rating": "166.18",
+    "totalTournaments": 4,
+    "gamesTotal": 17,
+    "gamesWon": 8,
+    "gamesDraw": 2,
+    "gamesLost": 7,
+    "winRatio": 52.94
   },
   {
     "NAF Nr": "30137",
@@ -30777,13 +30917,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Amazon",
-    "rating": "165.21",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 2,
-    "gamesDraw": 4,
+    "rating": "180.25",
+    "totalTournaments": 2,
+    "gamesTotal": 11,
+    "gamesWon": 5,
+    "gamesDraw": 6,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 72.73
   },
   {
     "NAF Nr": "30173",
@@ -31365,13 +31505,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Amazon",
-    "rating": "199.65",
-    "totalTournaments": 11,
-    "gamesTotal": 52,
-    "gamesWon": 33,
-    "gamesDraw": 7,
+    "rating": "208.36",
+    "totalTournaments": 12,
+    "gamesTotal": 56,
+    "gamesWon": 36,
+    "gamesDraw": 8,
     "gamesLost": 12,
-    "winRatio": 70.19
+    "winRatio": 71.43
   },
   {
     "NAF Nr": "30735",
@@ -31421,13 +31561,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Amazon",
-    "rating": "146.57",
-    "totalTournaments": 2,
-    "gamesTotal": 5,
+    "rating": "143.49",
+    "totalTournaments": 3,
+    "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
-    "gamesLost": 3,
-    "winRatio": 40
+    "gamesLost": 4,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "30754",
@@ -31449,13 +31589,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Amazon",
-    "rating": "162.29",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
+    "rating": "158.22",
+    "totalTournaments": 3,
+    "gamesTotal": 8,
     "gamesWon": 3,
-    "gamesDraw": 3,
-    "gamesLost": 0,
-    "winRatio": 75
+    "gamesDraw": 4,
+    "gamesLost": 1,
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "30778",
@@ -31575,13 +31715,13 @@ const statsRaceAmazon = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "138.07",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
-    "gamesWon": 3,
-    "gamesDraw": 3,
-    "gamesLost": 6,
-    "winRatio": 37.5
+    "rating": "133.08",
+    "totalTournaments": 4,
+    "gamesTotal": 20,
+    "gamesWon": 5,
+    "gamesDraw": 6,
+    "gamesLost": 9,
+    "winRatio": 40
   },
   {
     "NAF Nr": "30902",
@@ -31631,13 +31771,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Amazon",
-    "rating": "149.91",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
+    "rating": "146.17",
+    "totalTournaments": 2,
+    "gamesTotal": 5,
     "gamesWon": 1,
-    "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 50
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "winRatio": 40
   },
   {
     "NAF Nr": "30930",
@@ -32116,6 +32256,20 @@ const statsRaceAmazon = [
     "winRatio": 75
   },
   {
+    "NAF Nr": "31293",
+    "NAF Name": "Putsila",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Amazon",
+    "rating": "195.43",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 8,
+    "gamesDraw": 4,
+    "gamesLost": 0,
+    "winRatio": 83.33
+  },
+  {
     "NAF Nr": "31301",
     "NAF Name": "Igralius",
     "CCAA": "Apatrida",
@@ -32499,13 +32653,27 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "169.22",
-    "totalTournaments": 5,
-    "gamesTotal": 21,
-    "gamesWon": 11,
-    "gamesDraw": 2,
-    "gamesLost": 8,
-    "winRatio": 57.14
+    "rating": "176.36",
+    "totalTournaments": 6,
+    "gamesTotal": 26,
+    "gamesWon": 14,
+    "gamesDraw": 3,
+    "gamesLost": 9,
+    "winRatio": 59.62
+  },
+  {
+    "NAF Nr": "31545",
+    "NAF Name": "jdyer0126",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Amazon",
+    "rating": "148.7",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
   },
   {
     "NAF Nr": "31565",
@@ -32597,13 +32765,13 @@ const statsRaceAmazon = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "137.97",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
+    "rating": "132.26",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
     "gamesWon": 0,
-    "gamesDraw": 2,
-    "gamesLost": 2,
-    "winRatio": 25
+    "gamesDraw": 4,
+    "gamesLost": 3,
+    "winRatio": 28.57
   },
   {
     "NAF Nr": "31709",
@@ -32667,13 +32835,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Amazon",
-    "rating": "141.33",
+    "rating": "145.76",
     "totalTournaments": 1,
-    "gamesTotal": 5,
-    "gamesWon": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 30
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "31752",
@@ -32681,7 +32849,7 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "154.64",
+    "rating": "155.46",
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
@@ -32738,6 +32906,34 @@ const statsRaceAmazon = [
     "Country": "Spain",
     "race": "Amazon",
     "rating": "155.0",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 62.5
+  },
+  {
+    "NAF Nr": "31804",
+    "NAF Name": "leibs",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Amazon",
+    "rating": "152.18",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "winRatio": 50
+  },
+  {
+    "NAF Nr": "31806",
+    "NAF Name": "Javs",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Amazon",
+    "rating": "155.1",
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
@@ -32877,7 +33073,7 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Amazon",
-    "rating": "134.43",
+    "rating": "134.33",
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 4,
@@ -33055,7 +33251,7 @@ const statsRaceAmazon = [
   },
   {
     "NAF Nr": "32100",
-    "NAF Name": "Hamburglar",
+    "NAF Name": "Badgie",
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Amazon",
@@ -33157,13 +33353,13 @@ const statsRaceAmazon = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "168.68",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 3,
-    "gamesDraw": 1,
-    "gamesLost": 0,
-    "winRatio": 87.5
+    "rating": "187.91",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 8,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "winRatio": 75
   },
   {
     "NAF Nr": "32203",
@@ -33318,6 +33514,20 @@ const statsRaceAmazon = [
     "gamesDraw": 2,
     "gamesLost": 3,
     "winRatio": 55.56
+  },
+  {
+    "NAF Nr": "32350",
+    "NAF Name": "cattibrie",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
+    "race": "Amazon",
+    "rating": "161.96",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "32368",
@@ -33605,13 +33815,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Amazon",
-    "rating": "159.1",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 2,
+    "rating": "150.06",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 4,
     "gamesDraw": 1,
-    "gamesLost": 0,
-    "winRatio": 83.33
+    "gamesLost": 4,
+    "winRatio": 50
   },
   {
     "NAF Nr": "32550",
@@ -33752,6 +33962,20 @@ const statsRaceAmazon = [
     "gamesDraw": 2,
     "gamesLost": 1,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "32642",
+    "NAF Name": "boffinator",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Amazon",
+    "rating": "156.48",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "winRatio": 56.25
   },
   {
     "NAF Nr": "32651",
@@ -33983,13 +34207,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "155.38",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
+    "rating": "153.08",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 6,
     "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 62.5
+    "gamesLost": 5,
+    "winRatio": 54.17
   },
   {
     "NAF Nr": "32878",
@@ -33997,13 +34221,27 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "154.31",
-    "totalTournaments": 4,
-    "gamesTotal": 16,
-    "gamesWon": 7,
-    "gamesDraw": 3,
-    "gamesLost": 6,
-    "winRatio": 53.13
+    "rating": "155.25",
+    "totalTournaments": 6,
+    "gamesTotal": 25,
+    "gamesWon": 11,
+    "gamesDraw": 4,
+    "gamesLost": 10,
+    "winRatio": 52
+  },
+  {
+    "NAF Nr": "32888",
+    "NAF Name": "Ignacio_Tardon",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Amazon",
+    "rating": "167.06",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 4,
+    "gamesLost": 1,
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "32912",
@@ -34025,13 +34263,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Amazon",
-    "rating": "144.13",
-    "totalTournaments": 5,
-    "gamesTotal": 15,
-    "gamesWon": 6,
+    "rating": "141.17",
+    "totalTournaments": 6,
+    "gamesTotal": 18,
+    "gamesWon": 7,
     "gamesDraw": 2,
-    "gamesLost": 7,
-    "winRatio": 46.67
+    "gamesLost": 9,
+    "winRatio": 44.44
   },
   {
     "NAF Nr": "32930",
@@ -34333,13 +34571,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "145.44",
-    "totalTournaments": 4,
-    "gamesTotal": 20,
-    "gamesWon": 5,
-    "gamesDraw": 7,
-    "gamesLost": 8,
-    "winRatio": 42.5
+    "rating": "166.38",
+    "totalTournaments": 5,
+    "gamesTotal": 28,
+    "gamesWon": 9,
+    "gamesDraw": 10,
+    "gamesLost": 9,
+    "winRatio": 50
   },
   {
     "NAF Nr": "33166",
@@ -34487,13 +34725,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Amazon",
-    "rating": "187.38",
-    "totalTournaments": 11,
-    "gamesTotal": 50,
-    "gamesWon": 23,
+    "rating": "204.62",
+    "totalTournaments": 12,
+    "gamesTotal": 56,
+    "gamesWon": 29,
     "gamesDraw": 15,
     "gamesLost": 12,
-    "winRatio": 61
+    "winRatio": 65.18
   },
   {
     "NAF Nr": "33341",
@@ -34669,13 +34907,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Amazon",
-    "rating": "147.6",
-    "totalTournaments": 3,
-    "gamesTotal": 11,
+    "rating": "147.75",
+    "totalTournaments": 4,
+    "gamesTotal": 14,
     "gamesWon": 3,
-    "gamesDraw": 4,
+    "gamesDraw": 7,
     "gamesLost": 4,
-    "winRatio": 45.45
+    "winRatio": 46.43
   },
   {
     "NAF Nr": "33519",
@@ -34809,13 +35047,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Amazon",
-    "rating": "113.66",
-    "totalTournaments": 16,
-    "gamesTotal": 75,
+    "rating": "107.78",
+    "totalTournaments": 17,
+    "gamesTotal": 83,
     "gamesWon": 16,
-    "gamesDraw": 15,
-    "gamesLost": 44,
-    "winRatio": 31.33
+    "gamesDraw": 19,
+    "gamesLost": 48,
+    "winRatio": 30.72
   },
   {
     "NAF Nr": "33614",
@@ -34963,7 +35201,7 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "230.54",
+    "rating": "230.56",
     "totalTournaments": 9,
     "gamesTotal": 46,
     "gamesWon": 31,
@@ -35019,13 +35257,13 @@ const statsRaceAmazon = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "151.04",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
-    "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 50
+    "rating": "127.9",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 7,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "33751",
@@ -35040,6 +35278,20 @@ const statsRaceAmazon = [
     "gamesDraw": 1,
     "gamesLost": 0,
     "winRatio": 95.83
+  },
+  {
+    "NAF Nr": "33752",
+    "NAF Name": "pershore",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Amazon",
+    "rating": "163.59",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "33760",
@@ -35154,18 +35406,32 @@ const statsRaceAmazon = [
     "winRatio": 25
   },
   {
+    "NAF Nr": "33835",
+    "NAF Name": "GPBoom",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
+    "race": "Amazon",
+    "rating": "147.57",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 40
+  },
+  {
     "NAF Nr": "33840",
     "NAF Name": "janmakel",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "157.76",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
-    "gamesWon": 3,
-    "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 60
+    "rating": "150.69",
+    "totalTournaments": 2,
+    "gamesTotal": 13,
+    "gamesWon": 6,
+    "gamesDraw": 1,
+    "gamesLost": 6,
+    "winRatio": 50
   },
   {
     "NAF Nr": "33845",
@@ -35229,13 +35495,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Amazon",
-    "rating": "151.36",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 2,
+    "rating": "154.33",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 57.14
   },
   {
     "NAF Nr": "33925",
@@ -35579,13 +35845,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "163.68",
-    "totalTournaments": 2,
-    "gamesTotal": 12,
-    "gamesWon": 4,
-    "gamesDraw": 3,
-    "gamesLost": 5,
-    "winRatio": 45.83
+    "rating": "181.67",
+    "totalTournaments": 3,
+    "gamesTotal": 20,
+    "gamesWon": 8,
+    "gamesDraw": 6,
+    "gamesLost": 6,
+    "winRatio": 55
   },
   {
     "NAF Nr": "34285",
@@ -35614,6 +35880,20 @@ const statsRaceAmazon = [
     "gamesDraw": 1,
     "gamesLost": 10,
     "winRatio": 34.38
+  },
+  {
+    "NAF Nr": "34291",
+    "NAF Name": "joujouwatermelom",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Amazon",
+    "rating": "144.19",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "winRatio": 43.75
   },
   {
     "NAF Nr": "34294",
@@ -35768,6 +36048,20 @@ const statsRaceAmazon = [
     "gamesDraw": 2,
     "gamesLost": 7,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "34389",
+    "NAF Name": "bozzybozboz",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
+    "race": "Amazon",
+    "rating": "146.96",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 50
   },
   {
     "NAF Nr": "34396",
@@ -36055,13 +36349,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "162.01",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 3,
-    "gamesDraw": 2,
-    "gamesLost": 1,
-    "winRatio": 66.67
+    "rating": "144.43",
+    "totalTournaments": 2,
+    "gamesTotal": 14,
+    "gamesWon": 5,
+    "gamesDraw": 5,
+    "gamesLost": 4,
+    "winRatio": 53.57
   },
   {
     "NAF Nr": "34577",
@@ -36162,6 +36456,20 @@ const statsRaceAmazon = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "34613",
+    "NAF Name": "Tlampy",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
+    "race": "Amazon",
+    "rating": "147.25",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "34618",
     "NAF Name": "WaterWalker",
     "CCAA": "Apatrida",
@@ -36181,13 +36489,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Amazon",
-    "rating": "173.96",
-    "totalTournaments": 2,
-    "gamesTotal": 7,
-    "gamesWon": 5,
+    "rating": "190.53",
+    "totalTournaments": 3,
+    "gamesTotal": 10,
+    "gamesWon": 8,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 85.71
+    "winRatio": 90
   },
   {
     "NAF Nr": "34622",
@@ -36209,13 +36517,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Amazon",
-    "rating": "127.97",
-    "totalTournaments": 9,
-    "gamesTotal": 35,
-    "gamesWon": 8,
-    "gamesDraw": 13,
-    "gamesLost": 14,
-    "winRatio": 41.43
+    "rating": "125.63",
+    "totalTournaments": 10,
+    "gamesTotal": 41,
+    "gamesWon": 9,
+    "gamesDraw": 15,
+    "gamesLost": 17,
+    "winRatio": 40.24
   },
   {
     "NAF Nr": "34645",
@@ -36321,13 +36629,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Amazon",
-    "rating": "254.04",
-    "totalTournaments": 8,
-    "gamesTotal": 40,
-    "gamesWon": 26,
-    "gamesDraw": 10,
+    "rating": "255.91",
+    "totalTournaments": 9,
+    "gamesTotal": 45,
+    "gamesWon": 29,
+    "gamesDraw": 12,
     "gamesLost": 4,
-    "winRatio": 77.5
+    "winRatio": 77.78
   },
   {
     "NAF Nr": "34780",
@@ -36442,6 +36750,20 @@ const statsRaceAmazon = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "34910",
+    "NAF Name": "carrillo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Amazon",
+    "rating": "156.41",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "winRatio": 56.25
+  },
+  {
     "NAF Nr": "34928",
     "NAF Name": "parttimer",
     "CCAA": "Apatrida",
@@ -36454,6 +36776,20 @@ const statsRaceAmazon = [
     "gamesDraw": 1,
     "gamesLost": 6,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "34963",
+    "NAF Name": "kieren",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Amazon",
+    "rating": "153.38",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "34978",
@@ -36629,13 +36965,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Amazon",
-    "rating": "151.09",
-    "totalTournaments": 5,
-    "gamesTotal": 24,
+    "rating": "143.41",
+    "totalTournaments": 6,
+    "gamesTotal": 26,
     "gamesWon": 8,
     "gamesDraw": 7,
-    "gamesLost": 9,
-    "winRatio": 47.92
+    "gamesLost": 11,
+    "winRatio": 44.23
   },
   {
     "NAF Nr": "35169",
@@ -36680,6 +37016,20 @@ const statsRaceAmazon = [
     "winRatio": 55.56
   },
   {
+    "NAF Nr": "35219",
+    "NAF Name": "ruttiger9",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Amazon",
+    "rating": "160.14",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 56.25
+  },
+  {
     "NAF Nr": "35224",
     "NAF Name": "Kingstaz",
     "CCAA": "Apatrida",
@@ -36713,7 +37063,7 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "161.17",
+    "rating": "161.16",
     "totalTournaments": 3,
     "gamesTotal": 13,
     "gamesWon": 4,
@@ -36839,7 +37189,7 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Amazon",
-    "rating": "146.55",
+    "rating": "146.6",
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 3,
@@ -37063,13 +37413,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "123.69",
-    "totalTournaments": 2,
-    "gamesTotal": 10,
-    "gamesWon": 1,
+    "rating": "134.03",
+    "totalTournaments": 3,
+    "gamesTotal": 15,
+    "gamesWon": 4,
     "gamesDraw": 3,
-    "gamesLost": 6,
-    "winRatio": 25
+    "gamesLost": 8,
+    "winRatio": 36.67
   },
   {
     "NAF Nr": "35587",
@@ -37091,13 +37441,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "144.97",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
-    "gamesWon": 0,
+    "rating": "145.77",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 2,
     "gamesDraw": 4,
-    "gamesLost": 1,
-    "winRatio": 40
+    "gamesLost": 3,
+    "winRatio": 44.44
   },
   {
     "NAF Nr": "35591",
@@ -37352,6 +37702,20 @@ const statsRaceAmazon = [
     "winRatio": 0
   },
   {
+    "NAF Nr": "35815",
+    "NAF Name": "piratebear",
+    "CCAA": "Apatrida",
+    "Country": "Lithuania",
+    "race": "Amazon",
+    "rating": "157.4",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 58.33
+  },
+  {
     "NAF Nr": "35818",
     "NAF Name": "Coach_BB",
     "CCAA": "Apatrida",
@@ -37371,13 +37735,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Amazon",
-    "rating": "148.26",
-    "totalTournaments": 4,
-    "gamesTotal": 21,
-    "gamesWon": 7,
-    "gamesDraw": 4,
-    "gamesLost": 10,
-    "winRatio": 42.86
+    "rating": "150.05",
+    "totalTournaments": 5,
+    "gamesTotal": 24,
+    "gamesWon": 8,
+    "gamesDraw": 5,
+    "gamesLost": 11,
+    "winRatio": 43.75
   },
   {
     "NAF Nr": "35879",
@@ -37420,6 +37784,20 @@ const statsRaceAmazon = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "35952",
+    "NAF Name": "mrrockercrocker",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Amazon",
+    "rating": "155.0",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 58.33
   },
   {
     "NAF Nr": "35955",
@@ -37707,13 +38085,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Amazon",
-    "rating": "192.66",
-    "totalTournaments": 3,
-    "gamesTotal": 15,
-    "gamesWon": 10,
-    "gamesDraw": 4,
+    "rating": "196.67",
+    "totalTournaments": 4,
+    "gamesTotal": 20,
+    "gamesWon": 12,
+    "gamesDraw": 7,
     "gamesLost": 1,
-    "winRatio": 80
+    "winRatio": 77.5
   },
   {
     "NAF Nr": "36287",
@@ -37903,13 +38281,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Amazon",
-    "rating": "143.31",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
-    "gamesWon": 1,
+    "rating": "129.37",
+    "totalTournaments": 4,
+    "gamesTotal": 12,
+    "gamesWon": 2,
     "gamesDraw": 2,
-    "gamesLost": 3,
-    "winRatio": 33.33
+    "gamesLost": 8,
+    "winRatio": 25
   },
   {
     "NAF Nr": "36447",
@@ -38085,13 +38463,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Amazon",
-    "rating": "139.15",
-    "totalTournaments": 7,
-    "gamesTotal": 28,
-    "gamesWon": 9,
-    "gamesDraw": 7,
-    "gamesLost": 12,
-    "winRatio": 44.64
+    "rating": "128.08",
+    "totalTournaments": 8,
+    "gamesTotal": 34,
+    "gamesWon": 10,
+    "gamesDraw": 9,
+    "gamesLost": 15,
+    "winRatio": 42.65
   },
   {
     "NAF Nr": "36676",
@@ -38155,7 +38533,7 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Amazon",
-    "rating": "149.78",
+    "rating": "150.14",
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
@@ -38197,12 +38575,12 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Amazon",
-    "rating": "154.07",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
-    "gamesDraw": 2,
-    "gamesLost": 0,
+    "rating": "162.31",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 4,
+    "gamesDraw": 4,
+    "gamesLost": 1,
     "winRatio": 66.67
   },
   {
@@ -38304,6 +38682,20 @@ const statsRaceAmazon = [
     "winRatio": 0
   },
   {
+    "NAF Nr": "36784",
+    "NAF Name": "sinister_dexter",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Amazon",
+    "rating": "148.41",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 60
+  },
+  {
     "NAF Nr": "36796",
     "NAF Name": "SergiLemon",
     "CCAA": "Apatrida",
@@ -38351,13 +38743,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Amazon",
-    "rating": "150.68",
-    "totalTournaments": 4,
-    "gamesTotal": 16,
-    "gamesWon": 8,
-    "gamesDraw": 1,
+    "rating": "153.35",
+    "totalTournaments": 5,
+    "gamesTotal": 20,
+    "gamesWon": 9,
+    "gamesDraw": 4,
     "gamesLost": 7,
-    "winRatio": 53.13
+    "winRatio": 55
   },
   {
     "NAF Nr": "36893",
@@ -38386,6 +38778,20 @@ const statsRaceAmazon = [
     "gamesDraw": 1,
     "gamesLost": 2,
     "winRatio": 64.29
+  },
+  {
+    "NAF Nr": "36922",
+    "NAF Name": "peanut_uk",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Amazon",
+    "rating": "141.66",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "36931",
@@ -38463,13 +38869,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "174.56",
-    "totalTournaments": 3,
-    "gamesTotal": 16,
-    "gamesWon": 9,
-    "gamesDraw": 3,
+    "rating": "180.54",
+    "totalTournaments": 4,
+    "gamesTotal": 21,
+    "gamesWon": 11,
+    "gamesDraw": 6,
     "gamesLost": 4,
-    "winRatio": 65.63
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "36960",
@@ -38505,13 +38911,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Amazon",
-    "rating": "149.66",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 2,
+    "rating": "150.26",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 4,
     "gamesDraw": 2,
-    "gamesLost": 2,
-    "winRatio": 50
+    "gamesLost": 3,
+    "winRatio": 55.56
   },
   {
     "NAF Nr": "36997",
@@ -38715,13 +39121,13 @@ const statsRaceAmazon = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "168.19",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 4,
-    "gamesDraw": 2,
-    "gamesLost": 2,
-    "winRatio": 62.5
+    "rating": "188.09",
+    "totalTournaments": 3,
+    "gamesTotal": 16,
+    "gamesWon": 9,
+    "gamesDraw": 3,
+    "gamesLost": 4,
+    "winRatio": 65.63
   },
   {
     "NAF Nr": "37242",
@@ -39191,7 +39597,7 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "148.66",
+    "rating": "149.43",
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
@@ -39317,13 +39723,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Amazon",
-    "rating": "205.05",
-    "totalTournaments": 4,
-    "gamesTotal": 17,
-    "gamesWon": 12,
-    "gamesDraw": 5,
-    "gamesLost": 0,
-    "winRatio": 85.29
+    "rating": "204.96",
+    "totalTournaments": 5,
+    "gamesTotal": 21,
+    "gamesWon": 14,
+    "gamesDraw": 6,
+    "gamesLost": 1,
+    "winRatio": 80.95
   },
   {
     "NAF Nr": "38219",
@@ -39401,13 +39807,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Amazon",
-    "rating": "150.19",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
-    "gamesWon": 1,
-    "gamesDraw": 3,
-    "gamesLost": 1,
-    "winRatio": 50
+    "rating": "145.87",
+    "totalTournaments": 2,
+    "gamesTotal": 10,
+    "gamesWon": 2,
+    "gamesDraw": 5,
+    "gamesLost": 3,
+    "winRatio": 45
   },
   {
     "NAF Nr": "38384",
@@ -39555,13 +39961,27 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Amazon",
-    "rating": "194.02",
-    "totalTournaments": 8,
-    "gamesTotal": 31,
-    "gamesWon": 18,
+    "rating": "194.66",
+    "totalTournaments": 9,
+    "gamesTotal": 34,
+    "gamesWon": 20,
     "gamesDraw": 7,
-    "gamesLost": 6,
-    "winRatio": 69.35
+    "gamesLost": 7,
+    "winRatio": 69.12
+  },
+  {
+    "NAF Nr": "38904",
+    "NAF Name": "robsigor",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Amazon",
+    "rating": "135.15",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
   },
   {
     "NAF Nr": "38932",
@@ -39737,7 +40157,7 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Amazon",
-    "rating": "141.99",
+    "rating": "142.0",
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
@@ -39947,13 +40367,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Mexico",
     "race": "Amazon",
-    "rating": "159.78",
-    "totalTournaments": 2,
-    "gamesTotal": 7,
-    "gamesWon": 5,
+    "rating": "166.74",
+    "totalTournaments": 3,
+    "gamesTotal": 11,
+    "gamesWon": 8,
     "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 78.57
+    "gamesLost": 2,
+    "winRatio": 77.27
   },
   {
     "NAF Nr": "39747",
@@ -40012,6 +40432,20 @@ const statsRaceAmazon = [
     "winRatio": 66.67
   },
   {
+    "NAF Nr": "39874",
+    "NAF Name": "vlad-khrychov",
+    "CCAA": "Apatrida",
+    "Country": "Ukraine",
+    "race": "Amazon",
+    "rating": "160.2",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "winRatio": 80
+  },
+  {
     "NAF Nr": "39913",
     "NAF Name": "faskill",
     "CCAA": "Apatrida",
@@ -40054,18 +40488,18 @@ const statsRaceAmazon = [
     "winRatio": 33.33
   },
   {
-    "NAF Nr": "39933",
-    "NAF Name": "redfacedgoose",
+    "NAF Nr": "39991",
+    "NAF Name": "rifflord",
     "CCAA": "Apatrida",
-    "Country": "England",
+    "Country": "France",
     "race": "Amazon",
-    "rating": "144.79",
+    "rating": "149.24",
     "totalTournaments": 1,
-    "gamesTotal": 1,
-    "gamesWon": 0,
-    "gamesDraw": 0,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 50
   },
   {
     "NAF Nr": "40017",
@@ -40122,6 +40556,20 @@ const statsRaceAmazon = [
     "gamesDraw": 0,
     "gamesLost": 2,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "40046",
+    "NAF Name": "monaco_heuer",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Amazon",
+    "rating": "150.33",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 4,
+    "winRatio": 37.5
   },
   {
     "NAF Nr": "40051",
@@ -40208,6 +40656,20 @@ const statsRaceAmazon = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "40169",
+    "NAF Name": "Rabent",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Amazon",
+    "rating": "144.01",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 37.5
+  },
+  {
     "NAF Nr": "40188",
     "NAF Name": "pkore",
     "CCAA": "Apatrida",
@@ -40248,6 +40710,20 @@ const statsRaceAmazon = [
     "gamesDraw": 2,
     "gamesLost": 8,
     "winRatio": 25
+  },
+  {
+    "NAF Nr": "40271",
+    "NAF Name": "LazloFruvous",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Amazon",
+    "rating": "150.87",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "winRatio": 50
   },
   {
     "NAF Nr": "40273",
@@ -40320,6 +40796,20 @@ const statsRaceAmazon = [
     "winRatio": 100
   },
   {
+    "NAF Nr": "40407",
+    "NAF Name": "Neko10",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Amazon",
+    "rating": "102.97",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 8,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "40457",
     "NAF Name": "dekes90",
     "CCAA": "Apatrida",
@@ -40390,6 +40880,20 @@ const statsRaceAmazon = [
     "winRatio": 20
   },
   {
+    "NAF Nr": "40676",
+    "NAF Name": "johanmadden",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Amazon",
+    "rating": "140.87",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "40682",
     "NAF Name": "parkerdjones",
     "CCAA": "Apatrida",
@@ -40404,6 +40908,20 @@ const statsRaceAmazon = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "40770",
+    "NAF Name": "rio_bravo",
+    "CCAA": "Apatrida",
+    "Country": "Ukraine",
+    "race": "Amazon",
+    "rating": "163.62",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 90
+  },
+  {
     "NAF Nr": "40825",
     "NAF Name": "Gumlas",
     "CCAA": "Asturias",
@@ -40416,6 +40934,20 @@ const statsRaceAmazon = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "40865",
+    "NAF Name": "straykid",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Amazon",
+    "rating": "141.62",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "40928",
@@ -40521,13 +41053,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Amazon",
-    "rating": "154.43",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
+    "rating": "145.71",
+    "totalTournaments": 2,
+    "gamesTotal": 10,
+    "gamesWon": 4,
     "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 62.5
+    "gamesLost": 5,
+    "winRatio": 45
   },
   {
     "NAF Nr": "41140",
@@ -40535,13 +41067,13 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Amazon",
-    "rating": "145.86",
-    "totalTournaments": 1,
-    "gamesTotal": 1,
-    "gamesWon": 0,
-    "gamesDraw": 0,
-    "gamesLost": 1,
-    "winRatio": 0
+    "rating": "151.69",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "winRatio": 50
   },
   {
     "NAF Nr": "41268",
@@ -40577,7 +41109,7 @@ const statsRaceAmazon = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Amazon",
-    "rating": "134.11",
+    "rating": "133.98",
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 0,
@@ -40642,6 +41174,20 @@ const statsRaceAmazon = [
     "winRatio": 0
   },
   {
+    "NAF Nr": "41635",
+    "NAF Name": "mattstiling",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Amazon",
+    "rating": "155.12",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "winRatio": 66.67
+  },
+  {
     "NAF Nr": "41779",
     "NAF Name": "JimChungus",
     "CCAA": "Apatrida",
@@ -40654,5 +41200,89 @@ const statsRaceAmazon = [
     "gamesDraw": 0,
     "gamesLost": 0,
     "winRatio": 100
+  },
+  {
+    "NAF Nr": "41831",
+    "NAF Name": "VermilionMcGee",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Amazon",
+    "rating": "133.53",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
+  },
+  {
+    "NAF Nr": "41839",
+    "NAF Name": "K80pillar",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Amazon",
+    "rating": "153.73",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "winRatio": 66.67
+  },
+  {
+    "NAF Nr": "41865",
+    "NAF Name": "Biggen7878",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Amazon",
+    "rating": "147.29",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "41905",
+    "NAF Name": "Meeegaptera",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Amazon",
+    "rating": "150.0",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 50
+  },
+  {
+    "NAF Nr": "41923",
+    "NAF Name": "sickdwarf",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "race": "Amazon",
+    "rating": "134.28",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 12.5
+  },
+  {
+    "NAF Nr": "41971",
+    "NAF Name": "serchala",
+    "CCAA": "Apatrida",
+    "Country": "Russia",
+    "race": "Amazon",
+    "rating": "150.0",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
   }
 ];

@@ -6,12 +6,12 @@ const statsRaceChaos_Dwarf = [
     "Country": "Cayman Islands",
     "race": "Chaos Dwarf",
     "rating": "150.0",
-    "totalTournaments": 18,
-    "gamesTotal": 111,
-    "gamesWon": 30,
-    "gamesDraw": 27,
-    "gamesLost": 54,
-    "winRatio": 39.19
+    "totalTournaments": 24,
+    "gamesTotal": 137,
+    "gamesWon": 34,
+    "gamesDraw": 34,
+    "gamesLost": 69,
+    "winRatio": 37.23
   },
   {
     "NAF Nr": "28",
@@ -803,13 +803,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Chaos Dwarf",
-    "rating": "148.57",
-    "totalTournaments": 2,
-    "gamesTotal": 10,
-    "gamesWon": 3,
+    "rating": "160.91",
+    "totalTournaments": 3,
+    "gamesTotal": 13,
+    "gamesWon": 6,
     "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 45
+    "winRatio": 57.69
   },
   {
     "NAF Nr": "371",
@@ -3374,6 +3374,20 @@ const statsRaceChaos_Dwarf = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "5275",
+    "NAF Name": "bb_nut",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Chaos Dwarf",
+    "rating": "157.47",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "winRatio": 58.33
+  },
+  {
     "NAF Nr": "5334",
     "NAF Name": "recornman",
     "CCAA": "Apatrida",
@@ -4205,7 +4219,7 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Chaos Dwarf",
-    "rating": "178.82",
+    "rating": "178.8",
     "totalTournaments": 16,
     "gamesTotal": 80,
     "gamesWon": 35,
@@ -5843,13 +5857,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Chaos Dwarf",
-    "rating": "178.56",
-    "totalTournaments": 5,
-    "gamesTotal": 24,
-    "gamesWon": 12,
+    "rating": "191.09",
+    "totalTournaments": 6,
+    "gamesTotal": 27,
+    "gamesWon": 15,
     "gamesDraw": 6,
     "gamesLost": 6,
-    "winRatio": 62.5
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "8169",
@@ -6277,13 +6291,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Chaos Dwarf",
-    "rating": "146.54",
-    "totalTournaments": 7,
-    "gamesTotal": 28,
-    "gamesWon": 11,
-    "gamesDraw": 5,
-    "gamesLost": 12,
-    "winRatio": 48.21
+    "rating": "152.67",
+    "totalTournaments": 8,
+    "gamesTotal": 36,
+    "gamesWon": 13,
+    "gamesDraw": 9,
+    "gamesLost": 14,
+    "winRatio": 48.61
   },
   {
     "NAF Nr": "8681",
@@ -7173,13 +7187,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Chaos Dwarf",
-    "rating": "161.13",
-    "totalTournaments": 12,
-    "gamesTotal": 55,
-    "gamesWon": 25,
+    "rating": "162.96",
+    "totalTournaments": 13,
+    "gamesTotal": 58,
+    "gamesWon": 27,
     "gamesDraw": 15,
-    "gamesLost": 15,
-    "winRatio": 59.09
+    "gamesLost": 16,
+    "winRatio": 59.48
   },
   {
     "NAF Nr": "9813",
@@ -11919,12 +11933,12 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Chaos Dwarf",
-    "rating": "121.49",
-    "totalTournaments": 6,
-    "gamesTotal": 24,
-    "gamesWon": 4,
+    "rating": "116.99",
+    "totalTournaments": 7,
+    "gamesTotal": 27,
+    "gamesWon": 5,
     "gamesDraw": 8,
-    "gamesLost": 12,
+    "gamesLost": 14,
     "winRatio": 33.33
   },
   {
@@ -12493,13 +12507,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Chaos Dwarf",
-    "rating": "161.92",
-    "totalTournaments": 3,
-    "gamesTotal": 18,
-    "gamesWon": 9,
-    "gamesDraw": 3,
-    "gamesLost": 6,
-    "winRatio": 58.33
+    "rating": "161.77",
+    "totalTournaments": 4,
+    "gamesTotal": 24,
+    "gamesWon": 11,
+    "gamesDraw": 5,
+    "gamesLost": 8,
+    "winRatio": 56.25
   },
   {
     "NAF Nr": "15257",
@@ -15638,6 +15652,20 @@ const statsRaceChaos_Dwarf = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "17473",
+    "NAF Name": "SteelyKnife",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
+    "race": "Chaos Dwarf",
+    "rating": "161.04",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 60
+  },
+  {
     "NAF Nr": "17485",
     "NAF Name": "Ghost",
     "CCAA": "Apatrida",
@@ -16707,13 +16735,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Chaos Dwarf",
-    "rating": "162.73",
-    "totalTournaments": 2,
-    "gamesTotal": 10,
-    "gamesWon": 5,
+    "rating": "179.53",
+    "totalTournaments": 3,
+    "gamesTotal": 13,
+    "gamesWon": 8,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 60
+    "winRatio": 69.23
   },
   {
     "NAF Nr": "18293",
@@ -19500,6 +19528,20 @@ const statsRaceChaos_Dwarf = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 62.5
+  },
+  {
+    "NAF Nr": "19726",
+    "NAF Name": "AndyDavo",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
+    "race": "Chaos Dwarf",
+    "rating": "181.51",
+    "totalTournaments": 2,
+    "gamesTotal": 11,
+    "gamesWon": 6,
+    "gamesDraw": 4,
+    "gamesLost": 1,
+    "winRatio": 72.73
   },
   {
     "NAF Nr": "19727",
@@ -22666,6 +22708,20 @@ const statsRaceChaos_Dwarf = [
     "winRatio": 63.64
   },
   {
+    "NAF Nr": "21145",
+    "NAF Name": "Beldkardis",
+    "CCAA": "Apatrida",
+    "Country": "Armenia",
+    "race": "Chaos Dwarf",
+    "rating": "140.89",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 30
+  },
+  {
     "NAF Nr": "21163",
     "NAF Name": "lewdgrip",
     "CCAA": "Apatrida",
@@ -25018,6 +25074,20 @@ const statsRaceChaos_Dwarf = [
     "winRatio": 20
   },
   {
+    "NAF Nr": "22433",
+    "NAF Name": "HDubbs",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Chaos Dwarf",
+    "rating": "154.94",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 83.33
+  },
+  {
     "NAF Nr": "22445",
     "NAF Name": "inyector",
     "CCAA": "I. Baleares",
@@ -25520,6 +25590,20 @@ const statsRaceChaos_Dwarf = [
     "gamesDraw": 11,
     "gamesLost": 14,
     "winRatio": 48.68
+  },
+  {
+    "NAF Nr": "22696",
+    "NAF Name": "natepeace",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Chaos Dwarf",
+    "rating": "149.73",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 50
   },
   {
     "NAF Nr": "22703",
@@ -26535,13 +26619,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Chaos Dwarf",
-    "rating": "148.46",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
-    "gamesWon": 1,
+    "rating": "156.19",
+    "totalTournaments": 3,
+    "gamesTotal": 9,
+    "gamesWon": 3,
     "gamesDraw": 4,
-    "gamesLost": 1,
-    "winRatio": 50
+    "gamesLost": 2,
+    "winRatio": 55.56
   },
   {
     "NAF Nr": "23446",
@@ -26703,13 +26787,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Chaos Dwarf",
-    "rating": "205.42",
-    "totalTournaments": 12,
-    "gamesTotal": 56,
-    "gamesWon": 30,
-    "gamesDraw": 14,
-    "gamesLost": 12,
-    "winRatio": 66.07
+    "rating": "209.83",
+    "totalTournaments": 13,
+    "gamesTotal": 64,
+    "gamesWon": 35,
+    "gamesDraw": 15,
+    "gamesLost": 14,
+    "winRatio": 66.41
   },
   {
     "NAF Nr": "23506",
@@ -29307,13 +29391,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Chaos Dwarf",
-    "rating": "150.18",
-    "totalTournaments": 3,
-    "gamesTotal": 9,
-    "gamesWon": 4,
-    "gamesDraw": 2,
-    "gamesLost": 3,
-    "winRatio": 55.56
+    "rating": "140.03",
+    "totalTournaments": 4,
+    "gamesTotal": 14,
+    "gamesWon": 5,
+    "gamesDraw": 3,
+    "gamesLost": 6,
+    "winRatio": 46.43
   },
   {
     "NAF Nr": "24857",
@@ -30254,6 +30338,20 @@ const statsRaceChaos_Dwarf = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "25379",
+    "NAF Name": "SilentKnight",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Chaos Dwarf",
+    "rating": "145.26",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 41.67
+  },
+  {
     "NAF Nr": "25381",
     "NAF Name": "Tintenfisch",
     "CCAA": "Apatrida",
@@ -30364,6 +30462,20 @@ const statsRaceChaos_Dwarf = [
     "gamesDraw": 0,
     "gamesLost": 5,
     "winRatio": 44.44
+  },
+  {
+    "NAF Nr": "25465",
+    "NAF Name": "shadow_webster",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Chaos Dwarf",
+    "rating": "150.0",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 50
   },
   {
     "NAF Nr": "25467",
@@ -30651,13 +30763,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Chaos Dwarf",
-    "rating": "161.05",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
-    "gamesWon": 3,
-    "gamesDraw": 2,
-    "gamesLost": 1,
-    "winRatio": 66.67
+    "rating": "159.84",
+    "totalTournaments": 3,
+    "gamesTotal": 9,
+    "gamesWon": 4,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "winRatio": 61.11
   },
   {
     "NAF Nr": "25614",
@@ -31421,13 +31533,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Chaos Dwarf",
-    "rating": "166.11",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 3,
+    "rating": "172.63",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 5,
     "gamesDraw": 1,
-    "gamesLost": 0,
-    "winRatio": 87.5
+    "gamesLost": 1,
+    "winRatio": 78.57
   },
   {
     "NAF Nr": "25976",
@@ -31976,6 +32088,20 @@ const statsRaceChaos_Dwarf = [
     "winRatio": 61.11
   },
   {
+    "NAF Nr": "26265",
+    "NAF Name": "BREGAN",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Chaos Dwarf",
+    "rating": "145.07",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "winRatio": 37.5
+  },
+  {
     "NAF Nr": "26269",
     "NAF Name": "mrcushtie",
     "CCAA": "Apatrida",
@@ -32415,13 +32541,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Chaos Dwarf",
-    "rating": "181.21",
-    "totalTournaments": 41,
-    "gamesTotal": 198,
-    "gamesWon": 69,
-    "gamesDraw": 69,
-    "gamesLost": 60,
-    "winRatio": 52.27
+    "rating": "152.79",
+    "totalTournaments": 42,
+    "gamesTotal": 206,
+    "gamesWon": 71,
+    "gamesDraw": 70,
+    "gamesLost": 65,
+    "winRatio": 51.46
   },
   {
     "NAF Nr": "26583",
@@ -35019,13 +35145,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Chaos Dwarf",
-    "rating": "154.98",
-    "totalTournaments": 3,
-    "gamesTotal": 9,
-    "gamesWon": 4,
+    "rating": "173.63",
+    "totalTournaments": 4,
+    "gamesTotal": 12,
+    "gamesWon": 7,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 50
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "28498",
@@ -35733,13 +35859,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Chaos Dwarf",
-    "rating": "167.6",
-    "totalTournaments": 4,
-    "gamesTotal": 21,
-    "gamesWon": 8,
+    "rating": "176.48",
+    "totalTournaments": 5,
+    "gamesTotal": 27,
+    "gamesWon": 12,
     "gamesDraw": 6,
-    "gamesLost": 7,
-    "winRatio": 52.38
+    "gamesLost": 9,
+    "winRatio": 55.56
   },
   {
     "NAF Nr": "29026",
@@ -36209,13 +36335,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Greece",
     "race": "Chaos Dwarf",
-    "rating": "154.29",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 0,
-    "gamesLost": 1,
-    "winRatio": 66.67
+    "rating": "162.2",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 5,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 68.75
   },
   {
     "NAF Nr": "29577",
@@ -37357,7 +37483,7 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Chaos Dwarf",
-    "rating": "147.41",
+    "rating": "147.4",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
@@ -37651,13 +37777,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Chaos Dwarf",
-    "rating": "157.7",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
+    "rating": "157.97",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 4,
     "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 62.5
+    "gamesLost": 3,
+    "winRatio": 56.25
   },
   {
     "NAF Nr": "30862",
@@ -38015,13 +38141,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Chaos Dwarf",
-    "rating": "139.03",
-    "totalTournaments": 4,
-    "gamesTotal": 16,
-    "gamesWon": 5,
+    "rating": "140.79",
+    "totalTournaments": 5,
+    "gamesTotal": 18,
+    "gamesWon": 6,
     "gamesDraw": 3,
-    "gamesLost": 8,
-    "winRatio": 40.63
+    "gamesLost": 9,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "31109",
@@ -38421,13 +38547,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Chaos Dwarf",
-    "rating": "126.86",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
+    "rating": "117.51",
+    "totalTournaments": 3,
+    "gamesTotal": 9,
     "gamesWon": 0,
-    "gamesDraw": 1,
-    "gamesLost": 5,
-    "winRatio": 8.33
+    "gamesDraw": 2,
+    "gamesLost": 7,
+    "winRatio": 11.11
   },
   {
     "NAF Nr": "31447",
@@ -38491,7 +38617,7 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Chaos Dwarf",
-    "rating": "137.81",
+    "rating": "137.8",
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 2,
@@ -38722,6 +38848,20 @@ const statsRaceChaos_Dwarf = [
     "gamesDraw": 0,
     "gamesLost": 2,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "31693",
+    "NAF Name": "Cheapbucko",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Chaos Dwarf",
+    "rating": "145.05",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "31694",
@@ -39163,13 +39303,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Chaos Dwarf",
-    "rating": "140.12",
-    "totalTournaments": 3,
-    "gamesTotal": 10,
-    "gamesWon": 3,
+    "rating": "154.65",
+    "totalTournaments": 4,
+    "gamesTotal": 13,
+    "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 5,
-    "winRatio": 40
+    "winRatio": 53.85
   },
   {
     "NAF Nr": "32056",
@@ -39191,13 +39331,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Chaos Dwarf",
-    "rating": "158.28",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 3,
+    "rating": "170.54",
+    "totalTournaments": 3,
+    "gamesTotal": 12,
+    "gamesWon": 7,
     "gamesDraw": 4,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 75
   },
   {
     "NAF Nr": "32067",
@@ -39229,7 +39369,7 @@ const statsRaceChaos_Dwarf = [
   },
   {
     "NAF Nr": "32100",
-    "NAF Name": "Hamburglar",
+    "NAF Name": "Badgie",
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Chaos Dwarf",
@@ -39387,13 +39527,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Chaos Dwarf",
-    "rating": "147.34",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 2,
-    "gamesDraw": 3,
-    "gamesLost": 3,
-    "winRatio": 43.75
+    "rating": "137.89",
+    "totalTournaments": 3,
+    "gamesTotal": 13,
+    "gamesWon": 3,
+    "gamesDraw": 4,
+    "gamesLost": 6,
+    "winRatio": 38.46
   },
   {
     "NAF Nr": "32273",
@@ -39513,12 +39653,12 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Chaos Dwarf",
-    "rating": "149.94",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
+    "rating": "150.54",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 3,
     "gamesDraw": 0,
-    "gamesLost": 2,
+    "gamesLost": 3,
     "winRatio": 50
   },
   {
@@ -40292,6 +40432,20 @@ const statsRaceChaos_Dwarf = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "33078",
+    "NAF Name": "popos",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "race": "Chaos Dwarf",
+    "rating": "162.92",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "winRatio": 75
+  },
+  {
     "NAF Nr": "33080",
     "NAF Name": "TacDigger",
     "CCAA": "Apatrida",
@@ -40558,6 +40712,20 @@ const statsRaceChaos_Dwarf = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "33340",
+    "NAF Name": "Seriouslyimagiraffe",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Chaos Dwarf",
+    "rating": "151.45",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "33341",
     "NAF Name": "MaLius",
     "CCAA": "Apatrida",
@@ -40619,13 +40787,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Chaos Dwarf",
-    "rating": "155.21",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
+    "rating": "143.79",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
     "gamesWon": 1,
-    "gamesDraw": 2,
-    "gamesLost": 0,
-    "winRatio": 66.67
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "33434",
@@ -41137,7 +41305,7 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Chaos Dwarf",
-    "rating": "148.46",
+    "rating": "148.45",
     "totalTournaments": 3,
     "gamesTotal": 10,
     "gamesWon": 3,
@@ -41398,6 +41566,20 @@ const statsRaceChaos_Dwarf = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "34316",
+    "NAF Name": "sergaran",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Chaos Dwarf",
+    "rating": "146.53",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "34338",
     "NAF Name": "smikenth",
     "CCAA": "Apatrida",
@@ -41636,6 +41818,20 @@ const statsRaceChaos_Dwarf = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "34701",
+    "NAF Name": "slampiggo",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
+    "race": "Chaos Dwarf",
+    "rating": "138.04",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "34748",
     "NAF Name": "barkstar123",
     "CCAA": "Apatrida",
@@ -41760,6 +41956,20 @@ const statsRaceChaos_Dwarf = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 25
+  },
+  {
+    "NAF Nr": "34969",
+    "NAF Name": "dwhyte",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Chaos Dwarf",
+    "rating": "153.48",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "34979",
@@ -41944,6 +42154,20 @@ const statsRaceChaos_Dwarf = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "35276",
+    "NAF Name": "drp",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
+    "race": "Chaos Dwarf",
+    "rating": "145.52",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "winRatio": 40
+  },
+  {
     "NAF Nr": "35277",
     "NAF Name": "bondy",
     "CCAA": "Apatrida",
@@ -42103,13 +42327,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Chaos Dwarf",
-    "rating": "144.8",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 0,
-    "gamesDraw": 3,
-    "gamesLost": 1,
-    "winRatio": 37.5
+    "rating": "146.98",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 2,
+    "gamesDraw": 6,
+    "gamesLost": 4,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "35422",
@@ -42145,7 +42369,7 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Chaos Dwarf",
-    "rating": "146.59",
+    "rating": "146.6",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
@@ -42222,6 +42446,20 @@ const statsRaceChaos_Dwarf = [
     "gamesDraw": 2,
     "gamesLost": 2,
     "winRatio": 40
+  },
+  {
+    "NAF Nr": "35549",
+    "NAF Name": "bigbird",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Chaos Dwarf",
+    "rating": "145.2",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "35577",
@@ -42635,12 +42873,12 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Chaos Dwarf",
-    "rating": "130.92",
-    "totalTournaments": 3,
-    "gamesTotal": 10,
-    "gamesWon": 1,
-    "gamesDraw": 3,
-    "gamesLost": 6,
+    "rating": "119.42",
+    "totalTournaments": 4,
+    "gamesTotal": 16,
+    "gamesWon": 2,
+    "gamesDraw": 4,
+    "gamesLost": 10,
     "winRatio": 25
   },
   {
@@ -42768,6 +43006,20 @@ const statsRaceChaos_Dwarf = [
     "gamesDraw": 0,
     "gamesLost": 0,
     "winRatio": 100
+  },
+  {
+    "NAF Nr": "36528",
+    "NAF Name": "cocoach",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Chaos Dwarf",
+    "rating": "153.01",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 4,
+    "gamesLost": 0,
+    "winRatio": 60
   },
   {
     "NAF Nr": "36561",
@@ -42929,13 +43181,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Chaos Dwarf",
-    "rating": "230.54",
-    "totalTournaments": 6,
-    "gamesTotal": 29,
-    "gamesWon": 21,
+    "rating": "244.14",
+    "totalTournaments": 7,
+    "gamesTotal": 34,
+    "gamesWon": 26,
     "gamesDraw": 6,
     "gamesLost": 2,
-    "winRatio": 82.76
+    "winRatio": 85.29
   },
   {
     "NAF Nr": "36822",
@@ -43230,6 +43482,34 @@ const statsRaceChaos_Dwarf = [
     "gamesDraw": 1,
     "gamesLost": 6,
     "winRatio": 27.78
+  },
+  {
+    "NAF Nr": "37381",
+    "NAF Name": "greasycleats",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
+    "race": "Chaos Dwarf",
+    "rating": "140.73",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 16.67
+  },
+  {
+    "NAF Nr": "37415",
+    "NAF Name": "Hiyoko",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "race": "Chaos Dwarf",
+    "rating": "150.62",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
   },
   {
     "NAF Nr": "37464",
@@ -43596,6 +43876,20 @@ const statsRaceChaos_Dwarf = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "38049",
+    "NAF Name": "landstryder",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Chaos Dwarf",
+    "rating": "153.87",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
+  },
+  {
     "NAF Nr": "38052",
     "NAF Name": "gfilippi",
     "CCAA": "Apatrida",
@@ -43680,6 +43974,20 @@ const statsRaceChaos_Dwarf = [
     "winRatio": 25
   },
   {
+    "NAF Nr": "38357",
+    "NAF Name": "albertbh",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Chaos Dwarf",
+    "rating": "149.71",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "38361",
     "NAF Name": "jo88er",
     "CCAA": "Apatrida",
@@ -43713,7 +44021,7 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Chaos Dwarf",
-    "rating": "136.18",
+    "rating": "135.72",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
@@ -43909,13 +44217,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Chaos Dwarf",
-    "rating": "185.0",
-    "totalTournaments": 7,
-    "gamesTotal": 31,
-    "gamesWon": 15,
-    "gamesDraw": 9,
+    "rating": "204.58",
+    "totalTournaments": 8,
+    "gamesTotal": 37,
+    "gamesWon": 20,
+    "gamesDraw": 10,
     "gamesLost": 7,
-    "winRatio": 62.9
+    "winRatio": 67.57
   },
   {
     "NAF Nr": "38993",
@@ -43974,6 +44282,20 @@ const statsRaceChaos_Dwarf = [
     "winRatio": 58.33
   },
   {
+    "NAF Nr": "39040",
+    "NAF Name": "lyc29",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Chaos Dwarf",
+    "rating": "132.99",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 20
+  },
+  {
     "NAF Nr": "39044",
     "NAF Name": "BigAndy",
     "CCAA": "Apatrida",
@@ -44021,12 +44343,12 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Chaos Dwarf",
-    "rating": "135.97",
-    "totalTournaments": 4,
-    "gamesTotal": 12,
-    "gamesWon": 2,
+    "rating": "127.79",
+    "totalTournaments": 5,
+    "gamesTotal": 15,
+    "gamesWon": 3,
     "gamesDraw": 4,
-    "gamesLost": 6,
+    "gamesLost": 8,
     "winRatio": 33.33
   },
   {
@@ -44229,15 +44551,29 @@ const statsRaceChaos_Dwarf = [
     "NAF Nr": "39608",
     "NAF Name": "markstothers",
     "CCAA": "Apatrida",
-    "Country": "Undisclosed",
+    "Country": "Ireland",
     "race": "Chaos Dwarf",
-    "rating": "146.45",
+    "rating": "144.1",
+    "totalTournaments": 3,
+    "gamesTotal": 9,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 38.89
+  },
+  {
+    "NAF Nr": "39701",
+    "NAF Name": "MariOrk",
+    "CCAA": "Apatrida",
+    "Country": "Mexico",
+    "race": "Chaos Dwarf",
+    "rating": "150.26",
     "totalTournaments": 1,
-    "gamesTotal": 3,
+    "gamesTotal": 4,
     "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 33.33
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 50
   },
   {
     "NAF Nr": "39743",
@@ -44399,13 +44735,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Chaos Dwarf",
-    "rating": "147.0",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 3,
+    "rating": "117.11",
+    "totalTournaments": 3,
+    "gamesTotal": 16,
+    "gamesWon": 5,
     "gamesDraw": 1,
-    "gamesLost": 4,
-    "winRatio": 43.75
+    "gamesLost": 10,
+    "winRatio": 34.38
   },
   {
     "NAF Nr": "40185",
@@ -44413,13 +44749,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Chaos Dwarf",
-    "rating": "157.11",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
-    "gamesWon": 3,
+    "rating": "161.09",
+    "totalTournaments": 2,
+    "gamesTotal": 10,
+    "gamesWon": 6,
     "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 70
+    "gamesLost": 3,
+    "winRatio": 65
   },
   {
     "NAF Nr": "40193",
@@ -44595,13 +44931,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Chaos Dwarf",
-    "rating": "140.0",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
-    "gamesWon": 1,
-    "gamesDraw": 1,
-    "gamesLost": 3,
-    "winRatio": 30
+    "rating": "135.95",
+    "totalTournaments": 2,
+    "gamesTotal": 10,
+    "gamesWon": 2,
+    "gamesDraw": 4,
+    "gamesLost": 4,
+    "winRatio": 40
   },
   {
     "NAF Nr": "40924",
@@ -44665,13 +45001,13 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Chaos Dwarf",
-    "rating": "127.45",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 0,
+    "rating": "135.0",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 2,
     "gamesDraw": 3,
-    "gamesLost": 3,
-    "winRatio": 25
+    "gamesLost": 4,
+    "winRatio": 38.89
   },
   {
     "NAF Nr": "41153",
@@ -44707,7 +45043,7 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Chaos Dwarf",
-    "rating": "138.58",
+    "rating": "138.57",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
@@ -44756,6 +45092,20 @@ const statsRaceChaos_Dwarf = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 62.5
+  },
+  {
+    "NAF Nr": "41433",
+    "NAF Name": "mikeyfiddlermcbeans",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "race": "Chaos Dwarf",
+    "rating": "145.14",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "41458",
@@ -44833,7 +45183,7 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Chaos Dwarf",
-    "rating": "150.86",
+    "rating": "151.18",
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
@@ -44875,12 +45225,26 @@ const statsRaceChaos_Dwarf = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Chaos Dwarf",
-    "rating": "161.22",
+    "rating": "164.22",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 75
+  },
+  {
+    "NAF Nr": "41793",
+    "NAF Name": "Wawa",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Chaos Dwarf",
+    "rating": "143.46",
     "totalTournaments": 1,
     "gamesTotal": 3,
-    "gamesWon": 2,
+    "gamesWon": 0,
     "gamesDraw": 1,
-    "gamesLost": 0,
-    "winRatio": 83.33
+    "gamesLost": 2,
+    "winRatio": 16.67
   }
 ];
