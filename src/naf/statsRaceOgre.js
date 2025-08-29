@@ -607,13 +607,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Ogre",
-    "rating": "149.1",
-    "totalTournaments": 4,
-    "gamesTotal": 16,
+    "rating": "141.21",
+    "totalTournaments": 5,
+    "gamesTotal": 18,
     "gamesWon": 6,
-    "gamesDraw": 2,
-    "gamesLost": 8,
-    "winRatio": 43.75
+    "gamesDraw": 3,
+    "gamesLost": 9,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "559",
@@ -664,12 +664,12 @@ const statsRaceOgre = [
     "Country": "England",
     "race": "Ogre",
     "rating": "146.29",
-    "totalTournaments": 4,
-    "gamesTotal": 15,
+    "totalTournaments": 5,
+    "gamesTotal": 18,
     "gamesWon": 6,
-    "gamesDraw": 2,
+    "gamesDraw": 5,
     "gamesLost": 7,
-    "winRatio": 46.67
+    "winRatio": 47.22
   },
   {
     "NAF Nr": "885",
@@ -1475,13 +1475,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Ogre",
-    "rating": "139.6",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
+    "rating": "119.12",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
     "gamesWon": 1,
-    "gamesDraw": 2,
-    "gamesLost": 3,
-    "winRatio": 33.33
+    "gamesDraw": 4,
+    "gamesLost": 7,
+    "winRatio": 25
   },
   {
     "NAF Nr": "4243",
@@ -1517,7 +1517,7 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Ogre",
-    "rating": "145.95",
+    "rating": "145.96",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
@@ -1573,13 +1573,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Ogre",
-    "rating": "140.24",
-    "totalTournaments": 4,
-    "gamesTotal": 18,
-    "gamesWon": 6,
-    "gamesDraw": 3,
-    "gamesLost": 9,
-    "winRatio": 41.67
+    "rating": "143.8",
+    "totalTournaments": 5,
+    "gamesTotal": 24,
+    "gamesWon": 8,
+    "gamesDraw": 5,
+    "gamesLost": 11,
+    "winRatio": 43.75
   },
   {
     "NAF Nr": "4479",
@@ -1706,6 +1706,20 @@ const statsRaceOgre = [
     "gamesDraw": 1,
     "gamesLost": 3,
     "winRatio": 30
+  },
+  {
+    "NAF Nr": "4865",
+    "NAF Name": "Levinas",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Ogre",
+    "rating": "153.29",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "4885",
@@ -4107,13 +4121,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Ogre",
-    "rating": "159.08",
-    "totalTournaments": 5,
-    "gamesTotal": 27,
-    "gamesWon": 12,
+    "rating": "163.2",
+    "totalTournaments": 6,
+    "gamesTotal": 30,
+    "gamesWon": 14,
     "gamesDraw": 4,
-    "gamesLost": 11,
-    "winRatio": 51.85
+    "gamesLost": 12,
+    "winRatio": 53.33
   },
   {
     "NAF Nr": "9299",
@@ -6129,6 +6143,20 @@ const statsRaceOgre = [
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
+    "winRatio": 50
+  },
+  {
+    "NAF Nr": "12408",
+    "NAF Name": "Acerimmer",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Ogre",
+    "rating": "145.48",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 1,
     "winRatio": 50
   },
   {
@@ -8293,13 +8321,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Ogre",
-    "rating": "118.65",
-    "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 1,
+    "rating": "101.87",
+    "totalTournaments": 3,
+    "gamesTotal": 14,
+    "gamesWon": 2,
     "gamesDraw": 1,
-    "gamesLost": 7,
-    "winRatio": 16.67
+    "gamesLost": 11,
+    "winRatio": 17.86
   },
   {
     "NAF Nr": "15578",
@@ -8531,13 +8559,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Ogre",
-    "rating": "154.64",
-    "totalTournaments": 6,
-    "gamesTotal": 30,
-    "gamesWon": 8,
+    "rating": "167.52",
+    "totalTournaments": 7,
+    "gamesTotal": 33,
+    "gamesWon": 11,
     "gamesDraw": 12,
     "gamesLost": 10,
-    "winRatio": 46.67
+    "winRatio": 51.52
   },
   {
     "NAF Nr": "16093",
@@ -10617,13 +10645,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Ogre",
-    "rating": "126.25",
-    "totalTournaments": 6,
-    "gamesTotal": 16,
-    "gamesWon": 4,
+    "rating": "123.4",
+    "totalTournaments": 7,
+    "gamesTotal": 19,
+    "gamesWon": 5,
     "gamesDraw": 1,
-    "gamesLost": 11,
-    "winRatio": 28.13
+    "gamesLost": 13,
+    "winRatio": 28.95
   },
   {
     "NAF Nr": "18081",
@@ -10757,13 +10785,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Ogre",
-    "rating": "145.97",
-    "totalTournaments": 15,
-    "gamesTotal": 62,
-    "gamesWon": 19,
-    "gamesDraw": 19,
+    "rating": "157.55",
+    "totalTournaments": 16,
+    "gamesTotal": 65,
+    "gamesWon": 21,
+    "gamesDraw": 20,
     "gamesLost": 24,
-    "winRatio": 45.97
+    "winRatio": 47.69
   },
   {
     "NAF Nr": "18252",
@@ -12955,7 +12983,7 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Ogre",
-    "rating": "160.32",
+    "rating": "157.29",
     "totalTournaments": 3,
     "gamesTotal": 17,
     "gamesWon": 9,
@@ -16007,13 +16035,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Ogre",
-    "rating": "157.77",
-    "totalTournaments": 3,
-    "gamesTotal": 11,
-    "gamesWon": 4,
-    "gamesDraw": 4,
-    "gamesLost": 3,
-    "winRatio": 54.55
+    "rating": "157.69",
+    "totalTournaments": 4,
+    "gamesTotal": 14,
+    "gamesWon": 5,
+    "gamesDraw": 5,
+    "gamesLost": 4,
+    "winRatio": 53.57
   },
   {
     "NAF Nr": "21901",
@@ -16119,13 +16147,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Ogre",
-    "rating": "107.32",
-    "totalTournaments": 6,
-    "gamesTotal": 26,
+    "rating": "105.21",
+    "totalTournaments": 7,
+    "gamesTotal": 27,
     "gamesWon": 4,
     "gamesDraw": 4,
-    "gamesLost": 18,
-    "winRatio": 23.08
+    "gamesLost": 19,
+    "winRatio": 22.22
   },
   {
     "NAF Nr": "22008",
@@ -16273,13 +16301,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Ogre",
-    "rating": "142.57",
-    "totalTournaments": 3,
-    "gamesTotal": 10,
-    "gamesWon": 3,
+    "rating": "138.28",
+    "totalTournaments": 4,
+    "gamesTotal": 13,
+    "gamesWon": 4,
     "gamesDraw": 1,
-    "gamesLost": 6,
-    "winRatio": 35
+    "gamesLost": 8,
+    "winRatio": 34.62
   },
   {
     "NAF Nr": "22126",
@@ -16623,13 +16651,13 @@ const statsRaceOgre = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Ogre",
-    "rating": "141.96",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
-    "gamesDraw": 1,
+    "rating": "150.04",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 3,
+    "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 57.14
   },
   {
     "NAF Nr": "22365",
@@ -16805,13 +16833,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Ogre",
-    "rating": "143.37",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 0,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 16.67
+    "rating": "143.42",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "22469",
@@ -16924,6 +16952,20 @@ const statsRaceOgre = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 70
+  },
+  {
+    "NAF Nr": "22512",
+    "NAF Name": "rhaf",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Ogre",
+    "rating": "142.82",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 30
   },
   {
     "NAF Nr": "22544",
@@ -17449,13 +17491,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Ogre",
-    "rating": "152.02",
-    "totalTournaments": 5,
-    "gamesTotal": 19,
-    "gamesWon": 7,
+    "rating": "151.95",
+    "totalTournaments": 6,
+    "gamesTotal": 21,
+    "gamesWon": 8,
     "gamesDraw": 7,
-    "gamesLost": 5,
-    "winRatio": 55.26
+    "gamesLost": 6,
+    "winRatio": 54.76
   },
   {
     "NAF Nr": "23028",
@@ -17645,13 +17687,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Ogre",
-    "rating": "143.38",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 1,
-    "gamesDraw": 3,
-    "gamesLost": 2,
-    "winRatio": 41.67
+    "rating": "159.44",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 5,
+    "gamesDraw": 4,
+    "gamesLost": 3,
+    "winRatio": 58.33
   },
   {
     "NAF Nr": "23167",
@@ -18065,13 +18107,13 @@ const statsRaceOgre = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Ogre",
-    "rating": "108.29",
-    "totalTournaments": 10,
-    "gamesTotal": 42,
-    "gamesWon": 10,
+    "rating": "105.9",
+    "totalTournaments": 11,
+    "gamesTotal": 45,
+    "gamesWon": 11,
     "gamesDraw": 10,
-    "gamesLost": 22,
-    "winRatio": 35.71
+    "gamesLost": 24,
+    "winRatio": 35.56
   },
   {
     "NAF Nr": "23483",
@@ -18513,13 +18555,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Ogre",
-    "rating": "136.97",
-    "totalTournaments": 3,
-    "gamesTotal": 9,
-    "gamesWon": 2,
+    "rating": "133.61",
+    "totalTournaments": 4,
+    "gamesTotal": 12,
+    "gamesWon": 3,
     "gamesDraw": 1,
-    "gamesLost": 6,
-    "winRatio": 27.78
+    "gamesLost": 8,
+    "winRatio": 29.17
   },
   {
     "NAF Nr": "23781",
@@ -18527,13 +18569,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Ogre",
-    "rating": "168.75",
-    "totalTournaments": 4,
-    "gamesTotal": 17,
-    "gamesWon": 8,
+    "rating": "164.26",
+    "totalTournaments": 5,
+    "gamesTotal": 20,
+    "gamesWon": 9,
     "gamesDraw": 5,
-    "gamesLost": 4,
-    "winRatio": 61.76
+    "gamesLost": 6,
+    "winRatio": 57.5
   },
   {
     "NAF Nr": "23782",
@@ -18919,7 +18961,7 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Ogre",
-    "rating": "143.46",
+    "rating": "143.56",
     "totalTournaments": 3,
     "gamesTotal": 12,
     "gamesWon": 4,
@@ -19115,13 +19157,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Ogre",
-    "rating": "158.65",
+    "rating": "153.15",
     "totalTournaments": 3,
     "gamesTotal": 7,
-    "gamesWon": 4,
-    "gamesDraw": 1,
+    "gamesWon": 3,
+    "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 64.29
+    "winRatio": 57.14
   },
   {
     "NAF Nr": "24171",
@@ -19283,13 +19325,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Ogre",
-    "rating": "169.5",
-    "totalTournaments": 6,
-    "gamesTotal": 18,
-    "gamesWon": 9,
+    "rating": "172.03",
+    "totalTournaments": 7,
+    "gamesTotal": 21,
+    "gamesWon": 11,
     "gamesDraw": 5,
-    "gamesLost": 4,
-    "winRatio": 63.89
+    "gamesLost": 5,
+    "winRatio": 64.29
   },
   {
     "NAF Nr": "24325",
@@ -19416,6 +19458,20 @@ const statsRaceOgre = [
     "gamesDraw": 7,
     "gamesLost": 15,
     "winRatio": 22.92
+  },
+  {
+    "NAF Nr": "24460",
+    "NAF Name": "FRUMFRIM",
+    "CCAA": "I. Canarias",
+    "Country": "Spain",
+    "race": "Ogre",
+    "rating": "166.15",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 4,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "24466",
@@ -19628,6 +19684,20 @@ const statsRaceOgre = [
     "winRatio": 20.83
   },
   {
+    "NAF Nr": "24645",
+    "NAF Name": "PurpleChest",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Ogre",
+    "rating": "164.67",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 66.67
+  },
+  {
     "NAF Nr": "24663",
     "NAF Name": "Takeshi",
     "CCAA": "Apatrida",
@@ -19710,6 +19780,20 @@ const statsRaceOgre = [
     "gamesDraw": 0,
     "gamesLost": 1,
     "winRatio": 66.67
+  },
+  {
+    "NAF Nr": "24724",
+    "NAF Name": "Mernas",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Ogre",
+    "rating": "124.5",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 8.33
   },
   {
     "NAF Nr": "24728",
@@ -20249,7 +20333,7 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Ogre",
-    "rating": "128.0",
+    "rating": "128.01",
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 2,
@@ -20543,13 +20627,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Ogre",
-    "rating": "122.47",
-    "totalTournaments": 5,
-    "gamesTotal": 20,
-    "gamesWon": 4,
-    "gamesDraw": 3,
-    "gamesLost": 13,
-    "winRatio": 27.5
+    "rating": "122.54",
+    "totalTournaments": 6,
+    "gamesTotal": 28,
+    "gamesWon": 7,
+    "gamesDraw": 4,
+    "gamesLost": 17,
+    "winRatio": 32.14
   },
   {
     "NAF Nr": "25263",
@@ -22951,13 +23035,13 @@ const statsRaceOgre = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Ogre",
-    "rating": "144.69",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
+    "rating": "130.2",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
     "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 33.33
+    "gamesDraw": 3,
+    "gamesLost": 5,
+    "winRatio": 27.78
   },
   {
     "NAF Nr": "27127",
@@ -23413,13 +23497,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Ogre",
-    "rating": "119.88",
-    "totalTournaments": 2,
-    "gamesTotal": 15,
-    "gamesWon": 3,
-    "gamesDraw": 4,
-    "gamesLost": 8,
-    "winRatio": 33.33
+    "rating": "108.78",
+    "totalTournaments": 3,
+    "gamesTotal": 23,
+    "gamesWon": 4,
+    "gamesDraw": 6,
+    "gamesLost": 13,
+    "winRatio": 30.43
   },
   {
     "NAF Nr": "27575",
@@ -24701,12 +24785,12 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Ogre",
-    "rating": "151.36",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "rating": "151.11",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 3,
     "gamesDraw": 2,
-    "gamesLost": 1,
+    "gamesLost": 3,
     "winRatio": 50
   },
   {
@@ -24752,8 +24836,22 @@ const statsRaceOgre = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "28988",
+    "NAF Name": "silentnate",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Ogre",
+    "rating": "154.21",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "28989",
-    "NAF Name": "James_",
+    "NAF Name": "Hamez",
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Ogre",
@@ -25177,13 +25275,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Greece",
     "race": "Ogre",
-    "rating": "157.55",
-    "totalTournaments": 3,
-    "gamesTotal": 9,
+    "rating": "146.75",
+    "totalTournaments": 4,
+    "gamesTotal": 14,
     "gamesWon": 4,
-    "gamesDraw": 2,
-    "gamesLost": 3,
-    "winRatio": 55.56
+    "gamesDraw": 4,
+    "gamesLost": 6,
+    "winRatio": 42.86
   },
   {
     "NAF Nr": "29585",
@@ -25765,13 +25863,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Ogre",
-    "rating": "104.47",
-    "totalTournaments": 5,
-    "gamesTotal": 20,
-    "gamesWon": 2,
-    "gamesDraw": 6,
-    "gamesLost": 12,
-    "winRatio": 25
+    "rating": "111.24",
+    "totalTournaments": 6,
+    "gamesTotal": 25,
+    "gamesWon": 4,
+    "gamesDraw": 7,
+    "gamesLost": 14,
+    "winRatio": 30
   },
   {
     "NAF Nr": "30182",
@@ -25842,6 +25940,20 @@ const statsRaceOgre = [
     "gamesDraw": 0,
     "gamesLost": 1,
     "winRatio": 66.67
+  },
+  {
+    "NAF Nr": "30316",
+    "NAF Name": "Vulkan66",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Ogre",
+    "rating": "119.75",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 6,
+    "winRatio": 18.75
   },
   {
     "NAF Nr": "30318",
@@ -26208,6 +26320,20 @@ const statsRaceOgre = [
     "winRatio": 41.67
   },
   {
+    "NAF Nr": "30616",
+    "NAF Name": "MATdub",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Ogre",
+    "rating": "139.72",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "30625",
     "NAF Name": "furbby",
     "CCAA": "Apatrida",
@@ -26402,6 +26528,20 @@ const statsRaceOgre = [
     "gamesDraw": 2,
     "gamesLost": 3,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "30740",
+    "NAF Name": "BigBlackBud",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Ogre",
+    "rating": "153.0",
+    "totalTournaments": 1,
+    "gamesTotal": 2,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 75
   },
   {
     "NAF Nr": "30757",
@@ -26810,6 +26950,20 @@ const statsRaceOgre = [
     "winRatio": 25
   },
   {
+    "NAF Nr": "31143",
+    "NAF Name": "ArmorArmadillo",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Ogre",
+    "rating": "148.23",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "31145",
     "NAF Name": "blondebarron",
     "CCAA": "Apatrida",
@@ -27067,13 +27221,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Ogre",
-    "rating": "148.01",
-    "totalTournaments": 3,
-    "gamesTotal": 15,
+    "rating": "145.03",
+    "totalTournaments": 4,
+    "gamesTotal": 16,
     "gamesWon": 6,
     "gamesDraw": 4,
-    "gamesLost": 5,
-    "winRatio": 53.33
+    "gamesLost": 6,
+    "winRatio": 50
   },
   {
     "NAF Nr": "31336",
@@ -27081,12 +27235,12 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Ogre",
-    "rating": "131.87",
-    "totalTournaments": 2,
-    "gamesTotal": 4,
+    "rating": "119.09",
+    "totalTournaments": 3,
+    "gamesTotal": 7,
     "gamesWon": 0,
     "gamesDraw": 0,
-    "gamesLost": 4,
+    "gamesLost": 7,
     "winRatio": 0
   },
   {
@@ -27305,13 +27459,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Ogre",
-    "rating": "168.1",
-    "totalTournaments": 10,
-    "gamesTotal": 37,
-    "gamesWon": 19,
-    "gamesDraw": 8,
-    "gamesLost": 10,
-    "winRatio": 62.16
+    "rating": "176.06",
+    "totalTournaments": 11,
+    "gamesTotal": 42,
+    "gamesWon": 22,
+    "gamesDraw": 9,
+    "gamesLost": 11,
+    "winRatio": 63.1
   },
   {
     "NAF Nr": "31460",
@@ -27361,13 +27515,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Ogre",
-    "rating": "118.65",
-    "totalTournaments": 7,
-    "gamesTotal": 38,
-    "gamesWon": 10,
-    "gamesDraw": 7,
-    "gamesLost": 21,
-    "winRatio": 35.53
+    "rating": "127.02",
+    "totalTournaments": 8,
+    "gamesTotal": 44,
+    "gamesWon": 11,
+    "gamesDraw": 11,
+    "gamesLost": 22,
+    "winRatio": 37.5
   },
   {
     "NAF Nr": "31511",
@@ -27991,13 +28145,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Ogre",
-    "rating": "158.95",
+    "rating": "154.79",
     "totalTournaments": 2,
     "gamesTotal": 4,
-    "gamesWon": 3,
-    "gamesDraw": 0,
+    "gamesWon": 2,
+    "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "32041",
@@ -28005,13 +28159,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Ogre",
-    "rating": "154.22",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
-    "gamesWon": 2,
-    "gamesDraw": 2,
-    "gamesLost": 1,
-    "winRatio": 60
+    "rating": "171.52",
+    "totalTournaments": 3,
+    "gamesTotal": 14,
+    "gamesWon": 7,
+    "gamesDraw": 4,
+    "gamesLost": 3,
+    "winRatio": 64.29
   },
   {
     "NAF Nr": "32053",
@@ -28579,7 +28733,7 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Ogre",
-    "rating": "162.96",
+    "rating": "162.98",
     "totalTournaments": 17,
     "gamesTotal": 91,
     "gamesWon": 33,
@@ -28684,6 +28838,20 @@ const statsRaceOgre = [
     "gamesDraw": 0,
     "gamesLost": 2,
     "winRatio": 0
+  },
+  {
+    "NAF Nr": "32592",
+    "NAF Name": "Kenavo",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Ogre",
+    "rating": "150.39",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 50
   },
   {
     "NAF Nr": "32593",
@@ -28810,6 +28978,20 @@ const statsRaceOgre = [
     "gamesDraw": 1,
     "gamesLost": 2,
     "winRatio": 37.5
+  },
+  {
+    "NAF Nr": "32747",
+    "NAF Name": "jeandupays",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "race": "Ogre",
+    "rating": "167.48",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 87.5
   },
   {
     "NAF Nr": "32760",
@@ -29050,6 +29232,20 @@ const statsRaceOgre = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "32999",
+    "NAF Name": "Darock",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Ogre",
+    "rating": "147.34",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 41.67
+  },
+  {
     "NAF Nr": "33027",
     "NAF Name": "gettheref",
     "CCAA": "Apatrida",
@@ -29139,13 +29335,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Ogre",
-    "rating": "145.18",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
+    "rating": "144.25",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
     "gamesWon": 1,
-    "gamesDraw": 3,
+    "gamesDraw": 6,
     "gamesLost": 2,
-    "winRatio": 41.67
+    "winRatio": 44.44
   },
   {
     "NAF Nr": "33181",
@@ -29209,13 +29405,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Ogre",
-    "rating": "164.61",
-    "totalTournaments": 6,
-    "gamesTotal": 30,
-    "gamesWon": 14,
+    "rating": "173.96",
+    "totalTournaments": 7,
+    "gamesTotal": 34,
+    "gamesWon": 17,
     "gamesDraw": 5,
-    "gamesLost": 11,
-    "winRatio": 55
+    "gamesLost": 12,
+    "winRatio": 57.35
   },
   {
     "NAF Nr": "33271",
@@ -29727,13 +29923,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Ogre",
-    "rating": "143.24",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
-    "gamesWon": 2,
+    "rating": "146.32",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 40
+    "winRatio": 50
   },
   {
     "NAF Nr": "33945",
@@ -29986,6 +30182,20 @@ const statsRaceOgre = [
     "gamesDraw": 0,
     "gamesLost": 1,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "34259",
+    "NAF Name": "Noe",
+    "CCAA": "Castilla y León",
+    "Country": "Spain",
+    "race": "Ogre",
+    "rating": "127.49",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "winRatio": 20
   },
   {
     "NAF Nr": "34284",
@@ -30315,13 +30525,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Ogre",
-    "rating": "143.04",
-    "totalTournaments": 1,
-    "gamesTotal": 2,
-    "gamesWon": 0,
-    "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 0
+    "rating": "149.72",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 42.86
   },
   {
     "NAF Nr": "34950",
@@ -30423,7 +30633,7 @@ const statsRaceOgre = [
   },
   {
     "NAF Nr": "35144",
-    "NAF Name": "AtomicFryingPan",
+    "NAF Name": "BenBen",
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Ogre",
@@ -30609,13 +30819,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Ogre",
-    "rating": "143.95",
-    "totalTournaments": 2,
-    "gamesTotal": 11,
-    "gamesWon": 3,
-    "gamesDraw": 4,
-    "gamesLost": 4,
-    "winRatio": 45.45
+    "rating": "143.13",
+    "totalTournaments": 3,
+    "gamesTotal": 17,
+    "gamesWon": 5,
+    "gamesDraw": 5,
+    "gamesLost": 7,
+    "winRatio": 44.12
   },
   {
     "NAF Nr": "35447",
@@ -30702,6 +30912,20 @@ const statsRaceOgre = [
     "winRatio": 14.29
   },
   {
+    "NAF Nr": "35591",
+    "NAF Name": "akorous",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Ogre",
+    "rating": "142.74",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "35600",
     "NAF Name": "Benko",
     "CCAA": "Apatrida",
@@ -30749,13 +30973,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Ogre",
-    "rating": "143.79",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
+    "rating": "150.03",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 3,
     "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 33.33
+    "gamesLost": 3,
+    "winRatio": 50
   },
   {
     "NAF Nr": "35649",
@@ -30763,13 +30987,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Czech Republic",
     "race": "Ogre",
-    "rating": "171.23",
-    "totalTournaments": 2,
-    "gamesTotal": 12,
-    "gamesWon": 6,
-    "gamesDraw": 4,
+    "rating": "180.46",
+    "totalTournaments": 3,
+    "gamesTotal": 15,
+    "gamesWon": 8,
+    "gamesDraw": 5,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 70
   },
   {
     "NAF Nr": "35710",
@@ -30889,13 +31113,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Ogre",
-    "rating": "153.75",
-    "totalTournaments": 2,
-    "gamesTotal": 5,
-    "gamesWon": 2,
-    "gamesDraw": 2,
-    "gamesLost": 1,
-    "winRatio": 60
+    "rating": "153.05",
+    "totalTournaments": 3,
+    "gamesTotal": 10,
+    "gamesWon": 4,
+    "gamesDraw": 3,
+    "gamesLost": 3,
+    "winRatio": 55
   },
   {
     "NAF Nr": "35995",
@@ -31078,6 +31302,20 @@ const statsRaceOgre = [
     "gamesDraw": 0,
     "gamesLost": 1,
     "winRatio": 88.89
+  },
+  {
+    "NAF Nr": "36281",
+    "NAF Name": "blitzirk",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Ogre",
+    "rating": "141.15",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 30
   },
   {
     "NAF Nr": "36328",
@@ -31458,6 +31696,20 @@ const statsRaceOgre = [
     "winRatio": 0
   },
   {
+    "NAF Nr": "37208",
+    "NAF Name": "CackleZone",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "race": "Ogre",
+    "rating": "139.51",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 30
+  },
+  {
     "NAF Nr": "37376",
     "NAF Name": "El_Cobarde",
     "CCAA": "Apatrida",
@@ -31505,7 +31757,7 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Ogre",
-    "rating": "115.06",
+    "rating": "115.75",
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 1,
@@ -31582,6 +31834,20 @@ const statsRaceOgre = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "37716",
+    "NAF Name": "impulsivebonz",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "race": "Ogre",
+    "rating": "140.92",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 16.67
   },
   {
     "NAF Nr": "37743",
@@ -31925,13 +32191,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Ogre",
-    "rating": "136.66",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 0,
-    "gamesDraw": 0,
-    "gamesLost": 3,
-    "winRatio": 0
+    "rating": "138.54",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 31.25
   },
   {
     "NAF Nr": "38291",
@@ -31939,13 +32205,27 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Ogre",
-    "rating": "115.15",
+    "rating": "114.95",
     "totalTournaments": 3,
     "gamesTotal": 18,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 11,
     "winRatio": 30.56
+  },
+  {
+    "NAF Nr": "38369",
+    "NAF Name": "kruskalf",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Ogre",
+    "rating": "147.63",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "winRatio": 56.25
   },
   {
     "NAF Nr": "38439",
@@ -31960,6 +32240,20 @@ const statsRaceOgre = [
     "gamesDraw": 0,
     "gamesLost": 1,
     "winRatio": 0
+  },
+  {
+    "NAF Nr": "38456",
+    "NAF Name": "gotyz",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "race": "Ogre",
+    "rating": "144.15",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 25
   },
   {
     "NAF Nr": "38480",
@@ -32093,12 +32387,12 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Ogre",
-    "rating": "151.33",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
-    "gamesWon": 3,
+    "rating": "151.29",
+    "totalTournaments": 3,
+    "gamesTotal": 12,
+    "gamesWon": 6,
     "gamesDraw": 0,
-    "gamesLost": 3,
+    "gamesLost": 6,
     "winRatio": 50
   },
   {
@@ -32107,13 +32401,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Ogre",
-    "rating": "146.25",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
+    "rating": "123.58",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
     "gamesWon": 0,
     "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 16.67
+    "gamesLost": 7,
+    "winRatio": 6.25
   },
   {
     "NAF Nr": "38961",
@@ -32312,6 +32606,20 @@ const statsRaceOgre = [
     "winRatio": 0
   },
   {
+    "NAF Nr": "39968",
+    "NAF Name": "Frysian_Dumke",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "race": "Ogre",
+    "rating": "120.03",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 8.33
+  },
+  {
     "NAF Nr": "40004",
     "NAF Name": "compman",
     "CCAA": "Apatrida",
@@ -32352,6 +32660,20 @@ const statsRaceOgre = [
     "gamesDraw": 1,
     "gamesLost": 2,
     "winRatio": 16.67
+  },
+  {
+    "NAF Nr": "40363",
+    "NAF Name": "djokoss",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Ogre",
+    "rating": "139.66",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 20
   },
   {
     "NAF Nr": "40375",
@@ -32443,13 +32765,13 @@ const statsRaceOgre = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Ogre",
-    "rating": "146.44",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
-    "gamesWon": 1,
-    "gamesDraw": 2,
-    "gamesLost": 2,
-    "winRatio": 40
+    "rating": "153.2",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 3,
+    "winRatio": 50
   },
   {
     "NAF Nr": "40692",
@@ -32478,6 +32800,20 @@ const statsRaceOgre = [
     "gamesDraw": 2,
     "gamesLost": 0,
     "winRatio": 66.67
+  },
+  {
+    "NAF Nr": "40906",
+    "NAF Name": "Shalandar",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Ogre",
+    "rating": "132.96",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "winRatio": 0
   },
   {
     "NAF Nr": "41006",
@@ -32522,6 +32858,20 @@ const statsRaceOgre = [
     "winRatio": 25
   },
   {
+    "NAF Nr": "41360",
+    "NAF Name": "wous",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Ogre",
+    "rating": "149.89",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "41462",
     "NAF Name": "mumptyplum",
     "CCAA": "Apatrida",
@@ -32534,5 +32884,61 @@ const statsRaceOgre = [
     "gamesDraw": 0,
     "gamesLost": 3,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "41879",
+    "NAF Name": "BigSteve",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Ogre",
+    "rating": "134.89",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
+  },
+  {
+    "NAF Nr": "41905",
+    "NAF Name": "Meeegaptera",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Ogre",
+    "rating": "147.24",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
+  },
+  {
+    "NAF Nr": "41929",
+    "NAF Name": "RevolvingBlaze",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Ogre",
+    "rating": "144.34",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "42021",
+    "NAF Name": "piddlefish",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "race": "Ogre",
+    "rating": "133.15",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "winRatio": 20
   }
 ];

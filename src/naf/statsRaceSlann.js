@@ -145,13 +145,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Slann",
-    "rating": "173.92",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 5,
+    "rating": "188.94",
+    "totalTournaments": 2,
+    "gamesTotal": 11,
+    "gamesWon": 10,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 83.33
+    "winRatio": 90.91
   },
   {
     "NAF Nr": "129",
@@ -656,6 +656,20 @@ const statsRaceSlann = [
     "gamesDraw": 1,
     "gamesLost": 0,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "2808",
+    "NAF Name": "Miko",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Slann",
+    "rating": "153.15",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "2854",
@@ -2511,13 +2525,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "North Ireland",
     "race": "Slann",
-    "rating": "156.03",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 2,
+    "rating": "151.35",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 3,
     "gamesDraw": 1,
-    "gamesLost": 0,
-    "winRatio": 83.33
+    "gamesLost": 2,
+    "winRatio": 58.33
   },
   {
     "NAF Nr": "8994",
@@ -2525,13 +2539,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Slann",
-    "rating": "173.01",
-    "totalTournaments": 19,
-    "gamesTotal": 85,
-    "gamesWon": 38,
-    "gamesDraw": 21,
-    "gamesLost": 26,
-    "winRatio": 57.06
+    "rating": "168.87",
+    "totalTournaments": 20,
+    "gamesTotal": 90,
+    "gamesWon": 39,
+    "gamesDraw": 23,
+    "gamesLost": 28,
+    "winRatio": 56.11
   },
   {
     "NAF Nr": "9003",
@@ -5600,6 +5614,20 @@ const statsRaceSlann = [
     "winRatio": 49
   },
   {
+    "NAF Nr": "16097",
+    "NAF Name": "Assassin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Slann",
+    "rating": "156.3",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 62.5
+  },
+  {
     "NAF Nr": "16121",
     "NAF Name": "Zusto",
     "CCAA": "Andalucía",
@@ -5647,13 +5675,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Slann",
-    "rating": "165.0",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 3,
+    "rating": "172.63",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 7,
     "gamesDraw": 0,
-    "gamesLost": 0,
-    "winRatio": 100
+    "gamesLost": 2,
+    "winRatio": 77.78
   },
   {
     "NAF Nr": "16185",
@@ -7481,13 +7509,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Slann",
-    "rating": "144.93",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
-    "gamesDraw": 1,
+    "rating": "153.63",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 3,
+    "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 57.14
   },
   {
     "NAF Nr": "18181",
@@ -7649,13 +7677,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Slann",
-    "rating": "149.34",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
+    "rating": "145.74",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 3,
     "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 50
+    "gamesLost": 4,
+    "winRatio": 42.86
   },
   {
     "NAF Nr": "18378",
@@ -7943,7 +7971,7 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Slann",
-    "rating": "146.45",
+    "rating": "149.84",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
@@ -9567,12 +9595,12 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Slann",
-    "rating": "146.79",
-    "totalTournaments": 1,
-    "gamesTotal": 1,
+    "rating": "130.44",
+    "totalTournaments": 2,
+    "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 0,
-    "gamesLost": 1,
+    "gamesLost": 4,
     "winRatio": 0
   },
   {
@@ -10029,13 +10057,13 @@ const statsRaceSlann = [
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "race": "Slann",
-    "rating": "216.38",
-    "totalTournaments": 7,
-    "gamesTotal": 35,
-    "gamesWon": 25,
-    "gamesDraw": 4,
-    "gamesLost": 6,
-    "winRatio": 77.14
+    "rating": "232.15",
+    "totalTournaments": 8,
+    "gamesTotal": 43,
+    "gamesWon": 30,
+    "gamesDraw": 6,
+    "gamesLost": 7,
+    "winRatio": 76.74
   },
   {
     "NAF Nr": "20881",
@@ -10281,13 +10309,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Slann",
-    "rating": "153.5",
-    "totalTournaments": 1,
-    "gamesTotal": 1,
-    "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 0,
-    "winRatio": 100
+    "rating": "160.18",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 64.29
   },
   {
     "NAF Nr": "21079",
@@ -10834,6 +10862,20 @@ const statsRaceSlann = [
     "gamesDraw": 1,
     "gamesLost": 0,
     "winRatio": 83.33
+  },
+  {
+    "NAF Nr": "21596",
+    "NAF Name": "APOSTOL_DEL_GAS",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Slann",
+    "rating": "162.45",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 75
   },
   {
     "NAF Nr": "21598",
@@ -11597,13 +11639,13 @@ const statsRaceSlann = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Slann",
-    "rating": "134.39",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 2,
+    "rating": "148.83",
+    "totalTournaments": 3,
+    "gamesTotal": 11,
+    "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 31.25
+    "winRatio": 50
   },
   {
     "NAF Nr": "22366",
@@ -11611,13 +11653,13 @@ const statsRaceSlann = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Slann",
-    "rating": "126.38",
-    "totalTournaments": 4,
-    "gamesTotal": 21,
-    "gamesWon": 5,
+    "rating": "141.65",
+    "totalTournaments": 5,
+    "gamesTotal": 24,
+    "gamesWon": 8,
     "gamesDraw": 5,
     "gamesLost": 11,
-    "winRatio": 35.71
+    "winRatio": 43.75
   },
   {
     "NAF Nr": "22380",
@@ -14560,6 +14602,20 @@ const statsRaceSlann = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "25947",
+    "NAF Name": "eboncrow",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Slann",
+    "rating": "157.97",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 83.33
+  },
+  {
     "NAF Nr": "25969",
     "NAF Name": "Savarr",
     "CCAA": "Apatrida",
@@ -15349,13 +15405,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Slann",
-    "rating": "145.03",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
+    "rating": "127.49",
+    "totalTournaments": 2,
+    "gamesTotal": 10,
     "gamesWon": 1,
-    "gamesDraw": 2,
-    "gamesLost": 2,
-    "winRatio": 40
+    "gamesDraw": 4,
+    "gamesLost": 5,
+    "winRatio": 30
   },
   {
     "NAF Nr": "27111",
@@ -15895,13 +15951,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Slann",
-    "rating": "186.76",
-    "totalTournaments": 4,
-    "gamesTotal": 20,
-    "gamesWon": 10,
-    "gamesDraw": 6,
+    "rating": "192.25",
+    "totalTournaments": 5,
+    "gamesTotal": 24,
+    "gamesWon": 12,
+    "gamesDraw": 8,
     "gamesLost": 4,
-    "winRatio": 65
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "27971",
@@ -17309,13 +17365,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Slann",
-    "rating": "151.06",
-    "totalTournaments": 3,
-    "gamesTotal": 9,
+    "rating": "146.28",
+    "totalTournaments": 4,
+    "gamesTotal": 12,
     "gamesWon": 4,
-    "gamesDraw": 1,
-    "gamesLost": 4,
-    "winRatio": 50
+    "gamesDraw": 3,
+    "gamesLost": 5,
+    "winRatio": 45.83
   },
   {
     "NAF Nr": "30835",
@@ -17631,13 +17687,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Slann",
-    "rating": "145.5",
-    "totalTournaments": 1,
-    "gamesTotal": 1,
-    "gamesWon": 0,
-    "gamesDraw": 0,
+    "rating": "155.46",
+    "totalTournaments": 2,
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "31438",
@@ -17645,13 +17701,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Slann",
-    "rating": "155.07",
-    "totalTournaments": 2,
-    "gamesTotal": 10,
-    "gamesWon": 5,
+    "rating": "151.24",
+    "totalTournaments": 3,
+    "gamesTotal": 13,
+    "gamesWon": 6,
     "gamesDraw": 1,
-    "gamesLost": 4,
-    "winRatio": 55
+    "gamesLost": 6,
+    "winRatio": 50
   },
   {
     "NAF Nr": "31497",
@@ -17701,7 +17757,7 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Slann",
-    "rating": "152.74",
+    "rating": "155.55",
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 2,
@@ -17785,13 +17841,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Slann",
-    "rating": "150.69",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
+    "rating": "127.73",
+    "totalTournaments": 3,
+    "gamesTotal": 14,
     "gamesWon": 4,
-    "gamesDraw": 1,
-    "gamesLost": 3,
-    "winRatio": 56.25
+    "gamesDraw": 2,
+    "gamesLost": 8,
+    "winRatio": 35.71
   },
   {
     "NAF Nr": "31674",
@@ -17883,13 +17939,13 @@ const statsRaceSlann = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
-    "rating": "137.26",
-    "totalTournaments": 5,
-    "gamesTotal": 22,
+    "rating": "109.93",
+    "totalTournaments": 6,
+    "gamesTotal": 30,
     "gamesWon": 6,
-    "gamesDraw": 6,
-    "gamesLost": 10,
-    "winRatio": 40.91
+    "gamesDraw": 9,
+    "gamesLost": 15,
+    "winRatio": 35
   },
   {
     "NAF Nr": "31794",
@@ -18065,13 +18121,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Slann",
-    "rating": "157.28",
-    "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 5,
-    "gamesDraw": 1,
-    "gamesLost": 3,
-    "winRatio": 61.11
+    "rating": "155.14",
+    "totalTournaments": 3,
+    "gamesTotal": 12,
+    "gamesWon": 6,
+    "gamesDraw": 2,
+    "gamesLost": 4,
+    "winRatio": 58.33
   },
   {
     "NAF Nr": "32222",
@@ -18142,6 +18198,20 @@ const statsRaceSlann = [
     "gamesDraw": 3,
     "gamesLost": 2,
     "winRatio": 41.67
+  },
+  {
+    "NAF Nr": "32406",
+    "NAF Name": "Adriman",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Slann",
+    "rating": "112.49",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 6,
+    "winRatio": 18.75
   },
   {
     "NAF Nr": "32430",
@@ -18625,7 +18695,7 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Slann",
-    "rating": "153.17",
+    "rating": "153.42",
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 3,
@@ -18774,6 +18844,20 @@ const statsRaceSlann = [
     "winRatio": 40
   },
   {
+    "NAF Nr": "33558",
+    "NAF Name": "Wookius",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Slann",
+    "rating": "137.84",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "33564",
     "NAF Name": "Guichou",
     "CCAA": "Apatrida",
@@ -18807,13 +18891,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "Ukraine",
     "race": "Slann",
-    "rating": "170.5",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
-    "gamesWon": 7,
-    "gamesDraw": 2,
-    "gamesLost": 3,
-    "winRatio": 66.67
+    "rating": "167.63",
+    "totalTournaments": 4,
+    "gamesTotal": 18,
+    "gamesWon": 9,
+    "gamesDraw": 4,
+    "gamesLost": 5,
+    "winRatio": 61.11
   },
   {
     "NAF Nr": "33610",
@@ -18912,6 +18996,20 @@ const statsRaceSlann = [
     "gamesDraw": 5,
     "gamesLost": 8,
     "winRatio": 34.38
+  },
+  {
+    "NAF Nr": "33710",
+    "NAF Name": "guitamasta",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "race": "Slann",
+    "rating": "155.29",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "33711",
@@ -19278,6 +19376,20 @@ const statsRaceSlann = [
     "winRatio": 35
   },
   {
+    "NAF Nr": "34292",
+    "NAF Name": "Sinkim",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Slann",
+    "rating": "144.09",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 37.5
+  },
+  {
     "NAF Nr": "34361",
     "NAF Name": "Dingi_poor_Dice",
     "CCAA": "Apatrida",
@@ -19619,13 +19731,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Slann",
-    "rating": "153.13",
-    "totalTournaments": 3,
-    "gamesTotal": 15,
-    "gamesWon": 6,
-    "gamesDraw": 4,
-    "gamesLost": 5,
-    "winRatio": 53.33
+    "rating": "137.2",
+    "totalTournaments": 4,
+    "gamesTotal": 20,
+    "gamesWon": 7,
+    "gamesDraw": 5,
+    "gamesLost": 8,
+    "winRatio": 47.5
   },
   {
     "NAF Nr": "35281",
@@ -19843,7 +19955,7 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Slann",
-    "rating": "145.74",
+    "rating": "145.73",
     "totalTournaments": 4,
     "gamesTotal": 16,
     "gamesWon": 6,
@@ -19941,13 +20053,13 @@ const statsRaceSlann = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Slann",
-    "rating": "134.3",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
+    "rating": "128.13",
+    "totalTournaments": 4,
+    "gamesTotal": 16,
     "gamesWon": 4,
-    "gamesDraw": 1,
-    "gamesLost": 7,
-    "winRatio": 37.5
+    "gamesDraw": 3,
+    "gamesLost": 9,
+    "winRatio": 34.38
   },
   {
     "NAF Nr": "36362",
@@ -20104,6 +20216,20 @@ const statsRaceSlann = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "36970",
+    "NAF Name": "lexironside",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "race": "Slann",
+    "rating": "146.52",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "37007",
     "NAF Name": "jaiseri",
     "CCAA": "Apatrida",
@@ -20132,6 +20258,20 @@ const statsRaceSlann = [
     "winRatio": 41.67
   },
   {
+    "NAF Nr": "37130",
+    "NAF Name": "punchingKirby",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Slann",
+    "rating": "128.56",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 8.33
+  },
+  {
     "NAF Nr": "37165",
     "NAF Name": "sewagefarmer",
     "CCAA": "Apatrida",
@@ -20151,13 +20291,13 @@ const statsRaceSlann = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Slann",
-    "rating": "119.78",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
-    "gamesWon": 1,
-    "gamesDraw": 3,
-    "gamesLost": 8,
-    "winRatio": 20.83
+    "rating": "128.73",
+    "totalTournaments": 4,
+    "gamesTotal": 16,
+    "gamesWon": 3,
+    "gamesDraw": 4,
+    "gamesLost": 9,
+    "winRatio": 31.25
   },
   {
     "NAF Nr": "37240",
@@ -20227,6 +20367,20 @@ const statsRaceSlann = [
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 1,
+    "winRatio": 37.5
+  },
+  {
+    "NAF Nr": "37464",
+    "NAF Name": "gabox667",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Slann",
+    "rating": "140.8",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 4,
     "winRatio": 37.5
   },
   {
@@ -20466,6 +20620,20 @@ const statsRaceSlann = [
     "gamesDraw": 1,
     "gamesLost": 0,
     "winRatio": 83.33
+  },
+  {
+    "NAF Nr": "38491",
+    "NAF Name": "chimera",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Slann",
+    "rating": "152.45",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "38493",
@@ -20732,5 +20900,33 @@ const statsRaceSlann = [
     "gamesDraw": 0,
     "gamesLost": 3,
     "winRatio": 40
+  },
+  {
+    "NAF Nr": "41863",
+    "NAF Name": "Alcibiade",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Slann",
+    "rating": "147.8",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 50
+  },
+  {
+    "NAF Nr": "41973",
+    "NAF Name": "Crusher",
+    "CCAA": "Apatrida",
+    "Country": "Russia",
+    "race": "Slann",
+    "rating": "149.91",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
   }
 ];

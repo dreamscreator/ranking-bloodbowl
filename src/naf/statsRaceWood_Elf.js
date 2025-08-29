@@ -6,12 +6,12 @@ const statsRaceWood_Elf = [
     "Country": "Cayman Islands",
     "race": "Wood Elf",
     "rating": "150.0",
-    "totalTournaments": 19,
-    "gamesTotal": 73,
-    "gamesWon": 22,
-    "gamesDraw": 14,
-    "gamesLost": 37,
-    "winRatio": 39.73
+    "totalTournaments": 21,
+    "gamesTotal": 78,
+    "gamesWon": 23,
+    "gamesDraw": 15,
+    "gamesLost": 40,
+    "winRatio": 39.1
   },
   {
     "NAF Nr": "29",
@@ -537,13 +537,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Euskadi",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "144.47",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
-    "gamesWon": 1,
-    "gamesDraw": 2,
-    "gamesLost": 3,
-    "winRatio": 33.33
+    "rating": "149.31",
+    "totalTournaments": 3,
+    "gamesTotal": 14,
+    "gamesWon": 3,
+    "gamesDraw": 6,
+    "gamesLost": 5,
+    "winRatio": 42.86
   },
   {
     "NAF Nr": "185",
@@ -6053,7 +6053,7 @@ const statsRaceWood_Elf = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "196.57",
+    "rating": "196.14",
     "totalTournaments": 15,
     "gamesTotal": 77,
     "gamesWon": 40,
@@ -6277,13 +6277,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Wood Elf",
-    "rating": "216.53",
-    "totalTournaments": 9,
-    "gamesTotal": 40,
-    "gamesWon": 28,
-    "gamesDraw": 6,
+    "rating": "219.39",
+    "totalTournaments": 10,
+    "gamesTotal": 43,
+    "gamesWon": 30,
+    "gamesDraw": 7,
     "gamesLost": 6,
-    "winRatio": 77.5
+    "winRatio": 77.91
   },
   {
     "NAF Nr": "8169",
@@ -7733,13 +7733,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Wood Elf",
-    "rating": "165.37",
-    "totalTournaments": 3,
-    "gamesTotal": 13,
-    "gamesWon": 7,
-    "gamesDraw": 3,
+    "rating": "168.93",
+    "totalTournaments": 4,
+    "gamesTotal": 16,
+    "gamesWon": 8,
+    "gamesDraw": 5,
     "gamesLost": 3,
-    "winRatio": 65.38
+    "winRatio": 65.63
   },
   {
     "NAF Nr": "9830",
@@ -7831,13 +7831,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Wood Elf",
-    "rating": "210.68",
-    "totalTournaments": 16,
-    "gamesTotal": 80,
-    "gamesWon": 41,
+    "rating": "223.57",
+    "totalTournaments": 17,
+    "gamesTotal": 84,
+    "gamesWon": 45,
     "gamesDraw": 22,
     "gamesLost": 17,
-    "winRatio": 65
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "9902",
@@ -10066,6 +10066,20 @@ const statsRaceWood_Elf = [
     "winRatio": 56.25
   },
   {
+    "NAF Nr": "12130",
+    "NAF Name": "Cosius",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Wood Elf",
+    "rating": "150.13",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 40
+  },
+  {
     "NAF Nr": "12131",
     "NAF Name": "Mikko",
     "CCAA": "Apatrida",
@@ -10575,7 +10589,7 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Wood Elf",
-    "rating": "153.83",
+    "rating": "153.52",
     "totalTournaments": 3,
     "gamesTotal": 19,
     "gamesWon": 8,
@@ -13375,13 +13389,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Wood Elf",
-    "rating": "151.5",
-    "totalTournaments": 11,
-    "gamesTotal": 46,
-    "gamesWon": 16,
-    "gamesDraw": 12,
-    "gamesLost": 18,
-    "winRatio": 47.83
+    "rating": "176.11",
+    "totalTournaments": 13,
+    "gamesTotal": 56,
+    "gamesWon": 22,
+    "gamesDraw": 14,
+    "gamesLost": 20,
+    "winRatio": 51.79
   },
   {
     "NAF Nr": "14683",
@@ -15454,6 +15468,20 @@ const statsRaceWood_Elf = [
     "gamesDraw": 0,
     "gamesLost": 6,
     "winRatio": 40
+  },
+  {
+    "NAF Nr": "16590",
+    "NAF Name": "tinuks",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Wood Elf",
+    "rating": "141.56",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 30
   },
   {
     "NAF Nr": "16591",
@@ -18149,13 +18177,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Wood Elf",
-    "rating": "152.02",
-    "totalTournaments": 1,
-    "gamesTotal": 5,
-    "gamesWon": 2,
+    "rating": "168.35",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 68.75
   },
   {
     "NAF Nr": "18186",
@@ -19591,13 +19619,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Wood Elf",
-    "rating": "231.91",
-    "totalTournaments": 14,
-    "gamesTotal": 73,
-    "gamesWon": 40,
-    "gamesDraw": 18,
-    "gamesLost": 15,
-    "winRatio": 67.12
+    "rating": "222.74",
+    "totalTournaments": 15,
+    "gamesTotal": 79,
+    "gamesWon": 43,
+    "gamesDraw": 19,
+    "gamesLost": 17,
+    "winRatio": 66.46
   },
   {
     "NAF Nr": "19107",
@@ -21411,13 +21439,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Wood Elf",
-    "rating": "193.93",
-    "totalTournaments": 5,
-    "gamesTotal": 30,
-    "gamesWon": 15,
-    "gamesDraw": 10,
-    "gamesLost": 5,
-    "winRatio": 66.67
+    "rating": "190.72",
+    "totalTournaments": 6,
+    "gamesTotal": 33,
+    "gamesWon": 16,
+    "gamesDraw": 11,
+    "gamesLost": 6,
+    "winRatio": 65.15
   },
   {
     "NAF Nr": "19850",
@@ -22195,13 +22223,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Wood Elf",
-    "rating": "141.51",
-    "totalTournaments": 7,
-    "gamesTotal": 29,
-    "gamesWon": 7,
-    "gamesDraw": 10,
-    "gamesLost": 12,
-    "winRatio": 41.38
+    "rating": "146.29",
+    "totalTournaments": 8,
+    "gamesTotal": 34,
+    "gamesWon": 9,
+    "gamesDraw": 11,
+    "gamesLost": 14,
+    "winRatio": 42.65
   },
   {
     "NAF Nr": "20257",
@@ -23063,13 +23091,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "155.37",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 62.5
+    "rating": "161.62",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 5,
+    "gamesDraw": 3,
+    "gamesLost": 4,
+    "winRatio": 54.17
   },
   {
     "NAF Nr": "20672",
@@ -24365,13 +24393,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Faroe Islands",
     "race": "Wood Elf",
-    "rating": "166.19",
-    "totalTournaments": 18,
-    "gamesTotal": 94,
-    "gamesWon": 37,
-    "gamesDraw": 24,
-    "gamesLost": 33,
-    "winRatio": 52.13
+    "rating": "162.65",
+    "totalTournaments": 19,
+    "gamesTotal": 102,
+    "gamesWon": 39,
+    "gamesDraw": 26,
+    "gamesLost": 37,
+    "winRatio": 50.98
   },
   {
     "NAF Nr": "21215",
@@ -25331,13 +25359,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "167.74",
-    "totalTournaments": 3,
-    "gamesTotal": 11,
-    "gamesWon": 5,
-    "gamesDraw": 5,
-    "gamesLost": 1,
-    "winRatio": 68.18
+    "rating": "171.13",
+    "totalTournaments": 4,
+    "gamesTotal": 19,
+    "gamesWon": 7,
+    "gamesDraw": 10,
+    "gamesLost": 2,
+    "winRatio": 63.16
   },
   {
     "NAF Nr": "21695",
@@ -25485,13 +25513,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "141.42",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 3,
-    "winRatio": 25
+    "rating": "136.87",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 6,
+    "winRatio": 27.78
   },
   {
     "NAF Nr": "21767",
@@ -25807,13 +25835,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "108.72",
-    "totalTournaments": 12,
-    "gamesTotal": 55,
-    "gamesWon": 13,
-    "gamesDraw": 10,
-    "gamesLost": 32,
-    "winRatio": 32.73
+    "rating": "102.97",
+    "totalTournaments": 13,
+    "gamesTotal": 63,
+    "gamesWon": 15,
+    "gamesDraw": 12,
+    "gamesLost": 36,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "21980",
@@ -26031,13 +26059,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Wood Elf",
-    "rating": "195.65",
-    "totalTournaments": 29,
-    "gamesTotal": 136,
-    "gamesWon": 63,
+    "rating": "205.71",
+    "totalTournaments": 30,
+    "gamesTotal": 139,
+    "gamesWon": 66,
     "gamesDraw": 36,
     "gamesLost": 37,
-    "winRatio": 59.56
+    "winRatio": 60.43
   },
   {
     "NAF Nr": "22115",
@@ -27305,13 +27333,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Wood Elf",
-    "rating": "224.72",
-    "totalTournaments": 37,
-    "gamesTotal": 216,
-    "gamesWon": 129,
-    "gamesDraw": 50,
-    "gamesLost": 37,
-    "winRatio": 71.3
+    "rating": "211.94",
+    "totalTournaments": 38,
+    "gamesTotal": 222,
+    "gamesWon": 131,
+    "gamesDraw": 51,
+    "gamesLost": 40,
+    "winRatio": 70.5
   },
   {
     "NAF Nr": "23053",
@@ -27851,13 +27879,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Wood Elf",
-    "rating": "163.66",
-    "totalTournaments": 4,
-    "gamesTotal": 17,
-    "gamesWon": 8,
-    "gamesDraw": 4,
-    "gamesLost": 5,
-    "winRatio": 58.82
+    "rating": "185.07",
+    "totalTournaments": 6,
+    "gamesTotal": 25,
+    "gamesWon": 14,
+    "gamesDraw": 5,
+    "gamesLost": 6,
+    "winRatio": 66
   },
   {
     "NAF Nr": "23497",
@@ -28579,13 +28607,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Wood Elf",
-    "rating": "185.16",
-    "totalTournaments": 2,
-    "gamesTotal": 14,
-    "gamesWon": 8,
-    "gamesDraw": 3,
+    "rating": "202.83",
+    "totalTournaments": 3,
+    "gamesTotal": 19,
+    "gamesWon": 12,
+    "gamesDraw": 4,
     "gamesLost": 3,
-    "winRatio": 67.86
+    "winRatio": 73.68
   },
   {
     "NAF Nr": "23955",
@@ -28705,13 +28733,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Wood Elf",
-    "rating": "209.02",
-    "totalTournaments": 18,
-    "gamesTotal": 74,
-    "gamesWon": 42,
-    "gamesDraw": 17,
-    "gamesLost": 15,
-    "winRatio": 68.24
+    "rating": "197.59",
+    "totalTournaments": 19,
+    "gamesTotal": 82,
+    "gamesWon": 44,
+    "gamesDraw": 21,
+    "gamesLost": 17,
+    "winRatio": 66.46
   },
   {
     "NAF Nr": "24042",
@@ -28971,13 +28999,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Wood Elf",
-    "rating": "232.71",
-    "totalTournaments": 42,
-    "gamesTotal": 231,
-    "gamesWon": 110,
-    "gamesDraw": 71,
-    "gamesLost": 50,
-    "winRatio": 62.99
+    "rating": "222.54",
+    "totalTournaments": 43,
+    "gamesTotal": 239,
+    "gamesWon": 113,
+    "gamesDraw": 74,
+    "gamesLost": 52,
+    "winRatio": 62.76
   },
   {
     "NAF Nr": "24204",
@@ -29918,6 +29946,20 @@ const statsRaceWood_Elf = [
     "winRatio": 25
   },
   {
+    "NAF Nr": "24759",
+    "NAF Name": "lord_relictor",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Wood Elf",
+    "rating": "173.1",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 5,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 75
+  },
+  {
     "NAF Nr": "24766",
     "NAF Name": "sceolan21",
     "CCAA": "Andalucía",
@@ -30464,18 +30506,32 @@ const statsRaceWood_Elf = [
     "winRatio": 12.5
   },
   {
+    "NAF Nr": "25129",
+    "NAF Name": "arki",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Wood Elf",
+    "rating": "145.66",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "25130",
     "NAF Name": "Saruman",
     "CCAA": "Aragón",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "188.02",
-    "totalTournaments": 3,
-    "gamesTotal": 18,
-    "gamesWon": 11,
-    "gamesDraw": 5,
-    "gamesLost": 2,
-    "winRatio": 75
+    "rating": "198.59",
+    "totalTournaments": 4,
+    "gamesTotal": 26,
+    "gamesWon": 15,
+    "gamesDraw": 8,
+    "gamesLost": 3,
+    "winRatio": 73.08
   },
   {
     "NAF Nr": "25153",
@@ -30637,7 +30693,7 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Wood Elf",
-    "rating": "182.39",
+    "rating": "182.4",
     "totalTournaments": 5,
     "gamesTotal": 17,
     "gamesWon": 11,
@@ -31360,6 +31416,20 @@ const statsRaceWood_Elf = [
     "winRatio": 37.5
   },
   {
+    "NAF Nr": "25642",
+    "NAF Name": "KingofDasea",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Wood Elf",
+    "rating": "155.2",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 83.33
+  },
+  {
     "NAF Nr": "25645",
     "NAF Name": "Trefenwyd",
     "CCAA": "Apatrida",
@@ -31584,6 +31654,20 @@ const statsRaceWood_Elf = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "25788",
+    "NAF Name": "Bogu",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "race": "Wood Elf",
+    "rating": "144.16",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "25790",
     "NAF Name": "aven",
     "CCAA": "Apatrida",
@@ -31722,6 +31806,20 @@ const statsRaceWood_Elf = [
     "gamesDraw": 1,
     "gamesLost": 2,
     "winRatio": 16.67
+  },
+  {
+    "NAF Nr": "25874",
+    "NAF Name": "TankUK",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Wood Elf",
+    "rating": "142.05",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "25880",
@@ -31883,13 +31981,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Wood Elf",
-    "rating": "229.28",
-    "totalTournaments": 11,
-    "gamesTotal": 53,
-    "gamesWon": 28,
-    "gamesDraw": 15,
+    "rating": "236.11",
+    "totalTournaments": 12,
+    "gamesTotal": 59,
+    "gamesWon": 32,
+    "gamesDraw": 17,
     "gamesLost": 10,
-    "winRatio": 66.98
+    "winRatio": 68.64
   },
   {
     "NAF Nr": "26021",
@@ -33376,6 +33474,20 @@ const statsRaceWood_Elf = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "26989",
+    "NAF Name": "MiniMorg",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Wood Elf",
+    "rating": "144.42",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "26990",
     "NAF Name": "Nirosilativ",
     "CCAA": "Apatrida",
@@ -34431,13 +34543,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Mordheim",
     "race": "Wood Elf",
-    "rating": "196.15",
-    "totalTournaments": 4,
-    "gamesTotal": 20,
-    "gamesWon": 12,
-    "gamesDraw": 2,
-    "gamesLost": 6,
-    "winRatio": 65
+    "rating": "186.98",
+    "totalTournaments": 5,
+    "gamesTotal": 26,
+    "gamesWon": 14,
+    "gamesDraw": 4,
+    "gamesLost": 8,
+    "winRatio": 61.54
   },
   {
     "NAF Nr": "27852",
@@ -34921,13 +35033,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Wood Elf",
-    "rating": "172.7",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
-    "gamesWon": 8,
+    "rating": "174.82",
+    "totalTournaments": 4,
+    "gamesTotal": 15,
+    "gamesWon": 10,
     "gamesDraw": 1,
-    "gamesLost": 3,
-    "winRatio": 70.83
+    "gamesLost": 4,
+    "winRatio": 70
   },
   {
     "NAF Nr": "28239",
@@ -34935,7 +35047,7 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Wood Elf",
-    "rating": "215.81",
+    "rating": "215.66",
     "totalTournaments": 5,
     "gamesTotal": 24,
     "gamesWon": 17,
@@ -35425,13 +35537,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Wood Elf",
-    "rating": "159.36",
-    "totalTournaments": 4,
-    "gamesTotal": 21,
-    "gamesWon": 10,
-    "gamesDraw": 1,
-    "gamesLost": 10,
-    "winRatio": 50
+    "rating": "152.7",
+    "totalTournaments": 5,
+    "gamesTotal": 27,
+    "gamesWon": 12,
+    "gamesDraw": 2,
+    "gamesLost": 13,
+    "winRatio": 48.15
   },
   {
     "NAF Nr": "28767",
@@ -35453,13 +35565,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Wood Elf",
-    "rating": "153.92",
-    "totalTournaments": 7,
-    "gamesTotal": 27,
-    "gamesWon": 12,
-    "gamesDraw": 4,
-    "gamesLost": 11,
-    "winRatio": 51.85
+    "rating": "165.81",
+    "totalTournaments": 8,
+    "gamesTotal": 35,
+    "gamesWon": 15,
+    "gamesDraw": 7,
+    "gamesLost": 13,
+    "winRatio": 52.86
   },
   {
     "NAF Nr": "28783",
@@ -35687,7 +35799,7 @@ const statsRaceWood_Elf = [
   },
   {
     "NAF Nr": "28989",
-    "NAF Name": "James_",
+    "NAF Name": "Hamez",
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Wood Elf",
@@ -35922,6 +36034,20 @@ const statsRaceWood_Elf = [
     "gamesDraw": 5,
     "gamesLost": 9,
     "winRatio": 45.24
+  },
+  {
+    "NAF Nr": "29189",
+    "NAF Name": "gatogordo",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "race": "Wood Elf",
+    "rating": "143.06",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 3,
+    "winRatio": 43.75
   },
   {
     "NAF Nr": "29193",
@@ -36344,6 +36470,20 @@ const statsRaceWood_Elf = [
     "winRatio": 75
   },
   {
+    "NAF Nr": "29656",
+    "NAF Name": "caolang",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
+    "race": "Wood Elf",
+    "rating": "154.05",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
+  },
+  {
     "NAF Nr": "29658",
     "NAF Name": "lechatventru",
     "CCAA": "Apatrida",
@@ -36573,13 +36713,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "158.96",
-    "totalTournaments": 1,
-    "gamesTotal": 9,
-    "gamesWon": 3,
+    "rating": "158.23",
+    "totalTournaments": 2,
+    "gamesTotal": 11,
+    "gamesWon": 4,
     "gamesDraw": 4,
-    "gamesLost": 2,
-    "winRatio": 55.56
+    "gamesLost": 3,
+    "winRatio": 54.55
   },
   {
     "NAF Nr": "30007",
@@ -37511,13 +37651,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "151.25",
-    "totalTournaments": 3,
-    "gamesTotal": 14,
-    "gamesWon": 5,
-    "gamesDraw": 4,
-    "gamesLost": 5,
-    "winRatio": 50
+    "rating": "156.49",
+    "totalTournaments": 4,
+    "gamesTotal": 20,
+    "gamesWon": 8,
+    "gamesDraw": 5,
+    "gamesLost": 7,
+    "winRatio": 52.5
   },
   {
     "NAF Nr": "30916",
@@ -37903,13 +38043,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Wood Elf",
-    "rating": "140.51",
-    "totalTournaments": 6,
-    "gamesTotal": 35,
-    "gamesWon": 11,
-    "gamesDraw": 12,
-    "gamesLost": 12,
-    "winRatio": 48.57
+    "rating": "145.28",
+    "totalTournaments": 7,
+    "gamesTotal": 41,
+    "gamesWon": 13,
+    "gamesDraw": 14,
+    "gamesLost": 14,
+    "winRatio": 48.78
   },
   {
     "NAF Nr": "31309",
@@ -38164,6 +38304,20 @@ const statsRaceWood_Elf = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "31511",
+    "NAF Name": "lpoolcookie",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Wood Elf",
+    "rating": "155.21",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
+  },
+  {
     "NAF Nr": "31518",
     "NAF Name": "BurningIce",
     "CCAA": "Apatrida",
@@ -38323,13 +38477,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Wood Elf",
-    "rating": "156.01",
-    "totalTournaments": 3,
-    "gamesTotal": 10,
-    "gamesWon": 3,
-    "gamesDraw": 4,
+    "rating": "185.99",
+    "totalTournaments": 4,
+    "gamesTotal": 18,
+    "gamesWon": 7,
+    "gamesDraw": 8,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 61.11
   },
   {
     "NAF Nr": "31686",
@@ -38701,13 +38855,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Wood Elf",
-    "rating": "194.01",
-    "totalTournaments": 6,
-    "gamesTotal": 32,
-    "gamesWon": 16,
-    "gamesDraw": 8,
-    "gamesLost": 8,
-    "winRatio": 62.5
+    "rating": "197.05",
+    "totalTournaments": 7,
+    "gamesTotal": 40,
+    "gamesWon": 18,
+    "gamesDraw": 13,
+    "gamesLost": 9,
+    "winRatio": 61.25
   },
   {
     "NAF Nr": "32033",
@@ -38799,13 +38953,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Wood Elf",
-    "rating": "153.28",
-    "totalTournaments": 3,
-    "gamesTotal": 11,
-    "gamesWon": 4,
+    "rating": "157.61",
+    "totalTournaments": 4,
+    "gamesTotal": 14,
+    "gamesWon": 6,
     "gamesDraw": 3,
-    "gamesLost": 4,
-    "winRatio": 50
+    "gamesLost": 5,
+    "winRatio": 53.57
   },
   {
     "NAF Nr": "32210",
@@ -39205,13 +39359,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Wood Elf",
-    "rating": "176.6",
-    "totalTournaments": 3,
-    "gamesTotal": 15,
-    "gamesWon": 5,
-    "gamesDraw": 9,
-    "gamesLost": 1,
-    "winRatio": 63.33
+    "rating": "176.38",
+    "totalTournaments": 4,
+    "gamesTotal": 18,
+    "gamesWon": 6,
+    "gamesDraw": 10,
+    "gamesLost": 2,
+    "winRatio": 61.11
   },
   {
     "NAF Nr": "32549",
@@ -39345,13 +39499,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Wood Elf",
-    "rating": "224.69",
-    "totalTournaments": 8,
-    "gamesTotal": 40,
-    "gamesWon": 24,
-    "gamesDraw": 10,
+    "rating": "238.75",
+    "totalTournaments": 9,
+    "gamesTotal": 46,
+    "gamesWon": 29,
+    "gamesDraw": 11,
     "gamesLost": 6,
-    "winRatio": 72.5
+    "winRatio": 75
   },
   {
     "NAF Nr": "32642",
@@ -39499,13 +39653,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Wood Elf",
-    "rating": "167.91",
-    "totalTournaments": 10,
-    "gamesTotal": 48,
-    "gamesWon": 18,
-    "gamesDraw": 13,
-    "gamesLost": 17,
-    "winRatio": 51.04
+    "rating": "190.09",
+    "totalTournaments": 11,
+    "gamesTotal": 56,
+    "gamesWon": 23,
+    "gamesDraw": 15,
+    "gamesLost": 18,
+    "winRatio": 54.46
   },
   {
     "NAF Nr": "32798",
@@ -39527,7 +39681,7 @@ const statsRaceWood_Elf = [
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "174.94",
+    "rating": "175.55",
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 6,
@@ -39576,6 +39730,20 @@ const statsRaceWood_Elf = [
     "gamesDraw": 0,
     "gamesLost": 5,
     "winRatio": 16.67
+  },
+  {
+    "NAF Nr": "32877",
+    "NAF Name": "kendrallsharne",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Wood Elf",
+    "rating": "149.93",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
   },
   {
     "NAF Nr": "32888",
@@ -40073,13 +40241,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Wood Elf",
-    "rating": "138.05",
-    "totalTournaments": 2,
-    "gamesTotal": 10,
-    "gamesWon": 2,
-    "gamesDraw": 3,
-    "gamesLost": 5,
-    "winRatio": 35
+    "rating": "141.04",
+    "totalTournaments": 3,
+    "gamesTotal": 15,
+    "gamesWon": 4,
+    "gamesDraw": 4,
+    "gamesLost": 7,
+    "winRatio": 40
   },
   {
     "NAF Nr": "33326",
@@ -40129,13 +40297,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "154.07",
-    "totalTournaments": 9,
-    "gamesTotal": 46,
-    "gamesWon": 17,
-    "gamesDraw": 14,
-    "gamesLost": 15,
-    "winRatio": 52.17
+    "rating": "162.59",
+    "totalTournaments": 10,
+    "gamesTotal": 54,
+    "gamesWon": 21,
+    "gamesDraw": 16,
+    "gamesLost": 17,
+    "winRatio": 53.7
   },
   {
     "NAF Nr": "33363",
@@ -40283,13 +40451,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Wood Elf",
-    "rating": "128.66",
-    "totalTournaments": 12,
-    "gamesTotal": 54,
-    "gamesWon": 15,
-    "gamesDraw": 8,
-    "gamesLost": 31,
-    "winRatio": 35.19
+    "rating": "115.32",
+    "totalTournaments": 16,
+    "gamesTotal": 66,
+    "gamesWon": 18,
+    "gamesDraw": 9,
+    "gamesLost": 39,
+    "winRatio": 34.09
   },
   {
     "NAF Nr": "33547",
@@ -40367,7 +40535,7 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Wood Elf",
-    "rating": "146.8",
+    "rating": "150.3",
     "totalTournaments": 7,
     "gamesTotal": 33,
     "gamesWon": 13,
@@ -40381,13 +40549,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Wood Elf",
-    "rating": "107.71",
-    "totalTournaments": 12,
-    "gamesTotal": 56,
-    "gamesWon": 12,
-    "gamesDraw": 9,
-    "gamesLost": 35,
-    "winRatio": 29.46
+    "rating": "117.77",
+    "totalTournaments": 13,
+    "gamesTotal": 62,
+    "gamesWon": 14,
+    "gamesDraw": 11,
+    "gamesLost": 37,
+    "winRatio": 31.45
   },
   {
     "NAF Nr": "33614",
@@ -40843,13 +41011,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Wood Elf",
-    "rating": "145.35",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 33.33
+    "rating": "150.51",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 50
   },
   {
     "NAF Nr": "33935",
@@ -41034,6 +41202,20 @@ const statsRaceWood_Elf = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "34326",
+    "NAF Name": "docpain",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Wood Elf",
+    "rating": "161.43",
+    "totalTournaments": 2,
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 70
+  },
+  {
     "NAF Nr": "34333",
     "NAF Name": "Bartolo",
     "CCAA": "Apatrida",
@@ -41193,12 +41375,12 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "161.78",
-    "totalTournaments": 9,
-    "gamesTotal": 44,
-    "gamesWon": 18,
-    "gamesDraw": 8,
-    "gamesLost": 18,
+    "rating": "165.45",
+    "totalTournaments": 10,
+    "gamesTotal": 52,
+    "gamesWon": 20,
+    "gamesDraw": 12,
+    "gamesLost": 20,
     "winRatio": 50
   },
   {
@@ -41487,13 +41669,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "146.17",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 37.5
+    "rating": "166.68",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 4,
+    "gamesDraw": 5,
+    "gamesLost": 3,
+    "winRatio": 54.17
   },
   {
     "NAF Nr": "35247",
@@ -41580,12 +41762,26 @@ const statsRaceWood_Elf = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "35402",
+    "NAF Name": "Pablosky87",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Wood Elf",
+    "rating": "116.16",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 7,
+    "winRatio": 12.5
+  },
+  {
     "NAF Nr": "35405",
     "NAF Name": "nicob",
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Wood Elf",
-    "rating": "164.47",
+    "rating": "164.5",
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
@@ -41613,7 +41809,7 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Wood Elf",
-    "rating": "152.75",
+    "rating": "152.8",
     "totalTournaments": 4,
     "gamesTotal": 14,
     "gamesWon": 7,
@@ -41781,13 +41977,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Czech Republic",
     "race": "Wood Elf",
-    "rating": "158.01",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 0,
-    "winRatio": 83.33
+    "rating": "160.06",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "35692",
@@ -41843,6 +42039,20 @@ const statsRaceWood_Elf = [
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
+    "winRatio": 50
+  },
+  {
+    "NAF Nr": "35772",
+    "NAF Name": "grosjambon",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "race": "Wood Elf",
+    "rating": "149.84",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
     "winRatio": 50
   },
   {
@@ -42173,13 +42383,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "142.23",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 3,
-    "winRatio": 25
+    "rating": "107.47",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 9,
+    "winRatio": 20.83
   },
   {
     "NAF Nr": "36502",
@@ -42187,13 +42397,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "Austria",
     "race": "Wood Elf",
-    "rating": "168.96",
-    "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 6,
+    "rating": "179.08",
+    "totalTournaments": 3,
+    "gamesTotal": 15,
+    "gamesWon": 10,
     "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 72.22
+    "gamesLost": 4,
+    "winRatio": 70
   },
   {
     "NAF Nr": "36563",
@@ -42229,13 +42439,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "133.42",
-    "totalTournaments": 5,
-    "gamesTotal": 20,
+    "rating": "128.31",
+    "totalTournaments": 6,
+    "gamesTotal": 23,
     "gamesWon": 5,
-    "gamesDraw": 4,
-    "gamesLost": 11,
-    "winRatio": 35
+    "gamesDraw": 6,
+    "gamesLost": 12,
+    "winRatio": 34.78
   },
   {
     "NAF Nr": "36640",
@@ -42518,6 +42728,20 @@ const statsRaceWood_Elf = [
     "winRatio": 60.91
   },
   {
+    "NAF Nr": "37171",
+    "NAF Name": "sporkbearer",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
+    "race": "Wood Elf",
+    "rating": "145.95",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "37232",
     "NAF Name": "amijp91",
     "CCAA": "Apatrida",
@@ -42770,6 +42994,20 @@ const statsRaceWood_Elf = [
     "winRatio": 58.33
   },
   {
+    "NAF Nr": "37698",
+    "NAF Name": "danimal",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Wood Elf",
+    "rating": "164.05",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 75
+  },
+  {
     "NAF Nr": "37719",
     "NAF Name": "aoidos",
     "CCAA": "Apatrida",
@@ -42845,13 +43083,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Wood Elf",
-    "rating": "112.9",
-    "totalTournaments": 5,
-    "gamesTotal": 25,
-    "gamesWon": 4,
-    "gamesDraw": 4,
-    "gamesLost": 17,
-    "winRatio": 24
+    "rating": "113.01",
+    "totalTournaments": 6,
+    "gamesTotal": 30,
+    "gamesWon": 5,
+    "gamesDraw": 6,
+    "gamesLost": 19,
+    "winRatio": 26.67
   },
   {
     "NAF Nr": "37858",
@@ -43092,6 +43330,20 @@ const statsRaceWood_Elf = [
     "winRatio": 16.67
   },
   {
+    "NAF Nr": "38515",
+    "NAF Name": "Hancock",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "race": "Wood Elf",
+    "rating": "154.48",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 60
+  },
+  {
     "NAF Nr": "38520",
     "NAF Name": "negatrait",
     "CCAA": "Apatrida",
@@ -43204,18 +43456,32 @@ const statsRaceWood_Elf = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "38788",
+    "NAF Name": "SirGibb",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "race": "Wood Elf",
+    "rating": "154.86",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 60
+  },
+  {
     "NAF Nr": "38827",
     "NAF Name": "Saggital",
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Wood Elf",
-    "rating": "147.0",
-    "totalTournaments": 2,
-    "gamesTotal": 10,
-    "gamesWon": 5,
+    "rating": "132.06",
+    "totalTournaments": 3,
+    "gamesTotal": 15,
+    "gamesWon": 6,
     "gamesDraw": 0,
-    "gamesLost": 5,
-    "winRatio": 50
+    "gamesLost": 9,
+    "winRatio": 40
   },
   {
     "NAF Nr": "38857",
@@ -43344,6 +43610,20 @@ const statsRaceWood_Elf = [
     "winRatio": 0
   },
   {
+    "NAF Nr": "39081",
+    "NAF Name": "alexera",
+    "CCAA": "Apatrida",
+    "Country": "Ukraine",
+    "race": "Wood Elf",
+    "rating": "142.83",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 30
+  },
+  {
     "NAF Nr": "39150",
     "NAF Name": "Luster",
     "CCAA": "Apatrida",
@@ -43391,13 +43671,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "134.74",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 0,
+    "rating": "129.78",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 1,
     "gamesDraw": 1,
-    "gamesLost": 3,
-    "winRatio": 12.5
+    "gamesLost": 5,
+    "winRatio": 21.43
   },
   {
     "NAF Nr": "39204",
@@ -43498,18 +43778,32 @@ const statsRaceWood_Elf = [
     "winRatio": 8.33
   },
   {
+    "NAF Nr": "39444",
+    "NAF Name": "Tempesty",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
+    "race": "Wood Elf",
+    "rating": "167.62",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
+  },
+  {
     "NAF Nr": "39485",
     "NAF Name": "granty3707",
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Wood Elf",
-    "rating": "146.98",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 33.33
+    "rating": "142.47",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 38.89
   },
   {
     "NAF Nr": "39494",
@@ -43517,13 +43811,27 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Wood Elf",
-    "rating": "149.33",
+    "rating": "149.19",
     "totalTournaments": 3,
     "gamesTotal": 12,
     "gamesWon": 3,
     "gamesDraw": 5,
     "gamesLost": 4,
     "winRatio": 45.83
+  },
+  {
+    "NAF Nr": "39499",
+    "NAF Name": "DrAlps",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Wood Elf",
+    "rating": "140.35",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 16.67
   },
   {
     "NAF Nr": "39569",
@@ -43587,13 +43895,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Wood Elf",
-    "rating": "154.04",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
+    "rating": "148.03",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 2,
     "gamesDraw": 2,
-    "gamesLost": 0,
-    "winRatio": 66.67
+    "gamesLost": 2,
+    "winRatio": 50
   },
   {
     "NAF Nr": "39874",
@@ -43657,13 +43965,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Apatrida",
     "Country": "North Ireland",
     "race": "Wood Elf",
-    "rating": "152.17",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
+    "rating": "147.0",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 2,
     "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 50
+    "gamesLost": 3,
+    "winRatio": 41.67
   },
   {
     "NAF Nr": "40102",
@@ -43862,18 +44170,46 @@ const statsRaceWood_Elf = [
     "winRatio": 60
   },
   {
+    "NAF Nr": "40924",
+    "NAF Name": "mr.chojin86",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Wood Elf",
+    "rating": "144.32",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "40946",
+    "NAF Name": "Ruffo",
+    "CCAA": "Apatrida",
+    "Country": "Uruguay",
+    "race": "Wood Elf",
+    "rating": "150.05",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "40984",
     "NAF Name": "zoneman",
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Wood Elf",
-    "rating": "146.48",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "rating": "134.29",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 2,
     "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 37.5
+    "gamesLost": 6,
+    "winRatio": 27.78
   },
   {
     "NAF Nr": "41060",
@@ -43974,6 +44310,20 @@ const statsRaceWood_Elf = [
     "winRatio": 0
   },
   {
+    "NAF Nr": "41260",
+    "NAF Name": "stcarlyon",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Wood Elf",
+    "rating": "139.98",
+    "totalTournaments": 1,
+    "gamesTotal": 2,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "41283",
     "NAF Name": "tallerguy",
     "CCAA": "Apatrida",
@@ -43993,13 +44343,13 @@ const statsRaceWood_Elf = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Wood Elf",
-    "rating": "150.08",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
+    "rating": "153.93",
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 4,
     "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 50
+    "gamesLost": 3,
+    "winRatio": 57.14
   },
   {
     "NAF Nr": "41392",
@@ -44140,5 +44490,33 @@ const statsRaceWood_Elf = [
     "gamesDraw": 0,
     "gamesLost": 3,
     "winRatio": 0
+  },
+  {
+    "NAF Nr": "41878",
+    "NAF Name": "MadSpy",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Wood Elf",
+    "rating": "131.62",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "winRatio": 25
+  },
+  {
+    "NAF Nr": "42022",
+    "NAF Name": "darkspi",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "race": "Wood Elf",
+    "rating": "137.82",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 30
   }
 ];

@@ -20,12 +20,12 @@ const statsRaceTomb_Kings = [
     "Country": "Cayman Islands",
     "race": "Tomb Kings",
     "rating": "150.0",
-    "totalTournaments": 16,
-    "gamesTotal": 63,
-    "gamesWon": 20,
-    "gamesDraw": 17,
-    "gamesLost": 26,
-    "winRatio": 45.24
+    "totalTournaments": 19,
+    "gamesTotal": 78,
+    "gamesWon": 25,
+    "gamesDraw": 22,
+    "gamesLost": 31,
+    "winRatio": 46.15
   },
   {
     "NAF Nr": "29",
@@ -159,13 +159,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Tomb Kings",
-    "rating": "196.8",
-    "totalTournaments": 5,
-    "gamesTotal": 24,
-    "gamesWon": 14,
-    "gamesDraw": 6,
-    "gamesLost": 4,
-    "winRatio": 70.83
+    "rating": "186.17",
+    "totalTournaments": 6,
+    "gamesTotal": 30,
+    "gamesWon": 16,
+    "gamesDraw": 8,
+    "gamesLost": 6,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "113",
@@ -3561,13 +3561,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "148.83",
-    "totalTournaments": 4,
-    "gamesTotal": 13,
-    "gamesWon": 4,
-    "gamesDraw": 4,
-    "gamesLost": 5,
-    "winRatio": 46.15
+    "rating": "138.15",
+    "totalTournaments": 5,
+    "gamesTotal": 20,
+    "gamesWon": 5,
+    "gamesDraw": 6,
+    "gamesLost": 9,
+    "winRatio": 40
   },
   {
     "NAF Nr": "8199",
@@ -4947,13 +4947,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "",
     "race": "Tomb Kings",
-    "rating": "153.05",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 2,
+    "rating": "158.92",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 4,
     "gamesDraw": 2,
-    "gamesLost": 2,
-    "winRatio": 50
+    "gamesLost": 3,
+    "winRatio": 55.56
   },
   {
     "NAF Nr": "10690",
@@ -5381,13 +5381,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "199.31",
-    "totalTournaments": 4,
-    "gamesTotal": 20,
-    "gamesWon": 13,
-    "gamesDraw": 5,
-    "gamesLost": 2,
-    "winRatio": 77.5
+    "rating": "188.95",
+    "totalTournaments": 5,
+    "gamesTotal": 28,
+    "gamesWon": 17,
+    "gamesDraw": 6,
+    "gamesLost": 5,
+    "winRatio": 71.43
   },
   {
     "NAF Nr": "11535",
@@ -5591,13 +5591,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "172.25",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
+    "rating": "163.73",
+    "totalTournaments": 4,
+    "gamesTotal": 13,
     "gamesWon": 6,
     "gamesDraw": 5,
-    "gamesLost": 1,
-    "winRatio": 70.83
+    "gamesLost": 2,
+    "winRatio": 65.38
   },
   {
     "NAF Nr": "11789",
@@ -5619,13 +5619,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "204.04",
-    "totalTournaments": 8,
-    "gamesTotal": 32,
-    "gamesWon": 17,
-    "gamesDraw": 11,
-    "gamesLost": 4,
-    "winRatio": 70.31
+    "rating": "198.29",
+    "totalTournaments": 9,
+    "gamesTotal": 40,
+    "gamesWon": 20,
+    "gamesDraw": 14,
+    "gamesLost": 6,
+    "winRatio": 67.5
   },
   {
     "NAF Nr": "11794",
@@ -5703,7 +5703,7 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Tomb Kings",
-    "rating": "141.37",
+    "rating": "141.48",
     "totalTournaments": 2,
     "gamesTotal": 13,
     "gamesWon": 4,
@@ -5787,13 +5787,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Tomb Kings",
-    "rating": "149.81",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
-    "gamesDraw": 1,
+    "rating": "152.24",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 58.33
   },
   {
     "NAF Nr": "12050",
@@ -8573,13 +8573,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Tomb Kings",
-    "rating": "111.03",
-    "totalTournaments": 5,
-    "gamesTotal": 34,
+    "rating": "116.29",
+    "totalTournaments": 6,
+    "gamesTotal": 37,
     "gamesWon": 10,
-    "gamesDraw": 4,
+    "gamesDraw": 7,
     "gamesLost": 20,
-    "winRatio": 35.29
+    "winRatio": 36.49
   },
   {
     "NAF Nr": "16331",
@@ -9301,13 +9301,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "175.14",
-    "totalTournaments": 8,
-    "gamesTotal": 30,
-    "gamesWon": 17,
-    "gamesDraw": 2,
+    "rating": "210.3",
+    "totalTournaments": 9,
+    "gamesTotal": 38,
+    "gamesWon": 23,
+    "gamesDraw": 4,
     "gamesLost": 11,
-    "winRatio": 60
+    "winRatio": 65.79
   },
   {
     "NAF Nr": "17063",
@@ -9315,7 +9315,7 @@ const statsRaceTomb_Kings = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "217.91",
+    "rating": "217.89",
     "totalTournaments": 6,
     "gamesTotal": 26,
     "gamesWon": 17,
@@ -9721,13 +9721,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Tomb Kings",
-    "rating": "161.41",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 3,
+    "rating": "159.71",
+    "totalTournaments": 2,
+    "gamesTotal": 10,
+    "gamesWon": 6,
     "gamesDraw": 0,
-    "gamesLost": 1,
-    "winRatio": 75
+    "gamesLost": 4,
+    "winRatio": 60
   },
   {
     "NAF Nr": "17382",
@@ -9749,13 +9749,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Tomb Kings",
-    "rating": "201.79",
-    "totalTournaments": 18,
-    "gamesTotal": 84,
-    "gamesWon": 44,
-    "gamesDraw": 17,
-    "gamesLost": 23,
-    "winRatio": 62.5
+    "rating": "196.58",
+    "totalTournaments": 19,
+    "gamesTotal": 87,
+    "gamesWon": 45,
+    "gamesDraw": 18,
+    "gamesLost": 24,
+    "winRatio": 62.07
   },
   {
     "NAF Nr": "17415",
@@ -9945,13 +9945,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Tomb Kings",
-    "rating": "171.68",
-    "totalTournaments": 5,
-    "gamesTotal": 24,
-    "gamesWon": 10,
-    "gamesDraw": 8,
+    "rating": "204.22",
+    "totalTournaments": 6,
+    "gamesTotal": 32,
+    "gamesWon": 14,
+    "gamesDraw": 12,
     "gamesLost": 6,
-    "winRatio": 58.33
+    "winRatio": 62.5
   },
   {
     "NAF Nr": "17633",
@@ -10001,13 +10001,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Tomb Kings",
-    "rating": "150.08",
-    "totalTournaments": 5,
-    "gamesTotal": 19,
-    "gamesWon": 5,
-    "gamesDraw": 8,
-    "gamesLost": 6,
-    "winRatio": 47.37
+    "rating": "150.85",
+    "totalTournaments": 6,
+    "gamesTotal": 24,
+    "gamesWon": 7,
+    "gamesDraw": 9,
+    "gamesLost": 8,
+    "winRatio": 47.92
   },
   {
     "NAF Nr": "17704",
@@ -11359,13 +11359,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Tomb Kings",
-    "rating": "184.28",
-    "totalTournaments": 14,
-    "gamesTotal": 59,
-    "gamesWon": 32,
-    "gamesDraw": 11,
-    "gamesLost": 16,
-    "winRatio": 63.56
+    "rating": "175.71",
+    "totalTournaments": 15,
+    "gamesTotal": 64,
+    "gamesWon": 33,
+    "gamesDraw": 13,
+    "gamesLost": 18,
+    "winRatio": 61.72
   },
   {
     "NAF Nr": "19003",
@@ -12199,13 +12199,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Tomb Kings",
-    "rating": "162.93",
-    "totalTournaments": 7,
-    "gamesTotal": 31,
-    "gamesWon": 11,
-    "gamesDraw": 10,
-    "gamesLost": 10,
-    "winRatio": 51.61
+    "rating": "162.62",
+    "totalTournaments": 9,
+    "gamesTotal": 37,
+    "gamesWon": 13,
+    "gamesDraw": 12,
+    "gamesLost": 12,
+    "winRatio": 51.35
   },
   {
     "NAF Nr": "19627",
@@ -12311,12 +12311,12 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Tomb Kings",
-    "rating": "151.26",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 2,
-    "gamesDraw": 2,
-    "gamesLost": 2,
+    "rating": "147.74",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 4,
+    "gamesDraw": 4,
+    "gamesLost": 4,
     "winRatio": 50
   },
   {
@@ -12857,13 +12857,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Morocco",
     "race": "Tomb Kings",
-    "rating": "157.61",
-    "totalTournaments": 17,
-    "gamesTotal": 78,
-    "gamesWon": 31,
-    "gamesDraw": 21,
-    "gamesLost": 26,
-    "winRatio": 53.21
+    "rating": "152.49",
+    "totalTournaments": 18,
+    "gamesTotal": 82,
+    "gamesWon": 32,
+    "gamesDraw": 22,
+    "gamesLost": 28,
+    "winRatio": 52.44
   },
   {
     "NAF Nr": "20142",
@@ -12941,13 +12941,27 @@ const statsRaceTomb_Kings = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "143.21",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
-    "gamesWon": 4,
-    "gamesDraw": 3,
-    "gamesLost": 5,
-    "winRatio": 45.83
+    "rating": "144.92",
+    "totalTournaments": 4,
+    "gamesTotal": 20,
+    "gamesWon": 5,
+    "gamesDraw": 8,
+    "gamesLost": 7,
+    "winRatio": 45
+  },
+  {
+    "NAF Nr": "20192",
+    "NAF Name": "lapiedra",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Tomb Kings",
+    "rating": "173.37",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 6,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 75
   },
   {
     "NAF Nr": "20218",
@@ -13977,13 +13991,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "153.79",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
+    "rating": "147.69",
+    "totalTournaments": 2,
+    "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 62.5
+    "gamesLost": 2,
+    "winRatio": 50
   },
   {
     "NAF Nr": "20824",
@@ -14803,13 +14817,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Tomb Kings",
-    "rating": "186.23",
-    "totalTournaments": 34,
-    "gamesTotal": 157,
-    "gamesWon": 75,
-    "gamesDraw": 43,
-    "gamesLost": 39,
-    "winRatio": 61.46
+    "rating": "189.62",
+    "totalTournaments": 36,
+    "gamesTotal": 169,
+    "gamesWon": 81,
+    "gamesDraw": 45,
+    "gamesLost": 43,
+    "winRatio": 61.24
   },
   {
     "NAF Nr": "21410",
@@ -15176,18 +15190,32 @@ const statsRaceTomb_Kings = [
     "winRatio": 32.93
   },
   {
+    "NAF Nr": "21636",
+    "NAF Name": "Mr_goblin",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
+    "race": "Tomb Kings",
+    "rating": "155.2",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 1,
+    "gamesDraw": 5,
+    "gamesLost": 2,
+    "winRatio": 43.75
+  },
+  {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "166.83",
-    "totalTournaments": 2,
-    "gamesTotal": 12,
-    "gamesWon": 6,
-    "gamesDraw": 5,
-    "gamesLost": 1,
-    "winRatio": 70.83
+    "rating": "184.56",
+    "totalTournaments": 3,
+    "gamesTotal": 20,
+    "gamesWon": 11,
+    "gamesDraw": 6,
+    "gamesLost": 3,
+    "winRatio": 70
   },
   {
     "NAF Nr": "21667",
@@ -15512,6 +15540,20 @@ const statsRaceTomb_Kings = [
     "winRatio": 100
   },
   {
+    "NAF Nr": "21901",
+    "NAF Name": "mother_chucker",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Tomb Kings",
+    "rating": "149.88",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "21912",
     "NAF Name": "sumo_gambino",
     "CCAA": "Apatrida",
@@ -15650,6 +15692,20 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 2,
     "gamesLost": 2,
     "winRatio": 25
+  },
+  {
+    "NAF Nr": "21996",
+    "NAF Name": "Luisete",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Tomb Kings",
+    "rating": "144.84",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 31.25
   },
   {
     "NAF Nr": "22003",
@@ -15820,6 +15876,20 @@ const statsRaceTomb_Kings = [
     "winRatio": 46
   },
   {
+    "NAF Nr": "22149",
+    "NAF Name": "PinballGeorge",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Tomb Kings",
+    "rating": "142.54",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "winRatio": 25
+  },
+  {
     "NAF Nr": "22157",
     "NAF Name": "mrroberto",
     "CCAA": "Apatrida",
@@ -15979,13 +16049,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "161.11",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 3,
-    "gamesDraw": 0,
-    "gamesLost": 1,
-    "winRatio": 75
+    "rating": "171.68",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 7,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "22234",
@@ -16595,13 +16665,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "132.58",
-    "totalTournaments": 7,
-    "gamesTotal": 32,
-    "gamesWon": 9,
+    "rating": "98.96",
+    "totalTournaments": 8,
+    "gamesTotal": 40,
+    "gamesWon": 10,
     "gamesDraw": 8,
-    "gamesLost": 15,
-    "winRatio": 40.63
+    "gamesLost": 22,
+    "winRatio": 35
   },
   {
     "NAF Nr": "22788",
@@ -16609,13 +16679,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Tomb Kings",
-    "rating": "201.75",
-    "totalTournaments": 14,
-    "gamesTotal": 68,
-    "gamesWon": 32,
-    "gamesDraw": 18,
-    "gamesLost": 18,
-    "winRatio": 60.29
+    "rating": "194.59",
+    "totalTournaments": 15,
+    "gamesTotal": 74,
+    "gamesWon": 34,
+    "gamesDraw": 20,
+    "gamesLost": 20,
+    "winRatio": 59.46
   },
   {
     "NAF Nr": "22793",
@@ -17463,12 +17533,12 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "159.32",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 3,
+    "rating": "185.98",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 9,
     "gamesDraw": 0,
-    "gamesLost": 1,
+    "gamesLost": 3,
     "winRatio": 75
   },
   {
@@ -18443,13 +18513,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "I. Canarias",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "154.59",
-    "totalTournaments": 3,
-    "gamesTotal": 10,
-    "gamesWon": 5,
-    "gamesDraw": 2,
-    "gamesLost": 3,
-    "winRatio": 60
+    "rating": "164.57",
+    "totalTournaments": 4,
+    "gamesTotal": 18,
+    "gamesWon": 7,
+    "gamesDraw": 7,
+    "gamesLost": 4,
+    "winRatio": 58.33
   },
   {
     "NAF Nr": "24463",
@@ -18625,13 +18695,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Tomb Kings",
-    "rating": "168.02",
-    "totalTournaments": 2,
-    "gamesTotal": 5,
-    "gamesWon": 4,
-    "gamesDraw": 1,
-    "gamesLost": 0,
-    "winRatio": 90
+    "rating": "164.72",
+    "totalTournaments": 3,
+    "gamesTotal": 8,
+    "gamesWon": 5,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "winRatio": 75
   },
   {
     "NAF Nr": "24623",
@@ -18704,6 +18774,20 @@ const statsRaceTomb_Kings = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "24671",
+    "NAF Name": "Gronov",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Tomb Kings",
+    "rating": "132.33",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 4,
+    "winRatio": 16.67
+  },
+  {
     "NAF Nr": "24675",
     "NAF Name": "KOLVALLR",
     "CCAA": "Apatrida",
@@ -18723,7 +18807,7 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Tomb Kings",
-    "rating": "167.19",
+    "rating": "167.24",
     "totalTournaments": 3,
     "gamesTotal": 8,
     "gamesWon": 5,
@@ -18933,13 +19017,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Tomb Kings",
-    "rating": "181.43",
-    "totalTournaments": 7,
-    "gamesTotal": 31,
-    "gamesWon": 14,
-    "gamesDraw": 8,
-    "gamesLost": 9,
-    "winRatio": 58.06
+    "rating": "185.3",
+    "totalTournaments": 8,
+    "gamesTotal": 37,
+    "gamesWon": 17,
+    "gamesDraw": 10,
+    "gamesLost": 10,
+    "winRatio": 59.46
   },
   {
     "NAF Nr": "24788",
@@ -19222,6 +19306,20 @@ const statsRaceTomb_Kings = [
     "winRatio": 33.33
   },
   {
+    "NAF Nr": "25102",
+    "NAF Name": "jeanbanana",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Tomb Kings",
+    "rating": "146.01",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 4,
+    "gamesLost": 1,
+    "winRatio": 40
+  },
+  {
     "NAF Nr": "25105",
     "NAF Name": "purpledodo",
     "CCAA": "Apatrida",
@@ -19479,13 +19577,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Tomb Kings",
-    "rating": "165.54",
-    "totalTournaments": 4,
-    "gamesTotal": 16,
-    "gamesWon": 10,
+    "rating": "164.16",
+    "totalTournaments": 5,
+    "gamesTotal": 19,
+    "gamesWon": 12,
     "gamesDraw": 2,
-    "gamesLost": 4,
-    "winRatio": 68.75
+    "gamesLost": 5,
+    "winRatio": 68.42
   },
   {
     "NAF Nr": "25285",
@@ -20081,13 +20179,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "150.33",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
-    "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 50
+    "rating": "165.66",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 5,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 61.11
   },
   {
     "NAF Nr": "25714",
@@ -20242,6 +20340,20 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 3,
     "gamesLost": 1,
     "winRatio": 58.33
+  },
+  {
+    "NAF Nr": "25893",
+    "NAF Name": "Nuwilwarin",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Tomb Kings",
+    "rating": "135.74",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 4,
+    "winRatio": 37.5
   },
   {
     "NAF Nr": "25909",
@@ -20529,13 +20641,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "175.61",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 5,
-    "gamesDraw": 2,
-    "gamesLost": 1,
-    "winRatio": 75
+    "rating": "172.56",
+    "totalTournaments": 3,
+    "gamesTotal": 16,
+    "gamesWon": 9,
+    "gamesDraw": 3,
+    "gamesLost": 4,
+    "winRatio": 65.63
   },
   {
     "NAF Nr": "26206",
@@ -20543,7 +20655,7 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Tomb Kings",
-    "rating": "113.78",
+    "rating": "113.77",
     "totalTournaments": 5,
     "gamesTotal": 27,
     "gamesWon": 5,
@@ -21005,7 +21117,7 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Tomb Kings",
-    "rating": "162.23",
+    "rating": "162.24",
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
@@ -21425,12 +21537,12 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Tomb Kings",
-    "rating": "164.1",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 4,
+    "rating": "173.16",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 8,
     "gamesDraw": 0,
-    "gamesLost": 2,
+    "gamesLost": 4,
     "winRatio": 66.67
   },
   {
@@ -21726,6 +21838,20 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 5,
     "gamesLost": 1,
     "winRatio": 68.18
+  },
+  {
+    "NAF Nr": "27256",
+    "NAF Name": "Fermanowar",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "race": "Tomb Kings",
+    "rating": "166.67",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "winRatio": 56.25
   },
   {
     "NAF Nr": "27257",
@@ -22587,13 +22713,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Tomb Kings",
-    "rating": "156.42",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
-    "gamesWon": 4,
-    "gamesDraw": 5,
+    "rating": "166.5",
+    "totalTournaments": 4,
+    "gamesTotal": 15,
+    "gamesWon": 6,
+    "gamesDraw": 6,
     "gamesLost": 3,
-    "winRatio": 54.17
+    "winRatio": 60
   },
   {
     "NAF Nr": "28259",
@@ -22671,13 +22797,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Tomb Kings",
-    "rating": "153.79",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 2,
+    "rating": "150.7",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 3,
     "gamesDraw": 0,
-    "gamesLost": 1,
-    "winRatio": 66.67
+    "gamesLost": 3,
+    "winRatio": 50
   },
   {
     "NAF Nr": "28351",
@@ -23021,13 +23147,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Tomb Kings",
-    "rating": "179.48",
-    "totalTournaments": 8,
-    "gamesTotal": 34,
+    "rating": "172.35",
+    "totalTournaments": 9,
+    "gamesTotal": 38,
     "gamesWon": 15,
-    "gamesDraw": 10,
-    "gamesLost": 9,
-    "winRatio": 58.82
+    "gamesDraw": 13,
+    "gamesLost": 10,
+    "winRatio": 56.58
   },
   {
     "NAF Nr": "28771",
@@ -23056,6 +23182,20 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 7,
     "gamesLost": 7,
     "winRatio": 52.27
+  },
+  {
+    "NAF Nr": "28785",
+    "NAF Name": "Bufal",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Tomb Kings",
+    "rating": "143.05",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
   },
   {
     "NAF Nr": "28798",
@@ -23119,13 +23259,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "143.28",
-    "totalTournaments": 3,
-    "gamesTotal": 18,
-    "gamesWon": 7,
-    "gamesDraw": 4,
-    "gamesLost": 7,
-    "winRatio": 50
+    "rating": "148.5",
+    "totalTournaments": 4,
+    "gamesTotal": 26,
+    "gamesWon": 9,
+    "gamesDraw": 7,
+    "gamesLost": 10,
+    "winRatio": 48.08
   },
   {
     "NAF Nr": "28891",
@@ -23805,13 +23945,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Tomb Kings",
-    "rating": "109.59",
-    "totalTournaments": 6,
-    "gamesTotal": 21,
-    "gamesWon": 3,
-    "gamesDraw": 3,
-    "gamesLost": 15,
-    "winRatio": 21.43
+    "rating": "130.24",
+    "totalTournaments": 9,
+    "gamesTotal": 30,
+    "gamesWon": 8,
+    "gamesDraw": 4,
+    "gamesLost": 18,
+    "winRatio": 33.33
   },
   {
     "NAF Nr": "29677",
@@ -23889,13 +24029,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Tomb Kings",
-    "rating": "129.74",
-    "totalTournaments": 4,
-    "gamesTotal": 24,
-    "gamesWon": 5,
-    "gamesDraw": 6,
-    "gamesLost": 13,
-    "winRatio": 33.33
+    "rating": "133.02",
+    "totalTournaments": 5,
+    "gamesTotal": 30,
+    "gamesWon": 7,
+    "gamesDraw": 8,
+    "gamesLost": 15,
+    "winRatio": 36.67
   },
   {
     "NAF Nr": "29741",
@@ -24043,13 +24183,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "148.39",
-    "totalTournaments": 2,
-    "gamesTotal": 10,
-    "gamesWon": 2,
-    "gamesDraw": 5,
-    "gamesLost": 3,
-    "winRatio": 45
+    "rating": "155.6",
+    "totalTournaments": 3,
+    "gamesTotal": 18,
+    "gamesWon": 6,
+    "gamesDraw": 6,
+    "gamesLost": 6,
+    "winRatio": 50
   },
   {
     "NAF Nr": "29943",
@@ -24141,7 +24281,7 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Tomb Kings",
-    "rating": "150.06",
+    "rating": "150.12",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
@@ -24162,6 +24302,20 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 4,
     "gamesLost": 0,
     "winRatio": 66.67
+  },
+  {
+    "NAF Nr": "30073",
+    "NAF Name": "Loidl",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Tomb Kings",
+    "rating": "155.14",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 70
   },
   {
     "NAF Nr": "30079",
@@ -24197,13 +24351,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "148.52",
-    "totalTournaments": 2,
-    "gamesTotal": 5,
-    "gamesWon": 1,
+    "rating": "138.06",
+    "totalTournaments": 3,
+    "gamesTotal": 13,
+    "gamesWon": 4,
     "gamesDraw": 2,
-    "gamesLost": 2,
-    "winRatio": 40
+    "gamesLost": 7,
+    "winRatio": 38.46
   },
   {
     "NAF Nr": "30170",
@@ -24344,6 +24498,20 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 4,
     "gamesLost": 4,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "30384",
+    "NAF Name": "kidcable",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Tomb Kings",
+    "rating": "161.95",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "30425",
@@ -24715,13 +24883,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "161.62",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 3,
-    "gamesDraw": 0,
-    "gamesLost": 1,
-    "winRatio": 75
+    "rating": "168.74",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 7,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "30835",
@@ -25177,13 +25345,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "173.07",
-    "totalTournaments": 3,
-    "gamesTotal": 11,
-    "gamesWon": 7,
-    "gamesDraw": 2,
-    "gamesLost": 2,
-    "winRatio": 72.73
+    "rating": "172.84",
+    "totalTournaments": 4,
+    "gamesTotal": 19,
+    "gamesWon": 11,
+    "gamesDraw": 3,
+    "gamesLost": 5,
+    "winRatio": 65.79
   },
   {
     "NAF Nr": "31339",
@@ -25275,13 +25443,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Greece",
     "race": "Tomb Kings",
-    "rating": "180.94",
-    "totalTournaments": 18,
-    "gamesTotal": 85,
-    "gamesWon": 37,
-    "gamesDraw": 20,
-    "gamesLost": 28,
-    "winRatio": 55.29
+    "rating": "179.71",
+    "totalTournaments": 19,
+    "gamesTotal": 91,
+    "gamesWon": 40,
+    "gamesDraw": 21,
+    "gamesLost": 30,
+    "winRatio": 55.49
   },
   {
     "NAF Nr": "31447",
@@ -25667,13 +25835,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "139.14",
-    "totalTournaments": 2,
-    "gamesTotal": 7,
-    "gamesWon": 1,
+    "rating": "148.14",
+    "totalTournaments": 3,
+    "gamesTotal": 8,
+    "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 35.71
+    "winRatio": 43.75
   },
   {
     "NAF Nr": "31807",
@@ -25702,6 +25870,20 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 1,
     "gamesLost": 3,
     "winRatio": 41.67
+  },
+  {
+    "NAF Nr": "31866",
+    "NAF Name": "torquemada",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Tomb Kings",
+    "rating": "149.51",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
   },
   {
     "NAF Nr": "31874",
@@ -26241,13 +26423,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Tomb Kings",
-    "rating": "159.98",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 3,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 58.33
+    "rating": "157.93",
+    "totalTournaments": 2,
+    "gamesTotal": 12,
+    "gamesWon": 5,
+    "gamesDraw": 3,
+    "gamesLost": 4,
+    "winRatio": 54.17
   },
   {
     "NAF Nr": "32443",
@@ -26262,6 +26444,20 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 0,
     "gamesLost": 3,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "32448",
+    "NAF Name": "nuttychamp",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Tomb Kings",
+    "rating": "156.93",
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 75
   },
   {
     "NAF Nr": "32487",
@@ -26339,13 +26535,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Tomb Kings",
-    "rating": "161.7",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 3,
-    "gamesDraw": 0,
+    "rating": "173.14",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 5,
+    "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 91.67
   },
   {
     "NAF Nr": "32586",
@@ -26619,13 +26815,27 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Tomb Kings",
-    "rating": "154.22",
+    "rating": "154.33",
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
     "winRatio": 66.67
+  },
+  {
+    "NAF Nr": "32987",
+    "NAF Name": "maljam",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "race": "Tomb Kings",
+    "rating": "134.27",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "winRatio": 20
   },
   {
     "NAF Nr": "32990",
@@ -26712,6 +26922,20 @@ const statsRaceTomb_Kings = [
     "winRatio": 37.5
   },
   {
+    "NAF Nr": "33112",
+    "NAF Name": "yume",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Tomb Kings",
+    "rating": "111.13",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 7,
+    "winRatio": 6.25
+  },
+  {
     "NAF Nr": "33200",
     "NAF Name": "Ranumo",
     "CCAA": "Apatrida",
@@ -26794,6 +27018,20 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "33380",
+    "NAF Name": "CEKELLA",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Tomb Kings",
+    "rating": "159.37",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 5,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 68.75
   },
   {
     "NAF Nr": "33382",
@@ -26990,6 +27228,20 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 1,
     "gamesLost": 0,
     "winRatio": 83.33
+  },
+  {
+    "NAF Nr": "33619",
+    "NAF Name": "backslash0",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Tomb Kings",
+    "rating": "154.87",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "33620",
@@ -27389,13 +27641,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "156.13",
-    "totalTournaments": 2,
-    "gamesTotal": 9,
-    "gamesWon": 3,
-    "gamesDraw": 4,
-    "gamesLost": 2,
-    "winRatio": 55.56
+    "rating": "149.79",
+    "totalTournaments": 3,
+    "gamesTotal": 17,
+    "gamesWon": 6,
+    "gamesDraw": 5,
+    "gamesLost": 6,
+    "winRatio": 50
   },
   {
     "NAF Nr": "34073",
@@ -27655,13 +27907,41 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "166.81",
+    "rating": "178.88",
+    "totalTournaments": 2,
+    "gamesTotal": 17,
+    "gamesWon": 9,
+    "gamesDraw": 3,
+    "gamesLost": 5,
+    "winRatio": 61.76
+  },
+  {
+    "NAF Nr": "34377",
+    "NAF Name": "txantxi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Tomb Kings",
+    "rating": "125.45",
     "totalTournaments": 1,
-    "gamesTotal": 9,
-    "gamesWon": 5,
-    "gamesDraw": 1,
-    "gamesLost": 3,
-    "winRatio": 61.11
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 5,
+    "winRatio": 16.67
+  },
+  {
+    "NAF Nr": "34439",
+    "NAF Name": "tipodeincognito2",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Tomb Kings",
+    "rating": "147.86",
+    "totalTournaments": 1,
+    "gamesTotal": 2,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "winRatio": 50
   },
   {
     "NAF Nr": "34460",
@@ -27720,18 +28000,32 @@ const statsRaceTomb_Kings = [
     "winRatio": 62.5
   },
   {
+    "NAF Nr": "34505",
+    "NAF Name": "Llagho",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Tomb Kings",
+    "rating": "145.82",
+    "totalTournaments": 1,
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 0
+  },
+  {
     "NAF Nr": "34506",
     "NAF Name": "Zeros",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "146.21",
-    "totalTournaments": 1,
-    "gamesTotal": 9,
-    "gamesWon": 3,
-    "gamesDraw": 2,
-    "gamesLost": 4,
-    "winRatio": 44.44
+    "rating": "154.06",
+    "totalTournaments": 2,
+    "gamesTotal": 16,
+    "gamesWon": 7,
+    "gamesDraw": 3,
+    "gamesLost": 6,
+    "winRatio": 53.13
   },
   {
     "NAF Nr": "34536",
@@ -27809,13 +28103,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Tomb Kings",
-    "rating": "190.98",
-    "totalTournaments": 6,
-    "gamesTotal": 23,
-    "gamesWon": 15,
+    "rating": "182.68",
+    "totalTournaments": 7,
+    "gamesTotal": 26,
+    "gamesWon": 16,
     "gamesDraw": 4,
-    "gamesLost": 4,
-    "winRatio": 73.91
+    "gamesLost": 6,
+    "winRatio": 69.23
   },
   {
     "NAF Nr": "34621",
@@ -27851,7 +28145,7 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Tomb Kings",
-    "rating": "139.19",
+    "rating": "139.2",
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
@@ -28033,7 +28327,7 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Tomb Kings",
-    "rating": "138.46",
+    "rating": "138.48",
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 2,
@@ -28201,7 +28495,7 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Tomb Kings",
-    "rating": "155.24",
+    "rating": "155.1",
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 3,
@@ -28243,13 +28537,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Tomb Kings",
-    "rating": "155.53",
-    "totalTournaments": 1,
-    "gamesTotal": 6,
-    "gamesWon": 3,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 58.33
+    "rating": "155.36",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 4,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "winRatio": 55.56
   },
   {
     "NAF Nr": "35391",
@@ -28383,13 +28677,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Tomb Kings",
-    "rating": "166.54",
-    "totalTournaments": 3,
-    "gamesTotal": 14,
-    "gamesWon": 7,
-    "gamesDraw": 4,
-    "gamesLost": 3,
-    "winRatio": 64.29
+    "rating": "167.59",
+    "totalTournaments": 4,
+    "gamesTotal": 19,
+    "gamesWon": 9,
+    "gamesDraw": 6,
+    "gamesLost": 4,
+    "winRatio": 63.16
   },
   {
     "NAF Nr": "35582",
@@ -28460,6 +28754,20 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 0,
     "gamesLost": 2,
     "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "35683",
+    "NAF Name": "thebunneh",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "race": "Tomb Kings",
+    "rating": "149.89",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50
   },
   {
     "NAF Nr": "35725",
@@ -28691,13 +28999,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Tomb Kings",
-    "rating": "180.8",
-    "totalTournaments": 4,
-    "gamesTotal": 15,
-    "gamesWon": 12,
+    "rating": "182.25",
+    "totalTournaments": 5,
+    "gamesTotal": 18,
+    "gamesWon": 14,
     "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 83.33
+    "gamesLost": 3,
+    "winRatio": 80.56
   },
   {
     "NAF Nr": "36385",
@@ -28712,6 +29020,20 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 1,
     "gamesLost": 3,
     "winRatio": 12.5
+  },
+  {
+    "NAF Nr": "36402",
+    "NAF Name": "Gordini",
+    "CCAA": "Castilla y León",
+    "Country": "Spain",
+    "race": "Tomb Kings",
+    "rating": "144.17",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 3,
+    "winRatio": 43.75
   },
   {
     "NAF Nr": "36412",
@@ -29274,6 +29596,20 @@ const statsRaceTomb_Kings = [
     "winRatio": 40
   },
   {
+    "NAF Nr": "37749",
+    "NAF Name": "Marko83",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Tomb Kings",
+    "rating": "144.46",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "37755",
     "NAF Name": "lolito",
     "CCAA": "Apatrida",
@@ -29314,6 +29650,20 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 1,
     "gamesLost": 2,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "37814",
+    "NAF Name": "Jon_Furia",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
+    "race": "Tomb Kings",
+    "rating": "134.24",
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 31.25
   },
   {
     "NAF Nr": "37828",
@@ -29470,6 +29820,20 @@ const statsRaceTomb_Kings = [
     "winRatio": 43.59
   },
   {
+    "NAF Nr": "38337",
+    "NAF Name": "theblackdog",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "race": "Tomb Kings",
+    "rating": "176.3",
+    "totalTournaments": 1,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 4,
+    "gamesLost": 1,
+    "winRatio": 62.5
+  },
+  {
     "NAF Nr": "38360",
     "NAF Name": "Gobij",
     "CCAA": "Apatrida",
@@ -29503,13 +29867,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "140.68",
-    "totalTournaments": 2,
-    "gamesTotal": 8,
-    "gamesWon": 2,
-    "gamesDraw": 2,
-    "gamesLost": 4,
-    "winRatio": 37.5
+    "rating": "139.01",
+    "totalTournaments": 3,
+    "gamesTotal": 16,
+    "gamesWon": 4,
+    "gamesDraw": 5,
+    "gamesLost": 7,
+    "winRatio": 40.63
   },
   {
     "NAF Nr": "38474",
@@ -29531,13 +29895,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Austria",
     "race": "Tomb Kings",
-    "rating": "150.63",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 1,
-    "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 50
+    "rating": "141.21",
+    "totalTournaments": 2,
+    "gamesTotal": 9,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 4,
+    "winRatio": 38.89
   },
   {
     "NAF Nr": "38557",
@@ -29545,13 +29909,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Tomb Kings",
-    "rating": "153.89",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "rating": "161.04",
+    "totalTournaments": 2,
+    "gamesTotal": 5,
+    "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 60
   },
   {
     "NAF Nr": "38676",
@@ -29566,6 +29930,20 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 1,
     "gamesLost": 3,
     "winRatio": 30
+  },
+  {
+    "NAF Nr": "38852",
+    "NAF Name": "threal",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Tomb Kings",
+    "rating": "165.82",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100
   },
   {
     "NAF Nr": "38875",
@@ -29652,6 +30030,20 @@ const statsRaceTomb_Kings = [
     "winRatio": 40
   },
   {
+    "NAF Nr": "39166",
+    "NAF Name": "tom928",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Tomb Kings",
+    "rating": "135.54",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "winRatio": 33.33
+  },
+  {
     "NAF Nr": "39365",
     "NAF Name": "turbonitromonkey",
     "CCAA": "Apatrida",
@@ -29727,7 +30119,7 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Tomb Kings",
-    "rating": "142.2",
+    "rating": "142.26",
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
@@ -29762,6 +30154,20 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 0,
     "gamesLost": 3,
     "winRatio": 40
+  },
+  {
+    "NAF Nr": "39687",
+    "NAF Name": "welshrarebit",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "race": "Tomb Kings",
+    "rating": "157.03",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "winRatio": 66.67
   },
   {
     "NAF Nr": "39769",
@@ -29867,13 +30273,13 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Tomb Kings",
-    "rating": "156.73",
-    "totalTournaments": 4,
-    "gamesTotal": 15,
+    "rating": "141.22",
+    "totalTournaments": 5,
+    "gamesTotal": 21,
     "gamesWon": 6,
-    "gamesDraw": 4,
-    "gamesLost": 5,
-    "winRatio": 53.33
+    "gamesDraw": 7,
+    "gamesLost": 8,
+    "winRatio": 45.24
   },
   {
     "NAF Nr": "40067",
@@ -29951,11 +30357,11 @@ const statsRaceTomb_Kings = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Tomb Kings",
-    "rating": "153.5",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 0,
+    "rating": "156.06",
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
     "gamesLost": 1,
     "winRatio": 66.67
   },
@@ -30072,6 +30478,20 @@ const statsRaceTomb_Kings = [
     "winRatio": 50
   },
   {
+    "NAF Nr": "41525",
+    "NAF Name": "Pascu",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "race": "Tomb Kings",
+    "rating": "148.79",
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "winRatio": 50
+  },
+  {
     "NAF Nr": "41559",
     "NAF Name": "Amigatxo",
     "CCAA": "Apatrida",
@@ -30098,5 +30518,47 @@ const statsRaceTomb_Kings = [
     "gamesDraw": 1,
     "gamesLost": 1,
     "winRatio": 50
+  },
+  {
+    "NAF Nr": "41847",
+    "NAF Name": "Paladin",
+    "CCAA": "Apatrida",
+    "Country": "Ukraine",
+    "race": "Tomb Kings",
+    "rating": "153.3",
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 60
+  },
+  {
+    "NAF Nr": "41943",
+    "NAF Name": "tevist",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Tomb Kings",
+    "rating": "144.83",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "winRatio": 33.33
+  },
+  {
+    "NAF Nr": "41950",
+    "NAF Name": "CastleClay",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Tomb Kings",
+    "rating": "143.34",
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "winRatio": 16.67
   }
 ];
