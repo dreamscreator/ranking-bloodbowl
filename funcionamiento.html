@@ -119,8 +119,12 @@
                       Pronto / Soon
                     </a>
                   </li>
-                  <li>
             </ul>
+          </li>
+
+          <!-- Recursos -->
+          <li class="nav-item">
+            <a class="nav-link" href="recursos.html" data-i18n="recursos">Recursos</a>
           </li>
 
           <!-- Contacto -->
@@ -205,78 +209,7 @@
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-
-  <script>
-    const translations = {
-      es: {
-        title: "¿Cómo funciona? - Blood Bowl Ranking",
-        inicio: "Inicio",
-        rankings: "Rankings",
-        otros: "Otros rankings",
-        contacto: "Contacto",
-        donacion: "Donación",
-        rankingComo: "¿Cómo funciona?",
-        rankingGlobalAnual: "Anual",
-        rankingGlobalHistorico: "Histórico",
-        rankingRazasHistorico: "Razas Histórico",
-        // Agrega aquí el resto de traducciones independientes de cada página
-        comoFunciona: "¿CÓMO FUNCIONA EL RANKING ANUAL?",
-        comoFuncionaTexto: "En el ranking anual a cada jugador se le resetea a principio de cada año su ranking a 150, y varía con cada partido que juegue independientemente de la raza con que lo haga.",
-        comoFunciona2: "¿CÓMO FUNCIONA EL RANKING HISTÓRICO?",
-        comoFunciona2Texto: "En el ranking histórico cada jugador empieza con un ranking de 150 con cada raza, y varía con cada partido que juegue independientemente de la raza. Este ranking es histórico y nunca se resetea.",
-        comoFunciona3: "¿CÓMO FUNCIONA EL RANKING HISTÓRICO POR RAZAS?",
-        comoFunciona3Texto: "En el ranking histórico por raza cada jugador empieza con un ranking de 150 con cada raza, y varía con cada partido que juegue con esa raza. Este ranking es histórico y nunca se resetea.",
-        queFiltros: "¿QUÉ FILTROS HAY?",
-        queFiltrosTexto: "Las clasificaciones incluyen solo los jugadores que han indicado en la web de la NAF que son españoles y en los rankings de NAF Mundial con los entrenadores de todo el mundo. Posteriormente se puede filtrar por tramos de Win Ratio, por número NAF, por nick, Comunidad Autónoma o País. Entre paréntesis aparece la clasificación entre los jugadores con la misma CCAA/País. En caso de no tener datos de la CCAA del jugador, aparecerá como Apátrida.",
-        queFiltrosTexto2: "Si estás en el listado como Apátrida y quieres indicar cuál es tu CCAA, ponte en contacto en el formulario.",
-        cadaCuanto: "¿CADA CUÁNTO SE ACTUALIZA?",
-        cadaCuantoTexto: "Las clasificaciones no tienen un periodo regular de actualización, pero se intentará que se actualice de manera constante y sin periodos muy extensos entre una actualización y otra.",
-
-      },
-      en: {
-        title: "How it works? - Blood Bowl Ranking",
-        inicio: "Home",
-        rankings: "Rankings",
-        otros: "Others rankings",
-        contacto: "Contact",
-        donacion: "Donate",
-        rankingComo: "How it works?",
-        rankingGlobalAnual: "Annual",
-        rankingGlobalHistorico: "Historical",
-        rankingRazasHistorico: "Races Historical",
-        // Agrega aquí el resto de traducciones independientes de cada página
-        comoFunciona: "HOW DOES THE ANNUAL RANKING WORK?",
-        comoFuncionaTexto: "In the annual ranking each player's ranking is reset at the beginning of each year to 150, and varies with each match played regardless of the race with which it is played.",
-        comoFunciona2: "HOW DOES THE HISTORICAL RANKING WORK?",
-        comoFunciona2Texto: "In the historical ranking each player starts with a ranking of 150 with each race, and varies with each match played regardless of race. This ranking is historical and is never reset.",
-        comoFunciona3: "HOW DOES THE HISTORICAL RANKING BY RACE WORK?",
-        comoFunciona3Texto: "In the historical ranking by race each player starts with a ranking of 150 with each race, and varies with each match played with that race. This ranking is historical and is never reset.",
-        queFiltros: "WHAT FILTERS ARE AVAILABLE?",
-        queFiltrosTexto: "The rankings include only players who have indicated on the NAF website that they are Spanish and in the NAF World rankings with coaches from all over the world. Subsequently you can filter by Win Ratio brackets, by NAF number, by nickname, Autonomous Community or Country. In brackets appears the ranking among the players with the same Autonomous Community/Country. In case of not having data of the player's Autonomous Community, it will appear as Stateless.",
-        queFiltrosTexto2: "If you are listed as Stateless and want to indicate which is your CCAA, please contact in the form.",
-        cadaCuanto: "HOW OFTEN IS IT UPDATED?",
-        cadaCuantoTexto: "The rankings do not have a regular update period, but we will try to update them constantly and without long periods between one update and another.",
-      }
-    };
-
-    function setLanguage(lang) {
-      localStorage.setItem('lang', lang);
-      applyTranslations();
-    }
-
-    function applyTranslations() {
-      const lang = localStorage.getItem('lang') || 'es';
-      document.title = translations[lang].title;
-      document.querySelectorAll('[data-i18n]').forEach(el => {
-        const key = el.getAttribute('data-i18n');
-        if (translations[lang][key]) {
-          el.innerHTML = translations[lang][key];
-        }
-      });
-    }
-
-    document.addEventListener('DOMContentLoaded', applyTranslations);
-  </script>
+  <script src="src/translations.js"></script>
 
 </body>
 

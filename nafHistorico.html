@@ -103,8 +103,12 @@
                       Pronto / Soon
                     </a>
                   </li>
-                  <li>
             </ul>
+          </li>
+
+          <!-- Recursos -->
+          <li class="nav-item">
+            <a class="nav-link" href="recursos.html" data-i18n="recursos">Recursos</a>
           </li>
 
           <!-- Contacto -->
@@ -136,7 +140,7 @@
 
   <!-- Contenido principal -->
   <div class="container py-5 mt-4">
-    <h4 class="fw-bold text-primary mb-4 text-center" data-i18n="globalAnualNaf">RANKING GLOBAL HISTORICO - NAF</h4>
+    <h4 class="fw-bold text-primary mb-4 text-center" data-i18n="globalHistoricoNaf">RANKING GLOBAL HISTORICO - NAF</h4>
 
     <!-- Filtros -->
 <div class="section-bg p-4 mb-4 shadow rounded">
@@ -209,91 +213,8 @@
   <script src="src/naf/general_all.js"></script>
   <script src="src/tableHistorico.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="src/translations.js"></script>
 
-  <script>
-    const translations = {
-      es: {
-        title: "NAF - Ranking Histórico",
-        inicio: "Inicio",
-        rankings: "Rankings",
-        otros: "Otros rankings",
-        contacto: "Contacto",
-        donacion: "Donación",
-        rankingComo: "¿Cómo funciona?",
-        rankingGlobalAnual: "Anual",
-        rankingGlobalHistorico: "Histórico",
-        rankingRazasHistorico: "Razas Histórico",
-        webCreada: "Web creada por dreamscreator",
-        anyo: "Año",
-        ccaa: "CCAA",
-        pais: "País",
-        partidos: "Partidos",
-        todos: "Todos / All",
-        todas: "Todas / All",
-        entre: "Entre",
-        y: "y",
-        entrenador: "Entrenador",
-        buscarNaf: "Buscar por NAF",
-        buscarEntrenador: "Buscar por Entrenador",
-        posicionGeneral: "Posición General",
-        posicionPais: "País (posición)",
-        torneos: "Torneos",
-        ved: "V/E/D",
-        // Agrega aquí el resto de traducciones independientes de cada página
-        globalAnualNaf: "RANKING HISTÓRICO - NAF",
-
-      },
-      en: {
-        title: "NAF - Ranking Historical",
-        inicio: "Home",
-        rankings: "Rankings",
-        otros: "Others rankings",
-        contacto: "Contact",
-        donacion: "Donate",
-        rankingComo: "How it works?",
-        rankingGlobalAnual: "Annual",
-        rankingGlobalHistorico: "Historical",
-        rankingRazasHistorico: "Races Historical",
-        webCreada: "Website create by dreamscreator",
-        anyo: "Year",
-        ccaa: "State",
-        pais: "Country",
-        partidos: "Games",
-        todos: "Todos / All",
-        todas: "Todas / All",
-        entre: "Between",
-        y: "and",
-        entrenador: "Coach",
-        buscarNaf: "Search by NAF",
-        buscarEntrenador: "Search by Coach",
-        posicionGeneral: "General position",
-        posicionPais: "Country (position)",
-        torneos: "Tourneys",
-        ved: "W/D/L",
-        // Agrega aquí el resto de traducciones independientes de cada página
-        globalAnualNaf: "RANKING HISTORICAL - NAF",
-
-      }
-    };
-
-    function setLanguage(lang) {
-      localStorage.setItem('lang', lang);
-      applyTranslations();
-    }
-
-    function applyTranslations() {
-      const lang = localStorage.getItem('lang') || 'es';
-      document.title = translations[lang].title;
-      document.querySelectorAll('[data-i18n]').forEach(el => {
-        const key = el.getAttribute('data-i18n');
-        if (translations[lang][key]) {
-          el.innerHTML = translations[lang][key];
-        }
-      });
-    }
-
-    document.addEventListener('DOMContentLoaded', applyTranslations);
-  </script>
 </body>
 
 </html>
