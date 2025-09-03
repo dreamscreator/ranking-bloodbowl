@@ -2,11 +2,13 @@
 <html lang="es">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NAF España - Ranking Histórico</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blood Bowl Ranking</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+  <link rel="stylesheet" href="styles.css" />
 </head>
 
 <body>
@@ -168,84 +170,99 @@
     </div>
   </nav>
 
-  <!-- Contenido principal -->
-  <div class="container py-5 mt-4">
-    <h4 class="fw-bold text-primary mb-4 text-center" data-i18n="globalHistoricoNafSpain">RANKING HISTÓRICO - NAF
-      ESPAÑA</h4>
+  <!-- Archivos de interés -->
 
-    <!-- Filtros -->
-    <div class="section-bg p-4 mb-4 shadow rounded">
+  <div class="container py-4">
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <div class="p-4 shadow rounded section-bg">
 
-      <div class="row g-3 mb-2">
-        <div class="col-md-4">
-          <label for="nafFilter" class="form-label"><b>NAF #</b></label>
-          <input type="text" id="nafFilter" class="form-control" placeholder="Buscar por NAF">
-        </div>
-        <div class="col-md-4">
-          <label for="coachFilter" class="form-label"><b data-i18n="entrenador">Entrenador</b></label>
-          <input type="text" id="coachFilter" class="form-control" placeholder="Buscar por Entrenador">
-        </div>
-        <div class="col-md-4">
-          <label for="ccaaFilter" class="form-label"><b data-i18n="ccaa">CCAA</b></label>
-          <select id="ccaaFilter" class="form-select">
-            <option value="all" data-i18n="All">Todas / All</option>
-          </select>
+          <h4 class="fw-bold text-primary" data-i18n="rosters">CREACIÓN DE ROSTERS</h4>
+
+          <p class="mb-3" data-i18n="excelRoster">
+            Excel para la creación de rosters para liga, torneos y sevens creado por dreamscreator.
+          </p>
+
+          <div><a class="mb-3" href="https://bloodbowlhelp.wordpress.com/wp-content/uploads/2021/01/blood-bowl-2020-roster-league-v9.1-1.xlsx">
+            Excel Blood Bowl Roster Liga / League v.9.1
+          </a></div>
+          <div><a class="mb-3" href="https://bloodbowlhelp.wordpress.com/wp-content/uploads/2021/01/blood-bowl-2020-roster-tourney-v9.1-2.xlsx">
+            Excel Blood Bowl Roster Torneo / Tourney v.9.1
+          </a></div>
+          <div><a class="mb-3" href="https://bloodbowlhelp.wordpress.com/wp-content/uploads/2021/01/blood-bowl-sevens-roster-v7.1.xlsx">
+            Excel Blood Bowl Roster Sevens v.7.1
+          </a></div>
+
+          <p>
+          <div data-i18n="actualizacion" style="font-weight:bold">
+            Actualización/Update: 30.01.2025
+          </div>
+          <div data-i18n="actualizacionUltima">
+            Última actualización
+          </a></div>
+          </p>
+
         </div>
       </div>
-
-      <div class="row g-3 mb-2">
-        <div class="col-md-6">
-          <label class="form-label"><b>Win Ratio</b></label>
-          <div class="d-flex align-items-center gap-2">
-            <span data-i18n="entre">Entre</span>
-            <select id="wrMinFilter" class="form-select"></select>
-            <span data-i18n="y">y</span>
-            <select id="wrMaxFilter" class="form-select"></select>
-          </div>
-        </div>
-        <div class="col-md-6" id="gamesFilterGroup">
-          <label class="form-label"><b data-i18n="partidos">Partidos</b></label>
-          <div class="d-flex align-items-center gap-2">
-            <span data-i18n="entre">Entre</span>
-            <select id="gamesMinFilter" class="form-select"></select>
-            <span data-i18n="y">y</span>
-            <select id="gamesMaxFilter" class="form-select"></select>
-          </div>
-        </div>
-      </div>
-
-    </div>
-
-
-    <!-- Tabla de rankings -->
-    <div class="table-responsive section-bg p-4 shadow rounded">
-      <table id="nafTable" class="table table-striped table-bordered">
-        <thead class="table-light">
-          <tr>
-            <th class="rank-overall" data-i18n="posicionGeneral">Posición<br>general</th>
-            <th>NAF #</th>
-            <th data-i18n="entrenador">Entrenador</th>
-            <th class="ccaa-column" data-i18n="ccaaPosicion">CCAA<br>(posición)</th>
-            <th class="tourneys-column hide-lg" data-i18n="torneos">Torneos</th>
-            <th class="games-column hide-lg" data-i18n="partidos">Partidos</th>
-            <th class="wdl-column hide-md" data-i18n="ved">V/E/D</th>
-            <th class="wr-column hide-md">WR</th>
-            <th>Ranking</th>
-          </tr>
-        </thead>
-        <tbody>
-          <!-- Se insertan dinámicamente -->
-        </tbody>
-      </table>
     </div>
   </div>
 
-  <!-- Scripts -->
-  <script src="src/naf/general_all.js"></script>
-  <script src="src/tableEsHistorico.js"></script>
+  <!-- Otros -->
+
+  <div class="container py-4">
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <div class="p-4 shadow rounded section-bg">
+
+          <h4 class="fw-bold text-primary" data-i18n="otro">OTROS</h4>
+
+          <!-- Otros creadores de rosters -->
+          <p>
+          <div><a class="mb-3" href="https://bbtournaments.es/roster">
+            BBTournaments</a> (BB2020 - online)
+          </div>
+          <div><a class="mb-3" href="https://bbtc.pl/">
+            BBTC.pl Team Creator</a> (BB2020 - online)
+          </div>
+          <div><a class="mb-3" href="https://jonasbusk.github.io/nuflheim/">
+            Nuflheim</a> (BB2020 - online)
+          </div>
+          <div><a class="mb-3" href="https://bbroster.com/">
+            BBRoster</a> (BB2020 - online)
+          </div>
+          <div><a class="mb-3" href="http://www.sann0638.co.uk/bb/quick-teams/">
+            Quick Teams</a> (by Sann0638) (BB2020 - online)
+          </div>
+          <div><a class="mb-3" href="https://docs.google.com/spreadsheets/d/1nxhj-Xq1AxuRKdhltgpb7k_Hr5ZGZUQk4clHNMiKvkM">
+            Team Draft List</a> (by Zetan) (BB2020 - online)
+          </div>
+          <div><a class="mb-3" href="https://docs.google.com/spreadsheets/d/1nPUEEIAk2fHP3n1M_NJqknmTaLmqeIqps9HUlq9-YAI">
+            Sevens Team Draft List</a> (by Zetan) (BB2020 - online)
+          </div>
+          <div><a class="mb-3" href="https://docs.google.com/spreadsheets/d/1qpXiPE8heOt0M2Jyha33ZWwuqe-T4yXEy8yCo1b1M3w">
+            Dungeon Team Draft List</a> (by Zetan) (BB2020 - online)
+          </div>
+          <div><a class="mb-3" href="https://docs.google.com/spreadsheets/d/1UjV3SWPJ4YvAfQ_HGRILyhJDVPgXcR_F9CxcrcXowx8">
+            Team Draft List</a> (by Zetan) (BB2016 - online)
+          </div>
+          <div><a class="mb-3" href="http://www.arosbb.dk/?p=dl">
+            Aros</a> (BB2016 - offline)
+          </div>
+          <div><a class="mb-3" href="http://ghoulhq.com/bloodbowlbuilder/">
+            Blood Bowl Builder</a> (BB2016 - online)
+          </div>
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <p style="font-size: small; margin-left: 10px" data-i18n="webCreada">Web creada por dreamscreator</p>
+
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   <script src="src/translations.js"></script>
-
+  <script type="module" src="src/include-nav.js"></script>
 
 </body>
 
