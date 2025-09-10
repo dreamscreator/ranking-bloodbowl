@@ -34620,7 +34620,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "17066",
     "NAF Name": "Rancio",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 127.80515988899721,
@@ -34678,7 +34678,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "17071",
     "NAF Name": "Pocketpunki",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 143.467231527983,
@@ -35638,7 +35638,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "17306",
     "NAF Name": "PLOTJUK",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 147.82936961997098,
@@ -35661,7 +35661,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 125.35159879493801,
@@ -35690,7 +35690,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 155.15611501321752,
@@ -36869,7 +36869,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 148.50625996256062,
@@ -40663,7 +40663,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 163.21269678923682,
@@ -45762,7 +45762,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "20099",
     "NAF Name": "ferbi",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 170.73322107000584,
@@ -45791,7 +45791,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 146.13208629179542,
@@ -46045,7 +46045,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "20192",
     "NAF Name": "lapiedra",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 127.22669649752496,
@@ -46125,7 +46125,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 173.37579504287507,
@@ -47437,7 +47437,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 166.65641237435705,
@@ -47670,7 +47670,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "20542",
     "NAF Name": "Bron-k",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 166.76227614195506,
@@ -49667,7 +49667,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "20934",
     "NAF Name": "merlin_el_mago",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 186.93391651289716,
@@ -50022,7 +50022,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 185.46041742340964,
@@ -53214,7 +53214,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 188.6028345353581,
@@ -53272,7 +53272,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 151.48426698279383,
@@ -53447,7 +53447,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "21801",
     "NAF Name": "Drmetalurgico",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 131.2437946207792,
@@ -55064,7 +55064,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 150.03443858535803,
@@ -55231,7 +55231,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "22259",
     "NAF Name": "Eldar666",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 153.93506690251402,
@@ -57288,7 +57288,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "22768",
     "NAF Name": "Natzo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 131.07059740231566,
@@ -57616,7 +57616,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 160.59703015941338,
@@ -61081,7 +61081,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "23843",
     "NAF Name": "Sianour",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 160.1556905678953,
@@ -61886,7 +61886,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "24056",
     "NAF Name": "JosefvonBauren",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 117.8419010736435,
@@ -67168,7 +67168,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "25260",
     "NAF Name": "Ux_Manners",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 146.45733837244245,
@@ -67385,7 +67385,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "25294",
     "NAF Name": "Hal9000",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 164.15868796707414,
@@ -68257,7 +68257,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "25496",
     "NAF Name": "Caustic",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 144.26061184968125,
@@ -69893,7 +69893,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 139.76845508627792,
@@ -69967,7 +69967,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 163.87268164830172,
@@ -72649,7 +72649,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "26616",
     "NAF Name": "Tukiri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 111.5944967561837,
@@ -79637,7 +79637,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "28631",
     "NAF Name": "adriona",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 131.79722746601948,
@@ -82213,7 +82213,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "29644",
     "NAF Name": "pingueran",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 164.68119322985174,
@@ -84212,7 +84212,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "30593",
     "NAF Name": "elpuly",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 167.55602745066903,
@@ -84241,7 +84241,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "30594",
     "NAF Name": "Raultorres8a",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 149.404349716055,
@@ -84594,7 +84594,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "30683",
     "NAF Name": "mapachito",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 140.42282033322445,
@@ -88304,7 +88304,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 133.07811666013572,
@@ -88593,7 +88593,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "31874",
     "NAF Name": "sir_ulrik",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 136.74694810104663,
@@ -88705,7 +88705,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "31904",
     "NAF Name": "gonzag",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 171.98656819037666,
@@ -92471,7 +92471,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "33099",
     "NAF Name": "angelostttt",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 126.33888916730893,
@@ -94915,7 +94915,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "33954",
     "NAF Name": "dafni_21",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 130.7573499373673,
@@ -96797,7 +96797,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "34558",
     "NAF Name": "jerillo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 137.78683941771314,
@@ -97189,7 +97189,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "34706",
     "NAF Name": "nakai_bcn",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 103.2967254017134,
@@ -100339,7 +100339,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "36050",
     "NAF Name": "El_Calvali_Jojo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 134.6549813955879,
@@ -105702,7 +105702,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "39326",
     "NAF Name": "Fukitriki",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 144.13474531302802,
@@ -105725,7 +105725,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "39327",
     "NAF Name": "Chinasko",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 144.39337403902755,
@@ -106307,7 +106307,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "39732",
     "NAF Name": "Toninitron",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 164.2560868719515,
@@ -106826,7 +106826,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "40054",
     "NAF Name": "Bondidoso",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Skaven",
     "rating": 151.56046039497932,
