@@ -17870,7 +17870,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 150.15117642000445,
@@ -20835,7 +20835,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 116.72251368542288,
@@ -24337,7 +24337,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 132.24980285205598,
@@ -24577,7 +24577,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 155.38569851107926,
@@ -25177,7 +25177,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "20411",
     "NAF Name": "sainthropee",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 128.50282053393997,
@@ -25535,7 +25535,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 149.22980512821275,
@@ -26857,7 +26857,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "20934",
     "NAF Name": "merlin_el_mago",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 149.02027491180172,
@@ -28492,7 +28492,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "21688",
     "NAF Name": "chote",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 155.70678788705501,
@@ -28639,7 +28639,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 152.18713819536944,
@@ -31360,7 +31360,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 134.64251926365694,
@@ -32114,7 +32114,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "23323",
     "NAF Name": "Giropaaa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 158.5678484274427,
@@ -32915,7 +32915,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "23588",
     "NAF Name": "miguej",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 127.35342092552433,
@@ -33116,7 +33116,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 145.16195356945323,
@@ -36969,7 +36969,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "25261",
     "NAF Name": "Valas_Hunter",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 123.81871250069929,
@@ -41834,7 +41834,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "27442",
     "NAF Name": "el_reverendo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 151.24393336727434,
@@ -44150,7 +44150,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "28785",
     "NAF Name": "Bufal",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 133.68680031288815,
@@ -45394,7 +45394,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "29644",
     "NAF Name": "pingueran",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 155.3802031762684,
@@ -46390,7 +46390,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "30299",
     "NAF Name": "The_Cat_Alan",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 154.6916286746824,
@@ -47329,7 +47329,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "30683",
     "NAF Name": "mapachito",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 140.15836901885976,
@@ -47871,7 +47871,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "30936",
     "NAF Name": "mammut90",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 106.44540266692793,
@@ -49857,7 +49857,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 155.87776241467535,
@@ -50027,7 +50027,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "31874",
     "NAF Name": "sir_ulrik",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 128.38828032418039,
@@ -51047,7 +51047,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 160.57917585195136,
@@ -53673,7 +53673,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "34085",
     "NAF Name": "torin_32",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 155.31943517708365,
@@ -57063,7 +57063,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "37977",
     "NAF Name": "Derebor",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Ogre",
     "rating": 157.0422230932561,

@@ -14802,7 +14802,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 137.15675775947207,
@@ -14829,7 +14829,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 130.67534809472272,
@@ -15585,7 +15585,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 146.00628287675966,
@@ -17517,7 +17517,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 151.20638420817983,
@@ -20627,7 +20627,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 144.36491022109144,
@@ -20669,7 +20669,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 142.192110878403,
@@ -20832,7 +20832,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 140.2494845772555,
@@ -21327,7 +21327,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "20411",
     "NAF Name": "sainthropee",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 119.76919142543,
@@ -21410,7 +21410,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "20434",
     "NAF Name": "Tropeking",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 149.2463693548362,
@@ -21693,7 +21693,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "20542",
     "NAF Name": "Bron-k",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 140.74311160035603,
@@ -25073,7 +25073,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 160.99734051292933,
@@ -26092,7 +26092,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 132.3847174135256,
@@ -27339,7 +27339,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 150.47133623646496,
@@ -27917,7 +27917,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "23323",
     "NAF Name": "Giropaaa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 148.717756439286,
@@ -28864,7 +28864,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 161.44807390299877,
@@ -29134,7 +29134,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "23843",
     "NAF Name": "Sianour",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 143.08756725559067,
@@ -29490,7 +29490,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "24056",
     "NAF Name": "JosefvonBauren",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 145.0228924638769,
@@ -33355,7 +33355,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 138.737509093602,
@@ -33378,7 +33378,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 153.61194901280646,
@@ -36329,7 +36329,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "27442",
     "NAF Name": "el_reverendo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 150.90300206050645,
@@ -37888,7 +37888,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "28204",
     "NAF Name": "kalitri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 170.69346839031394,
@@ -43593,7 +43593,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 154.94875129800647,
@@ -43737,7 +43737,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "31904",
     "NAF Name": "gonzag",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 136.9739111908274,
@@ -43760,7 +43760,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "31906",
     "NAF Name": "A_Mezaf",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 157.80087165900235,
@@ -44475,7 +44475,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 153.00833735320202,
@@ -46046,7 +46046,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "33380",
     "NAF Name": "CEKELLA",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 125.70969485696357,
@@ -46970,7 +46970,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "34085",
     "NAF Name": "torin_32",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 138.38055023214392,
@@ -48008,7 +48008,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "35102",
     "NAF Name": "antilles",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 149.5161119237221,
@@ -48541,7 +48541,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "35667",
     "NAF Name": "mr_coates",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 130.48245461188137,
@@ -50410,7 +50410,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "38334",
     "NAF Name": "spectre05",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Nurgle",
     "rating": 133.20799561738423,

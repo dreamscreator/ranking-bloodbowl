@@ -34975,7 +34975,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "17307",
     "NAF Name": "MAKISH",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 145.66091611751344,
@@ -35004,7 +35004,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "17309",
     "NAF Name": "GATOCION",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 132.01236575215702,
@@ -35029,7 +35029,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 203.32924836678512,
@@ -36380,7 +36380,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 175.5603699866415,
@@ -36458,7 +36458,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "17701",
     "NAF Name": "narro",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 168.514601984478,
@@ -40017,7 +40017,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 155.54715917627814,
@@ -45262,7 +45262,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 171.2355546161499,
@@ -45316,7 +45316,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 167.61325259794407,
@@ -45792,7 +45792,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 155.8818956585228,
@@ -46070,7 +46070,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "20257",
     "NAF Name": "picon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 144.6844317350935,
@@ -46345,7 +46345,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "20314",
     "NAF Name": "Sukubus",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 159.42667815261026,
@@ -46827,7 +46827,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "20411",
     "NAF Name": "sainthropee",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 145.08052138635108,
@@ -47222,7 +47222,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 146.34422876792712,
@@ -50158,7 +50158,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 172.67343193107826,
@@ -53443,7 +53443,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "21688",
     "NAF Name": "chote",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 143.19877977158677,
@@ -53629,7 +53629,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 200.4823249007164,
@@ -53792,7 +53792,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 218.579392547955,
@@ -55589,7 +55589,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 128.2556150761436,
@@ -55724,7 +55724,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "22259",
     "NAF Name": "Eldar666",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 150.82987668087054,
@@ -56753,7 +56753,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "22526",
     "NAF Name": "carca34",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 151.7266238178031,
@@ -57975,7 +57975,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 151.27905175134416,
@@ -61069,7 +61069,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "23843",
     "NAF Name": "Sianour",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 157.2873051506669,
@@ -61707,7 +61707,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "24056",
     "NAF Name": "JosefvonBauren",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 147.9366062417482,
@@ -62612,7 +62612,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "24308",
     "NAF Name": "Chobinator",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 149.5021813674688,
@@ -65679,7 +65679,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "25294",
     "NAF Name": "Hal9000",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 154.25012531312453,
@@ -68053,7 +68053,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 161.15797147807407,
@@ -68181,7 +68181,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 144.07615818025067,
@@ -70143,7 +70143,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "26616",
     "NAF Name": "Tukiri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 151.44765675688268,
@@ -70590,7 +70590,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "26752",
     "NAF Name": "LivedroL",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 164.64590900383513,
@@ -73133,7 +73133,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "27442",
     "NAF Name": "el_reverendo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 164.50088444819147,
@@ -73769,7 +73769,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "27591",
     "NAF Name": "mastie",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 149.16872926581047,
@@ -75741,7 +75741,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "28204",
     "NAF Name": "kalitri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 146.53259622898634,
@@ -76924,7 +76924,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "28631",
     "NAF Name": "adriona",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 142.58710061780883,
@@ -77482,7 +77482,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "28786",
     "NAF Name": "Solo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 140.3659832018008,
@@ -79473,7 +79473,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "29398",
     "NAF Name": "jotun",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 193.12611453800343,
@@ -82577,7 +82577,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "30593",
     "NAF Name": "elpuly",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 148.7090442439667,
@@ -83687,7 +83687,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "30913",
     "NAF Name": "Lluis_cawa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 145.63521590374899,
@@ -83763,7 +83763,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "30931",
     "NAF Name": "J50infantes",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 152.5462170271621,
@@ -84620,7 +84620,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "31240",
     "NAF Name": "Nandothep",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 144.10668063311147,
@@ -86605,7 +86605,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 181.86206813726687,
@@ -86776,7 +86776,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "31874",
     "NAF Name": "sir_ulrik",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 129.03475006813264,
@@ -86908,7 +86908,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "31904",
     "NAF Name": "gonzag",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 155.55551652629578,
@@ -86961,7 +86961,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "31906",
     "NAF Name": "A_Mezaf",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 161.05339506381395,
@@ -88631,7 +88631,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 174.0545850069404,
@@ -91081,7 +91081,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "33358",
     "NAF Name": "Penduliano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 119.0467454344515,
@@ -91182,7 +91182,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "33402",
     "NAF Name": "suave",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 152.5780772251928,
@@ -92146,7 +92146,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "33722",
     "NAF Name": "gonzip",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 166.09002789739378,
@@ -93036,7 +93036,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "34085",
     "NAF Name": "torin_32",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 150.1312425946766,
@@ -95707,7 +95707,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "35102",
     "NAF Name": "antilles",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 158.2176936403302,
@@ -96090,7 +96090,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "35282",
     "NAF Name": "makutodj",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 138.59603923671614,
@@ -97037,7 +97037,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "35724",
     "NAF Name": "gon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 156.1395862771867,
@@ -97611,7 +97611,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "36050",
     "NAF Name": "El_Calvali_Jojo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 132.13261055760623,
@@ -99710,7 +99710,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "37255",
     "NAF Name": "Misterpot",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 166.2029239088647,
@@ -100648,7 +100648,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "37744",
     "NAF Name": "CHK",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 145.0756319293142,
@@ -100844,7 +100844,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "37977",
     "NAF Name": "Derebor",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 177.75191920227766,
@@ -101264,7 +101264,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "38334",
     "NAF Name": "spectre05",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 127.96711109174203,
@@ -103314,7 +103314,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "40076",
     "NAF Name": "AbbyCadabby",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Shambling Undead",
     "rating": 133.64522346684103,

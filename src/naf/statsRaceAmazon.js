@@ -25109,7 +25109,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "17307",
     "NAF Name": "MAKISH",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 155.4476071513696,
@@ -25129,7 +25129,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 149.97303302031702,
@@ -25152,7 +25152,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 203.11743936040972,
@@ -26189,7 +26189,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 143.71151911805617,
@@ -28629,7 +28629,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 170.8956860358263,
@@ -32574,7 +32574,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 150.34727808296458,
@@ -32598,7 +32598,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 142.0831543430706,
@@ -33028,7 +33028,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "20192",
     "NAF Name": "lapiedra",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 152.02059420381158,
@@ -33052,7 +33052,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 155.4589968708298,
@@ -33617,7 +33617,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "20411",
     "NAF Name": "sainthropee",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 140.63959303066133,
@@ -33852,7 +33852,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 150.07005495355932,
@@ -35490,7 +35490,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "20934",
     "NAF Name": "merlin_el_mago",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 153.7499835993279,
@@ -35641,7 +35641,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 161.24410794217223,
@@ -38004,7 +38004,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 138.69355615199902,
@@ -38080,7 +38080,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 158.5323713658452,
@@ -38527,7 +38527,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "21917",
     "NAF Name": "drako",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 162.19419702280564,
@@ -39360,7 +39360,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 126.14226444914084,
@@ -39383,7 +39383,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "22259",
     "NAF Name": "Eldar666",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 149.281286315309,
@@ -40987,7 +40987,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "22858",
     "NAF Name": "WILLY_6969",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 150.06594900042515,
@@ -41036,7 +41036,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 157.02624017045065,
@@ -42709,7 +42709,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 165.9747609316794,
@@ -43086,7 +43086,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "23843",
     "NAF Name": "Sianour",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 151.33410587927057,
@@ -47835,7 +47835,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "25496",
     "NAF Name": "Caustic",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 144.90701719433986,
@@ -48885,7 +48885,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 128.77653203615424,
@@ -48972,7 +48972,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 178.0275122502008,
@@ -53570,7 +53570,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "28204",
     "NAF Name": "kalitri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 217.82014298639842,
@@ -55640,7 +55640,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "29398",
     "NAF Name": "jotun",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 134.00208528979437,
@@ -56073,7 +56073,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "29644",
     "NAF Name": "pingueran",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 195.95303584125148,
@@ -57243,7 +57243,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "30299",
     "NAF Name": "The_Cat_Alan",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 157.9957230225939,
@@ -57775,7 +57775,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "30594",
     "NAF Name": "Raultorres8a",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 154.88985597455118,
@@ -57798,7 +57798,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "30639",
     "NAF Name": "Ruper",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 149.3352248039006,
@@ -58542,7 +58542,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "30936",
     "NAF Name": "mammut90",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 144.34314575050763,
@@ -60490,7 +60490,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 154.79370461317149,
@@ -60679,7 +60679,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "31874",
     "NAF Name": "sir_ulrik",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 130.63143875100636,
@@ -64658,7 +64658,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "33722",
     "NAF Name": "gonzip",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 148.73172990464616,
@@ -65264,7 +65264,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "33954",
     "NAF Name": "dafni_21",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 128.3332641560853,
@@ -65510,7 +65510,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "34081",
     "NAF Name": "LaJefa",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 137.68790757583494,
@@ -67132,7 +67132,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "34667",
     "NAF Name": "victorvallejo",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 147.36659774662922,
@@ -67190,7 +67190,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "34706",
     "NAF Name": "nakai_bcn",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 125.89397341393463,
@@ -67773,7 +67773,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "35102",
     "NAF Name": "antilles",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 156.8257323916868,
@@ -68107,7 +68107,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "35280",
     "NAF Name": "rechef",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 159.6448150721161,
@@ -68153,7 +68153,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "35282",
     "NAF Name": "makutodj",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 133.16977279548306,
@@ -74185,7 +74185,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "40017",
     "NAF Name": "jgarrido",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Amazon",
     "rating": 144.3010249957885,

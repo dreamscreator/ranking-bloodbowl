@@ -14588,7 +14588,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "17307",
     "NAF Name": "MAKISH",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 149.53715260562998,
@@ -14611,7 +14611,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 135.80009022634178,
@@ -14640,7 +14640,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "17309",
     "NAF Name": "GATOCION",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 147.384682802539,
@@ -19991,7 +19991,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "20099",
     "NAF Name": "ferbi",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 137.29268229069677,
@@ -20013,7 +20013,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 146.7464482949255,
@@ -20038,7 +20038,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 155.45917118795413,
@@ -20271,7 +20271,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 149.93122910637703,
@@ -20911,7 +20911,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 135.52820266935453,
@@ -22108,7 +22108,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "20934",
     "NAF Name": "merlin_el_mago",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 155.44401972779326,
@@ -22295,7 +22295,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 151.04900279625645,
@@ -24077,7 +24077,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 136.1373927321043,
@@ -24101,7 +24101,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 161.68745820810955,
@@ -24969,7 +24969,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 132.53224411945078,
@@ -25021,7 +25021,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "22254",
     "NAF Name": "Thorgeir",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 151.40610614277273,
@@ -26391,7 +26391,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 139.67702752215916,
@@ -30959,7 +30959,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "25261",
     "NAF Name": "Valas_Hunter",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 100.35102040873582,
@@ -32406,7 +32406,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 123.9094666012841,
@@ -32454,7 +32454,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 152.40534582231234,
@@ -33995,7 +33995,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "26752",
     "NAF Name": "LivedroL",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 154.8749289759702,
@@ -35565,7 +35565,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "27591",
     "NAF Name": "mastie",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 136.9817606865564,
@@ -42003,7 +42003,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 155.27347516703142,
@@ -42127,7 +42127,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "31874",
     "NAF Name": "sir_ulrik",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 120.5863406718855,
@@ -45633,7 +45633,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "34085",
     "NAF Name": "torin_32",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 143.8256018949058,
@@ -46000,7 +46000,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "34502",
     "NAF Name": "Constri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 161.49170681964867,
@@ -51281,7 +51281,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "38352",
     "NAF Name": "Lobo_Tat",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Vampire",
     "rating": 150.3458753646697,

@@ -28167,7 +28167,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "17066",
     "NAF Name": "Rancio",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 139.99581365199919,
@@ -28221,7 +28221,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "17069",
     "NAF Name": "Sidius",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 161.49475062630026,
@@ -28250,7 +28250,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "17071",
     "NAF Name": "Pocketpunki",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 149.63912346113844,
@@ -28975,7 +28975,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 112.50047437032356,
@@ -29004,7 +29004,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "17309",
     "NAF Name": "GATOCION",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 144.3912076788081,
@@ -29028,7 +29028,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 185.83143801078222,
@@ -29057,7 +29057,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "17311",
     "NAF Name": "VonKa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 135.5337010197876,
@@ -33087,7 +33087,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 147.69349613527623,
@@ -38028,7 +38028,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "20099",
     "NAF Name": "ferbi",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 201.65068518403373,
@@ -38057,7 +38057,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 142.94008753612954,
@@ -38080,7 +38080,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 145.42817825578032,
@@ -38500,7 +38500,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 201.3008579737998,
@@ -39207,7 +39207,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "20411",
     "NAF Name": "sainthropee",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 145.72974762912642,
@@ -39308,7 +39308,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "20434",
     "NAF Name": "Tropeking",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 145.60801620806274,
@@ -39617,7 +39617,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 170.65922521520096,
@@ -41615,7 +41615,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "20934",
     "NAF Name": "merlin_el_mago",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 138.2985101674427,
@@ -41855,7 +41855,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 157.04935649204228,
@@ -44743,7 +44743,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 174.79692312227712,
@@ -44823,7 +44823,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 154.3418585997343,
@@ -46172,7 +46172,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 136.98742306364264,
@@ -46267,7 +46267,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "22259",
     "NAF Name": "Eldar666",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 150.66405385019547,
@@ -47858,7 +47858,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "22768",
     "NAF Name": "Natzo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 144.7307875529598,
@@ -48225,7 +48225,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 146.45251365464608,
@@ -49267,7 +49267,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "23323",
     "NAF Name": "Giropaaa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 156.97255046646507,
@@ -50236,7 +50236,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "23588",
     "NAF Name": "miguej",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 144.00037038268263,
@@ -50388,7 +50388,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 155.6997188997243,
@@ -51124,7 +51124,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "23843",
     "NAF Name": "Sianour",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 145.08228860455037,
@@ -55812,7 +55812,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "25260",
     "NAF Name": "Ux_Manners",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 128.82020809677638,
@@ -58298,7 +58298,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 139.08060299995742,
@@ -58418,7 +58418,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 151.4767068268887,
@@ -60673,7 +60673,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "26616",
     "NAF Name": "Tukiri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 144.6987302899153,
@@ -62757,7 +62757,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "27442",
     "NAF Name": "el_reverendo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 165.0088075048116,
@@ -63319,7 +63319,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "27591",
     "NAF Name": "mastie",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 149.72196126524437,
@@ -64598,7 +64598,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "28204",
     "NAF Name": "kalitri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 184.25721001633136,
@@ -66946,7 +66946,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "29398",
     "NAF Name": "jotun",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 171.06112257838814,
@@ -69196,7 +69196,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "30683",
     "NAF Name": "mapachito",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 136.9240975569396,
@@ -72038,7 +72038,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 151.1565902797558,
@@ -72187,7 +72187,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "31874",
     "NAF Name": "sir_ulrik",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 118.25346649137356,
@@ -72216,7 +72216,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "31906",
     "NAF Name": "A_Mezaf",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 135.88044266993703,
@@ -73207,7 +73207,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 151.53986734374297,
@@ -75116,7 +75116,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "33358",
     "NAF Name": "Penduliano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 154.02544342488855,
@@ -76535,7 +76535,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "34316",
     "NAF Name": "sergaran",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 146.30544036701747,
@@ -79722,7 +79722,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "37086",
     "NAF Name": "gale",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 83.84324029782557,
@@ -80750,7 +80750,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "38352",
     "NAF Name": "Lobo_Tat",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 141.12623880502358,
@@ -81671,7 +81671,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "39326",
     "NAF Name": "Fukitriki",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 134.71456466045464,
@@ -82558,7 +82558,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "40951",
     "NAF Name": "Roronoa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Dwarf",
     "rating": 157.00593237104354,

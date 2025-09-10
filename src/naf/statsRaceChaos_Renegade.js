@@ -16945,7 +16945,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "17307",
     "NAF Name": "MAKISH",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 143.77712544233097,
@@ -16970,7 +16970,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 149.62766810961998,
@@ -17715,7 +17715,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 143.72978338951157,
@@ -23204,7 +23204,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 141.43522584918816,
@@ -23233,7 +23233,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 165.8314913805462,
@@ -23513,7 +23513,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "20192",
     "NAF Name": "lapiedra",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 151.49912770462205,
@@ -23542,7 +23542,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 151.02026312933282,
@@ -24226,7 +24226,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 161.1389611112642,
@@ -25848,7 +25848,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "20934",
     "NAF Name": "merlin_el_mago",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 143.7414342446774,
@@ -26053,7 +26053,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 168.21626423828653,
@@ -28215,7 +28215,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 167.49704776326195,
@@ -28589,7 +28589,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "21917",
     "NAF Name": "drako",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 135.76861377732638,
@@ -29444,7 +29444,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 174.3789968068661,
@@ -30647,7 +30647,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 153.53527046758126,
@@ -32401,7 +32401,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 172.54993072769048,
@@ -32833,7 +32833,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "23843",
     "NAF Name": "Sianour",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 154.79035945415754,
@@ -37455,7 +37455,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 136.9782080492837,
@@ -41847,7 +41847,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "28204",
     "NAF Name": "kalitri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 153.92161603778436,
@@ -42509,7 +42509,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "28785",
     "NAF Name": "Bufal",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 138.74203659903003,
@@ -42532,7 +42532,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "28786",
     "NAF Name": "Solo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 128.75617770101414,
@@ -43513,7 +43513,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "29398",
     "NAF Name": "jotun",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 128.37906048893257,
@@ -45345,7 +45345,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "30594",
     "NAF Name": "Raultorres8a",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 144.11755808633637,
@@ -45780,7 +45780,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "30936",
     "NAF Name": "mammut90",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 144.37889984069668,
@@ -47325,7 +47325,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 170.87046697277663,
@@ -48043,7 +48043,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 167.49750284501746,
@@ -50367,7 +50367,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "34085",
     "NAF Name": "torin_32",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 144.34350121357448,
@@ -51191,7 +51191,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "34975",
     "NAF Name": "dgt99",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Chaos Renegade",
     "rating": 146.11547774172215,

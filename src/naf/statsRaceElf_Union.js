@@ -19901,7 +19901,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "17307",
     "NAF Name": "MAKISH",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 165.77222668113183,
@@ -19930,7 +19930,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 138.1378114712119,
@@ -19952,7 +19952,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 147.52589765913766,
@@ -20690,7 +20690,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 154.54397011059697,
@@ -22634,7 +22634,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 143.92869712653845,
@@ -26189,7 +26189,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 165.3452415607174,
@@ -26421,7 +26421,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 205.59771436167335,
@@ -26579,7 +26579,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "20257",
     "NAF Name": "picon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 159.14921862376494,
@@ -27210,7 +27210,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 144.97812131925343,
@@ -28522,7 +28522,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "20934",
     "NAF Name": "merlin_el_mago",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 158.09727493332772,
@@ -30739,7 +30739,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 150.13210259116173,
@@ -30789,7 +30789,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 159.8898272273744,
@@ -31808,7 +31808,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "22254",
     "NAF Name": "Thorgeir",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 151.67678351618872,
@@ -38186,7 +38186,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "25496",
     "NAF Name": "Caustic",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 129.7846505913121,
@@ -39242,7 +39242,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 132.11834517797513,
@@ -48212,7 +48212,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "30639",
     "NAF Name": "Ruper",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 150.44576711627525,
@@ -48671,7 +48671,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "30931",
     "NAF Name": "J50infantes",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 150.51032271155918,
@@ -50361,7 +50361,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 152.17724966530486,
@@ -58459,7 +58459,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "39327",
     "NAF Name": "Chinasko",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Elf Union",
     "rating": 151.05250600921795,

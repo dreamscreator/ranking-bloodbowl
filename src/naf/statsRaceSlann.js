@@ -12246,7 +12246,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 140.17342471765983,
@@ -12272,7 +12272,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 149.92481808805832,
@@ -12295,7 +12295,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "17311",
     "NAF Name": "VonKa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 135.4735933160948,
@@ -12994,7 +12994,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "17701",
     "NAF Name": "narro",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 132.48445646091193,
@@ -13590,7 +13590,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "18129",
     "NAF Name": "godfather",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 149.85189673046412,
@@ -14501,7 +14501,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 147.8843146424273,
@@ -16617,7 +16617,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 149.82818318332465,
@@ -16807,7 +16807,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 150.6179234069156,
@@ -17123,7 +17123,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "20434",
     "NAF Name": "Tropeking",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 144.0061659132011,
@@ -17254,7 +17254,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 162.26508147552255,
@@ -18583,7 +18583,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 162.44293986326537,
@@ -20052,7 +20052,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 161.8142836771178,
@@ -20106,7 +20106,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 158.41860215234968,
@@ -21825,7 +21825,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 155.71750254235658,
@@ -23028,7 +23028,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Slann",
     "rating": 140.88605234063328,
@@ -23332,7 +23332,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "23843",
     "NAF Name": "Sianour",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 150.60967028166309,
@@ -23673,7 +23673,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "24056",
     "NAF Name": "JosefvonBauren",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 151.51793835417675,
@@ -23930,7 +23930,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "24308",
     "NAF Name": "Chobinator",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 149.5798203703241,
@@ -25170,7 +25170,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "25260",
     "NAF Name": "Ux_Manners",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 137.81283396285048,
@@ -25260,7 +25260,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "25294",
     "NAF Name": "Hal9000",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 174.76242429768837,
@@ -28013,7 +28013,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "27442",
     "NAF Name": "el_reverendo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 151.82557664330295,
@@ -29092,7 +29092,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "28631",
     "NAF Name": "adriona",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 127.33432745386281,
@@ -29272,7 +29272,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "28785",
     "NAF Name": "Bufal",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 149.99150981879745,
@@ -29844,7 +29844,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "29398",
     "NAF Name": "jotun",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 161.61758486647287,
@@ -30023,7 +30023,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "29644",
     "NAF Name": "pingueran",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 159.72999108057581,
@@ -30793,7 +30793,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "30594",
     "NAF Name": "Raultorres8a",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Slann",
     "rating": 151.76058827462538,
@@ -31227,7 +31227,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "30936",
     "NAF Name": "mammut90",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 143.51779971916463,
@@ -32137,7 +32137,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 158.409627912833,
@@ -34551,7 +34551,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "34085",
     "NAF Name": "torin_32",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Slann",
     "rating": 143.82768824267822,

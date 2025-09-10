@@ -30868,7 +30868,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "17071",
     "NAF Name": "Pocketpunki",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 145.2430818282247,
@@ -31562,7 +31562,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "17307",
     "NAF Name": "MAKISH",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 151.63333655252558,
@@ -31590,7 +31590,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 145.44497960673044,
@@ -31613,7 +31613,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 207.0547190610274,
@@ -31642,7 +31642,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "17311",
     "NAF Name": "VonKa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 145.0004828815069,
@@ -34117,7 +34117,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "18129",
     "NAF Name": "godfather",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 135.92853372972422,
@@ -35889,7 +35889,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 197.42202733207898,
@@ -41311,7 +41311,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 140.47314606445053,
@@ -41333,7 +41333,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 161.8581942921308,
@@ -41557,7 +41557,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 135.14264016103252,
@@ -41864,7 +41864,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "20257",
     "NAF Name": "picon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 140.10245033401876,
@@ -42456,7 +42456,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "20434",
     "NAF Name": "Tropeking",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 135.8496242691851,
@@ -42776,7 +42776,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 182.82728907602075,
@@ -44691,7 +44691,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "20934",
     "NAF Name": "merlin_el_mago",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 149.68790157319575,
@@ -47804,7 +47804,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 167.04029814095978,
@@ -47915,7 +47915,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 135.98694198130903,
@@ -48321,7 +48321,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "21917",
     "NAF Name": "drako",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 151.18835032427836,
@@ -49432,7 +49432,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "22259",
     "NAF Name": "Eldar666",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 141.2710766475084,
@@ -50076,7 +50076,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "22526",
     "NAF Name": "carca34",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 146.7083350170283,
@@ -50792,7 +50792,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "22768",
     "NAF Name": "Natzo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 140.0389147441622,
@@ -51703,7 +51703,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "23323",
     "NAF Name": "Giropaaa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 144.7698152255626,
@@ -57414,7 +57414,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "25294",
     "NAF Name": "Hal9000",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 146.0755366863139,
@@ -58119,7 +58119,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "25496",
     "NAF Name": "Caustic",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 131.6704514917417,
@@ -59346,7 +59346,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 129.366192595732,
@@ -59395,7 +59395,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 124.61014901993869,
@@ -63518,7 +63518,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "27591",
     "NAF Name": "mastie",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 154.96194907603163,
@@ -68284,7 +68284,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "30299",
     "NAF Name": "The_Cat_Alan",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 149.73433171190365,
@@ -68724,7 +68724,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "30593",
     "NAF Name": "elpuly",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 149.56425604203335,
@@ -68747,7 +68747,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "30594",
     "NAF Name": "Raultorres8a",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 147.1842038578517,
@@ -71282,7 +71282,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 150.19745965630537,
@@ -76083,7 +76083,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "34502",
     "NAF Name": "Constri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 162.3486609724316,
@@ -79514,7 +79514,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "38334",
     "NAF Name": "spectre05",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Wood Elf",
     "rating": 145.30584584221242,

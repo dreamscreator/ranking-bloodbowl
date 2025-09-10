@@ -28064,7 +28064,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 134.71640596427602,
@@ -28090,7 +28090,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 151.26648024467508,
@@ -28119,7 +28119,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "17311",
     "NAF Name": "VonKa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 145.90991145373093,
@@ -29328,7 +29328,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 133.42622756051725,
@@ -32545,7 +32545,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 179.44000394607852,
@@ -37275,7 +37275,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 151.2857021982537,
@@ -37300,7 +37300,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 161.67021876153728,
@@ -37658,7 +37658,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "20192",
     "NAF Name": "lapiedra",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 150.07271025404663,
@@ -37683,7 +37683,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 152.311659186385,
@@ -37887,7 +37887,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "20256",
     "NAF Name": "ajihad",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 141.32674751690448,
@@ -38472,7 +38472,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "20411",
     "NAF Name": "sainthropee",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 129.29412859914657,
@@ -38884,7 +38884,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 144.0047208645522,
@@ -41751,7 +41751,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 183.6711967955438,
@@ -44869,7 +44869,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "21688",
     "NAF Name": "chote",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 150.15805401093417,
@@ -45181,7 +45181,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 201.02699821689401,
@@ -45346,7 +45346,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 179.4391681133539,
@@ -45927,7 +45927,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "21917",
     "NAF Name": "drako",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 156.2369533579667,
@@ -47110,7 +47110,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 141.1853791353891,
@@ -47222,7 +47222,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "22259",
     "NAF Name": "Eldar666",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 147.12722809242248,
@@ -49117,7 +49117,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "22768",
     "NAF Name": "Natzo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 145.647385645443,
@@ -49528,7 +49528,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 149.60292571097818,
@@ -50615,7 +50615,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "23323",
     "NAF Name": "Giropaaa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 161.3352960563408,
@@ -51830,7 +51830,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "23588",
     "NAF Name": "miguej",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 150.2547456518581,
@@ -52060,7 +52060,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 168.7765656348444,
@@ -53413,7 +53413,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "24133",
     "NAF Name": "Manuxp",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 149.24289004533037,
@@ -59467,7 +59467,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 138.66286965952327,
@@ -59621,7 +59621,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 173.85792827680802,
@@ -61903,7 +61903,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "26545",
     "NAF Name": "Txuzo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 156.03187921283026,
@@ -62764,7 +62764,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "26752",
     "NAF Name": "LivedroL",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 143.76241332312364,
@@ -66030,7 +66030,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "27591",
     "NAF Name": "mastie",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 139.40435097887305,
@@ -67724,7 +67724,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "28204",
     "NAF Name": "kalitri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 148.92663212489677,
@@ -69101,7 +69101,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "28785",
     "NAF Name": "Bufal",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 146.6140573742922,
@@ -69130,7 +69130,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "28786",
     "NAF Name": "Solo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 158.91918846565463,
@@ -70942,7 +70942,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "29398",
     "NAF Name": "jotun",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 144.54489706537754,
@@ -78300,7 +78300,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 190.89455573664875,
@@ -80077,7 +80077,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 144.68742300267607,
@@ -83058,7 +83058,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "33358",
     "NAF Name": "Penduliano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 144.36207126313658,
@@ -83174,7 +83174,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "33380",
     "NAF Name": "CEKELLA",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 132.86204309283661,
@@ -84388,7 +84388,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "33722",
     "NAF Name": "gonzip",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 139.10067221749668,
@@ -85647,7 +85647,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "34085",
     "NAF Name": "torin_32",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 107.72429358344526,
@@ -86396,7 +86396,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "34380",
     "NAF Name": "hellrider",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 132.48505055676097,
@@ -87895,7 +87895,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "34975",
     "NAF Name": "dgt99",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 131.31045333421332,
@@ -88134,7 +88134,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "35102",
     "NAF Name": "antilles",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 139.1991532108614,
@@ -88458,7 +88458,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "35282",
     "NAF Name": "makutodj",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 120.85215299547109,
@@ -92835,7 +92835,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "37086",
     "NAF Name": "gale",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 139.5036001146907,
@@ -95287,7 +95287,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "38352",
     "NAF Name": "Lobo_Tat",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 140.3142306367319,
@@ -97477,7 +97477,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "39831",
     "NAF Name": "uten",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 121.95715512937623,
@@ -98249,7 +98249,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "40378",
     "NAF Name": "Molillo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Necromantic Horror",
     "rating": 160.45905824087987,

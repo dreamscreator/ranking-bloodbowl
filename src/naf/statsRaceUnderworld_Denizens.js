@@ -14736,7 +14736,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "17311",
     "NAF Name": "VonKa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 146.8497600422937,
@@ -15604,7 +15604,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 149.6848485579979,
@@ -20442,7 +20442,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 142.65771460698983,
@@ -20567,7 +20567,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 149.78051477197806,
@@ -21529,7 +21529,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 166.35560472321572,
@@ -21635,7 +21635,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "20542",
     "NAF Name": "Bron-k",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 133.79615502626643,
@@ -25367,7 +25367,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 146.31730135018327,
@@ -25441,7 +25441,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 146.60306256560204,
@@ -25751,7 +25751,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "21917",
     "NAF Name": "drako",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 109.37955789865867,
@@ -26523,7 +26523,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 134.1189553467653,
@@ -27952,7 +27952,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 161.14353089844872,
@@ -28690,7 +28690,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "23323",
     "NAF Name": "Giropaaa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 157.01204954527321,
@@ -30491,7 +30491,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "24056",
     "NAF Name": "JosefvonBauren",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 125.81221453138535,
@@ -33417,7 +33417,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "25261",
     "NAF Name": "Valas_Hunter",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 98.80013245649289,
@@ -34735,7 +34735,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 139.5913601597673,
@@ -34827,7 +34827,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 148.1769796579843,
@@ -36079,7 +36079,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "26616",
     "NAF Name": "Tukiri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 135.00477285707805,
@@ -38647,7 +38647,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "28204",
     "NAF Name": "kalitri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 152.20337235674512,
@@ -39637,7 +39637,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "28786",
     "NAF Name": "Solo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 162.35943298844222,
@@ -40356,7 +40356,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "29398",
     "NAF Name": "jotun",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 140.10641083550948,
@@ -41853,7 +41853,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "30299",
     "NAF Name": "The_Cat_Alan",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 162.37242276172879,
@@ -43164,7 +43164,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "30936",
     "NAF Name": "mammut90",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 125.33903004553763,
@@ -43784,7 +43784,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "31422",
     "NAF Name": "arrakis",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 150.4138757036586,
@@ -44684,7 +44684,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 160.85411848106418,
@@ -45642,7 +45642,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 158.3282893022565,
@@ -47945,7 +47945,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "34085",
     "NAF Name": "torin_32",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 147.07830111197114,
@@ -48171,7 +48171,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "34344",
     "NAF Name": "aludius",
-    "CCAA": "Apatrida",
+    "CCAA": "asturias",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 165.40592546439052,
@@ -48829,7 +48829,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "34975",
     "NAF Name": "dgt99",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 140.5536341592233,
@@ -49222,7 +49222,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "35282",
     "NAF Name": "makutodj",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Underworld Denizens",
     "rating": 138.77344231983767,
