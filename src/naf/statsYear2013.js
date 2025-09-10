@@ -34536,7 +34536,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "17066",
     "NAF Name": "Rancio",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 139.23866654853103,
     "bestRating": 156.92842810177595,
@@ -34592,7 +34592,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "17069",
     "NAF Name": "Sidius",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 166.20671770123369,
     "bestRating": 179.58056106415486,
@@ -34620,7 +34620,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "17071",
     "NAF Name": "Pocketpunki",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 149.76368192872394,
     "bestRating": 149.76368192872394,
@@ -36085,7 +36085,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "17306",
     "NAF Name": "PLOTJUK",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 138.24408820627195,
     "bestRating": 144.11232887701922,
@@ -36109,7 +36109,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "17307",
     "NAF Name": "MAKISH",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 156.21325371530574,
     "bestRating": 159.74444926385922,
@@ -36136,7 +36136,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 134.16262436007491,
     "bestRating": 147.4581182493284,
@@ -36164,7 +36164,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "17309",
     "NAF Name": "GATOCION",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 145.03649701860786,
     "bestRating": 151.20313749741112,
@@ -36187,7 +36187,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 185.46773767369254,
     "bestRating": 185.46773767369254,
@@ -38250,7 +38250,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 140.7092770411706,
     "bestRating": 149.2877870796245,
@@ -38302,7 +38302,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "17701",
     "NAF Name": "narro",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 169.0880495537817,
     "bestRating": 174.41544071292583,
@@ -40964,7 +40964,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "18129",
     "NAF Name": "godfather",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 139.53470546082312,
     "bestRating": 155.65685424949237,
@@ -45556,7 +45556,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 122.04286376926599,
     "bestRating": 155.65685424949237,
@@ -60331,7 +60331,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "20099",
     "NAF Name": "ferbi",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 165.0265299407196,
     "bestRating": 167.97135918683833,
@@ -60386,7 +60386,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 129.72559706253477,
     "bestRating": 145.4152929213353,
@@ -60431,7 +60431,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 118.8547177530095,
     "bestRating": 151.68409771687377,
@@ -61560,7 +61560,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "20192",
     "NAF Name": "lapiedra",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 139.94753850462126,
     "bestRating": 156.39079350691074,
