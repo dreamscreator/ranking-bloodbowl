@@ -28087,7 +28087,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "17307",
     "NAF Name": "MAKISH",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 140.3461216195088,
@@ -28110,7 +28110,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 139.29475291863065,
@@ -28133,7 +28133,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 166.5503026614793,
@@ -29437,7 +29437,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 154.95501069672565,
@@ -32868,7 +32868,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 162.61282217170208,
@@ -38093,7 +38093,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 146.48047417464323,
@@ -38117,7 +38117,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 147.958354468282,
@@ -38514,7 +38514,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 163.8802096943432,
@@ -39866,7 +39866,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "20542",
     "NAF Name": "Bron-k",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 134.85200007442518,
@@ -41930,7 +41930,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "20934",
     "NAF Name": "merlin_el_mago",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 178.5083562277743,
@@ -42179,7 +42179,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 153.93867187125988,
@@ -45290,7 +45290,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 149.03397711423426,
@@ -45448,7 +45448,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 156.54107272718798,
@@ -47297,7 +47297,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 142.3683413451661,
@@ -47475,7 +47475,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "22259",
     "NAF Name": "Eldar666",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 168.86505247239404,
@@ -49581,7 +49581,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "22768",
     "NAF Name": "Natzo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 167.19398164805142,
@@ -49863,7 +49863,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 155.9426986895711,
@@ -51143,7 +51143,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "23323",
     "NAF Name": "Giropaaa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 158.91682538258692,
@@ -52328,7 +52328,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "23588",
     "NAF Name": "miguej",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 143.80679982576316,
@@ -53836,7 +53836,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "24056",
     "NAF Name": "JosefvonBauren",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 171.95978227920386,
@@ -60904,7 +60904,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 145.75521884905012,
@@ -69755,7 +69755,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "28631",
     "NAF Name": "adriona",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 119.17219177947975,
@@ -70295,7 +70295,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "28785",
     "NAF Name": "Bufal",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 154.33571804321417,
@@ -71879,7 +71879,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "29398",
     "NAF Name": "jotun",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 157.09370733210565,
@@ -75040,7 +75040,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "30593",
     "NAF Name": "elpuly",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 161.04236247672452,
@@ -75069,7 +75069,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "30594",
     "NAF Name": "Raultorres8a",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 139.15777438298315,
@@ -76349,7 +76349,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "30936",
     "NAF Name": "mammut90",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 151.15722482014894,
@@ -79683,7 +79683,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 151.17623818536703,
@@ -79961,7 +79961,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "31874",
     "NAF Name": "sir_ulrik",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 120.24278480668713,
@@ -80063,7 +80063,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "31906",
     "NAF Name": "A_Mezaf",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 125.4138198230162,
@@ -81862,7 +81862,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 156.46399503095563,
@@ -84040,7 +84040,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "33099",
     "NAF Name": "angelostttt",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 121.24092377398136,
@@ -85034,7 +85034,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "33402",
     "NAF Name": "suave",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 136.24205495605216,
@@ -86985,7 +86985,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "34085",
     "NAF Name": "torin_32",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 150.07356278932522,
@@ -88837,7 +88837,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "34706",
     "NAF Name": "nakai_bcn",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 149.68123160079563,
@@ -89590,7 +89590,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "35102",
     "NAF Name": "antilles",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 171.5805780182702,
@@ -96442,7 +96442,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "37977",
     "NAF Name": "Derebor",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 163.02613673312945,
@@ -97512,7 +97512,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "38417",
     "NAF Name": "Andevasmaikelnais",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 141.91632014371567,
@@ -100847,7 +100847,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "40378",
     "NAF Name": "Molillo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Lizardmen",
     "rating": 154.7969222452378,

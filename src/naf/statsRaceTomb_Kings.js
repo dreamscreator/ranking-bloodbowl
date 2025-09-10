@@ -17268,7 +17268,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "17066",
     "NAF Name": "Rancio",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 163.23334352901853,
@@ -17686,7 +17686,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 152.6923932013981,
@@ -17712,7 +17712,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "17309",
     "NAF Name": "GATOCION",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 126.9653695341938,
@@ -17736,7 +17736,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 156.59316172636002,
@@ -20595,7 +20595,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 151.27224495842248,
@@ -23470,7 +23470,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 132.8083336331423,
@@ -23499,7 +23499,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 154.34449927283967,
@@ -23811,7 +23811,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "20192",
     "NAF Name": "lapiedra",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 173.77380463198037,
@@ -23838,7 +23838,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 167.76430890612724,
@@ -24573,7 +24573,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 156.4259237640168,
@@ -24700,7 +24700,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "20542",
     "NAF Name": "Bron-k",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 109.54945108961017,
@@ -26184,7 +26184,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 193.49566034242076,
@@ -28222,7 +28222,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 157.274084035859,
@@ -28544,7 +28544,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "21917",
     "NAF Name": "drako",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 146.37440253342265,
@@ -29473,7 +29473,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 153.61792503958625,
@@ -30703,7 +30703,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 155.14494437357482,
@@ -31380,7 +31380,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "23323",
     "NAF Name": "Giropaaa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 143.49841464153346,
@@ -31911,7 +31911,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "23588",
     "NAF Name": "miguej",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 150.52447925869495,
@@ -32050,7 +32050,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 184.8954473689806,
@@ -32408,7 +32408,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "23843",
     "NAF Name": "Sianour",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 156.48630168227785,
@@ -33322,7 +33322,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "24308",
     "NAF Name": "Chobinator",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 138.4392810421175,
@@ -35779,7 +35779,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "25294",
     "NAF Name": "Hal9000",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 154.06064450004556,
@@ -37145,7 +37145,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 155.3566662582331,
@@ -41353,7 +41353,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "28204",
     "NAF Name": "kalitri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 146.07166950319188,
@@ -42252,7 +42252,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "28785",
     "NAF Name": "Bufal",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 142.8926872158386,
@@ -43328,7 +43328,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "29398",
     "NAF Name": "jotun",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 138.30459678486983,
@@ -45058,7 +45058,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "30594",
     "NAF Name": "Raultorres8a",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 138.93033657513922,
@@ -47028,7 +47028,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 183.0037204458359,
@@ -47154,7 +47154,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "31874",
     "NAF Name": "sir_ulrik",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 138.2733969395297,
@@ -47947,7 +47947,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 138.13933923713248,
@@ -49138,7 +49138,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "33380",
     "NAF Name": "CEKELLA",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 163.97414221450904,
@@ -50269,7 +50269,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "34085",
     "NAF Name": "torin_32",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 156.30781989476054,
@@ -50661,7 +50661,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "34316",
     "NAF Name": "sergaran",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 139.95853935912913,
@@ -52742,7 +52742,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "36416",
     "NAF Name": "Maki",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 144.93743125097484,
@@ -54847,7 +54847,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "39980",
     "NAF Name": "Jain",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Tomb Kings",
     "rating": 155.66045103678263,

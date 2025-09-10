@@ -35870,7 +35870,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "17066",
     "NAF Name": "Rancio",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 134.15390693634015,
@@ -35914,7 +35914,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "17069",
     "NAF Name": "Sidius",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 195.27758755707197,
@@ -36914,7 +36914,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "17307",
     "NAF Name": "MAKISH",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 133.09021025970196,
@@ -36938,7 +36938,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 166.4217529256581,
@@ -36961,7 +36961,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 143.43197014428318,
@@ -36989,7 +36989,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "17311",
     "NAF Name": "VonKa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 147.8360756450041,
@@ -38157,7 +38157,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 178.97735277560506,
@@ -42262,7 +42262,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 146.37619766566408,
@@ -47076,7 +47076,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "20099",
     "NAF Name": "ferbi",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 160.61160483322917,
@@ -47099,7 +47099,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 141.34944853995611,
@@ -47124,7 +47124,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 156.00931515777992,
@@ -47585,7 +47585,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 157.38015692985272,
@@ -47782,7 +47782,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "20257",
     "NAF Name": "picon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 160.9363361429681,
@@ -48950,7 +48950,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 156.017167329373,
@@ -49085,7 +49085,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "20542",
     "NAF Name": "Bron-k",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 142.87355477656754,
@@ -51132,7 +51132,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "20934",
     "NAF Name": "merlin_el_mago",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 153.15661936199768,
@@ -51476,7 +51476,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 204.4150593366682,
@@ -54798,7 +54798,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "21688",
     "NAF Name": "chote",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 149.28155336668593,
@@ -55108,7 +55108,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 140.18660288202577,
@@ -55177,7 +55177,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 157.26059837457015,
@@ -55768,7 +55768,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "21917",
     "NAF Name": "drako",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 177.24568693775976,
@@ -57295,7 +57295,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 154.54743346924766,
@@ -57403,7 +57403,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "22254",
     "NAF Name": "Thorgeir",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 140.90703973579318,
@@ -57475,7 +57475,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "22259",
     "NAF Name": "Eldar666",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 154.82447009171935,
@@ -58429,7 +58429,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "22526",
     "NAF Name": "carca34",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 144.83235085993437,
@@ -59694,7 +59694,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 137.05314175126463,
@@ -62833,7 +62833,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "23843",
     "NAF Name": "Sianour",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 142.3801182955697,
@@ -63649,7 +63649,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "24056",
     "NAF Name": "JosefvonBauren",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 150.36648346752494,
@@ -64915,7 +64915,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "24308",
     "NAF Name": "Chobinator",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 133.89527909270203,
@@ -71651,7 +71651,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 133.65325478544736,
@@ -71744,7 +71744,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 177.99848052086548,
@@ -77485,7 +77485,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "27442",
     "NAF Name": "el_reverendo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 177.95056816693918,
@@ -86276,7 +86276,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "30639",
     "NAF Name": "Ruper",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 142.8776682109846,
@@ -88803,7 +88803,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "31404",
     "NAF Name": "SETIENEQUEIR",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 135.68162530344443,
@@ -90053,7 +90053,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 163.9403031463203,
@@ -90197,7 +90197,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "31874",
     "NAF Name": "sir_ulrik",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 110.13677167521952,
@@ -90349,7 +90349,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "31906",
     "NAF Name": "A_Mezaf",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 132.01928142154952,
@@ -91729,7 +91729,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 151.4437859599773,
@@ -93831,7 +93831,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "33380",
     "NAF Name": "CEKELLA",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 159.42670946274194,
@@ -95738,7 +95738,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "34380",
     "NAF Name": "hellrider",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 104.35414977457009,
@@ -96458,7 +96458,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "34667",
     "NAF Name": "victorvallejo",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 132.43139549315845,
@@ -97489,7 +97489,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "35234",
     "NAF Name": "1_LuzBel_1",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 139.961759528837,
@@ -98603,7 +98603,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "35667",
     "NAF Name": "mr_coates",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 136.30721359762362,
@@ -100966,7 +100966,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "37086",
     "NAF Name": "gale",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 131.45267752432582,
@@ -101915,7 +101915,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "37977",
     "NAF Name": "Derebor",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 157.80914422671313,
@@ -102399,7 +102399,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "38417",
     "NAF Name": "Andevasmaikelnais",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 145.78104135968783,
@@ -103464,7 +103464,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "39437",
     "NAF Name": "sadboy",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 106.20250214473326,
@@ -103730,7 +103730,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "39732",
     "NAF Name": "Toninitron",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 145.23500199442628,
@@ -104458,7 +104458,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "40378",
     "NAF Name": "Molillo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Dwarf",
     "rating": 149.66748307490406,

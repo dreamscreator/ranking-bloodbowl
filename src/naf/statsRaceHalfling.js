@@ -18110,7 +18110,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "17306",
     "NAF Name": "PLOTJUK",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 137.65237377792255,
@@ -18135,7 +18135,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "17309",
     "NAF Name": "GATOCION",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 148.95464795320572,
@@ -18157,7 +18157,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "17311",
     "NAF Name": "VonKa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 134.97805512865244,
@@ -19004,7 +19004,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 141.9500931434071,
@@ -21538,7 +21538,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 126.17614662130684,
@@ -24257,7 +24257,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 130.11574901745053,
@@ -24588,7 +24588,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 142.14195242303688,
@@ -24733,7 +24733,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "20257",
     "NAF Name": "picon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 126.63860443846575,
@@ -25429,7 +25429,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 140.53105480448295,
@@ -28950,7 +28950,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 150.53825400468227,
@@ -29021,7 +29021,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 164.11927932303317,
@@ -29483,7 +29483,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "21917",
     "NAF Name": "drako",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 113.30896445875047,
@@ -31879,7 +31879,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 137.05008587292357,
@@ -32732,7 +32732,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "23323",
     "NAF Name": "Giropaaa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 136.02835853542064,
@@ -33710,7 +33710,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 156.5815386195945,
@@ -34160,7 +34160,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "23843",
     "NAF Name": "Sianour",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 129.29873932656224,
@@ -35294,7 +35294,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "24308",
     "NAF Name": "Chobinator",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 149.77512418562998,
@@ -39399,7 +39399,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 136.5047145377973,
@@ -46508,7 +46508,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "29398",
     "NAF Name": "jotun",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 150.29384358469702,
@@ -48559,7 +48559,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "30683",
     "NAF Name": "mapachito",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 133.48022691808225,
@@ -51124,7 +51124,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 162.61272834121928,
@@ -51326,7 +51326,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "31874",
     "NAF Name": "sir_ulrik",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 107.23520126801287,
@@ -52263,7 +52263,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 136.66126466786756,
@@ -55571,7 +55571,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "34698",
     "NAF Name": "raoul_lufbery",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 149.31189577888767,
@@ -55865,7 +55865,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "35102",
     "NAF Name": "antilles",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 142.84719278765377,
@@ -59099,7 +59099,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "38334",
     "NAF Name": "spectre05",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Halfling",
     "rating": 147.46083259268858,

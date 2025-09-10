@@ -17199,7 +17199,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "17309",
     "NAF Name": "GATOCION",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 155.40677282731463,
@@ -17220,7 +17220,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 151.4636675958469,
@@ -17245,7 +17245,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "17311",
     "NAF Name": "VonKa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 139.30417301593226,
@@ -17766,7 +17766,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 130.21398256527,
@@ -19787,7 +19787,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 145.48423007964658,
@@ -22804,7 +22804,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 157.43092822086084,
@@ -23087,7 +23087,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 151.01348165895692,
@@ -23880,7 +23880,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "20434",
     "NAF Name": "Tropeking",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 139.3106856883218,
@@ -24112,7 +24112,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 150.4390736010997,
@@ -24252,7 +24252,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "20542",
     "NAF Name": "Bron-k",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 131.37364118104898,
@@ -27525,7 +27525,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 153.13505685369037,
@@ -28323,7 +28323,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 144.61117128305645,
@@ -28348,7 +28348,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "22259",
     "NAF Name": "Eldar666",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 154.9033172872887,
@@ -29476,7 +29476,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 173.6802774335374,
@@ -34347,7 +34347,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 144.1845094838509,
@@ -34427,7 +34427,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 139.43645403250918,
@@ -40332,7 +40332,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "30299",
     "NAF Name": "The_Cat_Alan",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 155.76447634081688,
@@ -40763,7 +40763,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "30683",
     "NAF Name": "mapachito",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 131.33341113089432,
@@ -42039,7 +42039,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 145.71918791696052,
@@ -42625,7 +42625,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 143.23948827126551,
@@ -44226,7 +44226,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "33722",
     "NAF Name": "gonzip",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "High Elf",
     "rating": 162.50172369661092,

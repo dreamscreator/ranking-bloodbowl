@@ -33691,7 +33691,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "17306",
     "NAF Name": "PLOTJUK",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 129.60064665662048,
@@ -33720,7 +33720,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 108.19456072176254,
@@ -33749,7 +33749,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 149.56883410436117,
@@ -39161,7 +39161,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 157.17462376479008,
@@ -44371,7 +44371,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "20099",
     "NAF Name": "ferbi",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 155.65685424949237,
@@ -44391,7 +44391,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 155.65604219046267,
@@ -44443,7 +44443,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 166.85211768269002,
@@ -44737,7 +44737,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "20192",
     "NAF Name": "lapiedra",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 149.6539641248901,
@@ -44813,7 +44813,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 164.0573840749461,
@@ -45241,7 +45241,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "20314",
     "NAF Name": "Sukubus",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 147.35687461991174,
@@ -45955,7 +45955,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "20411",
     "NAF Name": "sainthropee",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 138.96820234899315,
@@ -46035,7 +46035,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "20434",
     "NAF Name": "Tropeking",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 129.10255596863817,
@@ -46411,7 +46411,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 160.7057624244697,
@@ -46469,7 +46469,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "20514",
     "NAF Name": "Fontaine",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 162.22535972968822,
@@ -46698,7 +46698,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "20542",
     "NAF Name": "Bron-k",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 145.3778409111207,
@@ -48961,7 +48961,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "20934",
     "NAF Name": "merlin_el_mago",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 149.18322210690422,
@@ -49357,7 +49357,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 179.82891041192187,
@@ -53034,7 +53034,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 169.7542179896541,
@@ -53110,7 +53110,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 152.3194737994584,
@@ -53794,7 +53794,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "21917",
     "NAF Name": "drako",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 139.33074896539065,
@@ -55086,7 +55086,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 156.64044520311393,
@@ -55191,7 +55191,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "22254",
     "NAF Name": "Thorgeir",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 138.57242217701366,
@@ -55237,7 +55237,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "22259",
     "NAF Name": "Eldar666",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 156.4497102639574,
@@ -57806,7 +57806,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 156.38121847333096,
@@ -60953,7 +60953,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Human",
     "rating": 177.5517388978231,
@@ -61894,7 +61894,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "23843",
     "NAF Name": "Sianour",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 136.1855916336891,
@@ -64096,7 +64096,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "24308",
     "NAF Name": "Chobinator",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 145.46957653780788,
@@ -68229,7 +68229,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "25294",
     "NAF Name": "Hal9000",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 157.02433979254522,
@@ -70948,7 +70948,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 155.75467135090048,
@@ -71072,7 +71072,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Human",
     "rating": 125.89260146891313,
@@ -73050,7 +73050,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "26332",
     "NAF Name": "POTI",
-    "CCAA": "Andalicía",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Human",
     "rating": 139.52388539324517,
@@ -74081,7 +74081,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "26545",
     "NAF Name": "Txuzo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 130.68978576116078,
@@ -81240,7 +81240,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "28204",
     "NAF Name": "kalitri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 146.50755685557266,
@@ -90494,7 +90494,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "31235",
     "NAF Name": "Juan_mf_20",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Human",
     "rating": 143.03161416072697,
@@ -92051,7 +92051,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 149.64434118374584,
@@ -92287,7 +92287,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "31874",
     "NAF Name": "sir_ulrik",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 102.78307720940158,
@@ -92415,7 +92415,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "31906",
     "NAF Name": "A_Mezaf",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 138.24105738924342,
@@ -96521,7 +96521,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "33358",
     "NAF Name": "Penduliano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 152.60313012798358,
@@ -96546,7 +96546,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "33380",
     "NAF Name": "CEKELLA",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 134.11516801265256,
@@ -97369,7 +97369,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "33722",
     "NAF Name": "gonzip",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 171.19720341140976,
@@ -98119,7 +98119,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "34085",
     "NAF Name": "torin_32",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 137.52723850769576,
@@ -98777,7 +98777,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "34380",
     "NAF Name": "hellrider",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Human",
     "rating": 121.18200093135285,
@@ -99536,7 +99536,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "34698",
     "NAF Name": "raoul_lufbery",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 162.3328151543633,
@@ -99952,7 +99952,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "34975",
     "NAF Name": "dgt99",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Human",
     "rating": 141.9760542651107,
@@ -100146,7 +100146,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "35102",
     "NAF Name": "antilles",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 141.83811616462708,
@@ -102192,7 +102192,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "36261",
     "NAF Name": "zaiscar",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Human",
     "rating": 146.16746650101956,
@@ -103715,7 +103715,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "37086",
     "NAF Name": "gale",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Human",
     "rating": 152.73474577531078,

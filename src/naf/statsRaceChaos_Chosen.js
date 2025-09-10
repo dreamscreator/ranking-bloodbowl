@@ -21012,7 +21012,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "17307",
     "NAF Name": "MAKISH",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 150.41367955610374,
@@ -21041,7 +21041,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 140.76959277860453,
@@ -21070,7 +21070,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 149.3658126347633,
@@ -24751,7 +24751,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 167.57548427408963,
@@ -28895,7 +28895,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 160.0251017126976,
@@ -28917,7 +28917,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 128.36372257716582,
@@ -29172,7 +29172,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 155.46001369247318,
@@ -29513,7 +29513,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "20314",
     "NAF Name": "Sukubus",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 136.3140098998492,
@@ -30065,7 +30065,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 145.5573501201021,
@@ -32258,7 +32258,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 180.6625853330944,
@@ -34878,7 +34878,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 161.62480838458663,
@@ -36447,7 +36447,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 174.66028865356787,
@@ -36554,7 +36554,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "22254",
     "NAF Name": "Thorgeir",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 137.62563660609936,
@@ -37435,7 +37435,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "22526",
     "NAF Name": "carca34",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 163.40256147089673,
@@ -39402,7 +39402,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "23323",
     "NAF Name": "Giropaaa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 152.95124623123098,
@@ -40548,7 +40548,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "23588",
     "NAF Name": "miguej",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 137.70802825380957,
@@ -42685,7 +42685,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "24346",
     "NAF Name": "FENICIO",
-    "CCAA": "Andalucia",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 139.58307581916287,
@@ -48055,7 +48055,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 138.60627857975257,
@@ -48132,7 +48132,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 149.06460620769184,
@@ -49913,7 +49913,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "26332",
     "NAF Name": "POTI",
-    "CCAA": "Andalicía",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 147.6026960153576,
@@ -50633,7 +50633,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "26545",
     "NAF Name": "Txuzo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 140.5209074909298,
@@ -53538,7 +53538,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "27442",
     "NAF Name": "el_reverendo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 145.10426695566534,
@@ -56866,7 +56866,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "28631",
     "NAF Name": "adriona",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 125.30133414797787,
@@ -57265,7 +57265,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "28785",
     "NAF Name": "Bufal",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 159.755881787555,
@@ -60945,7 +60945,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "30594",
     "NAF Name": "Raultorres8a",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 140.18345182934993,
@@ -60998,7 +60998,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "30639",
     "NAF Name": "Ruper",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 123.18557711831278,
@@ -63839,7 +63839,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 162.31279423433588,
@@ -64068,7 +64068,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "31904",
     "NAF Name": "gonzag",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 158.96571945813562,
@@ -64780,7 +64780,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 158.4229599525453,
@@ -66553,7 +66553,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "33380",
     "NAF Name": "CEKELLA",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 157.19122412299396,
@@ -67670,7 +67670,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "34085",
     "NAF Name": "torin_32",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 154.755273227997,
@@ -68027,7 +68027,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "34279",
     "NAF Name": "eleith",
-    "CCAA": "Cataluña",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 164.7914428829182,
@@ -71000,7 +71000,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "36418",
     "NAF Name": "Nina",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 143.71584863025097,
@@ -75427,7 +75427,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "40951",
     "NAF Name": "Roronoa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Chaos Chosen",
     "rating": 165.5888481653746,

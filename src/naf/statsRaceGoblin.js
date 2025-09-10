@@ -22679,7 +22679,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 141.11290171328383,
@@ -22702,7 +22702,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "17309",
     "NAF Name": "GATOCION",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 132.91113402269144,
@@ -22724,7 +22724,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 153.35733590485862,
@@ -22745,7 +22745,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "17311",
     "NAF Name": "VonKa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 149.48046884916823,
@@ -23792,7 +23792,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 151.0121339760827,
@@ -26188,7 +26188,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 135.07054987762064,
@@ -30156,7 +30156,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "20099",
     "NAF Name": "ferbi",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 142.84262716487842,
@@ -30207,7 +30207,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 148.53485474561657,
@@ -30528,7 +30528,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 138.6514540871098,
@@ -31453,7 +31453,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 147.55219155851762,
@@ -31578,7 +31578,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "20542",
     "NAF Name": "Bron-k",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 131.66760061155998,
@@ -36149,7 +36149,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 150.23178794568207,
@@ -37894,7 +37894,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "22254",
     "NAF Name": "Thorgeir",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 126.31189834264973,
@@ -39583,7 +39583,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "22768",
     "NAF Name": "Natzo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 121.09366866382435,
@@ -39882,7 +39882,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 135.80158063273322,
@@ -42107,7 +42107,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 159.2780591210339,
@@ -42687,7 +42687,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "23843",
     "NAF Name": "Sianour",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 139.62377186842443,
@@ -43252,7 +43252,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "24056",
     "NAF Name": "JosefvonBauren",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 144.63679697260073,
@@ -44076,7 +44076,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "24308",
     "NAF Name": "Chobinator",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 129.09379722302336,
@@ -49047,7 +49047,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 126.17359776423294,
@@ -49117,7 +49117,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 128.52720845156546,
@@ -53182,7 +53182,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "27442",
     "NAF Name": "el_reverendo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 145.70442186416332,
@@ -53503,7 +53503,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "27591",
     "NAF Name": "mastie",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 149.41738098707165,
@@ -56314,7 +56314,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "28785",
     "NAF Name": "Bufal",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 99.81004514163776,
@@ -60147,7 +60147,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "30931",
     "NAF Name": "J50infantes",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 136.10900799712454,
@@ -61853,7 +61853,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 167.60938240649415,
@@ -61925,7 +61925,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "31874",
     "NAF Name": "sir_ulrik",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 121.278091266862,
@@ -61979,7 +61979,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "31904",
     "NAF Name": "gonzag",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 130.97072207056743,
@@ -62957,7 +62957,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 177.45747850370233,
@@ -66219,7 +66219,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "34085",
     "NAF Name": "torin_32",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 138.8850182779311,
@@ -67069,7 +67069,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "34698",
     "NAF Name": "raoul_lufbery",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 131.70516386756003,
@@ -67114,7 +67114,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "34706",
     "NAF Name": "nakai_bcn",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 92.9478269908851,
@@ -68040,7 +68040,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "35724",
     "NAF Name": "gon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 147.25270476857963,
@@ -69714,7 +69714,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "37086",
     "NAF Name": "gale",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 127.77557518530362,
@@ -70648,7 +70648,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "37977",
     "NAF Name": "Derebor",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Goblin",
     "rating": 148.96150963748977,

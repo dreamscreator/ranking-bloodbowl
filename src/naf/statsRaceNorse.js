@@ -33828,7 +33828,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 141.08691894579783,
@@ -33851,7 +33851,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "17309",
     "NAF Name": "GATOCION",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 144.85273816755935,
@@ -33874,7 +33874,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 151.01292836300337,
@@ -33897,7 +33897,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "17311",
     "NAF Name": "VonKa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 167.18037754692463,
@@ -35267,7 +35267,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "17701",
     "NAF Name": "narro",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 125.5868451567739,
@@ -39110,7 +39110,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 180.77059614881227,
@@ -44436,7 +44436,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 137.69059917380838,
@@ -44465,7 +44465,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 154.06831506099346,
@@ -44792,7 +44792,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "20192",
     "NAF Name": "lapiedra",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 149.42450852497777,
@@ -44912,7 +44912,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 181.35219277142582,
@@ -45200,7 +45200,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "20314",
     "NAF Name": "Sukubus",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 136.17746747507007,
@@ -45663,7 +45663,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "20411",
     "NAF Name": "sainthropee",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 137.78161185693565,
@@ -46208,7 +46208,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 185.3130613642981,
@@ -48460,7 +48460,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "20934",
     "NAF Name": "merlin_el_mago",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 143.92011129742505,
@@ -48849,7 +48849,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 173.55676567676915,
@@ -52378,7 +52378,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 152.1282047392456,
@@ -52985,7 +52985,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "21917",
     "NAF Name": "drako",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 138.952450597694,
@@ -54172,7 +54172,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 149.67038070455538,
@@ -55210,7 +55210,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "22526",
     "NAF Name": "carca34",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 178.80278167900755,
@@ -56337,7 +56337,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 160.05570411434294,
@@ -58426,7 +58426,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "23588",
     "NAF Name": "miguej",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Norse",
     "rating": 138.54457940962916,
@@ -58622,7 +58622,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Norse",
     "rating": 150.79462398311125,
@@ -59251,7 +59251,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "23843",
     "NAF Name": "Sianour",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 138.43788956975249,
@@ -60126,7 +60126,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "24133",
     "NAF Name": "Manuxp",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 139.9153517506402,
@@ -63841,7 +63841,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "25260",
     "NAF Name": "Ux_Manners",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 146.16217344709284,
@@ -63870,7 +63870,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "25261",
     "NAF Name": "Valas_Hunter",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 133.97805132309827,
@@ -65821,7 +65821,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 154.10479533082773,
@@ -65848,7 +65848,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Norse",
     "rating": 136.4788088855055,
@@ -68488,7 +68488,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "26752",
     "NAF Name": "LivedroL",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 131.94383953679827,
@@ -70784,7 +70784,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "27442",
     "NAF Name": "el_reverendo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 150.791488720736,
@@ -71226,7 +71226,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "27591",
     "NAF Name": "mastie",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 165.8312737454286,
@@ -72893,7 +72893,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "28204",
     "NAF Name": "kalitri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 156.18647291058326,
@@ -75745,7 +75745,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "29398",
     "NAF Name": "jotun",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 150.76827529604043,
@@ -77578,7 +77578,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "30299",
     "NAF Name": "The_Cat_Alan",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 156.64819893704183,
@@ -78323,7 +78323,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "30594",
     "NAF Name": "Raultorres8a",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Norse",
     "rating": 124.36972588780668,
@@ -78408,7 +78408,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "30639",
     "NAF Name": "Ruper",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Norse",
     "rating": 99.18614509684339,
@@ -79449,7 +79449,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "30936",
     "NAF Name": "mammut90",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 116.59162288578472,
@@ -82073,7 +82073,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 159.89777117808677,
@@ -82329,7 +82329,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "31874",
     "NAF Name": "sir_ulrik",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 117.91196839956322,
@@ -82416,7 +82416,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "31904",
     "NAF Name": "gonzag",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 138.64864474922132,
@@ -82445,7 +82445,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "31906",
     "NAF Name": "A_Mezaf",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 142.53576861422718,
@@ -86480,7 +86480,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "33380",
     "NAF Name": "CEKELLA",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 131.71854895968076,
@@ -86555,7 +86555,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "33402",
     "NAF Name": "suave",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 161.0103640894715,
@@ -88178,7 +88178,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "33954",
     "NAF Name": "dafni_21",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 127.38763058828253,
@@ -88582,7 +88582,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "34085",
     "NAF Name": "torin_32",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Norse",
     "rating": 144.5609594914759,
@@ -96504,7 +96504,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "38334",
     "NAF Name": "spectre05",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Norse",
     "rating": 130.6944219972424,
@@ -97840,7 +97840,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "39326",
     "NAF Name": "Fukitriki",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Norse",
     "rating": 153.6861110231301,
