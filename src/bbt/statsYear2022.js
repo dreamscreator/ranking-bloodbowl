@@ -2702,7 +2702,7 @@ const statsYear2022 = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "tournaments": 8,
     "gamesWon": 11,
@@ -3836,7 +3836,7 @@ const statsYear2022 = [
   {
     "NAF Nr": "35667",
     "NAF Name": "mr_coates",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,

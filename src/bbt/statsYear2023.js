@@ -2951,7 +2951,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "tournaments": 15,
     "gamesWon": 26,
@@ -3718,7 +3718,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "30936",
     "NAF Name": "mammut90",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
@@ -4139,7 +4139,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "35667",
     "NAF Name": "mr_coates",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "tournaments": 3,
     "gamesWon": 2,
@@ -4260,7 +4260,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "34706",
     "NAF Name": "nakai_bcn",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 0,
@@ -4752,7 +4752,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "33358",
     "NAF Name": "Penduliano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
@@ -5117,7 +5117,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "22236",
     "NAF Name": "Ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 2,
@@ -6166,7 +6166,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "tournaments": 1,
     "gamesWon": 1,
