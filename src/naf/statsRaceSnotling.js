@@ -6281,7 +6281,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Snotling",
     "rating": 151.3365650546771,
@@ -6474,7 +6474,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Snotling",
     "rating": 164.48838343583415,
@@ -7724,7 +7724,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "21688",
     "NAF Name": "chote",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Snotling",
     "rating": 160.72734404329918,
@@ -7847,7 +7847,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Snotling",
     "rating": 156.0411519864012,
@@ -8904,7 +8904,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "22768",
     "NAF Name": "Natzo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Snotling",
     "rating": 163.73920377983538,
@@ -9020,7 +9020,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Snotling",
     "rating": 164.3528686875,
@@ -11534,7 +11534,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "25261",
     "NAF Name": "Valas_Hunter",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Snotling",
     "rating": 136.25084993205732,
@@ -12094,7 +12094,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Snotling",
     "rating": 125.63431806002421,
@@ -15223,7 +15223,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "28786",
     "NAF Name": "Solo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Snotling",
     "rating": 135.88484362554408,
@@ -17115,7 +17115,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "30299",
     "NAF Name": "The_Cat_Alan",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Snotling",
     "rating": 151.2296369152535,
@@ -19758,7 +19758,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Snotling",
     "rating": 161.98074880804867,
@@ -20606,7 +20606,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Snotling",
     "rating": 151.39775552700948,
@@ -23714,7 +23714,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "34698",
     "NAF Name": "raoul_lufbery",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Snotling",
     "rating": 138.0901659160066,
@@ -24433,7 +24433,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "35667",
     "NAF Name": "mr_coates",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Snotling",
     "rating": 144.28995762297706,
@@ -26408,7 +26408,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "39732",
     "NAF Name": "Toninitron",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Snotling",
     "rating": 131.09829268028153,

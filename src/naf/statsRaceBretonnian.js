@@ -5939,7 +5939,7 @@ const statsRaceBretonnian = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
     "rating": 156.8951952512675,
@@ -7362,7 +7362,7 @@ const statsRaceBretonnian = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
     "rating": 134.30037388102997,
@@ -7670,7 +7670,7 @@ const statsRaceBretonnian = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
     "rating": 143.61954689247136,
@@ -9281,7 +9281,7 @@ const statsRaceBretonnian = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
     "rating": 157.13544923389915,
@@ -9563,7 +9563,7 @@ const statsRaceBretonnian = [
   {
     "NAF Nr": "22259",
     "NAF Name": "Eldar666",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
     "rating": 133.3997900841646,
@@ -10238,7 +10238,7 @@ const statsRaceBretonnian = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
     "rating": 161.35402606824277,
@@ -10787,7 +10787,7 @@ const statsRaceBretonnian = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
     "rating": 151.9265572800413,
@@ -10949,7 +10949,7 @@ const statsRaceBretonnian = [
   {
     "NAF Nr": "23766",
     "NAF Name": "salvi",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
     "rating": 141.51562135843298,
@@ -11157,7 +11157,7 @@ const statsRaceBretonnian = [
   {
     "NAF Nr": "24056",
     "NAF Name": "JosefvonBauren",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
     "rating": 153.35973190434697,
@@ -12977,7 +12977,7 @@ const statsRaceBretonnian = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Bretonnian",
     "rating": 134.64968388733695,

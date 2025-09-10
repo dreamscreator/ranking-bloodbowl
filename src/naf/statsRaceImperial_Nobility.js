@@ -4767,7 +4767,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 139.84462189459003,
@@ -5034,7 +5034,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 148.3322279770321,
@@ -6926,7 +6926,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 138.80023251011906,
@@ -8355,7 +8355,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 163.1126351820139,
@@ -8709,7 +8709,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 151.91383268503242,
@@ -9289,7 +9289,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 151.17143052244603,
@@ -12270,7 +12270,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 145.77671891339816,
@@ -14567,7 +14567,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "28204",
     "NAF Name": "kalitri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 145.50881437588401,
@@ -16075,7 +16075,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "29644",
     "NAF Name": "pingueran",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 163.0345377024281,
@@ -16804,7 +16804,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "30299",
     "NAF Name": "The_Cat_Alan",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 164.07706423925754,
@@ -19210,7 +19210,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 165.0363225572375,
@@ -19400,7 +19400,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "31904",
     "NAF Name": "gonzag",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 138.8726165383383,
@@ -19446,7 +19446,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "31906",
     "NAF Name": "A_Mezaf",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 126.85897248257837,
@@ -20341,7 +20341,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 161.22095010126148,
@@ -21902,7 +21902,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "33358",
     "NAF Name": "Penduliano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 120.02485959182955,
@@ -23805,7 +23805,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "34667",
     "NAF Name": "victorvallejo",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 149.34307833926914,
@@ -23879,7 +23879,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "34698",
     "NAF Name": "raoul_lufbery",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 142.42957518848118,
@@ -24378,7 +24378,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "35234",
     "NAF Name": "1_LuzBel_1",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Imperial Nobility",
     "rating": 132.2283905035298,

@@ -7664,7 +7664,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 154.134646336385,
@@ -10401,7 +10401,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 146.7144343170067,
@@ -10913,7 +10913,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 153.3976384096045,
@@ -11692,7 +11692,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 148.6531264062002,
@@ -13242,7 +13242,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 160.1613164527322,
@@ -14019,7 +14019,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 115.83103225913625,
@@ -14070,7 +14070,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "22254",
     "NAF Name": "Thorgeir",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 125.85430274747715,
@@ -14755,7 +14755,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "22768",
     "NAF Name": "Natzo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 122.15977931736803,
@@ -14958,7 +14958,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 156.5071787626172,
@@ -15954,7 +15954,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "23588",
     "NAF Name": "miguej",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 138.89962602498787,
@@ -20386,7 +20386,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 139.03566185041754,
@@ -20430,7 +20430,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 146.8078652659129,
@@ -23459,7 +23459,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "27591",
     "NAF Name": "mastie",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 134.58391774798827,
@@ -24367,7 +24367,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "28204",
     "NAF Name": "kalitri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 129.23305369156063,
@@ -28362,7 +28362,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "30594",
     "NAF Name": "Raultorres8a",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 135.41519520874425,
@@ -31330,7 +31330,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 160.8367668790404,
@@ -32613,7 +32613,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 150.4580561376453,
@@ -34811,7 +34811,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "33358",
     "NAF Name": "Penduliano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 132.31976309805447,
@@ -34936,7 +34936,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "33402",
     "NAF Name": "suave",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 167.75352136783548,
@@ -36239,7 +36239,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "33954",
     "NAF Name": "dafni_21",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 140.2616113425594,
@@ -36900,7 +36900,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "34279",
     "NAF Name": "eleith",
-    "CCAA": "Cataluña",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 163.1507496844652,
@@ -37332,7 +37332,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "34558",
     "NAF Name": "jerillo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 146.76723998722812,
@@ -38182,7 +38182,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "35102",
     "NAF Name": "antilles",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 150.26780765562367,
@@ -38537,7 +38537,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "35282",
     "NAF Name": "makutodj",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 133.50063113645467,
@@ -39167,7 +39167,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "35667",
     "NAF Name": "mr_coates",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 133.43527594529857,
@@ -42681,7 +42681,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "39327",
     "NAF Name": "Chinasko",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Khorne",
     "rating": 139.0175229289579,

@@ -3259,7 +3259,7 @@ const statsRaceGnome = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Gnome",
     "rating": 140.23276280391713,
@@ -4434,7 +4434,7 @@ const statsRaceGnome = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Gnome",
     "rating": 150.78415603745455,
@@ -5528,7 +5528,7 @@ const statsRaceGnome = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Gnome",
     "rating": 140.30681189829164,
@@ -6046,7 +6046,7 @@ const statsRaceGnome = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Gnome",
     "rating": 163.38842877621104,
@@ -7903,7 +7903,7 @@ const statsRaceGnome = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Gnome",
     "rating": 149.46782397740844,
@@ -7926,7 +7926,7 @@ const statsRaceGnome = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Gnome",
     "rating": 142.32289922692655,
@@ -11798,7 +11798,7 @@ const statsRaceGnome = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Gnome",
     "rating": 155.83004724389897,
@@ -13112,7 +13112,7 @@ const statsRaceGnome = [
   {
     "NAF Nr": "33358",
     "NAF Name": "Penduliano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Gnome",
     "rating": 121.83908996133391,
@@ -14215,7 +14215,7 @@ const statsRaceGnome = [
   {
     "NAF Nr": "34380",
     "NAF Name": "hellrider",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Gnome",
     "rating": 130.0111786474416,
@@ -17467,7 +17467,7 @@ const statsRaceGnome = [
   {
     "NAF Nr": "38352",
     "NAF Name": "Lobo_Tat",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Gnome",
     "rating": 145.1466569406054,

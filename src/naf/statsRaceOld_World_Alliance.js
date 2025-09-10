@@ -6281,7 +6281,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
     "rating": 149.39486549892743,
@@ -6586,7 +6586,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
     "rating": 162.66918843896724,
@@ -8203,7 +8203,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
     "rating": 154.9406374952481,
@@ -8557,7 +8557,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
     "rating": 145.50850039026358,
@@ -9036,7 +9036,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
     "rating": 143.68674070324633,
@@ -9521,7 +9521,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
     "rating": 171.48405962445935,
@@ -11604,7 +11604,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
     "rating": 149.4637560392712,
@@ -13888,7 +13888,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "28631",
     "NAF Name": "adriona",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
     "rating": 136.3408484129417,
@@ -14544,7 +14544,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "29398",
     "NAF Name": "jotun",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
     "rating": 150.8476475391197,
@@ -16893,7 +16893,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
     "rating": 151.6990078337092,
@@ -17346,7 +17346,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
     "rating": 150.70221198158683,
@@ -18936,7 +18936,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "34380",
     "NAF Name": "hellrider",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
     "rating": 119.90852222176164,
