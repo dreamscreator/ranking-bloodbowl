@@ -50,6 +50,9 @@ document.addEventListener('DOMContentLoaded', () => {
         games: item.gamesTotal,
         wdl: `${item.gamesWon}/${item.gamesDraw}/${item.gamesLost}`,
         wr: item.winRatio,
+        tendency: item.tendency || 0,
+        bestRanking: item.bestRating || 0,
+        worstRanking: item.worstRating || 0,
         rating: item.rating
       }));
   }
@@ -99,9 +102,12 @@ document.addEventListener('DOMContentLoaded', () => {
         r.games,
         r.wdl,
         r.wr.toFixed(2),
-        r.rating
+        r.bestRanking.toFixed(2),
+        r.worstRanking.toFixed(2),
+        r.tendency.toFixed(2),
+        r.rating.toFixed(2)
       ];
-      const classes = ['', '', '', '', 'hide-lg', 'hide-lg', 'hide-md', 'hide-md', ''];
+      const classes = ['', '', '', '', 'hide-lg', 'hide-lg', 'hide-lg', '', '', '', '', ''];
       
       values.forEach((text, index) => {
         const td = document.createElement('td');

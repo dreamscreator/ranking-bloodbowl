@@ -26,6 +26,9 @@ document.addEventListener("DOMContentLoaded", () => {
       draws: item.totalDraws || 0,
       losses: item.totalLosses || 0,
       winRatio: item.totalWinRatio || 0,
+      tendency: item.tendency || 0,
+      bestRanking: item.bestRating || 0,
+      worstRanking: item.worstRating || 0,
       rating: item.rating || 0,
     }))
     .filter((row) => row.games > 0); // Solo partidas > 0
@@ -161,8 +164,11 @@ document.addEventListener("DOMContentLoaded", () => {
         <td class="country-column">${row.country} (${row.rankCountry})</td>
         <td class="hide-lg">${row.tournaments}</td>
         <td class="hide-lg">${row.games}</td>
-        <td class="hide-md">${row.wins}/${row.draws}/${row.losses}</td>
-        <td class="hide-md">${row.winRatio}%</td>
+        <td class="hide-lg">${row.wins}/${row.draws}/${row.losses}</td>
+        <td>${row.winRatio}%</td>
+        <td>${row.bestRanking.toFixed(2)}</td>
+        <td>${row.worstRanking.toFixed(2)}</td>
+        <td>${row.tendency.toFixed(2)}</td>
         <td>${row.rating.toFixed(2)}</td>
       `;
       tableBody.appendChild(tr);

@@ -101,6 +101,9 @@ document.addEventListener("DOMContentLoaded", () => {
           draws: item.gamesDraw || 0,
           losses: item.gamesLost || 0,
           winRatio: item.winRatio || 0,
+          bestRanking: item.bestRating || 0,
+          worstRanking: item.worstRating || 0,
+          tendency: item.tendency || 0,
           rating: item.rating || 0,
         });
       });
@@ -220,8 +223,11 @@ document.addEventListener("DOMContentLoaded", () => {
         <td>${r.ccaa} (${r.rankCcaa})</td>
         <td class="hide-lg">${r.tournaments}</td>
         <td class="hide-lg">${r.games}</td>
-        <td class="hide-md">${r.wins}/${r.draws}/${r.losses}</td>
-        <td class="hide-md">${r.winRatio}%</td>
+        <td class="hide-lg">${r.wins}/${r.draws}/${r.losses}</td>
+        <td>${r.winRatio}%</td>
+        <td>${r.bestRanking.toFixed(2)}</td>
+        <td>${r.worstRanking.toFixed(2)}</td>
+        <td>${r.tendency.toFixed(2)}</td>
         <td>${r.rating.toFixed(2)}</td>
       `;
       tableBody.appendChild(tr);
