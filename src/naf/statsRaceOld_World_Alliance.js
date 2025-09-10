@@ -5,13 +5,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Cayman Islands",
     "race": "Old World Alliance",
-    "rating": "150.0",
+    "rating": 138.11835794404155,
+    "bestRating": 147.46465091675503,
+    "worstRating": 135.82876918146255,
+    "tendency": -9.346292972713485,
     "totalTournaments": 3,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 6,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      147.46465091675503,
+      145.75612600991795,
+      141.8863716962645,
+      139.06856127385572,
+      141.33377869277177,
+      138.5028302032354,
+      135.82876918146255,
+      138.11835794404155
+    ]
   },
   {
     "NAF Nr": "54",
@@ -19,13 +32,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "139.32",
+    "rating": 148.37021892688637,
+    "bestRating": 156.39842692228294,
+    "worstRating": 136.5649809794205,
+    "tendency": 11.805237947465855,
     "totalTournaments": 3,
     "gamesTotal": 13,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 6,
-    "winRatio": 42.31
+    "winRatio": 42.31,
+    "_lastTenRatings": [
+      136.5649809794205,
+      143.12349433694538,
+      138.53384949058454,
+      138.76574282665115,
+      144.66461457683982,
+      150.5522773527075,
+      156.39842692228294,
+      156.2083784709351,
+      152.3069678370962,
+      148.37021892688637
+    ]
   },
   {
     "NAF Nr": "83",
@@ -33,13 +61,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "151.08",
+    "rating": 150.87014321464358,
+    "bestRating": 150.87014321464358,
+    "worstRating": 144.5906738904972,
+    "tendency": 0.8701432146435764,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      144.5906738904972,
+      150.33713120077945,
+      150.2090390525172,
+      146.54323992762124,
+      150.87014321464358
+    ]
   },
   {
     "NAF Nr": "113",
@@ -47,13 +86,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "181.43",
+    "rating": 183.30711717091702,
+    "bestRating": 183.30711717091702,
+    "worstRating": 144.836761987314,
+    "tendency": 16.315484410238753,
     "totalTournaments": 4,
     "gamesTotal": 14,
     "gamesWon": 11,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 78.57
+    "winRatio": 78.57,
+    "_lastTenRatings": [
+      166.99163276067827,
+      161.72903970685496,
+      166.87801422610985,
+      171.75142949409934,
+      176.96462436293777,
+      179.9485604546822,
+      182.53071370354272,
+      175.49534763074402,
+      179.4797240287693,
+      183.30711717091702
+    ]
   },
   {
     "NAF Nr": "128",
@@ -61,13 +115,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "race": "Old World Alliance",
-    "rating": "162.98",
+    "rating": 162.06826648205057,
+    "bestRating": 162.06826648205057,
+    "worstRating": 154.69041575982342,
+    "tendency": 7.377850722227151,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.69041575982342,
+      157.33484532669277,
+      162.06826648205057
+    ]
   },
   {
     "NAF Nr": "129",
@@ -75,13 +137,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "race": "Old World Alliance",
-    "rating": "160.14",
+    "rating": 159.91806953479494,
+    "bestRating": 159.91806953479494,
+    "worstRating": 154.8245653977135,
+    "tendency": 5.019090049228595,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      154.89897948556634,
+      154.8245653977135,
+      159.91806953479494
+    ]
   },
   {
     "NAF Nr": "184",
@@ -89,13 +159,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Euskadi",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "141.03",
+    "rating": 141.04189520879171,
+    "bestRating": 144.34314575050763,
+    "worstRating": 139.36505645465897,
+    "tendency": -3.301250541715916,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.34314575050763,
+      139.36505645465897,
+      140.57583208277688,
+      141.04189520879171
+    ]
   },
   {
     "NAF Nr": "248",
@@ -103,13 +182,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "161.0",
+    "rating": 160.58300524425835,
+    "bestRating": 160.58300524425835,
+    "worstRating": 155.29150262212917,
+    "tendency": 5.2915026221291726,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      155.29150262212917,
+      160.58300524425835,
+      160.58300524425835
+    ]
   },
   {
     "NAF Nr": "341",
@@ -117,13 +204,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "167.71",
+    "rating": 165.69571846952152,
+    "bestRating": 172.1465473589071,
+    "worstRating": 145.57556590069683,
+    "tendency": 5.621048022592987,
     "totalTournaments": 4,
     "gamesTotal": 21,
     "gamesWon": 10,
     "gamesDraw": 5,
     "gamesLost": 6,
-    "winRatio": 59.52
+    "winRatio": 59.52,
+    "_lastTenRatings": [
+      160.07467044692854,
+      159.6281439317243,
+      164.6914326792124,
+      165.45377111014835,
+      161.45037999957418,
+      166.2968929831608,
+      172.1465473589071,
+      166.61441074982073,
+      160.93822644982387,
+      165.69571846952152
+    ]
   },
   {
     "NAF Nr": "371",
@@ -131,13 +233,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "152.44",
+    "rating": 153.32471954728948,
+    "bestRating": 158.73279989127616,
+    "worstRating": 153.32471954728948,
+    "tendency": -0.6752804527105241,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 56.25
+    "winRatio": 56.25,
+    "_lastTenRatings": [
+      154,
+      154.23044458262507,
+      158.19824853849073,
+      158.39158447127554,
+      158.54156706877075,
+      154.3485619282716,
+      158.73279989127616,
+      153.32471954728948
+    ]
   },
   {
     "NAF Nr": "372",
@@ -145,13 +260,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "174.76",
+    "rating": 181.3812617661279,
+    "bestRating": 181.3812617661279,
+    "worstRating": 150,
+    "tendency": 19.4517430912324,
     "totalTournaments": 3,
     "gamesTotal": 12,
     "gamesWon": 8,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      161.9295186748955,
+      158.35200811324592,
+      156.70178723685598,
+      162.0384658200846,
+      167.19576965577653,
+      160.380809154977,
+      165.34483647900646,
+      170.67108762016247,
+      175.79566731848183,
+      181.3812617661279
+    ]
   },
   {
     "NAF Nr": "520",
@@ -159,13 +289,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "130.76",
+    "rating": 129.96791500868417,
+    "bestRating": 146.23969731510874,
+    "worstRating": 129.47182713178415,
+    "tendency": -16.27178230642457,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      146.23969731510874,
+      140.73814938288956,
+      134.97714201295867,
+      129.47182713178415,
+      129.72582063992004,
+      129.96791500868417
+    ]
   },
   {
     "NAF Nr": "1009",
@@ -173,13 +314,48 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "156.69",
+    "rating": 157.28887152381043,
+    "bestRating": 162.20977219683192,
+    "worstRating": 155.29150262212917,
+    "tendency": 1.9973689016812557,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      155.29150262212917,
+      161.55722785010624,
+      156.27677055789562,
+      162.20977219683192,
+      157.28887152381043
+    ]
+  },
+  {
+    "NAF Nr": "1143",
+    "NAF Name": "mawph",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Old World Alliance",
+    "rating": 152.55270949693198,
+    "bestRating": 158.78926786080982,
+    "worstRating": 149.7375374572698,
+    "tendency": -3.7327091550630485,
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "winRatio": 50,
+    "_lastTenRatings": [
+      156.28541865199503,
+      149.7375374572698,
+      151.01354593625038,
+      150.80485589352702,
+      158.78926786080982,
+      152.55270949693198
+    ]
   },
   {
     "NAF Nr": "2460",
@@ -187,13 +363,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "155.86",
+    "rating": 155.65354051794148,
+    "bestRating": 155.65354051794148,
+    "worstRating": 153.2294573417513,
+    "tendency": 2.3369157275860744,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      153.3166247903554,
+      153.2294573417513,
+      155.65354051794148
+    ]
   },
   {
     "NAF Nr": "2591",
@@ -201,13 +385,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "146.76",
+    "rating": 146.5935585891047,
+    "bestRating": 150.74656573659686,
+    "worstRating": 146.5935585891047,
+    "tendency": -0.38624540528414286,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.97980399438885,
+      150.74656573659686,
+      146.5935585891047
+    ]
   },
   {
     "NAF Nr": "2795",
@@ -215,13 +407,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "146.07",
+    "rating": 145.97396435307343,
+    "bestRating": 155.65685424949237,
+    "worstRating": 145.26359847742452,
+    "tendency": -9.682889896418942,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      149.9808965492111,
+      145.26359847742452,
+      152.98018628562656,
+      147.39741690373862,
+      145.97396435307343
+    ]
   },
   {
     "NAF Nr": "2925",
@@ -229,13 +432,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "160.52",
+    "rating": 161.28833516662405,
+    "bestRating": 164.857196840854,
+    "worstRating": 157.55018172880006,
+    "tendency": 3.7381534378239962,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      157.55018172880006,
+      164.3739634394194,
+      164.857196840854,
+      158.8918985461051,
+      160.67467026376596,
+      161.28833516662405
+    ]
   },
   {
     "NAF Nr": "3225",
@@ -243,13 +457,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "136.05",
+    "rating": 133.21630749940118,
+    "bestRating": 146.9918414160001,
+    "worstRating": 133.21630749940118,
+    "tendency": -9.468290715908353,
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 3,
     "gamesDraw": 4,
     "gamesLost": 7,
-    "winRatio": 35.71
+    "winRatio": 35.71,
+    "_lastTenRatings": [
+      142.68459821530953,
+      139.40444605195734,
+      134.88030448357844,
+      141.04264551695314,
+      135.88747866637624,
+      137.66692540944481,
+      143.12052578589072,
+      138.5398361114382,
+      138.77671128634162,
+      133.21630749940118
+    ]
   },
   {
     "NAF Nr": "3228",
@@ -257,13 +486,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "149.79",
+    "rating": 149.6881744798419,
+    "bestRating": 149.6881744798419,
+    "worstRating": 146.78298898457032,
+    "tendency": 2.9051854952715814,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.78298898457032,
+      146.91171620471573,
+      149.6881744798419
+    ]
   },
   {
     "NAF Nr": "3294",
@@ -271,13 +508,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "201.79",
-    "totalTournaments": 5,
-    "gamesTotal": 18,
-    "gamesWon": 14,
-    "gamesDraw": 2,
+    "rating": 203.52294631969846,
+    "bestRating": 205.66191749785906,
+    "worstRating": 155.65685424949237,
+    "tendency": -1.4483498150327705,
+    "totalTournaments": 6,
+    "gamesTotal": 24,
+    "gamesWon": 16,
+    "gamesDraw": 6,
     "gamesLost": 2,
-    "winRatio": 83.33
+    "winRatio": 79.17,
+    "_lastTenRatings": [
+      204.97129613473123,
+      204.60500550514197,
+      198.2606043927657,
+      201.9911407176979,
+      204.90288055538937,
+      202.87961698540929,
+      202.17411910499433,
+      205.66191749785906,
+      204.25216949249858,
+      203.52294631969846
+    ]
   },
   {
     "NAF Nr": "3709",
@@ -285,13 +537,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "158.7",
+    "rating": 160.71745707889198,
+    "bestRating": 160.71745707889198,
+    "worstRating": 151.5560985475347,
+    "tendency": 5.378944554697114,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.33851252419487,
+      151.5560985475347,
+      156.05518940561763,
+      160.71745707889198
+    ]
   },
   {
     "NAF Nr": "3981",
@@ -299,13 +560,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Old World Alliance",
-    "rating": "154.23",
+    "rating": 154.2561349819012,
+    "bestRating": 154.2561349819012,
+    "worstRating": 150.09976634842982,
+    "tendency": 0.4177268789798916,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.8384081029213,
+      150.09976634842982,
+      154.2561349819012
+    ]
   },
   {
     "NAF Nr": "4728",
@@ -313,13 +582,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "154.4",
+    "rating": 154.29865172157358,
+    "bestRating": 154.29865172157358,
+    "worstRating": 146.66998301155994,
+    "tendency": 7.628668710013642,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      146.66998301155994,
+      150.18554564195497,
+      154.29865172157358
+    ]
   },
   {
     "NAF Nr": "4818",
@@ -327,13 +604,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "163.02",
+    "rating": 162.88785218740946,
+    "bestRating": 162.88785218740946,
+    "worstRating": 151.6377268162972,
+    "tendency": 11.250125371112262,
     "totalTournaments": 2,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      151.6377268162972,
+      157.42649393151555,
+      156.78887248292108,
+      157.2109133630458,
+      162.88785218740946
+    ]
   },
   {
     "NAF Nr": "4824",
@@ -341,13 +628,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "154.94",
+    "rating": 154.91970096990622,
+    "bestRating": 154.91970096990622,
+    "worstRating": 154.91970096990622,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.91970096990622
+    ]
   },
   {
     "NAF Nr": "5131",
@@ -355,13 +648,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "150.9",
+    "rating": 149.61683791066977,
+    "bestRating": 154.47213595499957,
+    "worstRating": 145.61723431642633,
+    "tendency": -4.847042296778426,
     "totalTournaments": 4,
     "gamesTotal": 11,
     "gamesWon": 3,
     "gamesDraw": 5,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.4638802074482,
+      153.85792109723252,
+      153.72557282955896,
+      153.26709946474972,
+      149.4316362559994,
+      149.59747108673025,
+      145.76066971567377,
+      149.44370121097228,
+      145.61723431642633,
+      149.61683791066977
+    ]
   },
   {
     "NAF Nr": "5271",
@@ -369,13 +677,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "race": "Old World Alliance",
-    "rating": "153.05",
+    "rating": 152.8265575054151,
+    "bestRating": 152.8265575054151,
+    "worstRating": 145.10102051443366,
+    "tendency": 7.725536990981453,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      145.10102051443366,
+      148.08345824426888,
+      152.8265575054151
+    ]
   },
   {
     "NAF Nr": "5275",
@@ -383,13 +699,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "154.24",
+    "rating": 154.7303613057785,
+    "bestRating": 154.88205117297773,
+    "worstRating": 149.46562720939465,
+    "tendency": 4.494999542182256,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      150.23536176359625,
+      154.88205117297773,
+      149.46562720939465,
+      154.7303613057785
+    ]
   },
   {
     "NAF Nr": "5571",
@@ -397,27 +722,52 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Old World Alliance",
-    "rating": "136.16",
+    "rating": 138.13692843795778,
+    "bestRating": 150.02376361840405,
+    "worstRating": 136.82780924796924,
+    "tendency": -11.863071562042222,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 31.25
+    "winRatio": 31.25,
+    "_lastTenRatings": [
+      150,
+      150.02376361840405,
+      144.35951885305488,
+      138.9456230104748,
+      136.82780924796924,
+      142.75556842438317,
+      143.73630581093735,
+      138.13692843795778
+    ]
   },
   {
     "NAF Nr": "5594",
     "NAF Name": "Gotrek",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "144.83",
+    "rating": 143.58020197788682,
+    "bestRating": 143.97168125138327,
+    "worstRating": 133.2036782777238,
+    "tendency": -0.39147927349645784,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 42.86
+    "winRatio": 42.86,
+    "_lastTenRatings": [
+      143.97168125138327,
+      143.94386409278783,
+      136.82165566328544,
+      133.2036782777238,
+      138.55617460151998,
+      143.74527273709217,
+      143.58020197788682
+    ]
   },
   {
     "NAF Nr": "5675",
@@ -425,27 +775,45 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "139.3",
+    "rating": 138.86730918932065,
+    "bestRating": 144.75113323484453,
+    "worstRating": 138.72870006059995,
+    "tendency": -5.88382404552388,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.75113323484453,
+      139.07679195148253,
+      138.72870006059995,
+      138.86730918932065
+    ]
   },
   {
     "NAF Nr": "5773",
     "NAF Name": "Mitico",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "144.45",
+    "rating": 144.4496040941618,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "tendency": 0.10645834365416817,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.59922877015504,
+      144.4496040941618
+    ]
   },
   {
     "NAF Nr": "5798",
@@ -453,13 +821,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "166.57",
+    "rating": 170.00654933398116,
+    "bestRating": 178.9203791719605,
+    "worstRating": 148.15802821449878,
+    "tendency": 11.171168540082903,
     "totalTournaments": 4,
     "gamesTotal": 15,
     "gamesWon": 8,
     "gamesDraw": 2,
     "gamesLost": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      158.83538079389825,
+      164.2371277472077,
+      160.53613278761352,
+      166.26032613463,
+      164.77858425799243,
+      171.44912045915444,
+      178.9203791719605,
+      173.07747530855096,
+      174.84306773396355,
+      170.00654933398116
+    ]
   },
   {
     "NAF Nr": "5817",
@@ -467,13 +850,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "South Africa",
     "race": "Old World Alliance",
-    "rating": "147.5",
+    "rating": 147.3505588423161,
+    "bestRating": 149.9998567441439,
+    "worstRating": 147.3505588423161,
+    "tendency": -0.0036898466192951673,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      147.3542486889354,
+      149.9998567441439,
+      147.3505588423161
+    ]
   },
   {
     "NAF Nr": "5858",
@@ -481,13 +872,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "154.93",
+    "rating": 154.8655511132375,
+    "bestRating": 155.8210932154818,
+    "worstRating": 151.70250824858056,
+    "tendency": 3.163042864656944,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      151.70250824858056,
+      151.76726637409462,
+      155.8210932154818,
+      154.8655511132375
+    ]
   },
   {
     "NAF Nr": "5863",
@@ -495,13 +895,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "161.14",
+    "rating": 161.47615099969835,
+    "bestRating": 161.47615099969835,
+    "worstRating": 156.0226768104995,
+    "tendency": 5.453474189198857,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      156.0226768104995,
+      156.1404713608186,
+      156.10881687293593,
+      156.08393038723918,
+      161.47615099969835
+    ]
   },
   {
     "NAF Nr": "5893",
@@ -509,13 +919,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Ireland",
     "race": "Old World Alliance",
-    "rating": "160.64",
+    "rating": 161.43319175237562,
+    "bestRating": 161.725731736074,
+    "worstRating": 150.2652829093719,
+    "tendency": 6.1608651376699015,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.27232661470572,
+      150.2652829093719,
+      155.95207371917718,
+      161.725731736074,
+      161.29295205877472,
+      161.43319175237562
+    ]
   },
   {
     "NAF Nr": "5903",
@@ -523,13 +944,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "144.21",
+    "rating": 143.51468431457678,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.73076150507734,
+    "tendency": -0.8284614359308478,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.73076150507734,
+      143.48001400891962,
+      143.51468431457678
+    ]
   },
   {
     "NAF Nr": "6027",
@@ -537,13 +967,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "152.98",
+    "rating": 153.6343275424594,
+    "bestRating": 153.6343275424594,
+    "worstRating": 149.88790686275877,
+    "tendency": 0.008077595429284656,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.62624994703012,
+      149.88790686275877,
+      153.6343275424594
+    ]
   },
   {
     "NAF Nr": "6121",
@@ -551,13 +989,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "race": "Old World Alliance",
-    "rating": "153.77",
+    "rating": 153.34467553567464,
+    "bestRating": 154.41932962255052,
+    "worstRating": 148.58902585972297,
+    "tendency": -1.0746540868758814,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.41932962255052,
+      148.58902585972297,
+      153.34467553567464
+    ]
   },
   {
     "NAF Nr": "6123",
@@ -565,13 +1011,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "race": "Old World Alliance",
-    "rating": "153.28",
+    "rating": 152.94223419100192,
+    "bestRating": 154.43077391947324,
+    "worstRating": 150.42339003127813,
+    "tendency": -1.4885397284713235,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.43077391947324,
+      150.42339003127813,
+      152.94223419100192
+    ]
   },
   {
     "NAF Nr": "6145",
@@ -579,13 +1033,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "149.25",
+    "rating": 149.47996281889357,
+    "bestRating": 149.47996281889357,
+    "worstRating": 138.73523444957934,
+    "tendency": 5.307584365658926,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.17237845323464,
+      138.73523444957934,
+      144.28738212791782,
+      144.81348130974982,
+      149.47996281889357
+    ]
   },
   {
     "NAF Nr": "6193",
@@ -593,13 +1057,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "152.65",
+    "rating": 152.58571662009234,
+    "bestRating": 152.58571662009234,
+    "worstRating": 152.49187293257833,
+    "tendency": 0.09384368751400984,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      152.49187293257833,
+      152.58571662009234
+    ]
   },
   {
     "NAF Nr": "6261",
@@ -607,13 +1078,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "153.15",
+    "rating": 153.23007552275098,
+    "bestRating": 156.95733326539982,
+    "worstRating": 153.23007552275098,
+    "tendency": -0.04801547679335272,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.27809099954433,
+      156.95733326539982,
+      153.23007552275098
+    ]
   },
   {
     "NAF Nr": "6376",
@@ -621,13 +1100,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "145.52",
+    "rating": 145.1708895207625,
+    "bestRating": 160.6602438529611,
+    "worstRating": 127.31624000162564,
+    "tendency": 17.854649519136856,
     "totalTournaments": 5,
     "gamesTotal": 20,
     "gamesWon": 8,
     "gamesDraw": 2,
     "gamesLost": 10,
-    "winRatio": 45
+    "winRatio": 45,
+    "_lastTenRatings": [
+      127.31624000162564,
+      132.39278863659152,
+      138.1340943913714,
+      144.82543368311843,
+      140.24498718006993,
+      142.23312576287432,
+      148.5006239475635,
+      144.65900850475327,
+      139.00760456743637,
+      145.1708895207625
+    ]
   },
   {
     "NAF Nr": "6482",
@@ -635,13 +1129,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "172.0",
+    "rating": 172.8600192431831,
+    "bestRating": 172.8600192431831,
+    "worstRating": 155.88756134713054,
+    "tendency": 16.97245789605256,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 90
+    "winRatio": 90,
+    "_lastTenRatings": [
+      155.88756134713054,
+      161.50755880255318,
+      161.75033803179255,
+      167.5160082330748,
+      172.8600192431831
+    ]
   },
   {
     "NAF Nr": "6487",
@@ -649,13 +1153,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "146.83",
+    "rating": 147.23081382481516,
+    "bestRating": 149.60229196570694,
+    "worstRating": 145.88336103194968,
+    "tendency": 1.3474527928654823,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.88336103194968,
+      149.60229196570694,
+      147.23081382481516
+    ]
   },
   {
     "NAF Nr": "6639",
@@ -663,13 +1175,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "174.99",
+    "rating": 166.67526338310537,
+    "bestRating": 183.28461584227034,
+    "worstRating": 146.75263005403116,
+    "tendency": -2.8053333955887183,
     "totalTournaments": 2,
     "gamesTotal": 13,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 5,
-    "winRatio": 53.85
+    "winRatio": 53.85,
+    "_lastTenRatings": [
+      169.4805967786941,
+      176.60264032818486,
+      175.41669288601483,
+      183.28461584227034,
+      176.1283722220033,
+      177.82592539723552,
+      181.69424372338227,
+      175.8935303728395,
+      172.49279980201862,
+      166.67526338310537
+    ]
   },
   {
     "NAF Nr": "6800",
@@ -677,13 +1204,25 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "157.19",
+    "rating": 157.1812722506083,
+    "bestRating": 157.506630112666,
+    "worstRating": 150.38360784947582,
+    "tendency": 6.797664401132465,
     "totalTournaments": 1,
     "gamesTotal": 7,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 64.29
+    "winRatio": 64.29,
+    "_lastTenRatings": [
+      150.38360784947582,
+      153.55065634981264,
+      157.37917344093543,
+      155.136693520315,
+      157.506630112666,
+      154.65635289747985,
+      157.1812722506083
+    ]
   },
   {
     "NAF Nr": "6833",
@@ -691,13 +1230,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "165.83",
+    "rating": 166.33139640609264,
+    "bestRating": 166.33139640609264,
+    "worstRating": 149.95778613553398,
+    "tendency": 10.30182362374262,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      156.02957278235002,
+      154.06006949309796,
+      149.95778613553398,
+      155.23241083580575,
+      160.4990825622412,
+      166.33139640609264
+    ]
   },
   {
     "NAF Nr": "7037",
@@ -705,13 +1255,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "177.39",
+    "rating": 173.01203087198817,
+    "bestRating": 173.01203087198817,
+    "worstRating": 150,
+    "tendency": 23.012030871988173,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      150,
+      156.28683411919224,
+      164.11581053637906,
+      172.84806563386647,
+      166.54697580156775,
+      173.01203087198817
+    ]
   },
   {
     "NAF Nr": "7078",
@@ -719,13 +1280,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "154.88",
+    "rating": 154.6595668983247,
+    "bestRating": 159.43477875346247,
+    "worstRating": 144.28130508007948,
+    "tendency": -0.49527933367292576,
     "totalTournaments": 3,
     "gamesTotal": 17,
     "gamesWon": 5,
     "gamesDraw": 8,
     "gamesLost": 4,
-    "winRatio": 52.94
+    "winRatio": 52.94,
+    "_lastTenRatings": [
+      155.15484623199762,
+      159.08790780041798,
+      158.90373951782823,
+      154.59772998830292,
+      155.33248045981213,
+      156.00499037015004,
+      159.43477875346247,
+      159.09007229160048,
+      158.3683455391955,
+      154.6595668983247
+    ]
   },
   {
     "NAF Nr": "7084",
@@ -733,13 +1309,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "164.89",
+    "rating": 164.72707415049513,
+    "bestRating": 164.72707415049513,
+    "worstRating": 154.18628526823306,
+    "tendency": 10.540788882262063,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.18628526823306,
+      159.67899239898392,
+      164.72707415049513
+    ]
   },
   {
     "NAF Nr": "7192",
@@ -747,13 +1331,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "150.61",
+    "rating": 149.49937470934142,
+    "bestRating": 157.77777700864922,
+    "worstRating": 148.46097489491393,
+    "tendency": -0.9417228907768447,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.44109760011827,
+      157.77777700864922,
+      148.47606270901008,
+      148.46097489491393,
+      156.3939198848772,
+      149.49937470934142
+    ]
   },
   {
     "NAF Nr": "7218",
@@ -761,13 +1356,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "145.65",
+    "rating": 145.57946059265072,
+    "bestRating": 156.50749647100585,
+    "worstRating": 145.57946059265072,
+    "tendency": -5.140454527740218,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      150.71991512039094,
+      156.50749647100585,
+      151.19064797030939,
+      145.75658663272526,
+      151.31127685486243,
+      145.57946059265072
+    ]
   },
   {
     "NAF Nr": "7403",
@@ -775,13 +1381,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "146.11",
+    "rating": 146.00145510080165,
+    "bestRating": 146.00145510080165,
+    "worstRating": 138.71021418318378,
+    "tendency": 1.6583093502940187,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.7153743378789,
+      138.71021418318378,
+      146.00145510080165
+    ]
   },
   {
     "NAF Nr": "7407",
@@ -789,13 +1404,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Monaco",
     "race": "Old World Alliance",
-    "rating": "150.88",
+    "rating": 150.9350405554982,
+    "bestRating": 156.16311257388134,
+    "worstRating": 144.6159136648052,
+    "tendency": 6.319126890693013,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.6159136648052,
+      150.50640098724872,
+      156.16311257388134,
+      150.9350405554982
+    ]
   },
   {
     "NAF Nr": "7416",
@@ -803,13 +1427,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "143.79",
+    "rating": 143.37244148553816,
+    "bestRating": 148.92784023185615,
+    "worstRating": 143.37244148553816,
+    "tendency": -5.506773654170871,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      148.87921513970903,
+      148.92784023185615,
+      143.37244148553816
+    ]
   },
   {
     "NAF Nr": "7422",
@@ -817,13 +1449,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "137.53",
+    "rating": 137.38799614299887,
+    "bestRating": 144.40669768240326,
+    "worstRating": 137.38799614299887,
+    "tendency": -6.743793576442215,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      144.1317897194411,
+      144.40669768240326,
+      139.08979569601354,
+      138.88250608150778,
+      137.38799614299887
+    ]
   },
   {
     "NAF Nr": "7503",
@@ -831,13 +1473,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Old World Alliance",
-    "rating": "154.51",
+    "rating": 155.32774910305218,
+    "bestRating": 157.8118284024224,
+    "worstRating": 150,
+    "tendency": 5.327749103052184,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      150,
+      154.18729974186414,
+      157.8118284024224,
+      155.32774910305218
+    ]
   },
   {
     "NAF Nr": "7539",
@@ -845,13 +1496,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Guadeloupe",
     "race": "Old World Alliance",
-    "rating": "153.66",
+    "rating": 153.83091479661286,
+    "bestRating": 153.83091479661286,
+    "worstRating": 153.3080338308367,
+    "tendency": 0.5228809657761531,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.3080338308367,
+      153.5268577929344,
+      153.83091479661286
+    ]
   },
   {
     "NAF Nr": "7630",
@@ -859,13 +1518,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "157.74",
+    "rating": 157.94281150212322,
+    "bestRating": 157.94281150212322,
+    "worstRating": 147.01885560613673,
+    "tendency": 5.155645853610366,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      152.78716564851285,
+      147.01885560613673,
+      152.61906602958797,
+      157.94281150212322
+    ]
   },
   {
     "NAF Nr": "7682",
@@ -873,13 +1541,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "175.09",
+    "rating": 175.65666464769384,
+    "bestRating": 175.65666464769384,
+    "worstRating": 144.80033589799993,
+    "tendency": 25.656664647693844,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      150,
+      144.80033589799993,
+      150.4373399650227,
+      156.08565915711137,
+      156.59604839790458,
+      162.4769633540794,
+      158.9830925686987,
+      164.00697193312843,
+      170.62153352706133,
+      175.65666464769384
+    ]
   },
   {
     "NAF Nr": "7693",
@@ -887,13 +1570,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "132.4",
+    "rating": 133.51441444842885,
+    "bestRating": 144.88384027893187,
+    "worstRating": 133.51441444842885,
+    "tendency": -11.369425830503019,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.88384027893187,
+      143.1144685229236,
+      137.8970562865308,
+      133.92973496874075,
+      138.95121128395465,
+      133.51441444842885
+    ]
   },
   {
     "NAF Nr": "7729",
@@ -901,13 +1595,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "136.23",
+    "rating": 141.92616973066708,
+    "bestRating": 143.97504889782772,
+    "worstRating": 129.00092444359342,
+    "tendency": -2.048879167160635,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      143.97504889782772,
+      137.57737376442554,
+      131.24182427794798,
+      135.84103017311824,
+      129.00092444359342,
+      134.80803373364145,
+      132.3768048508495,
+      135.58810124854082,
+      138.78554463331892,
+      141.92616973066708
+    ]
   },
   {
     "NAF Nr": "7894",
@@ -915,13 +1624,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "141.14",
+    "rating": 141.01281576243562,
+    "bestRating": 154.71644261499395,
+    "worstRating": 140.76208995009478,
+    "tendency": -13.70362685255833,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      154.71644261499395,
+      150.14317072850585,
+      145.38993485424965,
+      140.76208995009478,
+      141.01281576243562
+    ]
   },
   {
     "NAF Nr": "7957",
@@ -929,13 +1648,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "176.45",
+    "rating": 183.872525510271,
+    "bestRating": 183.872525510271,
+    "worstRating": 150.33984424985255,
+    "tendency": 15.152492866470908,
     "totalTournaments": 2,
     "gamesTotal": 15,
     "gamesWon": 8,
     "gamesDraw": 2,
     "gamesLost": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      168.7200326438001,
+      162.80508527824182,
+      163.27004535811693,
+      156.1824832651668,
+      150.33984424985255,
+      157.55377478126266,
+      164.82814326981685,
+      176.0530383321277,
+      176.0807540731291,
+      183.872525510271
+    ]
   },
   {
     "NAF Nr": "8001",
@@ -943,13 +1677,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "148.89",
+    "rating": 148.85843223961427,
+    "bestRating": 153.10816881066702,
+    "worstRating": 148.85843223961427,
+    "tendency": -1.1566727158316326,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.0151049554459,
+      153.10816881066702,
+      148.9778240876383,
+      148.85843223961427
+    ]
   },
   {
     "NAF Nr": "8021",
@@ -957,13 +1700,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "161.6",
+    "rating": 162.64027539877318,
+    "bestRating": 162.64027539877318,
+    "worstRating": 154.56366142679335,
+    "tendency": 8.076613971979839,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      154.56366142679335,
+      159.69631448979442,
+      161.85519380744748,
+      162.64027539877318
+    ]
   },
   {
     "NAF Nr": "8122",
@@ -971,13 +1723,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "163.61",
+    "rating": 163.42170175281964,
+    "bestRating": 172.4728932528845,
+    "worstRating": 153.4045293537726,
+    "tendency": 10.017172399047041,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 68.75
+    "winRatio": 68.75,
+    "_lastTenRatings": [
+      153.4045293537726,
+      159.15916521707496,
+      165.8219317936375,
+      172.4728932528845,
+      171.5067286724158,
+      165.45193741568815,
+      169.93527680953412,
+      163.42170175281964
+    ]
   },
   {
     "NAF Nr": "8168",
@@ -985,13 +1750,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Old World Alliance",
-    "rating": "166.95",
+    "rating": 168.54476439302022,
+    "bestRating": 168.54476439302022,
+    "worstRating": 137.28310486607057,
+    "tendency": 25.673998441289484,
     "totalTournaments": 5,
     "gamesTotal": 16,
     "gamesWon": 9,
     "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 65.63
+    "winRatio": 65.63,
+    "_lastTenRatings": [
+      142.87076595173073,
+      147.31207681521084,
+      152.57178042592545,
+      149.19874866780978,
+      153.48875079570226,
+      157.76374534053102,
+      157.60936479104706,
+      161.49193784501705,
+      165.40030749081518,
+      168.54476439302022
+    ]
   },
   {
     "NAF Nr": "8196",
@@ -999,13 +1779,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "145.44",
+    "rating": 145.51410160316158,
+    "bestRating": 145.51410160316158,
+    "worstRating": 145.51410160316158,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      145.51410160316158
+    ]
   },
   {
     "NAF Nr": "8320",
@@ -1013,13 +1799,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "154.89",
+    "rating": 154.13892279678146,
+    "bestRating": 162.64867564123185,
+    "worstRating": 153.94494117895056,
+    "tendency": 0.19398161783090018,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      153.94494117895056,
+      158.51306816262672,
+      158.36154563130313,
+      162.64867564123185,
+      160.2087082038872,
+      154.13892279678146
+    ]
   },
   {
     "NAF Nr": "8441",
@@ -1027,13 +1824,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "134.94",
+    "rating": 134.95939338447215,
+    "bestRating": 150,
+    "worstRating": 134.91371262974,
+    "tendency": -15.04060661552785,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      150,
+      150,
+      142.65153077165047,
+      142.2375043869744,
+      134.91371262974,
+      134.95939338447215
+    ]
   },
   {
     "NAF Nr": "8442",
@@ -1041,13 +1849,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "146.25",
+    "rating": 145.7702582298412,
+    "bestRating": 145.7702582298412,
+    "worstRating": 141.7840538055808,
+    "tendency": 0.012898916960494944,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.7573593128807,
+      141.7840538055808,
+      145.7702582298412
+    ]
   },
   {
     "NAF Nr": "8630",
@@ -1055,13 +1871,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Euskadi",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "178.64",
+    "rating": 178.78707601124336,
+    "bestRating": 182.41172567743956,
+    "worstRating": 155.65685424949237,
+    "tendency": 9.78658913753705,
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 8,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 71.43
+    "winRatio": 71.43,
+    "_lastTenRatings": [
+      169.0004868737063,
+      171.23403487361216,
+      172.240421131962,
+      176.57578159047685,
+      175.82077766064123,
+      175.38228141413236,
+      182.41172567743956,
+      175.60928714120092,
+      180.24806779592168,
+      178.78707601124336
+    ]
   },
   {
     "NAF Nr": "8731",
@@ -1069,13 +1900,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "154.74",
+    "rating": 154.1647593749418,
+    "bestRating": 154.1647593749418,
+    "worstRating": 142.0529632728927,
+    "tendency": 4.164759374941809,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      150,
+      142.6055963294689,
+      142.0529632728927,
+      147.23392367109477,
+      154.1647593749418
+    ]
   },
   {
     "NAF Nr": "8861",
@@ -1083,13 +1924,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "race": "Old World Alliance",
-    "rating": "144.76",
+    "rating": 144.56159306222648,
+    "bestRating": 144.56159306222648,
+    "worstRating": 144.56159306222648,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.56159306222648
+    ]
   },
   {
     "NAF Nr": "8866",
@@ -1097,13 +1944,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "160.2",
+    "rating": 159.64379995555038,
+    "bestRating": 159.64379995555038,
+    "worstRating": 148.64426050304843,
+    "tendency": 6.9009454815000595,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 6,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 54.17
+    "winRatio": 54.17,
+    "_lastTenRatings": [
+      152.74285447405032,
+      157.88803480952055,
+      153.1031555888967,
+      158.74732268035459,
+      153.35886979659998,
+      158.6249032945371,
+      152.86112909904546,
+      148.64426050304843,
+      153.63269840822443,
+      159.64379995555038
+    ]
   },
   {
     "NAF Nr": "8901",
@@ -1111,13 +1973,25 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "168.29",
+    "rating": 166.00880679669135,
+    "bestRating": 169.85039625006382,
+    "worstRating": 153.22755574419966,
+    "tendency": 12.781251052491683,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 71.43
+    "winRatio": 71.43,
+    "_lastTenRatings": [
+      153.22755574419966,
+      157.38262851899987,
+      160.5011043558294,
+      161.78521165094676,
+      161.35669608881375,
+      169.85039625006382,
+      166.00880679669135
+    ]
   },
   {
     "NAF Nr": "8951",
@@ -1125,13 +1999,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "195.89",
+    "rating": 187.61918355361678,
+    "bestRating": 187.61918355361678,
+    "worstRating": 154.82157000735418,
+    "tendency": 32.797613546262596,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 6,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.82157000735418,
+      161.21908114082927,
+      166.51495284154643,
+      173.33146619957435,
+      179.63255603187307,
+      187.61918355361678
+    ]
   },
   {
     "NAF Nr": "8994",
@@ -1139,13 +2024,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "146.55",
+    "rating": 146.94089708155198,
+    "bestRating": 150.13539087576655,
+    "worstRating": 146.82463895050464,
+    "tendency": 0.11625813104734561,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.82463895050464,
+      150.13539087576655,
+      146.94089708155198
+    ]
   },
   {
     "NAF Nr": "9085",
@@ -1153,13 +2046,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "149.34",
+    "rating": 149.34612134284896,
+    "bestRating": 149.34612134284896,
+    "worstRating": 144.34314575050763,
+    "tendency": 5.002975592341329,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.34314575050763,
+      149.34612134284896
+    ]
   },
   {
     "NAF Nr": "9100",
@@ -1167,13 +2067,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "161.68",
+    "rating": 162.11793128731873,
+    "bestRating": 162.74358617694088,
+    "worstRating": 149.92510491464984,
+    "tendency": 12.080294403014904,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 4,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      150.03763688430382,
+      155.6209912707743,
+      149.95755531637235,
+      149.92510491464984,
+      155.6665202545988,
+      161.61236936878348,
+      162.74358617694088,
+      158.24503224539038,
+      157.61587419929918,
+      162.11793128731873
+    ]
   },
   {
     "NAF Nr": "9252",
@@ -1181,13 +2096,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "166.8",
+    "rating": 167.30695995050795,
+    "bestRating": 167.30695995050795,
+    "worstRating": 155.50142478500047,
+    "tendency": 11.650105701015576,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 80
+    "winRatio": 80,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.50142478500047,
+      161.1815042536232,
+      161.4287667070773,
+      167.30695995050795
+    ]
   },
   {
     "NAF Nr": "9524",
@@ -1195,13 +2120,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "188.67",
+    "rating": 190.09583292884068,
+    "bestRating": 190.09583292884068,
+    "worstRating": 147.34045089768784,
+    "tendency": 37.228641706405,
     "totalTournaments": 2,
     "gamesTotal": 11,
     "gamesWon": 6,
     "gamesDraw": 5,
     "gamesLost": 0,
-    "winRatio": 77.27
+    "winRatio": 77.27,
+    "_lastTenRatings": [
+      152.86719122243568,
+      159.60047338901913,
+      159.7400423547484,
+      162.17220049304765,
+      162.68728925135727,
+      167.79502187274753,
+      173.95110602448003,
+      175.1939795094985,
+      180.7083860065333,
+      190.09583292884068
+    ]
   },
   {
     "NAF Nr": "9610",
@@ -1209,13 +2149,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "158.17",
+    "rating": 158.59261620887878,
+    "bestRating": 158.59261620887878,
+    "worstRating": 143.65371938920978,
+    "tendency": 14.24947045837115,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      144.34314575050763,
+      149.46087056059545,
+      143.65371938920978,
+      148.93121820004245,
+      153.48363730403932,
+      158.59261620887878
+    ]
   },
   {
     "NAF Nr": "9672",
@@ -1223,13 +2174,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "150.52",
+    "rating": 150.62435010717397,
+    "bestRating": 153.55553187125906,
+    "worstRating": 140.9167151952989,
+    "tendency": 9.707634911875061,
     "totalTournaments": 4,
     "gamesTotal": 11,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 5,
-    "winRatio": 45.45
+    "winRatio": 45.45,
+    "_lastTenRatings": [
+      140.9167151952989,
+      145.70012994842418,
+      146.00077414499697,
+      141.77724809134907,
+      147.19765009772115,
+      152.6055223869035,
+      147.80331089653507,
+      153.55553187125906,
+      149.73310572265387,
+      150.62435010717397
+    ]
   },
   {
     "NAF Nr": "9753",
@@ -1237,13 +2203,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "155.57",
+    "rating": 156.97293597018594,
+    "bestRating": 160.73765612110896,
+    "worstRating": 146.83772233983163,
+    "tendency": 10.135213630354315,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 56.25
+    "winRatio": 56.25,
+    "_lastTenRatings": [
+      146.83772233983163,
+      150,
+      150.0767377682905,
+      146.92581660938046,
+      150.08777345139194,
+      154.97929323963626,
+      160.73765612110896,
+      156.97293597018594
+    ]
   },
   {
     "NAF Nr": "9813",
@@ -1251,13 +2230,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "183.72",
+    "rating": 183.5087842367192,
+    "bestRating": 186.08354269337903,
+    "worstRating": 150.34149803183894,
+    "tendency": 33.16728620488027,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 77.78
+    "winRatio": 77.78,
+    "_lastTenRatings": [
+      150.34149803183894,
+      159.20457691816205,
+      166.09167324450547,
+      165.99094788253217,
+      173.16576696880244,
+      181.7797726771728,
+      186.08354269337903,
+      179.34606597719403,
+      183.5087842367192
+    ]
   },
   {
     "NAF Nr": "9829",
@@ -1265,13 +2258,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "162.4",
+    "rating": 162.92078211359305,
+    "bestRating": 163.0666676614822,
+    "worstRating": 145.42637324492114,
+    "tendency": 13.26290899460085,
     "totalTournaments": 3,
     "gamesTotal": 10,
     "gamesWon": 5,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 65
+    "winRatio": 65,
+    "_lastTenRatings": [
+      149.6578731189922,
+      145.42637324492114,
+      149.97662814278527,
+      150.0046045173802,
+      146.34751043072737,
+      150.40682459207096,
+      155.0954414254875,
+      159.24676510037747,
+      163.0666676614822,
+      162.92078211359305
+    ]
   },
   {
     "NAF Nr": "9857",
@@ -1279,27 +2287,50 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "161.71",
+    "rating": 161.49423712221287,
+    "bestRating": 161.49423712221287,
+    "worstRating": 150,
+    "tendency": 11.494237122212866,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      150,
+      156.46508350273288,
+      161.49423712221287
+    ]
   },
   {
     "NAF Nr": "9937",
     "NAF Name": "Marulick",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "148.56",
+    "rating": 147.99242604461483,
+    "bestRating": 155.1612720548134,
+    "worstRating": 142.53624683238468,
+    "tendency": -2.007573955385169,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 3,
     "gamesDraw": 4,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      144.60466896444342,
+      150.47635154237463,
+      150.46850137306646,
+      155.1612720548134,
+      149.11837922071365,
+      143.3503230328717,
+      142.53624683238468,
+      148.19040937452783,
+      147.99242604461483
+    ]
   },
   {
     "NAF Nr": "9957",
@@ -1307,13 +2338,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "154.83",
+    "rating": 153.71772635912856,
+    "bestRating": 160.95262093707186,
+    "worstRating": 144.33893231841446,
+    "tendency": 3.615923695088327,
     "totalTournaments": 4,
     "gamesTotal": 12,
     "gamesWon": 5,
     "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 54.17
+    "winRatio": 54.17,
+    "_lastTenRatings": [
+      150.10180266404024,
+      155.98750317519318,
+      155.74019777120378,
+      149.9463881850215,
+      155.60557015006867,
+      160.95262093707186,
+      154.6298010555911,
+      159.6478813674517,
+      153.83146130240794,
+      153.71772635912856
+    ]
   },
   {
     "NAF Nr": "10236",
@@ -1321,13 +2367,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "155.25",
+    "rating": 156.08754587609863,
+    "bestRating": 162.02130860007358,
+    "worstRating": 149.51066840913865,
+    "tendency": 6.576877466959985,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      149.51066840913865,
+      154.62853110774608,
+      162.02130860007358,
+      156.08754587609863
+    ]
   },
   {
     "NAF Nr": "10320",
@@ -1335,13 +2390,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "156.6",
+    "rating": 155.940287953391,
+    "bestRating": 156.1383997403039,
+    "worstRating": 150.68942227736937,
+    "tendency": 5.250865676021618,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 0,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      150.68942227736937,
+      156.1383997403039,
+      155.97211390315917,
+      155.97610876372048,
+      155.940287953391
+    ]
   },
   {
     "NAF Nr": "10346",
@@ -1349,13 +2414,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "146.61",
+    "rating": 146.7162743461876,
+    "bestRating": 146.7162743461876,
+    "worstRating": 146.5906476778489,
+    "tendency": 0.12413123577991314,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.59214311040768,
+      146.5906476778489,
+      146.7162743461876
+    ]
   },
   {
     "NAF Nr": "10434",
@@ -1363,13 +2436,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "192.48",
+    "rating": 204.64191886185938,
+    "bestRating": 205.9001993525595,
+    "worstRating": 145.76840964035551,
+    "tendency": 22.17600712205055,
     "totalTournaments": 3,
     "gamesTotal": 26,
     "gamesWon": 18,
     "gamesDraw": 4,
     "gamesLost": 4,
-    "winRatio": 76.92
+    "winRatio": 76.92,
+    "_lastTenRatings": [
+      182.46591173980883,
+      185.06558338922395,
+      188.36690307535983,
+      190.71194542670546,
+      193.2266066628163,
+      196.04871388936277,
+      200.6804899211813,
+      203.83187376757357,
+      205.9001993525595,
+      204.64191886185938
+    ]
   },
   {
     "NAF Nr": "10505",
@@ -1377,13 +2465,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "155.27",
+    "rating": 153.67889229091634,
+    "bestRating": 175.17077953060817,
+    "worstRating": 148.52846856257912,
+    "tendency": -20.038369998138222,
     "totalTournaments": 4,
     "gamesTotal": 15,
     "gamesWon": 6,
     "gamesDraw": 4,
     "gamesLost": 5,
-    "winRatio": 53.33
+    "winRatio": 53.33,
+    "_lastTenRatings": [
+      173.71726228905456,
+      175.17077953060817,
+      169.76194681988707,
+      167.07924048352268,
+      160.2648873437783,
+      153.7133646182125,
+      148.52846856257912,
+      154.01233409339957,
+      149.71271671983627,
+      153.67889229091634
+    ]
   },
   {
     "NAF Nr": "10572",
@@ -1391,13 +2494,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "161.78",
+    "rating": 163.3225567633173,
+    "bestRating": 177.22505389161498,
+    "worstRating": 141.7658291796847,
+    "tendency": -4.250026870939024,
     "totalTournaments": 7,
     "gamesTotal": 31,
     "gamesWon": 14,
     "gamesDraw": 4,
     "gamesLost": 13,
-    "winRatio": 51.61
+    "winRatio": 51.61,
+    "_lastTenRatings": [
+      167.57258363425632,
+      177.22505389161498,
+      173.98859480241927,
+      168.08037630265807,
+      160.36958661190027,
+      151.73417729850544,
+      157.31574155204555,
+      164.12570428129206,
+      158.01906287593889,
+      163.3225567633173
+    ]
   },
   {
     "NAF Nr": "10731",
@@ -1405,13 +2523,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "139.76",
+    "rating": 138.72441865103286,
+    "bestRating": 144.57546214795036,
+    "worstRating": 138.72441865103286,
+    "tendency": -5.851043496917498,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      144.57546214795036,
+      139.79897107589588,
+      138.72441865103286
+    ]
   },
   {
     "NAF Nr": "10831",
@@ -1419,13 +2545,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "148.97",
+    "rating": 146.83227153198916,
+    "bestRating": 156.75915256635713,
+    "worstRating": 139.4873700823977,
+    "tendency": 4.830863507439517,
     "totalTournaments": 2,
     "gamesTotal": 17,
     "gamesWon": 5,
     "gamesDraw": 6,
     "gamesLost": 6,
-    "winRatio": 47.06
+    "winRatio": 47.06,
+    "_lastTenRatings": [
+      142.00140802454965,
+      146.7687007795002,
+      142.72605459073722,
+      139.4873700823977,
+      140.68703550097973,
+      144.73748725120245,
+      148.82571370781596,
+      149.17042016967795,
+      150.02264676292,
+      146.83227153198916
+    ]
   },
   {
     "NAF Nr": "10845",
@@ -1433,13 +2574,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "128.35",
+    "rating": 129.93544164564557,
+    "bestRating": 154.87928749794958,
+    "worstRating": 129.93544164564557,
+    "tendency": -19.623947402261166,
     "totalTournaments": 7,
     "gamesTotal": 27,
     "gamesWon": 6,
     "gamesDraw": 11,
     "gamesLost": 10,
-    "winRatio": 42.59
+    "winRatio": 42.59,
+    "_lastTenRatings": [
+      149.55938904790673,
+      144.92396775847013,
+      150.80110153592267,
+      151.0118308587644,
+      152.16397389769583,
+      149.36749589483563,
+      143.89185566652455,
+      143.05616441974072,
+      136.82064583459618,
+      129.93544164564557
+    ]
   },
   {
     "NAF Nr": "10904",
@@ -1447,13 +2603,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "188.56",
+    "rating": 188.22839257347445,
+    "bestRating": 188.22839257347445,
+    "worstRating": 149.65870192114508,
+    "tendency": 25.30327601954224,
     "totalTournaments": 5,
     "gamesTotal": 21,
     "gamesWon": 12,
     "gamesDraw": 6,
     "gamesLost": 3,
-    "winRatio": 71.43
+    "winRatio": 71.43,
+    "_lastTenRatings": [
+      162.9251165539322,
+      168.0226223235112,
+      167.63182775250274,
+      172.77021220662272,
+      177.87250772036873,
+      183.27036775234316,
+      182.40994627176562,
+      181.31986990114729,
+      184.74276916633795,
+      188.22839257347445
+    ]
   },
   {
     "NAF Nr": "11134",
@@ -1461,13 +2632,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "156.03",
+    "rating": 156.3410557946916,
+    "bestRating": 156.3410557946916,
+    "worstRating": 144.43709117235923,
+    "tendency": 11.903964622332381,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      144.43709117235923,
+      144.48087732873776,
+      150.26390664622932,
+      156.05645471395619,
+      156.3410557946916
+    ]
   },
   {
     "NAF Nr": "11278",
@@ -1475,13 +2656,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "156.05",
+    "rating": 156.29445990239265,
+    "bestRating": 156.29445990239265,
+    "worstRating": 151.2620379669762,
+    "tendency": 2.055033058788638,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.239426843604,
+      151.2620379669762,
+      156.29445990239265
+    ]
   },
   {
     "NAF Nr": "11292",
@@ -1489,13 +2678,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "145.2",
+    "rating": 145.28608281025532,
+    "bestRating": 154.16995813007088,
+    "worstRating": 145.28608281025532,
+    "tendency": -8.710505203671687,
     "totalTournaments": 2,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      153.996588013927,
+      154.16995813007088,
+      149.71202002189952,
+      145.28608281025532
+    ]
   },
   {
     "NAF Nr": "11498",
@@ -1503,13 +2701,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "169.11",
+    "rating": 168.78705424828064,
+    "bestRating": 177.84355422544795,
+    "worstRating": 150.64585841738224,
+    "tendency": 18.141195830898397,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 4,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      150.64585841738224,
+      156.27948852231364,
+      156.3102947395081,
+      162.00332890892216,
+      172.50170166656028,
+      170.82367930465816,
+      177.84355422544795,
+      173.475783875956,
+      174.52169382894843,
+      168.78705424828064
+    ]
   },
   {
     "NAF Nr": "11501",
@@ -1517,13 +2730,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "150.0",
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 150,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150
+    ]
   },
   {
     "NAF Nr": "11678",
@@ -1531,13 +2750,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "167.62",
+    "rating": 168.1499750741087,
+    "bestRating": 168.1499750741087,
+    "worstRating": 155.29150262212917,
+    "tendency": 12.858472451979537,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.29150262212917,
+      161.429359119635,
+      166.98212973796132,
+      167.22786943369948,
+      161.5460810003631,
+      168.1499750741087
+    ]
   },
   {
     "NAF Nr": "11777",
@@ -1545,13 +2775,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "182.82",
+    "rating": 182.34401928679446,
+    "bestRating": 182.34401928679446,
+    "worstRating": 155.47722557505165,
+    "tendency": 26.866793711742815,
     "totalTournaments": 3,
     "gamesTotal": 10,
     "gamesWon": 8,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 85
+    "winRatio": 85,
+    "_lastTenRatings": [
+      155.47722557505165,
+      160.9544511501033,
+      166.24525119618005,
+      171.2659255715097,
+      176.03759059824603,
+      170.04598609216544,
+      174.66888145156167,
+      178.67713845321754,
+      177.63766632088715,
+      182.34401928679446
+    ]
   },
   {
     "NAF Nr": "11788",
@@ -1559,13 +2804,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.29",
+    "rating": 155.4127777080822,
+    "bestRating": 155.4127777080822,
+    "worstRating": 145.45167859748503,
+    "tendency": 9.96109911059716,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      145.45167859748503,
+      150.255249903172,
+      155.4127777080822
+    ]
   },
   {
     "NAF Nr": "12037",
@@ -1573,13 +2826,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "150.04",
+    "rating": 149.84486908566473,
+    "bestRating": 154.47213595499957,
+    "worstRating": 149.84486908566473,
+    "tendency": -4.627266869334846,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.47213595499957,
+      150,
+      149.97943395978672,
+      149.84486908566473
+    ]
   },
   {
     "NAF Nr": "12396",
@@ -1587,13 +2849,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "149.72",
+    "rating": 149.35172055487135,
+    "bestRating": 149.45418876493906,
+    "worstRating": 144.70965367149947,
+    "tendency": -0.10246821006771256,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      149.45418876493906,
+      144.70965367149947,
+      149.35172055487135
+    ]
   },
   {
     "NAF Nr": "12520",
@@ -1601,13 +2871,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "180.72",
+    "rating": 183.0191855935568,
+    "bestRating": 183.0191855935568,
+    "worstRating": 152.16949145860252,
+    "tendency": 25.50007186874859,
     "totalTournaments": 3,
     "gamesTotal": 13,
     "gamesWon": 7,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 69.23
+    "winRatio": 69.23,
+    "_lastTenRatings": [
+      157.51911372480822,
+      162.30428785903015,
+      163.71935247121903,
+      164.15354745009176,
+      163.72160434831298,
+      170.91115466255206,
+      165.68816387953518,
+      171.14164774516368,
+      176.30028674004703,
+      183.0191855935568
+    ]
   },
   {
     "NAF Nr": "12552",
@@ -1615,13 +2900,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "153.4",
+    "rating": 153.70527571015893,
+    "bestRating": 158.71422863709023,
+    "worstRating": 149.03788339428127,
+    "tendency": -2.851598690791974,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      156.5568744009509,
+      152.01989251435853,
+      149.03788339428127,
+      153.12336056930167,
+      158.71422863709023,
+      153.70527571015893
+    ]
   },
   {
     "NAF Nr": "12639",
@@ -1629,13 +2925,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "145.26",
+    "rating": 144.98371043131985,
+    "bestRating": 155.15644234047608,
+    "worstRating": 144.98371043131985,
+    "tendency": -4.600787602120164,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      149.58449803344,
+      149.59224167039648,
+      155.15644234047608,
+      149.91115604071206,
+      144.98371043131985
+    ]
   },
   {
     "NAF Nr": "12712",
@@ -1643,13 +2949,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "154.56",
+    "rating": 156.12994394907628,
+    "bestRating": 161.7986464927558,
+    "worstRating": 154.2609009101003,
+    "tendency": 1.514148896172827,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      154.61579505290345,
+      160.59041804443882,
+      154.2609009101003,
+      161.7986464927558,
+      156.12994394907628
+    ]
   },
   {
     "NAF Nr": "12937",
@@ -1657,13 +2973,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "146.16",
+    "rating": 145.64427353468432,
+    "bestRating": 146.1270166537926,
+    "worstRating": 141.6414648228146,
+    "tendency": -0.48274311910827805,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      146.1270166537926,
+      142.1424923363576,
+      141.6414648228146,
+      145.64427353468432
+    ]
   },
   {
     "NAF Nr": "12990",
@@ -1671,13 +2996,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "162.86",
+    "rating": 163.64773806117208,
+    "bestRating": 163.64773806117208,
+    "worstRating": 154.78754015686502,
+    "tendency": 8.860197904307057,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.78754015686502,
+      159.18386107962777,
+      163.64773806117208
+    ]
   },
   {
     "NAF Nr": "13093",
@@ -1685,13 +3018,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "141.57",
+    "rating": 141.2441831117781,
+    "bestRating": 155.65685424949237,
+    "worstRating": 125.80344700900851,
+    "tendency": -9.042755380334881,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 3,
     "gamesDraw": 4,
     "gamesLost": 5,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      150.286938492113,
+      144.55373319601594,
+      138.8865402846486,
+      138.6543366535419,
+      139.32716475096512,
+      132.98383758150564,
+      125.80344700900851,
+      126.31483606526064,
+      134.6124493055784,
+      141.2441831117781
+    ]
   },
   {
     "NAF Nr": "13119",
@@ -1699,13 +3047,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Old World Alliance",
-    "rating": "143.58",
+    "rating": 143.27936945894447,
+    "bestRating": 154.15477470646982,
+    "worstRating": 143.27936945894447,
+    "tendency": -6.652234102290151,
     "totalTournaments": 2,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      149.93160356123462,
+      150.05302911798276,
+      154.15477470646982,
+      148.79297793766813,
+      143.27936945894447
+    ]
   },
   {
     "NAF Nr": "13213",
@@ -1713,13 +3071,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "145.78",
+    "rating": 144.82577001885213,
+    "bestRating": 150.3465887989789,
+    "worstRating": 144.82577001885213,
+    "tendency": -4.900148555588146,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      149.72591857444027,
+      145.63982400226388,
+      150.3465887989789,
+      144.82577001885213
+    ]
   },
   {
     "NAF Nr": "13237",
@@ -1727,13 +3094,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "157.41",
+    "rating": 157.56650502948818,
+    "bestRating": 157.83762598903752,
+    "worstRating": 154.6675815355719,
+    "tendency": 2.8989234939162714,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      154.6675815355719,
+      157.83762598903752,
+      157.56650502948818
+    ]
   },
   {
     "NAF Nr": "13249",
@@ -1741,13 +3116,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "148.69",
+    "rating": 149.25929361083323,
+    "bestRating": 156.2449979983984,
+    "worstRating": 143.14306833188664,
+    "tendency": -6.985704387565164,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      156.2449979983984,
+      149.4334650522518,
+      143.14306833188664,
+      149.4446249311613,
+      155.7642920336778,
+      149.25929361083323
+    ]
   },
   {
     "NAF Nr": "13257",
@@ -1755,13 +3141,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "171.65",
+    "rating": 173.67494436584602,
+    "bestRating": 173.67494436584602,
+    "worstRating": 155.42743338222078,
+    "tendency": 18.247510983625233,
     "totalTournaments": 2,
     "gamesTotal": 11,
     "gamesWon": 6,
     "gamesDraw": 4,
     "gamesLost": 1,
-    "winRatio": 72.73
+    "winRatio": 72.73,
+    "_lastTenRatings": [
+      155.42743338222078,
+      161.09424860766137,
+      166.76063134912138,
+      166.7965533767375,
+      172.4114998725533,
+      165.78319344982253,
+      165.13572581950305,
+      164.30969946049655,
+      169.0202808389667,
+      173.67494436584602
+    ]
   },
   {
     "NAF Nr": "13417",
@@ -1769,13 +3170,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "164.69",
+    "rating": 164.4645651681013,
+    "bestRating": 164.4645651681013,
+    "worstRating": 154.458294778404,
+    "tendency": 10.006270389697306,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.458294778404,
+      158.96857411336214,
+      164.4645651681013
+    ]
   },
   {
     "NAF Nr": "13425",
@@ -1783,13 +3192,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "race": "Old World Alliance",
-    "rating": "168.43",
+    "rating": 176.395056864796,
+    "bestRating": 176.395056864796,
+    "worstRating": 142.51163107852156,
+    "tendency": 9.583953282570945,
     "totalTournaments": 6,
     "gamesTotal": 31,
     "gamesWon": 12,
     "gamesDraw": 9,
     "gamesLost": 10,
-    "winRatio": 53.23
+    "winRatio": 53.23,
+    "_lastTenRatings": [
+      166.81110358222506,
+      172.44559625062757,
+      171.3363585075782,
+      168.18164689093973,
+      171.5988318846456,
+      170.29512479455298,
+      166.62728654387294,
+      166.81656644989894,
+      171.17206432122737,
+      176.395056864796
+    ]
   },
   {
     "NAF Nr": "13544",
@@ -1797,13 +3221,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Old World Alliance",
-    "rating": "144.65",
+    "rating": 143.43858065236913,
+    "bestRating": 149.5270882574336,
+    "worstRating": 138.47381943304393,
+    "tendency": -6.088507605064478,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      149.5270882574336,
+      144.67247346116218,
+      140.15704190520935,
+      143.090567290138,
+      138.47381943304393,
+      143.43858065236913
+    ]
   },
   {
     "NAF Nr": "13555",
@@ -1811,13 +3246,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "153.61",
+    "rating": 153.86266345642426,
+    "bestRating": 153.86266345642426,
+    "worstRating": 146.44056586856757,
+    "tendency": 7.326765071562022,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      146.53589838486224,
+      146.44056586856757,
+      147.00823924402022,
+      150.84767856578662,
+      153.86266345642426
+    ]
   },
   {
     "NAF Nr": "13691",
@@ -1825,13 +3270,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "154.67",
+    "rating": 155.89291242658737,
+    "bestRating": 155.91633363869758,
+    "worstRating": 155.89291242658737,
+    "tendency": -0.023421212110207534,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.91633363869758,
+      155.89291242658737
+    ]
   },
   {
     "NAF Nr": "14084",
@@ -1839,13 +3291,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "153.78",
+    "rating": 153.99840208727818,
+    "bestRating": 159.0800896554556,
+    "worstRating": 147.7416461979648,
+    "tendency": 6.256755889313382,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      147.7416461979648,
+      152.38349470675215,
+      158.66062569821523,
+      158.87986343876298,
+      159.0800896554556,
+      158.6256597870802,
+      154.48597298469005,
+      150.51141871233736,
+      153.99840208727818
+    ]
   },
   {
     "NAF Nr": "14128",
@@ -1853,13 +3319,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "155.4",
+    "rating": 155.65177624597177,
+    "bestRating": 155.65177624597177,
+    "worstRating": 144.5964266052947,
+    "tendency": 5.651776245971774,
     "totalTournaments": 2,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      150,
+      144.5964266052947,
+      149.71630310507376,
+      149.95711185795653,
+      155.65177624597177
+    ]
   },
   {
     "NAF Nr": "14182",
@@ -1867,13 +3343,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Hungary",
     "race": "Old World Alliance",
-    "rating": "141.05",
+    "rating": 141.09262236328814,
+    "bestRating": 154.90085143278722,
+    "worstRating": 141.09262236328814,
+    "tendency": -13.8063571222782,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      154.89897948556634,
+      154.90085143278722,
+      150.03620939647783,
+      150.0279441500108,
+      145.1479451242783,
+      141.09262236328814
+    ]
   },
   {
     "NAF Nr": "14387",
@@ -1881,13 +3368,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "135.38",
+    "rating": 135.94013079104965,
+    "bestRating": 145.31002565231438,
+    "worstRating": 135.94013079104965,
+    "tendency": -9.369894861264726,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      145.31002565231438,
+      140.19499762746915,
+      135.94013079104965
+    ]
   },
   {
     "NAF Nr": "14524",
@@ -1895,13 +3390,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "158.44",
+    "rating": 157.7030117075492,
+    "bestRating": 157.80863036136367,
+    "worstRating": 150,
+    "tendency": 7.703011707549194,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      150,
+      155.48611971832338,
+      152.3154350851622,
+      157.80863036136367,
+      157.7030117075492
+    ]
   },
   {
     "NAF Nr": "14616",
@@ -1909,13 +3414,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "165.68",
+    "rating": 165.4797871477993,
+    "bestRating": 170.29945165250956,
+    "worstRating": 150.711426777449,
+    "tendency": 14.768360370350308,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      150.711426777449,
+      158.64386279123207,
+      164.37896881629584,
+      170.29945165250956,
+      165.4797871477993
+    ]
   },
   {
     "NAF Nr": "14685",
@@ -1923,13 +3438,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "136.05",
+    "rating": 135.10835127606276,
+    "bestRating": 150,
+    "worstRating": 135.10835127606276,
+    "tendency": -14.891648723937237,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 10
+    "winRatio": 10,
+    "_lastTenRatings": [
+      150,
+      146.25450006211005,
+      142.6480037093629,
+      138.89036631914485,
+      135.10835127606276
+    ]
   },
   {
     "NAF Nr": "14843",
@@ -1937,13 +3462,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "156.8",
+    "rating": 157.30958698565993,
+    "bestRating": 157.30958698565993,
+    "worstRating": 144.90047921288462,
+    "tendency": 12.409107772775315,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      144.90047921288462,
+      151.01236330633415,
+      157.30958698565993
+    ]
   },
   {
     "NAF Nr": "14922",
@@ -1951,13 +3484,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "139.53",
+    "rating": 140.14777602166276,
+    "bestRating": 151.49221416597103,
+    "worstRating": 140.14777602166276,
+    "tendency": -4.865339856460906,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.01311587812367,
+      145.72479993651623,
+      145.95037499131718,
+      151.49221416597103,
+      145.8351956525703,
+      140.14777602166276
+    ]
   },
   {
     "NAF Nr": "15024",
@@ -1965,13 +3509,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "150.61",
+    "rating": 150.56968554041106,
+    "bestRating": 156.01212579703474,
+    "worstRating": 145.7337436286981,
+    "tendency": 0.5696855404110579,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      154.89897948556634,
+      156.01212579703474,
+      150.93000347936808,
+      145.7337436286981,
+      150.56968554041106
+    ]
   },
   {
     "NAF Nr": "15082",
@@ -1979,13 +3534,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "155.5",
+    "rating": 155.65685424949237,
+    "bestRating": 155.65685424949237,
+    "worstRating": 155.65685424949237,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.65685424949237
+    ]
   },
   {
     "NAF Nr": "15142",
@@ -1993,13 +3554,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Old World Alliance",
-    "rating": "158.2",
+    "rating": 158.69699965770653,
+    "bestRating": 158.69699965770653,
+    "worstRating": 150,
+    "tendency": 8.696999657706527,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      150,
+      154.2426406871193,
+      158.69699965770653
+    ]
   },
   {
     "NAF Nr": "15254",
@@ -2007,13 +3576,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "202.36",
+    "rating": 201.9293943755122,
+    "bestRating": 201.9293943755122,
+    "worstRating": 152.82842712474618,
+    "tendency": 28.544588768176283,
     "totalTournaments": 3,
     "gamesTotal": 16,
     "gamesWon": 13,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 84.38
+    "winRatio": 84.38,
+    "_lastTenRatings": [
+      173.38480560733592,
+      178.77962248309223,
+      184.46165330128215,
+      181.09569428882062,
+      185.00033229748277,
+      190.89251193103064,
+      190.35454708527837,
+      194.29317117781613,
+      197.35747696793024,
+      201.9293943755122
+    ]
   },
   {
     "NAF Nr": "15293",
@@ -2021,13 +3605,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "157.45",
+    "rating": 160.03039718538423,
+    "bestRating": 163.5542640676003,
+    "worstRating": 145.9177379083362,
+    "tendency": 13.400142754641791,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 55.56
+    "winRatio": 55.56,
+    "_lastTenRatings": [
+      146.63025443074244,
+      146.49112846064307,
+      151.16291266371854,
+      145.9177379083362,
+      151.29417201728887,
+      152.27085613433294,
+      157.3198532518995,
+      163.5542640676003,
+      160.03039718538423
+    ]
   },
   {
     "NAF Nr": "15413",
@@ -2035,13 +3633,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "133.12",
+    "rating": 132.7177224848895,
+    "bestRating": 146.4247271254029,
+    "worstRating": 132.7177224848895,
+    "tendency": -13.707004640513418,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 8.33
+    "winRatio": 8.33,
+    "_lastTenRatings": [
+      146.4247271254029,
+      142.22719957026388,
+      138.85821604079223,
+      139.1994500347497,
+      136.28621192761653,
+      132.7177224848895
+    ]
   },
   {
     "NAF Nr": "15415",
@@ -2049,13 +3658,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "La Rioja",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "148.35",
-    "totalTournaments": 2,
-    "gamesTotal": 7,
-    "gamesWon": 3,
-    "gamesDraw": 0,
-    "gamesLost": 4,
-    "winRatio": 42.86
+    "rating": 153.05583737219996,
+    "bestRating": 156.2657708084916,
+    "worstRating": 140.26846304359472,
+    "tendency": 2.721114153524809,
+    "totalTournaments": 3,
+    "gamesTotal": 11,
+    "gamesWon": 5,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.33472321867515,
+      145.7404418264206,
+      140.26846304359472,
+      146.47595427245736,
+      142.49168079472398,
+      148.39511645822427,
+      149.7602781042883,
+      152.46794716612212,
+      156.2657708084916,
+      153.05583737219996
+    ]
   },
   {
     "NAF Nr": "15444",
@@ -2063,13 +3687,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Asturias",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.64",
+    "rating": 150.2471507526403,
+    "bestRating": 152.55168462854084,
+    "worstRating": 146.05496585151656,
+    "tendency": 4.192184901123738,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      146.05496585151656,
+      151.78601369228065,
+      146.7612692303665,
+      147.1859583336411,
+      152.55168462854084,
+      150.2471507526403
+    ]
   },
   {
     "NAF Nr": "15546",
@@ -2077,13 +3712,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Austria",
     "race": "Old World Alliance",
-    "rating": "153.45",
+    "rating": 154.2046550553845,
+    "bestRating": 155.65685424949237,
+    "worstRating": 154.2046550553845,
+    "tendency": -1.4521991941078625,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      154.37291912315195,
+      154.2046550553845
+    ]
   },
   {
     "NAF Nr": "16068",
@@ -2091,13 +3734,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "195.34",
+    "rating": 186.75635914798164,
+    "bestRating": 193.34564849421892,
+    "worstRating": 145.91960970022353,
+    "tendency": 5.629734731056942,
     "totalTournaments": 13,
     "gamesTotal": 75,
     "gamesWon": 30,
     "gamesDraw": 21,
     "gamesLost": 24,
-    "winRatio": 54
+    "winRatio": 54,
+    "_lastTenRatings": [
+      181.1266244169247,
+      183.94226014962098,
+      179.24766314979556,
+      174.74780137227293,
+      176.7117400189923,
+      180.9195196041232,
+      185.53255518593207,
+      186.44495215658324,
+      193.34564849421892,
+      186.75635914798164
+    ]
   },
   {
     "NAF Nr": "16091",
@@ -2105,13 +3763,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "154.69",
+    "rating": 154.28938862967004,
+    "bestRating": 154.28938862967004,
+    "worstRating": 149.83880085153243,
+    "tendency": 4.450587778137617,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      149.83880085153243,
+      152.26824270973128,
+      154.28938862967004
+    ]
   },
   {
     "NAF Nr": "16121",
@@ -2119,13 +3785,25 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "164.92",
+    "rating": 165.42103162631258,
+    "bestRating": 165.42103162631258,
+    "worstRating": 147.28701558552982,
+    "tendency": 13.862267765809122,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 64.29
+    "winRatio": 64.29,
+    "_lastTenRatings": [
+      151.55876386050346,
+      147.28701558552982,
+      152.7062576282134,
+      158.24562858527563,
+      159.971360911287,
+      165.22220756409627,
+      165.42103162631258
+    ]
   },
   {
     "NAF Nr": "16131",
@@ -2133,13 +3811,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "153.92",
+    "rating": 161.82230375991193,
+    "bestRating": 176.58226486009457,
+    "worstRating": 146.4586816331004,
+    "tendency": -4.980688761394305,
     "totalTournaments": 5,
     "gamesTotal": 24,
     "gamesWon": 9,
     "gamesDraw": 8,
     "gamesLost": 7,
-    "winRatio": 54.17
+    "winRatio": 54.17,
+    "_lastTenRatings": [
+      166.80299252130624,
+      173.70600146817438,
+      172.37246406599098,
+      171.1684070361756,
+      176.58226486009457,
+      170.39832665941844,
+      169.5198390245394,
+      163.7485297612928,
+      168.54025832674262,
+      161.82230375991193
+    ]
   },
   {
     "NAF Nr": "16184",
@@ -2147,13 +3840,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "159.28",
+    "rating": 160.3932803002043,
+    "bestRating": 160.3932803002043,
+    "worstRating": 142.8925855375683,
+    "tendency": 16.174564553352724,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      144.2187157468516,
+      151.37913243387322,
+      142.96722515411577,
+      142.8925855375683,
+      151.26766088251512,
+      160.3932803002043
+    ]
   },
   {
     "NAF Nr": "16185",
@@ -2161,13 +3865,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "161.77",
+    "rating": 162.68391710511995,
+    "bestRating": 162.68391710511995,
+    "worstRating": 154.39028897344122,
+    "tendency": 8.29362813167873,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.39028897344122,
+      158.63091398882813,
+      162.68391710511995
+    ]
   },
   {
     "NAF Nr": "16256",
@@ -2175,13 +3887,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "154.09",
+    "rating": 153.98938235767537,
+    "bestRating": 153.98938235767537,
+    "worstRating": 146.1270166537926,
+    "tendency": 7.862365703882773,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      146.1270166537926,
+      150.02233015422385,
+      153.98938235767537
+    ]
   },
   {
     "NAF Nr": "16259",
@@ -2189,13 +3909,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "159.53",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 1,
+    "rating": 173.9040371487608,
+    "bestRating": 173.9040371487608,
+    "worstRating": 150,
+    "tendency": 23.904037148760807,
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 4,
+    "gamesDraw": 4,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 75,
+    "_lastTenRatings": [
+      150,
+      155.0781867808233,
+      159.85607006048906,
+      165.08580827863872,
+      168.49329598206032,
+      168.2543696864653,
+      172.49428914340032,
+      173.9040371487608
+    ]
   },
   {
     "NAF Nr": "16347",
@@ -2203,13 +3936,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "177.26",
+    "rating": 177.78880348976352,
+    "bestRating": 192.34416165915218,
+    "worstRating": 149.39900725373764,
+    "tendency": -7.635211943663592,
     "totalTournaments": 6,
     "gamesTotal": 27,
     "gamesWon": 15,
     "gamesDraw": 6,
     "gamesLost": 6,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      185.42401543342712,
+      188.01993470645033,
+      192.34416165915218,
+      186.65587893115418,
+      182.03374779438437,
+      184.8035720365786,
+      187.56675583024594,
+      184.7580301538074,
+      183.10761131100256,
+      177.78880348976352
+    ]
   },
   {
     "NAF Nr": "16403",
@@ -2217,13 +3965,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "143.51",
+    "rating": 143.082760696373,
+    "bestRating": 154.8643153935765,
+    "worstRating": 143.082760696373,
+    "tendency": -5.962270445964663,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      149.04503114233765,
+      154.8643153935765,
+      148.92304250976483,
+      143.082760696373
+    ]
   },
   {
     "NAF Nr": "16416",
@@ -2231,13 +3988,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "139.19",
+    "rating": 140.100207542358,
+    "bestRating": 144.0397814026345,
+    "worstRating": 140.100207542358,
+    "tendency": -3.5251916272019628,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      143.62539916955996,
+      144.0397814026345,
+      140.100207542358
+    ]
   },
   {
     "NAF Nr": "16473",
@@ -2245,13 +4010,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "152.99",
+    "rating": 152.43514498316296,
+    "bestRating": 157.4796126918354,
+    "worstRating": 150,
+    "tendency": 2.4351449831629566,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      155.0990195135928,
+      155.01971007330002,
+      151.80342839183854,
+      157.4796126918354,
+      152.43514498316296
+    ]
   },
   {
     "NAF Nr": "16475",
@@ -2259,13 +4035,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "139.47",
+    "rating": 139.46621908277086,
+    "bestRating": 146.58862746245012,
+    "worstRating": 129.4184071397741,
+    "tendency": -7.122408379679257,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 5,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.58862746245012,
+      141.28002443024621,
+      135.78191100470562,
+      129.4184071397741,
+      130.38889839556012,
+      135.52526673536772,
+      132.51176435971817,
+      138.84421802806497,
+      139.46621908277086
+    ]
   },
   {
     "NAF Nr": "16525",
@@ -2273,13 +4063,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "150.3",
+    "rating": 150.5219779607853,
+    "bestRating": 152.5814260141781,
+    "worstRating": 149.87689270210893,
+    "tendency": 0.6450852586763745,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      149.87689270210893,
+      152.5814260141781,
+      150.5219779607853
+    ]
   },
   {
     "NAF Nr": "16560",
@@ -2287,13 +4085,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "163.39",
+    "rating": 163.50140970831058,
+    "bestRating": 169.2242060583968,
+    "worstRating": 156.08910008885786,
+    "tendency": 7.412309619452714,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      156.08910008885786,
+      163.36880766546,
+      169.2242060583968,
+      163.50140970831058
+    ]
   },
   {
     "NAF Nr": "16579",
@@ -2301,13 +4108,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "146.61",
+    "rating": 146.19896500192846,
+    "bestRating": 150,
+    "worstRating": 142.1504347330067,
+    "tendency": -3.801034998071543,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      150,
+      145.44678383156167,
+      147.65075819708414,
+      142.1504347330067,
+      146.19896500192846
+    ]
   },
   {
     "NAF Nr": "16619",
@@ -2315,13 +4132,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "175.25",
+    "rating": 175.17692976340945,
+    "bestRating": 187.1513136601586,
+    "worstRating": 154.41945758484275,
+    "tendency": -2.146102493978617,
     "totalTournaments": 9,
     "gamesTotal": 43,
     "gamesWon": 19,
     "gamesDraw": 13,
     "gamesLost": 11,
-    "winRatio": 59.3
+    "winRatio": 59.3,
+    "_lastTenRatings": [
+      177.32303225738806,
+      181.82390515924763,
+      186.46006815811316,
+      181.4796802990803,
+      180.27110533084073,
+      184.21653712532597,
+      183.1490857593164,
+      187.1513136601586,
+      181.28987273856654,
+      175.17692976340945
+    ]
   },
   {
     "NAF Nr": "16782",
@@ -2329,13 +4161,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Switzerland",
     "race": "Old World Alliance",
-    "rating": "161.25",
+    "rating": 161.6624200238911,
+    "bestRating": 161.6624200238911,
+    "worstRating": 154.96458195869107,
+    "tendency": 6.697838065200017,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      154.96458195869107,
+      161.53800542268542,
+      156.1489581496551,
+      161.6624200238911
+    ]
   },
   {
     "NAF Nr": "16831",
@@ -2343,13 +4184,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Cantabria ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "170.25",
+    "rating": 171.52030888185345,
+    "bestRating": 176.58391403471063,
+    "worstRating": 155.14928064658636,
+    "tendency": 5.420208536414691,
     "totalTournaments": 3,
     "gamesTotal": 12,
     "gamesWon": 6,
     "gamesDraw": 5,
     "gamesLost": 1,
-    "winRatio": 70.83
+    "winRatio": 70.83,
+    "_lastTenRatings": [
+      166.10010034543876,
+      171.8676943041039,
+      176.58391403471063,
+      175.6830377580677,
+      169.8353305509872,
+      168.9494311028813,
+      173.75168873061932,
+      172.93596864869224,
+      172.21521459099267,
+      171.52030888185345
+    ]
   },
   {
     "NAF Nr": "17020",
@@ -2357,13 +4213,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "145.64",
+    "rating": 145.77156633239423,
+    "bestRating": 145.77156633239423,
+    "worstRating": 141.42310634139122,
+    "tendency": 0.13046527593490964,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      145.64110105645932,
+      145.64110105645932,
+      141.42310634139122,
+      145.77156633239423
+    ]
   },
   {
     "NAF Nr": "17038",
@@ -2371,13 +4236,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "222.74",
+    "rating": 221.4809389073986,
+    "bestRating": 223.82050952675186,
+    "worstRating": 155.6974098886625,
+    "tendency": 4.755168743612586,
     "totalTournaments": 7,
     "gamesTotal": 32,
     "gamesWon": 20,
     "gamesDraw": 10,
     "gamesLost": 2,
-    "winRatio": 78.13
+    "winRatio": 78.13,
+    "_lastTenRatings": [
+      216.72577016378602,
+      210.47340318509055,
+      213.00704282081963,
+      211.04594003898865,
+      210.7177619393378,
+      213.6498288221093,
+      216.54401976398688,
+      219.478427203982,
+      222.7307810020666,
+      221.4809389073986
+    ]
   },
   {
     "NAF Nr": "17063",
@@ -2385,13 +4265,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "173.66",
+    "rating": 174.91177072230514,
+    "bestRating": 174.91177072230514,
+    "worstRating": 126.94766442875347,
+    "tendency": 23.191310620027735,
     "totalTournaments": 9,
     "gamesTotal": 42,
     "gamesWon": 19,
     "gamesDraw": 6,
     "gamesLost": 17,
-    "winRatio": 52.38
+    "winRatio": 52.38,
+    "_lastTenRatings": [
+      151.7204601022774,
+      153.6815628841084,
+      158.17113116440845,
+      154.46249448867434,
+      159.9256720566924,
+      156.1210585605153,
+      161.573511665225,
+      165.98566593662457,
+      167.20974881933327,
+      174.91177072230514
+    ]
   },
   {
     "NAF Nr": "17153",
@@ -2399,13 +4294,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "152.29",
+    "rating": 151.47592381108285,
+    "bestRating": 155.93462184815994,
+    "worstRating": 151.47592381108285,
+    "tendency": -4.1809304384095185,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.93462184815994,
+      151.47592381108285
+    ]
   },
   {
     "NAF Nr": "17245",
@@ -2413,13 +4316,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "171.39",
+    "rating": 170.61336740697013,
+    "bestRating": 170.61336740697013,
+    "worstRating": 153.4849390259605,
+    "tendency": 17.128428381009627,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 5,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 81.25
+    "winRatio": 81.25,
+    "_lastTenRatings": [
+      153.4849390259605,
+      156.78007710255093,
+      160.9227448983502,
+      160.8216540214977,
+      165.9828844288216,
+      166.63795811063923,
+      166.34251196178263,
+      170.61336740697013
+    ]
   },
   {
     "NAF Nr": "17275",
@@ -2427,13 +4343,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "137.71",
+    "rating": 138.619887377536,
+    "bestRating": 151.90133273853073,
+    "worstRating": 132.05293592324162,
+    "tendency": 6.566951454294383,
     "totalTournaments": 4,
     "gamesTotal": 23,
     "gamesWon": 7,
     "gamesDraw": 5,
     "gamesLost": 11,
-    "winRatio": 41.3
+    "winRatio": 41.3,
+    "_lastTenRatings": [
+      132.05293592324162,
+      138.17310657028926,
+      145.23795501329496,
+      145.24768491224873,
+      141.338318503333,
+      138.0249797441339,
+      133.88273858587317,
+      138.22845049502249,
+      134.51181584948287,
+      138.619887377536
+    ]
   },
   {
     "NAF Nr": "17305",
@@ -2441,13 +4372,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "173.12",
+    "rating": 178.7525255257358,
+    "bestRating": 178.7525255257358,
+    "worstRating": 144.68800008784896,
+    "tendency": 20.73078982082791,
     "totalTournaments": 4,
     "gamesTotal": 16,
     "gamesWon": 8,
     "gamesDraw": 4,
     "gamesLost": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      158.02173570490788,
+      157.88191861215515,
+      159.1667568505707,
+      154.8756352218424,
+      148.93933305606708,
+      154.49832870402034,
+      159.9078016733725,
+      166.09196983770744,
+      172.05959032272182,
+      178.7525255257358
+    ]
   },
   {
     "NAF Nr": "17319",
@@ -2455,13 +4401,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "171.26",
+    "rating": 171.92098133213463,
+    "bestRating": 171.92098133213463,
+    "worstRating": 148.95792235162773,
+    "tendency": 21.92098133213463,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 3,
     "gamesDraw": 5,
     "gamesLost": 0,
-    "winRatio": 68.75
+    "winRatio": 68.75,
+    "_lastTenRatings": [
+      150,
+      150.2628860490134,
+      148.95792235162773,
+      156.78438575502872,
+      163.17990287509562,
+      163.8214631668798,
+      171.1516936400951,
+      171.92098133213463
+    ]
   },
   {
     "NAF Nr": "17366",
@@ -2469,13 +4428,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "149.85",
+    "rating": 149.55854309065114,
+    "bestRating": 155.65685424949237,
+    "worstRating": 143.88435731105918,
+    "tendency": -6.098311158841227,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      149.76217274780117,
+      143.88435731105918,
+      149.55854309065114
+    ]
   },
   {
     "NAF Nr": "17383",
@@ -2483,13 +4451,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "163.59",
+    "rating": 163.9207203472175,
+    "bestRating": 163.9207203472175,
+    "worstRating": 155.35840964358897,
+    "tendency": 8.562310703628526,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.35840964358897,
+      160.15690036735484,
+      163.9207203472175
+    ]
   },
   {
     "NAF Nr": "17415",
@@ -2497,13 +4473,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "149.43",
+    "rating": 150.50216007518017,
+    "bestRating": 155.86555637958313,
+    "worstRating": 150,
+    "tendency": 0.5021600751801714,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      150,
+      150,
+      155.86555637958313,
+      150.50216007518017
+    ]
   },
   {
     "NAF Nr": "17542",
@@ -2511,13 +4497,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "144.69",
+    "rating": 144.72928534431222,
+    "bestRating": 154.47213595499957,
+    "worstRating": 144.72928534431222,
+    "tendency": -9.742850610687356,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      154.47213595499957,
+      150.0644579074301,
+      144.72928534431222
+    ]
   },
   {
     "NAF Nr": "17591",
@@ -2525,13 +4519,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "143.06",
+    "rating": 143.16903863647795,
+    "bestRating": 147.1562523994375,
+    "worstRating": 138.96552269556983,
+    "tendency": -3.9872137629595557,
     "totalTournaments": 2,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      147.1562523994375,
+      142.5476620688059,
+      138.96552269556983,
+      143.16903863647795
+    ]
   },
   {
     "NAF Nr": "17594",
@@ -2539,13 +4542,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "165.51",
+    "rating": 165.98087711462802,
+    "bestRating": 165.98087711462802,
+    "worstRating": 154.99763470353554,
+    "tendency": 10.983242411092476,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      154.99763470353554,
+      159.96818807709278,
+      164.5613155669601,
+      159.5799105162685,
+      164.86262781807295,
+      165.98087711462802
+    ]
   },
   {
     "NAF Nr": "17629",
@@ -2553,13 +4567,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "141.98",
+    "rating": 141.67203361085097,
+    "bestRating": 150.44790599526698,
+    "worstRating": 141.67203361085097,
+    "tendency": -3.188708622677524,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      144.8607422335285,
+      150.44790599526698,
+      144.3436653815527,
+      148.16988372866984,
+      141.67203361085097
+    ]
   },
   {
     "NAF Nr": "17711",
@@ -2567,13 +4591,53 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "161.15",
+    "rating": 156.71110342530858,
+    "bestRating": 162.6222823934318,
+    "worstRating": 149.68767883267745,
+    "tendency": 7.02342459263113,
     "totalTournaments": 4,
     "gamesTotal": 16,
     "gamesWon": 7,
     "gamesDraw": 4,
     "gamesLost": 5,
-    "winRatio": 56.25
+    "winRatio": 56.25,
+    "_lastTenRatings": [
+      149.68767883267745,
+      155.0769595049871,
+      159.88099051896796,
+      154.69884612757147,
+      158.97780466871956,
+      158.74474918442468,
+      158.3656391176661,
+      158.0307738270759,
+      152.00943148908257,
+      156.71110342530858
+    ]
+  },
+  {
+    "NAF Nr": "17757",
+    "NAF Name": "Dr.Kitties",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Old World Alliance",
+    "rating": 147.11601492371736,
+    "bestRating": 152.30612151211955,
+    "worstRating": 140.56353412686252,
+    "tendency": 2.7728691732097275,
+    "totalTournaments": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      144.34314575050763,
+      140.6431708954252,
+      140.56353412686252,
+      146.80932094914158,
+      152.30612151211955,
+      147.11601492371736
+    ]
   },
   {
     "NAF Nr": "17761",
@@ -2581,13 +4645,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "167.97",
+    "rating": 168.67425253829876,
+    "bestRating": 168.67425253829876,
+    "worstRating": 155.87013774415547,
+    "tendency": 12.804114794143288,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.87013774415547,
+      163.10483009600523,
+      168.67425253829876
+    ]
   },
   {
     "NAF Nr": "17893",
@@ -2595,13 +4667,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "153.64",
+    "rating": 153.4369988185334,
+    "bestRating": 153.82846407314025,
+    "worstRating": 150.12779709272775,
+    "tendency": -0.39146525460685666,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.82846407314025,
+      150.12779709272775,
+      153.4369988185334
+    ]
   },
   {
     "NAF Nr": "17908",
@@ -2609,13 +4689,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "141.09",
+    "rating": 141.24121857618886,
+    "bestRating": 146.0022594357382,
+    "worstRating": 141.24121857618886,
+    "tendency": -4.758781423811143,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146,
+      146.0022594357382,
+      145.56703626141754,
+      145.25981412975133,
+      141.3206274173289,
+      141.24121857618886
+    ]
   },
   {
     "NAF Nr": "18066",
@@ -2623,13 +4714,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "145.35",
+    "rating": 145.12082990442974,
+    "bestRating": 155.9029987771339,
+    "worstRating": 145.12082990442974,
+    "tendency": -4.510380766598843,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      149.63121067102858,
+      155.9029987771339,
+      150.78492662035111,
+      145.12082990442974
+    ]
   },
   {
     "NAF Nr": "18145",
@@ -2637,13 +4737,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "132.4",
+    "rating": 131.87473367831805,
+    "bestRating": 144.80717111725056,
+    "worstRating": 131.87473367831805,
+    "tendency": -12.46841207218958,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 5,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.8484721069223,
+      144.80717111725056,
+      140.13343283254295,
+      135.63284166672256,
+      131.87473367831805
+    ]
   },
   {
     "NAF Nr": "18175",
@@ -2651,13 +4762,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "132.99",
+    "rating": 131.5572990401268,
+    "bestRating": 155.658126420763,
+    "worstRating": 125.64070850587792,
+    "tendency": -10.651859858101858,
     "totalTournaments": 7,
     "gamesTotal": 23,
     "gamesWon": 6,
     "gamesDraw": 6,
     "gamesLost": 11,
-    "winRatio": 39.13
+    "winRatio": 39.13,
+    "_lastTenRatings": [
+      142.20915889822865,
+      143.4525292817173,
+      138.07971379303717,
+      144.0083041845774,
+      144.61199685413612,
+      139.18894544723457,
+      133.77167714562125,
+      127.6054067874407,
+      125.64070850587792,
+      131.5572990401268
+    ]
   },
   {
     "NAF Nr": "18181",
@@ -2665,13 +4791,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "208.89",
+    "rating": 212.10430883339708,
+    "bestRating": 212.10430883339708,
+    "worstRating": 144.00359876442332,
+    "tendency": 11.23534227270602,
     "totalTournaments": 10,
     "gamesTotal": 35,
     "gamesWon": 22,
     "gamesDraw": 7,
     "gamesLost": 6,
-    "winRatio": 72.86
+    "winRatio": 72.86,
+    "_lastTenRatings": [
+      200.86896656069106,
+      195.62180157181334,
+      200.92857458275876,
+      200.18509829650566,
+      202.26663680805322,
+      204.6757900504361,
+      202.14076750221048,
+      205.53601225574363,
+      208.68176970159362,
+      212.10430883339708
+    ]
   },
   {
     "NAF Nr": "18194",
@@ -2679,13 +4820,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "143.64",
+    "rating": 143.95560585947769,
+    "bestRating": 146.83820450228316,
+    "worstRating": 143.95560585947769,
+    "tendency": -2.869102259393628,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      146.8247081188713,
+      146.83820450228316,
+      143.95560585947769
+    ]
   },
   {
     "NAF Nr": "18208",
@@ -2693,13 +4842,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "155.59",
+    "rating": 156.01035150443147,
+    "bestRating": 156.01035150443147,
+    "worstRating": 143.36745772057316,
+    "tendency": 11.667205753923838,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      144.34314575050763,
+      143.36745772057316,
+      149.06976232176888,
+      154.75946458609283,
+      156.01035150443147
+    ]
   },
   {
     "NAF Nr": "18217",
@@ -2707,13 +4866,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "153.57",
+    "rating": 153.47644302808033,
+    "bestRating": 153.7016822983499,
+    "worstRating": 153.47644302808033,
+    "tendency": -0.2252392702695829,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      153.7016822983499,
+      153.47644302808033
+    ]
   },
   {
     "NAF Nr": "18261",
@@ -2721,13 +4887,25 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "149.29",
+    "rating": 149.8059639308216,
+    "bestRating": 161.1430712457091,
+    "worstRating": 145.53632764687663,
+    "tendency": 4.269636283944976,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.53632764687663,
+      150.7728703442585,
+      155.4806599603187,
+      155.4620016412654,
+      161.1430712457091,
+      155.24815732631012,
+      149.8059639308216
+    ]
   },
   {
     "NAF Nr": "18283",
@@ -2735,13 +4913,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "160.91",
+    "rating": 159.81546716401203,
+    "bestRating": 163.47256570181173,
+    "worstRating": 155.65685424949237,
+    "tendency": 4.158612914519665,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.0682536402513,
+      160.83062333112704,
+      160.83078388093355,
+      163.3147072319872,
+      160.42090381287522,
+      163.47256570181173,
+      159.81546716401203
+    ]
   },
   {
     "NAF Nr": "18318",
@@ -2749,13 +4940,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Old World Alliance",
-    "rating": "153.66",
+    "rating": 153.77515868315194,
+    "bestRating": 162,
+    "worstRating": 153.77515868315194,
+    "tendency": -0.22484131684805675,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      154,
+      158,
+      162,
+      157.98897810295793,
+      153.77515868315194
+    ]
   },
   {
     "NAF Nr": "18351",
@@ -2763,13 +4964,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "158.05",
+    "rating": 158.27474878455132,
+    "bestRating": 158.27474878455132,
+    "worstRating": 144.1095860130982,
+    "tendency": 14.165162771453112,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      144.1095860130982,
+      150.04324023455118,
+      156.21012671443032,
+      158.27474878455132
+    ]
   },
   {
     "NAF Nr": "18367",
@@ -2777,13 +4987,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "167.18",
+    "rating": 168.17522688684747,
+    "bestRating": 168.17522688684747,
+    "worstRating": 146.06965937406707,
+    "tendency": 22.105567512780397,
     "totalTournaments": 1,
     "gamesTotal": 10,
     "gamesWon": 7,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      146.06965937406707,
+      150.3550704609155,
+      154.56011544745527,
+      158.80506327480018,
+      163.23451602778616,
+      160.39642063360014,
+      164.74984774451997,
+      160.34256664580275,
+      164.07916114749906,
+      168.17522688684747
+    ]
   },
   {
     "NAF Nr": "18378",
@@ -2791,13 +5016,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "155.44",
+    "rating": 155.70589756308306,
+    "bestRating": 155.70589756308306,
+    "worstRating": 155.70589756308306,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.70589756308306
+    ]
   },
   {
     "NAF Nr": "18390",
@@ -2805,13 +5036,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "161.68",
+    "rating": 162.3825631338681,
+    "bestRating": 162.3825631338681,
+    "worstRating": 153.87364129764035,
+    "tendency": 8.508921836227756,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      153.87364129764035,
+      158.12829785342902,
+      162.3825631338681
+    ]
   },
   {
     "NAF Nr": "18444",
@@ -2819,13 +5058,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "170.54",
+    "rating": 171.46032652694046,
+    "bestRating": 171.46032652694046,
+    "worstRating": 146.13719985277498,
+    "tendency": 5.368739968561016,
     "totalTournaments": 3,
     "gamesTotal": 15,
     "gamesWon": 7,
     "gamesDraw": 5,
     "gamesLost": 3,
-    "winRatio": 63.33
+    "winRatio": 63.33,
+    "_lastTenRatings": [
+      166.09158655837945,
+      171.04078021291016,
+      166.3280114698754,
+      165.71896154168297,
+      167.2214935312853,
+      164.4939901791474,
+      162.96192009890444,
+      167.3121370564533,
+      167.99738357176653,
+      171.46032652694046
+    ]
   },
   {
     "NAF Nr": "18446",
@@ -2833,13 +5087,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "133.14",
+    "rating": 132.42546291190766,
+    "bestRating": 144.4502895619097,
+    "worstRating": 132.42546291190766,
+    "tendency": -12.02482665000204,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatings": [
+      144.4502895619097,
+      138.332078019035,
+      132.71065182603303,
+      137.96794381047533,
+      132.42546291190766
+    ]
   },
   {
     "NAF Nr": "18516",
@@ -2847,13 +5111,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "161.0",
+    "rating": 160.9544511501033,
+    "bestRating": 160.9544511501033,
+    "worstRating": 155.47722557505165,
+    "tendency": 5.477225575051648,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.47722557505165,
+      160.9544511501033
+    ]
   },
   {
     "NAF Nr": "18563",
@@ -2861,13 +5132,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "157.99",
+    "rating": 156.4455311612433,
+    "bestRating": 164.55887626346916,
+    "worstRating": 151.5048178583911,
+    "tendency": -6.395582045533075,
     "totalTournaments": 4,
     "gamesTotal": 17,
     "gamesWon": 6,
     "gamesDraw": 7,
     "gamesLost": 4,
-    "winRatio": 55.88
+    "winRatio": 55.88,
+    "_lastTenRatings": [
+      162.84111320677638,
+      162.44814804871,
+      162.64175479650083,
+      158.95260187528206,
+      161.64384653021827,
+      155.23676070077727,
+      155.44442599525098,
+      151.5048178583911,
+      156.87161970196578,
+      156.4455311612433
+    ]
   },
   {
     "NAF Nr": "18578",
@@ -2875,13 +5161,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "152.78",
+    "rating": 153.02694891796594,
+    "bestRating": 157.74596669241484,
+    "worstRating": 144.9815640777154,
+    "tendency": -4.719017774448901,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150.56771522623293,
+      144.9815640777154,
+      153.3914874112705,
+      153.15648795228103,
+      153.02694891796594
+    ]
   },
   {
     "NAF Nr": "18753",
@@ -2889,13 +5186,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "167.05",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
-    "gamesWon": 5,
+    "rating": 163.95109091934896,
+    "bestRating": 177.6158131836171,
+    "worstRating": 148.1430731550454,
+    "tendency": 10.570632037935866,
+    "totalTournaments": 4,
+    "gamesTotal": 18,
+    "gamesWon": 8,
     "gamesDraw": 6,
-    "gamesLost": 1,
-    "winRatio": 66.67
+    "gamesLost": 4,
+    "winRatio": 61.11,
+    "_lastTenRatings": [
+      153.3804588814131,
+      158.63232946047128,
+      163.59310175779368,
+      167.8357797974204,
+      172.69451126324017,
+      177.6158131836171,
+      171.45621795295932,
+      165.10279802045164,
+      170.21761082903174,
+      163.95109091934896
+    ]
   },
   {
     "NAF Nr": "18768",
@@ -2903,13 +5215,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "161.65",
+    "rating": 161.30242749850163,
+    "bestRating": 161.30242749850163,
+    "worstRating": 153.85105277500284,
+    "tendency": 7.4513747234987875,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      153.85105277500284,
+      157.26449505569536,
+      161.30242749850163
+    ]
   },
   {
     "NAF Nr": "18811",
@@ -2917,13 +5237,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "143.5",
+    "rating": 143.74057418756703,
+    "bestRating": 147.0868824850904,
+    "worstRating": 143.74057418756703,
+    "tendency": -3.3463082975233647,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      147.0868824850904,
+      147.01005678733338,
+      143.74057418756703
+    ]
   },
   {
     "NAF Nr": "18903",
@@ -2931,13 +5259,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "150.83",
+    "rating": 149.53326852592087,
+    "bestRating": 160.82495978451283,
+    "worstRating": 149.53326852592087,
+    "tendency": -5.60980124187725,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.14306976779812,
+      155.17391341298875,
+      160.82495978451283,
+      155.40849399418752,
+      149.53326852592087
+    ]
   },
   {
     "NAF Nr": "18958",
@@ -2945,13 +5283,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "155.22",
-    "totalTournaments": 5,
-    "gamesTotal": 15,
-    "gamesWon": 8,
-    "gamesDraw": 0,
-    "gamesLost": 7,
-    "winRatio": 53.33
+    "rating": 154.4945304303082,
+    "bestRating": 158.59176770358758,
+    "worstRating": 142.2825726877714,
+    "tendency": 7.8965975661766095,
+    "totalTournaments": 6,
+    "gamesTotal": 18,
+    "gamesWon": 9,
+    "gamesDraw": 1,
+    "gamesLost": 8,
+    "winRatio": 52.78,
+    "_lastTenRatings": [
+      146.5979328641316,
+      142.2825726877714,
+      146.8660799509159,
+      151.28338214936687,
+      147.9318426469068,
+      151.55131965894375,
+      154.5754496223961,
+      153.7597433995714,
+      158.59176770358758,
+      154.4945304303082
+    ]
   },
   {
     "NAF Nr": "18970",
@@ -2959,27 +5312,51 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "186.34",
+    "rating": 188.56932178581422,
+    "bestRating": 188.56932178581422,
+    "worstRating": 153.50855858460855,
+    "tendency": 29.55620659846673,
     "totalTournaments": 3,
     "gamesTotal": 13,
     "gamesWon": 9,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 80.77
+    "winRatio": 80.77,
+    "_lastTenRatings": [
+      159.0131151873475,
+      164.41654233939929,
+      170.06711157396776,
+      170.8369860137728,
+      170.96401583944117,
+      176.19357153502628,
+      180.58919159606324,
+      180.35602328092054,
+      183.97156793811823,
+      188.56932178581422
+    ]
   },
   {
     "NAF Nr": "19045",
     "NAF Name": "Jose_Q",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "149.71",
+    "rating": 149.64902949444047,
+    "bestRating": 155.46110187717093,
+    "worstRating": 143.64268074834652,
+    "tendency": -5.812072382730463,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.46110187717093,
+      149.26157893336332,
+      143.64268074834652,
+      149.64902949444047
+    ]
   },
   {
     "NAF Nr": "19092",
@@ -2987,13 +5364,25 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "158.0",
+    "rating": 174.95613020629673,
+    "bestRating": 174.95613020629673,
+    "worstRating": 154,
+    "tendency": 20.956130206296734,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 6,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 92.86
+    "winRatio": 92.86,
+    "_lastTenRatings": [
+      154,
+      158.00444779061357,
+      158.00054218509206,
+      161.98298441698608,
+      166.27420641561548,
+      170.43637838848593,
+      174.95613020629673
+    ]
   },
   {
     "NAF Nr": "19114",
@@ -3001,13 +5390,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. La Mancha",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.26",
+    "rating": 150.41183650931177,
+    "bestRating": 150.8225102730202,
+    "worstRating": 144.80693521531956,
+    "tendency": 0.09971770886039621,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.31211880045137,
+      150.8225102730202,
+      144.80693521531956,
+      150.41183650931177
+    ]
   },
   {
     "NAF Nr": "19138",
@@ -3015,13 +5413,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "151.28",
+    "rating": 152.1664830019626,
+    "bestRating": 156.52911063190925,
+    "worstRating": 149.02784018251293,
+    "tendency": -4.362627629946644,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      156.52911063190925,
+      149.02784018251293,
+      149.34808664257167,
+      150.02040346991686,
+      149.93416156538265,
+      152.1664830019626
+    ]
   },
   {
     "NAF Nr": "19142",
@@ -3029,13 +5438,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Mongolia",
     "race": "Old World Alliance",
-    "rating": "148.86",
+    "rating": 148.28671721605897,
+    "bestRating": 165.49486688291262,
+    "worstRating": 143.6410538565193,
+    "tendency": -7.603973887911593,
     "totalTournaments": 2,
     "gamesTotal": 11,
     "gamesWon": 4,
     "gamesDraw": 4,
     "gamesLost": 3,
-    "winRatio": 54.55
+    "winRatio": 54.55,
+    "_lastTenRatings": [
+      155.89069110397057,
+      160.73885186196787,
+      165.49486688291262,
+      164.93722858726883,
+      158.12221387824926,
+      152.55352033818673,
+      150.23497202346053,
+      143.6410538565193,
+      148.05872956116042,
+      148.28671721605897
+    ]
   },
   {
     "NAF Nr": "19160",
@@ -3043,13 +5467,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "145.61",
+    "rating": 145.0474364748244,
+    "bestRating": 148.87622006481206,
+    "worstRating": 145.0474364748244,
+    "tendency": -0.3988513314478155,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.4462878062722,
+      148.87622006481206,
+      145.0474364748244
+    ]
   },
   {
     "NAF Nr": "19185",
@@ -3057,13 +5489,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "145.73",
+    "rating": 145.7457513085958,
+    "bestRating": 146.18992481052734,
+    "worstRating": 140.36404191244992,
+    "tendency": 0.6447307941621432,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      145.10102051443366,
+      140.36404191244992,
+      145.31427400135394,
+      146.18992481052734,
+      145.7457513085958
+    ]
   },
   {
     "NAF Nr": "19196",
@@ -3071,13 +5513,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "153.0",
+    "rating": 152.9026743065271,
+    "bestRating": 152.9026743065271,
+    "worstRating": 147.24681196877563,
+    "tendency": 5.655862337751472,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      147.24681196877563,
+      150.07360572969327,
+      152.9026743065271
+    ]
   },
   {
     "NAF Nr": "19236",
@@ -3085,13 +5535,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "158.47",
+    "rating": 158.25462275411778,
+    "bestRating": 158.25462275411778,
+    "worstRating": 147.69032457042118,
+    "tendency": 10.564298183696593,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      147.69032457042118,
+      151.1820476116384,
+      154.5026381017385,
+      149.7680629915925,
+      154.07577968260784,
+      158.25462275411778
+    ]
   },
   {
     "NAF Nr": "19252",
@@ -3099,13 +5560,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "143.79",
+    "rating": 145.53287908099486,
+    "bestRating": 146.72614356168188,
+    "worstRating": 139.71350558446656,
+    "tendency": -1.19326448068702,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.72614356168188,
+      142.382722692534,
+      139.71350558446656,
+      143.95893658408252,
+      140.18858512988407,
+      145.53287908099486
+    ]
   },
   {
     "NAF Nr": "19262",
@@ -3113,13 +5585,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "160.99",
+    "rating": 161.0828369098295,
+    "bestRating": 161.62508046102,
+    "worstRating": 150.27357886333397,
+    "tendency": 10.809258046495529,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      150.27357886333397,
+      155.92950492302828,
+      161.62508046102,
+      161.62237745196504,
+      161.0828369098295
+    ]
   },
   {
     "NAF Nr": "19311",
@@ -3127,13 +5609,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Old World Alliance",
-    "rating": "149.99",
+    "rating": 149.95879981887313,
+    "bestRating": 149.95879981887313,
+    "worstRating": 145.20416847668727,
+    "tendency": 4.75463134218586,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.20416847668727,
+      149.95879981887313
+    ]
   },
   {
     "NAF Nr": "19328",
@@ -3141,13 +5630,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "147.66",
+    "rating": 147.75485983425725,
+    "bestRating": 151.28550080211863,
+    "worstRating": 147.75485983425725,
+    "tendency": -3.5306409678613875,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      151.28550080211863,
+      149.62767796414857,
+      147.75485983425725
+    ]
   },
   {
     "NAF Nr": "19395",
@@ -3155,13 +5652,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "139.48",
+    "rating": 137.59143128160542,
+    "bestRating": 153.49913582161147,
+    "worstRating": 137.59143128160542,
+    "tendency": -15.907704540006051,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 5,
-    "winRatio": 35
+    "winRatio": 35,
+    "_lastTenRatings": [
+      153.49913582161147,
+      148.6230594888129,
+      143.26974231453232,
+      137.716522091576,
+      138.11966176903468,
+      143.85909181091304,
+      145.84441074265038,
+      142.29756785001325,
+      137.70319901462346,
+      137.59143128160542
+    ]
   },
   {
     "NAF Nr": "19446",
@@ -3169,13 +5681,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "145.19",
+    "rating": 145.57723849092878,
+    "bestRating": 154.28725046169495,
+    "worstRating": 144.16077026797933,
+    "tendency": 1.4164682229494474,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      144.16077026797933,
+      149.09956612960832,
+      154.28725046169495,
+      150.85319246694985,
+      145.76800435516765,
+      145.57723849092878
+    ]
   },
   {
     "NAF Nr": "19483",
@@ -3183,13 +5706,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "165.45",
+    "rating": 165.79931250443542,
+    "bestRating": 178.35509308075325,
+    "worstRating": 150.18332132129007,
+    "tendency": 10.783031239730207,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 7,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.0162812647052,
+      160.14765142870192,
+      165.97747089791307,
+      170.55332481849058,
+      174.3257642902382,
+      178.35509308075325,
+      177.54525063051182,
+      172.2343248169735,
+      170.8066507275095,
+      165.79931250443542
+    ]
   },
   {
     "NAF Nr": "19492",
@@ -3197,13 +5735,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "143.51",
+    "rating": 143.77921127794758,
+    "bestRating": 155.65685424949237,
+    "worstRating": 138.3637681170377,
+    "tendency": -11.877642971544788,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      155.65685424949237,
+      149.68283297690422,
+      143.9705672834445,
+      138.3637681170377,
+      143.77921127794758
+    ]
   },
   {
     "NAF Nr": "19526",
@@ -3211,13 +5759,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "154.84",
+    "rating": 154.81202657088016,
+    "bestRating": 154.81202657088016,
+    "worstRating": 145.52786404500043,
+    "tendency": 9.284162525879736,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      145.52786404500043,
+      150.39154670443133,
+      150.35023773851233,
+      154.81202657088016
+    ]
   },
   {
     "NAF Nr": "19529",
@@ -3225,13 +5782,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "199.03",
+    "rating": 198.9329792672072,
+    "bestRating": 198.9329792672072,
+    "worstRating": 157.74596669241484,
+    "tendency": 41.18701257479236,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 6,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      157.74596669241484,
+      164.90174787451815,
+      172.31011243048926,
+      182.75330641889747,
+      191.09581039992327,
+      198.9329792672072
+    ]
   },
   {
     "NAF Nr": "19537",
@@ -3239,13 +5807,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "165.31",
+    "rating": 166.04723393827197,
+    "bestRating": 166.6805981786059,
+    "worstRating": 155.83628861821325,
+    "tendency": 10.210945320058727,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 68.75
+    "winRatio": 68.75,
+    "_lastTenRatings": [
+      155.83628861821325,
+      156.47102803225218,
+      156.48559601397616,
+      161.52273737840756,
+      166.6805981786059,
+      166.57489010972444,
+      161.0402031506561,
+      166.04723393827197
+    ]
   },
   {
     "NAF Nr": "19570",
@@ -3253,13 +5834,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "127.92",
+    "rating": 126.30045528007153,
+    "bestRating": 155.65685424949237,
+    "worstRating": 125.44264694294105,
+    "tendency": -15.744950760548392,
     "totalTournaments": 3,
     "gamesTotal": 15,
     "gamesWon": 3,
     "gamesDraw": 4,
     "gamesLost": 8,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      142.04540604061992,
+      138.61517111394434,
+      134.94830839908423,
+      139.4264659342278,
+      147.79967913570616,
+      140.64389795360285,
+      131.89771518620879,
+      127.63780933180223,
+      125.44264694294105,
+      126.30045528007153
+    ]
   },
   {
     "NAF Nr": "19598",
@@ -3267,13 +5863,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "143.59",
+    "rating": 144.5081106668912,
+    "bestRating": 144.52277442494835,
+    "worstRating": 133.57050656692763,
+    "tendency": -0.014663758057139376,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      144.52277442494835,
+      139.0455488498967,
+      133.57050656692763,
+      139.0486164618779,
+      144.5081106668912
+    ]
   },
   {
     "NAF Nr": "19627",
@@ -3281,13 +5887,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "144.66",
+    "rating": 144.37187354310345,
+    "bestRating": 150.51258774269854,
+    "worstRating": 144.37187354310345,
+    "tendency": -0.4973129640950731,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.86918650719852,
+      150.51258774269854,
+      144.37187354310345
+    ]
   },
   {
     "NAF Nr": "19693",
@@ -3295,13 +5909,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "147.0",
+    "rating": 146.83383323411655,
+    "bestRating": 150,
+    "worstRating": 146.83383323411655,
+    "tendency": -0.0038891057150749475,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.83772233983163,
+      150,
+      146.83383323411655
+    ]
   },
   {
     "NAF Nr": "19719",
@@ -3309,13 +5931,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "166.55",
+    "rating": 167.2058332923949,
+    "bestRating": 167.2058332923949,
+    "worstRating": 150.884212897494,
+    "tendency": 13.917504676472618,
     "totalTournaments": 3,
     "gamesTotal": 9,
     "gamesWon": 7,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 77.78
+    "winRatio": 77.78,
+    "_lastTenRatings": [
+      153.2883286159223,
+      156.1593891469796,
+      153.57234387611194,
+      150.884212897494,
+      154.2634158127909,
+      157.43306702441916,
+      160.9415970476718,
+      164.11644688523373,
+      167.2058332923949
+    ]
   },
   {
     "NAF Nr": "19726",
@@ -3323,13 +5959,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "155.43",
+    "rating": 156.64360827492143,
+    "bestRating": 156.64360827492143,
+    "worstRating": 144.3345037556006,
+    "tendency": 12.30910451932084,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      144.3345037556006,
+      150.08418055024552,
+      155.40174504393926,
+      155.46861301805453,
+      150.60237247163033,
+      156.64360827492143
+    ]
   },
   {
     "NAF Nr": "19727",
@@ -3337,13 +5984,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "140.79",
+    "rating": 138.80342813708944,
+    "bestRating": 156.0247299059589,
+    "worstRating": 138.80342813708944,
+    "tendency": -17.221301768869466,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      156.0247299059589,
+      151.51352147452693,
+      151.46001727648198,
+      145.65794741265492,
+      145.44525949824794,
+      138.80342813708944
+    ]
   },
   {
     "NAF Nr": "19749",
@@ -3351,13 +6009,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "152.64",
+    "rating": 153.4268565427178,
+    "bestRating": 153.72079672574534,
+    "worstRating": 141.4155643363743,
+    "tendency": 0.5272347137225495,
     "totalTournaments": 5,
     "gamesTotal": 24,
     "gamesWon": 7,
     "gamesDraw": 9,
     "gamesLost": 8,
-    "winRatio": 47.92
+    "winRatio": 47.92,
+    "_lastTenRatings": [
+      152.89962182899524,
+      147.76303036366167,
+      147.74446962123235,
+      141.4155643363743,
+      151.05291325754052,
+      143.5035805463201,
+      151.71929687001563,
+      145.38894061501088,
+      152.999451791608,
+      153.4268565427178
+    ]
   },
   {
     "NAF Nr": "19750",
@@ -3365,13 +6038,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "150.48",
+    "rating": 150.51837464601482,
+    "bestRating": 161.36736102299156,
+    "worstRating": 150.51837464601482,
+    "tendency": -5.138479603477549,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.36736102299156,
+      155.70426441544407,
+      150.6968041186227,
+      150.67541164556764,
+      150.51837464601482
+    ]
   },
   {
     "NAF Nr": "19816",
@@ -3379,13 +6063,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "164.18",
+    "rating": 168.2050549643135,
+    "bestRating": 168.2050549643135,
+    "worstRating": 133.1773516716503,
+    "tendency": 17.084225920985517,
     "totalTournaments": 5,
     "gamesTotal": 27,
     "gamesWon": 12,
     "gamesDraw": 5,
     "gamesLost": 10,
-    "winRatio": 53.7
+    "winRatio": 53.7,
+    "_lastTenRatings": [
+      151.12082904332797,
+      155.3121241891222,
+      159.86904005803797,
+      164.43351338184146,
+      165.3667558204683,
+      165.9813698565188,
+      161.18424131425985,
+      162.32888702935875,
+      162.8602812807363,
+      168.2050549643135
+    ]
   },
   {
     "NAF Nr": "19892",
@@ -3393,13 +6092,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Hungary",
     "race": "Old World Alliance",
-    "rating": "161.03",
+    "rating": 161.42401129735714,
+    "bestRating": 162.59904731687396,
+    "worstRating": 144.84112626218518,
+    "tendency": 16.582885035171955,
     "totalTournaments": 2,
     "gamesTotal": 11,
     "gamesWon": 6,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 59.09
+    "winRatio": 59.09,
+    "_lastTenRatings": [
+      144.84112626218518,
+      150.49394456505442,
+      145.67762839811488,
+      151.61107625879453,
+      157.07371711393316,
+      162.59904731687396,
+      156.98878577179852,
+      162.2109769269516,
+      156.31691677474097,
+      161.42401129735714
+    ]
   },
   {
     "NAF Nr": "19902",
@@ -3407,13 +6121,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "163.34",
+    "rating": 163.6228623658611,
+    "bestRating": 163.6228623658611,
+    "worstRating": 155.09212956101035,
+    "tendency": 8.530732804850743,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.09212956101035,
+      159.54298445070947,
+      163.6228623658611
+    ]
   },
   {
     "NAF Nr": "19921",
@@ -3421,13 +6143,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "146.79",
+    "rating": 146.9088097540563,
+    "bestRating": 155.5007545776489,
+    "worstRating": 146.9088097540563,
+    "tendency": -8.591944823592598,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      155.5007545776489,
+      151.00706614341175,
+      146.9088097540563
+    ]
   },
   {
     "NAF Nr": "20113",
@@ -3435,13 +6165,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "139.93",
+    "rating": 140.7861816867806,
+    "bestRating": 150.85368129780892,
+    "worstRating": 140.7861816867806,
+    "tendency": -3.7607955286417223,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.54697721542232,
+      150.0320047443265,
+      145.37742476787238,
+      150.85368129780892,
+      146.04680488132158,
+      140.7861816867806
+    ]
   },
   {
     "NAF Nr": "20141",
@@ -3449,13 +6190,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Morocco",
     "race": "Old World Alliance",
-    "rating": "145.43",
+    "rating": 146.66369577542636,
+    "bestRating": 155.9595608098748,
+    "worstRating": 140.34297453803552,
+    "tendency": -3.7601167021717856,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 44.44
+    "winRatio": 44.44,
+    "_lastTenRatings": [
+      150.42381247759815,
+      155.9595608098748,
+      151.02269546900214,
+      145.93232692018762,
+      145.7813041268942,
+      140.34297453803552,
+      145.66157398868017,
+      151.5101328466468,
+      146.66369577542636
+    ]
   },
   {
     "NAF Nr": "20145",
@@ -3463,13 +6218,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "149.68",
+    "rating": 149.55595240436165,
+    "bestRating": 149.55595240436165,
+    "worstRating": 144.80384757729337,
+    "tendency": 4.75210482706828,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.80384757729337,
+      149.51890645237106,
+      149.55595240436165
+    ]
   },
   {
     "NAF Nr": "20148",
@@ -3477,13 +6240,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "144.24",
+    "rating": 142.46730878157004,
+    "bestRating": 148.03902805643523,
+    "worstRating": 142.46730878157004,
+    "tendency": -0.7650176587903559,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      143.2323264403604,
+      148.03902805643523,
+      142.46730878157004
+    ]
   },
   {
     "NAF Nr": "20177",
@@ -3491,27 +6262,50 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "162.35",
+    "rating": 162.7260643004489,
+    "bestRating": 162.7260643004489,
+    "worstRating": 156.55131017740118,
+    "tendency": 6.152656448637458,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      156.57340785181145,
+      156.55131017740118,
+      162.7260643004489
+    ]
   },
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "146.15",
+    "rating": 149.39486549892743,
+    "bestRating": 150.22548919219923,
+    "worstRating": 135.29041373222134,
+    "tendency": 1.6154195020739621,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 3,
     "gamesDraw": 4,
     "gamesLost": 5,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      147.77944599685347,
+      147.4509578800344,
+      142.95591939517467,
+      137.36678266116022,
+      135.29041373222134,
+      142.0773984318459,
+      138.2015783818448,
+      138.93951110132346,
+      144.9600112705516,
+      149.39486549892743
+    ]
   },
   {
     "NAF Nr": "20229",
@@ -3519,13 +6313,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "151.57",
+    "rating": 153.80358119194224,
+    "bestRating": 159.91343687125527,
+    "worstRating": 140.19178794845888,
+    "tendency": 13.611793243483362,
     "totalTournaments": 3,
     "gamesTotal": 11,
     "gamesWon": 3,
     "gamesDraw": 5,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      140.19178794845888,
+      145.37622618171787,
+      151.65774649984442,
+      152.5922575535237,
+      152.73550949080717,
+      154.69753119536384,
+      154.5209755547379,
+      159.91343687125527,
+      154.11433990088852,
+      153.80358119194224
+    ]
   },
   {
     "NAF Nr": "20248",
@@ -3533,13 +6342,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "157.11",
+    "rating": 157.1503753285761,
+    "bestRating": 161.46402119463386,
+    "worstRating": 156.09618010640733,
+    "tendency": 1.0541952221687723,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      156.09618010640733,
+      161.46402119463386,
+      157.1503753285761
+    ]
   },
   {
     "NAF Nr": "20269",
@@ -3547,13 +6364,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "153.09",
+    "rating": 152.69837683441247,
+    "bestRating": 152.69837683441247,
+    "worstRating": 151.65759459255287,
+    "tendency": 1.0407822418596027,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      151.65759459255287,
+      152.69837683441247
+    ]
   },
   {
     "NAF Nr": "20290",
@@ -3561,13 +6385,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "154.8",
+    "rating": 154.8906534910732,
+    "bestRating": 154.8906534910732,
+    "worstRating": 149.9929526612324,
+    "tendency": 0.2002377312497856,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.69041575982342,
+      149.9929526612324,
+      154.8906534910732
+    ]
   },
   {
     "NAF Nr": "20320",
@@ -3575,13 +6407,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "165.52",
+    "rating": 166.7588118417641,
+    "bestRating": 168.87166197881305,
+    "worstRating": 138.3848399947976,
+    "tendency": 3.3493192247863988,
     "totalTournaments": 4,
     "gamesTotal": 16,
     "gamesWon": 8,
     "gamesDraw": 3,
     "gamesLost": 5,
-    "winRatio": 59.38
+    "winRatio": 59.38,
+    "_lastTenRatings": [
+      163.4094926169777,
+      163.81227182708938,
+      168.87166197881305,
+      162.52893278639164,
+      157.2739438181193,
+      161.04064114036692,
+      157.43980673455377,
+      156.78819911440897,
+      162.02312286730458,
+      166.7588118417641
+    ]
   },
   {
     "NAF Nr": "20367",
@@ -3589,13 +6436,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "160.8",
+    "rating": 162.62798328722508,
+    "bestRating": 167.30784239850308,
+    "worstRating": 144.13488497265317,
+    "tendency": 18.49309831457191,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      144.13488497265317,
+      149.62090830894553,
+      150.4551981628254,
+      156.28294902769514,
+      161.66722170520748,
+      167.06330301246962,
+      167.30784239850308,
+      162.62798328722508
+    ]
   },
   {
     "NAF Nr": "20371",
@@ -3603,13 +6463,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "139.31",
+    "rating": 138.14269256987205,
+    "bestRating": 146.25834261322606,
+    "worstRating": 138.14269256987205,
+    "tendency": -8.115650043354009,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatings": [
+      146.25834261322606,
+      141.38793699874458,
+      141.62967594481287,
+      138.14269256987205
+    ]
   },
   {
     "NAF Nr": "20377",
@@ -3617,13 +6486,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "153.55",
+    "rating": 153.34680768897854,
+    "bestRating": 156.71467951494114,
+    "worstRating": 152.9465946534148,
+    "tendency": -0.11109804695436765,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      153.4579057359329,
+      152.9465946534148,
+      156.71467951494114,
+      153.34680768897854
+    ]
   },
   {
     "NAF Nr": "20419",
@@ -3631,13 +6509,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "159.69",
+    "rating": 163.72778224151344,
+    "bestRating": 173.1747113868434,
+    "worstRating": 152.25064722361785,
+    "tendency": 5.981815549098599,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 55
+    "winRatio": 55,
+    "_lastTenRatings": [
+      157.74596669241484,
+      152.25064722361785,
+      162.86368609879483,
+      154.19547691388283,
+      160.90239030928532,
+      165.39238254751174,
+      171.0138547392609,
+      173.1747113868434,
+      167.6702819755453,
+      163.72778224151344
+    ]
   },
   {
     "NAF Nr": "20468",
@@ -3645,13 +6538,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "145.87",
+    "rating": 145.8775157177346,
+    "bestRating": 150,
+    "worstRating": 145.47477154040314,
+    "tendency": -4.12248428226539,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      150,
+      145.47477154040314,
+      145.8775157177346
+    ]
   },
   {
     "NAF Nr": "20481",
@@ -3659,27 +6560,53 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "188.02",
+    "rating": 188.74161963749688,
+    "bestRating": 188.74161963749688,
+    "worstRating": 156.52985938758286,
+    "tendency": 19.028292168660244,
     "totalTournaments": 3,
     "gamesTotal": 16,
     "gamesWon": 10,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      169.71332746883664,
+      172.951650462079,
+      169.1752569539205,
+      172.11130973817444,
+      178.75621113420635,
+      169.3222310512561,
+      170.02572878167965,
+      176.57535940313406,
+      183.19085310469418,
+      188.74161963749688
+    ]
   },
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "162.0",
+    "rating": 162.66918843896724,
+    "bestRating": 162.66918843896724,
+    "worstRating": 146.15102895848943,
+    "tendency": 16.518159480477806,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      146.15102895848943,
+      146.55685252916274,
+      152.3249087170047,
+      152.35663607086576,
+      156.8546640086578,
+      162.66918843896724
+    ]
   },
   {
     "NAF Nr": "20513",
@@ -3687,13 +6614,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "182.29",
+    "rating": 184.656511127801,
+    "bestRating": 184.656511127801,
+    "worstRating": 150.61369021823518,
+    "tendency": 26.91043279496506,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 7,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 70.83
+    "winRatio": 70.83,
+    "_lastTenRatings": [
+      157.74607833283594,
+      163.71137662758483,
+      169.58729966072048,
+      175.48338616242503,
+      176.1815310430732,
+      177.9374168031322,
+      173.41180863083036,
+      178.46647256163754,
+      184.1188621591344,
+      184.656511127801
+    ]
   },
   {
     "NAF Nr": "20579",
@@ -3701,13 +6643,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "150.57",
+    "rating": 150.58735524645223,
+    "bestRating": 154.34637907637574,
+    "worstRating": 150.58735524645223,
+    "tendency": -3.154302140321704,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      153.74165738677394,
+      154.34637907637574,
+      150.58735524645223
+    ]
   },
   {
     "NAF Nr": "20594",
@@ -3715,13 +6665,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "141.55",
+    "rating": 141.56743547886302,
+    "bestRating": 145.96971444614627,
+    "worstRating": 140.9417636329456,
+    "tendency": -4.402278967283252,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      145.96971444614627,
+      140.9417636329456,
+      141.56743547886302
+    ]
   },
   {
     "NAF Nr": "20595",
@@ -3729,13 +6687,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "150.79",
+    "rating": 151.2488391872386,
+    "bestRating": 154.2426406871193,
+    "worstRating": 150.43983942468753,
+    "tendency": -2.9938014998807034,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.2426406871193,
+      150.43983942468753,
+      151.40570720757577,
+      151.57721461313514,
+      151.2488391872386
+    ]
   },
   {
     "NAF Nr": "20632",
@@ -3743,13 +6711,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "149.72",
+    "rating": 149.7503373038369,
+    "bestRating": 149.8501428096586,
+    "worstRating": 147.05998526984786,
+    "tendency": 2.6903520339890292,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      147.05998526984786,
+      149.8501428096586,
+      149.7503373038369
+    ]
   },
   {
     "NAF Nr": "20654",
@@ -3757,27 +6733,45 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "158.25",
+    "rating": 159.14136372808068,
+    "bestRating": 159.14136372808068,
+    "worstRating": 153.16227766016837,
+    "tendency": 5.979086067912306,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatings": [
+      153.16227766016837,
+      155.40487213268793,
+      158.96840450578517,
+      159.14136372808068
+    ]
   },
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Apatrida",
+    "CCAA": "Cantabria ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "149.8",
+    "rating": 149.81786778139536,
+    "bestRating": 155.64295229737235,
+    "worstRating": 149.74124564992798,
+    "tendency": -0.1821322186046359,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      155.64295229737235,
+      149.74124564992798,
+      149.81786778139536
+    ]
   },
   {
     "NAF Nr": "20672",
@@ -3785,13 +6779,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Euskadi",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.97",
+    "rating": 150.76074940533363,
+    "bestRating": 156.09358610938966,
+    "worstRating": 139.71954418627146,
+    "tendency": -4.925035514487746,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.68578491982137,
+      156.09358610938966,
+      150.26036504570507,
+      145.16664001661178,
+      139.71954418627146,
+      145.5975431230775,
+      151.4442922867315,
+      150.76074940533363
+    ]
   },
   {
     "NAF Nr": "20750",
@@ -3799,13 +6806,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "164.62",
+    "rating": 165.32106453168004,
+    "bestRating": 171.11290144256768,
+    "worstRating": 150.03111242619022,
+    "tendency": 3.7816415695219803,
     "totalTournaments": 4,
     "gamesTotal": 19,
     "gamesWon": 7,
     "gamesDraw": 8,
     "gamesLost": 4,
-    "winRatio": 57.89
+    "winRatio": 57.89,
+    "_lastTenRatings": [
+      161.53942296215806,
+      163.12160764920455,
+      168.56841119913295,
+      168.01361123083413,
+      162.89314776744274,
+      167.672871195444,
+      166.937413685569,
+      166.6353129426444,
+      171.11290144256768,
+      165.32106453168004
+    ]
   },
   {
     "NAF Nr": "20761",
@@ -3813,13 +6835,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "164.87",
+    "rating": 165.25922086215795,
+    "bestRating": 165.25922086215795,
+    "worstRating": 155.65685424949237,
+    "tendency": 9.602366612665577,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.65685424949237,
+      159.56825194416396,
+      165.25922086215795
+    ]
   },
   {
     "NAF Nr": "20768",
@@ -3827,13 +6857,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "161.07",
+    "rating": 160.9997926695201,
+    "bestRating": 160.9997926695201,
+    "worstRating": 155.47722557505165,
+    "tendency": 5.522567094468457,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      155.47722557505165,
+      155.47722557505165,
+      160.9997926695201
+    ]
   },
   {
     "NAF Nr": "20783",
@@ -3841,13 +6879,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Old World Alliance",
-    "rating": "151.08",
+    "rating": 151.24758604918037,
+    "bestRating": 151.24758604918037,
+    "worstRating": 146,
+    "tendency": 5.24758604918037,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146,
+      150,
+      150.08198131840294,
+      151.24758604918037
+    ]
   },
   {
     "NAF Nr": "20811",
@@ -3855,13 +6902,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "145.35",
+    "rating": 146.4060452958062,
+    "bestRating": 151.8662184202765,
+    "worstRating": 144.34314575050763,
+    "tendency": 2.0628995452985635,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      144.34314575050763,
+      146.4512992722788,
+      151.8662184202765,
+      146.4060452958062
+    ]
   },
   {
     "NAF Nr": "20816",
@@ -3869,13 +6925,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "188.1",
+    "rating": 195.47020665823595,
+    "bestRating": 195.47020665823595,
+    "worstRating": 144.8080233424315,
+    "tendency": 16.692690253225408,
     "totalTournaments": 7,
     "gamesTotal": 28,
     "gamesWon": 16,
     "gamesDraw": 7,
     "gamesLost": 5,
-    "winRatio": 69.64
+    "winRatio": 69.64,
+    "_lastTenRatings": [
+      178.77751640501054,
+      183.02426910129964,
+      187.27721474075102,
+      180.76101406942232,
+      179.17708631912288,
+      183.31423977626147,
+      186.9630720259928,
+      186.9871073151291,
+      191.1047434134382,
+      195.47020665823595
+    ]
   },
   {
     "NAF Nr": "20817",
@@ -3883,27 +6954,51 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "194.49",
+    "rating": 193.09131456313017,
+    "bestRating": 198.9325214867259,
+    "worstRating": 154.47213595499957,
+    "tendency": 5.016873144219403,
     "totalTournaments": 8,
     "gamesTotal": 32,
     "gamesWon": 19,
     "gamesDraw": 8,
     "gamesLost": 5,
-    "winRatio": 71.88
+    "winRatio": 71.88,
+    "_lastTenRatings": [
+      188.07444141891077,
+      186.08630283610637,
+      190.21523592357005,
+      194.54844276170772,
+      187.36781360343565,
+      186.82243337026287,
+      190.63030175139133,
+      194.5526507668843,
+      198.9325214867259,
+      193.09131456313017
+    ]
   },
   {
     "NAF Nr": "20830",
     "NAF Name": "Neo_chains",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "135.66",
+    "rating": 135.99199538232392,
+    "bestRating": 147.37980072189077,
+    "worstRating": 135.99199538232392,
+    "tendency": -11.387805339566853,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      147.37980072189077,
+      143.69078210613205,
+      139.78595742660707,
+      135.99199538232392
+    ]
   },
   {
     "NAF Nr": "20848",
@@ -3911,13 +7006,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "155.24",
+    "rating": 155.3751161207326,
+    "bestRating": 155.3751161207326,
+    "worstRating": 155.3751161207326,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.3751161207326
+    ]
   },
   {
     "NAF Nr": "20865",
@@ -3925,13 +7026,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "217.64",
+    "rating": 220.23281320061636,
+    "bestRating": 220.23281320061636,
+    "worstRating": 155.86993541733233,
+    "tendency": 22.66364600122529,
     "totalTournaments": 4,
     "gamesTotal": 20,
     "gamesWon": 16,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatings": [
+      197.56916719939107,
+      201.46779180406048,
+      201.79596990371132,
+      200.6552186977436,
+      204.2172302723809,
+      208.021843768558,
+      212.01396080696765,
+      216.60433304032117,
+      215.51847122456076,
+      220.23281320061636
+    ]
   },
   {
     "NAF Nr": "20881",
@@ -3939,13 +7055,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Norway",
     "race": "Old World Alliance",
-    "rating": "146.06",
+    "rating": 146.2118259922486,
+    "bestRating": 150.01234820838428,
+    "worstRating": 146.1270166537926,
+    "tendency": 0.08480933845601157,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.1270166537926,
+      150.01234820838428,
+      146.2118259922486
+    ]
   },
   {
     "NAF Nr": "20886",
@@ -3953,13 +7077,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.14",
+    "rating": 155.74687347750117,
+    "bestRating": 160.9559592792976,
+    "worstRating": 145.4123106895942,
+    "tendency": 10.334562787906975,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 3,
     "gamesDraw": 4,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.4123106895942,
+      150.34479085456712,
+      147.9017304684455,
+      148.9833562536371,
+      149.92010299461734,
+      150.55046271523395,
+      155.31274295155882,
+      160.9559592792976,
+      155.71912268634128,
+      155.74687347750117
+    ]
   },
   {
     "NAF Nr": "20894",
@@ -3967,13 +7106,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "138.33",
+    "rating": 138.0518439443107,
+    "bestRating": 144.04797737905002,
+    "worstRating": 138.01757944010913,
+    "tendency": -5.996133434739335,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      144.04797737905002,
+      138.01757944010913,
+      138.0518439443107
+    ]
   },
   {
     "NAF Nr": "20907",
@@ -3981,13 +7128,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "150.49",
+    "rating": 150.49689910817114,
+    "bestRating": 150.49689910817114,
+    "worstRating": 146.7456722450419,
+    "tendency": 3.751226863129233,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.7456722450419,
+      149.9101840874842,
+      150.49689910817114
+    ]
   },
   {
     "NAF Nr": "20924",
@@ -3995,13 +7150,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "171.18",
+    "rating": 171.8491721223213,
+    "bestRating": 171.98756183779534,
+    "worstRating": 154.60112357156066,
+    "tendency": 17.248048550760643,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      154.60112357156066,
+      160.3038144911475,
+      166.32043082173513,
+      166.20877102198895,
+      171.98756183779534,
+      171.8491721223213
+    ]
   },
   {
     "NAF Nr": "20932",
@@ -4009,13 +7175,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "149.17",
+    "rating": 149.11306736677875,
+    "bestRating": 153.72636358421576,
+    "worstRating": 145.5246789433433,
+    "tendency": 3.588388423435447,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.5246789433433,
+      149.82953991632561,
+      153.72636358421576,
+      149.11306736677875
+    ]
   },
   {
     "NAF Nr": "20941",
@@ -4023,13 +7198,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "130.85",
+    "rating": 130.70239358633054,
+    "bestRating": 145.5829237676036,
+    "worstRating": 130.70239358633054,
+    "tendency": -14.880530181273059,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 6,
-    "winRatio": 22.22
+    "winRatio": 22.22,
+    "_lastTenRatings": [
+      145.5829237676036,
+      141.115157287273,
+      137.87166627677487,
+      138.11601908173256,
+      138.63577079233391,
+      144.872321645567,
+      140.66457246157543,
+      136.16283069119692,
+      130.70239358633054
+    ]
   },
   {
     "NAF Nr": "20945",
@@ -4037,13 +7226,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "146.47",
+    "rating": 146.77150128223204,
+    "bestRating": 155.66251205318318,
+    "worstRating": 146.77150128223204,
+    "tendency": -3.622729024045526,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      150.39423030627756,
+      155.66251205318318,
+      150.9630267396434,
+      146.77150128223204
+    ]
   },
   {
     "NAF Nr": "20957",
@@ -4051,13 +7249,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "148.59",
+    "rating": 148.06260458198773,
+    "bestRating": 156.55465853660826,
+    "worstRating": 148.06260458198773,
+    "tendency": -2.3675291891711936,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      150.43013377115892,
+      155.15864904666512,
+      150.15548056214925,
+      156.55465853660826,
+      151.98893382966529,
+      148.06260458198773
+    ]
   },
   {
     "NAF Nr": "20974",
@@ -4065,13 +7274,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "151.13",
+    "rating": 150.2887645777667,
+    "bestRating": 161.2500535421028,
+    "worstRating": 150.2887645777667,
+    "tendency": -5.36808967172567,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.11954373436532,
+      161.2500535421028,
+      161.1205501304616,
+      155.9931487969531,
+      150.2887645777667
+    ]
   },
   {
     "NAF Nr": "20981",
@@ -4079,13 +7299,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "154.83",
+    "rating": 154.2159031356279,
+    "bestRating": 159.48961017927084,
+    "worstRating": 148.09453629798037,
+    "tendency": 4.2159031356279115,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      150,
+      148.09453629798037,
+      154.50467575458035,
+      159.48961017927084,
+      154.2159031356279
+    ]
   },
   {
     "NAF Nr": "21062",
@@ -4093,13 +7323,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "154.58",
+    "rating": 153.15319388006395,
+    "bestRating": 166.71810871417645,
+    "worstRating": 131.484357088209,
+    "tendency": 21.668836791854943,
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 7,
     "gamesDraw": 0,
     "gamesLost": 7,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      131.484357088209,
+      137.1570829687276,
+      142.87270400888139,
+      148.40486906918755,
+      153.94909970588472,
+      161.2678652453316,
+      166.71810871417645,
+      161.72889381946206,
+      156.49259212621118,
+      153.15319388006395
+    ]
   },
   {
     "NAF Nr": "21133",
@@ -4107,13 +7352,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "155.72",
+    "rating": 155.12205578135925,
+    "bestRating": 162.389278656247,
+    "worstRating": 143.87141244905604,
+    "tendency": 0.08967936835912838,
     "totalTournaments": 3,
     "gamesTotal": 17,
     "gamesWon": 6,
     "gamesDraw": 6,
     "gamesLost": 5,
-    "winRatio": 52.94
+    "winRatio": 52.94,
+    "_lastTenRatings": [
+      155.03237641300012,
+      162.389278656247,
+      155.625108272726,
+      155.6898362284446,
+      155.6308977405263,
+      155.38931739036434,
+      148.64516964152662,
+      154.37088633228933,
+      160.17284707228006,
+      155.12205578135925
+    ]
   },
   {
     "NAF Nr": "21145",
@@ -4121,13 +7381,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Armenia",
     "race": "Old World Alliance",
-    "rating": "153.57",
+    "rating": 152.38497785593702,
+    "bestRating": 163.55146615132918,
+    "worstRating": 138.668362933722,
+    "tendency": 10.236676602547732,
     "totalTournaments": 6,
     "gamesTotal": 34,
     "gamesWon": 11,
     "gamesDraw": 10,
     "gamesLost": 13,
-    "winRatio": 47.06
+    "winRatio": 47.06,
+    "_lastTenRatings": [
+      142.1483012533893,
+      147.74504983559666,
+      149.2021517186858,
+      144.00036866022333,
+      138.668362933722,
+      144.8159769482809,
+      139.30835916351057,
+      145.15329808403632,
+      145.68928652396272,
+      152.38497785593702
+    ]
   },
   {
     "NAF Nr": "21163",
@@ -4135,13 +7410,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Austria",
     "race": "Old World Alliance",
-    "rating": "139.1",
+    "rating": 138.86364231555896,
+    "bestRating": 144.8196147352528,
+    "worstRating": 138.86364231555896,
+    "tendency": -5.955972419693836,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      144.8196147352528,
+      138.8676820114386,
+      138.86364231555896
+    ]
   },
   {
     "NAF Nr": "21178",
@@ -4149,13 +7432,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Old World Alliance",
-    "rating": "160.19",
+    "rating": 160.8905027597258,
+    "bestRating": 164.58341018264306,
+    "worstRating": 146.394448724536,
+    "tendency": 14.496054035189786,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 6,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      146.394448724536,
+      149.9974895905425,
+      153.60311033814577,
+      157.22785813158828,
+      153.7112693358793,
+      148.07806692891694,
+      153.4058677252903,
+      158.73373304322865,
+      164.58341018264306,
+      160.8905027597258
+    ]
   },
   {
     "NAF Nr": "21238",
@@ -4163,13 +7461,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Austria",
     "race": "Old World Alliance",
-    "rating": "153.37",
+    "rating": 153.3149847777947,
+    "bestRating": 156.22630005943398,
+    "worstRating": 153.3149847777947,
+    "tendency": -0.14911683734305825,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.46410161513776,
+      156.22630005943398,
+      153.3149847777947
+    ]
   },
   {
     "NAF Nr": "21319",
@@ -4177,13 +7483,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "161.7",
+    "rating": 161.98118967743346,
+    "bestRating": 161.98118967743346,
+    "worstRating": 150.2966510920343,
+    "tendency": 5.8716938986008245,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      156.10949577883264,
+      150.2966510920343,
+      155.68571890606808,
+      161.2066488646672,
+      161.98118967743346
+    ]
   },
   {
     "NAF Nr": "21333",
@@ -4191,13 +7507,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "175.22",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
-    "gamesWon": 8,
-    "gamesDraw": 1,
-    "gamesLost": 3,
-    "winRatio": 70.83
+    "rating": 176.89021337606331,
+    "bestRating": 182.97930397241532,
+    "worstRating": 151.28314101150488,
+    "tendency": 14.536205103627793,
+    "totalTournaments": 4,
+    "gamesTotal": 16,
+    "gamesWon": 10,
+    "gamesDraw": 2,
+    "gamesLost": 4,
+    "winRatio": 68.75,
+    "_lastTenRatings": [
+      162.35400827243552,
+      167.9793293759702,
+      172.06779991251264,
+      165.85734393751562,
+      170.66630695827482,
+      175.51831631251102,
+      178.2779002344712,
+      182.65007356774686,
+      182.97930397241532,
+      176.89021337606331
+    ]
   },
   {
     "NAF Nr": "21349",
@@ -4205,13 +7536,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.97",
+    "rating": 152.01664121297645,
+    "bestRating": 152.01664121297645,
+    "worstRating": 144.452868631234,
+    "tendency": 7.563772581742455,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.452868631234,
+      150.12582471706898,
+      145.71303827951698,
+      152.01664121297645
+    ]
   },
   {
     "NAF Nr": "21354",
@@ -4219,13 +7559,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "North Ireland",
     "race": "Old World Alliance",
-    "rating": "149.63",
+    "rating": 149.79986819205547,
+    "bestRating": 149.79986819205547,
+    "worstRating": 145.13089270281478,
+    "tendency": 4.589507802037758,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.2103603900177,
+      149.61002720348898,
+      145.13089270281478,
+      149.53201464852015,
+      145.22269087603507,
+      149.79986819205547
+    ]
   },
   {
     "NAF Nr": "21377",
@@ -4233,13 +7584,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "173.18",
+    "rating": 172.90498078839582,
+    "bestRating": 172.94581066092852,
+    "worstRating": 154.47213595499957,
+    "tendency": 18.432844833396246,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 91.67
+    "winRatio": 91.67,
+    "_lastTenRatings": [
+      154.47213595499957,
+      158.94251754445955,
+      163.2538586825153,
+      169.12906448160703,
+      172.94581066092852,
+      172.90498078839582
+    ]
   },
   {
     "NAF Nr": "21378",
@@ -4247,13 +7609,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "145.5",
+    "rating": 145.48965620714276,
+    "bestRating": 154.25600414320675,
+    "worstRating": 145.30831970162114,
+    "tendency": -8.16974936525287,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      153.65940557239563,
+      154.25600414320675,
+      149.944663005151,
+      145.30831970162114,
+      149.91562908348538,
+      145.48965620714276
+    ]
   },
   {
     "NAF Nr": "21395",
@@ -4261,13 +7634,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "150.09",
+    "rating": 150.821477687079,
+    "bestRating": 153.46410161513776,
+    "worstRating": 150.821477687079,
+    "tendency": -2.642623928058754,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      153.46410161513776,
+      153.46410161513776,
+      150.821477687079
+    ]
   },
   {
     "NAF Nr": "21410",
@@ -4275,13 +7656,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Old World Alliance",
-    "rating": "215.88",
+    "rating": 220.80537379992685,
+    "bestRating": 224.47006756011942,
+    "worstRating": 140.9818184506116,
+    "tendency": 32.57819021769828,
     "totalTournaments": 4,
     "gamesTotal": 24,
     "gamesWon": 16,
     "gamesDraw": 6,
     "gamesLost": 2,
-    "winRatio": 79.17
+    "winRatio": 79.17,
+    "_lastTenRatings": [
+      188.22718358222858,
+      193.74881789902923,
+      198.98734647931155,
+      207.84049199924164,
+      212.27626918597474,
+      217.4956904141465,
+      216.96655374902832,
+      219.83191391741713,
+      224.47006756011942,
+      220.80537379992685
+    ]
   },
   {
     "NAF Nr": "21419",
@@ -4289,13 +7685,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "151.45",
+    "rating": 151.33585646065674,
+    "bestRating": 156.38499223353546,
+    "worstRating": 151.33585646065674,
+    "tendency": -3.6348000691763502,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.9706565298331,
+      156.38499223353546,
+      151.33585646065674
+    ]
   },
   {
     "NAF Nr": "21451",
@@ -4303,13 +7707,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "156.41",
+    "rating": 156.6229870967256,
+    "bestRating": 156.6229870967256,
+    "worstRating": 150,
+    "tendency": 6.622987096725609,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      150,
+      150.12612650639446,
+      150.84441387162968,
+      156.6229870967256
+    ]
   },
   {
     "NAF Nr": "21458",
@@ -4317,13 +7730,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Monaco",
     "race": "Old World Alliance",
-    "rating": "141.53",
+    "rating": 141.3695960675252,
+    "bestRating": 146.02640808437678,
+    "worstRating": 138.64292144357685,
+    "tendency": -4.387763245355501,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      145.7573593128807,
+      142.57179665303315,
+      138.64292144357685,
+      144.79163174336813,
+      146.02640808437678,
+      141.3695960675252
+    ]
   },
   {
     "NAF Nr": "21487",
@@ -4331,13 +7755,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "142.92",
+    "rating": 145.58244122433385,
+    "bestRating": 151.82796098523767,
+    "worstRating": 145.58244122433385,
+    "tendency": -5.52341600791101,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      151.10585723224486,
+      151.82796098523767,
+      151.26996283952022,
+      148.96332512072757,
+      145.58244122433385
+    ]
   },
   {
     "NAF Nr": "21511",
@@ -4345,13 +7779,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "157.86",
+    "rating": 155.94921685142342,
+    "bestRating": 161.65026299484165,
+    "worstRating": 150.30864853427704,
+    "tendency": -0.030295040612770663,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      155.9795118920362,
+      150.30864853427704,
+      156.00868445847317,
+      161.65026299484165,
+      161.63566819806636,
+      155.94921685142342
+    ]
   },
   {
     "NAF Nr": "21573",
@@ -4359,13 +7804,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Old World Alliance",
-    "rating": "178.14",
+    "rating": 178.9226511861708,
+    "bestRating": 185.54078123318143,
+    "worstRating": 154.5196473420649,
+    "tendency": 4.088544762661513,
     "totalTournaments": 3,
     "gamesTotal": 18,
     "gamesWon": 10,
     "gamesDraw": 5,
     "gamesLost": 3,
-    "winRatio": 69.44
+    "winRatio": 69.44,
+    "_lastTenRatings": [
+      174.8341064235093,
+      181.59912838396167,
+      180.65374262480645,
+      179.8643650146191,
+      183.92734847719228,
+      183.66804821029382,
+      182.4567776800686,
+      181.42414554286822,
+      185.54078123318143,
+      178.9226511861708
+    ]
   },
   {
     "NAF Nr": "21596",
@@ -4373,13 +7833,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "144.31",
+    "rating": 147.81067098305735,
+    "bestRating": 152.96307358444474,
+    "worstRating": 145,
+    "tendency": 2.8106709830573493,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145,
+      149.09380262053483,
+      152.96307358444474,
+      147.81067098305735
+    ]
   },
   {
     "NAF Nr": "21606",
@@ -4387,13 +7856,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "124.1",
+    "rating": 129.52903103425496,
+    "bestRating": 154.35783929049026,
+    "worstRating": 129.52903103425496,
+    "tendency": -21.104175981307122,
     "totalTournaments": 3,
     "gamesTotal": 10,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 7,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatings": [
+      150.63320701556208,
+      154.35783929049026,
+      150.63695394691234,
+      146.98424536825337,
+      143.60031220721476,
+      143.59895059204305,
+      140.2205575328511,
+      137.05543407745284,
+      133.2329318876635,
+      129.52903103425496
+    ]
   },
   {
     "NAF Nr": "21628",
@@ -4401,13 +7885,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Old World Alliance",
-    "rating": "153.8",
+    "rating": 154.54267666265596,
+    "bestRating": 154.54267666265596,
+    "worstRating": 146.6273428460486,
+    "tendency": 7.915333816607358,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.6273428460486,
+      152.34277848443273,
+      146.74725916681422,
+      152.3854395853827,
+      148.894536573348,
+      154.54267666265596
+    ]
   },
   {
     "NAF Nr": "21652",
@@ -4415,13 +7910,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "139.65",
+    "rating": 140.24225720576382,
+    "bestRating": 155.54816236896968,
+    "worstRating": 140.24225720576382,
+    "tendency": -9.75774279423618,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      150,
+      155.54816236896968,
+      151.51375256999802,
+      151.92041618009438,
+      145.9408964344995,
+      140.24225720576382
+    ]
   },
   {
     "NAF Nr": "21663",
@@ -4429,13 +7935,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "189.46",
+    "rating": 187.74695268485397,
+    "bestRating": 187.74695268485397,
+    "worstRating": 155.42513269045634,
+    "tendency": 11.99020081445417,
     "totalTournaments": 3,
     "gamesTotal": 19,
     "gamesWon": 11,
     "gamesDraw": 4,
     "gamesLost": 4,
-    "winRatio": 68.42
+    "winRatio": 68.42,
+    "_lastTenRatings": [
+      175.7567518703998,
+      182.50028697406051,
+      173.7260231080972,
+      180.7076367282589,
+      175.75827624159325,
+      173.97143517162488,
+      178.86232355136855,
+      184.00563873185578,
+      183.17404514144116,
+      187.74695268485397
+    ]
   },
   {
     "NAF Nr": "21669",
@@ -4443,13 +7964,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Norway",
     "race": "Old World Alliance",
-    "rating": "143.94",
+    "rating": 144.17324986681643,
+    "bestRating": 147.13969521155187,
+    "worstRating": 144.14008304615058,
+    "tendency": -2.9664453447354333,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      147.13969521155187,
+      144.14008304615058,
+      144.17324986681643
+    ]
   },
   {
     "NAF Nr": "21672",
@@ -4457,13 +7986,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "150.4",
+    "rating": 150.5942341269706,
+    "bestRating": 156.41494018438385,
+    "worstRating": 149.78829208127914,
+    "tendency": 0.8059420456914665,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      149.78829208127914,
+      156.41494018438385,
+      155.9815345867371,
+      150.5942341269706
+    ]
   },
   {
     "NAF Nr": "21674",
@@ -4471,13 +8009,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "157.25",
+    "rating": 164.08311502648206,
+    "bestRating": 168.41175534570328,
+    "worstRating": 139.02280113120386,
+    "tendency": 20.136909726404355,
     "totalTournaments": 4,
     "gamesTotal": 18,
     "gamesWon": 8,
     "gamesDraw": 4,
     "gamesLost": 6,
-    "winRatio": 55.56
+    "winRatio": 55.56,
+    "_lastTenRatings": [
+      143.9462053000777,
+      139.02280113120386,
+      144.89655540055858,
+      145.18251135335993,
+      151.68915918951961,
+      156.83790848419542,
+      161.81718500620988,
+      164.8954096269612,
+      168.41175534570328,
+      164.08311502648206
+    ]
   },
   {
     "NAF Nr": "21689",
@@ -4485,13 +8038,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "148.66",
+    "rating": 146.50639727908808,
+    "bestRating": 155.94366732302603,
+    "worstRating": 135.38899354900244,
+    "tendency": 3.770432737820954,
     "totalTournaments": 2,
     "gamesTotal": 11,
     "gamesWon": 3,
     "gamesDraw": 4,
     "gamesLost": 4,
-    "winRatio": 45.45
+    "winRatio": 45.45,
+    "_lastTenRatings": [
+      142.73596454126712,
+      135.38899354900244,
+      142.15032553660177,
+      149.4740233080692,
+      155.94366732302603,
+      152.73963664017788,
+      152.45599176678238,
+      152.39401736100467,
+      152.11143156091438,
+      146.50639727908808
+    ]
   },
   {
     "NAF Nr": "21691",
@@ -4499,13 +8067,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "159.53",
+    "rating": 158.68333283685493,
+    "bestRating": 158.68333283685493,
+    "worstRating": 151.7936980896891,
+    "tendency": 1.1515388079410798,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      157.53179402891385,
+      151.7936980896891,
+      157.67868238589693,
+      158.68333283685493
+    ]
   },
   {
     "NAF Nr": "21702",
@@ -4513,13 +8090,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "146.48",
+    "rating": 145.09933623441395,
+    "bestRating": 145.09933623441395,
+    "worstRating": 145.09933623441395,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      145.09933623441395
+    ]
   },
   {
     "NAF Nr": "21713",
@@ -4527,13 +8110,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "160.23",
+    "rating": 159.90132079700152,
+    "bestRating": 179.6686780584665,
+    "worstRating": 144.66426193576288,
+    "tendency": 0.8074609206188939,
     "totalTournaments": 6,
     "gamesTotal": 18,
     "gamesWon": 9,
     "gamesDraw": 3,
     "gamesLost": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      159.09385987638262,
+      164.3581056456407,
+      169.63772997327135,
+      174.9051688198905,
+      175.0878200061479,
+      179.6686780584665,
+      174.27257638753505,
+      167.9460369144409,
+      161.30607279061098,
+      159.90132079700152
+    ]
   },
   {
     "NAF Nr": "21732",
@@ -4541,13 +8139,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "157.78",
+    "rating": 158.18644718892395,
+    "bestRating": 158.18644718892395,
+    "worstRating": 145.62953318409345,
+    "tendency": 12.556914004830503,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      145.62953318409345,
+      149.87633633227284,
+      154.0717883513214,
+      158.18644718892395
+    ]
   },
   {
     "NAF Nr": "21736",
@@ -4555,13 +8162,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "156.8",
+    "rating": 156.6911851518591,
+    "bestRating": 156.6911851518591,
+    "worstRating": 151.15683722377815,
+    "tendency": 1.0024312369068582,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.68875391495223,
+      151.15683722377815,
+      156.6911851518591
+    ]
   },
   {
     "NAF Nr": "21745",
@@ -4569,27 +8184,44 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "140.78",
+    "rating": 139.2667770240376,
+    "bestRating": 145.65189989397362,
+    "worstRating": 139.2667770240376,
+    "tendency": -6.385122869936026,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      145.65189989397362,
+      144.34815017341052,
+      139.2667770240376
+    ]
   },
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "154.84",
+    "rating": 154.9406374952481,
+    "bestRating": 155.65685424949237,
+    "worstRating": 149.91678713161477,
+    "tendency": -0.7162167542442717,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      155.65685424949237,
+      149.91678713161477,
+      154.80082040249536,
+      154.9406374952481
+    ]
   },
   {
     "NAF Nr": "21798",
@@ -4597,13 +8229,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Hungary",
     "race": "Old World Alliance",
-    "rating": "134.53",
+    "rating": 135.05394639754752,
+    "bestRating": 144.70207010520028,
+    "worstRating": 135.05394639754752,
+    "tendency": -9.378370049158832,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.43231644670635,
+      144.70207010520028,
+      136.33088487995857,
+      135.3587485634662,
+      135.52821992222528,
+      135.05394639754752
+    ]
   },
   {
     "NAF Nr": "21803",
@@ -4611,13 +8254,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "141.18",
+    "rating": 139.8516243289617,
+    "bestRating": 147.10180888147775,
+    "worstRating": 139.8516243289617,
+    "tendency": -7.25018455251606,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      147.10180888147775,
+      144.3100233733186,
+      139.8516243289617
+    ]
   },
   {
     "NAF Nr": "21819",
@@ -4625,27 +8276,50 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "140.44",
+    "rating": 139.4333951639381,
+    "bestRating": 154.28135054497105,
+    "worstRating": 139.4333951639381,
+    "tendency": -10.431119226986738,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 1,
     "gamesDraw": 5,
     "gamesLost": 3,
-    "winRatio": 38.89
+    "winRatio": 38.89,
+    "_lastTenRatings": [
+      149.86451439092482,
+      148.51986370061914,
+      148.93852531023373,
+      154.22247641194758,
+      154.28135054497105,
+      148.63577215866485,
+      142.55918226481296,
+      142.7192471630579,
+      139.4333951639381
+    ]
   },
   {
     "NAF Nr": "21865",
     "NAF Name": "Menguexe",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "164.16",
+    "rating": 164.0479230673466,
+    "bestRating": 164.0479230673466,
+    "worstRating": 152.41025051086018,
+    "tendency": 11.637672556486422,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      152.41025051086018,
+      157.96246853407442,
+      163.97700973140195,
+      164.0479230673466
+    ]
   },
   {
     "NAF Nr": "21996",
@@ -4653,13 +8327,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "165.22",
+    "rating": 165.7304791157859,
+    "bestRating": 165.7304791157859,
+    "worstRating": 145.95879948979714,
+    "tendency": 9.140436017012604,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      156.5900430987733,
+      151.41125259450683,
+      145.95879948979714,
+      151.33594403201255,
+      157.57644114270585,
+      165.7304791157859
+    ]
   },
   {
     "NAF Nr": "22007",
@@ -4667,13 +8352,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Old World Alliance",
-    "rating": "155.01",
+    "rating": 154.7939293001326,
+    "bestRating": 154.88621481435635,
+    "worstRating": 147.91818094283153,
+    "tendency": 6.875748357301063,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      147.91818094283153,
+      151.35267800256807,
+      154.88621481435635,
+      154.7939293001326
+    ]
   },
   {
     "NAF Nr": "22040",
@@ -4681,13 +8375,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "150.86",
+    "rating": 151.03538985900113,
+    "bestRating": 155.26467844953936,
+    "worstRating": 144.34314575050763,
+    "tendency": 1.0353898590011283,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      149.98895501689597,
+      155.26467844953936,
+      149.5874740083189,
+      151.03538985900113
+    ]
   },
   {
     "NAF Nr": "22063",
@@ -4695,13 +8400,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "156.6",
+    "rating": 156.72662930151597,
+    "bestRating": 156.72662930151597,
+    "worstRating": 151.48031163743988,
+    "tendency": 1.627609787923177,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.0990195135928,
+      151.48031163743988,
+      156.72662930151597
+    ]
   },
   {
     "NAF Nr": "22064",
@@ -4709,13 +8422,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "race": "Old World Alliance",
-    "rating": "139.73",
+    "rating": 138.88949416807483,
+    "bestRating": 147.27369059226623,
+    "worstRating": 138.88949416807483,
+    "tendency": -8.384196424191401,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      147.27369059226623,
+      142.5438309472719,
+      138.88949416807483
+    ]
   },
   {
     "NAF Nr": "22081",
@@ -4723,13 +8444,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "156.59",
+    "rating": 157.4909639029819,
+    "bestRating": 157.4909639029819,
+    "worstRating": 153.74165738677394,
+    "tendency": 3.7493065162079517,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      153.74165738677394,
+      157.47401597571715,
+      157.4909639029819
+    ]
   },
   {
     "NAF Nr": "22100",
@@ -4737,13 +8466,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "156.91",
+    "rating": 157.1035025721122,
+    "bestRating": 157.1035025721122,
+    "worstRating": 149.71984526703707,
+    "tendency": 7.383657305075133,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      149.71984526703707,
+      153.469548203963,
+      157.1035025721122
+    ]
   },
   {
     "NAF Nr": "22126",
@@ -4751,13 +8488,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "150.59",
+    "rating": 150.63577557050587,
+    "bestRating": 156.61747326282426,
+    "worstRating": 150.0812275994794,
+    "tendency": -5.1059930884534594,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.74176865895933,
+      150.0812275994794,
+      156.61747326282426,
+      156.5852678080036,
+      150.63577557050587
+    ]
   },
   {
     "NAF Nr": "22157",
@@ -4765,13 +8512,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "154.57",
+    "rating": 154.74479576553125,
+    "bestRating": 158.07115986791078,
+    "worstRating": 153.767459552644,
+    "tendency": 0.977336212887252,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      153.767459552644,
+      153.9478972692004,
+      158.07115986791078,
+      154.74479576553125
+    ]
   },
   {
     "NAF Nr": "22222",
@@ -4779,27 +8535,51 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.42",
+    "rating": 149.55722471851203,
+    "bestRating": 155.0428616584987,
+    "worstRating": 148.12864748360488,
+    "tendency": 1.4285772349071522,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      148.12864748360488,
+      153.22397351951693,
+      149.33395685081382,
+      154.99626113264628,
+      155.0428616584987,
+      149.55722471851203
+    ]
   },
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "149.48",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "rating": 145.50850039026358,
+    "bestRating": 155.48510073776902,
+    "worstRating": 139.72583893227102,
+    "tendency": -9.976600347505439,
+    "totalTournaments": 2,
+    "gamesTotal": 8,
+    "gamesWon": 3,
     "gamesDraw": 1,
-    "gamesLost": 2,
-    "winRatio": 37.5
+    "gamesLost": 4,
+    "winRatio": 43.75,
+    "_lastTenRatings": [
+      155.48510073776902,
+      154.32008040301963,
+      148.37315316285384,
+      141.93619679805877,
+      148.16417667561095,
+      143.79200334233528,
+      139.72583893227102,
+      145.50850039026358
+    ]
   },
   {
     "NAF Nr": "22316",
@@ -4807,13 +8587,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "145.94",
+    "rating": 143.31788138278048,
+    "bestRating": 156.52729799598177,
+    "worstRating": 138.16770593855048,
+    "tendency": -3.6252611547992046,
     "totalTournaments": 6,
     "gamesTotal": 27,
     "gamesWon": 10,
     "gamesDraw": 3,
     "gamesLost": 14,
-    "winRatio": 42.59
+    "winRatio": 42.59,
+    "_lastTenRatings": [
+      146.9431425375797,
+      142.59048719161098,
+      138.40889272993275,
+      143.90812991362117,
+      145.23746753844682,
+      151.11553269282396,
+      146.283873219758,
+      143.19682921794112,
+      138.16770593855048,
+      143.31788138278048
+    ]
   },
   {
     "NAF Nr": "22344",
@@ -4821,13 +8616,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "147.22",
+    "rating": 147.44973402545858,
+    "bestRating": 152.99794624058302,
+    "worstRating": 134.26319104467132,
+    "tendency": 4.498288625739377,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 4,
     "gamesDraw": 4,
     "gamesLost": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      142.9514453997192,
+      143.44068510784672,
+      134.26319104467132,
+      134.28521914808394,
+      140.81435365833372,
+      139.25192110338918,
+      147.0942877110134,
+      152.87728115041628,
+      152.99794624058302,
+      147.44973402545858
+    ]
   },
   {
     "NAF Nr": "22357",
@@ -4835,13 +8645,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "176.26",
+    "rating": 176.84254646528373,
+    "bestRating": 176.84254646528373,
+    "worstRating": 157.3937446398606,
+    "tendency": 5.577322637687132,
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 8,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 64.29
+    "winRatio": 64.29,
+    "_lastTenRatings": [
+      171.2652238275966,
+      162.27378933841408,
+      167.7075224409497,
+      167.1826126982495,
+      171.83125306143916,
+      166.6547197126508,
+      160.69046627012165,
+      167.85445891912636,
+      172.17184988514208,
+      176.84254646528373
+    ]
   },
   {
     "NAF Nr": "22365",
@@ -4849,13 +8674,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "154.9",
+    "rating": 154.7254420408317,
+    "bestRating": 154.7254420408317,
+    "worstRating": 144.19273259178593,
+    "tendency": 10.532709449045768,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      144.19273259178593,
+      149.90933100339808,
+      149.8923672023934,
+      154.7254420408317
+    ]
   },
   {
     "NAF Nr": "22433",
@@ -4863,13 +8697,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "152.46",
+    "rating": 152.41265415853266,
+    "bestRating": 152.41265415853266,
+    "worstRating": 149.958205148799,
+    "tendency": 2.4126541585326606,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      150,
+      149.958205148799,
+      152.41265415853266
+    ]
   },
   {
     "NAF Nr": "22445",
@@ -4877,13 +8719,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "143.97",
+    "rating": 143.95254555971732,
+    "bestRating": 148.4370174019631,
+    "worstRating": 143.78127578524925,
+    "tendency": -1.047454440282678,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      145,
+      148.4370174019631,
+      143.78127578524925,
+      143.95254555971732
+    ]
   },
   {
     "NAF Nr": "22456",
@@ -4891,13 +8742,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Norway",
     "race": "Old World Alliance",
-    "rating": "153.88",
+    "rating": 153.76390274913777,
+    "bestRating": 153.76390274913777,
+    "worstRating": 153.76390274913777,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      153.76390274913777
+    ]
   },
   {
     "NAF Nr": "22470",
@@ -4905,13 +8762,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "202.43",
+    "rating": 202.11942120916407,
+    "bestRating": 202.11942120916407,
+    "worstRating": 156.6669083752235,
+    "tendency": 31.901263425192866,
     "totalTournaments": 5,
     "gamesTotal": 22,
     "gamesWon": 14,
     "gamesDraw": 5,
     "gamesLost": 3,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      170.2181577839712,
+      175.03939547135042,
+      175.27256378649312,
+      180.67819742894443,
+      185.5935354604536,
+      189.91889896041215,
+      189.00139923431215,
+      193.30635985874073,
+      197.52988127797718,
+      202.11942120916407
+    ]
   },
   {
     "NAF Nr": "22475",
@@ -4919,13 +8791,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "160.47",
+    "rating": 160.631619676618,
+    "bestRating": 160.631619676618,
+    "worstRating": 154.15440828701662,
+    "tendency": 6.477211389601365,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      154.15440828701662,
+      158.14944541119405,
+      160.631619676618
+    ]
   },
   {
     "NAF Nr": "22482",
@@ -4933,13 +8813,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "151.39",
+    "rating": 151.18318139954582,
+    "bestRating": 155.65685424949237,
+    "worstRating": 145.09233838180748,
+    "tendency": -4.473672849946553,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150.04497960870015,
+      145.09233838180748,
+      151.18318139954582
+    ]
   },
   {
     "NAF Nr": "22610",
@@ -4947,13 +8836,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "142.5",
+    "rating": 142.25403330758516,
+    "bestRating": 142.25403330758516,
+    "worstRating": 142.25403330758516,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      142.25403330758516
+    ]
   },
   {
     "NAF Nr": "22623",
@@ -4961,13 +8856,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "145.78",
+    "rating": 147.3807252258744,
+    "bestRating": 147.7699673383684,
+    "worstRating": 143.11911120708163,
+    "tendency": 1.0911580883733052,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      146.28956713750108,
+      146.24487776770187,
+      143.16502003283114,
+      147.7699673383684,
+      143.11911120708163,
+      147.3807252258744
+    ]
   },
   {
     "NAF Nr": "22632",
@@ -4975,13 +8881,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "163.07",
+    "rating": 163.7804524023459,
+    "bestRating": 169.1312521900825,
+    "worstRating": 144.4822571955249,
+    "tendency": 19.298195206820992,
     "totalTournaments": 3,
     "gamesTotal": 9,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 61.11
+    "winRatio": 61.11,
+    "_lastTenRatings": [
+      144.4822571955249,
+      150.37853746315602,
+      156.43638864608417,
+      163.27057317534386,
+      158.01701663905553,
+      163.08234950983058,
+      164.2242644448667,
+      169.1312521900825,
+      163.7804524023459
+    ]
   },
   {
     "NAF Nr": "22651",
@@ -4989,13 +8909,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "149.96",
+    "rating": 149.96991913558242,
+    "bestRating": 154.38074698111612,
+    "worstRating": 149.96991913558242,
+    "tendency": -0.030080864417584507,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      154.38074698111612,
+      149.96991913558242
+    ]
   },
   {
     "NAF Nr": "22682",
@@ -5003,13 +8931,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Old World Alliance",
-    "rating": "145.1",
+    "rating": 144.89620647696424,
+    "bestRating": 149.8010958074585,
+    "worstRating": 144.57130725916574,
+    "tendency": -4.904889330494257,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      149.8010958074585,
+      147.15938361916494,
+      144.57130725916574,
+      146.65459258020806,
+      144.84976790769161,
+      144.89620647696424
+    ]
   },
   {
     "NAF Nr": "22702",
@@ -5017,13 +8956,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "138.23",
+    "rating": 137.50147305311881,
+    "bestRating": 155.41139939075893,
+    "worstRating": 127.21639493213162,
+    "tendency": -1.3047654621887261,
     "totalTournaments": 4,
     "gamesTotal": 16,
     "gamesWon": 5,
     "gamesDraw": 4,
     "gamesLost": 7,
-    "winRatio": 43.75
+    "winRatio": 43.75,
+    "_lastTenRatings": [
+      138.80623851530754,
+      133.52573221084518,
+      138.13080984969466,
+      136.22831030286576,
+      133.73959773928294,
+      128.13831554877976,
+      127.21639493213162,
+      131.349806770463,
+      131.50533781820346,
+      137.50147305311881
+    ]
   },
   {
     "NAF Nr": "22803",
@@ -5031,13 +8985,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "150.85",
+    "rating": 150.94221795340107,
+    "bestRating": 150.94221795340107,
+    "worstRating": 138.68629150101526,
+    "tendency": 6.5990722028934385,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      144.38410656137918,
+      139.41067564567967,
+      145.0490234828219,
+      150.94221795340107
+    ]
   },
   {
     "NAF Nr": "22826",
@@ -5045,27 +9010,51 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "161.09",
+    "rating": 162.6050091109278,
+    "bestRating": 177.0102778823265,
+    "worstRating": 155.4751039536821,
+    "tendency": -14.40526877139871,
     "totalTournaments": 4,
     "gamesTotal": 18,
     "gamesWon": 7,
     "gamesDraw": 6,
     "gamesLost": 5,
-    "winRatio": 55.56
+    "winRatio": 55.56,
+    "_lastTenRatings": [
+      177.0102778823265,
+      171.5746039981804,
+      166.5774903238343,
+      165.86118532338716,
+      161.16021928247028,
+      156.04904386962983,
+      162.1643409567619,
+      156.24466335629896,
+      155.9637540772244,
+      162.6050091109278
+    ]
   },
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "143.59",
+    "rating": 143.68674070324633,
+    "bestRating": 149.61618152149788,
+    "worstRating": 143.68674070324633,
+    "tendency": -0.4716370034469719,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      144.1583777066933,
+      149.61618152149788,
+      143.96882177798093,
+      143.68674070324633
+    ]
   },
   {
     "NAF Nr": "22978",
@@ -5073,13 +9062,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "143.96",
+    "rating": 143.85764654911893,
+    "bestRating": 154.7887910718707,
+    "worstRating": 143.85764654911893,
+    "tendency": -8.621329926706807,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      152.47897647582573,
+      149.3051752710558,
+      154.7887910718707,
+      148.7921841118718,
+      149.58960691521844,
+      143.85764654911893
+    ]
   },
   {
     "NAF Nr": "22993",
@@ -5087,13 +9087,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "158.85",
+    "rating": 159.78228805736745,
+    "bestRating": 163.52137191113997,
+    "worstRating": 153.99078912465646,
+    "tendency": 5.791498932710994,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      153.99078912465646,
+      158.1448978599181,
+      163.52137191113997,
+      159.78228805736745
+    ]
   },
   {
     "NAF Nr": "23113",
@@ -5101,13 +9110,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "130.73",
+    "rating": 129.9442623035072,
+    "bestRating": 144.34314575050763,
+    "worstRating": 129.9442623035072,
+    "tendency": -14.39888344700043,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      134.61945385642494,
+      129.9442623035072
+    ]
   },
   {
     "NAF Nr": "23167",
@@ -5115,13 +9133,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "148.27",
+    "rating": 150.2688961819451,
+    "bestRating": 157.4849518088531,
+    "worstRating": 144.126347509142,
+    "tendency": -4.670898865506416,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 43.75
+    "winRatio": 43.75,
+    "_lastTenRatings": [
+      154.93979504745153,
+      157.4849518088531,
+      153.16209455566468,
+      147.47247130119263,
+      144.17220778350642,
+      149.6017420333472,
+      144.126347509142,
+      150.2688961819451
+    ]
   },
   {
     "NAF Nr": "23207",
@@ -5129,13 +9160,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "157.16",
+    "rating": 157.0807624353271,
+    "bestRating": 157.0807624353271,
+    "worstRating": 153.46410161513776,
+    "tendency": 3.616660820189338,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      153.46410161513776,
+      156.92820323027553,
+      153.6158055480791,
+      156.9837949347117,
+      157.0807624353271
+    ]
   },
   {
     "NAF Nr": "23217",
@@ -5143,13 +9184,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Bulgaria",
     "race": "Old World Alliance",
-    "rating": "153.07",
+    "rating": 153.2369788984266,
+    "bestRating": 153.2369788984266,
+    "worstRating": 153.16227766016837,
+    "tendency": 0.07470123825822839,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.16227766016837,
+      153.16227766016837,
+      153.2369788984266
+    ]
   },
   {
     "NAF Nr": "23292",
@@ -5157,13 +9206,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "155.81",
+    "rating": 156.8461814716989,
+    "bestRating": 165.7199672656948,
+    "worstRating": 145.05136639603293,
+    "tendency": 2.0067001019717168,
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 5,
     "gamesDraw": 5,
     "gamesLost": 4,
-    "winRatio": 53.57
+    "winRatio": 53.57,
+    "_lastTenRatings": [
+      154.8394813697272,
+      154.49267886528665,
+      154.74950969853438,
+      155.55420278183715,
+      160.9680738421124,
+      165.06461845509273,
+      161.5158110766247,
+      165.7199672656948,
+      160.83349850608056,
+      156.8461814716989
+    ]
   },
   {
     "NAF Nr": "23299",
@@ -5171,13 +9235,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "145.03",
+    "rating": 145.9474763609493,
+    "bestRating": 157.62816474234344,
+    "worstRating": 145.9474763609493,
+    "tendency": -11.139776046244009,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      157.08725240719332,
+      157.62816474234344,
+      151.13928595827326,
+      145.9474763609493
+    ]
   },
   {
     "NAF Nr": "23332",
@@ -5185,13 +9258,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Czech Republic",
     "race": "Old World Alliance",
-    "rating": "145.85",
+    "rating": 145.79352056235106,
+    "bestRating": 154.2426406871193,
+    "worstRating": 145.79352056235106,
+    "tendency": -8.449120124768228,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      154.2426406871193,
+      149.88974803691258,
+      145.79352056235106
+    ]
   },
   {
     "NAF Nr": "23365",
@@ -5199,13 +9280,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "175.36",
+    "rating": 176.04073889365407,
+    "bestRating": 176.04073889365407,
+    "worstRating": 154.89921078962064,
+    "tendency": 21.141528104033426,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 91.67
+    "winRatio": 91.67,
+    "_lastTenRatings": [
+      154.89921078962064,
+      154.93984657783935,
+      160.61717459952482,
+      165.8140704589803,
+      171.04909234112574,
+      176.04073889365407
+    ]
   },
   {
     "NAF Nr": "23381",
@@ -5213,13 +9305,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "148.51",
+    "rating": 153.34806066341432,
+    "bestRating": 159.22668919582216,
+    "worstRating": 141.80883744061188,
+    "tendency": 3.283810039106527,
     "totalTournaments": 5,
     "gamesTotal": 18,
     "gamesWon": 9,
     "gamesDraw": 1,
     "gamesLost": 8,
-    "winRatio": 52.78
+    "winRatio": 52.78,
+    "_lastTenRatings": [
+      150.0642506243078,
+      152.11323744030796,
+      156.1602049265396,
+      152.4489443946875,
+      147.305185812953,
+      141.80883744061188,
+      147.1134183326208,
+      152.42467441026895,
+      148.58144117887173,
+      153.34806066341432
+    ]
   },
   {
     "NAF Nr": "23418",
@@ -5227,13 +9334,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "123.07",
+    "rating": 121.93010605532069,
+    "bestRating": 143.13479300678904,
+    "worstRating": 121.93010605532069,
+    "tendency": -21.204686951468346,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      143.13479300678904,
+      135.4614124446216,
+      124.09843868322824,
+      130.05203963205267,
+      122.80282213087914,
+      121.93010605532069
+    ]
   },
   {
     "NAF Nr": "23427",
@@ -5241,13 +9359,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Czech Republic",
     "race": "Old World Alliance",
-    "rating": "154.3",
+    "rating": 156.93330335644038,
+    "bestRating": 167.62200666099687,
+    "worstRating": 137.95264365496826,
+    "tendency": 0.1341003135718779,
     "totalTournaments": 6,
     "gamesTotal": 30,
     "gamesWon": 11,
     "gamesDraw": 9,
     "gamesLost": 10,
-    "winRatio": 51.67
+    "winRatio": 51.67,
+    "_lastTenRatings": [
+      156.7992030428685,
+      156.1684239170489,
+      155.98013229578007,
+      150.86686336478363,
+      150.8292264804798,
+      145.10978514965547,
+      150.7759120969871,
+      156.39061899157613,
+      157.2836068839795,
+      156.93330335644038
+    ]
   },
   {
     "NAF Nr": "23461",
@@ -5255,13 +9388,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "162.76",
+    "rating": 163.29685481802835,
+    "bestRating": 163.29685481802835,
+    "worstRating": 150.6088066053202,
+    "tendency": 12.68804821270814,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      150.6088066053202,
+      156.99863656409332,
+      163.29685481802835
+    ]
   },
   {
     "NAF Nr": "23479",
@@ -5269,13 +9410,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "144.19",
+    "rating": 144.47150745869166,
+    "bestRating": 155.29150262212917,
+    "worstRating": 144.25395668214944,
+    "tendency": -10.819995163437511,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      155.29150262212917,
+      149.49866611889905,
+      144.25395668214944,
+      144.47150745869166
+    ]
   },
   {
     "NAF Nr": "23493",
@@ -5283,13 +9433,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "138.62",
+    "rating": 138.33446335099492,
+    "bestRating": 146.57646686473726,
+    "worstRating": 138.33446335099492,
+    "tendency": -8.242003513742333,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146.57646686473726,
+      142.44528264759407,
+      138.33446335099492
+    ]
   },
   {
     "NAF Nr": "23507",
@@ -5297,13 +9455,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "154.13",
+    "rating": 154.2287760643406,
+    "bestRating": 159.52732622167713,
+    "worstRating": 144.34314575050763,
+    "tendency": 9.885630313832962,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      144.34314575050763,
+      148.89825023735102,
+      148.52831874435248,
+      154.26152404044953,
+      159.52732622167713,
+      154.2287760643406
+    ]
   },
   {
     "NAF Nr": "23538",
@@ -5311,13 +9480,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "158.3",
+    "rating": 158.87403419810246,
+    "bestRating": 158.87403419810246,
+    "worstRating": 151.14841863661835,
+    "tendency": 7.725615561484119,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      151.14841863661835,
+      155.08037523812928,
+      158.87403419810246
+    ]
   },
   {
     "NAF Nr": "23620",
@@ -5325,27 +9502,48 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "143.86",
+    "rating": 143.53588805354084,
+    "bestRating": 146.83772233983163,
+    "worstRating": 143.53588805354084,
+    "tendency": -3.3018342862907843,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      146.83772233983163,
+      143.67544467966326,
+      143.53588805354084
+    ]
   },
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "170.09",
+    "rating": 171.48405962445935,
+    "bestRating": 172.97138570353815,
+    "worstRating": 155.9041193961393,
+    "tendency": 15.579940228320055,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 6,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.9041193961393,
+      161.54781514560528,
+      157.37177633511203,
+      162.93909912374818,
+      168.10238205992624,
+      172.97138570353815,
+      166.31132324879997,
+      171.48405962445935
+    ]
   },
   {
     "NAF Nr": "23720",
@@ -5353,13 +9551,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "155.36",
+    "rating": 155.02821189057582,
+    "bestRating": 159.32139984660654,
+    "worstRating": 155.02821189057582,
+    "tendency": -0.25044605093253836,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      155.27865794150836,
+      155.24492233506172,
+      159.32139984660654,
+      155.02821189057582
+    ]
   },
   {
     "NAF Nr": "23750",
@@ -5367,13 +9574,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "150.62",
+    "rating": 149.20951336425844,
+    "bestRating": 154.5937921506168,
+    "worstRating": 148.88868817802185,
+    "tendency": 0.32082518623658984,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      148.88868817802185,
+      154.5937921506168,
+      149.20951336425844
+    ]
   },
   {
     "NAF Nr": "23763",
@@ -5381,13 +9596,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "144.63",
+    "rating": 144.8375827227171,
+    "bestRating": 155.29150262212917,
+    "worstRating": 144.8375827227171,
+    "tendency": -10.453919899412085,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      155.29150262212917,
+      149.82635680783173,
+      144.8375827227171
+    ]
   },
   {
     "NAF Nr": "23772",
@@ -5395,13 +9618,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "150.22",
+    "rating": 150.2151744454887,
+    "bestRating": 155.89239667130147,
+    "worstRating": 150.20078738966802,
+    "tendency": 0.01438705582069133,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.20078738966802,
+      150.4291174667781,
+      155.89239667130147,
+      150.2151744454887
+    ]
   },
   {
     "NAF Nr": "23781",
@@ -5409,13 +9641,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "154.0",
+    "rating": 154.24876988486554,
+    "bestRating": 154.24876988486554,
+    "worstRating": 150,
+    "tendency": 0.006129197746247428,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.2426406871193,
+      150,
+      154.24876988486554
+    ]
   },
   {
     "NAF Nr": "23807",
@@ -5423,13 +9663,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Old World Alliance",
-    "rating": "164.09",
+    "rating": 164.28974737377646,
+    "bestRating": 164.28974737377646,
+    "worstRating": 155.33164068477595,
+    "tendency": 8.632893124284095,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.33164068477595,
+      156.54291121500117,
+      162.52203780438873,
+      156.73460366626648,
+      164.28974737377646
+    ]
   },
   {
     "NAF Nr": "23844",
@@ -5437,13 +9688,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Old World Alliance",
-    "rating": "159.15",
+    "rating": 159.59452172450537,
+    "bestRating": 164.07105935048116,
+    "worstRating": 154.69041575982342,
+    "tendency": 4.904105964681946,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      154.69041575982342,
+      159.38083151964685,
+      164.07105935048116,
+      163.9338569467616,
+      159.59452172450537
+    ]
   },
   {
     "NAF Nr": "23862",
@@ -5451,13 +9712,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "135.96",
+    "rating": 136.68537197783925,
+    "bestRating": 146.31324418906752,
+    "worstRating": 136.68537197783925,
+    "tendency": -9.627872211228265,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146.31324418906752,
+      141.30702517517534,
+      136.68537197783925
+    ]
   },
   {
     "NAF Nr": "23863",
@@ -5465,13 +9734,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Ireland",
     "race": "Old World Alliance",
-    "rating": "163.09",
+    "rating": 166.73921560168472,
+    "bestRating": 166.73921560168472,
+    "worstRating": 146.38170192240287,
+    "tendency": 5.545888152261114,
     "totalTournaments": 5,
     "gamesTotal": 23,
     "gamesWon": 13,
     "gamesDraw": 3,
     "gamesLost": 7,
-    "winRatio": 63.04
+    "winRatio": 63.04,
+    "_lastTenRatings": [
+      161.1933274494236,
+      164.16092696585628,
+      158.48274159510592,
+      163.55280741738105,
+      158.1599660310056,
+      150.79157029673644,
+      150.84447600260617,
+      155.91044621058845,
+      160.94497340757493,
+      166.73921560168472
+    ]
   },
   {
     "NAF Nr": "23866",
@@ -5479,13 +9763,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "143.35",
+    "rating": 142.8381143103681,
+    "bestRating": 149.8520653521002,
+    "worstRating": 142.8381143103681,
+    "tendency": -1.5050314401395326,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.34314575050763,
+      149.8520653521002,
+      142.8381143103681
+    ]
   },
   {
     "NAF Nr": "23980",
@@ -5493,13 +9785,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Hungary",
     "race": "Old World Alliance",
-    "rating": "144.02",
+    "rating": 141.534569557544,
+    "bestRating": 158.43924981514743,
+    "worstRating": 141.534569557544,
+    "tendency": -5.485112494548105,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 5,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      147.0196820520921,
+      152.72895395515,
+      158.43924981514743,
+      152.80547587465986,
+      146.84954931991768,
+      141.7368841617323,
+      146.55349762729318,
+      141.534569557544
+    ]
   },
   {
     "NAF Nr": "24033",
@@ -5507,13 +9812,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Old World Alliance",
-    "rating": "163.92",
+    "rating": 163.85445222502324,
+    "bestRating": 169.0738473447902,
+    "worstRating": 155.54707626957992,
+    "tendency": 8.30737595544332,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.54707626957992,
+      162.81193218751628,
+      169.0738473447902,
+      163.85445222502324
+    ]
   },
   {
     "NAF Nr": "24059",
@@ -5521,13 +9835,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "135.1",
+    "rating": 134.9235917039886,
+    "bestRating": 145.9123456535821,
+    "worstRating": 134.9235917039886,
+    "tendency": -10.606930330594935,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatings": [
+      145.53052203458353,
+      145.9123456535821,
+      140.17136701034417,
+      140.39015580772255,
+      134.9235917039886
+    ]
   },
   {
     "NAF Nr": "24074",
@@ -5535,13 +9859,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "145.76",
+    "rating": 145.78286277751263,
+    "bestRating": 152.14088890381183,
+    "worstRating": 145.78286277751263,
+    "tendency": -0.455688492895689,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      146.23855127040832,
+      146.8116475245401,
+      152.14088890381183,
+      145.78286277751263
+    ]
   },
   {
     "NAF Nr": "24096",
@@ -5549,13 +9882,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "155.77",
+    "rating": 155.89358356256216,
+    "bestRating": 155.89358356256216,
+    "worstRating": 139.44468480489007,
+    "tendency": 11.886968001518113,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 56.25
+    "winRatio": 56.25,
+    "_lastTenRatings": [
+      144.00661556104404,
+      139.44468480489007,
+      144.79221623526263,
+      144.5903691901032,
+      150.70325279603927,
+      145.01602328560875,
+      150.64366282433681,
+      155.89358356256216
+    ]
   },
   {
     "NAF Nr": "24138",
@@ -5563,13 +9909,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "129.85",
+    "rating": 129.81117210481787,
+    "bestRating": 145.8549764943162,
+    "worstRating": 129.81117210481787,
+    "tendency": -13.791724831546361,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 5,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      143.60289693636423,
+      137.75848075862908,
+      145.8549764943162,
+      140.5771440353805,
+      135.0111117770564,
+      129.81117210481787
+    ]
   },
   {
     "NAF Nr": "24151",
@@ -5577,13 +9934,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "135.2",
+    "rating": 134.34042841320985,
+    "bestRating": 145.7573593128807,
+    "worstRating": 134.34042841320985,
+    "tendency": -11.41693089967086,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      145.7573593128807,
+      141.49358976107942,
+      138.18125670698004,
+      134.34042841320985
+    ]
   },
   {
     "NAF Nr": "24161",
@@ -5591,13 +9957,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "155.55",
+    "rating": 154.99325270813117,
+    "bestRating": 154.99325270813117,
+    "worstRating": 149.30627878258403,
+    "tendency": 5.686973925547136,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      149.30627878258403,
+      154.99325270813117
+    ]
   },
   {
     "NAF Nr": "24222",
@@ -5605,13 +9978,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "147.01",
+    "rating": 146.87387253510295,
+    "bestRating": 150.6014179377594,
+    "worstRating": 143.0967825166441,
+    "tendency": -3.7275454026564603,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      150.6014179377594,
+      146.58791001137658,
+      143.0967825166441,
+      146.87387253510295
+    ]
   },
   {
     "NAF Nr": "24247",
@@ -5619,13 +10001,25 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "128.35",
+    "rating": 130.87314802251953,
+    "bestRating": 151.54552804171766,
+    "worstRating": 130.87314802251953,
+    "tendency": -20.67238001919813,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 5,
-    "winRatio": 14.29
+    "winRatio": 14.29,
+    "_lastTenRatings": [
+      151.54552804171766,
+      145.78109322923635,
+      139.77719694565235,
+      139.75342343922713,
+      134.57513904407074,
+      132.18729212859455,
+      130.87314802251953
+    ]
   },
   {
     "NAF Nr": "24248",
@@ -5633,13 +10027,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "138.25",
+    "rating": 138.95320241183694,
+    "bestRating": 144.40784203515332,
+    "worstRating": 132.24945823949847,
+    "tendency": -5.454639623316382,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      144.40784203515332,
+      138.71540146626418,
+      132.24945823949847,
+      133.38854518535496,
+      138.95320241183694
+    ]
   },
   {
     "NAF Nr": "24319",
@@ -5647,13 +10051,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "144.73",
+    "rating": 144.57997152981383,
+    "bestRating": 144.57997152981383,
+    "worstRating": 138.68629150101526,
+    "tendency": 0.2368257793062014,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      144.57997152981383
+    ]
   },
   {
     "NAF Nr": "24337",
@@ -5661,13 +10073,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "166.19",
+    "rating": 166.94767728429346,
+    "bestRating": 166.94767728429346,
+    "worstRating": 145.36241542072818,
+    "tendency": 21.58526186356528,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      145.36241542072818,
+      150.97501596234324,
+      156.64004766003592,
+      156.3519996748231,
+      161.73328135183942,
+      166.94767728429346
+    ]
   },
   {
     "NAF Nr": "24374",
@@ -5675,13 +10098,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.55",
+    "rating": 151.15932923107295,
+    "bestRating": 155.1243395015798,
+    "worstRating": 149.65289815669252,
+    "tendency": 1.50643107438043,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      149.65289815669252,
+      149.96138174862926,
+      155.1243395015798,
+      151.15932923107295
+    ]
   },
   {
     "NAF Nr": "24402",
@@ -5689,13 +10121,25 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "163.11",
+    "rating": 163.93248474848474,
+    "bestRating": 163.93248474848474,
+    "worstRating": 154.2426406871193,
+    "tendency": 9.689844061365449,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 71.43
+    "winRatio": 71.43,
+    "_lastTenRatings": [
+      154.2426406871193,
+      158.5090069342779,
+      158.81754604737884,
+      158.67187461975456,
+      157.10093287596428,
+      160.69795450007985,
+      163.93248474848474
+    ]
   },
   {
     "NAF Nr": "24403",
@@ -5703,13 +10147,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "155.32",
+    "rating": 155.35799257324933,
+    "bestRating": 155.45252032385324,
+    "worstRating": 150.17633001925216,
+    "tendency": -0.09452775060390195,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.45252032385324,
+      150.17633001925216,
+      155.35799257324933
+    ]
   },
   {
     "NAF Nr": "24415",
@@ -5717,13 +10169,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "137.56",
+    "rating": 136.88484975957365,
+    "bestRating": 145.95723217800344,
+    "worstRating": 136.88484975957365,
+    "tendency": -9.072382418429783,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatings": [
+      145.95723217800344,
+      141.85679150243948,
+      137.41685161638415,
+      141.7078621140907,
+      136.88484975957365
+    ]
   },
   {
     "NAF Nr": "24437",
@@ -5731,13 +10193,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "150.71",
+    "rating": 150.67538918209073,
+    "bestRating": 155.65685424949237,
+    "worstRating": 146.82866992760026,
+    "tendency": -4.981465067401643,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 2,
     "gamesDraw": 5,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      150.0732379950247,
+      149.91716366247564,
+      149.94341647527858,
+      150.5617065701501,
+      146.83155404942428,
+      146.82866992760026,
+      150.67538918209073
+    ]
   },
   {
     "NAF Nr": "24446",
@@ -5745,13 +10221,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "117.63",
+    "rating": 116.45774499820853,
+    "bestRating": 157.14197298440766,
+    "worstRating": 114.18126203907454,
+    "tendency": -12.243759081002239,
     "totalTournaments": 6,
     "gamesTotal": 37,
     "gamesWon": 8,
     "gamesDraw": 8,
     "gamesLost": 21,
-    "winRatio": 32.43
+    "winRatio": 32.43,
+    "_lastTenRatings": [
+      128.70150407921076,
+      129.6598897646794,
+      124.88891549262891,
+      124.60961107417121,
+      125.40823227013001,
+      126.41170854574231,
+      122.08285172132875,
+      117.94622397668535,
+      114.18126203907454,
+      116.45774499820853
+    ]
   },
   {
     "NAF Nr": "24508",
@@ -5759,13 +10250,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "168.16",
+    "rating": 168.95654442493867,
+    "bestRating": 168.95654442493867,
+    "worstRating": 155.65685424949237,
+    "tendency": 13.299690175446301,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.65685424949237,
+      162.68007272476578,
+      168.95654442493867
+    ]
   },
   {
     "NAF Nr": "24529",
@@ -5773,13 +10272,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "155.4",
+    "rating": 155.5195193798795,
+    "bestRating": 155.5195193798795,
+    "worstRating": 150.02279548086958,
+    "tendency": 5.323399159446353,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      150.19612022043316,
+      150.02279548086958,
+      154.1969508194273,
+      155.5195193798795
+    ]
   },
   {
     "NAF Nr": "24553",
@@ -5787,13 +10295,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "145.92",
+    "rating": 145.29330622098774,
+    "bestRating": 150.8420645151753,
+    "worstRating": 142.8930996315794,
+    "tendency": -4.706693779012255,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 43.75
+    "winRatio": 43.75,
+    "_lastTenRatings": [
+      150,
+      150.8420645151753,
+      146.86830007847146,
+      142.8930996315794,
+      144.86706314779923,
+      145.01439605704465,
+      148.89916157913908,
+      145.29330622098774
+    ]
   },
   {
     "NAF Nr": "24554",
@@ -5801,13 +10322,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Old World Alliance",
-    "rating": "138.06",
+    "rating": 137.91929837744723,
+    "bestRating": 160.6914600018001,
+    "worstRating": 137.2930845908914,
+    "tendency": -5.757742249358586,
     "totalTournaments": 3,
     "gamesTotal": 18,
     "gamesWon": 6,
     "gamesDraw": 3,
     "gamesLost": 9,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      143.67704062680582,
+      137.4989813786488,
+      137.3111953997988,
+      142.63030242353395,
+      137.2930845908914,
+      143.3296111259253,
+      139.18299375630318,
+      145.3478113213115,
+      141.8955177687721,
+      137.91929837744723
+    ]
   },
   {
     "NAF Nr": "24603",
@@ -5815,13 +10351,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "146.0",
+    "rating": 145.7694266246434,
+    "bestRating": 145.7694266246434,
+    "worstRating": 141.52726714569616,
+    "tendency": 0.012067311762677946,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.7573593128807,
+      141.52726714569616,
+      145.7694266246434
+    ]
   },
   {
     "NAF Nr": "24623",
@@ -5829,13 +10373,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "156.9",
+    "rating": 156.99706297554678,
+    "bestRating": 156.99706297554678,
+    "worstRating": 145.2505900891562,
+    "tendency": 11.746472886390592,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      145.2505900891562,
+      150.868045592912,
+      156.55154495525554,
+      156.99706297554678
+    ]
   },
   {
     "NAF Nr": "24641",
@@ -5843,13 +10396,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "161.12",
+    "rating": 161.58727781841068,
+    "bestRating": 161.58727781841068,
+    "worstRating": 154.69041575982342,
+    "tendency": 6.89686205858726,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      154.69041575982342,
+      159.37803857125076,
+      161.58727781841068
+    ]
   },
   {
     "NAF Nr": "24645",
@@ -5857,13 +10418,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "166.27",
+    "rating": 167.10531503932378,
+    "bestRating": 167.10531503932378,
+    "worstRating": 155.55863043776975,
+    "tendency": 11.546684601554034,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.55863043776975,
+      161.2197493640704,
+      167.10531503932378
+    ]
   },
   {
     "NAF Nr": "24668",
@@ -5871,13 +10440,50 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "115.11",
+    "rating": 115.41092168475902,
+    "bestRating": 147.93127221903356,
+    "worstRating": 115.41092168475902,
+    "tendency": -23.736810849411654,
     "totalTournaments": 3,
     "gamesTotal": 15,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 10,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatings": [
+      139.14773253417067,
+      135.64709521795146,
+      136.09901850926178,
+      141.00925339559734,
+      135.76130942389653,
+      130.52391438919406,
+      125.0316216002883,
+      119.14218626808581,
+      120.01267384946028,
+      115.41092168475902
+    ]
+  },
+  {
+    "NAF Nr": "24671",
+    "NAF Name": "Gronov",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "race": "Old World Alliance",
+    "rating": 150.43490486111375,
+    "bestRating": 150.43490486111375,
+    "worstRating": 145.36476302174975,
+    "tendency": 5.070141839363998,
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.36476302174975,
+      149.63402661052885,
+      150.43490486111375
+    ]
   },
   {
     "NAF Nr": "24725",
@@ -5885,13 +10491,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "144.85",
+    "rating": 144.38814379217902,
+    "bestRating": 150.0264167127697,
+    "worstRating": 140.18987237039616,
+    "tendency": -0.7128767222546344,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      145.10102051443366,
+      150.0264167127697,
+      145.44444812469627,
+      145.06970979471714,
+      140.18987237039616,
+      144.38814379217902
+    ]
   },
   {
     "NAF Nr": "24728",
@@ -5899,13 +10516,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "156.21",
+    "rating": 156.38089353854127,
+    "bestRating": 163.53651513613195,
+    "worstRating": 155.17140591687888,
+    "tendency": 0.218422860884516,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      156.16247067765676,
+      163.53651513613195,
+      157.60923356437598,
+      159.05412708275173,
+      155.17140591687888,
+      160.9662299688839,
+      157.1100581359458,
+      156.57243391940358,
+      161.25366420758323,
+      156.38089353854127
+    ]
   },
   {
     "NAF Nr": "24788",
@@ -5913,13 +10545,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Old World Alliance",
-    "rating": "154.33",
+    "rating": 156.03244029311378,
+    "bestRating": 156.03244029311378,
+    "worstRating": 152.02932827082725,
+    "tendency": 4.00311202228653,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      152.02932827082725,
+      152.1841602187819,
+      156.03244029311378
+    ]
   },
   {
     "NAF Nr": "24819",
@@ -5927,13 +10567,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "135.7",
+    "rating": 134.64964523282447,
+    "bestRating": 151.56508960471345,
+    "worstRating": 134.64964523282447,
+    "tendency": -16.91544437188898,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      151.56508960471345,
+      145.84028562432619,
+      140.88953333695991,
+      134.65013414127228,
+      140.40132157820983,
+      134.64964523282447
+    ]
   },
   {
     "NAF Nr": "24820",
@@ -5941,13 +10592,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "132.56",
+    "rating": 134.51362621133777,
+    "bestRating": 148.58525079122788,
+    "worstRating": 134.51362621133777,
+    "tendency": -3.501845736780666,
     "totalTournaments": 4,
     "gamesTotal": 15,
     "gamesWon": 2,
     "gamesDraw": 6,
     "gamesLost": 7,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      138.01547194811843,
+      138.63778431750387,
+      139.6322918924955,
+      135.2620512812201,
+      140.17188615666407,
+      140.50179526131433,
+      148.58525079122788,
+      143.5931173653407,
+      139.27572639932498,
+      134.51362621133777
+    ]
   },
   {
     "NAF Nr": "24826",
@@ -5955,13 +10621,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "165.72",
+    "rating": 167.00032222481937,
+    "bestRating": 167.82357607504568,
+    "worstRating": 143.76241649850465,
+    "tendency": 8.89167672915542,
     "totalTournaments": 4,
     "gamesTotal": 22,
     "gamesWon": 9,
     "gamesDraw": 6,
     "gamesLost": 7,
-    "winRatio": 54.55
+    "winRatio": 54.55,
+    "_lastTenRatings": [
+      158.10864549566395,
+      163.64565646289,
+      163.4779454737792,
+      158.1885537520605,
+      164.39023211582872,
+      164.24487667706364,
+      163.71137834217743,
+      167.82357607504568,
+      162.3791231021709,
+      167.00032222481937
+    ]
   },
   {
     "NAF Nr": "24839",
@@ -5969,13 +10650,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "143.88",
+    "rating": 144.24115653454948,
+    "bestRating": 147.06740702359775,
+    "worstRating": 144.24115653454948,
+    "tendency": -2.8227857382730974,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      147.06394227282257,
+      147.06740702359775,
+      144.24115653454948
+    ]
   },
   {
     "NAF Nr": "24875",
@@ -5983,13 +10672,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "144.84",
+    "rating": 145.26976651579628,
+    "bestRating": 150.04332944748225,
+    "worstRating": 145,
+    "tendency": 0.2697665157962774,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145,
+      150.04332944748225,
+      145.26976651579628
+    ]
   },
   {
     "NAF Nr": "24876",
@@ -5997,13 +10694,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "153.05",
+    "rating": 153.1645888252914,
+    "bestRating": 156.3844569641479,
+    "worstRating": 153.16227766016837,
+    "tendency": 0.0023111651230180996,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.16227766016837,
+      156.3844569641479,
+      153.1645888252914
+    ]
   },
   {
     "NAF Nr": "24887",
@@ -6011,13 +10716,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "147.65",
+    "rating": 146.4927936148085,
+    "bestRating": 146.4927936148085,
+    "worstRating": 142.75806832802127,
+    "tendency": 0.2344510015824426,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.25834261322606,
+      142.75806832802127,
+      146.4927936148085
+    ]
   },
   {
     "NAF Nr": "24947",
@@ -6025,13 +10738,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Old World Alliance",
-    "rating": "149.55",
+    "rating": 149.45028281893354,
+    "bestRating": 149.45028281893354,
+    "worstRating": 146.25834261322606,
+    "tendency": 3.191940205707482,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.25834261322606,
+      146.25834261322606,
+      149.45028281893354
+    ]
   },
   {
     "NAF Nr": "25015",
@@ -6039,13 +10760,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "146.03",
+    "rating": 145.78601773299386,
+    "bestRating": 145.78601773299386,
+    "worstRating": 139.98264916089545,
+    "tendency": 0.4597999468087721,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.32621778618508,
+      139.98264916089545,
+      145.78601773299386
+    ]
   },
   {
     "NAF Nr": "25050",
@@ -6053,13 +10782,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "145.61",
+    "rating": 145.455861167554,
+    "bestRating": 149.79335299148914,
+    "worstRating": 145.455861167554,
+    "tendency": -0.8587771288006536,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.31463829635464,
+      149.79335299148914,
+      145.455861167554
+    ]
   },
   {
     "NAF Nr": "25113",
@@ -6067,13 +10804,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "134.74",
+    "rating": 134.4361465501688,
+    "bestRating": 144.6838193690622,
+    "worstRating": 134.4361465501688,
+    "tendency": -10.24767281889342,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.6838193690622,
+      139.5355749021674,
+      134.4361465501688
+    ]
   },
   {
     "NAF Nr": "25123",
@@ -6081,13 +10826,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "150.15",
+    "rating": 150.16412412377898,
+    "bestRating": 150.16412412377898,
+    "worstRating": 144.73213284960022,
+    "tendency": 5.431991274178756,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.73213284960022,
+      149.9311453947502,
+      144.89313836350135,
+      150.16412412377898
+    ]
   },
   {
     "NAF Nr": "25183",
@@ -6095,13 +10849,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "154.2",
+    "rating": 154.74607641728852,
+    "bestRating": 154.74607641728852,
+    "worstRating": 145.52786404500043,
+    "tendency": 9.218212372288093,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      145.52786404500043,
+      149.77642313748788,
+      154.74607641728852
+    ]
   },
   {
     "NAF Nr": "25207",
@@ -6109,13 +10871,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "139.13",
+    "rating": 138.95068379903117,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.7254596722982,
+    "tendency": -5.392461951476463,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      138.7254596722982,
+      138.95068379903117
+    ]
   },
   {
     "NAF Nr": "25217",
@@ -6123,13 +10894,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "148.7",
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      150,
+      150
+    ]
   },
   {
     "NAF Nr": "25232",
@@ -6137,13 +10917,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "144.79",
+    "rating": 144.960451527314,
+    "bestRating": 150.03866571383634,
+    "worstRating": 144.70849737787083,
+    "tendency": 0.2519541494431792,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.70849737787083,
+      150.03866571383634,
+      144.960451527314
+    ]
   },
   {
     "NAF Nr": "25235",
@@ -6151,13 +10939,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "146.31",
+    "rating": 146.48064125049692,
+    "bestRating": 146.49837183265885,
+    "worstRating": 142.50516217969152,
+    "tendency": -0.017730582161931352,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.49837183265885,
+      142.50516217969152,
+      146.48064125049692
+    ]
   },
   {
     "NAF Nr": "25237",
@@ -6165,13 +10961,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "155.34",
+    "rating": 155.24426165741343,
+    "bestRating": 155.24426165741343,
+    "worstRating": 144.41475225580862,
+    "tendency": 10.518081372235315,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      144.72618028517812,
+      150.58381890205166,
+      150.23107414844938,
+      144.41475225580862,
+      149.38385224242123,
+      155.24426165741343
+    ]
   },
   {
     "NAF Nr": "25239",
@@ -6179,13 +10986,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "146.31",
+    "rating": 145.8425515580719,
+    "bestRating": 154.09542422904408,
+    "worstRating": 145.8425515580719,
+    "tendency": -8.239482497643024,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      154.08203405571493,
+      154.09542422904408,
+      150.14814014571542,
+      145.8425515580719
+    ]
   },
   {
     "NAF Nr": "25242",
@@ -6193,13 +11009,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "149.79",
+    "rating": 149.76493303033936,
+    "bestRating": 150,
+    "worstRating": 149.76493303033936,
+    "tendency": -0.235066969660636,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      149.91639014879,
+      149.76493303033936
+    ]
   },
   {
     "NAF Nr": "25247",
@@ -6207,13 +11031,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Aragón",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "154.41",
+    "rating": 154.19334656744462,
+    "bestRating": 159.83720620263355,
+    "worstRating": 154.19334656744462,
+    "tendency": -1.463507682047748,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      156.1802476284423,
+      157.18523071180974,
+      159.08220227279793,
+      159.83720620263355,
+      154.19334656744462
+    ]
   },
   {
     "NAF Nr": "25254",
@@ -6221,13 +11056,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "166.47",
+    "rating": 166.88322019980572,
+    "bestRating": 167.5659638423461,
+    "worstRating": 155.65685424949237,
+    "tendency": 11.226365950313351,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.26797597814092,
+      167.5659638423461,
+      166.88322019980572
+    ]
   },
   {
     "NAF Nr": "25273",
@@ -6235,13 +11079,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "149.96",
+    "rating": 149.97698612145948,
+    "bestRating": 150,
+    "worstRating": 146.69712592428516,
+    "tendency": -0.0230138785405245,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      146.69712592428516,
+      149.97698612145948
+    ]
   },
   {
     "NAF Nr": "25282",
@@ -6249,13 +11101,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Old World Alliance",
-    "rating": "143.37",
+    "rating": 142.7376254735904,
+    "bestRating": 155.65685424949237,
+    "worstRating": 142.7376254735904,
+    "tendency": -12.919228775901956,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      148.4022874730044,
+      148.48998207129904,
+      142.86942453925195,
+      142.95389251339108,
+      142.7376254735904
+    ]
   },
   {
     "NAF Nr": "25285",
@@ -6263,13 +11126,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "I. Canarias",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "178.65",
+    "rating": 177.54938906959543,
+    "bestRating": 177.54938906959543,
+    "worstRating": 149.84349645817136,
+    "tendency": 8.375015899703556,
     "totalTournaments": 4,
     "gamesTotal": 19,
     "gamesWon": 10,
     "gamesDraw": 4,
     "gamesLost": 5,
-    "winRatio": 63.16
+    "winRatio": 63.16,
+    "_lastTenRatings": [
+      169.17437316989188,
+      173.29464132590516,
+      167.37435096603147,
+      162.12291179397957,
+      163.8099351943234,
+      159.36801383517317,
+      163.91535187489288,
+      168.47584639926538,
+      173.15073767975989,
+      177.54938906959543
+    ]
   },
   {
     "NAF Nr": "25379",
@@ -6277,13 +11155,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "155.69",
+    "rating": 155.88678119536735,
+    "bestRating": 155.9276814843226,
+    "worstRating": 150.2590684854755,
+    "tendency": -0.04090028895524256,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.9276814843226,
+      150.2590684854755,
+      155.88678119536735
+    ]
   },
   {
     "NAF Nr": "25384",
@@ -6291,13 +11177,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "138.04",
+    "rating": 136.8731450217872,
+    "bestRating": 146.30518019805805,
+    "worstRating": 135.90521897941926,
+    "tendency": -5.857092126348562,
     "totalTournaments": 1,
     "gamesTotal": 11,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 6,
-    "winRatio": 27.27
+    "winRatio": 27.27,
+    "_lastTenRatings": [
+      142.73023714813576,
+      140.19809303669123,
+      141.31272989261186,
+      138.53375304682746,
+      142.79288351264518,
+      139.99344543603277,
+      135.90521897941926,
+      136.70879591335276,
+      137.43052266575774,
+      136.8731450217872
+    ]
   },
   {
     "NAF Nr": "25422",
@@ -6305,13 +11206,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "158.09",
+    "rating": 157.99104348381036,
+    "bestRating": 157.99104348381036,
+    "worstRating": 154,
+    "tendency": 3.9910434838103583,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      154,
+      157.98546988975014,
+      157.99104348381036
+    ]
   },
   {
     "NAF Nr": "25435",
@@ -6319,13 +11228,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "155.47",
+    "rating": 155.62688354706646,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.62688354706646,
+    "tendency": -0.029970702425913487,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.62688354706646
+    ]
   },
   {
     "NAF Nr": "25533",
@@ -6333,13 +11250,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "132.09",
+    "rating": 130.2954639944576,
+    "bestRating": 150,
+    "worstRating": 130.2954639944576,
+    "tendency": -19.704536005542394,
     "totalTournaments": 1,
     "gamesTotal": 9,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      150,
+      142.25403330758516,
+      137.25836603692298,
+      136.9675828902814,
+      145.03925911899464,
+      144.87885569666628,
+      137.1879673272815,
+      137.91324079456425,
+      130.2954639944576
+    ]
   },
   {
     "NAF Nr": "25547",
@@ -6347,13 +11278,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "180.02",
+    "rating": 180.84657822874115,
+    "bestRating": 186.35699829543753,
+    "worstRating": 150,
+    "tendency": 30.84657822874115,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 7,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      150,
+      153.89824110140825,
+      158.3313786066042,
+      162.91751574266712,
+      170.03127908266487,
+      174.0805164691711,
+      180.628810694359,
+      186.35699829543753,
+      180.84657822874115
+    ]
   },
   {
     "NAF Nr": "25565",
@@ -6361,13 +11306,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "149.98",
+    "rating": 149.66909489786528,
+    "bestRating": 152.6357703451705,
+    "worstRating": 149.64413030388297,
+    "tendency": -2.966675447305221,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      152.6357703451705,
+      149.64413030388297,
+      149.66909489786528
+    ]
   },
   {
     "NAF Nr": "25566",
@@ -6375,13 +11328,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "150.64",
+    "rating": 150.74739298417848,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150.73931607358148,
+    "tendency": -4.909461265313894,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150.73931607358148,
+      150.74739298417848
+    ]
   },
   {
     "NAF Nr": "25578",
@@ -6389,13 +11350,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "160.89",
+    "rating": 161.01801263190595,
+    "bestRating": 161.01801263190595,
+    "worstRating": 145.74252603261792,
+    "tendency": 15.27548659928803,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      145.74252603261792,
+      150.7867236612601,
+      155.9811186733097,
+      155.37541065863047,
+      160.87265719314087,
+      161.01801263190595
+    ]
   },
   {
     "NAF Nr": "25631",
@@ -6403,13 +11375,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "151.19",
+    "rating": 151.83455755922898,
+    "bestRating": 151.83455755922898,
+    "worstRating": 147.40411537800702,
+    "tendency": 4.430442181221963,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      147.40411537800702,
+      151.11286898793168,
+      151.83455755922898
+    ]
   },
   {
     "NAF Nr": "25642",
@@ -6417,13 +11397,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "150.2",
+    "rating": 149.5979709056773,
+    "bestRating": 153.8174552397862,
+    "worstRating": 149.5979709056773,
+    "tendency": -0.9418827007813775,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.53985360645868,
+      153.8174552397862,
+      149.5979709056773
+    ]
   },
   {
     "NAF Nr": "25645",
@@ -6431,13 +11419,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "170.35",
+    "rating": 170.6745610542131,
+    "bestRating": 171.16203738374008,
+    "worstRating": 154.47213595499957,
+    "tendency": 16.202425099213514,
     "totalTournaments": 3,
     "gamesTotal": 9,
     "gamesWon": 7,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      154.47213595499957,
+      158.94427190999915,
+      163.4494274410557,
+      165.68918161625382,
+      168.0685221836518,
+      168.44446548515688,
+      171.16203738374008,
+      167.97687875473497,
+      170.6745610542131
+    ]
   },
   {
     "NAF Nr": "25676",
@@ -6445,13 +11447,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "131.42",
+    "rating": 128.54048995147346,
+    "bestRating": 162.2467527086832,
+    "worstRating": 123.35174135725973,
+    "tendency": -28.586736892676953,
     "totalTournaments": 4,
     "gamesTotal": 16,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 8,
-    "winRatio": 43.75
+    "winRatio": 43.75,
+    "_lastTenRatings": [
+      157.1272268441504,
+      156.0059487340043,
+      146.94405725831712,
+      138.73727183462879,
+      146.64000751494055,
+      138.80127386571732,
+      131.4385629520207,
+      127.41187963901865,
+      123.35174135725973,
+      128.54048995147346
+    ]
   },
   {
     "NAF Nr": "25699",
@@ -6459,13 +11476,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "134.8",
+    "rating": 138.90786838150052,
+    "bestRating": 155.84083239971872,
+    "worstRating": 126.67129864989131,
+    "tendency": 5.873291249102749,
     "totalTournaments": 4,
     "gamesTotal": 24,
     "gamesWon": 8,
     "gamesDraw": 6,
     "gamesLost": 10,
-    "winRatio": 45.83
+    "winRatio": 45.83,
+    "_lastTenRatings": [
+      133.03457713239777,
+      134.19550089459796,
+      140.5527385968711,
+      141.2837998122798,
+      141.01249933201447,
+      136.1426868024002,
+      141.31954713334542,
+      139.15223214572492,
+      143.94008877231454,
+      138.90786838150052
+    ]
   },
   {
     "NAF Nr": "25714",
@@ -6473,13 +11505,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "151.07",
+    "rating": 151.04629117098767,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150.4525507306996,
+    "tendency": -4.610563078504697,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150.46827369103693,
+      150.4525507306996,
+      151.04629117098767
+    ]
   },
   {
     "NAF Nr": "25747",
@@ -6487,13 +11528,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Ireland",
     "race": "Old World Alliance",
-    "rating": "167.01",
+    "rating": 165.51131777710143,
+    "bestRating": 184.00970404407556,
+    "worstRating": 150,
+    "tendency": -18.354605814876805,
     "totalTournaments": 2,
     "gamesTotal": 14,
     "gamesWon": 5,
     "gamesDraw": 5,
     "gamesLost": 4,
-    "winRatio": 53.57
+    "winRatio": 53.57,
+    "_lastTenRatings": [
+      183.86592359197823,
+      184.00970404407556,
+      177.8586009833292,
+      178.47215832206123,
+      170.7984832145074,
+      180.31912080950516,
+      171.0242797445323,
+      170.43102485832836,
+      164.16580079466794,
+      165.51131777710143
+    ]
   },
   {
     "NAF Nr": "25762",
@@ -6501,13 +11557,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Old World Alliance",
-    "rating": "151.99",
+    "rating": 151.77045851024948,
+    "bestRating": 151.77045851024948,
+    "worstRating": 139.0936821766425,
+    "tendency": 6.429607126616901,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.34085138363258,
+      141.39149640209084,
+      143.9928498932724,
+      144.24096563912408,
+      139.0936821766425,
+      144.69534788605154,
+      139.6744820723153,
+      145.42956943448658,
+      151.77045851024948
+    ]
   },
   {
     "NAF Nr": "25800",
@@ -6515,27 +11585,44 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "156.1",
+    "rating": 156.37562948536922,
+    "bestRating": 161.2939415934449,
+    "worstRating": 155.65685424949237,
+    "tendency": 0.7187752358768478,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.2939415934449,
+      156.37562948536922
+    ]
   },
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "149.97",
+    "rating": 149.4637560392712,
+    "bestRating": 149.4637560392712,
+    "worstRating": 138.80259802445914,
+    "tendency": 5.120610288763572,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.80259802445914,
+      143.86505864904316,
+      149.4637560392712
+    ]
   },
   {
     "NAF Nr": "25936",
@@ -6543,13 +11630,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "149.65",
+    "rating": 149.6317741425042,
+    "bestRating": 155.10443764792004,
+    "worstRating": 143.73944459496482,
+    "tendency": 5.89232954753939,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      143.73944459496482,
+      149.42251013003454,
+      155.10443764792004,
+      154.9443787762277,
+      149.64428304967464,
+      149.6317741425042
+    ]
   },
   {
     "NAF Nr": "25946",
@@ -6557,13 +11655,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "139.43",
+    "rating": 139.06115036973927,
+    "bestRating": 144.9492802490941,
+    "worstRating": 133.55391845198795,
+    "tendency": -5.888129879354835,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.9492802490941,
+      139.26921499586953,
+      144.9134740875115,
+      139.2143029519888,
+      133.55391845198795,
+      139.06115036973927
+    ]
   },
   {
     "NAF Nr": "25969",
@@ -6571,13 +11680,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "150.42",
+    "rating": 150.47010669854077,
+    "bestRating": 150.47010669854077,
+    "worstRating": 144.58860060924107,
+    "tendency": 0.4701066985407749,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      144.58860060924107,
+      150.47010669854077
+    ]
   },
   {
     "NAF Nr": "25971",
@@ -6585,13 +11702,43 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Switzerland",
     "race": "Old World Alliance",
-    "rating": "151.48",
+    "rating": 151.36399143505926,
+    "bestRating": 153.5157823474465,
+    "worstRating": 148.96810584840424,
+    "tendency": -2.1517909123872414,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.5157823474465,
+      148.96810584840424,
+      151.36399143505926
+    ]
+  },
+  {
+    "NAF Nr": "25997",
+    "NAF Name": "MisspelledTree",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Old World Alliance",
+    "rating": 155.9957299012432,
+    "bestRating": 155.9957299012432,
+    "worstRating": 144.18470899500963,
+    "tendency": 11.81102090623358,
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      144.18470899500963,
+      150.09765283413375,
+      155.9957299012432
+    ]
   },
   {
     "NAF Nr": "26021",
@@ -6599,13 +11746,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "129.23",
+    "rating": 127.9753303454865,
+    "bestRating": 143.69854577153941,
+    "worstRating": 127.9753303454865,
+    "tendency": -15.723215426052917,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 5,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      143.69854577153941,
+      138.31507468107162,
+      133.61943749221078,
+      139.2508421177007,
+      133.6365249191289,
+      127.9753303454865
+    ]
   },
   {
     "NAF Nr": "26062",
@@ -6613,13 +11771,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "146.36",
+    "rating": 146.0835797244036,
+    "bestRating": 146.0835797244036,
+    "worstRating": 146.0835797244036,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146.0835797244036
+    ]
   },
   {
     "NAF Nr": "26070",
@@ -6627,13 +11791,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Old World Alliance",
-    "rating": "122.43",
+    "rating": 121.71142909200147,
+    "bestRating": 150,
+    "worstRating": 121.71142909200147,
+    "tendency": -28.288570907998533,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 8.33
+    "winRatio": 8.33,
+    "_lastTenRatings": [
+      150,
+      143.52131817798013,
+      138.20215938055856,
+      132.5033104458889,
+      126.87498116127612,
+      121.71142909200147
+    ]
   },
   {
     "NAF Nr": "26075",
@@ -6641,13 +11816,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "155.47",
+    "rating": 155.218203222698,
+    "bestRating": 159.04370140771726,
+    "worstRating": 154.69041575982342,
+    "tendency": 0.5277874628745849,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.69041575982342,
+      159.04370140771726,
+      155.218203222698
+    ]
   },
   {
     "NAF Nr": "26076",
@@ -6655,13 +11838,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "161.61",
+    "rating": 161.46425040831562,
+    "bestRating": 161.46425040831562,
+    "worstRating": 150.9142110291276,
+    "tendency": 10.550039379188007,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      150.9142110291276,
+      156.55116333930258,
+      161.46425040831562
+    ]
   },
   {
     "NAF Nr": "26152",
@@ -6669,13 +11860,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "134.85",
+    "rating": 135.63691000865313,
+    "bestRating": 156.32455532033677,
+    "worstRating": 135.63691000865313,
+    "tendency": -20.68764531168364,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      156.32455532033677,
+      148.8497850747795,
+      155.1751449781566,
+      148.84349635428964,
+      142.9122272554901,
+      135.63691000865313
+    ]
   },
   {
     "NAF Nr": "26263",
@@ -6683,13 +11885,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Murcia",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "145.06",
+    "rating": 145.38771026550208,
+    "bestRating": 155.65685424949237,
+    "worstRating": 145.0672578539682,
+    "tendency": -10.26914398399029,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150.03281842213894,
+      145.0672578539682,
+      145.38771026550208
+    ]
   },
   {
     "NAF Nr": "26315",
@@ -6697,13 +11908,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "186.12",
+    "rating": 189.95871104148915,
+    "bestRating": 189.95871104148915,
+    "worstRating": 158.02061775790656,
+    "tendency": 6.761253741930489,
     "totalTournaments": 4,
     "gamesTotal": 31,
     "gamesWon": 15,
     "gamesDraw": 11,
     "gamesLost": 5,
-    "winRatio": 66.13
+    "winRatio": 66.13,
+    "_lastTenRatings": [
+      183.19745729955866,
+      185.86796008067307,
+      185.41021064038028,
+      187.32889635184478,
+      185.7510902878859,
+      183.5383183407459,
+      187.5552501013879,
+      187.7977762397298,
+      186.3034060408377,
+      189.95871104148915
+    ]
   },
   {
     "NAF Nr": "26358",
@@ -6711,13 +11937,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "149.65",
+    "rating": 149.6266581338763,
+    "bestRating": 150.0628444023878,
+    "worstRating": 144.34314575050763,
+    "tendency": 5.283512383368674,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150.0628444023878,
+      149.6266581338763
+    ]
   },
   {
     "NAF Nr": "26365",
@@ -6725,13 +11959,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "172.05",
+    "rating": 170.84507608954343,
+    "bestRating": 183.8541602105409,
+    "worstRating": 149.58430666009446,
+    "tendency": 7.1759048905491625,
     "totalTournaments": 2,
     "gamesTotal": 14,
     "gamesWon": 7,
     "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 60.71
+    "winRatio": 60.71,
+    "_lastTenRatings": [
+      163.66917119899426,
+      156.9177696999415,
+      165.2094071754237,
+      172.06505881870663,
+      171.91879588251803,
+      176.6328583749137,
+      176.59510027916517,
+      183.8541602105409,
+      175.99049067046118,
+      170.84507608954343
+    ]
   },
   {
     "NAF Nr": "26404",
@@ -6739,13 +11988,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.39",
+    "rating": 150.40898611123689,
+    "bestRating": 161.31370849898474,
+    "worstRating": 150.40898611123689,
+    "tendency": -5.247868138255484,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.4565730106146,
+      150.40898611123689
+    ]
   },
   {
     "NAF Nr": "26412",
@@ -6753,13 +12011,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Undisclosed",
     "race": "Old World Alliance",
-    "rating": "148.02",
+    "rating": 147.21942451548227,
+    "bestRating": 150.54503877728692,
+    "worstRating": 147.21942451548227,
+    "tendency": -2.780575484517726,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 0,
     "gamesDraw": 4,
     "gamesLost": 1,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      150,
+      150.54503877728692,
+      150.5450287737604,
+      150.45693267017472,
+      147.21942451548227
+    ]
   },
   {
     "NAF Nr": "26425",
@@ -6767,13 +12035,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "146.0",
+    "rating": 146,
+    "bestRating": 146,
+    "worstRating": 146,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146
+    ]
   },
   {
     "NAF Nr": "26444",
@@ -6781,13 +12055,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "169.16",
+    "rating": 182.95168434365215,
+    "bestRating": 202.8941124386358,
+    "worstRating": 131.58326413106533,
+    "tendency": -2.4093333569756226,
     "totalTournaments": 9,
     "gamesTotal": 52,
     "gamesWon": 27,
     "gamesDraw": 9,
     "gamesLost": 16,
-    "winRatio": 60.58
+    "winRatio": 60.58,
+    "_lastTenRatings": [
+      185.36101770062777,
+      182.17362719230695,
+      187.2161980807678,
+      177.15522504779779,
+      183.18797463538758,
+      186.98819606951218,
+      193.0656319634063,
+      185.79099650465545,
+      189.94200826072927,
+      182.95168434365215
+    ]
   },
   {
     "NAF Nr": "26482",
@@ -6795,13 +12084,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "race": "Old World Alliance",
-    "rating": "153.86",
+    "rating": 150.45229168757206,
+    "bestRating": 163.25949611544914,
+    "worstRating": 150.45229168757206,
+    "tendency": -1.4319463189674195,
     "totalTournaments": 2,
     "gamesTotal": 11,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      151.88423800653948,
+      157.48803868766075,
+      157.5174584029627,
+      163.25949611544914,
+      157.15285872640868,
+      157.4551540309152,
+      152.37502398225803,
+      152.26022414755647,
+      155.2026679679716,
+      150.45229168757206
+    ]
   },
   {
     "NAF Nr": "26485",
@@ -6809,13 +12113,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "121.93",
+    "rating": 121.00662845805134,
+    "bestRating": 142.8459575760768,
+    "worstRating": 121.00662845805134,
+    "tendency": -21.839329118025475,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 5,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      142.8459575760768,
+      135.4933169092011,
+      128.0742668062855,
+      135.64619421115725,
+      128.97526668234607,
+      121.00662845805134
+    ]
   },
   {
     "NAF Nr": "26503",
@@ -6823,13 +12138,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "155.35",
+    "rating": 156.02681594490858,
+    "bestRating": 161.8802373226826,
+    "worstRating": 146.4115882364275,
+    "tendency": 9.615227708481086,
     "totalTournaments": 3,
     "gamesTotal": 12,
     "gamesWon": 6,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 54.17
+    "winRatio": 54.17,
+    "_lastTenRatings": [
+      146.4115882364275,
+      151.6510098441444,
+      151.84291532283777,
+      157.10700167313618,
+      161.8802373226826,
+      156.7013483168156,
+      150.49810862559818,
+      155.87997661950456,
+      150.37596050104526,
+      156.02681594490858
+    ]
   },
   {
     "NAF Nr": "26511",
@@ -6837,13 +12167,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "149.63",
+    "rating": 149.68926291153167,
+    "bestRating": 161.0682536402513,
+    "worstRating": 149.68926291153167,
+    "tendency": -5.967591337960698,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.0682536402513,
+      156.5461670942434,
+      149.68926291153167
+    ]
   },
   {
     "NAF Nr": "26512",
@@ -6851,13 +12190,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.46",
+    "rating": 149.89931387351913,
+    "bestRating": 149.89931387351913,
+    "worstRating": 143.49139477986031,
+    "tendency": 5.556168123011503,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.34314575050763,
+      149.111312179356,
+      143.49139477986031,
+      149.89931387351913
+    ]
   },
   {
     "NAF Nr": "26513",
@@ -6865,13 +12213,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "126.49",
+    "rating": 126.30816148740968,
+    "bestRating": 158.92482772174435,
+    "worstRating": 126.30816148740968,
+    "tendency": -32.61666623433467,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatings": [
+      158.92482772174435,
+      150.54902224197141,
+      141.59847992550823,
+      134.0457496552529,
+      126.30816148740968
+    ]
   },
   {
     "NAF Nr": "26548",
@@ -6879,13 +12237,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Aragón",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "162.36",
+    "rating": 162.54980796929289,
+    "bestRating": 162.54980796929289,
+    "worstRating": 144.34314575050763,
+    "tendency": 18.206662218785254,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      155.60314704556566,
+      162.54980796929289
+    ]
   },
   {
     "NAF Nr": "26591",
@@ -6893,13 +12260,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "140.65",
+    "rating": 140.14123802625724,
+    "bestRating": 145.30958424017658,
+    "worstRating": 140.14123802625724,
+    "tendency": -5.168346213919335,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      145.30958424017658,
+      144.9938297086649,
+      140.14123802625724
+    ]
   },
   {
     "NAF Nr": "26601",
@@ -6907,13 +12282,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "136.76",
+    "rating": 136.308869999233,
+    "bestRating": 150.12669309911047,
+    "worstRating": 136.308869999233,
+    "tendency": -13.817823099877472,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatings": [
+      150.12669309911047,
+      145.2629390892291,
+      140.62168243071827,
+      136.308869999233
+    ]
   },
   {
     "NAF Nr": "26621",
@@ -6921,13 +12305,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "148.38",
+    "rating": 149.45086751294366,
+    "bestRating": 149.45086751294366,
+    "worstRating": 143.733357883805,
+    "tendency": 4.613122285209386,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.83774522773427,
+      143.733357883805,
+      149.45086751294366
+    ]
   },
   {
     "NAF Nr": "26627",
@@ -6935,13 +12327,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "144.16",
+    "rating": 144.57883287867725,
+    "bestRating": 152.86196606651075,
+    "worstRating": 140.47975448336732,
+    "tendency": 0.2356871281696158,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      144.34314575050763,
+      152.86196606651075,
+      148.27314989403246,
+      142.19513044416843,
+      140.47975448336732,
+      144.57883287867725
+    ]
   },
   {
     "NAF Nr": "26717",
@@ -6949,13 +12352,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "146.81",
+    "rating": 143.62765750821933,
+    "bestRating": 158.2392862182364,
+    "worstRating": 139.5996815328921,
+    "tendency": -14.611628710017072,
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 5,
     "gamesDraw": 3,
     "gamesLost": 6,
-    "winRatio": 46.43
+    "winRatio": 46.43,
+    "_lastTenRatings": [
+      158.2392862182364,
+      154.25852580445564,
+      147.74408461379406,
+      143.7634623146871,
+      149.26994808618792,
+      148.62929714562785,
+      143.12407760191226,
+      139.5996815328921,
+      143.06079919943585,
+      143.62765750821933
+    ]
   },
   {
     "NAF Nr": "26728",
@@ -6963,13 +12381,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Old World Alliance",
-    "rating": "188.05",
+    "rating": 188.04799357693082,
+    "bestRating": 189.89373497444427,
+    "worstRating": 153.16227766016837,
+    "tendency": 14.413883549496148,
     "totalTournaments": 8,
     "gamesTotal": 31,
     "gamesWon": 18,
     "gamesDraw": 8,
     "gamesLost": 5,
-    "winRatio": 70.97
+    "winRatio": 70.97,
+    "_lastTenRatings": [
+      173.63411002743467,
+      178.57358241353143,
+      182.36450064618737,
+      183.85199646450565,
+      189.89373497444427,
+      187.50677340690712,
+      177.36889223869215,
+      175.4003504127897,
+      181.95875766861548,
+      188.04799357693082
+    ]
   },
   {
     "NAF Nr": "26793",
@@ -6977,13 +12410,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "178.54",
+    "rating": 178.655158608255,
+    "bestRating": 178.655158608255,
+    "worstRating": 155.07964422299844,
+    "tendency": 23.575514385256554,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 91.67
+    "winRatio": 91.67,
+    "_lastTenRatings": [
+      155.07964422299844,
+      162.42177825125214,
+      169.4125198033404,
+      174.2327042359088,
+      178.0540656466927,
+      178.655158608255
+    ]
   },
   {
     "NAF Nr": "26819",
@@ -6991,13 +12435,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.6",
+    "rating": 150.6323980814971,
+    "bestRating": 156.5597382445298,
+    "worstRating": 150.6323980814971,
+    "tendency": -5.92734016303271,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      156.5597382445298,
+      156.5269505648872,
+      156.48272236409534,
+      150.6323980814971
+    ]
   },
   {
     "NAF Nr": "26830",
@@ -7005,13 +12458,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "148.25",
+    "rating": 147.79884354489522,
+    "bestRating": 154.47213595499957,
+    "worstRating": 147.79884354489522,
+    "tendency": -6.673292410104352,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      154.47213595499957,
+      154.46208710869377,
+      150.30496137505077,
+      147.79884354489522
+    ]
   },
   {
     "NAF Nr": "26832",
@@ -7019,13 +12481,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "146.78",
+    "rating": 147.07352858768706,
+    "bestRating": 147.07352858768706,
+    "worstRating": 140.82581652809083,
+    "tendency": 2.5237823400557886,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      144.54974624763128,
+      144.87531150233806,
+      140.82581652809083,
+      146.66752049271344,
+      147.07352858768706
+    ]
   },
   {
     "NAF Nr": "26833",
@@ -7033,13 +12505,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "137.78",
+    "rating": 139.01737638488356,
+    "bestRating": 144.7046199356049,
+    "worstRating": 139.01737638488356,
+    "tendency": -4.8628796951253435,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      143.8802560800089,
+      144.7046199356049,
+      139.01737638488356
+    ]
   },
   {
     "NAF Nr": "26853",
@@ -7047,13 +12527,25 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "159.53",
+    "rating": 159.8796635063682,
+    "bestRating": 159.8796635063682,
+    "worstRating": 143.33264897789465,
+    "tendency": 15.160748734189042,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 64.29
+    "winRatio": 64.29,
+    "_lastTenRatings": [
+      144.71891477217915,
+      143.33264897789465,
+      147.7557023239271,
+      148.41391138205884,
+      148.52471083927549,
+      154.19644061136054,
+      159.8796635063682
+    ]
   },
   {
     "NAF Nr": "26945",
@@ -7061,13 +12553,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "153.25",
+    "rating": 153.23538910252955,
+    "bestRating": 158.38170360427674,
+    "worstRating": 144.05065624856056,
+    "tendency": -1.5719112445880512,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 55
+    "winRatio": 55,
+    "_lastTenRatings": [
+      154.8073003471176,
+      150.23838409162443,
+      144.05065624856056,
+      149.28926721078918,
+      153.67692496326217,
+      158.38170360427674,
+      153.0316807771686,
+      153.7824357545658,
+      158.34131761221605,
+      153.23538910252955
+    ]
   },
   {
     "NAF Nr": "27003",
@@ -7075,13 +12582,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Old World Alliance",
-    "rating": "146.56",
+    "rating": 147.8597201210209,
+    "bestRating": 157.68124543461528,
+    "worstRating": 147.8597201210209,
+    "tendency": -8.413188140810945,
     "totalTournaments": 2,
     "gamesTotal": 11,
     "gamesWon": 3,
     "gamesDraw": 4,
     "gamesLost": 4,
-    "winRatio": 45.45
+    "winRatio": 45.45,
+    "_lastTenRatings": [
+      156.27290826183184,
+      151.40521743487758,
+      157.04068741208087,
+      157.68124543461528,
+      152.37445726652658,
+      156.74520519999436,
+      150.80736710609804,
+      153.17406588895207,
+      152.5650565183707,
+      147.8597201210209
+    ]
   },
   {
     "NAF Nr": "27070",
@@ -7089,13 +12611,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "169.83",
+    "rating": 170.28766643163004,
+    "bestRating": 176.27406941816236,
+    "worstRating": 155.65685424949237,
+    "tendency": 14.630812182137674,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      160.82372130624745,
+      165.52259824055213,
+      170.75294287264907,
+      170.80678098264966,
+      176.27406941816236,
+      170.28766643163004
+    ]
   },
   {
     "NAF Nr": "27071",
@@ -7103,13 +12638,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "145.84",
+    "rating": 145.12216129751613,
+    "bestRating": 155.65685424949237,
+    "worstRating": 145.12216129751613,
+    "tendency": -10.53469295197624,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150.7773346531925,
+      145.12216129751613
+    ]
   },
   {
     "NAF Nr": "27084",
@@ -7117,13 +12660,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "140.97",
+    "rating": 140.633882357052,
+    "bestRating": 155.65685424949237,
+    "worstRating": 138.81737933943185,
+    "tendency": -9.328088964879157,
     "totalTournaments": 3,
     "gamesTotal": 12,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      149.96197132193114,
+      144.2235981994523,
+      138.81737933943185,
+      144.71400735072595,
+      139.36629309495493,
+      145.2279379925235,
+      151.34755883025318,
+      151.53459145315554,
+      146.13544458778384,
+      140.633882357052
+    ]
   },
   {
     "NAF Nr": "27095",
@@ -7131,13 +12689,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Old World Alliance",
-    "rating": "184.26",
-    "totalTournaments": 21,
-    "gamesTotal": 105,
-    "gamesWon": 43,
-    "gamesDraw": 37,
+    "rating": 187.8476136776417,
+    "bestRating": 202.1900982634557,
+    "worstRating": 145.57337235515905,
+    "tendency": -1.6549526132306198,
+    "totalTournaments": 22,
+    "gamesTotal": 109,
+    "gamesWon": 44,
+    "gamesDraw": 40,
     "gamesLost": 25,
-    "winRatio": 58.57
+    "winRatio": 58.72,
+    "_lastTenRatings": [
+      189.50256629087232,
+      179.67710266856076,
+      186.29939173420613,
+      191.54126336794567,
+      197.33807303362795,
+      188.18154048172673,
+      190.85703719309,
+      189.819073954992,
+      188.62237383490515,
+      187.8476136776417
+    ]
   },
   {
     "NAF Nr": "27111",
@@ -7145,13 +12718,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "153.76",
+    "rating": 153.92462476111555,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.34530822472138,
+    "tendency": -1.7322294883768166,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.34530822472138,
+      148.3049051866087,
+      154.02933296109373,
+      153.92462476111555
+    ]
   },
   {
     "NAF Nr": "27113",
@@ -7159,13 +12743,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "175.74",
+    "rating": 171.70005170009705,
+    "bestRating": 179.48515369174225,
+    "worstRating": 151.67237047316368,
+    "tendency": 4.075448576573962,
     "totalTournaments": 3,
     "gamesTotal": 18,
     "gamesWon": 6,
     "gamesDraw": 8,
     "gamesLost": 4,
-    "winRatio": 55.56
+    "winRatio": 55.56,
+    "_lastTenRatings": [
+      167.6246031235231,
+      168.37959692599622,
+      173.26531054503712,
+      172.52758951161326,
+      177.4302374984159,
+      179.48515369174225,
+      174.66679228767285,
+      170.96194952124344,
+      171.5342904158058,
+      171.70005170009705
+    ]
   },
   {
     "NAF Nr": "27154",
@@ -7173,13 +12772,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.4",
+    "rating": 153.22330871308307,
+    "bestRating": 153.22330871308307,
+    "worstRating": 144.9009804864072,
+    "tendency": 8.322328226675864,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      144.9009804864072,
+      150.38343360557724,
+      153.22330871308307
+    ]
   },
   {
     "NAF Nr": "27220",
@@ -7187,13 +12794,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "149.82",
+    "rating": 149.8374705811376,
+    "bestRating": 149.8374705811376,
+    "worstRating": 146,
+    "tendency": 3.837470581137609,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146,
+      149.8374705811376
+    ]
   },
   {
     "NAF Nr": "27281",
@@ -7201,13 +12815,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "160.83",
+    "rating": 160.88580124740585,
+    "bestRating": 160.88580124740585,
+    "worstRating": 144.52277442494835,
+    "tendency": 16.3630268224575,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      144.52277442494835,
+      144.80505937361448,
+      149.7478382330162,
+      150.1095046094285,
+      155.3068115973251,
+      160.88580124740585
+    ]
   },
   {
     "NAF Nr": "27339",
@@ -7215,13 +12840,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "141.43",
+    "rating": 141.41597335311724,
+    "bestRating": 146.97131241242892,
+    "worstRating": 141.41597335311724,
+    "tendency": -5.555339059311677,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatings": [
+      146.97131241242892,
+      143.88253193526285,
+      143.88375798839317,
+      141.41597335311724
+    ]
   },
   {
     "NAF Nr": "27389",
@@ -7229,13 +12863,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "155.34",
+    "rating": 155.40057887136982,
+    "bestRating": 177.0347794497925,
+    "worstRating": 146.22633195413363,
+    "tendency": -18.53950748258623,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 6,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 54.17
+    "winRatio": 54.17,
+    "_lastTenRatings": [
+      173.94008635395605,
+      165.64776025931093,
+      167.937866719876,
+      177.0347794497925,
+      167.52796766105735,
+      160.11488170763533,
+      151.40470828738435,
+      146.22633195413363,
+      151.7636331749999,
+      155.40057887136982
+    ]
   },
   {
     "NAF Nr": "27395",
@@ -7243,13 +12892,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "133.42",
+    "rating": 132.91307355816772,
+    "bestRating": 149.61831845131928,
+    "worstRating": 132.91307355816772,
+    "tendency": -11.036184475904179,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatings": [
+      143.9492580340719,
+      149.61831845131928,
+      143.98371398110973,
+      138.57783637945073,
+      132.91307355816772
+    ]
   },
   {
     "NAF Nr": "27419",
@@ -7257,13 +12916,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "135.76",
+    "rating": 135.2424447695479,
+    "bestRating": 144.34314575050763,
+    "worstRating": 135.2424447695479,
+    "tendency": -9.100700980959743,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.34314575050763,
+      141.38389921934584,
+      135.2424447695479
+    ]
   },
   {
     "NAF Nr": "27492",
@@ -7271,13 +12938,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "153.78",
+    "rating": 153.6716540090242,
+    "bestRating": 153.6716540090242,
+    "worstRating": 153.6716540090242,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      153.6716540090242
+    ]
   },
   {
     "NAF Nr": "27497",
@@ -7285,13 +12958,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "148.38",
+    "rating": 148.1513633727599,
+    "bestRating": 159.12518377208588,
+    "worstRating": 148.1513633727599,
+    "tendency": -7.505490876732466,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      149.35286638467352,
+      154.59787284770363,
+      154.55478910156143,
+      159.12518377208588,
+      153.31458521146308,
+      148.1513633727599
+    ]
   },
   {
     "NAF Nr": "27557",
@@ -7299,13 +12985,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "156.68",
+    "rating": 156.86804324503137,
+    "bestRating": 162.55502159536326,
+    "worstRating": 149.73740315314697,
+    "tendency": 7.130640091884402,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      149.73740315314697,
+      155.13391064197256,
+      162.55502159536326,
+      156.86804324503137
+    ]
   },
   {
     "NAF Nr": "27574",
@@ -7313,13 +13008,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "150.76",
+    "rating": 150.4103554411389,
+    "bestRating": 160.62009446302267,
+    "worstRating": 149.45587446248845,
+    "tendency": 0.9544809786504516,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      149.45587446248845,
+      155.11866353313187,
+      160.62009446302267,
+      155.0614836207428,
+      149.64090065586217,
+      150.4103554411389
+    ]
   },
   {
     "NAF Nr": "27581",
@@ -7327,13 +13033,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "160.82",
+    "rating": 160.39383907910363,
+    "bestRating": 160.39383907910363,
+    "worstRating": 153,
+    "tendency": 7.393839079103628,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      153,
+      156.94633247379693,
+      160.39383907910363
+    ]
   },
   {
     "NAF Nr": "27582",
@@ -7341,13 +13055,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "144.88",
+    "rating": 144.58584786494612,
+    "bestRating": 144.58584786494612,
+    "worstRating": 134.08285928586213,
+    "tendency": 0.004751764132834069,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      144.58109610081328,
+      139.46847518579213,
+      134.08285928586213,
+      134.51938728766993,
+      139.63510233816334,
+      144.58584786494612
+    ]
   },
   {
     "NAF Nr": "27590",
@@ -7355,13 +13080,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "141.19",
+    "rating": 146.38217979334868,
+    "bestRating": 150.2405539606205,
+    "worstRating": 141.37155036155048,
+    "tendency": -3.858374167271819,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      150.2405539606205,
+      146.18051338230967,
+      141.37155036155048,
+      146.38217979334868
+    ]
   },
   {
     "NAF Nr": "27613",
@@ -7369,13 +13103,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "173.05",
+    "rating": 175.51128086832384,
+    "bestRating": 175.51128086832384,
+    "worstRating": 152.23574602496504,
+    "tendency": 23.2755348433588,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      152.23574602496504,
+      157.5614364136637,
+      163.4353857125193,
+      163.28295751870286,
+      170.93044433564876,
+      175.51128086832384
+    ]
   },
   {
     "NAF Nr": "27634",
@@ -7383,13 +13128,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "123.53",
+    "rating": 129.9706444234645,
+    "bestRating": 142.61100241127264,
+    "worstRating": 120.31354470482563,
+    "tendency": -12.283388884120654,
     "totalTournaments": 1,
     "gamesTotal": 8,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 31.25
+    "winRatio": 31.25,
+    "_lastTenRatings": [
+      142.25403330758516,
+      142.61100241127264,
+      135.99679753038788,
+      128.26289920626593,
+      120.31354470482563,
+      129.4852307860191,
+      123.26255025855133,
+      129.9706444234645
+    ]
   },
   {
     "NAF Nr": "27655",
@@ -7397,13 +13155,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "162.31",
+    "rating": 162.78283850181904,
+    "bestRating": 162.78283850181904,
+    "worstRating": 144.16146968424746,
+    "tendency": 18.62136881757158,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      144.16146968424746,
+      150.75603455585752,
+      156.38006369500033,
+      157.91797963497606,
+      162.78283850181904
+    ]
   },
   {
     "NAF Nr": "27686",
@@ -7411,13 +13179,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "race": "Old World Alliance",
-    "rating": "138.12",
+    "rating": 137.79771876310065,
+    "bestRating": 145.95463071785917,
+    "worstRating": 137.79771876310065,
+    "tendency": -8.156911954758527,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      145.95463071785917,
+      141.6538367795361,
+      137.79771876310065
+    ]
   },
   {
     "NAF Nr": "27724",
@@ -7425,13 +13201,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "156.04",
+    "rating": 156.0761751747221,
+    "bestRating": 156.0761751747221,
+    "worstRating": 153.66690261337334,
+    "tendency": 1.1396436261693168,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.93653154855278,
+      153.66690261337334,
+      156.0761751747221
+    ]
   },
   {
     "NAF Nr": "27725",
@@ -7439,13 +13223,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "155.86",
+    "rating": 155.943747246384,
+    "bestRating": 155.943747246384,
+    "worstRating": 149.75926809403566,
+    "tendency": 6.184479152348331,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      149.75926809403566,
+      152.85064769549314,
+      155.943747246384
+    ]
   },
   {
     "NAF Nr": "27743",
@@ -7453,13 +13245,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "144.85",
+    "rating": 146.1801931238708,
+    "bestRating": 146.1801931238708,
+    "worstRating": 140.6238605352934,
+    "tendency": 1.8223293671195506,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.35786375675124,
+      140.6238605352934,
+      146.1801931238708
+    ]
   },
   {
     "NAF Nr": "27763",
@@ -7467,13 +13267,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "160.06",
+    "rating": 161.01373844953676,
+    "bestRating": 161.01373844953676,
+    "worstRating": 149.93492759349783,
+    "tendency": 5.23360957335106,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.7801288761857,
+      149.93492759349783,
+      155.1886192667422,
+      161.01373844953676
+    ]
   },
   {
     "NAF Nr": "27794",
@@ -7481,13 +13290,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "149.63",
+    "rating": 149.58488435477807,
+    "bestRating": 157.92704918239087,
+    "worstRating": 149.58488435477807,
+    "tendency": -4.5382212708395855,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.12310562561765,
+      157.92704918239087,
+      153.70334984984106,
+      149.58488435477807
+    ]
   },
   {
     "NAF Nr": "27804",
@@ -7495,13 +13313,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "163.16",
+    "rating": 162.40182941560064,
+    "bestRating": 181.90565832092548,
+    "worstRating": 155.64681501323014,
+    "tendency": -4.940101759220994,
     "totalTournaments": 3,
     "gamesTotal": 12,
     "gamesWon": 7,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      167.34193117482164,
+      174.16937590669167,
+      181.90565832092548,
+      173.4274944921075,
+      164.75576368207405,
+      171.98292911996856,
+      163.52910760812364,
+      158.95929131162436,
+      162.80132627865754,
+      162.40182941560064
+    ]
   },
   {
     "NAF Nr": "27840",
@@ -7509,13 +13342,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Mordheim",
     "race": "Old World Alliance",
-    "rating": "134.93",
+    "rating": 137.64074681915542,
+    "bestRating": 157.90802536290082,
+    "worstRating": 132.98983710305686,
+    "tendency": -14.594444657945473,
     "totalTournaments": 5,
     "gamesTotal": 23,
     "gamesWon": 6,
     "gamesDraw": 7,
     "gamesLost": 10,
-    "winRatio": 41.3
+    "winRatio": 41.3,
+    "_lastTenRatings": [
+      152.2351914771009,
+      152.74504627500414,
+      152.50745031701697,
+      151.91146024675837,
+      146.79607735349694,
+      141.45402143570342,
+      141.82453917725616,
+      148.38303929854692,
+      143.3695164837842,
+      137.64074681915542
+    ]
   },
   {
     "NAF Nr": "27866",
@@ -7523,13 +13371,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "157.75",
+    "rating": 158.17754859986198,
+    "bestRating": 158.48528137423858,
+    "worstRating": 154.2426406871193,
+    "tendency": 3.9349079127426876,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      154.2426406871193,
+      158.48528137423858,
+      158.17754859986198
+    ]
   },
   {
     "NAF Nr": "27869",
@@ -7537,13 +13393,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "159.72",
+    "rating": 159.72628806830258,
+    "bestRating": 159.72628806830258,
+    "worstRating": 150.75017681082213,
+    "tendency": 4.4386208393905235,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      155.28766722891206,
+      150.75017681082213,
+      155.15851214942322,
+      159.58781856055043,
+      159.72628806830258
+    ]
   },
   {
     "NAF Nr": "27871",
@@ -7551,13 +13417,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "137.0",
+    "rating": 137.6777219616471,
+    "bestRating": 156.95130838223992,
+    "worstRating": 137.6777219616471,
+    "tendency": -19.273586420592807,
     "totalTournaments": 1,
     "gamesTotal": 11,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 7,
-    "winRatio": 27.27
+    "winRatio": 27.27,
+    "_lastTenRatings": [
+      156.95130838223992,
+      153.98949235959867,
+      153.73662293043662,
+      154.0657790176003,
+      151.55111778148947,
+      150.1394512666282,
+      147.6143552831721,
+      144.07112363680648,
+      140.84634859836314,
+      137.6777219616471
+    ]
   },
   {
     "NAF Nr": "27876",
@@ -7565,13 +13446,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "147.66",
+    "rating": 147.67509180248652,
+    "bestRating": 162.7215705152055,
+    "worstRating": 147.67509180248652,
+    "tendency": -2.32490819751348,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 3,
     "gamesDraw": 4,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      148.34963929463973,
+      153.8673743836637,
+      154.1652516246143,
+      148.5038687733853,
+      155.91971074720325,
+      162.7215705152055,
+      154.26938129714378,
+      148.8567914332522,
+      147.67509180248652
+    ]
   },
   {
     "NAF Nr": "27890",
@@ -7579,13 +13475,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Old World Alliance",
-    "rating": "140.17",
+    "rating": 139.88511503619162,
+    "bestRating": 150.91727678708034,
+    "worstRating": 139.88511503619162,
+    "tendency": -4.787164665028257,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      144.67227970121988,
+      145.05246614477772,
+      150.91727678708034,
+      145.05947561806204,
+      139.88511503619162
+    ]
   },
   {
     "NAF Nr": "27913",
@@ -7593,13 +13499,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "135.13",
+    "rating": 133.9848694779706,
+    "bestRating": 145.15098362704177,
+    "worstRating": 133.52841445758773,
+    "tendency": -6.608878783061698,
     "totalTournaments": 4,
     "gamesTotal": 15,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 8,
-    "winRatio": 36.67
+    "winRatio": 36.67,
+    "_lastTenRatings": [
+      140.5937482610323,
+      136.8579532410014,
+      133.52841445758773,
+      137.96839373996704,
+      140.7280003124771,
+      145.15098362704177,
+      144.91650009886916,
+      140.82498009527717,
+      137.58782812682173,
+      133.9848694779706
+    ]
   },
   {
     "NAF Nr": "27915",
@@ -7607,13 +13528,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Euskadi",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "173.13",
+    "rating": 174.7263747718623,
+    "bestRating": 174.7263747718623,
+    "worstRating": 141.62678679852164,
+    "tendency": 33.099587973340675,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 5,
     "gamesDraw": 4,
     "gamesLost": 1,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      141.62678679852164,
+      149.45307827967258,
+      156.80004927193727,
+      157.34404127526855,
+      157.52096301967413,
+      166.49813124684448,
+      171.44247449276693,
+      170.63435337039627,
+      169.98731732427981,
+      174.7263747718623
+    ]
   },
   {
     "NAF Nr": "27964",
@@ -7621,13 +13557,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "150.14",
+    "rating": 143.60713264331156,
+    "bestRating": 147.97630209288016,
+    "worstRating": 138.40077663876144,
+    "tendency": -2.3928673566884413,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 38.89
+    "winRatio": 38.89,
+    "_lastTenRatings": [
+      146,
+      142,
+      146.23244751432551,
+      142.1195563419797,
+      138.40077663876144,
+      142.01151826493881,
+      147.6427316257457,
+      147.97630209288016,
+      143.60713264331156
+    ]
   },
   {
     "NAF Nr": "28040",
@@ -7635,13 +13585,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "174.18",
+    "rating": 176.9725982333452,
+    "bestRating": 181.01696477400944,
+    "worstRating": 137.5409557024889,
+    "tendency": 19.232459920956188,
     "totalTournaments": 4,
     "gamesTotal": 21,
     "gamesWon": 11,
     "gamesDraw": 4,
     "gamesLost": 6,
-    "winRatio": 61.9
+    "winRatio": 61.9,
+    "_lastTenRatings": [
+      157.740138312389,
+      162.14440479499467,
+      155.9617870583069,
+      155.29808696393042,
+      161.11303643910574,
+      165.5077434689938,
+      171.12200691248398,
+      177.56038973519185,
+      181.01696477400944,
+      176.9725982333452
+    ]
   },
   {
     "NAF Nr": "28106",
@@ -7649,13 +13614,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "134.35",
+    "rating": 133.94482279278603,
+    "bestRating": 143.87085424706038,
+    "worstRating": 133.94482279278603,
+    "tendency": -9.926031454274352,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      143.87085424706038,
+      139.19005559765992,
+      133.94482279278603
+    ]
   },
   {
     "NAF Nr": "28109",
@@ -7663,13 +13636,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "153.33",
+    "rating": 152.79051675571029,
+    "bestRating": 157.40281654462976,
+    "worstRating": 144.34314575050763,
+    "tendency": 8.399913966493216,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 4,
     "gamesDraw": 4,
     "gamesLost": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.39060278921707,
+      150.03716482589525,
+      150.6855560208456,
+      151.46024245742117,
+      151.75994262232896,
+      151.1923599382882,
+      157.40281654462976,
+      151.67727682528974,
+      147.37355170487857,
+      152.79051675571029
+    ]
   },
   {
     "NAF Nr": "28196",
@@ -7677,13 +13665,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "177.73",
+    "rating": 189.76205200253412,
+    "bestRating": 196.4459213257614,
+    "worstRating": 148.12733602595898,
+    "tendency": 23.512639437914828,
     "totalTournaments": 5,
     "gamesTotal": 29,
     "gamesWon": 16,
     "gamesDraw": 7,
     "gamesLost": 6,
-    "winRatio": 67.24
+    "winRatio": 67.24,
+    "_lastTenRatings": [
+      166.2494125646193,
+      169.35896912514767,
+      173.03848819290272,
+      176.9722032002701,
+      177.76017433105184,
+      182.22965229646832,
+      186.748505450072,
+      190.86923738633138,
+      196.4459213257614,
+      189.76205200253412
+    ]
   },
   {
     "NAF Nr": "28206",
@@ -7691,13 +13694,25 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "153.03",
+    "rating": 153.90655397207863,
+    "bestRating": 153.90655397207863,
+    "worstRating": 145.9391419252555,
+    "tendency": 2.423407873147795,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      151.48314609893083,
+      145.9391419252555,
+      151.35985810354265,
+      152.28854083882948,
+      147.4572060124096,
+      147.30787429573687,
+      153.90655397207863
+    ]
   },
   {
     "NAF Nr": "28291",
@@ -7705,13 +13720,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "150.83",
+    "rating": 150.53948094335183,
+    "bestRating": 164.14177687075264,
+    "worstRating": 145.23083311114928,
+    "tendency": 5.308647832202553,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      145.23083311114928,
+      153.65037082758167,
+      161.4250352907608,
+      164.14177687075264,
+      157.28970306141943,
+      150.53948094335183
+    ]
   },
   {
     "NAF Nr": "28306",
@@ -7719,13 +13745,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "156.5",
+    "rating": 156.94644599643374,
+    "bestRating": 156.94644599643374,
+    "worstRating": 153.74165738677394,
+    "tendency": 3.2047886096598006,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      153.74165738677394,
+      153.87832901067688,
+      156.94644599643374
+    ]
   },
   {
     "NAF Nr": "28328",
@@ -7733,13 +13767,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "191.85",
+    "rating": 191.63284131270387,
+    "bestRating": 199.34672778859556,
+    "worstRating": 155.3698384275779,
+    "tendency": 31.04834405450336,
     "totalTournaments": 3,
     "gamesTotal": 11,
     "gamesWon": 9,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 86.36
+    "winRatio": 86.36,
+    "_lastTenRatings": [
+      160.5844972582005,
+      167.85648742972344,
+      174.57490994044755,
+      180.79876131694854,
+      187.58668268987725,
+      191.11030802466186,
+      195.03920532314714,
+      199.34672778859556,
+      198.03141213472745,
+      191.63284131270387
+    ]
   },
   {
     "NAF Nr": "28342",
@@ -7747,13 +13796,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "150.45",
+    "rating": 149.95482105550147,
+    "bestRating": 156.21789211073656,
+    "worstRating": 149.95482105550147,
+    "tendency": -5.7020331939909,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      156.21789211073656,
+      149.95482105550147
+    ]
   },
   {
     "NAF Nr": "28417",
@@ -7761,13 +13818,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "156.2",
+    "rating": 154.83201582071578,
+    "bestRating": 154.83201582071578,
+    "worstRating": 150,
+    "tendency": 0.03618429740305373,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.79583152331273,
+      150,
+      154.83201582071578
+    ]
   },
   {
     "NAF Nr": "28420",
@@ -7775,13 +13840,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "165.82",
+    "rating": 159.5558597670891,
+    "bestRating": 172.24578179294272,
+    "worstRating": 135.43315865687197,
+    "tendency": -7.606845274615523,
     "totalTournaments": 4,
     "gamesTotal": 20,
     "gamesWon": 7,
     "gamesDraw": 7,
     "gamesLost": 6,
-    "winRatio": 52.5
+    "winRatio": 52.5,
+    "_lastTenRatings": [
+      167.1627050417046,
+      166.60518092870598,
+      166.39516096746874,
+      165.81551222287305,
+      170.7284427651255,
+      170.87102233020943,
+      164.28899536978196,
+      158.01421754875616,
+      163.32354900531058,
+      159.5558597670891
+    ]
   },
   {
     "NAF Nr": "28562",
@@ -7789,27 +13869,44 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "153.01",
+    "rating": 152.83853766574893,
+    "bestRating": 152.83853766574893,
+    "worstRating": 150,
+    "tendency": 0.010110541002745776,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      152.82842712474618,
+      150,
+      152.83853766574893
+    ]
   },
   {
     "NAF Nr": "28631",
     "NAF Name": "adriona",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "144.42",
+    "rating": 136.3408484129417,
+    "bestRating": 149.79887488992617,
+    "worstRating": 136.3408484129417,
+    "tendency": -13.458026476984458,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      149.79887488992617,
+      144.1507530756613,
+      144.0769915015748,
+      136.3408484129417
+    ]
   },
   {
     "NAF Nr": "28642",
@@ -7817,13 +13914,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "129.54",
+    "rating": 129.33905949029676,
+    "bestRating": 144.47443037275505,
+    "worstRating": 128.4048651370922,
+    "tendency": -15.13537088245829,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 6,
-    "winRatio": 22.22
+    "winRatio": 22.22,
+    "_lastTenRatings": [
+      144.47443037275505,
+      138.81187601459717,
+      135.32493713591595,
+      141.37559285214374,
+      134.99174575365063,
+      137.3187764361543,
+      132.9280916682108,
+      128.4048651370922,
+      129.33905949029676
+    ]
   },
   {
     "NAF Nr": "28653",
@@ -7831,13 +13942,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "150.37",
+    "rating": 152.58441645429997,
+    "bestRating": 152.58441645429997,
+    "worstRating": 136.7900497655351,
+    "tendency": 7.350310166458229,
     "totalTournaments": 3,
     "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.23410628784174,
+      145.25761982292207,
+      145.27664253868764,
+      141.69639437263774,
+      136.7900497655351,
+      141.94939351795372,
+      147.15069964553697,
+      147.44323616292502,
+      152.58441645429997
+    ]
   },
   {
     "NAF Nr": "28713",
@@ -7845,13 +13970,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Old World Alliance",
-    "rating": "138.54",
+    "rating": 138.1999107326435,
+    "bestRating": 149.68918973926367,
+    "worstRating": 138.1999107326435,
+    "tendency": -11.489279006620166,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      149.68918973926367,
+      144.04583021191837,
+      138.1999107326435
+    ]
   },
   {
     "NAF Nr": "28741",
@@ -7859,13 +13992,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "157.86",
+    "rating": 157.8617537324831,
+    "bestRating": 157.8617537324831,
+    "worstRating": 153.81583816867527,
+    "tendency": 4.045915563807824,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      153.81583816867527,
+      157.8617537324831
+    ]
   },
   {
     "NAF Nr": "28783",
@@ -7873,13 +14013,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Old World Alliance",
-    "rating": "147.31",
+    "rating": 147.16360522146968,
+    "bestRating": 153.57185677334286,
+    "worstRating": 147.16360522146968,
+    "tendency": -2.8363947785303196,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      150,
+      153.57185677334286,
+      150.33032290165295,
+      147.16360522146968
+    ]
   },
   {
     "NAF Nr": "28814",
@@ -7887,13 +14036,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "124.57",
+    "rating": 126.89870197317062,
+    "bestRating": 144.34314575050763,
+    "worstRating": 123.62930762939808,
+    "tendency": -1.448893094853318,
     "totalTournaments": 5,
     "gamesTotal": 22,
     "gamesWon": 5,
     "gamesDraw": 5,
     "gamesLost": 12,
-    "winRatio": 34.09
+    "winRatio": 34.09,
+    "_lastTenRatings": [
+      128.34759506802394,
+      133.83844862342107,
+      128.39057546605784,
+      134.56929953442398,
+      130.62435835547342,
+      126.96722920148149,
+      123.62930762939808,
+      124.15332000728125,
+      125.15000550019357,
+      126.89870197317062
+    ]
   },
   {
     "NAF Nr": "28841",
@@ -7901,13 +14065,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "187.69",
+    "rating": 187.03621178581372,
+    "bestRating": 193.35827196539452,
+    "worstRating": 149.75897835159674,
+    "tendency": 13.16291955811701,
     "totalTournaments": 4,
     "gamesTotal": 18,
     "gamesWon": 10,
     "gamesDraw": 5,
     "gamesLost": 3,
-    "winRatio": 69.44
+    "winRatio": 69.44,
+    "_lastTenRatings": [
+      173.8732922276967,
+      181.50408541673528,
+      187.94902155128,
+      193.35827196539452,
+      185.86561646833644,
+      185.63173420871107,
+      185.9396114206294,
+      189.10067839561043,
+      183.20597421324007,
+      187.03621178581372
+    ]
   },
   {
     "NAF Nr": "28866",
@@ -7915,13 +14094,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "147.37",
+    "rating": 145.21723491630496,
+    "bestRating": 150.61289038830526,
+    "worstRating": 144.4064672613507,
+    "tendency": -5.3956554720003,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      150.61289038830526,
+      144.4064672613507,
+      148.82470337302402,
+      145.21723491630496
+    ]
   },
   {
     "NAF Nr": "28898",
@@ -7929,13 +14117,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "137.97",
+    "rating": 139.58151148622218,
+    "bestRating": 150.67619780594288,
+    "worstRating": 131.90758294182794,
+    "tendency": -11.094686319720694,
     "totalTournaments": 3,
     "gamesTotal": 11,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 5,
-    "winRatio": 40.91
+    "winRatio": 40.91,
+    "_lastTenRatings": [
+      150.67619780594288,
+      146.75566060125308,
+      147.54767995315692,
+      142.3617917341321,
+      136.49451813981696,
+      136.86629890838424,
+      131.90758294182794,
+      135.1381779314228,
+      136.46241476380493,
+      139.58151148622218
+    ]
   },
   {
     "NAF Nr": "28904",
@@ -7943,13 +14146,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "154.68",
+    "rating": 155.26416803354556,
+    "bestRating": 155.26416803354556,
+    "worstRating": 150.65045871063813,
+    "tendency": 0.7672677946326871,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.49690023891287,
+      150.65045871063813,
+      155.26416803354556
+    ]
   },
   {
     "NAF Nr": "28946",
@@ -7957,13 +14168,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "164.92",
+    "rating": 164.15180528378798,
+    "bestRating": 177.07337344996006,
+    "worstRating": 155.08845332970083,
+    "tendency": -1.8941186879441716,
     "totalTournaments": 3,
     "gamesTotal": 12,
     "gamesWon": 7,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      166.04592397173215,
+      166.92942504821247,
+      171.86408953424237,
+      165.51902403333028,
+      156.39293441417578,
+      163.05338524118025,
+      170.02412331189254,
+      177.07337344996006,
+      170.00829911998787,
+      164.15180528378798
+    ]
   },
   {
     "NAF Nr": "28979",
@@ -7971,13 +14197,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "157.89",
+    "rating": 152.93497064996689,
+    "bestRating": 162.73999569802623,
+    "worstRating": 148.47355128649386,
+    "tendency": -9.239832282347123,
     "totalTournaments": 3,
     "gamesTotal": 15,
     "gamesWon": 4,
     "gamesDraw": 8,
     "gamesLost": 3,
-    "winRatio": 53.33
+    "winRatio": 53.33,
+    "_lastTenRatings": [
+      162.174802932314,
+      161.6477310494907,
+      155.37245529049613,
+      160.5515800243566,
+      160.25450999137502,
+      159.8546536413964,
+      153.50426300155172,
+      148.47355128649386,
+      152.8588919732035,
+      152.93497064996689
+    ]
   },
   {
     "NAF Nr": "28997",
@@ -7985,13 +14226,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "150.14",
+    "rating": 150.13327768168864,
+    "bestRating": 150.13691805238622,
+    "worstRating": 146.68917079556616,
+    "tendency": 3.4441068861224835,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.68917079556616,
+      150.13691805238622,
+      150.13327768168864
+    ]
   },
   {
     "NAF Nr": "28999",
@@ -7999,13 +14248,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Old World Alliance",
-    "rating": "140.1",
+    "rating": 140.39462773736673,
+    "bestRating": 145.46384944013153,
+    "worstRating": 134.55445844067233,
+    "tendency": -5.069221702764793,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.46384944013153,
+      139.9931649875308,
+      134.55445844067233,
+      134.72277564299864,
+      140.12592248218323,
+      140.39462773736673
+    ]
   },
   {
     "NAF Nr": "29013",
@@ -8013,13 +14273,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Old World Alliance",
-    "rating": "143.98",
+    "rating": 143.63700768011472,
+    "bestRating": 153.27860321404364,
+    "worstRating": 143.63700768011472,
+    "tendency": -9.641595533928921,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      153.27860321404364,
+      150.11350217313623,
+      146.95122460344885,
+      143.63700768011472
+    ]
   },
   {
     "NAF Nr": "29017",
@@ -8027,13 +14296,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "185.04",
+    "rating": 185.35840387856487,
+    "bestRating": 185.35840387856487,
+    "worstRating": 154.5722591920589,
+    "tendency": 19.74489650471969,
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 9,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      165.61350737384518,
+      169.90557651376744,
+      173.11600013595074,
+      174.39523368606413,
+      169.86468570922247,
+      175.554095980952,
+      180.12445676113725,
+      184.7434870573779,
+      180.07623117544026,
+      185.35840387856487
+    ]
   },
   {
     "NAF Nr": "29032",
@@ -8041,13 +14325,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "150.0",
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 150,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150
+    ]
   },
   {
     "NAF Nr": "29105",
@@ -8055,13 +14345,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "153.49",
+    "rating": 151.9274385210462,
+    "bestRating": 161.63054698213466,
+    "worstRating": 144.1938172258711,
+    "tendency": 0.5349468997507358,
     "totalTournaments": 2,
     "gamesTotal": 15,
     "gamesWon": 5,
     "gamesDraw": 5,
     "gamesLost": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      151.39249162129548,
+      144.1938172258711,
+      150.11578647822512,
+      150.3463620349411,
+      156.77407264223012,
+      151.26468731283256,
+      158.9311400820592,
+      158.8724311155003,
+      160.12370442081672,
+      151.9274385210462
+    ]
   },
   {
     "NAF Nr": "29172",
@@ -8069,13 +14374,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "151.0",
+    "rating": 151.4751841191728,
+    "bestRating": 151.4751841191728,
+    "worstRating": 147.13122121132125,
+    "tendency": 1.475184119172809,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      151.33974438604523,
+      147.13122121132125,
+      151.4751841191728
+    ]
   },
   {
     "NAF Nr": "29205",
@@ -8083,13 +14397,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "155.5",
+    "rating": 155.65775885321747,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.65685424949237,
+    "tendency": 0.0009046037251039252,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.65775885321747
+    ]
   },
   {
     "NAF Nr": "29227",
@@ -8097,13 +14419,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Ladonia",
     "race": "Old World Alliance",
-    "rating": "168.25",
+    "rating": 169.72640481783355,
+    "bestRating": 175.62731458926476,
+    "worstRating": 145.17450824331567,
+    "tendency": 12.368976469637005,
     "totalTournaments": 5,
     "gamesTotal": 17,
     "gamesWon": 9,
     "gamesDraw": 3,
     "gamesLost": 5,
-    "winRatio": 61.76
+    "winRatio": 61.76,
+    "_lastTenRatings": [
+      157.35742834819655,
+      165.62320620669576,
+      170.86887421412217,
+      175.62731458926476,
+      169.88562531706896,
+      169.02887444760373,
+      173.94365039967977,
+      167.47346609916312,
+      166.70401131388638,
+      169.72640481783355
+    ]
   },
   {
     "NAF Nr": "29283",
@@ -8111,13 +14448,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Lithuania",
     "race": "Old World Alliance",
-    "rating": "149.8",
+    "rating": 149.80386679945792,
+    "bestRating": 153.99091071873383,
+    "worstRating": 145.87689437438235,
+    "tendency": -0.1961332005420786,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      145.87689437438235,
+      149.86952453682602,
+      153.99091071873383,
+      149.80386679945792
+    ]
   },
   {
     "NAF Nr": "29300",
@@ -8125,27 +14472,52 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "146.98",
+    "rating": 146.1870246819613,
+    "bestRating": 151.5122812479905,
+    "worstRating": 145.64110105645932,
+    "tendency": 0.5459236255019846,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      145.64110105645932,
+      147.15026743188577,
+      151.5122812479905,
+      147.0434941554242,
+      151.05137114793646,
+      146.1870246819613
+    ]
   },
   {
     "NAF Nr": "29363",
     "NAF Name": "Mapachecoactivo",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "158.95",
+    "rating": 159.07989226602442,
+    "bestRating": 159.07989226602442,
+    "worstRating": 148.75215201607736,
+    "tendency": 4.250016329720125,
     "totalTournaments": 3,
     "gamesTotal": 9,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 61.11
+    "winRatio": 61.11,
+    "_lastTenRatings": [
+      154.8298759363043,
+      149.20965102100905,
+      154.9636241850684,
+      149.21813438466964,
+      153.2189739012995,
+      148.75215201607736,
+      153.20441518238937,
+      153.0890786211776,
+      159.07989226602442
+    ]
   },
   {
     "NAF Nr": "29394",
@@ -8153,13 +14525,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "160.77",
+    "rating": 161.0740701468246,
+    "bestRating": 161.0740701468246,
+    "worstRating": 155.40413822048413,
+    "tendency": 5.417215897332227,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.40413822048413,
+      161.0740701468246
+    ]
   },
   {
     "NAF Nr": "29398",
@@ -8167,13 +14547,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.53",
+    "rating": 150.8476475391197,
+    "bestRating": 154.86898620186838,
+    "worstRating": 145.37591731504045,
+    "tendency": -4.02133866274869,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.86898620186838,
+      150.70675579153973,
+      145.37591731504045,
+      150.8476475391197
+    ]
   },
   {
     "NAF Nr": "29430",
@@ -8181,13 +14570,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "152.09",
+    "rating": 152.1358426581724,
+    "bestRating": 158.2301586682658,
+    "worstRating": 144.34314575050763,
+    "tendency": 7.75613670443073,
     "totalTournaments": 2,
     "gamesTotal": 11,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.37970595374168,
+      150.0402541706275,
+      144.536924943273,
+      149.7787995649974,
+      154.41030738433287,
+      150.42955902095397,
+      156.78161384988118,
+      152.51452814454947,
+      158.2301586682658,
+      152.1358426581724
+    ]
   },
   {
     "NAF Nr": "29452",
@@ -8195,13 +14599,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Old World Alliance",
-    "rating": "153.67",
+    "rating": 153.6639613092083,
+    "bestRating": 165.00032488071582,
+    "worstRating": 145.80987327026082,
+    "tendency": 7.854088038947481,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 55
+    "winRatio": 55,
+    "_lastTenRatings": [
+      145.80987327026082,
+      150.13639341238928,
+      155.16227432442423,
+      150.11658288613265,
+      155.1982804415342,
+      160.09396574552585,
+      165.00032488071582,
+      159.16921397495796,
+      159.13949575053644,
+      153.6639613092083
+    ]
   },
   {
     "NAF Nr": "29548",
@@ -8209,13 +14628,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "174.62",
+    "rating": 175.33133937201748,
+    "bestRating": 177.97921544215595,
+    "worstRating": 144.89545073221103,
+    "tendency": 20.428696473371986,
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 7,
     "gamesDraw": 5,
     "gamesLost": 2,
-    "winRatio": 67.86
+    "winRatio": 67.86,
+    "_lastTenRatings": [
+      154.9026428986455,
+      160.43635833100973,
+      165.76689135765577,
+      159.89522532856327,
+      165.77034501227556,
+      170.90608117256417,
+      177.97921544215595,
+      177.1331873660811,
+      176.67883218943535,
+      175.33133937201748
+    ]
   },
   {
     "NAF Nr": "29568",
@@ -8223,13 +14657,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "133.51",
+    "rating": 132.34333187291978,
+    "bestRating": 150,
+    "worstRating": 131.05258268938815,
+    "tendency": -17.656668127080223,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 0,
     "gamesDraw": 6,
     "gamesLost": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      150,
+      142.8777750357254,
+      142.82948649986744,
+      142.30388045994152,
+      142.4840326009806,
+      134.55481608494745,
+      135.22229068496782,
+      131.05258268938815,
+      132.34333187291978
+    ]
   },
   {
     "NAF Nr": "29592",
@@ -8237,13 +14685,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Switzerland",
     "race": "Old World Alliance",
-    "rating": "120.8",
+    "rating": 121.28857522685422,
+    "bestRating": 146.532939148701,
+    "worstRating": 118.44561872755165,
+    "tendency": -14.255902928939605,
     "totalTournaments": 5,
     "gamesTotal": 16,
     "gamesWon": 0,
     "gamesDraw": 5,
     "gamesLost": 11,
-    "winRatio": 15.63
+    "winRatio": 15.63,
+    "_lastTenRatings": [
+      135.54447815579383,
+      132.91556145785458,
+      130.3228194027579,
+      126.63968743842914,
+      122.61569396331613,
+      118.44561872755165,
+      119.18583332263319,
+      119.90043405295079,
+      120.61231428480966,
+      121.28857522685422
+    ]
   },
   {
     "NAF Nr": "29658",
@@ -8251,13 +14714,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "167.33",
+    "rating": 168.56873435436125,
+    "bestRating": 174.1543288020073,
+    "worstRating": 155.65685424949237,
+    "tendency": 12.911880104868885,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 80
+    "winRatio": 80,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      168.56308731486814,
+      174.1543288020073,
+      168.56873435436125
+    ]
   },
   {
     "NAF Nr": "29671",
@@ -8265,13 +14738,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Israel",
     "race": "Old World Alliance",
-    "rating": "146.25",
+    "rating": 146.59734066192956,
+    "bestRating": 154.8635781213292,
+    "worstRating": 146.59734066192956,
+    "tendency": -8.266237459399633,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      154.8635781213292,
+      150.76991605608762,
+      146.59734066192956
+    ]
   },
   {
     "NAF Nr": "29679",
@@ -8279,13 +14760,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "163.61",
+    "rating": 163.66561508056316,
+    "bestRating": 163.66561508056316,
+    "worstRating": 150.49349664687537,
+    "tendency": 13.172118433687785,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      150.49349664687537,
+      156.12892438072026,
+      163.66561508056316
+    ]
   },
   {
     "NAF Nr": "29745",
@@ -8293,13 +14782,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "race": "Old World Alliance",
-    "rating": "158.38",
+    "rating": 158.05191788361665,
+    "bestRating": 158.05191788361665,
+    "worstRating": 154.61323073673339,
+    "tendency": 3.29741637001689,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      154.75450151359976,
+      154.61323073673339,
+      158.05191788361665
+    ]
   },
   {
     "NAF Nr": "29753",
@@ -8307,13 +14804,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "154.06",
+    "rating": 153.51058439334068,
+    "bestRating": 157.83425415063007,
+    "worstRating": 149.4539205764379,
+    "tendency": -0.422207302457565,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 56.25
+    "winRatio": 56.25,
+    "_lastTenRatings": [
+      153.93279169579824,
+      153.7910257071694,
+      149.4539205764379,
+      153.78512188664823,
+      157.83425415063007,
+      153.45858460238543,
+      153.48055114117568,
+      153.51058439334068
+    ]
   },
   {
     "NAF Nr": "29761",
@@ -8321,13 +14831,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Lithuania",
     "race": "Old World Alliance",
-    "rating": "157.06",
+    "rating": 156.7007647600959,
+    "bestRating": 159.8396585220621,
+    "worstRating": 148.14260880689582,
+    "tendency": -3.138893761966216,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 4,
     "gamesDraw": 4,
     "gamesLost": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      159.8396585220621,
+      153.86809006174838,
+      153.75660517807674,
+      153.68586354227654,
+      148.14260880689582,
+      155.17800296994486,
+      156.82935108609163,
+      153.60331656027103,
+      153.71904690157203,
+      156.7007647600959
+    ]
   },
   {
     "NAF Nr": "29791",
@@ -8335,13 +14860,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "154.96",
+    "rating": 155.38193700589048,
+    "bestRating": 155.62605722444235,
+    "worstRating": 150,
+    "tendency": 5.381937005890478,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      150,
+      155.62605722444235,
+      155.38193700589048
+    ]
   },
   {
     "NAF Nr": "29838",
@@ -8349,13 +14882,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "156.73",
+    "rating": 155.95598788573187,
+    "bestRating": 155.98158239013355,
+    "worstRating": 145.67623512651164,
+    "tendency": 10.27975275922023,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      145.67623512651164,
+      150.4748475288491,
+      155.98158239013355,
+      155.95598788573187
+    ]
   },
   {
     "NAF Nr": "29843",
@@ -8363,13 +14905,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "143.25",
+    "rating": 143.44685891854118,
+    "bestRating": 144.3459450510363,
+    "worstRating": 137.50171815030905,
+    "tendency": -0.899086132495114,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.3459450510363,
+      137.50171815030905,
+      143.44685891854118
+    ]
   },
   {
     "NAF Nr": "29866",
@@ -8377,13 +14927,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "152.94",
+    "rating": 153.13069731578938,
+    "bestRating": 154.90699791990085,
+    "worstRating": 145.52786404500043,
+    "tendency": -1.7763006041114693,
     "totalTournaments": 4,
     "gamesTotal": 12,
     "gamesWon": 5,
     "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 54.17
+    "winRatio": 54.17,
+    "_lastTenRatings": [
+      154.90699791990085,
+      154.75641870712028,
+      150.486397213179,
+      150.25997915377033,
+      146.51852055454856,
+      149.96281692827358,
+      153.60058217966343,
+      149.75554857492563,
+      149.65513894255488,
+      153.13069731578938
+    ]
   },
   {
     "NAF Nr": "29899",
@@ -8391,13 +14956,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "149.82",
+    "rating": 149.11171768414994,
+    "bestRating": 149.38853729837493,
+    "worstRating": 144.1929498210546,
+    "tendency": 4.918767863095326,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.1929498210546,
+      149.38853729837493,
+      149.0612274762339,
+      149.11171768414994
+    ]
   },
   {
     "NAF Nr": "29932",
@@ -8405,13 +14979,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "166.24",
+    "rating": 168.3173776908,
+    "bestRating": 187.9040205294567,
+    "worstRating": 144.2593550913427,
+    "tendency": 6.5435967312381536,
     "totalTournaments": 7,
     "gamesTotal": 33,
     "gamesWon": 15,
     "gamesDraw": 7,
     "gamesLost": 11,
-    "winRatio": 56.06
+    "winRatio": 56.06,
+    "_lastTenRatings": [
+      161.77378095956183,
+      155.6071201238251,
+      160.78010591125818,
+      165.98151410855644,
+      165.97472472924125,
+      170.33261479077282,
+      163.4711025112884,
+      167.05899188121015,
+      170.6317229457398,
+      168.3173776908
+    ]
   },
   {
     "NAF Nr": "29959",
@@ -8419,13 +15008,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "134.3",
+    "rating": 134.76277132035705,
+    "bestRating": 146.2131168207318,
+    "worstRating": 134.76277132035705,
+    "tendency": -11.450345500374766,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146.2131168207318,
+      140.4982939492814,
+      134.76277132035705
+    ]
   },
   {
     "NAF Nr": "29966",
@@ -8433,13 +15030,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "154.46",
+    "rating": 154.59453724340403,
+    "bestRating": 154.59453724340403,
+    "worstRating": 144.5250644553016,
+    "tendency": 4.765395884935799,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      149.82914135846823,
+      150.71159077913958,
+      144.5250644553016,
+      152.2759262035663,
+      153.37338538666242,
+      154.59453724340403
+    ]
   },
   {
     "NAF Nr": "30008",
@@ -8447,13 +15055,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Norway",
     "race": "Old World Alliance",
-    "rating": "160.49",
+    "rating": 160.98834110136926,
+    "bestRating": 178.72484098636306,
+    "worstRating": 150.203875141722,
+    "tendency": -2.8217085478019044,
     "totalTournaments": 7,
     "gamesTotal": 34,
     "gamesWon": 16,
     "gamesDraw": 5,
     "gamesLost": 13,
-    "winRatio": 54.41
+    "winRatio": 54.41,
+    "_lastTenRatings": [
+      163.81004964917116,
+      163.39614668255697,
+      165.86917239249846,
+      162.71418051445465,
+      162.1611684846757,
+      157.52366402025422,
+      161.40894902853753,
+      161.7625178084917,
+      157.11829512415085,
+      160.98834110136926
+    ]
   },
   {
     "NAF Nr": "30015",
@@ -8461,13 +15084,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "125.39",
+    "rating": 124.62157941468466,
+    "bestRating": 156.97296413191188,
+    "worstRating": 124.28164938578453,
+    "tendency": -12.0543129544768,
     "totalTournaments": 6,
     "gamesTotal": 27,
     "gamesWon": 6,
     "gamesDraw": 8,
     "gamesLost": 13,
-    "winRatio": 37.04
+    "winRatio": 37.04,
+    "_lastTenRatings": [
+      136.67589236916146,
+      140.7098468701697,
+      137.08470323488754,
+      138.04721170954846,
+      144.0505417406619,
+      138.9198299666439,
+      134.3417824351069,
+      129.78325399921545,
+      124.28164938578453,
+      124.62157941468466
+    ]
   },
   {
     "NAF Nr": "30033",
@@ -8475,13 +15113,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "158.07",
+    "rating": 160.05758720399484,
+    "bestRating": 160.08286018174744,
+    "worstRating": 150.78288806504588,
+    "tendency": 3.611703617040149,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 55.56
+    "winRatio": 55.56,
+    "_lastTenRatings": [
+      156.4458835869547,
+      156.7303164698961,
+      157.93263914489245,
+      159.98638798373207,
+      155.42004736991524,
+      150.78288806504588,
+      155.44511998128985,
+      160.08286018174744,
+      160.05758720399484
+    ]
   },
   {
     "NAF Nr": "30061",
@@ -8489,13 +15141,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "126.66",
+    "rating": 125.88905784319033,
+    "bestRating": 150.33053209927186,
+    "worstRating": 122.0825922848873,
+    "tendency": -11.745685779174636,
     "totalTournaments": 4,
     "gamesTotal": 24,
     "gamesWon": 4,
     "gamesDraw": 10,
     "gamesLost": 10,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      137.63474362236497,
+      131.1650715565275,
+      132.32868323896616,
+      132.94032607131265,
+      126.25928577866726,
+      127.02392178438407,
+      127.65344417361165,
+      132.62717247127588,
+      129.39033608850485,
+      125.88905784319033
+    ]
   },
   {
     "NAF Nr": "30073",
@@ -8503,13 +15170,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "147.92",
+    "rating": 147.44105964266637,
+    "bestRating": 155.0990195135928,
+    "worstRating": 147.28908417167005,
+    "tendency": -7.657959870926419,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      155.0990195135928,
+      150,
+      147.28908417167005,
+      152.24018131022362,
+      152.19855166236403,
+      147.44105964266637
+    ]
   },
   {
     "NAF Nr": "30085",
@@ -8517,13 +15195,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "147.8",
+    "rating": 147.26273555393468,
+    "bestRating": 156.33859321269884,
+    "worstRating": 147.26273555393468,
+    "tendency": -3.4325775362280524,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      150.69531309016273,
+      156.33859321269884,
+      151.83699520649117,
+      147.26273555393468
+    ]
   },
   {
     "NAF Nr": "30087",
@@ -8531,13 +15218,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "140.57",
+    "rating": 140.12244963575287,
+    "bestRating": 145.40507480197255,
+    "worstRating": 140.07570183552707,
+    "tendency": -5.282625166219674,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      145.40507480197255,
+      140.07570183552707,
+      140.10011917185795,
+      140.12244963575287
+    ]
   },
   {
     "NAF Nr": "30090",
@@ -8545,13 +15241,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "140.88",
+    "rating": 151.60022806292721,
+    "bestRating": 153.15925041268375,
+    "worstRating": 122.865364553308,
+    "tendency": 13.086774198904692,
     "totalTournaments": 3,
     "gamesTotal": 19,
     "gamesWon": 6,
     "gamesDraw": 6,
     "gamesLost": 7,
-    "winRatio": 47.37
+    "winRatio": 47.37,
+    "_lastTenRatings": [
+      138.51345386402252,
+      138.89953739465528,
+      130.7817447935546,
+      122.865364553308,
+      131.68262724575695,
+      137.47662950242156,
+      145.71389376320136,
+      153.15925041268375,
+      151.27727035253176,
+      151.60022806292721
+    ]
   },
   {
     "NAF Nr": "30165",
@@ -8559,13 +15270,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "131.77",
+    "rating": 131.70881160599623,
+    "bestRating": 158.37282094632934,
+    "worstRating": 131.70881160599623,
+    "tendency": -19.48444326911678,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      151.193254875113,
+      158.37282094632934,
+      150.34734003102315,
+      142.52836024875145,
+      136.25136518892865,
+      131.70881160599623
+    ]
   },
   {
     "NAF Nr": "30201",
@@ -8573,13 +15295,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "166.91",
+    "rating": 167.65140224924085,
+    "bestRating": 167.65140224924085,
+    "worstRating": 155.65685424949237,
+    "tendency": 11.994547999748477,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.2143371635595,
+      160.6934372704617,
+      167.65140224924085
+    ]
   },
   {
     "NAF Nr": "30226",
@@ -8587,13 +15318,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "158.49",
+    "rating": 158.0929916837873,
+    "bestRating": 162.9200832445152,
+    "worstRating": 154.47213595499957,
+    "tendency": 3.620855728787717,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.47213595499957,
+      158.51578734558984,
+      162.9200832445152,
+      158.80859474949153,
+      162.19329541652615,
+      158.0929916837873
+    ]
   },
   {
     "NAF Nr": "30272",
@@ -8601,13 +15343,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. La Mancha",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "166.96",
+    "rating": 167.65382657634763,
+    "bestRating": 168.75948095899682,
+    "worstRating": 151.46653273736402,
+    "tendency": 15.774752036137613,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 5,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 65
+    "winRatio": 65,
+    "_lastTenRatings": [
+      151.87907454021,
+      151.46653273736402,
+      157.05935425315494,
+      162.64794462380553,
+      156.44366096237522,
+      164.01044588915744,
+      164.06170696213977,
+      168.75948095899682,
+      162.88355792586117,
+      167.65382657634763
+    ]
   },
   {
     "NAF Nr": "30318",
@@ -8615,13 +15372,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "140.73",
+    "rating": 140.44430265058216,
+    "bestRating": 150.18278976532835,
+    "worstRating": 139.64069976636884,
+    "tendency": -6.788662849752484,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      147.23296550033464,
+      150.18278976532835,
+      144.51799916216024,
+      139.64069976636884,
+      145.15950632819423,
+      145.80105873333667,
+      145.75238859410544,
+      140.44430265058216
+    ]
   },
   {
     "NAF Nr": "30322",
@@ -8629,13 +15399,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "153.52",
+    "rating": 153.48835638812565,
+    "bestRating": 153.48835638812565,
+    "worstRating": 146.6207280079043,
+    "tendency": 6.867628380221362,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      146.6207280079043,
+      149.91266944099414,
+      153.48835638812565
+    ]
   },
   {
     "NAF Nr": "30340",
@@ -8643,13 +15421,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "146.0",
+    "rating": 146,
+    "bestRating": 146,
+    "worstRating": 146,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146
+    ]
   },
   {
     "NAF Nr": "30358",
@@ -8657,13 +15441,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "144.84",
+    "rating": 144.37639699023606,
+    "bestRating": 152.21204190089753,
+    "worstRating": 144.37639699023606,
+    "tendency": -7.835644910661472,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      152.21204190089753,
+      149.14035656984709,
+      144.37639699023606
+    ]
   },
   {
     "NAF Nr": "30373",
@@ -8671,13 +15463,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "149.93",
+    "rating": 149.92230201966098,
+    "bestRating": 153.0855398918779,
+    "worstRating": 149.92230201966098,
+    "tendency": -0.07769798033902475,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      153.0855398918779,
+      149.92230201966098
+    ]
   },
   {
     "NAF Nr": "30425",
@@ -8685,13 +15485,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "184.85",
-    "totalTournaments": 6,
-    "gamesTotal": 24,
-    "gamesWon": 13,
-    "gamesDraw": 6,
-    "gamesLost": 5,
-    "winRatio": 66.67
+    "rating": 178.1614175227289,
+    "bestRating": 193.28089345636204,
+    "worstRating": 143.69978611022316,
+    "tendency": -11.11691979978687,
+    "totalTournaments": 7,
+    "gamesTotal": 30,
+    "gamesWon": 15,
+    "gamesDraw": 8,
+    "gamesLost": 7,
+    "winRatio": 63.33,
+    "_lastTenRatings": [
+      189.27833732251577,
+      193.28089345636204,
+      191.49940106088448,
+      184.2432848383402,
+      188.44667972053088,
+      182.44721950947508,
+      181.2236114850235,
+      174.54575278883138,
+      178.78080650469755,
+      178.1614175227289
+    ]
   },
   {
     "NAF Nr": "30435",
@@ -8699,13 +15514,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "140.61",
+    "rating": 140.78441319338035,
+    "bestRating": 145.5796192527728,
+    "worstRating": 140.60275049274077,
+    "tendency": -4.215586806619655,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      145,
+      140.60275049274077,
+      145.5796192527728,
+      140.78441319338035
+    ]
   },
   {
     "NAF Nr": "30436",
@@ -8713,13 +15537,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "203.01",
+    "rating": 202.14908295901796,
+    "bestRating": 203.50318025745605,
+    "worstRating": 145.44656510051922,
+    "tendency": 2.538274717900947,
     "totalTournaments": 6,
     "gamesTotal": 26,
     "gamesWon": 14,
     "gamesDraw": 7,
     "gamesLost": 5,
-    "winRatio": 67.31
+    "winRatio": 67.31,
+    "_lastTenRatings": [
+      199.610808241117,
+      197.85944632467,
+      197.25900584211735,
+      191.5306600466613,
+      195.0687903374366,
+      192.08710671263788,
+      195.8540985993143,
+      199.57956178383034,
+      203.50318025745605,
+      202.14908295901796
+    ]
   },
   {
     "NAF Nr": "30444",
@@ -8727,13 +15566,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "150.34",
+    "rating": 150.42763705572693,
+    "bestRating": 156.5697556599965,
+    "worstRating": 150,
+    "tendency": -5.229217193765436,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      156.5697556599965,
+      150.8249734279331,
+      150.42763705572693
+    ]
   },
   {
     "NAF Nr": "30473",
@@ -8741,13 +15590,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "144.36",
+    "rating": 144.20884151416726,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.20884151416726,
+    "tendency": -11.448012735325108,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150.05441499630396,
+      144.20884151416726
+    ]
   },
   {
     "NAF Nr": "30476",
@@ -8755,13 +15612,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Old World Alliance",
-    "rating": "146.26",
+    "rating": 145.88390662341095,
+    "bestRating": 156.24059077546514,
+    "worstRating": 145.88390662341095,
+    "tendency": -9.772947626081418,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      156.16685236895842,
+      156.24059077546514,
+      155.98752927511643,
+      150.66429827327295,
+      145.88390662341095
+    ]
   },
   {
     "NAF Nr": "30494",
@@ -8769,13 +15637,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "142.97",
+    "rating": 142.6657367239289,
+    "bestRating": 150.35992107126827,
+    "worstRating": 142.6657367239289,
+    "tendency": -7.694184347339387,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      150.35992107126827,
+      146.37207102885762,
+      142.6657367239289
+    ]
   },
   {
     "NAF Nr": "30505",
@@ -8783,13 +15659,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "144.61",
+    "rating": 145.52365223896928,
+    "bestRating": 155.65685424949237,
+    "worstRating": 145.52365223896928,
+    "tendency": -10.133202010523092,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.61949624021648,
+      150.3765349608807,
+      145.52365223896928
+    ]
   },
   {
     "NAF Nr": "30526",
@@ -8797,13 +15682,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "125.59",
+    "rating": 124.5997895661712,
+    "bestRating": 144.45016202514003,
+    "worstRating": 124.5997895661712,
+    "tendency": -19.850372458968835,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 5,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      144.45016202514003,
+      136.58740251060402,
+      129.45303436442995,
+      135.27837990839566,
+      130.1070214839225,
+      124.5997895661712
+    ]
   },
   {
     "NAF Nr": "30624",
@@ -8811,13 +15707,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "149.88",
+    "rating": 149.87406656157276,
+    "bestRating": 149.87406656157276,
+    "worstRating": 145.86760845807217,
+    "tendency": 4.0064581035005915,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.86760845807217,
+      149.87406656157276
+    ]
   },
   {
     "NAF Nr": "30640",
@@ -8825,13 +15728,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "152.63",
+    "rating": 152.44061124733653,
+    "bestRating": 152.44061124733653,
+    "worstRating": 147.67608360873749,
+    "tendency": 4.632311804094769,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      147.80829944324176,
+      151.67666662579313,
+      147.67608360873749,
+      151.65128405562956,
+      152.44061124733653
+    ]
   },
   {
     "NAF Nr": "30644",
@@ -8839,13 +15752,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "161.07",
+    "rating": 163.6357406544993,
+    "bestRating": 167.35999198158518,
+    "worstRating": 157.12352759425676,
+    "tendency": 6.512213060242544,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      157.12352759425676,
+      166.56776973392263,
+      167.35999198158518,
+      162.02615064856982,
+      162.10395911641407,
+      163.6357406544993
+    ]
   },
   {
     "NAF Nr": "30684",
@@ -8853,13 +15777,46 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "137.81",
+    "rating": 137.4863727014094,
+    "bestRating": 144.34314575050763,
+    "worstRating": 132.5337760218169,
+    "tendency": -6.856773049098223,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.2082398264309,
+      132.5337760218169,
+      137.4863727014094
+    ]
+  },
+  {
+    "NAF Nr": "30727",
+    "NAF Name": "scurra",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "race": "Old World Alliance",
+    "rating": 167.09252940127107,
+    "bestRating": 167.09252940127107,
+    "worstRating": 151.20500627285878,
+    "tendency": 15.887523128412283,
+    "totalTournaments": 1,
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "winRatio": 80,
+    "_lastTenRatings": [
+      151.20500627285878,
+      157.7376862231918,
+      162.51613740658783,
+      163.1175342408209,
+      167.09252940127107
+    ]
   },
   {
     "NAF Nr": "30732",
@@ -8867,13 +15824,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "154.99",
+    "rating": 154.89037286472725,
+    "bestRating": 154.89037286472725,
+    "worstRating": 145.10102051443366,
+    "tendency": 9.789352350293598,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      145.10102051443366,
+      150,
+      154.89037286472725
+    ]
   },
   {
     "NAF Nr": "30753",
@@ -8881,13 +15846,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "141.79",
+    "rating": 139.36529973270572,
+    "bestRating": 144.60061356338545,
+    "worstRating": 139.36529973270572,
+    "tendency": -5.235313830679729,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.60061356338545,
+      139.36529973270572
+    ]
   },
   {
     "NAF Nr": "30792",
@@ -8895,13 +15867,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "151.31",
+    "rating": 150.90143475635492,
+    "bestRating": 163.34975535982508,
+    "worstRating": 145.43553959863772,
+    "tendency": -2.860762797334928,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 55.56
+    "winRatio": 55.56,
+    "_lastTenRatings": [
+      153.76219755368984,
+      158.84770739027212,
+      163.34975535982508,
+      160.03093578410864,
+      153.69015327318175,
+      153.05217888034664,
+      151.66929812396964,
+      145.43553959863772,
+      150.90143475635492
+    ]
   },
   {
     "NAF Nr": "30809",
@@ -8909,13 +15895,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "133.29",
+    "rating": 135.56946269640096,
+    "bestRating": 154.58257569495584,
+    "worstRating": 123.17138762124921,
+    "tendency": 3.158131667550009,
     "totalTournaments": 6,
     "gamesTotal": 22,
     "gamesWon": 5,
     "gamesDraw": 8,
     "gamesLost": 9,
-    "winRatio": 40.91
+    "winRatio": 40.91,
+    "_lastTenRatings": [
+      132.41133102885095,
+      127.13019982360187,
+      123.17138762124921,
+      127.39648654474533,
+      128.9222906988497,
+      133.05866920873592,
+      133.66724174426508,
+      134.31675429901819,
+      134.7114039171224,
+      135.56946269640096
+    ]
   },
   {
     "NAF Nr": "30833",
@@ -8923,13 +15924,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "150.2",
+    "rating": 149.8895490828275,
+    "bestRating": 153.98678704453752,
+    "worstRating": 149.8895490828275,
+    "tendency": -0.08873431571413448,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      149.97828339854163,
+      153.98678704453752,
+      149.8895490828275
+    ]
   },
   {
     "NAF Nr": "30879",
@@ -8937,13 +15946,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "142.43",
+    "rating": 140.89094993609885,
+    "bestRating": 145.57978377163494,
+    "worstRating": 140.89094993609885,
+    "tendency": -4.688833835536087,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.57978377163494,
+      141.173391772403,
+      145.4933351175663,
+      140.95866681250484,
+      144.53579605129426,
+      140.89094993609885
+    ]
   },
   {
     "NAF Nr": "30915",
@@ -8951,13 +15971,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "194.71",
+    "rating": 194.2739457037352,
+    "bestRating": 194.2739457037352,
+    "worstRating": 150,
+    "tendency": 44.273945703735194,
     "totalTournaments": 1,
     "gamesTotal": 9,
     "gamesWon": 6,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      150,
+      157.74596669241484,
+      165.03195818116234,
+      165.5580374823519,
+      174.10318680113565,
+      180.84962684785214,
+      187.4892547472391,
+      186.02941883671056,
+      194.2739457037352
+    ]
   },
   {
     "NAF Nr": "30923",
@@ -8965,13 +15999,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "149.77",
+    "rating": 149.66856994130222,
+    "bestRating": 149.66856994130222,
+    "worstRating": 144.11515158520552,
+    "tendency": 5.553418356096699,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.11515158520552,
+      149.66856994130222
+    ]
   },
   {
     "NAF Nr": "30930",
@@ -8979,13 +16020,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "159.84",
+    "rating": 160.15333441639905,
+    "bestRating": 168.87134062020183,
+    "worstRating": 144.16514456591514,
+    "tendency": 15.810188665891417,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 55
+    "winRatio": 55,
+    "_lastTenRatings": [
+      144.34314575050763,
+      149.806445606738,
+      144.16514456591514,
+      149.8887035867428,
+      155.5481207138389,
+      163.45879269113897,
+      168.87134062020183,
+      164.53616631756287,
+      160.72930426275855,
+      160.15333441639905
+    ]
   },
   {
     "NAF Nr": "30932",
@@ -8993,13 +16049,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "149.89",
+    "rating": 149.95398625121038,
+    "bestRating": 152.4494897427832,
+    "worstRating": 147.5505102572168,
+    "tendency": -2.495503491572805,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      152.4494897427832,
+      150,
+      147.5505102572168,
+      149.95398625121038
+    ]
   },
   {
     "NAF Nr": "30933",
@@ -9007,13 +16072,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "156.63",
+    "rating": 156.0251685469505,
+    "bestRating": 156.0251685469505,
+    "worstRating": 150.5575698938501,
+    "tendency": 0.37406802263478767,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.65110052431572,
+      150.5575698938501,
+      156.0251685469505
+    ]
   },
   {
     "NAF Nr": "30939",
@@ -9021,13 +16094,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "173.62",
+    "rating": 174.96664591583155,
+    "bestRating": 174.96664591583155,
+    "worstRating": 155.39041492352183,
+    "tendency": 19.576230992309718,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      155.39041492352183,
+      161.69648677372177,
+      168.00571036476796,
+      168.56772393094303,
+      174.60626994110882,
+      174.96664591583155
+    ]
   },
   {
     "NAF Nr": "30993",
@@ -9035,13 +16119,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "168.85",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
-    "gamesWon": 3,
-    "gamesDraw": 0,
-    "gamesLost": 0,
-    "winRatio": 100
+    "rating": 168.41013790503735,
+    "bestRating": 168.41013790503735,
+    "worstRating": 145.70646940049008,
+    "tendency": 18.410137905037345,
+    "totalTournaments": 2,
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "winRatio": 75,
+    "_lastTenRatings": [
+      150,
+      145.70646940049008,
+      149.8790698129763,
+      155.3425939065798,
+      163.50368529175717,
+      168.41013790503735
+    ]
   },
   {
     "NAF Nr": "30998",
@@ -9049,13 +16144,50 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Chile",
     "race": "Old World Alliance",
-    "rating": "165.41",
+    "rating": 165.63218451446005,
+    "bestRating": 165.63218451446005,
+    "worstRating": 149.8779976132106,
+    "tendency": 15.754186901249454,
     "totalTournaments": 3,
     "gamesTotal": 9,
     "gamesWon": 5,
     "gamesDraw": 4,
     "gamesLost": 0,
-    "winRatio": 77.78
+    "winRatio": 77.78,
+    "_lastTenRatings": [
+      149.8779976132106,
+      153.35015790393905,
+      153.35002978190937,
+      156.4310155169541,
+      156.3517465901462,
+      159.43480492713087,
+      159.36999571376967,
+      162.67717909977324,
+      165.63218451446005
+    ]
+  },
+  {
+    "NAF Nr": "31070",
+    "NAF Name": "neirolh",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "race": "Old World Alliance",
+    "rating": 174.57005363748397,
+    "bestRating": 174.57005363748397,
+    "worstRating": 154.85086890236042,
+    "tendency": 19.719184735123548,
+    "totalTournaments": 1,
+    "gamesTotal": 4,
+    "gamesWon": 4,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.85086890236042,
+      162.21120270475419,
+      167.8240492492014,
+      174.57005363748397
+    ]
   },
   {
     "NAF Nr": "31123",
@@ -9063,13 +16195,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "race": "Old World Alliance",
-    "rating": "156.51",
+    "rating": 156.75720874118892,
+    "bestRating": 165.48340210794808,
+    "worstRating": 154.23290944123042,
+    "tendency": -2.971413270144666,
     "totalTournaments": 3,
     "gamesTotal": 15,
     "gamesWon": 6,
     "gamesDraw": 4,
     "gamesLost": 5,
-    "winRatio": 53.33
+    "winRatio": 53.33,
+    "_lastTenRatings": [
+      159.72862201133358,
+      155.82635704944522,
+      159.51427795238217,
+      159.8645658281802,
+      155.402093834586,
+      160.13701110328975,
+      156.44569508365916,
+      157.19668766553124,
+      162.1707534748286,
+      156.75720874118892
+    ]
   },
   {
     "NAF Nr": "31163",
@@ -9077,13 +16224,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "156.16",
+    "rating": 156.64944653796172,
+    "bestRating": 156.67624619530457,
+    "worstRating": 145.52005426136128,
+    "tendency": 11.129392276600441,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      145.52005426136128,
+      151.1185315478807,
+      156.67624619530457,
+      156.64944653796172
+    ]
   },
   {
     "NAF Nr": "31164",
@@ -9091,13 +16247,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "147.83",
+    "rating": 148.05679145972695,
+    "bestRating": 161.26685381975838,
+    "worstRating": 142.07989712683764,
+    "tendency": -6.948571368560124,
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 5,
     "gamesDraw": 4,
     "gamesLost": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.00536282828708,
+      149.94081921991076,
+      143.78234719267462,
+      149.45205396019813,
+      154.6795501671639,
+      147.3267903256252,
+      142.07989712683764,
+      145.94351429906044,
+      146.17593297523567,
+      148.05679145972695
+    ]
   },
   {
     "NAF Nr": "31262",
@@ -9105,13 +16276,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "125.92",
+    "rating": 124.04151549129092,
+    "bestRating": 150,
+    "worstRating": 124.04151549129092,
+    "tendency": -25.958484508709077,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 5,
-    "winRatio": 27.78
+    "winRatio": 27.78,
+    "_lastTenRatings": [
+      150,
+      144.0939595489524,
+      138.6356628188176,
+      132.08245378723032,
+      132.78512355687008,
+      140.03730340428697,
+      132.68570904900903,
+      124.56811329819872,
+      124.04151549129092
+    ]
   },
   {
     "NAF Nr": "31263",
@@ -9119,13 +16304,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "171.47",
+    "rating": 170.60900966201766,
+    "bestRating": 170.60900966201766,
+    "worstRating": 154.89897948556634,
+    "tendency": 15.710030176451312,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.89897948556634,
+      159.99545283761944,
+      165.87848214549456,
+      170.60900966201766
+    ]
   },
   {
     "NAF Nr": "31266",
@@ -9133,13 +16327,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "152.86",
+    "rating": 151.51585895409735,
+    "bestRating": 161.16624423646132,
+    "worstRating": 150.6771254838912,
+    "tendency": 0.8387334702061651,
     "totalTournaments": 3,
     "gamesTotal": 10,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.6771254838912,
+      155.67046703564617,
+      155.6595845548022,
+      161.16624423646132,
+      157.10469434236282,
+      153.36254073568293,
+      156.80598491055747,
+      160.64485459340983,
+      155.96008132967475,
+      151.51585895409735
+    ]
   },
   {
     "NAF Nr": "31297",
@@ -9147,13 +16356,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "145.1",
+    "rating": 144.9526691492473,
+    "bestRating": 144.9526691492473,
+    "worstRating": 144.9526691492473,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.9526691492473
+    ]
   },
   {
     "NAF Nr": "31301",
@@ -9161,13 +16376,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "150.19",
+    "rating": 150.22694432854377,
+    "bestRating": 150.22694432854377,
+    "worstRating": 150.22694432854377,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.22694432854377
+    ]
   },
   {
     "NAF Nr": "31305",
@@ -9175,13 +16396,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "146.29",
+    "rating": 150.0877241390604,
+    "bestRating": 153.6828846910252,
+    "worstRating": 150.0877241390604,
+    "tendency": -3.390399838317933,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      153.47812397737835,
+      153.6828846910252,
+      150.0877241390604
+    ]
   },
   {
     "NAF Nr": "31325",
@@ -9189,13 +16418,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "137.05",
+    "rating": 136.81078374811807,
+    "bestRating": 145.19979957720548,
+    "worstRating": 135.48687095179466,
+    "tendency": -8.389015829087413,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 31.25
+    "winRatio": 31.25,
+    "_lastTenRatings": [
+      145.19979957720548,
+      139.5680667353653,
+      139.9594823699995,
+      135.48687095179466,
+      140.78290616575026,
+      136.23255253886194,
+      136.52892149435243,
+      136.81078374811807
+    ]
   },
   {
     "NAF Nr": "31339",
@@ -9203,13 +16445,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. La Mancha",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "147.06",
+    "rating": 151.39919851095485,
+    "bestRating": 157.55495484574732,
+    "worstRating": 151.39919851095485,
+    "tendency": -3.7447367119562216,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.14393522291107,
+      152.04364973257486,
+      157.55495484574732,
+      151.39919851095485
+    ]
   },
   {
     "NAF Nr": "31366",
@@ -9217,13 +16468,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "141.78",
+    "rating": 141.74015297985628,
+    "bestRating": 146.3510390023602,
+    "worstRating": 137.87517231099818,
+    "tendency": -4.610886022503934,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      146.3510390023602,
+      142.67782290064034,
+      137.87517231099818,
+      141.44225549849358,
+      141.74015297985628
+    ]
   },
   {
     "NAF Nr": "31398",
@@ -9231,13 +16492,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "156.71",
+    "rating": 157.27090709293583,
+    "bestRating": 157.34893718346655,
+    "worstRating": 150.97617409750708,
+    "tendency": 1.61405284344346,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150.97617409750708,
+      157.34893718346655,
+      157.27090709293583
+    ]
   },
   {
     "NAF Nr": "31436",
@@ -9245,13 +16515,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Greece",
     "race": "Old World Alliance",
-    "rating": "150.51",
+    "rating": 150.53503283418863,
+    "bestRating": 155.47722557505165,
+    "worstRating": 150.53503283418863,
+    "tendency": -4.942192740863021,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.47722557505165,
+      150.53503283418863
+    ]
   },
   {
     "NAF Nr": "31444",
@@ -9259,13 +16536,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "156.0",
+    "rating": 157.16162966824044,
+    "bestRating": 157.16162966824044,
+    "worstRating": 145.38044897371245,
+    "tendency": 11.78118069452799,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      145.38044897371245,
+      151.68338147183064,
+      156.81264361585573,
+      157.16162966824044
+    ]
   },
   {
     "NAF Nr": "31467",
@@ -9273,13 +16559,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Old World Alliance",
-    "rating": "125.07",
+    "rating": 124.55929768280389,
+    "bestRating": 145.10431469600834,
+    "worstRating": 124.55929768280389,
+    "tendency": -20.545017013204458,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 5,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      145.10431469600834,
+      140.06441864566935,
+      134.9478446459819,
+      129.4564432390657,
+      124.55929768280389
+    ]
   },
   {
     "NAF Nr": "31476",
@@ -9287,13 +16583,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "155.99",
+    "rating": 155.8880747005421,
+    "bestRating": 155.8880747005421,
+    "worstRating": 145.08694548051326,
+    "tendency": 10.76199091051177,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      145.12608379003032,
+      150.7759857031095,
+      145.08694548051326,
+      150.05769236236122,
+      155.8880747005421
+    ]
   },
   {
     "NAF Nr": "31511",
@@ -9301,13 +16607,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "143.0",
+    "rating": 142.6066716732013,
+    "bestRating": 150.1162786904258,
+    "worstRating": 142.6066716732013,
+    "tendency": -7.509607017224482,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      150.1162786904258,
+      146.85330534794747,
+      142.6066716732013
+    ]
   },
   {
     "NAF Nr": "31512",
@@ -9315,13 +16629,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "149.83",
+    "rating": 150.00238720843925,
+    "bestRating": 150.00238720843925,
+    "worstRating": 144.5105711287384,
+    "tendency": 0.0023872084392451143,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      144.5105711287384,
+      150.00238720843925
+    ]
   },
   {
     "NAF Nr": "31536",
@@ -9329,13 +16651,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "150.49",
+    "rating": 150.49370087409915,
+    "bestRating": 150.51610916440782,
+    "worstRating": 144.6260616987483,
+    "tendency": 0.9631954485364247,
     "totalTournaments": 3,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      149.53050542556272,
+      150.05110283057013,
+      144.6260616987483,
+      150.51610916440782,
+      150.49370087409915
+    ]
   },
   {
     "NAF Nr": "31543",
@@ -9343,13 +16675,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "150.9",
+    "rating": 149.9430220929067,
+    "bestRating": 154.53600101088202,
+    "worstRating": 145.84314325084748,
+    "tendency": -0.0569779070933123,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      150.0143685822003,
+      154.53600101088202,
+      150.1457120374408,
+      145.84314325084748,
+      149.9430220929067
+    ]
   },
   {
     "NAF Nr": "31551",
@@ -9357,13 +16700,25 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "133.93",
+    "rating": 136.0724461351828,
+    "bestRating": 146.8453100524555,
+    "worstRating": 136.0724461351828,
+    "tendency": -10.74684846795077,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 5,
-    "winRatio": 14.29
+    "winRatio": 14.29,
+    "_lastTenRatings": [
+      146.81929460313356,
+      146.8453100524555,
+      144.9313968009681,
+      143.24862601444056,
+      143.47400596606312,
+      140.47049413268138,
+      136.0724461351828
+    ]
   },
   {
     "NAF Nr": "31616",
@@ -9371,13 +16726,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "150.09",
+    "rating": 150.24196896066064,
+    "bestRating": 150.24196896066064,
+    "worstRating": 144.34314575050763,
+    "tendency": 5.898823210153012,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150.24196896066064
+    ]
   },
   {
     "NAF Nr": "31645",
@@ -9385,13 +16747,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Ireland",
     "race": "Old World Alliance",
-    "rating": "150.54",
+    "rating": 151.2682638610012,
+    "bestRating": 156.22301638470725,
+    "worstRating": 145.39438449618822,
+    "tendency": -4.954752523706048,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      156.22301638470725,
+      150.5330166277591,
+      150.7650922320559,
+      145.39438449618822,
+      151.2682638610012
+    ]
   },
   {
     "NAF Nr": "31720",
@@ -9399,13 +16771,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "149.26",
+    "rating": 149.13508441654457,
+    "bestRating": 149.13508441654457,
+    "worstRating": 149.13508441654457,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      149.13508441654457
+    ]
   },
   {
     "NAF Nr": "31729",
@@ -9413,13 +16791,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Ladonia",
     "race": "Old World Alliance",
-    "rating": "150.87",
+    "rating": 151.11579868283957,
+    "bestRating": 151.11579868283957,
+    "worstRating": 139.52445946860468,
+    "tendency": 6.527198073598498,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.58860060924107,
+      145.2060287928005,
+      139.52445946860468,
+      139.62611953357757,
+      145.45007512803303,
+      151.11579868283957
+    ]
   },
   {
     "NAF Nr": "31768",
@@ -9427,13 +16816,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "172.1",
+    "rating": 173.42815890788324,
+    "bestRating": 173.92322310987845,
+    "worstRating": 143.23762654757795,
+    "tendency": 5.462108869626945,
     "totalTournaments": 6,
     "gamesTotal": 24,
     "gamesWon": 12,
     "gamesDraw": 5,
     "gamesLost": 7,
-    "winRatio": 60.42
+    "winRatio": 60.42,
+    "_lastTenRatings": [
+      167.9660500382563,
+      161.67904577318228,
+      155.7963860328632,
+      160.9001761858434,
+      156.19476639792344,
+      161.61004362787676,
+      168.76390693792192,
+      173.92322310987845,
+      167.70536255779703,
+      173.42815890788324
+    ]
   },
   {
     "NAF Nr": "31769",
@@ -9441,13 +16845,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "143.31",
+    "rating": 144.48944947146495,
+    "bestRating": 149.87290494043535,
+    "worstRating": 144.48944947146495,
+    "tendency": -0.847349030319009,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.33679850178396,
+      149.87290494043535,
+      144.48944947146495
+    ]
   },
   {
     "NAF Nr": "31786",
@@ -9455,27 +16867,51 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Slovenia",
     "race": "Old World Alliance",
-    "rating": "191.7",
+    "rating": 193.1477162400752,
+    "bestRating": 207.36300716545267,
+    "worstRating": 145.05532873780245,
+    "tendency": -2.0013250744099196,
     "totalTournaments": 6,
     "gamesTotal": 31,
     "gamesWon": 18,
     "gamesDraw": 8,
     "gamesLost": 5,
-    "winRatio": 70.97
+    "winRatio": 70.97,
+    "_lastTenRatings": [
+      195.14904131448512,
+      196.81479866743516,
+      198.74885703124198,
+      202.14797973658818,
+      200.32297204278746,
+      198.74865515742562,
+      192.33811400516873,
+      194.1109904323457,
+      196.87165132752213,
+      193.1477162400752
+    ]
   },
   {
     "NAF Nr": "31794",
     "NAF Name": "Droath",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.27",
+    "rating": 151.6990078337092,
+    "bestRating": 156.10654651989444,
+    "worstRating": 145.11960550701733,
+    "tendency": 6.579402326691877,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.11960550701733,
+      150.8000502867709,
+      156.10654651989444,
+      151.6990078337092
+    ]
   },
   {
     "NAF Nr": "31799",
@@ -9483,13 +16919,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "148.67",
+    "rating": 148.69115001331278,
+    "bestRating": 149.12705099666275,
+    "worstRating": 143.1726686280036,
+    "tendency": 4.348004262805148,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.34314575050763,
+      143.1726686280036,
+      149.12705099666275,
+      148.69115001331278
+    ]
   },
   {
     "NAF Nr": "31910",
@@ -9497,13 +16942,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "157.56",
+    "rating": 157.93458913638642,
+    "bestRating": 157.93458913638642,
+    "worstRating": 146.51550553159336,
+    "tendency": 6.732636971830203,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      151.20195216455622,
+      146.51550553159336,
+      152.3306083088865,
+      157.93458913638642
+    ]
   },
   {
     "NAF Nr": "31925",
@@ -9511,13 +16965,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "141.95",
+    "rating": 141.80163977666777,
+    "bestRating": 146,
+    "worstRating": 141.80163977666777,
+    "tendency": -4.19836022333223,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      146,
+      145.79491720568646,
+      141.80163977666777
+    ]
   },
   {
     "NAF Nr": "31966",
@@ -9525,13 +16987,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "140.25",
+    "rating": 139.17627869375255,
+    "bestRating": 144.34314575050763,
+    "worstRating": 139.17627869375255,
+    "tendency": -5.1668670567550805,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.34314575050763,
+      139.17627869375255
+    ]
   },
   {
     "NAF Nr": "31998",
@@ -9539,13 +17008,50 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "165.08",
+    "rating": 164.6466502194572,
+    "bestRating": 165.65036691446696,
+    "worstRating": 146.15988733549003,
+    "tendency": -0.3036704482768471,
     "totalTournaments": 4,
     "gamesTotal": 18,
     "gamesWon": 9,
     "gamesDraw": 4,
     "gamesLost": 5,
-    "winRatio": 61.11
+    "winRatio": 61.11,
+    "_lastTenRatings": [
+      164.95032066773405,
+      165.3792804564796,
+      159.32055822098718,
+      164.93808143389643,
+      164.29232751688608,
+      159.07147934278927,
+      153.43716007443706,
+      158.81384570163897,
+      165.65036691446696,
+      164.6466502194572
+    ]
+  },
+  {
+    "NAF Nr": "32021",
+    "NAF Name": "Bashto",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "race": "Old World Alliance",
+    "rating": 161.30305136213522,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.65685424949237,
+    "tendency": 5.646197112642852,
+    "totalTournaments": 1,
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      161.30305136213522
+    ]
   },
   {
     "NAF Nr": "32041",
@@ -9553,13 +17059,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "150.0",
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 150,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150
+    ]
   },
   {
     "NAF Nr": "32043",
@@ -9567,13 +17079,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "149.77",
+    "rating": 149.62596287172536,
+    "bestRating": 149.62596287172536,
+    "worstRating": 145.98000485820086,
+    "tendency": 3.6259628717253634,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146,
+      145.98000485820086,
+      149.62596287172536
+    ]
   },
   {
     "NAF Nr": "32102",
@@ -9581,13 +17101,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "150.0",
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 150,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150
+    ]
   },
   {
     "NAF Nr": "32103",
@@ -9595,13 +17121,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "154.54",
+    "rating": 154.39236106399116,
+    "bestRating": 154.39693708415447,
+    "worstRating": 150,
+    "tendency": 4.39236106399116,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 5,
     "gamesLost": 0,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      150,
+      150.14676007636973,
+      150.0900615318077,
+      150.08704845297385,
+      154.39693708415447,
+      154.39236106399116
+    ]
   },
   {
     "NAF Nr": "32175",
@@ -9609,13 +17146,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "155.5",
+    "rating": 155.47722557505165,
+    "bestRating": 155.47722557505165,
+    "worstRating": 155.47722557505165,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.47722557505165
+    ]
   },
   {
     "NAF Nr": "32188",
@@ -9623,13 +17166,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "154.91",
+    "rating": 154.82026773106492,
+    "bestRating": 159.13011406441063,
+    "worstRating": 154.44534080067555,
+    "tendency": 0.3749269303893641,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.44534080067555,
+      159.13011406441063,
+      154.82026773106492
+    ]
   },
   {
     "NAF Nr": "32222",
@@ -9637,13 +17188,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "152.32",
+    "rating": 152.01938925956205,
+    "bestRating": 155.29150262212917,
+    "worstRating": 152.01938925956205,
+    "tendency": -3.2721133625671257,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.29150262212917,
+      154.98616942208142,
+      152.01938925956205
+    ]
   },
   {
     "NAF Nr": "32226",
@@ -9651,13 +17210,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "146.42",
+    "rating": 146.38997192458956,
+    "bestRating": 146.38997192458956,
+    "worstRating": 146.3267867392967,
+    "tendency": 0.06318518529286621,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      146.3267867392967,
+      146.38997192458956
+    ]
   },
   {
     "NAF Nr": "32233",
@@ -9665,13 +17231,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "150.73",
+    "rating": 150.28190958031414,
+    "bestRating": 154.31349373513342,
+    "worstRating": 150.05029719402043,
+    "tendency": -4.031584154819285,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.31349373513342,
+      150.05029719402043,
+      150.08728607109694,
+      150.28190958031414
+    ]
   },
   {
     "NAF Nr": "32237",
@@ -9679,27 +17254,50 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "145.85",
+    "rating": 145.97052995903508,
+    "bestRating": 154.23077555241738,
+    "worstRating": 145.97052995903508,
+    "tendency": -8.260245593382308,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      154.23077555241738,
+      150.70945019653396,
+      145.97052995903508
+    ]
   },
   {
     "NAF Nr": "32299",
     "NAF Name": "mike_bowl",
-    "CCAA": "Apatrida",
+    "CCAA": "Cantabria",
     "Country": "Undisclosed",
     "race": "Old World Alliance",
-    "rating": "141.06",
+    "rating": 140.3971146093871,
+    "bestRating": 152.67846161641518,
+    "worstRating": 140.3971146093871,
+    "tendency": -10.908898362452533,
     "totalTournaments": 3,
     "gamesTotal": 12,
     "gamesWon": 2,
     "gamesDraw": 6,
     "gamesLost": 4,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      151.30601297183964,
+      152.67846161641518,
+      146.90533040543252,
+      141.1372456612048,
+      146.64942728158212,
+      146.53988267782117,
+      152.34693285676656,
+      146.83375773636166,
+      145.96808655813967,
+      140.3971146093871
+    ]
   },
   {
     "NAF Nr": "32314",
@@ -9707,13 +17305,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "155.82",
+    "rating": 155.64884039335774,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.64884039335774,
+    "tendency": -0.008013856134624575,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.64884039335774
+    ]
   },
   {
     "NAF Nr": "32367",
@@ -9721,27 +17327,44 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "138.05",
+    "rating": 137.38230791378558,
+    "bestRating": 145.82404180682923,
+    "worstRating": 137.38230791378558,
+    "tendency": -8.441733893043647,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      145.82404180682923,
+      141.61596034463986,
+      137.38230791378558
+    ]
   },
   {
     "NAF Nr": "32400",
     "NAF Name": "Musashi_Miyamoto",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.66",
+    "rating": 150.70221198158683,
+    "bestRating": 150.70221198158683,
+    "worstRating": 139.3548223217889,
+    "tendency": 6.359066231079197,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.34314575050763,
+      139.3548223217889,
+      144.98268387158183,
+      150.70221198158683
+    ]
   },
   {
     "NAF Nr": "32404",
@@ -9749,13 +17372,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "146.13",
+    "rating": 147.06642461203097,
+    "bestRating": 157.08236439420477,
+    "worstRating": 147.06642461203097,
+    "tendency": -8.649031620394084,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      155.71545623242505,
+      157.08236439420477,
+      152.68502704083454,
+      149.57930903838815,
+      150.54048242543584,
+      147.06642461203097
+    ]
   },
   {
     "NAF Nr": "32419",
@@ -9763,13 +17397,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "159.46",
+    "rating": 160.6006983514805,
+    "bestRating": 160.6006983514805,
+    "worstRating": 146.50560726652648,
+    "tendency": 14.09509108495402,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      146.50560726652648,
+      151.4412042917118,
+      155.38431175514077,
+      160.6006983514805
+    ]
   },
   {
     "NAF Nr": "32430",
@@ -9777,13 +17420,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "154.24",
+    "rating": 154.23835582452764,
+    "bestRating": 154.23835582452764,
+    "worstRating": 146,
+    "tendency": 8.238355824527645,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      146,
+      150.24530087309967,
+      154.23835582452764
+    ]
   },
   {
     "NAF Nr": "32437",
@@ -9791,13 +17442,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "149.34",
+    "rating": 149.19207790303207,
+    "bestRating": 150.01007409705315,
+    "worstRating": 145.06109140096396,
+    "tendency": -0.8179961940210774,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.01007409705315,
+      145.06109140096396,
+      149.19207790303207
+    ]
   },
   {
     "NAF Nr": "32455",
@@ -9805,13 +17464,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "150.54",
+    "rating": 151.73237938357818,
+    "bestRating": 156.43696186475435,
+    "worstRating": 148.018838540206,
+    "tendency": -3.9132990443670224,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.6456784279452,
+      156.43696186475435,
+      152.87595793889062,
+      148.08202372549886,
+      148.018838540206,
+      151.73237938357818
+    ]
   },
   {
     "NAF Nr": "32494",
@@ -9819,13 +17489,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "160.32",
+    "rating": 160.54230334897446,
+    "bestRating": 160.54230334897446,
+    "worstRating": 150.44253838623922,
+    "tendency": 5.1566471879621645,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.3856561610123,
+      150.44253838623922,
+      156.52397146003588,
+      150.85696495377584,
+      155.61814526996807,
+      160.54230334897446
+    ]
   },
   {
     "NAF Nr": "32496",
@@ -9833,13 +17514,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "154.76",
+    "rating": 154.52428075507552,
+    "bestRating": 155.73875128089176,
+    "worstRating": 150.0783412297611,
+    "tendency": -1.214470525816239,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.73875128089176,
+      150.0783412297611,
+      154.52428075507552
+    ]
   },
   {
     "NAF Nr": "32521",
@@ -9847,13 +17536,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "155.2",
+    "rating": 155.0855864646639,
+    "bestRating": 155.0855864646639,
+    "worstRating": 149.36043764654755,
+    "tendency": 5.725148818116338,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      149.36043764654755,
+      154.27878319681335,
+      155.0855864646639
+    ]
   },
   {
     "NAF Nr": "32547",
@@ -9861,13 +17558,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "136.03",
+    "rating": 135.02110211786555,
+    "bestRating": 150,
+    "worstRating": 130.99092030212623,
+    "tendency": -14.978897882134447,
     "totalTournaments": 3,
     "gamesTotal": 9,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 5,
-    "winRatio": 27.78
+    "winRatio": 27.78,
+    "_lastTenRatings": [
+      150,
+      149.99840188027017,
+      149.9984594130141,
+      145.29621370310184,
+      140.05813418593405,
+      137.38095303529158,
+      134.4709300960591,
+      130.99092030212623,
+      135.02110211786555
+    ]
   },
   {
     "NAF Nr": "32550",
@@ -9875,13 +17586,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "163.57",
+    "rating": 162.80337000778,
+    "bestRating": 162.80337000778,
+    "worstRating": 145.53909462132455,
+    "tendency": 17.264275386455438,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      145.53909462132455,
+      150.8470753667051,
+      156.0770897962552,
+      162.60677194470733,
+      162.80337000778
+    ]
   },
   {
     "NAF Nr": "32553",
@@ -9889,13 +17610,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "146.0",
+    "rating": 146.1270166537926,
+    "bestRating": 146.1270166537926,
+    "worstRating": 146.1270166537926,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146.1270166537926
+    ]
   },
   {
     "NAF Nr": "32622",
@@ -9903,13 +17630,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "146.0",
+    "rating": 145.74376334184058,
+    "bestRating": 150,
+    "worstRating": 145.74376334184058,
+    "tendency": -0.013595971040132326,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.7573593128807,
+      150,
+      145.74376334184058
+    ]
   },
   {
     "NAF Nr": "32633",
@@ -9917,13 +17652,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "169.78",
+    "rating": 170.40254442399916,
+    "bestRating": 170.40254442399916,
+    "worstRating": 151.4865056979038,
+    "tendency": 18.916038726095366,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      151.4865056979038,
+      157.8442909577445,
+      165.32716883711325,
+      164.95333976198938,
+      170.00459361106297,
+      170.40254442399916
+    ]
   },
   {
     "NAF Nr": "32650",
@@ -9931,13 +17677,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Switzerland",
     "race": "Old World Alliance",
-    "rating": "155.72",
+    "rating": 155.61170704778976,
+    "bestRating": 155.61170704778976,
+    "worstRating": 150.3733466358463,
+    "tendency": 0.6179443773387163,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.99376267045105,
+      150.3733466358463,
+      155.61170704778976
+    ]
   },
   {
     "NAF Nr": "32682",
@@ -9945,13 +17699,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "133.41",
+    "rating": 132.9720978969821,
+    "bestRating": 143.88800235325033,
+    "worstRating": 132.9720978969821,
+    "tendency": -10.915904456268237,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      143.88800235325033,
+      138.2827749137676,
+      132.9720978969821
+    ]
   },
   {
     "NAF Nr": "32688",
@@ -9959,13 +17721,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "150.67",
+    "rating": 150.7608427335379,
+    "bestRating": 155.14245832404538,
+    "worstRating": 150.7608427335379,
+    "tendency": -3.4817979535813777,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.2426406871193,
+      155.14245832404538,
+      150.7608427335379
+    ]
   },
   {
     "NAF Nr": "32747",
@@ -9973,13 +17743,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "191.97",
+    "rating": 191.97606784523515,
+    "bestRating": 192.91092573604115,
+    "worstRating": 144.5426324722757,
+    "tendency": 44.02706402857572,
     "totalTournaments": 3,
     "gamesTotal": 16,
     "gamesWon": 10,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 71.88
+    "winRatio": 71.88,
+    "_lastTenRatings": [
+      147.94900381665943,
+      154.91252571653672,
+      160.09602576602157,
+      167.67204947830632,
+      174.9659447672563,
+      179.30369096799055,
+      183.86819495975044,
+      188.45440021468912,
+      192.91092573604115,
+      191.97606784523515
+    ]
   },
   {
     "NAF Nr": "32782",
@@ -9987,13 +17772,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "148.73",
+    "rating": 150.82122114957562,
+    "bestRating": 160.8232409783579,
+    "worstRating": 137.3586915061388,
+    "tendency": -2.8964061435195845,
     "totalTournaments": 3,
     "gamesTotal": 15,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 7,
-    "winRatio": 46.67
+    "winRatio": 46.67,
+    "_lastTenRatings": [
+      153.7176272930952,
+      146.1450053573559,
+      141.26862373065367,
+      142.44690150586118,
+      148.43132900615916,
+      154.40157960161002,
+      160.44599167384925,
+      160.8232409783579,
+      156.08210868260892,
+      150.82122114957562
+    ]
   },
   {
     "NAF Nr": "32789",
@@ -10001,13 +17801,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "140.82",
+    "rating": 140.5504753963345,
+    "bestRating": 150.32237485650197,
+    "worstRating": 140.5504753963345,
+    "tendency": -9.771899460167475,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      150.32237485650197,
+      146.3135655323752,
+      140.5504753963345
+    ]
   },
   {
     "NAF Nr": "32797",
@@ -10015,13 +17823,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "134.86",
+    "rating": 135.73321449087368,
+    "bestRating": 156.25490942487554,
+    "worstRating": 128.26612071760118,
+    "tendency": -14.886471898430017,
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 2,
     "gamesDraw": 6,
     "gamesLost": 6,
-    "winRatio": 35.71
+    "winRatio": 35.71,
+    "_lastTenRatings": [
+      150.6196863893037,
+      147.6476637285252,
+      142.77208916190307,
+      136.83034143545876,
+      131.53946746713083,
+      132.40347323100212,
+      133.1628668433367,
+      128.26612071760118,
+      128.8993911313507,
+      135.73321449087368
+    ]
   },
   {
     "NAF Nr": "32857",
@@ -10029,13 +17852,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "139.18",
+    "rating": 139.58969430466064,
+    "bestRating": 145.12213226925687,
+    "worstRating": 139.1786748786845,
+    "tendency": -5.479801042480375,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      145.06949534714101,
+      145.12213226925687,
+      139.1786748786845,
+      139.58969430466064
+    ]
   },
   {
     "NAF Nr": "32951",
@@ -10043,13 +17875,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "162.28",
+    "rating": 163.3622750883489,
+    "bestRating": 163.44336326787186,
+    "worstRating": 155.65685424949237,
+    "tendency": 7.705420838856526,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.34051310824339,
+      163.44336326787186,
+      163.3622750883489
+    ]
   },
   {
     "NAF Nr": "32990",
@@ -10057,13 +17898,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "146.11",
+    "rating": 145.43107855097708,
+    "bestRating": 150.0492173635486,
+    "worstRating": 144.34314575050763,
+    "tendency": 1.0879328004694457,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150.0492173635486,
+      145.43107855097708
+    ]
   },
   {
     "NAF Nr": "32997",
@@ -10071,13 +17920,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "149.13",
+    "rating": 149.272925194141,
+    "bestRating": 149.272925194141,
+    "worstRating": 143.69573139970794,
+    "tendency": 3.7052954180002473,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.56762977614076,
+      143.69573139970794,
+      143.72384057931757,
+      149.272925194141
+    ]
   },
   {
     "NAF Nr": "33014",
@@ -10085,13 +17943,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "149.72",
+    "rating": 148.59993848822836,
+    "bestRating": 154.6671570556583,
+    "worstRating": 148.59993848822836,
+    "tendency": -5.926491483212658,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.52642997144102,
+      154.6671570556583,
+      148.59993848822836
+    ]
   },
   {
     "NAF Nr": "33059",
@@ -10099,13 +17965,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "148.27",
+    "rating": 148.42251052715102,
+    "bestRating": 155.65685424949237,
+    "worstRating": 142.80757230829278,
+    "tendency": -7.23434372234135,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      155.65685424949237,
+      153.03700583181836,
+      148.33950919824667,
+      142.80757230829278,
+      148.42251052715102
+    ]
   },
   {
     "NAF Nr": "33062",
@@ -10113,13 +17989,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "145.0",
+    "rating": 145.48304097344598,
+    "bestRating": 154.89897948556634,
+    "worstRating": 140.41480014721873,
+    "tendency": -9.415938512120363,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      154.89897948556634,
+      150.0220227057437,
+      144.9311834066442,
+      140.41480014721873,
+      145.48304097344598
+    ]
   },
   {
     "NAF Nr": "33239",
@@ -10127,13 +18013,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "158.39",
+    "rating": 158.52814248765543,
+    "bestRating": 158.52814248765543,
+    "worstRating": 135.36017606970398,
+    "tendency": 8.518503050821977,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      150.00963943683345,
+      142.62593003921597,
+      135.36017606970398,
+      142.86749483351386,
+      150.74197216766652,
+      158.52814248765543
+    ]
   },
   {
     "NAF Nr": "33276",
@@ -10141,13 +18038,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "153.92",
+    "rating": 154.53360896252653,
+    "bestRating": 154.53360896252653,
+    "worstRating": 141.7671836807976,
+    "tendency": 9.128062564568381,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.40554639795815,
+      141.7671836807976,
+      147.3912214975695,
+      147.86292913845912,
+      147.95570807709777,
+      153.70131403014113,
+      148.1489967344249,
+      154.53360896252653
+    ]
   },
   {
     "NAF Nr": "33315",
@@ -10155,13 +18065,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "146.74",
+    "rating": 146.78228378011812,
+    "bestRating": 148,
+    "worstRating": 146.78228378011812,
+    "tendency": -1.2177162198818792,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      148,
+      146.78228378011812
+    ]
   },
   {
     "NAF Nr": "33333",
@@ -10169,13 +18086,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Old World Alliance",
-    "rating": "136.15",
+    "rating": 136.2534264958634,
+    "bestRating": 145.52786404500043,
+    "worstRating": 131.49028239275648,
+    "tendency": -9.27443754913702,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatings": [
+      145.52786404500043,
+      140.96231084580342,
+      136.64719162970997,
+      131.49028239275648,
+      136.2534264958634
+    ]
   },
   {
     "NAF Nr": "33338",
@@ -10183,13 +18110,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "128.0",
+    "rating": 127.13518811374999,
+    "bestRating": 142.27484428057642,
+    "worstRating": 127.13518811374999,
+    "tendency": -15.11884519383517,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.53019306044774,
+      142.27484428057642,
+      134.52764032397815,
+      127.24102901806258,
+      127.13518811374999
+    ]
   },
   {
     "NAF Nr": "33408",
@@ -10197,13 +18135,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "161.06",
+    "rating": 161.3228414096544,
+    "bestRating": 161.32325594007764,
+    "worstRating": 155.6576941442863,
+    "tendency": 5.665147265368091,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      155.6576941442863,
+      161.32325594007764,
+      161.3228414096544
+    ]
   },
   {
     "NAF Nr": "33410",
@@ -10211,13 +18157,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "128.2",
+    "rating": 127.87945058641515,
+    "bestRating": 144.46478521224304,
+    "worstRating": 127.79591405623853,
+    "tendency": -16.463695164092485,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.46478521224304,
+      138.80423699535723,
+      133.21158626077315,
+      127.79591405623853,
+      127.87945058641515
+    ]
   },
   {
     "NAF Nr": "33469",
@@ -10225,13 +18182,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "162.46",
+    "rating": 161.24089363509617,
+    "bestRating": 169.18448863424172,
+    "worstRating": 146,
+    "tendency": 6.6336570930253345,
     "totalTournaments": 3,
     "gamesTotal": 13,
     "gamesWon": 7,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 61.54
+    "winRatio": 61.54,
+    "_lastTenRatings": [
+      154.60723654207084,
+      158.60226804768305,
+      163.88617113495704,
+      169.18448863424172,
+      163.6392422541675,
+      157.50355547292344,
+      163.00616609656495,
+      156.93101427055686,
+      162.10911657970388,
+      161.24089363509617
+    ]
   },
   {
     "NAF Nr": "33486",
@@ -10239,13 +18211,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "144.4",
+    "rating": 143.73509374770617,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.1271744937075,
+    "tendency": -0.6080520028014575,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.1271744937075,
+      143.73509374770617
+    ]
   },
   {
     "NAF Nr": "33514",
@@ -10253,13 +18233,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "156.93",
+    "rating": 159.6816453423297,
+    "bestRating": 162.22411323320404,
+    "worstRating": 149.37688580915983,
+    "tendency": 2.8573241698482548,
     "totalTournaments": 3,
     "gamesTotal": 15,
     "gamesWon": 7,
     "gamesDraw": 3,
     "gamesLost": 5,
-    "winRatio": 56.67
+    "winRatio": 56.67,
+    "_lastTenRatings": [
+      156.82432117248143,
+      161.25003118855886,
+      157.28289312210595,
+      162.22411323320404,
+      156.03806480957854,
+      149.89820697748448,
+      149.37688580915983,
+      149.5308877636398,
+      154.48276379802152,
+      159.6816453423297
+    ]
   },
   {
     "NAF Nr": "33530",
@@ -10267,13 +18262,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "149.77",
+    "rating": 149.75454514126653,
+    "bestRating": 155.65685424949237,
+    "worstRating": 149.75454514126653,
+    "tendency": -5.902309108225836,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      149.75454514126653
+    ]
   },
   {
     "NAF Nr": "33614",
@@ -10281,13 +18284,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Old World Alliance",
-    "rating": "143.85",
+    "rating": 143.51899198559823,
+    "bestRating": 146.83772233983163,
+    "worstRating": 143.51899198559823,
+    "tendency": -3.318730354233395,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      146.83772233983163,
+      146.83772233983163,
+      143.51899198559823
+    ]
   },
   {
     "NAF Nr": "33619",
@@ -10295,13 +18306,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "150.18",
+    "rating": 150.23625939393685,
+    "bestRating": 154.19594486226367,
+    "worstRating": 150.23625939393685,
+    "tendency": -3.9596854683268248,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.19594486226367,
+      154.08367699373204,
+      150.23625939393685
+    ]
   },
   {
     "NAF Nr": "33664",
@@ -10309,13 +18328,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "149.81",
+    "rating": 149.80054444753804,
+    "bestRating": 149.80054444753804,
+    "worstRating": 149.80054444753804,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      149.80054444753804
+    ]
   },
   {
     "NAF Nr": "33692",
@@ -10323,13 +18348,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Uruguay",
     "race": "Old World Alliance",
-    "rating": "147.23",
+    "rating": 147.23047949474088,
+    "bestRating": 153,
+    "worstRating": 147.23047949474088,
+    "tendency": -5.769520505259123,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      153,
+      150,
+      147.23047949474088
+    ]
   },
   {
     "NAF Nr": "33709",
@@ -10337,13 +18370,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "139.0",
+    "rating": 138.52111822844276,
+    "bestRating": 151.21510492815793,
+    "worstRating": 138.52111822844276,
+    "tendency": -3.7329150791424013,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      142.25403330758516,
+      150,
+      142.25403330758516,
+      151.21510492815793,
+      146.20566113873267,
+      138.52111822844276
+    ]
   },
   {
     "NAF Nr": "33710",
@@ -10351,13 +18395,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "168.19",
+    "rating": 169.1475909906206,
+    "bestRating": 169.1475909906206,
+    "worstRating": 150.20347495035907,
+    "tendency": 18.944116040261548,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 80
+    "winRatio": 80,
+    "_lastTenRatings": [
+      150.20347495035907,
+      155.79664511992974,
+      156.0261738873339,
+      161.59531865127116,
+      169.1475909906206
+    ]
   },
   {
     "NAF Nr": "33726",
@@ -10365,13 +18419,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "195.74",
+    "rating": 195.57185064812043,
+    "bestRating": 206.73478107016265,
+    "worstRating": 151.0177085734988,
+    "tendency": -2.0664704766954856,
     "totalTournaments": 9,
     "gamesTotal": 41,
     "gamesWon": 22,
     "gamesDraw": 14,
     "gamesLost": 5,
-    "winRatio": 70.73
+    "winRatio": 70.73,
+    "_lastTenRatings": [
+      197.63832112481592,
+      200.77918255211415,
+      198.20731897460544,
+      200.72108034927845,
+      204.75567829710377,
+      197.06254608421293,
+      200.78360315376915,
+      193.27783727255505,
+      191.51373447135342,
+      195.57185064812043
+    ]
   },
   {
     "NAF Nr": "33751",
@@ -10379,13 +18448,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "201.08",
+    "rating": 202.93190842063305,
+    "bestRating": 202.93190842063305,
+    "worstRating": 142.25403330758516,
+    "tendency": 12.135350023316619,
     "totalTournaments": 7,
     "gamesTotal": 27,
     "gamesWon": 17,
     "gamesDraw": 7,
     "gamesLost": 3,
-    "winRatio": 75.93
+    "winRatio": 75.93,
+    "_lastTenRatings": [
+      190.79655839731643,
+      189.6374871231123,
+      191.3265268414429,
+      190.89612565415015,
+      193.44483643293017,
+      196.72421338550822,
+      195.82872300099123,
+      200.4679391473682,
+      198.91783504045551,
+      202.93190842063305
+    ]
   },
   {
     "NAF Nr": "33784",
@@ -10393,13 +18477,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "138.53",
+    "rating": 137.2571896727791,
+    "bestRating": 144.34314575050763,
+    "worstRating": 137.2571896727791,
+    "tendency": -7.085956077728525,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      144.34314575050763,
+      137.63468172532345,
+      137.2571896727791
+    ]
   },
   {
     "NAF Nr": "33831",
@@ -10407,13 +18499,25 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "151.98",
-    "totalTournaments": 1,
-    "gamesTotal": 4,
-    "gamesWon": 2,
+    "rating": 148.74988794911508,
+    "bestRating": 156.55608455061952,
+    "worstRating": 146.3340163246438,
+    "tendency": 2.0549243547453955,
+    "totalTournaments": 2,
+    "gamesTotal": 7,
+    "gamesWon": 3,
     "gamesDraw": 0,
-    "gamesLost": 2,
-    "winRatio": 50
+    "gamesLost": 4,
+    "winRatio": 42.86,
+    "_lastTenRatings": [
+      146.69496359436968,
+      152.249717797665,
+      146.3340163246438,
+      152.24737566354347,
+      156.55608455061952,
+      153.9030166075516,
+      148.74988794911508
+    ]
   },
   {
     "NAF Nr": "33858",
@@ -10421,13 +18525,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "165.98",
+    "rating": 171.95706710627857,
+    "bestRating": 171.95706710627857,
+    "worstRating": 135.04098770595004,
+    "tendency": 16.727758363849205,
     "totalTournaments": 4,
     "gamesTotal": 19,
     "gamesWon": 8,
     "gamesDraw": 7,
     "gamesLost": 4,
-    "winRatio": 60.53
+    "winRatio": 60.53,
+    "_lastTenRatings": [
+      155.22930874242937,
+      157.58244318718226,
+      163.01101524871035,
+      164.06659936619744,
+      159.2167844741388,
+      163.67946852175132,
+      163.918030520897,
+      163.37539116711113,
+      167.52450513294826,
+      171.95706710627857
+    ]
   },
   {
     "NAF Nr": "33875",
@@ -10435,13 +18554,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "151.02",
+    "rating": 150.90604796843286,
+    "bestRating": 155.89898663751902,
+    "worstRating": 150.0972865744297,
+    "tendency": -4.750806281059511,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.89898663751902,
+      150.0972865744297,
+      150.90604796843286
+    ]
   },
   {
     "NAF Nr": "33878",
@@ -10449,13 +18577,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "144.5",
+    "rating": 144.34314575050763,
+    "bestRating": 144.34314575050763,
+    "worstRating": 144.34314575050763,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.34314575050763
+    ]
   },
   {
     "NAF Nr": "33884",
@@ -10463,13 +18597,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "159.85",
+    "rating": 160.61289638889403,
+    "bestRating": 164.5788898067023,
+    "worstRating": 151.00326037107013,
+    "tendency": 5.04513202606401,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      155.56776436283002,
+      151.00326037107013,
+      156.56189046147466,
+      151.20100041278198,
+      157.0173243367788,
+      160.80209259927008,
+      164.5788898067023,
+      160.61289638889403
+    ]
   },
   {
     "NAF Nr": "33903",
@@ -10477,13 +18624,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "140.31",
+    "rating": 139.6276900477882,
+    "bestRating": 155.90820225101558,
+    "worstRating": 139.6276900477882,
+    "tendency": -16.280512203227374,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      155.90820225101558,
+      149.45950178071453,
+      154.85582615043103,
+      154.67174373096148,
+      151.1386663858282,
+      150.8184178790763,
+      145.12603006147972,
+      139.6276900477882
+    ]
   },
   {
     "NAF Nr": "33906",
@@ -10491,13 +18651,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "145.19",
+    "rating": 145.04376150807212,
+    "bestRating": 150.7148538152451,
+    "worstRating": 145.04376150807212,
+    "tendency": -5.671092307172984,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      150.7148538152451,
+      145.04376150807212
+    ]
   },
   {
     "NAF Nr": "33908",
@@ -10505,13 +18672,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "164.02",
+    "rating": 164.3022672208216,
+    "bestRating": 164.3022672208216,
+    "worstRating": 153.46410161513776,
+    "tendency": 10.838165605683827,
     "totalTournaments": 2,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      153.46410161513776,
+      158.78103242488334,
+      164.3022672208216
+    ]
   },
   {
     "NAF Nr": "33925",
@@ -10519,13 +18694,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Old World Alliance",
-    "rating": "155.5",
+    "rating": 155.66297878638417,
+    "bestRating": 158.07898151171304,
+    "worstRating": 154.0654735853302,
+    "tendency": 1.5975052010539628,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      154.0654735853302,
+      158.07898151171304,
+      155.72170748851403,
+      155.66297878638417
+    ]
   },
   {
     "NAF Nr": "33948",
@@ -10533,13 +18717,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "155.5",
+    "rating": 155.47722557505165,
+    "bestRating": 155.47722557505165,
+    "worstRating": 155.47722557505165,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.47722557505165
+    ]
   },
   {
     "NAF Nr": "33985",
@@ -10547,13 +18737,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "192.5",
+    "rating": 193.41322017626544,
+    "bestRating": 193.41322017626544,
+    "worstRating": 155.9977982197022,
+    "tendency": 25.860706171486925,
     "totalTournaments": 4,
     "gamesTotal": 12,
     "gamesWon": 9,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatings": [
+      167.55251400477852,
+      166.79499698442126,
+      172.11924296835852,
+      177.04883852455362,
+      177.87673161725914,
+      181.26785834709096,
+      180.14593913409902,
+      184.51678594726252,
+      188.9453402140159,
+      193.41322017626544
+    ]
   },
   {
     "NAF Nr": "34015",
@@ -10561,13 +18766,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "144.0",
+    "rating": 143.82160935393972,
+    "bestRating": 148.19688839152784,
+    "worstRating": 143.74523475165202,
+    "tendency": -3.7307541373849347,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      147.55236349132466,
+      148.19688839152784,
+      143.74523475165202,
+      143.82160935393972
+    ]
   },
   {
     "NAF Nr": "34040",
@@ -10575,13 +18789,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Murcia",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "151.46",
+    "rating": 151.4121342451489,
+    "bestRating": 157.17347480120134,
+    "worstRating": 145.80106205336418,
+    "tendency": -5.761340556052431,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      157.17347480120134,
+      151.54217951795084,
+      145.80106205336418,
+      151.4121342451489
+    ]
   },
   {
     "NAF Nr": "34095",
@@ -10589,13 +18812,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Switzerland",
     "race": "Old World Alliance",
-    "rating": "157.62",
+    "rating": 158.92452623675015,
+    "bestRating": 182.4167161416398,
+    "worstRating": 150,
+    "tendency": -16.85679833686777,
     "totalTournaments": 6,
     "gamesTotal": 22,
     "gamesWon": 12,
     "gamesDraw": 2,
     "gamesLost": 8,
-    "winRatio": 59.09
+    "winRatio": 59.09,
+    "_lastTenRatings": [
+      175.78132457361792,
+      182.4167161416398,
+      175.11023513166336,
+      168.4118270232016,
+      167.38408409031416,
+      173.15487166860387,
+      166.43614663537193,
+      160.7968244620278,
+      154.1137589672373,
+      158.92452623675015
+    ]
   },
   {
     "NAF Nr": "34133",
@@ -10603,13 +18841,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "157.01",
-    "totalTournaments": 3,
-    "gamesTotal": 12,
-    "gamesWon": 5,
+    "rating": 151.4590642163799,
+    "bestRating": 157.40292382343978,
+    "worstRating": 144.0508413771725,
+    "tendency": 1.7093214368519796,
+    "totalTournaments": 4,
+    "gamesTotal": 15,
+    "gamesWon": 6,
     "gamesDraw": 3,
-    "gamesLost": 4,
-    "winRatio": 54.17
+    "gamesLost": 6,
+    "winRatio": 50,
+    "_lastTenRatings": [
+      149.7497427795279,
+      144.0508413771725,
+      144.76694622149336,
+      149.89125369492956,
+      151.49100635612186,
+      157.40292382343978,
+      156.82192152678297,
+      151.77961947521203,
+      146.6144167431555,
+      151.4590642163799
+    ]
   },
   {
     "NAF Nr": "34135",
@@ -10617,13 +18870,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "147.14",
+    "rating": 147.14830129946893,
+    "bestRating": 150.37401377596365,
+    "worstRating": 146.73965249245384,
+    "tendency": -2.9740497870921843,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      150.1223510865611,
+      146.73965249245384,
+      150.37401377596365,
+      147.14830129946893
+    ]
   },
   {
     "NAF Nr": "34146",
@@ -10631,13 +18893,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Old World Alliance",
-    "rating": "155.11",
+    "rating": 155.2195166569155,
+    "bestRating": 155.2195166569155,
+    "worstRating": 139.61587084878028,
+    "tendency": 10.318536170508281,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      144.9009804864072,
+      139.61587084878028,
+      144.73244484846774,
+      150.31779697260478,
+      155.2195166569155
+    ]
   },
   {
     "NAF Nr": "34179",
@@ -10645,13 +18917,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "156.08",
+    "rating": 155.95513314259512,
+    "bestRating": 157.7352263313732,
+    "worstRating": 153.9529682843357,
+    "tendency": 2.0021648582594196,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.9529682843357,
+      157.7352263313732,
+      155.95513314259512
+    ]
   },
   {
     "NAF Nr": "34380",
@@ -10659,13 +18939,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "118.28",
+    "rating": 119.90852222176164,
+    "bestRating": 144.34314575050763,
+    "worstRating": 118.13700297329214,
+    "tendency": -24.434623528745988,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 7,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.7698548435282,
+      132.20655494610565,
+      126.56355754361684,
+      122.89500077820605,
+      118.13700297329214,
+      124.7310282521058,
+      119.90852222176164
+    ]
   },
   {
     "NAF Nr": "34397",
@@ -10673,13 +18966,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Asturias",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "115.52",
+    "rating": 116.38666206712462,
+    "bestRating": 143.08126147335244,
+    "worstRating": 110.9215660296139,
+    "tendency": -20.195094881615105,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 8,
-    "winRatio": 29.17
+    "winRatio": 29.17,
+    "_lastTenRatings": [
+      136.58175694873972,
+      129.05430039342147,
+      120.69496093701875,
+      112.85149422990229,
+      121.37520077258013,
+      128.40205923314235,
+      119.82826705953994,
+      114.44687946037394,
+      110.9215660296139,
+      116.38666206712462
+    ]
   },
   {
     "NAF Nr": "34414",
@@ -10687,13 +18995,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "140.65",
+    "rating": 141.38841270720994,
+    "bestRating": 154.63757395785802,
+    "worstRating": 141.38841270720994,
+    "tendency": -13.249161250648086,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      154.63757395785802,
+      149.83933823954575,
+      147.55407594176256,
+      142.41536891126862,
+      141.38841270720994
+    ]
   },
   {
     "NAF Nr": "34500",
@@ -10701,13 +19019,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "153.71",
+    "rating": 153.89233371117638,
+    "bestRating": 153.89233371117638,
+    "worstRating": 144.9259259791933,
+    "tendency": 8.966407731983082,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      144.9259259791933,
+      149.68460775619928,
+      153.89233371117638
+    ]
   },
   {
     "NAF Nr": "34525",
@@ -10715,13 +19041,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Ireland",
     "race": "Old World Alliance",
-    "rating": "151.91",
+    "rating": 151.3936684785021,
+    "bestRating": 151.3936684785021,
+    "worstRating": 151.3936684785021,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      151.3936684785021
+    ]
   },
   {
     "NAF Nr": "34619",
@@ -10729,13 +19061,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "154.37",
+    "rating": 154.81226761985764,
+    "bestRating": 154.81226761985764,
+    "worstRating": 150.57852616106607,
+    "tendency": 0.4061766565105529,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.40609096334708,
+      150.57852616106607,
+      154.81226761985764
+    ]
   },
   {
     "NAF Nr": "34620",
@@ -10743,27 +19083,56 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "173.5",
+    "rating": 174.71693412486002,
+    "bestRating": 174.71693412486002,
+    "worstRating": 150.27590433608927,
+    "tendency": 19.06007987536765,
     "totalTournaments": 3,
     "gamesTotal": 9,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 77.78
+    "winRatio": 77.78,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150.27590433608927,
+      150.50697245987087,
+      156.1418151100196,
+      157.56215518726523,
+      163.10280177518484,
+      167.1936667740028,
+      171.0212315762838,
+      174.71693412486002
+    ]
   },
   {
     "NAF Nr": "34882",
     "NAF Name": "Soldurius",
-    "CCAA": "Apatrida",
+    "CCAA": "Cantabria ",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "166.76",
+    "rating": 167.00769074292756,
+    "bestRating": 175.0808262473717,
+    "worstRating": 154.21120049333223,
+    "tendency": 1.763499829144024,
     "totalTournaments": 8,
     "gamesTotal": 30,
     "gamesWon": 12,
     "gamesDraw": 11,
     "gamesLost": 7,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      165.24419091378354,
+      164.8456404379223,
+      166.34704010415066,
+      165.6409860363063,
+      170.62090885627507,
+      170.03471402812335,
+      175.0808262473717,
+      168.68819811187765,
+      162.21436972568182,
+      167.00769074292756
+    ]
   },
   {
     "NAF Nr": "34963",
@@ -10771,13 +19140,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "157.85",
+    "rating": 158.3098582285569,
+    "bestRating": 158.3098582285569,
+    "worstRating": 154.06596147333204,
+    "tendency": 4.212820300239429,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      154.09703792831746,
+      154.06596147333204,
+      158.3098582285569
+    ]
   },
   {
     "NAF Nr": "34972",
@@ -10785,13 +19162,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "145.46",
+    "rating": 145.9687967501466,
+    "bestRating": 145.97970726716784,
+    "worstRating": 141.2897465225781,
+    "tendency": -0.010910517021244459,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.97970726716784,
+      141.2897465225781,
+      145.9687967501466
+    ]
   },
   {
     "NAF Nr": "35025",
@@ -10799,13 +19184,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Old World Alliance",
-    "rating": "128.51",
+    "rating": 129.32126410372126,
+    "bestRating": 150.12494091392446,
+    "worstRating": 129.32126410372126,
+    "tendency": -15.021881646786369,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150.10962002817533,
+      144.4489521109941,
+      150.12494091392446,
+      143.89978022203988,
+      139.35438931671487,
+      134.52914985266912,
+      129.32126410372126
+    ]
   },
   {
     "NAF Nr": "35035",
@@ -10813,13 +19211,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "131.3",
+    "rating": 132.0901474169561,
+    "bestRating": 148.9931055458714,
+    "worstRating": 132.0901474169561,
+    "tendency": -16.902958128915287,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatings": [
+      148.9931055458714,
+      143.6275510288399,
+      137.6338368431149,
+      132.0901474169561
+    ]
   },
   {
     "NAF Nr": "35135",
@@ -10827,13 +19234,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "141.43",
+    "rating": 141.9872612650206,
+    "bestRating": 146.75028192504763,
+    "worstRating": 141.9872612650206,
+    "tendency": -4.763020660027024,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146.75028192504763,
+      141.9872612650206
+    ]
   },
   {
     "NAF Nr": "35162",
@@ -10841,13 +19255,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "151.24",
+    "rating": 150.89308580621378,
+    "bestRating": 154.96733562829147,
+    "worstRating": 150,
+    "tendency": -4.0058936793525675,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.89897948556634,
+      150,
+      154.96733562829147,
+      151.0830939761473,
+      154.74047886909943,
+      150.89308580621378
+    ]
   },
   {
     "NAF Nr": "35189",
@@ -10855,13 +19280,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Hungary",
     "race": "Old World Alliance",
-    "rating": "157.63",
+    "rating": 156.88570250663085,
+    "bestRating": 161.45362993305224,
+    "worstRating": 155.80312652482172,
+    "tendency": 1.0825759818091285,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.80312652482172,
+      161.45362993305224,
+      156.88570250663085
+    ]
   },
   {
     "NAF Nr": "35202",
@@ -10869,13 +19302,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "114.88",
+    "rating": 113.33377245331438,
+    "bestRating": 150,
+    "worstRating": 103.20415946915844,
+    "tendency": -36.66622754668562,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      150,
+      150,
+      141.18442589891328,
+      133.47926189862812,
+      125.1369264805173,
+      118.4743375857368,
+      110.89799034426159,
+      103.20415946915844,
+      111.71787740966374,
+      113.33377245331438
+    ]
   },
   {
     "NAF Nr": "35216",
@@ -10883,13 +19331,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "146.72",
+    "rating": 146.55970270132005,
+    "bestRating": 146.55970270132005,
+    "worstRating": 142.97852762635807,
+    "tendency": 0.3013600880939862,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.25834261322606,
+      142.97852762635807,
+      146.55970270132005
+    ]
   },
   {
     "NAF Nr": "35300",
@@ -10897,13 +19353,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "147.24",
+    "rating": 147.2758958334806,
+    "bestRating": 154.32925601463901,
+    "worstRating": 147.2758958334806,
+    "tendency": -7.053360181158411,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      154.32925601463901,
+      150.87729104622906,
+      147.2758958334806
+    ]
   },
   {
     "NAF Nr": "35498",
@@ -10911,13 +19375,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "149.27",
+    "rating": 149.5619121529657,
+    "bestRating": 154.02889001426198,
+    "worstRating": 149.5619121529657,
+    "tendency": -4.043639122498291,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      153.605551275464,
+      149.9917459721324,
+      150.074041041754,
+      150.07184007978978,
+      154.02889001426198,
+      149.5619121529657
+    ]
   },
   {
     "NAF Nr": "35506",
@@ -10925,13 +19400,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "165.38",
+    "rating": 164.0559601878499,
+    "bestRating": 165.7556061446246,
+    "worstRating": 141.95020846633716,
+    "tendency": 21.801926880264745,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 61.11
+    "winRatio": 61.11,
+    "_lastTenRatings": [
+      142.25403330758516,
+      141.95020846633716,
+      149.71046663789457,
+      157.44950478632714,
+      157.81654275852304,
+      165.7556061446246,
+      161.42371276908742,
+      164.8282444980295,
+      164.0559601878499
+    ]
   },
   {
     "NAF Nr": "35543",
@@ -10939,13 +19428,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Austria",
     "race": "Old World Alliance",
-    "rating": "140.05",
+    "rating": 142.10225567003314,
+    "bestRating": 144.34314575050763,
+    "worstRating": 120.25160487997572,
+    "tendency": 14.78671853632963,
     "totalTournaments": 5,
     "gamesTotal": 18,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 10,
-    "winRatio": 38.89
+    "winRatio": 38.89,
+    "_lastTenRatings": [
+      127.31553713370351,
+      123.74378863052743,
+      120.7205868752554,
+      125.87270626170893,
+      130.68843771527804,
+      135.67807161229626,
+      132.18590220301294,
+      136.72943240124033,
+      141.2798622258524,
+      142.10225567003314
+    ]
   },
   {
     "NAF Nr": "35590",
@@ -10953,13 +19457,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "146.73",
+    "rating": 143.06622664123194,
+    "bestRating": 160.0413104702982,
+    "worstRating": 141.96454350055245,
+    "tendency": 0.5454852146517339,
     "totalTournaments": 4,
     "gamesTotal": 20,
     "gamesWon": 6,
     "gamesDraw": 7,
     "gamesLost": 7,
-    "winRatio": 47.5
+    "winRatio": 47.5,
+    "_lastTenRatings": [
+      142.5207414265802,
+      147.4062595913311,
+      147.53985686924358,
+      141.96454350055245,
+      147.295122941019,
+      147.41254631778915,
+      147.5129219190007,
+      147.66337118856313,
+      148.12033257613194,
+      143.06622664123194
+    ]
   },
   {
     "NAF Nr": "35649",
@@ -10967,13 +19486,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Czech Republic",
     "race": "Old World Alliance",
-    "rating": "151.23",
+    "rating": 151.47037847966848,
+    "bestRating": 151.47037847966848,
+    "worstRating": 145.7863451980024,
+    "tendency": 5.684033281666075,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.7863451980024,
+      150.95162811091717,
+      151.47037847966848
+    ]
   },
   {
     "NAF Nr": "35783",
@@ -10981,13 +19508,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "145.39",
+    "rating": 145.58697018608078,
+    "bestRating": 145.58697018608078,
+    "worstRating": 138.03771385747234,
+    "tendency": 1.8976120679374446,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      143.68935811814333,
+      138.03771385747234,
+      143.76905435386524,
+      139.1562705179387,
+      139.2126843374796,
+      145.58697018608078
+    ]
   },
   {
     "NAF Nr": "35817",
@@ -10995,13 +19533,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Castilla y León",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "161.3",
+    "rating": 161.41644662177785,
+    "bestRating": 161.41644662177785,
+    "worstRating": 150.09800614539938,
+    "tendency": 5.759592372285482,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150.09800614539938,
+      155.74929221685645,
+      161.41644662177785
+    ]
   },
   {
     "NAF Nr": "35823",
@@ -11009,13 +19556,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "150.2",
+    "rating": 150.1113117821952,
+    "bestRating": 154.2426406871193,
+    "worstRating": 149.859214713618,
+    "tendency": -4.131328904924089,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.2426406871193,
+      149.859214713618,
+      150.1113117821952
+    ]
   },
   {
     "NAF Nr": "35833",
@@ -11023,13 +19578,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "123.58",
-    "totalTournaments": 2,
-    "gamesTotal": 6,
-    "gamesWon": 0,
+    "rating": 112.90526294373868,
+    "bestRating": 144.34314575050763,
+    "worstRating": 112.90526294373868,
+    "tendency": -25.781028557276585,
+    "totalTournaments": 3,
+    "gamesTotal": 11,
+    "gamesWon": 1,
     "gamesDraw": 1,
-    "gamesLost": 5,
-    "winRatio": 8.33
+    "gamesLost": 9,
+    "winRatio": 13.64,
+    "_lastTenRatings": [
+      138.68629150101526,
+      133.51942444426018,
+      133.2095495420742,
+      128.11301213269155,
+      122.91143526735443,
+      119.37867657112807,
+      114.80426398632258,
+      121.53325578749818,
+      117.32026137139634,
+      112.90526294373868
+    ]
   },
   {
     "NAF Nr": "35879",
@@ -11037,13 +19607,19 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "144.5",
+    "rating": 144.34314575050763,
+    "bestRating": 144.34314575050763,
+    "worstRating": 144.34314575050763,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.34314575050763
+    ]
   },
   {
     "NAF Nr": "35907",
@@ -11051,13 +19627,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "139.92",
+    "rating": 139.9511978899507,
+    "bestRating": 149.99536005879125,
+    "worstRating": 133.7095660641686,
+    "tendency": -4.3919478605569395,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      144.34314575050763,
+      149.99536005879125,
+      143.7639228402897,
+      138.37761977198548,
+      138.88090555702954,
+      133.7095660641686,
+      134.46209553266436,
+      139.9511978899507
+    ]
   },
   {
     "NAF Nr": "36026",
@@ -11065,13 +19654,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "136.3",
+    "rating": 136.35006074795683,
+    "bestRating": 145.71476766628652,
+    "worstRating": 136.35006074795683,
+    "tendency": -9.364706918329688,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      145.71476766628652,
+      140.4864686843387,
+      136.35006074795683
+    ]
   },
   {
     "NAF Nr": "36057",
@@ -11079,13 +19676,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Old World Alliance",
-    "rating": "135.53",
+    "rating": 135.27931054404667,
+    "bestRating": 150.30570867753872,
+    "worstRating": 135.27931054404667,
+    "tendency": -15.026398133492052,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 31.25
+    "winRatio": 31.25,
+    "_lastTenRatings": [
+      150.30570867753872,
+      146.4586229823681,
+      146.3495376594284,
+      140.27990405524523,
+      141.24881785900476,
+      147.02546639855797,
+      140.5256931955016,
+      135.27931054404667
+    ]
   },
   {
     "NAF Nr": "36067",
@@ -11093,13 +19703,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "143.66",
+    "rating": 143.71781018364496,
+    "bestRating": 153.17980662539605,
+    "worstRating": 125.20097437212254,
+    "tendency": 18.516835811522412,
     "totalTournaments": 5,
     "gamesTotal": 24,
     "gamesWon": 7,
     "gamesDraw": 6,
     "gamesLost": 11,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      125.20097437212254,
+      126.59996441398552,
+      133.05401022458534,
+      128.44551062519335,
+      134.7997959435854,
+      136.10919066479812,
+      133.022917198455,
+      136.72270510446222,
+      140.29715471498247,
+      143.71781018364496
+    ]
   },
   {
     "NAF Nr": "36149",
@@ -11107,13 +19732,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Old World Alliance",
-    "rating": "149.77",
+    "rating": 149.75739720814622,
+    "bestRating": 154.47213595499957,
+    "worstRating": 149.75739720814622,
+    "tendency": -4.714738746853357,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.47213595499957,
+      154.16123898232334,
+      149.75739720814622
+    ]
   },
   {
     "NAF Nr": "36235",
@@ -11121,13 +19754,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "153.96",
+    "rating": 154.4381390415464,
+    "bestRating": 155.0620869221584,
+    "worstRating": 149.2011099418195,
+    "tendency": -0.6239478806119791,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.0620869221584,
+      149.2011099418195,
+      154.4381390415464
+    ]
   },
   {
     "NAF Nr": "36243",
@@ -11135,13 +19776,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "149.55",
+    "rating": 149.21465076672536,
+    "bestRating": 154.13714983194586,
+    "worstRating": 145.41167708107724,
+    "tendency": 3.8029736856481122,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.41167708107724,
+      149.77825157605417,
+      154.13714983194586,
+      153.60401900753166,
+      149.21465076672536
+    ]
   },
   {
     "NAF Nr": "36293",
@@ -11149,13 +19800,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "143.44",
+    "rating": 143.31579542435503,
+    "bestRating": 149.0958624692204,
+    "worstRating": 138.45548295688857,
+    "tendency": -1.0273503261526002,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.45548295688857,
+      143.43737308279412,
+      149.0958624692204,
+      143.31579542435503
+    ]
   },
   {
     "NAF Nr": "36324",
@@ -11163,13 +19824,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "117.53",
+    "rating": 117.8087773624867,
+    "bestRating": 143.8505002187202,
+    "worstRating": 117.8087773624867,
+    "tendency": -26.04172285623352,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 6,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      143.8505002187202,
+      138.63160326010274,
+      132.75886993855798,
+      127.61278361735698,
+      122.84737434665783,
+      117.8087773624867
+    ]
   },
   {
     "NAF Nr": "36402",
@@ -11177,13 +19849,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Castilla y León",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "141.2",
+    "rating": 146.54057981659682,
+    "bestRating": 150.83285896927345,
+    "worstRating": 145.01547032185448,
+    "tendency": -3.906110639125103,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      150.44669045572192,
+      145.01547032185448,
+      150.83285896927345,
+      146.54057981659682
+    ]
   },
   {
     "NAF Nr": "36422",
@@ -11191,13 +19872,48 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "132.0",
+    "rating": 131.59915188447056,
+    "bestRating": 155.19615242270663,
+    "worstRating": 131.59915188447056,
+    "tendency": -23.597000538236074,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 5,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      155.19615242270663,
+      150,
+      144.80384757729337,
+      140.30039559894178,
+      135.95852454414748,
+      131.59915188447056
+    ]
+  },
+  {
+    "NAF Nr": "36424",
+    "NAF Name": "Joneserons2",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "race": "Old World Alliance",
+    "rating": 144.128664306936,
+    "bestRating": 149.79710099791757,
+    "worstRating": 144.128664306936,
+    "tendency": -3.1776242068960414,
+    "totalTournaments": 2,
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "winRatio": 30,
+    "_lastTenRatings": [
+      147.30628851383204,
+      149.79710099791757,
+      149.79021404485337,
+      146.90491073925142,
+      144.128664306936
+    ]
   },
   {
     "NAF Nr": "36454",
@@ -11205,13 +19921,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "147.79",
+    "rating": 147.38165968703365,
+    "bestRating": 157.65134434865078,
+    "worstRating": 145.49908134277308,
+    "tendency": 1.8825783442605655,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 44.44
+    "winRatio": 44.44,
+    "_lastTenRatings": [
+      145.49908134277308,
+      150.87466777593772,
+      145.8508013846564,
+      145.59341502492885,
+      151.91158629582685,
+      151.82859507178418,
+      157.65134434865078,
+      152.20886472287208,
+      147.38165968703365
+    ]
   },
   {
     "NAF Nr": "36548",
@@ -11219,13 +19949,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "126.47",
+    "rating": 125.69216019707727,
+    "bestRating": 150.00595276536166,
+    "worstRating": 125.69216019707727,
+    "tendency": -19.623599112639937,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 7,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      145.3157593097172,
+      150.00595276536166,
+      145.33166637947315,
+      140.43812809468125,
+      135.77238654142332,
+      130.9699788615187,
+      132.64639337507697,
+      129.19601301990454,
+      125.69216019707727
+    ]
   },
   {
     "NAF Nr": "36562",
@@ -11233,13 +19977,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Colombia",
     "race": "Old World Alliance",
-    "rating": "173.1",
+    "rating": 173.89636550065484,
+    "bestRating": 173.89636550065484,
+    "worstRating": 146.10765967720923,
+    "tendency": 27.78870582344561,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      146.10765967720923,
+      151.70508567992496,
+      158.1362040390647,
+      163.76059953871186,
+      168.87766127522272,
+      173.89636550065484
+    ]
   },
   {
     "NAF Nr": "36676",
@@ -11247,13 +20002,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Old World Alliance",
-    "rating": "121.25",
+    "rating": 123.05595995117943,
+    "bestRating": 144.4371952000947,
+    "worstRating": 120.41626151006275,
+    "tendency": -21.38123524891526,
     "totalTournaments": 3,
     "gamesTotal": 12,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 7,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.4371952000947,
+      138.78567455892608,
+      133.1288398783006,
+      126.9831639746078,
+      123.6825463683716,
+      120.41626151006275,
+      124.75001023826361,
+      121.2809551706666,
+      122.0975633499842,
+      123.05595995117943
+    ]
   },
   {
     "NAF Nr": "36699",
@@ -11261,13 +20031,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "138.95",
+    "rating": 137.79256577021272,
+    "bestRating": 148.66145721208488,
+    "worstRating": 137.79256577021272,
+    "tendency": -10.868891441872165,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      148.66145721208488,
+      143.21480721912394,
+      137.79256577021272
+    ]
   },
   {
     "NAF Nr": "36716",
@@ -11275,13 +20053,26 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "151.72",
+    "rating": 156.4934568649446,
+    "bestRating": 156.4934568649446,
+    "worstRating": 144.3806160685662,
+    "tendency": 1.153498272304688,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 56.25
+    "winRatio": 56.25,
+    "_lastTenRatings": [
+      155.3399585926399,
+      149.69686327925194,
+      144.3806160685662,
+      149.1043055960007,
+      154.1166318022741,
+      154.38619621492302,
+      155.86027369968133,
+      156.4934568649446
+    ]
   },
   {
     "NAF Nr": "36739",
@@ -11289,13 +20080,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Old World Alliance",
-    "rating": "144.25",
+    "rating": 144.0598713076988,
+    "bestRating": 161.6988272755584,
+    "worstRating": 144.0598713076988,
+    "tendency": -11.999581678957668,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      156.05945298665648,
+      161.6988272755584,
+      156.0072003337864,
+      149.9715798388048,
+      144.0598713076988
+    ]
   },
   {
     "NAF Nr": "36747",
@@ -11303,13 +20104,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "165.79",
+    "rating": 166.6233132239199,
+    "bestRating": 166.6233132239199,
+    "worstRating": 155.37281548868012,
+    "tendency": 11.250497735239776,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.37281548868012,
+      160.219479237698,
+      166.6233132239199
+    ]
   },
   {
     "NAF Nr": "36777",
@@ -11317,13 +20126,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "South Africa",
     "race": "Old World Alliance",
-    "rating": "147.91",
+    "rating": 144.87992514588427,
+    "bestRating": 150,
+    "worstRating": 144.40357605612144,
+    "tendency": -5.120074854115728,
     "totalTournaments": 2,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      150,
+      147.76616371404378,
+      144.40357605612144,
+      145.91634368212928,
+      144.87992514588427
+    ]
   },
   {
     "NAF Nr": "36805",
@@ -11331,13 +20150,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "151.36",
+    "rating": 151.3445601577445,
+    "bestRating": 151.3445601577445,
+    "worstRating": 139.78746818104761,
+    "tendency": 5.890137186931867,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.45442297081263,
+      139.78746818104761,
+      145.05003801024478,
+      140.52893818169127,
+      146.0389938572108,
+      151.3445601577445
+    ]
   },
   {
     "NAF Nr": "36819",
@@ -11345,13 +20175,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "169.64",
+    "rating": 168.86788360438538,
+    "bestRating": 175.02534140254178,
+    "worstRating": 150,
+    "tendency": 18.867883604385383,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      150,
+      154.95135622194744,
+      160.46688965060642,
+      166.21429814375617,
+      171.29425883968193,
+      170.20349741186672,
+      165.1582627566659,
+      169.92388289191663,
+      175.02534140254178,
+      168.86788360438538
+    ]
   },
   {
     "NAF Nr": "36849",
@@ -11359,13 +20204,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Old World Alliance",
-    "rating": "153.65",
+    "rating": 153.1031422000805,
+    "bestRating": 153.1031422000805,
+    "worstRating": 124.83625302587876,
+    "tendency": 22.031317469992842,
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 5,
     "gamesDraw": 4,
     "gamesLost": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      131.07182473008766,
+      124.83625302587876,
+      131.88824252756183,
+      138.5657833153096,
+      139.7089573805491,
+      146.31003183480107,
+      146.47019990643196,
+      146.94452078156266,
+      147.29001415392537,
+      153.1031422000805
+    ]
   },
   {
     "NAF Nr": "36885",
@@ -11373,13 +20233,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "139.37",
+    "rating": 138.48655332112415,
+    "bestRating": 150,
+    "worstRating": 138.39307208784496,
+    "tendency": -11.513446678875852,
     "totalTournaments": 2,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      150,
+      144.31302607445286,
+      138.39307208784496,
+      144.3103485390011,
+      138.48655332112415
+    ]
   },
   {
     "NAF Nr": "36924",
@@ -11387,13 +20257,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "150.78",
+    "rating": 151.24296920237958,
+    "bestRating": 151.24296920237958,
+    "worstRating": 145.55638325793115,
+    "tendency": 0.4062237321722364,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.83674547020735,
+      145.55638325793115,
+      151.24296920237958
+    ]
   },
   {
     "NAF Nr": "36936",
@@ -11401,13 +20279,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "165.57",
+    "rating": 166.0479667023103,
+    "bestRating": 166.0479667023103,
+    "worstRating": 155.2377400210358,
+    "tendency": 10.810226681274514,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.2377400210358,
+      160.40438654480027,
+      166.0479667023103
+    ]
   },
   {
     "NAF Nr": "36965",
@@ -11415,13 +20301,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "133.86",
+    "rating": 133.2313907556896,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.04565132014537,
+    "tendency": -11.111754994818028,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.04565132014537,
+      138.70060806053087,
+      138.70709411778338,
+      133.2313907556896
+    ]
   },
   {
     "NAF Nr": "37267",
@@ -11429,13 +20326,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "144.55",
+    "rating": 144.82757209006868,
+    "bestRating": 154.57342111366472,
+    "worstRating": 144.82757209006868,
+    "tendency": -9.745849023596037,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      154.57342111366472,
+      149.4475170542747,
+      144.82757209006868
+    ]
   },
   {
     "NAF Nr": "37356",
@@ -11443,13 +20348,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Colombia",
     "race": "Old World Alliance",
-    "rating": "146.05",
+    "rating": 145.61255350025496,
+    "bestRating": 147.7639320225002,
+    "worstRating": 142.21997432782453,
+    "tendency": -2.1513785222452384,
     "totalTournaments": 2,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      147.7639320225002,
+      145.56623669573753,
+      142.21997432782453,
+      145.61255350025496
+    ]
   },
   {
     "NAF Nr": "37384",
@@ -11457,13 +20371,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "133.86",
+    "rating": 134.45154933716614,
+    "bestRating": 144.70849737787083,
+    "worstRating": 134.45154933716614,
+    "tendency": -10.256948040704685,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.70849737787083,
+      139.75760489006169,
+      134.45154933716614
+    ]
   },
   {
     "NAF Nr": "37425",
@@ -11471,13 +20393,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Old World Alliance",
-    "rating": "154.79",
+    "rating": 154.9225601029812,
+    "bestRating": 155.6512695365101,
+    "worstRating": 149.4352883121073,
+    "tendency": 4.922560102981208,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      150,
+      155.6512695365101,
+      149.4352883121073,
+      154.9225601029812
+    ]
   },
   {
     "NAF Nr": "37524",
@@ -11485,13 +20416,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "163.75",
-    "totalTournaments": 3,
-    "gamesTotal": 14,
-    "gamesWon": 6,
+    "rating": 176.42206853673687,
+    "bestRating": 181.30313568654068,
+    "worstRating": 147.23884020557009,
+    "tendency": 9.168992039692938,
+    "totalTournaments": 4,
+    "gamesTotal": 20,
+    "gamesWon": 10,
     "gamesDraw": 4,
-    "gamesLost": 4,
-    "winRatio": 57.14
+    "gamesLost": 6,
+    "winRatio": 60,
+    "_lastTenRatings": [
+      167.25307649704393,
+      161.3402337221154,
+      166.09483764636676,
+      166.83856929393949,
+      172.49595563637445,
+      176.97865170578478,
+      181.30313568654068,
+      176.99071350592342,
+      173.14507881923092,
+      176.42206853673687
+    ]
   },
   {
     "NAF Nr": "37597",
@@ -11499,13 +20445,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "127.1",
+    "rating": 127.34524832077209,
+    "bestRating": 142.30061798371102,
+    "worstRating": 127.34524832077209,
+    "tendency": -14.908784986813075,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.50806661517032,
+      134.50806661517032,
+      142.30061798371102,
+      134.49658616365778,
+      127.34524832077209
+    ]
   },
   {
     "NAF Nr": "37610",
@@ -11513,13 +20470,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "157.2",
+    "rating": 157.44903085785202,
+    "bestRating": 157.46472615065213,
+    "worstRating": 154.8046087174083,
+    "tendency": 2.6444221404437087,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      154.8046087174083,
+      157.46472615065213,
+      157.44903085785202
+    ]
   },
   {
     "NAF Nr": "37749",
@@ -11527,13 +20492,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "150.08",
+    "rating": 150.08312198466228,
+    "bestRating": 155.72669367022772,
+    "worstRating": 150.08312198466228,
+    "tendency": -5.573732264830085,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.72669367022772,
+      150.08312198466228
+    ]
   },
   {
     "NAF Nr": "37756",
@@ -11541,13 +20514,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "143.04",
+    "rating": 140.2789970688541,
+    "bestRating": 149.84676630983543,
+    "worstRating": 140.2789970688541,
+    "tendency": -9.567769240981335,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      149.84676630983543,
+      146.3783663944515,
+      144.2727384844838,
+      144.82198246343307,
+      143.33719070158375,
+      140.2789970688541
+    ]
   },
   {
     "NAF Nr": "37878",
@@ -11555,13 +20539,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "122.87",
+    "rating": 122.300343220738,
+    "bestRating": 144.48272477745584,
+    "worstRating": 122.300343220738,
+    "tendency": -22.182381556717843,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 8.33
+    "winRatio": 8.33,
+    "_lastTenRatings": [
+      144.48272477745584,
+      144.47666454304067,
+      138.63842538343985,
+      133.51271721204088,
+      127.0303554470326,
+      122.300343220738
+    ]
   },
   {
     "NAF Nr": "37897",
@@ -11569,13 +20564,20 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "149.51",
+    "rating": 149.44769351047154,
+    "bestRating": 149.67924667712083,
+    "worstRating": 149.44769351047154,
+    "tendency": -0.2315531666492916,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      149.67924667712083,
+      149.44769351047154
+    ]
   },
   {
     "NAF Nr": "37982",
@@ -11583,13 +20585,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "149.55",
+    "rating": 149.93785053889346,
+    "bestRating": 160.6322999443227,
+    "worstRating": 149.93785053889346,
+    "tendency": -6.193697278346718,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      156.13154781724018,
+      154.96304198644128,
+      160.6322999443227,
+      156.39972908174946,
+      149.93785053889346
+    ]
   },
   {
     "NAF Nr": "37983",
@@ -11597,13 +20609,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "143.82",
+    "rating": 143.7915809512217,
+    "bestRating": 155.65685424949237,
+    "worstRating": 143.7915809512217,
+    "tendency": -11.865273298270665,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      155.65685424949237,
+      148.3829073859206,
+      144.06262600659397,
+      143.99461785021742,
+      143.7915809512217
+    ]
   },
   {
     "NAF Nr": "37984",
@@ -11611,13 +20633,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "158.95",
+    "rating": 159.03326208494445,
+    "bestRating": 159.03326208494445,
+    "worstRating": 150,
+    "tendency": 9.033262084944454,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      150,
+      154.45573759658654,
+      159.03326208494445
+    ]
   },
   {
     "NAF Nr": "38122",
@@ -11625,13 +20655,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Old World Alliance",
-    "rating": "134.48",
+    "rating": 134.57580500188436,
+    "bestRating": 148.8772040971821,
+    "worstRating": 129.53554565855362,
+    "tendency": -9.767340748623269,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.34314575050763,
+      148.8772040971821,
+      143.26909814951412,
+      137.66126686226983,
+      133.61139520115466,
+      129.53554565855362,
+      133.2006289771367,
+      137.87293565212929,
+      134.57580500188436
+    ]
   },
   {
     "NAF Nr": "38332",
@@ -11639,13 +20683,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "139.47",
+    "rating": 138.94242622553924,
+    "bestRating": 144.54887640420876,
+    "worstRating": 137.86428248605347,
+    "tendency": -4.948957702164762,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      143.891383927704,
+      143.7468255241482,
+      137.86428248605347,
+      144.54887640420876,
+      138.94242622553924
+    ]
   },
   {
     "NAF Nr": "38336",
@@ -11653,13 +20707,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "134.58",
+    "rating": 134.04973720112227,
+    "bestRating": 144.34314575050763,
+    "worstRating": 134.04973720112227,
+    "tendency": -10.293408549385362,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.34314575050763,
+      139.46880861081885,
+      134.04973720112227
+    ]
   },
   {
     "NAF Nr": "38466",
@@ -11667,13 +20729,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Lithuania",
     "race": "Old World Alliance",
-    "rating": "150.21",
+    "rating": 148.999814754359,
+    "bestRating": 152.93669393502802,
+    "worstRating": 144.8500066658073,
+    "tendency": 0.22499743973253317,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      148.77481731462646,
+      152.93669393502802,
+      148.98032221942955,
+      144.8500066658073,
+      148.999814754359
+    ]
   },
   {
     "NAF Nr": "38631",
@@ -11681,13 +20753,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "146.05",
+    "rating": 146.0408356150058,
+    "bestRating": 147.17157287525382,
+    "worstRating": 143.53247580186883,
+    "tendency": -1.1307372602480257,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      147.17157287525382,
+      143.53247580186883,
+      146.0408356150058
+    ]
   },
   {
     "NAF Nr": "38851",
@@ -11695,13 +20775,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "144.13",
+    "rating": 143.60781096022782,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.96947485457198,
+    "tendency": -0.7353347902798077,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.96947485457198,
+      143.6650777066411,
+      143.60781096022782
+    ]
   },
   {
     "NAF Nr": "38888",
@@ -11709,13 +20798,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "171.19",
+    "rating": 171.69307112603346,
+    "bestRating": 176.42009132468127,
+    "worstRating": 155.65685424949237,
+    "tendency": 5.425732256387022,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 6,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      166.26733886964644,
+      166.76609104108874,
+      167.557147686697,
+      161.31540763346854,
+      165.00679669987844,
+      171.40819012902259,
+      176.42009132468127,
+      171.8162496776615,
+      171.10946320128284,
+      171.69307112603346
+    ]
   },
   {
     "NAF Nr": "38917",
@@ -11723,13 +20827,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "157.38",
+    "rating": 157.4505469642893,
+    "bestRating": 160.80048529200397,
+    "worstRating": 155.1530916998486,
+    "tendency": 2.2974552644406856,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.1530916998486,
+      160.80048529200397,
+      157.4505469642893
+    ]
   },
   {
     "NAF Nr": "39074",
@@ -11737,13 +20849,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "155.86",
+    "rating": 155.73115248047722,
+    "bestRating": 159.75082735543967,
+    "worstRating": 154.5280291099563,
+    "tendency": 1.2031233705209274,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.5280291099563,
+      159.75082735543967,
+      155.73115248047722
+    ]
   },
   {
     "NAF Nr": "39219",
@@ -11751,13 +20871,27 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "149.66",
-    "totalTournaments": 1,
-    "gamesTotal": 3,
+    "rating": 130.76366353586133,
+    "bestRating": 153.47694381168375,
+    "worstRating": 130.76366353586133,
+    "tendency": -19.236336464138674,
+    "totalTournaments": 2,
+    "gamesTotal": 9,
     "gamesWon": 1,
-    "gamesDraw": 1,
-    "gamesLost": 1,
-    "winRatio": 50
+    "gamesDraw": 3,
+    "gamesLost": 5,
+    "winRatio": 27.78,
+    "_lastTenRatings": [
+      150,
+      153.47694381168375,
+      149.3300091364427,
+      144.47127767062292,
+      138.80886019622727,
+      138.88849696478994,
+      133.66380330769914,
+      134.28080614650565,
+      130.76366353586133
+    ]
   },
   {
     "NAF Nr": "39234",
@@ -11765,13 +20899,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "151.78",
+    "rating": 151.95473727830205,
+    "bestRating": 157.07164931535442,
+    "worstRating": 146.03104727528014,
+    "tendency": 1.5673441223631244,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.38739315593892,
+      146.06704534424,
+      146.03104727528014,
+      151.4157823733915,
+      157.07164931535442,
+      151.95473727830205
+    ]
   },
   {
     "NAF Nr": "39280",
@@ -11779,13 +20924,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "146.11",
+    "rating": 145.98699209240837,
+    "bestRating": 154.2426406871193,
+    "worstRating": 145.98699209240837,
+    "tendency": -8.25564859471092,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      154.2426406871193,
+      150,
+      145.98699209240837
+    ]
   },
   {
     "NAF Nr": "39294",
@@ -11793,13 +20946,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Old World Alliance",
-    "rating": "143.73",
+    "rating": 143.5730178964725,
+    "bestRating": 145.4126585659926,
+    "worstRating": 143.46713991237056,
+    "tendency": -1.8396406695200938,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.4126585659926,
+      143.46713991237056,
+      143.5730178964725
+    ]
   },
   {
     "NAF Nr": "39370",
@@ -11807,13 +20968,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "119.97",
+    "rating": 119.08947333089606,
+    "bestRating": 142.36045477114035,
+    "worstRating": 119.08947333089606,
+    "tendency": -23.2709814402443,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 5,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      142.36045477114035,
+      134.60816105897987,
+      142.2762910189568,
+      134.41971971509307,
+      126.6420853309778,
+      119.08947333089606
+    ]
   },
   {
     "NAF Nr": "39470",
@@ -11821,13 +20993,23 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Norway",
     "race": "Old World Alliance",
-    "rating": "140.58",
+    "rating": 140.97540067070133,
+    "bestRating": 147.73634364920596,
+    "worstRating": 140.97540067070133,
+    "tendency": -6.76094297850463,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 10
+    "winRatio": 10,
+    "_lastTenRatings": [
+      147.73634364920596,
+      145.6349654353086,
+      145.67097609579577,
+      143.2160724243697,
+      140.97540067070133
+    ]
   },
   {
     "NAF Nr": "39608",
@@ -11835,13 +21017,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Ireland",
     "race": "Old World Alliance",
-    "rating": "128.92",
+    "rating": 128.73916543627703,
+    "bestRating": 145.3009599001461,
+    "worstRating": 128.73916543627703,
+    "tendency": -16.561794463869063,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 5,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      145.3009599001461,
+      141.7155357057758,
+      135.71374407381424,
+      129.8211128592556,
+      135.28450588557914,
+      128.73916543627703
+    ]
   },
   {
     "NAF Nr": "39644",
@@ -11849,13 +21042,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "143.75",
+    "rating": 143.57519631688743,
+    "bestRating": 149.18880040625865,
+    "worstRating": 143.54595339124668,
+    "tendency": 0.029242925640744488,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      143.54595339124668,
+      149.18880040625865,
+      143.57519631688743
+    ]
   },
   {
     "NAF Nr": "39685",
@@ -11863,13 +21064,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Old World Alliance",
-    "rating": "155.65",
+    "rating": 156.13001720888107,
+    "bestRating": 156.87745946100674,
+    "worstRating": 150.86841790830007,
+    "tendency": 0.5483778717823213,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      155.58163933709875,
+      150.86841790830007,
+      156.84600245933612,
+      156.87745946100674,
+      151.0167509628271,
+      156.13001720888107
+    ]
   },
   {
     "NAF Nr": "39719",
@@ -11877,13 +21089,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "134.17",
+    "rating": 133.67476568732192,
+    "bestRating": 157.74596669241484,
+    "worstRating": 133.67476568732192,
+    "tendency": -24.071201005092917,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150.0609608774812,
+      142.4824348939283,
+      149.1116208790982,
+      141.4637448391364,
+      133.67476568732192
+    ]
   },
   {
     "NAF Nr": "39764",
@@ -11891,13 +21114,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "150.02",
+    "rating": 150.01346165046598,
+    "bestRating": 150.16637121300687,
+    "worstRating": 144.41920901556958,
+    "tendency": 5.594252634896407,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.41920901556958,
+      150.16637121300687,
+      144.5662252153758,
+      150.01346165046598
+    ]
   },
   {
     "NAF Nr": "40035",
@@ -11905,27 +21137,45 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Old World Alliance",
-    "rating": "139.74",
+    "rating": 139.81820249350204,
+    "bestRating": 144.76949185803383,
+    "worstRating": 139.14806566503188,
+    "tendency": -4.524943257005589,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.34314575050763,
+      139.14806566503188,
+      144.76949185803383,
+      139.81820249350204
+    ]
   },
   {
     "NAF Nr": "40171",
     "NAF Name": "Carlos_ratas",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "139.93",
+    "rating": 140.45720223850276,
+    "bestRating": 149.8480593778532,
+    "worstRating": 140.45720223850276,
+    "tendency": -4.092922404415731,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.5501246429185,
+      149.8480593778532,
+      145.5577838904479,
+      140.45720223850276
+    ]
   },
   {
     "NAF Nr": "40225",
@@ -11933,13 +21183,28 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "race": "Old World Alliance",
-    "rating": "160.39",
+    "rating": 162.75962521591654,
+    "bestRating": 162.75962521591654,
+    "worstRating": 144.13838772041373,
+    "tendency": 13.130857541565234,
     "totalTournaments": 3,
     "gamesTotal": 15,
     "gamesWon": 7,
     "gamesDraw": 3,
     "gamesLost": 5,
-    "winRatio": 56.67
+    "winRatio": 56.67,
+    "_lastTenRatings": [
+      149.6287676743513,
+      144.13838772041373,
+      148.93241972692738,
+      154.7050029727535,
+      158.417905844468,
+      159.43086484936734,
+      156.73825768187987,
+      154.68787504849902,
+      159.77528078676465,
+      162.75962521591654
+    ]
   },
   {
     "NAF Nr": "40249",
@@ -11947,13 +21212,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Bolivia",
     "race": "Old World Alliance",
-    "rating": "147.6",
+    "rating": 147.64257027899382,
+    "bestRating": 150,
+    "worstRating": 147.5505102572168,
+    "tendency": 0.09206002177700157,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      147.5505102572168,
+      150,
+      147.64257027899382
+    ]
   },
   {
     "NAF Nr": "40387",
@@ -11961,13 +21234,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Old World Alliance",
-    "rating": "134.06",
+    "rating": 133.10420348458425,
+    "bestRating": 144.15526316179208,
+    "worstRating": 133.10420348458425,
+    "tendency": -11.051059677207832,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.15526316179208,
+      144.14621420014748,
+      138.03871675635776,
+      142.69355098211273,
+      138.19916504762188,
+      133.10420348458425
+    ]
   },
   {
     "NAF Nr": "40418",
@@ -11975,13 +21259,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Ladonia",
     "race": "Old World Alliance",
-    "rating": "143.73",
+    "rating": 144.57372941342652,
+    "bestRating": 148.300837985871,
+    "worstRating": 138.95101678534937,
+    "tendency": 0.23058366291888888,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      144.34314575050763,
+      148.300837985871,
+      143.60614206635398,
+      138.96178734218333,
+      138.95101678534937,
+      144.57372941342652
+    ]
   },
   {
     "NAF Nr": "40662",
@@ -11989,13 +21284,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Old World Alliance",
-    "rating": "146.3",
+    "rating": 139.60336470218726,
+    "bestRating": 145.95875259730744,
+    "worstRating": 139.60336470218726,
+    "tendency": -6.342903617671055,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      145.94626831985832,
+      145.95875259730744,
+      141.27528467093296,
+      139.60336470218726
+    ]
   },
   {
     "NAF Nr": "40800",
@@ -12003,27 +21307,49 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "146.05",
+    "rating": 145.38649916993845,
+    "bestRating": 150.01145051045444,
+    "worstRating": 144.34314575050763,
+    "tendency": 1.0433534194308152,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150.01145051045444,
+      149.3855505942508,
+      145.38649916993845
+    ]
   },
   {
     "NAF Nr": "40823",
     "NAF Name": "Rober_Polson",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "130.78",
+    "rating": 131.53529183701698,
+    "bestRating": 144.99765376805456,
+    "worstRating": 126.73780544632622,
+    "tendency": -13.462361931037577,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 5,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.99765376805456,
+      140.5655834089365,
+      136.10863658739405,
+      131.59858274058527,
+      131.6023938717081,
+      126.73780544632622,
+      127.60347662454821,
+      131.53529183701698
+    ]
   },
   {
     "NAF Nr": "40836",
@@ -12031,13 +21357,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Old World Alliance",
-    "rating": "156.37",
+    "rating": 156.5639351955437,
+    "bestRating": 156.5639351955437,
+    "worstRating": 144.10120568633698,
+    "tendency": 12.462729509206724,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      144.10120568633698,
+      149.76945085975467,
+      150.05036013882923,
+      156.5639351955437
+    ]
   },
   {
     "NAF Nr": "41199",
@@ -12045,13 +21380,22 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Old World Alliance",
-    "rating": "144.77",
+    "rating": 144.8304432518,
+    "bestRating": 155.79630541700217,
+    "worstRating": 144.8304432518,
+    "tendency": -5.058751348641607,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      149.8891946004416,
+      155.79630541700217,
+      150.55416565139447,
+      144.8304432518
+    ]
   },
   {
     "NAF Nr": "41335",
@@ -12059,13 +21403,24 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Old World Alliance",
-    "rating": "161.21",
+    "rating": 161.7664538046904,
+    "bestRating": 161.77734509081282,
+    "worstRating": 142.81120364953773,
+    "tendency": 18.95525015515267,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      142.81120364953773,
+      150.46869405072476,
+      158.18679583429324,
+      152.84635363462758,
+      161.77734509081282,
+      161.7664538046904
+    ]
   },
   {
     "NAF Nr": "41829",
@@ -12073,13 +21428,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Old World Alliance",
-    "rating": "140.23",
+    "rating": 140.77318085568746,
+    "bestRating": 146.05864299515562,
+    "worstRating": 140.77318085568746,
+    "tendency": -5.285462139468166,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      146.05864299515562,
+      146.00381043607572,
+      140.77318085568746
+    ]
   },
   {
     "NAF Nr": "41873",
@@ -12087,12 +21450,21 @@ const statsRaceOld_World_Alliance = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Old World Alliance",
-    "rating": "137.35",
+    "rating": 138.2353335429397,
+    "bestRating": 147.17601902917193,
+    "worstRating": 138.2353335429397,
+    "tendency": -8.940685486232212,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      147.17601902917193,
+      143.69489804731106,
+      141.5766719461643,
+      138.2353335429397
+    ]
   }
 ];
