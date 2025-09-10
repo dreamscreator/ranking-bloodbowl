@@ -5,12 +5,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 150.0530718275599,
+    "bestRating": 157.33212488993163,
+    "worstRating": 141.89243357320038,
+    "tendency": 8.160638254359526,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      141.89243357320038,
+      149.65989821553654,
+      157.33212488993163,
+      149.16732051971064,
+      150.0530718275599
+    ]
   },
   {
     "NAF Nr": "5",
@@ -18,12 +28,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 150.44192387762976,
+    "bestRating": 152.94416954708876,
+    "worstRating": 150.44192387762976,
+    "tendency": -2.5022456694590005,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      152.94416954708876,
+      150.49569137071896,
+      152.89988118383314,
+      150.44192387762976
+    ]
   },
   {
     "NAF Nr": "25",
@@ -31,12 +50,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 151.00286154749062,
+    "bestRating": 160.51738838404202,
+    "worstRating": 143.81333911033042,
+    "tendency": 1.4752402338851311,
     "tournaments": 3,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 6,
     "gamesTotal": 14,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      149.5276213136055,
+      143.81333911033042,
+      149.93168230655508,
+      155.13055937141556,
+      160.51738838404202,
+      155.7195084009212,
+      150.9101378556401,
+      154.04757567320402,
+      150.85284375748031,
+      151.00286154749062
+    ]
   },
   {
     "NAF Nr": "30",
@@ -44,12 +78,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 156.0218147415722,
+    "bestRating": 156.41845819703363,
+    "worstRating": 142.74869101789866,
+    "tendency": 13.273123723673535,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      142.74869101789866,
+      149.44727234019493,
+      156.28916980519315,
+      156.32217375337652,
+      156.41845819703363,
+      156.0218147415722
+    ]
   },
   {
     "NAF Nr": "33",
@@ -57,12 +102,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 153.5956936782458,
+    "bestRating": 153.94147529840455,
+    "worstRating": 146.39139396838368,
+    "tendency": -0.009857597218200453,
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 10,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      153.605551275464,
+      153.605551275464,
+      150.1051172799032,
+      146.39139396838368,
+      148.90871006897132,
+      146.52577247208262,
+      148.99452742960776,
+      151.32490968901106,
+      153.94147529840455,
+      153.5956936782458
+    ]
   },
   {
     "NAF Nr": "36",
@@ -70,12 +130,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 179.35053807116108,
+    "bestRating": 183.83455815579424,
+    "worstRating": 144.34314575050763,
+    "tendency": 8.598066851727452,
     "tournaments": 5,
     "gamesWon": 12,
     "gamesDraw": 10,
     "gamesLost": 5,
     "gamesTotal": 27,
-    "winRatio": 62.96
+    "winRatio": 62.96,
+    "_lastTenRatingsYear": [
+      170.75247121943363,
+      175.85016833446656,
+      180.4213201422452,
+      179.42974549214313,
+      178.334206045325,
+      183.83455815579424,
+      177.48840440733082,
+      180.98950975012224,
+      180.25492641338366,
+      179.35053807116108
+    ]
   },
   {
     "NAF Nr": "37",
@@ -83,12 +158,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 154.377249983272,
+    "bestRating": 163.7518187144884,
+    "worstRating": 138.51809936190762,
+    "tendency": -5.087116907068605,
     "tournaments": 6,
     "gamesWon": 12,
     "gamesDraw": 4,
     "gamesLost": 11,
     "gamesTotal": 27,
-    "winRatio": 51.85
+    "winRatio": 51.85,
+    "_lastTenRatingsYear": [
+      159.4643668903406,
+      163.32117585478173,
+      159.8095975716004,
+      153.72763358252382,
+      147.92105793877812,
+      144.1098684907996,
+      148.17830964911442,
+      153.4322630404892,
+      157.0842174842673,
+      154.377249983272
+    ]
   },
   {
     "NAF Nr": "49",
@@ -96,12 +186,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 155.9076830813671,
+    "bestRating": 165.29705854077838,
+    "worstRating": 155.0990195135928,
+    "tendency": 0.8086635677743175,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      155.0990195135928,
+      160.1980390271856,
+      165.29705854077838,
+      160.81327940969965,
+      155.9076830813671
+    ]
   },
   {
     "NAF Nr": "50",
@@ -109,12 +209,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 143.89300636014502,
+    "bestRating": 155.65685424949237,
+    "worstRating": 143.89300636014502,
+    "tendency": -11.763847889347346,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      150,
+      144.09769089177416,
+      150,
+      144.11850728824973,
+      143.89300636014502
+    ]
   },
   {
     "NAF Nr": "51",
@@ -122,12 +233,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 150.9640884312656,
+    "bestRating": 151.44569970323275,
+    "worstRating": 140.94755145534893,
+    "tendency": 5.714606523104209,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      145.24948190816139,
+      140.94755145534893,
+      146.31660889079998,
+      151.44569970323275,
+      150.9640884312656
+    ]
   },
   {
     "NAF Nr": "52",
@@ -135,12 +256,18 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "rating": 146.4437516299069,
+    "bestRating": 146.4437516299069,
+    "worstRating": 146.4437516299069,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      146.4437516299069
+    ]
   },
   {
     "NAF Nr": "53",
@@ -148,12 +275,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 176.8357935419557,
+    "bestRating": 176.8357935419557,
+    "worstRating": 143.54556947804844,
+    "tendency": 23.707990094589093,
     "tournaments": 5,
     "gamesWon": 8,
     "gamesDraw": 4,
     "gamesLost": 4,
     "gamesTotal": 16,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      153.1278034473666,
+      147.42644538229558,
+      148.05329121410693,
+      149.38465954683394,
+      155.8455018060715,
+      161.4236307197903,
+      167.0757123717308,
+      171.75971987790695,
+      176.5339704222181,
+      176.8357935419557
+    ]
   },
   {
     "NAF Nr": "54",
@@ -161,12 +303,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 165.17114712893502,
+    "bestRating": 165.17114712893502,
+    "worstRating": 152.82842712474618,
+    "tendency": 12.342720004188834,
     "tournaments": 2,
     "gamesWon": 6,
     "gamesDraw": 3,
     "gamesLost": 0,
     "gamesTotal": 9,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatingsYear": [
+      152.82842712474618,
+      155.64264094507462,
+      155.64294950142107,
+      158.290082984433,
+      160.76015140803577,
+      163.41884861377352,
+      163.1604899305981,
+      163.0037056600578,
+      165.17114712893502
+    ]
   },
   {
     "NAF Nr": "55",
@@ -174,12 +330,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 154.56952020823076,
+    "bestRating": 154.56952020823076,
+    "worstRating": 149.08956283079456,
+    "tendency": 5.479957377436193,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 2,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      149.08956283079456,
+      154.56952020823076
+    ]
   },
   {
     "NAF Nr": "57",
@@ -187,12 +350,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 158.2295064782114,
+    "bestRating": 163.73234768066644,
+    "worstRating": 144.58860060924107,
+    "tendency": 5.731382297045826,
     "tournaments": 4,
     "gamesWon": 10,
     "gamesDraw": 1,
     "gamesLost": 10,
     "gamesTotal": 21,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      152.49812418116557,
+      157.72293573928613,
+      163.73234768066644,
+      159.18999270696557,
+      155.5673211351118,
+      149.87454886751706,
+      146.93932044115806,
+      152.90195127112952,
+      153.2879643388874,
+      158.2295064782114
+    ]
   },
   {
     "NAF Nr": "60",
@@ -200,12 +378,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 150.17216946328972,
+    "bestRating": 166.24569960250494,
+    "worstRating": 147.90251677207127,
+    "tendency": -8.827873646647845,
     "tournaments": 5,
     "gamesWon": 10,
     "gamesDraw": 3,
     "gamesLost": 10,
     "gamesTotal": 23,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      159.00004310993756,
+      154.31271320142451,
+      154.3506833767235,
+      147.90251677207127,
+      152.97048826486395,
+      160.1545843542567,
+      154.52286981876918,
+      160.2425639905287,
+      156.69904684659767,
+      150.17216946328972
+    ]
   },
   {
     "NAF Nr": "68",
@@ -213,12 +406,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 216.13485040194806,
+    "bestRating": 227.15307977114244,
+    "worstRating": 144.34314575050763,
+    "tendency": 1.3878014733947168,
     "tournaments": 11,
     "gamesWon": 35,
     "gamesDraw": 11,
     "gamesLost": 10,
     "gamesTotal": 56,
-    "winRatio": 72.32
+    "winRatio": 72.32,
+    "_lastTenRatingsYear": [
+      214.74704892855334,
+      217.33480395923718,
+      215.2707213397736,
+      218.58995706726841,
+      221.6944850380322,
+      214.5778747388167,
+      218.20304932119535,
+      221.13827774755435,
+      212.63036531747375,
+      216.13485040194806
+    ]
   },
   {
     "NAF Nr": "69",
@@ -226,12 +434,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 150.38175379840627,
+    "bestRating": 161.39226149865308,
+    "worstRating": 128.835093943757,
+    "tendency": 1.318907494551297,
     "tournaments": 7,
     "gamesWon": 13,
     "gamesDraw": 9,
     "gamesLost": 14,
     "gamesTotal": 36,
-    "winRatio": 48.61
+    "winRatio": 48.61,
+    "_lastTenRatingsYear": [
+      149.06284630385497,
+      143.61592872203948,
+      138.0862012797488,
+      143.51390463755794,
+      149.59632875978625,
+      155.99553767758883,
+      161.39226149865308,
+      155.0658064012152,
+      150.01233792728732,
+      150.38175379840627
+    ]
   },
   {
     "NAF Nr": "70",
@@ -239,12 +462,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 179.96036812364213,
+    "bestRating": 195.1187927438865,
+    "worstRating": 146.5539770276759,
+    "tendency": -2.2820838843025513,
     "tournaments": 9,
     "gamesWon": 22,
     "gamesDraw": 5,
     "gamesLost": 14,
     "gamesTotal": 41,
-    "winRatio": 59.76
+    "winRatio": 59.76,
+    "_lastTenRatingsYear": [
+      182.24245200794468,
+      174.99122082378554,
+      179.2518760923583,
+      173.2639103064473,
+      177.47035306861702,
+      170.94382058773328,
+      175.81515443495584,
+      181.71405401987803,
+      175.2199951255057,
+      179.96036812364213
+    ]
   },
   {
     "NAF Nr": "73",
@@ -252,12 +490,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 120.99383373824475,
+    "bestRating": 144.59875837913336,
+    "worstRating": 110.96863427729234,
+    "tendency": -13.757800587593636,
     "tournaments": 3,
     "gamesWon": 2,
     "gamesDraw": 6,
     "gamesLost": 8,
     "gamesTotal": 16,
-    "winRatio": 31.25
+    "winRatio": 31.25,
+    "_lastTenRatingsYear": [
+      134.75163432583838,
+      129.03655790956165,
+      136.86228570788376,
+      132.09699457736815,
+      132.2437547788733,
+      125.02294691772809,
+      118.32436559543181,
+      110.96863427729234,
+      120.12355851575573,
+      120.99383373824475
+    ]
   },
   {
     "NAF Nr": "75",
@@ -265,12 +518,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 158.94882990402687,
+    "bestRating": 158.94882990402687,
+    "worstRating": 149.51853465600655,
+    "tendency": 9.430295248020315,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 7,
-    "winRatio": 57.14
+    "winRatio": 57.14,
+    "_lastTenRatingsYear": [
+      149.51853465600655,
+      157.24304910463212,
+      157.3692553151304,
+      151.88782660250823,
+      158.2087528776545,
+      153.4413576482914,
+      158.94882990402687
+    ]
   },
   {
     "NAF Nr": "78",
@@ -278,12 +543,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 137.4562041866554,
+    "bestRating": 144.34314575050763,
+    "worstRating": 124.7653850950767,
+    "tendency": -6.8869415638522185,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 6,
     "gamesTotal": 9,
-    "winRatio": 27.78
+    "winRatio": 27.78,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      138.6684252769705,
+      139.1591823555928,
+      133.7161843056544,
+      128.26649043786813,
+      124.7653850950767,
+      131.00803758200317,
+      137.4562041866554
+    ]
   },
   {
     "NAF Nr": "79",
@@ -291,12 +569,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 126.4822452019763,
+    "bestRating": 141.87721254618842,
+    "worstRating": 126.4822452019763,
+    "tendency": -15.39496734421212,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      141.87721254618842,
+      134.5933264243444,
+      126.4822452019763
+    ]
   },
   {
     "NAF Nr": "83",
@@ -304,12 +590,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 157.20521439746364,
+    "bestRating": 170.6716255770758,
+    "worstRating": 144.58860060924107,
+    "tendency": 2.23018175346607,
     "tournaments": 6,
     "gamesWon": 15,
     "gamesDraw": 6,
     "gamesLost": 13,
     "gamesTotal": 34,
-    "winRatio": 52.94
+    "winRatio": 52.94,
+    "_lastTenRatingsYear": [
+      154.97503264399757,
+      160.05995942421163,
+      159.6097296305634,
+      153.94626777188807,
+      153.77498124869751,
+      146.5443991608482,
+      152.0741266031389,
+      156.6791895788483,
+      151.92315757821933,
+      157.20521439746364
+    ]
   },
   {
     "NAF Nr": "86",
@@ -317,12 +618,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 190.56092514744748,
+    "bestRating": 192.19712382560772,
+    "worstRating": 155.65685424949237,
+    "tendency": 19.11551339263889,
     "tournaments": 3,
     "gamesWon": 11,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 13,
-    "winRatio": 84.62
+    "winRatio": 84.62,
+    "_lastTenRatingsYear": [
+      171.4454117548086,
+      176.44023636026782,
+      181.0574358639645,
+      186.11605007758376,
+      192.19712382560772,
+      185.51255207273252,
+      189.6770976399289,
+      182.119850152272,
+      186.74418146717866,
+      190.56092514744748
+    ]
   },
   {
     "NAF Nr": "87",
@@ -330,12 +646,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 187.90643503407654,
+    "bestRating": 188.2397540217646,
+    "worstRating": 139.9816411402643,
+    "tendency": 18.571236713335452,
     "tournaments": 5,
     "gamesWon": 14,
     "gamesDraw": 6,
     "gamesLost": 8,
     "gamesTotal": 28,
-    "winRatio": 60.71
+    "winRatio": 60.71,
+    "_lastTenRatingsYear": [
+      169.33519832074109,
+      174.03340525609255,
+      169.23742850722476,
+      168.5856599799517,
+      173.80750852275597,
+      179.0900801735254,
+      183.89624157764788,
+      183.23476175762832,
+      188.2397540217646,
+      187.90643503407654
+    ]
   },
   {
     "NAF Nr": "88",
@@ -343,12 +674,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 140.13447581458203,
+    "bestRating": 145.28341220371829,
+    "worstRating": 139.65934222336801,
+    "tendency": -4.455927889359685,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      144.59040370394172,
+      145.28341220371829,
+      139.65934222336801,
+      139.9491783357395,
+      140.13447581458203
+    ]
   },
   {
     "NAF Nr": "89",
@@ -356,12 +697,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 144.03316920731913,
+    "bestRating": 149.44881675031237,
+    "worstRating": 144.03316920731913,
+    "tendency": -0.5852493509501357,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      144.61841855826927,
+      149.44881675031237,
+      144.21846668616166,
+      144.03316920731913
+    ]
   },
   {
     "NAF Nr": "91",
@@ -369,12 +719,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 158.33669204512776,
+    "bestRating": 158.33669204512776,
+    "worstRating": 149.85468379939945,
+    "tendency": 3.1070057903361317,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      155.22968625479163,
+      149.85468379939945,
+      154.66707989488464,
+      155.83005850268395,
+      157.34511739502568,
+      158.33669204512776
+    ]
   },
   {
     "NAF Nr": "99",
@@ -382,12 +743,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 131.78273185231882,
+    "bestRating": 151.2299396639784,
+    "worstRating": 127.97640315657496,
+    "tendency": -14.601217115836363,
     "tournaments": 3,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 7,
     "gamesTotal": 13,
-    "winRatio": 34.62
+    "winRatio": 34.62,
+    "_lastTenRatingsYear": [
+      146.38394896815518,
+      140.64927179624888,
+      133.39130511851428,
+      142.11703919123417,
+      134.39745186200926,
+      127.97640315657496,
+      129.09761645108102,
+      129.85876660796944,
+      136.7242739916428,
+      131.78273185231882
+    ]
   },
   {
     "NAF Nr": "100",
@@ -395,12 +771,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 180.82487554122162,
+    "bestRating": 185.6637606396908,
+    "worstRating": 149.61658163124912,
+    "tendency": 15.673077176036315,
     "tournaments": 2,
     "gamesWon": 7,
     "gamesDraw": 3,
     "gamesLost": 2,
     "gamesTotal": 12,
-    "winRatio": 70.83
+    "winRatio": 70.83,
+    "_lastTenRatingsYear": [
+      165.1517983651853,
+      172.00099201959668,
+      171.13456688137845,
+      165.27407031694995,
+      169.7201951067395,
+      175.98836212555275,
+      181.00193847645303,
+      185.6637606396908,
+      181.2115507282384,
+      180.82487554122162
+    ]
   },
   {
     "NAF Nr": "101",
@@ -408,12 +799,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 169.77518353610245,
+    "bestRating": 192.51466835953616,
+    "worstRating": 150.24545485873344,
+    "tendency": -2.7241176724696743,
     "tournaments": 7,
     "gamesWon": 19,
     "gamesDraw": 6,
     "gamesLost": 12,
     "gamesTotal": 37,
-    "winRatio": 59.46
+    "winRatio": 59.46,
+    "_lastTenRatingsYear": [
+      172.49930120857212,
+      171.52163354176733,
+      164.94935163528893,
+      158.17812610749775,
+      163.12842752181024,
+      166.89034500418316,
+      171.04341704940865,
+      174.89221133040127,
+      169.25357960769585,
+      169.77518353610245
+    ]
   },
   {
     "NAF Nr": "102",
@@ -421,12 +827,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Undisclosed",
     "rating": 151.86396375879065,
+    "bestRating": 162.84823342885056,
+    "worstRating": 146.80833313725483,
+    "tendency": -0.3277232519714346,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 9,
-    "winRatio": 44.44
+    "winRatio": 44.44,
+    "_lastTenRatingsYear": [
+      152.19168701076208,
+      152.57666348163843,
+      146.80833313725483,
+      152.64123826020972,
+      159.55673553582588,
+      155.3612159411087,
+      162.84823342885056,
+      157.4737084663108,
+      151.86396375879065
+    ]
   },
   {
     "NAF Nr": "103",
@@ -434,12 +854,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 171.34517536074628,
+    "bestRating": 177.39453889766912,
+    "worstRating": 150,
+    "tendency": 9.910531609703327,
     "tournaments": 5,
     "gamesWon": 11,
     "gamesDraw": 2,
     "gamesLost": 7,
     "gamesTotal": 20,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      161.43464375104296,
+      155.34518312464098,
+      155.54824484883687,
+      161.04398280241756,
+      166.78677547483244,
+      173.9050255280119,
+      168.10600988201733,
+      172.64610288067206,
+      166.2450290024749,
+      171.34517536074628
+    ]
   },
   {
     "NAF Nr": "104",
@@ -447,12 +882,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 170.84149435310172,
+    "bestRating": 173.4672900585287,
+    "worstRating": 156,
+    "tendency": 8.841494353101723,
     "tournaments": 2,
     "gamesWon": 7,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 11,
-    "winRatio": 68.18
+    "winRatio": 68.18,
+    "_lastTenRatingsYear": [
+      162,
+      162,
+      168.01611219543133,
+      173.4672900585287,
+      167.18382111243668,
+      161.06547791621202,
+      166.75962825736985,
+      171.08818899568013,
+      165.4500338888463,
+      170.84149435310172
+    ]
   },
   {
     "NAF Nr": "105",
@@ -460,12 +910,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150.94380998439175,
+    "bestRating": 155.00562987680647,
+    "worstRating": 150.94380998439175,
+    "tendency": -0.4651706333280572,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      151.4089806177198,
+      155.00562987680647,
+      150.94380998439175
+    ]
   },
   {
     "NAF Nr": "106",
@@ -473,12 +931,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 142.98074104618655,
+    "bestRating": 160.86079044076948,
+    "worstRating": 142.98074104618655,
+    "tendency": -8.386493084294841,
     "tournaments": 3,
     "gamesWon": 7,
     "gamesDraw": 2,
     "gamesLost": 8,
     "gamesTotal": 17,
-    "winRatio": 47.06
+    "winRatio": 47.06,
+    "_lastTenRatingsYear": [
+      151.3672341304814,
+      146.3335766387595,
+      151.68958305399454,
+      157.03125407839985,
+      160.86079044076948,
+      156.40282499375496,
+      151.7221249471058,
+      147.32016540825165,
+      147.4200469125836,
+      142.98074104618655
+    ]
   },
   {
     "NAF Nr": "111",
@@ -486,12 +959,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 139.0651870590387,
+    "bestRating": 153.605551275464,
+    "worstRating": 139.0651870590387,
+    "tendency": -9.808110265580268,
     "tournaments": 5,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 9,
     "gamesTotal": 16,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      148.87329732461896,
+      149.16755968259773,
+      145.87380156004335,
+      149.05947127395964,
+      153.08370710795245,
+      153.22353251625063,
+      149.82595259016796,
+      146.0892935429724,
+      142.61104852362317,
+      139.0651870590387
+    ]
   },
   {
     "NAF Nr": "113",
@@ -499,12 +987,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 173.93084171474365,
+    "bestRating": 174.76487865486828,
+    "worstRating": 149.73657481030327,
+    "tendency": 12.729488152801821,
     "tournaments": 3,
     "gamesWon": 9,
     "gamesDraw": 1,
     "gamesLost": 5,
     "gamesTotal": 15,
-    "winRatio": 63.33
+    "winRatio": 63.33,
+    "_lastTenRatingsYear": [
+      161.20135356194183,
+      165.95187165378044,
+      170.75880047755533,
+      165.33717237714416,
+      170.3494965943139,
+      164.95803613005845,
+      169.9682813754023,
+      174.76487865486828,
+      168.84462613952283,
+      173.93084171474365
+    ]
   },
   {
     "NAF Nr": "116",
@@ -512,12 +1015,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 149.99760030308104,
+    "bestRating": 155.33927132748636,
+    "worstRating": 144.71722063330176,
+    "tendency": 0.516189143868786,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      149.48141115921226,
+      144.71722063330176,
+      150.12283498759422,
+      155.33927132748636,
+      149.99760030308104
+    ]
   },
   {
     "NAF Nr": "121",
@@ -525,12 +1038,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 170.2450206264201,
+    "bestRating": 170.2450206264201,
+    "worstRating": 154.99511430158998,
+    "tendency": 15.249906324830107,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 5,
-    "winRatio": 90
+    "winRatio": 90,
+    "_lastTenRatingsYear": [
+      154.99511430158998,
+      155.44296157903,
+      160.4766190707519,
+      165.435650081139,
+      170.2450206264201
+    ]
   },
   {
     "NAF Nr": "123",
@@ -538,12 +1061,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 180.1310120643303,
+    "bestRating": 180.1310120643303,
+    "worstRating": 150,
+    "tendency": 24.131012064330292,
     "tournaments": 2,
     "gamesWon": 7,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 11,
-    "winRatio": 77.27
+    "winRatio": 77.27,
+    "_lastTenRatingsYear": [
+      156,
+      155.98728445118655,
+      162.00340722672104,
+      156.29046988552204,
+      156.29208258063156,
+      160.33747953963365,
+      165.10167006554414,
+      170.5232981659553,
+      175.32117814907613,
+      180.1310120643303
+    ]
   },
   {
     "NAF Nr": "124",
@@ -551,12 +1089,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 132.3842380827309,
+    "bestRating": 144.34314575050763,
+    "worstRating": 132.3842380827309,
+    "tendency": -11.958907667776742,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      138.70953508554024,
+      138.72136643938967,
+      133.23792183223617,
+      132.3842380827309
+    ]
   },
   {
     "NAF Nr": "125",
@@ -564,12 +1112,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 194.28386538594083,
+    "bestRating": 194.28386538594083,
+    "worstRating": 155.65685424949237,
+    "tendency": 28.426138545815434,
     "tournaments": 3,
     "gamesWon": 11,
     "gamesDraw": 3,
     "gamesLost": 2,
     "gamesTotal": 16,
-    "winRatio": 78.13
+    "winRatio": 78.13,
+    "_lastTenRatingsYear": [
+      165.8577268401254,
+      171.06611113917145,
+      165.45518419802116,
+      169.82594436809282,
+      173.71936395698472,
+      178.35760043368694,
+      183.66030423213866,
+      189.02855565638546,
+      189.74151041223996,
+      194.28386538594083
+    ]
   },
   {
     "NAF Nr": "126",
@@ -577,12 +1140,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 166.50921222851497,
+    "bestRating": 168.93735316855515,
+    "worstRating": 139.66318492750196,
+    "tendency": 5.728762903914799,
     "tournaments": 5,
     "gamesWon": 11,
     "gamesDraw": 5,
     "gamesLost": 7,
     "gamesTotal": 23,
-    "winRatio": 58.7
+    "winRatio": 58.7,
+    "_lastTenRatingsYear": [
+      160.78044932460017,
+      152.9500534457901,
+      157.83025343373154,
+      161.95609851615197,
+      166.3087241740027,
+      163.84949619424313,
+      168.1739496740198,
+      168.567623167671,
+      163.0200957872363,
+      166.50921222851497
+    ]
   },
   {
     "NAF Nr": "127",
@@ -590,12 +1168,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 144.69153866793317,
+    "bestRating": 145.2001021400404,
+    "worstRating": 138.92215946393125,
+    "tendency": 0.32677203444086445,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      144.3647666334923,
+      138.92215946393125,
+      144.55222395736104,
+      145.2001021400404,
+      144.69153866793317
+    ]
   },
   {
     "NAF Nr": "128",
@@ -603,12 +1191,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 175.08451860708544,
+    "bestRating": 175.08451860708544,
+    "worstRating": 144.34314575050763,
+    "tendency": 20.766560774163423,
     "tournaments": 6,
     "gamesWon": 15,
     "gamesDraw": 5,
     "gamesLost": 11,
     "gamesTotal": 31,
-    "winRatio": 56.45
+    "winRatio": 56.45,
+    "_lastTenRatingsYear": [
+      154.31795783292202,
+      160.73309379170794,
+      165.41300607346255,
+      160.0230747358998,
+      154.57133132252395,
+      160.37744067439428,
+      166.49759382666673,
+      163.8900094673091,
+      169.30899066036898,
+      175.08451860708544
+    ]
   },
   {
     "NAF Nr": "129",
@@ -616,12 +1219,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 153.23762765912,
+    "bestRating": 160.91235986871976,
+    "worstRating": 144.1365152039814,
+    "tendency": 3.1945714472575446,
     "tournaments": 5,
     "gamesWon": 10,
     "gamesDraw": 5,
     "gamesLost": 9,
     "gamesTotal": 24,
-    "winRatio": 52.08
+    "winRatio": 52.08,
+    "_lastTenRatingsYear": [
+      150.04305621186245,
+      154.43793114658527,
+      154.20080331568425,
+      159.90344457388846,
+      154.36441370914676,
+      153.62785223523483,
+      158.7835036812819,
+      153.34124910148395,
+      148.13105259757174,
+      153.23762765912
+    ]
   },
   {
     "NAF Nr": "130",
@@ -629,12 +1247,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 136.86911508627028,
+    "bestRating": 167.3915566897159,
+    "worstRating": 136.86911508627028,
+    "tendency": -12.104099054857159,
     "tournaments": 5,
     "gamesWon": 9,
     "gamesDraw": 5,
     "gamesLost": 14,
     "gamesTotal": 28,
-    "winRatio": 41.07
+    "winRatio": 41.07,
+    "_lastTenRatingsYear": [
+      148.97321414112744,
+      149.21034197202846,
+      145.4485160822916,
+      146.39652967413338,
+      151.82685965368827,
+      145.897412288855,
+      152.22386738629288,
+      147.3438063962259,
+      141.81941650058278,
+      136.86911508627028
+    ]
   },
   {
     "NAF Nr": "131",
@@ -642,12 +1275,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 156.64110864355493,
+    "bestRating": 168.1565694435817,
+    "worstRating": 156.61053467873057,
+    "tendency": 0.030573964824355926,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      156.61053467873057,
+      162.2432378820242,
+      162.61753857884,
+      168.1565694435817,
+      162.14216392023567,
+      156.64110864355493
+    ]
   },
   {
     "NAF Nr": "132",
@@ -655,12 +1299,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 148.1458139084334,
+    "bestRating": 148.20002381116853,
+    "worstRating": 137.6853000044581,
+    "tendency": 3.8024364040185787,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 8,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      144.34337750441483,
+      137.6853000044581,
+      142.71657920401503,
+      148.20002381116853,
+      148.01462498656932,
+      142.35027928907513,
+      142.4553819434934,
+      148.1458139084334
+    ]
   },
   {
     "NAF Nr": "133",
@@ -668,12 +1325,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 156.63809434349275,
+    "bestRating": 172.42620160722137,
+    "worstRating": 150,
+    "tendency": -7.412977381337811,
     "tournaments": 4,
     "gamesWon": 13,
     "gamesDraw": 5,
     "gamesLost": 8,
     "gamesTotal": 26,
-    "winRatio": 59.62
+    "winRatio": 59.62,
+    "_lastTenRatingsYear": [
+      164.05107172483056,
+      166.22860746968226,
+      169.2320552773758,
+      172.42620160722137,
+      166.50383439715998,
+      159.8812011253411,
+      153.5667281132248,
+      159.08431356566513,
+      152.9536861043833,
+      156.63809434349275
+    ]
   },
   {
     "NAF Nr": "134",
@@ -681,12 +1353,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 150.19905733341898,
+    "bestRating": 155.88445865450163,
+    "worstRating": 150.19905733341898,
+    "tendency": -5.4577969160733915,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      155.67732674658217,
+      155.70682046716198,
+      155.88445865450163,
+      150.19905733341898
+    ]
   },
   {
     "NAF Nr": "137",
@@ -694,12 +1376,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 152.5850957460716,
+    "bestRating": 168.89622886612332,
+    "worstRating": 149.12820330895707,
+    "tendency": -3.3243560182257283,
     "tournaments": 3,
     "gamesWon": 10,
     "gamesDraw": 3,
     "gamesLost": 7,
     "gamesTotal": 20,
-    "winRatio": 57.5
+    "winRatio": 57.5,
+    "_lastTenRatingsYear": [
+      155.90945176429733,
+      159.2831006494847,
+      161.63325221693276,
+      164.67690674197968,
+      160.07044650084467,
+      164.04504988889332,
+      168.89622886612332,
+      164.49770069986843,
+      159.1506053184182,
+      152.5850957460716
+    ]
   },
   {
     "NAF Nr": "138",
@@ -707,12 +1404,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 138.74615263381747,
+    "bestRating": 162.41831426688583,
+    "worstRating": 138.74615263381747,
+    "tendency": -11.734691985485796,
     "tournaments": 5,
     "gamesWon": 9,
     "gamesDraw": 6,
     "gamesLost": 11,
     "gamesTotal": 26,
-    "winRatio": 46.15
+    "winRatio": 46.15,
+    "_lastTenRatingsYear": [
+      150.48084461930327,
+      145.35773844310515,
+      139.7106584902989,
+      145.56856117552226,
+      150.3893492308765,
+      156.05428577990656,
+      150.42158257661293,
+      150.35844881524267,
+      144.84086336280234,
+      138.74615263381747
+    ]
   },
   {
     "NAF Nr": "139",
@@ -720,12 +1432,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 144.5393445037939,
+    "bestRating": 154.89856262984844,
+    "worstRating": 142.58961920442107,
+    "tendency": -10.359218126054543,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 6,
     "gamesTotal": 10,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      154.89856262984844,
+      148.21088519462614,
+      142.58961920442107,
+      148.1467744962452,
+      154.27740195752702,
+      150.30941559348622,
+      146.14487002628985,
+      142.8597957830607,
+      148.6391162879243,
+      144.5393445037939
+    ]
   },
   {
     "NAF Nr": "140",
@@ -733,12 +1460,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 164.79785082234216,
+    "bestRating": 165.85356253303803,
+    "worstRating": 138.68629150101526,
+    "tendency": 12.196608748663806,
     "tournaments": 3,
     "gamesWon": 9,
     "gamesDraw": 1,
     "gamesLost": 6,
     "gamesTotal": 16,
-    "winRatio": 59.38
+    "winRatio": 59.38,
+    "_lastTenRatingsYear": [
+      152.60124207367835,
+      145.64374183634848,
+      153.12902613634094,
+      152.93495732500435,
+      158.46692652671405,
+      163.97637900185794,
+      159.7300569610887,
+      165.85356253303803,
+      159.84415059165772,
+      164.79785082234216
+    ]
   },
   {
     "NAF Nr": "141",
@@ -746,12 +1488,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 159.46144337423428,
+    "bestRating": 168.70905693102307,
+    "worstRating": 144.34314575050763,
+    "tendency": -2.753803973091806,
     "tournaments": 5,
     "gamesWon": 10,
     "gamesDraw": 7,
     "gamesLost": 8,
     "gamesTotal": 25,
-    "winRatio": 54
+    "winRatio": 54,
+    "_lastTenRatingsYear": [
+      162.21524734732608,
+      162.26678860051845,
+      161.5019365152401,
+      166.2438073693973,
+      159.3619703728838,
+      154.0165874542693,
+      160.03392160074347,
+      154.78704983947884,
+      160.47349080813197,
+      159.46144337423428
+    ]
   },
   {
     "NAF Nr": "142",
@@ -759,12 +1516,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 158.597555120642,
+    "bestRating": 159.8721398238764,
+    "worstRating": 150.06269644360572,
+    "tendency": 7.955014713705538,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 8,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      150.64254040693646,
+      154.86685494536573,
+      159.8721398238764,
+      159.7351450579418,
+      155.3820402346609,
+      150.06269644360572,
+      154.33859791955305,
+      158.597555120642
+    ]
   },
   {
     "NAF Nr": "143",
@@ -772,12 +1542,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 145.31611749123317,
+    "bestRating": 149.72519143816504,
+    "worstRating": 113.42459061357262,
+    "tendency": 26.100403903572584,
     "tournaments": 5,
     "gamesWon": 7,
     "gamesDraw": 5,
     "gamesLost": 11,
     "gamesTotal": 23,
-    "winRatio": 41.3
+    "winRatio": 41.3,
+    "_lastTenRatingsYear": [
+      119.21571358766059,
+      126.16681145740755,
+      133.4570294605547,
+      140.2988774695573,
+      135.7405230378615,
+      142.04264114204383,
+      137.5025481433891,
+      132.55638382009565,
+      138.86605630199202,
+      145.31611749123317
+    ]
   },
   {
     "NAF Nr": "144",
@@ -785,12 +1570,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 161.93071547886993,
+    "bestRating": 185.05597163566478,
+    "worstRating": 149.97306851748908,
+    "tendency": -18.217404027789513,
     "tournaments": 6,
     "gamesWon": 17,
     "gamesDraw": 4,
     "gamesLost": 11,
     "gamesTotal": 32,
-    "winRatio": 59.38
+    "winRatio": 59.38,
+    "_lastTenRatingsYear": [
+      180.14811950665944,
+      178.47467424873943,
+      177.2044232917895,
+      171.46649249763095,
+      176.09667396465534,
+      181.39333466235615,
+      175.49443507743396,
+      168.79385339995966,
+      168.03173224628242,
+      161.93071547886993
+    ]
   },
   {
     "NAF Nr": "145",
@@ -798,12 +1598,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Aruba",
     "rating": 143.90310603562605,
+    "bestRating": 161.7708515820508,
+    "worstRating": 143.90310603562605,
+    "tendency": -11.753748213866317,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      161.7708515820508,
+      155.90806409534645,
+      149.99981730860503,
+      143.90310603562605
+    ]
   },
   {
     "NAF Nr": "146",
@@ -811,12 +1621,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 163.99527089949072,
+    "bestRating": 174.74007209655693,
+    "worstRating": 138.68629150101526,
+    "tendency": 3.3629580782399557,
     "tournaments": 5,
     "gamesWon": 12,
     "gamesDraw": 7,
     "gamesLost": 9,
     "gamesTotal": 28,
-    "winRatio": 55.36
+    "winRatio": 55.36,
+    "_lastTenRatingsYear": [
+      160.63231282125076,
+      159.9393043214742,
+      159.29071412753163,
+      164.52106419168234,
+      170.09530881919576,
+      169.4932003352923,
+      174.74007209655693,
+      173.29410839261647,
+      170.48795730699547,
+      163.99527089949072
+    ]
   },
   {
     "NAF Nr": "147",
@@ -824,12 +1649,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 144.10918325935648,
+    "bestRating": 149.33826817377616,
+    "worstRating": 144.10918325935648,
+    "tendency": -0.22286871113712436,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      144.3320519704936,
+      144.57867289048372,
+      149.33826817377616,
+      144.10918325935648
+    ]
   },
   {
     "NAF Nr": "149",
@@ -837,12 +1671,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 156.92833545552844,
+    "bestRating": 160.43282054000275,
+    "worstRating": 138.67563436416575,
+    "tendency": 14.297120883847185,
     "tournaments": 5,
     "gamesWon": 9,
     "gamesDraw": 5,
     "gamesLost": 9,
     "gamesTotal": 23,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      142.63121457168126,
+      148.67211185293402,
+      144.91405048993326,
+      149.86997688289466,
+      150.14408188360014,
+      154.3243023930901,
+      154.92722167066012,
+      154.74004827240802,
+      160.43282054000275,
+      156.92833545552844
+    ]
   },
   {
     "NAF Nr": "150",
@@ -850,12 +1699,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 143.83221871573062,
+    "bestRating": 155.65685424949237,
+    "worstRating": 143.83221871573062,
+    "tendency": -11.82463553376175,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      150,
+      155.44115299411777,
+      149.54442056981026,
+      143.83221871573062
+    ]
   },
   {
     "NAF Nr": "151",
@@ -863,12 +1722,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 180.4969381389066,
+    "bestRating": 180.4969381389066,
+    "worstRating": 149.74448836361933,
+    "tendency": 25.08450174578087,
     "tournaments": 3,
     "gamesWon": 10,
     "gamesDraw": 3,
     "gamesLost": 4,
     "gamesTotal": 17,
-    "winRatio": 67.65
+    "winRatio": 67.65,
+    "_lastTenRatingsYear": [
+      155.41243639312572,
+      155.17210746600426,
+      155.18220292206712,
+      159.7591641904563,
+      154.09646714443397,
+      159.9104758668101,
+      165.92488139015612,
+      170.48323582185193,
+      176.17262036605862,
+      180.4969381389066
+    ]
   },
   {
     "NAF Nr": "152",
@@ -876,12 +1750,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 159.85060882408797,
+    "bestRating": 173.23333961359046,
+    "worstRating": 144.34314575050763,
+    "tendency": -5.622661252097544,
     "tournaments": 4,
     "gamesWon": 8,
     "gamesDraw": 6,
     "gamesLost": 6,
     "gamesTotal": 20,
-    "winRatio": 55
+    "winRatio": 55,
+    "_lastTenRatingsYear": [
+      165.4732700761855,
+      160.17274903519132,
+      159.64309942824553,
+      154.26636288236065,
+      154.0994523616521,
+      160.7336046259095,
+      166.36531916139703,
+      160.36958070451269,
+      160.21562659547058,
+      159.85060882408797
+    ]
   },
   {
     "NAF Nr": "153",
@@ -889,12 +1778,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 150.51632586599894,
+    "bestRating": 156.5982265852155,
+    "worstRating": 138.67532696228022,
+    "tendency": 11.840998903718713,
     "tournaments": 3,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 6,
     "gamesTotal": 14,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      138.67532696228022,
+      144.559073973355,
+      150.73689037942668,
+      156.5982265852155,
+      151.08892936764795,
+      149.63243293997192,
+      155.25539012046104,
+      149.55274886225686,
+      155.23756919324143,
+      150.51632586599894
+    ]
   },
   {
     "NAF Nr": "154",
@@ -902,12 +1806,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 152.98095793879435,
+    "bestRating": 153.57394414367553,
+    "worstRating": 149.43509647420987,
+    "tendency": -0.5929862048811856,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      153.57394414367553,
+      149.43509647420987,
+      152.98095793879435
+    ]
   },
   {
     "NAF Nr": "163",
@@ -915,12 +1827,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 154.74344522397,
+    "bestRating": 154.83242733967188,
+    "worstRating": 152.24490492219803,
+    "tendency": 2.2939554811868277,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      152.4494897427832,
+      154.83242733967188,
+      152.24490492219803,
+      154.74344522397
+    ]
   },
   {
     "NAF Nr": "166",
@@ -928,12 +1849,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 156.3190330769306,
+    "bestRating": 162.67227044505077,
+    "worstRating": 146.394448724536,
+    "tendency": 9.92458435239459,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 8,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      146.394448724536,
+      150,
+      153.31237886303833,
+      156.82628433992215,
+      159.66924700223115,
+      162.67227044505077,
+      159.38139729082846,
+      156.3190330769306
+    ]
   },
   {
     "NAF Nr": "167",
@@ -941,12 +1875,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 153.32014227285032,
+    "bestRating": 153.32014227285032,
+    "worstRating": 146.19509486972802,
+    "tendency": 7.125047403122295,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      146.19509486972802,
+      149.90881818124754,
+      153.32014227285032
+    ]
   },
   {
     "NAF Nr": "168",
@@ -954,12 +1896,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 156.43074783319713,
+    "bestRating": 156.43074783319713,
+    "worstRating": 153.2908731542223,
+    "tendency": 3.13987467897482,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 0,
     "gamesTotal": 2,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatingsYear": [
+      153.2908731542223,
+      156.43074783319713
+    ]
   },
   {
     "NAF Nr": "170",
@@ -967,12 +1916,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 158.23649127303614,
+    "bestRating": 159.07728212359004,
+    "worstRating": 155.2767804101809,
+    "tendency": 2.579637023543768,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 7,
-    "winRatio": 64.29
+    "winRatio": 64.29,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      155.65685424949237,
+      155.64619711264285,
+      159.07728212359004,
+      155.2767804101809,
+      158.75502542953012,
+      158.23649127303614
+    ]
   },
   {
     "NAF Nr": "171",
@@ -980,12 +1941,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 154.32355341872966,
+    "bestRating": 160.8285951264744,
+    "worstRating": 146.49420194853766,
+    "tendency": -2.349010228729071,
     "tournaments": 4,
     "gamesWon": 8,
     "gamesDraw": 0,
     "gamesLost": 7,
     "gamesTotal": 15,
-    "winRatio": 53.33
+    "winRatio": 53.33,
+    "_lastTenRatingsYear": [
+      156.67256364745873,
+      159.7349278613566,
+      156.30828506639693,
+      159.38022423390865,
+      155.73962387715886,
+      152.866486703614,
+      157.02809341306525,
+      160.8285951264744,
+      158.20764845628125,
+      154.32355341872966
+    ]
   },
   {
     "NAF Nr": "172",
@@ -993,12 +1969,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 207.11298060199223,
+    "bestRating": 214.9356575275742,
+    "worstRating": 144.57762878688783,
+    "tendency": 10.330686426257216,
     "tournaments": 7,
     "gamesWon": 27,
     "gamesDraw": 3,
     "gamesLost": 10,
     "gamesTotal": 40,
-    "winRatio": 71.25
+    "winRatio": 71.25,
+    "_lastTenRatingsYear": [
+      196.78229417573502,
+      199.7206202168264,
+      193.43366473739675,
+      196.91740412089217,
+      200.84736521326442,
+      204.35934276974558,
+      207.64441701297474,
+      211.39214038364315,
+      214.9356575275742,
+      207.11298060199223
+    ]
   },
   {
     "NAF Nr": "176",
@@ -1006,12 +1997,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "rating": 157.0058590554171,
+    "bestRating": 157.01783667234054,
+    "worstRating": 153.54890362359257,
+    "tendency": 3.449675733662673,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      153.55618332175442,
+      157.01783667234054,
+      153.54890362359257,
+      157.0058590554171
+    ]
   },
   {
     "NAF Nr": "179",
@@ -1019,12 +2019,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Austria",
     "rating": 133.53908713712428,
+    "bestRating": 143.51925930159214,
+    "worstRating": 124.89374587568396,
+    "tendency": -9.98017216446786,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 6,
     "gamesTotal": 9,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      143.51925930159214,
+      137.37110159219662,
+      131.19595282657062,
+      138.62128152618283,
+      131.55009327041572,
+      124.89374587568396,
+      132.24947719382342,
+      139.92897504271883,
+      133.53908713712428
+    ]
   },
   {
     "NAF Nr": "181",
@@ -1032,12 +2046,22 @@ const statsYear2004 = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "rating": 162.91428622118482,
+    "bestRating": 163.8410426337221,
+    "worstRating": 150.04455388497004,
+    "tendency": 5.148932115598512,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatingsYear": [
+      157.7653541055863,
+      150.04455388497004,
+      157.3276203888678,
+      163.8410426337221,
+      162.91428622118482
+    ]
   },
   {
     "NAF Nr": "182",
@@ -1045,12 +2069,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 145.45408348682557,
+    "bestRating": 150.3911166116731,
+    "worstRating": 145.1004360388692,
+    "tendency": -4.545916513174433,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      150,
+      145.1004360388692,
+      150.3911166116731,
+      145.45408348682557
+    ]
   },
   {
     "NAF Nr": "184",
@@ -1058,12 +2091,22 @@ const statsYear2004 = [
     "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 143.87332574769076,
+    "bestRating": 149.82391373255584,
+    "worstRating": 143.87332574769076,
+    "tendency": -5.9272186998472876,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      149.80054444753804,
+      144.51016894154387,
+      149.82391373255584,
+      146.75952148723982,
+      143.87332574769076
+    ]
   },
   {
     "NAF Nr": "185",
@@ -1071,12 +2114,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 161.29241529227,
+    "bestRating": 161.29241529227,
+    "worstRating": 150,
+    "tendency": 11.292415292269993,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 3,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatingsYear": [
+      150,
+      155.8916711665294,
+      161.29241529227
+    ]
   },
   {
     "NAF Nr": "188",
@@ -1084,12 +2135,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 135.98521840280364,
+    "bestRating": 155.07120858544917,
+    "worstRating": 135.98521840280364,
+    "tendency": -19.08599018264553,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      155.07120858544917,
+      149.56175611030528,
+      142.61065824055834,
+      147.19039774721114,
+      142.40755734140458,
+      135.98521840280364
+    ]
   },
   {
     "NAF Nr": "190",
@@ -1097,12 +2159,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 139.9815649774137,
+    "bestRating": 159.9985834747236,
+    "worstRating": 139.9815649774137,
+    "tendency": -15.117454536179082,
     "tournaments": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 7,
-    "winRatio": 35.71
+    "winRatio": 35.71,
+    "_lastTenRatingsYear": [
+      155.0990195135928,
+      159.9985834747236,
+      154.50902156488098,
+      151.58274724038276,
+      145.65489636983392,
+      146.05405019140818,
+      139.9815649774137
+    ]
   },
   {
     "NAF Nr": "192",
@@ -1110,12 +2184,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "rating": 166.43296906343195,
+    "bestRating": 172.76283764014778,
+    "worstRating": 155.64619711264285,
+    "tendency": 5.119260564447217,
     "tournaments": 2,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 11,
-    "winRatio": 63.64
+    "winRatio": 63.64,
+    "_lastTenRatingsYear": [
+      161.31370849898474,
+      155.64619711264285,
+      161.53952044971575,
+      167.23452955618012,
+      162.0456223612593,
+      162.81077706236368,
+      167.9338832385618,
+      168.11406634726745,
+      172.76283764014778,
+      166.43296906343195
+    ]
   },
   {
     "NAF Nr": "195",
@@ -1123,12 +2212,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 180.3318122569416,
+    "bestRating": 180.3318122569416,
+    "worstRating": 155.0990195135928,
+    "tendency": 20.333228782217986,
     "tournaments": 3,
     "gamesWon": 9,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 11,
-    "winRatio": 86.36
+    "winRatio": 86.36,
+    "_lastTenRatingsYear": [
+      159.9985834747236,
+      160.88515650158504,
+      165.75793288486,
+      170.66352921319253,
+      172.54790411416485,
+      170.11469708181,
+      172.2509132307252,
+      174.6009378082663,
+      176.96105712282645,
+      180.3318122569416
+    ]
   },
   {
     "NAF Nr": "196",
@@ -1136,12 +2240,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 143.99734478332172,
+    "bestRating": 158.62612385805556,
+    "worstRating": 143.87663417964356,
+    "tendency": -0.19135062971167827,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 5,
     "gamesLost": 4,
     "gamesTotal": 12,
-    "winRatio": 45.83
+    "winRatio": 45.83,
+    "_lastTenRatingsYear": [
+      144.1886954130334,
+      143.87663417964356,
+      149.21372055453776,
+      149.04351871580138,
+      148.51317041887324,
+      153.89891444450188,
+      158.62612385805556,
+      153.33416022542713,
+      147.25173610319882,
+      143.99734478332172
+    ]
   },
   {
     "NAF Nr": "198",
@@ -1149,12 +2268,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 155.53288325512477,
+    "bestRating": 160.9352250842635,
+    "worstRating": 150.1088021395727,
+    "tendency": 0.058354648635912554,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 7,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.47452860648886,
+      150.1088021395727,
+      155.50715764051995,
+      160.9352250842635,
+      158.28062872201167,
+      155.6324968709608,
+      155.53288325512477
+    ]
   },
   {
     "NAF Nr": "200",
@@ -1162,12 +2293,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 145.18520082727395,
+    "bestRating": 150.02603069703434,
+    "worstRating": 144.9009804864072,
+    "tendency": 0.28422034086673875,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      144.9009804864072,
+      150,
+      150.02603069703434,
+      145.16140094668907,
+      145.18520082727395
+    ]
   },
   {
     "NAF Nr": "201",
@@ -1175,12 +2316,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 144.37334277016174,
+    "bestRating": 150.0315676213778,
+    "worstRating": 144.34314575050763,
+    "tendency": 0.03019701965411059,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      150.0315676213778,
+      144.37334277016174
+    ]
   },
   {
     "NAF Nr": "203",
@@ -1188,12 +2337,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 135.14895907777912,
+    "bestRating": 141.6595880334421,
+    "worstRating": 133.92161591890465,
+    "tendency": -6.51062895566298,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      141.6595880334421,
+      133.92161591890465,
+      135.14895907777912
+    ]
   },
   {
     "NAF Nr": "207",
@@ -1201,12 +2358,27 @@ const statsYear2004 = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 195.05765854398882,
+    "bestRating": 195.05765854398882,
+    "worstRating": 143.93556564020665,
+    "tendency": 37.67650467900012,
     "tournaments": 8,
     "gamesWon": 17,
     "gamesDraw": 7,
     "gamesLost": 9,
     "gamesTotal": 33,
-    "winRatio": 62.12
+    "winRatio": 62.12,
+    "_lastTenRatingsYear": [
+      157.3811538649887,
+      164.53098551524937,
+      169.3393128832475,
+      172.211070300829,
+      172.2357821258036,
+      175.1734693666663,
+      180.2463721148756,
+      184.89797456450336,
+      189.73687810789784,
+      195.05765854398882
+    ]
   },
   {
     "NAF Nr": "208",
@@ -1214,12 +2386,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 149.02064013064023,
+    "bestRating": 162.10540267947374,
+    "worstRating": 149.02064013064023,
+    "tendency": -6.636214118852138,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 7,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      161.06333937978883,
+      156.4903277019198,
+      162.10540267947374,
+      156.12214063687682,
+      156.13182168354155,
+      149.02064013064023
+    ]
   },
   {
     "NAF Nr": "210",
@@ -1227,12 +2411,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 164.58800866169844,
+    "bestRating": 167.2702461711216,
+    "worstRating": 154.96155087364775,
+    "tendency": 8.93115441220607,
     "tournaments": 3,
     "gamesWon": 6,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 8,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      160.8444237936996,
+      154.96155087364775,
+      160.63915342765958,
+      162.8890648691436,
+      165.09702079751412,
+      167.2702461711216,
+      164.58800866169844
+    ]
   },
   {
     "NAF Nr": "211",
@@ -1240,12 +2437,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 144.53204308607374,
+    "bestRating": 150,
+    "worstRating": 144.53204308607374,
+    "tendency": -5.467956913926258,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      150,
+      144.70931942719608,
+      144.53204308607374
+    ]
   },
   {
     "NAF Nr": "212",
@@ -1253,12 +2458,27 @@ const statsYear2004 = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 175.28085879548388,
+    "bestRating": 180.0081011146052,
+    "worstRating": 152.7744243495475,
+    "tendency": 5.078444032939558,
     "tournaments": 9,
     "gamesWon": 18,
     "gamesDraw": 5,
     "gamesLost": 11,
     "gamesTotal": 34,
-    "winRatio": 60.29
+    "winRatio": 60.29,
+    "_lastTenRatingsYear": [
+      170.20241476254432,
+      165.05018257286946,
+      171.14289287248363,
+      170.06351252628298,
+      173.14052265019723,
+      173.1158108252226,
+      177.77942365043498,
+      170.93439419780725,
+      170.12053470990276,
+      175.28085879548388
+    ]
   },
   {
     "NAF Nr": "219",
@@ -1266,12 +2486,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "rating": 173.2932210607992,
+    "bestRating": 179.67671644862827,
+    "worstRating": 157.74596669241484,
+    "tendency": 15.547254368384358,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 8,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      157.74596669241484,
+      165.03195818116234,
+      172.76968083479568,
+      178.98514824430168,
+      179.67671644862827,
+      176.67874168708468,
+      173.73457213999592,
+      173.2932210607992
+    ]
   },
   {
     "NAF Nr": "224",
@@ -1279,12 +2512,27 @@ const statsYear2004 = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "rating": 147.98172515316787,
+    "bestRating": 150.01065713684952,
+    "worstRating": 132.14687164182004,
+    "tendency": 8.339598670533888,
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 3,
     "gamesLost": 6,
     "gamesTotal": 14,
-    "winRatio": 46.43
+    "winRatio": 46.43,
+    "_lastTenRatingsYear": [
+      139.64212648263398,
+      132.51066712130677,
+      132.14687164182004,
+      140.51970700646993,
+      148.5086685224889,
+      149.1024761280587,
+      143.48458991853352,
+      148.77725178467534,
+      142.91730786626593,
+      147.98172515316787
+    ]
   },
   {
     "NAF Nr": "227",
@@ -1292,12 +2540,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150.4307390836219,
+    "bestRating": 150.4307390836219,
+    "worstRating": 147.79204407162948,
+    "tendency": 2.638695011992411,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      147.79204407162948,
+      150.33112546778585,
+      150.4307390836219
+    ]
   },
   {
     "NAF Nr": "229",
@@ -1305,12 +2561,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 144.23372898372443,
+    "bestRating": 157.74596669241484,
+    "worstRating": 142.7663421837835,
+    "tendency": -13.512237708690407,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      157.74596669241484,
+      157.74596669241484,
+      150.47211571545003,
+      142.7663421837835,
+      151.43430121177377,
+      144.23372898372443
+    ]
   },
   {
     "NAF Nr": "230",
@@ -1318,12 +2585,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 138.75256885697016,
+    "bestRating": 150.0228501900287,
+    "worstRating": 138.75256885697016,
+    "tendency": -5.590576893537474,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      150.0228501900287,
+      144.1509243579174,
+      138.75256885697016
+    ]
   },
   {
     "NAF Nr": "231",
@@ -1331,12 +2607,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 164.94601432685283,
+    "bestRating": 164.94601432685283,
+    "worstRating": 152.9979747615436,
+    "tendency": 11.948039565309244,
     "tournaments": 2,
     "gamesWon": 6,
     "gamesDraw": 0,
     "gamesLost": 0,
     "gamesTotal": 6,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatingsYear": [
+      152.9979747615436,
+      155.4464529379134,
+      157.80189038181618,
+      160.0590455040073,
+      162.554418101558,
+      164.94601432685283
+    ]
   },
   {
     "NAF Nr": "237",
@@ -1344,12 +2631,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 136.14579367799516,
+    "bestRating": 143.06076346450772,
+    "worstRating": 134.84896700457628,
+    "tendency": -6.1082396295900026,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      142.25403330758516,
+      134.84896700457628,
+      143.06076346450772,
+      136.14579367799516
+    ]
   },
   {
     "NAF Nr": "247",
@@ -1357,12 +2654,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 168.68421912071128,
+    "bestRating": 168.68421912071128,
+    "worstRating": 141.8912257905507,
+    "tendency": 18.14686923266018,
     "tournaments": 2,
     "gamesWon": 7,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 12,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      150.5373498880511,
+      159.16148731947865,
+      166.38977583337996,
+      159.4022197959333,
+      164.53363725822996,
+      159.1629333227563,
+      163.8891400220904,
+      168.15412433998418,
+      163.1491320758479,
+      168.68421912071128
+    ]
   },
   {
     "NAF Nr": "248",
@@ -1370,12 +2682,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 147.57358029480926,
+    "bestRating": 160.1980390271856,
+    "worstRating": 147.57358029480926,
+    "tendency": -7.525439218783532,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      155.0990195135928,
+      160.1980390271856,
+      155.0990195135928,
+      151.03802024567202,
+      151.38087859372985,
+      147.57358029480926
+    ]
   },
   {
     "NAF Nr": "249",
@@ -1383,12 +2706,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 150.5431297584221,
+    "bestRating": 157.74596669241484,
+    "worstRating": 144.12679819507824,
+    "tendency": -7.202836933992728,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      157.74596669241484,
+      151.46932764644785,
+      144.12679819507824,
+      150.5431297584221
+    ]
   },
   {
     "NAF Nr": "256",
@@ -1396,12 +2728,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 166.12734515674418,
+    "bestRating": 185.3300121934042,
+    "worstRating": 157.74560402460193,
+    "tendency": 1.0957281579181881,
     "tournaments": 2,
     "gamesWon": 6,
     "gamesDraw": 3,
     "gamesLost": 3,
     "gamesTotal": 12,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      165.031616998826,
+      171.454602692702,
+      178.21995029566594,
+      185.3300121934042,
+      183.49028219056248,
+      177.1864391191009,
+      170.42732971309073,
+      174.84815014555025,
+      167.47834011981135,
+      166.12734515674418
+    ]
   },
   {
     "NAF Nr": "264",
@@ -1409,12 +2756,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 170.3263115970178,
+    "bestRating": 170.35877612075234,
+    "worstRating": 144.14959069502672,
+    "tendency": 18.595192910077202,
     "tournaments": 5,
     "gamesWon": 15,
     "gamesDraw": 2,
     "gamesLost": 10,
     "gamesTotal": 27,
-    "winRatio": 59.26
+    "winRatio": 59.26,
+    "_lastTenRatingsYear": [
+      151.7311186869406,
+      146.03850607557894,
+      151.6625760559292,
+      158.55875783566933,
+      164.16850254318948,
+      169.05243168470417,
+      164.00906982976488,
+      163.40985135758788,
+      164.1444346943265,
+      170.3263115970178
+    ]
   },
   {
     "NAF Nr": "268",
@@ -1422,12 +2784,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 139.80726074076716,
+    "bestRating": 150.24545485873347,
+    "worstRating": 139.80726074076716,
+    "tendency": -4.535885009740468,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      150.24545485873347,
+      150.23479772188395,
+      150.2352604330339,
+      145.28054458222695,
+      139.80726074076716
+    ]
   },
   {
     "NAF Nr": "270",
@@ -1435,12 +2808,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 154.822795417663,
+    "bestRating": 160.0232701205362,
+    "worstRating": 154.3863697892169,
+    "tendency": -0.5779677704584003,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      155.4007631881214,
+      155.12471004884046,
+      160.0232701205362,
+      154.3863697892169,
+      159.4529768846874,
+      154.822795417663
+    ]
   },
   {
     "NAF Nr": "272",
@@ -1448,12 +2832,22 @@ const statsYear2004 = [
     "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 146.79749186220533,
+    "bestRating": 156.84502945262773,
+    "worstRating": 140.88736760347442,
+    "tendency": -10.047537590422394,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      156.84502945262773,
+      152.19342700299998,
+      146.99863296657807,
+      140.88736760347442,
+      146.79749186220533
+    ]
   },
   {
     "NAF Nr": "283",
@@ -1461,12 +2855,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "rating": 153.28180599377544,
+    "bestRating": 153.28180599377544,
+    "worstRating": 143.19477609667925,
+    "tendency": 8.380825507368229,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      144.9009804864072,
+      143.19477609667925,
+      147.85686300045742,
+      153.28180599377544
+    ]
   },
   {
     "NAF Nr": "285",
@@ -1474,12 +2877,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 149.97372056339813,
+    "bestRating": 150,
+    "worstRating": 143.98728445118655,
+    "tendency": -0.026279436601868156,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      150,
+      150,
+      150,
+      143.98728445118655,
+      149.97372056339813
+    ]
   },
   {
     "NAF Nr": "296",
@@ -1487,12 +2900,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 165.14204556952956,
+    "bestRating": 182.54892541234264,
+    "worstRating": 144.0783170605121,
+    "tendency": -6.5819232994385,
     "tournaments": 5,
     "gamesWon": 12,
     "gamesDraw": 5,
     "gamesLost": 8,
     "gamesTotal": 25,
-    "winRatio": 58
+    "winRatio": 58,
+    "_lastTenRatingsYear": [
+      171.72396886896806,
+      165.84626473086547,
+      169.54340030960307,
+      173.25006274958739,
+      167.77823173383103,
+      162.38417467831655,
+      161.94303440634215,
+      165.81022083028807,
+      169.91670639501916,
+      165.14204556952956
+    ]
   },
   {
     "NAF Nr": "314",
@@ -1500,12 +2928,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 141.3288031421388,
+    "bestRating": 157.25165822433465,
+    "worstRating": 141.3288031421388,
+    "tendency": -0.9024350539585271,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      142.23123819609734,
+      149.96350460888232,
+      157.25165822433465,
+      149.10686493731401,
+      141.3288031421388
+    ]
   },
   {
     "NAF Nr": "327",
@@ -1513,12 +2951,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 149.44757854688308,
+    "bestRating": 149.44757854688308,
+    "worstRating": 146.71333335134014,
+    "tendency": 2.7342451955429397,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      146.71333335134014,
+      146.7874257240747,
+      149.44757854688308
+    ]
   },
   {
     "NAF Nr": "329",
@@ -1526,12 +2972,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 163.9756527005234,
+    "bestRating": 166.96827479431985,
+    "worstRating": 155.39452940700505,
+    "tendency": 6.2385329929489615,
     "tournaments": 3,
     "gamesWon": 10,
     "gamesDraw": 1,
     "gamesLost": 6,
     "gamesTotal": 17,
-    "winRatio": 61.76
+    "winRatio": 61.76,
+    "_lastTenRatingsYear": [
+      157.73711970757444,
+      160.22301458916127,
+      162.33533889389096,
+      165.4546187829772,
+      163.15880365242646,
+      164.95749257807603,
+      162.77067944476917,
+      164.5507073261884,
+      162.24243650640557,
+      163.9756527005234
+    ]
   },
   {
     "NAF Nr": "340",
@@ -1539,12 +3000,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 122.52161028985678,
+    "bestRating": 157.66971317059833,
+    "worstRating": 122.52161028985678,
+    "tendency": -19.19786629597162,
     "tournaments": 5,
     "gamesWon": 9,
     "gamesDraw": 5,
     "gamesLost": 15,
     "gamesTotal": 29,
-    "winRatio": 39.66
+    "winRatio": 39.66,
+    "_lastTenRatingsYear": [
+      141.7194765858284,
+      147.59839359198094,
+      153.6598161266668,
+      154.31158465393986,
+      148.7403197453215,
+      142.1561060934007,
+      137.89545082482795,
+      132.18339427312188,
+      126.77319674825678,
+      122.52161028985678
+    ]
   },
   {
     "NAF Nr": "341",
@@ -1552,12 +3028,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 129.04928807290113,
+    "bestRating": 157.74596669241484,
+    "worstRating": 129.04928807290113,
+    "tendency": -15.672227232751027,
     "tournaments": 5,
     "gamesWon": 5,
     "gamesDraw": 4,
     "gamesLost": 11,
     "gamesTotal": 20,
-    "winRatio": 35
+    "winRatio": 35,
+    "_lastTenRatingsYear": [
+      144.72151530565216,
+      144.75980372787203,
+      140.3562110844978,
+      134.4881280878476,
+      134.6606600260047,
+      140.48704048796765,
+      137.9987615711545,
+      133.401711284218,
+      129.12580980827067,
+      129.04928807290113
+    ]
   },
   {
     "NAF Nr": "347",
@@ -1565,12 +3056,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 141.26150044687586,
+    "bestRating": 156.47464171071596,
+    "worstRating": 138.53972007771668,
+    "tendency": -15.2131412638401,
     "tournaments": 4,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 8,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      156.47464171071596,
+      148.64891391239385,
+      147.0869975893167,
+      149.8603231679339,
+      150.11183080809883,
+      144.29657886646467,
+      138.53972007771668,
+      141.26150044687586
+    ]
   },
   {
     "NAF Nr": "372",
@@ -1578,12 +3082,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 209.09091933732708,
+    "bestRating": 216.05407974726617,
+    "worstRating": 144.34314575050763,
+    "tendency": 7.865071450046571,
     "tournaments": 6,
     "gamesWon": 21,
     "gamesDraw": 4,
     "gamesLost": 4,
     "gamesTotal": 29,
-    "winRatio": 79.31
+    "winRatio": 79.31,
+    "_lastTenRatingsYear": [
+      201.2258478872805,
+      194.10759783410106,
+      198.36395964573967,
+      202.4294854982831,
+      205.82145469449645,
+      210.9025559604269,
+      209.15625539206493,
+      212.48666898338337,
+      216.05407974726617,
+      209.09091933732708
+    ]
   },
   {
     "NAF Nr": "379",
@@ -1591,12 +3110,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 187.01492169809342,
+    "bestRating": 187.01492169809342,
+    "worstRating": 157.74596669241484,
+    "tendency": 29.268955005678578,
     "tournaments": 1,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 0,
     "gamesTotal": 5,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatingsYear": [
+      157.74596669241484,
+      165.12723487247357,
+      173.1159413692734,
+      180.5719459290474,
+      187.01492169809342
+    ]
   },
   {
     "NAF Nr": "419",
@@ -1604,12 +3133,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 179.90635464917776,
+    "bestRating": 189.03991430180923,
+    "worstRating": 155.65685424949237,
+    "tendency": 12.663723788828605,
     "tournaments": 4,
     "gamesWon": 9,
     "gamesDraw": 5,
     "gamesLost": 4,
     "gamesTotal": 18,
-    "winRatio": 63.89
+    "winRatio": 63.89,
+    "_lastTenRatingsYear": [
+      167.24263086034915,
+      161.89762010788482,
+      168.9382032622822,
+      176.44996202238482,
+      175.37709398058516,
+      182.76327525584225,
+      189.03991430180923,
+      181.8558182124165,
+      187.00805040209136,
+      179.90635464917776
+    ]
   },
   {
     "NAF Nr": "436",
@@ -1617,12 +3161,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 150.27362944716248,
+    "bestRating": 152.93232665290023,
+    "worstRating": 147.17157287525382,
+    "tendency": 3.102056571908662,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      147.17157287525382,
+      150,
+      152.8145223690523,
+      150.04778288928432,
+      152.93232665290023,
+      150.27362944716248
+    ]
   },
   {
     "NAF Nr": "438",
@@ -1630,12 +3185,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 129.48995728225495,
+    "bestRating": 155.9160797830996,
+    "worstRating": 129.12475285565282,
+    "tendency": -26.426122500844656,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 7,
     "gamesTotal": 11,
-    "winRatio": 22.73
+    "winRatio": 22.73,
+    "_lastTenRatingsYear": [
+      155.9160797830996,
+      150.2441668694522,
+      150.25580393482048,
+      144.34135306719563,
+      138.4580298594763,
+      136.00543480326854,
+      133.58987083733192,
+      131.47754653260222,
+      129.12475285565282,
+      129.48995728225495
+    ]
   },
   {
     "NAF Nr": "439",
@@ -1643,12 +3213,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 185.08437275314213,
+    "bestRating": 185.90783751167763,
+    "worstRating": 150,
+    "tendency": 29.16829297004253,
     "tournaments": 2,
     "gamesWon": 10,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 12,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatingsYear": [
+      155.9160797830996,
+      161.56370911478263,
+      167.46887788631514,
+      173.85434875880443,
+      179.70287157603462,
+      181.76642906205257,
+      183.77958864164003,
+      185.90783751167763,
+      182.78855762259138,
+      185.08437275314213
+    ]
   },
   {
     "NAF Nr": "441",
@@ -1656,12 +3241,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 144.0958559629647,
+    "bestRating": 152.82842712474618,
+    "worstRating": 144.0958559629647,
+    "tendency": -8.732571161781493,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      152.82842712474618,
+      150,
+      147.04853747211013,
+      149.82090478240838,
+      146.86162152805832,
+      144.0958559629647
+    ]
   },
   {
     "NAF Nr": "442",
@@ -1669,12 +3265,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 152.51429440059735,
+    "bestRating": 152.63307259911963,
+    "worstRating": 147.17157287525382,
+    "tendency": 5.342721525343535,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      147.17157287525382,
+      149.99968459674733,
+      149.876964001573,
+      152.63307259911963,
+      149.74852883550372,
+      152.51429440059735
+    ]
   },
   {
     "NAF Nr": "443",
@@ -1682,12 +3289,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "rating": 169.50274050286362,
+    "bestRating": 174.24877434300114,
+    "worstRating": 155.9160797830996,
+    "tendency": -4.12670936628831,
     "tournaments": 2,
     "gamesWon": 7,
     "gamesDraw": 3,
     "gamesLost": 3,
     "gamesTotal": 13,
-    "winRatio": 65.38
+    "winRatio": 65.38,
+    "_lastTenRatingsYear": [
+      173.62944986915193,
+      167.21216924528753,
+      166.89799807306903,
+      172.76522417070217,
+      172.21823610359112,
+      171.68413625704298,
+      174.24877434300114,
+      170.44360033053084,
+      166.86859518865595,
+      169.50274050286362
+    ]
   },
   {
     "NAF Nr": "448",
@@ -1695,12 +3317,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 149.89802270527304,
+    "bestRating": 155.9160797830996,
+    "worstRating": 143.94090420390094,
+    "tendency": -6.018057077826569,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 7,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.9160797830996,
+      149.4642023144732,
+      154.88072364316167,
+      154.8790781070415,
+      148.9546693836001,
+      143.94090420390094,
+      149.89802270527304
+    ]
   },
   {
     "NAF Nr": "453",
@@ -1708,12 +3342,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 144.0872635095291,
+    "bestRating": 149.27511247168488,
+    "worstRating": 141.4943506772131,
+    "tendency": -2.38685590013813,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 7,
-    "winRatio": 35.71
+    "winRatio": 35.71,
+    "_lastTenRatingsYear": [
+      146.47411940966722,
+      149.27511247168488,
+      147.57565090211202,
+      147.08932262710712,
+      144.21220374308018,
+      141.4943506772131,
+      144.0872635095291
+    ]
   },
   {
     "NAF Nr": "458",
@@ -1721,12 +3367,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 179.8586903096246,
+    "bestRating": 179.8586903096246,
+    "worstRating": 144.0839202169004,
+    "tendency": 35.7747700927242,
     "tournaments": 1,
     "gamesWon": 6,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 7,
-    "winRatio": 85.71
+    "winRatio": 85.71,
+    "_lastTenRatingsYear": [
+      144.0839202169004,
+      150.5357976855268,
+      156.4275483239391,
+      162.5651079629879,
+      168.9823885868523,
+      173.99615376655146,
+      179.8586903096246
+    ]
   },
   {
     "NAF Nr": "459",
@@ -1734,12 +3392,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 166.5179711147453,
+    "bestRating": 172.3664939319755,
+    "worstRating": 155.9160797830996,
+    "tendency": 10.601891331645703,
     "tournaments": 1,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 7,
-    "winRatio": 71.43
+    "winRatio": 71.43,
+    "_lastTenRatingsYear": [
+      155.9160797830996,
+      161.8321595661992,
+      167.23658024468912,
+      161.34318005394755,
+      167.23495580711995,
+      172.3664939319755,
+      166.5179711147453
+    ]
   },
   {
     "NAF Nr": "460",
@@ -1747,12 +3417,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 138.887585622085,
+    "bestRating": 150,
+    "worstRating": 138.6730595189929,
+    "tendency": -5.196334594815397,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 7,
-    "winRatio": 35.71
+    "winRatio": 35.71,
+    "_lastTenRatingsYear": [
+      144.0839202169004,
+      150,
+      144.34020495875328,
+      144.32856770118096,
+      138.6730595189929,
+      144.8447041234571,
+      138.887585622085
+    ]
   },
   {
     "NAF Nr": "461",
@@ -1760,12 +3442,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 126.08828139308827,
+    "bestRating": 144.0839202169004,
+    "worstRating": 125.54249050313184,
+    "tendency": -6.69840470855587,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 7,
     "gamesTotal": 12,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      132.78668610164414,
+      133.8347840495946,
+      128.1138123745328,
+      125.54249050313184,
+      126.06077777238998,
+      126.26669318008722,
+      126.75302145509211,
+      129.8029695724589,
+      127.38281373703084,
+      126.08828139308827
+    ]
   },
   {
     "NAF Nr": "463",
@@ -1773,12 +3470,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 166.95441565035264,
+    "bestRating": 172.81695219342578,
+    "worstRating": 149.4642023144732,
+    "tendency": 11.03833586725304,
     "tournaments": 1,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 7,
-    "winRatio": 71.43
+    "winRatio": 71.43,
+    "_lastTenRatingsYear": [
+      155.9160797830996,
+      149.4642023144732,
+      155.9160797830996,
+      161.82052339664872,
+      167.1798402699486,
+      172.81695219342578,
+      166.95441565035264
+    ]
   },
   {
     "NAF Nr": "468",
@@ -1786,12 +3495,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 151.62593200069878,
+    "bestRating": 160.64743553406362,
+    "worstRating": 138.69733639321947,
+    "tendency": 12.92859560747931,
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 11,
-    "winRatio": 54.55
+    "winRatio": 54.55,
+    "_lastTenRatingsYear": [
+      138.69733639321947,
+      144.32467354852085,
+      149.74681773382207,
+      154.35851510124226,
+      154.14179675833546,
+      153.93584685022353,
+      160.2053050940896,
+      152.93672230600328,
+      160.64743553406362,
+      151.62593200069878
+    ]
   },
   {
     "NAF Nr": "472",
@@ -1799,12 +3523,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 166.26714962836746,
+    "bestRating": 177.50710560296093,
+    "worstRating": 154.48289295824983,
+    "tendency": -3.2735896269026625,
     "tournaments": 4,
     "gamesWon": 10,
     "gamesDraw": 3,
     "gamesLost": 6,
     "gamesTotal": 19,
-    "winRatio": 60.53
+    "winRatio": 60.53,
+    "_lastTenRatingsYear": [
+      169.54073925527013,
+      164.62157301048416,
+      169.4065217750693,
+      174.04172131531027,
+      172.59630145951581,
+      177.50710560296093,
+      176.330237218398,
+      176.5970452158301,
+      172.04267757508393,
+      166.26714962836746
+    ]
   },
   {
     "NAF Nr": "493",
@@ -1812,12 +3551,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 190.08195725467067,
+    "bestRating": 204.84321961172407,
+    "worstRating": 157.74596669241484,
+    "tendency": 25.149323968985954,
     "tournaments": 2,
     "gamesWon": 8,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 11,
-    "winRatio": 77.27
+    "winRatio": 77.27,
+    "_lastTenRatingsYear": [
+      164.93263328568472,
+      172.67411955341277,
+      180.85564977574117,
+      188.56497804649482,
+      197.19601778661496,
+      200.88887988303313,
+      204.84321961172407,
+      199.08403363475426,
+      191.5970161470124,
+      190.08195725467067
+    ]
   },
   {
     "NAF Nr": "495",
@@ -1825,12 +3579,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 140.3959754909151,
+    "bestRating": 144.44425847678446,
+    "worstRating": 139.7602509706083,
+    "tendency": -4.048282985869349,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      144.44425847678446,
+      139.7602509706083,
+      140.3959754909151
+    ]
   },
   {
     "NAF Nr": "519",
@@ -1838,12 +3600,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150.1664324330491,
+    "bestRating": 152.17020800662382,
+    "worstRating": 150.1664324330491,
+    "tendency": -2.0037755735747282,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      152.17020800662382,
+      150.1664324330491
+    ]
   },
   {
     "NAF Nr": "533",
@@ -1851,12 +3620,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 118.8385132295443,
+    "bestRating": 150,
+    "worstRating": 118.8385132295443,
+    "tendency": -23.415520078040856,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 5,
     "gamesTotal": 6,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      150,
+      142.24921328393833,
+      134.96614678004056,
+      126.53740814047724,
+      118.8385132295443
+    ]
   },
   {
     "NAF Nr": "544",
@@ -1864,12 +3644,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 164.4385564078444,
+    "bestRating": 166.20875796960922,
+    "worstRating": 150.5082296816198,
+    "tendency": 8.781702158352033,
     "tournaments": 2,
     "gamesWon": 7,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 11,
-    "winRatio": 68.18
+    "winRatio": 68.18,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      155.9015348494529,
+      150.5082296816198,
+      155.9175772591153,
+      161.79946712518216,
+      166.20875796960922,
+      160.0947606370508,
+      165.32469960614856,
+      159.20947149342473,
+      164.4385564078444
+    ]
   },
   {
     "NAF Nr": "556",
@@ -1877,12 +3672,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 189.5093793837848,
+    "bestRating": 191.1382141417076,
+    "worstRating": 156,
+    "tendency": 10.81024941768689,
     "tournaments": 4,
     "gamesWon": 14,
     "gamesDraw": 3,
     "gamesLost": 5,
     "gamesTotal": 22,
-    "winRatio": 70.45
+    "winRatio": 70.45,
+    "_lastTenRatingsYear": [
+      178.6991299660979,
+      182.88449639581648,
+      181.99792336895504,
+      186.05892263687582,
+      180.94108961496923,
+      184.19470437784665,
+      187.59498132242754,
+      191.1382141417076,
+      185.99780110060345,
+      189.5093793837848
+    ]
   },
   {
     "NAF Nr": "559",
@@ -1890,12 +3700,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 157.7763441793005,
+    "bestRating": 172.45868215931836,
+    "worstRating": 144.0812676115645,
+    "tendency": -8.806009301124845,
     "tournaments": 5,
     "gamesWon": 10,
     "gamesDraw": 2,
     "gamesLost": 8,
     "gamesTotal": 20,
-    "winRatio": 55
+    "winRatio": 55,
+    "_lastTenRatingsYear": [
+      166.58235348042535,
+      164.29278680121848,
+      162.1565706523033,
+      167.28713776535113,
+      172.45868215931836,
+      166.32795690631352,
+      160.22728959677912,
+      158.24178212710626,
+      160.89152683836784,
+      157.7763441793005
+    ]
   },
   {
     "NAF Nr": "567",
@@ -1903,12 +3728,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150.14978128379926,
+    "bestRating": 150.14978128379926,
+    "worstRating": 147.75008855851598,
+    "tendency": 2.3996927252832734,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      147.75008855851598,
+      150.14978128379926
+    ]
   },
   {
     "NAF Nr": "568",
@@ -1916,12 +3748,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "rating": 166.92024290877973,
+    "bestRating": 166.9705627484771,
+    "worstRating": 155.65685424949237,
+    "tendency": 11.263388659287358,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      161.31370849898474,
+      166.9705627484771,
+      161.05761743761374,
+      161.0474621554384,
+      166.92024290877973
+    ]
   },
   {
     "NAF Nr": "574",
@@ -1929,12 +3772,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Austria",
     "rating": 144.97450405641004,
+    "bestRating": 149.97555993998247,
+    "worstRating": 136.03521555370082,
+    "tendency": -5.001055883572434,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 7,
-    "winRatio": 42.86
+    "winRatio": 42.86,
+    "_lastTenRatingsYear": [
+      149.97555993998247,
+      143.87594028782743,
+      136.03521555370082,
+      144.60825865177338,
+      136.6192971357544,
+      145.60566327567517,
+      144.97450405641004
+    ]
   },
   {
     "NAF Nr": "579",
@@ -1942,12 +3797,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 140.13584191679212,
+    "bestRating": 146.67870232054918,
+    "worstRating": 140.13584191679212,
+    "tendency": -6.542860403757061,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      146.67870232054918,
+      143.60676315303746,
+      140.13584191679212
+    ]
   },
   {
     "NAF Nr": "581",
@@ -1955,12 +3818,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 143.98237290154213,
+    "bestRating": 150.0160212185949,
+    "worstRating": 143.98237290154213,
+    "tendency": -5.808251704795936,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      149.79062460633807,
+      144.60282247410504,
+      150.0160212185949,
+      149.57346685171117,
+      143.98237290154213
+    ]
   },
   {
     "NAF Nr": "601",
@@ -1968,12 +3841,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 173.8390172786021,
+    "bestRating": 174.68823090721273,
+    "worstRating": 154.2426406871193,
+    "tendency": 15.138411144468307,
     "tournaments": 2,
     "gamesWon": 8,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 11,
-    "winRatio": 77.27
+    "winRatio": 77.27,
+    "_lastTenRatingsYear": [
+      158.7006061341338,
+      163.14536567606618,
+      168.28577871717033,
+      163.99030079664035,
+      168.45963674523338,
+      171.67518132280642,
+      174.68823090721273,
+      171.31267386637626,
+      170.4753074774617,
+      173.8390172786021
+    ]
   },
   {
     "NAF Nr": "626",
@@ -1981,12 +3869,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 149.08689206283287,
+    "bestRating": 150,
+    "worstRating": 133.76374325267048,
+    "tendency": 8.779166988084228,
     "tournaments": 3,
     "gamesWon": 4,
     "gamesDraw": 6,
     "gamesLost": 5,
     "gamesTotal": 15,
-    "winRatio": 46.67
+    "winRatio": 46.67,
+    "_lastTenRatingsYear": [
+      140.30772507474865,
+      134.41198131829321,
+      140.49080134523277,
+      135.29445260468887,
+      141.36094270702958,
+      143.2006727098713,
+      143.98652435688743,
+      144.02957494365117,
+      149.7607825585715,
+      149.08689206283287
+    ]
   },
   {
     "NAF Nr": "650",
@@ -1994,12 +3897,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 129.904934225785,
+    "bestRating": 143.3775900908761,
+    "worstRating": 129.904934225785,
+    "tendency": -13.054482619817605,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatingsYear": [
+      142.95941684560262,
+      143.3775900908761,
+      136.4183564706393,
+      129.904934225785
+    ]
   },
   {
     "NAF Nr": "652",
@@ -2007,12 +3919,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 150.77117097966138,
+    "bestRating": 170.19014560433158,
+    "worstRating": 135.45203383153594,
+    "tendency": -14.337122057922073,
     "tournaments": 5,
     "gamesWon": 14,
     "gamesDraw": 4,
     "gamesLost": 12,
     "gamesTotal": 30,
-    "winRatio": 53.33
+    "winRatio": 53.33,
+    "_lastTenRatingsYear": [
+      165.10829303758345,
+      170.19014560433158,
+      164.88744180587986,
+      157.59722380273269,
+      151.81250828742256,
+      145.93752756396364,
+      150.99598119053482,
+      156.44772460391067,
+      156.1961139729794,
+      150.77117097966138
+    ]
   },
   {
     "NAF Nr": "678",
@@ -2020,12 +3947,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 127.74012727399959,
+    "bestRating": 150,
+    "worstRating": 127.74012727399959,
+    "tendency": -22.25987272600041,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 5,
-    "winRatio": 10
+    "winRatio": 10,
+    "_lastTenRatingsYear": [
+      150,
+      143.90048371364077,
+      138.00878446751284,
+      132.62673877985543,
+      127.74012727399959
+    ]
   },
   {
     "NAF Nr": "713",
@@ -2033,12 +3970,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 171.43052308365392,
+    "bestRating": 178.4118379168637,
+    "worstRating": 150,
+    "tendency": 21.430523083653924,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 8,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      150,
+      155.65685424949237,
+      161.31370849898474,
+      166.72510788974367,
+      171.6602099289948,
+      171.93653246365398,
+      178.4118379168637,
+      171.43052308365392
+    ]
   },
   {
     "NAF Nr": "726",
@@ -2046,12 +3996,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "rating": 160.38974595657012,
+    "bestRating": 167.5007581259493,
+    "worstRating": 150,
+    "tendency": 10.389745956570124,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 10,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      150,
+      155.65685424949237,
+      161.0682536402513,
+      166.98119895111466,
+      161.56889679731452,
+      167.5007581259493,
+      167.3867428558113,
+      159.44773067097796,
+      167.4998078543084,
+      160.38974595657012
+    ]
   },
   {
     "NAF Nr": "750",
@@ -2059,12 +4024,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 149.69440806721815,
+    "bestRating": 149.69440806721815,
+    "worstRating": 143.51925930159214,
+    "tendency": 6.175148765626005,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      143.51925930159214,
+      149.69440806721815
+    ]
   },
   {
     "NAF Nr": "754",
@@ -2072,12 +4044,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 133.2136842058094,
+    "bestRating": 150,
+    "worstRating": 133.2136842058094,
+    "tendency": -16.786315794190614,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      150,
+      150,
+      144.34314575050763,
+      144.32229342377755,
+      138.90069888885546,
+      133.2136842058094
+    ]
   },
   {
     "NAF Nr": "762",
@@ -2085,12 +4068,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 143.78462127423285,
+    "bestRating": 149.81541538333533,
+    "worstRating": 143.78462127423285,
+    "tendency": -0.5585244762747834,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      144.34314575050763,
+      149.81541538333533,
+      143.78462127423285
+    ]
   },
   {
     "NAF Nr": "767",
@@ -2098,12 +4090,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 139.82545751426727,
+    "bestRating": 157.74596669241484,
+    "worstRating": 139.82545751426727,
+    "tendency": -17.92050917814757,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      157.74596669241484,
+      155.25350125373706,
+      147.5060409808252,
+      139.82545751426727
+    ]
   },
   {
     "NAF Nr": "783",
@@ -2111,12 +4112,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 141.169692776994,
+    "bestRating": 155.65685424949237,
+    "worstRating": 141.169692776994,
+    "tendency": -14.487161472498371,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 8,
-    "winRatio": 43.75
+    "winRatio": 43.75,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      150,
+      155.64845031733518,
+      147.27165791937995,
+      154.66088374162473,
+      154.8714657004927,
+      148.10611809752876,
+      141.169692776994
+    ]
   },
   {
     "NAF Nr": "846",
@@ -2124,12 +4138,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 139.4563710552599,
+    "bestRating": 145.20340272053403,
+    "worstRating": 139.4563710552599,
+    "tendency": -5.747031665274136,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      145.20340272053403,
+      139.4563710552599
+    ]
   },
   {
     "NAF Nr": "896",
@@ -2137,12 +4158,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 145.81022460585675,
+    "bestRating": 157.11134932692633,
+    "worstRating": 145.81022460585675,
+    "tendency": -7.795326669607249,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      153.605551275464,
+      157.11134932692633,
+      153.41156189821046,
+      149.61200918305352,
+      145.81022460585675
+    ]
   },
   {
     "NAF Nr": "922",
@@ -2150,12 +4181,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 147.24795048609082,
+    "bestRating": 147.24795048609082,
+    "worstRating": 133.26423497340681,
+    "tendency": 2.904804735583184,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 4,
     "gamesTotal": 10,
-    "winRatio": 45
+    "winRatio": 45,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      138.9317463597487,
+      133.26423497340681,
+      139.39037475586306,
+      139.59514456830058,
+      140.04066659692023,
+      146.6016178877807,
+      141.1315000614135,
+      141.465205339502,
+      147.24795048609082
+    ]
   },
   {
     "NAF Nr": "1019",
@@ -2163,12 +4209,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 146.58019414635788,
+    "bestRating": 151.83790669206522,
+    "worstRating": 138.70662707404804,
+    "tendency": 2.237048395850252,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 4,
     "gamesTotal": 10,
-    "winRatio": 45
+    "winRatio": 45,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      138.70662707404804,
+      145.09532119816376,
+      150.70987064365906,
+      145.0119250690068,
+      150.88524561053984,
+      151.83790669206522,
+      151.51182616173293,
+      146.0044167065046,
+      146.58019414635788
+    ]
   },
   {
     "NAF Nr": "1039",
@@ -2176,12 +4237,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 141.2654017051747,
+    "bestRating": 148.41954236273708,
+    "worstRating": 133.62625703860112,
+    "tendency": -1.4586463342826335,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      142.72404803945733,
+      148.41954236273708,
+      140.74731568834198,
+      133.62625703860112,
+      141.2654017051747
+    ]
   },
   {
     "NAF Nr": "1063",
@@ -2189,12 +4260,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 167.36903750655114,
+    "bestRating": 173.95459375089672,
+    "worstRating": 156,
+    "tendency": 11.369037506551138,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      156,
+      162,
+      162,
+      168.24165640969773,
+      173.95459375089672,
+      167.36903750655114
+    ]
   },
   {
     "NAF Nr": "1101",
@@ -2202,12 +4284,27 @@ const statsYear2004 = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 123.50203187090808,
+    "bestRating": 156.88722964098662,
+    "worstRating": 123.50203187090808,
+    "tendency": -25.65567184075512,
     "tournaments": 3,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 7,
     "gamesTotal": 12,
-    "winRatio": 29.17
+    "winRatio": 29.17,
+    "_lastTenRatingsYear": [
+      149.1577037116632,
+      141.43318926303763,
+      134.1710699164945,
+      127.32917245149628,
+      135.0280673624292,
+      129.77496710549238,
+      130.4048647878046,
+      125.65710776582952,
+      123.57080601591309,
+      123.50203187090808
+    ]
   },
   {
     "NAF Nr": "1102",
@@ -2215,12 +4312,27 @@ const statsYear2004 = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 142.53646477096927,
+    "bestRating": 168.83392482033372,
+    "worstRating": 122.67504035403539,
+    "tendency": -8.73002803817198,
     "tournaments": 11,
     "gamesWon": 17,
     "gamesDraw": 7,
     "gamesLost": 21,
     "gamesTotal": 45,
-    "winRatio": 45.56
+    "winRatio": 45.56,
+    "_lastTenRatingsYear": [
+      151.26649280914125,
+      146.83962377184415,
+      143.96786635426264,
+      141.89298528384546,
+      139.6910670680179,
+      143.82991473748356,
+      147.89173462989828,
+      142.2104761959299,
+      136.4639795569748,
+      142.53646477096927
+    ]
   },
   {
     "NAF Nr": "1103",
@@ -2228,12 +4340,27 @@ const statsYear2004 = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 200.257599732976,
+    "bestRating": 206.87285221280695,
+    "worstRating": 143.89296482421776,
+    "tendency": 13.985848286040067,
     "tournaments": 8,
     "gamesWon": 19,
     "gamesDraw": 8,
     "gamesLost": 8,
     "gamesTotal": 35,
-    "winRatio": 65.71
+    "winRatio": 65.71,
+    "_lastTenRatingsYear": [
+      186.27175144693592,
+      190.39322302236104,
+      194.39705075570376,
+      198.36503711974456,
+      202.31848457206078,
+      206.87285221280695,
+      204.15107184364777,
+      199.32475313411598,
+      201.39963420453316,
+      200.257599732976
+    ]
   },
   {
     "NAF Nr": "1104",
@@ -2241,12 +4368,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 141.77446742310042,
+    "bestRating": 156.12178335482562,
+    "worstRating": 137.1313750838107,
+    "tendency": -3.787544917133232,
     "tournaments": 4,
     "gamesWon": 7,
     "gamesDraw": 1,
     "gamesLost": 9,
     "gamesTotal": 17,
-    "winRatio": 44.12
+    "winRatio": 44.12,
+    "_lastTenRatingsYear": [
+      145.56201234023365,
+      140.8298413725241,
+      145.57441555612345,
+      150.33840134404724,
+      156.12178335482562,
+      151.1007785422404,
+      155.856092068015,
+      151.0963005433328,
+      146.47285273892248,
+      141.77446742310042
+    ]
   },
   {
     "NAF Nr": "1105",
@@ -2254,12 +4396,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "rating": 135.45996617039174,
+    "bestRating": 150,
+    "worstRating": 135.45996617039174,
+    "tendency": -14.540033829608262,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      150,
+      143.15080634558862,
+      135.45996617039174
+    ]
   },
   {
     "NAF Nr": "1109",
@@ -2267,12 +4417,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 157.63911934018563,
+    "bestRating": 157.63911934018563,
+    "worstRating": 142.25403330758516,
+    "tendency": 15.38508603260047,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      150,
+      142.68675267073232,
+      150.79142803146823,
+      157.63911934018563
+    ]
   },
   {
     "NAF Nr": "1112",
@@ -2280,12 +4440,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 151.76889862738386,
+    "bestRating": 151.76889862738386,
+    "worstRating": 134.3411731466026,
+    "tendency": 9.05489011613136,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      142.7140085112525,
+      134.3411731466026,
+      142.22870751652263,
+      144.07805845218698,
+      151.76889862738386
+    ]
   },
   {
     "NAF Nr": "1115",
@@ -2293,12 +4463,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 138.619600896492,
+    "bestRating": 149.07769857084,
+    "worstRating": 122.16345581338503,
+    "tendency": -10.45809767434801,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 5,
     "gamesTotal": 10,
-    "winRatio": 35
+    "winRatio": 35,
+    "_lastTenRatingsYear": [
+      149.07769857084,
+      143.22601393338837,
+      137.61926798808042,
+      132.24260831548835,
+      133.00885934654212,
+      133.7540038543278,
+      128.65143557585526,
+      122.16345581338503,
+      130.2589428939491,
+      138.619600896492
+    ]
   },
   {
     "NAF Nr": "1116",
@@ -2306,12 +4491,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 153.44500745159013,
+    "bestRating": 164.5465385880018,
+    "worstRating": 138.7896492461734,
+    "tendency": 8.859642285920472,
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 3,
     "gamesLost": 5,
     "gamesTotal": 13,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      144.58536516566966,
+      138.7896492461734,
+      138.9955669819211,
+      148.01707051528592,
+      154.14648678067113,
+      153.02527348616508,
+      158.55080013111746,
+      164.5465385880018,
+      158.0693387664968,
+      153.44500745159013
+    ]
   },
   {
     "NAF Nr": "1117",
@@ -2319,12 +4519,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 105.21436694020196,
+    "bestRating": 144.09769089177416,
+    "worstRating": 96.67467202999195,
+    "tendency": -11.912291956598182,
     "tournaments": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 12,
     "gamesTotal": 15,
-    "winRatio": 13.33
+    "winRatio": 13.33,
+    "_lastTenRatingsYear": [
+      117.12665889680014,
+      112.3075520209791,
+      107.39352534298294,
+      101.69803101970318,
+      96.67467202999195,
+      105.56622027610042,
+      101.54496994279472,
+      104.15255430215232,
+      102.40821585458096,
+      105.21436694020196
+    ]
   },
   {
     "NAF Nr": "1123",
@@ -2332,12 +4547,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 149.68646119437938,
+    "bestRating": 154.702560436912,
+    "worstRating": 145.47816652128648,
+    "tendency": -5.0160992425326185,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      154.702560436912,
+      150.80570093780955,
+      145.47816652128648,
+      149.68646119437938
+    ]
   },
   {
     "NAF Nr": "1124",
@@ -2345,12 +4569,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 118.19323644910081,
+    "bestRating": 144.34314575050763,
+    "worstRating": 115.12217128816027,
+    "tendency": -2.1552915845370393,
     "tournaments": 3,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 11,
     "gamesTotal": 18,
-    "winRatio": 30.56
+    "winRatio": 30.56,
+    "_lastTenRatingsYear": [
+      120.34852803363785,
+      129.3256690930335,
+      121.53850285150415,
+      115.12217128816027,
+      116.54791594739848,
+      123.7784980352478,
+      131.16017829458144,
+      126.89519397668768,
+      122.33876323189864,
+      118.19323644910081
+    ]
   },
   {
     "NAF Nr": "1125",
@@ -2358,12 +4597,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 212.07402010294638,
+    "bestRating": 213.85573229371204,
+    "worstRating": 150,
+    "tendency": 15.623291434048582,
     "tournaments": 7,
     "gamesWon": 20,
     "gamesDraw": 6,
     "gamesLost": 4,
     "gamesTotal": 30,
-    "winRatio": 76.67
+    "winRatio": 76.67,
+    "_lastTenRatingsYear": [
+      196.4507286688978,
+      203.49806654768494,
+      209.35856311211344,
+      211.07910436539007,
+      209.75683518520904,
+      211.4562967547819,
+      212.75082909872447,
+      213.85573229371204,
+      212.97165728292592,
+      212.07402010294638
+    ]
   },
   {
     "NAF Nr": "1126",
@@ -2371,12 +4625,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 156.31089962415007,
+    "bestRating": 156.31089962415007,
+    "worstRating": 145.4128959075135,
+    "tendency": 6.310899624150068,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      150,
+      145.63788455626508,
+      151.29181291366604,
+      145.4128959075135,
+      150.62958794192693,
+      156.31089962415007
+    ]
   },
   {
     "NAF Nr": "1127",
@@ -2384,12 +4649,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 151.90097989623195,
+    "bestRating": 161.4210792270643,
+    "worstRating": 145.91640214698887,
+    "tendency": -3.6667844665980738,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.56776436283002,
+      161.4210792270643,
+      155.93397545042717,
+      150.4101062793956,
+      145.91640214698887,
+      151.90097989623195
+    ]
   },
   {
     "NAF Nr": "1128",
@@ -2397,12 +4673,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 137.10059777195818,
+    "bestRating": 150.68498607097158,
+    "worstRating": 129.74963691912885,
+    "tendency": -2.4930172985601473,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 6,
     "gamesTotal": 11,
-    "winRatio": 36.36
+    "winRatio": 36.36,
+    "_lastTenRatingsYear": [
+      139.59361507051833,
+      145.44594924211495,
+      150.68498607097158,
+      145.27490490192193,
+      140.14272625954356,
+      134.91304000475193,
+      129.74963691912885,
+      135.54262373378884,
+      135.749602808891,
+      137.10059777195818
+    ]
   },
   {
     "NAF Nr": "1129",
@@ -2410,12 +4701,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 145.33397825545777,
+    "bestRating": 150.84545732070364,
+    "worstRating": 134.26853074408027,
+    "tendency": -4.396778430798605,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 4,
     "gamesTotal": 10,
-    "winRatio": 45
+    "winRatio": 45,
+    "_lastTenRatingsYear": [
+      149.73075668625637,
+      142.00079715686525,
+      134.26853074408027,
+      142.92729189584796,
+      143.84301848288487,
+      139.00583845331494,
+      144.775503088236,
+      150.84545732070364,
+      145.1637764167214,
+      145.33397825545777
+    ]
   },
   {
     "NAF Nr": "1132",
@@ -2423,12 +4729,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 164.0072252495796,
+    "bestRating": 164.0072252495796,
+    "worstRating": 149.65871772531608,
+    "tendency": 6.261258557164751,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatingsYear": [
+      157.74596669241484,
+      149.65871772531608,
+      156.9426038471601,
+      157.09225546306703,
+      164.0072252495796
+    ]
   },
   {
     "NAF Nr": "1133",
@@ -2436,12 +4752,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 133.94850495999682,
+    "bestRating": 146.46618220206992,
+    "worstRating": 126.56803774744142,
+    "tendency": -12.517677242073091,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 5,
     "gamesTotal": 7,
-    "winRatio": 21.43
+    "winRatio": 21.43,
+    "_lastTenRatingsYear": [
+      146.46618220206992,
+      141.49257702980438,
+      137.07175659734486,
+      131.74595291595773,
+      126.56803774744142,
+      132.81978362013436,
+      133.94850495999682
+    ]
   },
   {
     "NAF Nr": "1134",
@@ -2449,12 +4777,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 142.72776053443965,
+    "bestRating": 142.72776053443965,
+    "worstRating": 134.9918503419092,
+    "tendency": 0.47372722685449276,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      134.9918503419092,
+      142.2384111749687,
+      142.72776053443965
+    ]
   },
   {
     "NAF Nr": "1135",
@@ -2462,12 +4799,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 209.58039869219445,
+    "bestRating": 212.0711931620746,
+    "worstRating": 155.65685424949237,
+    "tendency": 17.25055701475557,
     "tournaments": 6,
     "gamesWon": 21,
     "gamesDraw": 6,
     "gamesLost": 6,
     "gamesTotal": 33,
-    "winRatio": 72.73
+    "winRatio": 72.73,
+    "_lastTenRatingsYear": [
+      192.32984167743888,
+      196.71219164874543,
+      201.598824340758,
+      206.80385858443515,
+      205.74469987337613,
+      208.9169031618695,
+      212.0711931620746,
+      208.8918421689231,
+      206.32600737231735,
+      209.58039869219445
+    ]
   },
   {
     "NAF Nr": "1137",
@@ -2475,12 +4827,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 164.6224981990116,
+    "bestRating": 164.89329213551173,
+    "worstRating": 149.57811305379863,
+    "tendency": 15.04438514521297,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatingsYear": [
+      149.57811305379863,
+      157.1637662061883,
+      164.89329213551173,
+      157.1555694818784,
+      164.6224981990116
+    ]
   },
   {
     "NAF Nr": "1138",
@@ -2488,12 +4850,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 142.11715850104542,
+    "bestRating": 150.34344375043284,
+    "worstRating": 142.11715850104542,
+    "tendency": -0.474739194858671,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      142.5918976959041,
+      150.34344375043284,
+      142.11715850104542
+    ]
   },
   {
     "NAF Nr": "1143",
@@ -2501,12 +4871,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 157.04402418875142,
+    "bestRating": 163.023463953318,
+    "worstRating": 144.34314575050763,
+    "tendency": 7.044024188751422,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 10,
-    "winRatio": 55
+    "winRatio": 55,
+    "_lastTenRatingsYear": [
+      150,
+      144.34314575050763,
+      149.5100128072627,
+      154.9832966487225,
+      160.42389176594878,
+      156.46955203725784,
+      163.023463953318,
+      157.2806712809031,
+      162.61826881626484,
+      157.04402418875142
+    ]
   },
   {
     "NAF Nr": "1144",
@@ -2514,12 +4899,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 160.82445397144292,
+    "bestRating": 160.82445397144292,
+    "worstRating": 144.34314575050763,
+    "tendency": 16.48130822093529,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      150.24545485873347,
+      155.89165197137632,
+      155.39154841657694,
+      160.82445397144292
+    ]
   },
   {
     "NAF Nr": "1147",
@@ -2527,12 +4922,27 @@ const statsYear2004 = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 168.85231091812173,
+    "bestRating": 198.1898184523526,
+    "worstRating": 148.86839229952383,
+    "tendency": 1.7822523583430154,
     "tournaments": 9,
     "gamesWon": 18,
     "gamesDraw": 8,
     "gamesLost": 12,
     "gamesTotal": 38,
-    "winRatio": 57.89
+    "winRatio": 57.89,
+    "_lastTenRatingsYear": [
+      167.07005855977872,
+      171.61700683483286,
+      177.60497262074387,
+      182.36100462137284,
+      175.76179426981594,
+      176.23764860660336,
+      171.14254452391316,
+      170.46605050442332,
+      175.7590116836353,
+      168.85231091812173
+    ]
   },
   {
     "NAF Nr": "1149",
@@ -2540,12 +4950,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 171.77605066223276,
+    "bestRating": 184.43790213718395,
+    "worstRating": 149.765183082963,
+    "tendency": -11.401269103123894,
     "tournaments": 6,
     "gamesWon": 15,
     "gamesDraw": 7,
     "gamesLost": 8,
     "gamesTotal": 30,
-    "winRatio": 61.67
+    "winRatio": 61.67,
+    "_lastTenRatingsYear": [
+      183.17731976535666,
+      181.58188909837378,
+      174.62157099741856,
+      167.16332462814518,
+      159.8308272302737,
+      164.0824136886737,
+      167.91715486858214,
+      172.5161307370146,
+      177.34560628772203,
+      171.77605066223276
+    ]
   },
   {
     "NAF Nr": "1150",
@@ -2553,12 +4978,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 154.03229061261968,
+    "bestRating": 161.08767256806763,
+    "worstRating": 154.03229061261968,
+    "tendency": -1.6245636368726935,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      161.08767256806763,
+      154.7077815625118,
+      160.1390455674016,
+      154.03229061261968
+    ]
   },
   {
     "NAF Nr": "1152",
@@ -2566,12 +5001,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 152.25860375555018,
+    "bestRating": 164.93200241330103,
+    "worstRating": 144.49933160475507,
+    "tendency": -12.673398657750852,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 5,
     "gamesTotal": 12,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      164.93200241330103,
+      157.6633526628232,
+      157.04630299237482,
+      149.8211828586923,
+      144.49933160475507,
+      151.7505627889142,
+      147.00153624994425,
+      152.56724354214276,
+      157.1236742869318,
+      152.25860375555018
+    ]
   },
   {
     "NAF Nr": "1153",
@@ -2579,12 +5029,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 157.50582612117628,
+    "bestRating": 158.68218971791012,
+    "worstRating": 146.47564466471246,
+    "tendency": 6.968429690286797,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 10,
-    "winRatio": 55
+    "winRatio": 55,
+    "_lastTenRatingsYear": [
+      150.5373964308895,
+      158.68218971791012,
+      151.7564267737504,
+      158.54681401684806,
+      153.3249654740438,
+      146.47564466471246,
+      151.71656004268917,
+      157.64480364068942,
+      151.8586548523951,
+      157.50582612117628
+    ]
   },
   {
     "NAF Nr": "1156",
@@ -2592,12 +5057,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 135.59703891139796,
+    "bestRating": 142.25403330758516,
+    "worstRating": 134.96587969213283,
+    "tendency": -6.656994396187201,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      142.25403330758516,
+      134.96587969213283,
+      135.59703891139796
+    ]
   },
   {
     "NAF Nr": "1157",
@@ -2605,12 +5079,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 162.4661503908862,
+    "bestRating": 162.4661503908862,
+    "worstRating": 144.34314575050763,
+    "tendency": 18.123004640378582,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      150,
+      144.83313294324492,
+      150.2441113059625,
+      156.35930371214542,
+      162.4661503908862
+    ]
   },
   {
     "NAF Nr": "1163",
@@ -2618,12 +5103,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 145.67504970429306,
+    "bestRating": 145.67504970429306,
+    "worstRating": 136.13563997075732,
+    "tendency": 3.1164240396597336,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      142.55862566463333,
+      136.13563997075732,
+      145.67504970429306
+    ]
   },
   {
     "NAF Nr": "1183",
@@ -2631,12 +5124,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 163.88172258259098,
+    "bestRating": 163.88172258259098,
+    "worstRating": 138.48843647873977,
+    "tendency": 19.562418986180006,
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 6,
     "gamesLost": 4,
     "gamesTotal": 15,
-    "winRatio": 53.33
+    "winRatio": 53.33,
+    "_lastTenRatingsYear": [
+      144.31930359641098,
+      144.64538412674327,
+      139.99661283386294,
+      141.4420326896574,
+      141.81438271444864,
+      142.16931864465104,
+      143.41924237374988,
+      149.43500122555187,
+      157.7807058151785,
+      163.88172258259098
+    ]
   },
   {
     "NAF Nr": "1184",
@@ -2644,12 +5152,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 157.48658980431358,
+    "bestRating": 158.64865462087016,
+    "worstRating": 151.24304005745236,
+    "tendency": -1.1620648165565797,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      158.64865462087016,
+      151.32161039324237,
+      151.24304005745236,
+      151.28125774160964,
+      158.4023163913505,
+      157.48658980431358
+    ]
   },
   {
     "NAF Nr": "1191",
@@ -2657,12 +5176,21 @@ const statsYear2004 = [
     "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 151.8615519869732,
+    "bestRating": 159.80692241551245,
+    "worstRating": 151.8615519869732,
+    "tendency": -3.038011974157598,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      154.8995639611308,
+      159.80692241551245,
+      154.73128528542213,
+      151.8615519869732
+    ]
   },
   {
     "NAF Nr": "1199",
@@ -2670,12 +5198,18 @@ const statsYear2004 = [
     "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 152.92627432449822,
+    "bestRating": 152.92627432449822,
+    "worstRating": 152.92627432449822,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
     "gamesTotal": 1,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatingsYear": [
+      152.92627432449822
+    ]
   },
   {
     "NAF Nr": "1219",
@@ -2683,12 +5217,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Switzerland",
     "rating": 169.81296776971215,
+    "bestRating": 171.23247997421052,
+    "worstRating": 137.41013827306134,
+    "tendency": 8.355220555971613,
     "tournaments": 4,
     "gamesWon": 9,
     "gamesDraw": 5,
     "gamesLost": 5,
     "gamesTotal": 19,
-    "winRatio": 60.53
+    "winRatio": 60.53,
+    "_lastTenRatingsYear": [
+      161.45774721374053,
+      165.73142469752977,
+      171.23247997421052,
+      165.54309543000383,
+      160.36079225671128,
+      159.79911089740125,
+      164.62024015143632,
+      169.9979389814501,
+      165.19331490376754,
+      169.81296776971215
+    ]
   },
   {
     "NAF Nr": "1256",
@@ -2696,12 +5245,18 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 155.65685424949237,
+    "bestRating": 155.65685424949237,
+    "worstRating": 155.65685424949237,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
     "gamesTotal": 1,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatingsYear": [
+      155.65685424949237
+    ]
   },
   {
     "NAF Nr": "1295",
@@ -2709,12 +5264,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 118.50035304027203,
+    "bestRating": 144.9009804864072,
+    "worstRating": 118.50035304027203,
+    "tendency": -26.400627446135175,
     "tournaments": 4,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 8,
     "gamesTotal": 9,
-    "winRatio": 5.56
+    "winRatio": 5.56,
+    "_lastTenRatingsYear": [
+      144.9009804864072,
+      140.0091986140077,
+      135.10153602614255,
+      130.08873794052437,
+      125.04489206504745,
+      123.2489072608107,
+      120.73680989079486,
+      120.80558403579987,
+      118.50035304027203
+    ]
   },
   {
     "NAF Nr": "1315",
@@ -2722,12 +5291,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 153.872370298069,
+    "bestRating": 161.2603724346352,
+    "worstRating": 135.3511658316995,
+    "tendency": 18.52120446636951,
     "tournaments": 4,
     "gamesWon": 7,
     "gamesDraw": 2,
     "gamesLost": 6,
     "gamesTotal": 15,
-    "winRatio": 53.33
+    "winRatio": 53.33,
+    "_lastTenRatingsYear": [
+      135.3511658316995,
+      141.19027603654553,
+      147.221070145648,
+      150.60842474906357,
+      154.69403171239148,
+      157.88681251215823,
+      161.2603724346352,
+      161.18858709745535,
+      157.46703199201613,
+      153.872370298069
+    ]
   },
   {
     "NAF Nr": "1347",
@@ -2735,12 +5319,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 187.8481894152354,
+    "bestRating": 190.11032892971832,
+    "worstRating": 155.39504953185164,
+    "tendency": 8.070897252270527,
     "tournaments": 5,
     "gamesWon": 12,
     "gamesDraw": 5,
     "gamesLost": 3,
     "gamesTotal": 20,
-    "winRatio": 72.5
+    "winRatio": 72.5,
+    "_lastTenRatingsYear": [
+      179.77729216296487,
+      179.01213746186048,
+      178.2355316000639,
+      182.92176293914153,
+      176.3713875071241,
+      181.2072503569623,
+      185.48488541042136,
+      190.11032892971832,
+      189.3067675984381,
+      187.8481894152354
+    ]
   },
   {
     "NAF Nr": "1359",
@@ -2748,12 +5347,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 163.51463855455026,
+    "bestRating": 165.93026410589133,
+    "worstRating": 133.26469681174692,
+    "tendency": 16.257455824995844,
     "tournaments": 8,
     "gamesWon": 18,
     "gamesDraw": 8,
     "gamesLost": 17,
     "gamesTotal": 43,
-    "winRatio": 51.16
+    "winRatio": 51.16,
+    "_lastTenRatingsYear": [
+      147.25718272955442,
+      153.0405403292957,
+      159.12136883783404,
+      154.2610974618935,
+      160.34416347844612,
+      154.80907643358273,
+      157.97164909556756,
+      163.3615804331303,
+      158.55561620809385,
+      163.51463855455026
+    ]
   },
   {
     "NAF Nr": "1368",
@@ -2761,12 +5375,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 144.1028393058251,
+    "bestRating": 144.29930554347985,
+    "worstRating": 137.6137937796703,
+    "tendency": -0.19646623765473237,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      144.29930554347985,
+      138.46222598070074,
+      137.6137937796703,
+      143.5717888702137,
+      144.1028393058251
+    ]
   },
   {
     "NAF Nr": "1420",
@@ -2774,12 +5398,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 133.75918713400497,
+    "bestRating": 157.74596669241484,
+    "worstRating": 127.18694600342269,
+    "tendency": -9.51166828991731,
     "tournaments": 3,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 8,
     "gamesTotal": 15,
-    "winRatio": 36.67
+    "winRatio": 36.67,
+    "_lastTenRatingsYear": [
+      143.27085542392228,
+      143.09275032742778,
+      136.8500978405013,
+      131.9145011071965,
+      127.18694600342269,
+      133.7711596553435,
+      129.23345902744248,
+      132.41281002059398,
+      138.36998786789283,
+      133.75918713400497
+    ]
   },
   {
     "NAF Nr": "1430",
@@ -2787,12 +5426,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 160.79292100679598,
+    "bestRating": 160.79292100679598,
+    "worstRating": 145.1004360388692,
+    "tendency": 15.692484967926788,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      145.1004360388692,
+      150.19164958207415,
+      155.4826352203138,
+      160.79292100679598
+    ]
   },
   {
     "NAF Nr": "1501",
@@ -2800,12 +5448,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 161.11359384453158,
+    "bestRating": 161.11359384453158,
+    "worstRating": 156.1400571327203,
+    "tendency": 4.695083297846537,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 3,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatingsYear": [
+      156.41851054668504,
+      156.1400571327203,
+      161.11359384453158
+    ]
   },
   {
     "NAF Nr": "1502",
@@ -2813,12 +5469,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 143.64360942584923,
+    "bestRating": 159.91373261500195,
+    "worstRating": 143.64360942584923,
+    "tendency": -11.054438509122463,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      154.6980479349717,
+      159.91373261500195,
+      154.52690360237548,
+      149.5678725919884,
+      143.64360942584923
+    ]
   },
   {
     "NAF Nr": "1503",
@@ -2826,12 +5492,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 139.56413522352983,
+    "bestRating": 155.18780213223303,
+    "worstRating": 139.33902333157477,
+    "tendency": -15.6236669087032,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      155.18780213223303,
+      149.97211745220278,
+      144.56650309791033,
+      139.33902333157477,
+      139.56413522352983
+    ]
   },
   {
     "NAF Nr": "1507",
@@ -2839,12 +5515,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 163.52909689516662,
+    "bestRating": 164.91222811362078,
+    "worstRating": 149.72388495242924,
+    "tendency": 7.529096895166617,
     "tournaments": 2,
     "gamesWon": 7,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 12,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      156,
+      149.72388495242924,
+      155.7366005012427,
+      161.45088270451777,
+      161.25962908080967,
+      164.91222811362078,
+      160.4674685716884,
+      164.51796664127713,
+      160.0644208158481,
+      163.52909689516662
+    ]
   },
   {
     "NAF Nr": "1524",
@@ -2852,12 +5543,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 169.49574152245458,
+    "bestRating": 173.03791572727138,
+    "worstRating": 138.68629150101526,
+    "tendency": 4.024702940452414,
     "tournaments": 6,
     "gamesWon": 17,
     "gamesDraw": 8,
     "gamesLost": 11,
     "gamesTotal": 36,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      165.47103858200217,
+      167.98613648127483,
+      170.83270282808388,
+      166.18076918846464,
+      168.60492743689835,
+      167.00943212104218,
+      170.87672452129766,
+      170.50242382448187,
+      164.37891825253254,
+      169.49574152245458
+    ]
   },
   {
     "NAF Nr": "1538",
@@ -2865,12 +5571,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "rating": 152.87093641167445,
+    "bestRating": 152.87093641167445,
+    "worstRating": 136.1034343157977,
+    "tendency": 16.76750209587675,
     "tournaments": 3,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 5,
     "gamesTotal": 13,
-    "winRatio": 53.85
+    "winRatio": 53.85,
+    "_lastTenRatingsYear": [
+      136.1034343157977,
+      143.8078293793081,
+      150.95832318470892,
+      145.2598612470088,
+      145.22831915436262,
+      151.1180497721148,
+      145.05925768057213,
+      144.36914360099414,
+      148.0873836910698,
+      152.87093641167445
+    ]
   },
   {
     "NAF Nr": "1546",
@@ -2878,12 +5599,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 145.4150002437421,
+    "bestRating": 150.63143658363424,
+    "worstRating": 145.4150002437421,
+    "tendency": -5.002860877850225,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      150.41786112159232,
+      145.66250481588807,
+      150.63143658363424,
+      145.4150002437421
+    ]
   },
   {
     "NAF Nr": "1554",
@@ -2891,12 +5621,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "rating": 163.5946932554893,
+    "bestRating": 163.5946932554893,
+    "worstRating": 149.90791829338335,
+    "tendency": 10.130591640351525,
     "tournaments": 1,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatingsYear": [
+      153.46410161513776,
+      149.90791829338335,
+      153.37446817307276,
+      156.83612147888616,
+      160.30505452763413,
+      163.5946932554893
+    ]
   },
   {
     "NAF Nr": "1616",
@@ -2904,12 +5645,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "rating": 143.34315036841704,
+    "bestRating": 150.0896351260131,
+    "worstRating": 143.34315036841704,
+    "tendency": -6.656849631582958,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      150,
+      150.0896351260131,
+      146.7176151727509,
+      143.34315036841704
+    ]
   },
   {
     "NAF Nr": "1620",
@@ -2917,12 +5667,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150.11693291432837,
+    "bestRating": 150.11693291432837,
+    "worstRating": 145.08175529969168,
+    "tendency": 2.566422657111559,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      147.5505102572168,
+      145.08175529969168,
+      147.57765338651137,
+      150.11693291432837
+    ]
   },
   {
     "NAF Nr": "1621",
@@ -2930,12 +5689,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "rating": 128.20531793912323,
+    "bestRating": 142.25403330758516,
+    "worstRating": 128.20531793912323,
+    "tendency": -14.048715368461927,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      142.04811557183749,
+      134.8939052322504,
+      136.13693530142967,
+      128.20531793912323
+    ]
   },
   {
     "NAF Nr": "1654",
@@ -2943,12 +5712,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 198.69418209141338,
+    "bestRating": 203.7079892371558,
+    "worstRating": 150,
+    "tendency": 1.9254934800587762,
     "tournaments": 6,
     "gamesWon": 17,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 23,
-    "winRatio": 78.26
+    "winRatio": 78.26,
+    "_lastTenRatingsYear": [
+      196.7686886113546,
+      191.51473521997983,
+      194.8902922608163,
+      197.5634045145821,
+      200.27037201557738,
+      202.25587948525023,
+      198.8851243511351,
+      201.08704256696265,
+      203.7079892371558,
+      198.69418209141338
+    ]
   },
   {
     "NAF Nr": "1713",
@@ -2956,12 +5740,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 160.8244775436365,
+    "bestRating": 160.8244775436365,
+    "worstRating": 153.605551275464,
+    "tendency": 7.21892626817251,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 4,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatingsYear": [
+      153.605551275464,
+      153.605551275464,
+      157.1140314668442,
+      160.8244775436365
+    ]
   },
   {
     "NAF Nr": "1724",
@@ -2969,12 +5762,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 137.98003223633998,
+    "bestRating": 155.65685424949237,
+    "worstRating": 123.91908398046125,
+    "tendency": 10.167528666986826,
     "tournaments": 5,
     "gamesWon": 8,
     "gamesDraw": 7,
     "gamesLost": 14,
     "gamesTotal": 29,
-    "winRatio": 39.66
+    "winRatio": 39.66,
+    "_lastTenRatingsYear": [
+      127.81250356935315,
+      123.91908398046125,
+      130.88854667838976,
+      137.57622411361206,
+      144.45806111012556,
+      141.17644420582846,
+      135.74611422627356,
+      137.41955948419357,
+      142.7906805393291,
+      137.98003223633998
+    ]
   },
   {
     "NAF Nr": "1761",
@@ -2982,12 +5790,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 167.35382206309714,
+    "bestRating": 167.35382206309714,
+    "worstRating": 128.63267984019382,
+    "tendency": 7.294761141377933,
     "tournaments": 6,
     "gamesWon": 14,
     "gamesDraw": 6,
     "gamesLost": 12,
     "gamesTotal": 32,
-    "winRatio": 53.13
+    "winRatio": 53.13,
+    "_lastTenRatingsYear": [
+      160.0590609217192,
+      158.93033958185674,
+      152.8603853493891,
+      157.54599175814838,
+      162.86784301208561,
+      162.82383744382196,
+      156.74300893528363,
+      157.07635706272222,
+      162.74302132920928,
+      167.35382206309714
+    ]
   },
   {
     "NAF Nr": "1814",
@@ -2995,12 +5818,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 171.94965645203985,
+    "bestRating": 181.37613672158773,
+    "worstRating": 139.3946807183274,
+    "tendency": -1.5375315896022244,
     "tournaments": 7,
     "gamesWon": 15,
     "gamesDraw": 8,
     "gamesLost": 10,
     "gamesTotal": 33,
-    "winRatio": 57.58
+    "winRatio": 57.58,
+    "_lastTenRatingsYear": [
+      173.48718804164207,
+      172.79646819749823,
+      172.23786652901669,
+      175.4896339932069,
+      178.30580389934718,
+      181.37613672158773,
+      177.29052975825982,
+      173.26629392426702,
+      176.1394310978119,
+      171.94965645203985
+    ]
   },
   {
     "NAF Nr": "1879",
@@ -3008,12 +5846,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 134.89037760560097,
+    "bestRating": 146.06556535228933,
+    "worstRating": 134.89037760560097,
+    "tendency": -9.541858031569006,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      144.43223563716998,
+      139.1657814939615,
+      144.72121432141702,
+      146.06556535228933,
+      140.71675806756392,
+      134.89037760560097
+    ]
   },
   {
     "NAF Nr": "1885",
@@ -3021,12 +5870,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 162.18547328482674,
+    "bestRating": 162.18547328482674,
+    "worstRating": 138.1678404338008,
+    "tendency": 12.438699054393936,
     "tournaments": 4,
     "gamesWon": 12,
     "gamesDraw": 6,
     "gamesLost": 8,
     "gamesTotal": 26,
-    "winRatio": 57.69
+    "winRatio": 57.69,
+    "_lastTenRatingsYear": [
+      149.7467742304328,
+      147.22455778030803,
+      146.8593533537059,
+      149.43067522510688,
+      150.7529444052879,
+      153.85701956410583,
+      156.34522630639802,
+      156.50201057693832,
+      159.2198636428054,
+      162.18547328482674
+    ]
   },
   {
     "NAF Nr": "1888",
@@ -3034,12 +5898,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 144.79977542574372,
+    "bestRating": 148.20131107435043,
+    "worstRating": 144.3073191729161,
+    "tendency": -3.4015356486067105,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 5,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatingsYear": [
+      148.20131107435043,
+      146.1729590808028,
+      144.3073191729161,
+      146.61558999269892,
+      144.79977542574372
+    ]
   },
   {
     "NAF Nr": "1890",
@@ -3047,12 +5921,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 143.02561583604637,
+    "bestRating": 161.56370911478263,
+    "worstRating": 143.02561583604637,
+    "tendency": -7.5308198241655475,
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 9,
     "gamesTotal": 16,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      150.55643566021192,
+      148.49287817419398,
+      148.5211210590978,
+      145.96345611900173,
+      148.31624979595114,
+      146.35422018564066,
+      148.3825721791883,
+      146.60254429776907,
+      144.7588320301642,
+      143.02561583604637
+    ]
   },
   {
     "NAF Nr": "1991",
@@ -3060,12 +5949,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 142.56667690194934,
+    "bestRating": 150,
+    "worstRating": 127.89271092226394,
+    "tendency": 7.331401912309644,
     "tournaments": 5,
     "gamesWon": 3,
     "gamesDraw": 6,
     "gamesLost": 6,
     "gamesTotal": 15,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      135.2352749896397,
+      131.07745963254092,
+      136.32380794850758,
+      131.92601389919568,
+      127.89271092226394,
+      134.73754849981515,
+      135.85534879581843,
+      136.5100629526357,
+      142.62132831573936,
+      142.56667690194934
+    ]
   },
   {
     "NAF Nr": "1999",
@@ -3073,12 +5977,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 143.88372630146725,
+    "bestRating": 155.41139939075893,
+    "worstRating": 143.88372630146725,
+    "tendency": -11.527673089291682,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      155.41139939075893,
+      149.51972822422954,
+      143.88372630146725
+    ]
   },
   {
     "NAF Nr": "2024",
@@ -3086,12 +5998,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 145.74573161996935,
+    "bestRating": 155.0990195135928,
+    "worstRating": 145.74573161996935,
+    "tendency": -9.353287893623445,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      155.0990195135928,
+      150.9136530838742,
+      150.87789655818892,
+      145.76953150055422,
+      145.74573161996935
+    ]
   },
   {
     "NAF Nr": "2085",
@@ -3099,12 +6021,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 135.9171065934828,
+    "bestRating": 157.13145936132722,
+    "worstRating": 125.69321576708904,
+    "tendency": -13.504919796376925,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 6,
     "gamesTotal": 11,
-    "winRatio": 40.91
+    "winRatio": 40.91,
+    "_lastTenRatingsYear": [
+      149.42202638985972,
+      141.25736763635277,
+      133.7720833363603,
+      126.62158953095948,
+      133.63668985991552,
+      129.49875896362127,
+      125.69321576708904,
+      126.74980722018921,
+      131.22391036406924,
+      135.9171065934828
+    ]
   },
   {
     "NAF Nr": "2164",
@@ -3112,12 +6049,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "rating": 146.44619989445854,
+    "bestRating": 153.46410161513776,
+    "worstRating": 146.44619989445854,
+    "tendency": -7.01790172067922,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      153.46410161513776,
+      150.00244826455165,
+      146.44619989445854
+    ]
   },
   {
     "NAF Nr": "2193",
@@ -3125,12 +6070,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 143.99123732709262,
+    "bestRating": 148.11562509902768,
+    "worstRating": 143.99123732709262,
+    "tendency": -4.124387771935062,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      148.11562509902768,
+      146.16144533371644,
+      143.99123732709262
+    ]
   },
   {
     "NAF Nr": "2233",
@@ -3138,12 +6091,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "rating": 136.6869604628006,
+    "bestRating": 144.9009804864072,
+    "worstRating": 132.9532736479359,
+    "tendency": -8.214020023606594,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      144.9009804864072,
+      139.84252685983603,
+      138.53980521106493,
+      132.9532736479359,
+      136.6869604628006
+    ]
   },
   {
     "NAF Nr": "2234",
@@ -3151,12 +6114,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "rating": 157.58784786316923,
+    "bestRating": 157.58784786316923,
+    "worstRating": 144.47447335504762,
+    "tendency": 13.113374508121609,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      144.47447335504762,
+      150.39527566889706,
+      155.91966556454017,
+      151.09516145566448,
+      157.58784786316923
+    ]
   },
   {
     "NAF Nr": "2236",
@@ -3164,12 +6137,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 147.77860082877658,
+    "bestRating": 155.0603978770308,
+    "worstRating": 147.77860082877658,
+    "tendency": -6.580298114764105,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      154.35889894354068,
+      155.0603978770308,
+      151.460575556157,
+      147.77860082877658
+    ]
   },
   {
     "NAF Nr": "2269",
@@ -3177,12 +6159,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 155.43472598813605,
+    "bestRating": 155.43472598813605,
+    "worstRating": 150.15037871351387,
+    "tendency": 2.788974677071451,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      152.6457513110646,
+      150.15037871351387,
+      152.8478875600471,
+      155.43472598813605
+    ]
   },
   {
     "NAF Nr": "2271",
@@ -3190,12 +6181,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 144.86901167631135,
+    "bestRating": 147.28039498212112,
+    "worstRating": 142.1030888176587,
+    "tendency": -2.2880324994134185,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      147.15704417572476,
+      144.32893245423125,
+      147.28039498212112,
+      144.63326149910918,
+      142.1030888176587,
+      144.86901167631135
+    ]
   },
   {
     "NAF Nr": "2329",
@@ -3203,12 +6205,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150.52883237911553,
+    "bestRating": 157.34648491190782,
+    "worstRating": 150.4818994037302,
+    "tendency": -3.176474729465241,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      153.70530710858077,
+      157.34648491190782,
+      153.155011657496,
+      150.4818994037302,
+      150.52883237911553
+    ]
   },
   {
     "NAF Nr": "2344",
@@ -3216,12 +6228,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 147.2363954255074,
+    "bestRating": 147.2363954255074,
+    "worstRating": 139.24373879712041,
+    "tendency": 1.3384292406536247,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      145.89796618485377,
+      142.25678838152672,
+      139.24373879712041,
+      143.39486546633583,
+      147.2363954255074
+    ]
   },
   {
     "NAF Nr": "2351",
@@ -3229,12 +6251,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 150.91952805847697,
+    "bestRating": 150.91952805847697,
+    "worstRating": 146.12839197169137,
+    "tendency": 4.791136086785599,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      146.12839197169137,
+      149.9339351682236,
+      146.38518555559446,
+      146.76609469699613,
+      150.91952805847697
+    ]
   },
   {
     "NAF Nr": "2372",
@@ -3242,12 +6274,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 177.09568061342668,
+    "bestRating": 186.47782880112757,
+    "worstRating": 156.80283700961738,
+    "tendency": -9.382148187700892,
     "tournaments": 5,
     "gamesWon": 13,
     "gamesDraw": 5,
     "gamesLost": 6,
     "gamesTotal": 24,
-    "winRatio": 64.58
+    "winRatio": 64.58,
+    "_lastTenRatingsYear": [
+      186.47782880112757,
+      179.43846932305235,
+      172.409730673838,
+      176.81332331721222,
+      175.46897228633992,
+      179.83288267308527,
+      184.4157458696196,
+      178.89435939993817,
+      183.9162067630243,
+      177.09568061342668
+    ]
   },
   {
     "NAF Nr": "2402",
@@ -3255,12 +6302,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 144.76190310651072,
+    "bestRating": 150.34302141370082,
+    "worstRating": 144.75874910545483,
+    "tendency": -0.039219828628802134,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      144.80112293513952,
+      144.75874910545483,
+      150.34302141370082,
+      144.98701499846578,
+      144.76190310651072
+    ]
   },
   {
     "NAF Nr": "2412",
@@ -3268,12 +6325,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 154.76063430251662,
+    "bestRating": 157.72624394453797,
+    "worstRating": 152.17061054190756,
+    "tendency": 1.9766420752800116,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 7,
-    "winRatio": 64.29
+    "winRatio": 64.29,
+    "_lastTenRatingsYear": [
+      152.7839922272366,
+      155.27468570072548,
+      152.17061054190756,
+      152.428969225083,
+      155.30608810910994,
+      157.72624394453797,
+      154.76063430251662
+    ]
   },
   {
     "NAF Nr": "2420",
@@ -3281,12 +6350,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 140.64215571491403,
+    "bestRating": 157.3834705509239,
+    "worstRating": 131.63752843516602,
+    "tendency": -6.291134853029348,
     "tournaments": 5,
     "gamesWon": 7,
     "gamesDraw": 11,
     "gamesLost": 11,
     "gamesTotal": 29,
-    "winRatio": 43.1
+    "winRatio": 43.1,
+    "_lastTenRatingsYear": [
+      146.93329056794337,
+      146.77261597731248,
+      141.42552922526093,
+      147.093062969377,
+      142.26418783877136,
+      136.87844381314272,
+      131.63752843516602,
+      139.0957748044394,
+      134.88933204226967,
+      140.64215571491403
+    ]
   },
   {
     "NAF Nr": "2433",
@@ -3294,12 +6378,20 @@ const statsYear2004 = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 144.25150411474328,
+    "bestRating": 149.95763481018358,
+    "worstRating": 144.09769089177416,
+    "tendency": 0.15381322296912003,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      144.09769089177416,
+      149.95763481018358,
+      144.25150411474328
+    ]
   },
   {
     "NAF Nr": "2441",
@@ -3307,12 +6399,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 152.04043559462698,
+    "bestRating": 158.12456835396551,
+    "worstRating": 143.21277386679645,
+    "tendency": -6.08413275933853,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      158.12456835396551,
+      150.44106238069776,
+      143.21277386679645,
+      152.04043559462698
+    ]
   },
   {
     "NAF Nr": "2443",
@@ -3320,12 +6421,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "rating": 134.5850452817659,
+    "bestRating": 151.69663123570572,
+    "worstRating": 134.5850452817659,
+    "tendency": -9.554338466282928,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 5,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatingsYear": [
+      144.13938374804883,
+      151.69663123570572,
+      145.68087238390373,
+      139.9015518790401,
+      134.5850452817659
+    ]
   },
   {
     "NAF Nr": "2456",
@@ -3333,12 +6444,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 144.23550058764394,
+    "bestRating": 144.23550058764394,
+    "worstRating": 143.87245185990926,
+    "tendency": 0.3630487277346788,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      143.87245185990926,
+      144.23550058764394
+    ]
   },
   {
     "NAF Nr": "2459",
@@ -3346,12 +6464,18 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 144.49252774426452,
+    "bestRating": 144.49252774426452,
+    "worstRating": 144.49252774426452,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      144.49252774426452
+    ]
   },
   {
     "NAF Nr": "2460",
@@ -3359,12 +6483,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 158.16341338535608,
+    "bestRating": 172.3339125044089,
+    "worstRating": 141.35081996734155,
+    "tendency": -8.878535486424369,
     "tournaments": 6,
     "gamesWon": 13,
     "gamesDraw": 8,
     "gamesLost": 12,
     "gamesTotal": 33,
-    "winRatio": 51.52
+    "winRatio": 51.52,
+    "_lastTenRatingsYear": [
+      167.04194887178045,
+      172.3339125044089,
+      166.79337675153246,
+      160.39416783372988,
+      165.60068350770658,
+      161.97550892532792,
+      158.4080981614451,
+      152.98911696838525,
+      158.53282925647503,
+      158.16341338535608
+    ]
   },
   {
     "NAF Nr": "2463",
@@ -3372,12 +6511,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 167.82906197050374,
+    "bestRating": 167.82906197050374,
+    "worstRating": 144.34314575050763,
+    "tendency": 13.438341472017981,
     "tournaments": 4,
     "gamesWon": 7,
     "gamesDraw": 6,
     "gamesLost": 4,
     "gamesTotal": 17,
-    "winRatio": 58.82
+    "winRatio": 58.82,
+    "_lastTenRatingsYear": [
+      154.39072049848576,
+      154.50018180187368,
+      148.8263152222571,
+      148.4926099441686,
+      153.76346311292247,
+      158.04130229748333,
+      158.45649390475174,
+      163.51216181838453,
+      167.02550063922354,
+      167.82906197050374
+    ]
   },
   {
     "NAF Nr": "2464",
@@ -3385,12 +6539,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 189.55078496106975,
+    "bestRating": 195.90502746029344,
+    "worstRating": 155.65685424949237,
+    "tendency": 2.922351474904019,
     "tournaments": 4,
     "gamesWon": 14,
     "gamesDraw": 3,
     "gamesLost": 4,
     "gamesTotal": 21,
-    "winRatio": 73.81
+    "winRatio": 73.81,
+    "_lastTenRatingsYear": [
+      186.62843348616573,
+      191.5475997309517,
+      195.90502746029344,
+      189.82395371226949,
+      182.9645708177243,
+      187.29587689913433,
+      194.41248719834985,
+      192.6008448272,
+      185.45101317693934,
+      189.55078496106975
+    ]
   },
   {
     "NAF Nr": "2499",
@@ -3398,12 +6567,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 161.22434796228777,
+    "bestRating": 164.41849429213335,
+    "worstRating": 144.34314575050763,
+    "tendency": 11.607670268381838,
     "tournaments": 2,
     "gamesWon": 7,
     "gamesDraw": 4,
     "gamesLost": 3,
     "gamesTotal": 14,
-    "winRatio": 64.29
+    "winRatio": 64.29,
+    "_lastTenRatingsYear": [
+      149.61667769390593,
+      152.37830418320567,
+      152.0365111886244,
+      155.52790200761507,
+      159.27800012512685,
+      159.0932734863982,
+      159.06862881891988,
+      161.48030812412802,
+      164.41849429213335,
+      161.22434796228777
+    ]
   },
   {
     "NAF Nr": "2502",
@@ -3411,12 +6595,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 149.9393278264101,
+    "bestRating": 161.07830449272234,
+    "worstRating": 127.78865946110672,
+    "tendency": 4.395683685222764,
     "tournaments": 8,
     "gamesWon": 11,
     "gamesDraw": 6,
     "gamesLost": 13,
     "gamesTotal": 30,
-    "winRatio": 46.67
+    "winRatio": 46.67,
+    "_lastTenRatingsYear": [
+      145.54364414118734,
+      151.4730915060206,
+      145.5182399980077,
+      151.99543981951268,
+      152.23407590695433,
+      148.42193461172357,
+      148.72126030718331,
+      152.2822573819261,
+      149.3445701410634,
+      149.9393278264101
+    ]
   },
   {
     "NAF Nr": "2504",
@@ -3424,12 +6623,27 @@ const statsYear2004 = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 165.91968629801588,
+    "bestRating": 174.33451640760467,
+    "worstRating": 154.5032823556709,
+    "tendency": 5.699125750928431,
     "tournaments": 5,
     "gamesWon": 7,
     "gamesDraw": 5,
     "gamesLost": 3,
     "gamesTotal": 15,
-    "winRatio": 63.33
+    "winRatio": 63.33,
+    "_lastTenRatingsYear": [
+      160.22056054708744,
+      159.4839586606532,
+      164.000918979823,
+      169.4860848146431,
+      174.33451640760467,
+      167.4281209166625,
+      166.77668595607838,
+      161.24125325709082,
+      166.00058685446714,
+      165.91968629801588
+    ]
   },
   {
     "NAF Nr": "2508",
@@ -3437,12 +6651,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 166.4477736377663,
+    "bestRating": 167.06273197897292,
+    "worstRating": 150.20430494036805,
+    "tendency": 4.967684513459403,
     "tournaments": 4,
     "gamesWon": 6,
     "gamesDraw": 4,
     "gamesLost": 2,
     "gamesTotal": 12,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      161.4800891243069,
+      166.8842786118389,
+      160.68452489796442,
+      157.02137419593168,
+      159.32660519145952,
+      162.3339054387169,
+      162.8473913181715,
+      167.06273197897292,
+      166.7794981158156,
+      166.4477736377663
+    ]
   },
   {
     "NAF Nr": "2512",
@@ -3450,12 +6679,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 165.46438506189813,
+    "bestRating": 165.46438506189813,
+    "worstRating": 149.55531648896866,
+    "tendency": 15.464385061898128,
     "tournaments": 3,
     "gamesWon": 6,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 11,
-    "winRatio": 59.09
+    "winRatio": 59.09,
+    "_lastTenRatingsYear": [
+      150,
+      155.29068057280392,
+      149.98471649231695,
+      155.18311692005577,
+      149.55531648896866,
+      154.71277232821305,
+      160.40128447617224,
+      154.8338445753606,
+      159.79860734594874,
+      165.46438506189813
+    ]
   },
   {
     "NAF Nr": "2514",
@@ -3463,25 +6707,47 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 142.98192545236918,
+    "bestRating": 149.55782710436628,
+    "worstRating": 142.98192545236918,
+    "tendency": -6.5759016519971,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      149.55782710436628,
+      142.98192545236918
+    ]
   },
   {
     "NAF Nr": "2515",
     "NAF Name": "Yeti",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 138.79330885837737,
+    "bestRating": 160.3512459074612,
+    "worstRating": 135.36868256557506,
+    "tendency": -20.905739939375252,
     "tournaments": 7,
     "gamesWon": 6,
     "gamesDraw": 0,
     "gamesLost": 8,
     "gamesTotal": 14,
-    "winRatio": 42.86
+    "winRatio": 42.86,
+    "_lastTenRatingsYear": [
+      159.69904879775262,
+      154.03218728865804,
+      148.45405837493922,
+      145.17247159292899,
+      150.5989847184675,
+      145.4736310953559,
+      140.3565080296888,
+      135.36868256557506,
+      143.3784855619046,
+      138.79330885837737
+    ]
   },
   {
     "NAF Nr": "2516",
@@ -3489,12 +6755,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 154.0974224200855,
+    "bestRating": 154.0974224200855,
+    "worstRating": 144.574274747662,
+    "tendency": 9.523147672423505,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      144.574274747662,
+      149.6996283707736,
+      154.0974224200855
+    ]
   },
   {
     "NAF Nr": "2517",
@@ -3502,12 +6776,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 149.2373843406912,
+    "bestRating": 155.0127980856182,
+    "worstRating": 143.1583138475099,
+    "tendency": -5.775413744926993,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 7,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.0127980856182,
+      148.91778872118732,
+      143.1583138475099,
+      143.89491573394415,
+      148.87997294155028,
+      143.30269161761757,
+      149.2373843406912
+    ]
   },
   {
     "NAF Nr": "2519",
@@ -3515,12 +6801,27 @@ const statsYear2004 = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 159.1851689456339,
+    "bestRating": 179.81129816792188,
+    "worstRating": 143.65681013737566,
+    "tendency": -16.855233709763354,
     "tournaments": 7,
     "gamesWon": 10,
     "gamesDraw": 8,
     "gamesLost": 8,
     "gamesTotal": 26,
-    "winRatio": 53.85
+    "winRatio": 53.85,
+    "_lastTenRatingsYear": [
+      176.04040265539726,
+      175.52691677594265,
+      179.81129816792188,
+      178.96831139313272,
+      172.47196261949648,
+      171.5659301898546,
+      176.29489452144625,
+      170.46340329423646,
+      164.20701630872003,
+      159.1851689456339
+    ]
   },
   {
     "NAF Nr": "2521",
@@ -3528,12 +6829,18 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 151.7550753021423,
+    "bestRating": 151.7550753021423,
+    "worstRating": 151.7550753021423,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
     "gamesTotal": 1,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatingsYear": [
+      151.7550753021423
+    ]
   },
   {
     "NAF Nr": "2529",
@@ -3541,12 +6848,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 136.76648808469525,
+    "bestRating": 145.64110105645932,
+    "worstRating": 136.76648808469525,
+    "tendency": -8.874612971764066,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatingsYear": [
+      145.64110105645932,
+      144.93587180202485,
+      140.97478275778815,
+      136.76648808469525
+    ]
   },
   {
     "NAF Nr": "2557",
@@ -3554,12 +6870,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 135.6341498849386,
+    "bestRating": 150.24499644458587,
+    "worstRating": 135.6341498849386,
+    "tendency": -14.610846559647257,
     "tournaments": 2,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatingsYear": [
+      150.24499644458587,
+      146.06384828622714,
+      140.39348348231493,
+      135.6341498849386
+    ]
   },
   {
     "NAF Nr": "2591",
@@ -3567,12 +6892,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 147.39628235277587,
+    "bestRating": 152.46007623444223,
+    "worstRating": 132.73221628863462,
+    "tendency": 0.7390013492459389,
     "tournaments": 8,
     "gamesWon": 17,
     "gamesDraw": 6,
     "gamesLost": 19,
     "gamesTotal": 42,
-    "winRatio": 47.62
+    "winRatio": 47.62,
+    "_lastTenRatingsYear": [
+      146.65728100352993,
+      148.61676411970464,
+      146.70309041087935,
+      148.81237481095087,
+      145.03124708391096,
+      145.59292844322098,
+      150.2204836251464,
+      146.9521632409831,
+      142.84567767625202,
+      147.39628235277587
+    ]
   },
   {
     "NAF Nr": "2602",
@@ -3580,12 +6920,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 133.0609485845819,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.0609485845819,
+    "tendency": -11.282197165925737,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      138.46265724423716,
+      133.0609485845819
+    ]
   },
   {
     "NAF Nr": "2654",
@@ -3593,12 +6941,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "rating": 153.46416329473755,
+    "bestRating": 153.46416329473755,
+    "worstRating": 146.5334501203106,
+    "tendency": 3.4641632947375456,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      150,
+      146.5334501203106,
+      150.0896984904037,
+      153.46416329473755
+    ]
   },
   {
     "NAF Nr": "2686",
@@ -3606,12 +6963,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 148.080486723564,
+    "bestRating": 155.28944274037934,
+    "worstRating": 134.00069225290918,
+    "tendency": -7.2089560168153355,
     "tournaments": 4,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 6,
     "gamesTotal": 13,
-    "winRatio": 46.15
+    "winRatio": 46.15,
+    "_lastTenRatingsYear": [
+      155.28944274037934,
+      149.2510399958592,
+      144.22353459704834,
+      138.8190098428515,
+      134.00069225290918,
+      140.14566494415448,
+      145.89216158310958,
+      152.05866601506736,
+      152.87252550297185,
+      148.080486723564
+    ]
   },
   {
     "NAF Nr": "2705",
@@ -3619,12 +6991,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 155.29189380553927,
+    "bestRating": 160.43654427320985,
+    "worstRating": 144.5261753913879,
+    "tendency": 5.328389206181669,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 11,
-    "winRatio": 54.55
+    "winRatio": 54.55,
+    "_lastTenRatingsYear": [
+      149.9635045993576,
+      157.25165821537422,
+      149.86407578176102,
+      150.0581445930976,
+      144.5261753913879,
+      148.96742900632438,
+      149.03056276769465,
+      154.65182875789972,
+      160.43654427320985,
+      155.29189380553927
+    ]
   },
   {
     "NAF Nr": "2710",
@@ -3632,12 +7019,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Norway",
     "rating": 127.34089507071734,
+    "bestRating": 144.34314575050763,
+    "worstRating": 118.77264924085745,
+    "tendency": -5.08842429612092,
     "tournaments": 6,
     "gamesWon": 7,
     "gamesDraw": 8,
     "gamesLost": 15,
     "gamesTotal": 30,
-    "winRatio": 36.67
+    "winRatio": 36.67,
+    "_lastTenRatingsYear": [
+      132.42931936683826,
+      127.53075673698982,
+      122.64095998908616,
+      128.94182305288712,
+      124.66814556909787,
+      131.09048450769882,
+      127.2557433277904,
+      127.93333551348812,
+      132.0029819744955,
+      127.34089507071734
+    ]
   },
   {
     "NAF Nr": "2714",
@@ -3645,12 +7047,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 103.45547507653522,
+    "bestRating": 144.35380288735715,
+    "worstRating": 98.80635265891534,
+    "tendency": -7.7485803816593375,
     "tournaments": 6,
     "gamesWon": 8,
     "gamesDraw": 3,
     "gamesLost": 22,
     "gamesTotal": 33,
-    "winRatio": 28.79
+    "winRatio": 28.79,
+    "_lastTenRatingsYear": [
+      111.20405545819456,
+      106.97887047026668,
+      102.69652788777594,
+      98.80635265891534,
+      105.18768281924999,
+      112.09749783660818,
+      109.3600203512588,
+      105.8018523700448,
+      107.10457401881591,
+      103.45547507653522
+    ]
   },
   {
     "NAF Nr": "2717",
@@ -3658,12 +7075,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "rating": 137.8179747144205,
+    "bestRating": 155.23475936297115,
+    "worstRating": 125.26795261673524,
+    "tendency": -5.904104898942791,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 6,
     "gamesTotal": 12,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      143.7220796133633,
+      138.3375891090527,
+      133.18574700376638,
+      133.21477204006055,
+      129.96296067986412,
+      131.38167360011195,
+      125.82666388349047,
+      125.26795261673524,
+      131.78005501231377,
+      137.8179747144205
+    ]
   },
   {
     "NAF Nr": "2719",
@@ -3671,12 +7103,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Indonesia",
     "rating": 138.58245097670124,
+    "bestRating": 155.65685424949237,
+    "worstRating": 138.58245097670124,
+    "tendency": -17.07440327279113,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      150,
+      150.00092369338054,
+      144.36519612329005,
+      138.58245097670124
+    ]
   },
   {
     "NAF Nr": "2730",
@@ -3684,12 +7126,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 139.00769174958475,
+    "bestRating": 161.31370849898474,
+    "worstRating": 139.00769174958475,
+    "tendency": -10.992308250415249,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 5,
     "gamesTotal": 10,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      150,
+      155.65685424949237,
+      161.31370849898474,
+      155.45032986656216,
+      149.80205742162434,
+      144.15409176797706,
+      149.481745797163,
+      144.21136134900027,
+      144.37881280472027,
+      139.00769174958475
+    ]
   },
   {
     "NAF Nr": "2732",
@@ -3697,12 +7154,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 156.2300862258633,
+    "bestRating": 160.9055259237423,
+    "worstRating": 153.70530449946563,
+    "tendency": 2.524781726397663,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 8,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      153.70530449946563,
+      157.4050919281815,
+      160.9055259237423,
+      157.19507984695,
+      159.80055349997772,
+      156.7975300571581,
+      159.3699609048381,
+      156.2300862258633
+    ]
   },
   {
     "NAF Nr": "2736",
@@ -3710,12 +7180,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 162.3228797343274,
+    "bestRating": 180.58272212809885,
+    "worstRating": 144.2014088992073,
+    "tendency": -4.629856726927187,
     "tournaments": 5,
     "gamesWon": 10,
     "gamesDraw": 6,
     "gamesLost": 7,
     "gamesTotal": 23,
-    "winRatio": 56.52
+    "winRatio": 56.52,
+    "_lastTenRatingsYear": [
+      166.95273646125457,
+      166.23233631146525,
+      171.59212412424733,
+      176.80159440105894,
+      180.58272212809885,
+      175.40765242640697,
+      169.25063363223867,
+      172.7293108874299,
+      167.80283711176358,
+      162.3228797343274
+    ]
   },
   {
     "NAF Nr": "2738",
@@ -3723,12 +7208,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 133.71121776640993,
+    "bestRating": 144.98975475465613,
+    "worstRating": 133.71121776640993,
+    "tendency": -11.278536988246202,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      144.98975475465613,
+      139.55032797125597,
+      133.71121776640993
+    ]
   },
   {
     "NAF Nr": "2739",
@@ -3736,12 +7229,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 148.92334446301066,
+    "bestRating": 149.75593229724345,
+    "worstRating": 137.54109347555405,
+    "tendency": 4.580198712503034,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 9,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      149.7448544101629,
+      149.75593229724345,
+      143.86420100703427,
+      140.72676318947035,
+      137.54109347555405,
+      141.0120147117994,
+      145.20178935757144,
+      148.92334446301066
+    ]
   },
   {
     "NAF Nr": "2745",
@@ -3749,12 +7256,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 156.24803084323176,
+    "bestRating": 156.51740546781767,
+    "worstRating": 150.91041959510935,
+    "tendency": 0.16606685415518996,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      156.08196398907657,
+      150.91041959510935,
+      156.51740546781767,
+      156.24803084323176
+    ]
   },
   {
     "NAF Nr": "2746",
@@ -3762,12 +7278,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 158.5117441771268,
+    "bestRating": 162.0328334981612,
+    "worstRating": 155.4114587874778,
+    "tendency": 2.8548899276344173,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 8,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      161.31370849898474,
+      155.4114587874778,
+      158.8381015824375,
+      162.0328334981612,
+      158.57978424824512,
+      158.43995883994694,
+      158.5117441771268
+    ]
   },
   {
     "NAF Nr": "2747",
@@ -3775,12 +7304,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 145.24265974508037,
+    "bestRating": 145.24265974508037,
+    "worstRating": 139.65156579491133,
+    "tendency": 0.4426406621783201,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      144.80001908290205,
+      140.0176069470719,
+      139.65156579491133,
+      145.24265974508037
+    ]
   },
   {
     "NAF Nr": "2748",
@@ -3788,12 +7326,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 155.66751055449657,
+    "bestRating": 155.66751055449657,
+    "worstRating": 155.4113993907589,
+    "tendency": 0.010656305004204114,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 0,
     "gamesTotal": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      155.4113993907589,
+      155.42205652760842,
+      155.66751055449657
+    ]
   },
   {
     "NAF Nr": "2755",
@@ -3801,12 +7348,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 152.01388336722144,
+    "bestRating": 153.8729833462074,
+    "worstRating": 147.90617314845642,
+    "tendency": -1.8590999789859666,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      153.8729833462074,
+      151.15794061264663,
+      147.90617314845642,
+      152.06081634260676,
+      152.01388336722144
+    ]
   },
   {
     "NAF Nr": "2757",
@@ -3814,12 +7371,21 @@ const statsYear2004 = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "rating": 143.98443180817222,
+    "bestRating": 149.84542945874387,
+    "worstRating": 143.98443180817222,
+    "tendency": -1.1139187834621964,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      145.09835059163441,
+      149.82018827465347,
+      149.84542945874387,
+      143.98443180817222
+    ]
   },
   {
     "NAF Nr": "2781",
@@ -3827,12 +7393,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "rating": 150.4481349344661,
+    "bestRating": 153.73777366232127,
+    "worstRating": 146.53589838486224,
+    "tendency": 3.9122365496038753,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      146.53589838486224,
+      150.09214675495534,
+      153.73777366232127,
+      150.4481349344661
+    ]
   },
   {
     "NAF Nr": "2785",
@@ -3840,12 +7415,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Switzerland",
     "rating": 174.11743125434646,
+    "bestRating": 174.11743125434646,
+    "worstRating": 144.43223563716998,
+    "tendency": 29.685195617176475,
     "tournaments": 1,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatingsYear": [
+      144.43223563716998,
+      151.46097428638433,
+      156.96116517928814,
+      162.48503435031972,
+      168.2377120214121,
+      174.11743125434646
+    ]
   },
   {
     "NAF Nr": "2795",
@@ -3853,12 +7439,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 155.7852620492523,
+    "bestRating": 168.5864845226316,
+    "worstRating": 150.36574476627126,
+    "tendency": -3.65747171972788,
     "tournaments": 4,
     "gamesWon": 8,
     "gamesDraw": 5,
     "gamesLost": 7,
     "gamesTotal": 20,
-    "winRatio": 52.5
+    "winRatio": 52.5,
+    "_lastTenRatingsYear": [
+      159.4427337689802,
+      159.0308922499041,
+      153.06605869445053,
+      158.07514830209,
+      154.9678407809561,
+      150.36574476627126,
+      150.80688503824567,
+      155.7814671107866,
+      160.4049149151969,
+      155.7852620492523
+    ]
   },
   {
     "NAF Nr": "2796",
@@ -3866,12 +7467,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 155.80970984256768,
+    "bestRating": 155.80970984256768,
+    "worstRating": 149.58722382004393,
+    "tendency": 0.3611498167349225,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      155.44856002583276,
+      149.58722382004393,
+      155.52805239581411,
+      149.91297741826017,
+      155.80970984256768
+    ]
   },
   {
     "NAF Nr": "2797",
@@ -3879,12 +7490,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 154.16891194594174,
+    "bestRating": 176.95596578833653,
+    "worstRating": 150.69066934085546,
+    "tendency": -11.991476942885527,
     "tournaments": 5,
     "gamesWon": 10,
     "gamesDraw": 5,
     "gamesLost": 8,
     "gamesTotal": 23,
-    "winRatio": 54.35
+    "winRatio": 54.35,
+    "_lastTenRatingsYear": [
+      166.16038888882727,
+      169.98227581251047,
+      174.11971513318863,
+      168.33633312241025,
+      163.58942712083933,
+      160.48638066743146,
+      155.6652514133964,
+      150.69066934085546,
+      155.11592172518175,
+      154.16891194594174
+    ]
   },
   {
     "NAF Nr": "2798",
@@ -3892,12 +7518,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 206.61715409387895,
+    "bestRating": 216.78478213732402,
+    "worstRating": 144.47257786982075,
+    "tendency": 8.155532679109513,
     "tournaments": 5,
     "gamesWon": 16,
     "gamesDraw": 5,
     "gamesLost": 3,
     "gamesTotal": 24,
-    "winRatio": 77.08
+    "winRatio": 77.08,
+    "_lastTenRatingsYear": [
+      198.46162141476944,
+      202.10632116552645,
+      205.82774635443073,
+      204.83162225454072,
+      208.23338272818089,
+      211.85605430003466,
+      215.04044368975264,
+      216.78478213732402,
+      208.4390775476974,
+      206.61715409387895
+    ]
   },
   {
     "NAF Nr": "2800",
@@ -3905,12 +7546,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 148.28118162081154,
+    "bestRating": 165.36374760564567,
+    "worstRating": 139.22714102948677,
+    "tendency": -5.92967736696167,
     "tournaments": 5,
     "gamesWon": 8,
     "gamesDraw": 2,
     "gamesLost": 9,
     "gamesTotal": 19,
-    "winRatio": 47.37
+    "winRatio": 47.37,
+    "_lastTenRatingsYear": [
+      154.2108589877732,
+      148.99025463522716,
+      154.6909490917473,
+      160.1446498477699,
+      165.36374760564567,
+      160.0078376861665,
+      153.9580620532965,
+      158.90422637658995,
+      153.38132797908293,
+      148.28118162081154
+    ]
   },
   {
     "NAF Nr": "2802",
@@ -3918,12 +7574,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Switzerland",
     "rating": 181.7184653247131,
+    "bestRating": 181.7184653247131,
+    "worstRating": 143.40274464348255,
+    "tendency": 20.698900398441936,
     "tournaments": 4,
     "gamesWon": 11,
     "gamesDraw": 3,
     "gamesLost": 5,
     "gamesTotal": 19,
-    "winRatio": 65.79
+    "winRatio": 65.79,
+    "_lastTenRatingsYear": [
+      161.01956492627116,
+      165.36861906612108,
+      169.79360084461658,
+      165.45644836278143,
+      170.25840364864013,
+      175.433473350332,
+      170.2484140733416,
+      175.3631855029277,
+      176.13382250214224,
+      181.7184653247131
+    ]
   },
   {
     "NAF Nr": "2803",
@@ -3931,12 +7602,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 158.7838493455505,
+    "bestRating": 158.7838493455505,
+    "worstRating": 150.11679560469886,
+    "tendency": 4.541208658431202,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      154.2426406871193,
+      150.11679560469886,
+      154.3246165564211,
+      158.7838493455505
+    ]
   },
   {
     "NAF Nr": "2804",
@@ -3944,12 +7624,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 155.96545003379273,
+    "bestRating": 161.31370849898474,
+    "worstRating": 150.14192361759487,
+    "tendency": 0.3085957843003655,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      161.31370849898474,
+      155.86810238627203,
+      150.14192361759487,
+      155.96545003379273
+    ]
   },
   {
     "NAF Nr": "2805",
@@ -3957,12 +7647,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 133.47773217136108,
+    "bestRating": 146.84647497513672,
+    "worstRating": 132.29744546035255,
+    "tendency": -10.54788227397512,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 5,
     "gamesTotal": 10,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      144.0256144453362,
+      144.04299100835894,
+      146.8320499123123,
+      146.84647497513672,
+      142.48256458839137,
+      142.5688484126841,
+      137.94898548073738,
+      132.29744546035255,
+      137.1843946113454,
+      133.47773217136108
+    ]
   },
   {
     "NAF Nr": "2806",
@@ -3970,12 +7675,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 178.97561057714947,
+    "bestRating": 178.97561057714947,
+    "worstRating": 149.51976848780637,
+    "tendency": 18.12121769056006,
     "tournaments": 5,
     "gamesWon": 12,
     "gamesDraw": 5,
     "gamesLost": 5,
     "gamesTotal": 22,
-    "winRatio": 65.91
+    "winRatio": 65.91,
+    "_lastTenRatingsYear": [
+      160.8543928865894,
+      165.54835839208516,
+      161.20766371278202,
+      165.62281269697579,
+      160.8208574111171,
+      165.04605595486183,
+      165.63379492452566,
+      169.75907140836134,
+      174.56369548604388,
+      178.97561057714947
+    ]
   },
   {
     "NAF Nr": "2808",
@@ -3983,12 +7703,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 148.9737644046914,
+    "bestRating": 161.34550375794902,
+    "worstRating": 140.46789906619543,
+    "tendency": 2.531479783832168,
     "tournaments": 4,
     "gamesWon": 8,
     "gamesDraw": 1,
     "gamesLost": 7,
     "gamesTotal": 16,
-    "winRatio": 53.13
+    "winRatio": 53.13,
+    "_lastTenRatingsYear": [
+      146.44228462085923,
+      141.37747771557883,
+      147.3123221546593,
+      142.122656671869,
+      142.4896437829752,
+      148.49934690773583,
+      144.17489342795915,
+      149.49423721901434,
+      144.64077843535273,
+      148.9737644046914
+    ]
   },
   {
     "NAF Nr": "2809",
@@ -3996,12 +7731,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 120.13041918185041,
+    "bestRating": 149.95395372318268,
+    "worstRating": 118.97906304303557,
+    "tendency": -29.823534541332265,
     "tournaments": 3,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 7,
     "gamesTotal": 11,
-    "winRatio": 27.27
+    "winRatio": 27.27,
+    "_lastTenRatingsYear": [
+      149.95395372318268,
+      142.7130319354006,
+      142.6857434362958,
+      134.93419738176706,
+      125.77927314330367,
+      118.97906304303557,
+      124.21318811209693,
+      122.63609766247872,
+      119.27405047778113,
+      120.13041918185041
+    ]
   },
   {
     "NAF Nr": "2810",
@@ -4009,12 +7759,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 131.63143563898728,
+    "bestRating": 149.0336325561576,
+    "worstRating": 126.04490407585826,
+    "tendency": -1.0436345843208414,
     "tournaments": 3,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 7,
     "gamesTotal": 13,
-    "winRatio": 34.62
+    "winRatio": 34.62,
+    "_lastTenRatingsYear": [
+      132.67507022330813,
+      138.37567351551445,
+      145.43309655879634,
+      140.10307303712574,
+      140.5944165740015,
+      135.04795561486466,
+      134.90119541335952,
+      130.62240780276963,
+      126.04490407585826,
+      131.63143563898728
+    ]
   },
   {
     "NAF Nr": "2819",
@@ -4022,12 +7787,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 155.74019488039386,
+    "bestRating": 155.74019488039386,
+    "worstRating": 140.71054459982193,
+    "tendency": 10.147489094972457,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      145.5927057854214,
+      140.71054459982193,
+      145.7740059784258,
+      150.67510908638965,
+      155.74019488039386
+    ]
   },
   {
     "NAF Nr": "2845",
@@ -4035,12 +7810,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 139.4924402007206,
+    "bestRating": 149.24141728721432,
+    "worstRating": 139.4924402007206,
+    "tendency": -9.74897708649371,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      149.24141728721432,
+      144.10402954449677,
+      139.4924402007206
+    ]
   },
   {
     "NAF Nr": "2852",
@@ -4048,12 +7831,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 139.81662857659555,
+    "bestRating": 144,
+    "worstRating": 132.7740099836699,
+    "tendency": 1.8166285765955479,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 5,
     "gamesLost": 4,
     "gamesTotal": 11,
-    "winRatio": 40.91
+    "winRatio": 40.91,
+    "_lastTenRatingsYear": [
+      138,
+      144,
+      143.72225450578406,
+      143.20682079434292,
+      136.95346907785387,
+      137.4720579186416,
+      132.7740099836699,
+      138.89246293774468,
+      139.3350173046284,
+      139.81662857659555
+    ]
   },
   {
     "NAF Nr": "2854",
@@ -4061,12 +7859,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 135.05006469672088,
+    "bestRating": 160.50012506445552,
+    "worstRating": 134.6180239361138,
+    "tendency": -13.874290575475413,
     "tournaments": 4,
     "gamesWon": 5,
     "gamesDraw": 4,
     "gamesLost": 10,
     "gamesTotal": 19,
-    "winRatio": 36.84
+    "winRatio": 36.84,
+    "_lastTenRatingsYear": [
+      148.9243552721963,
+      143.77225241173412,
+      138.44448633099094,
+      138.59848300461329,
+      142.90223414247154,
+      147.5829341891207,
+      143.72612522467958,
+      140.0902935689415,
+      134.6180239361138,
+      135.05006469672088
+    ]
   },
   {
     "NAF Nr": "2870",
@@ -4074,12 +7887,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 174.8866371256015,
+    "bestRating": 182.45122481277315,
+    "worstRating": 155.65685424949237,
+    "tendency": -4.523235526095533,
     "tournaments": 5,
     "gamesWon": 15,
     "gamesDraw": 5,
     "gamesLost": 8,
     "gamesTotal": 28,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      179.40987265169704,
+      172.84192689786266,
+      177.59095343683262,
+      182.45122481277315,
+      176.22326292621398,
+      169.32576900659694,
+      171.0720695749589,
+      164.95191642268645,
+      170.18631745779976,
+      174.8866371256015
+    ]
   },
   {
     "NAF Nr": "2899",
@@ -4087,12 +7915,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 151.38367575761905,
+    "bestRating": 151.38367575761905,
+    "worstRating": 139.16884041783143,
+    "tendency": 7.29975554071865,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 7,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      144.0839202169004,
+      150.5357976855268,
+      145.1313770070369,
+      139.16884041783143,
+      145.06275030150653,
+      150.94607350922584,
+      151.38367575761905
+    ]
   },
   {
     "NAF Nr": "2907",
@@ -4100,12 +7940,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 157.9867989232207,
+    "bestRating": 168.79581129703513,
+    "worstRating": 150.48593821280608,
+    "tendency": 7.500860710414628,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 3,
     "gamesTotal": 10,
-    "winRatio": 55
+    "winRatio": 55,
+    "_lastTenRatingsYear": [
+      150.48593821280608,
+      156.13967442075827,
+      150.73659271929552,
+      151.20454113704238,
+      158.2439006151176,
+      163.308707520398,
+      168.79581129703513,
+      168.7073332290784,
+      163.1962692000323,
+      157.9867989232207
+    ]
   },
   {
     "NAF Nr": "2909",
@@ -4113,12 +7968,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 131.6271803986337,
+    "bestRating": 154.73217096770955,
+    "worstRating": 131.6271803986337,
+    "tendency": -23.104990569075852,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 7,
     "gamesTotal": 10,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      154.73217096770955,
+      149.5635760808319,
+      145.42613676015372,
+      145.58405123939818,
+      142.0646343267294,
+      137.38434470640692,
+      143.54136350057522,
+      140.60303745948383,
+      136.17778507515754,
+      131.6271803986337
+    ]
   },
   {
     "NAF Nr": "2910",
@@ -4126,12 +7996,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 143.88296174365775,
+    "bestRating": 152.723092506347,
+    "worstRating": 142.69757704846776,
+    "tendency": -3.667548513559069,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 5,
     "gamesTotal": 7,
-    "winRatio": 28.57
+    "winRatio": 28.57,
+    "_lastTenRatingsYear": [
+      147.5505102572168,
+      145.10102051443363,
+      142.69757704846776,
+      147.55449761946934,
+      152.723092506347,
+      148.2981107278515,
+      143.88296174365775
+    ]
   },
   {
     "NAF Nr": "2912",
@@ -4139,12 +8021,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 142.00132162759246,
+    "bestRating": 152.4494897427832,
+    "worstRating": 142.00132162759246,
+    "tendency": -10.448168115190725,
     "tournaments": 3,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 4,
     "gamesTotal": 9,
-    "winRatio": 38.89
+    "winRatio": 38.89,
+    "_lastTenRatingsYear": [
+      152.4494897427832,
+      152.3697352518362,
+      152.2925769557182,
+      148.43874540788056,
+      144.10455692311083,
+      148.17460271571247,
+      148.41675381457318,
+      145.73306004788782,
+      142.00132162759246
+    ]
   },
   {
     "NAF Nr": "2913",
@@ -4152,12 +8048,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 145.05986602627345,
+    "bestRating": 149.20603854252997,
+    "worstRating": 143.07080315295556,
+    "tendency": -4.146172516256513,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      149.20603854252997,
+      143.07080315295556,
+      145.05986602627345
+    ]
   },
   {
     "NAF Nr": "2914",
@@ -4165,12 +8069,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 151.95785337488263,
+    "bestRating": 162.2556502583368,
+    "worstRating": 144.33698883610046,
+    "tendency": 7.620864538782172,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 9,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      144.33698883610046,
+      150.47443573653229,
+      156.98614731101785,
+      162.2556502583368,
+      156.40233539410252,
+      156.13016193439418,
+      151.19190928669155,
+      156.54071657141697,
+      151.95785337488263
+    ]
   },
   {
     "NAF Nr": "2916",
@@ -4178,12 +8096,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 153.81892337580157,
+    "bestRating": 153.81892337580157,
+    "worstRating": 143.17142658249023,
+    "tendency": 8.614754899114303,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      145.20416847668727,
+      149.88445809700974,
+      147.2967030663259,
+      143.17142658249023,
+      149.1205380599795,
+      153.81892337580157
+    ]
   },
   {
     "NAF Nr": "2925",
@@ -4191,12 +8120,23 @@ const statsYear2004 = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 140.81444617300878,
+    "bestRating": 157.7840880113462,
+    "worstRating": 140.81444617300878,
+    "tendency": -5.064082251566106,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      145.87852842457488,
+      151.4789158030557,
+      157.7840880113462,
+      152.24001225298161,
+      146.7245704317397,
+      140.81444617300878
+    ]
   },
   {
     "NAF Nr": "2929",
@@ -4204,12 +8144,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 132.9604064996021,
+    "bestRating": 146.33240362846476,
+    "worstRating": 132.9604064996021,
+    "tendency": -11.859252063106482,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 6,
     "gamesTotal": 9,
-    "winRatio": 27.78
+    "winRatio": 27.78,
+    "_lastTenRatingsYear": [
+      144.81965856270858,
+      138.91573943238097,
+      133.49359524707975,
+      139.59407836906576,
+      140.0449240325781,
+      146.33240362846476,
+      141.98334948861483,
+      137.21936370069105,
+      132.9604064996021
+    ]
   },
   {
     "NAF Nr": "2940",
@@ -4217,12 +8171,26 @@ const statsYear2004 = [
     "CCAA": "Aragón",
     "Country": "Spain",
     "rating": 161.1246526842012,
+    "bestRating": 161.1246526842012,
+    "worstRating": 154.33835457117553,
+    "tendency": 6.025633170608415,
     "tournaments": 4,
     "gamesWon": 6,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 9,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      155.0990195135928,
+      159.60980342891904,
+      157.03135842906067,
+      160.04538635184724,
+      154.56022051702715,
+      160.00413228712492,
+      154.33835457117553,
+      157.56767481749907,
+      161.1246526842012
+    ]
   },
   {
     "NAF Nr": "2949",
@@ -4230,12 +8198,27 @@ const statsYear2004 = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 128.33172854891737,
+    "bestRating": 156.3511233603658,
+    "worstRating": 124.19023564090277,
+    "tendency": -22.148543226853093,
     "tournaments": 3,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 6,
     "gamesTotal": 11,
-    "winRatio": 36.36
+    "winRatio": 36.36,
+    "_lastTenRatingsYear": [
+      150.48027177577046,
+      156.3511233603658,
+      150.90918828324803,
+      145.46946109370595,
+      145.73870440744957,
+      138.20775644357883,
+      138.33921289484198,
+      131.82938030747633,
+      124.19023564090277,
+      128.33172854891737
+    ]
   },
   {
     "NAF Nr": "2973",
@@ -4243,12 +8226,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 149.1836296115846,
+    "bestRating": 157.87745006203724,
+    "worstRating": 149.1836296115846,
+    "tendency": -1.9932387729783443,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      151.17686838456294,
+      157.87745006203724,
+      153.92400260972101,
+      149.1836296115846
+    ]
   },
   {
     "NAF Nr": "2974",
@@ -4256,12 +8248,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 174.06948850497392,
+    "bestRating": 175.1087303306602,
+    "worstRating": 150.71666785004453,
+    "tendency": 19.27365698166119,
     "tournaments": 2,
     "gamesWon": 6,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 9,
-    "winRatio": 72.22
+    "winRatio": 72.22,
+    "_lastTenRatingsYear": [
+      154.79583152331273,
+      150.71666785004453,
+      157.35311855104132,
+      159.4172011705049,
+      164.2984402141029,
+      170.2286693405932,
+      175.1087303306602,
+      169.01602003104603,
+      174.06948850497392
+    ]
   },
   {
     "NAF Nr": "2975",
@@ -4269,12 +8275,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 149.96944807497553,
+    "bestRating": 155.46849568221361,
+    "worstRating": 149.6450640697976,
+    "tendency": 0.324384005177933,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      149.6450640697976,
+      155.46849568221361,
+      149.78205471356048,
+      155.20384911008884,
+      149.96944807497553
+    ]
   },
   {
     "NAF Nr": "3020",
@@ -4282,12 +8298,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 146.98430022877554,
+    "bestRating": 147.17157287525382,
+    "worstRating": 144.09810448922647,
+    "tendency": -0.18727264647827724,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      147.17157287525382,
+      144.09810448922647,
+      146.98430022877554
+    ]
   },
   {
     "NAF Nr": "3042",
@@ -4295,12 +8319,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Switzerland",
     "rating": 144.41552510736616,
+    "bestRating": 155.20106150745298,
+    "worstRating": 144.41552510736616,
+    "tendency": -5.650985073914171,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      150.06651018128034,
+      155.20106150745298,
+      149.78781116034398,
+      150.19965267942007,
+      144.5018089316589,
+      144.41552510736616
+    ]
   },
   {
     "NAF Nr": "3166",
@@ -4308,12 +8343,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 153.16306860723242,
+    "bestRating": 153.16306860723242,
+    "worstRating": 147.64997542245888,
+    "tendency": 5.513093184773538,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      147.64997542245888,
+      150.33167533177127,
+      153.16306860723242
+    ]
   },
   {
     "NAF Nr": "3273",
@@ -4321,12 +8364,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 141.41721231877838,
+    "bestRating": 145.22857004281371,
+    "worstRating": 135.93683565265036,
+    "tendency": -3.5948995297042075,
     "tournaments": 3,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 7,
-    "winRatio": 42.86
+    "winRatio": 42.86,
+    "_lastTenRatingsYear": [
+      145.0121118484826,
+      145.22857004281371,
+      140.2913816147891,
+      135.93683565265036,
+      141.36256090498836,
+      141.41721231877838
+    ]
   },
   {
     "NAF Nr": "3276",
@@ -4334,12 +8388,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 145.25350878434168,
+    "bestRating": 155.9160797830996,
+    "worstRating": 143.31612560436267,
+    "tendency": -10.662570998757928,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 7,
-    "winRatio": 42.86
+    "winRatio": 42.86,
+    "_lastTenRatingsYear": [
+      155.9160797830996,
+      149.4642023144732,
+      143.31612560436267,
+      149.29139639740268,
+      149.8548273790263,
+      144.72328925417074,
+      145.25350878434168
+    ]
   },
   {
     "NAF Nr": "3277",
@@ -4347,12 +8413,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 121.11213868227179,
+    "bestRating": 144.0839202169004,
+    "worstRating": 121.11213868227179,
+    "tendency": -5.568824768749749,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 10,
     "gamesTotal": 14,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      126.68096345102154,
+      121.26254594673865,
+      126.92295843697639,
+      130.44883902730916,
+      127.95814555382027,
+      131.41064784312397,
+      128.92244110083178,
+      125.872492983465,
+      123.70505151458777,
+      121.11213868227179
+    ]
   },
   {
     "NAF Nr": "3278",
@@ -4360,12 +8441,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 160.16331002630082,
+    "bestRating": 161.29636188067244,
+    "worstRating": 154.84448441204603,
+    "tendency": 4.247230243201216,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 7,
-    "winRatio": 64.29
+    "winRatio": 64.29,
+    "_lastTenRatingsYear": [
+      155.9160797830996,
+      161.29636188067244,
+      154.84448441204603,
+      154.8461299481662,
+      160.28674110247553,
+      160.60091227469402,
+      160.16331002630082
+    ]
   },
   {
     "NAF Nr": "3279",
@@ -4373,12 +8466,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 143.38103845404183,
+    "bestRating": 161.29636188067244,
+    "worstRating": 143.38103845404183,
+    "tendency": -12.535041329057776,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 7,
-    "winRatio": 42.86
+    "winRatio": 42.86,
+    "_lastTenRatingsYear": [
+      155.9160797830996,
+      161.29636188067244,
+      155.40461124226013,
+      160.8079354738413,
+      154.91615972066893,
+      149.02287851599667,
+      143.38103845404183
+    ]
   },
   {
     "NAF Nr": "3281",
@@ -4386,12 +8491,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 159.95485502961566,
+    "bestRating": 165.8220811272488,
+    "worstRating": 149.4995526215725,
+    "tendency": 9.954855029615658,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 7,
-    "winRatio": 64.29
+    "winRatio": 64.29,
+    "_lastTenRatingsYear": [
+      150,
+      155.64762933168302,
+      149.4995526215725,
+      154.69565181701654,
+      160.62006054045793,
+      165.8220811272488,
+      159.95485502961566
+    ]
   },
   {
     "NAF Nr": "3289",
@@ -4399,25 +8516,51 @@ const statsYear2004 = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 173.8949524535051,
+    "bestRating": 173.8949524535051,
+    "worstRating": 149.5770921364889,
+    "tendency": 20.06463070835207,
     "tournaments": 4,
     "gamesWon": 7,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 12,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      153.83032174515304,
+      149.78031624216095,
+      149.5770921364889,
+      155.48665243170962,
+      156.16314645119945,
+      161.67585009490026,
+      156.60294734669094,
+      162.85933433220737,
+      168.05412836862928,
+      173.8949524535051
+    ]
   },
   {
     "NAF Nr": "3290",
     "NAF Name": "barry",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 161.24914230174656,
+    "bestRating": 161.24914230174656,
+    "worstRating": 155.38822380816194,
+    "tendency": 5.759580391903938,
     "tournaments": 3,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      155.48956190984262,
+      155.38822380816194,
+      160.39020313411012,
+      155.4976939494929,
+      161.01313577073483,
+      161.24914230174656
+    ]
   },
   {
     "NAF Nr": "3291",
@@ -4425,12 +8568,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 138.53111027895483,
+    "bestRating": 149.65342292566484,
+    "worstRating": 138.53111027895483,
+    "tendency": -5.812035471552804,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      149.65342292566484,
+      144.20951115556707,
+      138.53111027895483
+    ]
   },
   {
     "NAF Nr": "3293",
@@ -4438,12 +8590,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 135.49063260995015,
+    "bestRating": 144.9009804864072,
+    "worstRating": 135.49063260995015,
+    "tendency": -9.410347876457053,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      144.9009804864072,
+      140.0014165252764,
+      135.49063260995015
+    ]
   },
   {
     "NAF Nr": "3294",
@@ -4451,12 +8611,27 @@ const statsYear2004 = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "rating": 153.82860922069025,
+    "bestRating": 166.47683495829062,
+    "worstRating": 149.60888338832692,
+    "tendency": -0.9821213657278065,
     "tournaments": 5,
     "gamesWon": 6,
     "gamesDraw": 6,
     "gamesLost": 5,
     "gamesTotal": 17,
-    "winRatio": 52.94
+    "winRatio": 52.94,
+    "_lastTenRatingsYear": [
+      154.81073058641806,
+      159.52171864984,
+      159.80495251299732,
+      159.48927304864816,
+      165.9856218222844,
+      166.47683495829062,
+      160.17166275000014,
+      154.86348756257132,
+      154.46433374099706,
+      153.82860922069025
+    ]
   },
   {
     "NAF Nr": "3296",
@@ -4464,12 +8639,18 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 145.6514907442972,
+    "bestRating": 145.6514907442972,
+    "worstRating": 145.6514907442972,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      145.6514907442972
+    ]
   },
   {
     "NAF Nr": "3298",
@@ -4477,12 +8658,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 159.22619922093676,
+    "bestRating": 159.22619922093676,
+    "worstRating": 139.87294293724048,
+    "tendency": 14.229338253060888,
     "tournaments": 4,
     "gamesWon": 7,
     "gamesDraw": 2,
     "gamesLost": 5,
     "gamesTotal": 14,
-    "winRatio": 57.14
+    "winRatio": 57.14,
+    "_lastTenRatingsYear": [
+      144.99686096787588,
+      139.87294293724048,
+      143.53609363927322,
+      146.81768042128346,
+      144.2123827286663,
+      149.14957115669094,
+      145.12341909688072,
+      150.27994851316453,
+      155.19289624400503,
+      159.22619922093676
+    ]
   },
   {
     "NAF Nr": "3299",
@@ -4490,12 +8686,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 156.21254198138607,
+    "bestRating": 156.21254198138607,
+    "worstRating": 155.86215474884,
+    "tendency": 0.35038723254606907,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 2,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      155.86215474884,
+      156.21254198138607
+    ]
   },
   {
     "NAF Nr": "3300",
@@ -4503,12 +8706,20 @@ const statsYear2004 = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 154.52880450423098,
+    "bestRating": 155.66751138634189,
+    "worstRating": 148.82267380879068,
+    "tendency": -1.1387068821109096,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      155.66751138634189,
+      148.82267380879068,
+      154.52880450423098
+    ]
   },
   {
     "NAF Nr": "3302",
@@ -4516,12 +8727,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 129.79225177609462,
+    "bestRating": 150.24455973953903,
+    "worstRating": 129.79225177609462,
+    "tendency": -14.559764471053654,
     "tournaments": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 5,
     "gamesTotal": 7,
-    "winRatio": 21.43
+    "winRatio": 21.43,
+    "_lastTenRatingsYear": [
+      144.35201624714827,
+      150.24455973953903,
+      149.80010468564598,
+      144.54660261900452,
+      140.3312619582031,
+      135.08491364223644,
+      129.79225177609462
+    ]
   },
   {
     "NAF Nr": "3354",
@@ -4529,12 +8752,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150.04583297303728,
+    "bestRating": 150.04583297303728,
+    "worstRating": 147.35025528873842,
+    "tendency": 2.695577684298854,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      147.35025528873842,
+      150.04583297303728
+    ]
   },
   {
     "NAF Nr": "3356",
@@ -4542,12 +8772,27 @@ const statsYear2004 = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 140.779086374601,
+    "bestRating": 165.45539966388233,
+    "worstRating": 138.94325597199787,
+    "tendency": -24.676313289281325,
     "tournaments": 3,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 6,
     "gamesTotal": 11,
-    "winRatio": 40.91
+    "winRatio": 40.91,
+    "_lastTenRatingsYear": [
+      165.45539966388233,
+      164.9975888577634,
+      157.48583009766077,
+      165.03863663359527,
+      156.6108042979349,
+      150.66716847270857,
+      144.36505036852623,
+      138.94325597199787,
+      145.71448149978906,
+      140.779086374601
+    ]
   },
   {
     "NAF Nr": "3398",
@@ -4555,12 +8800,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 152.7461108547996,
+    "bestRating": 155.6981604231951,
+    "worstRating": 152.7461108547996,
+    "tendency": -0.08231626994657404,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      152.82842712474618,
+      155.6981604231951,
+      152.7461108547996
+    ]
   },
   {
     "NAF Nr": "3407",
@@ -4568,12 +8821,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 140.1049039754208,
+    "bestRating": 144.56492013104776,
+    "worstRating": 140.1049039754208,
+    "tendency": -4.428474062980769,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      144.53337803840157,
+      144.56492013104776,
+      140.31188305052297,
+      140.1049039754208
+    ]
   },
   {
     "NAF Nr": "3408",
@@ -4581,12 +8843,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 150.80625916573646,
+    "bestRating": 168.63856424219165,
+    "worstRating": 146.4626702768203,
+    "tendency": -17.832305076455185,
     "tournaments": 5,
     "gamesWon": 11,
     "gamesDraw": 4,
     "gamesLost": 11,
     "gamesTotal": 26,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      168.63856424219165,
+      168.48128950990161,
+      161.9646815669554,
+      155.83411703695657,
+      151.90415594458432,
+      146.4626702768203,
+      152.27792221845445,
+      157.49495644241927,
+      157.25632035497762,
+      150.80625916573646
+    ]
   },
   {
     "NAF Nr": "3409",
@@ -4594,12 +8871,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 143.0496658491678,
+    "bestRating": 165.6038792080097,
+    "worstRating": 138.2007123544266,
+    "tendency": -15.211683907472263,
     "tournaments": 5,
     "gamesWon": 10,
     "gamesDraw": 2,
     "gamesLost": 11,
     "gamesTotal": 23,
-    "winRatio": 47.83
+    "winRatio": 47.83,
+    "_lastTenRatingsYear": [
+      158.26134975664007,
+      165.6038792080097,
+      158.9798350318521,
+      152.74411945557642,
+      157.83180522223236,
+      152.73410810719943,
+      147.86277425997687,
+      148.49532450953947,
+      142.7014776769763,
+      143.0496658491678
+    ]
   },
   {
     "NAF Nr": "3410",
@@ -4607,12 +8899,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 137.78521465186515,
+    "bestRating": 144.83314006006688,
+    "worstRating": 127.98211247873999,
+    "tendency": -7.047925408201735,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 5,
     "gamesTotal": 9,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      144.83314006006688,
+      139.15501135710545,
+      133.7413810594012,
+      133.68271577094632,
+      127.98211247873999,
+      135.60114395246038,
+      128.8107567093627,
+      137.4558076645892,
+      137.78521465186515
+    ]
   },
   {
     "NAF Nr": "3413",
@@ -4620,12 +8926,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 137.9894523479835,
+    "bestRating": 155.9160797830996,
+    "worstRating": 137.6668171343689,
+    "tendency": -17.926627435116103,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 7,
-    "winRatio": 35.71
+    "winRatio": 35.71,
+    "_lastTenRatingsYear": [
+      155.9160797830996,
+      150,
+      150,
+      143.81657222799402,
+      137.6668171343689,
+      143.0852346386518,
+      137.9894523479835
+    ]
   },
   {
     "NAF Nr": "3431",
@@ -4633,12 +8951,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 176.6665386781075,
+    "bestRating": 182.99538747257716,
+    "worstRating": 155.30596408048697,
+    "tendency": 1.8261700953274271,
     "tournaments": 4,
     "gamesWon": 9,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 15,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      174.84036858278006,
+      179.19676051989714,
+      176.27395938419542,
+      173.05039707034348,
+      175.28541498353673,
+      172.27138706075016,
+      178.10287828795995,
+      182.99538747257716,
+      181.98731911419847,
+      176.6665386781075
+    ]
   },
   {
     "NAF Nr": "3440",
@@ -4646,12 +8979,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 139.84414664022924,
+    "bestRating": 150.03716232287712,
+    "worstRating": 139.84414664022924,
+    "tendency": -5.056833846177966,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      144.9009804864072,
+      150.03716232287712,
+      144.93668840900773,
+      139.84414664022924
+    ]
   },
   {
     "NAF Nr": "3452",
@@ -4659,12 +9001,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 139.91790121085538,
+    "bestRating": 145.2845735845326,
+    "worstRating": 134.52312187819956,
+    "tendency": -4.885946366437992,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      144.80384757729337,
+      145.2845735845326,
+      139.91551614908155,
+      134.52312187819956,
+      139.91790121085538
+    ]
   },
   {
     "NAF Nr": "3453",
@@ -4672,12 +9024,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 166.12526100396013,
+    "bestRating": 166.12526100396013,
+    "worstRating": 150,
+    "tendency": 16.125261003960134,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 0,
     "gamesTotal": 6,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatingsYear": [
+      150,
+      154.1172823793411,
+      154.13228067140534,
+      158.03588352279303,
+      162.48942934822205,
+      166.12526100396013
+    ]
   },
   {
     "NAF Nr": "3454",
@@ -4685,12 +9048,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 154.4067996601075,
+    "bestRating": 157.9781476529493,
+    "worstRating": 143.73861782377568,
+    "tendency": 10.668181836331826,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 10,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      143.73861782377568,
+      143.78099165346038,
+      149.00847141979597,
+      153.8612043844086,
+      157.9781476529493,
+      154.5778707083684,
+      154.56287241630417,
+      150.51237434671546,
+      154.4067996601075
+    ]
   },
   {
     "NAF Nr": "3455",
@@ -4698,12 +9075,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 134.11114231877357,
+    "bestRating": 150.048211208352,
+    "worstRating": 134.11114231877357,
+    "tendency": -15.672987605434827,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatingsYear": [
+      149.7841299242084,
+      150.048211208352,
+      144.63501246386215,
+      139.5059216514294,
+      134.11114231877357
+    ]
   },
   {
     "NAF Nr": "3456",
@@ -4711,12 +9098,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 137.74906145763075,
+    "bestRating": 150,
+    "worstRating": 137.22007551519155,
+    "tendency": -12.250938542369255,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      150,
+      145.94496193200217,
+      141.58924132926737,
+      137.22007551519155,
+      141.5976348652854,
+      137.74906145763075
+    ]
   },
   {
     "NAF Nr": "3519",
@@ -4724,12 +9122,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150.19400143969295,
+    "bestRating": 150.19400143969295,
+    "worstRating": 146.394448724536,
+    "tendency": 3.799552715156949,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      146.394448724536,
+      150.19400143969295
+    ]
   },
   {
     "NAF Nr": "3521",
@@ -4737,12 +9142,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 143.95543672956816,
+    "bestRating": 149.9760469186714,
+    "worstRating": 137.7020850130791,
+    "tendency": -0.044563270431837054,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      144,
+      149.9760469186714,
+      143.70103262449717,
+      137.7020850130791,
+      143.95543672956816
+    ]
   },
   {
     "NAF Nr": "3528",
@@ -4750,12 +9165,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 184.48185461723304,
+    "bestRating": 184.6515330331147,
+    "worstRating": 144.1626539549595,
+    "tendency": 6.375903265195888,
     "tournaments": 6,
     "gamesWon": 10,
     "gamesDraw": 5,
     "gamesLost": 3,
     "gamesTotal": 18,
-    "winRatio": 69.44
+    "winRatio": 69.44,
+    "_lastTenRatingsYear": [
+      178.10595135203715,
+      177.84270002499503,
+      183.01819820450262,
+      184.6515330331147,
+      182.56819586251456,
+      182.47990665308438,
+      182.2130986556523,
+      175.23048147106024,
+      180.05498557993593,
+      184.48185461723304
+    ]
   },
   {
     "NAF Nr": "3530",
@@ -4763,12 +9193,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 180.40744510094234,
+    "bestRating": 180.40744510094234,
+    "worstRating": 144.3323324673377,
+    "tendency": 10.372232429109118,
     "tournaments": 6,
     "gamesWon": 12,
     "gamesDraw": 7,
     "gamesLost": 6,
     "gamesTotal": 25,
-    "winRatio": 62
+    "winRatio": 62,
+    "_lastTenRatingsYear": [
+      170.03521267183322,
+      174.88120336765644,
+      179.92375294615456,
+      174.05674759814733,
+      172.91452707744764,
+      171.99001541421316,
+      177.18686198749674,
+      172.55862567113547,
+      176.75282988309053,
+      180.40744510094234
+    ]
   },
   {
     "NAF Nr": "3531",
@@ -4776,12 +9221,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 152.16187849696456,
+    "bestRating": 166.9453332570937,
+    "worstRating": 150.72364401258056,
+    "tendency": -14.34746136075762,
     "tournaments": 4,
     "gamesWon": 7,
     "gamesDraw": 6,
     "gamesLost": 6,
     "gamesTotal": 19,
-    "winRatio": 52.63
+    "winRatio": 52.63,
+    "_lastTenRatingsYear": [
+      166.50933985772218,
+      159.79307643304423,
+      150.72364401258056,
+      157.94177624233825,
+      157.84549179868114,
+      150.94349871178724,
+      156.99327434465727,
+      151.08745288415042,
+      151.79686072558192,
+      152.16187849696456
+    ]
   },
   {
     "NAF Nr": "3532",
@@ -4789,12 +9249,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 162.59777989264802,
+    "bestRating": 162.59777989264802,
+    "worstRating": 144.60327617893574,
+    "tendency": 17.994503713712277,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      144.60327617893574,
+      150.55812768694867,
+      144.63732537309923,
+      151.38962742340084,
+      157.79721186549529,
+      162.59777989264802
+    ]
   },
   {
     "NAF Nr": "3533",
@@ -4802,12 +9273,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 200.1436694698317,
+    "bestRating": 200.1436694698317,
+    "worstRating": 156.15864438719834,
+    "tendency": 27.38973872247078,
     "tournaments": 4,
     "gamesWon": 11,
     "gamesDraw": 4,
     "gamesLost": 0,
     "gamesTotal": 15,
-    "winRatio": 86.67
+    "winRatio": 86.67,
+    "_lastTenRatingsYear": [
+      172.75393074736093,
+      172.03837915501938,
+      172.3016304820615,
+      177.65754040154067,
+      179.21945672461783,
+      181.30279389521797,
+      185.4147157587738,
+      192.3778761687129,
+      196.33152817460095,
+      200.1436694698317
+    ]
   },
   {
     "NAF Nr": "3534",
@@ -4815,12 +9301,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 164.4679826009342,
+    "bestRating": 170.46214271050025,
+    "worstRating": 149.31861303836666,
+    "tendency": 3.3722672542174905,
     "tournaments": 2,
     "gamesWon": 7,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 12,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      161.0957153467167,
+      155.2023920096438,
+      149.31861303836666,
+      154.75821632378594,
+      159.96787063946138,
+      165.00459967032037,
+      170.46214271050025,
+      164.42989958130968,
+      170.1959552639222,
+      164.4679826009342
+    ]
   },
   {
     "NAF Nr": "3539",
@@ -4828,12 +9329,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 136.89817685777518,
+    "bestRating": 150,
+    "worstRating": 133.99413698969767,
+    "tendency": -2.1345470698414033,
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 5,
     "gamesLost": 8,
     "gamesTotal": 18,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      139.0327239276166,
+      139.2108290241111,
+      133.99413698969767,
+      139.83397884603244,
+      141.22984826068003,
+      140.24137090245114,
+      135.49950004829392,
+      135.71696389917426,
+      142.05382830382226,
+      136.89817685777518
+    ]
   },
   {
     "NAF Nr": "3549",
@@ -4841,12 +9357,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 145.2933551350257,
+    "bestRating": 147.5505102572168,
+    "worstRating": 145.2933551350257,
+    "tendency": -2.257155122191108,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      147.5505102572168,
+      145.2933551350257
+    ]
   },
   {
     "NAF Nr": "3564",
@@ -4854,12 +9377,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 167.35746537852316,
+    "bestRating": 167.35746537852316,
+    "worstRating": 151.25536900444584,
+    "tendency": 11.172830376995961,
     "tournaments": 3,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 2,
     "gamesTotal": 9,
-    "winRatio": 61.11
+    "winRatio": 61.11,
+    "_lastTenRatingsYear": [
+      156.1846350015272,
+      156.90018659386874,
+      157.61716024936052,
+      158.85895869748538,
+      157.2256238688733,
+      151.25536900444584,
+      157.16119046495265,
+      162.4220702533351,
+      167.35746537852316
+    ]
   },
   {
     "NAF Nr": "3585",
@@ -4867,12 +9404,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Switzerland",
     "rating": 149.70373894470723,
+    "bestRating": 155.6883166939503,
+    "worstRating": 144.46704313593256,
+    "tendency": 4.973241892026181,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      144.73049705268105,
+      150.28551548351984,
+      144.46704313593256,
+      149.72348313849673,
+      155.6883166939503,
+      149.70373894470723
+    ]
   },
   {
     "NAF Nr": "3587",
@@ -4880,12 +9428,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 154.90744704898657,
+    "bestRating": 154.90744704898657,
+    "worstRating": 152.4494897427832,
+    "tendency": 2.457957306203383,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 0,
     "gamesTotal": 2,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatingsYear": [
+      152.4494897427832,
+      154.90744704898657
+    ]
   },
   {
     "NAF Nr": "3588",
@@ -4893,12 +9448,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 124.15769852219374,
+    "bestRating": 150.672997255068,
+    "worstRating": 123.4519357870534,
+    "tendency": -15.137878009349393,
     "tournaments": 6,
     "gamesWon": 6,
     "gamesDraw": 6,
     "gamesLost": 11,
     "gamesTotal": 23,
-    "winRatio": 39.13
+    "winRatio": 39.13,
+    "_lastTenRatingsYear": [
+      139.29557653154313,
+      131.1314336359488,
+      123.4519357870534,
+      131.88067442661674,
+      132.6623457163197,
+      138.8133776119123,
+      133.84861484132415,
+      134.29008730188838,
+      129.2221158090957,
+      124.15769852219374
+    ]
   },
   {
     "NAF Nr": "3598",
@@ -4906,12 +9476,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 104.06443082450147,
+    "bestRating": 144.34314575050763,
+    "worstRating": 104.06443082450147,
+    "tendency": -35.32844917566794,
     "tournaments": 3,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 11,
     "gamesTotal": 16,
-    "winRatio": 21.88
+    "winRatio": 21.88,
+    "_lastTenRatingsYear": [
+      139.3928800001694,
+      139.8674288187362,
+      135.0650910441657,
+      128.9228895235305,
+      123.18009672824275,
+      124.32838849352567,
+      120.46109609327019,
+      115.58457762857695,
+      109.20324746824231,
+      104.06443082450147
+    ]
   },
   {
     "NAF Nr": "3599",
@@ -4919,12 +9504,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "rating": 143.02732194957815,
+    "bestRating": 153.7417011538045,
+    "worstRating": 136.5004445662702,
+    "tendency": -1.645024021235912,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 9,
-    "winRatio": 44.44
+    "winRatio": 44.44,
+    "_lastTenRatingsYear": [
+      144.67234597081406,
+      143.99475378511633,
+      148.5722575120277,
+      153.7417011538045,
+      153.4827739112764,
+      147.6593422988604,
+      141.34966981696402,
+      136.5004445662702,
+      143.02732194957815
+    ]
   },
   {
     "NAF Nr": "3615",
@@ -4932,12 +9531,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 156.93276472740996,
+    "bestRating": 162.04036382330324,
+    "worstRating": 150.5167448542247,
+    "tendency": 6.416019873185263,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      150.5167448542247,
+      156.43371366191155,
+      150.58417193877523,
+      156.76777222879548,
+      162.04036382330324,
+      156.93276472740996
+    ]
   },
   {
     "NAF Nr": "3623",
@@ -4945,12 +9555,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 132.2570079673328,
+    "bestRating": 157.74596669241484,
+    "worstRating": 132.2570079673328,
+    "tendency": -25.48895872508203,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      157.74596669241484,
+      149.95988309944835,
+      141.23414902672846,
+      132.2570079673328
+    ]
   },
   {
     "NAF Nr": "3632",
@@ -4958,12 +9577,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 164.21806335915397,
+    "bestRating": 164.21806335915397,
+    "worstRating": 155.0990195135928,
+    "tendency": 9.11904384556118,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 4,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatingsYear": [
+      155.0990195135928,
+      159.79973736237372,
+      164.1371628027027,
+      164.21806335915397
+    ]
   },
   {
     "NAF Nr": "3681",
@@ -4971,12 +9599,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 160.5861761560345,
+    "bestRating": 166.2523684984396,
+    "worstRating": 155.3987069610728,
+    "tendency": 4.586176156034497,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 4,
     "gamesLost": 2,
     "gamesTotal": 11,
-    "winRatio": 63.64
+    "winRatio": 63.64,
+    "_lastTenRatingsYear": [
+      156,
+      155.72388495242924,
+      155.7366005012427,
+      161.7488948926654,
+      161.49701219273535,
+      166.2523684984396,
+      165.8045212209996,
+      160.1825675763333,
+      155.3987069610728,
+      160.5861761560345
+    ]
   },
   {
     "NAF Nr": "3706",
@@ -4984,12 +9627,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 134.67382888522286,
+    "bestRating": 144.07330439834067,
+    "worstRating": 134.67382888522286,
+    "tendency": -9.399475513117807,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 5,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatingsYear": [
+      144.07330439834067,
+      137.92227250274806,
+      143.60583511179425,
+      139.28987966609654,
+      134.67382888522286
+    ]
   },
   {
     "NAF Nr": "3709",
@@ -4997,12 +9650,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 137.56617025180051,
+    "bestRating": 150,
+    "worstRating": 137.56617025180051,
+    "tendency": -6.776975498707117,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      150,
+      144.09769089177416,
+      138.69692770365276,
+      143.88445754438519,
+      137.56617025180051
+    ]
   },
   {
     "NAF Nr": "3726",
@@ -5010,12 +9674,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 148.80554976946124,
+    "bestRating": 161.31370849898474,
+    "worstRating": 148.80554976946124,
+    "tendency": -6.851304480031132,
     "tournaments": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 7,
-    "winRatio": 42.86
+    "winRatio": 42.86,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      161.31370849898474,
+      155.66162684704426,
+      150.03903221392142,
+      155.44355696811826,
+      152.366546844204,
+      148.80554976946124
+    ]
   },
   {
     "NAF Nr": "3750",
@@ -5023,12 +9699,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 136.28239375179783,
+    "bestRating": 153.64423398009484,
+    "worstRating": 136.28239375179783,
+    "tendency": -16.490309452308196,
     "tournaments": 5,
     "gamesWon": 6,
     "gamesDraw": 5,
     "gamesLost": 9,
     "gamesTotal": 20,
-    "winRatio": 42.5
+    "winRatio": 42.5,
+    "_lastTenRatingsYear": [
+      152.77270320410602,
+      147.27531721054604,
+      153.64423398009484,
+      148.31417169685383,
+      153.15529880475808,
+      153.25663690643876,
+      147.05616440383793,
+      141.7611794628395,
+      136.46017288348872,
+      136.28239375179783
+    ]
   },
   {
     "NAF Nr": "3790",
@@ -5036,12 +9727,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 156.85192426554357,
+    "bestRating": 157.88481213217966,
+    "worstRating": 145.07288404339477,
+    "tendency": 4.872644731206634,
     "tournaments": 4,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 11,
-    "winRatio": 54.55
+    "winRatio": 54.55,
+    "_lastTenRatingsYear": [
+      151.97927953433694,
+      146.82275011805314,
+      151.43880089892681,
+      145.75267337541,
+      151.42303817932222,
+      152.3290706089641,
+      157.88481213217966,
+      157.66231077169678,
+      151.495806339739,
+      156.85192426554357
+    ]
   },
   {
     "NAF Nr": "3796",
@@ -5049,12 +9755,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 135.16988799925602,
+    "bestRating": 150.24545485873347,
+    "worstRating": 135.16988799925602,
+    "tendency": -9.173257751251612,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 5,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      150.24545485873347,
+      144.57794347239158,
+      138.97755609391075,
+      135.16988799925602
+    ]
   },
   {
     "NAF Nr": "3799",
@@ -5062,12 +9778,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 129.81920005541568,
+    "bestRating": 144.9009804864072,
+    "worstRating": 129.81920005541568,
+    "tendency": -15.081780430991529,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 4,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      144.9009804864072,
+      139.8019609728144,
+      134.71124010810826,
+      129.81920005541568
+    ]
   },
   {
     "NAF Nr": "3815",
@@ -5075,12 +9800,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 137.39632274816478,
+    "bestRating": 150,
+    "worstRating": 130.56620866709332,
+    "tendency": -0.6736163462260549,
     "tournaments": 3,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 7,
     "gamesTotal": 13,
-    "winRatio": 38.46
+    "winRatio": 38.46,
+    "_lastTenRatingsYear": [
+      138.06993909439083,
+      143.5121733364636,
+      138.09023886859242,
+      145.62755248224377,
+      140.59082345138478,
+      135.80524549594995,
+      130.56620866709332,
+      136.42654651873048,
+      131.20966082682892,
+      137.39632274816478
+    ]
   },
   {
     "NAF Nr": "3823",
@@ -5088,12 +9828,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 163.24549305999787,
+    "bestRating": 164.13124436784713,
+    "worstRating": 157.77493418874792,
+    "tendency": 5.470558871249949,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 3,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatingsYear": [
+      157.77493418874792,
+      164.13124436784713,
+      163.24549305999787
+    ]
   },
   {
     "NAF Nr": "3834",
@@ -5101,12 +9849,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 145.68172382217975,
+    "bestRating": 150.44135107919672,
+    "worstRating": 145.68172382217975,
+    "tendency": -4.759627257016973,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      150.44135107919672,
+      148.08591363529393,
+      145.68172382217975
+    ]
   },
   {
     "NAF Nr": "3836",
@@ -5114,12 +9870,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 150.21019626383367,
+    "bestRating": 156.297164247968,
+    "worstRating": 150.21019626383367,
+    "tendency": -5.446657985658703,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      156.297164247968,
+      150.45707161423746,
+      150.21019626383367
+    ]
   },
   {
     "NAF Nr": "3847",
@@ -5127,12 +9892,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 145.50680691090813,
+    "bestRating": 155.1004739138694,
+    "worstRating": 145.50680691090813,
+    "tendency": -9.592212602684668,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      155.0990195135928,
+      150,
+      155.1004739138694,
+      150.22769753059444,
+      145.50680691090813
+    ]
   },
   {
     "NAF Nr": "3874",
@@ -5140,12 +9915,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Switzerland",
     "rating": 192.1752598412159,
+    "bestRating": 197.75990266378676,
+    "worstRating": 144.34314575050763,
+    "tendency": 13.50894112174575,
     "tournaments": 7,
     "gamesWon": 19,
     "gamesDraw": 7,
     "gamesLost": 9,
     "gamesTotal": 35,
-    "winRatio": 64.29
+    "winRatio": 64.29,
+    "_lastTenRatingsYear": [
+      178.66631871947015,
+      178.27264522581896,
+      177.38411036796234,
+      181.1158487882577,
+      184.63526570092648,
+      190.3213639735891,
+      189.88711083713602,
+      193.65759371432094,
+      197.75990266378676,
+      192.1752598412159
+    ]
   },
   {
     "NAF Nr": "3882",
@@ -5153,12 +9943,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 149.0495323796872,
+    "bestRating": 161.31370849898474,
+    "worstRating": 149.0495323796872,
+    "tendency": -6.607321869805162,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      161.31370849898474,
+      155.65685424949237,
+      149.743908938629,
+      155.1655034735511,
+      149.0495323796872
+    ]
   },
   {
     "NAF Nr": "3892",
@@ -5166,12 +9967,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 126.12247512695095,
+    "bestRating": 149.53005273907505,
+    "worstRating": 118.2516355251183,
+    "tendency": 2.0254727993706325,
     "tournaments": 4,
     "gamesWon": 4,
     "gamesDraw": 4,
     "gamesLost": 10,
     "gamesTotal": 18,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      124.09700232758031,
+      130.40286632777133,
+      125.56145135256723,
+      131.9962952874703,
+      127.26920466057285,
+      122.5435362599503,
+      123.22199579397449,
+      118.2516355251183,
+      125.26028827480732,
+      126.12247512695095
+    ]
   },
   {
     "NAF Nr": "3899",
@@ -5179,12 +9995,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 144.9212103206866,
+    "bestRating": 150.57781100278734,
+    "worstRating": 144.9176133807337,
+    "tendency": -2.4330383682487877,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      147.3542486889354,
+      150.57781100278734,
+      144.9176133807337,
+      144.9212103206866
+    ]
   },
   {
     "NAF Nr": "3900",
@@ -5192,12 +10017,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 145.88977454490743,
+    "bestRating": 155.98250843472846,
+    "worstRating": 145.88977454490743,
+    "tendency": -9.767079704584944,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      150,
+      155.98250843472846,
+      150.73820613786899,
+      145.88977454490743
+    ]
   },
   {
     "NAF Nr": "3901",
@@ -5205,12 +10040,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 147.72174361030534,
+    "bestRating": 153.3966882665389,
+    "worstRating": 145.33638717478763,
+    "tendency": 2.385356435517707,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      145.33638717478763,
+      151.26423804533647,
+      146.48998750102533,
+      153.3966882665389,
+      147.72174361030534
+    ]
   },
   {
     "NAF Nr": "3902",
@@ -5218,12 +10063,27 @@ const statsYear2004 = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 186.99799612396683,
+    "bestRating": 194.31373330196064,
+    "worstRating": 150.19224817303754,
+    "tendency": 1.9605150630551123,
     "tournaments": 8,
     "gamesWon": 18,
     "gamesDraw": 4,
     "gamesLost": 7,
     "gamesTotal": 29,
-    "winRatio": 68.97
+    "winRatio": 68.97,
+    "_lastTenRatingsYear": [
+      185.03748106091172,
+      189.21862921927044,
+      194.31373330196064,
+      187.53642869722987,
+      193.0578151669113,
+      185.04801217058176,
+      190.20567967283824,
+      183.4921511490497,
+      183.1903280293121,
+      186.99799612396683
+    ]
   },
   {
     "NAF Nr": "3903",
@@ -5231,12 +10091,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 162.49905037666778,
+    "bestRating": 163.50114422041847,
+    "worstRating": 134.20402446452457,
+    "tendency": 12.074854095209787,
     "tournaments": 7,
     "gamesWon": 10,
     "gamesDraw": 3,
     "gamesLost": 8,
     "gamesTotal": 21,
-    "winRatio": 54.76
+    "winRatio": 54.76,
+    "_lastTenRatingsYear": [
+      150.424196281458,
+      152.93629365147382,
+      149.92899340421644,
+      154.83064281258203,
+      159.18518877472076,
+      163.50114422041847,
+      157.94376599402284,
+      158.27549047207216,
+      163.0938080620145,
+      162.49905037666778
+    ]
   },
   {
     "NAF Nr": "3904",
@@ -5244,12 +10119,18 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 154.89117378903387,
+    "bestRating": 154.89117378903387,
+    "worstRating": 154.89117378903387,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
     "gamesTotal": 1,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatingsYear": [
+      154.89117378903387
+    ]
   },
   {
     "NAF Nr": "3905",
@@ -5257,12 +10138,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 177.74033581881525,
+    "bestRating": 177.74033581881525,
+    "worstRating": 144.9009804864072,
+    "tendency": 25.062785273935106,
     "tournaments": 5,
     "gamesWon": 10,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 15,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatingsYear": [
+      152.67755054488015,
+      157.94261809208905,
+      163.05974115775615,
+      168.16193968528583,
+      174.9392442900166,
+      168.21261265070785,
+      173.52078783813667,
+      168.36312033588018,
+      172.9482970394074,
+      177.74033581881525
+    ]
   },
   {
     "NAF Nr": "3909",
@@ -5270,12 +10166,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 126.21404389492908,
+    "bestRating": 155.65731605172152,
+    "worstRating": 119.73330081874795,
+    "tendency": -22.519146199318627,
     "tournaments": 5,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 10,
     "gamesTotal": 16,
-    "winRatio": 34.38
+    "winRatio": 34.38,
+    "_lastTenRatingsYear": [
+      148.7331900942477,
+      153.72997354557074,
+      147.65551494097758,
+      141.78615666545684,
+      135.98969556887954,
+      135.25485433991219,
+      129.39451648827503,
+      124.55338938037079,
+      119.73330081874795,
+      126.21404389492908
+    ]
   },
   {
     "NAF Nr": "3911",
@@ -5283,12 +10194,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 144.97343676465556,
+    "bestRating": 148.89509680501243,
+    "worstRating": 144.97343676465556,
+    "tendency": -3.921660040356869,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      148.89509680501243,
+      146.88135677744827,
+      144.97343676465556
+    ]
   },
   {
     "NAF Nr": "3934",
@@ -5296,12 +10215,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 139.63584798207086,
+    "bestRating": 150.24545485873347,
+    "worstRating": 139.63584798207086,
+    "tendency": -10.60960687666261,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      150.24545485873347,
+      144.8234175262781,
+      139.63584798207086
+    ]
   },
   {
     "NAF Nr": "3961",
@@ -5309,12 +10236,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 160.46410614076478,
+    "bestRating": 160.46410614076478,
+    "worstRating": 147.89473714448553,
+    "tendency": 12.47726572035225,
     "tournaments": 2,
     "gamesWon": 7,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 10,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      147.98684042041253,
+      150.4394354766203,
+      147.89473714448553,
+      147.93312306617213,
+      150.7900966547007,
+      152.75212626501116,
+      154.938939398318,
+      156.80457930620472,
+      158.6482915738096,
+      160.46410614076478
+    ]
   },
   {
     "NAF Nr": "3966",
@@ -5322,12 +10264,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "rating": 175.66385086583574,
+    "bestRating": 175.66385086583574,
+    "worstRating": 155.44225457979795,
+    "tendency": 20.221596286037794,
     "tournaments": 1,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 0,
     "gamesTotal": 5,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatingsYear": [
+      155.44225457979795,
+      160.52784113238968,
+      165.28833101531,
+      170.85788664079928,
+      175.66385086583574
+    ]
   },
   {
     "NAF Nr": "3967",
@@ -5335,12 +10287,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "rating": 156.97679670818843,
+    "bestRating": 156.97679670818843,
+    "worstRating": 150.25056069266793,
+    "tendency": 1.0065418437609708,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      155.97025486442746,
+      150.25056069266793,
+      156.82284259914633,
+      156.97679670818843
+    ]
   },
   {
     "NAF Nr": "3981",
@@ -5348,12 +10309,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "rating": 154.3535320403796,
+    "bestRating": 154.3535320403796,
+    "worstRating": 146.83772233983163,
+    "tendency": 7.515809700547976,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      146.83772233983163,
+      150.00995679685346,
+      147.38668146260792,
+      151.19185547507823,
+      154.3535320403796
+    ]
   },
   {
     "NAF Nr": "4002",
@@ -5361,12 +10332,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 154.0745829740402,
+    "bestRating": 164.8572718487336,
+    "worstRating": 136.37525631630132,
+    "tendency": 3.3966173932910237,
     "tournaments": 4,
     "gamesWon": 10,
     "gamesDraw": 3,
     "gamesLost": 10,
     "gamesTotal": 23,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      150.67796558074917,
+      145.9797586453977,
+      151.66143954937996,
+      147.26540506158378,
+      142.1339875992871,
+      141.92519647765099,
+      136.37525631630132,
+      142.3562487310731,
+      147.17708905442316,
+      154.0745829740402
+    ]
   },
   {
     "NAF Nr": "4006",
@@ -5374,12 +10360,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 153.8336191852586,
+    "bestRating": 155.64627620230442,
+    "worstRating": 149.49171946249783,
+    "tendency": 1.187867874194012,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatingsYear": [
+      152.6457513110646,
+      155.64627620230442,
+      155.40127975771856,
+      149.49171946249783,
+      153.8336191852586
+    ]
   },
   {
     "NAF Nr": "4018",
@@ -5387,12 +10383,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 153.65008445028081,
+    "bestRating": 161.07556324648186,
+    "worstRating": 152.0790323019122,
+    "tendency": -2.006769799211554,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      161.07556324648186,
+      156.71813551714013,
+      152.0790323019122,
+      157.63080570259095,
+      153.65008445028081
+    ]
   },
   {
     "NAF Nr": "4019",
@@ -5400,12 +10407,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 180.94834166626183,
+    "bestRating": 180.94834166626183,
+    "worstRating": 144.34314575050763,
+    "tendency": 30.289286667321733,
     "tournaments": 3,
     "gamesWon": 11,
     "gamesDraw": 0,
     "gamesLost": 6,
     "gamesTotal": 17,
-    "winRatio": 64.71
+    "winRatio": 64.71,
+    "_lastTenRatingsYear": [
+      150.6590549989401,
+      156.8136298100275,
+      151.1206611216932,
+      156.3170098622371,
+      160.78123200548617,
+      167.2270908039384,
+      162.16847659031916,
+      168.7188520223366,
+      175.08133631825459,
+      180.94834166626183
+    ]
   },
   {
     "NAF Nr": "4020",
@@ -5413,12 +10435,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 148.1582924542799,
+    "bestRating": 153.98181887047775,
+    "worstRating": 148.1582924542799,
+    "tendency": -1.3908618822077585,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      149.54915433648765,
+      148.26961701639812,
+      153.98181887047775,
+      148.1582924542799
+    ]
   },
   {
     "NAF Nr": "4023",
@@ -5426,12 +10457,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 145.7384872297436,
+    "bestRating": 150.6514349605841,
+    "worstRating": 145.7384872297436,
+    "tendency": -4.9129477308405,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      150.6514349605841,
+      145.7384872297436
+    ]
   },
   {
     "NAF Nr": "4034",
@@ -5439,12 +10477,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 151.20319990098494,
+    "bestRating": 151.20319990098494,
+    "worstRating": 126.94340554197576,
+    "tendency": 15.89605915807681,
     "tournaments": 4,
     "gamesWon": 6,
     "gamesDraw": 3,
     "gamesLost": 7,
     "gamesTotal": 16,
-    "winRatio": 46.88
+    "winRatio": 46.88,
+    "_lastTenRatingsYear": [
+      135.30714074290813,
+      130.93638057283647,
+      126.94340554197576,
+      132.6861983372635,
+      139.0903885745334,
+      134.8023612912149,
+      140.69810504767034,
+      146.54376392542648,
+      146.66111998349385,
+      151.20319990098494
+    ]
   },
   {
     "NAF Nr": "4043",
@@ -5452,12 +10505,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 149.98078602020973,
+    "bestRating": 149.98078602020973,
+    "worstRating": 147.27980400840394,
+    "tendency": 2.7009820118057917,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      147.27980400840394,
+      149.98078602020973
+    ]
   },
   {
     "NAF Nr": "4051",
@@ -5465,12 +10525,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 149.76188647442916,
+    "bestRating": 166.8586959488226,
+    "worstRating": 143.65864588427237,
+    "tendency": 0.007341333162628416,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 4,
     "gamesTotal": 11,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      149.75454514126653,
+      143.86287397473714,
+      143.88372630146725,
+      143.65864588427237,
+      143.91341320916814,
+      152.02097963596776,
+      159.17518997555484,
+      166.8586959488226,
+      157.31928621528687,
+      149.76188647442916
+    ]
   },
   {
     "NAF Nr": "4063",
@@ -5478,12 +10553,18 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 156.48797976247022,
+    "bestRating": 156.48797976247022,
+    "worstRating": 156.48797976247022,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
     "gamesTotal": 1,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatingsYear": [
+      156.48797976247022
+    ]
   },
   {
     "NAF Nr": "4095",
@@ -5491,12 +10572,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 155.54313745163404,
+    "bestRating": 155.54313745163404,
+    "worstRating": 152.9520495683955,
+    "tendency": 2.5910878832385436,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 0,
     "gamesTotal": 2,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatingsYear": [
+      152.9520495683955,
+      155.54313745163404
+    ]
   },
   {
     "NAF Nr": "4102",
@@ -5504,12 +10592,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 189.78125202909447,
+    "bestRating": 199.4107896278242,
+    "worstRating": 150.85977977717,
+    "tendency": 10.56942932482292,
     "tournaments": 4,
     "gamesWon": 12,
     "gamesDraw": 3,
     "gamesLost": 4,
     "gamesTotal": 19,
-    "winRatio": 71.05
+    "winRatio": 71.05,
+    "_lastTenRatingsYear": [
+      179.21182270427155,
+      180.46072057427102,
+      184.80141525357416,
+      189.1385677354093,
+      194.96100399156418,
+      199.4107896278242,
+      193.21379777063603,
+      196.4821181547993,
+      195.71148115558478,
+      189.78125202909447
+    ]
   },
   {
     "NAF Nr": "4114",
@@ -5517,12 +10620,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 146.50664359193863,
+    "bestRating": 154.55538920816653,
+    "worstRating": 141.79405810391785,
+    "tendency": 4.712585488020778,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      141.79405810391785,
+      149.5320302184553,
+      154.55538920816653,
+      146.50664359193863
+    ]
   },
   {
     "NAF Nr": "4126",
@@ -5530,12 +10642,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 138.43017950543228,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.43017950543228,
+    "tendency": -5.912966245075353,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      138.68629150101526,
+      144.34314575050763,
+      144.33248861365811,
+      138.43017950543228
+    ]
   },
   {
     "NAF Nr": "4148",
@@ -5543,12 +10665,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 142.85138431550365,
+    "bestRating": 162.25475536296403,
+    "worstRating": 132.42657359190744,
+    "tendency": -13.475752556807493,
     "tournaments": 4,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 5,
     "gamesTotal": 12,
-    "winRatio": 45.83
+    "winRatio": 45.83,
+    "_lastTenRatingsYear": [
+      156.32713687231114,
+      162.25475536296403,
+      162.15224598362832,
+      155.99767117254092,
+      150.0805940585711,
+      143.44802900043393,
+      137.26136707909808,
+      132.42657359190744,
+      137.34869952622256,
+      142.85138431550365
+    ]
   },
   {
     "NAF Nr": "4191",
@@ -5556,12 +10693,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 148.59422814044018,
+    "bestRating": 160.82372130624745,
+    "worstRating": 144.34314575050763,
+    "tendency": 4.251082389932549,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      150,
+      155.65685424949237,
+      160.82372130624745,
+      154.70852890006452,
+      148.59422814044018
+    ]
   },
   {
     "NAF Nr": "4225",
@@ -5569,12 +10717,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 139.47219982812965,
+    "bestRating": 146.48609452311618,
+    "worstRating": 139.47219982812965,
+    "tendency": -7.013894694986533,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      146.48609452311618,
+      142.88352391973243,
+      139.47219982812965
+    ]
   },
   {
     "NAF Nr": "4244",
@@ -5582,12 +10738,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 156.60006090535603,
+    "bestRating": 160.1236386178433,
+    "worstRating": 147.48268389941236,
+    "tendency": 9.117377005943666,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 9,
-    "winRatio": 61.11
+    "winRatio": 61.11,
+    "_lastTenRatingsYear": [
+      147.48268389941236,
+      150.0702063168862,
+      147.66544338824437,
+      150.06585469323463,
+      153.359612815789,
+      156.67058936792722,
+      160.1236386178433,
+      156.75007869536634,
+      156.60006090535603
+    ]
   },
   {
     "NAF Nr": "4246",
@@ -5595,12 +10765,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "rating": 155.12720338555962,
+    "bestRating": 155.12720338555962,
+    "worstRating": 150.01853647724124,
+    "tendency": 4.960292864851084,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      150.16691052070854,
+      154.97755882369765,
+      150.01853647724124,
+      155.12720338555962
+    ]
   },
   {
     "NAF Nr": "4250",
@@ -5608,12 +10787,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 146.31579428905047,
+    "bestRating": 146.40496154115968,
+    "worstRating": 142.5140097118537,
+    "tendency": -0.08916725210920617,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      146.40496154115968,
+      142.5140097118537,
+      146.31579428905047
+    ]
   },
   {
     "NAF Nr": "4258",
@@ -5621,12 +10808,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 143.85413156720213,
+    "bestRating": 144.61971790242717,
+    "worstRating": 138.13315989214036,
+    "tendency": -0.22978864969826418,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 7,
-    "winRatio": 42.86
+    "winRatio": 42.86,
+    "_lastTenRatingsYear": [
+      144.0839202169004,
+      138.70363811932756,
+      144.61971790242717,
+      138.64444710938716,
+      144.30480449660456,
+      138.13315989214036,
+      143.85413156720213
+    ]
   },
   {
     "NAF Nr": "4259",
@@ -5634,12 +10833,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 155.16986473388096,
+    "bestRating": 161.30742437292975,
+    "worstRating": 155.16986473388096,
+    "tendency": -0.4777645978020644,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      155.64762933168302,
+      161.30742437292975,
+      155.16986473388096
+    ]
   },
   {
     "NAF Nr": "4260",
@@ -5647,12 +10854,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 171.44246316973266,
+    "bestRating": 177.82793404222195,
+    "worstRating": 155.9160797830996,
+    "tendency": 15.526383386633057,
     "tournaments": 1,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatingsYear": [
+      155.9160797830996,
+      161.29636188067244,
+      166.1731255623978,
+      172.1596194140544,
+      177.82793404222195,
+      171.44246316973266
+    ]
   },
   {
     "NAF Nr": "4261",
@@ -5660,12 +10878,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 166.3633474746287,
+    "bestRating": 166.3633474746287,
+    "worstRating": 144.0839202169004,
+    "tendency": 22.279427257728315,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      144.0839202169004,
+      150.5357976855268,
+      156.68387439563733,
+      156.36956417630353,
+      161.26756518396041,
+      166.3633474746287
+    ]
   },
   {
     "NAF Nr": "4262",
@@ -5673,12 +10902,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 143.58571337777803,
+    "bestRating": 155.9160797830996,
+    "worstRating": 138.46954711863063,
+    "tendency": -12.33036640532157,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      155.9160797830996,
+      150,
+      144.0839202169004,
+      144.09555747447268,
+      138.46954711863063,
+      143.58571337777803
+    ]
   },
   {
     "NAF Nr": "4263",
@@ -5686,12 +10926,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 134.41238251207585,
+    "bestRating": 144.81747571364133,
+    "worstRating": 132.76322919154063,
+    "tendency": -9.671537704824544,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 5,
     "gamesTotal": 7,
-    "winRatio": 28.57
+    "winRatio": 28.57,
+    "_lastTenRatingsYear": [
+      144.0839202169004,
+      138.70363811932756,
+      132.76322919154063,
+      138.6677206200162,
+      144.81747571364133,
+      139.61545512685046,
+      134.41238251207585
+    ]
   },
   {
     "NAF Nr": "4264",
@@ -5699,12 +10951,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 134.81173860641152,
+    "bestRating": 144.0839202169004,
+    "worstRating": 128.36851917758906,
+    "tendency": -9.272181610488872,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 6,
     "gamesTotal": 9,
-    "winRatio": 27.78
+    "winRatio": 27.78,
+    "_lastTenRatingsYear": [
+      144.0839202169004,
+      138.70363811932756,
+      133.5646183730331,
+      128.36851917758906,
+      134.48565820360662,
+      140.60263930336305,
+      137.81864707612644,
+      135.01765401410876,
+      134.81173860641152
+    ]
   },
   {
     "NAF Nr": "4265",
@@ -5712,12 +10978,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 109.96812755395142,
+    "bestRating": 144.0839202169004,
+    "worstRating": 109.96812755395142,
+    "tendency": -34.11579266294898,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 7,
     "gamesTotal": 7,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      144.0839202169004,
+      138.43629088521737,
+      132.5080214312293,
+      126.60353000275373,
+      120.74470630333656,
+      115.62854004418915,
+      109.96812755395142
+    ]
   },
   {
     "NAF Nr": "4266",
@@ -5725,12 +11003,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "rating": 180.22224707535185,
+    "bestRating": 180.22224707535185,
+    "worstRating": 155.4182495935316,
+    "tendency": 19.16714754595779,
     "tournaments": 2,
     "gamesWon": 9,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 12,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatingsYear": [
+      161.05509952939406,
+      161.32341836506413,
+      155.4182495935316,
+      161.31153079820388,
+      166.9975522284561,
+      169.7496006154238,
+      172.43616626494963,
+      175.05944159919517,
+      177.63309163138987,
+      180.22224707535185
+    ]
   },
   {
     "NAF Nr": "4267",
@@ -5738,12 +11031,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 160.94851619616333,
+    "bestRating": 167.7239102046115,
+    "worstRating": 155.9160797830996,
+    "tendency": 5.032436413063721,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      155.9160797830996,
+      161.8321595661992,
+      167.7239102046115,
+      161.7374163529549,
+      161.1739853713313,
+      160.94851619616333
+    ]
   },
   {
     "NAF Nr": "4268",
@@ -5751,12 +11055,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 134.4404685371316,
+    "bestRating": 144.0839202169004,
+    "worstRating": 127.8645057759805,
+    "tendency": -9.643451679768788,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 5,
     "gamesTotal": 7,
-    "winRatio": 28.57
+    "winRatio": 28.57,
+    "_lastTenRatingsYear": [
+      144.0839202169004,
+      138.1678404338008,
+      133.29107675207544,
+      127.8645057759805,
+      133.72332947539766,
+      128.82532846774077,
+      134.4404685371316
+    ]
   },
   {
     "NAF Nr": "4269",
@@ -5764,12 +11080,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 132.79477841425123,
+    "bestRating": 150,
+    "worstRating": 132.79477841425123,
+    "tendency": -11.28914180264917,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      144.0839202169004,
+      150,
+      150,
+      144.35237066831698,
+      138.91175951400766,
+      132.79477841425123
+    ]
   },
   {
     "NAF Nr": "4270",
@@ -5777,12 +11104,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 149.54292571904202,
+    "bestRating": 155.72629413298122,
+    "worstRating": 144.0839202169004,
+    "tendency": 5.459005502141622,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 7,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      144.0839202169004,
+      150,
+      144.1082493615877,
+      150.07078595079315,
+      155.72629413298122,
+      149.55352265087325,
+      149.54292571904202
+    ]
   },
   {
     "NAF Nr": "4271",
@@ -5790,12 +11129,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 155.90137764621556,
+    "bestRating": 156.43159717638653,
+    "worstRating": 138.1678404338008,
+    "tendency": 11.81745742931517,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 7,
-    "winRatio": 57.14
+    "winRatio": 57.14,
+    "_lastTenRatingsYear": [
+      144.0839202169004,
+      138.1678404338008,
+      144.10824936158772,
+      150.2916771335937,
+      156.20612800121856,
+      156.43159717638653,
+      155.90137764621556
+    ]
   },
   {
     "NAF Nr": "4272",
@@ -5803,12 +11154,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 160.70856278290566,
+    "bestRating": 160.70856278290566,
+    "worstRating": 144.35237066831698,
+    "tendency": 10.708562782905659,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 7,
-    "winRatio": 64.29
+    "winRatio": 64.29,
+    "_lastTenRatingsYear": [
+      150,
+      144.35237066831698,
+      150.5004473784275,
+      150.48881031305922,
+      156.11482066890127,
+      155.06672272095082,
+      160.70856278290566
+    ]
   },
   {
     "NAF Nr": "4273",
@@ -5816,12 +11179,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 116.57694312625694,
+    "bestRating": 144.0839202169004,
+    "worstRating": 116.57694312625694,
+    "tendency": -27.50697709064346,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 6,
     "gamesTotal": 7,
-    "winRatio": 7.14
+    "winRatio": 7.14,
+    "_lastTenRatingsYear": [
+      144.0839202169004,
+      138.43629088521737,
+      133.0197695565289,
+      133.00922541571776,
+      127.34886802850036,
+      122.19208319564777,
+      116.57694312625694
+    ]
   },
   {
     "NAF Nr": "4287",
@@ -5829,12 +11204,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 139.16156778608763,
+    "bestRating": 144.09004922064383,
+    "worstRating": 139.16156778608763,
+    "tendency": -4.928481434556204,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      144.09004922064383,
+      139.16156778608763
+    ]
   },
   {
     "NAF Nr": "4310",
@@ -5842,12 +11224,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 159.46899604373527,
+    "bestRating": 159.8118543917931,
+    "worstRating": 154.90007589357052,
+    "tendency": 4.568920150164757,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 0,
     "gamesTotal": 4,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      154.90007589357052,
+      159.80780250177028,
+      159.8118543917931,
+      159.46899604373527
+    ]
   },
   {
     "NAF Nr": "4329",
@@ -5855,12 +11246,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 149.87556875218053,
+    "bestRating": 154.9339232605961,
+    "worstRating": 144.9009804864072,
+    "tendency": 4.9745882657733205,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      144.9009804864072,
+      150,
+      150.0357565256853,
+      154.9339232605961,
+      149.87556875218053
+    ]
   },
   {
     "NAF Nr": "4345",
@@ -5868,12 +11269,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 129.3042717030443,
+    "bestRating": 146.394448724536,
+    "worstRating": 129.3042717030443,
+    "tendency": -17.090177021491712,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 8,
     "gamesTotal": 9,
-    "winRatio": 11.11
+    "winRatio": 11.11,
+    "_lastTenRatingsYear": [
+      146.394448724536,
+      142.79165798221823,
+      139.38263218414227,
+      136.07025332110393,
+      139.9612051504099,
+      137.35573149738218,
+      134.58099013524617,
+      131.96442452585268,
+      129.3042717030443
+    ]
   },
   {
     "NAF Nr": "4349",
@@ -5881,12 +11296,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 150.16569813795795,
+    "bestRating": 156.3215834895853,
+    "worstRating": 150.16569813795795,
+    "tendency": -5.491156111534423,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      150.7503626895473,
+      150.71640637056603,
+      156.3215834895853,
+      150.16569813795795
+    ]
   },
   {
     "NAF Nr": "4350",
@@ -5894,12 +11319,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 134.61347494791983,
+    "bestRating": 142.69376130541778,
+    "worstRating": 134.48196484548635,
+    "tendency": -7.640558359665334,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      134.486568665249,
+      142.69376130541778,
+      134.48196484548635,
+      141.8316071776775,
+      134.61347494791983
+    ]
   },
   {
     "NAF Nr": "4362",
@@ -5907,12 +11343,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 112.34889550913549,
+    "bestRating": 144.52613559024067,
+    "worstRating": 112.34889550913549,
+    "tendency": -21.112015287343766,
     "tournaments": 4,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 12,
     "gamesTotal": 18,
-    "winRatio": 27.78
+    "winRatio": 27.78,
+    "_lastTenRatingsYear": [
+      133.46091079647925,
+      128.46412734515621,
+      128.43017872486655,
+      123.96595658161746,
+      118.96869796857776,
+      119.70353919754511,
+      126.17025467682386,
+      121.34946662146962,
+      117.07162743690876,
+      112.34889550913549
+    ]
   },
   {
     "NAF Nr": "4363",
@@ -5920,12 +11371,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 137.90391628601768,
+    "bestRating": 156.793356469815,
+    "worstRating": 137.83801871417072,
+    "tendency": -13.015713300226679,
     "tournaments": 4,
     "gamesWon": 5,
     "gamesDraw": 6,
     "gamesLost": 8,
     "gamesTotal": 19,
-    "winRatio": 42.11
+    "winRatio": 42.11,
+    "_lastTenRatingsYear": [
+      150.91962958624435,
+      156.793356469815,
+      152.21976392329455,
+      147.60256441959785,
+      153.08949175924764,
+      147.66020601747292,
+      141.85421063138637,
+      147.17418852908665,
+      143.7822193328733,
+      137.90391628601768
+    ]
   },
   {
     "NAF Nr": "4364",
@@ -5933,12 +11399,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 161.16481376292967,
+    "bestRating": 161.16481376292967,
+    "worstRating": 150,
+    "tendency": 11.164813762929668,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 8,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      150,
+      155.9170771139698,
+      150.04335023039917,
+      155.40211448137714,
+      160.69709942237557,
+      156.63157356983214,
+      156.33002027573903,
+      161.16481376292967
+    ]
   },
   {
     "NAF Nr": "4365",
@@ -5946,12 +11425,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 157.81786394865662,
+    "bestRating": 160.9534578543644,
+    "worstRating": 152.82842712474618,
+    "tendency": 4.989436823910438,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      152.82842712474618,
+      155.65685424949237,
+      155.65654569314592,
+      158.4232851729139,
+      160.9534578543644,
+      157.81786394865662
+    ]
   },
   {
     "NAF Nr": "4377",
@@ -5959,12 +11449,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 138.4405616030008,
+    "bestRating": 142.99134725031098,
+    "worstRating": 138.4405616030008,
+    "tendency": -4.550785647310192,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      142.99134725031098,
+      138.4405616030008
+    ]
   },
   {
     "NAF Nr": "4380",
@@ -5972,12 +11469,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 136.46670017411574,
+    "bestRating": 157.66413801030498,
+    "worstRating": 136.46670017411574,
+    "tendency": -6.122080400785791,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 6,
     "gamesTotal": 10,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      142.58878057490153,
+      150.40195504462903,
+      157.66413801030498,
+      148.67777187038422,
+      140.24713461396126,
+      144.38506551025552,
+      148.37979037543386,
+      144.80035404508655,
+      140.62013353559658,
+      136.46670017411574
+    ]
   },
   {
     "NAF Nr": "4387",
@@ -5985,12 +11497,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 93.4615180872409,
+    "bestRating": 150.24545485873347,
+    "worstRating": 93.4615180872409,
+    "tendency": -26.65653201583791,
     "tournaments": 5,
     "gamesWon": 5,
     "gamesDraw": 3,
     "gamesLost": 19,
     "gamesTotal": 27,
-    "winRatio": 24.07
+    "winRatio": 24.07,
+    "_lastTenRatingsYear": [
+      120.11805010307882,
+      116.14344671503017,
+      110.29131213004057,
+      105.5361417168732,
+      101.85173347776376,
+      102.72121963536982,
+      99.558646973385,
+      101.26485136311297,
+      97.1952049021056,
+      93.4615180872409
+    ]
   },
   {
     "NAF Nr": "4388",
@@ -5998,12 +11525,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 204.87737570037504,
+    "bestRating": 205.53707224399645,
+    "worstRating": 155.66538036620435,
+    "tendency": 18.538663760785226,
     "tournaments": 3,
     "gamesWon": 13,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 17,
-    "winRatio": 85.29
+    "winRatio": 85.29,
+    "_lastTenRatingsYear": [
+      186.3387119395898,
+      190.91172361745885,
+      184.42362902011297,
+      189.15346488221732,
+      193.75992512335233,
+      197.16326581310108,
+      201.4095878538703,
+      205.53707224399645,
+      204.82411748814195,
+      204.87737570037504
+    ]
   },
   {
     "NAF Nr": "4389",
@@ -6011,12 +11553,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 138.0843211876301,
+    "bestRating": 156.03838692246043,
+    "worstRating": 138.0843211876301,
+    "tendency": -11.789539191263941,
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 5,
     "gamesLost": 7,
     "gamesTotal": 17,
-    "winRatio": 44.12
+    "winRatio": 44.12,
+    "_lastTenRatingsYear": [
+      149.87386037889405,
+      150.1141893060155,
+      156.02243609275692,
+      150.57550041971524,
+      144.91056387068517,
+      149.13574885861303,
+      143.37476362171498,
+      138.54906468401072,
+      143.42558314870396,
+      138.0843211876301
+    ]
   },
   {
     "NAF Nr": "4390",
@@ -6024,12 +11581,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 126.30699919238042,
+    "bestRating": 155.50687042774618,
+    "worstRating": 121.16818254863958,
+    "tendency": -24.205105149551727,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 7,
     "gamesTotal": 11,
-    "winRatio": 31.82
+    "winRatio": 31.82,
+    "_lastTenRatingsYear": [
+      150.51210434193214,
+      155.50687042774618,
+      150.29848612870012,
+      144.8943625480116,
+      140.57004477516364,
+      134.5321250730569,
+      127.6223100556987,
+      122.03766870624564,
+      121.16818254863958,
+      126.30699919238042
+    ]
   },
   {
     "NAF Nr": "4391",
@@ -6037,12 +11609,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 139.7295933967367,
+    "bestRating": 144.34314575050763,
+    "worstRating": 134.0624312703263,
+    "tendency": -4.6135523537709275,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      138.72912246950128,
+      139.91289120435093,
+      134.0624312703263,
+      139.7295933967367
+    ]
   },
   {
     "NAF Nr": "4392",
@@ -6050,12 +11632,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 152.66112035970377,
+    "bestRating": 166.48073359227544,
+    "worstRating": 146.78613963624485,
+    "tendency": -7.704452311260269,
     "tournaments": 3,
     "gamesWon": 8,
     "gamesDraw": 2,
     "gamesLost": 7,
     "gamesTotal": 17,
-    "winRatio": 52.94
+    "winRatio": 52.94,
+    "_lastTenRatingsYear": [
+      160.36557267096404,
+      154.54188716440166,
+      159.53987949412496,
+      158.8920013114456,
+      164.1549627578967,
+      158.03679755178106,
+      157.716971628543,
+      151.9029629061669,
+      146.78613963624485,
+      152.66112035970377
+    ]
   },
   {
     "NAF Nr": "4393",
@@ -6063,12 +11660,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 144.11379758706815,
+    "bestRating": 150.01581377769767,
+    "worstRating": 143.92839876246893,
+    "tendency": -5.902016190629524,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      150.01581377769767,
+      149.76919285770757,
+      143.92839876246893,
+      144.11379758706815
+    ]
   },
   {
     "NAF Nr": "4394",
@@ -6076,12 +11682,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 131.86600003543984,
+    "bestRating": 144.34314575050763,
+    "worstRating": 131.86600003543984,
+    "tendency": -12.477145715067792,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      138.01749419258405,
+      132.39015703728268,
+      132.44882232573755,
+      131.86600003543984
+    ]
   },
   {
     "NAF Nr": "4395",
@@ -6089,12 +11705,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 134.31756493491022,
+    "bestRating": 145.02957109778185,
+    "worstRating": 134.31756493491022,
+    "tendency": -10.025580815597408,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 5,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      139.12565196745425,
+      145.02957109778185,
+      139.58841810366408,
+      134.31756493491022
+    ]
   },
   {
     "NAF Nr": "4396",
@@ -6102,12 +11728,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 167.77451926331435,
+    "bestRating": 167.77451926331435,
+    "worstRating": 155.9018535414055,
+    "tendency": 11.872665721908845,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 4,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatingsYear": [
+      155.9018535414055,
+      162.0170144627169,
+      162.2309294593799,
+      167.77451926331435
+    ]
   },
   {
     "NAF Nr": "4397",
@@ -6115,12 +11750,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 137.631771513776,
+    "bestRating": 144.34314575050763,
+    "worstRating": 137.631771513776,
+    "tendency": -6.711374236731643,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      138.98203455022323,
+      138.9702031963738,
+      143.732254635762,
+      137.631771513776
+    ]
   },
   {
     "NAF Nr": "4398",
@@ -6128,12 +11773,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 186.159745958137,
+    "bestRating": 186.159745958137,
+    "worstRating": 150.27761546400419,
+    "tendency": 19.757355334596156,
     "tournaments": 4,
     "gamesWon": 9,
     "gamesDraw": 6,
     "gamesLost": 1,
     "gamesTotal": 16,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      166.40239062354084,
+      165.2186218886912,
+      170.42508072083658,
+      174.4180557516973,
+      179.072776087059,
+      172.62691728860676,
+      171.5965678968241,
+      176.39734157525106,
+      181.85922787517285,
+      186.159745958137
+    ]
   },
   {
     "NAF Nr": "4399",
@@ -6141,12 +11801,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 158.14849048413353,
+    "bestRating": 162.87832634623788,
+    "worstRating": 150.3120782152922,
+    "tendency": 7.836412268841343,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatingsYear": [
+      150.3120782152922,
+      156.4204604347774,
+      162.87832634623788,
+      158.14849048413353
+    ]
   },
   {
     "NAF Nr": "4404",
@@ -6154,12 +11823,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 160.80688575011646,
+    "bestRating": 165.61671966537062,
+    "worstRating": 155.19615242270663,
+    "tendency": 5.610733327409832,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      155.19615242270663,
+      159.9785645585368,
+      165.61671966537062,
+      160.80688575011646
+    ]
   },
   {
     "NAF Nr": "4435",
@@ -6167,12 +11845,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 167.05173961042945,
+    "bestRating": 167.05173961042945,
+    "worstRating": 138.20603892039784,
+    "tendency": 6.962662830437438,
     "tournaments": 3,
     "gamesWon": 8,
     "gamesDraw": 3,
     "gamesLost": 6,
     "gamesTotal": 17,
-    "winRatio": 55.88
+    "winRatio": 55.88,
+    "_lastTenRatingsYear": [
+      160.089076779992,
+      153.1098965569362,
+      147.2624446421588,
+      147.8794943126072,
+      153.900317354447,
+      159.34723493626248,
+      154.54107353214,
+      154.66638047057822,
+      160.45252925887254,
+      167.05173961042945
+    ]
   },
   {
     "NAF Nr": "4438",
@@ -6180,12 +11873,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "rating": 133.26382902534593,
+    "bestRating": 150.01063620263753,
+    "worstRating": 133.26382902534593,
+    "tendency": -10.833861866428236,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 5,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatingsYear": [
+      144.09769089177416,
+      150.01063620263753,
+      144.353320150916,
+      138.94147983865415,
+      133.26382902534593
+    ]
   },
   {
     "NAF Nr": "4443",
@@ -6193,12 +11896,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 111.07447857655909,
+    "bestRating": 143.71925403769433,
+    "worstRating": 111.07447857655909,
+    "tendency": -32.64477546113524,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 5,
     "gamesTotal": 6,
-    "winRatio": 8.33
+    "winRatio": 8.33,
+    "_lastTenRatingsYear": [
+      143.71925403769433,
+      135.90607956796683,
+      135.8229674045458,
+      128.0464371044742,
+      119.95095002391012,
+      111.07447857655909
+    ]
   },
   {
     "NAF Nr": "4477",
@@ -6206,12 +11920,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 135.53226719414116,
+    "bestRating": 156.5395402372675,
+    "worstRating": 134.99260588787178,
+    "tendency": -14.7438478534296,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 5,
     "gamesTotal": 9,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      150.27611504757076,
+      156.5395402372675,
+      150.77874567008692,
+      144.747276563546,
+      144.95665195720792,
+      139.96153765561795,
+      134.99260588787178,
+      140.38500015875377,
+      135.53226719414116
+    ]
   },
   {
     "NAF Nr": "4479",
@@ -6219,12 +11947,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 137.1145667526688,
+    "bestRating": 144,
+    "worstRating": 122.90652786349813,
+    "tendency": -0.885433247331207,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 4,
     "gamesLost": 5,
     "gamesTotal": 11,
-    "winRatio": 36.36
+    "winRatio": 36.36,
+    "_lastTenRatingsYear": [
+      138,
+      138.27611504757076,
+      132.50209840127093,
+      133.01753211271208,
+      126.95192482250022,
+      122.90652786349813,
+      129.16791003972244,
+      130.82426243436907,
+      131.19030358652964,
+      137.1145667526688
+    ]
   },
   {
     "NAF Nr": "4494",
@@ -6232,12 +11975,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "rating": 143.21753436847527,
+    "bestRating": 153.558167981214,
+    "worstRating": 143.21753436847527,
+    "tendency": -10.340633612738742,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      153.558167981214,
+      148.49156088574352,
+      148.32410943002353,
+      143.21753436847527
+    ]
   },
   {
     "NAF Nr": "4503",
@@ -6245,12 +11997,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 147.18439749253523,
+    "bestRating": 150.69071984414384,
+    "worstRating": 142.6917463048448,
+    "tendency": -3.506322351608617,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      150.69071984414384,
+      146.62227868582903,
+      142.6917463048448,
+      143.52911269375934,
+      147.18439749253523
+    ]
   },
   {
     "NAF Nr": "4504",
@@ -6258,12 +12020,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 155.3625918915136,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "tendency": -0.29426235797876643,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      150,
+      155.65685424949237,
+      155.3625918915136
+    ]
   },
   {
     "NAF Nr": "4521",
@@ -6271,12 +12042,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 180.34557308309985,
+    "bestRating": 180.34557308309985,
+    "worstRating": 156.7098400959102,
+    "tendency": 23.63573298718964,
     "tournaments": 1,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 6,
-    "winRatio": 91.67
+    "winRatio": 91.67,
+    "_lastTenRatingsYear": [
+      156.7098400959102,
+      162.3209768424912,
+      168.5910608451395,
+      169.25254066515907,
+      175.48050255171825,
+      180.34557308309985
+    ]
   },
   {
     "NAF Nr": "4538",
@@ -6284,12 +12066,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 133.3342279089893,
+    "bestRating": 155.73051099177647,
+    "worstRating": 132.33240505489871,
+    "tendency": -21.78656499122772,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 5,
     "gamesTotal": 8,
-    "winRatio": 31.25
+    "winRatio": 31.25,
+    "_lastTenRatingsYear": [
+      155.12079290021703,
+      155.73051099177647,
+      149.00760550875708,
+      142.30137668595958,
+      135.90901822829866,
+      132.33240505489871,
+      138.4927901316037,
+      133.3342279089893
+    ]
   },
   {
     "NAF Nr": "4539",
@@ -6297,12 +12092,18 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 143.19716299038262,
+    "bestRating": 143.19716299038262,
+    "worstRating": 143.19716299038262,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      143.19716299038262
+    ]
   },
   {
     "NAF Nr": "4540",
@@ -6310,12 +12111,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 138.5233230710499,
+    "bestRating": 150.4696390039564,
+    "worstRating": 138.5233230710499,
+    "tendency": -4.419253885668212,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      142.9425769567181,
+      150.4696390039564,
+      145.40104604502898,
+      138.5233230710499
+    ]
   },
   {
     "NAF Nr": "4541",
@@ -6323,12 +12133,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 142.75589825208343,
+    "bestRating": 155.44203667726956,
+    "worstRating": 142.75589825208343,
+    "tendency": -12.68613842518613,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      155.44203667726956,
+      149.87964518115373,
+      144.37945428824992,
+      150.20007299669706,
+      147.2130848579256,
+      142.75589825208343
+    ]
   },
   {
     "NAF Nr": "4542",
@@ -6336,12 +12157,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 136.70651228110617,
+    "bestRating": 143.48512309885265,
+    "worstRating": 136.70651228110617,
+    "tendency": -6.7786108177464826,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      143.48512309885265,
+      136.98977129298228,
+      136.70651228110617
+    ]
   },
   {
     "NAF Nr": "4543",
@@ -6349,12 +12178,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 132.48521824164894,
+    "bestRating": 143.85900619394374,
+    "worstRating": 131.2915220605674,
+    "tendency": -11.373787952294805,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatingsYear": [
+      143.85900619394374,
+      137.4289689609992,
+      131.2915220605674,
+      131.5747810724435,
+      132.48521824164894
+    ]
   },
   {
     "NAF Nr": "4544",
@@ -6362,12 +12201,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 163.7460608657433,
+    "bestRating": 163.7460608657433,
+    "worstRating": 149.67790368879048,
+    "tendency": 7.265320167335432,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatingsYear": [
+      156.48074069840786,
+      149.67790368879048,
+      151.19920908592152,
+      157.64644121358825,
+      163.7460608657433
+    ]
   },
   {
     "NAF Nr": "4545",
@@ -6375,12 +12224,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 167.47682451076722,
+    "bestRating": 174.68366143099684,
+    "worstRating": 150.72040014978933,
+    "tendency": 16.75642436097789,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 9,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      150.72040014978933,
+      155.49018555453333,
+      154.76208770625794,
+      160.2339187220143,
+      164.83601473669913,
+      170.02107401368957,
+      174.68366143099684,
+      170.581352481531,
+      167.47682451076722
+    ]
   },
   {
     "NAF Nr": "4546",
@@ -6388,12 +12251,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 175.2665152582264,
+    "bestRating": 178.92586158981774,
+    "worstRating": 158.5267848627143,
+    "tendency": 11.035573021497015,
     "tournaments": 2,
     "gamesWon": 7,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 12,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      164.2309422367294,
+      170.03419398241383,
+      175.5452580114599,
+      169.66553877852556,
+      174.41244478009648,
+      178.49160845336468,
+      178.92586158981774,
+      173.81109016023163,
+      170.4918544327368,
+      175.2665152582264
+    ]
   },
   {
     "NAF Nr": "4547",
@@ -6401,12 +12279,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 149.53309652314175,
+    "bestRating": 149.53309652314175,
+    "worstRating": 149.50865646312423,
+    "tendency": 0.02444006001752541,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 0,
     "gamesTotal": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      149.50865646312423,
+      149.53309652314175
+    ]
   },
   {
     "NAF Nr": "4548",
@@ -6414,12 +12299,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 155.80796429374595,
+    "bestRating": 156.48074069840786,
+    "worstRating": 151.2943363811214,
+    "tendency": -0.6727764046619029,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      156.48074069840786,
+      151.2943363811214,
+      156.11344325694245,
+      155.80796429374595
+    ]
   },
   {
     "NAF Nr": "4549",
@@ -6427,12 +12321,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 150.52845706322566,
+    "bestRating": 150.52845706322566,
+    "worstRating": 143.19138194832004,
+    "tendency": 7.337075114905616,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      143.19138194832004,
+      149.6867337541904,
+      143.41727551032434,
+      150.52845706322566
+    ]
   },
   {
     "NAF Nr": "4552",
@@ -6440,12 +12343,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "rating": 135.3569087916923,
+    "bestRating": 150.4599752036673,
+    "worstRating": 135.3569087916923,
+    "tendency": -6.89712451589287,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      150.4599752036673,
+      142.6866619530023,
+      144.00195974691877,
+      135.3569087916923
+    ]
   },
   {
     "NAF Nr": "4554",
@@ -6453,12 +12366,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 174.10574858931372,
+    "bestRating": 185.54360972707428,
+    "worstRating": 150,
+    "tendency": -2.901695654132425,
     "tournaments": 6,
     "gamesWon": 15,
     "gamesDraw": 5,
     "gamesLost": 9,
     "gamesTotal": 29,
-    "winRatio": 60.34
+    "winRatio": 60.34,
+    "_lastTenRatingsYear": [
+      177.00744424344614,
+      171.63919281919934,
+      176.98628820064957,
+      181.70753152789206,
+      185.54360972707428,
+      181.09382409081428,
+      180.50608512115045,
+      175.12838629113668,
+      169.1792748136474,
+      174.10574858931372
+    ]
   },
   {
     "NAF Nr": "4555",
@@ -6466,12 +12394,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 127.31634266234035,
+    "bestRating": 142.25403330758516,
+    "worstRating": 125.71998234864934,
+    "tendency": -14.937690645244814,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 6,
     "gamesTotal": 9,
-    "winRatio": 27.78
+    "winRatio": 27.78,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      134.96587969156855,
+      128.3993820434315,
+      133.47439742037122,
+      129.47967255519288,
+      130.19408549252935,
+      125.71998234864934,
+      130.85737009136687,
+      127.31634266234035
+    ]
   },
   {
     "NAF Nr": "4561",
@@ -6479,12 +12421,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 150.12274075220375,
+    "bestRating": 150.12274075220375,
+    "worstRating": 142.28201601807714,
+    "tendency": 7.84072473412661,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      142.28201601807714,
+      150.12274075220375
+    ]
   },
   {
     "NAF Nr": "4580",
@@ -6492,12 +12441,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Austria",
     "rating": 158.2327748460727,
+    "bestRating": 158.2327748460727,
+    "worstRating": 157.36634970785445,
+    "tendency": 0.48680815365784724,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 5,
     "gamesLost": 0,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      157.74596669241484,
+      157.74596669241484,
+      158.20377749853378,
+      157.9931955396658,
+      157.36634970785445,
+      158.2327748460727
+    ]
   },
   {
     "NAF Nr": "4600",
@@ -6505,12 +12465,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 139.1665632767857,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.9317463597487,
+    "tendency": -5.176582473721936,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      138.9317463597487,
+      139.1665632767857
+    ]
   },
   {
     "NAF Nr": "4602",
@@ -6518,12 +12486,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 160.8334375550596,
+    "bestRating": 161.07889158194774,
+    "worstRating": 155.65685424949237,
+    "tendency": 5.17658330556722,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 0,
     "gamesTotal": 4,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      155.65685424949237,
+      161.07889158194774,
+      160.8334375550596
+    ]
   },
   {
     "NAF Nr": "4658",
@@ -6531,12 +12508,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 155.5473702582242,
+    "bestRating": 155.5583537749711,
+    "worstRating": 147.5505102572168,
+    "tendency": 7.996860001007377,
     "tournaments": 3,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 3,
     "gamesTotal": 10,
-    "winRatio": 55
+    "winRatio": 55,
+    "_lastTenRatingsYear": [
+      147.5505102572168,
+      150,
+      150,
+      150.077158296118,
+      153.4392054808156,
+      149.67261081187547,
+      155.39886049680524,
+      150.7048949913095,
+      155.5583537749711,
+      155.5473702582242
+    ]
   },
   {
     "NAF Nr": "4664",
@@ -6544,12 +12536,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 140.20893214036607,
+    "bestRating": 144.9009804864072,
+    "worstRating": 135.3112902574011,
+    "tendency": -4.692048346041133,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      144.9009804864072,
+      139.8019609728144,
+      135.3112902574011,
+      140.38789293883647,
+      140.20893214036607
+    ]
   },
   {
     "NAF Nr": "4665",
@@ -6557,12 +12559,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150.00438738228937,
+    "bestRating": 150.00438738228937,
+    "worstRating": 140.01400530356463,
+    "tendency": 5.090306185154219,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      144.91408119713515,
+      140.01400530356463,
+      145.1047261682708,
+      149.99663393987376,
+      150.00438738228937
+    ]
   },
   {
     "NAF Nr": "4666",
@@ -6570,12 +12582,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 124.76846543895732,
+    "bestRating": 144.9009804864072,
+    "worstRating": 124.76846543895732,
+    "tendency": -20.132515047449886,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 5,
     "gamesTotal": 5,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      144.9009804864072,
+      139.8019609728144,
+      134.73849959421054,
+      129.66189691277518,
+      124.76846543895732
+    ]
   },
   {
     "NAF Nr": "4667",
@@ -6583,12 +12605,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 135.99223169415134,
+    "bestRating": 145.8505558401147,
+    "worstRating": 135.81327089568094,
+    "tendency": -9.858324145963365,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatingsYear": [
+      145.8505558401147,
+      140.7143740036448,
+      135.81327089568094,
+      135.99223169415134
+    ]
   },
   {
     "NAF Nr": "4668",
@@ -6596,12 +12627,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150.1869938706131,
+    "bestRating": 155.0990195135928,
+    "worstRating": 145.1022055442502,
+    "tendency": -4.9120256429797,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.0990195135928,
+      150.00993215244998,
+      145.1022055442502,
+      150.1947473130287,
+      150.1869938706131
+    ]
   },
   {
     "NAF Nr": "4669",
@@ -6609,12 +12650,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 144.89485380418898,
+    "bestRating": 155.0990195135928,
+    "worstRating": 140.0028137514964,
+    "tendency": -10.20416570940381,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      155.0990195135928,
+      150,
+      144.9009804864072,
+      140.0028137514964,
+      144.89485380418898
+    ]
   },
   {
     "NAF Nr": "4670",
@@ -6622,12 +12673,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 139.81129064541713,
+    "bestRating": 144.9009804864072,
+    "worstRating": 134.91785917159928,
+    "tendency": -5.089689840990076,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      144.9009804864072,
+      139.80976694320225,
+      134.91785917159928,
+      139.81129064541713
+    ]
   },
   {
     "NAF Nr": "4671",
@@ -6635,12 +12695,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 144.74294808134894,
+    "bestRating": 155.0990195135928,
+    "worstRating": 144.74294808134894,
+    "tendency": -0.15803240505826466,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      144.9009804864072,
+      150,
+      155.0990195135928,
+      149.80803387535315,
+      144.74294808134894
+    ]
   },
   {
     "NAF Nr": "4672",
@@ -6648,12 +12718,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 167.75790692448484,
+    "bestRating": 167.75790692448484,
+    "worstRating": 155.3528026838437,
+    "tendency": 12.405104240641151,
     "tournaments": 2,
     "gamesWon": 6,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 7,
-    "winRatio": 85.71
+    "winRatio": 85.71,
+    "_lastTenRatingsYear": [
+      155.3528026838437,
+      160.4418900449865,
+      155.97300313093282,
+      161.03135763934839,
+      163.46456467170324,
+      165.75413135091011,
+      167.75790692448484
+    ]
   },
   {
     "NAF Nr": "4673",
@@ -6661,12 +12743,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 155.74746730987982,
+    "bestRating": 155.74746730987982,
+    "worstRating": 150.63910225224512,
+    "tendency": 0.6484477962870301,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      155.0990195135928,
+      150.66513294927947,
+      150.63910225224512,
+      155.74746730987982
+    ]
   },
   {
     "NAF Nr": "4684",
@@ -6674,12 +12765,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 155.42153119682501,
+    "bestRating": 155.42153119682501,
+    "worstRating": 145.20458929873794,
+    "tendency": 9.804034405416985,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      145.61749679140803,
+      145.57920836918817,
+      145.20458929873794,
+      150.72279920498477,
+      150.35581209387857,
+      155.42153119682501
+    ]
   },
   {
     "NAF Nr": "4693",
@@ -6687,12 +12789,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 155.30798377049945,
+    "bestRating": 155.83903420611085,
+    "worstRating": 150.4812122116737,
+    "tendency": -0.34887047899292156,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      155.65685424949237,
+      150.4812122116737,
+      155.83903420611085,
+      155.30798377049945
+    ]
   },
   {
     "NAF Nr": "4728",
@@ -6700,12 +12812,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 137.41298594220996,
+    "bestRating": 150.23481691703702,
+    "worstRating": 137.41298594220996,
+    "tendency": -12.587014057790043,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      150,
+      144.34314575050763,
+      150.23481691703702,
+      143.27270995473953,
+      137.41298594220996
+    ]
   },
   {
     "NAF Nr": "4767",
@@ -6713,12 +12835,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 109.67539366234351,
+    "bestRating": 144.34314575050763,
+    "worstRating": 100.79892221499247,
+    "tendency": -23.354043589179383,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 9,
     "gamesTotal": 12,
-    "winRatio": 20.83
+    "winRatio": 20.83,
+    "_lastTenRatingsYear": [
+      133.0294372515229,
+      127.61803786076398,
+      128.58036911000275,
+      134.89865640258742,
+      126.68023225979712,
+      120.42104426392248,
+      114.29162799853727,
+      107.27652766958123,
+      100.79892221499247,
+      109.67539366234351
+    ]
   },
   {
     "NAF Nr": "4768",
@@ -6726,12 +12863,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 180.88718590053858,
+    "bestRating": 180.88718590053858,
+    "worstRating": 144.34314575050763,
+    "tendency": 21.83355124409738,
     "tournaments": 3,
     "gamesWon": 8,
     "gamesDraw": 5,
     "gamesLost": 3,
     "gamesTotal": 16,
-    "winRatio": 65.63
+    "winRatio": 65.63,
+    "_lastTenRatingsYear": [
+      159.0536346564412,
+      158.51623822555172,
+      157.92243061998192,
+      166.30098986068205,
+      171.1298649912877,
+      176.50056892676136,
+      170.23048492411306,
+      175.0133311599741,
+      180.5538669128505,
+      180.88718590053858
+    ]
   },
   {
     "NAF Nr": "4769",
@@ -6739,12 +12891,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 176.99748179620937,
+    "bestRating": 181.58279160095378,
+    "worstRating": 155.65685424949237,
+    "tendency": 10.026919047732264,
     "tournaments": 2,
     "gamesWon": 8,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 12,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      166.9705627484771,
+      160.82372130624742,
+      160.83387658842275,
+      166.74632269543244,
+      170.5043840584332,
+      170.437263019234,
+      174.43421966745086,
+      177.98296928008,
+      181.58279160095378,
+      176.99748179620937
+    ]
   },
   {
     "NAF Nr": "4770",
@@ -6752,12 +12919,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 122.1861372961979,
+    "bestRating": 150,
+    "worstRating": 122.1861372961979,
+    "tendency": -27.8138627038021,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 5,
     "gamesTotal": 6,
-    "winRatio": 8.33
+    "winRatio": 8.33,
+    "_lastTenRatingsYear": [
+      150,
+      144.58860060924107,
+      139.1665632767857,
+      133.75558491406812,
+      128.0774174049974,
+      122.1861372961979
+    ]
   },
   {
     "NAF Nr": "4771",
@@ -6765,12 +12943,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 143.89252061764012,
+    "bestRating": 155.6674904521299,
+    "worstRating": 143.89252061764012,
+    "tendency": -0.4506251328675148,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      150,
+      149.75454514126653,
+      155.6674904521299,
+      149.77489637151152,
+      143.89252061764012
+    ]
   },
   {
     "NAF Nr": "4772",
@@ -6778,12 +12967,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 177.7532013564282,
+    "bestRating": 178.0295238910874,
+    "worstRating": 155.65685424949237,
+    "tendency": 22.096347106935838,
     "tournaments": 1,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 6,
-    "winRatio": 91.67
+    "winRatio": 91.67,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      161.31370849898474,
+      166.9705627484771,
+      172.61722173728725,
+      178.0295238910874,
+      177.7532013564282
+    ]
   },
   {
     "NAF Nr": "4774",
@@ -6791,12 +12991,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 128.33779471438226,
+    "bestRating": 150.24545485873347,
+    "worstRating": 127.37781795466775,
+    "tendency": -8.419762484658264,
     "tournaments": 4,
     "gamesWon": 5,
     "gamesDraw": 7,
     "gamesLost": 10,
     "gamesTotal": 22,
-    "winRatio": 38.64
+    "winRatio": 38.64,
+    "_lastTenRatingsYear": [
+      136.75755719904052,
+      137.06961843243036,
+      142.6324304495815,
+      136.79258859324673,
+      137.32293689017487,
+      137.531728011811,
+      132.80552131247688,
+      127.37781795466775,
+      134.71031535253923,
+      128.33779471438226
+    ]
   },
   {
     "NAF Nr": "4778",
@@ -6804,12 +13019,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Greece",
     "rating": 143.89140266657697,
+    "bestRating": 150,
+    "worstRating": 143.89140266657697,
+    "tendency": -6.108597333423035,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      150,
+      144.34314575050763,
+      149.75454514126656,
+      144.09947943481836,
+      149.76689568941345,
+      143.89140266657697
+    ]
   },
   {
     "NAF Nr": "4780",
@@ -6817,12 +13043,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 126.21437129134374,
+    "bestRating": 150,
+    "worstRating": 126.21437129134374,
+    "tendency": -18.128774459163893,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 5,
     "gamesTotal": 6,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      150,
+      144.09769089177416,
+      137.97155110931791,
+      132.34574389224488,
+      126.21437129134374
+    ]
   },
   {
     "NAF Nr": "4782",
@@ -6830,12 +13067,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 154.94358167676114,
+    "bestRating": 155.42203733245537,
+    "worstRating": 149.53274644393022,
+    "tendency": 4.943581676761141,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      150,
+      150,
+      155.42203733245537,
+      149.53274644393022,
+      154.94358167676114
+    ]
   },
   {
     "NAF Nr": "4818",
@@ -6843,12 +13090,26 @@ const statsYear2004 = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 160.53512086375338,
+    "bestRating": 160.53512086375338,
+    "worstRating": 144.9009804864072,
+    "tendency": 15.63414037734617,
     "tournaments": 4,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 9,
-    "winRatio": 55.56
+    "winRatio": 55.56,
+    "_lastTenRatingsYear": [
+      144.9009804864072,
+      149.80864307427234,
+      145.0976550108504,
+      145.30087911652245,
+      151.17798658372786,
+      147.17415885038514,
+      153.90919936585377,
+      159.52705250537468,
+      160.53512086375338
+    ]
   },
   {
     "NAF Nr": "4822",
@@ -6856,12 +13117,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 162.15868216656526,
+    "bestRating": 165.17444055062703,
+    "worstRating": 144.63401805023352,
+    "tendency": 12.289833736330309,
     "tournaments": 3,
     "gamesWon": 8,
     "gamesDraw": 3,
     "gamesLost": 5,
     "gamesTotal": 16,
-    "winRatio": 59.38
+    "winRatio": 59.38,
+    "_lastTenRatingsYear": [
+      149.86884843023495,
+      155.2159351822865,
+      155.1779650069875,
+      160.84142686566284,
+      165.17444055062703,
+      159.8918688998576,
+      164.42956952775862,
+      164.09622140032002,
+      158.0131553837674,
+      162.15868216656526
+    ]
   },
   {
     "NAF Nr": "4824",
@@ -6869,12 +13145,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 158.08258194259886,
+    "bestRating": 161.37169810276168,
+    "worstRating": 149.99855469109215,
+    "tendency": 2.425727693106495,
     "tournaments": 3,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 4,
     "gamesTotal": 11,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      150,
+      149.99855469109215,
+      155.67357849137346,
+      155.69378829309056,
+      161.37169810276168,
+      156.1748515294781,
+      156.77696001338157,
+      151.09996475800682,
+      158.08258194259886
+    ]
   },
   {
     "NAF Nr": "4828",
@@ -6882,12 +13173,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 153.1781838862037,
+    "bestRating": 153.1781838862037,
+    "worstRating": 140.1777906273641,
+    "tendency": 7.569614851075812,
     "tournaments": 4,
     "gamesWon": 5,
     "gamesDraw": 4,
     "gamesLost": 5,
     "gamesTotal": 14,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      145.60856903512789,
+      145.8844514934304,
+      151.44182971982605,
+      146.48827679214665,
+      152.5266795366668,
+      152.84235900101595,
+      147.32965535731515,
+      153.0109137912835,
+      147.3930606517626,
+      153.1781838862037
+    ]
   },
   {
     "NAF Nr": "4836",
@@ -6895,12 +13201,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 143.59582956499028,
+    "bestRating": 144.34314575050763,
+    "worstRating": 143.59582956499028,
+    "tendency": -0.7473161855173487,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      144.0373020255545,
+      143.59582956499028
+    ]
   },
   {
     "NAF Nr": "4837",
@@ -6908,12 +13222,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 132.85385987922638,
+    "bestRating": 144.78900218557095,
+    "worstRating": 132.85385987922638,
+    "tendency": -11.935142306344574,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      144.78900218557095,
+      138.53742248827257,
+      132.85385987922638
+    ]
   },
   {
     "NAF Nr": "4838",
@@ -6921,12 +13243,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 137.59793847908276,
+    "bestRating": 144.34314575050763,
+    "worstRating": 131.04051505683125,
+    "tendency": -6.745207271424874,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 7,
-    "winRatio": 28.57
+    "winRatio": 28.57,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      139.98675381339058,
+      140.43120886728363,
+      136.35079223198846,
+      131.04051505683125,
+      137.29209475412964,
+      137.59793847908276
+    ]
   },
   {
     "NAF Nr": "4839",
@@ -6934,12 +13268,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 161.90378044958175,
+    "bestRating": 161.90378044958175,
+    "worstRating": 150.25266476196035,
+    "tendency": 6.246926200089376,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      150.25266476196035,
+      155.92788534025027,
+      161.90378044958175
+    ]
   },
   {
     "NAF Nr": "4841",
@@ -6947,12 +13290,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 149.39164894480766,
+    "bestRating": 149.39164894480766,
+    "worstRating": 143.7132480681954,
+    "tendency": 5.048503194300025,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      143.7132480681954,
+      149.39164894480766
+    ]
   },
   {
     "NAF Nr": "4843",
@@ -6960,12 +13311,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 153.87165593724401,
+    "bestRating": 162.3957951485814,
+    "worstRating": 150.50080662759936,
+    "tendency": -1.7851983122483546,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      150.50080662759936,
+      156.161004249653,
+      162.3957951485814,
+      157.10097618356755,
+      153.87165593724401
+    ]
   },
   {
     "NAF Nr": "4844",
@@ -6973,12 +13335,24 @@ const statsYear2004 = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 114.2999680977816,
+    "bestRating": 143.6606573495764,
+    "worstRating": 114.2999680977816,
+    "tendency": -29.36068925179481,
     "tournaments": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 7,
     "gamesTotal": 8,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatingsYear": [
+      143.6606573495764,
+      138.02317886958178,
+      132.8657230303374,
+      128.34876271116758,
+      123.36370550356146,
+      118.6418678205424,
+      114.2999680977816
+    ]
   },
   {
     "NAF Nr": "4845",
@@ -6986,12 +13360,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 143.772311844378,
+    "bestRating": 149.70700456745163,
+    "worstRating": 143.772311844378,
+    "tendency": -5.4460168659190344,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      149.21832871029704,
+      143.7803089657923,
+      149.70700456745163,
+      143.772311844378
+    ]
   },
   {
     "NAF Nr": "4865",
@@ -6999,12 +13382,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 160.44232367813171,
+    "bestRating": 167.82369667147503,
+    "worstRating": 151.84765488273797,
+    "tendency": 8.55645111123647,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 11,
-    "winRatio": 54.55
+    "winRatio": 54.55,
+    "_lastTenRatingsYear": [
+      151.88587256689524,
+      151.84765488273797,
+      160.6231244434257,
+      167.82369667147503,
+      162.87218422100463,
+      157.91625782804323,
+      156.85966637494306,
+      160.82075541917976,
+      156.0372026985751,
+      160.44232367813171
+    ]
   },
   {
     "NAF Nr": "4919",
@@ -7012,12 +13410,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 134.87024515566966,
+    "bestRating": 154.71182017659902,
+    "worstRating": 128.9814879645974,
+    "tendency": -9.12960239730441,
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 5,
     "gamesLost": 7,
     "gamesTotal": 17,
-    "winRatio": 44.12
+    "winRatio": 44.12,
+    "_lastTenRatingsYear": [
+      143.99984755297407,
+      149.32599364964602,
+      149.77622344329424,
+      154.71182017659902,
+      147.74235747867053,
+      141.20030185304967,
+      134.35752208851412,
+      128.9814879645974,
+      129.28560380621659,
+      134.87024515566966
+    ]
   },
   {
     "NAF Nr": "4926",
@@ -7025,12 +13438,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 161.9415667555203,
+    "bestRating": 167.83572570005262,
+    "worstRating": 155.65685424949237,
+    "tendency": 6.284712506027944,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      161.80348257086206,
+      167.83572570005262,
+      161.9415667555203
+    ]
   },
   {
     "NAF Nr": "4927",
@@ -7038,12 +13460,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 152.492031607493,
+    "bestRating": 157.3278944573312,
+    "worstRating": 144.58860060924107,
+    "tendency": 2.4920316074930042,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 10,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      150,
+      144.58860060924107,
+      150.4402852466927,
+      150.42077912732606,
+      145.2268564964005,
+      151.0908582385115,
+      146.43613790314978,
+      151.99273067677618,
+      157.3278944573312,
+      152.492031607493
+    ]
   },
   {
     "NAF Nr": "4928",
@@ -7051,12 +13488,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 144.08195872803017,
+    "bestRating": 144.36654778141786,
+    "worstRating": 138.57008668484056,
+    "tendency": -0.04472073043677938,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      144.12667945846695,
+      138.57008668484056,
+      144.36654778141786,
+      139.111598459174,
+      144.08195872803017
+    ]
   },
   {
     "NAF Nr": "4929",
@@ -7064,12 +13511,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 172.1516461172857,
+    "bestRating": 172.1516461172857,
+    "worstRating": 138.17826489903433,
+    "tendency": 21.982983495843655,
     "tournaments": 3,
     "gamesWon": 9,
     "gamesDraw": 2,
     "gamesLost": 5,
     "gamesTotal": 16,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      150.16866262144205,
+      144.74995362445256,
+      150.8954518741136,
+      157.1882463654586,
+      163.51811494217444,
+      169.0423050089155,
+      163.11783933030594,
+      168.21109915810018,
+      167.52595544180264,
+      172.1516461172857
+    ]
   },
   {
     "NAF Nr": "4930",
@@ -7077,12 +13539,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 128.76612409314413,
+    "bestRating": 150.24545485873347,
+    "worstRating": 128.76612409314413,
+    "tendency": -15.577021657363503,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 5,
     "gamesTotal": 6,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      150.24545485873347,
+      145.0884620333774,
+      139.68682583689252,
+      134.0861019908444,
+      128.76612409314413
+    ]
   },
   {
     "NAF Nr": "4931",
@@ -7090,12 +13563,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 174.2858463746786,
+    "bestRating": 174.2858463746786,
+    "worstRating": 156.07650137613055,
+    "tendency": 18.20934499854806,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 0,
     "gamesTotal": 6,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatingsYear": [
+      156.07650137613055,
+      161.9879351757888,
+      161.74707902321967,
+      161.69849081714543,
+      168.5578737116906,
+      174.2858463746786
+    ]
   },
   {
     "NAF Nr": "4932",
@@ -7103,12 +13587,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 144.3328825633476,
+    "bestRating": 144.34314575050763,
+    "worstRating": 144.3328825633476,
+    "tendency": -0.010263187160035159,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      144.34314575050763,
+      144.3328825633476
+    ]
   },
   {
     "NAF Nr": "4933",
@@ -7116,12 +13608,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 153.03820334695993,
+    "bestRating": 166.72436579183528,
+    "worstRating": 149.77924010361772,
+    "tendency": -1.932844783119748,
     "tournaments": 3,
     "gamesWon": 6,
     "gamesDraw": 3,
     "gamesLost": 6,
     "gamesTotal": 15,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      154.97104813007968,
+      160.4121742776821,
+      154.95463123750227,
+      160.4620406927306,
+      154.93785062598954,
+      149.77924010361772,
+      155.70121017812932,
+      151.4285479674279,
+      152.3530596306624,
+      153.03820334695993
+    ]
   },
   {
     "NAF Nr": "4934",
@@ -7129,12 +13636,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 151.797270057547,
+    "bestRating": 155.65685424949237,
+    "worstRating": 140.97966051959733,
+    "tendency": -3.8595841919453733,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 9,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      150,
+      145.46060153820972,
+      145.43155092278278,
+      151.1407720450872,
+      145.6148600598383,
+      140.97966051959733,
+      146.58038436564544,
+      151.797270057547
+    ]
   },
   {
     "NAF Nr": "4935",
@@ -7142,12 +13663,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 139.24040800202445,
+    "bestRating": 144.5755717825795,
+    "worstRating": 139.24040800202445,
+    "tendency": -5.335163780555035,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      144.5755717825795,
+      139.24040800202445
+    ]
   },
   {
     "NAF Nr": "4936",
@@ -7155,12 +13683,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 139.20259940434812,
+    "bestRating": 145.04825828210426,
+    "worstRating": 138.91110603288118,
+    "tendency": -5.1405463461595104,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      138.91110603288118,
+      145.04825828210426,
+      139.20259940434812
+    ]
   },
   {
     "NAF Nr": "4937",
@@ -7168,12 +13705,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 144.72207753946762,
+    "bestRating": 144.72207753946762,
+    "worstRating": 139.13322685411296,
+    "tendency": 0.16320368707005173,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      144.55887385239757,
+      139.13322685411296,
+      144.72207753946762
+    ]
   },
   {
     "NAF Nr": "4938",
@@ -7181,12 +13726,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 137.8126287242256,
+    "bestRating": 148.68727631009565,
+    "worstRating": 137.8126287242256,
+    "tendency": -5.783181038504523,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      143.5958097627301,
+      143.65882737967664,
+      148.68727631009565,
+      143.09654435357598,
+      143.17139297520356,
+      137.8126287242256
+    ]
   },
   {
     "NAF Nr": "4939",
@@ -7194,12 +13750,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 156.8354285859887,
+    "bestRating": 167.62119881515065,
+    "worstRating": 143.89066778595043,
+    "tendency": -2.8476490228246973,
     "tournaments": 3,
     "gamesWon": 7,
     "gamesDraw": 2,
     "gamesLost": 5,
     "gamesTotal": 14,
-    "winRatio": 57.14
+    "winRatio": 57.14,
+    "_lastTenRatingsYear": [
+      159.6830776088134,
+      153.60657623268284,
+      158.3336668595803,
+      163.762952601355,
+      157.3940358318062,
+      162.52621447418457,
+      167.62119881515065,
+      167.20600720788224,
+      161.46087210528566,
+      156.8354285859887
+    ]
   },
   {
     "NAF Nr": "4940",
@@ -7207,12 +13778,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 135.41326499844502,
+    "bestRating": 150.84814770701556,
+    "worstRating": 135.41326499844502,
+    "tendency": -9.63402297020096,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      145.04728796864597,
+      144.98427035169945,
+      150.84814770701556,
+      146.63769620684593,
+      140.9284750845415,
+      135.41326499844502
+    ]
   },
   {
     "NAF Nr": "4941",
@@ -7220,12 +13802,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 132.01852758600552,
+    "bestRating": 144.34314575050763,
+    "worstRating": 132.01852758600552,
+    "tendency": -12.324618164502112,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      144.34314575050763,
+      138.48524306528427,
+      132.01852758600552
+    ]
   },
   {
     "NAF Nr": "4942",
@@ -7233,12 +13824,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 154.34788045747658,
+    "bestRating": 155.63645018618297,
+    "worstRating": 148.9259459896054,
+    "tendency": -1.288569728706392,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 9,
-    "winRatio": 55.56
+    "winRatio": 55.56,
+    "_lastTenRatingsYear": [
+      155.63645018618297,
+      149.96827329308942,
+      150.0022296120707,
+      155.41574024463648,
+      149.5237898594258,
+      154.95582957705224,
+      154.78117579340886,
+      148.9259459896054,
+      154.34788045747658
+    ]
   },
   {
     "NAF Nr": "4943",
@@ -7246,12 +13851,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 161.78234027594925,
+    "bestRating": 161.78234027594925,
+    "worstRating": 150.97062291041473,
+    "tendency": 6.125486026456883,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      150.97062291041473,
+      156.3722591068996,
+      161.78234027594925
+    ]
   },
   {
     "NAF Nr": "4944",
@@ -7259,12 +13873,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 158.8937708629138,
+    "bestRating": 161.76187609610895,
+    "worstRating": 148.9131531400474,
+    "tendency": 3.2369166134214424,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 10,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      161.76187609610895,
+      155.85076186804275,
+      161.0308262458478,
+      160.55303134766598,
+      160.35104238154207,
+      154.73765686897116,
+      148.9131531400474,
+      153.63882154066994,
+      158.8937708629138
+    ]
   },
   {
     "NAF Nr": "4945",
@@ -7272,12 +13901,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 131.97804650079868,
+    "bestRating": 144.09769089177416,
+    "worstRating": 131.97804650079868,
+    "tendency": -12.11964439097548,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatingsYear": [
+      144.09769089177416,
+      138.24535672017754,
+      137.56689718615334,
+      131.97804650079868
+    ]
   },
   {
     "NAF Nr": "4977",
@@ -7285,12 +13923,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 157.29598502316833,
+    "bestRating": 161.49018923512338,
+    "worstRating": 145.69948191703585,
+    "tendency": 11.596503106132474,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      145.69948191703585,
+      151.30197778185172,
+      151.02860216459777,
+      157.1591666945966,
+      161.49018923512338,
+      157.29598502316833
+    ]
   },
   {
     "NAF Nr": "4978",
@@ -7298,12 +13947,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 137.87977652238325,
+    "bestRating": 155.4406173378634,
+    "worstRating": 137.87977652238325,
+    "tendency": -17.560840815480134,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      155.4406173378634,
+      149.04525628973758,
+      149.08670857284025,
+      143.47845716745462,
+      137.87977652238325
+    ]
   },
   {
     "NAF Nr": "5000",
@@ -7311,12 +13970,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 166.4615072462303,
+    "bestRating": 166.4615072462303,
+    "worstRating": 144.09900142718394,
+    "tendency": 22.362505819046362,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      144.09900142718394,
+      149.74693768377276,
+      155.40519252531024,
+      161.03495626416083,
+      166.4370117887026,
+      166.4615072462303
+    ]
   },
   {
     "NAF Nr": "5004",
@@ -7324,12 +13994,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 153.99454499790022,
+    "bestRating": 154.6430741321566,
+    "worstRating": 150.14836471767737,
+    "tendency": -0.6485291342563926,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      154.6430741321566,
+      150.49000208693113,
+      150.14836471767737,
+      153.99454499790022
+    ]
   },
   {
     "NAF Nr": "5007",
@@ -7337,12 +14016,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 149.43529581164702,
+    "bestRating": 155.90230910822584,
+    "worstRating": 138.33373807402924,
+    "tendency": 4.867546766525976,
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 6,
     "gamesTotal": 12,
-    "winRatio": 45.83
+    "winRatio": 45.83,
+    "_lastTenRatingsYear": [
+      144.56774904512105,
+      138.33373807402924,
+      144.72909912215505,
+      150.61468037064463,
+      150.80185376889673,
+      147.61746437917876,
+      141.99304002594585,
+      147.74989881469384,
+      153.06640541196805,
+      149.43529581164702
+    ]
   },
   {
     "NAF Nr": "5013",
@@ -7350,12 +14044,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 137.14174155330844,
+    "bestRating": 145.6689774594732,
+    "worstRating": 137.14049229645178,
+    "tendency": -8.527235906164776,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatingsYear": [
+      145.6689774594732,
+      141.42178537294242,
+      137.14049229645178,
+      137.14174155330844
+    ]
   },
   {
     "NAF Nr": "5014",
@@ -7363,12 +14066,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 138.70950693139795,
+    "bestRating": 149.80196355119142,
+    "worstRating": 138.70950693139795,
+    "tendency": -5.40491182011246,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      144.1144187515104,
+      149.80196355119142,
+      143.91410461468394,
+      138.77454494970868,
+      144.66239082700307,
+      138.70950693139795
+    ]
   },
   {
     "NAF Nr": "5015",
@@ -7376,12 +14090,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 141.10040756360206,
+    "bestRating": 150.448034203291,
+    "worstRating": 135.77983449867082,
+    "tendency": -3.7111079632293524,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 5,
     "gamesTotal": 9,
-    "winRatio": 38.89
+    "winRatio": 38.89,
+    "_lastTenRatingsYear": [
+      144.8115155268314,
+      150.448034203291,
+      145.01721588471574,
+      139.57659854685235,
+      145.44077636559473,
+      139.54175198104375,
+      135.77983449867082,
+      140.7587701943483,
+      141.10040756360206
+    ]
   },
   {
     "NAF Nr": "5017",
@@ -7389,12 +14117,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 142.67042028978264,
+    "bestRating": 157.68456862403193,
+    "worstRating": 142.56503059926249,
+    "tendency": -15.014148334249285,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      157.68456862403193,
+      149.0129255335306,
+      149.55730017146297,
+      142.56503059926249,
+      142.99982727705859,
+      142.67042028978264
+    ]
   },
   {
     "NAF Nr": "5024",
@@ -7402,12 +14141,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 147.6438051058608,
+    "bestRating": 152.34374954908256,
+    "worstRating": 144.63303632102222,
+    "tendency": -4.699944443221767,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      152.34374954908256,
+      144.63303632102222,
+      146.2858222579775,
+      147.6438051058608
+    ]
   },
   {
     "NAF Nr": "5089",
@@ -7415,12 +14163,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 136.4575077531283,
+    "bestRating": 147.17157287525382,
+    "worstRating": 136.4575077531283,
+    "tendency": -10.714065122125504,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 5,
     "gamesTotal": 6,
-    "winRatio": 8.33
+    "winRatio": 8.33,
+    "_lastTenRatingsYear": [
+      147.17157287525382,
+      144.34314575050763,
+      144.46586634568197,
+      141.69349903538372,
+      139.22343061178097,
+      136.4575077531283
+    ]
   },
   {
     "NAF Nr": "5091",
@@ -7428,12 +14187,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 144.15183822052353,
+    "bestRating": 144.34314575050763,
+    "worstRating": 144.10832883347064,
+    "tendency": -0.19130752998410117,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      144.34314575050763,
+      144.10832883347064,
+      144.15183822052353
+    ]
   },
   {
     "NAF Nr": "5112",
@@ -7441,12 +14209,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 139.3817950828314,
+    "bestRating": 145.07021695370156,
+    "worstRating": 139.1897284474311,
+    "tendency": -5.487637804120766,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      144.86943288695215,
+      139.1897284474311,
+      145.07021695370156,
+      139.3817950828314
+    ]
   },
   {
     "NAF Nr": "5131",
@@ -7454,12 +14231,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 127.69979138180831,
+    "bestRating": 142.25403330758516,
+    "worstRating": 127.22048024421373,
+    "tendency": -14.55424192577685,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 5,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      134.50806661517032,
+      127.22048024421373,
+      135.40418644531871,
+      127.69979138180831
+    ]
   },
   {
     "NAF Nr": "5132",
@@ -7467,12 +14254,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 132.2592725696943,
+    "bestRating": 148.7246059329731,
+    "worstRating": 132.2592725696943,
+    "tendency": -9.167684332233137,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      141.42695690192744,
+      148.7246059329731,
+      140.6199305722372,
+      132.2592725696943
+    ]
   },
   {
     "NAF Nr": "5133",
@@ -7480,12 +14276,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 134.98890930789509,
+    "bestRating": 142.25403330758516,
+    "worstRating": 126.40747257748635,
+    "tendency": -7.265123999690076,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      134.50806661517032,
+      134.59117877859134,
+      126.40747257748635,
+      134.60707611786972,
+      134.98890930789509
+    ]
   },
   {
     "NAF Nr": "5134",
@@ -7493,12 +14300,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 148.69767527144492,
+    "bestRating": 158.22070260537373,
+    "worstRating": 148.69767527144492,
+    "tendency": -1.302324728555078,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      150,
+      150.07857033579,
+      158.22070260537373,
+      148.69767527144492
+    ]
   },
   {
     "NAF Nr": "5135",
@@ -7506,12 +14322,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 128.7663247897446,
+    "bestRating": 143.50121841241327,
+    "worstRating": 128.7663247897446,
+    "tendency": -14.734893622668665,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      143.50121841241327,
+      135.614016098462,
+      128.7663247897446
+    ]
   },
   {
     "NAF Nr": "5136",
@@ -7519,12 +14343,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 120.61593906244748,
+    "bestRating": 141.26697406637845,
+    "worstRating": 119.33353838002853,
+    "tendency": -20.65103500393097,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 7,
     "gamesTotal": 9,
-    "winRatio": 22.22
+    "winRatio": 22.22,
+    "_lastTenRatingsYear": [
+      141.26697406637845,
+      133.87774824413367,
+      126.580099213088,
+      119.33353838002853,
+      128.35657392749002,
+      123.6308834596199,
+      130.25873334997576,
+      125.44633725449059,
+      120.61593906244748
+    ]
   },
   {
     "NAF Nr": "5137",
@@ -7532,12 +14370,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 149.68030270262716,
+    "bestRating": 158.34826173061742,
+    "worstRating": 142.25403330758516,
+    "tendency": 7.426269395041999,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      142.28132180668996,
+      150.07618272571048,
+      158.34826173061742,
+      149.68030270262716
+    ]
   },
   {
     "NAF Nr": "5138",
@@ -7545,12 +14393,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 140.94528186791672,
+    "bestRating": 150.48031855697258,
+    "worstRating": 133.01366450561028,
+    "tendency": -1.3087514396684412,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      150.48031855697258,
+      149.9909691975016,
+      142.03044282980565,
+      133.01366450561028,
+      140.94528186791672
+    ]
   },
   {
     "NAF Nr": "5139",
@@ -7558,12 +14417,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 118.22782006108089,
+    "bestRating": 142.25364771535345,
+    "worstRating": 118.22782006108089,
+    "tendency": -24.02582765427256,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 4,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      142.25364771535345,
+      134.04645507518467,
+      125.84685153480129,
+      118.22782006108089
+    ]
   },
   {
     "NAF Nr": "5143",
@@ -7571,12 +14439,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 144.74733089900707,
+    "bestRating": 157.74596669241484,
+    "worstRating": 144.2258749873834,
+    "tendency": -12.998635793407772,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      157.74596669241484,
+      151.60714316744213,
+      144.2258749873834,
+      151.88194127977775,
+      144.74733089900707
+    ]
   },
   {
     "NAF Nr": "5144",
@@ -7584,12 +14462,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 129.47703818045434,
+    "bestRating": 142.25403330758516,
+    "worstRating": 120.46025985625896,
+    "tendency": -12.776995127130817,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 5,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      134.50806661517032,
+      127.80990218845012,
+      120.46025985625896,
+      129.47703818045434
+    ]
   },
   {
     "NAF Nr": "5146",
@@ -7597,12 +14485,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 133.95350881005567,
+    "bestRating": 150,
+    "worstRating": 133.95350881005567,
+    "tendency": -16.046491189944334,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      150,
+      142.71398702577594,
+      134.8237840325447,
+      133.95350881005567
+    ]
   },
   {
     "NAF Nr": "5147",
@@ -7610,12 +14507,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 152.69906076532837,
+    "bestRating": 163.61558101496854,
+    "worstRating": 152.69906076532837,
+    "tendency": -3.95728662940337,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      156.65634739473174,
+      163.61558101496854,
+      154.96022484502186,
+      161.5267224931589,
+      152.69906076532837
+    ]
   },
   {
     "NAF Nr": "5148",
@@ -7623,12 +14530,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 135.2819622968391,
+    "bestRating": 142.25403330758516,
+    "worstRating": 128.44748985584914,
+    "tendency": -6.972071010746049,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      134.96804181883766,
+      128.44748985584914,
+      136.55857107821726,
+      128.80435684225037,
+      135.2819622968391
+    ]
   },
   {
     "NAF Nr": "5149",
@@ -7636,12 +14554,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 156.93229930714728,
+    "bestRating": 157.773313250665,
+    "worstRating": 142.25403330758516,
+    "tendency": 14.678265999562115,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      150,
+      157.773313250665,
+      149.88607274906548,
+      149.45127607126938,
+      156.93229930714728
+    ]
   },
   {
     "NAF Nr": "5150",
@@ -7649,12 +14578,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 156.28640642727026,
+    "bestRating": 165.37209266172363,
+    "worstRating": 148.60582296071235,
+    "tendency": -1.837400532084132,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      158.1238069593544,
+      165.37209266172363,
+      156.74795523029607,
+      148.60582296071235,
+      156.28640642727026
+    ]
   },
   {
     "NAF Nr": "5151",
@@ -7662,12 +14601,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 131.98885921839664,
+    "bestRating": 157.74596669241484,
+    "worstRating": 131.98885921839664,
+    "tendency": -25.7571074740182,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      157.74596669241484,
+      149.17953408333125,
+      141.01189476585813,
+      131.98885921839664
+    ]
   },
   {
     "NAF Nr": "5152",
@@ -7675,12 +14623,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 135.16039715968003,
+    "bestRating": 142.7136686068943,
+    "worstRating": 126.94197301688973,
+    "tendency": -7.553271447214257,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      142.7136686068943,
+      135.05760231449995,
+      126.94197301688973,
+      135.16039715968003
+    ]
   },
   {
     "NAF Nr": "5153",
@@ -7688,12 +14645,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 145.98846550609616,
+    "bestRating": 164.8092882391363,
+    "worstRating": 145.98846550609616,
+    "tendency": -3.5933612486303446,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 4,
     "gamesLost": 3,
     "gamesTotal": 10,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      149.5818267547265,
+      155.98416060958186,
+      154.7411305404026,
+      153.51378738152812,
+      158.2413424853019,
+      164.8092882391363,
+      157.42760797980264,
+      157.30230104136442,
+      151.63563677487736,
+      145.98846550609616
+    ]
   },
   {
     "NAF Nr": "5154",
@@ -7701,12 +14673,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 143.08541048095825,
+    "bestRating": 143.10374109990715,
+    "worstRating": 135.30888018088663,
+    "tendency": 0.8313771733730846,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      142.25403330758516,
+      143.10374109990715,
+      135.30888018088663,
+      143.08541048095825
+    ]
   },
   {
     "NAF Nr": "5189",
@@ -7714,12 +14695,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 138.92840711585922,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.26198933993248,
+    "tendency": -5.414738634648415,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      138.9317463597487,
+      133.26198933993248,
+      138.92840711585922
+    ]
   },
   {
     "NAF Nr": "5206",
@@ -7727,12 +14717,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 140.0308505436785,
+    "bestRating": 155.6684095055019,
+    "worstRating": 140.0308505436785,
+    "tendency": -9.985056681285727,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 3,
     "gamesTotal": 8,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      150.01590722496422,
+      155.6684095055019,
+      155.4419228531123,
+      149.7534107051531,
+      150.7310783719579,
+      150.3828901997664,
+      144.83917791167661,
+      140.0308505436785
+    ]
   },
   {
     "NAF Nr": "5207",
@@ -7740,12 +14743,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "rating": 147.3789155246692,
+    "bestRating": 147.3789155246692,
+    "worstRating": 145.3200877182454,
+    "tendency": 2.058827806423807,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      145.3200877182454,
+      146.5903386751953,
+      147.1199882821411,
+      147.3789155246692
+    ]
   },
   {
     "NAF Nr": "5225",
@@ -7753,12 +14765,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 146.52907355214268,
+    "bestRating": 149.93177869982702,
+    "worstRating": 146.52907355214268,
+    "tendency": -0.6279637855483315,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      147.157037337691,
+      149.93177869982702,
+      149.85768632709247,
+      146.52907355214268
+    ]
   },
   {
     "NAF Nr": "5227",
@@ -7766,12 +14787,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 142.26921641349296,
+    "bestRating": 153.77310586676055,
+    "worstRating": 142.26921641349296,
+    "tendency": -7.7307835865070444,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 7,
-    "winRatio": 28.57
+    "winRatio": 28.57,
+    "_lastTenRatingsYear": [
+      150,
+      150.53409984654814,
+      153.77310586676055,
+      150.52145048240658,
+      147.94780045021184,
+      144.90336172770063,
+      142.26921641349296
+    ]
   },
   {
     "NAF Nr": "5236",
@@ -7779,12 +14812,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 138.53060999545377,
+    "bestRating": 150,
+    "worstRating": 137.8086476493465,
+    "tendency": 0.7219623461072615,
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 8,
     "gamesTotal": 14,
-    "winRatio": 39.29
+    "winRatio": 39.29,
+    "_lastTenRatingsYear": [
+      137.8086476493465,
+      144.35579189117257,
+      140.6504847825918,
+      144.68616904942348,
+      148.61670143040772,
+      144.4655747611923,
+      140.88507697913465,
+      138.20337706982227,
+      141.22618767975263,
+      138.53060999545377
+    ]
   },
   {
     "NAF Nr": "5244",
@@ -7792,12 +14840,18 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 147.3542486889354,
+    "bestRating": 147.3542486889354,
+    "worstRating": 147.3542486889354,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      147.3542486889354
+    ]
   },
   {
     "NAF Nr": "5245",
@@ -7805,12 +14859,18 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 147.3542486889354,
+    "bestRating": 147.3542486889354,
+    "worstRating": 147.3542486889354,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      147.3542486889354
+    ]
   },
   {
     "NAF Nr": "5246",
@@ -7818,12 +14878,18 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 147.60840377470518,
+    "bestRating": 147.60840377470518,
+    "worstRating": 147.60840377470518,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      147.60840377470518
+    ]
   },
   {
     "NAF Nr": "5248",
@@ -7831,12 +14897,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 147.3594419703196,
+    "bestRating": 152.6457513110646,
+    "worstRating": 147.3594419703196,
+    "tendency": -5.286309340744992,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      152.6457513110646,
+      149.94628039840856,
+      147.3594419703196
+    ]
   },
   {
     "NAF Nr": "5249",
@@ -7844,12 +14918,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 150.00196206612281,
+    "bestRating": 152.69947091265604,
+    "worstRating": 150.00196206612281,
+    "tendency": -2.697508846533225,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      152.69947091265604,
+      150.00196206612281
+    ]
   },
   {
     "NAF Nr": "5256",
@@ -7857,12 +14938,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 147.0535742511457,
+    "bestRating": 149.78354180566888,
+    "worstRating": 140.14696109534947,
+    "tendency": -2.7299675545231707,
     "tournaments": 3,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 3,
     "gamesTotal": 8,
-    "winRatio": 43.75
+    "winRatio": 43.75,
+    "_lastTenRatingsYear": [
+      149.78354180566888,
+      143.89099831327812,
+      140.14696109534947,
+      145.98404065812858,
+      140.50149597418257,
+      146.73534406183347,
+      145.97419390494505,
+      147.0535742511457
+    ]
   },
   {
     "NAF Nr": "5262",
@@ -7870,12 +14964,21 @@ const statsYear2004 = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 152.91655932021183,
+    "bestRating": 154.9439420794736,
+    "worstRating": 149.3057652145852,
+    "tendency": 2.9261701684176273,
     "tournaments": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      149.9903891517942,
+      154.9439420794736,
+      149.3057652145852,
+      152.91655932021183
+    ]
   },
   {
     "NAF Nr": "5269",
@@ -7883,12 +14986,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 144.0836895802875,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.0836895802875,
+    "tendency": -11.573164669204857,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      150,
+      155.3844905043106,
+      149.72912727568743,
+      144.0836895802875
+    ]
   },
   {
     "NAF Nr": "5270",
@@ -7896,12 +15009,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 138.0201661515091,
+    "bestRating": 155.65685424949237,
+    "worstRating": 138.0201661515091,
+    "tendency": -17.636688097983267,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      150.00037018660143,
+      144.1086829750214,
+      143.90391316258388,
+      138.0201661515091
+    ]
   },
   {
     "NAF Nr": "5271",
@@ -7909,12 +15032,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 172.01831835307374,
+    "bestRating": 172.01831835307374,
+    "worstRating": 150,
+    "tendency": 22.018318353073738,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 0,
     "gamesTotal": 6,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatingsYear": [
+      150,
+      155.41139939075893,
+      155.4633014267602,
+      160.90390881516743,
+      166.5785850870506,
+      172.01831835307374
+    ]
   },
   {
     "NAF Nr": "5272",
@@ -7922,12 +15056,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 120.31785936099479,
+    "bestRating": 144.34314575050763,
+    "worstRating": 111.64397325136721,
+    "tendency": 2.9095873502068486,
     "tournaments": 3,
     "gamesWon": 4,
     "gamesDraw": 4,
     "gamesLost": 13,
     "gamesTotal": 21,
-    "winRatio": 28.57
+    "winRatio": 28.57,
+    "_lastTenRatingsYear": [
+      117.40827201078794,
+      115.23073626593626,
+      119.88266990555552,
+      120.4801018010265,
+      116.0852268663037,
+      111.64397325136721,
+      117.49610783635681,
+      112.91636832970403,
+      113.47507959645925,
+      120.31785936099479
+    ]
   },
   {
     "NAF Nr": "5278",
@@ -7935,12 +15084,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 149.99989636443294,
+    "bestRating": 154.9515124504704,
+    "worstRating": 149.99989636443294,
+    "tendency": -4.951616086037461,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      154.9515124504704,
+      151.02796370146143,
+      150.31355076412495,
+      149.99989636443294
+    ]
   },
   {
     "NAF Nr": "5283",
@@ -7948,12 +15106,18 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 144.34314575050763,
+    "bestRating": 144.34314575050763,
+    "worstRating": 144.34314575050763,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      144.34314575050763
+    ]
   },
   {
     "NAF Nr": "5290",
@@ -7961,12 +15125,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 175.5410004209576,
+    "bestRating": 175.5410004209576,
+    "worstRating": 150.90752316509187,
+    "tendency": 24.633477255865728,
     "tournaments": 2,
     "gamesWon": 7,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 11,
-    "winRatio": 72.73
+    "winRatio": 72.73,
+    "_lastTenRatingsYear": [
+      150.90752316509187,
+      156.60013577645353,
+      151.9328364345643,
+      157.8262081362917,
+      164.6263564045369,
+      168.49796443284552,
+      168.56508547204473,
+      172.46194497114718,
+      171.85902569357717,
+      175.5410004209576
+    ]
   },
   {
     "NAF Nr": "5305",
@@ -7974,12 +15153,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 151.04890895830945,
+    "bestRating": 151.21910102196088,
+    "worstRating": 140.0109684316717,
+    "tendency": -0.17019206365142736,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      151.21910102196088,
+      145.74217604659202,
+      140.0109684316717,
+      145.42881466927747,
+      151.04890895830945
+    ]
   },
   {
     "NAF Nr": "5324",
@@ -7987,12 +15176,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 120.94584571934479,
+    "bestRating": 147.05741189842564,
+    "worstRating": 117.77494149120862,
+    "tendency": -20.669529501811297,
     "tournaments": 3,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 9,
     "gamesTotal": 14,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      141.61537522115609,
+      136.7996786752139,
+      137.17429774566412,
+      131.91785774309994,
+      127.14807233835595,
+      121.84498728381024,
+      117.77494149120862,
+      123.42648151159345,
+      124.43496216062347,
+      120.94584571934479
+    ]
   },
   {
     "NAF Nr": "5326",
@@ -8000,12 +15204,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 161.53100602554358,
+    "bestRating": 161.53100602554358,
+    "worstRating": 150,
+    "tendency": 11.531006025543576,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 3,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatingsYear": [
+      150,
+      155.88401460551157,
+      161.53100602554358
+    ]
   },
   {
     "NAF Nr": "5334",
@@ -8013,12 +15225,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 125.18768176120588,
+    "bestRating": 149.0474833818785,
+    "worstRating": 125.18768176120588,
+    "tendency": -19.578193169732742,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 7,
     "gamesTotal": 8,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatingsYear": [
+      144.76587493093862,
+      149.0474833818785,
+      144.83966243015627,
+      141.37152936167385,
+      137.03969023296534,
+      133.21780330928215,
+      129.52066773054455,
+      125.18768176120588
+    ]
   },
   {
     "NAF Nr": "5341",
@@ -8026,12 +15251,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 160.79892948037798,
+    "bestRating": 166.53086787955115,
+    "worstRating": 144.04008801489508,
+    "tendency": 16.758841465482902,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 10,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      144.04008801489508,
+      150.66272128671395,
+      150.982547209952,
+      150.70184202344208,
+      156.04310398451594,
+      160.32189159510582,
+      165.62241263610002,
+      160.7929370853926,
+      166.53086787955115,
+      160.79892948037798
+    ]
   },
   {
     "NAF Nr": "5408",
@@ -8039,12 +15279,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "rating": 144.1194885809385,
+    "bestRating": 150,
+    "worstRating": 144.1194885809385,
+    "tendency": -5.8805114190614916,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      150,
+      146.76130661124833,
+      144.19666852529016,
+      147.43457995997002,
+      144.1194885809385
+    ]
   },
   {
     "NAF Nr": "5434",
@@ -8052,12 +15302,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 149.87970087774218,
+    "bestRating": 157.39805387303292,
+    "worstRating": 149.87970087774218,
+    "tendency": -3.9314885702363256,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      153.8111894479785,
+      153.59075557411234,
+      157.39805387303292,
+      153.24341067888258,
+      149.87970087774218
+    ]
   },
   {
     "NAF Nr": "5446",
@@ -8065,12 +15325,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 145.81557988180023,
+    "bestRating": 150.2750142941742,
+    "worstRating": 136.1715182237673,
+    "tendency": -4.184420118199768,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 5,
     "gamesTotal": 10,
-    "winRatio": 45
+    "winRatio": 45,
+    "_lastTenRatingsYear": [
+      150,
+      144,
+      150.2750142941742,
+      144.30480572399517,
+      140.47526936162555,
+      136.1715182237673,
+      140.72140429035375,
+      136.66121569935163,
+      141.3762740154032,
+      145.81557988180023
+    ]
   },
   {
     "NAF Nr": "5454",
@@ -8078,12 +15353,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 144.89330164252172,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.8229709227007,
+    "tendency": -10.763552606970649,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      155.65685424949237,
+      150.04206868057648,
+      144.8229709227007,
+      144.89330164252172
+    ]
   },
   {
     "NAF Nr": "5456",
@@ -8091,12 +15376,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 127.16707069007292,
+    "bestRating": 150.07975449094698,
+    "worstRating": 127.0905489547034,
+    "tendency": -22.912683800874063,
     "tournaments": 2,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 5,
     "gamesTotal": 8,
-    "winRatio": 18.75
+    "winRatio": 18.75,
+    "_lastTenRatingsYear": [
+      150.07975449094698,
+      145.8554399525177,
+      145.84774889465652,
+      141.57899286029718,
+      136.7220722892956,
+      131.97749810569624,
+      127.0905489547034,
+      127.16707069007292
+    ]
   },
   {
     "NAF Nr": "5457",
@@ -8104,12 +15402,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 145.0822779379001,
+    "bestRating": 150.13810629399683,
+    "worstRating": 145.0822779379001,
+    "tendency": -0.675081374980607,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      145.7573593128807,
+      150.13810629399683,
+      145.93864664196937,
+      145.0822779379001
+    ]
   },
   {
     "NAF Nr": "5458",
@@ -8117,12 +15424,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 149.9611325615148,
+    "bestRating": 150,
+    "worstRating": 145.61925301888388,
+    "tendency": -0.038867438485198136,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      150,
+      145.61925301888388,
+      145.62694407674508,
+      149.9611325615148
+    ]
   },
   {
     "NAF Nr": "5462",
@@ -8130,12 +15446,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 140.20026263762628,
+    "bestRating": 144.9009804864072,
+    "worstRating": 140.20026263762628,
+    "tendency": -4.700717848780926,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      144.9009804864072,
+      140.20026263762628
+    ]
   },
   {
     "NAF Nr": "5464",
@@ -8143,12 +15466,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 144.45794446359074,
+    "bestRating": 155.41139939075893,
+    "worstRating": 138.59822045106117,
+    "tendency": -5.542055536409265,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      150,
+      155.41139939075893,
+      150.00991629762717,
+      144.5562155416046,
+      138.59822045106117,
+      144.45794446359074
+    ]
   },
   {
     "NAF Nr": "5509",
@@ -8156,12 +15490,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 152.4494897427832,
+    "bestRating": 152.4494897427832,
+    "worstRating": 152.4494897427832,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 2,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      152.4494897427832,
+      152.4494897427832
+    ]
   },
   {
     "NAF Nr": "5527",
@@ -8169,12 +15510,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 168.93808298367827,
+    "bestRating": 168.93808298367827,
+    "worstRating": 155.56776436283002,
+    "tendency": 13.370318620848252,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      155.56776436283002,
+      161.13015585894584,
+      166.7252079537267,
+      166.81368602168345,
+      161.06100835059107,
+      168.93808298367827
+    ]
   },
   {
     "NAF Nr": "5528",
@@ -8182,12 +15534,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 146.84331958547898,
+    "bestRating": 152.8530227102396,
+    "worstRating": 144.86757244853348,
+    "tendency": 1.9757471369455004,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      144.86757244853348,
+      147.7210708413218,
+      147.16960402530285,
+      147.15517896247843,
+      152.8530227102396,
+      146.84331958547898
+    ]
   },
   {
     "NAF Nr": "5529",
@@ -8195,12 +15558,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 139.0823167370582,
+    "bestRating": 155.56776436283002,
+    "worstRating": 138.3542188887828,
+    "tendency": -16.485447625771826,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      155.56776436283002,
+      149.97980517226722,
+      144.04496073318674,
+      138.52675082693992,
+      138.3542188887828,
+      139.0823167370582
+    ]
   },
   {
     "NAF Nr": "5530",
@@ -8208,12 +15582,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 134.93957091029625,
+    "bestRating": 155.56776436283002,
+    "worstRating": 134.93957091029625,
+    "tendency": -20.628193452533765,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      155.56776436283002,
+      150.02826602785615,
+      150.3004394875645,
+      144.47982077911735,
+      139.94866051793574,
+      134.93957091029625
+    ]
   },
   {
     "NAF Nr": "5531",
@@ -8221,12 +15606,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "rating": 157.91667931492393,
+    "bestRating": 157.91667931492393,
+    "worstRating": 144.41485907414724,
+    "tendency": 13.484443677753944,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 10,
-    "winRatio": 55
+    "winRatio": 55,
+    "_lastTenRatingsYear": [
+      144.43223563716998,
+      144.41485907414724,
+      150.23333142173453,
+      156.87426156975602,
+      151.60821379828292,
+      146.2282085131294,
+      151.8651088444487,
+      147.1046189615284,
+      152.53994276903904,
+      157.91667931492393
+    ]
   },
   {
     "NAF Nr": "5532",
@@ -8234,12 +15634,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 161.38353778894822,
+    "bestRating": 161.76870692856738,
+    "worstRating": 156.0035325037947,
+    "tendency": 5.1543291953547055,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      156.2292085935935,
+      161.76870692856738,
+      156.1736548337865,
+      161.3633203165768,
+      156.0035325037947,
+      161.38353778894822
+    ]
   },
   {
     "NAF Nr": "5553",
@@ -8247,12 +15658,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 138.6494514594937,
+    "bestRating": 144.43223563716998,
+    "worstRating": 133.32178437887566,
+    "tendency": -5.782784177676291,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      144.43223563716998,
+      138.87721720633118,
+      133.32178437887566,
+      139.18986737552586,
+      133.346366404948,
+      138.6494514594937
+    ]
   },
   {
     "NAF Nr": "5570",
@@ -8260,12 +15682,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "rating": 146.53834664941388,
+    "bestRating": 150,
+    "worstRating": 146.53834664941388,
+    "tendency": -3.4616533505861184,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      150,
+      146.53834664941388
+    ]
   },
   {
     "NAF Nr": "5572",
@@ -8273,12 +15702,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "rating": 146.53589838486224,
+    "bestRating": 150,
+    "worstRating": 146.53589838486224,
+    "tendency": -3.464101615137764,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      150,
+      146.53589838486224
+    ]
   },
   {
     "NAF Nr": "5573",
@@ -8286,12 +15722,18 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "rating": 146.53589838486224,
+    "bestRating": 146.53589838486224,
+    "worstRating": 146.53589838486224,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      146.53589838486224
+    ]
   },
   {
     "NAF Nr": "5575",
@@ -8299,12 +15741,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "rating": 149.82317267127453,
+    "bestRating": 156.925755010465,
+    "worstRating": 149.82317267127453,
+    "tendency": -0.2689090353421477,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      150.09208170661668,
+      153.5537350572028,
+      156.925755010465,
+      153.28012810309906,
+      149.82317267127453
+    ]
   },
   {
     "NAF Nr": "5576",
@@ -8312,12 +15764,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "rating": 149.82073147669462,
+    "bestRating": 153.46410161513776,
+    "worstRating": 149.82073147669462,
+    "tendency": -3.643370138443146,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      153.46410161513776,
+      153.3720199085211,
+      153.28238478250802,
+      149.82073147669462
+    ]
   },
   {
     "NAF Nr": "5584",
@@ -8325,12 +15786,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "rating": 147.60193708618473,
+    "bestRating": 147.60193708618473,
+    "worstRating": 141.13362596525423,
+    "tendency": 0.3539854731524201,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      147.2479516130323,
+      144.07571715601048,
+      141.13362596525423,
+      144.44871734428574,
+      147.60193708618473
+    ]
   },
   {
     "NAF Nr": "5585",
@@ -8338,12 +15809,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 124.01051618933322,
+    "bestRating": 150,
+    "worstRating": 124.01051618933322,
+    "tendency": -25.989483810666783,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 5,
     "gamesTotal": 6,
-    "winRatio": 8.33
+    "winRatio": 8.33,
+    "_lastTenRatingsYear": [
+      150,
+      144.69546735984648,
+      140.40516458739123,
+      135.07901849071928,
+      129.30985263089414,
+      124.01051618933322
+    ]
   },
   {
     "NAF Nr": "5587",
@@ -8351,12 +15833,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 149.97697550542657,
+    "bestRating": 151.73205080756887,
+    "worstRating": 149.97697550542657,
+    "tendency": -1.755075302142302,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      151.73205080756887,
+      149.97697550542657
+    ]
   },
   {
     "NAF Nr": "5588",
@@ -8364,12 +15853,18 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 148.26794919243113,
+    "bestRating": 148.26794919243113,
+    "worstRating": 148.26794919243113,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      148.26794919243113
+    ]
   },
   {
     "NAF Nr": "5593",
@@ -8377,12 +15872,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 154.89717920123422,
+    "bestRating": 154.89717920123422,
+    "worstRating": 151.21552460390515,
+    "tendency": 0.07086049170243314,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      154.8263187095318,
+      151.21552460390515,
+      154.89717920123422
+    ]
   },
   {
     "NAF Nr": "5595",
@@ -8390,12 +15893,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 161.0871122288435,
+    "bestRating": 165.92601577223797,
+    "worstRating": 144.90878645679504,
+    "tendency": 16.178325772048453,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      144.90878645679504,
+      150.19916196278922,
+      155.09094383518874,
+      160.3819400138734,
+      165.92601577223797,
+      161.0871122288435
+    ]
   },
   {
     "NAF Nr": "5600",
@@ -8403,12 +15917,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 145.09264154561836,
+    "bestRating": 150,
+    "worstRating": 145.09264154561836,
+    "tendency": -4.907358454381637,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      150,
+      145.09264154561836
+    ]
   },
   {
     "NAF Nr": "5605",
@@ -8416,12 +15937,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 127.81583836946754,
+    "bestRating": 144.8800497046675,
+    "worstRating": 127.81583836946754,
+    "tendency": -17.064211335199957,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 4,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      144.8800497046675,
+      139.1998843122441,
+      133.48225614539427,
+      127.81583836946754
+    ]
   },
   {
     "NAF Nr": "5611",
@@ -8429,12 +15959,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 138.8896271006496,
+    "bestRating": 146.357118775387,
+    "worstRating": 138.8896271006496,
+    "tendency": -7.467491674737403,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      146.357118775387,
+      142.76046951630033,
+      138.8896271006496
+    ]
   },
   {
     "NAF Nr": "5623",
@@ -8442,12 +15980,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 157.90414579624985,
+    "bestRating": 157.90414579624985,
+    "worstRating": 153.8729833462074,
+    "tendency": 4.031162450042444,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 0,
     "gamesTotal": 4,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      153.8729833462074,
+      154.43158501468895,
+      154.3236480141922,
+      157.90414579624985
+    ]
   },
   {
     "NAF Nr": "5624",
@@ -8455,12 +16002,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 147.83721497209078,
+    "bestRating": 150.90754779433132,
+    "worstRating": 137.70259615679063,
+    "tendency": 5.8052787707164555,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 5,
     "gamesTotal": 11,
-    "winRatio": 45.45
+    "winRatio": 45.45,
+    "_lastTenRatingsYear": [
+      142.03193620137432,
+      137.70259615679063,
+      142.07176197086645,
+      138.0785681877031,
+      142.28566985041036,
+      146.3877036655566,
+      146.60813753942276,
+      150.79961079383457,
+      150.90754779433132,
+      147.83721497209078
+    ]
   },
   {
     "NAF Nr": "5625",
@@ -8468,12 +16030,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 132.54265467316804,
+    "bestRating": 146.1270166537926,
+    "worstRating": 132.54265467316804,
+    "tendency": -13.58436198062455,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 5,
     "gamesTotal": 5,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      146.1270166537926,
+      142.91147207621955,
+      139.0141093780842,
+      136.19793947194393,
+      132.54265467316804
+    ]
   },
   {
     "NAF Nr": "5626",
@@ -8481,12 +16053,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 138.4952106821466,
+    "bestRating": 146.1270166537926,
+    "worstRating": 138.4952106821466,
+    "tendency": -7.631805971646003,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 5,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatingsYear": [
+      146.1270166537926,
+      142.09133238696091,
+      145.98869508509625,
+      142.33674064131816,
+      138.4952106821466
+    ]
   },
   {
     "NAF Nr": "5636",
@@ -8494,12 +16076,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 150.87966098451642,
+    "bestRating": 151.22921919351805,
+    "worstRating": 142.47153905192908,
+    "tendency": 4.133275747393839,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      146.74638523712258,
+      142.47153905192908,
+      146.8272596546639,
+      151.22921919351805,
+      146.51416087746648,
+      150.87966098451642
+    ]
   },
   {
     "NAF Nr": "5641",
@@ -8507,12 +16100,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 141.15417517988843,
+    "bestRating": 144.92498462306028,
+    "worstRating": 136.54258583611227,
+    "tendency": -3.7708094431718564,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      144.92498462306028,
+      140.92212766583384,
+      141.23578206552585,
+      136.54258583611227,
+      141.15417517988843
+    ]
   },
   {
     "NAF Nr": "5642",
@@ -8520,12 +16123,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 148.00541332480597,
+    "bestRating": 153.75624533406932,
+    "worstRating": 148.00541332480597,
+    "tendency": -2.541574742305073,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      150.54698806711104,
+      153.69598965114034,
+      150.45698363092794,
+      153.75624533406932,
+      151.16708989010735,
+      148.00541332480597
+    ]
   },
   {
     "NAF Nr": "5643",
@@ -8533,12 +16147,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "rating": 160.05273770689791,
+    "bestRating": 160.05273770689791,
+    "worstRating": 146.8509984159707,
+    "tendency": 13.201739290927208,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 80
+    "winRatio": 80,
+    "_lastTenRatingsYear": [
+      146.8509984159707,
+      150.08969180472238,
+      153.34134718907634,
+      156.91635233095124,
+      160.05273770689791
+    ]
   },
   {
     "NAF Nr": "5644",
@@ -8546,12 +16170,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "rating": 140.9223031738953,
+    "bestRating": 147.31343435047415,
+    "worstRating": 140.9223031738953,
+    "tendency": -6.3911311765788525,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      147.31343435047415,
+      144.0755229157943,
+      140.9223031738953
+    ]
   },
   {
     "NAF Nr": "5648",
@@ -8559,12 +16191,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "rating": 152.71316049434776,
+    "bestRating": 156.1043688509246,
+    "worstRating": 152.71316049434776,
+    "tendency": -0.4491171658206099,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      153.16227766016837,
+      156.1043688509246,
+      152.80510714778322,
+      155.84954587029443,
+      152.71316049434776
+    ]
   },
   {
     "NAF Nr": "5654",
@@ -8572,25 +16214,45 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 163.54715778890636,
+    "bestRating": 163.54715778890636,
+    "worstRating": 156.72663163930875,
+    "tendency": 6.820526149597612,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 0,
     "gamesTotal": 2,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatingsYear": [
+      156.72663163930875,
+      163.54715778890636
+    ]
   },
   {
     "NAF Nr": "5663",
     "NAF Name": "yiyo",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 155.7270393307752,
+    "bestRating": 161.01229696492783,
+    "worstRating": 155.37412010003942,
+    "tendency": 0.1091531212500172,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 2,
     "gamesTotal": 8,
-    "winRatio": 56.25
+    "winRatio": 56.25,
+    "_lastTenRatingsYear": [
+      155.61788620952518,
+      155.37412010003942,
+      161.01229696492783,
+      155.83799445545355,
+      160.8258199195673,
+      159.708019623564,
+      159.40869392810427,
+      155.7270393307752
+    ]
   },
   {
     "NAF Nr": "5675",
@@ -8598,12 +16260,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 132.43572841607323,
+    "bestRating": 150,
+    "worstRating": 132.43572841607323,
+    "tendency": -5.564271583926768,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 7,
     "gamesTotal": 12,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      138,
+      143.72388495242924,
+      149.7228325638473,
+      143.17568832202124,
+      143.0216916483989,
+      139.3690926155878,
+      143.69843266017148,
+      139.7948298087838,
+      135.90040449539174,
+      132.43572841607323
+    ]
   },
   {
     "NAF Nr": "5681",
@@ -8611,12 +16288,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 159.44759731387867,
+    "bestRating": 162.01225904523082,
+    "worstRating": 155.47722557505165,
+    "tendency": 3.9703717388270263,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      155.47722557505165,
+      160.65241769019812,
+      162.01225904523082,
+      157.5255555027447,
+      158.5432089716561,
+      159.44759731387867
+    ]
   },
   {
     "NAF Nr": "5682",
@@ -8624,12 +16312,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 138.84217796339712,
+    "bestRating": 145.1160708584853,
+    "worstRating": 133.54284152183618,
+    "tendency": -6.273892895088181,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      145.1160708584853,
+      138.86432498579236,
+      133.62949460579094,
+      139.10565353898733,
+      133.54284152183618,
+      138.84217796339712
+    ]
   },
   {
     "NAF Nr": "5683",
@@ -8637,12 +16336,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 140.89602605562402,
+    "bestRating": 145.9687921570011,
+    "worstRating": 135.20528853040935,
+    "tendency": -5.072766101377084,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      145.9687921570011,
+      140.19912752208003,
+      145.6273016855176,
+      140.54237490530355,
+      135.20528853040935,
+      140.89602605562402
+    ]
   },
   {
     "NAF Nr": "5684",
@@ -8650,12 +16360,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 134.59599627649155,
+    "bestRating": 150.29722707347267,
+    "worstRating": 134.59599627649155,
+    "tendency": -9.611534151296354,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      144.2075304277879,
+      149.69800860129567,
+      150.29722707347267,
+      145.9542675458223,
+      140.28673380170622,
+      134.59599627649155
+    ]
   },
   {
     "NAF Nr": "5685",
@@ -8663,12 +16384,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 129.2115226058725,
+    "bestRating": 144.52277442494835,
+    "worstRating": 128.12796315480662,
+    "tendency": -15.311251819075864,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 5,
     "gamesTotal": 6,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      144.52277442494835,
+      139.03229625144058,
+      133.604122088003,
+      128.12796315480662,
+      133.89712901463176,
+      129.2115226058725
+    ]
   },
   {
     "NAF Nr": "5693",
@@ -8676,12 +16408,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150.57063867427155,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "tendency": 0.5706386742715495,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      150,
+      155.65685424949237,
+      150.57063867427155
+    ]
   },
   {
     "NAF Nr": "5697",
@@ -8689,12 +16429,18 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 155.65685424949237,
+    "bestRating": 155.65685424949237,
+    "worstRating": 155.65685424949237,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
     "gamesTotal": 1,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatingsYear": [
+      155.65685424949237
+    ]
   },
   {
     "NAF Nr": "5698",
@@ -8702,12 +16448,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 156.69649366008068,
+    "bestRating": 162.90896875772026,
+    "worstRating": 155.65685424949237,
+    "tendency": 1.0396394105883076,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      161.31370849898474,
+      161.66237551007063,
+      162.90896875772026,
+      156.69649366008068
+    ]
   },
   {
     "NAF Nr": "5699",
@@ -8715,12 +16471,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 184.57527902013402,
+    "bestRating": 184.57527902013402,
+    "worstRating": 150.2102705568642,
+    "tendency": 34.36500846326982,
     "tournaments": 2,
     "gamesWon": 6,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 7,
-    "winRatio": 92.86
+    "winRatio": 92.86,
+    "_lastTenRatingsYear": [
+      150.2102705568642,
+      155.80100251338388,
+      162.8740896001294,
+      168.79855527873895,
+      173.34934092604914,
+      178.5325613812089,
+      184.57527902013402
+    ]
   },
   {
     "NAF Nr": "5700",
@@ -8728,12 +16496,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 137.15949581499873,
+    "bestRating": 143.86284775077692,
+    "worstRating": 137.15949581499873,
+    "tendency": -6.703351935778187,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      143.86284775077692,
+      138.17029528838594,
+      143.5943397499018,
+      137.15949581499873
+    ]
   },
   {
     "NAF Nr": "5701",
@@ -8741,12 +16518,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 149.95673003630156,
+    "bestRating": 149.95673003630156,
+    "worstRating": 138.67921542926442,
+    "tendency": 5.650424906846496,
     "tournaments": 3,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 10,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      144.30630512945507,
+      138.6810362948418,
+      144.79150353780577,
+      144.8205541532327,
+      144.74570553160513,
+      138.67921542926442,
+      144.55751847612004,
+      139.50185056248725,
+      144.31809831359615,
+      149.95673003630156
+    ]
   },
   {
     "NAF Nr": "5702",
@@ -8754,12 +16546,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 149.70670752076617,
+    "bestRating": 149.97824822897266,
+    "worstRating": 144.19149743466969,
+    "tendency": 5.363561770258542,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      144.5886006092411,
+      144.5686368875115,
+      149.97824822897266,
+      144.19149743466969,
+      149.70670752076617
+    ]
   },
   {
     "NAF Nr": "5703",
@@ -8767,12 +16570,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 149.41324434498182,
+    "bestRating": 155.65685424949237,
+    "worstRating": 149.41324434498182,
+    "tendency": -6.243609904510549,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      155.2555140579701,
+      149.41324434498182
+    ]
   },
   {
     "NAF Nr": "5704",
@@ -8780,12 +16591,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 134.01372368787116,
+    "bestRating": 145.0760959476707,
+    "worstRating": 127.38115862973396,
+    "tendency": -11.062372259799531,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      145.0760959476707,
+      139.1377660108052,
+      139.11106709144082,
+      132.8052030912498,
+      127.38115862973396,
+      134.01372368787116
+    ]
   },
   {
     "NAF Nr": "5705",
@@ -8793,12 +16615,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 157.23181513242068,
+    "bestRating": 162.41503558758043,
+    "worstRating": 144.55471356088893,
+    "tendency": 7.9712609104468015,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 8,
-    "winRatio": 56.25
+    "winRatio": 56.25,
+    "_lastTenRatingsYear": [
+      149.26055422197388,
+      144.55471356088893,
+      150.2103270131892,
+      156.06555681699265,
+      150.9835053710303,
+      156.82577508401857,
+      162.41503558758043,
+      157.23181513242068
+    ]
   },
   {
     "NAF Nr": "5706",
@@ -8806,12 +16641,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 156.1830869678105,
+    "bestRating": 161.6748015009891,
+    "worstRating": 149.15147691983293,
+    "tendency": 0.7323514153616202,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 4,
     "gamesLost": 3,
     "gamesTotal": 11,
-    "winRatio": 54.55
+    "winRatio": 54.55,
+    "_lastTenRatingsYear": [
+      155.4507355524489,
+      149.7938496161094,
+      154.9981434644994,
+      154.78124065868352,
+      149.15147691983293,
+      154.84517179037786,
+      154.63490123351366,
+      155.9818328126548,
+      161.6748015009891,
+      156.1830869678105
+    ]
   },
   {
     "NAF Nr": "5707",
@@ -8819,12 +16669,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 127.71616389120206,
+    "bestRating": 144.34314575050763,
+    "worstRating": 127.68221527091238,
+    "tendency": -16.626981859305573,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      138.52283345603072,
+      138.5495323753951,
+      133.12444951298517,
+      127.68221527091238,
+      127.71616389120206
+    ]
   },
   {
     "NAF Nr": "5709",
@@ -8832,12 +16693,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 183.62637257542156,
+    "bestRating": 184.14797650382815,
+    "worstRating": 144.34314575050763,
+    "tendency": 22.632114785478308,
     "tournaments": 4,
     "gamesWon": 9,
     "gamesDraw": 4,
     "gamesLost": 2,
     "gamesTotal": 15,
-    "winRatio": 73.33
+    "winRatio": 73.33,
+    "_lastTenRatingsYear": [
+      160.99425778994325,
+      165.47937105822345,
+      170.97108559140204,
+      165.0152878092711,
+      165.17256254156112,
+      170.91769764415767,
+      175.88863058714585,
+      180.51686690350712,
+      184.14797650382815,
+      183.62637257542156
+    ]
   },
   {
     "NAF Nr": "5734",
@@ -8845,12 +16721,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 137.6584384143834,
+    "bestRating": 156,
+    "worstRating": 131.59283112417154,
+    "tendency": -18.341561585616603,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      156,
+      150,
+      143.5263526417937,
+      137.54816481263094,
+      131.59283112417154,
+      137.6584384143834
+    ]
   },
   {
     "NAF Nr": "5735",
@@ -8858,12 +16745,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 138.75159897831898,
+    "bestRating": 155.43942678340017,
+    "worstRating": 138.75159897831898,
+    "tendency": -16.687827805081184,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      155.43942678340017,
+      149.76182422938834,
+      144.15483835668002,
+      138.75159897831898
+    ]
   },
   {
     "NAF Nr": "5736",
@@ -8871,12 +16767,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 161.23108954913394,
+    "bestRating": 167.64960009581898,
+    "worstRating": 155.6360019227623,
+    "tendency": 5.595087626371651,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      155.6360019227623,
+      161.51887484281414,
+      167.64960009581898,
+      161.23108954913394
+    ]
   },
   {
     "NAF Nr": "5767",
@@ -8884,12 +16789,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 126.68931328987689,
+    "bestRating": 144.09642392738965,
+    "worstRating": 121.36177887335383,
+    "tendency": -17.40711063751276,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 6,
     "gamesTotal": 9,
-    "winRatio": 22.22
+    "winRatio": 22.22,
+    "_lastTenRatingsYear": [
+      144.09642392738965,
+      138.52933329795042,
+      132.88563987422233,
+      127.09265305956234,
+      127.851235772348,
+      124.37478970899501,
+      125.0800189634295,
+      121.36177887335383,
+      126.68931328987689
+    ]
   },
   {
     "NAF Nr": "5769",
@@ -8897,25 +16816,44 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 139.16656327678572,
+    "bestRating": 144.5886006092411,
+    "worstRating": 139.16656327678572,
+    "tendency": -5.176582473721908,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      144.5886006092411,
+      139.16656327678572
+    ]
   },
   {
     "NAF Nr": "5773",
     "NAF Name": "Mitico",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 157.9223699510937,
+    "bestRating": 162.07329665874852,
+    "worstRating": 150.76457450210887,
+    "tendency": 1.9787341258673905,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      155.94363582522632,
+      150.76457450210887,
+      156.45070202562567,
+      162.07329665874852,
+      156.78033547953655,
+      157.9223699510937
+    ]
   },
   {
     "NAF Nr": "5775",
@@ -8923,12 +16861,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 157.12952055272288,
+    "bestRating": 157.12952055272288,
+    "worstRating": 146.6339731693819,
+    "tendency": 4.773808183069832,
     "tournaments": 3,
     "gamesWon": 7,
     "gamesDraw": 0,
     "gamesLost": 5,
     "gamesTotal": 12,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      152.35571236965305,
+      149.81643284183605,
+      153.13773052128687,
+      149.82675396914865,
+      146.6339731693819,
+      150.04270660167992,
+      153.4402865277626,
+      157.0831677523756,
+      153.2454255151713,
+      157.12952055272288
+    ]
   },
   {
     "NAF Nr": "5776",
@@ -8936,12 +16889,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 140.32381860600356,
+    "bestRating": 147.5505102572168,
+    "worstRating": 140.32381860600356,
+    "tendency": -7.226691651213258,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 4,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      147.5505102572168,
+      145.05461217039712,
+      142.65420086540686,
+      140.32381860600356
+    ]
   },
   {
     "NAF Nr": "5778",
@@ -8949,12 +16911,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 139.20660991546478,
+    "bestRating": 151.00256523252773,
+    "worstRating": 139.20660991546478,
+    "tendency": -11.03715619402098,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      150.24376610948576,
+      145.14156758195608,
+      151.00256523252773,
+      150.34785107571045,
+      144.56272784126935,
+      139.20660991546478
+    ]
   },
   {
     "NAF Nr": "5783",
@@ -8962,12 +16935,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 150.41069948050682,
+    "bestRating": 156.1268655445623,
+    "worstRating": 144.0739555626615,
+    "tendency": -5.589300519493179,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      156,
+      150.07752575520533,
+      144.0739555626615,
+      150.09539643802137,
+      156.1268655445623,
+      150.41069948050682
+    ]
   },
   {
     "NAF Nr": "5787",
@@ -8975,12 +16959,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 166.4892445972774,
+    "bestRating": 170.95858054587043,
+    "worstRating": 144,
+    "tendency": 22.489244597277406,
     "tournaments": 2,
     "gamesWon": 7,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 12,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      144,
+      150,
+      156.27611504757076,
+      156.5279977475008,
+      162.06810220118814,
+      165.9188836204727,
+      162.37565080119265,
+      166.66310262534046,
+      170.95858054587043,
+      166.4892445972774
+    ]
   },
   {
     "NAF Nr": "5790",
@@ -8988,12 +16987,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 153.49465020009416,
+    "bestRating": 158.65497428567528,
+    "worstRating": 144.38792892344927,
+    "tendency": 3.323363676903597,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 3,
     "gamesTotal": 9,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      150.17128652319056,
+      144.38792892344927,
+      149.93786908479893,
+      145.1550228489379,
+      147.72085764554365,
+      152.75752826895885,
+      152.98002962944173,
+      158.65497428567528,
+      153.49465020009416
+    ]
   },
   {
     "NAF Nr": "5791",
@@ -9001,12 +17014,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 138.08388195679515,
+    "bestRating": 143.81541109587658,
+    "worstRating": 137.50381576580682,
+    "tendency": -5.395980727683053,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      143.4798626844782,
+      137.50381576580682,
+      143.81541109587658,
+      143.81119616189952,
+      138.08388195679515
+    ]
   },
   {
     "NAF Nr": "5795",
@@ -9014,12 +17037,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 157.92722616231882,
+    "bestRating": 178.3071240556328,
+    "worstRating": 155.63948536099767,
+    "tendency": -3.3698675698881857,
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 3,
     "gamesLost": 3,
     "gamesTotal": 11,
-    "winRatio": 59.09
+    "winRatio": 59.09,
+    "_lastTenRatingsYear": [
+      161.297093732207,
+      166.69857682533876,
+      173.50276887550794,
+      172.78579522001615,
+      178.21883484620264,
+      178.3071240556328,
+      171.44021246877438,
+      170.19028873967554,
+      163.43798668937393,
+      157.92722616231882
+    ]
   },
   {
     "NAF Nr": "5796",
@@ -9027,12 +17065,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 143.31656797887888,
+    "bestRating": 143.31656797887888,
+    "worstRating": 137.49501104030497,
+    "tendency": 0.21877157153696203,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      143.09779640734192,
+      137.49501104030497,
+      137.54673256742777,
+      143.31656797887888
+    ]
   },
   {
     "NAF Nr": "5797",
@@ -9040,12 +17087,24 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 147.88807438464156,
+    "bestRating": 159.926506238118,
+    "worstRating": 147.60331332078204,
+    "tendency": -7.7687798648508135,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 7,
-    "winRatio": 42.86
+    "winRatio": 42.86,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      159.926506238118,
+      153.83716140843293,
+      147.60331332078204,
+      153.37418710306503,
+      150.60086152444782,
+      147.88807438464156
+    ]
   },
   {
     "NAF Nr": "5798",
@@ -9053,12 +17112,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 149.05324700282384,
+    "bestRating": 156.03527594722965,
+    "worstRating": 144.34314575050763,
+    "tendency": 4.710101252316207,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      149.94593111754457,
+      156.03527594722965,
+      150.6476398637134,
+      146.33305101122778,
+      149.05324700282384
+    ]
   },
   {
     "NAF Nr": "5799",
@@ -9066,25 +17136,38 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 150.01180512800047,
+    "bestRating": 150.01180512800047,
+    "worstRating": 147.2990179881942,
+    "tendency": 2.7127871398062666,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      147.2990179881942,
+      150.01180512800047
+    ]
   },
   {
     "NAF Nr": "5803",
     "NAF Name": "limona",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 145.85850709198542,
+    "bestRating": 145.85850709198542,
+    "worstRating": 145.85850709198542,
+    "tendency": 0,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      145.85850709198542
+    ]
   },
   {
     "NAF Nr": "5804",
@@ -9092,12 +17175,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 144.51062017529242,
+    "bestRating": 148.78825522875147,
+    "worstRating": 143.96816666712863,
+    "tendency": 0.5424535081637885,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      143.96816666712863,
+      148.78825522875147,
+      144.51062017529242
+    ]
   },
   {
     "NAF Nr": "5815",
@@ -9105,12 +17196,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 131.34708274859844,
+    "bestRating": 144.34314575050763,
+    "worstRating": 131.34708274859844,
+    "tendency": -12.996063001909192,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 5,
     "gamesTotal": 6,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      141.17094246201427,
+      136.62399418696012,
+      142.3360507386662,
+      137.0999064212428,
+      131.34708274859844
+    ]
   },
   {
     "NAF Nr": "5816",
@@ -9118,12 +17220,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 128.3425072636106,
+    "bestRating": 155.65685424949237,
+    "worstRating": 128.3425072636106,
+    "tendency": -27.31434698588177,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 5,
     "gamesTotal": 6,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      150.04571750291137,
+      144.90206302652317,
+      139.33635573432466,
+      133.3791778870258,
+      128.3425072636106
+    ]
   },
   {
     "NAF Nr": "5817",
@@ -9131,12 +17244,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "South Africa",
     "rating": 138.6112566311075,
+    "bestRating": 144.55940488277372,
+    "worstRating": 127.18554893705887,
+    "tendency": -0.9509088472922258,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 7,
     "gamesTotal": 11,
-    "winRatio": 36.36
+    "winRatio": 36.36,
+    "_lastTenRatingsYear": [
+      139.56216547839972,
+      134.11856516241428,
+      141.48837518815319,
+      136.4629393511903,
+      131.39173076574113,
+      127.18554893705887,
+      133.72760456267972,
+      139.28261427930119,
+      143.56495686179193,
+      138.6112566311075
+    ]
   },
   {
     "NAF Nr": "5819",
@@ -9144,12 +17272,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150,
+    "bestRating": 150,
+    "worstRating": 147.5505102572168,
+    "tendency": 2.449489742783186,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      147.5505102572168,
+      150
+    ]
   },
   {
     "NAF Nr": "5820",
@@ -9157,12 +17292,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 137.9961230069219,
+    "bestRating": 147.00326471627795,
+    "worstRating": 137.86798230130108,
+    "tendency": -7.4117110423731845,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      145.40783404929508,
+      147.00326471627795,
+      143.84897471607286,
+      137.86798230130108,
+      143.2781798261662,
+      137.9961230069219
+    ]
   },
   {
     "NAF Nr": "5853",
@@ -9170,12 +17316,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 176.42909843940296,
+    "bestRating": 176.42909843940296,
+    "worstRating": 146.30713790358183,
+    "tendency": 30.12196053582113,
     "tournaments": 1,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatingsYear": [
+      146.30713790358183,
+      151.47054098920492,
+      158.22965039521506,
+      163.79380827999285,
+      170.6300827934084,
+      176.42909843940296
+    ]
   },
   {
     "NAF Nr": "5872",
@@ -9183,12 +17340,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 132.78006395185545,
+    "bestRating": 145.6233419530109,
+    "worstRating": 132.78006395185545,
+    "tendency": -12.843278001155454,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 5,
     "gamesTotal": 6,
-    "winRatio": 8.33
+    "winRatio": 8.33,
+    "_lastTenRatingsYear": [
+      145.6233419530109,
+      141.07345588642445,
+      141.36472496465657,
+      136.9871656145627,
+      132.78006395185545
+    ]
   },
   {
     "NAF Nr": "5877",
@@ -9196,12 +17363,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 144.18632818665816,
+    "bestRating": 150,
+    "worstRating": 144,
+    "tendency": -5.813671813341841,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      150,
+      150,
+      144,
+      149.97818782916275,
+      149.9676240406207,
+      144.18632818665816
+    ]
   },
   {
     "NAF Nr": "5878",
@@ -9209,12 +17387,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 137.7063117562452,
+    "bestRating": 144.27611504757076,
+    "worstRating": 137.7063117562452,
+    "tendency": -6.2936882437547865,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      144,
+      144.27611504757076,
+      137.964519717501,
+      138.24226521171693,
+      143.6927478684568,
+      137.7063117562452
+    ]
   },
   {
     "NAF Nr": "5879",
@@ -9222,12 +17411,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 144.77849905884295,
+    "bestRating": 144.7932260407168,
+    "worstRating": 138.00374251133326,
+    "tendency": 0.7784990588429537,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      144,
+      138.00374251133326,
+      144.5420238792664,
+      144.7932260407168,
+      144.77849905884295
+    ]
   },
   {
     "NAF Nr": "5880",
@@ -9235,12 +17434,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 131.18393944585276,
+    "bestRating": 150,
+    "worstRating": 131.18393944585276,
+    "tendency": -18.816060554147242,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      150,
+      144,
+      143.72388495242924,
+      143.7280998864063,
+      137.96889090670928,
+      131.18393944585276
+    ]
   },
   {
     "NAF Nr": "5881",
@@ -9248,12 +17458,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 144.02189708055744,
+    "bestRating": 150,
+    "worstRating": 144,
+    "tendency": 0.02189708055743722,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      144,
+      150,
+      150,
+      149.7487978385496,
+      149.75936162709164,
+      144.02189708055744
+    ]
   },
   {
     "NAF Nr": "5882",
@@ -9261,12 +17482,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 127.61058385168742,
+    "bestRating": 144,
+    "worstRating": 120.8256323908309,
+    "tendency": -16.389416148312577,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 5,
     "gamesTotal": 6,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      144,
+      138,
+      132,
+      126.27611504757076,
+      120.8256323908309,
+      127.61058385168742
+    ]
   },
   {
     "NAF Nr": "5890",
@@ -9274,12 +17506,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 142.70132778915035,
+    "bestRating": 147.5505102572168,
+    "worstRating": 142.70132778915035,
+    "tendency": -4.849182468066459,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      147.5505102572168,
+      145.10102051443363,
+      142.70132778915035
+    ]
   },
   {
     "NAF Nr": "5893",
@@ -9287,12 +17527,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Ireland",
     "rating": 151.88045713546146,
+    "bestRating": 151.88045713546146,
+    "worstRating": 145.60070403343133,
+    "tendency": 6.279753102030128,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      145.60070403343133,
+      151.836419609707,
+      146.34068165612632,
+      146.05084554375483,
+      151.88045713546146
+    ]
   },
   {
     "NAF Nr": "5894",
@@ -9300,12 +17550,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 144.30866918816153,
+    "bestRating": 148.27945874672338,
+    "worstRating": 144.30866918816153,
+    "tendency": -3.9707895585618473,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      148.27945874672338,
+      147.76117147746524,
+      144.30866918816153
+    ]
   },
   {
     "NAF Nr": "5899",
@@ -9313,12 +17571,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 161.5537611182968,
+    "bestRating": 166.7292592978044,
+    "worstRating": 150,
+    "tendency": 11.55376111829679,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatingsYear": [
+      150,
+      155.65685424949237,
+      161.32594353645464,
+      166.7292592978044,
+      161.5537611182968
+    ]
   },
   {
     "NAF Nr": "5900",
@@ -9326,12 +17594,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 162.1951775912317,
+    "bestRating": 167.62821721741818,
+    "worstRating": 150.7562681444994,
+    "tendency": 11.43890944673231,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatingsYear": [
+      150.7562681444994,
+      156.62579556498605,
+      162.24058113390194,
+      167.62821721741818,
+      162.1951775912317
+    ]
   },
   {
     "NAF Nr": "5901",
@@ -9339,12 +17617,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 138.45203874190622,
+    "bestRating": 149.75454514126653,
+    "worstRating": 138.45203874190622,
+    "tendency": -11.302506399360311,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      149.75454514126653,
+      143.86287397473714,
+      138.45203874190622
+    ]
   },
   {
     "NAF Nr": "5903",
@@ -9352,12 +17638,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 146.37257680301315,
+    "bestRating": 154.69975253495508,
+    "worstRating": 146.37257680301315,
+    "tendency": -8.327175731941935,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatingsYear": [
+      154.69975253495508,
+      149.6036643744511,
+      149.84466799647433,
+      146.44290752283416,
+      146.37257680301315
+    ]
   },
   {
     "NAF Nr": "5904",
@@ -9365,12 +17661,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 155.99101763785504,
+    "bestRating": 155.99101763785504,
+    "worstRating": 144.34314575050763,
+    "tendency": 11.647871887347407,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      150,
+      155.482544683946,
+      150.07922892259626,
+      155.99101763785504
+    ]
   },
   {
     "NAF Nr": "5905",
@@ -9378,12 +17684,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 150.26956208742038,
+    "bestRating": 155.93865137438263,
+    "worstRating": 144.34314575050763,
+    "tendency": 5.926416336912752,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      150.02331114293102,
+      155.93865137438263,
+      150.26956208742038
+    ]
   },
   {
     "NAF Nr": "5906",
@@ -9391,12 +17706,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 134.3794189209479,
+    "bestRating": 155.65685424949237,
+    "worstRating": 134.3794189209479,
+    "tendency": -21.27743532854447,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      151.9354290605881,
+      151.81218626619204,
+      145.87426896202695,
+      140.149254332399,
+      134.3794189209479
+    ]
   },
   {
     "NAF Nr": "5907",
@@ -9404,12 +17730,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 143.36535154595532,
+    "bestRating": 150.02934162333662,
+    "worstRating": 138.63456997389247,
+    "tendency": -0.9777942045523105,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      138.68629150101526,
+      138.63456997389247,
+      144.30432699370868,
+      150.02934162333662,
+      143.36535154595532
+    ]
   },
   {
     "NAF Nr": "5909",
@@ -9417,12 +17754,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 166.75003698863978,
+    "bestRating": 166.75003698863978,
+    "worstRating": 145.30493390811293,
+    "tendency": 20.39473673939679,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 8,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      146.355300249243,
+      150.7329399197374,
+      145.30493390811293,
+      151.1655501600641,
+      152.97719253121392,
+      160.07888828412752,
+      164.92811353482134,
+      166.75003698863978
+    ]
   },
   {
     "NAF Nr": "5910",
@@ -9430,12 +17780,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 144.45888663302526,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.45888663302526,
+    "tendency": -11.19796761646711,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      149.99924587828303,
+      155.15780810089743,
+      154.9168044788742,
+      150.22976041530825,
+      144.45888663302526
+    ]
   },
   {
     "NAF Nr": "5911",
@@ -9443,12 +17804,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 144.30268848982243,
+    "bestRating": 154.40917579891743,
+    "worstRating": 138.22967034141357,
+    "tendency": -10.106487309095002,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      154.40917579891743,
+      149.0964588173896,
+      149.21970161178564,
+      143.58749233585073,
+      138.22967034141357,
+      144.30268848982243
+    ]
   },
   {
     "NAF Nr": "5912",
@@ -9456,12 +17828,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 157.54084654817925,
+    "bestRating": 157.54084654817925,
+    "worstRating": 145.33342325870328,
+    "tendency": 12.207423289475969,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatingsYear": [
+      145.33342325870328,
+      151.27134056286837,
+      151.45138592177727,
+      157.54084654817925
+    ]
   },
   {
     "NAF Nr": "5913",
@@ -9469,12 +17850,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "rating": 155.23949074603172,
+    "bestRating": 155.65685424949237,
+    "worstRating": 149.7873268290057,
+    "tendency": 5.23949074603172,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      150,
+      155.65685424949237,
+      149.7873268290057,
+      155.41953610494062,
+      155.23949074603172
+    ]
   },
   {
     "NAF Nr": "5934",
@@ -9482,12 +17873,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 124.51085326269998,
+    "bestRating": 146.21840602782856,
+    "worstRating": 118.13833262454301,
+    "tendency": -15.079702874772721,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 8,
     "gamesTotal": 11,
-    "winRatio": 22.73
+    "winRatio": 22.73,
+    "_lastTenRatingsYear": [
+      139.5905561374727,
+      134.50287037081677,
+      129.085024133211,
+      129.775138212789,
+      125.4421245278248,
+      132.29144533715615,
+      127.56423592360248,
+      122.95917294789308,
+      118.13833262454301,
+      124.51085326269998
+    ]
   },
   {
     "NAF Nr": "5955",
@@ -9495,12 +17901,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Switzerland",
     "rating": 138.39708482394144,
+    "bestRating": 147.99971107887356,
+    "worstRating": 138.39708482394144,
+    "tendency": -9.602626254932119,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 6,
     "gamesTotal": 6,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      147.99971107887356,
+      145.94761496340175,
+      144.01748097503793,
+      142.05799785886322,
+      140.2100348615673,
+      138.39708482394144
+    ]
   },
   {
     "NAF Nr": "5957",
@@ -9508,12 +17925,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 129.99307884865812,
+    "bestRating": 145.2446864742254,
+    "worstRating": 129.0460690694181,
+    "tendency": -15.251607625567289,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 5,
     "gamesTotal": 6,
-    "winRatio": 8.33
+    "winRatio": 8.33,
+    "_lastTenRatingsYear": [
+      145.2446864742254,
+      141.01948793048066,
+      136.39193274855526,
+      132.52474632460934,
+      129.0460690694181,
+      129.99307884865812
+    ]
   },
   {
     "NAF Nr": "5987",
@@ -9521,12 +17949,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 156.3238764206086,
+    "bestRating": 156.3254891157181,
+    "worstRating": 144,
+    "tendency": 12.323876420608599,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      144,
+      150,
+      156.00357019254383,
+      149.99127580112113,
+      156.3254891157181,
+      156.3238764206086
+    ]
   },
   {
     "NAF Nr": "6014",
@@ -9534,12 +17973,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "rating": 133.12197134918807,
+    "bestRating": 144.7934843260233,
+    "worstRating": 133.12197134918807,
+    "tendency": -11.671512976835231,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      144.7934843260233,
+      140.68156246246747,
+      142.12752616640793,
+      136.91049194244312,
+      137.9225393763408,
+      133.12197134918807
+    ]
   },
   {
     "NAF Nr": "6038",
@@ -9547,12 +17997,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 153.9087598341195,
+    "bestRating": 156.76518699682413,
+    "worstRating": 145.33995547828687,
+    "tendency": 8.56880435583264,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      145.33995547828687,
+      151.21765961638945,
+      156.76518699682413,
+      153.9087598341195
+    ]
   },
   {
     "NAF Nr": "6039",
@@ -9560,12 +18019,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 159.69955809984313,
+    "bestRating": 164.11147319094871,
+    "worstRating": 151.44115200850732,
+    "tendency": 5.0796951678964035,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 3,
     "gamesTotal": 10,
-    "winRatio": 55
+    "winRatio": 55,
+    "_lastTenRatingsYear": [
+      154.61986293194673,
+      154.377711833086,
+      155.26624669094264,
+      155.27723020768954,
+      151.44115200850732,
+      156.8352090640218,
+      161.59500058870398,
+      157.82451771151906,
+      164.11147319094871,
+      159.69955809984313
+    ]
   },
   {
     "NAF Nr": "6040",
@@ -9573,12 +18047,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "",
     "rating": 149.46941285087811,
+    "bestRating": 150.6358079791526,
+    "worstRating": 146.0387576922161,
+    "tendency": 3.430655158662006,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      146.0387576922161,
+      150.6358079791526,
+      149.62732733012257,
+      149.46941285087811
+    ]
   },
   {
     "NAF Nr": "6044",
@@ -9586,12 +18069,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 137.17476097157567,
+    "bestRating": 155.88984917686025,
+    "worstRating": 137.17476097157567,
+    "tendency": -18.094124710123765,
     "tournaments": 4,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 8,
     "gamesTotal": 16,
-    "winRatio": 43.75
+    "winRatio": 43.75,
+    "_lastTenRatingsYear": [
+      155.26888568169943,
+      149.67962517813757,
+      149.98117847223068,
+      151.98146739335712,
+      153.82943039065304,
+      151.72014599058153,
+      147.07707185842492,
+      142.09813616274744,
+      137.17601022843232,
+      137.17476097157567
+    ]
   },
   {
     "NAF Nr": "6047",
@@ -9599,12 +18097,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 140.6955115838617,
+    "bestRating": 161.10805823375838,
+    "worstRating": 140.6955115838617,
+    "tendency": -15.0029503538384,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      155.6984619377001,
+      161.10805823375838,
+      156.0944818828581,
+      150.53032399808032,
+      145.95917219030167,
+      140.6955115838617
+    ]
   },
   {
     "NAF Nr": "6060",
@@ -9612,12 +18121,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 145.9226374740082,
+    "bestRating": 150.38801908539008,
+    "worstRating": 145.8830567314593,
+    "tendency": 0.039580742548906755,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      145.8830567314593,
+      150.2597147784484,
+      146.32783049438797,
+      150.38801908539008,
+      150.28813758105815,
+      145.9226374740082
+    ]
   },
   {
     "NAF Nr": "6061",
@@ -9625,12 +18145,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 157.58270361066013,
+    "bestRating": 157.58270361066013,
+    "worstRating": 145.7573593128807,
+    "tendency": 11.825344297779424,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      145.7573593128807,
+      150.03220549807423,
+      149.74093641984211,
+      153.73413020300546,
+      157.58270361066013
+    ]
   },
   {
     "NAF Nr": "6085",
@@ -9638,12 +18168,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 157.53517071817222,
+    "bestRating": 157.53517071817222,
+    "worstRating": 152.4494897427832,
+    "tendency": 5.085680975389039,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 4,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatingsYear": [
+      152.4494897427832,
+      152.4494897427832,
+      154.85293320874905,
+      157.53517071817222
+    ]
   },
   {
     "NAF Nr": "6089",
@@ -9651,12 +18190,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 146.8445123210362,
+    "bestRating": 150.25324575333423,
+    "worstRating": 146.61264539658444,
+    "tendency": 0.23186692445176504,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      146.61264539658444,
+      150.25324575333423,
+      146.8445123210362
+    ]
   },
   {
     "NAF Nr": "6091",
@@ -9664,12 +18211,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 144.14876226532346,
+    "bestRating": 147.17157287525382,
+    "worstRating": 144.14876226532346,
+    "tendency": -3.02281060993036,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      147.17157287525382,
+      144.14876226532346
+    ]
   },
   {
     "NAF Nr": "6096",
@@ -9677,12 +18231,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 139.1260629771631,
+    "bestRating": 145.27103566840836,
+    "worstRating": 139.1260629771631,
+    "tendency": -6.144972691245272,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatingsYear": [
+      145.27103566840836,
+      139.1260629771631
+    ]
   },
   {
     "NAF Nr": "6098",
@@ -9690,12 +18251,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 146.22185688999824,
+    "bestRating": 146.22185688999824,
+    "worstRating": 141.33495796789848,
+    "tendency": 0.07065117099085683,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      146.15120571900738,
+      141.33495796789848,
+      146.22185688999824
+    ]
   },
   {
     "NAF Nr": "6121",
@@ -9703,12 +18272,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 135.68851059703516,
+    "bestRating": 148.85170823471708,
+    "worstRating": 131.23745602548698,
+    "tendency": -13.163197637681918,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      148.85170823471708,
+      143.22875105422796,
+      137.53831908928794,
+      131.23745602548698,
+      135.99262643865436,
+      135.68851059703516
+    ]
   },
   {
     "NAF Nr": "6122",
@@ -9716,12 +18296,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 146.2067102562649,
+    "bestRating": 146.2067102562649,
+    "worstRating": 134.7359654033633,
+    "tendency": 0.8449467329671165,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      145.36176352329778,
+      140.51058454606778,
+      140.29312069518744,
+      134.7359654033633,
+      140.83067613234817,
+      146.2067102562649
+    ]
   },
   {
     "NAF Nr": "6123",
@@ -9729,12 +18320,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 138.6060538130729,
+    "bestRating": 151.4550206132994,
+    "worstRating": 138.6060538130729,
+    "tendency": -6.16522242648287,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      144.77127623955576,
+      144.6661735851375,
+      150.9806465972538,
+      151.4550206132994,
+      145.1181562086514,
+      138.6060538130729
+    ]
   },
   {
     "NAF Nr": "6132",
@@ -9742,12 +18344,19 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 147.8039629653509,
+    "bestRating": 147.8039629653509,
+    "worstRating": 146.3453847821482,
+    "tendency": 1.458578183202718,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      146.3453847821482,
+      147.8039629653509
+    ]
   },
   {
     "NAF Nr": "6144",
@@ -9755,12 +18364,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 166.5052149943314,
+    "bestRating": 167.551422834161,
+    "worstRating": 150.27845341396474,
+    "tendency": 16.226761580366656,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      150.27845341396474,
+      156.08502905771044,
+      162.18569636724484,
+      167.551422834161,
+      163.38981612470974,
+      166.5052149943314
+    ]
   },
   {
     "NAF Nr": "6151",
@@ -9768,12 +18388,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150.75209719379222,
+    "bestRating": 152.82842712474618,
+    "worstRating": 147.6369145347249,
+    "tendency": -2.0763299309539605,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      152.82842712474618,
+      150.46830781018605,
+      147.6369145347249,
+      150.75209719379222
+    ]
   },
   {
     "NAF Nr": "6154",
@@ -9781,12 +18410,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 156.00685474073506,
+    "bestRating": 156.00685474073506,
+    "worstRating": 150.2749163415619,
+    "tendency": 0.9078352271422716,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatingsYear": [
+      155.0990195135928,
+      150.50004364516033,
+      155.71024014907255,
+      150.2749163415619,
+      156.00685474073506
+    ]
   },
   {
     "NAF Nr": "6157",
@@ -9794,12 +18433,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 166.18287012408942,
+    "bestRating": 166.18287012408942,
+    "worstRating": 153.73665904719556,
+    "tendency": 12.44621107689386,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 0,
     "gamesTotal": 4,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatingsYear": [
+      153.73665904719556,
+      157.57440128439987,
+      162.5882084301423,
+      166.18287012408942
+    ]
   },
   {
     "NAF Nr": "6165",
@@ -9807,12 +18455,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 149.76371671787516,
+    "bestRating": 154.28129307649064,
+    "worstRating": 149.76371671787516,
+    "tendency": -4.517576358615486,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      154.28129307649064,
+      149.88107277594253,
+      149.76371671787516
+    ]
   },
   {
     "NAF Nr": "6179",
@@ -9820,12 +18476,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 154.79199502357883,
+    "bestRating": 154.79199502357883,
+    "worstRating": 152,
+    "tendency": 2.791995023578835,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
     "gamesTotal": 3,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatingsYear": [
+      152,
+      152.88407501078612,
+      154.79199502357883
+    ]
   },
   {
     "NAF Nr": "6181",
@@ -9833,12 +18497,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "rating": 161.42040741976672,
+    "bestRating": 161.8064204875246,
+    "worstRating": 155.40534660932744,
+    "tendency": 5.763553170274349,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 0,
     "gamesTotal": 4,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      155.40534660932744,
+      161.8064204875246,
+      161.42040741976672
+    ]
   },
   {
     "NAF Nr": "6183",
@@ -9846,12 +18519,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "rating": 143.2414984330403,
+    "bestRating": 151.8954701067301,
+    "worstRating": 143.2414984330403,
+    "tendency": -1.8599414952639393,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 5,
     "gamesTotal": 9,
-    "winRatio": 38.89
+    "winRatio": 38.89,
+    "_lastTenRatingsYear": [
+      145.10143992830425,
+      150.37182437646698,
+      145.20238073469017,
+      148.85147967697085,
+      145.3395021204897,
+      151.13334895305286,
+      151.8954701067301,
+      147.94181810084206,
+      143.2414984330403
+    ]
   },
   {
     "NAF Nr": "6188",
@@ -9859,12 +18546,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 155.49983957799466,
+    "bestRating": 158.35681316652324,
+    "worstRating": 152.86048231420523,
+    "tendency": 2.639357263789435,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      152.86048231420523,
+      155.4181472543013,
+      157.96284558643606,
+      155.83459671639847,
+      158.35681316652324,
+      155.49983957799466
+    ]
   },
   {
     "NAF Nr": "6192",
@@ -9872,12 +18570,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 141.1007272393902,
+    "bestRating": 149.98892211291945,
+    "worstRating": 140.58219308289623,
+    "tendency": -8.888194873529244,
     "tournaments": 2,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 2,
     "gamesTotal": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatingsYear": [
+      149.98892211291945,
+      144.58817798717885,
+      144.15613722657176,
+      140.58219308289623,
+      141.1007272393902
+    ]
   },
   {
     "NAF Nr": "6193",
@@ -9885,12 +18593,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 142.13116813205517,
+    "bestRating": 150.2348770407168,
+    "worstRating": 138.26032571640442,
+    "tendency": -2.2119776184524653,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      150.2348770407168,
+      144.80680959697327,
+      141.37572458602608,
+      138.26032571640442,
+      142.13116813205517
+    ]
   },
   {
     "NAF Nr": "6232",
@@ -9898,12 +18617,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "rating": 138.94856613842353,
+    "bestRating": 153.98882043704626,
+    "worstRating": 138.94856613842353,
+    "tendency": -5.394579612084101,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      148.36439608381335,
+      153.98882043704626,
+      148.0261896070748,
+      142.76530981869234,
+      138.94856613842353
+    ]
   },
   {
     "NAF Nr": "6233",
@@ -9911,12 +18641,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Hungary",
     "rating": 170.19809179546246,
+    "bestRating": 170.19809179546246,
+    "worstRating": 156.86691158685844,
+    "tendency": 13.331180208604025,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatingsYear": [
+      156.86691158685844,
+      162.30839725462246,
+      162.28894041760262,
+      168.78299931197495,
+      162.3754148698805,
+      170.19809179546246
+    ]
   },
   {
     "NAF Nr": "6258",
@@ -9924,12 +18665,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 148.16650908928625,
+    "bestRating": 150.33973446289374,
+    "worstRating": 147.59655653403414,
+    "tendency": 0.5699525552521152,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      147.59655653403414,
+      147.69160261184288,
+      150.33973446289374,
+      148.16650908928625
+    ]
   },
   {
     "NAF Nr": "6261",
@@ -9937,12 +18687,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 161.50252310907607,
+    "bestRating": 167.276203124599,
+    "worstRating": 150.20615405372936,
+    "tendency": 11.296369055346702,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      150.20615405372936,
+      155.814405459115,
+      161.45172174492265,
+      167.09151823833426,
+      167.276203124599,
+      161.50252310907607
+    ]
   },
   {
     "NAF Nr": "6294",
@@ -9950,12 +18711,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150.0204688882867,
+    "bestRating": 152.65459636225182,
+    "worstRating": 150.0204688882867,
+    "tendency": -2.6341274739651226,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      152.65459636225182,
+      152.55955028444308,
+      150.0204688882867
+    ]
   },
   {
     "NAF Nr": "6298",
@@ -9963,12 +18732,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 156.15758891943418,
+    "bestRating": 161.8589527214978,
+    "worstRating": 150.50083118461922,
+    "tendency": 1.0112464008946915,
     "tournaments": 2,
     "gamesWon": 6,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 9,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      155.14634251853948,
+      160.95225947749557,
+      156.0291726659917,
+      161.8589527214978,
+      156.17874099429034,
+      150.50083118461922,
+      152.43096517298304,
+      154.2439152106089,
+      156.15758891943418
+    ]
   },
   {
     "NAF Nr": "6299",
@@ -9976,12 +18759,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 144.6837027186701,
+    "bestRating": 150.4170361881095,
+    "worstRating": 144.6837027186701,
+    "tendency": -0.1562218428307176,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      144.83992456150082,
+      144.81835554303814,
+      150.4170361881095,
+      144.7420123878282,
+      144.72422497968458,
+      144.6837027186701
+    ]
   },
   {
     "NAF Nr": "6300",
@@ -9989,12 +18783,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 144.5923391443357,
+    "bestRating": 149.95854771689733,
+    "worstRating": 138.90335168381233,
+    "tendency": -5.366208572561618,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      149.95854771689733,
+      144.56907900441013,
+      138.90335168381233,
+      144.80248562922853,
+      138.95471795540746,
+      144.5923391443357
+    ]
   },
   {
     "NAF Nr": "6301",
@@ -10002,12 +18807,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 125.18248525237284,
+    "bestRating": 149.54244850370688,
+    "worstRating": 125.18248525237284,
+    "tendency": -7.856050943359676,
     "tournaments": 3,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 8,
     "gamesTotal": 12,
-    "winRatio": 29.17
+    "winRatio": 29.17,
+    "_lastTenRatingsYear": [
+      133.03853619573252,
+      138.46249240855076,
+      144.14014322185898,
+      149.54244850370688,
+      144.4474641627408,
+      138.84496829792494,
+      132.3642252217438,
+      132.5420043534347,
+      129.02866553259568,
+      125.18248525237284
+    ]
   },
   {
     "NAF Nr": "6302",
@@ -10015,12 +18835,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 132.92888198936316,
+    "bestRating": 149.7791960405657,
+    "worstRating": 132.92888198936316,
+    "tendency": -11.207116268525851,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      144.135998257889,
+      149.7791960405657,
+      144.1209411990282,
+      138.5063917535329,
+      138.56781480330133,
+      132.92888198936316
+    ]
   },
   {
     "NAF Nr": "6303",
@@ -10028,12 +18859,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 150.95385744339364,
+    "bestRating": 156.1322232168162,
+    "worstRating": 144.7979720917663,
+    "tendency": -4.702996806098724,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      156.1322232168162,
+      155.87805906915395,
+      150.23087764663228,
+      144.7979720917663,
+      150.95385744339364
+    ]
   },
   {
     "NAF Nr": "6319",
@@ -10041,12 +18883,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 132.19746212743865,
+    "bestRating": 149.23374896894623,
+    "worstRating": 132.19746212743865,
+    "tendency": -17.036286841507575,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      149.23374896894623,
+      143.91581845322818,
+      138.25550186458815,
+      143.91176939060043,
+      137.83538227394536,
+      132.19746212743865
+    ]
   },
   {
     "NAF Nr": "6320",
@@ -10054,12 +18907,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 143.9093932294972,
+    "bestRating": 150.2737617431211,
+    "worstRating": 138.2714730829905,
+    "tendency": -6.364368513623901,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      150.2737617431211,
+      150.27129304416144,
+      149.52614853637576,
+      143.9209714173565,
+      138.2714730829905,
+      143.9093932294972
+    ]
   },
   {
     "NAF Nr": "6321",
@@ -10067,12 +18931,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 132.60394785981416,
+    "bestRating": 144.34314575050763,
+    "worstRating": 132.60394785981416,
+    "tendency": -11.739197890693475,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
     "gamesTotal": 5,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      138.4831844903315,
+      144.14967047047176,
+      138.2337313526572,
+      132.60394785981416
+    ]
   },
   {
     "NAF Nr": "6322",
@@ -10080,12 +18954,27 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 144.4118864267644,
+    "bestRating": 155.40746893880177,
+    "worstRating": 139.16589274998933,
+    "tendency": -0.695528459796833,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 4,
     "gamesTotal": 10,
-    "winRatio": 45
+    "winRatio": 45,
+    "_lastTenRatingsYear": [
+      145.10741488656123,
+      139.16589274998933,
+      144.5579872360942,
+      144.0903925306711,
+      149.7398908650371,
+      155.40746893880177,
+      150.09395748944831,
+      145.00069766165407,
+      145.27407327890802,
+      144.4118864267644
+    ]
   },
   {
     "NAF Nr": "6323",
@@ -10093,12 +18982,25 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 138.8821396483814,
+    "bestRating": 144.48701172887135,
+    "worstRating": 138.78509839609123,
+    "tendency": -5.011301717743265,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 4,
     "gamesTotal": 8,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      143.89344136612468,
+      138.9155580682679,
+      138.88498596982635,
+      138.8572282360283,
+      144.48701172887135,
+      138.78509839609123,
+      143.50783032386448,
+      138.8821396483814
+    ]
   },
   {
     "NAF Nr": "6324",
@@ -10106,12 +19008,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 161.70641914500976,
+    "bestRating": 161.70641914500976,
+    "worstRating": 143.8360740454134,
+    "tendency": 12.249106244109385,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      149.45731290090038,
+      143.8360740454134,
+      149.49639063405343,
+      150.2219853532446,
+      156.0507853894034,
+      161.70641914500976
+    ]
   },
   {
     "NAF Nr": "6325",
@@ -10119,12 +19032,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 132.87412030516563,
+    "bestRating": 155.36440640403765,
+    "worstRating": 132.87412030516563,
+    "tendency": -17.603674593016194,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 6,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      150.47779489818183,
+      155.36440640403765,
+      149.72709011823,
+      143.90601659697387,
+      138.51174149409388,
+      132.87412030516563
+    ]
   },
   {
     "NAF Nr": "6326",
@@ -10132,12 +19056,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 145.75874086999178,
+    "bestRating": 156.34607231008908,
+    "worstRating": 139.8597164854408,
+    "tendency": -10.587331440097302,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatingsYear": [
+      156.34607231008908,
+      150.66995084175772,
+      145.10446059521252,
+      139.92113953520922,
+      139.8597164854408,
+      145.75874086999178
+    ]
   },
   {
     "NAF Nr": "6327",
@@ -10145,12 +19080,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 155.4613865133665,
+    "bestRating": 161.0588472885827,
+    "worstRating": 149.76344093871424,
+    "tendency": 0.0826086478460013,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 6,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatingsYear": [
+      155.3787778655205,
+      155.39085135675248,
+      161.0588472885827,
+      155.4190507951711,
+      149.76344093871424,
+      155.4613865133665
+    ]
   },
   {
     "NAF Nr": "6328",
@@ -10158,12 +19104,26 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 158.36615917327114,
+    "bestRating": 163.86884396255223,
+    "worstRating": 149.96671172690847,
+    "tendency": 2.7329832659021918,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 9,
-    "winRatio": 61.11
+    "winRatio": 61.11,
+    "_lastTenRatingsYear": [
+      155.63317590736895,
+      149.96671172690847,
+      149.96815703581632,
+      155.44771158508334,
+      161.1033214415402,
+      155.22143157547333,
+      159.46862366200412,
+      163.86884396255223,
+      158.36615917327114
+    ]
   },
   {
     "NAF Nr": "6329",
@@ -10171,12 +19131,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 138.65721294576505,
+    "bestRating": 150.21937150477555,
+    "worstRating": 138.63387330872894,
+    "tendency": -11.559689860050838,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatingsYear": [
+      150.2169028058159,
+      150.21937150477555,
+      144.75021826361657,
+      138.63387330872894,
+      144.31243081306496,
+      138.65721294576505
+    ]
   },
   {
     "NAF Nr": "6330",
@@ -10184,12 +19155,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 150.70270192083993,
+    "bestRating": 156.1558720781545,
+    "worstRating": 150.70270192083993,
+    "tendency": -4.954152328652441,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 1,
     "gamesTotal": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.65685424949237,
+      155.6447807582604,
+      155.90222976574321,
+      156.1558720781545,
+      150.70270192083993
+    ]
   },
   {
     "NAF Nr": "6341",
@@ -10197,12 +19178,23 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 153.37273399866527,
+    "bestRating": 166.40029984306594,
+    "worstRating": 153.37273399866527,
+    "tendency": -1.6482708139199644,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
     "gamesTotal": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.02100481258523,
+      160.20330798587779,
+      166.40029984306594,
+      161.73771242575867,
+      156.8564733821607,
+      153.37273399866527
+    ]
   },
   {
     "NAF Nr": "6350",
@@ -10210,12 +19202,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150.57786317480358,
+    "bestRating": 155.40323937836104,
+    "worstRating": 150.30848855021767,
+    "tendency": -4.825376203557454,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      155.40323937836104,
+      150.30848855021767,
+      150.57786317480358
+    ]
   },
   {
     "NAF Nr": "6446",
@@ -10223,12 +19223,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "rating": 150.9113772075437,
+    "bestRating": 150.9113772075437,
+    "worstRating": 148,
+    "tendency": 2.911377207543694,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      148,
+      150.01374002756415,
+      150.9113772075437
+    ]
   },
   {
     "NAF Nr": "6451",
@@ -10236,12 +19244,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "rating": 145.15637668361396,
+    "bestRating": 155.0990195135928,
+    "worstRating": 145.15637668361396,
+    "tendency": -9.942642829978837,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      155.0990195135928,
+      150.01343296100106,
+      150.26504359193234,
+      145.15637668361396
+    ]
   },
   {
     "NAF Nr": "7024",
@@ -10249,12 +19266,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 140.96766461587058,
+    "bestRating": 145.50974453336167,
+    "worstRating": 140.96766461587058,
+    "tendency": -4.145436462029664,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
     "gamesTotal": 3,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatingsYear": [
+      145.11310107790024,
+      145.50974453336167,
+      140.96766461587058
+    ]
   },
   {
     "NAF Nr": "7590",
@@ -10262,12 +19287,20 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 150.93887076228478,
+    "bestRating": 150.93887076228478,
+    "worstRating": 145.0669449301735,
+    "tendency": 5.828416445058394,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      145.11045431722638,
+      145.0669449301735,
+      150.93887076228478
+    ]
   },
   {
     "NAF Nr": "7594",
@@ -10275,12 +19308,21 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "Austria",
     "rating": 172.67175036963238,
+    "bestRating": 172.67175036963238,
+    "worstRating": 155.65822485121606,
+    "tendency": 17.013525518416316,
     "tournaments": 1,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 0,
     "gamesTotal": 4,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatingsYear": [
+      155.65822485121606,
+      161.560474562723,
+      167.78220468685876,
+      172.67175036963238
+    ]
   },
   {
     "NAF Nr": "7710",
@@ -10288,12 +19330,27 @@ const statsYear2004 = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 166.21597528487092,
+    "bestRating": 172.31431789243857,
+    "worstRating": 144.34314575050763,
+    "tendency": 3.885569584463582,
     "tournaments": 3,
     "gamesWon": 7,
     "gamesDraw": 3,
     "gamesLost": 4,
     "gamesTotal": 14,
-    "winRatio": 60.71
+    "winRatio": 60.71,
+    "_lastTenRatingsYear": [
+      162.33040570040734,
+      156.31307155393318,
+      161.99006680930793,
+      167.51296520681495,
+      166.80355736538345,
+      172.31431789243857,
+      165.57927737696994,
+      172.29280590075848,
+      166.45198181588265,
+      166.21597528487092
+    ]
   },
   {
     "NAF Nr": "13774",
@@ -10301,11 +19358,22 @@ const statsYear2004 = [
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 167.19067713144986,
+    "bestRating": 167.19067713144986,
+    "worstRating": 151.53467447653122,
+    "tendency": 9.44471043903502,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 1,
     "gamesTotal": 6,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      157.74596669241484,
+      151.53467447653122,
+      158.67238968171648,
+      158.28741321084013,
+      159.3602812526398,
+      167.19067713144986
+    ]
   }
 ];
