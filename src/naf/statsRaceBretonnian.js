@@ -5,13 +5,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "158.5",
+    "rating": 158.7095793817815,
+    "bestRating": 161.2926235440193,
+    "worstRating": 155.65685424949237,
+    "tendency": 3.05272513228914,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.2926235440193,
+      158.7095793817815
+    ]
   },
   {
     "NAF Nr": "83",
@@ -19,13 +27,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "150.72",
+    "rating": 150.22983968233785,
+    "bestRating": 161.31370849898474,
+    "worstRating": 144.57681393815605,
+    "tendency": -5.427014567154515,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.66475396692624,
+      150.02338401134799,
+      144.57681393815605,
+      150.22983968233785
+    ]
   },
   {
     "NAF Nr": "113",
@@ -33,13 +52,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "160.26",
+    "rating": 160.98008629944684,
+    "bestRating": 166.4947161081688,
+    "worstRating": 150,
+    "tendency": 0.8040641760049141,
     "totalTournaments": 3,
     "gamesTotal": 16,
     "gamesWon": 10,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 65.63
+    "winRatio": 65.63,
+    "_lastTenRatings": [
+      160.17602212344192,
+      166.2747770822319,
+      159.39602757917137,
+      152.48278237968853,
+      158.59485205808022,
+      154.90256175107507,
+      151.2163128811881,
+      154.4597379574279,
+      157.73226752791146,
+      160.98008629944684
+    ]
   },
   {
     "NAF Nr": "129",
@@ -47,13 +81,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "race": "Bretonnian",
-    "rating": "149.8",
+    "rating": 149.43411891719998,
+    "bestRating": 149.96329981689212,
+    "worstRating": 145.41742430504416,
+    "tendency": 4.016694612155817,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.41742430504416,
+      149.96329981689212,
+      149.43411891719998
+    ]
   },
   {
     "NAF Nr": "144",
@@ -61,13 +103,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "151.91",
+    "rating": 149.94818461910523,
+    "bestRating": 153.50502068607668,
+    "worstRating": 144.92776364570415,
+    "tendency": 5.020420973401087,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      144.92776364570415,
+      147.0659277078147,
+      152.6049405232964,
+      150.26605295553534,
+      153.50502068607668,
+      149.94818461910523
+    ]
   },
   {
     "NAF Nr": "172",
@@ -75,13 +128,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "164.56",
+    "rating": 164.33439509475306,
+    "bestRating": 164.33439509475306,
+    "worstRating": 142.08764636275455,
+    "tendency": 22.017924692263705,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 6,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      142.31647040248936,
+      142.29153376144538,
+      143.22104518356716,
+      150.89077352308914,
+      150.13202301103678,
+      154.34073410740757,
+      158.55433144439576,
+      154.8656091920895,
+      159.3383768425871,
+      164.33439509475306
+    ]
   },
   {
     "NAF Nr": "248",
@@ -89,13 +157,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "152.35",
+    "rating": 152.20004262643087,
+    "bestRating": 155.63056808859272,
+    "worstRating": 149.97712890665736,
+    "tendency": 2.2000426264308715,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      150,
+      149.97712890665736,
+      152.5296815718178,
+      155.63056808859272,
+      152.4083887846132,
+      152.20004262643087
+    ]
   },
   {
     "NAF Nr": "371",
@@ -103,13 +182,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Bretonnian",
-    "rating": "150.44",
+    "rating": 150.46881634140962,
+    "bestRating": 150.46881634140962,
+    "worstRating": 144.52277442494835,
+    "tendency": 0.4688163414096209,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      144.52277442494835,
+      145.012584005165,
+      150.46881634140962
+    ]
   },
   {
     "NAF Nr": "372",
@@ -117,13 +205,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "161.02",
+    "rating": 161.36288429513408,
+    "bestRating": 161.36288429513408,
+    "worstRating": 149.05083545965385,
+    "tendency": 6.698275005990922,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      154.66460928914316,
+      149.05083545965385,
+      154.58873631913087,
+      155.16489071143292,
+      161.36288429513408
+    ]
   },
   {
     "NAF Nr": "520",
@@ -131,13 +229,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "165.82",
+    "rating": 166.32924297077076,
+    "bestRating": 166.32924297077076,
+    "worstRating": 155.41742919016724,
+    "tendency": 10.672388721278395,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.41742919016724,
+      161.04547887193002,
+      161.06676105463805,
+      161.2755822027866,
+      166.32924297077076
+    ]
   },
   {
     "NAF Nr": "1143",
@@ -145,13 +254,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "157.45",
+    "rating": 157.93050666572148,
+    "bestRating": 157.93050666572148,
+    "worstRating": 153.64902939381454,
+    "tendency": 4.281477271906937,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      153.64902939381454,
+      153.65168951016514,
+      154.20221008027585,
+      157.93050666572148
+    ]
   },
   {
     "NAF Nr": "1191",
@@ -159,13 +277,28 @@ const statsRaceBretonnian = [
     "CCAA": "Euskadi",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "149.32",
+    "rating": 149.07413028653082,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.98884508729563,
+    "tendency": -6.582723962961552,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      149.9994661356037,
+      155.39089653569755,
+      150.14421532131567,
+      153.76396422376618,
+      153.50466214671223,
+      148.96994327601416,
+      144.98884508729563,
+      145.11618713175775,
+      149.07413028653082
+    ]
   },
   {
     "NAF Nr": "1621",
@@ -173,13 +306,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Bretonnian",
-    "rating": "136.59",
+    "rating": 137.60744202906787,
+    "bestRating": 149.70253744630102,
+    "worstRating": 132.68697887153942,
+    "tendency": -6.915332395880483,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.52277442494835,
+      149.70253744630102,
+      143.863688764794,
+      138.60560685867443,
+      132.68697887153942,
+      137.60744202906787
+    ]
   },
   {
     "NAF Nr": "1654",
@@ -187,13 +331,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "154.5",
+    "rating": 154.47213595499957,
+    "bestRating": 154.47213595499957,
+    "worstRating": 145.52786404500043,
+    "tendency": 8.944271909999145,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      145.52786404500043,
+      150,
+      154.47213595499957
+    ]
   },
   {
     "NAF Nr": "1822",
@@ -201,13 +353,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "143.09",
+    "rating": 143.22656650349555,
+    "bestRating": 147.66604213568445,
+    "worstRating": 143.22656650349555,
+    "tendency": -4.439475632188902,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      147.66604213568445,
+      145.50043966087645,
+      143.22656650349555
+    ]
   },
   {
     "NAF Nr": "2406",
@@ -215,13 +375,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "153.59",
+    "rating": 153.54277918030044,
+    "bestRating": 153.54277918030044,
+    "worstRating": 153.46410161513776,
+    "tendency": 0.07867756516267832,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.46410161513776,
+      153.46410161513776,
+      153.54277918030044
+    ]
   },
   {
     "NAF Nr": "2412",
@@ -229,13 +397,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "146.8",
+    "rating": 146.49541690348494,
+    "bestRating": 150,
+    "worstRating": 139.966477879041,
+    "tendency": -3.504583096515063,
     "totalTournaments": 2,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      139.966477879041,
+      146.49541690348494
+    ]
   },
   {
     "NAF Nr": "2460",
@@ -243,13 +419,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "162.73",
+    "rating": 163.31058944519248,
+    "bestRating": 163.31058944519248,
+    "worstRating": 154.11530138935447,
+    "tendency": 9.195288055838006,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.11530138935447,
+      159.4153555758938,
+      163.31058944519248
+    ]
   },
   {
     "NAF Nr": "2591",
@@ -257,13 +441,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "148.35",
+    "rating": 149.20267586729943,
+    "bestRating": 156.9280782673791,
+    "worstRating": 145.20416847668727,
+    "tendency": -0.9329930310751138,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 5,
-    "winRatio": 45.83
+    "winRatio": 45.83,
+    "_lastTenRatings": [
+      150.13566889837455,
+      155.76007879939306,
+      150.91685076275195,
+      146.14936203670075,
+      150.09067016540837,
+      156.9280782673791,
+      153.16512100466826,
+      152.95500593638965,
+      152.53837061941397,
+      149.20267586729943
+    ]
   },
   {
     "NAF Nr": "2870",
@@ -271,13 +470,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "165.83",
+    "rating": 169.16790890615044,
+    "bestRating": 169.9228878938639,
+    "worstRating": 154.2426406871193,
+    "tendency": 3.5203705418555273,
     "totalTournaments": 3,
     "gamesTotal": 20,
     "gamesWon": 10,
     "gamesDraw": 6,
     "gamesLost": 4,
-    "winRatio": 65
+    "winRatio": 65,
+    "_lastTenRatings": [
+      165.64753836429492,
+      165.2314256466277,
+      165.7027886498551,
+      167.19695903146652,
+      169.9228878938639,
+      166.51210147186003,
+      163.74569527238836,
+      166.33361577151493,
+      168.59815602734554,
+      169.16790890615044
+    ]
   },
   {
     "NAF Nr": "3228",
@@ -285,13 +499,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "149.31",
+    "rating": 149.2528076067239,
+    "bestRating": 153.54511407855537,
+    "worstRating": 149.2528076067239,
+    "tendency": -4.292306471831466,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      153.54511407855537,
+      152.86927420929578,
+      149.2528076067239
+    ]
   },
   {
     "NAF Nr": "3294",
@@ -299,13 +521,28 @@ const statsRaceBretonnian = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "202.68",
+    "rating": 201.67222672160543,
+    "bestRating": 202.098404928154,
+    "worstRating": 155.9431988135951,
+    "tendency": 6.470457316121212,
     "totalTournaments": 9,
     "gamesTotal": 36,
     "gamesWon": 21,
     "gamesDraw": 8,
     "gamesLost": 7,
-    "winRatio": 69.44
+    "winRatio": 69.44,
+    "_lastTenRatings": [
+      195.2017694054842,
+      190.30998735822308,
+      194.08864619895922,
+      199.26908850836136,
+      193.50768260963204,
+      193.2429294814261,
+      197.70891384338006,
+      200.07956074575085,
+      202.098404928154,
+      201.67222672160543
+    ]
   },
   {
     "NAF Nr": "3528",
@@ -313,13 +550,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "168.29",
+    "rating": 169.1865651822383,
+    "bestRating": 169.1865651822383,
+    "worstRating": 155.65685424949237,
+    "tendency": 13.529710932745928,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatings": [
+      155.65685424949237,
+      158.0411729171036,
+      163.59265596779764,
+      169.1865651822383
+    ]
   },
   {
     "NAF Nr": "3676",
@@ -327,13 +573,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "156.63",
+    "rating": 156.57712320801477,
+    "bestRating": 156.57712320801477,
+    "worstRating": 146.53589838486224,
+    "tendency": 10.041224823152533,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      146.53589838486224,
+      150.00017351668146,
+      153.07189604236166,
+      156.57712320801477
+    ]
   },
   {
     "NAF Nr": "3709",
@@ -341,13 +596,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "149.53",
+    "rating": 150.53808407983593,
+    "bestRating": 158.1636173921154,
+    "worstRating": 142.74690518667475,
+    "tendency": -7.625533312279487,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      158.1636173921154,
+      149.66988873587724,
+      142.74690518667475,
+      149.7665946979835,
+      143.1273473855255,
+      150.53808407983593
+    ]
   },
   {
     "NAF Nr": "3743",
@@ -355,13 +621,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "150.26",
+    "rating": 150.29890959170461,
+    "bestRating": 150.29890959170461,
+    "worstRating": 145.86153347953822,
+    "tendency": 0.051833096757775365,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.24707649494684,
+      145.86153347953822,
+      150.29890959170461
+    ]
   },
   {
     "NAF Nr": "3874",
@@ -369,13 +643,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Switzerland",
     "race": "Bretonnian",
-    "rating": "153.97",
+    "rating": 154.71144973694257,
+    "bestRating": 154.71144973694257,
+    "worstRating": 153.16227766016837,
+    "tendency": 1.549172076774198,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.16227766016837,
+      153.77054034946337,
+      154.71144973694257
+    ]
   },
   {
     "NAF Nr": "3981",
@@ -383,13 +665,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Bretonnian",
-    "rating": "172.28",
+    "rating": 172.63346564166937,
+    "bestRating": 172.9722959564649,
+    "worstRating": 154.75169945699912,
+    "tendency": 17.881766184670255,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 91.67
+    "winRatio": 91.67,
+    "_lastTenRatings": [
+      154.75169945699912,
+      159.17597111103044,
+      165.08107015501986,
+      169.29453900705002,
+      172.9722959564649,
+      172.63346564166937
+    ]
   },
   {
     "NAF Nr": "4244",
@@ -397,13 +690,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "151.95",
+    "rating": 152.0630539333263,
+    "bestRating": 159.79022816376764,
+    "worstRating": 152.0630539333263,
+    "tendency": -2.8359255522400417,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.89897948556634,
+      159.79022816376764,
+      157.00870620887977,
+      152.0630539333263
+    ]
   },
   {
     "NAF Nr": "4310",
@@ -411,13 +713,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "139.34",
+    "rating": 149.33608965189757,
+    "bestRating": 157.74596669241484,
+    "worstRating": 109.9072846569506,
+    "tendency": 13.984795028707168,
     "totalTournaments": 8,
     "gamesTotal": 39,
     "gamesWon": 12,
     "gamesDraw": 12,
     "gamesLost": 15,
-    "winRatio": 46.15
+    "winRatio": 46.15,
+    "_lastTenRatings": [
+      135.3512946231904,
+      132.3294282524969,
+      132.87967713130922,
+      129.5221718988372,
+      130.06219611933955,
+      134.05831351528596,
+      131.13254326375926,
+      137.1850127428304,
+      143.35580851627523,
+      149.33608965189757
+    ]
   },
   {
     "NAF Nr": "4380",
@@ -425,13 +742,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "142.04",
+    "rating": 143.09052694152982,
+    "bestRating": 149.12302580066032,
+    "worstRating": 137.95288528542793,
+    "tendency": -3.7713401447352624,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.86186708626508,
+      141.09007492469266,
+      137.95288528542793,
+      143.41530720781435,
+      149.12302580066032,
+      143.09052694152982
+    ]
   },
   {
     "NAF Nr": "4398",
@@ -439,13 +767,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "175.17",
+    "rating": 175.2167592999148,
+    "bestRating": 175.2167592999148,
+    "worstRating": 147.74607132756225,
+    "tendency": 27.47068797235255,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      147.74607132756225,
+      153.2890094964586,
+      158.94859395150007,
+      165.3147409512815,
+      172.8030977350491,
+      175.2167592999148
+    ]
   },
   {
     "NAF Nr": "4728",
@@ -453,13 +792,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "148.61",
+    "rating": 148.46974833271548,
+    "bestRating": 161.44092579707143,
+    "worstRating": 148.46974833271548,
+    "tendency": -7.187105916776886,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.33048439265312,
+      161.44092579707143,
+      153.85056965319575,
+      148.46974833271548
+    ]
   },
   {
     "NAF Nr": "4818",
@@ -467,13 +816,22 @@ const statsRaceBretonnian = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "159.65",
+    "rating": 159.82165662201078,
+    "bestRating": 164.92779152035604,
+    "worstRating": 155.0990195135928,
+    "tendency": 4.722637108417985,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.0990195135928,
+      159.79973736237372,
+      164.92779152035604,
+      159.82165662201078
+    ]
   },
   {
     "NAF Nr": "5131",
@@ -481,13 +839,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "158.76",
+    "rating": 157.03682468734033,
+    "bestRating": 168.62779711656333,
+    "worstRating": 155.0990195135928,
+    "tendency": -10.170567635647046,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 6,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 54.17
+    "winRatio": 54.17,
+    "_lastTenRatings": [
+      167.20739232298737,
+      163.60618868127332,
+      158.35668504180472,
+      159.63194012190706,
+      164.8713553755826,
+      158.9651294860648,
+      164.23536269087913,
+      168.62779711656333,
+      162.9724109914697,
+      157.03682468734033
+    ]
   },
   {
     "NAF Nr": "5222",
@@ -495,13 +868,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "149.82",
+    "rating": 149.8232230496082,
+    "bestRating": 150,
+    "worstRating": 146.44381667824558,
+    "tendency": -0.17677695039179753,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      146.44381667824558,
+      149.8232230496082
+    ]
   },
   {
     "NAF Nr": "5227",
@@ -509,13 +890,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "157.53",
+    "rating": 157.87936244811925,
+    "bestRating": 158.1668310368832,
+    "worstRating": 151.71337072372424,
+    "tendency": 2.2225081986268833,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      155.65685424949237,
+      151.71337072372424,
+      151.96656119809333,
+      158.1668310368832,
+      152.50933040129013,
+      157.87936244811925
+    ]
   },
   {
     "NAF Nr": "5271",
@@ -523,27 +915,44 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "race": "Bretonnian",
-    "rating": "149.24",
+    "rating": 149.21747442753644,
+    "bestRating": 154.23472616890444,
+    "worstRating": 149.21747442753644,
+    "tendency": -5.017251741368,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.23472616890444,
+      153.41456817201737,
+      149.21747442753644
+    ]
   },
   {
     "NAF Nr": "5594",
     "NAF Name": "Gotrek",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "154.14",
+    "rating": 154.39939947260305,
+    "bestRating": 159.52028654654785,
+    "worstRating": 154.05020097253004,
+    "tendency": 0.34919850007301534,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      154.05020097253004,
+      154.96145989728416,
+      159.52028654654785,
+      154.39939947260305
+    ]
   },
   {
     "NAF Nr": "5675",
@@ -551,13 +960,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "157.12",
+    "rating": 157.14115425961594,
+    "bestRating": 157.14115425961594,
+    "worstRating": 153.53814685181374,
+    "tendency": 3.6030074078022096,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      153.53814685181374,
+      157.00065251649056,
+      157.14115425961594
+    ]
   },
   {
     "NAF Nr": "5737",
@@ -565,27 +982,44 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "142.27",
+    "rating": 142.28364104658405,
+    "bestRating": 146.28934068531476,
+    "worstRating": 142.28364104658405,
+    "tendency": -4.005699638730704,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      146.28934068531476,
+      146.28045761260066,
+      142.28364104658405
+    ]
   },
   {
     "NAF Nr": "5773",
     "NAF Name": "Mitico",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "164.59",
+    "rating": 164.92129455122176,
+    "bestRating": 164.92129455122176,
+    "worstRating": 155.0990195135928,
+    "tendency": 9.82227503762897,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatings": [
+      155.0990195135928,
+      159.93393333473688,
+      159.80437026109533,
+      164.92129455122176
+    ]
   },
   {
     "NAF Nr": "5863",
@@ -593,13 +1027,25 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "155.24",
+    "rating": 153.93890474130828,
+    "bestRating": 159.67218490830743,
+    "worstRating": 146.00911500429794,
+    "tendency": 7.518995204182829,
     "totalTournaments": 1,
     "gamesTotal": 7,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.41990953712545,
+      152.17094559838944,
+      146.00911500429794,
+      152.18279358803332,
+      159.25413937846952,
+      159.67218490830743,
+      153.93890474130828
+    ]
   },
   {
     "NAF Nr": "5903",
@@ -607,13 +1053,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "166.07",
+    "rating": 166.26698952997077,
+    "bestRating": 166.26698952997077,
+    "worstRating": 155.65685424949237,
+    "tendency": 10.610135280478403,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.65685424949237,
+      160.54862054322814,
+      166.26698952997077
+    ]
   },
   {
     "NAF Nr": "6048",
@@ -621,13 +1075,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Bretonnian",
-    "rating": "157.42",
+    "rating": 158.929398021032,
+    "bestRating": 162.52027923161089,
+    "worstRating": 138.07850417787967,
+    "tendency": 17.15826948208496,
     "totalTournaments": 6,
     "gamesTotal": 24,
     "gamesWon": 9,
     "gamesDraw": 6,
     "gamesLost": 9,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      141.77112853894704,
+      146.9938569419181,
+      148.86070145941792,
+      149.84877936169568,
+      154.59802341928082,
+      158.57796455614204,
+      162.52027923161089,
+      159.85150599255883,
+      156.25031134509078,
+      158.929398021032
+    ]
   },
   {
     "NAF Nr": "6121",
@@ -635,13 +1104,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "race": "Bretonnian",
-    "rating": "143.52",
+    "rating": 143.84858302120364,
+    "bestRating": 152.5190316858203,
+    "worstRating": 143.84858302120364,
+    "tendency": -8.670448664616657,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      152.5190316858203,
+      148.84876680217982,
+      143.84858302120364
+    ]
   },
   {
     "NAF Nr": "6123",
@@ -649,13 +1126,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "race": "Bretonnian",
-    "rating": "172.35",
+    "rating": 176.7884829585583,
+    "bestRating": 180.58056386360093,
+    "worstRating": 149.35942607805637,
+    "tendency": 16.665649426058792,
     "totalTournaments": 3,
     "gamesTotal": 13,
     "gamesWon": 8,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 69.23
+    "winRatio": 69.23,
+    "_lastTenRatings": [
+      160.1228335324995,
+      155.67742642048373,
+      149.69368257890127,
+      154.30631996306863,
+      161.6773829697689,
+      169.05005429520838,
+      172.4693285159303,
+      176.77188399649265,
+      180.58056386360093,
+      176.7884829585583
+    ]
   },
   {
     "NAF Nr": "6183",
@@ -663,13 +1155,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Bretonnian",
-    "rating": "184.92",
+    "rating": 184.85964248419432,
+    "bestRating": 184.85964248419432,
+    "worstRating": 154.1853630559112,
+    "tendency": 25.00800031780156,
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 11,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 82.14
+    "winRatio": 82.14,
+    "_lastTenRatings": [
+      159.85164216639276,
+      165.13998279008416,
+      168.94397335841668,
+      172.92139764151455,
+      168.56108295535066,
+      172.04091220983824,
+      176.07928976053296,
+      180.10964858473844,
+      182.87767472594084,
+      184.85964248419432
+    ]
   },
   {
     "NAF Nr": "6193",
@@ -677,13 +1184,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "194.25",
+    "rating": 185.7707425434788,
+    "bestRating": 194.80307820359445,
+    "worstRating": 154.98357673277712,
+    "tendency": 10.35538707731456,
     "totalTournaments": 4,
     "gamesTotal": 18,
     "gamesWon": 8,
     "gamesDraw": 7,
     "gamesLost": 3,
-    "winRatio": 63.89
+    "winRatio": 63.89,
+    "_lastTenRatings": [
+      175.41535546616424,
+      181.39878481835672,
+      187.52063308249873,
+      193.58931230800448,
+      192.56912210185484,
+      194.80307820359445,
+      194.0235839572824,
+      193.1026608189745,
+      189.42674407651455,
+      185.7707425434788
+    ]
   },
   {
     "NAF Nr": "6261",
@@ -691,13 +1213,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "150.02",
+    "rating": 150.74004846661555,
+    "bestRating": 150.7955474347724,
+    "worstRating": 150,
+    "tendency": 0.7400484666155478,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      150.7955474347724,
+      150.74004846661555
+    ]
   },
   {
     "NAF Nr": "6363",
@@ -705,13 +1235,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Bretonnian",
-    "rating": "154.15",
+    "rating": 154.2712688761508,
+    "bestRating": 154.2712688761508,
+    "worstRating": 154.2712688761508,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.2712688761508
+    ]
   },
   {
     "NAF Nr": "6376",
@@ -719,13 +1255,25 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "162.01",
+    "rating": 161.586568036437,
+    "bestRating": 161.586568036437,
+    "worstRating": 148.82087021152455,
+    "tendency": 12.76569782491245,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 64.29
+    "winRatio": 64.29,
+    "_lastTenRatings": [
+      148.82087021152455,
+      155.74498443288323,
+      150.53583201852732,
+      157.19869842929893,
+      161.24104878999384,
+      160.20304445267558,
+      161.586568036437
+    ]
   },
   {
     "NAF Nr": "6482",
@@ -733,13 +1281,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "150.34",
+    "rating": 150.35842591747837,
+    "bestRating": 150.35842591747837,
+    "worstRating": 146,
+    "tendency": 4.358425917478371,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146,
+      150.00883163662863,
+      146.54150323980116,
+      146.9560069298272,
+      146.61055169674881,
+      150.35842591747837
+    ]
   },
   {
     "NAF Nr": "6780",
@@ -747,13 +1306,26 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "173.14",
+    "rating": 173.7790924283403,
+    "bestRating": 173.7790924283403,
+    "worstRating": 154,
+    "tendency": 19.779092428340306,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatings": [
+      154,
+      158,
+      162.79887036642762,
+      163.81588624443418,
+      165.6841542716676,
+      168.46758414406133,
+      171.12537750808548,
+      173.7790924283403
+    ]
   },
   {
     "NAF Nr": "6833",
@@ -761,13 +1333,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "143.23",
+    "rating": 143.2420983374598,
+    "bestRating": 155.23572338424785,
+    "worstRating": 143.2420983374598,
+    "tendency": -11.993625046788054,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      155.23572338424785,
+      151.47504067437103,
+      148.02829638821038,
+      143.2420983374598
+    ]
   },
   {
     "NAF Nr": "7037",
@@ -775,13 +1356,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "157.08",
+    "rating": 156.91464026517377,
+    "bestRating": 156.91464026517377,
+    "worstRating": 149.99984024415974,
+    "tendency": 3.450538650036009,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      153.46410161513776,
+      149.99984024415974,
+      153.5535079995657,
+      156.91464026517377
+    ]
   },
   {
     "NAF Nr": "7192",
@@ -789,13 +1379,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "162.77",
+    "rating": 163.11100842732654,
+    "bestRating": 163.11100842732654,
+    "worstRating": 155.65685424949237,
+    "tendency": 7.45415417783417,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.33414027363008,
+      156.82704959091973,
+      162.43146789463722,
+      157.60084347590484,
+      163.11100842732654
+    ]
   },
   {
     "NAF Nr": "7194",
@@ -803,13 +1404,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "180.91",
+    "rating": 182.38586256102766,
+    "bestRating": 182.89362747469693,
+    "worstRating": 154.47213595499957,
+    "tendency": 3.1904561576502886,
     "totalTournaments": 4,
     "gamesTotal": 24,
     "gamesWon": 13,
     "gamesDraw": 6,
     "gamesLost": 5,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      179.19540640337738,
+      182.89362747469693,
+      178.51938101931697,
+      173.523362767151,
+      177.71163669792307,
+      175.27696983443283,
+      178.53825696135235,
+      177.73819827929694,
+      181.87148469064599,
+      182.38586256102766
+    ]
   },
   {
     "NAF Nr": "7218",
@@ -817,13 +1433,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "155.59",
+    "rating": 155.4847732820556,
+    "bestRating": 155.4847732820556,
+    "worstRating": 151.96559671767434,
+    "tendency": 3.5191765643812687,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatings": [
+      151.96559671767434,
+      153.76488974914017,
+      153.76814253233,
+      155.4847732820556
+    ]
   },
   {
     "NAF Nr": "7230",
@@ -831,13 +1456,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "143.09",
+    "rating": 142.8786555073898,
+    "bestRating": 147.53300980710713,
+    "worstRating": 139.17627869375255,
+    "tendency": -1.4644902431178366,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      144.34314575050763,
+      139.17627869375255,
+      147.53300980710713,
+      143.27665155517425,
+      142.8786555073898
+    ]
   },
   {
     "NAF Nr": "7394",
@@ -845,13 +1480,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Monaco",
     "race": "Bretonnian",
-    "rating": "145.3",
+    "rating": 145.25821348528842,
+    "bestRating": 155.60464078091806,
+    "worstRating": 145.25821348528842,
+    "tendency": -10.346427295629638,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      155.60464078091806,
+      154.89664498488682,
+      154.8725360618484,
+      150.54128843248716,
+      150.54015914410888,
+      145.25821348528842
+    ]
   },
   {
     "NAF Nr": "7407",
@@ -859,13 +1505,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Monaco",
     "race": "Bretonnian",
-    "rating": "161.91",
+    "rating": 162.53314505868187,
+    "bestRating": 163.81819322284414,
+    "worstRating": 152.49423272930295,
+    "tendency": 5.548231238701874,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 61.11
+    "winRatio": 61.11,
+    "_lastTenRatings": [
+      156.98491381998,
+      157.5954360334044,
+      163.81819322284414,
+      159.20855883903374,
+      159.32594948503848,
+      152.49423272930295,
+      157.79764440661958,
+      163.07742305166926,
+      162.53314505868187
+    ]
   },
   {
     "NAF Nr": "7422",
@@ -873,13 +1533,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "158.42",
+    "rating": 156.55646559944543,
+    "bestRating": 162.41448317402245,
+    "worstRating": 142.47845942360425,
+    "tendency": 6.556465599445431,
     "totalTournaments": 2,
     "gamesTotal": 11,
     "gamesWon": 4,
     "gamesDraw": 4,
     "gamesLost": 3,
-    "winRatio": 54.55
+    "winRatio": 54.55,
+    "_lastTenRatings": [
+      150,
+      150,
+      142.47845942360425,
+      149.18996984234025,
+      149.23812753281058,
+      156.08619274650925,
+      155.29828298245582,
+      156.72905700115723,
+      162.41448317402245,
+      156.55646559944543
+    ]
   },
   {
     "NAF Nr": "7539",
@@ -887,13 +1562,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Guadeloupe",
     "race": "Bretonnian",
-    "rating": "154.91",
+    "rating": 154.3758752898552,
+    "bestRating": 154.3758752898552,
+    "worstRating": 149.94860002508796,
+    "tendency": 4.07971211329658,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 0,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      150.29616317655862,
+      150.410791921859,
+      149.94860002508796,
+      150.0038528073784,
+      154.3758752898552
+    ]
   },
   {
     "NAF Nr": "7690",
@@ -901,13 +1586,22 @@ const statsRaceBretonnian = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "155.81",
+    "rating": 156.87787483285678,
+    "bestRating": 156.87787483285678,
+    "worstRating": 150.97272707605305,
+    "tendency": 5.9051477568037285,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      150.97272707605305,
+      151.14878455825652,
+      151.089791858257,
+      156.87787483285678
+    ]
   },
   {
     "NAF Nr": "7693",
@@ -915,13 +1609,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "149.83",
+    "rating": 150.00441065522068,
+    "bestRating": 153.46410161513776,
+    "worstRating": 142.80138820389922,
+    "tendency": -3.459690959917083,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      153.46410161513776,
+      149.99968020244916,
+      146.916786453886,
+      142.80138820389922,
+      146.44483353796684,
+      150.00441065522068
+    ]
   },
   {
     "NAF Nr": "7729",
@@ -929,13 +1634,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "135.22",
+    "rating": 136.1556180254697,
+    "bestRating": 150,
+    "worstRating": 136.1556180254697,
+    "tendency": -10.352795539594723,
     "totalTournaments": 3,
     "gamesTotal": 11,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 7,
-    "winRatio": 27.27
+    "winRatio": 27.27,
+    "_lastTenRatings": [
+      146.50841356506442,
+      142.14421784131446,
+      137.54026662795542,
+      142.54298550085824,
+      142.8510882825062,
+      146.7855802960538,
+      142.63392755266761,
+      141.02821653261577,
+      138.62421998998826,
+      136.1556180254697
+    ]
   },
   {
     "NAF Nr": "7770",
@@ -943,13 +1663,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Bretonnian",
-    "rating": "154.72",
+    "rating": 154.82164116594996,
+    "bestRating": 154.82164116594996,
+    "worstRating": 149.9887064559258,
+    "tendency": 4.821641165949956,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      150,
+      149.9887064559258,
+      154.82164116594996
+    ]
   },
   {
     "NAF Nr": "7873",
@@ -957,13 +1685,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "153.27",
+    "rating": 153.90689132110853,
+    "bestRating": 159.35534445213236,
+    "worstRating": 142.1602215009554,
+    "tendency": 4.278685155888297,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      149.62820616522023,
+      155.4163363789713,
+      151.5588653411312,
+      147.71800637070132,
+      142.1602215009554,
+      147.99401359806137,
+      148.17095085572484,
+      153.5102403157841,
+      159.35534445213236,
+      153.90689132110853
+    ]
   },
   {
     "NAF Nr": "8001",
@@ -971,13 +1714,22 @@ const statsRaceBretonnian = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "149.83",
+    "rating": 150.25849083697986,
+    "bestRating": 150.25849083697986,
+    "worstRating": 144.9009804864072,
+    "tendency": 5.357510350572653,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.9009804864072,
+      144.9009804864072,
+      149.8161105108298,
+      150.25849083697986
+    ]
   },
   {
     "NAF Nr": "8122",
@@ -985,13 +1737,26 @@ const statsRaceBretonnian = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "178.19",
+    "rating": 179.09068428766344,
+    "bestRating": 179.09068428766344,
+    "worstRating": 149.91559802345876,
+    "tendency": 29.17508626420468,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 6,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 81.25
+    "winRatio": 81.25,
+    "_lastTenRatings": [
+      149.91559802345876,
+      155.5987993533396,
+      159.82064084005353,
+      165.20372221253487,
+      162.67972158748066,
+      168.22341222553442,
+      172.89928712503584,
+      179.09068428766344
+    ]
   },
   {
     "NAF Nr": "8196",
@@ -999,13 +1764,22 @@ const statsRaceBretonnian = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "149.62",
+    "rating": 150.4261600638368,
+    "bestRating": 150.4261600638368,
+    "worstRating": 144.5632974017,
+    "tendency": 5.852870288248795,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.573289775588,
+      144.5632974017,
+      149.3555278330962,
+      150.4261600638368
+    ]
   },
   {
     "NAF Nr": "8351",
@@ -1013,13 +1787,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "143.92",
+    "rating": 151.40210279921965,
+    "bestRating": 155.20756169164125,
+    "worstRating": 130.34469094788508,
+    "tendency": 4.79197894182613,
     "totalTournaments": 3,
     "gamesTotal": 15,
     "gamesWon": 6,
     "gamesDraw": 4,
     "gamesLost": 5,
-    "winRatio": 53.33
+    "winRatio": 53.33,
+    "_lastTenRatings": [
+      146.61012385739352,
+      145.76015458788115,
+      137.81484429064534,
+      130.34469094788508,
+      135.50461557991,
+      142.85397278887422,
+      147.95736165556514,
+      148.23839550039253,
+      150.66429495680273,
+      151.40210279921965
+    ]
   },
   {
     "NAF Nr": "8402",
@@ -1027,13 +1816,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "155.61",
+    "rating": 157.11455604920292,
+    "bestRating": 157.11455604920292,
+    "worstRating": 144.98556130736935,
+    "tendency": 0.7182118679428413,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 55.56
+    "winRatio": 55.56,
+    "_lastTenRatings": [
+      156.39634418126008,
+      155.5702831949133,
+      150.41183181932308,
+      151.09427294759342,
+      144.98556130736935,
+      150.44106153860045,
+      151.69880607466965,
+      152.25219493704282,
+      157.11455604920292
+    ]
   },
   {
     "NAF Nr": "8441",
@@ -1041,13 +1844,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "163.66",
+    "rating": 159.32766113384642,
+    "bestRating": 159.64900887083618,
+    "worstRating": 150,
+    "tendency": 9.32766113384642,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      150,
+      154.93552149156827,
+      159.64900887083618,
+      155.440848742029,
+      159.32766113384642
+    ]
   },
   {
     "NAF Nr": "8559",
@@ -1055,13 +1868,20 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "155.5",
+    "rating": 155.65685424949237,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "tendency": 5.656854249492369,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      150,
+      155.65685424949237
+    ]
   },
   {
     "NAF Nr": "8630",
@@ -1069,13 +1889,22 @@ const statsRaceBretonnian = [
     "CCAA": "Euskadi",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "147.18",
+    "rating": 147.14074367151608,
+    "bestRating": 156.0463495876386,
+    "worstRating": 147.14074367151608,
+    "tendency": -8.90560591612251,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      156.0463495876386,
+      152.13928595531868,
+      152.07920617954375,
+      147.14074367151608
+    ]
   },
   {
     "NAF Nr": "8672",
@@ -1083,13 +1912,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Monaco",
     "race": "Bretonnian",
-    "rating": "155.25",
+    "rating": 155.6123503143336,
+    "bestRating": 155.63993855470366,
+    "worstRating": 136.51694791932732,
+    "tendency": 13.207813927401958,
     "totalTournaments": 2,
     "gamesTotal": 13,
     "gamesWon": 6,
     "gamesDraw": 1,
     "gamesLost": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      142.40453638693165,
+      147.50663092349282,
+      152.61038780921308,
+      146.9856557596114,
+      153.69555192282684,
+      149.4701909422225,
+      155.63993855470366,
+      150.08185658374092,
+      150.00480722011383,
+      155.6123503143336
+    ]
   },
   {
     "NAF Nr": "8730",
@@ -1097,13 +1941,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "143.44",
+    "rating": 143.1666175423089,
+    "bestRating": 147.34226311263726,
+    "worstRating": 142.98603938267664,
+    "tendency": -2.8333824576911013,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      146,
+      146,
+      142.98603938267664,
+      147.34226311263726,
+      143.1666175423089
+    ]
   },
   {
     "NAF Nr": "8731",
@@ -1111,13 +1965,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "153.11",
+    "rating": 153.09804814817312,
+    "bestRating": 153.19886653929373,
+    "worstRating": 149.62932565949862,
+    "tendency": -0.10081839112061175,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.19886653929373,
+      149.62932565949862,
+      153.09804814817312
+    ]
   },
   {
     "NAF Nr": "8734",
@@ -1125,13 +1987,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "race": "Bretonnian",
-    "rating": "176.4",
+    "rating": 176.8142237906034,
+    "bestRating": 176.8142237906034,
+    "worstRating": 146.58758591973125,
+    "tendency": 30.22663787087214,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      146.58758591973125,
+      149.6952912014215,
+      155.6416540554553,
+      160.43017028134832,
+      165.76525495580157,
+      166.62861063900874,
+      160.2536708180024,
+      166.3187900327342,
+      171.97988281460542,
+      176.8142237906034
+    ]
   },
   {
     "NAF Nr": "8866",
@@ -1139,13 +2016,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Bretonnian",
-    "rating": "164.34",
+    "rating": 164.5990859159372,
+    "bestRating": 175.33465656026846,
+    "worstRating": 150.8735500362354,
+    "tendency": 7.378925279823591,
     "totalTournaments": 3,
     "gamesTotal": 13,
     "gamesWon": 6,
     "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 57.69
+    "winRatio": 57.69,
+    "_lastTenRatings": [
+      157.2201606361136,
+      164.59925663809312,
+      164.18566295223167,
+      171.7051626301721,
+      167.94992486571107,
+      175.33465656026846,
+      168.59148045582035,
+      173.2634374197745,
+      166.36284596465012,
+      164.5990859159372
+    ]
   },
   {
     "NAF Nr": "8994",
@@ -1153,13 +2045,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "154.45",
+    "rating": 154.49943996293268,
+    "bestRating": 154.49943996293268,
+    "worstRating": 149.99675183993565,
+    "tendency": 0.49943996293268356,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154,
+      149.99675183993565,
+      154.49943996293268
+    ]
   },
   {
     "NAF Nr": "9041",
@@ -1167,13 +2067,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "166.4",
+    "rating": 165.60560075210577,
+    "bestRating": 165.60560075210577,
+    "worstRating": 150,
+    "tendency": 7.859634059690933,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150,
+      157.74596669241484,
+      165.59182129074762,
+      157.86389931771015,
+      165.60560075210577
+    ]
   },
   {
     "NAF Nr": "9136",
@@ -1181,13 +2092,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "133.76",
+    "rating": 133.57121533793716,
+    "bestRating": 145.02035326141305,
+    "worstRating": 133.57121533793716,
+    "tendency": -11.449137923475888,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      145.02035326141305,
+      138.7416945342192,
+      133.57121533793716
+    ]
   },
   {
     "NAF Nr": "9252",
@@ -1195,13 +2114,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "189.98",
+    "rating": 190.08079101666053,
+    "bestRating": 190.08079101666053,
+    "worstRating": 151.97625878319852,
+    "tendency": 22.719975301084673,
     "totalTournaments": 4,
     "gamesTotal": 22,
     "gamesWon": 14,
     "gamesDraw": 3,
     "gamesLost": 5,
-    "winRatio": 70.45
+    "winRatio": 70.45,
+    "_lastTenRatings": [
+      167.36081571557585,
+      158.6178138455075,
+      168.22284768736972,
+      175.81700725214822,
+      175.86490007030696,
+      178.76630108011545,
+      181.91197202716276,
+      184.99363242094918,
+      187.74410295090766,
+      190.08079101666053
+    ]
   },
   {
     "NAF Nr": "9471",
@@ -1209,13 +2143,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "156.89",
+    "rating": 156.47156246491758,
+    "bestRating": 163.85608905247653,
+    "worstRating": 150.27901471262226,
+    "tendency": -1.0117523086302924,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      157.48331477354787,
+      150.27901471262226,
+      157.77897259078964,
+      163.80042982968024,
+      163.85608905247653,
+      156.47156246491758
+    ]
   },
   {
     "NAF Nr": "9672",
@@ -1223,13 +2168,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "150.51",
+    "rating": 150.0944803511334,
+    "bestRating": 150.0944803511334,
+    "worstRating": 140.66722012880038,
+    "tendency": 4.566616306132971,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.52786404500043,
+      140.66722012880038,
+      145.3042861728189,
+      150.0944803511334
+    ]
   },
   {
     "NAF Nr": "9812",
@@ -1237,13 +2191,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "158.25",
+    "rating": 158.56052216038563,
+    "bestRating": 161.10162227683145,
+    "worstRating": 144.35406911372527,
+    "tendency": 14.206453046660357,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      144.35406911372527,
+      149.78033558142346,
+      155.44672720301452,
+      155.45579334254282,
+      161.10162227683145,
+      155.22816068694402,
+      152.2536044306264,
+      155.3611894601467,
+      155.43857523332255,
+      158.56052216038563
+    ]
   },
   {
     "NAF Nr": "9813",
@@ -1251,13 +2220,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "165.0",
+    "rating": 165.68293411307255,
+    "bestRating": 165.68293411307255,
+    "worstRating": 157.50102578397184,
+    "tendency": 8.181908329100708,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      157.50102578397184,
+      162.8325601442351,
+      163.39019936456347,
+      163.94778766483438,
+      165.68293411307255
+    ]
   },
   {
     "NAF Nr": "9862",
@@ -1265,13 +2244,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "162.81",
+    "rating": 161.52805928603976,
+    "bestRating": 167.53638334960854,
+    "worstRating": 150,
+    "tendency": 6.236556663910591,
     "totalTournaments": 3,
     "gamesTotal": 11,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 63.64
+    "winRatio": 63.64,
+    "_lastTenRatings": [
+      155.29150262212917,
+      155.48336397589887,
+      160.76781906372344,
+      164.20094533003186,
+      167.53638334960854,
+      163.50376172328143,
+      159.37593394909058,
+      161.64945483443688,
+      163.83490680310624,
+      161.52805928603976
+    ]
   },
   {
     "NAF Nr": "9884",
@@ -1279,27 +2273,48 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "161.83",
+    "rating": 162.53300075625611,
+    "bestRating": 162.6689251978529,
+    "worstRating": 150,
+    "tendency": 12.533000756256115,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 80
+    "winRatio": 80,
+    "_lastTenRatings": [
+      150,
+      154.2426406871193,
+      158.41549644408735,
+      162.6689251978529,
+      162.53300075625611
+    ]
   },
   {
     "NAF Nr": "9937",
     "NAF Name": "Marulick",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "156.3",
+    "rating": 156.48098758952915,
+    "bestRating": 156.82279849759627,
+    "worstRating": 150.82286134241664,
+    "tendency": 0.8241333400367807,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      155.65685424949237,
+      151.1177858851708,
+      156.82279849759627,
+      150.94398159012084,
+      150.82286134241664,
+      156.48098758952915
+    ]
   },
   {
     "NAF Nr": "10236",
@@ -1307,27 +2322,51 @@ const statsRaceBretonnian = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "150.58",
+    "rating": 149.8408645863581,
+    "bestRating": 149.8408645863581,
+    "worstRating": 140.33257391657676,
+    "tendency": 4.928476183635638,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.91238840272246,
+      140.33257391657676,
+      144.84363863754004,
+      149.8408645863581
+    ]
   },
   {
     "NAF Nr": "10279",
     "NAF Name": "Cesar",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "170.8",
+    "rating": 169.2802298733888,
+    "bestRating": 169.2802298733888,
+    "worstRating": 148.1916890475811,
+    "tendency": 15.503227463260828,
     "totalTournaments": 5,
     "gamesTotal": 26,
     "gamesWon": 10,
     "gamesDraw": 9,
     "gamesLost": 7,
-    "winRatio": 55.77
+    "winRatio": 55.77,
+    "_lastTenRatings": [
+      153.77700241012798,
+      148.1916890475811,
+      153.67214675002137,
+      158.73345879541324,
+      152.18358851208538,
+      157.4826833792055,
+      157.28347425484262,
+      157.61431195064273,
+      163.57792786618165,
+      169.2802298733888
+    ]
   },
   {
     "NAF Nr": "10305",
@@ -1335,13 +2374,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "150.37",
+    "rating": 151.21512785896954,
+    "bestRating": 151.9050584875301,
+    "worstRating": 144.51417698434648,
+    "tendency": 6.700950874623061,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.51417698434648,
+      150.16360541068187,
+      146.22410771306392,
+      151.9050584875301,
+      145.2622337739263,
+      151.21512785896954
+    ]
   },
   {
     "NAF Nr": "10320",
@@ -1349,13 +2399,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "159.01",
+    "rating": 158.93872409118407,
+    "bestRating": 158.93872409118407,
+    "worstRating": 149.80983459967456,
+    "tendency": 8.93872409118407,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      150,
+      149.80983459967456,
+      154.03959861954098,
+      158.93872409118407
+    ]
   },
   {
     "NAF Nr": "10346",
@@ -1363,13 +2422,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "148.24",
+    "rating": 148.32000097239217,
+    "bestRating": 148.32000097239217,
+    "worstRating": 143.4008664323595,
+    "tendency": 3.9768552218845343,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.34314575050763,
+      143.4008664323595,
+      144.5171240062549,
+      148.32000097239217
+    ]
   },
   {
     "NAF Nr": "10488",
@@ -1377,13 +2445,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Bretonnian",
-    "rating": "172.7",
+    "rating": 167.2405109528664,
+    "bestRating": 167.50072891122656,
+    "worstRating": 156.81080066876626,
+    "tendency": 10.429710284100139,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 80
+    "winRatio": 80,
+    "_lastTenRatings": [
+      156.81080066876626,
+      162.50193033154122,
+      167.50072891122656,
+      161.96261454749208,
+      167.2405109528664
+    ]
   },
   {
     "NAF Nr": "10572",
@@ -1391,13 +2469,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "157.45",
+    "rating": 157.75191183425545,
+    "bestRating": 163.44797193924322,
+    "worstRating": 151.5038006771532,
+    "tendency": 6.248111157102244,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      151.5038006771532,
+      157.34930311144305,
+      162.94869604888007,
+      157.8425420909711,
+      163.44797193924322,
+      157.75191183425545
+    ]
   },
   {
     "NAF Nr": "10622",
@@ -1405,27 +2494,49 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "142.15",
+    "rating": 142.17870265914183,
+    "bestRating": 145.04019267099156,
+    "worstRating": 142.17870265914183,
+    "tendency": -2.8614900118497246,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.04019267099156,
+      142.7167359935363,
+      142.65126925181465,
+      142.4133067539486,
+      142.3616697835939,
+      142.17870265914183
+    ]
   },
   {
     "NAF Nr": "10827",
     "NAF Name": "Lukechin",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "148.29",
+    "rating": 147.6500959210836,
+    "bestRating": 157.53469565023283,
+    "worstRating": 145.0651321036543,
+    "tendency": -2.171513261850862,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      149.82160918293445,
+      145.0651321036543,
+      150.32907850880503,
+      157.53469565023283,
+      153.16071069385848,
+      147.6500959210836
+    ]
   },
   {
     "NAF Nr": "10831",
@@ -1433,13 +2544,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Bretonnian",
-    "rating": "143.97",
+    "rating": 143.46017786448496,
+    "bestRating": 155.64751424325576,
+    "worstRating": 133.5760309985393,
+    "tendency": -6.539822135515038,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 38.89
+    "winRatio": 38.89,
+    "_lastTenRatings": [
+      150,
+      155.64751424325576,
+      150.0834288520082,
+      144.61037064357507,
+      139.57344284974275,
+      133.5760309985393,
+      140.91089182737443,
+      146.96459421740448,
+      143.46017786448496
+    ]
   },
   {
     "NAF Nr": "10845",
@@ -1447,13 +2572,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "170.55",
+    "rating": 170.80505958503443,
+    "bestRating": 170.80505958503443,
+    "worstRating": 150,
+    "tendency": 16.114643825211004,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      154.69041575982342,
+      150,
+      150.0008007202426,
+      151.74067671951332,
+      156.26203198616827,
+      153.1321620176532,
+      157.77379342583114,
+      162.30144700416182,
+      166.63879475980332,
+      170.80505958503443
+    ]
   },
   {
     "NAF Nr": "10904",
@@ -1461,13 +2601,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "177.71",
+    "rating": 178.91191530464218,
+    "bestRating": 178.91191530464218,
+    "worstRating": 154.69041575982342,
+    "tendency": 24.221499544818755,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 6,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.69041575982342,
+      159.04370140771726,
+      163.40909417722565,
+      168.10042719998907,
+      172.90941279055576,
+      178.91191530464218
+    ]
   },
   {
     "NAF Nr": "11052",
@@ -1475,13 +2626,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "164.97",
+    "rating": 163.75697986128498,
+    "bestRating": 163.75697986128498,
+    "worstRating": 150.05538549418225,
+    "tendency": 13.701594367102729,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 80
+    "winRatio": 80,
+    "_lastTenRatings": [
+      150.05538549418225,
+      155.28071609441523,
+      158.6131833095236,
+      158.13096570690064,
+      163.75697986128498
+    ]
   },
   {
     "NAF Nr": "11137",
@@ -1489,13 +2650,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "152.82",
+    "rating": 153.43793128186192,
+    "bestRating": 155.0008527999884,
+    "worstRating": 152.82842712474618,
+    "tendency": 0.6095041571157367,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      152.82842712474618,
+      155.0008527999884,
+      153.43793128186192
+    ]
   },
   {
     "NAF Nr": "11141",
@@ -1503,13 +2672,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "148.6",
+    "rating": 148.66138811456972,
+    "bestRating": 154.60261680301863,
+    "worstRating": 148.66138811456972,
+    "tendency": -5.941228688448916,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.60261680301863,
+      148.78311122958306,
+      148.66138811456972
+    ]
   },
   {
     "NAF Nr": "11278",
@@ -1517,13 +2694,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "155.82",
+    "rating": 153.87860195700446,
+    "bestRating": 173.15030867168554,
+    "worstRating": 152.2819978359243,
+    "tendency": -3.8673647354103764,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 55
+    "winRatio": 55,
+    "_lastTenRatings": [
+      157.74596669241484,
+      165.49193338482968,
+      173.15030867168554,
+      165.93669222487247,
+      158.637546655684,
+      152.2819978359243,
+      154.10419850795193,
+      153.9767898045019,
+      153.97353702131207,
+      153.87860195700446
+    ]
   },
   {
     "NAF Nr": "11295",
@@ -1531,13 +2723,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "145.5",
+    "rating": 146.02345573840282,
+    "bestRating": 146.16121149350374,
+    "worstRating": 140.4156205291845,
+    "tendency": -0.13775575510092608,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.16121149350374,
+      140.4156205291845,
+      146.02345573840282
+    ]
   },
   {
     "NAF Nr": "11297",
@@ -1545,13 +2745,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "173.78",
+    "rating": 174.34129746467994,
+    "bestRating": 174.34129746467994,
+    "worstRating": 152.74323065630014,
+    "tendency": 21.598066808379798,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      152.74323065630014,
+      158.23243142385766,
+      157.44550589126837,
+      162.39081764387544,
+      168.01716574697608,
+      174.34129746467994
+    ]
   },
   {
     "NAF Nr": "11497",
@@ -1559,13 +2770,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Bretonnian",
-    "rating": "153.5",
+    "rating": 153.46410161513776,
+    "bestRating": 153.46410161513776,
+    "worstRating": 153.46410161513776,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      153.46410161513776
+    ]
   },
   {
     "NAF Nr": "11498",
@@ -1573,13 +2790,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Bretonnian",
-    "rating": "170.64",
+    "rating": 170.22923813096676,
+    "bestRating": 170.22923813096676,
+    "worstRating": 147.58806967122882,
+    "tendency": 10.628082842141794,
     "totalTournaments": 4,
     "gamesTotal": 16,
     "gamesWon": 7,
     "gamesDraw": 6,
     "gamesLost": 3,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      159.60115528882497,
+      159.70098881692363,
+      163.8843788402706,
+      163.5470529572373,
+      159.86829324919447,
+      164.41841256800137,
+      164.04929564114943,
+      166.31538723169876,
+      165.9035948729216,
+      170.22923813096676
+    ]
   },
   {
     "NAF Nr": "11499",
@@ -1587,13 +2819,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Bretonnian",
-    "rating": "146.75",
+    "rating": 146.80386794809,
+    "bestRating": 150.0542434063338,
+    "worstRating": 146.50005287130438,
+    "tendency": -3.21996159226714,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      150.02382954035713,
+      146.50005287130438,
+      150.0542434063338,
+      146.80386794809
+    ]
   },
   {
     "NAF Nr": "11531",
@@ -1601,13 +2842,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "race": "Bretonnian",
-    "rating": "146.72",
+    "rating": 146.60785142396904,
+    "bestRating": 157.08777081251228,
+    "worstRating": 140.8326957633309,
+    "tendency": -10.479919388543237,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      157.08777081251228,
+      151.72332798086015,
+      146.42269540620865,
+      140.8326957633309,
+      146.60785142396904
+    ]
   },
   {
     "NAF Nr": "11622",
@@ -1615,13 +2866,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "146.67",
+    "rating": 146.60871652502323,
+    "bestRating": 146.6138340522467,
+    "worstRating": 143.0628987811961,
+    "tendency": 0.17655395139377106,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      146.43216257362945,
+      143.0628987811961,
+      146.6138340522467,
+      146.60871652502323
+    ]
   },
   {
     "NAF Nr": "11655",
@@ -1629,13 +2889,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "172.45",
+    "rating": 173.03646081765766,
+    "bestRating": 173.03646081765766,
+    "worstRating": 150.1325621239276,
+    "tendency": 17.695016413310668,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      155.341444404347,
+      150.1325621239276,
+      155.7845165417674,
+      161.42633050785741,
+      166.8507254495044,
+      173.03646081765766
+    ]
   },
   {
     "NAF Nr": "11678",
@@ -1643,13 +2914,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "158.47",
+    "rating": 157.85971077271208,
+    "bestRating": 171.90969802156195,
+    "worstRating": 157.74596669241484,
+    "tendency": 0.11374408029723782,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 55
+    "winRatio": 55,
+    "_lastTenRatings": [
+      157.74596669241484,
+      165.52149818302212,
+      164.76637290156927,
+      171.90969802156195,
+      166.70627871422306,
+      159.8091685237968,
+      159.38679182111622,
+      162.9816698257301,
+      162.3553929921773,
+      157.85971077271208
+    ]
   },
   {
     "NAF Nr": "11789",
@@ -1657,13 +2943,22 @@ const statsRaceBretonnian = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "150.27",
+    "rating": 150.2500921441641,
+    "bestRating": 155.87685561807254,
+    "worstRating": 148.98071068226764,
+    "tendency": 1.2693814618964723,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      148.98071068226764,
+      154.492231883839,
+      155.87685561807254,
+      150.2500921441641
+    ]
   },
   {
     "NAF Nr": "11801",
@@ -1671,13 +2966,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "142.22",
+    "rating": 142.34057231649592,
+    "bestRating": 148.2540335822646,
+    "worstRating": 142.34057231649592,
+    "tendency": -5.69236402558937,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      148.0329363420853,
+      148.2540335822646,
+      148.09820792340082,
+      142.36008938829616,
+      142.34057231649592
+    ]
   },
   {
     "NAF Nr": "11936",
@@ -1685,13 +2990,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "128.22",
+    "rating": 128.60116690761973,
+    "bestRating": 144.08331337553335,
+    "worstRating": 128.496832506699,
+    "tendency": -15.482146467913623,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.08331337553335,
+      136.4279637777893,
+      128.496832506699,
+      136.5702170441329,
+      136.51211760280376,
+      128.60116690761973
+    ]
   },
   {
     "NAF Nr": "12005",
@@ -1699,13 +3015,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "154.76",
+    "rating": 154.9349770221851,
+    "bestRating": 154.9349770221851,
+    "worstRating": 154.9349770221851,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.9349770221851
+    ]
   },
   {
     "NAF Nr": "12126",
@@ -1713,13 +3035,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "148.12",
+    "rating": 147.89828626094376,
+    "bestRating": 153.00649880225188,
+    "worstRating": 147.4090445549382,
+    "tendency": 0.48924170600557204,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      147.4090445549382,
+      153.00649880225188,
+      147.89828626094376
+    ]
   },
   {
     "NAF Nr": "12272",
@@ -1727,13 +3057,21 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "149.87",
+    "rating": 150.22792486639563,
+    "bestRating": 155.9137510980877,
+    "worstRating": 150.22792486639563,
+    "tendency": -5.433064795225334,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.66098966162096,
+      155.9137510980877,
+      150.22792486639563
+    ]
   },
   {
     "NAF Nr": "12319",
@@ -1741,13 +3079,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "170.68",
+    "rating": 171.56450034119496,
+    "bestRating": 171.56450034119496,
+    "worstRating": 157.48739668677862,
+    "tendency": 14.077103654416334,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatings": [
+      157.48739668677862,
+      164.94141942454803,
+      165.98260027103697,
+      171.56450034119496
+    ]
   },
   {
     "NAF Nr": "12396",
@@ -1755,13 +3102,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Bretonnian",
-    "rating": "155.07",
+    "rating": 156.03553879284226,
+    "bestRating": 159.2164602238257,
+    "worstRating": 153.83635505265974,
+    "tendency": 1.9124331672246058,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      154.12310562561765,
+      153.83635505265974,
+      159.2164602238257,
+      156.03553879284226
+    ]
   },
   {
     "NAF Nr": "12496",
@@ -1769,13 +3125,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "159.82",
+    "rating": 160.3201109643629,
+    "bestRating": 171.04540077506883,
+    "worstRating": 150.45057051236546,
+    "tendency": 1.382652906640999,
     "totalTournaments": 5,
     "gamesTotal": 25,
     "gamesWon": 8,
     "gamesDraw": 9,
     "gamesLost": 8,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      158.9374580577219,
+      161.66283934161186,
+      159.18316147142102,
+      164.46955841745813,
+      158.5713116449394,
+      159.29355302140382,
+      164.83836327105303,
+      171.04540077506883,
+      166.0771755620667,
+      160.3201109643629
+    ]
   },
   {
     "NAF Nr": "12520",
@@ -1783,13 +3154,22 @@ const statsRaceBretonnian = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "161.82",
+    "rating": 162.20705370434257,
+    "bestRating": 162.20705370434257,
+    "worstRating": 155.6487994973963,
+    "tendency": 6.550199454850201,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.6487994973963,
+      160.99800319871855,
+      162.20705370434257
+    ]
   },
   {
     "NAF Nr": "12552",
@@ -1797,13 +3177,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Bretonnian",
-    "rating": "155.63",
+    "rating": 155.89303519750703,
+    "bestRating": 155.89303519750703,
+    "worstRating": 144.80112775311053,
+    "tendency": 11.091907444396497,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      144.80112775311053,
+      150.92822781037495,
+      145.27110413811138,
+      150.49249842214232,
+      150.14599561834723,
+      155.89303519750703
+    ]
   },
   {
     "NAF Nr": "12639",
@@ -1811,13 +3202,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "169.29",
+    "rating": 170.36226560592513,
+    "bestRating": 170.36226560592513,
+    "worstRating": 155.65685424949237,
+    "tendency": 14.705411356432762,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 80
+    "winRatio": 80,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      169.70417369687257,
+      164.43195673406495,
+      170.36226560592513
+    ]
   },
   {
     "NAF Nr": "12937",
@@ -1825,13 +3226,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "144.29",
+    "rating": 145.22506761171016,
+    "bestRating": 152.1785474805867,
+    "worstRating": 145.22506761171016,
+    "tendency": -1.7002112794383493,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.9252788911485,
+      151.10002777009606,
+      147.86041312033,
+      152.1785474805867,
+      148.15580979682147,
+      145.22506761171016
+    ]
   },
   {
     "NAF Nr": "12990",
@@ -1839,13 +3251,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "154.92",
+    "rating": 154.92730741896722,
+    "bestRating": 154.92730741896722,
+    "worstRating": 154.47213595499957,
+    "tendency": 0.45517146396764474,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.47213595499957,
+      154.47213595499957,
+      154.92730741896722
+    ]
   },
   {
     "NAF Nr": "13014",
@@ -1853,13 +3273,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "147.02",
+    "rating": 147.46672083359795,
+    "bestRating": 157.117510976052,
+    "worstRating": 147.46672083359795,
+    "tendency": -7.8236604756835675,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      155.2903813092815,
+      157.117510976052,
+      150.3885405577387,
+      147.46672083359795
+    ]
   },
   {
     "NAF Nr": "13054",
@@ -1867,13 +3296,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "155.74",
+    "rating": 154.8788115197704,
+    "bestRating": 160.10835837301687,
+    "worstRating": 147.01253114852867,
+    "tendency": 7.866280371241743,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      147.01253114852867,
+      152.5788728374386,
+      147.96777253356748,
+      153.52056280330504,
+      160.10835837301687,
+      154.8788115197704
+    ]
   },
   {
     "NAF Nr": "13200",
@@ -1881,13 +3321,26 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "170.62",
+    "rating": 171.11351791971546,
+    "bestRating": 173.7447030195784,
+    "worstRating": 159.0779821546538,
+    "tendency": 12.035535765061667,
     "totalTournaments": 3,
     "gamesTotal": 8,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      159.0779821546538,
+      165.20068562123757,
+      169.1553617651008,
+      173.62743125838028,
+      173.7447030195784,
+      172.7250207860638,
+      166.08827651995296,
+      171.11351791971546
+    ]
   },
   {
     "NAF Nr": "13246",
@@ -1895,13 +3348,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "165.76",
+    "rating": 166.23543042846387,
+    "bestRating": 166.23543042846387,
+    "worstRating": 154.12310562561765,
+    "tendency": 12.112324802846217,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.12310562561765,
+      158.11577496905113,
+      162.23888059466879,
+      166.23543042846387
+    ]
   },
   {
     "NAF Nr": "13249",
@@ -1909,13 +3371,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "155.02",
+    "rating": 155.1234287853178,
+    "bestRating": 155.1234287853178,
+    "worstRating": 138.40601611622435,
+    "tendency": 10.83190941676338,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      144.29151936855442,
+      144.29562766841326,
+      138.40601611622435,
+      144.07738684831008,
+      149.4250237544091,
+      155.1234287853178
+    ]
   },
   {
     "NAF Nr": "13270",
@@ -1923,13 +3396,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "134.41",
+    "rating": 134.03119402816662,
+    "bestRating": 144.34314575050763,
+    "worstRating": 134.03119402816662,
+    "tendency": -10.311951722341007,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.34314575050763,
+      139.65683072149912,
+      134.03119402816662
+    ]
   },
   {
     "NAF Nr": "13280",
@@ -1937,13 +3418,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "147.0",
+    "rating": 147.0584250642577,
+    "bestRating": 151.99688118033643,
+    "worstRating": 141.22397396245407,
+    "tendency": -3.152879141306329,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      150.21130420556403,
+      151.99688118033643,
+      147.03264717617196,
+      141.22397396245407,
+      141.27561093280877,
+      147.0584250642577
+    ]
   },
   {
     "NAF Nr": "13344",
@@ -1951,13 +3443,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "155.28",
+    "rating": 155.411398858804,
+    "bestRating": 155.411398858804,
+    "worstRating": 155.411398858804,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.411398858804
+    ]
   },
   {
     "NAF Nr": "13417",
@@ -1965,13 +3463,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "187.91",
+    "rating": 189.48178356429383,
+    "bestRating": 189.48178356429383,
+    "worstRating": 157.2322907867984,
+    "tendency": 15.323748998976384,
     "totalTournaments": 3,
     "gamesTotal": 15,
     "gamesWon": 9,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 73.33
+    "winRatio": 73.33,
+    "_lastTenRatings": [
+      174.15803456531745,
+      173.5940110853562,
+      167.5028401607354,
+      172.42844777468298,
+      176.54310382265626,
+      181.3864391500173,
+      181.48918221688763,
+      176.95809689518825,
+      182.62017885706098,
+      189.48178356429383
+    ]
   },
   {
     "NAF Nr": "13501",
@@ -1979,13 +3492,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "154.11",
+    "rating": 154.24196616418737,
+    "bestRating": 158.2462112512353,
+    "worstRating": 154.12310562561765,
+    "tendency": 0.11886053856972012,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      154.12310562561765,
+      158.2462112512353,
+      158.23851599798246,
+      154.24196616418737
+    ]
   },
   {
     "NAF Nr": "13511",
@@ -1993,13 +3515,22 @@ const statsRaceBretonnian = [
     "CCAA": "Aragón",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "165.18",
+    "rating": 165.84920952000127,
+    "bestRating": 165.84920952000127,
+    "worstRating": 155.40454227429342,
+    "tendency": 10.444667245707848,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatings": [
+      155.40454227429342,
+      159.31117483067106,
+      165.0540399267581,
+      165.84920952000127
+    ]
   },
   {
     "NAF Nr": "13524",
@@ -2007,13 +3538,25 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Switzerland",
     "race": "Bretonnian",
-    "rating": "157.23",
+    "rating": 157.94741361526093,
+    "bestRating": 158.58110014911318,
+    "worstRating": 152.78661689004238,
+    "tendency": 2.2905593657685586,
     "totalTournaments": 1,
     "gamesTotal": 7,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 57.14
+    "winRatio": 57.14,
+    "_lastTenRatings": [
+      155.65685424949237,
+      152.78661689004238,
+      153.00265276240034,
+      158.58110014911318,
+      153.33339459382293,
+      153.21533728501157,
+      157.94741361526093
+    ]
   },
   {
     "NAF Nr": "13544",
@@ -2021,13 +3564,25 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Bretonnian",
-    "rating": "155.75",
+    "rating": 158.11409494674945,
+    "bestRating": 158.9931670377161,
+    "worstRating": 149.9639369169844,
+    "tendency": 8.150158029765038,
     "totalTournaments": 1,
     "gamesTotal": 7,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 71.43
+    "winRatio": 71.43,
+    "_lastTenRatings": [
+      149.9639369169844,
+      153.1444604270734,
+      156.39432733253398,
+      156.43402889482473,
+      158.9931670377161,
+      155.43523429068802,
+      158.11409494674945
+    ]
   },
   {
     "NAF Nr": "13555",
@@ -2035,13 +3590,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "147.61",
+    "rating": 148.37375701054702,
+    "bestRating": 150,
+    "worstRating": 147.5505102572168,
+    "tendency": -1.626242989452976,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      150,
+      147.5505102572168,
+      148.37375701054702
+    ]
   },
   {
     "NAF Nr": "13583",
@@ -2049,13 +3612,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "194.13",
+    "rating": 195.74732577991728,
+    "bestRating": 195.74732577991728,
+    "worstRating": 155.3572728178588,
+    "tendency": 40.39005296205846,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 8,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 94.44
+    "winRatio": 94.44,
+    "_lastTenRatings": [
+      155.3572728178588,
+      162.2900167355737,
+      170.17224134006622,
+      175.06882813245772,
+      179.65048096142561,
+      184.046126327343,
+      189.48787182003585,
+      191.05830264573098,
+      195.74732577991728
+    ]
   },
   {
     "NAF Nr": "13625",
@@ -2063,13 +3640,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Bretonnian",
-    "rating": "152.66",
+    "rating": 152.5937504646494,
+    "bestRating": 152.5937504646494,
+    "worstRating": 148.68719153395995,
+    "tendency": 3.9065589306894424,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      148.68719153395995,
+      150.31711517674213,
+      152.5937504646494
+    ]
   },
   {
     "NAF Nr": "13696",
@@ -2077,13 +3662,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "161.53",
+    "rating": 161.5154097489016,
+    "bestRating": 161.5154097489016,
+    "worstRating": 154,
+    "tendency": 7.51540974890159,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154,
+      158.00456631494487,
+      161.5154097489016
+    ]
   },
   {
     "NAF Nr": "13731",
@@ -2091,13 +3684,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "155.49",
+    "rating": 155.61017960884223,
+    "bestRating": 155.61017960884223,
+    "worstRating": 144.35538938623264,
+    "tendency": 5.61017960884223,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      150,
+      149.72880221225267,
+      144.35538938623264,
+      150.03769816373108,
+      155.61017960884223
+    ]
   },
   {
     "NAF Nr": "13785",
@@ -2105,13 +3708,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "154.28",
+    "rating": 153.79739028256537,
+    "bestRating": 157.1540556855757,
+    "worstRating": 141.68496730268646,
+    "tendency": 2.518790233220585,
     "totalTournaments": 1,
     "gamesTotal": 11,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      151.2786000493448,
+      157.1540556855757,
+      156.63511667265024,
+      150.96510299066196,
+      146.32150243625554,
+      141.68496730268646,
+      142.03049299929955,
+      148.08740918939702,
+      148.41720049967444,
+      153.79739028256537
+    ]
   },
   {
     "NAF Nr": "14176",
@@ -2119,13 +3737,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "145.6",
+    "rating": 145.48959956381705,
+    "bestRating": 155.7446459200213,
+    "worstRating": 144.34314575050763,
+    "tendency": 1.1464538133094209,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      144.34314575050763,
+      149.99813366739446,
+      155.7446459200213,
+      151.12125196518892,
+      145.48959956381705
+    ]
   },
   {
     "NAF Nr": "14233",
@@ -2133,13 +3761,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "175.11",
+    "rating": 175.95318184623875,
+    "bestRating": 188.62965255900022,
+    "worstRating": 150.81409594777688,
+    "tendency": -3.459139758409549,
     "totalTournaments": 7,
     "gamesTotal": 33,
     "gamesWon": 15,
     "gamesDraw": 12,
     "gamesLost": 6,
-    "winRatio": 63.64
+    "winRatio": 63.64,
+    "_lastTenRatings": [
+      179.4123216046483,
+      171.78296546555276,
+      166.49052501756117,
+      169.604348132138,
+      168.95259064771435,
+      168.03586812804917,
+      167.32112238082726,
+      171.68067710672753,
+      171.23205369511393,
+      175.95318184623875
+    ]
   },
   {
     "NAF Nr": "14335",
@@ -2147,13 +3790,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "160.41",
+    "rating": 160.65140807993419,
+    "bestRating": 160.65140807993419,
+    "worstRating": 144.34314575050763,
+    "tendency": 16.308262329426555,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150.01970945242653,
+      144.36775503458674,
+      149.5231813801707,
+      155.19189364049103,
+      160.65140807993419
+    ]
   },
   {
     "NAF Nr": "14519",
@@ -2161,13 +3815,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "170.91",
+    "rating": 190.03697420308345,
+    "bestRating": 190.03697420308345,
+    "worstRating": 157.98266547501245,
+    "tendency": 32.05430872807099,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 8,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 88.89
+    "winRatio": 88.89,
+    "_lastTenRatings": [
+      157.98266547501245,
+      163.36172106962198,
+      171.21977151240085,
+      176.66764100050682,
+      171.47938689829815,
+      175.59927660931757,
+      180.05902954725613,
+      185.01635908328728,
+      190.03697420308345
+    ]
   },
   {
     "NAF Nr": "14524",
@@ -2175,13 +3843,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "155.48",
+    "rating": 155.9292386003979,
+    "bestRating": 155.9292386003979,
+    "worstRating": 155.9292386003979,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.9292386003979
+    ]
   },
   {
     "NAF Nr": "14616",
@@ -2189,13 +3863,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "166.39",
+    "rating": 166.9571509880231,
+    "bestRating": 166.9571509880231,
+    "worstRating": 150,
+    "tendency": 16.957150988023102,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 80
+    "winRatio": 80,
+    "_lastTenRatings": [
+      150,
+      155.878223243982,
+      161.42943824727186,
+      162.30247214656293,
+      166.9571509880231
+    ]
   },
   {
     "NAF Nr": "14685",
@@ -2203,13 +3887,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "155.6",
+    "rating": 155.50443436181757,
+    "bestRating": 155.50443436181757,
+    "worstRating": 150.61415207214245,
+    "tendency": 0.6054548762512297,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.89897948556634,
+      150.61415207214245,
+      155.50443436181757
+    ]
   },
   {
     "NAF Nr": "14735",
@@ -2217,13 +3909,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "150.01",
+    "rating": 149.9978471553698,
+    "bestRating": 152.959434687259,
+    "worstRating": 146.53589838486224,
+    "tendency": 3.4619487705075755,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.53589838486224,
+      146.54951275757398,
+      149.36854602287468,
+      152.959434687259,
+      152.82584795411057,
+      149.9978471553698
+    ]
   },
   {
     "NAF Nr": "14739",
@@ -2231,13 +3934,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "160.58",
+    "rating": 161.32306066323875,
+    "bestRating": 166.509318216496,
+    "worstRating": 143.86320286738123,
+    "tendency": 17.459857795857516,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      143.86320286738123,
+      150.97109338494158,
+      158.720108668958,
+      159.50834764103382,
+      166.509318216496,
+      161.32306066323875
+    ]
   },
   {
     "NAF Nr": "15142",
@@ -2245,13 +3959,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Bretonnian",
-    "rating": "167.93",
+    "rating": 159.81503995139207,
+    "bestRating": 159.81503995139207,
+    "worstRating": 153.16227766016837,
+    "tendency": 6.652762291223695,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      153.16227766016837,
+      157.28931410564215,
+      159.81503995139207
+    ]
   },
   {
     "NAF Nr": "15143",
@@ -2259,13 +3981,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Bretonnian",
-    "rating": "149.98",
+    "rating": 149.98965485359733,
+    "bestRating": 153.46410161513776,
+    "worstRating": 149.91433923627173,
+    "tendency": -3.4744467615404346,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      153.46410161513776,
+      149.91433923627173,
+      150.079522885195,
+      149.98965485359733
+    ]
   },
   {
     "NAF Nr": "15254",
@@ -2273,13 +4004,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "185.16",
+    "rating": 186.8608468780782,
+    "bestRating": 186.8608468780782,
+    "worstRating": 145.82382013774654,
+    "tendency": 27.227842600732515,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 8,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      159.6330042773457,
+      169.2282610644474,
+      177.73488234266318,
+      172.16453184837513,
+      175.78897054541434,
+      179.43730600651142,
+      178.74616318686387,
+      182.43488543917013,
+      186.8091318945501,
+      186.8608468780782
+    ]
   },
   {
     "NAF Nr": "15268",
@@ -2287,13 +4033,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "145.34",
+    "rating": 145.77891341617834,
+    "bestRating": 150.06620742278412,
+    "worstRating": 144.34314575050763,
+    "tendency": 1.43576766567071,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150.06620742278412,
+      145.77891341617834
+    ]
   },
   {
     "NAF Nr": "15300",
@@ -2301,13 +4055,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "132.61",
+    "rating": 132.10183821212973,
+    "bestRating": 150,
+    "worstRating": 132.10183821212973,
+    "tendency": -17.898161787870265,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      150,
+      144.5922329349038,
+      138.44004830894303,
+      132.74254841710837,
+      137.72336622253295,
+      132.10183821212973
+    ]
   },
   {
     "NAF Nr": "15338",
@@ -2315,13 +4080,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "155.22",
+    "rating": 155.06234735339248,
+    "bestRating": 155.06234735339248,
+    "worstRating": 144.61483519286548,
+    "tendency": 10.447512160526998,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      144.61483519286548,
+      149.742400316668,
+      154.9279409696303,
+      154.55820557180556,
+      149.46693222736863,
+      155.06234735339248
+    ]
   },
   {
     "NAF Nr": "15415",
@@ -2329,13 +4105,22 @@ const statsRaceBretonnian = [
     "CCAA": "La Rioja",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "150.02",
+    "rating": 150.18414496361072,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150.18414496361072,
+    "tendency": -5.472709285881649,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150.42317665784793,
+      150.43742956717566,
+      150.18414496361072
+    ]
   },
   {
     "NAF Nr": "15444",
@@ -2343,27 +4128,43 @@ const statsRaceBretonnian = [
     "CCAA": "Asturias",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "129.53",
+    "rating": 128.742883722807,
+    "bestRating": 144.27041181226383,
+    "worstRating": 128.742883722807,
+    "tendency": -15.527528089456837,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.27041181226383,
+      139.86079976777162,
+      134.15366471785526,
+      128.742883722807
+    ]
   },
   {
     "NAF Nr": "15455",
     "NAF Name": "luckart",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "155.78",
+    "rating": 156.0364156252961,
+    "bestRating": 156.1830693303162,
+    "worstRating": 156.0364156252961,
+    "tendency": -0.14665370502009978,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      156.1830693303162,
+      156.0364156252961
+    ]
   },
   {
     "NAF Nr": "15546",
@@ -2371,13 +4172,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Austria",
     "race": "Bretonnian",
-    "rating": "151.84",
+    "rating": 149.96545685333135,
+    "bestRating": 162.32068671934536,
+    "worstRating": 148.63408702084305,
+    "tendency": -5.962873674850414,
     "totalTournaments": 4,
     "gamesTotal": 21,
     "gamesWon": 8,
     "gamesDraw": 4,
     "gamesLost": 9,
-    "winRatio": 47.62
+    "winRatio": 47.62,
+    "_lastTenRatings": [
+      155.92833052818176,
+      161.2129308354882,
+      162.32068671934536,
+      157.98197282047872,
+      158.29827220177233,
+      155.44881395342424,
+      154.80371422303654,
+      158.54785800785157,
+      154.46676839315649,
+      149.96545685333135
+    ]
   },
   {
     "NAF Nr": "15578",
@@ -2385,13 +4201,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "151.23",
+    "rating": 151.29497152386753,
+    "bestRating": 155.85346588526178,
+    "worstRating": 149.9798657556561,
+    "tendency": -4.558494361394253,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.85346588526178,
+      155.82262224007115,
+      149.9798657556561,
+      151.13568812710147,
+      151.29497152386753
+    ]
   },
   {
     "NAF Nr": "15739",
@@ -2399,13 +4225,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Bretonnian",
-    "rating": "114.42",
+    "rating": 113.19531442915027,
+    "bestRating": 150,
+    "worstRating": 113.19531442915027,
+    "tendency": -36.80468557084973,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 8.33
+    "winRatio": 8.33,
+    "_lastTenRatings": [
+      150,
+      144.5737165241775,
+      136.7984554631705,
+      128.68756768024357,
+      120.58658260790399,
+      113.19531442915027
+    ]
   },
   {
     "NAF Nr": "15805",
@@ -2413,13 +4250,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "155.66",
+    "rating": 155.8195916891392,
+    "bestRating": 155.8195916891392,
+    "worstRating": 155.8195916891392,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.8195916891392
+    ]
   },
   {
     "NAF Nr": "15807",
@@ -2427,13 +4270,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "155.29",
+    "rating": 155.43687153824456,
+    "bestRating": 155.43687153824456,
+    "worstRating": 155.43687153824456,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.43687153824456
+    ]
   },
   {
     "NAF Nr": "16068",
@@ -2441,13 +4290,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Bretonnian",
-    "rating": "144.2",
+    "rating": 143.60969338985012,
+    "bestRating": 146.36954136896156,
+    "worstRating": 143.60969338985012,
+    "tendency": -2.7598479791114414,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      146.36954136896156,
+      143.99570793223688,
+      143.60969338985012
+    ]
   },
   {
     "NAF Nr": "16091",
@@ -2455,13 +4312,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "181.14",
+    "rating": 190.07679110868523,
+    "bestRating": 202.1827698400655,
+    "worstRating": 138.70076322679625,
+    "tendency": -12.105978731380276,
     "totalTournaments": 6,
     "gamesTotal": 29,
     "gamesWon": 17,
     "gamesDraw": 6,
     "gamesLost": 6,
-    "winRatio": 68.97
+    "winRatio": 68.97,
+    "_lastTenRatings": [
+      202.1827698400655,
+      196.93616918612472,
+      195.00655933812422,
+      190.86347206757924,
+      194.65395858916145,
+      196.85108975555724,
+      189.4886799371162,
+      193.51529007592174,
+      191.78927830719323,
+      190.07679110868523
+    ]
   },
   {
     "NAF Nr": "16121",
@@ -2469,13 +4341,26 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "191.74",
+    "rating": 192.7806005611549,
+    "bestRating": 192.7806005611549,
+    "worstRating": 155.1717327658928,
+    "tendency": 37.608867795262086,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 8,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.1717327658928,
+      160.84964990365,
+      166.52807483734773,
+      172.20414093579637,
+      176.9064510525891,
+      180.7337767825401,
+      186.03295453232772,
+      192.7806005611549
+    ]
   },
   {
     "NAF Nr": "16130",
@@ -2483,13 +4368,28 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "186.14",
+    "rating": 187.66051726487473,
+    "bestRating": 189.28082696859246,
+    "worstRating": 154.08737054909426,
+    "tendency": 18.321350962918274,
     "totalTournaments": 4,
     "gamesTotal": 18,
     "gamesWon": 12,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      169.33916630195645,
+      176.64018792550974,
+      181.15623385338054,
+      184.52181727197302,
+      189.28082696859246,
+      188.07177646296844,
+      180.7921807031314,
+      179.25153707645364,
+      183.42799636535455,
+      187.66051726487473
+    ]
   },
   {
     "NAF Nr": "16131",
@@ -2497,13 +4397,22 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "157.49",
+    "rating": 157.9159680770168,
+    "bestRating": 158.0128012337571,
+    "worstRating": 153.17460561296815,
+    "tendency": 4.368778795091487,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      153.5471892819253,
+      158.0128012337571,
+      153.17460561296815,
+      157.9159680770168
+    ]
   },
   {
     "NAF Nr": "16176",
@@ -2511,13 +4420,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "150.2",
+    "rating": 150.26721245649557,
+    "bestRating": 153.14785328097872,
+    "worstRating": 150.26721245649557,
+    "tendency": -2.8806408244831516,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      153.14785328097872,
+      153.14091887869253,
+      150.26721245649557
+    ]
   },
   {
     "NAF Nr": "16185",
@@ -2525,13 +4442,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "155.97",
+    "rating": 155.64504168419984,
+    "bestRating": 155.70887005010113,
+    "worstRating": 152.82842712474618,
+    "tendency": 2.8166145594536545,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      152.82842712474618,
+      155.70887005010113,
+      155.64504168419984
+    ]
   },
   {
     "NAF Nr": "16205",
@@ -2539,13 +4464,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "130.42",
+    "rating": 130.34661688819813,
+    "bestRating": 144.34314575050763,
+    "worstRating": 128.63247393244552,
+    "tendency": -13.996528862309503,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 10
+    "winRatio": 10,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.91588943669873,
+      134.03965756631118,
+      128.63247393244552,
+      130.34661688819813
+    ]
   },
   {
     "NAF Nr": "16213",
@@ -2553,13 +4488,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "168.52",
+    "rating": 170.33645168842529,
+    "bestRating": 173.87355666734155,
+    "worstRating": 150,
+    "tendency": 1.0170955219328732,
     "totalTournaments": 4,
     "gamesTotal": 21,
     "gamesWon": 7,
     "gamesDraw": 9,
     "gamesLost": 5,
-    "winRatio": 54.76
+    "winRatio": 54.76,
+    "_lastTenRatings": [
+      169.3193561664924,
+      168.5926054487503,
+      173.87355666734155,
+      171.3633082034513,
+      166.1640528742054,
+      159.17911410545548,
+      164.7428414421124,
+      164.55094330696255,
+      169.66371199994214,
+      170.33645168842529
+    ]
   },
   {
     "NAF Nr": "16259",
@@ -2567,13 +4517,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "156.93",
+    "rating": 157.51798690833158,
+    "bestRating": 157.51798690833158,
+    "worstRating": 144.9009804864072,
+    "tendency": 12.617006421924373,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      144.9009804864072,
+      150.09151092716982,
+      156.02496043851627,
+      152.45284688119202,
+      157.42854800726857,
+      157.51798690833158
+    ]
   },
   {
     "NAF Nr": "16347",
@@ -2581,13 +4542,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "178.35",
+    "rating": 179.1216517334653,
+    "bestRating": 181.60382992998743,
+    "worstRating": 155.65685424949237,
+    "tendency": 7.550972313681797,
     "totalTournaments": 5,
     "gamesTotal": 27,
     "gamesWon": 16,
     "gamesDraw": 3,
     "gamesLost": 8,
-    "winRatio": 64.81
+    "winRatio": 64.81,
+    "_lastTenRatings": [
+      171.57067941978352,
+      175.0999413364709,
+      178.6090709456165,
+      173.254525050559,
+      177.1072228749943,
+      181.60382992998743,
+      175.15996157218197,
+      168.9476192670097,
+      173.3628774478035,
+      179.1216517334653
+    ]
   },
   {
     "NAF Nr": "16350",
@@ -2595,13 +4571,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "134.79",
+    "rating": 144.55568548853788,
+    "bestRating": 157.40690816038529,
+    "worstRating": 132.03992468179567,
+    "tendency": -5.550390814040185,
     "totalTournaments": 6,
     "gamesTotal": 28,
     "gamesWon": 10,
     "gamesDraw": 4,
     "gamesLost": 14,
-    "winRatio": 42.86
+    "winRatio": 42.86,
+    "_lastTenRatings": [
+      150.10607630257806,
+      144.1991704122399,
+      148.43574946370137,
+      142.8675746274318,
+      138.67930418485943,
+      136.3037873330946,
+      132.03992468179567,
+      132.43493670960706,
+      138.43123884766285,
+      144.55568548853788
+    ]
   },
   {
     "NAF Nr": "16475",
@@ -2609,13 +4600,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "178.59",
+    "rating": 178.1586858741975,
+    "bestRating": 178.1586858741975,
+    "worstRating": 144.96026772205096,
+    "tendency": 24.6271727021402,
     "totalTournaments": 2,
     "gamesTotal": 17,
     "gamesWon": 9,
     "gamesDraw": 2,
     "gamesLost": 6,
-    "winRatio": 58.82
+    "winRatio": 58.82,
+    "_lastTenRatings": [
+      153.5315131720573,
+      153.9990253268199,
+      149.15283940376528,
+      150.01826868732027,
+      144.96026772205096,
+      150.55314018628934,
+      158.82895364873698,
+      163.57112911043214,
+      169.66230003505294,
+      178.1586858741975
+    ]
   },
   {
     "NAF Nr": "16493",
@@ -2623,13 +4629,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "183.1",
+    "rating": 181.62110318657486,
+    "bestRating": 181.62110318657486,
+    "worstRating": 157.06784246476298,
+    "tendency": 12.241105357065521,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 6,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      169.37999782950934,
+      163.6003837854658,
+      164.97974481009194,
+      159.38801211842537,
+      158.83083536504944,
+      167.1042051820503,
+      174.4542053801341,
+      175.3192629369741,
+      174.85088844650952,
+      181.62110318657486
+    ]
   },
   {
     "NAF Nr": "16525",
@@ -2637,13 +4658,20 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "140.01",
+    "rating": 139.77450021958262,
+    "bestRating": 144.34314575050763,
+    "worstRating": 139.77450021958262,
+    "tendency": -4.568645530925011,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.34314575050763,
+      139.77450021958262
+    ]
   },
   {
     "NAF Nr": "16560",
@@ -2651,13 +4679,22 @@ const statsRaceBretonnian = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "149.82",
+    "rating": 149.2479029761544,
+    "bestRating": 149.2479029761544,
+    "worstRating": 144.77605041607657,
+    "tendency": 4.346922489747186,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.9009804864072,
+      144.9009804864072,
+      144.77605041607657,
+      149.2479029761544
+    ]
   },
   {
     "NAF Nr": "16619",
@@ -2665,13 +4702,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "155.95",
+    "rating": 156.16168028492146,
+    "bestRating": 156.16168028492146,
+    "worstRating": 145.84061790451332,
+    "tendency": 10.321062380408137,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      145.84061790451332,
+      145.97220103299367,
+      149.8576716431291,
+      152.63439814458116,
+      156.16168028492146
+    ]
   },
   {
     "NAF Nr": "16723",
@@ -2679,13 +4726,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "165.92",
+    "rating": 164.90159171348992,
+    "bestRating": 164.90159171348992,
+    "worstRating": 154.60150627822205,
+    "tendency": 10.300085435267874,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.60150627822205,
+      161.7642064977727,
+      162.80071273170043,
+      164.5221546284623,
+      159.77342770355006,
+      164.90159171348992
+    ]
   },
   {
     "NAF Nr": "16760",
@@ -2693,13 +4751,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "143.63",
+    "rating": 143.34954642802936,
+    "bestRating": 144.30785250464479,
+    "worstRating": 138.43505229114731,
+    "tendency": -0.9506140547489395,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      144.3001604827783,
+      138.64517256589147,
+      144.30785250464479,
+      138.43505229114731,
+      143.34954642802936
+    ]
   },
   {
     "NAF Nr": "16794",
@@ -2707,13 +4775,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "160.95",
+    "rating": 163.0777053120975,
+    "bestRating": 163.0777053120975,
+    "worstRating": 155.65685424949237,
+    "tendency": 7.420851062605124,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      155.65685424949237,
+      157.76431692366296,
+      163.0777053120975
+    ]
   },
   {
     "NAF Nr": "16795",
@@ -2721,13 +4797,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Undisclosed",
     "race": "Bretonnian",
-    "rating": "150.75",
+    "rating": 150.22227077578984,
+    "bestRating": 156.39983985156556,
+    "worstRating": 147.82341971975285,
+    "tendency": -6.177569075775722,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      156.39983985156556,
+      152.27806298119324,
+      147.82341971975285,
+      153.3380865291772,
+      150.11543068166108,
+      150.22227077578984
+    ]
   },
   {
     "NAF Nr": "16821",
@@ -2735,13 +4822,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "155.76",
+    "rating": 155.92918080378809,
+    "bestRating": 155.92918080378809,
+    "worstRating": 155.92918080378809,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.92918080378809
+    ]
   },
   {
     "NAF Nr": "16845",
@@ -2749,13 +4842,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "155.0",
+    "rating": 155.0990195135928,
+    "bestRating": 155.0990195135928,
+    "worstRating": 155.0990195135928,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      155.0990195135928
+    ]
   },
   {
     "NAF Nr": "16930",
@@ -2763,13 +4862,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "165.51",
+    "rating": 166.0476502847581,
+    "bestRating": 166.0476502847581,
+    "worstRating": 151.49306984711765,
+    "tendency": 9.735054022892541,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      156.31259626186556,
+      151.49306984711765,
+      157.26954711190788,
+      159.0774727677158,
+      164.72879753082117,
+      166.0476502847581
+    ]
   },
   {
     "NAF Nr": "16963",
@@ -2777,13 +4887,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Uruguay",
     "race": "Bretonnian",
-    "rating": "147.57",
+    "rating": 147.60679453379373,
+    "bestRating": 152.4494897427832,
+    "worstRating": 147.60679453379373,
+    "tendency": -4.842695208989454,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      152.4494897427832,
+      150.104290548038,
+      147.60679453379373
+    ]
   },
   {
     "NAF Nr": "16984",
@@ -2791,13 +4909,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "153.87",
+    "rating": 153.44580415434174,
+    "bestRating": 157.3176850172078,
+    "worstRating": 148.32272412364344,
+    "tendency": -3.2159442633720516,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      156.6617484177138,
+      151.85452841539492,
+      157.3176850172078,
+      154.35537056136434,
+      148.32272412364344,
+      153.44580415434174
+    ]
   },
   {
     "NAF Nr": "16998",
@@ -2805,27 +4934,47 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "148.45",
+    "rating": 148.62797354601588,
+    "bestRating": 150,
+    "worstRating": 144.0702021197171,
+    "tendency": -1.3720264539841196,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      148.54439745701305,
+      144.0702021197171,
+      144.23764818529517,
+      148.89446368338497,
+      148.62797354601588
+    ]
   },
   {
     "NAF Nr": "17009",
     "NAF Name": "dabla",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "142.35",
+    "rating": 142.44086457661663,
+    "bestRating": 155.23319310106302,
+    "worstRating": 142.44086457661663,
+    "tendency": -12.79232852444639,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      155.23319310106302,
+      150.93155163663474,
+      147.73118932123876,
+      142.44086457661663
+    ]
   },
   {
     "NAF Nr": "17038",
@@ -2833,13 +4982,28 @@ const statsRaceBretonnian = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "127.91",
+    "rating": 127.70922016440673,
+    "bestRating": 161.40387417132513,
+    "worstRating": 127.70922016440673,
+    "tendency": -20.129738839259062,
     "totalTournaments": 6,
     "gamesTotal": 23,
     "gamesWon": 6,
     "gamesDraw": 6,
     "gamesLost": 11,
-    "winRatio": 39.13
+    "winRatio": 39.13,
+    "_lastTenRatings": [
+      147.8389590036658,
+      142.03761334008362,
+      141.8341553251405,
+      135.94656685753617,
+      131.9058918211789,
+      138.40921702524213,
+      139.1146584765208,
+      138.84835391661713,
+      133.31737621315057,
+      127.70922016440673
+    ]
   },
   {
     "NAF Nr": "17063",
@@ -2847,13 +5011,28 @@ const statsRaceBretonnian = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "157.17",
+    "rating": 157.46820811817628,
+    "bestRating": 164.4030402451019,
+    "worstRating": 143.34505095454838,
+    "tendency": 8.002924348646928,
     "totalTournaments": 4,
     "gamesTotal": 20,
     "gamesWon": 8,
     "gamesDraw": 5,
     "gamesLost": 7,
-    "winRatio": 52.5
+    "winRatio": 52.5,
+    "_lastTenRatings": [
+      149.46528376952935,
+      154.24924081987535,
+      159.3968960722435,
+      164.4030402451019,
+      158.76374115458387,
+      159.55308147621562,
+      163.2458496982626,
+      158.61861631430153,
+      162.93203016280032,
+      157.46820811817628
+    ]
   },
   {
     "NAF Nr": "17073",
@@ -2861,13 +5040,22 @@ const statsRaceBretonnian = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "149.71",
+    "rating": 149.66641283884988,
+    "bestRating": 155.08281637244716,
+    "worstRating": 149.64596938249375,
+    "tendency": -0.33358716115012044,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      155.08281637244716,
+      149.64596938249375,
+      149.66641283884988
+    ]
   },
   {
     "NAF Nr": "17153",
@@ -2875,13 +5063,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "150.65",
+    "rating": 150.56191462157022,
+    "bestRating": 150.76087925241086,
+    "worstRating": 144.89570449548634,
+    "tendency": -0.19896463084063498,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.76087925241086,
+      149.96034478319007,
+      144.89570449548634,
+      150.56191462157022
+    ]
   },
   {
     "NAF Nr": "17228",
@@ -2889,13 +5086,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Bretonnian",
-    "rating": "141.51",
+    "rating": 141.8132077934571,
+    "bestRating": 150.30028343040482,
+    "worstRating": 141.8132077934571,
+    "tendency": -8.487075636947708,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      150.30028343040482,
+      146.30387214755723,
+      141.8132077934571
+    ]
   },
   {
     "NAF Nr": "17239",
@@ -2903,13 +5108,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "151.54",
+    "rating": 150.4765448159783,
+    "bestRating": 160.83901833718542,
+    "worstRating": 150.41657257399103,
+    "tendency": -7.269421876436553,
     "totalTournaments": 1,
     "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      157.74596669241484,
+      160.10642472105553,
+      160.83901833718542,
+      152.55014414595163,
+      159.1867582333859,
+      158.4994990551986,
+      150.41657257399103,
+      158.1690914838327,
+      150.4765448159783
+    ]
   },
   {
     "NAF Nr": "17245",
@@ -2917,13 +5136,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "160.94",
+    "rating": 161.50392485187763,
+    "bestRating": 163.73669398222796,
+    "worstRating": 153.85245441869517,
+    "tendency": 7.651470433182453,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 80
+    "winRatio": 80,
+    "_lastTenRatings": [
+      153.85245441869517,
+      157.64332902106966,
+      160.81188011775967,
+      163.73669398222796,
+      161.50392485187763
+    ]
   },
   {
     "NAF Nr": "17255",
@@ -2931,13 +5160,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "167.24",
+    "rating": 167.6499605736367,
+    "bestRating": 167.6499605736367,
+    "worstRating": 156.21932605855972,
+    "tendency": 11.430634515076974,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      156.21932605855972,
+      161.71720376214523,
+      161.5625592240364,
+      156.3211934313391,
+      162.09221689417421,
+      167.6499605736367
+    ]
   },
   {
     "NAF Nr": "17294",
@@ -2945,13 +5185,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "144.62",
+    "rating": 144.61623379558614,
+    "bestRating": 146.28655026003702,
+    "worstRating": 140.10268845830436,
+    "tendency": -1.6703164644508774,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.28655026003702,
+      140.10268845830436,
+      144.61623379558614
+    ]
   },
   {
     "NAF Nr": "17312",
@@ -2959,13 +5207,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Monaco",
     "race": "Bretonnian",
-    "rating": "193.03",
+    "rating": 196.01725232433947,
+    "bestRating": 196.01725232433947,
+    "worstRating": 155.4113993907589,
+    "tendency": 28.87839772539465,
     "totalTournaments": 4,
     "gamesTotal": 16,
     "gamesWon": 9,
     "gamesDraw": 6,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      167.13885459894482,
+      168.17689105608753,
+      175.8041379488876,
+      183.2168330943189,
+      176.84527797086994,
+      180.72586963730595,
+      180.3713745073307,
+      184.9744754913593,
+      189.9056822322981,
+      196.01725232433947
+    ]
   },
   {
     "NAF Nr": "17316",
@@ -2973,13 +5236,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "144.47",
+    "rating": 144.59415144733995,
+    "bestRating": 144.59415144733995,
+    "worstRating": 144.29922675710898,
+    "tendency": 0.294924690230971,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.29922675710898,
+      144.34894803828644,
+      144.59415144733995
+    ]
   },
   {
     "NAF Nr": "17327",
@@ -2987,13 +5258,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "177.47",
+    "rating": 177.9609167112819,
+    "bestRating": 182.6804883284375,
+    "worstRating": 152.32671230506784,
+    "tendency": 19.72792669142268,
     "totalTournaments": 3,
     "gamesTotal": 16,
     "gamesWon": 8,
     "gamesDraw": 5,
     "gamesLost": 3,
-    "winRatio": 65.63
+    "winRatio": 65.63,
+    "_lastTenRatings": [
+      158.23299001985922,
+      163.12289625656385,
+      168.46629508579494,
+      167.9046504222348,
+      172.00965608962343,
+      177.97158932347742,
+      177.526370717489,
+      182.24643480096316,
+      182.6804883284375,
+      177.9609167112819
+    ]
   },
   {
     "NAF Nr": "17383",
@@ -3001,13 +5287,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "173.92",
+    "rating": 174.58037440516847,
+    "bestRating": 174.58037440516847,
+    "worstRating": 155.65685424949237,
+    "tendency": 18.9235201556761,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      155.65685424949237,
+      156.2692973312129,
+      162.0724877603971,
+      162.25435093078517,
+      169.2895309477852,
+      174.58037440516847
+    ]
   },
   {
     "NAF Nr": "17415",
@@ -3015,13 +5312,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "151.55",
+    "rating": 151.8471921499492,
+    "bestRating": 155.41139939075893,
+    "worstRating": 146.38114885052556,
+    "tendency": 1.8471921499491941,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      155.41139939075893,
+      149.74918829554457,
+      146.38114885052556,
+      151.8471921499492
+    ]
   },
   {
     "NAF Nr": "17591",
@@ -3029,13 +5336,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "135.98",
+    "rating": 135.43985298297497,
+    "bestRating": 143.84299917509756,
+    "worstRating": 130.44100579252134,
+    "tendency": -8.403146192122591,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      143.84299917509756,
+      137.75545222726606,
+      130.44100579252134,
+      135.43985298297497
+    ]
   },
   {
     "NAF Nr": "17603",
@@ -3043,13 +5359,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "166.67",
+    "rating": 167.23045760572845,
+    "bestRating": 168.29509698540085,
+    "worstRating": 145.1018852945225,
+    "tendency": 22.128572311205943,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      145.1018852945225,
+      150.7923979490655,
+      155.9544357383508,
+      162.30970746941767,
+      168.29509698540085,
+      167.23045760572845
+    ]
   },
   {
     "NAF Nr": "17629",
@@ -3057,13 +5384,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "138.79",
+    "rating": 138.4710837371238,
+    "bestRating": 144.5221028532743,
+    "worstRating": 138.4710837371238,
+    "tendency": -6.051019116150513,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      144.5221028532743,
+      143.67117784352678,
+      143.5737439038774,
+      143.54441822171148,
+      138.4710837371238
+    ]
   },
   {
     "NAF Nr": "17924",
@@ -3071,13 +5408,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Bretonnian",
-    "rating": "139.57",
+    "rating": 138.85439738580814,
+    "bestRating": 145.6365152482212,
+    "worstRating": 138.85439738580814,
+    "tendency": -6.78211786241306,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      145.6365152482212,
+      141.67283450426623,
+      138.85439738580814
+    ]
   },
   {
     "NAF Nr": "17999",
@@ -3085,13 +5430,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "150.01",
+    "rating": 150.0139323088781,
+    "bestRating": 150.0139323088781,
+    "worstRating": 145.77545642719397,
+    "tendency": 0.013932308878111144,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      145.77545642719397,
+      150.0139323088781
+    ]
   },
   {
     "NAF Nr": "18020",
@@ -3099,13 +5452,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "144.87",
+    "rating": 144.91502325941227,
+    "bestRating": 144.91502325941227,
+    "worstRating": 140.41469257968993,
+    "tendency": 0.8223970272462111,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.09262623216605,
+      140.41469257968993,
+      144.91502325941227
+    ]
   },
   {
     "NAF Nr": "18117",
@@ -3113,13 +5474,20 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "151.3",
+    "rating": 151.38709842422844,
+    "bestRating": 151.38709842422844,
+    "worstRating": 145.80432338962984,
+    "tendency": 5.582775034598598,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.80432338962984,
+      151.38709842422844
+    ]
   },
   {
     "NAF Nr": "18141",
@@ -3127,13 +5495,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Bretonnian",
-    "rating": "127.72",
+    "rating": 128.53102117140529,
+    "bestRating": 144.6704747450316,
+    "worstRating": 128.53102117140529,
+    "tendency": -16.139453573626326,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 10
+    "winRatio": 10,
+    "_lastTenRatings": [
+      144.6704747450316,
+      139.38051636583774,
+      133.55831016976214,
+      133.60464026004047,
+      128.53102117140529
+    ]
   },
   {
     "NAF Nr": "18145",
@@ -3141,13 +5519,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "129.81",
+    "rating": 129.4241140398193,
+    "bestRating": 145.75388586819602,
+    "worstRating": 129.4241140398193,
+    "tendency": -16.32977182837672,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 8.33
+    "winRatio": 8.33,
+    "_lastTenRatings": [
+      145.75388586819602,
+      140.96924525129242,
+      141.30543403854102,
+      137.34996008730312,
+      132.43764414990218,
+      129.4241140398193
+    ]
   },
   {
     "NAF Nr": "18153",
@@ -3155,13 +5544,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "157.02",
+    "rating": 157.24596009569476,
+    "bestRating": 157.24596009569476,
+    "worstRating": 145.18317999350893,
+    "tendency": 1.5891058462023864,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      155.65685424949237,
+      151.50728177082644,
+      151.06578972706217,
+      145.18317999350893,
+      151.3687543720316,
+      157.24596009569476
+    ]
   },
   {
     "NAF Nr": "18181",
@@ -3169,13 +5569,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "167.74",
+    "rating": 167.80888290581638,
+    "bestRating": 174.49071887028143,
+    "worstRating": 144.34314575050763,
+    "tendency": 10.51791203636455,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 7,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      157.29097086945183,
+      162.9379178413429,
+      168.7575877146738,
+      174.49071887028143,
+      167.79610283992523,
+      162.49763939187858,
+      166.7324401613172,
+      168.87644209719053,
+      164.200365286231,
+      167.80888290581638
+    ]
   },
   {
     "NAF Nr": "18208",
@@ -3183,13 +5598,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "147.55",
+    "rating": 147.89855132696053,
+    "bestRating": 150,
+    "worstRating": 147.84305235880367,
+    "tendency": -2.101448673039471,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      150,
+      147.84305235880367,
+      147.89855132696053
+    ]
   },
   {
     "NAF Nr": "18217",
@@ -3197,13 +5620,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "145.15",
+    "rating": 145.2562042761687,
+    "bestRating": 145.2562042761687,
+    "worstRating": 140.2020410288673,
+    "tendency": 0.15518376173503157,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.10102051443366,
+      140.2020410288673,
+      145.2562042761687
+    ]
   },
   {
     "NAF Nr": "18261",
@@ -3211,13 +5642,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Bretonnian",
-    "rating": "152.35",
+    "rating": 151.6771463452202,
+    "bestRating": 166.46138738089672,
+    "worstRating": 151.6771463452202,
+    "tendency": -3.269091290992577,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.94623763621277,
+      160.34974685815092,
+      166.46138738089672,
+      161.33529607517028,
+      157.33675916173723,
+      151.6771463452202
+    ]
   },
   {
     "NAF Nr": "18318",
@@ -3225,13 +5667,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Bretonnian",
-    "rating": "150.6",
+    "rating": 150.49015565844303,
+    "bestRating": 150.49015565844303,
+    "worstRating": 141.35481529464963,
+    "tendency": 4.962291613442602,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.52786404500043,
+      145.8375822807958,
+      141.35481529464963,
+      145.86824567792672,
+      150.49015565844303
+    ]
   },
   {
     "NAF Nr": "18351",
@@ -3239,13 +5691,23 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "144.76",
+    "rating": 145.49207862574616,
+    "bestRating": 149.19840653842502,
+    "worstRating": 139.8599357422133,
+    "tendency": 0.5296157542196909,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      144.96246287152647,
+      149.19840653842502,
+      143.9787058725567,
+      139.8599357422133,
+      145.49207862574616
+    ]
   },
   {
     "NAF Nr": "18367",
@@ -3253,13 +5715,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "154.52",
+    "rating": 155.26675272987774,
+    "bestRating": 155.26675272987774,
+    "worstRating": 144.1379352963753,
+    "tendency": 5.414188839198147,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      149.8525638906796,
+      144.1379352963753,
+      149.45366529312872,
+      149.54799831868868,
+      149.5542756171043,
+      155.26675272987774
+    ]
   },
   {
     "NAF Nr": "18378",
@@ -3267,13 +5740,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "164.88",
+    "rating": 166.88387951879318,
+    "bestRating": 167.92440726185643,
+    "worstRating": 155.93926206811201,
+    "tendency": 5.515276300293806,
     "totalTournaments": 2,
     "gamesTotal": 11,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 63.64
+    "winRatio": 63.64,
+    "_lastTenRatings": [
+      161.36860321849937,
+      157.92515723922136,
+      158.72521592127677,
+      160.1634276972434,
+      165.25401431566664,
+      158.93787151166077,
+      162.83273149963586,
+      167.92440726185643,
+      161.84975982655493,
+      166.88387951879318
+    ]
   },
   {
     "NAF Nr": "18390",
@@ -3281,13 +5769,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "161.31",
+    "rating": 161.46527558915938,
+    "bestRating": 161.46527558915938,
+    "worstRating": 156.6228119219444,
+    "tendency": 4.707359834841014,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      156.75791575431836,
+      156.69299600068112,
+      156.6228119219444,
+      161.46527558915938
+    ]
   },
   {
     "NAF Nr": "18431",
@@ -3295,13 +5792,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Bretonnian",
-    "rating": "155.2",
+    "rating": 155.74254522353905,
+    "bestRating": 156.12743976464134,
+    "worstRating": 144.15229304844425,
+    "tendency": -0.38489454110228394,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      156.12743976464134,
+      150.45015374050362,
+      144.15229304844425,
+      144.29865569211688,
+      150.1129656543329,
+      155.74254522353905
+    ]
   },
   {
     "NAF Nr": "18444",
@@ -3309,13 +5817,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "169.46",
+    "rating": 169.89622064251523,
+    "bestRating": 169.89622064251523,
+    "worstRating": 150.60183257226697,
+    "tendency": 12.926586395660507,
     "totalTournaments": 3,
     "gamesTotal": 12,
     "gamesWon": 6,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      156.96963424685472,
+      156.91598086715416,
+      150.60183257226697,
+      150.72771915593393,
+      156.37446342548589,
+      155.70516245580654,
+      161.99567718664468,
+      168.55134873975987,
+      168.19452956271428,
+      169.89622064251523
+    ]
   },
   {
     "NAF Nr": "18517",
@@ -3323,13 +5846,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "128.38",
+    "rating": 134.27079800703666,
+    "bestRating": 142.7453795499443,
+    "worstRating": 121.60549126009492,
+    "tendency": -0.7178429604463474,
     "totalTournaments": 2,
     "gamesTotal": 13,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 7,
-    "winRatio": 38.46
+    "winRatio": 38.46,
+    "_lastTenRatings": [
+      134.988640967483,
+      127.66389026373663,
+      128.27938411313522,
+      128.37102820099216,
+      124.60035109591189,
+      121.60549126009492,
+      126.47737628291823,
+      133.01912471579575,
+      139.0499027131224,
+      134.27079800703666
+    ]
   },
   {
     "NAF Nr": "18579",
@@ -3337,13 +5875,20 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Bretonnian",
-    "rating": "146.1",
+    "rating": 146.20107520094493,
+    "bestRating": 147.5505102572168,
+    "worstRating": 146.20107520094493,
+    "tendency": -1.3494350562718864,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      147.5505102572168,
+      146.20107520094493
+    ]
   },
   {
     "NAF Nr": "18626",
@@ -3351,13 +5896,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "157.59",
+    "rating": 154.515175639592,
+    "bestRating": 158.94427190999915,
+    "worstRating": 154.47213595499957,
+    "tendency": 0.04303968459242924,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.47213595499957,
+      158.94427190999915,
+      154.515175639592
+    ]
   },
   {
     "NAF Nr": "18676",
@@ -3365,27 +5918,52 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "155.15",
+    "rating": 154.6795340503764,
+    "bestRating": 157.52778812974537,
+    "worstRating": 150.6055582613287,
+    "tendency": 0.6795340503763896,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      154,
+      157.52778812974537,
+      154.51960367170406,
+      150.6055582613287,
+      154.6795340503764
+    ]
   },
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "155.98",
+    "rating": 156.8951952512675,
+    "bestRating": 156.8951952512675,
+    "worstRating": 150,
+    "tendency": 1.238341001775126,
     "totalTournaments": 3,
     "gamesTotal": 10,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 55
+    "winRatio": 55,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      155.02898298104137,
+      154.8529254988379,
+      154.93825792740054,
+      150.9237040342423,
+      156.62267071734962,
+      156.75223379099117,
+      151.55218475477534,
+      156.8951952512675
+    ]
   },
   {
     "NAF Nr": "18770",
@@ -3393,13 +5971,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "144.6",
+    "rating": 144.4468435877731,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "tendency": -5.553156412226912,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      144.4468435877731
+    ]
   },
   {
     "NAF Nr": "18772",
@@ -3407,13 +5993,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Bretonnian",
-    "rating": "136.82",
+    "rating": 137.09676029572208,
+    "bestRating": 145.52786404500043,
+    "worstRating": 137.09676029572208,
+    "tendency": -8.43110374927835,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatings": [
+      145.52786404500043,
+      145.31322458725586,
+      140.85425642482267,
+      137.09676029572208
+    ]
   },
   {
     "NAF Nr": "18811",
@@ -3421,13 +6016,25 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "134.01",
+    "rating": 133.59870323852428,
+    "bestRating": 150.22241745202618,
+    "worstRating": 133.59870323852428,
+    "tendency": -10.9406837923828,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 5,
-    "winRatio": 28.57
+    "winRatio": 28.57,
+    "_lastTenRatings": [
+      144.53938703090708,
+      138.87401239161986,
+      144.94227015627177,
+      150.22241745202618,
+      144.59773065250758,
+      138.64540224111258,
+      133.59870323852428
+    ]
   },
   {
     "NAF Nr": "18834",
@@ -3435,13 +6042,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "173.93",
+    "rating": 173.03568401249598,
+    "bestRating": 173.03568401249598,
+    "worstRating": 148.9371020659718,
+    "tendency": 24.098581946524178,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      148.9371020659718,
+      156.79278364248032,
+      164.7403431225866,
+      172.26167991994234,
+      165.12241187912366,
+      173.03568401249598
+    ]
   },
   {
     "NAF Nr": "18872",
@@ -3449,13 +6067,25 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "146.05",
+    "rating": 146.14117670944574,
+    "bestRating": 146.14117670944574,
+    "worstRating": 139.44497858214748,
+    "tendency": 1.834711446987285,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 42.86
+    "winRatio": 42.86,
+    "_lastTenRatings": [
+      144.30646526245846,
+      145.11118870823137,
+      139.44497858214748,
+      140.36429512746335,
+      140.32081735705717,
+      140.70793993790528,
+      146.14117670944574
+    ]
   },
   {
     "NAF Nr": "18901",
@@ -3463,13 +6093,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "163.69",
+    "rating": 164.1212651971844,
+    "bestRating": 164.1212651971844,
+    "worstRating": 146.95773269314338,
+    "tendency": 15.217804683395428,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      148.90346051378899,
+      146.95773269314338,
+      152.752049684212,
+      158.7520402826807,
+      164.1212651971844
+    ]
   },
   {
     "NAF Nr": "18902",
@@ -3477,13 +6117,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "152.09",
+    "rating": 152.54256269044038,
+    "bestRating": 152.54256269044038,
+    "worstRating": 141.97637566580937,
+    "tendency": 2.542562690440377,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      147.96021489511813,
+      141.97637566580937,
+      147.56603831053152,
+      152.54256269044038
+    ]
   },
   {
     "NAF Nr": "18914",
@@ -3491,13 +6141,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "150.3",
+    "rating": 150.41613660954656,
+    "bestRating": 161.2069084655049,
+    "worstRating": 144.23296646059708,
+    "tendency": -5.129070099089745,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.5452067086363,
+      161.2069084655049,
+      155.554691254651,
+      149.88481982297023,
+      144.23296646059708,
+      150.14005014595125,
+      150.65248074916622,
+      145.1085928021134,
+      144.9722008372138,
+      150.41613660954656
+    ]
   },
   {
     "NAF Nr": "18915",
@@ -3505,13 +6170,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "149.79",
+    "rating": 149.82950064896838,
+    "bestRating": 150,
+    "worstRating": 147.3608986844498,
+    "tendency": -0.17049935103162284,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      147.3608986844498,
+      149.82950064896838
+    ]
   },
   {
     "NAF Nr": "18918",
@@ -3519,13 +6192,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Bretonnian",
-    "rating": "147.03",
+    "rating": 146.5646046639122,
+    "bestRating": 146.5646046639122,
+    "worstRating": 146.5646046639122,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146.5646046639122
+    ]
   },
   {
     "NAF Nr": "18934",
@@ -3533,13 +6212,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "144.64",
+    "rating": 144.69950573059978,
+    "bestRating": 145.01883387298042,
+    "worstRating": 140.62556978507683,
+    "tendency": -0.3193281423806411,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.01883387298042,
+      140.62556978507683,
+      144.69950573059978
+    ]
   },
   {
     "NAF Nr": "18998",
@@ -3547,27 +6234,46 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "160.83",
+    "rating": 160.41282646272916,
+    "bestRating": 160.41282646272916,
+    "worstRating": 150,
+    "tendency": 10.412826462729157,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      150,
+      150,
+      155.09364680792615,
+      155.10725034576504,
+      160.41282646272916
+    ]
   },
   {
     "NAF Nr": "19045",
     "NAF Name": "Jose_Q",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "145.86",
+    "rating": 145.57805182815306,
+    "bestRating": 150,
+    "worstRating": 145.15040159277123,
+    "tendency": -4.421948171846935,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      150,
+      145.15040159277123,
+      149.81003680367525,
+      145.57805182815306
+    ]
   },
   {
     "NAF Nr": "19068",
@@ -3575,13 +6281,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "156.0",
+    "rating": 156.5315822165059,
+    "bestRating": 159.20664351534055,
+    "worstRating": 148.7656820009706,
+    "tendency": 7.765900215535311,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      148.7656820009706,
+      155.3770472629123,
+      150.68359362919006,
+      154.47665080207932,
+      159.20664351534055,
+      156.5315822165059
+    ]
   },
   {
     "NAF Nr": "19071",
@@ -3589,13 +6306,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "164.77",
+    "rating": 175.0401657054369,
+    "bestRating": 179.80923596080174,
+    "worstRating": 137.5703580624263,
+    "tendency": 24.66368571409052,
     "totalTournaments": 3,
     "gamesTotal": 13,
     "gamesWon": 9,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 73.08
+    "winRatio": 73.08,
+    "_lastTenRatings": [
+      150.37647999134637,
+      156.25170545961302,
+      159.40930863719294,
+      162.69570186909797,
+      165.97115562248354,
+      170.63152343338916,
+      170.29781371907626,
+      174.8487622692131,
+      179.80923596080174,
+      175.0401657054369
+    ]
   },
   {
     "NAF Nr": "19078",
@@ -3603,13 +6335,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Bretonnian",
-    "rating": "180.54",
+    "rating": 180.77179397911414,
+    "bestRating": 180.77179397911414,
+    "worstRating": 150.17299892919377,
+    "tendency": 16.596595602038292,
     "totalTournaments": 4,
     "gamesTotal": 13,
     "gamesWon": 8,
     "gamesDraw": 4,
     "gamesLost": 1,
-    "winRatio": 76.92
+    "winRatio": 76.92,
+    "_lastTenRatings": [
+      164.17519837707584,
+      160.53870007287546,
+      164.64915226241024,
+      164.15713114012289,
+      168.22554022689056,
+      168.39369340001502,
+      172.08892191625972,
+      171.7017070671267,
+      176.54365827676267,
+      180.77179397911414
+    ]
   },
   {
     "NAF Nr": "19092",
@@ -3617,13 +6364,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "163.34",
+    "rating": 163.26296245050716,
+    "bestRating": 163.26296245050716,
+    "worstRating": 154.47213595499957,
+    "tendency": 8.790826495507588,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.47213595499957,
+      158.94427190999915,
+      163.26296245050716
+    ]
   },
   {
     "NAF Nr": "19133",
@@ -3631,13 +6386,20 @@ const statsRaceBretonnian = [
     "CCAA": "C. La Mancha",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "149.76",
+    "rating": 150.86422478791783,
+    "bestRating": 156.82881574946668,
+    "worstRating": 150.86422478791783,
+    "tendency": -5.964590961548851,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      156.82881574946668,
+      150.86422478791783
+    ]
   },
   {
     "NAF Nr": "19138",
@@ -3645,13 +6407,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "157.42",
+    "rating": 158.3846298978984,
+    "bestRating": 165.56334045965855,
+    "worstRating": 151.1582608765647,
+    "tendency": 7.22636902133371,
     "totalTournaments": 3,
     "gamesTotal": 10,
     "gamesWon": 5,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      151.1582608765647,
+      155.36318556318344,
+      159.53423606189932,
+      163.6374012928999,
+      159.81202736813142,
+      163.09405744610575,
+      165.56334045965855,
+      165.40276983868185,
+      161.7129455408131,
+      158.3846298978984
+    ]
   },
   {
     "NAF Nr": "19142",
@@ -3659,13 +6436,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Mongolia",
     "race": "Bretonnian",
-    "rating": "145.1",
+    "rating": 145.89643202073478,
+    "bestRating": 155.71273520217355,
+    "worstRating": 144.34314575050763,
+    "tendency": 1.5532862702271473,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 45
+    "winRatio": 45,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150.29561755904632,
+      155.57641413761678,
+      149.92309583468304,
+      155.71273520217355,
+      155.46566237526056,
+      155.31814178958186,
+      155.0279656075091,
+      150.37764767766782,
+      145.89643202073478
+    ]
   },
   {
     "NAF Nr": "19160",
@@ -3673,13 +6465,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "148.15",
+    "rating": 148.43497164709623,
+    "bestRating": 150,
+    "worstRating": 148.26215090883665,
+    "tendency": -1.5650283529037665,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      150,
+      148.26215090883665,
+      148.43497164709623
+    ]
   },
   {
     "NAF Nr": "19185",
@@ -3687,13 +6487,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "151.05",
+    "rating": 150.8536788053691,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.8996985891198,
+    "tendency": -4.803175444123269,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150.01134843676525,
+      150.24571868355528,
+      144.8996985891198,
+      150.8536788053691
+    ]
   },
   {
     "NAF Nr": "19196",
@@ -3701,13 +6511,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "156.87",
+    "rating": 157.41579229548313,
+    "bestRating": 157.59350867745786,
+    "worstRating": 151.2205636043287,
+    "tendency": 6.195228691154426,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      151.2205636043287,
+      154.3532173705012,
+      157.59350867745786,
+      157.41579229548313
+    ]
   },
   {
     "NAF Nr": "19236",
@@ -3715,13 +6534,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "157.03",
+    "rating": 157.23705658075804,
+    "bestRating": 157.23705658075804,
+    "worstRating": 149.92636559150583,
+    "tendency": 7.310690989252208,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      149.92636559150583,
+      156.56310985761667,
+      157.23705658075804
+    ]
   },
   {
     "NAF Nr": "19252",
@@ -3729,13 +6556,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Bretonnian",
-    "rating": "138.57",
+    "rating": 138.63999756402987,
+    "bestRating": 150.02981560604556,
+    "worstRating": 138.63999756402987,
+    "tendency": -7.8189293359288,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      146.45892689995867,
+      150.02981560604556,
+      150.02582517244292,
+      146.52115631166694,
+      142.45039134726815,
+      138.63999756402987
+    ]
   },
   {
     "NAF Nr": "19260",
@@ -3743,13 +6581,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "131.62",
+    "rating": 131.23322523988008,
+    "bestRating": 142.389671309635,
+    "worstRating": 131.23322523988008,
+    "tendency": -11.156446069754907,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      142.389671309635,
+      136.3777011427739,
+      131.23322523988008
+    ]
   },
   {
     "NAF Nr": "19324",
@@ -3757,13 +6603,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "150.47",
+    "rating": 150.45059091158512,
+    "bestRating": 150.45059091158512,
+    "worstRating": 144.78036980947851,
+    "tendency": 5.670221102106609,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.78036980947851,
+      144.82832513910398,
+      150.45059091158512
+    ]
   },
   {
     "NAF Nr": "19329",
@@ -3771,13 +6625,20 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "150.25",
+    "rating": 150.27234453502527,
+    "bestRating": 150.27234453502527,
+    "worstRating": 147.62965401317402,
+    "tendency": 2.64269052185125,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      147.62965401317402,
+      150.27234453502527
+    ]
   },
   {
     "NAF Nr": "19395",
@@ -3785,13 +6646,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Bretonnian",
-    "rating": "162.35",
+    "rating": 162.72489960719457,
+    "bestRating": 162.72489960719457,
+    "worstRating": 145.422794666675,
+    "tendency": 17.30210494051957,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      145.422794666675,
+      151.46935639659822,
+      157.0627867832585,
+      151.41583981136742,
+      156.8955700045331,
+      162.72489960719457
+    ]
   },
   {
     "NAF Nr": "19452",
@@ -3799,13 +6671,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "169.1",
+    "rating": 169.5389035147805,
+    "bestRating": 169.5389035147805,
+    "worstRating": 155.65685424949237,
+    "tendency": 13.882049265288117,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 80
+    "winRatio": 80,
+    "_lastTenRatings": [
+      155.65685424949237,
+      157.85350716133962,
+      163.96707531406037,
+      163.6814143296905,
+      169.5389035147805
+    ]
   },
   {
     "NAF Nr": "19479",
@@ -3813,13 +6695,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "147.99",
+    "rating": 148.30368420600524,
+    "bestRating": 157.6489543797471,
+    "worstRating": 147.65129899138418,
+    "tendency": -9.345270173741852,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      157.6489543797471,
+      147.65129899138418,
+      148.30368420600524
+    ]
   },
   {
     "NAF Nr": "19483",
@@ -3827,13 +6717,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Bretonnian",
-    "rating": "154.22",
+    "rating": 154.8218444165441,
+    "bestRating": 154.8218444165441,
+    "worstRating": 145.63694121884893,
+    "tendency": 5.071073268305582,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 4,
     "gamesDraw": 5,
     "gamesLost": 3,
-    "winRatio": 54.17
+    "winRatio": 54.17,
+    "_lastTenRatings": [
+      149.75077114823853,
+      153.87725942219532,
+      149.64575354946436,
+      149.6701086895035,
+      153.92349175967982,
+      150.06483918228892,
+      150.06355437618305,
+      150.10128997169613,
+      154.35180359382565,
+      154.8218444165441
+    ]
   },
   {
     "NAF Nr": "19492",
@@ -3841,13 +6746,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "135.52",
+    "rating": 135.55493925337427,
+    "bestRating": 150.5370280726782,
+    "worstRating": 135.55493925337427,
+    "tendency": -14.982088819303925,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatings": [
+      150.5370280726782,
+      144.92054485767017,
+      144.9058291309222,
+      140.4234092552858,
+      135.55493925337427
+    ]
   },
   {
     "NAF Nr": "19526",
@@ -3855,13 +6770,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "155.85",
+    "rating": 155.56205577509357,
+    "bestRating": 155.56205577509357,
+    "worstRating": 149.99009200569256,
+    "tendency": 5.571963769401009,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      149.99009200569256,
+      152.91901854347404,
+      155.56205577509357
+    ]
   },
   {
     "NAF Nr": "19544",
@@ -3869,13 +6792,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "144.88",
+    "rating": 144.64757845783055,
+    "bestRating": 149.20172580863965,
+    "worstRating": 144.64757845783055,
+    "tendency": -0.26274911226923336,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.91032757009978,
+      149.20172580863965,
+      144.64757845783055
+    ]
   },
   {
     "NAF Nr": "19547",
@@ -3883,13 +6814,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "164.98",
+    "rating": 171.03719770619142,
+    "bestRating": 171.03719770619142,
+    "worstRating": 143.5711783169575,
+    "tendency": 27.066132644106688,
     "totalTournaments": 3,
     "gamesTotal": 13,
     "gamesWon": 7,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 61.54
+    "winRatio": 61.54,
+    "_lastTenRatings": [
+      143.97106506208473,
+      149.3058672451066,
+      154.77035778795576,
+      160.48579332243636,
+      163.22743132366946,
+      168.40627007861787,
+      164.24149497558955,
+      169.34694501088075,
+      165.69902038133264,
+      171.03719770619142
+    ]
   },
   {
     "NAF Nr": "19565",
@@ -3897,13 +6843,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "144.5",
+    "rating": 144.34314575050763,
+    "bestRating": 144.34314575050763,
+    "worstRating": 144.34314575050763,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.34314575050763
+    ]
   },
   {
     "NAF Nr": "19627",
@@ -3911,13 +6863,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "149.88",
+    "rating": 150.44034644531052,
+    "bestRating": 155.51307811666058,
+    "worstRating": 144.16700051565925,
+    "tendency": 6.273345929651271,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.16700051565925,
+      149.80522854599104,
+      155.51307811666058,
+      150.44034644531052
+    ]
   },
   {
     "NAF Nr": "19685",
@@ -3925,13 +6886,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "137.66",
+    "rating": 129.38509330193298,
+    "bestRating": 159.83791643532965,
+    "worstRating": 127.96410228427376,
+    "tendency": -11.149118816166947,
     "totalTournaments": 6,
     "gamesTotal": 34,
     "gamesWon": 12,
     "gamesDraw": 4,
     "gamesLost": 18,
-    "winRatio": 41.18
+    "winRatio": 41.18,
+    "_lastTenRatings": [
+      140.53421211809993,
+      146.4086737318475,
+      141.08797264105795,
+      146.92682132256496,
+      143.4349887097218,
+      137.93758318340406,
+      132.7190811895177,
+      127.96410228427376,
+      133.21837458103968,
+      129.38509330193298
+    ]
   },
   {
     "NAF Nr": "19693",
@@ -3939,13 +6915,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "146.66",
+    "rating": 146.70217368078923,
+    "bestRating": 150,
+    "worstRating": 146.50972057243254,
+    "tendency": 0.16627529592699375,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      146.53589838486224,
+      150,
+      146.50972057243254,
+      149.88174048206815,
+      146.51279700485836,
+      146.70217368078923
+    ]
   },
   {
     "NAF Nr": "19711",
@@ -3953,13 +6940,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "185.57",
+    "rating": 186.19288920118805,
+    "bestRating": 186.19288920118805,
+    "worstRating": 143.27962290119711,
+    "tendency": 12.103819234284316,
     "totalTournaments": 5,
     "gamesTotal": 23,
     "gamesWon": 13,
     "gamesDraw": 5,
     "gamesLost": 5,
-    "winRatio": 67.39
+    "winRatio": 67.39,
+    "_lastTenRatings": [
+      174.08906996690374,
+      173.27365375905484,
+      167.0726748099924,
+      171.19698945225986,
+      166.29577185882317,
+      170.70278909288564,
+      169.74259303232972,
+      174.58338233071044,
+      179.46179038082113,
+      186.19288920118805
+    ]
   },
   {
     "NAF Nr": "19719",
@@ -3967,13 +6969,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "158.93",
+    "rating": 159.50531642064172,
+    "bestRating": 159.50531642064172,
+    "worstRating": 153.16227766016837,
+    "tendency": 6.343038760473348,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      153.16227766016837,
+      155.96795907726337,
+      159.50531642064172
+    ]
   },
   {
     "NAF Nr": "19727",
@@ -3981,13 +6991,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "136.59",
+    "rating": 135.8182669969258,
+    "bestRating": 149.56183979320042,
+    "worstRating": 128.2704200668623,
+    "tendency": -6.654625330859403,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      142.4728923277852,
+      149.56183979320042,
+      141.8066564657609,
+      136.14134529816795,
+      128.2704200668623,
+      135.8182669969258
+    ]
   },
   {
     "NAF Nr": "19748",
@@ -3995,13 +7016,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "154.26",
+    "rating": 154.28202883053584,
+    "bestRating": 154.97736171456341,
+    "worstRating": 150.3794851300799,
+    "tendency": -0.6953328840275788,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.97736171456341,
+      150.3794851300799,
+      154.28202883053584
+    ]
   },
   {
     "NAF Nr": "19750",
@@ -4009,13 +7038,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Bretonnian",
-    "rating": "168.26",
+    "rating": 168.27861722615097,
+    "bestRating": 171.8296214685275,
+    "worstRating": 146.51023850017904,
+    "tendency": 4.970127482969758,
     "totalTournaments": 6,
     "gamesTotal": 20,
     "gamesWon": 8,
     "gamesDraw": 8,
     "gamesLost": 4,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      163.3084897431812,
+      163.03922193885094,
+      163.59490927376476,
+      167.70104497349624,
+      171.8296214685275,
+      171.59062078461432,
+      170.78264679968098,
+      166.84033212421213,
+      169.5706938930598,
+      168.27861722615097
+    ]
   },
   {
     "NAF Nr": "19789",
@@ -4023,13 +7067,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "146.02",
+    "rating": 146.01780026393553,
+    "bestRating": 146.01780026393553,
+    "worstRating": 142.0001446313914,
+    "tendency": 0.017800263935527028,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146,
+      142.0001446313914,
+      146.01780026393553
+    ]
   },
   {
     "NAF Nr": "19811",
@@ -4037,13 +7089,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "150.94",
+    "rating": 151.63741790478144,
+    "bestRating": 151.63741790478144,
+    "worstRating": 146.6007087411444,
+    "tendency": 4.70358517585538,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.93383272892606,
+      146.6753344681008,
+      146.6007087411444,
+      151.63741790478144
+    ]
   },
   {
     "NAF Nr": "19816",
@@ -4051,13 +7112,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Bretonnian",
-    "rating": "142.88",
+    "rating": 142.98547783256345,
+    "bestRating": 158.45448491786016,
+    "worstRating": 142.7216459088683,
+    "tendency": -15.283251341756738,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 4,
     "gamesDraw": 3,
     "gamesLost": 5,
-    "winRatio": 45.83
+    "winRatio": 45.83,
+    "_lastTenRatings": [
+      158.26872917432019,
+      153.81409884574134,
+      158.45448491786016,
+      158.32546447199485,
+      152.50789763166506,
+      147.443131163831,
+      152.5921628757499,
+      148.15841018957227,
+      142.7216459088683,
+      142.98547783256345
+    ]
   },
   {
     "NAF Nr": "19828",
@@ -4065,13 +7141,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "142.66",
+    "rating": 142.8392592239316,
+    "bestRating": 145.54818777232418,
+    "worstRating": 141.1318368846597,
+    "tendency": -2.16475913789111,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.00401836182272,
+      141.24682209273223,
+      145.31470960383797,
+      141.1318368846597,
+      145.54818777232418,
+      142.8392592239316
+    ]
   },
   {
     "NAF Nr": "19850",
@@ -4079,13 +7166,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Bretonnian",
-    "rating": "160.55",
+    "rating": 161.0163371531421,
+    "bestRating": 165.53440757550965,
+    "worstRating": 152.2394988426947,
+    "tendency": 8.776838310447403,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 7,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      152.2394988426947,
+      155.07648352442013,
+      157.85650784257084,
+      155.71060856947807,
+      158.37356210925842,
+      161.8750757322661,
+      165.53440757550965,
+      161.56750999211837,
+      164.99100527155701,
+      161.0163371531421
+    ]
   },
   {
     "NAF Nr": "19888",
@@ -4093,13 +7195,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "150.15",
+    "rating": 150.1132058610837,
+    "bestRating": 154.47213595499957,
+    "worstRating": 150,
+    "tendency": 0.11320586108371344,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      154.47213595499957,
+      150.15344541449156,
+      154.14873446834974,
+      150.14416815340488,
+      150.1132058610837
+    ]
   },
   {
     "NAF Nr": "19891",
@@ -4107,13 +7220,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Bretonnian",
-    "rating": "135.27",
+    "rating": 134.3196091408863,
+    "bestRating": 144.0827405302707,
+    "worstRating": 134.3196091408863,
+    "tendency": -9.763131389384398,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatings": [
+      144.0827405302707,
+      137.9751418520773,
+      138.97428798234648,
+      134.3196091408863
+    ]
   },
   {
     "NAF Nr": "19902",
@@ -4121,13 +7243,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Bretonnian",
-    "rating": "150.78",
+    "rating": 150.43326300074298,
+    "bestRating": 152.83536152703238,
+    "worstRating": 150.43326300074298,
+    "tendency": -2.3951641240032018,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      152.82842712474618,
+      152.83536152703238,
+      150.43326300074298
+    ]
   },
   {
     "NAF Nr": "19958",
@@ -4135,13 +7265,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "145.24",
+    "rating": 146.19814342742683,
+    "bestRating": 151.37014358835717,
+    "worstRating": 144.34314575050763,
+    "tendency": 1.8549976769191971,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      144.34314575050763,
+      151.37014358835717,
+      146.69330341628077,
+      150.44068460959087,
+      145.65136558321075,
+      146.19814342742683
+    ]
   },
   {
     "NAF Nr": "20024",
@@ -4149,13 +7290,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "140.44",
+    "rating": 140.05021368869313,
+    "bestRating": 147.06455654553633,
+    "worstRating": 140.05021368869313,
+    "tendency": -7.0143428568432,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      147.06455654553633,
+      143.0318741790761,
+      140.05021368869313
+    ]
   },
   {
     "NAF Nr": "20060",
@@ -4163,13 +7312,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Bretonnian",
-    "rating": "146.71",
+    "rating": 146.45770398694836,
+    "bestRating": 146.53135105806294,
+    "worstRating": 142.53413133913594,
+    "tendency": 0.19936137372229723,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      146.25834261322606,
+      146.25483843765315,
+      142.53413133913594,
+      146.53135105806294,
+      146.45770398694836
+    ]
   },
   {
     "NAF Nr": "20061",
@@ -4177,27 +7336,51 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Hungary",
     "race": "Bretonnian",
-    "rating": "176.68",
+    "rating": 174.35951861128493,
+    "bestRating": 183.06086754678748,
+    "worstRating": 134.28631177502177,
+    "tendency": 4.59291613151737,
     "totalTournaments": 7,
     "gamesTotal": 38,
     "gamesWon": 19,
     "gamesDraw": 8,
     "gamesLost": 11,
-    "winRatio": 60.53
+    "winRatio": 60.53,
+    "_lastTenRatings": [
+      169.76660247976756,
+      173.8879939062144,
+      178.51914786675238,
+      183.06086754678748,
+      176.31247332479674,
+      169.82620919350217,
+      165.03331487019636,
+      169.7717900071112,
+      169.17829696251528,
+      174.35951861128493
+    ]
   },
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "133.6",
+    "rating": 134.30037388102997,
+    "bestRating": 149.77748413035692,
+    "worstRating": 134.30037388102997,
+    "tendency": -15.477110249326955,
     "totalTournaments": 2,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatings": [
+      149.77748413035692,
+      145.3903634261528,
+      139.9228572774167,
+      134.30037388102997
+    ]
   },
   {
     "NAF Nr": "20141",
@@ -4205,13 +7388,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Morocco",
     "race": "Bretonnian",
-    "rating": "147.1",
+    "rating": 153.01245489732045,
+    "bestRating": 153.01245489732045,
+    "worstRating": 129.25491215938823,
+    "tendency": 18.85621217386452,
     "totalTournaments": 3,
     "gamesTotal": 15,
     "gamesWon": 5,
     "gamesDraw": 4,
     "gamesLost": 6,
-    "winRatio": 46.67
+    "winRatio": 46.67,
+    "_lastTenRatings": [
+      134.15624272345593,
+      129.25491215938823,
+      135.3254634828655,
+      137.30153390087318,
+      130.81920894054204,
+      140.091439677212,
+      141.00838474281937,
+      146.31031322193502,
+      152.60611736426716,
+      153.01245489732045
+    ]
   },
   {
     "NAF Nr": "20145",
@@ -4219,13 +7417,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "153.41",
+    "rating": 153.4847541519323,
+    "bestRating": 153.4847541519323,
+    "worstRating": 144.34314575050763,
+    "tendency": 9.141608401424662,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.34314575050763,
+      149.721812165609,
+      147.02030549880251,
+      153.4847541519323
+    ]
   },
   {
     "NAF Nr": "20177",
@@ -4233,13 +7440,20 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "153.61",
+    "rating": 153.64039319685327,
+    "bestRating": 153.64039319685327,
+    "worstRating": 150,
+    "tendency": 3.6403931968532675,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      150,
+      153.64039319685327
+    ]
   },
   {
     "NAF Nr": "20243",
@@ -4247,13 +7461,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "153.93",
+    "rating": 153.36328204921028,
+    "bestRating": 159.5028340007038,
+    "worstRating": 153.36328204921028,
+    "tendency": -1.2080018118491864,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      154.57128386105947,
+      154.58360553697037,
+      159.5028340007038,
+      153.36328204921028
+    ]
   },
   {
     "NAF Nr": "20248",
@@ -4261,13 +7484,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "142.02",
+    "rating": 143.5673486353534,
+    "bestRating": 147.36301970835748,
+    "worstRating": 142.99858614217004,
+    "tendency": -1.7926922046560492,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.36004084000945,
+      145.80879778478317,
+      142.99858614217004,
+      147.36301970835748,
+      143.00956575438752,
+      143.5673486353534
+    ]
   },
   {
     "NAF Nr": "20290",
@@ -4275,13 +7509,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "147.77",
+    "rating": 147.60842713866944,
+    "bestRating": 147.60842713866944,
+    "worstRating": 145.14706679125095,
+    "tendency": 0.05791688145262697,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      147.5505102572168,
+      145.14706679125095,
+      147.60842713866944
+    ]
   },
   {
     "NAF Nr": "20320",
@@ -4289,13 +7531,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "191.36",
+    "rating": 192.48051914881907,
+    "bestRating": 192.48051914881907,
+    "worstRating": 149.9606023542223,
+    "tendency": 30.645735547260585,
     "totalTournaments": 3,
     "gamesTotal": 19,
     "gamesWon": 11,
     "gamesDraw": 5,
     "gamesLost": 3,
-    "winRatio": 71.05
+    "winRatio": 71.05,
+    "_lastTenRatings": [
+      161.83478360155848,
+      166.41298401832736,
+      171.32569141619837,
+      168.2343914164174,
+      174.63834839918727,
+      178.5309913419899,
+      184.40567679788128,
+      184.9768948086723,
+      189.2282215799253,
+      192.48051914881907
+    ]
   },
   {
     "NAF Nr": "20447",
@@ -4303,13 +7560,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "151.07",
+    "rating": 151.10062253714648,
+    "bestRating": 155.65685424949237,
+    "worstRating": 151.10062253714648,
+    "tendency": -4.556231712345891,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      151.1160262569357,
+      151.10062253714648
+    ]
   },
   {
     "NAF Nr": "20466",
@@ -4317,13 +7582,22 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "141.65",
+    "rating": 141.78480221453614,
+    "bestRating": 151.94421765301854,
+    "worstRating": 141.78480221453614,
+    "tendency": -10.159415438482398,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      151.94421765301854,
+      147.9397397311781,
+      142.7402437800841,
+      141.78480221453614
+    ]
   },
   {
     "NAF Nr": "20468",
@@ -4331,13 +7605,22 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "162.28",
+    "rating": 162.40506912937758,
+    "bestRating": 162.40506912937758,
+    "worstRating": 151.6241680974012,
+    "tendency": 6.18928540555774,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      156.21578372381984,
+      151.6241680974012,
+      157.93896861965507,
+      162.40506912937758
+    ]
   },
   {
     "NAF Nr": "20481",
@@ -4345,13 +7628,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Bretonnian",
-    "rating": "170.98",
+    "rating": 172.06702889398966,
+    "bestRating": 172.06702889398966,
+    "worstRating": 155.14641833424213,
+    "tendency": 16.92061055974753,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      155.14641833424213,
+      160.90277341283337,
+      166.41602804957785,
+      161.50277651011837,
+      166.32578276751929,
+      172.06702889398966
+    ]
   },
   {
     "NAF Nr": "20485",
@@ -4359,27 +7653,48 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Bretonnian",
-    "rating": "146.51",
+    "rating": 147.27322545328687,
+    "bestRating": 147.27322545328687,
+    "worstRating": 147.27322545328687,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      147.27322545328687
+    ]
   },
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "141.87",
+    "rating": 143.61954689247136,
+    "bestRating": 174.47236543323007,
+    "worstRating": 141.43776782145912,
+    "tendency": 2.1817790710122438,
     "totalTournaments": 10,
     "gamesTotal": 42,
     "gamesWon": 16,
     "gamesDraw": 9,
     "gamesLost": 17,
-    "winRatio": 48.81
+    "winRatio": 48.81,
+    "_lastTenRatings": [
+      141.43776782145912,
+      141.5654995729946,
+      146.7213193687327,
+      141.53102060209912,
+      141.65382804276925,
+      146.899689706325,
+      148.26601541363289,
+      149.0999631100309,
+      143.82018446498122,
+      143.61954689247136
+    ]
   },
   {
     "NAF Nr": "20513",
@@ -4387,13 +7702,22 @@ const statsRaceBretonnian = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "161.3",
+    "rating": 161.64261710924316,
+    "bestRating": 162.16945898205202,
+    "worstRating": 155.65685424949237,
+    "tendency": 5.985762859750793,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      162.16945898205202,
+      161.64261710924316
+    ]
   },
   {
     "NAF Nr": "20535",
@@ -4401,13 +7725,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "161.14",
+    "rating": 161.42981337155481,
+    "bestRating": 161.42981337155481,
+    "worstRating": 150,
+    "tendency": 11.429813371554815,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      150,
+      155.7367462204623,
+      161.42981337155481
+    ]
   },
   {
     "NAF Nr": "20558",
@@ -4415,13 +7747,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "155.26",
+    "rating": 155.44863574576954,
+    "bestRating": 155.44863574576954,
+    "worstRating": 150.10448468714776,
+    "tendency": 0.008535051280460948,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.44010069448908,
+      150.10448468714776,
+      155.44863574576954
+    ]
   },
   {
     "NAF Nr": "20585",
@@ -4429,13 +7769,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "153.56",
+    "rating": 153.33272951171475,
+    "bestRating": 153.48833891855313,
+    "worstRating": 150,
+    "tendency": 3.3327295117147457,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      150,
+      153.3942398776867,
+      153.48833891855313,
+      150.0294986584207,
+      153.33272951171475
+    ]
   },
   {
     "NAF Nr": "20632",
@@ -4443,13 +7793,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "155.89",
+    "rating": 153.15437581481643,
+    "bestRating": 153.16227766016837,
+    "worstRating": 149.9925986553137,
+    "tendency": -0.007901845351938164,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.16227766016837,
+      149.9925986553137,
+      153.15437581481643
+    ]
   },
   {
     "NAF Nr": "20641",
@@ -4457,13 +7815,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "142.65",
+    "rating": 143.29541996462817,
+    "bestRating": 147.95842841923357,
+    "worstRating": 138.10811611908392,
+    "tendency": -4.663008454605404,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      147.95842841923357,
+      142.14464624270326,
+      138.10811611908392,
+      143.8210117729157,
+      143.68569533647272,
+      143.29541996462817
+    ]
   },
   {
     "NAF Nr": "20654",
@@ -4471,13 +7840,22 @@ const statsRaceBretonnian = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "144.98",
+    "rating": 145.5228102501882,
+    "bestRating": 149.57771056352038,
+    "worstRating": 144.9009804864072,
+    "tendency": 0.621829763780994,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      144.9009804864072,
+      149.57771056352038,
+      149.56814113651927,
+      145.5228102501882
+    ]
   },
   {
     "NAF Nr": "20663",
@@ -4485,13 +7863,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "149.39",
+    "rating": 149.7796166071791,
+    "bestRating": 156.30672802206675,
+    "worstRating": 149.7796166071791,
+    "tendency": -5.2203833928209065,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155,
+      154.96900291523352,
+      151.1543304285078,
+      156.30672802206675,
+      155.8562856192283,
+      149.7796166071791
+    ]
   },
   {
     "NAF Nr": "20671",
@@ -4499,13 +7888,27 @@ const statsRaceBretonnian = [
     "CCAA": "Euskadi",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "122.97",
+    "rating": 122.8849727975376,
+    "bestRating": 149.7848813133624,
+    "worstRating": 121.94230569121262,
+    "tendency": -26.899908515824805,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 6,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      149.7848813133624,
+      144.13736707010665,
+      138.74551941694085,
+      141.5648015848433,
+      135.90354725489172,
+      130.9597497791659,
+      126.58126170163723,
+      121.94230569121262,
+      122.8849727975376
+    ]
   },
   {
     "NAF Nr": "20691",
@@ -4513,13 +7916,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Bretonnian",
-    "rating": "141.82",
+    "rating": 141.70166837637575,
+    "bestRating": 154.26444781055585,
+    "worstRating": 134.87081659760665,
+    "tendency": 1.347488523980104,
     "totalTournaments": 4,
     "gamesTotal": 18,
     "gamesWon": 6,
     "gamesDraw": 3,
     "gamesLost": 9,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      140.35417985239565,
+      140.56556948651232,
+      137.02429823045526,
+      137.15814002063073,
+      144.268767968529,
+      140.9466527269695,
+      135.78459004899767,
+      140.80714354368826,
+      135.60955000461672,
+      141.70166837637575
+    ]
   },
   {
     "NAF Nr": "20698",
@@ -4527,13 +7945,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "140.29",
+    "rating": 140.08391438295394,
+    "bestRating": 157.74596669241484,
+    "worstRating": 134.05082398157134,
+    "tendency": -10.699216199755028,
     "totalTournaments": 2,
     "gamesTotal": 11,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 5,
-    "winRatio": 40.91
+    "winRatio": 40.91,
+    "_lastTenRatings": [
+      150.78313058270896,
+      150.739000364266,
+      144.14187015547392,
+      143.8552387984035,
+      144.0303958240192,
+      149.9462568929306,
+      144.38366179246873,
+      139.09255350770553,
+      134.05082398157134,
+      140.08391438295394
+    ]
   },
   {
     "NAF Nr": "20750",
@@ -4541,13 +7974,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "148.45",
+    "rating": 148.53691177826911,
+    "bestRating": 155.33120004896736,
+    "worstRating": 148.53691177826911,
+    "tendency": -6.794288270698246,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      155.33120004896736,
+      151.08362239092224,
+      151.31696429311378,
+      148.57261295134015,
+      148.53691177826911
+    ]
   },
   {
     "NAF Nr": "20761",
@@ -4555,13 +7998,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "150.15",
+    "rating": 150.17144070149175,
+    "bestRating": 150.17144070149175,
+    "worstRating": 145.52786404500043,
+    "tendency": 4.6435766564913195,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.52786404500043,
+      150,
+      150.17144070149175
+    ]
   },
   {
     "NAF Nr": "20763",
@@ -4569,13 +8020,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Bretonnian",
-    "rating": "154.56",
+    "rating": 156.0069131460768,
+    "bestRating": 162.1744954588999,
+    "worstRating": 150.46551941727185,
+    "tendency": 5.541393728804962,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      150.46551941727185,
+      155.44502873862922,
+      161.4267341848491,
+      162.1744954588999,
+      156.0069131460768
+    ]
   },
   {
     "NAF Nr": "20768",
@@ -4583,13 +8044,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "145.49",
+    "rating": 145.59134641036144,
+    "bestRating": 154.6246401967995,
+    "worstRating": 145.59134641036144,
+    "tendency": -9.033293786438065,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      154.6246401967995,
+      151.32720531445534,
+      145.59134641036144
+    ]
   },
   {
     "NAF Nr": "20775",
@@ -4597,13 +8066,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Norway",
     "race": "Bretonnian",
-    "rating": "169.26",
+    "rating": 168.9416997027774,
+    "bestRating": 172.04080826696938,
+    "worstRating": 153.8729833462074,
+    "tendency": 12.202042310364561,
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 8,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 67.86
+    "winRatio": 67.86,
+    "_lastTenRatings": [
+      156.73965739241285,
+      156.94837503785794,
+      160.61964640497482,
+      160.9276656254704,
+      164.55836875988263,
+      168.3464024235282,
+      172.04080826696938,
+      167.82733941493922,
+      171.38013978235554,
+      168.9416997027774
+    ]
   },
   {
     "NAF Nr": "20811",
@@ -4611,13 +8095,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "137.3",
+    "rating": 136.04405074160252,
+    "bestRating": 157.16993818206896,
+    "worstRating": 135.85475143943117,
+    "tendency": -14.576953424776605,
     "totalTournaments": 4,
     "gamesTotal": 14,
     "gamesWon": 2,
     "gamesDraw": 7,
     "gamesLost": 5,
-    "winRatio": 39.29
+    "winRatio": 39.29,
+    "_lastTenRatings": [
+      150.62100416637912,
+      150.5951827566463,
+      151.90011600703505,
+      157.16993818206896,
+      152.74986929139945,
+      147.02647785671235,
+      141.4987054644129,
+      141.81047173479334,
+      135.85475143943117,
+      136.04405074160252
+    ]
   },
   {
     "NAF Nr": "20813",
@@ -4625,13 +8124,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "150.51",
+    "rating": 150.51977093330473,
+    "bestRating": 150.51977093330473,
+    "worstRating": 144.7461233920189,
+    "tendency": 5.749195381393122,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.7705755519116,
+      144.7461233920189,
+      150.51977093330473
+    ]
   },
   {
     "NAF Nr": "20817",
@@ -4639,13 +8146,23 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "139.86",
+    "rating": 139.5932374040253,
+    "bestRating": 150.38573464017162,
+    "worstRating": 139.5932374040253,
+    "tendency": -4.632961515411296,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      144.2261989194366,
+      144.47726207482592,
+      150.38573464017162,
+      145.00665866440912,
+      139.5932374040253
+    ]
   },
   {
     "NAF Nr": "20820",
@@ -4653,27 +8170,47 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "147.47",
+    "rating": 147.86518305374557,
+    "bestRating": 148.3341179741609,
+    "worstRating": 142.3525057251007,
+    "tendency": 1.050172463492487,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      146.81501059025308,
+      148.3341179741609,
+      142.3525057251007,
+      147.86518305374557
+    ]
   },
   {
     "NAF Nr": "20830",
     "NAF Name": "Neo_chains",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "145.31",
+    "rating": 146.0210510686274,
+    "bestRating": 158.8020160052883,
+    "worstRating": 146.0210510686274,
+    "tendency": -8.799156710732888,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      154.8202077793603,
+      158.8020160052883,
+      154.6185645845195,
+      149.92458553572874,
+      149.51570779159752,
+      146.0210510686274
+    ]
   },
   {
     "NAF Nr": "20836",
@@ -4681,13 +8218,20 @@ const statsRaceBretonnian = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "156.1",
+    "rating": 155.91304878353472,
+    "bestRating": 155.91304878353472,
+    "worstRating": 150.01157489425518,
+    "tendency": 5.9014738892795435,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      150.01157489425518,
+      155.91304878353472
+    ]
   },
   {
     "NAF Nr": "20844",
@@ -4695,13 +8239,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "150.0",
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 150,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150
+    ]
   },
   {
     "NAF Nr": "20861",
@@ -4709,13 +8259,20 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "144.73",
+    "rating": 144.5886006092411,
+    "bestRating": 144.5886006092411,
+    "worstRating": 144.34314575050763,
+    "tendency": 0.24545485873346706,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.5886006092411
+    ]
   },
   {
     "NAF Nr": "20865",
@@ -4723,13 +8280,28 @@ const statsRaceBretonnian = [
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "186.0",
+    "rating": 187.34941098501488,
+    "bestRating": 194.04731075712635,
+    "worstRating": 146.7002742514118,
+    "tendency": 13.402508678748916,
     "totalTournaments": 4,
     "gamesTotal": 17,
     "gamesWon": 11,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 70.59
+    "winRatio": 70.59,
+    "_lastTenRatings": [
+      173.94690230626597,
+      178.50036536516316,
+      182.74503787120037,
+      188.17011550693258,
+      194.04731075712635,
+      187.20471599560724,
+      191.17512375365095,
+      189.66203133345513,
+      182.72328102794947,
+      187.34941098501488
+    ]
   },
   {
     "NAF Nr": "20911",
@@ -4737,13 +8309,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "149.82",
+    "rating": 149.80486261424352,
+    "bestRating": 154.33368345546668,
+    "worstRating": 149.80486261424352,
+    "tendency": -4.528820841223165,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.33368345546668,
+      154.19261570225135,
+      149.80486261424352
+    ]
   },
   {
     "NAF Nr": "20924",
@@ -4751,13 +8331,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "151.25",
+    "rating": 151.46521198586058,
+    "bestRating": 151.46521198586058,
+    "worstRating": 145.98961249486942,
+    "tendency": 5.475599490991158,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.98961249486942,
+      146.49761324596392,
+      151.46521198586058
+    ]
   },
   {
     "NAF Nr": "20930",
@@ -4765,13 +8353,22 @@ const statsRaceBretonnian = [
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "161.74",
+    "rating": 162.1609532619017,
+    "bestRating": 162.1609532619017,
+    "worstRating": 156.24077897059186,
+    "tendency": 5.9201742913098485,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      156.24077897059186,
+      162.08055804213117,
+      156.4841658287844,
+      162.1609532619017
+    ]
   },
   {
     "NAF Nr": "20940",
@@ -4779,13 +8376,28 @@ const statsRaceBretonnian = [
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "161.38",
+    "rating": 162.77264362412507,
+    "bestRating": 176.77275504999426,
+    "worstRating": 150.0933363611143,
+    "tendency": -6.0210826724066635,
     "totalTournaments": 4,
     "gamesTotal": 19,
     "gamesWon": 8,
     "gamesDraw": 5,
     "gamesLost": 6,
-    "winRatio": 55.26
+    "winRatio": 55.26,
+    "_lastTenRatings": [
+      168.79372629653173,
+      175.63395776965436,
+      176.77275504999426,
+      171.50860635187274,
+      166.9389847347635,
+      172.24256385652907,
+      165.15882470536513,
+      170.4256202193631,
+      163.60071403089998,
+      162.77264362412507
+    ]
   },
   {
     "NAF Nr": "20974",
@@ -4793,13 +8405,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "149.24",
+    "rating": 149.7279528119759,
+    "bestRating": 164.84999311825396,
+    "worstRating": 149.7279528119759,
+    "tendency": -5.928901437516458,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      164.84999311825396,
+      159.4211128184609,
+      155.01582026086533,
+      149.7279528119759
+    ]
   },
   {
     "NAF Nr": "21062",
@@ -4807,13 +8430,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "144.37",
+    "rating": 143.46297810152495,
+    "bestRating": 143.80914762099016,
+    "worstRating": 139.1722867403466,
+    "tendency": -0.33634317656833446,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      143.7993212780933,
+      143.80914762099016,
+      139.1722867403466,
+      143.46297810152495
+    ]
   },
   {
     "NAF Nr": "21092",
@@ -4821,13 +8453,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Bretonnian",
-    "rating": "159.37",
+    "rating": 159.4214677218081,
+    "bestRating": 163.80944414459165,
+    "worstRating": 150.57392268368432,
+    "tendency": 8.847545038123798,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      150.57392268368432,
+      156.0842751451469,
+      162.1885288602738,
+      158.15194350899858,
+      163.80944414459165,
+      159.4214677218081
+    ]
   },
   {
     "NAF Nr": "21107",
@@ -4835,13 +8478,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "145.0",
+    "rating": 144.6872805330052,
+    "bestRating": 144.6872805330052,
+    "worstRating": 144.6872805330052,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.6872805330052
+    ]
   },
   {
     "NAF Nr": "21109",
@@ -4849,13 +8498,28 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "187.87",
+    "rating": 199.68680491137053,
+    "bestRating": 202.47780113650091,
+    "worstRating": 154.2426406871193,
+    "tendency": 11.918808509501446,
     "totalTournaments": 9,
     "gamesTotal": 38,
     "gamesWon": 25,
     "gamesDraw": 6,
     "gamesLost": 7,
-    "winRatio": 73.68
+    "winRatio": 73.68,
+    "_lastTenRatings": [
+      187.76799640186908,
+      186.77140878020293,
+      189.8519166145452,
+      193.61437680888855,
+      198.46057689707547,
+      190.64625053719857,
+      193.78272765766818,
+      196.94503847471535,
+      200.48647337334006,
+      199.68680491137053
+    ]
   },
   {
     "NAF Nr": "21123",
@@ -4863,13 +8527,27 @@ const statsRaceBretonnian = [
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "149.61",
+    "rating": 150.53986460351797,
+    "bestRating": 162.167733694136,
+    "worstRating": 150.4264189895676,
+    "tendency": -5.1169896459743995,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      156.0258119270046,
+      150.4264189895676,
+      156.78865771837349,
+      162.167733694136,
+      156.5399150569326,
+      161.2891471185899,
+      155.94528756878734,
+      150.53986460351797
+    ]
   },
   {
     "NAF Nr": "21127",
@@ -4877,13 +8555,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Bretonnian",
-    "rating": "145.5",
+    "rating": 145.52786404500043,
+    "bestRating": 145.52786404500043,
+    "worstRating": 145.52786404500043,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      145.52786404500043
+    ]
   },
   {
     "NAF Nr": "21136",
@@ -4891,13 +8575,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "158.52",
+    "rating": 160.41332256268953,
+    "bestRating": 165.5121994797432,
+    "worstRating": 156.13917127188694,
+    "tendency": 4.252259689795636,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      156.1610628728939,
+      156.13917127188694,
+      157.84928276789634,
+      164.45492440754845,
+      165.5121994797432,
+      160.41332256268953
+    ]
   },
   {
     "NAF Nr": "21178",
@@ -4905,13 +8600,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Bretonnian",
-    "rating": "152.75",
+    "rating": 153.02169980671675,
+    "bestRating": 153.02169980671675,
+    "worstRating": 146.53589838486224,
+    "tendency": 6.485801421854518,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      146.53589838486224,
+      148.8699776114288,
+      153.02169980671675
+    ]
   },
   {
     "NAF Nr": "21184",
@@ -4919,13 +8622,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "149.74",
+    "rating": 149.4558696360136,
+    "bestRating": 155.47722557505165,
+    "worstRating": 149.4558696360136,
+    "tendency": -6.021355939038045,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.47722557505165,
+      155.04668023319203,
+      149.6705957059796,
+      149.4558696360136
+    ]
   },
   {
     "NAF Nr": "21200",
@@ -4933,13 +8645,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "146.59",
+    "rating": 146.77025240788635,
+    "bestRating": 151.56295449081404,
+    "worstRating": 145.56899746130733,
+    "tendency": 1.1456170762370448,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      145.6246353316493,
+      145.56899746130733,
+      151.56295449081404,
+      145.91360367045837,
+      147.08564394188053,
+      146.77025240788635
+    ]
   },
   {
     "NAF Nr": "21220",
@@ -4947,13 +8670,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "137.44",
+    "rating": 136.89412386866465,
+    "bestRating": 145.5150879182396,
+    "worstRating": 136.89412386866465,
+    "tendency": -8.620964049574951,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      145.5150879182396,
+      141.10850447123656,
+      136.89412386866465
+    ]
   },
   {
     "NAF Nr": "21243",
@@ -4961,13 +8692,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "141.99",
+    "rating": 141.21683326216709,
+    "bestRating": 154.79583152331273,
+    "worstRating": 134.78297278720743,
+    "tendency": 0.9606421413267299,
     "totalTournaments": 3,
     "gamesTotal": 13,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 7,
-    "winRatio": 42.31
+    "winRatio": 42.31,
+    "_lastTenRatings": [
+      140.25619112084036,
+      134.78297278720743,
+      140.6049387872627,
+      145.9820193591682,
+      140.51048112628706,
+      146.40132526176814,
+      152.12283690878732,
+      146.09238917004734,
+      146.01790466264953,
+      141.21683326216709
+    ]
   },
   {
     "NAF Nr": "21274",
@@ -4975,13 +8721,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "139.84",
+    "rating": 139.82806306057,
+    "bestRating": 145.00144995779897,
+    "worstRating": 139.82806306057,
+    "tendency": -5.171936939429997,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      145,
+      140,
+      145.00144995779897,
+      139.82806306057
+    ]
   },
   {
     "NAF Nr": "21291",
@@ -4989,13 +8744,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "155.75",
+    "rating": 155.59014421031117,
+    "bestRating": 155.59014421031117,
+    "worstRating": 149.8883489062507,
+    "tendency": 5.701795304060454,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      149.8883489062507,
+      149.92740652866212,
+      155.59014421031117
+    ]
   },
   {
     "NAF Nr": "21319",
@@ -5003,13 +8766,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Bretonnian",
-    "rating": "131.65",
+    "rating": 131.7217754324967,
+    "bestRating": 147.32652529029517,
+    "worstRating": 131.336969335804,
+    "tendency": -13.470226283830357,
     "totalTournaments": 2,
     "gamesTotal": 12,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 8,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      145.19200171632707,
+      141.7682167552274,
+      138.48505767868735,
+      142.06000659643718,
+      139.03780253007793,
+      135.2660101868516,
+      139.05256432203427,
+      135.08638580499482,
+      131.336969335804,
+      131.7217754324967
+    ]
   },
   {
     "NAF Nr": "21331",
@@ -5017,13 +8795,21 @@ const statsRaceBretonnian = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "140.71",
+    "rating": 140.20203007663477,
+    "bestRating": 145.0097221503508,
+    "worstRating": 139.35795702057712,
+    "tendency": -4.8076920737160265,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      145.0097221503508,
+      139.35795702057712,
+      140.20203007663477
+    ]
   },
   {
     "NAF Nr": "21333",
@@ -5031,13 +8817,27 @@ const statsRaceBretonnian = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "175.16",
+    "rating": 174.48813058301172,
+    "bestRating": 175.04597331845713,
+    "worstRating": 149.46552785710927,
+    "tendency": 25.02260272590246,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 5,
     "gamesDraw": 4,
     "gamesLost": 0,
-    "winRatio": 77.78
+    "winRatio": 77.78,
+    "_lastTenRatings": [
+      149.46552785710927,
+      154.03449341957048,
+      154.04818066571428,
+      160.39300294575673,
+      166.1618519923104,
+      171.8827711887942,
+      175.04597331845713,
+      174.25373603968293,
+      174.48813058301172
+    ]
   },
   {
     "NAF Nr": "21337",
@@ -5045,13 +8845,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "149.95",
+    "rating": 149.94912007958507,
+    "bestRating": 150,
+    "worstRating": 146.25834261322606,
+    "tendency": -0.05087992041492839,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      146.25834261322606,
+      149.94912007958507
+    ]
   },
   {
     "NAF Nr": "21338",
@@ -5059,13 +8867,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "138.44",
+    "rating": 138.17813222483767,
+    "bestRating": 145.1126307521811,
+    "worstRating": 133.28068589686637,
+    "tendency": -6.934498527343436,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      145.1126307521811,
+      141.23694681407673,
+      137.2606149481215,
+      133.28068589686637,
+      133.55359505817438,
+      138.17813222483767
+    ]
   },
   {
     "NAF Nr": "21349",
@@ -5073,13 +8892,22 @@ const statsRaceBretonnian = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "156.76",
+    "rating": 156.99983712705597,
+    "bestRating": 161.8837658225935,
+    "worstRating": 150.54078882899884,
+    "tendency": 6.459048298057127,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      150.54078882899884,
+      156.1741632651015,
+      161.8837658225935,
+      156.99983712705597
+    ]
   },
   {
     "NAF Nr": "21352",
@@ -5087,13 +8915,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "160.09",
+    "rating": 160.2611512967805,
+    "bestRating": 160.2611512967805,
+    "worstRating": 150.49562965237948,
+    "tendency": 4.09022398026832,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      156.17092731651218,
+      150.49562965237948,
+      155.22772344133693,
+      160.2611512967805
+    ]
   },
   {
     "NAF Nr": "21402",
@@ -5101,13 +8938,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "151.08",
+    "rating": 151.3838192537946,
+    "bestRating": 163.12447257491627,
+    "worstRating": 150.51428034529582,
+    "tendency": 0.8695389084987823,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.51428034529582,
+      155.79070236213227,
+      155.81284667761543,
+      163.12447257491627,
+      157.3707007377207,
+      151.3838192537946
+    ]
   },
   {
     "NAF Nr": "21419",
@@ -5115,13 +8963,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "134.49",
+    "rating": 134.53507169048578,
+    "bestRating": 164.75022162415317,
+    "worstRating": 134.53507169048578,
+    "tendency": -26.267781142575927,
     "totalTournaments": 3,
     "gamesTotal": 15,
     "gamesWon": 6,
     "gamesDraw": 0,
     "gamesLost": 9,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      160.8028528330617,
+      156.29172479160195,
+      149.971584195707,
+      155.14206339198904,
+      149.26206708063566,
+      154.82215065265302,
+      152.26914654910885,
+      146.3641098811137,
+      140.29209535599657,
+      134.53507169048578
+    ]
   },
   {
     "NAF Nr": "21461",
@@ -5129,13 +8992,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "144.2",
+    "rating": 144.1524273465037,
+    "bestRating": 150.05759610552357,
+    "worstRating": 144.1524273465037,
+    "tendency": -5.905168759019858,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      150.05759610552357,
+      144.49748530196453,
+      144.1524273465037
+    ]
   },
   {
     "NAF Nr": "21464",
@@ -5143,13 +9014,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "149.36",
+    "rating": 149.2928493699921,
+    "bestRating": 149.2928493699921,
+    "worstRating": 146.15302500091593,
+    "tendency": 3.139824369076166,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.15302500091593,
+      149.26985933538984,
+      149.2928493699921
+    ]
   },
   {
     "NAF Nr": "21476",
@@ -5157,13 +9036,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "157.06",
+    "rating": 156.52910521483446,
+    "bestRating": 156.7236751194861,
+    "worstRating": 150.7323399204878,
+    "tendency": 5.79676529434667,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      150.7323399204878,
+      151.1994726272405,
+      156.7236751194861,
+      151.49738580060483,
+      151.00796566070284,
+      156.52910521483446
+    ]
   },
   {
     "NAF Nr": "21487",
@@ -5171,13 +9061,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "172.04",
+    "rating": 172.25813363310783,
+    "bestRating": 172.25813363310783,
+    "worstRating": 155.24627707503646,
+    "tendency": 17.011856558071372,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 90
+    "winRatio": 90,
+    "_lastTenRatings": [
+      155.24627707503646,
+      156.69331232697277,
+      162.02999135162074,
+      167.75534584285052,
+      172.25813363310783
+    ]
   },
   {
     "NAF Nr": "21645",
@@ -5185,13 +9085,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "141.81",
+    "rating": 140.8805175017568,
+    "bestRating": 142.25403330758516,
+    "worstRating": 134.50806661517032,
+    "tendency": -1.3735158058283616,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.50806661517032,
+      134.50806661517032,
+      141.84385576676354,
+      141.65046905324505,
+      140.8805175017568
+    ]
   },
   {
     "NAF Nr": "21652",
@@ -5199,13 +9110,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "168.87",
+    "rating": 179.09041493658236,
+    "bestRating": 187.7577716470272,
+    "worstRating": 145.83177735043554,
+    "tendency": -3.655634070264597,
     "totalTournaments": 11,
     "gamesTotal": 54,
     "gamesWon": 24,
     "gamesDraw": 13,
     "gamesLost": 17,
-    "winRatio": 56.48
+    "winRatio": 56.48,
+    "_lastTenRatings": [
+      182.74604900684696,
+      178.5694394731183,
+      180.57480429776894,
+      176.26708389328178,
+      175.16701800757582,
+      178.34793618096268,
+      183.88551618756372,
+      183.16604565958923,
+      179.63277675707414,
+      179.09041493658236
+    ]
   },
   {
     "NAF Nr": "21674",
@@ -5213,13 +9139,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "144.85",
+    "rating": 144.44131713775067,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.44131713775067,
+    "tendency": -11.215537111741696,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      149.68085300038342,
+      144.68218353124678,
+      144.83191061800775,
+      148.08749418318692,
+      144.44131713775067
+    ]
   },
   {
     "NAF Nr": "21691",
@@ -5227,13 +9164,21 @@ const statsRaceBretonnian = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "136.67",
+    "rating": 136.3527531087865,
+    "bestRating": 146.79239890338545,
+    "worstRating": 136.3527531087865,
+    "tendency": -10.43964579459896,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146.79239890338545,
+      141.11913299576372,
+      136.3527531087865
+    ]
   },
   {
     "NAF Nr": "21707",
@@ -5241,13 +9186,22 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "166.0",
+    "rating": 167.1582344889647,
+    "bestRating": 167.1582344889647,
+    "worstRating": 156.0558804136776,
+    "tendency": 11.102354075287082,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatings": [
+      156.0558804136776,
+      161.4981649016178,
+      167.14701043558483,
+      167.1582344889647
+    ]
   },
   {
     "NAF Nr": "21720",
@@ -5255,13 +9209,20 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Norway",
     "race": "Bretonnian",
-    "rating": "139.92",
+    "rating": 139.6777276698533,
+    "bestRating": 144.73240606176037,
+    "worstRating": 139.6777276698533,
+    "tendency": -5.054678391907061,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.73240606176037,
+      139.6777276698533
+    ]
   },
   {
     "NAF Nr": "21730",
@@ -5269,13 +9230,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "146.75",
+    "rating": 147.4693668248968,
+    "bestRating": 152.02338736364112,
+    "worstRating": 146.51059523756894,
+    "tendency": 0.9587715873278739,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      146.51059523756894,
+      152.02338736364112,
+      147.22768501188543,
+      151.37617297622273,
+      146.78288466720147,
+      147.4693668248968
+    ]
   },
   {
     "NAF Nr": "21736",
@@ -5283,27 +9255,51 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "152.63",
+    "rating": 152.23654403885038,
+    "bestRating": 158.28672704228674,
+    "worstRating": 142.28784117879874,
+    "tendency": -6.050183003436359,
     "totalTournaments": 2,
     "gamesTotal": 14,
     "gamesWon": 5,
     "gamesDraw": 4,
     "gamesLost": 5,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      158.28672704228674,
+      151.4481624488115,
+      145.29674131026928,
+      151.3881477937055,
+      150.76737070046966,
+      150.30767024704946,
+      144.63745760763342,
+      145.47293417954236,
+      146.1987225634887,
+      152.23654403885038
+    ]
   },
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "157.01",
+    "rating": 157.13544923389915,
+    "bestRating": 157.13544923389915,
+    "worstRating": 149.2914363219876,
+    "tendency": 2.202906377241675,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      154.93254285665748,
+      149.2914363219876,
+      150.92173376670343,
+      157.13544923389915
+    ]
   },
   {
     "NAF Nr": "21788",
@@ -5311,13 +9307,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "155.21",
+    "rating": 155.1155530910042,
+    "bestRating": 155.65685424949237,
+    "worstRating": 149.75454514126653,
+    "tendency": -0.5413011584881815,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      149.75454514126653,
+      155.1155530910042
+    ]
   },
   {
     "NAF Nr": "21795",
@@ -5325,13 +9329,22 @@ const statsRaceBretonnian = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "158.81",
+    "rating": 158.73806997834564,
+    "bestRating": 158.73806997834564,
+    "worstRating": 153.1880039047436,
+    "tendency": 3.575952057188317,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.16211792115732,
+      153.667660271452,
+      153.1880039047436,
+      158.73806997834564
+    ]
   },
   {
     "NAF Nr": "21828",
@@ -5339,13 +9352,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "170.76",
+    "rating": 170.75467531135718,
+    "bestRating": 170.82119736418153,
+    "worstRating": 156.07283009605513,
+    "tendency": 14.642050972746915,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      156.11262433861026,
+      156.07283009605513,
+      164.0026075108925,
+      169.36713529300388,
+      170.82119736418153,
+      170.75467531135718
+    ]
   },
   {
     "NAF Nr": "21901",
@@ -5353,13 +9377,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "156.05",
+    "rating": 156.30233560093018,
+    "bestRating": 160.31864722543213,
+    "worstRating": 151.8548525769923,
+    "tendency": 1.8301996459306054,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      154.47213595499957,
+      159.295291485263,
+      160.31864722543213,
+      156.5153701533748,
+      151.8548525769923,
+      156.30233560093018
+    ]
   },
   {
     "NAF Nr": "21949",
@@ -5367,13 +9402,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "150.15",
+    "rating": 150.1474367761323,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150.0103265249189,
+    "tendency": -5.50941747336006,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150.0103265249189,
+      150.1474367761323
+    ]
   },
   {
     "NAF Nr": "21957",
@@ -5381,13 +9424,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Bretonnian",
-    "rating": "168.62",
+    "rating": 169.18840929866053,
+    "bestRating": 169.2484728403488,
+    "worstRating": 155.92412667528552,
+    "tendency": 13.26428262337501,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 80
+    "winRatio": 80,
+    "_lastTenRatings": [
+      155.92412667528552,
+      161.06508394889147,
+      167.40478950256232,
+      169.2484728403488,
+      169.18840929866053
+    ]
   },
   {
     "NAF Nr": "22051",
@@ -5395,13 +9448,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "160.2",
+    "rating": 161.13888196204874,
+    "bestRating": 169.59914598298926,
+    "worstRating": 143.81022221536665,
+    "tendency": 0.1985826603379337,
     "totalTournaments": 8,
     "gamesTotal": 27,
     "gamesWon": 12,
     "gamesDraw": 6,
     "gamesLost": 9,
-    "winRatio": 55.56
+    "winRatio": 55.56,
+    "_lastTenRatings": [
+      160.9402993017108,
+      160.50263204605037,
+      167.7366641277663,
+      163.37162461296316,
+      164.33125138164047,
+      157.957630621759,
+      151.75557971477738,
+      156.7717962452085,
+      161.92544227293365,
+      161.13888196204874
+    ]
   },
   {
     "NAF Nr": "22063",
@@ -5409,13 +9477,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "149.57",
+    "rating": 150.3905100606187,
+    "bestRating": 150.3905100606187,
+    "worstRating": 145.9443586867985,
+    "tendency": 4.446151373820214,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.9443586867985,
+      150.32501183891287,
+      146.0717876602627,
+      150.3905100606187
+    ]
   },
   {
     "NAF Nr": "22102",
@@ -5423,13 +9500,22 @@ const statsRaceBretonnian = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "147.18",
+    "rating": 147.7871448026104,
+    "bestRating": 152.85673368011393,
+    "worstRating": 147.7871448026104,
+    "tendency": -0.24534950796436306,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      148.03249431057478,
+      148.92539016474416,
+      152.85673368011393,
+      147.7871448026104
+    ]
   },
   {
     "NAF Nr": "22164",
@@ -5437,13 +9523,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "142.48",
+    "rating": 142.41664762849666,
+    "bestRating": 146.20713415007887,
+    "worstRating": 142.41664762849666,
+    "tendency": -3.6919826531016326,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      146.1086302815983,
+      146.20713415007887,
+      142.41664762849666
+    ]
   },
   {
     "NAF Nr": "22192",
@@ -5451,27 +9545,49 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Bretonnian",
-    "rating": "157.5",
+    "rating": 157.86091814615722,
+    "bestRating": 157.86091814615722,
+    "worstRating": 154.48301790653392,
+    "tendency": 3.377900239623301,
     "totalTournaments": 2,
     "gamesTotal": 2,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.48301790653392,
+      157.86091814615722
+    ]
   },
   {
     "NAF Nr": "22259",
     "NAF Name": "Eldar666",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "134.4",
+    "rating": 133.3997900841646,
+    "bestRating": 156.44349657728606,
+    "worstRating": 132.20187351421964,
+    "tendency": -16.888228254577626,
     "totalTournaments": 3,
     "gamesTotal": 13,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 7,
-    "winRatio": 38.46
+    "winRatio": 38.46,
+    "_lastTenRatings": [
+      150.28801833874223,
+      150.2755131901443,
+      143.47489194395257,
+      137.26904788796222,
+      132.20187351421964,
+      137.75131029992627,
+      138.3679204357361,
+      132.3908923203746,
+      138.57559532944083,
+      133.3997900841646
+    ]
   },
   {
     "NAF Nr": "22357",
@@ -5479,13 +9595,28 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "182.1",
+    "rating": 184.34811761824386,
+    "bestRating": 193.21591759583166,
+    "worstRating": 155.65685424949237,
+    "tendency": 2.6238379179750098,
     "totalTournaments": 12,
     "gamesTotal": 48,
     "gamesWon": 26,
     "gamesDraw": 8,
     "gamesLost": 14,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      181.72427970026885,
+      185.79213541611858,
+      190.76862169730995,
+      184.96459845950446,
+      188.73399629506395,
+      192.26038214429164,
+      190.48727343574578,
+      193.21591759583166,
+      185.6906230925333,
+      184.34811761824386
+    ]
   },
   {
     "NAF Nr": "22366",
@@ -5493,13 +9624,22 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "155.21",
+    "rating": 155.4303629743891,
+    "bestRating": 159.82159996244422,
+    "worstRating": 155.4303629743891,
+    "tendency": -0.29897549900979925,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      155.7293384733989,
+      155.6831595200986,
+      159.82159996244422,
+      155.4303629743891
+    ]
   },
   {
     "NAF Nr": "22380",
@@ -5507,13 +9647,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Bretonnian",
-    "rating": "146.07",
+    "rating": 145.9549919566273,
+    "bestRating": 145.9549919566273,
+    "worstRating": 145.9549919566273,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      145.9549919566273
+    ]
   },
   {
     "NAF Nr": "22412",
@@ -5521,13 +9667,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "150.0",
+    "rating": 150.00015475274918,
+    "bestRating": 155.65702336908683,
+    "worstRating": 150.00015475274918,
+    "tendency": -5.656868616337647,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65702336908683,
+      150.0001617767665,
+      150.00015475274918
+    ]
   },
   {
     "NAF Nr": "22456",
@@ -5535,13 +9689,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Norway",
     "race": "Bretonnian",
-    "rating": "145.26",
+    "rating": 146.19202252503146,
+    "bestRating": 146.39260283477924,
+    "worstRating": 140.68040496351514,
+    "tendency": 0.020489145483395532,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      146.17153337954807,
+      140.74817278938394,
+      140.68040496351514,
+      146.39260283477924,
+      140.9426072259861,
+      146.19202252503146
+    ]
   },
   {
     "NAF Nr": "22460",
@@ -5549,13 +9714,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "155.43",
+    "rating": 154.3345668885073,
+    "bestRating": 154.3345668885073,
+    "worstRating": 144.70849737787083,
+    "tendency": 9.626069510636484,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      144.70849737787083,
+      149.01463477857408,
+      154.3345668885073
+    ]
   },
   {
     "NAF Nr": "22467",
@@ -5563,13 +9736,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "137.19",
+    "rating": 137.7648053680165,
+    "bestRating": 150.11966943456088,
+    "worstRating": 137.7648053680165,
+    "tendency": -6.750193157318961,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.51499852533547,
+      150.11966943456088,
+      144.59078920603017,
+      138.6268060715203,
+      143.7943609890363,
+      137.7648053680165
+    ]
   },
   {
     "NAF Nr": "22470",
@@ -5577,13 +9761,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "152.5",
+    "rating": 152.73660890149952,
+    "bestRating": 152.73660890149952,
+    "worstRating": 150,
+    "tendency": 2.7366089014995225,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      150,
+      152.4494897427832,
+      152.73660890149952
+    ]
   },
   {
     "NAF Nr": "22560",
@@ -5591,13 +9783,20 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "160.77",
+    "rating": 159.96050421500559,
+    "bestRating": 159.96050421500559,
+    "worstRating": 154.75934643105538,
+    "tendency": 5.201157783950208,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.75934643105538,
+      159.96050421500559
+    ]
   },
   {
     "NAF Nr": "22573",
@@ -5605,13 +9804,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "race": "Bretonnian",
-    "rating": "149.91",
+    "rating": 149.8020395199392,
+    "bestRating": 149.8020395199392,
+    "worstRating": 146.40378203769578,
+    "tendency": 3.398257482243423,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.40378203769578,
+      146.4072947409713,
+      149.8020395199392
+    ]
   },
   {
     "NAF Nr": "22595",
@@ -5619,13 +9826,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "146.71",
+    "rating": 146.86164611275484,
+    "bestRating": 146.86164611275484,
+    "worstRating": 146.86164611275484,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146.86164611275484
+    ]
   },
   {
     "NAF Nr": "22596",
@@ -5633,13 +9846,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Undisclosed",
     "race": "Bretonnian",
-    "rating": "150.07",
+    "rating": 149.97436310954706,
+    "bestRating": 149.97436310954706,
+    "worstRating": 146.394448724536,
+    "tendency": 3.579914385011051,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.394448724536,
+      149.86777410713322,
+      149.97436310954706
+    ]
   },
   {
     "NAF Nr": "22609",
@@ -5647,13 +9868,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Bretonnian",
-    "rating": "150.27",
+    "rating": 150.47949609911754,
+    "bestRating": 150.47949609911754,
+    "worstRating": 145.41320075890056,
+    "tendency": 5.066295340216982,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.41320075890056,
+      145.41547506418516,
+      150.47949609911754
+    ]
   },
   {
     "NAF Nr": "22610",
@@ -5661,13 +9890,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Bretonnian",
-    "rating": "168.45",
+    "rating": 170.5630079638645,
+    "bestRating": 170.5630079638645,
+    "worstRating": 144.34314575050763,
+    "tendency": 22.0759142287381,
     "totalTournaments": 4,
     "gamesTotal": 20,
     "gamesWon": 9,
     "gamesDraw": 5,
     "gamesLost": 6,
-    "winRatio": 57.5
+    "winRatio": 57.5,
+    "_lastTenRatings": [
+      148.4870937351264,
+      145.36641030700753,
+      149.73233907416696,
+      153.629396248189,
+      159.23397503074213,
+      160.15392207151973,
+      161.67611437593095,
+      161.46409121195694,
+      166.6425808343534,
+      170.5630079638645
+    ]
   },
   {
     "NAF Nr": "22632",
@@ -5675,13 +9919,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "149.37",
+    "rating": 149.5734771648381,
+    "bestRating": 151.04328506280712,
+    "worstRating": 143.74641003082178,
+    "tendency": -1.4698078979690195,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      151.04328506280712,
+      146.66011751866634,
+      148.10031814286114,
+      144.00480723115757,
+      143.74641003082178,
+      149.5734771648381
+    ]
   },
   {
     "NAF Nr": "22655",
@@ -5689,13 +9944,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "135.01",
+    "rating": 134.37483989890058,
+    "bestRating": 142.51668522645213,
+    "worstRating": 126.83708333593022,
+    "tendency": -8.14184532755155,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      142.51668522645213,
+      135.03337045290425,
+      142.48075491392578,
+      134.97279521133686,
+      126.83708333593022,
+      134.37483989890058
+    ]
   },
   {
     "NAF Nr": "22702",
@@ -5703,13 +9969,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "151.07",
+    "rating": 152.2444805530436,
+    "bestRating": 152.2444805530436,
+    "worstRating": 141.88018286641525,
+    "tendency": 6.077189688448584,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.167290864595,
+      145.06082050835363,
+      141.88018286641525,
+      142.00890688468257,
+      147.26193672916133,
+      152.2444805530436
+    ]
   },
   {
     "NAF Nr": "22736",
@@ -5717,13 +9994,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "132.22",
+    "rating": 129.8575156778387,
+    "bestRating": 153.67737913730025,
+    "worstRating": 129.8575156778387,
+    "tendency": -14.393026349406,
     "totalTournaments": 1,
     "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.2505420272447,
+      152.1706239028368,
+      144.90902228298984,
+      153.67737913730025,
+      146.73102753976627,
+      138.81059333258824,
+      146.71542527008114,
+      138.3481726873487,
+      129.8575156778387
+    ]
   },
   {
     "NAF Nr": "22748",
@@ -5731,13 +10022,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Bretonnian",
-    "rating": "133.1",
+    "rating": 132.35207849974026,
+    "bestRating": 153.16227766016837,
+    "worstRating": 132.34176690239872,
+    "tendency": -20.810199160428112,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 7,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      153.16227766016837,
+      149.98760592933323,
+      147.0663722920098,
+      142.771236337492,
+      149.25161688454958,
+      143.68924046354303,
+      138.7904595217444,
+      132.34176690239872,
+      137.65027796698817,
+      132.35207849974026
+    ]
   },
   {
     "NAF Nr": "22787",
@@ -5745,13 +10051,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Bretonnian",
-    "rating": "160.45",
+    "rating": 160.40708603389913,
+    "bestRating": 160.40708603389913,
+    "worstRating": 155.23081658566147,
+    "tendency": 5.137286392849461,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.26979964104967,
+      155.23081658566147,
+      159.1939478696034,
+      160.40708603389913
+    ]
   },
   {
     "NAF Nr": "22823",
@@ -5759,13 +10074,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "153.69",
+    "rating": 153.93925262097878,
+    "bestRating": 153.93925262097878,
+    "worstRating": 145.0291553563031,
+    "tendency": 8.181893308098068,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      145.7573593128807,
+      145.0291553563031,
+      149.19535714210753,
+      149.68240290669675,
+      153.93925262097878
+    ]
   },
   {
     "NAF Nr": "22825",
@@ -5773,13 +10098,22 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "150.4",
+    "rating": 150.40011426763644,
+    "bestRating": 150.64402407149436,
+    "worstRating": 144.81500032678764,
+    "tendency": 0.40011426763643954,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      144.81500032678764,
+      150.64402407149436,
+      150.40011426763644
+    ]
   },
   {
     "NAF Nr": "22826",
@@ -5787,13 +10121,22 @@ const statsRaceBretonnian = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "138.49",
+    "rating": 137.74254697631898,
+    "bestRating": 149.96249054813862,
+    "worstRating": 137.74254697631898,
+    "tendency": -6.604651247972214,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.3471982242912,
+      149.96249054813862,
+      144.5546700075073,
+      137.74254697631898
+    ]
   },
   {
     "NAF Nr": "22829",
@@ -5801,13 +10144,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "151.23",
+    "rating": 151.18452577273698,
+    "bestRating": 155.82886862738587,
+    "worstRating": 150.23559886695,
+    "tendency": 0.9489269057869762,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.23559886695,
+      155.82886862738587,
+      151.18452577273698
+    ]
   },
   {
     "NAF Nr": "22856",
@@ -5815,13 +10166,22 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "139.08",
+    "rating": 139.4726713869651,
+    "bestRating": 144.73523218745453,
+    "worstRating": 139.4563753575492,
+    "tendency": -5.235825990905738,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.70849737787083,
+      139.4563753575492,
+      144.73523218745453,
+      139.4726713869651
+    ]
   },
   {
     "NAF Nr": "22857",
@@ -5829,13 +10189,22 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "150.87",
+    "rating": 151.27731860466463,
+    "bestRating": 156.81822375696981,
+    "worstRating": 151.13162109275007,
+    "tendency": -4.771128624136196,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      156.04844722880082,
+      151.13162109275007,
+      156.81822375696981,
+      151.27731860466463
+    ]
   },
   {
     "NAF Nr": "22876",
@@ -5843,27 +10212,50 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Bretonnian",
-    "rating": "178.09",
+    "rating": 177.09839340248186,
+    "bestRating": 185.28176246132304,
+    "worstRating": 153.81673968795283,
+    "tendency": -6.753062743801792,
     "totalTournaments": 4,
     "gamesTotal": 23,
     "gamesWon": 13,
     "gamesDraw": 5,
     "gamesLost": 5,
-    "winRatio": 67.39
+    "winRatio": 67.39,
+    "_lastTenRatings": [
+      183.85145614628365,
+      177.44901369437162,
+      182.39441315641187,
+      181.71092795554117,
+      185.28176246132304,
+      179.52540738273183,
+      178.8843482971838,
+      182.6414600490847,
+      177.52394991893445,
+      177.09839340248186
+    ]
   },
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "161.01",
+    "rating": 161.35402606824277,
+    "bestRating": 161.35402606824277,
+    "worstRating": 149.91401070911493,
+    "tendency": 11.440015359127841,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      149.91401070911493,
+      155.57220536696846,
+      161.35402606824277
+    ]
   },
   {
     "NAF Nr": "22913",
@@ -5871,13 +10263,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Undisclosed",
     "race": "Bretonnian",
-    "rating": "160.77",
+    "rating": 161.29325137599872,
+    "bestRating": 161.29325137599872,
+    "worstRating": 155.89204338290892,
+    "tendency": 5.3909422677728855,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      155.90230910822584,
+      155.89204338290892,
+      161.29325137599872
+    ]
   },
   {
     "NAF Nr": "22978",
@@ -5885,13 +10285,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "158.06",
+    "rating": 158.70876322734455,
+    "bestRating": 158.70876322734455,
+    "worstRating": 146.12266235739838,
+    "tendency": 8.708763227344548,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      150,
+      146.12266235739838,
+      152.49481308743097,
+      152.84249968127085,
+      158.70876322734455
+    ]
   },
   {
     "NAF Nr": "22993",
@@ -5899,13 +10309,22 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "144.39",
+    "rating": 143.74885556198888,
+    "bestRating": 153.7149859636377,
+    "worstRating": 143.74885556198888,
+    "tendency": -9.966130401648826,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      153.7149859636377,
+      152.4826037566655,
+      148.34416331431987,
+      143.74885556198888
+    ]
   },
   {
     "NAF Nr": "23052",
@@ -5913,13 +10332,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Bretonnian",
-    "rating": "153.58",
+    "rating": 152.48490244751883,
+    "bestRating": 155.82630124692267,
+    "worstRating": 152.48490244751883,
+    "tendency": -0.16672706856869013,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      152.65162951608752,
+      155.82630124692267,
+      152.48490244751883
+    ]
   },
   {
     "NAF Nr": "23121",
@@ -5927,13 +10354,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "132.75",
+    "rating": 133.18228772624863,
+    "bestRating": 145.9098737459474,
+    "worstRating": 127.27409043046691,
+    "tendency": -12.727586019698776,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 20
+    "winRatio": 20,
+    "_lastTenRatings": [
+      145.9098737459474,
+      140.23097694907148,
+      132.93217536755603,
+      127.27409043046691,
+      133.18228772624863
+    ]
   },
   {
     "NAF Nr": "23153",
@@ -5941,13 +10378,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "155.15",
+    "rating": 156.36704091180223,
+    "bestRating": 156.36704091180223,
+    "worstRating": 151.52541606206012,
+    "tendency": 1.4680614262358915,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.89897948556634,
+      151.52541606206012,
+      156.36704091180223
+    ]
   },
   {
     "NAF Nr": "23161",
@@ -5955,13 +10400,26 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "166.33",
+    "rating": 166.28231819006362,
+    "bestRating": 166.28231819006362,
+    "worstRating": 149.97893711173518,
+    "tendency": 10.625463940571251,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 68.75
+    "winRatio": 68.75,
+    "_lastTenRatings": [
+      155.65685424949237,
+      149.97893711173518,
+      155.6680421563485,
+      156.08908850033617,
+      161.48175925909348,
+      155.32783161294276,
+      160.81294512675493,
+      166.28231819006362
+    ]
   },
   {
     "NAF Nr": "23207",
@@ -5969,13 +10427,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "152.7",
+    "rating": 152.98204060191256,
+    "bestRating": 155.41365493011295,
+    "worstRating": 152.6457513110646,
+    "tendency": 0.336289290847958,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      152.6457513110646,
+      155.41365493011295,
+      152.98204060191256
+    ]
   },
   {
     "NAF Nr": "23272",
@@ -5983,13 +10449,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "136.59",
+    "rating": 135.58491407504093,
+    "bestRating": 150.13388716685344,
+    "worstRating": 130.25432894855783,
+    "tendency": -14.548973091812513,
     "totalTournaments": 3,
     "gamesTotal": 11,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 7,
-    "winRatio": 31.82
+    "winRatio": 31.82,
+    "_lastTenRatings": [
+      150.13388716685344,
+      146.3061566944551,
+      141.21153432987873,
+      135.69002831933463,
+      130.25432894855783,
+      136.23177014980166,
+      141.86150790815913,
+      138.6135112147033,
+      135.3665455057001,
+      135.58491407504093
+    ]
   },
   {
     "NAF Nr": "23299",
@@ -5997,13 +10478,22 @@ const statsRaceBretonnian = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "170.03",
+    "rating": 169.85211650413802,
+    "bestRating": 169.85211650413802,
+    "worstRating": 154.8109789953761,
+    "tendency": 15.04113750876192,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.8109789953761,
+      159.57096410400194,
+      164.74598160579276,
+      169.85211650413802
+    ]
   },
   {
     "NAF Nr": "23332",
@@ -6011,13 +10501,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Czech Republic",
     "race": "Bretonnian",
-    "rating": "141.96",
+    "rating": 141.027329148467,
+    "bestRating": 150,
+    "worstRating": 141.027329148467,
+    "tendency": -8.972670851532996,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      150,
+      146.21467893155847,
+      145.9441876400273,
+      141.13835295743982,
+      145.83584065238813,
+      141.027329148467
+    ]
   },
   {
     "NAF Nr": "23365",
@@ -6025,13 +10526,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "172.32",
+    "rating": 172.87865534513324,
+    "bestRating": 172.87865534513324,
+    "worstRating": 146,
+    "tendency": 26.87865534513324,
     "totalTournaments": 3,
     "gamesTotal": 9,
     "gamesWon": 7,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 77.78
+    "winRatio": 77.78,
+    "_lastTenRatings": [
+      146,
+      150,
+      154.0056039295228,
+      157.6322634839094,
+      153.76670042064416,
+      157.30101867384184,
+      162.16698452577998,
+      167.48975129427876,
+      172.87865534513324
+    ]
   },
   {
     "NAF Nr": "23461",
@@ -6039,13 +10554,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "157.58",
+    "rating": 158.10730124277856,
+    "bestRating": 158.1257588654661,
+    "worstRating": 153.74165738677394,
+    "tendency": 4.365643856004624,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      153.74165738677394,
+      158.1257588654661,
+      158.10730124277856
+    ]
   },
   {
     "NAF Nr": "23479",
@@ -6053,13 +10576,22 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "152.23",
+    "rating": 152.3564431699103,
+    "bestRating": 152.47660987655212,
+    "worstRating": 144.82689564653373,
+    "tendency": 7.5295475233765785,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.82689564653373,
+      150.3957759465805,
+      152.47660987655212,
+      152.3564431699103
+    ]
   },
   {
     "NAF Nr": "23487",
@@ -6067,13 +10599,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "157.37",
+    "rating": 157.23872147040797,
+    "bestRating": 157.23872147040797,
+    "worstRating": 155.65685424949237,
+    "tendency": 1.5818672209155977,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.66696710681344,
+      157.23872147040797
+    ]
   },
   {
     "NAF Nr": "23496",
@@ -6081,13 +10621,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Bretonnian",
-    "rating": "135.55",
+    "rating": 134.27052699845794,
+    "bestRating": 144.34314575050763,
+    "worstRating": 134.27052699845794,
+    "tendency": -10.072618752049692,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 6,
-    "winRatio": 27.78
+    "winRatio": 27.78,
+    "_lastTenRatings": [
+      144.34314575050763,
+      139.57885745941124,
+      135.1410819436149,
+      141.34969587910888,
+      136.3898121973869,
+      136.06929039455946,
+      141.01220972166857,
+      137.39564459773814,
+      134.27052699845794
+    ]
   },
   {
     "NAF Nr": "23497",
@@ -6095,13 +10649,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Czech Republic",
     "race": "Bretonnian",
-    "rating": "145.05",
+    "rating": 151.01973865913564,
+    "bestRating": 153.81525081947282,
+    "worstRating": 131.69832050487565,
+    "tendency": 7.908969200216262,
     "totalTournaments": 4,
     "gamesTotal": 21,
     "gamesWon": 8,
     "gamesDraw": 5,
     "gamesLost": 8,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      143.11076945891938,
+      143.540573092243,
+      148.25516307931846,
+      144.84595687912733,
+      145.66307047195,
+      148.14541376067814,
+      148.1401607199994,
+      151.00896031711721,
+      153.81525081947282,
+      151.01973865913564
+    ]
   },
   {
     "NAF Nr": "23520",
@@ -6109,13 +10678,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "143.95",
+    "rating": 143.63940510360231,
+    "bestRating": 150,
+    "worstRating": 143.63940510360231,
+    "tendency": -6.360594896397686,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      150,
+      146.76545333885375,
+      143.63940510360231
+    ]
   },
   {
     "NAF Nr": "23534",
@@ -6123,13 +10700,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "146.25",
+    "rating": 146.02853948368474,
+    "bestRating": 151.60649411701868,
+    "worstRating": 146.02853948368474,
+    "tendency": -5.577954633333945,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      151.60649411701868,
+      146.08100085732772,
+      146.02853948368474
+    ]
   },
   {
     "NAF Nr": "23538",
@@ -6137,13 +10722,20 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Bretonnian",
-    "rating": "154.2",
+    "rating": 154.2878701189631,
+    "bestRating": 154.4214611717397,
+    "worstRating": 154.2878701189631,
+    "tendency": -0.13359105277660888,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      154.4214611717397,
+      154.2878701189631
+    ]
   },
   {
     "NAF Nr": "23553",
@@ -6151,13 +10743,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "140.02",
+    "rating": 139.82068379170445,
+    "bestRating": 144.9009804864072,
+    "worstRating": 139.8019609728144,
+    "tendency": -5.080296694702753,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      144.9009804864072,
+      139.8019609728144,
+      139.82068379170445
+    ]
   },
   {
     "NAF Nr": "23597",
@@ -6165,27 +10765,47 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "143.55",
+    "rating": 143.44352138579714,
+    "bestRating": 155.48478913371775,
+    "worstRating": 142.1033039179499,
+    "tendency": -12.041267747920614,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      155.48478913371775,
+      150.27712533678542,
+      146.44302873076893,
+      142.1033039179499,
+      148.80307259894025,
+      143.44352138579714
+    ]
   },
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "151.84",
+    "rating": 151.9265572800413,
+    "bestRating": 151.9265572800413,
+    "worstRating": 140.42417338649727,
+    "tendency": 5.816952370907103,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.1096049091342,
+      140.42417338649727,
+      145.9827900255694,
+      151.9265572800413
+    ]
   },
   {
     "NAF Nr": "23669",
@@ -6193,13 +10813,22 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "161.3",
+    "rating": 161.62102061339073,
+    "bestRating": 162.14824168576249,
+    "worstRating": 155.97770109121976,
+    "tendency": 4.835276095405618,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      156.7857445179851,
+      162.14824168576249,
+      155.97770109121976,
+      161.62102061339073
+    ]
   },
   {
     "NAF Nr": "23693",
@@ -6207,13 +10836,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "South Africa",
     "race": "Bretonnian",
-    "rating": "142.93",
+    "rating": 142.4316869710588,
+    "bestRating": 153.74165738677394,
+    "worstRating": 142.4316869710588,
+    "tendency": -11.309970415715128,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      153.74165738677394,
+      149.9978480871688,
+      149.90219779151536,
+      145.95835521322522,
+      142.4316869710588
+    ]
   },
   {
     "NAF Nr": "23701",
@@ -6221,13 +10860,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "124.73",
+    "rating": 124.35105765273677,
+    "bestRating": 143.9672239301371,
+    "worstRating": 124.35105765273677,
+    "tendency": -19.616166277400325,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      143.9672239301371,
+      137.94330723886466,
+      135.1231114584209,
+      135.38998566202005,
+      129.8751825923802,
+      124.35105765273677
+    ]
   },
   {
     "NAF Nr": "23720",
@@ -6235,13 +10885,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "149.69",
+    "rating": 149.6903020498602,
+    "bestRating": 155.32483866444963,
+    "worstRating": 149.65291471528758,
+    "tendency": 0.037387334572628106,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      149.65291471528758,
+      155.32483866444963,
+      149.6903020498602
+    ]
   },
   {
     "NAF Nr": "23724",
@@ -6249,13 +10907,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "152.39",
+    "rating": 152.4016675364665,
+    "bestRating": 154.8899698774816,
+    "worstRating": 152.4016675364665,
+    "tendency": -0.047822206316681104,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      152.4494897427832,
+      154.8899698774816,
+      152.4016675364665
+    ]
   },
   {
     "NAF Nr": "23757",
@@ -6263,27 +10929,43 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Finland",
     "race": "Bretonnian",
-    "rating": "146.19",
+    "rating": 146.30843283862094,
+    "bestRating": 150.0317619646509,
+    "worstRating": 145.87689437438235,
+    "tendency": -3.691567161379055,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      150,
+      145.87689437438235,
+      150.0317619646509,
+      146.30843283862094
+    ]
   },
   {
     "NAF Nr": "23766",
     "NAF Name": "salvi",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "140.75",
+    "rating": 141.51562135843298,
+    "bestRating": 145.20416847668727,
+    "worstRating": 141.51562135843298,
+    "tendency": -3.6885471182542915,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      145.20416847668727,
+      141.51562135843298
+    ]
   },
   {
     "NAF Nr": "23767",
@@ -6291,13 +10973,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "148.72",
+    "rating": 149.4317478163972,
+    "bestRating": 155.0007846118238,
+    "worstRating": 149.37239623351945,
+    "tendency": -0.5682521836027945,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      153.9911041538951,
+      149.53547949808842,
+      155.0007846118238,
+      149.37239623351945,
+      149.4317478163972
+    ]
   },
   {
     "NAF Nr": "23785",
@@ -6305,13 +10998,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "144.71",
+    "rating": 144.54319774219934,
+    "bestRating": 150.01569362098394,
+    "worstRating": 142.03934056504113,
+    "tendency": 0.2000519916917085,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150.01569362098394,
+      145.60148066061126,
+      142.03934056504113,
+      143.47855836252694,
+      144.54319774219934
+    ]
   },
   {
     "NAF Nr": "23794",
@@ -6319,13 +11023,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "144.01",
+    "rating": 143.8212566451992,
+    "bestRating": 151.04464863592145,
+    "worstRating": 143.8212566451992,
+    "tendency": -1.6058834481095516,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      145.42714009330876,
+      151.04464863592145,
+      143.8212566451992
+    ]
   },
   {
     "NAF Nr": "23872",
@@ -6333,13 +11045,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "155.78",
+    "rating": 154.80655389890066,
+    "bestRating": 154.80655389890066,
+    "worstRating": 149.14056894480458,
+    "tendency": 0.3432181855972942,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154.46333571330337,
+      149.14056894480458,
+      154.80655389890066
+    ]
   },
   {
     "NAF Nr": "23909",
@@ -6347,13 +11067,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "150.0",
+    "rating": 150.21771920266295,
+    "bestRating": 150.22232337617115,
+    "worstRating": 145.64723905475307,
+    "tendency": 4.570480147909876,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.64723905475307,
+      150.22232337617115,
+      150.21771920266295
+    ]
   },
   {
     "NAF Nr": "23940",
@@ -6361,13 +11089,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "149.51",
+    "rating": 148.05037494748962,
+    "bestRating": 162.81855083317896,
+    "worstRating": 148.05037494748962,
+    "tendency": -7.525088338339458,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      155.57546328582907,
+      157.1971560716223,
+      162.81855083317896,
+      157.8476025707362,
+      152.00249843438795,
+      148.05037494748962
+    ]
   },
   {
     "NAF Nr": "23943",
@@ -6375,13 +11114,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "150.3",
+    "rating": 150.28368681046726,
+    "bestRating": 150.28368681046726,
+    "worstRating": 145.64027474624817,
+    "tendency": 0.28368681046725897,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      145.64027474624817,
+      150.28368681046726
+    ]
   },
   {
     "NAF Nr": "24053",
@@ -6389,27 +11136,46 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "149.98",
+    "rating": 149.946077723648,
+    "bestRating": 158.88710145326982,
+    "worstRating": 149.946077723648,
+    "tendency": -3.822855109929293,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      153.76893283357728,
+      158.1543054384313,
+      158.88710145326982,
+      154.94595237917414,
+      149.946077723648
+    ]
   },
   {
     "NAF Nr": "24056",
     "NAF Name": "JosefvonBauren",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "152.7",
+    "rating": 153.35973190434697,
+    "bestRating": 153.35973190434697,
+    "worstRating": 152.14550574798554,
+    "tendency": 0.8629665069355497,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 4,
     "gamesLost": 0,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      152.49676539741142,
+      152.14550574798554,
+      152.36960911111655,
+      153.35973190434697
+    ]
   },
   {
     "NAF Nr": "24104",
@@ -6417,13 +11183,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Bretonnian",
-    "rating": "153.69",
+    "rating": 153.8193239601206,
+    "bestRating": 159.35829878160874,
+    "worstRating": 144.94326886665615,
+    "tendency": 8.876055093464458,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      144.94326886665615,
+      144.98299024149122,
+      148.28350746461925,
+      153.8576886109173,
+      159.35829878160874,
+      153.8193239601206
+    ]
   },
   {
     "NAF Nr": "24119",
@@ -6431,13 +11208,26 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "153.27",
+    "rating": 153.85130688941808,
+    "bestRating": 154.22628382916,
+    "worstRating": 150,
+    "tendency": 3.8513068894180833,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 2,
-    "winRatio": 56.25
+    "winRatio": 56.25,
+    "_lastTenRatings": [
+      150,
+      153.42827401433073,
+      150.29001857265942,
+      153.7569276604774,
+      154.22628382916,
+      150.96146439958318,
+      150.86140890620095,
+      153.85130688941808
+    ]
   },
   {
     "NAF Nr": "24196",
@@ -6445,13 +11235,25 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "152.15",
+    "rating": 152.1544939719725,
+    "bestRating": 157.9615967516666,
+    "worstRating": 152.1544939719725,
+    "tendency": -0.30183746870579853,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 57.14
+    "winRatio": 57.14,
+    "_lastTenRatings": [
+      152.4563314406783,
+      155.23144043113976,
+      152.4112503885513,
+      152.4903684041837,
+      152.40933917357907,
+      157.9615967516666,
+      152.1544939719725
+    ]
   },
   {
     "NAF Nr": "24210",
@@ -6459,13 +11261,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "156.87",
+    "rating": 156.80464794435537,
+    "bestRating": 164.7695032878483,
+    "worstRating": 156.80464794435537,
+    "tendency": -0.6786668291925082,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      157.48331477354787,
+      164.74585978153362,
+      157.27522525250376,
+      164.7695032878483,
+      164.713844065052,
+      156.80464794435537
+    ]
   },
   {
     "NAF Nr": "24243",
@@ -6473,13 +11286,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "156.62",
+    "rating": 157.1674947319286,
+    "bestRating": 161.45771797570265,
+    "worstRating": 155.65685424949237,
+    "tendency": 1.51064048243623,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.32485437919004,
+      161.45771797570265,
+      156.35751419019218,
+      157.1674947319286
+    ]
   },
   {
     "NAF Nr": "24319",
@@ -6487,13 +11310,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "154.5",
+    "rating": 154.47213595499957,
+    "bestRating": 154.47213595499957,
+    "worstRating": 150,
+    "tendency": 4.4721359549995725,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      150,
+      150,
+      154.47213595499957
+    ]
   },
   {
     "NAF Nr": "24374",
@@ -6501,13 +11332,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "140.5",
+    "rating": 140.40821268707367,
+    "bestRating": 156.79048987825757,
+    "worstRating": 140.40821268707367,
+    "tendency": -16.382277191183903,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      156.79048987825757,
+      151.4601123927807,
+      145.7292101208018,
+      140.40821268707367
+    ]
   },
   {
     "NAF Nr": "24379",
@@ -6515,13 +11355,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "155.05",
+    "rating": 154.37112439925306,
+    "bestRating": 163.1032925163439,
+    "worstRating": 145.9376723019389,
+    "tendency": -0.5278550863132807,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 55.56
+    "winRatio": 55.56,
+    "_lastTenRatings": [
+      154.89897948556634,
+      159.7979589711327,
+      155.4027053971051,
+      163.1032925163439,
+      154.1432288707935,
+      145.9376723019389,
+      153.75257178988744,
+      146.75522587793353,
+      154.37112439925306
+    ]
   },
   {
     "NAF Nr": "24415",
@@ -6529,13 +11383,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "157.54",
+    "rating": 157.49280666547952,
+    "bestRating": 157.49280666547952,
+    "worstRating": 153.47106763950327,
+    "tendency": 4.021739025976245,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      153.47106763950327,
+      157.19949742888082,
+      157.49280666547952
+    ]
   },
   {
     "NAF Nr": "24439",
@@ -6543,13 +11405,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "185.65",
+    "rating": 185.48627065613593,
+    "bestRating": 188.2525265325977,
+    "worstRating": 155.65685424949237,
+    "tendency": 11.768049966268137,
     "totalTournaments": 3,
     "gamesTotal": 14,
     "gamesWon": 8,
     "gamesDraw": 4,
     "gamesLost": 2,
-    "winRatio": 71.43
+    "winRatio": 71.43,
+    "_lastTenRatings": [
+      173.7182206898678,
+      181.02847409958983,
+      187.21629336811694,
+      181.45641181319388,
+      188.2525265325977,
+      187.1466235694886,
+      182.42243413036576,
+      185.5617343704577,
+      186.4610041800074,
+      185.48627065613593
+    ]
   },
   {
     "NAF Nr": "24446",
@@ -6557,13 +11434,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "138.82",
+    "rating": 139.26593723235212,
+    "bestRating": 150.60125644977032,
+    "worstRating": 139.26593723235212,
+    "tendency": -6.8670942329331695,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 5,
-    "winRatio": 35
+    "winRatio": 35,
+    "_lastTenRatings": [
+      146.13303146528528,
+      150.60125644977032,
+      146.75795496343235,
+      146.0392415290803,
+      141.70301639478495,
+      146.3669054609696,
+      143.0325943302043,
+      143.10739677845064,
+      139.43849013808787,
+      139.26593723235212
+    ]
   },
   {
     "NAF Nr": "24449",
@@ -6571,13 +11463,26 @@ const statsRaceBretonnian = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "163.72",
+    "rating": 163.88209159540804,
+    "bestRating": 164.70334133238057,
+    "worstRating": 149.7853097698343,
+    "tendency": 8.675597462595107,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 3,
     "gamesDraw": 4,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      155.20649413281294,
+      155.10539877717815,
+      149.7853097698343,
+      157.22249877596144,
+      159.05148808668582,
+      164.70334133238057,
+      164.35255411423057,
+      163.88209159540804
+    ]
   },
   {
     "NAF Nr": "24460",
@@ -6585,13 +11490,24 @@ const statsRaceBretonnian = [
     "CCAA": "I. Canarias",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "169.72",
+    "rating": 171.66879772077738,
+    "bestRating": 171.66879772077738,
+    "worstRating": 151.29875850844473,
+    "tendency": 20.370039212332642,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      151.29875850844473,
+      152.46254712150008,
+      160.05487121578201,
+      167.99347758132143,
+      167.11778498686877,
+      171.66879772077738
+    ]
   },
   {
     "NAF Nr": "24485",
@@ -6599,13 +11515,27 @@ const statsRaceBretonnian = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "149.45",
+    "rating": 149.69133206273548,
+    "bestRating": 153.64674564197549,
+    "worstRating": 139.8502758381193,
+    "tendency": 5.348186312227853,
     "totalTournaments": 3,
     "gamesTotal": 9,
     "gamesWon": 2,
     "gamesDraw": 4,
     "gamesLost": 3,
-    "winRatio": 44.44
+    "winRatio": 44.44,
+    "_lastTenRatings": [
+      144.34314575050763,
+      139.8502758381193,
+      146.3707150765351,
+      148.0193469904674,
+      148.10533628135246,
+      153.64674564197549,
+      148.65695496769771,
+      149.9264401892488,
+      149.69133206273548
+    ]
   },
   {
     "NAF Nr": "24494",
@@ -6613,13 +11543,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Bretonnian",
-    "rating": "136.34",
+    "rating": 136.70648119051336,
+    "bestRating": 145.10102051443366,
+    "worstRating": 136.70648119051336,
+    "tendency": -8.394539323920299,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      145.10102051443366,
+      140.41367262614074,
+      136.70648119051336
+    ]
   },
   {
     "NAF Nr": "24528",
@@ -6627,13 +11565,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "149.02",
+    "rating": 149.04072039433456,
+    "bestRating": 160.70914389943178,
+    "worstRating": 149.04072039433456,
+    "tendency": -6.616133855157813,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.65685424949237,
+      160.70914389943178,
+      155.85710603151537,
+      149.04072039433456
+    ]
   },
   {
     "NAF Nr": "24533",
@@ -6641,13 +11588,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "152.1",
+    "rating": 152.15678334910058,
+    "bestRating": 157.3069557712404,
+    "worstRating": 151.71450682313045,
+    "tendency": 0.44227652597012934,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      151.71450682313045,
+      157.3069557712404,
+      152.2532135058121,
+      152.15678334910058
+    ]
   },
   {
     "NAF Nr": "24553",
@@ -6655,13 +11611,26 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "169.51",
+    "rating": 169.9357428165733,
+    "bestRating": 169.9357428165733,
+    "worstRating": 153.87324001895618,
+    "tendency": 16.062502797617128,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 4,
     "gamesDraw": 4,
     "gamesLost": 0,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      153.87324001895618,
+      158.4687880658737,
+      160.05437748359077,
+      161.92664142912983,
+      161.71107730269412,
+      165.78231067207818,
+      165.8532727522888,
+      169.9357428165733
+    ]
   },
   {
     "NAF Nr": "24586",
@@ -6669,13 +11638,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "144.61",
+    "rating": 144.71100838177412,
+    "bestRating": 149.4949599254934,
+    "worstRating": 144.71100838177412,
+    "tendency": -0.18997210463308534,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.9009804864072,
+      149.4949599254934,
+      144.71100838177412
+    ]
   },
   {
     "NAF Nr": "24592",
@@ -6683,13 +11660,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Bulgaria",
     "race": "Bretonnian",
-    "rating": "152.55",
+    "rating": 152.4867747838805,
+    "bestRating": 152.4867747838805,
+    "worstRating": 147.5414101228972,
+    "tendency": 4.9453646609833015,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      147.5414101228972,
+      149.99107095301525,
+      152.4867747838805
+    ]
   },
   {
     "NAF Nr": "24634",
@@ -6697,13 +11682,25 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "143.75",
+    "rating": 144.82757532518622,
+    "bestRating": 148.72280919448488,
+    "worstRating": 139.78927778030786,
+    "tendency": -1.3926464800935037,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 42.86
+    "winRatio": 42.86,
+    "_lastTenRatings": [
+      146.22022180527972,
+      140.5096976596532,
+      140.26530047015032,
+      139.78927778030786,
+      143.70296816316477,
+      148.72280919448488,
+      144.82757532518622
+    ]
   },
   {
     "NAF Nr": "24641",
@@ -6711,13 +11708,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "151.01",
+    "rating": 148.97693371910086,
+    "bestRating": 153.7495254219936,
+    "worstRating": 145.38219714975335,
+    "tendency": -0.4912315940903227,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      149.46816531319118,
+      145.38219714975335,
+      151.51913082343447,
+      148.0115090587823,
+      153.7495254219936,
+      148.97693371910086
+    ]
   },
   {
     "NAF Nr": "24657",
@@ -6725,13 +11733,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Wales",
     "race": "Bretonnian",
-    "rating": "135.86",
+    "rating": 137.62079490889525,
+    "bestRating": 146.67790948211854,
+    "worstRating": 135.5797856494089,
+    "tendency": -9.057114573223288,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      146.67790948211854,
+      141.11009188660566,
+      135.5797856494089,
+      141.45456797364778,
+      142.30703196205585,
+      137.62079490889525
+    ]
   },
   {
     "NAF Nr": "24663",
@@ -6739,13 +11758,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "151.32",
+    "rating": 151.4285722702132,
+    "bestRating": 151.4285722702132,
+    "worstRating": 144.34314575050763,
+    "tendency": 7.085426519705578,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150.13415030325697,
+      150.12819535216101,
+      150.12262937317033,
+      150.19541644169104,
+      151.4285722702132
+    ]
   },
   {
     "NAF Nr": "24666",
@@ -6753,13 +11783,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Bretonnian",
-    "rating": "183.45",
+    "rating": 182.2630422769473,
+    "bestRating": 186.2455362572629,
+    "worstRating": 144.34314575050763,
+    "tendency": 4.555288503593914,
     "totalTournaments": 8,
     "gamesTotal": 34,
     "gamesWon": 17,
     "gamesDraw": 10,
     "gamesLost": 7,
-    "winRatio": 64.71
+    "winRatio": 64.71,
+    "_lastTenRatings": [
+      177.70775377335337,
+      181.94684174726035,
+      186.2455362572629,
+      179.81548270578378,
+      184.1809267122636,
+      184.34998449671627,
+      183.49528210240177,
+      183.06315930748042,
+      184.78138422571323,
+      182.2630422769473
+    ]
   },
   {
     "NAF Nr": "24720",
@@ -6767,13 +11812,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "141.36",
+    "rating": 141.95283383081528,
+    "bestRating": 154.79583152331273,
+    "worstRating": 141.95283383081528,
+    "tendency": -12.842997692497448,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      154.79583152331273,
+      150.75480154644512,
+      147.00115567340399,
+      141.95283383081528
+    ]
   },
   {
     "NAF Nr": "24721",
@@ -6781,13 +11835,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "149.86",
+    "rating": 149.84312828903649,
+    "bestRating": 150,
+    "worstRating": 145.1462906231884,
+    "tendency": -0.1568717109635145,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      145.1462906231884,
+      149.84312828903649
+    ]
   },
   {
     "NAF Nr": "24731",
@@ -6795,13 +11857,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "141.35",
+    "rating": 140.99127310045938,
+    "bestRating": 143.90968734478628,
+    "worstRating": 137.10372611580308,
+    "tendency": -2.918414244326897,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      143.90968734478628,
+      143.1549781064278,
+      137.10372611580308,
+      140.99127310045938
+    ]
   },
   {
     "NAF Nr": "24737",
@@ -6809,13 +11880,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "131.34",
+    "rating": 130.90996635620712,
+    "bestRating": 144.34314575050763,
+    "worstRating": 130.90996635620712,
+    "tendency": -13.43317939430051,
     "totalTournaments": 3,
     "gamesTotal": 10,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 5,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      138.43888646376442,
+      137.15161214716733,
+      132.97660998924746,
+      133.24291454915112,
+      138.57543343422375,
+      135.90236191939707,
+      135.5016804009902,
+      130.90996635620712
+    ]
   },
   {
     "NAF Nr": "24744",
@@ -6823,13 +11909,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "160.37",
+    "rating": 160.4036680099147,
+    "bestRating": 160.4036680099147,
+    "worstRating": 144.34314575050763,
+    "tendency": 16.060522259407065,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      144.34314575050763,
+      149.91144064006164,
+      154.92685748481634,
+      160.4036680099147
+    ]
   },
   {
     "NAF Nr": "24745",
@@ -6837,13 +11932,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "139.6",
+    "rating": 139.5476733702148,
+    "bestRating": 156.14002718621606,
+    "worstRating": 139.5476733702148,
+    "tendency": -16.592353816001264,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      156.14002718621606,
+      149.4388919282651,
+      148.89439025259,
+      139.5476733702148
+    ]
   },
   {
     "NAF Nr": "24764",
@@ -6851,13 +11955,22 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "145.14",
+    "rating": 144.91477145274126,
+    "bestRating": 145.19414174390874,
+    "worstRating": 139.29715785857942,
+    "tendency": -0.27937029116748135,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      145.19414174390874,
+      139.50320266965662,
+      139.29715785857942,
+      144.91477145274126
+    ]
   },
   {
     "NAF Nr": "24784",
@@ -6865,13 +11978,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Chile",
     "race": "Bretonnian",
-    "rating": "153.57",
+    "rating": 153.62476167328464,
+    "bestRating": 153.62476167328464,
+    "worstRating": 149.85973083473036,
+    "tendency": 3.7650308385542814,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 0,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      149.85973083473036,
+      153.41957588707385,
+      153.62476167328464
+    ]
   },
   {
     "NAF Nr": "24788",
@@ -6879,13 +12000,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Bretonnian",
-    "rating": "161.02",
+    "rating": 156.54424333063446,
+    "bestRating": 170.6685704728733,
+    "worstRating": 148.3812970328787,
+    "tendency": -8.352995995919088,
     "totalTournaments": 5,
     "gamesTotal": 28,
     "gamesWon": 9,
     "gamesDraw": 11,
     "gamesLost": 8,
-    "winRatio": 51.79
+    "winRatio": 51.79,
+    "_lastTenRatings": [
+      164.89723932655355,
+      158.89503142217717,
+      152.31630032184873,
+      154.5356649886982,
+      148.78228608439088,
+      154.492009449629,
+      160.30722571315937,
+      156.72240976121773,
+      156.89415177816676,
+      156.54424333063446
+    ]
   },
   {
     "NAF Nr": "24827",
@@ -6893,13 +12029,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "135.32",
+    "rating": 134.69835842500385,
+    "bestRating": 151.288283033863,
+    "worstRating": 134.69835842500385,
+    "tendency": -10.923309366669315,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      145.62166779167316,
+      151.288283033863,
+      145.57070645841253,
+      140.01791618867497,
+      140.05098908008523,
+      134.69835842500385
+    ]
   },
   {
     "NAF Nr": "24864",
@@ -6907,27 +12054,47 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "145.35",
+    "rating": 145.24052094662437,
+    "bestRating": 145.24052094662437,
+    "worstRating": 139.05608599546235,
+    "tendency": 0.746984308785926,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.49353663783845,
+      139.05608599546235,
+      145.24052094662437
+    ]
   },
   {
     "NAF Nr": "24880",
     "NAF Name": "jaruib",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "131.57",
+    "rating": 131.4720805951614,
+    "bestRating": 150,
+    "worstRating": 130.9317668509176,
+    "tendency": -18.5279194048386,
     "totalTournaments": 2,
     "gamesTotal": 7,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 4,
-    "winRatio": 21.43
+    "winRatio": 21.43,
+    "_lastTenRatings": [
+      150,
+      144.92127944345765,
+      139.72911796562104,
+      134.93128525869778,
+      135.98234043702078,
+      130.9317668509176,
+      131.4720805951614
+    ]
   },
   {
     "NAF Nr": "24901",
@@ -6935,13 +12102,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "149.86",
+    "rating": 149.99813859222465,
+    "bestRating": 150,
+    "worstRating": 146.9144601081221,
+    "tendency": -0.0018614077753511538,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      146.9144601081221,
+      149.99813859222465
+    ]
   },
   {
     "NAF Nr": "24911",
@@ -6949,13 +12124,20 @@ const statsRaceBretonnian = [
     "CCAA": "Asturias",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "150.09",
+    "rating": 150.0844098880534,
+    "bestRating": 150.0844098880534,
+    "worstRating": 146.6833752096446,
+    "tendency": 3.4010346784087915,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.6833752096446,
+      150.0844098880534
+    ]
   },
   {
     "NAF Nr": "25044",
@@ -6963,13 +12145,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "144.3",
+    "rating": 144.12453180375047,
+    "bestRating": 160.91688786183573,
+    "worstRating": 144.12453180375047,
+    "tendency": -11.117490721891983,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      155.24202252564245,
+      160.91688786183573,
+      155.43810877564508,
+      149.79629480955506,
+      144.12758254923475,
+      144.12453180375047
+    ]
   },
   {
     "NAF Nr": "25053",
@@ -6977,13 +12170,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "152.39",
+    "rating": 150.88111176435842,
+    "bestRating": 170.97150413816047,
+    "worstRating": 142.25403330758516,
+    "tendency": -8.505583630703342,
     "totalTournaments": 3,
     "gamesTotal": 15,
     "gamesWon": 6,
     "gamesDraw": 3,
     "gamesLost": 6,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      159.38669539506176,
+      164.6367021497833,
+      164.0541542352649,
+      170.97150413816047,
+      170.8055872951437,
+      164.27470732660615,
+      158.2150189998844,
+      152.20195730137948,
+      146.2202531511238,
+      150.88111176435842
+    ]
   },
   {
     "NAF Nr": "25105",
@@ -6991,13 +12199,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Undisclosed",
     "race": "Bretonnian",
-    "rating": "154.57",
+    "rating": 155.01633015633212,
+    "bestRating": 159.04755878427633,
+    "worstRating": 154,
+    "tendency": 1.016330156332117,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      154,
+      159.04755878427633,
+      155.01633015633212
+    ]
   },
   {
     "NAF Nr": "25162",
@@ -7005,13 +12221,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "158.66",
+    "rating": 157.938655165998,
+    "bestRating": 160.9574719999056,
+    "worstRating": 138.10001991643864,
+    "tendency": 8.579354240302706,
     "totalTournaments": 3,
     "gamesTotal": 12,
     "gamesWon": 6,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 54.17
+    "winRatio": 54.17,
+    "_lastTenRatings": [
+      149.3593009256953,
+      143.730264299325,
+      138.10001991643864,
+      144.0277306853518,
+      149.75585034041606,
+      155.46041549219115,
+      160.9574719999056,
+      155.67364404736472,
+      151.98718232650953,
+      157.938655165998
+    ]
   },
   {
     "NAF Nr": "25191",
@@ -7019,13 +12250,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "160.67",
+    "rating": 160.8866216197563,
+    "bestRating": 160.8866216197563,
+    "worstRating": 144.33360837840894,
+    "tendency": 5.229767370263943,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.33360837840894,
+      149.51886457579798,
+      154.96407037328237,
+      160.8866216197563
+    ]
   },
   {
     "NAF Nr": "25218",
@@ -7033,13 +12275,28 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "168.19",
+    "rating": 168.27788320816376,
+    "bestRating": 173.61311520386084,
+    "worstRating": 150.43489609885776,
+    "tendency": 6.398236366210284,
     "totalTournaments": 4,
     "gamesTotal": 16,
     "gamesWon": 9,
     "gamesDraw": 2,
     "gamesLost": 5,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      161.87964684195347,
+      166.92798392838358,
+      172.72235445219795,
+      166.32875945142123,
+      165.77867481871692,
+      170.51485101184022,
+      163.97457257802446,
+      168.78546274811367,
+      173.61311520386084,
+      168.27788320816376
+    ]
   },
   {
     "NAF Nr": "25238",
@@ -7047,13 +12304,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "150.07",
+    "rating": 148.5980923428558,
+    "bestRating": 151.64688526071828,
+    "worstRating": 148.5980923428558,
+    "tendency": -3.0110991620736343,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      151.60919150492944,
+      151.64688526071828,
+      148.5980923428558
+    ]
   },
   {
     "NAF Nr": "25245",
@@ -7061,13 +12326,20 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "150.0",
+    "rating": 150,
+    "bestRating": 154,
+    "worstRating": 150,
+    "tendency": -4,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154,
+      150
+    ]
   },
   {
     "NAF Nr": "25323",
@@ -7075,13 +12347,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "149.64",
+    "rating": 149.36320463928743,
+    "bestRating": 153.71893875687982,
+    "worstRating": 149.36320463928743,
+    "tendency": -4.355734117592391,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      153.71893875687982,
+      153.71601693418623,
+      149.36320463928743
+    ]
   },
   {
     "NAF Nr": "25344",
@@ -7089,13 +12369,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "166.02",
+    "rating": 166.52455981183414,
+    "bestRating": 166.52455981183414,
+    "worstRating": 145.18179417677607,
+    "tendency": 21.342765635058072,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      145.18179417677607,
+      153.21383673648867,
+      160.69353082495115,
+      160.89081917468982,
+      166.52455981183414
+    ]
   },
   {
     "NAF Nr": "25345",
@@ -7103,13 +12393,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "153.92",
+    "rating": 154.94401503573152,
+    "bestRating": 159.3831381001788,
+    "worstRating": 151.37859157830312,
+    "tendency": -1.9686549481075986,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      156.91266998383912,
+      151.37859157830312,
+      159.3831381001788,
+      154.94681312910583,
+      154.94401503573152
+    ]
   },
   {
     "NAF Nr": "25372",
@@ -7117,13 +12417,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "146.61",
+    "rating": 146.54186675426686,
+    "bestRating": 155.19640614073154,
+    "worstRating": 146.54186675426686,
+    "tendency": -3.1419075636542004,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      149.68377431792106,
+      155.19640614073154,
+      153.00188766018155,
+      147.3430149738099,
+      146.54186675426686
+    ]
   },
   {
     "NAF Nr": "25398",
@@ -7131,13 +12441,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Czech Republic",
     "race": "Bretonnian",
-    "rating": "150.87",
+    "rating": 150.72928519290596,
+    "bestRating": 150.72928519290596,
+    "worstRating": 145.50969663006583,
+    "tendency": 5.183737733803582,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.54554745910238,
+      150.21602887401903,
+      145.50969663006583,
+      149.9145234278429,
+      146.19418174177218,
+      150.72928519290596
+    ]
   },
   {
     "NAF Nr": "25422",
@@ -7145,13 +12466,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "148.84",
+    "rating": 148.84056827716842,
+    "bestRating": 154.298531390859,
+    "worstRating": 148.84056827716842,
+    "tendency": -5.457963113690596,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      154.298531390859,
+      149.12039788073332,
+      153.97272888490895,
+      148.84056827716842
+    ]
   },
   {
     "NAF Nr": "25430",
@@ -7159,13 +12489,20 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Ireland",
     "race": "Bretonnian",
-    "rating": "144.0",
+    "rating": 143.44707700960896,
+    "bestRating": 143.89498448024779,
+    "worstRating": 143.44707700960896,
+    "tendency": -0.44790747063882463,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      143.89498448024779,
+      143.44707700960896
+    ]
   },
   {
     "NAF Nr": "25439",
@@ -7173,13 +12510,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "152.77",
+    "rating": 152.57471864660386,
+    "bestRating": 153.16227766016837,
+    "worstRating": 150.01664445598806,
+    "tendency": -0.5875590135645155,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.16227766016837,
+      150.01664445598806,
+      152.57471864660386
+    ]
   },
   {
     "NAF Nr": "25450",
@@ -7187,13 +12532,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "144.84",
+    "rating": 144.88462854242056,
+    "bestRating": 153.9203101967855,
+    "worstRating": 144.88462854242056,
+    "tendency": -9.035681654364936,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      153.9203101967855,
+      150.2609664532589,
+      144.88462854242056
+    ]
   },
   {
     "NAF Nr": "25467",
@@ -7201,13 +12554,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "162.32",
+    "rating": 162.33601926411464,
+    "bestRating": 162.33601926411464,
+    "worstRating": 151.4523639667149,
+    "tendency": 7.236999750521846,
     "totalTournaments": 2,
     "gamesTotal": 5,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 80
+    "winRatio": 80,
+    "_lastTenRatings": [
+      155.0990195135928,
+      151.4523639667149,
+      155.131778903548,
+      158.87487616838246,
+      162.33601926411464
+    ]
   },
   {
     "NAF Nr": "25499",
@@ -7215,13 +12578,23 @@ const statsRaceBretonnian = [
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "155.25",
+    "rating": 155.02762074955436,
+    "bestRating": 155.02762074955436,
+    "worstRating": 145.30982741356266,
+    "tendency": 8.626643365920273,
     "totalTournaments": 2,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 60
+    "winRatio": 60,
+    "_lastTenRatings": [
+      146.40097738363409,
+      150.79097052895438,
+      145.30982741356266,
+      149.83242285422853,
+      155.02762074955436
+    ]
   },
   {
     "NAF Nr": "25500",
@@ -7229,13 +12602,21 @@ const statsRaceBretonnian = [
     "CCAA": "Andalucía",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "151.37",
+    "rating": 151.70970165144473,
+    "bestRating": 151.70970165144473,
+    "worstRating": 145.60620676503814,
+    "tendency": 6.103494886406594,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.60620676503814,
+      151.2082231986787,
+      151.70970165144473
+    ]
   },
   {
     "NAF Nr": "25513",
@@ -7243,13 +12624,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Bretonnian",
-    "rating": "136.04",
+    "rating": 136.5244240530874,
+    "bestRating": 150.23457642438365,
+    "worstRating": 136.5244240530874,
+    "tendency": -13.475575946912613,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 4,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      150,
+      144.94391142875898,
+      150.23457642438365,
+      145.51917584592712,
+      141.8190002236833,
+      136.5244240530874
+    ]
   },
   {
     "NAF Nr": "25565",
@@ -7257,13 +12649,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "156.6",
+    "rating": 157.0635768164631,
+    "bestRating": 157.0635768164631,
+    "worstRating": 150.16735347077253,
+    "tendency": 3.7469520261076923,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.3166247903554,
+      153.30346219559746,
+      150.3170805575335,
+      150.16735347077253,
+      153.62700550055806,
+      157.0635768164631
+    ]
   },
   {
     "NAF Nr": "25574",
@@ -7271,13 +12674,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "155.62",
+    "rating": 155.49282829887824,
+    "bestRating": 155.49282829887824,
+    "worstRating": 145.64472865671726,
+    "tendency": 9.848099642160975,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      145.64472865671726,
+      150.5232642600478,
+      155.49282829887824
+    ]
   },
   {
     "NAF Nr": "25605",
@@ -7285,13 +12696,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "132.03",
+    "rating": 131.67120974228652,
+    "bestRating": 146.8899924509562,
+    "worstRating": 131.67120974228652,
+    "tendency": -15.218782708669693,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146.8899924509562,
+      141.73395837147046,
+      136.56713736706664,
+      131.67120974228652
+    ]
   },
   {
     "NAF Nr": "25606",
@@ -7299,13 +12719,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "146.02",
+    "rating": 146.01380329252842,
+    "bestRating": 146.01380329252842,
+    "worstRating": 146.01380329252842,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146.01380329252842
+    ]
   },
   {
     "NAF Nr": "25618",
@@ -7313,13 +12739,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "145.46",
+    "rating": 146.19490035682367,
+    "bestRating": 155.38516480713452,
+    "worstRating": 146.19490035682367,
+    "tendency": -9.190264450310849,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      155.38516480713452,
+      151.58010663451526,
+      146.19490035682367
+    ]
   },
   {
     "NAF Nr": "25631",
@@ -7327,13 +12761,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "154.38",
+    "rating": 154.23490973431632,
+    "bestRating": 154.79599250874304,
+    "worstRating": 152.4494897427832,
+    "tendency": 1.7854199915331321,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      152.4494897427832,
+      154.79599250874304,
+      154.23490973431632
+    ]
   },
   {
     "NAF Nr": "25632",
@@ -7341,13 +12783,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "150.26",
+    "rating": 149.8251971869838,
+    "bestRating": 159.91768741527568,
+    "worstRating": 149.8251971869838,
+    "tendency": -0.9718973803156246,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.7970945672994,
+      150.2865589993163,
+      154.6244536407695,
+      159.91768741527568,
+      154.84900059097947,
+      149.8251971869838
+    ]
   },
   {
     "NAF Nr": "25706",
@@ -7355,13 +12808,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "144.89",
+    "rating": 144.5325138889588,
+    "bestRating": 149.7489202883722,
+    "worstRating": 138.88849942942204,
+    "tendency": -5.216406399413415,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      149.7489202883722,
+      144.55436583012988,
+      138.88849942942204,
+      144.5325138889588
+    ]
   },
   {
     "NAF Nr": "25707",
@@ -7369,13 +12831,26 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "146.36",
+    "rating": 146.15021482487103,
+    "bestRating": 151.5856005271892,
+    "worstRating": 145.11175276503062,
+    "tendency": -3.8497851751289716,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 1,
     "gamesDraw": 5,
     "gamesLost": 2,
-    "winRatio": 43.75
+    "winRatio": 43.75,
+    "_lastTenRatings": [
+      150,
+      145.21242904974895,
+      145.36921995662271,
+      145.260914542297,
+      146.2788975552373,
+      151.5856005271892,
+      145.11175276503062,
+      146.15021482487103
+    ]
   },
   {
     "NAF Nr": "25748",
@@ -7383,13 +12858,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Bulgaria",
     "race": "Bretonnian",
-    "rating": "150.0",
+    "rating": 149.28460372666447,
+    "bestRating": 164.94485279206899,
+    "worstRating": 142.35590367455015,
+    "tendency": 0.111725798536213,
     "totalTournaments": 1,
     "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      149.17287792812826,
+      142.35590367455015,
+      150.92678023601513,
+      150.45343470778187,
+      158.17633565575187,
+      164.94485279206899,
+      156.8241204882557,
+      156.69141510863685,
+      149.28460372666447
+    ]
   },
   {
     "NAF Nr": "25759",
@@ -7397,13 +12886,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "147.87",
+    "rating": 148.8575711457555,
+    "bestRating": 155.65685424949237,
+    "worstRating": 148.8575711457555,
+    "tendency": -6.799283103736883,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      155.65685424949237,
+      152.96217782310944,
+      148.8575711457555
+    ]
   },
   {
     "NAF Nr": "25850",
@@ -7411,13 +12908,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "144.15",
+    "rating": 143.96750622501452,
+    "bestRating": 150,
+    "worstRating": 143.96750622501452,
+    "tendency": -6.032493774985483,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      150,
+      149.99989093407638,
+      143.96750622501452
+    ]
   },
   {
     "NAF Nr": "25893",
@@ -7425,13 +12930,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "134.01",
+    "rating": 133.5623766123604,
+    "bestRating": 145.47918959321953,
+    "worstRating": 133.5623766123604,
+    "tendency": -11.916812980859135,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatings": [
+      145.47918959321953,
+      140.30830131116932,
+      134.86823106970678,
+      133.5623766123604
+    ]
   },
   {
     "NAF Nr": "25899",
@@ -7439,13 +12953,26 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "149.11",
+    "rating": 149.00939737441868,
+    "bestRating": 153.9410906530783,
+    "worstRating": 143.58170636703895,
+    "tendency": -4.826857434072878,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      153.83625480849156,
+      148.23843935312223,
+      153.9410906530783,
+      148.8259277664749,
+      148.87690220902434,
+      149.10136387189013,
+      143.58170636703895,
+      149.00939737441868
+    ]
   },
   {
     "NAF Nr": "25934",
@@ -7453,13 +12980,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "134.56",
+    "rating": 134.64968388733695,
+    "bestRating": 155.62645292883462,
+    "worstRating": 127.1563811431562,
+    "tendency": -1.417805088000165,
     "totalTournaments": 5,
     "gamesTotal": 21,
     "gamesWon": 5,
     "gamesDraw": 8,
     "gamesLost": 8,
-    "winRatio": 42.86
+    "winRatio": 42.86,
+    "_lastTenRatings": [
+      136.0674889753371,
+      131.3610872489731,
+      132.3806807992229,
+      127.1563811431562,
+      132.24425111767627,
+      132.91353396990414,
+      130.11626095911714,
+      133.83213552546727,
+      137.37444881797978,
+      134.64968388733695
+    ]
   },
   {
     "NAF Nr": "25959",
@@ -7467,13 +13009,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "150.35",
+    "rating": 150.5313730510104,
+    "bestRating": 150.90551435034058,
+    "worstRating": 144.99952630663927,
+    "tendency": 4.9302501391190106,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      145.6011229118914,
+      150.90551435034058,
+      144.99952630663927,
+      150.5313730510104
+    ]
   },
   {
     "NAF Nr": "25973",
@@ -7481,13 +13032,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "145.66",
+    "rating": 145.17779755325475,
+    "bestRating": 146.77968225068034,
+    "worstRating": 135.9962082464742,
+    "tendency": -1.4573357420398452,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      146.6351332952946,
+      146.77968225068034,
+      141.6677433498003,
+      135.9962082464742,
+      141.42780610917293,
+      145.17779755325475
+    ]
   },
   {
     "NAF Nr": "26050",
@@ -7495,13 +13057,26 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Greece",
     "race": "Bretonnian",
-    "rating": "174.45",
+    "rating": 174.7682762745473,
+    "bestRating": 174.7682762745473,
+    "worstRating": 155.21311071214427,
+    "tendency": 19.555165562403033,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 6,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 81.25
+    "winRatio": 81.25,
+    "_lastTenRatings": [
+      155.21311071214427,
+      160.89815344729908,
+      166.3267854032399,
+      163.5969675775497,
+      163.68298749505774,
+      166.91126685977522,
+      170.41102929910898,
+      174.7682762745473
+    ]
   },
   {
     "NAF Nr": "26093",
@@ -7509,13 +13084,20 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "145.34",
+    "rating": 145.35448492871177,
+    "bestRating": 147.76190137265772,
+    "worstRating": 145.35448492871177,
+    "tendency": -2.407416443945948,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      147.76190137265772,
+      145.35448492871177
+    ]
   },
   {
     "NAF Nr": "26101",
@@ -7523,13 +13105,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Bretonnian",
-    "rating": "139.37",
+    "rating": 139.10691335066159,
+    "bestRating": 144.7950866638727,
+    "worstRating": 133.6629050118465,
+    "tendency": -5.688173313211109,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      144.7950866638727,
+      139.07879165305118,
+      133.6629050118465,
+      133.94429286048117,
+      139.10691335066159
+    ]
   },
   {
     "NAF Nr": "26139",
@@ -7537,13 +13129,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Scotland",
     "race": "Bretonnian",
-    "rating": "140.32",
+    "rating": 140.16472250124147,
+    "bestRating": 145.31847912886215,
+    "worstRating": 134.54066256994227,
+    "tendency": -4.595862245082998,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.76058474632447,
+      139.09243719341546,
+      134.54066256994227,
+      139.7495366411933,
+      145.31847912886215,
+      140.16472250124147
+    ]
   },
   {
     "NAF Nr": "26274",
@@ -7551,13 +13154,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "136.17",
+    "rating": 135.32452189104214,
+    "bestRating": 150,
+    "worstRating": 135.32452189104214,
+    "tendency": -14.675478108957861,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatings": [
+      150,
+      146.17512687406534,
+      141.3101554116073,
+      135.32452189104214
+    ]
   },
   {
     "NAF Nr": "26398",
@@ -7565,13 +13177,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "168.18",
+    "rating": 172.01907176938283,
+    "bestRating": 175.00200188250216,
+    "worstRating": 145.79649516615953,
+    "tendency": 14.690030418421628,
     "totalTournaments": 5,
     "gamesTotal": 20,
     "gamesWon": 10,
     "gamesDraw": 5,
     "gamesLost": 5,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      157.3290413509612,
+      162.88906111160827,
+      162.67644081428432,
+      168.23308249342307,
+      167.95297958720482,
+      172.56387538612515,
+      171.2529699120625,
+      175.00200188250216,
+      169.6506051726299,
+      172.01907176938283
+    ]
   },
   {
     "NAF Nr": "26455",
@@ -7579,13 +13206,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "145.37",
+    "rating": 145.10431344595537,
+    "bestRating": 145.35384946943967,
+    "worstRating": 136.91473455359662,
+    "tendency": -0.24953602348429627,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      145.35384946943967,
+      141.1377023462966,
+      136.91473455359662,
+      140.98244749683602,
+      145.10431344595537
+    ]
   },
   {
     "NAF Nr": "26512",
@@ -7593,13 +13230,24 @@ const statsRaceBretonnian = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "145.48",
+    "rating": 146.2612514307662,
+    "bestRating": 155.50717374310256,
+    "worstRating": 146.2612514307662,
+    "tendency": -0.06052480133865856,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      146.32177623210487,
+      150.30649601973957,
+      154.7070817644573,
+      155.50717374310256,
+      150.59159708108766,
+      146.2612514307662
+    ]
   },
   {
     "NAF Nr": "26553",
@@ -7607,13 +13255,20 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Belgium",
     "race": "Bretonnian",
-    "rating": "142.92",
+    "rating": 142.9920577795151,
+    "bestRating": 146.53589838486224,
+    "worstRating": 142.9920577795151,
+    "tendency": -3.5438406053471283,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146.53589838486224,
+      142.9920577795151
+    ]
   },
   {
     "NAF Nr": "26575",
@@ -7621,13 +13276,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Bretonnian",
-    "rating": "157.37",
+    "rating": 157.50953541519164,
+    "bestRating": 157.50953541519164,
+    "worstRating": 145.95468953014986,
+    "tendency": 11.509535415191635,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      146,
+      145.95468953014986,
+      149.96068223047953,
+      153.6370454641702,
+      153.63092409253474,
+      157.50953541519164
+    ]
   },
   {
     "NAF Nr": "26609",
@@ -7635,13 +13301,20 @@ const statsRaceBretonnian = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "159.17",
+    "rating": 159.15496084551205,
+    "bestRating": 159.15496084551205,
+    "worstRating": 154.5345902013969,
+    "tendency": 4.620370644115155,
     "totalTournaments": 1,
     "gamesTotal": 2,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.5345902013969,
+      159.15496084551205
+    ]
   },
   {
     "NAF Nr": "26613",
@@ -7649,13 +13322,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "144.48",
+    "rating": 144.33136720906404,
+    "bestRating": 150,
+    "worstRating": 144.33136720906404,
+    "tendency": -0.01177854144359003,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.33136720906404
+    ]
   },
   {
     "NAF Nr": "26711",
@@ -7663,13 +13344,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "157.73",
+    "rating": 157.76996728293835,
+    "bestRating": 157.76996728293835,
+    "worstRating": 150.10968087783067,
+    "tendency": 7.6602864051076835,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      150.10968087783067,
+      153.92329472109833,
+      157.76996728293835
+    ]
   },
   {
     "NAF Nr": "26713",
@@ -7677,13 +13366,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "139.37",
+    "rating": 138.75716779811773,
+    "bestRating": 145.88160950206301,
+    "worstRating": 133.6134455842133,
+    "tendency": -7.12444170394528,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      145.88160950206301,
+      140.02917765231624,
+      133.6134455842133,
+      138.75716779811773
+    ]
   },
   {
     "NAF Nr": "26749",
@@ -7691,13 +13389,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "150.48",
+    "rating": 150.55626029906404,
+    "bestRating": 150.7251409611089,
+    "worstRating": 146.5069079084241,
+    "tendency": 4.049352390639939,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.5069079084241,
+      150.7251409611089,
+      150.55626029906404
+    ]
   },
   {
     "NAF Nr": "26761",
@@ -7705,13 +13411,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "153.39",
+    "rating": 153.6219174465322,
+    "bestRating": 155.45029486079488,
+    "worstRating": 149.8281445602057,
+    "tendency": -1.808727803807983,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      155.43064525034018,
+      149.8281445602057,
+      155.45029486079488,
+      153.6219174465322
+    ]
   },
   {
     "NAF Nr": "26768",
@@ -7719,13 +13434,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "136.14",
+    "rating": 134.31879851973068,
+    "bestRating": 150.0982701515045,
+    "worstRating": 133.06093910317068,
+    "tendency": -8.441183450017547,
     "totalTournaments": 1,
     "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 38.89
+    "winRatio": 38.89,
+    "_lastTenRatings": [
+      142.75998196974822,
+      150.0982701515045,
+      142.4156937916284,
+      133.21453942978215,
+      141.24936415790654,
+      133.1875895074661,
+      133.06093910317068,
+      141.60013809995434,
+      134.31879851973068
+    ]
   },
   {
     "NAF Nr": "26789",
@@ -7733,13 +13462,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Austria",
     "race": "Bretonnian",
-    "rating": "143.07",
+    "rating": 142.6546898320828,
+    "bestRating": 156.74591838997662,
+    "worstRating": 139.9288502364702,
+    "tendency": 0.40065652449763434,
     "totalTournaments": 1,
     "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 44.44
+    "winRatio": 44.44,
+    "_lastTenRatings": [
+      142.25403330758516,
+      147.05756318467456,
+      147.31274702904153,
+      139.9288502364702,
+      140.28481090529067,
+      148.57637630519747,
+      156.74591838997662,
+      149.54387925079783,
+      142.6546898320828
+    ]
   },
   {
     "NAF Nr": "26830",
@@ -7747,13 +13490,22 @@ const statsRaceBretonnian = [
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "158.17",
+    "rating": 157.67573701606557,
+    "bestRating": 161.1827359539894,
+    "worstRating": 155.51360159628433,
+    "tendency": 2.1621354197812366,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      155.51360159628433,
+      155.91664860668726,
+      161.1827359539894,
+      157.67573701606557
+    ]
   },
   {
     "NAF Nr": "26844",
@@ -7761,13 +13513,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "158.82",
+    "rating": 158.93889657526762,
+    "bestRating": 163.10991033864872,
+    "worstRating": 145.52786404500043,
+    "tendency": 13.411032530267192,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      145.52786404500043,
+      150,
+      154.47213595499957,
+      158.7908264955076,
+      163.10991033864872,
+      158.93889657526762
+    ]
   },
   {
     "NAF Nr": "26868",
@@ -7775,13 +13538,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "race": "Bretonnian",
-    "rating": "149.98",
+    "rating": 150.02928045881438,
+    "bestRating": 150.02928045881438,
+    "worstRating": 146.42379008257876,
+    "tendency": 0.029280458814383792,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      146.42379008257876,
+      150.02928045881438
+    ]
   },
   {
     "NAF Nr": "26873",
@@ -7789,13 +13560,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "race": "Bretonnian",
-    "rating": "146.49",
+    "rating": 146.22042965899024,
+    "bestRating": 146.24680334326138,
+    "worstRating": 146.13997361590873,
+    "tendency": 0.08045604308151155,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.13997361590873,
+      146.24680334326138,
+      146.22042965899024
+    ]
   },
   {
     "NAF Nr": "27077",
@@ -7803,13 +13582,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Malta",
     "race": "Bretonnian",
-    "rating": "137.68",
+    "rating": 137.6223729623445,
+    "bestRating": 147.15030646679165,
+    "worstRating": 137.6223729623445,
+    "tendency": -9.527933504447134,
     "totalTournaments": 2,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      147.15030646679165,
+      144.23956579106178,
+      144.2411021904702,
+      144.5158947993876,
+      141.02684988956216,
+      137.6223729623445
+    ]
   },
   {
     "NAF Nr": "27083",
@@ -7817,13 +13607,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "145.8",
+    "rating": 145.4153670463137,
+    "bestRating": 145.43699903862154,
+    "worstRating": 139.82979197313716,
+    "tendency": 1.0582688169476455,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      144.35709822936604,
+      139.82979197313716,
+      145.43699903862154,
+      145.4153670463137
+    ]
   },
   {
     "NAF Nr": "27135",
@@ -7831,13 +13630,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "154.0",
+    "rating": 154,
+    "bestRating": 154,
+    "worstRating": 154,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154
+    ]
   },
   {
     "NAF Nr": "27199",
@@ -7845,13 +13650,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "154.08",
+    "rating": 152.39684804112053,
+    "bestRating": 157.59584326153902,
+    "worstRating": 152.19725901440972,
+    "tendency": 0.1995890267108109,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      152.19725901440972,
+      157.59584326153902,
+      152.79673478624775,
+      152.39684804112053
+    ]
   },
   {
     "NAF Nr": "27202",
@@ -7859,13 +13673,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "135.35",
+    "rating": 135.43731384941273,
+    "bestRating": 155.47722557505165,
+    "worstRating": 130.88091823186681,
+    "tendency": -20.039911725638916,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 6,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      155.47722557505165,
+      150,
+      144.56249266631784,
+      139.0168396280121,
+      134.18606371166362,
+      139.19836163995103,
+      134.82560088373873,
+      130.88091823186681,
+      135.43731384941273
+    ]
   },
   {
     "NAF Nr": "27252",
@@ -7873,13 +13701,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Undisclosed",
     "race": "Bretonnian",
-    "rating": "139.78",
+    "rating": 139.49965629032263,
+    "bestRating": 149.90065077658397,
+    "worstRating": 139.49965629032263,
+    "tendency": -10.40099448626134,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      149.90065077658397,
+      149.55458321701926,
+      143.90393815476594,
+      139.49965629032263
+    ]
   },
   {
     "NAF Nr": "27254",
@@ -7887,13 +13724,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "137.05",
+    "rating": 137.14823856426122,
+    "bestRating": 154.46991209212194,
+    "worstRating": 137.14823856426122,
+    "tendency": -12.85176143573878,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 1,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      150,
+      154.46991209212194,
+      153.78668129358803,
+      148.1536794004666,
+      142.75584718461033,
+      137.14823856426122
+    ]
   },
   {
     "NAF Nr": "27265",
@@ -7901,13 +13749,26 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "race": "Bretonnian",
-    "rating": "144.66",
+    "rating": 144.1900591210154,
+    "bestRating": 154.79583152331273,
+    "worstRating": 143.25664235926357,
+    "tendency": -10.605772402297333,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 4,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      154.79583152331273,
+      151.70559987856757,
+      147.99701464527064,
+      143.29222312145134,
+      143.25664235926357,
+      143.44820521756037,
+      147.5525126427802,
+      144.1900591210154
+    ]
   },
   {
     "NAF Nr": "27349",
@@ -7915,13 +13776,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "153.02",
+    "rating": 152.96176312716628,
+    "bestRating": 156.5060912253374,
+    "worstRating": 152.96176312716628,
+    "tendency": -0.06869687877860997,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      153.0304600059449,
+      156.5060912253374,
+      152.96176312716628
+    ]
   },
   {
     "NAF Nr": "27358",
@@ -7929,13 +13798,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Denmark",
     "race": "Bretonnian",
-    "rating": "154.04",
+    "rating": 154.10698840026114,
+    "bestRating": 154.10698840026114,
+    "worstRating": 154.10698840026114,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      154.10698840026114
+    ]
   },
   {
     "NAF Nr": "27397",
@@ -7943,27 +13818,51 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Bretonnian",
-    "rating": "140.56",
+    "rating": 142.2618135016153,
+    "bestRating": 165.05109994221377,
+    "worstRating": 142.2618135016153,
+    "tendency": -8.732109953717156,
     "totalTournaments": 3,
     "gamesTotal": 15,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 7,
-    "winRatio": 46.67
+    "winRatio": 46.67,
+    "_lastTenRatings": [
+      150.99392345533246,
+      150.7092023013748,
+      150.44046194955112,
+      154.8114765603825,
+      159.8197957115669,
+      165.05109994221377,
+      158.9768336127088,
+      153.85888968043375,
+      147.8788674561607,
+      142.2618135016153
+    ]
   },
   {
     "NAF Nr": "27450",
     "NAF Name": "Hargrim",
     "CCAA": "Apatrida",
-    "Country": "Denmark",
+    "Country": "Wales",
     "race": "Bretonnian",
-    "rating": "145.99",
+    "rating": 145.99999781940582,
+    "bestRating": 145.99999781940582,
+    "worstRating": 145.52786404500043,
+    "tendency": 0.4721337744053926,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      145.52786404500043,
+      145.84189617941226,
+      145.83185459580102,
+      145.99999781940582
+    ]
   },
   {
     "NAF Nr": "27462",
@@ -7971,13 +13870,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Poland",
     "race": "Bretonnian",
-    "rating": "167.08",
+    "rating": 167.80111658267913,
+    "bestRating": 167.80111658267913,
+    "worstRating": 155.65685424949237,
+    "tendency": 12.14426233318676,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.65685424949237,
+      162.04298990520252,
+      156.33541767383588,
+      155.98351986584478,
+      162.1471340484481,
+      167.80111658267913
+    ]
   },
   {
     "NAF Nr": "27477",
@@ -7985,13 +13895,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "138.96",
+    "rating": 138.61709153805916,
+    "bestRating": 155.1338272860119,
+    "worstRating": 138.61709153805916,
+    "tendency": -16.516735747952737,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      155.1338272860119,
+      150.64412070267798,
+      144.70766395821911,
+      138.61709153805916
+    ]
   },
   {
     "NAF Nr": "27527",
@@ -7999,13 +13918,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "144.41",
+    "rating": 143.95621660179677,
+    "bestRating": 143.95621660179677,
+    "worstRating": 138.33079417275852,
+    "tendency": 0.011358589756554238,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      143.9448580120402,
+      138.33079417275852,
+      138.61001459241515,
+      143.95621660179677
+    ]
   },
   {
     "NAF Nr": "27582",
@@ -8013,13 +13941,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "150.09",
+    "rating": 150.09998263125783,
+    "bestRating": 150.09998263125783,
+    "worstRating": 145.59634517122078,
+    "tendency": 0.09998263125783069,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150,
+      145.59634517122078,
+      150.09998263125783
+    ]
   },
   {
     "NAF Nr": "27651",
@@ -8027,13 +13963,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "135.07",
+    "rating": 133.9691255480441,
+    "bestRating": 147.62830812278466,
+    "worstRating": 133.9691255480441,
+    "tendency": -12.418476113486378,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 5,
-    "winRatio": 8.33
+    "winRatio": 8.33,
+    "_lastTenRatings": [
+      146.38760166153048,
+      147.62830812278466,
+      143.7594581879972,
+      139.86679766438766,
+      136.30581361379697,
+      133.9691255480441
+    ]
   },
   {
     "NAF Nr": "27657",
@@ -8041,13 +13988,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "166.9",
+    "rating": 165.25511011250703,
+    "bestRating": 165.25511011250703,
+    "worstRating": 144.74456784853382,
+    "tendency": 20.510542263973207,
     "totalTournaments": 1,
     "gamesTotal": 9,
     "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 55.56
+    "winRatio": 55.56,
+    "_lastTenRatings": [
+      144.74456784853382,
+      150.4673625614576,
+      156.9329929851225,
+      156.52772693337383,
+      148.39083819151114,
+      156.3144799519905,
+      149.29085908857533,
+      156.72344444245573,
+      165.25511011250703
+    ]
   },
   {
     "NAF Nr": "27743",
@@ -8055,13 +14016,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "150.5",
+    "rating": 150.37668427508484,
+    "bestRating": 154.3292666247112,
+    "worstRating": 146.66366510956283,
+    "tendency": 3.713019165522013,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 2,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      146.66366510956283,
+      146.7278568789162,
+      150.71138443652248,
+      150.58002520724222,
+      154.3292666247112,
+      150.37668427508484
+    ]
   },
   {
     "NAF Nr": "27749",
@@ -8069,13 +14041,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "137.76",
+    "rating": 137.66747747820241,
+    "bestRating": 150,
+    "worstRating": 137.66747747820241,
+    "tendency": -12.332522521797586,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      150,
+      149.57984050716627,
+      145.34739299284075,
+      145.53561940830954,
+      141.4242116444062,
+      137.66747747820241
+    ]
   },
   {
     "NAF Nr": "27840",
@@ -8083,13 +14066,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Mordheim",
     "race": "Bretonnian",
-    "rating": "149.36",
+    "rating": 149.01263226116282,
+    "bestRating": 155.0990195135928,
+    "worstRating": 149.01263226116282,
+    "tendency": -6.086387252429972,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      155.0990195135928,
+      150,
+      153.84610494487313,
+      149.01263226116282
+    ]
   },
   {
     "NAF Nr": "27866",
@@ -8097,13 +14089,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "147.14",
+    "rating": 146.89737728273806,
+    "bestRating": 146.89737728273806,
+    "worstRating": 146.74370849912705,
+    "tendency": 0.059654942906433917,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 1,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.83772233983163,
+      146.74370849912705,
+      146.89737728273806
+    ]
   },
   {
     "NAF Nr": "27893",
@@ -8111,13 +14111,19 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "144.25",
+    "rating": 144.09200953897454,
+    "bestRating": 144.09200953897454,
+    "worstRating": 144.09200953897454,
+    "tendency": 0,
     "totalTournaments": 1,
     "gamesTotal": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      144.09200953897454
+    ]
   },
   {
     "NAF Nr": "27965",
@@ -8125,13 +14131,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "170.04",
+    "rating": 171.14706901369476,
+    "bestRating": 171.14706901369476,
+    "worstRating": 149.97041271362377,
+    "tendency": 16.456653253871337,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 6,
     "gamesDraw": 3,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      154.69041575982342,
+      154.69041575982342,
+      154.67817515702527,
+      149.97041271362377,
+      154.73373147437204,
+      158.82229322769106,
+      162.9158659213176,
+      162.77220869904525,
+      167.03753179625443,
+      171.14706901369476
+    ]
   },
   {
     "NAF Nr": "27982",
@@ -8139,13 +14160,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "158.81",
+    "rating": 158.64676440676004,
+    "bestRating": 158.64676440676004,
+    "worstRating": 150,
+    "tendency": 8.646764406760042,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      150,
+      154.32295921738134,
+      158.64676440676004
+    ]
   },
   {
     "NAF Nr": "27991",
@@ -8153,13 +14182,26 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "145.96",
+    "rating": 146.50474999263363,
+    "bestRating": 149.9237212357593,
+    "worstRating": 142.5529104419489,
+    "tendency": 0.7473906797529253,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 3,
-    "winRatio": 43.75
+    "winRatio": 43.75,
+    "_lastTenRatings": [
+      145.7573593128807,
+      144.83176947028184,
+      145.59112630658697,
+      145.3306546722175,
+      142.5529104419489,
+      146.07075845671608,
+      149.9237212357593,
+      146.50474999263363
+    ]
   },
   {
     "NAF Nr": "28060",
@@ -8167,13 +14209,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Australia",
     "race": "Bretonnian",
-    "rating": "165.65",
+    "rating": 165.87052476085643,
+    "bestRating": 166.2625939188064,
+    "worstRating": 155.65685424949237,
+    "tendency": 10.213670511364057,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 4,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.65685424949237,
+      160.84391551495392,
+      166.2625939188064,
+      166.08073074841835,
+      160.30364945334918,
+      165.87052476085643
+    ]
   },
   {
     "NAF Nr": "28115",
@@ -8181,13 +14234,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "150.65",
+    "rating": 149.46431304703566,
+    "bestRating": 150.43018790860805,
+    "worstRating": 145.35541784617058,
+    "tendency": -0.965874861572388,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.43018790860805,
+      145.35541784617058,
+      149.46431304703566
+    ]
   },
   {
     "NAF Nr": "28149",
@@ -8195,13 +14256,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Mexico",
     "race": "Bretonnian",
-    "rating": "160.15",
+    "rating": 160.41771426451976,
+    "bestRating": 160.41771426451976,
+    "worstRating": 150,
+    "tendency": 4.76086001502739,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      150.02657978050112,
+      154.9470912982932,
+      160.41771426451976
+    ]
   },
   {
     "NAF Nr": "28155",
@@ -8209,13 +14280,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "155.06",
+    "rating": 154.88004764189492,
+    "bestRating": 155.29150262212917,
+    "worstRating": 149.57112692442587,
+    "tendency": -0.41145498023425375,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      155.29150262212917,
+      149.57112692442587,
+      154.88004764189492
+    ]
   },
   {
     "NAF Nr": "28261",
@@ -8223,13 +14302,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Italy",
     "race": "Bretonnian",
-    "rating": "131.83",
+    "rating": 129.61980862147374,
+    "bestRating": 142.08300350344993,
+    "worstRating": 125.32448023802554,
+    "tendency": -12.463194881976193,
     "totalTournaments": 1,
     "gamesTotal": 9,
     "gamesWon": 1,
     "gamesDraw": 4,
     "gamesLost": 4,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      142.08300350344993,
+      141.97968320309334,
+      132.7527870720894,
+      125.32448023802554,
+      133.1621695407628,
+      136.30050151284073,
+      128.7447780534297,
+      128.63124103436738,
+      129.61980862147374
+    ]
   },
   {
     "NAF Nr": "28291",
@@ -8237,13 +14330,27 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "171.14",
+    "rating": 171.85793029969824,
+    "bestRating": 178.24619669177736,
+    "worstRating": 155.65685424949237,
+    "tendency": 16.20107605020587,
     "totalTournaments": 2,
     "gamesTotal": 9,
     "gamesWon": 6,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 72.22
+    "winRatio": 72.22,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.3492712508994,
+      166.40639998191253,
+      171.35466317341246,
+      168.883139256645,
+      173.3805660462992,
+      172.75124296546,
+      178.24619669177736,
+      171.85793029969824
+    ]
   },
   {
     "NAF Nr": "28306",
@@ -8251,13 +14358,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "146.06",
+    "rating": 146.0382899019977,
+    "bestRating": 150,
+    "worstRating": 146.0382899019977,
+    "tendency": -3.9617100980022997,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      150,
+      148.0161760406557,
+      146.0382899019977
+    ]
   },
   {
     "NAF Nr": "28311",
@@ -8265,13 +14380,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "140.26",
+    "rating": 140.19813906197757,
+    "bestRating": 149.93910943397537,
+    "worstRating": 133.55303128933198,
+    "tendency": -4.14500668853006,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 2,
     "gamesDraw": 4,
     "gamesLost": 4,
-    "winRatio": 40
+    "winRatio": 40,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      149.93910943397537,
+      149.86681171589902,
+      148.65988593335373,
+      148.7421661014803,
+      143.31781728978945,
+      138.67528895311207,
+      133.55303128933198,
+      140.19813906197757
+    ]
   },
   {
     "NAF Nr": "28320",
@@ -8279,13 +14409,26 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Canada",
     "race": "Bretonnian",
-    "rating": "153.63",
+    "rating": 153.73478696911747,
+    "bestRating": 157.5522376915048,
+    "worstRating": 150.0079941115292,
+    "tendency": 3.726792857588265,
     "totalTournaments": 2,
     "gamesTotal": 8,
     "gamesWon": 3,
     "gamesDraw": 2,
     "gamesLost": 3,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      150.0079941115292,
+      155.2896591987371,
+      155.32862959230613,
+      150.14249452334897,
+      157.5522376915048,
+      154.1969496430999,
+      150.14935313756985,
+      153.73478696911747
+    ]
   },
   {
     "NAF Nr": "28328",
@@ -8293,13 +14436,22 @@ const statsRaceBretonnian = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "158.74",
+    "rating": 158.24143957466958,
+    "bestRating": 158.24143957466958,
+    "worstRating": 152.6158049992777,
+    "tendency": 5.625634575391871,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatings": [
+      152.6158049992777,
+      152.77030364335883,
+      155.51667464402675,
+      158.24143957466958
+    ]
   },
   {
     "NAF Nr": "28350",
@@ -8307,13 +14459,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "France",
     "race": "Bretonnian",
-    "rating": "160.59",
+    "rating": 160.84179077395683,
+    "bestRating": 160.84179077395683,
+    "worstRating": 155.65685424949237,
+    "tendency": 5.184936524464462,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 2,
     "gamesDraw": 3,
     "gamesLost": 0,
-    "winRatio": 70
+    "winRatio": 70,
+    "_lastTenRatings": [
+      155.65685424949237,
+      160.82372130624745,
+      160.51281758840122,
+      160.16513099456134,
+      160.84179077395683
+    ]
   },
   {
     "NAF Nr": "28403",
@@ -8321,13 +14483,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Germany",
     "race": "Bretonnian",
-    "rating": "161.18",
+    "rating": 161.52065829127804,
+    "bestRating": 161.52065829127804,
+    "worstRating": 155.65685424949237,
+    "tendency": 5.86380404178567,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.32619811722185,
+      155.66843890105562,
+      161.52065829127804
+    ]
   },
   {
     "NAF Nr": "28411",
@@ -8335,13 +14506,23 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "144.34",
+    "rating": 143.8717564742447,
+    "bestRating": 148.19671762571244,
+    "worstRating": 141.1048138176734,
+    "tendency": -1.4623666074429877,
     "totalTournaments": 1,
     "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 30
+    "winRatio": 30,
+    "_lastTenRatings": [
+      145.3341230816877,
+      141.1048138176734,
+      142.4328441482343,
+      148.19671762571244,
+      143.8717564742447
+    ]
   },
   {
     "NAF Nr": "28517",
@@ -8349,13 +14530,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Lithuania",
     "race": "Bretonnian",
-    "rating": "167.29",
+    "rating": 168.79760830678566,
+    "bestRating": 168.79760830678566,
+    "worstRating": 146,
+    "tendency": 22.797608306785662,
     "totalTournaments": 2,
     "gamesTotal": 10,
     "gamesWon": 7,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      146,
+      149.99909197022401,
+      153.99911984776836,
+      157.87638084760994,
+      157.87629027528598,
+      153.9087145072805,
+      157.6702365415216,
+      161.18889184270435,
+      164.5267080084834,
+      168.79760830678566
+    ]
   },
   {
     "NAF Nr": "28534",
@@ -8363,13 +14559,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "153.21",
+    "rating": 153.74180741087622,
+    "bestRating": 153.74180741087622,
+    "worstRating": 145.7573593128807,
+    "tendency": 7.984448097995511,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      145.7573593128807,
+      149.65934974671697,
+      149.61724649851882,
+      153.74180741087622
+    ]
   },
   {
     "NAF Nr": "28608",
@@ -8377,13 +14582,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "England",
     "race": "Bretonnian",
-    "rating": "139.01",
+    "rating": 138.68775907997212,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.68138814935475,
+    "tendency": -5.655386670535506,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 16.67
+    "winRatio": 16.67,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68138814935475,
+      138.68775907997212
+    ]
   },
   {
     "NAF Nr": "28836",
@@ -8391,13 +14604,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "143.43",
+    "rating": 143.20051361932158,
+    "bestRating": 143.5875850616982,
+    "worstRating": 137.43647790565515,
+    "tendency": -0.38707144237662305,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      143.5875850616982,
+      142.9695944326334,
+      137.43647790565515,
+      143.20051361932158
+    ]
   },
   {
     "NAF Nr": "28937",
@@ -8405,13 +14627,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "162.95",
+    "rating": 162.95520146091488,
+    "bestRating": 162.95520146091488,
+    "worstRating": 146.41242011536931,
+    "tendency": 16.542781345545563,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 75
+    "winRatio": 75,
+    "_lastTenRatings": [
+      146.41242011536931,
+      151.92410739196006,
+      157.25298720938562,
+      162.95520146091488
+    ]
   },
   {
     "NAF Nr": "28997",
@@ -8419,13 +14650,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "149.86",
+    "rating": 149.85033765590154,
+    "bestRating": 153.16227766016837,
+    "worstRating": 149.84661478714045,
+    "tendency": -3.3119400042668303,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 50
+    "winRatio": 50,
+    "_lastTenRatings": [
+      153.16227766016837,
+      149.84661478714045,
+      149.85033765590154
+    ]
   },
   {
     "NAF Nr": "29035",
@@ -8433,13 +14672,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "139.04",
+    "rating": 138.7171367818053,
+    "bestRating": 144.37476691628066,
+    "worstRating": 138.6701136063585,
+    "tendency": -5.626008968702337,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 2,
     "gamesLost": 2,
-    "winRatio": 25
+    "winRatio": 25,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.37476691628066,
+      138.6701136063585,
+      138.7171367818053
+    ]
   },
   {
     "NAF Nr": "29212",
@@ -8447,13 +14695,21 @@ const statsRaceBretonnian = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "155.86",
+    "rating": 155.83540449656442,
+    "bestRating": 155.83540449656442,
+    "worstRating": 150,
+    "tendency": 5.835404496564422,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      150,
+      153.0855398918779,
+      155.83540449656442
+    ]
   },
   {
     "NAF Nr": "29567",
@@ -8461,13 +14717,28 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Bretonnian",
-    "rating": "144.87",
+    "rating": 145.13621054017406,
+    "bestRating": 153.3166247903554,
+    "worstRating": 140.79102828262145,
+    "tendency": -0.5870291888904546,
     "totalTournaments": 3,
     "gamesTotal": 12,
     "gamesWon": 2,
     "gamesDraw": 6,
     "gamesLost": 4,
-    "winRatio": 41.67
+    "winRatio": 41.67,
+    "_lastTenRatings": [
+      145.72323972906452,
+      140.8140399185827,
+      140.79102828262145,
+      145.69250823121124,
+      143.32911813337446,
+      143.4121566975267,
+      143.68886897322128,
+      143.9539769325879,
+      144.6323524937365,
+      145.13621054017406
+    ]
   },
   {
     "NAF Nr": "29626",
@@ -8475,13 +14746,24 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "race": "Bretonnian",
-    "rating": "155.73",
+    "rating": 155.43568329175915,
+    "bestRating": 159.7979589711327,
+    "worstRating": 150.90118139155032,
+    "tendency": 0.5367038061928042,
     "totalTournaments": 1,
     "gamesTotal": 6,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 58.33
+    "winRatio": 58.33,
+    "_lastTenRatings": [
+      154.89897948556634,
+      159.7979589711327,
+      155.24616038790808,
+      155.80082616612978,
+      150.90118139155032,
+      155.43568329175915
+    ]
   },
   {
     "NAF Nr": "30085",
@@ -8489,13 +14771,22 @@ const statsRaceBretonnian = [
     "CCAA": "Madrid",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "152.73",
+    "rating": 152.06542564063466,
+    "bestRating": 153.16227766016837,
+    "worstRating": 149.44640309381825,
+    "tendency": -1.0968520195337135,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 1,
-    "winRatio": 62.5
+    "winRatio": 62.5,
+    "_lastTenRatings": [
+      153.16227766016837,
+      149.44640309381825,
+      152.1008374997316,
+      152.06542564063466
+    ]
   },
   {
     "NAF Nr": "30201",
@@ -8503,13 +14794,22 @@ const statsRaceBretonnian = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "164.77",
+    "rating": 165.47088043502163,
+    "bestRating": 165.47088043502163,
+    "worstRating": 155.0990195135928,
+    "tendency": 10.371860921428834,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatings": [
+      155.0990195135928,
+      160.65530336760142,
+      160.63740775131131,
+      165.47088043502163
+    ]
   },
   {
     "NAF Nr": "31109",
@@ -8517,13 +14817,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "158.93",
+    "rating": 159.3733482381992,
+    "bestRating": 159.3733482381992,
+    "worstRating": 153.16227766016837,
+    "tendency": 6.211070578030842,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 0,
-    "winRatio": 100
+    "winRatio": 100,
+    "_lastTenRatings": [
+      153.16227766016837,
+      156.32455532033674,
+      159.3733482381992
+    ]
   },
   {
     "NAF Nr": "31339",
@@ -8531,13 +14839,22 @@ const statsRaceBretonnian = [
     "CCAA": "C. La Mancha",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "164.81",
+    "rating": 165.16322907399353,
+    "bestRating": 165.16322907399353,
+    "worstRating": 155.0990195135928,
+    "tendency": 10.06420956040074,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 87.5
+    "winRatio": 87.5,
+    "_lastTenRatings": [
+      155.0990195135928,
+      160.1980390271856,
+      160.2159346434757,
+      165.16322907399353
+    ]
   },
   {
     "NAF Nr": "31709",
@@ -8545,13 +14862,22 @@ const statsRaceBretonnian = [
     "CCAA": "Murcia",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "145.0",
+    "rating": 144.60383277764103,
+    "bestRating": 149.34276508664541,
+    "worstRating": 144.60383277764103,
+    "tendency": -0.29714770876617536,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 2,
-    "winRatio": 37.5
+    "winRatio": 37.5,
+    "_lastTenRatings": [
+      144.9009804864072,
+      149.3331956596443,
+      149.34276508664541,
+      144.60383277764103
+    ]
   },
   {
     "NAF Nr": "32829",
@@ -8559,13 +14885,22 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "138.27",
+    "rating": 137.11085365395064,
+    "bestRating": 146.98249296004911,
+    "worstRating": 137.11085365395064,
+    "tendency": -9.871639306098473,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 4,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146.98249296004911,
+      143.28320635093175,
+      140.1301867676845,
+      137.11085365395064
+    ]
   },
   {
     "NAF Nr": "32981",
@@ -8573,13 +14908,22 @@ const statsRaceBretonnian = [
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "race": "Bretonnian",
-    "rating": "135.74",
+    "rating": 135.54118118179235,
+    "bestRating": 144.9009804864072,
+    "worstRating": 135.2851326132037,
+    "tendency": -9.359799304614853,
     "totalTournaments": 1,
     "gamesTotal": 4,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
-    "winRatio": 12.5
+    "winRatio": 12.5,
+    "_lastTenRatings": [
+      144.9009804864072,
+      140.20026263762628,
+      135.2851326132037,
+      135.54118118179235
+    ]
   },
   {
     "NAF Nr": "33619",
@@ -8587,13 +14931,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "153.0",
+    "rating": 153.12528209838084,
+    "bestRating": 153.12528209838084,
+    "worstRating": 146.83772233983163,
+    "tendency": 6.287559758549207,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 0,
     "gamesLost": 1,
-    "winRatio": 66.67
+    "winRatio": 66.67,
+    "_lastTenRatings": [
+      146.83772233983163,
+      150,
+      153.12528209838084
+    ]
   },
   {
     "NAF Nr": "34963",
@@ -8601,13 +14953,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "155.93",
+    "rating": 156.21475897674708,
+    "bestRating": 156.21475897674708,
+    "worstRating": 153.12458390437953,
+    "tendency": 3.0524813165787066,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 2,
     "gamesDraw": 1,
     "gamesLost": 0,
-    "winRatio": 83.33
+    "winRatio": 83.33,
+    "_lastTenRatings": [
+      153.16227766016837,
+      153.12458390437953,
+      156.21475897674708
+    ]
   },
   {
     "NAF Nr": "35157",
@@ -8615,13 +14975,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "147.0",
+    "rating": 145.35040190477258,
+    "bestRating": 148.47568400315342,
+    "worstRating": 145.35040190477258,
+    "tendency": -1.487320435059047,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.83772233983163,
+      148.47568400315342,
+      145.35040190477258
+    ]
   },
   {
     "NAF Nr": "40203",
@@ -8629,13 +14997,21 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "147.21",
+    "rating": 147.063210140492,
+    "bestRating": 150.15338521285955,
+    "worstRating": 146.83772233983163,
+    "tendency": 0.22548780066037466,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 1,
     "gamesDraw": 0,
     "gamesLost": 2,
-    "winRatio": 33.33
+    "winRatio": 33.33,
+    "_lastTenRatings": [
+      146.83772233983163,
+      150.15338521285955,
+      147.063210140492
+    ]
   },
   {
     "NAF Nr": "40265",
@@ -8643,12 +15019,20 @@ const statsRaceBretonnian = [
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "race": "Bretonnian",
-    "rating": "141.0",
+    "rating": 139.017411581768,
+    "bestRating": 146.83772233983163,
+    "worstRating": 139.017411581768,
+    "tendency": -7.820310758063641,
     "totalTournaments": 1,
     "gamesTotal": 3,
     "gamesWon": 0,
     "gamesDraw": 0,
     "gamesLost": 3,
-    "winRatio": 0
+    "winRatio": 0,
+    "_lastTenRatings": [
+      146.83772233983163,
+      143.67544467966326,
+      139.017411581768
+    ]
   }
 ];
