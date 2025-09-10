@@ -206,7 +206,7 @@
       </div>
       <div class="row g-3">
         <div class="col-md-6">
-          <label for="nafFilter" class="form-label"><b>NAF #</b></label>
+          <label for="nafFilter" class="form-label"><b>NAF</b></label>
           <input type="text" id="nafFilter" class="form-control" data-i18n="buscarNaf" placeholder="Buscar por NAF">
         </div>
         <div class="col-md-6">
@@ -223,15 +223,18 @@
       <table id="nafTable" class="table table-striped table-bordered">
         <thead class="table-light">
           <tr>
-            <th class="rank-overall" data-i18n="posicionGeneral">Posición<br>general</th>
-            <th>NAF #</th>
+            <th class="rank-overall">#</th>
+            <th>NAF</th>
             <th data-i18n="entrenador">Entrenador</th>
-            <th class="ccaa-column" data-i18n="ccaaPosicion">CCAA<br>(posición)</th>
+            <th class="ccaa-column" data-i18n="ccaaPosicion">CCAA<br>(#)</th>
             <th class="tourneys-column hide-lg" data-i18n="torneos">Torneos</th>
             <th class="games-column hide-lg" data-i18n="partidos">Partidos</th>
-            <th class="wdl-column hide-md" data-i18n="ved">V/E/D</th>
-            <th class="wr-column hide-md">WR</th>
-            <th>Ranking</th>
+            <th class="wdl-column hide-lg" data-i18n="ved">V/E/D</th>
+            <th class="wr-column">WR</th>
+            <th class="wr-column" data-i18n="bestRanking">Mejor<br>Ranking</th>
+            <th class="wr-column" data-i18n="worstRanking">Peor<br>Ranking</th>
+            <th class="wr-column" data-i18n="tendencia">Tendencia</th>
+            <th data-i18n="ranking">Ranking<br>Actual</th>
           </tr>
         </thead>
         <tbody>
