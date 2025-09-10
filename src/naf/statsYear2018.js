@@ -26203,7 +26203,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 129.7911360802755,
     "bestRating": 149.87017483159994,
@@ -26231,7 +26231,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 205.64789388954142,
     "bestRating": 211.8916500826101,
@@ -27603,7 +27603,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 159.18957988172392,
     "bestRating": 178.97984998171407,
@@ -31641,7 +31641,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 185.6343192580755,
     "bestRating": 193.9687757943352,
@@ -38365,7 +38365,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "20099",
     "NAF Name": "ferbi",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 153.9315209413619,
     "bestRating": 155.57815082254945,
@@ -38389,7 +38389,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 147.21480434165963,
     "bestRating": 167.47641735475847,
@@ -38417,7 +38417,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "20104",
     "NAF Name": "isildur",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 146.6624808349108,
     "bestRating": 146.6624808349108,
@@ -38861,7 +38861,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "20192",
     "NAF Name": "lapiedra",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 171.62992748012815,
     "bestRating": 171.62992748012815,
@@ -39002,7 +39002,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 175.66247493165352,
     "bestRating": 184.7974341176885,
@@ -40371,7 +40371,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "20411",
     "NAF Name": "sainthropee",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 138.92964491972586,
     "bestRating": 149.71660603053056,
@@ -40959,7 +40959,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 137.51690210995372,
     "bestRating": 182.72634912145801,
@@ -41170,7 +41170,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "20542",
     "NAF Name": "Bron-k",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 115.88788697587539,
     "bestRating": 150,
@@ -44396,7 +44396,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "20934",
     "NAF Name": "merlin_el_mago",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 174.42029900081712,
     "bestRating": 174.42029900081712,
@@ -44869,7 +44869,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 207.6368926195708,
     "bestRating": 207.6368926195708,
@@ -50002,7 +50002,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "21688",
     "NAF Name": "chote",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 150.97376263264619,
     "bestRating": 151.13212685491723,
@@ -50516,7 +50516,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 173.1654061264092,
     "bestRating": 178.77907625877594,
@@ -50627,7 +50627,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 178.73554400069744,
     "bestRating": 188.1676384574976,
@@ -51727,7 +51727,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "21917",
     "NAF Name": "drako",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 136.9680297486708,
     "bestRating": 155.74609167414116,
@@ -54114,7 +54114,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 149.48520133932197,
     "bestRating": 161.5342534048357,
@@ -54337,7 +54337,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "22254",
     "NAF Name": "Thorgeir",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 138.70092517673433,
     "bestRating": 159.0102770528367,
@@ -54419,7 +54419,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "22259",
     "NAF Name": "Eldar666",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 152.08418122935723,
     "bestRating": 152.64573930131408,
@@ -56613,7 +56613,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "22526",
     "NAF Name": "carca34",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 164.06534850093075,
     "bestRating": 164.06534850093075,
@@ -58648,7 +58648,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "22768",
     "NAF Name": "Natzo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 120.72715212900329,
     "bestRating": 158.31747518857222,
@@ -59528,7 +59528,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "22887",
     "NAF Name": "aciduric",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 164.58841922870192,
     "bestRating": 167.2615812338069,
@@ -62237,7 +62237,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "23323",
     "NAF Name": "Giropaaa",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 162.76060472179734,
     "bestRating": 164.07049255201946,
@@ -64902,7 +64902,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "23588",
     "NAF Name": "miguej",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 126.41119536032254,
     "bestRating": 145.0750104169256,
@@ -65505,7 +65505,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 150.95557020423198,
     "bestRating": 155.8330975401043,
@@ -66478,7 +66478,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "23766",
     "NAF Name": "salvi",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 139.95224105836613,
     "bestRating": 144.96435786050088,
@@ -67265,7 +67265,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "23843",
     "NAF Name": "Sianour",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 149.01118743008524,
     "bestRating": 153.15507842296927,
@@ -69324,7 +69324,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "24056",
     "NAF Name": "JosefvonBauren",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 124.5178573749285,
     "bestRating": 144.58820151717234,
@@ -72113,7 +72113,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "24308",
     "NAF Name": "Chobinator",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 147.9097845948391,
     "bestRating": 154.37107779575936,
@@ -72510,7 +72510,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "24346",
     "NAF Name": "FENICIO",
-    "CCAA": "Andalucia",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 115.91504527469797,
     "bestRating": 144.2403097220425,
@@ -83248,7 +83248,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "25260",
     "NAF Name": "Ux_Manners",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 152.21822569941932,
     "bestRating": 160.91150951947844,
@@ -83276,7 +83276,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "25261",
     "NAF Name": "Valas_Hunter",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 103.0964189130714,
     "bestRating": 149.96761945576094,
@@ -83922,7 +83922,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "25294",
     "NAF Name": "Hal9000",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 153.74150155650665,
     "bestRating": 175.13546962777116,
@@ -87583,7 +87583,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "25496",
     "NAF Name": "Caustic",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 149.59495189747312,
     "bestRating": 152.34429830682876,
@@ -94501,7 +94501,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "25909",
     "NAF Name": "Renoloko",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 133.96229859375342,
     "bestRating": 144.34465619568837,
@@ -95002,7 +95002,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "rating": 120.65412038539446,
     "bestRating": 143.7889683901561,
@@ -101524,7 +101524,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "26332",
     "NAF Name": "POTI",
-    "CCAA": "Andalicía",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 145.41965369601195,
     "bestRating": 150.73453617414253,
@@ -104469,7 +104469,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "26545",
     "NAF Name": "Txuzo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 140.11148836165975,
     "bestRating": 145.12983440207208,
@@ -106809,7 +106809,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "26752",
     "NAF Name": "LivedroL",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 130.55469954009905,
     "bestRating": 144.91381080888385,

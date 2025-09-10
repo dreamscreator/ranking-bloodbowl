@@ -13861,7 +13861,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "17308",
     "NAF Name": "ERDIABO",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 137.84632299365217,
     "bestRating": 149.08889420613656,
@@ -13883,7 +13883,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "17310",
     "NAF Name": "inluzon",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 180.08854736956664,
     "bestRating": 184.16103978507675,
@@ -14742,7 +14742,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "17690",
     "NAF Name": "Sody",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 149.0778510385967,
     "bestRating": 161.68731415770864,
@@ -16792,7 +16792,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "18731",
     "NAF Name": "elklingonesfacil",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 140.0307731451239,
     "bestRating": 155.65685424949237,
@@ -20395,7 +20395,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "20101",
     "NAF Name": "joantrooper",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 150.00081253227341,
     "bestRating": 155.65685424949237,
@@ -20615,7 +20615,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "20218",
     "NAF Name": "tactel",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 146.28132504570266,
     "bestRating": 156.79536021038274,
@@ -21426,7 +21426,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "20411",
     "NAF Name": "sainthropee",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 134.02219339095134,
     "bestRating": 144.3837918106646,
@@ -21767,7 +21767,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "20511",
     "NAF Name": "LordPuto",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 139.5663461348889,
     "bestRating": 155.65685424949237,
@@ -23695,7 +23695,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "20934",
     "NAF Name": "merlin_el_mago",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 143.3004672552915,
     "bestRating": 176.58491673217677,
@@ -24011,7 +24011,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "21011",
     "NAF Name": "Tyrion13",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 164.44315751921565,
     "bestRating": 164.44315751921565,
@@ -27156,7 +27156,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "21748",
     "NAF Name": "vulcano",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 143.88406938925417,
     "bestRating": 155.65685424949237,
@@ -27256,7 +27256,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 175.0273431123664,
     "bestRating": 184.43671888123728,
@@ -28851,7 +28851,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "22236",
     "NAF Name": "ricard659",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 136.3303084139702,
     "bestRating": 150,
@@ -28925,7 +28925,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "22254",
     "NAF Name": "Thorgeir",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 160.68468684490995,
     "bestRating": 160.68468684490995,
@@ -28995,7 +28995,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "22259",
     "NAF Name": "Eldar666",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 142.86294383927142,
     "bestRating": 155.65712228591946,
@@ -30765,7 +30765,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "22768",
     "NAF Name": "Natzo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 156.94623859367607,
     "bestRating": 156.94623859367607,
@@ -34167,7 +34167,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "23668",
     "NAF Name": "Yathrul",
-    "CCAA": "Andalucía ",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 155.67806272033448,
     "bestRating": 161.31456741443597,
@@ -41842,7 +41842,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "25294",
     "NAF Name": "Hal9000",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 129.630605578504,
     "bestRating": 156.62917229841247,
@@ -45297,7 +45297,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "25934",
     "NAF Name": "Jevins",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "rating": 144.33718592245967,
     "bestRating": 150,
@@ -47360,7 +47360,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "26332",
     "NAF Name": "POTI",
-    "CCAA": "Andalicía",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 140.5591027945134,
     "bestRating": 150.38095951291768,
@@ -48444,7 +48444,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "26545",
     "NAF Name": "Txuzo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 144.58858308045882,
     "bestRating": 155.65685424949237,
@@ -53746,7 +53746,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "27442",
     "NAF Name": "el_reverendo",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 144.55708794226126,
     "bestRating": 156.14717995901154,
@@ -54670,7 +54670,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "27591",
     "NAF Name": "mastie",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 149.55770775004638,
     "bestRating": 149.55770775004638,
@@ -57137,7 +57137,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "28204",
     "NAF Name": "kalitri",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 166.73241506402036,
     "bestRating": 173.2055106874641,
@@ -59549,7 +59549,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "28631",
     "NAF Name": "adriona",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 134.18160817077694,
     "bestRating": 145.12221993934855,
@@ -60581,7 +60581,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "28785",
     "NAF Name": "Bufal",
-    "CCAA": "Catalunya",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 133.26597487998862,
     "bestRating": 150,
