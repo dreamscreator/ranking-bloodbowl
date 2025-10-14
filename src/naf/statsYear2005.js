@@ -22395,7 +22395,7 @@ const statsYear2005 = [
   {
     "NAF Nr": "7682",
     "NAF Name": "Kurjo",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 161.40159648721297,
     "bestRating": 161.40159648721297,

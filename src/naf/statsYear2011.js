@@ -24737,7 +24737,7 @@ const statsYear2011 = [
   {
     "NAF Nr": "12937",
     "NAF Name": "Sphinx",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 136.61585688342183,
     "bestRating": 155.65685424949237,
@@ -27806,7 +27806,7 @@ const statsYear2011 = [
   {
     "NAF Nr": "13558",
     "NAF Name": "wise",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 143.60842113796943,
     "bestRating": 155.65685424949237,
