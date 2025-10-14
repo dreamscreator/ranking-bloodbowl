@@ -7648,7 +7648,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "7682",
     "NAF Name": "Kurjo",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 144.76453364091748,
     "bestRating": 161.08382843582214,
@@ -14850,7 +14850,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "12937",
     "NAF Name": "Sphinx",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 154.4186763392307,
     "bestRating": 166.4406966450217,
@@ -16426,7 +16426,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "13558",
     "NAF Name": "wise",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 155.86039056648502,
     "bestRating": 155.86039056648502,
@@ -22572,7 +22572,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "16736",
     "NAF Name": "troy",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "rating": 167.12271757442105,
     "bestRating": 167.12271757442105,
@@ -37064,7 +37064,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "20830",
     "NAF Name": "Neo_chains",
-    "CCAA": "Castilla y León ",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "rating": 98.38550537188124,
     "bestRating": 150.22245655927313,
@@ -40838,7 +40838,7 @@ const statsYear2023 = [
   },
   {
     "NAF Nr": "21567",
-    "NAF Name": "bbart",
+    "NAF Name": "BBart",
     "CCAA": "Apatrida",
     "Country": "Poland",
     "rating": 191.5012838780698,
@@ -56515,7 +56515,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "24732",
     "NAF Name": "CadeteCacahuete",
-    "CCAA": "Apatrida",
+    "CCAA": "Aragón",
     "Country": "Spain",
     "rating": 188.94740580347138,
     "bestRating": 196.15170045310654,
@@ -56955,7 +56955,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "24802",
     "NAF Name": "grymloq",
-    "CCAA": "Cantabria",
+    "CCAA": "Cantabria ",
     "Country": "Spain",
     "rating": 147.84298219333303,
     "bestRating": 151.01694751185903,
@@ -59067,7 +59067,7 @@ const statsYear2023 = [
   },
   {
     "NAF Nr": "25191",
-    "NAF Name": "biggshancock",
+    "NAF Name": "Biggs",
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 91.11563359689245,
@@ -59989,7 +59989,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "25291",
     "NAF Name": "cocacolico",
-    "CCAA": "Apatrida",
+    "CCAA": "Aragón",
     "Country": "Spain",
     "rating": 139.4189855266724,
     "bestRating": 157.74596669241484,
@@ -77325,7 +77325,7 @@ const statsYear2023 = [
   },
   {
     "NAF Nr": "27871",
-    "NAF Name": "bucky1398",
+    "NAF Name": "The_Hyde",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 185.5676687193353,
@@ -83638,7 +83638,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "28865",
     "NAF Name": "Vacamu",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "rating": 142.2342701890249,
     "bestRating": 149.5238058702521,
@@ -84105,7 +84105,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria",
+    "CCAA": "Cantabria ",
     "Country": "Spain",
     "rating": 111.13617223618351,
     "bestRating": 156.27758546314544,
@@ -90541,7 +90541,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "29864",
     "NAF Name": "gatsu_ss",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 159.7157839330422,
     "bestRating": 164.38882784898735,
@@ -94379,7 +94379,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "30347",
     "NAF Name": "AntonioCatorce",
-    "CCAA": "Apatrida",
+    "CCAA": "C. La Mancha",
     "Country": "Spain",
     "rating": 137.76173119387474,
     "bestRating": 150.3430186949551,
@@ -103599,7 +103599,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "31295",
     "NAF Name": "Mateillo",
-    "CCAA": "Cantabria",
+    "CCAA": "Cantabria ",
     "Country": "Spain",
     "rating": 142.68143394072828,
     "bestRating": 159.82079745725463,
@@ -103627,7 +103627,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "31296",
     "NAF Name": "Esecubi",
-    "CCAA": "Cantabria",
+    "CCAA": "Cantabria ",
     "Country": "Spain",
     "rating": 131.606441165469,
     "bestRating": 155.356303405864,
@@ -104103,7 +104103,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "31337",
     "NAF Name": "delatorbin",
-    "CCAA": "I. Canarias ",
+    "CCAA": "I. Canarias",
     "Country": "Spain",
     "rating": 131.61234783344264,
     "bestRating": 158.48528137423858,
@@ -109341,9 +109341,9 @@ const statsYear2023 = [
   },
   {
     "NAF Nr": "31759",
-    "NAF Name": "TheIrnBruiser",
+    "NAF Name": "RETIRED31759",
     "CCAA": "Apatrida",
-    "Country": "Zimbabwe",
+    "Country": "Undisclosed",
     "rating": 165.1325432566478,
     "bestRating": 168.63983526018177,
     "worstRating": 144.94483966470662,
@@ -115295,10 +115295,10 @@ const statsYear2023 = [
     "tendency": -3.2620185856469845,
     "tournaments": 1,
     "gamesWon": 1,
-    "gamesDraw": 1,
+    "gamesDraw": 2,
     "gamesLost": 3,
-    "gamesTotal": 5,
-    "winRatio": 30,
+    "gamesTotal": 6,
+    "winRatio": 33.33,
     "_lastTenRatingsYear": [
       144.52277442494835,
       144.4966997955255,
@@ -115581,7 +115581,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "32299",
     "NAF Name": "mike_bowl",
-    "CCAA": "Cantabria",
+    "CCAA": "Cantabria ",
     "Country": "Undisclosed",
     "rating": 146.0232288201877,
     "bestRating": 161.13552872566004,
@@ -117098,7 +117098,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "32422",
     "NAF Name": "cayse",
-    "CCAA": "I. Canarias ",
+    "CCAA": "I. Canarias",
     "Country": "Spain",
     "rating": 156.32917685878272,
     "bestRating": 167.57093513696572,
@@ -119144,10 +119144,10 @@ const statsYear2023 = [
     "tendency": -3.577004869578616,
     "tournaments": 7,
     "gamesWon": 12,
-    "gamesDraw": 1,
+    "gamesDraw": 2,
     "gamesLost": 23,
-    "gamesTotal": 36,
-    "winRatio": 34.72,
+    "gamesTotal": 37,
+    "winRatio": 35.14,
     "_lastTenRatingsYear": [
       125.62851651588622,
       121.62816257477239,
@@ -121666,7 +121666,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "32812",
     "NAF Name": "diezminha",
-    "CCAA": "I. Canarias ",
+    "CCAA": "I. Canarias",
     "Country": "Spain",
     "rating": 148.56402675243322,
     "bestRating": 155.10050236290454,
@@ -125649,7 +125649,7 @@ const statsYear2023 = [
     "NAF Nr": "33136",
     "NAF Name": "kenv93",
     "CCAA": "Apatrida",
-    "Country": "Undisclosed",
+    "Country": "United States Of America",
     "rating": 144.75034901946097,
     "bestRating": 145.1447157501397,
     "worstRating": 144.75034901946097,
@@ -127904,7 +127904,7 @@ const statsYear2023 = [
   },
   {
     "NAF Nr": "33333",
-    "NAF Name": "GoonMcHarold",
+    "NAF Name": "G.McHarold",
     "CCAA": "Apatrida",
     "Country": "New Zealand",
     "rating": 148.09443569831043,
@@ -128057,7 +128057,7 @@ const statsYear2023 = [
     "NAF Nr": "33340",
     "NAF Name": "Seriouslyimagiraffe",
     "CCAA": "Apatrida",
-    "Country": "England",
+    "Country": "United States Of America",
     "rating": 149.6375349675805,
     "bestRating": 165.89145924447567,
     "worstRating": 127.86693289017143,
@@ -133832,7 +133832,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "33821",
     "NAF Name": "Shamblek",
-    "CCAA": "Cantabria",
+    "CCAA": "Cantabria ",
     "Country": "Spain",
     "rating": 119.73636099013619,
     "bestRating": 142.8353940479999,
@@ -133909,7 +133909,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "33824",
     "NAF Name": "Toco",
-    "CCAA": "Cantabria",
+    "CCAA": "Cantabria ",
     "Country": "Spain",
     "rating": 143.97816131112012,
     "bestRating": 149.5799558734792,
@@ -133930,7 +133930,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "33825",
     "NAF Name": "El_Padresito",
-    "CCAA": "Cantabria",
+    "CCAA": "Cantabria ",
     "Country": "Spain",
     "rating": 135.64867172987525,
     "bestRating": 155.38516480713452,
@@ -134130,7 +134130,7 @@ const statsYear2023 = [
   },
   {
     "NAF Nr": "33840",
-    "NAF Name": "janmakel",
+    "NAF Name": "Camisacuadros",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 173.8426152675562,
@@ -134286,7 +134286,7 @@ const statsYear2023 = [
     "NAF Nr": "33849",
     "NAF Name": "deathwish",
     "CCAA": "Apatrida",
-    "Country": "England",
+    "Country": "Scotland",
     "rating": 139.10426535815398,
     "bestRating": 144.546189846378,
     "worstRating": 134.90011881975957,
@@ -137741,7 +137741,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "34071",
     "NAF Name": "justjon",
-    "CCAA": "Canarias ",
+    "CCAA": "I. Canarias",
     "Country": "Spain",
     "rating": 125.08458200102739,
     "bestRating": 149.81192102356417,
@@ -137769,7 +137769,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "34073",
     "NAF Name": "del_castillo",
-    "CCAA": "Canarias ",
+    "CCAA": "I. Canarias",
     "Country": "Spain",
     "rating": 154.2036544563185,
     "bestRating": 158.60451269200274,
@@ -137797,7 +137797,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "34074",
     "NAF Name": "gerard3g14",
-    "CCAA": "Canarias ",
+    "CCAA": "I. Canarias",
     "Country": "Spain",
     "rating": 160.12174447889865,
     "bestRating": 160.12174447889865,
@@ -139770,7 +139770,7 @@ const statsYear2023 = [
   },
   {
     "NAF Nr": "34206",
-    "NAF Name": "phelp",
+    "NAF Name": "Korpacz",
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 165.36314625552103,
@@ -142073,7 +142073,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "34344",
     "NAF Name": "aludius",
-    "CCAA": "asturias",
+    "CCAA": "Asturias",
     "Country": "Spain",
     "rating": 162.53635863387146,
     "bestRating": 166.72360258610348,
@@ -145440,7 +145440,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "34553",
     "NAF Name": "Alastor",
-    "CCAA": "Apatrida",
+    "CCAA": "Murcia",
     "Country": "Spain",
     "rating": 150.99930600292336,
     "bestRating": 161.66361836132984,
@@ -145579,7 +145579,7 @@ const statsYear2023 = [
   },
   {
     "NAF Nr": "34558",
-    "NAF Name": "jerillo",
+    "NAF Name": "Lord_Uruk",
     "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 150.3376367786928,
@@ -157031,7 +157031,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "35281",
     "NAF Name": "kimura",
-    "CCAA": "Catalunya ",
+    "CCAA": "Aragón",
     "Country": "Spain",
     "rating": 145.85263330967481,
     "bestRating": 150,
@@ -162835,7 +162835,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "35660",
     "NAF Name": "Dagion",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 126.72665046968946,
     "bestRating": 150,
@@ -166755,7 +166755,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "35987",
     "NAF Name": "ToniLP",
-    "CCAA": "Gran Canaria",
+    "CCAA": "I. Canarias",
     "Country": "Spain",
     "rating": 149.87073306310228,
     "bestRating": 150,
@@ -168701,7 +168701,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "36142",
     "NAF Name": "Mendix",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 119.2515646477211,
     "bestRating": 145.69828385121122,
@@ -177611,7 +177611,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "37022",
     "NAF Name": "Cortezon",
-    "CCAA": "Cantabria",
+    "CCAA": "Cantabria ",
     "Country": "Spain",
     "rating": 155.32919208512268,
     "bestRating": 161.13480842860096,
