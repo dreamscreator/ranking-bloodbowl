@@ -111,14 +111,37 @@
 
           <!-- Desplegable Otros -->
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="submenuOtros" role="button" data-bs-toggle="dropdown"
+            <span><a class="nav-link dropdown-toggle" href="#" id="submenuOtros" role="button" data-bs-toggle="dropdown"
               aria-expanded="false" data-i18n="otros">Otros rankings</a>
-            <ul class="dropdown-menu" aria-labelledby="submenuOtros">
-                <li>
-                    <a class="dropdown-item" href="#" data-i18n="">
-                      Pronto / Soon
-                    </a>
-                  </li>
+            </span>
+            <ul class="dropdown-menu">
+              <li class="dropdown-submenu position-relative">
+                <span class="dropdown-item dropdown-toggle">BBT</span>
+                <ul class="dropdown-menu submenu">
+                  <li><a class="dropdown-item" href="bbtStreak.html" data-i18n="rachas">
+                  Rachas</a></li>
+                  <li><a class="dropdown-item" href="bbtProplayers.html" data-i18n="proplayers">
+                  Contra Proplayers</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu position-relative">
+                <span class="dropdown-item dropdown-toggle">NAF España</span>
+                <ul class="dropdown-menu submenu">
+                  <li><a class="dropdown-item" href="nafEspanaStreak.html" data-i18n="rachas">
+                  Rachas</a></li>
+                  <li><a class="dropdown-item" href="nafEspanaProplayers.html" data-i18n="proplayers">
+                  Contra Proplayers</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu position-relative">
+                <span class="dropdown-item dropdown-toggle">NAF</span>
+                <ul class="dropdown-menu submenu">
+                  <li><a class="dropdown-item" href="nafStreak.html" data-i18n="rachas">
+                  Rachas</a></li>
+                  <li><a class="dropdown-item" href="nafProplayers.html" data-i18n="proplayers">
+                  Contra Proplayers</a></li>
+                </ul>
+              </li>
             </ul>
           </li>
 
@@ -183,6 +206,8 @@
   </nav>
 
   <!-- Contenido principal -->
+
+  <!-- Contenido principal -->
   <div class="container py-5 mt-4">
     <div class="row justify-content-center">
       <div class="col-md-8">
@@ -193,45 +218,44 @@
       <img id="howworks-logo" src="img/como-funciona.png" alt="¿Cómo funciona?" class="img-fluid mx-auto d-block">
     </div>
 
-          <h4 class="fw-bold text-primary" data-i18n="comoFuncionaWeb">¿CÓMO FUNCIONA ESTA WEB?</h4>
-          <p data-i18n="comoFuncionaWebTexto">
-            Esta web contiene diferentes rankings basados en los resultados de los torneos de la NAF y de la
-            web BBTournaments.<br>
-            Es posible que encuentres diferencias con el ranking de la web de la NAF. ¿Por qué ocurre esto? En esta
-            web a la hora de realizar los cálculos no se tienen en cuenta si un jugador no tiene puesto en el torneo
-            una de las razas oficiales, podría tener "Multiple razas" o algún error o similar. Además, en estos
-            rankings SÍ contabiliza los partidos contra los jugadores no-naf y afecta y modifca los rankings.<br>
-            Además, puedes encontrar una sección de recursos con enlaces, documentos y demás que te pueden ayudar
-            a nivel de juego y de comunidad.
+          <h4 class="fw-bold text-primary" data-i18n="queEs">¿CÓMO FUNCIONA BLOOD BOWL RANKING?</h4>
+
+          <!-- Primer párrafo -->
+          <p class="mb-3" data-i18n="queEsTexto1">
+            Blood Bowl Ranking nace con el objetivo de compartir diferentes clasificaciones ELO de los jugadores tanto
+            españoles como de todo el mundo, tanto en los resultados de los partidos NAF como de los partidos de BBT
+            (BBTournaments).
           </p>
 
-          <h4 class="fw-bold text-primary" data-i18n="comoFunciona">¿CÓMO FUNCIONA EL RANKING ANUAL?</h4>
-          <p data-i18n="comoFuncionaTexto">
-            En el ranking anual a cada jugador se le resetea a principio de cada año su ranking a 150, y varía
-            con cada partido que juegue independientemente de la raza con que lo haga.
+          <!-- Resto de párrafos -->
+          <p data-i18n="queEsTexto2">
+            Se puede encontrar las clasificaciones divididas en dos grupos: NAF España, NAF Mundial y BBT. Las dos primeras
+            englobarán todos los torneos registrados en la NAF, la tercera todos los torneos registrados en BBT.
           </p>
-
-          <h4 class="fw-bold text-primary mt-4" data-i18n="comoFunciona2">¿CÓMO FUNCIONA EL RANKING HISTÓRICO?
-          </h4>
-          <p data-i18n="comoFunciona2Texto">
-            En el ranking histórico cada jugador empieza con un ranking de 150 con cada raza, y varía con cada
-            partido que juegue independientemente de la raza. Este ranking es histórico y nunca se resetea.
+          <p data-i18n="queEsTexto3">
+            A su vez, los grupos de la NAF está dividido en NAF España dónde están filtrado solo los jugadores
+            españoles, y NAF Mundial con todos los jugadores NAF del mundo. A su vez estás estarán divididas en tres
+            clasificaciones distintas: un ranking global, dónde el ELO evoluciona a lo largo de la historia y no se
+            resetea nunca y no está separado por razas, un ranking anual, dónde el ELO evoluciona a lo largo de un año
+            natural y se resetea a 150 cada 1 de enero y no está separado por razas, y el clásico ranking global por
+            razas, dónde el ELO evoluciona a lo largo de la historia y no se resetea nunca y está separado por razas.
           </p>
-
-          <h4 class="fw-bold text-primary mt-4" data-i18n="comoFunciona3">¿CÓMO FUNCIONA EL RANKING HISTÓRICO POR RAZAS?
-          </h4>
-          <p data-i18n="comoFunciona3Texto">
-            En el ranking histórico por raza cada jugador empieza con un ranking de 150 con cada raza, y varía con cada
-            partido que juegue con esa raza. Este ranking es histórico y nunca se resetea.
+          <p data-i18n="queEsTexto4">
+            En el caso del grupo del BBT estará dividido en dos clasificaciones distintas: un ranking global y un
+            ranking anual.
           </p>
-
-          <h4 class="fw-bold text-primary mt-4" data-i18n="comoFunciona4">¿QUÉ ES LA TENDENCIA, MEJOR RANKING Y PEOR RANKING?
-          </h4>
-          <p data-i18n="comoFunciona4Texto">
-            La tendencia es la diferencia entre el ranking de hace diez partidos y el actual, es una manera de poder
-            ver si el jugador está en un momento de crecimiento, decrecimiento o estancamiento. El mejor y peor ranking
-            son en todos los datos históricos del jugador la mejor y peor puntuación que ha tenido sin tener en cuenta
-            los 150 puntos iniciales.
+          <p data-i18n="queEsTexto5">
+            Cada página del ranking encontrarás en la clasificación tanto la posición general de la clasificación, el
+            número NAF, el nick de entrenador, la Comunidad Autónoma de ese entrenador, o el País en el caso de los
+            rankings de NAF Mundial, y entre paréntesis la posición en la clasificación entre los jugadores de esas
+            Comunidad Autónoma/País, el número de torneos y partidos jugados, las victorias, empates y derrotas, el win
+            ratio y el ranking de dicha clasificación.
+          </p>
+          <p data-i18n="queEsTexto6">
+            La Comunidad Autónoma de cada jugador se irá rellenando poco a poco según se vaya indicando puesto que no
+            hay ningún lugar dónde consultar dicho dato, en caso de no tener el dato aparecerá como "Apatrida", si
+            deseas indicar cuál es tu Comunidad Autónoma o el de algún otro entrenador o corregir algún error que
+            detectes, puedes ponerte en contacto a través del formulario de contacto.
           </p>
 
           <h4 class="fw-bold text-primary mt-4" data-i18n="queFiltros">¿QUÉ FILTROS HAY?</h4>
@@ -246,12 +270,62 @@
             Si estás en el listado como Apátrida y quieres indicar cuál es tu CCAA, ponte en <a
               href="contacto.html">contacto</a>.
           </p>
+          <p data-i18n="queFiltrosTexto4">
+            Además, cada clasificación se puede ordenar por sus diferentes columnas.
+          </p>
+
+          <h4 class="fw-bold text-primary" data-i18n="otrosRankings">¿QUÉ OTROS RANKINGS HAY?</h4>
+          <p data-i18n="otrosRankingsTexto">
+            Además de las clasificaciones ELO podrás encontrar otros ranking con datos interesantes de los partidos.
+            Puedes encontrar un ranking de rachas, otro de partidos contra proplayers, contra top proplayers y contra
+            mega proplayers.
+          </p>
+
+          <h4 class="fw-bold text-primary mt-4" data-i18n="comoFunciona">¿CÓMO FUNCIONAN LAS RACHAS?
+          </h4>
+          <p data-i18n="comoFuncionaTexto">
+            En las rachas podrás encontrar seis valores: partidos ganados (victorias), partidos sin perder, partidos
+            perdidos (derrotas), partidos con 1 TD o más, partidos con 2 TD o más, partidos sin recibir TD.
+          </p>
+
+          <p data-i18n="comoFuncionaTexto1">
+            De cada una de estos valores encontrarás dos columnas. Una con la racha actual hasta el último partido
+            registrado, y otra con la mejor racha que se haya hecho el entrenador históricamente.
+          </p>
+
+          <h4 class="fw-bold text-primary mt-4" data-i18n="comoFunciona2">¿CÓMO FUNCIONA EL RANKING CONTRA PROPLAYERS (Y TOP Y MEGA)?</h4>
+          <p data-i18n="comoFunciona2Texto">
+            En los rankings contra Proplayers, Top Proplayers y Mega Proplayers, podrás encontrar la cantidad de partidos,
+            así como las victorias, empates, derrotas y el Win Ratio contra ese tipo de jugadores.
+          </p>
+
+          <h4 class="fw-bold text-primary mt-4" data-i18n="comoFunciona3">¿QUIÉN SE CONSIDERA UN PROPLAYER, TOP PROPLAYER Y MEGA PROPLAYERS?</h4>
+          <p data-i18n="comoFunciona3Texto">
+            Se considera que has jugado contra un jugador Proplayer, cuando ese jugador tiene un ranking entre 180
+            y 199.99 con esa raza, o tiene al menos cinco razas con ranking entre 200 y 209.99.
+          </p>
+          <p data-i18n="comoFunciona3Texto2">
+            Se considera que has jugado contra un jugador Top Proplayer, cuando ese jugador tiene un ranking entre 200
+            y 219.99 con esa raza, o tiene al menos cinco razas con ranking entre 210 y 219.99.
+          </p>
+          <p data-i18n="comoFunciona3Texto3">
+            Se considera que has jugado contra un jugador Mega Proplayer, cuando ese jugador tiene un ranking 220 o más
+            con esa raza, o tiene al menos cinco razas con ranking de 220 ó más.
+          </p>
+          <p data-i18n="comoFunciona3Texto4">
+            En el caso de estos rankings para el BBT no se tendrán en cuenta las razas sino el ranking global.
+          </p>
 
           <h4 class="fw-bold text-primary mt-4" data-i18n="cadaCuanto">¿CADA CUÁNTO SE ACTUALIZA?</h4>
           <p data-i18n="cadaCuantoTexto">
             Las clasificaciones no tienen un periodo regular de actualización, pero se intentará que se actualice de
             manera constante y sin periodos muy extensos entre una actualización y otra.
           </p>
+
+          <p>
+            <img src="img/goblin.png" class="img-fluid" alt="Goblin">
+          </p>
+
         </div>
       </div>
     </div>

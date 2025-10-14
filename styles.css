@@ -65,24 +65,3 @@ body {
     display: none;
   }
 }
-
-@media (max-width: 933px) {
-  #nafTable { font-size: 0.85rem; }      /* texto de la tabla más pequeño */
-  #nafTable th, #nafTable td {           /* opcional: compactar celdas */
-    padding: .35rem .5rem;
-  }
-
-  /* Solo el contenedor principal de la página (no la navbar) */
-  body > .container.py-5.mt-4 {
-    max-width: 100% !important;   /* elimina el max-width fijo de Bootstrap */
-    padding-left: 5px;            /* margen exterior “visual” */
-    padding-right: 5px;
-  }
-
-  /* Las cajas (filtros + tabla) llenan el ancho disponible */
-  .section-bg {
-    width: 100%;
-    margin-left: 0;
-    margin-right: 0;
-  }
-}
