@@ -1,17 +1,21 @@
-// exportTable_nafHistoricoGlobal.js
-// Este script carga los datos de generalAll definidos en general_all.js,
-// filtra solo Country Spain, excluye jugadores con 0 partidas, ordena, asigna posiciones,
-// renderiza la tabla y aplica filtros.
+// tableBbtHistorico.js
+// - Carga datos de generalAll (general_all.js)
+// - Filtra solo Spain y games > 0
+// - Calcula rankOverall (global) y rankCcaa (por CCAA)
+// - Filtros: NAF, Entrenador, CCAA, WinRatio, Partidos
+// - NUEVO: Ordenación por botones (rankOverall, rankCcaa, tournaments, games, winRatio, rating)
+// - NUEVO: Paginación de 25 filas por página
+
+"use strict";
 
 document.addEventListener("DOMContentLoaded", () => {
   // Verificar que generalAll esté cargado
   if (typeof generalAll === "undefined") {
-    console.error(
-      "generalAll no está definido. Asegúrate de que general_all.js se cargue antes de este script."
-    );
+    console.error("generalAll no está definido. Asegúrate de que general_all.js se cargue antes de este script.");
     return;
   }
 
+  const table = document.getElementById("nafTable");
   const tableBody = document.querySelector("#nafTable tbody");
 
   // Mapear, normalizar y filtrar: solo Country Spain y games > 0
@@ -21,16 +25,13 @@ document.addEventListener("DOMContentLoaded", () => {
       coach: item["NAF Name"] || "",
       ccaa: item["CCAA"] || "",
       country: item["Country"] || "",
-      tournaments: item.totalTournaments || 0,
-      games: item.totalGames || 0,
-      wins: item.totalWins || 0,
-      draws: item.totalDraws || 0,
-      losses: item.totalLosses || 0,
-      winRatio: item.totalWinRatio || 0,
-      tendency: item.tendency || 0,
-      bestRanking: item.bestRating || 0,
-      worstRanking: item.worstRating || 0,
-      rating: item.rating || 0,
+      tournaments: Number(item.totalTournaments || 0),
+      games: Number(item.totalGames || 0),
+      wins: Number(item.totalWins || 0),
+      draws: Number(item.totalDraws || 0),
+      losses: Number(item.totalLosses || 0),
+      winRatio: Number(item.totalWinRatio || 0),
+      rating: Number(item.rating || 0),
     }))
     .filter((row) => row.country === "Spain" && row.games > 0); // Solo España y partidas > 0
 
@@ -47,7 +48,6 @@ document.addEventListener("DOMContentLoaded", () => {
     (acc[row.ccaa] = acc[row.ccaa] || []).push(row);
     return acc;
   }, {});
-
   Object.values(groupedByCcaa).forEach((group) => {
     group.sort((a, b) => b.rating - a.rating);
     group.forEach((row, idx) => {
@@ -66,35 +66,24 @@ document.addEventListener("DOMContentLoaded", () => {
   const gamesMinFilter = document.getElementById("gamesMinFilter");
   const gamesMaxFilter = document.getElementById("gamesMaxFilter");
 
-  // Poblar opciones de CCAA
   function populateCcaaOptions() {
-    const ccaaList = Array.from(new Set(data.map((item) => item.ccaa))).sort();
+    const ccaaList = Array.from(new Set(data.map((item) => item.ccaa))).filter(Boolean).sort();
     ccaaFilter.innerHTML =
       '<option value="all">Todas / All</option>' +
-      ccaaList
-        .map((ccaa) => `<option value="${ccaa}">${ccaa}</option>`)
-        .join("");
+      ccaaList.map((ccaa) => `<option value="${ccaa}">${ccaa}</option>`).join("");
   }
 
-  // Poblar WinRatio en saltos de 10%
   function populateWinRatioOptions() {
     let opts = '<option value="">Todos / All</option>';
-    for (let i = 0; i <= 100; i += 10) {
-      opts += `<option value="${i}">${i}</option>`;
-    }
+    for (let i = 0; i <= 100; i += 10) opts += `<option value="${i}">${i}</option>`;
     wrMinFilter.innerHTML = opts;
     wrMaxFilter.innerHTML = opts;
   }
 
-  // Poblar Partidos: 0-90 en 10s, 100-900 en 100s, 1000+ para >=1000
   function populateGamesOptions() {
     let opts = '<option value="">Todos / All</option>';
-    for (let i = 0; i < 100; i += 10) {
-      opts += `<option value="${i}">${i}</option>`;
-    }
-    for (let j = 100; j < 1000; j += 100) {
-      opts += `<option value="${j}">${j}</option>`;
-    }
+    for (let i = 0; i < 100; i += 10) opts += `<option value="${i}">${i}</option>`;
+    for (let j = 100; j < 1000; j += 100) opts += `<option value="${j}">${j}</option>`;
     opts += `<option value="1000+">1000+</option>`;
     gamesMinFilter.innerHTML = opts;
     gamesMaxFilter.innerHTML = opts;
@@ -105,55 +94,181 @@ document.addEventListener("DOMContentLoaded", () => {
   populateWinRatioOptions();
   populateGamesOptions();
 
-  // Función para aplicar filtros y volver a renderizar
+  // ======================
+  // NUEVO: Ordenación por botones
+  // ======================
+  const sortBar = document.getElementById("sortButtons");
+  const validSortKeys = new Set(["rankOverall", "rankCcaa", "tournaments", "games", "winRatio", "rating"]);
+  let sortState = { key: null, dir: "desc" }; // sin botón => rankOverall asc
+
+  function setSort(key) {
+    if (!validSortKeys.has(key)) return;
+    if (sortState.key === key) {
+      sortState.dir = sortState.dir === "desc" ? "asc" : "desc";
+    } else {
+      sortState.key = key;
+      sortState.dir = "desc"; // primera pulsación descendente (patrón Streaks)
+    }
+    currentPage = 1; // al cambiar orden, volver a página 1
+    applyFilters();
+    updateButtonsUI();
+  }
+
+  function updateButtonsUI() {
+    if (!sortBar) return;
+    const sortBtns = sortBar.querySelectorAll(".sort-btn");
+    sortBtns.forEach((btn) => {
+      const key = btn.dataset.key;
+      const isActive = sortState.key === key;
+      btn.classList.toggle("btn-primary", isActive);
+      btn.classList.toggle("btn-outline-primary", !isActive);
+      const base = btn.dataset.label || btn.textContent.replace(/\s*[▲▼]$/, "");
+      btn.dataset.label = base;
+      btn.textContent = isActive ? `${base} ${sortState.dir === "desc" ? "▼" : "▲"}` : base;
+    });
+  }
+
+  if (sortBar) {
+    sortBar.addEventListener("click", (ev) => {
+      const btn = ev.target.closest(".sort-btn");
+      if (!btn) return;
+      setSort(btn.dataset.key);
+    });
+  }
+
+  function sortByKey(rows, key, dir) {
+    rows.sort((a, b) => {
+      const av = Number(a[key]) || 0;
+      const bv = Number(b[key]) || 0;
+      if (av === bv) return a.coach.localeCompare(b.coach);
+      return dir === "asc" ? av - bv : bv - av;
+    });
+  }
+
+  // ======================
+  // NUEVO: Paginación
+  // ======================
+  const PAGE_SIZE = 25;
+  let currentPage = 1;
+  let lastFiltered = [];
+
+  function ensurePaginationContainer() {
+    let container = document.getElementById("pagination");
+    if (container) return container;
+    container = document.createElement("nav");
+    container.id = "pagination";
+    container.className = "mt-3";
+    table.parentElement.appendChild(container);
+    return container;
+  }
+
+  function renderPagination(totalPages) {
+    const container = ensurePaginationContainer();
+    container.innerHTML = "";
+    container.style.display = totalPages > 1 ? "block" : "none";
+    if (totalPages <= 1) return;
+
+    const ul = document.createElement("ul");
+    ul.className = "pagination pagination-sm flex-wrap";
+
+    function makeItem(label, page, disabled = false, active = false) {
+      const li = document.createElement("li");
+      li.className = `page-item${disabled ? " disabled" : ""}${active ? " active" : ""}`;
+      const a = document.createElement("a");
+      a.className = "page-link";
+      a.href = "#";
+      a.textContent = label;
+      if (!disabled && !active) {
+        a.addEventListener("click", (e) => { e.preventDefault(); gotoPage(page); });
+      }
+      li.appendChild(a);
+      return li;
+    }
+
+    ul.appendChild(makeItem("«", 1, currentPage === 1));
+    ul.appendChild(makeItem("‹", Math.max(1, currentPage - 1), currentPage === 1));
+
+    for (let p = 1; p <= totalPages; p++) {
+      ul.appendChild(makeItem(String(p), p, false, p === currentPage));
+    }
+
+    ul.appendChild(makeItem("›", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
+    ul.appendChild(makeItem("»", totalPages, currentPage === totalPages));
+
+    container.appendChild(ul);
+  }
+
+  function gotoPage(p) {
+    const totalPages = Math.max(1, Math.ceil(lastFiltered.length / PAGE_SIZE));
+    currentPage = Math.min(Math.max(1, p), totalPages);
+    renderTable(paginate(lastFiltered));
+    renderPagination(totalPages);
+    table.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  function paginate(rows) {
+    const start = (currentPage - 1) * PAGE_SIZE;
+    return rows.slice(start, start + PAGE_SIZE);
+  }
+
+  // ======================
+  // Filtrado + render
+  // ======================
   function applyFilters() {
     const nafVal = nafFilter.value.trim();
     const coachVal = coachFilter.value.trim().toLowerCase();
     const ccaaVal = ccaaFilter.value;
-    const wrMin =
-      wrMinFilter.value !== "" ? parseFloat(wrMinFilter.value) : -Infinity;
-    const wrMax =
-      wrMaxFilter.value !== "" ? parseFloat(wrMaxFilter.value) : Infinity;
 
-    // Manejo de filtros de partidas
-    let gamesMin = -Infinity;
-    let gamesMax = Infinity;
+    const wrMin = wrMinFilter.value !== "" ? parseFloat(wrMinFilter.value) : -Infinity;
+    const wrMax = wrMaxFilter.value !== "" ? parseFloat(wrMaxFilter.value) : Infinity;
+
+    let gamesMin = -Infinity, gamesMax = Infinity;
     const gvMin = gamesMinFilter.value;
     const gvMax = gamesMaxFilter.value;
-    if (gvMin) {
-      gamesMin = gvMin.endsWith("+")
-        ? parseInt(gvMin, 10)
-        : parseInt(gvMin, 10);
-    }
-    if (gvMax) {
-      gamesMax = gvMax.endsWith("+") ? Infinity : parseInt(gvMax, 10);
-    }
+    if (gvMin) gamesMin = gvMin.endsWith("+") ? parseInt(gvMin, 10) : parseInt(gvMin, 10);
+    if (gvMax) gamesMax = gvMax.endsWith("+") ? Infinity : parseInt(gvMax, 10);
 
     const filtered = data.filter((row) => {
-      if (nafVal && !row.nafNr.includes(nafVal)) return false;
+      if (nafVal && !String(row.nafNr).includes(nafVal)) return false;
       if (coachVal && !row.coach.toLowerCase().includes(coachVal)) return false;
       if (ccaaVal !== "all" && row.ccaa !== ccaaVal) return false;
       if (row.winRatio < wrMin || row.winRatio > wrMax) return false;
       if (row.games < gamesMin || row.games > gamesMax) return false;
       return true;
     });
-    renderTable(filtered);
+
+    // Ordenación: si hay botón, usarlo; si no, por posición general ascendente
+    if (sortState.key) {
+      sortByKey(filtered, sortState.key, sortState.dir);
+    } else {
+      filtered.sort((a, b) => a.rankOverall - b.rankOverall);
+    }
+
+    // Paginación
+    lastFiltered = filtered;
+    const totalPages = Math.max(1, Math.ceil(lastFiltered.length / PAGE_SIZE));
+    currentPage = Math.min(currentPage || 1, totalPages);
+
+    renderTable(paginate(lastFiltered));
+    renderPagination(totalPages);
   }
 
-  // Asociar eventos de filtro
-  nafFilter.addEventListener("input", applyFilters);
-  coachFilter.addEventListener("input", applyFilters);
-  ccaaFilter.addEventListener("change", applyFilters);
-  wrMinFilter.addEventListener("change", applyFilters);
-  wrMaxFilter.addEventListener("change", applyFilters);
-  gamesMinFilter.addEventListener("change", applyFilters);
-  gamesMaxFilter.addEventListener("change", applyFilters);
-
-  // ==========================
-  // Función para renderizar la tabla
-  // ==========================
+  // ======================
+  // Renderizar tabla
+  // ======================
   function renderTable(rows) {
     tableBody.innerHTML = "";
+    if (!rows.length) {
+      const tr = document.createElement("tr");
+      const td = document.createElement("td");
+      td.colSpan = 9; // número de columnas visibles
+      td.className = "text-center text-muted";
+      td.textContent = "Sin resultados";
+      tr.appendChild(td);
+      tableBody.appendChild(tr);
+      return;
+    }
+
     rows.forEach((row) => {
       const tr = document.createElement("tr");
       tr.innerHTML = `
@@ -161,19 +276,28 @@ document.addEventListener("DOMContentLoaded", () => {
         <td>${row.nafNr}</td>
         <td>${row.coach}</td>
         <td>${row.ccaa} (${row.rankCcaa})</td>
-        <td class=\"hide-lg\">${row.tournaments}</td>
-        <td class=\"hide-lg\">${row.games}</td>
-        <td class=\"hide-lg\">${row.wins}/${row.draws}/${row.losses}</td>
-        <td>${row.winRatio}%</td>
-        <td>${row.bestRanking.toFixed(2)}</td>
-        <td>${row.worstRanking.toFixed(2)}</td>
-        <td>${row.tendency.toFixed(2)}</td>
-        <td>${row.rating.toFixed(2)}</td>
+        <td class="hide-lg">${row.tournaments}</td>
+        <td class="hide-lg">${row.games}</td>
+        <td class="hide-md">${row.wins}/${row.draws}/${row.losses}</td>
+        <td class="hide-md">${row.winRatio}%</td>
+        <td>${Number(row.rating).toFixed(2)}</td>
       `;
       tableBody.appendChild(tr);
     });
   }
 
-  // Renderizado inicial
-  renderTable(data);
+  // ======================
+  // Eventos de filtros (resetean a página 1)
+  // ======================
+  nafFilter.addEventListener("input", () => { currentPage = 1; applyFilters(); });
+  coachFilter.addEventListener("input", () => { currentPage = 1; applyFilters(); });
+  [ccaaFilter, wrMinFilter, wrMaxFilter, gamesMinFilter, gamesMaxFilter].forEach((el) =>
+    el.addEventListener("change", () => { currentPage = 1; applyFilters(); })
+  );
+
+  // Render inicial
+  applyFilters();
+  // Actualizar estado visual de la barra de ordenación
+  const _ = updateButtonsUI;
+  updateButtonsUI();
 });

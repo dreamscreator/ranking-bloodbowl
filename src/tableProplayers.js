@@ -1,54 +1,120 @@
-// exportTable_nafHistoricoGlobal.js
-// Añadido: Ordenación por botones (estilo Streaks) + Paginación (25 por página)
+// tableProplayers.js (vista Proplayers)
 //
-// Carga generalAll (general_all.js), excluye jugadores con 0 partidas,
-// calcula rankOverall (global) y rankCountry (por país),
-// aplica filtros (NAF, entrenador, país, WR, Partidos),
-// y ahora permite ordenar por columnas + paginar.
+// - Carga datos desde proplayers.js
+// - Usa general_all.js para "Total partidos" (games)
+// - Calcula % vs proplayers = (ppGames + topGames + megaGames) / games * 100
+// - Renderiza columnas de nafProplayers.html
+// - Filtros + Paginación (25 por página)
+// - Ordenación por botones definidos en el HTML:
+//   games, pctVsPro, ppGames, wrPro, topGames, wrTop, megaGames, wrMega
+//
+// Requisitos en el HTML:
+// - Tabla con id="nafTable" y <tbody>
+// - Contenedor de botones con id="sortButtons" y botones .sort-btn con data-key
+// - Filtros con ids: nafFilter, coachFilter, countryFilter, wrMinFilter, wrMaxFilter, gamesMinFilter, gamesMaxFilter
 
 "use strict";
 
 document.addEventListener("DOMContentLoaded", () => {
-  // Verificar que generalAll esté cargado
-  if (typeof generalAll === "undefined") {
-    console.error("generalAll no está definido. Asegúrate de que general_all.js se cargue antes de este script.");
+  // Verificación de datasets
+  if (typeof proplayers === "undefined") {
+    console.error("proplayers no está definido. Carga src/naf/proplayers.js antes de este script.");
+    return;
+  }
+  const hasGeneral = typeof generalAll !== "undefined";
+
+  const table = document.getElementById("nafTable");
+  const tableBody = table?.querySelector("tbody");
+  if (!table || !tableBody) {
+    console.error("No se encontró la tabla #nafTable o su <tbody>.");
     return;
   }
 
-  const table = document.getElementById("nafTable");
-  const tableBody = table.querySelector("tbody");
+  // Mapear general_all por NAF# para total de partidos globales
+  const generalByNaf = hasGeneral
+    ? (() => {
+        const m = new Map();
+        (generalAll || []).forEach((g) => {
+          const key = String(g["NAF Nr"] ?? g.nafNr ?? "");
+          m.set(key, {
+            totalGames: Number(g.totalGames || 0),
+            country: g["Country"] || g.country || "",
+            coach: g["NAF Name"] || g.coach || "",
+          });
+        });
+        return m;
+      })()
+    : new Map();
 
-  // Normalizar datos, solo partidas > 0
-  const data = generalAll
-    .map((item) => ({
-      nafNr: item["NAF Nr"] || "",
-      coach: item["NAF Name"] || "",
-      country: item["Country"] || "",
-      tournaments: Number(item.totalTournaments || 0),
-      games: Number(item.totalGames || 0),
-      wins: Number(item.totalWins || 0),
-      draws: Number(item.totalDraws || 0),
-      losses: Number(item.totalLosses || 0),
-      winRatio: Number(item.totalWinRatio || 0),
-      rating: Number(item.rating || 0),
-    }))
-    .filter((row) => row.games > 0);
+  // Normalizar filas desde proplayers.js
+  const data = (proplayers || []).map((p) => {
+    const nafNr = String(p["NAF Nr"] || "");
+    const coach = p["NAF Name"] || "";
+    const country = p["Country"] || "";
 
-  // Ranking general por rating ↓
-  data.sort((a, b) => b.rating - a.rating);
-  data.forEach((row, index) => { row.rankOverall = index + 1; });
+    const pp   = (p.proplayers && p.proplayers[0]) || {};
+    const top  = (p.topProplayers && p.topProplayers[0]) || {};
+    const mega = (p.megaProplayers && p.megaProplayers[0]) || {};
 
-  // Ranking por país (dentro de cada país por rating ↓)
-  const groupedByCountry = data.reduce((acc, row) => {
-    (acc[row.country] = acc[row.country] || []).push(row);
-    return acc;
-  }, {});
-  Object.values(groupedByCountry).forEach((group) => {
-    group.sort((a, b) => b.rating - a.rating);
-    group.forEach((row, idx) => { row.rankCountry = idx + 1; });
+    const ppGames   = Number(pp.totalGames   || 0);
+    const ppWins    = Number(pp.totalWins    || 0);
+    const ppDraws   = Number(pp.totalDraws   || 0);
+    const ppLosses  = Number(pp.totalLosses  || 0);
+    const wrPro     = Number(pp.totalWinRatio || 0);
+
+    const topGames  = Number(top.totalGames  || 0);
+    const topWins   = Number(top.totalWins   || 0);
+    const topDraws  = Number(top.totalDraws  || 0);
+    const topLosses = Number(top.totalLosses || 0);
+    const wrTop     = Number(top.totalWinRatio || 0);
+
+    const megaGames  = Number(mega.totalGames  || 0);
+    const megaWins   = Number(mega.totalWins   || 0);
+    const megaDraws  = Number(mega.totalDraws  || 0);
+    const megaLosses = Number(mega.totalLosses || 0);
+    const wrMega     = Number(mega.totalWinRatio || 0);
+
+    // Total partidos globales del entrenador (generalAll) si disponible
+    const g = generalByNaf.get(nafNr);
+    const totalGames = g ? Number(g.totalGames || 0) : 0;
+
+    // % de partidos contra proplayers = (pp + top + mega) / total * 100
+    const vsProCombined = ppGames + topGames + megaGames;
+    const pctVsPro = totalGames > 0 ? (vsProCombined / totalGames) * 100 : 0;
+
+    return {
+      nafNr,
+      coach,
+      country,
+      games: totalGames, // Total partidos (orden por defecto)
+
+      // % vs proplayers
+      pctVsPro,
+
+      // Bloque Proplayers
+      ppGames,
+      ppWins,
+      ppDraws,
+      ppLosses,
+      wrPro,
+
+      // Bloque Top
+      topGames,
+      topWins,
+      topDraws,
+      topLosses,
+      wrTop,
+
+      // Bloque Mega
+      megaGames,
+      megaWins,
+      megaDraws,
+      megaLosses,
+      wrMega,
+    };
   });
 
-  // ===== Filtros =====
+  // ====== Filtros ======
   const nafFilter = document.getElementById("nafFilter");
   const coachFilter = document.getElementById("coachFilter");
   const countryFilter = document.getElementById("countryFilter");
@@ -59,17 +125,23 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function populateCountryOptions() {
     const countryList = Array.from(new Set(data.map((item) => item.country))).filter(Boolean).sort();
-    countryFilter.innerHTML =
-      '<option value="all">Todos / All</option>' +
-      countryList.map((c) => `<option value="${c}">${c}</option>`).join("");
+    if (countryFilter) {
+      countryFilter.innerHTML =
+        '<option value="all">Todos / All</option>' +
+        countryList.map((c) => `<option value="${c}">${c}</option>`).join("");
+    }
   }
-  function populateWinRatioOptions() {
+  function populatePctVsProOptions() {
+    // Antes era Win Ratio; ahora % vs proplayers
+    if (!wrMinFilter || !wrMaxFilter) return;
     let opts = '<option value="">Todos / All</option>';
     for (let i = 0; i <= 100; i += 10) opts += `<option value="${i}">${i}</option>`;
     wrMinFilter.innerHTML = opts;
     wrMaxFilter.innerHTML = opts;
   }
   function populateGamesOptions() {
+    // Filtro por "Total partidos" (games)
+    if (!gamesMinFilter || !gamesMaxFilter) return;
     let opts = '<option value="">Todos / All</option>';
     for (let i = 0; i < 100; i += 10) opts += `<option value="${i}">${i}</option>`;
     for (let j = 100; j < 1000; j += 100) opts += `<option value="${j}">${j}</option>`;
@@ -79,13 +151,20 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   populateCountryOptions();
-  populateWinRatioOptions();
+  populatePctVsProOptions();
   populateGamesOptions();
 
-  // ===== Ordenación por botones (como en Streaks) =====
+  // ====== Ordenación por botones (definidos en el HTML) ======
   const sortBar = document.getElementById("sortButtons");
-  const validSortKeys = new Set(["rankOverall", "rankCountry", "tournaments", "games", "winRatio", "rating"]);
-  let sortState = { key: null, dir: "desc" }; // sin botón => rankOverall asc
+  const validSortKeys = new Set([
+    "games", "pctVsPro",
+    "ppGames", "wrPro",
+    "topGames", "wrTop",
+    "megaGames", "wrMega",
+  ]);
+
+  // Por defecto ordenar por número de Partidos (Total partidos)
+  let sortState = { key: "games", dir: "desc" };
 
   function setSort(key) {
     if (!validSortKeys.has(key)) return;
@@ -131,7 +210,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // ===== Paginación =====
+  // ====== Paginación ======
   const PAGE_SIZE = 25;
   let currentPage = 1;
   let lastFiltered = [];
@@ -139,10 +218,11 @@ document.addEventListener("DOMContentLoaded", () => {
   function ensurePaginationContainer() {
     let container = document.getElementById("pagination");
     if (container) return container;
+    const parent = table.parentElement || table;
     container = document.createElement("nav");
     container.id = "pagination";
     container.className = "mt-3";
-    table.parentElement.appendChild(container);
+    parent.appendChild(container);
     return container;
   }
 
@@ -195,18 +275,20 @@ document.addEventListener("DOMContentLoaded", () => {
     return rows.slice(start, start + PAGE_SIZE);
   }
 
-  // ===== Filtrar + ordenar + paginar =====
+  // ====== Filtrar + ordenar + paginar ======
   function applyFilters() {
-    const nafVal = nafFilter.value.trim();
-    const coachVal = coachFilter.value.trim().toLowerCase();
-    const countryVal = countryFilter.value;
+    const nafVal = nafFilter?.value.trim() ?? "";
+    const coachVal = (coachFilter?.value.trim() ?? "").toLowerCase();
+    const countryVal = countryFilter?.value ?? "all";
 
-    const wrMin = wrMinFilter.value !== "" ? parseFloat(wrMinFilter.value) : -Infinity;
-    const wrMax = wrMaxFilter.value !== "" ? parseFloat(wrMaxFilter.value) : Infinity;
+    // Rango de % vs proplayers (antes era Win Ratio)
+    const pctMin = wrMinFilter && wrMinFilter.value !== "" ? parseFloat(wrMinFilter.value) : -Infinity;
+    const pctMax = wrMaxFilter && wrMaxFilter.value !== "" ? parseFloat(wrMaxFilter.value) : Infinity;
 
+    // Rango de Partidos: "Total partidos" (games)
     let gamesMin = -Infinity, gamesMax = Infinity;
-    const gvMin = gamesMinFilter.value;
-    const gvMax = gamesMaxFilter.value;
+    const gvMin = gamesMinFilter?.value ?? "";
+    const gvMax = gamesMaxFilter?.value ?? "";
     if (gvMin) gamesMin = gvMin.endsWith("+") ? parseInt(gvMin, 10) : parseInt(gvMin, 10);
     if (gvMax) gamesMax = gvMax.endsWith("+") ? Infinity : parseInt(gvMax, 10);
 
@@ -214,17 +296,16 @@ document.addEventListener("DOMContentLoaded", () => {
       if (nafVal && !String(row.nafNr).includes(nafVal)) return false;
       if (coachVal && !row.coach.toLowerCase().includes(coachVal)) return false;
       if (countryVal !== "all" && row.country !== countryVal) return false;
-      if (row.winRatio < wrMin || row.winRatio > wrMax) return false;
+
+      // Filtramos por % partidos vs proplayers
+      if (row.pctVsPro < pctMin || row.pctVsPro > pctMax) return false;
+
       if (row.games < gamesMin || row.games > gamesMax) return false;
       return true;
     });
 
     // Ordenación
-    if (sortState.key) {
-      sortByKey(filtered, sortState.key, sortState.dir);
-    } else {
-      filtered.sort((a, b) => a.rankOverall - b.rankOverall); // por defecto: posición general asc
-    }
+    sortByKey(filtered, sortState.key, sortState.dir);
 
     // Paginación
     lastFiltered = filtered;
@@ -235,13 +316,13 @@ document.addEventListener("DOMContentLoaded", () => {
     renderPagination(totalPages);
   }
 
-  // ===== Render =====
+  // ====== Render ======
   function renderTable(rows) {
     tableBody.innerHTML = "";
     if (!rows.length) {
       const tr = document.createElement("tr");
       const td = document.createElement("td");
-      td.colSpan = 9;
+      td.colSpan = 14;
       td.className = "text-center text-muted";
       td.textContent = "Sin resultados";
       tr.appendChild(td);
@@ -252,28 +333,36 @@ document.addEventListener("DOMContentLoaded", () => {
     rows.forEach((row) => {
       const tr = document.createElement("tr");
       tr.innerHTML = `
-        <td>${row.rankOverall}</td>
         <td>${row.nafNr}</td>
         <td>${row.coach}</td>
-        <td class="country-column">${row.country} (${row.rankCountry})</td>
-        <td class="hide-lg">${row.tournaments}</td>
-        <td class="hide-lg">${row.games}</td>
-        <td class="hide-md">${row.wins}/${row.draws}/${row.losses}</td>
-        <td class="hide-md">${row.winRatio}%</td>
-        <td>${Number(row.rating).toFixed(2)}</td>
+        <td class="country-column">${row.country}</td>
+        <td class="country-column">${row.games}</td>
+        <td class="country-column">${row.pctVsPro.toFixed(2)}%</td>
+
+        <td>${row.ppGames}</td>
+        <td>${row.ppWins}/${row.ppDraws}/${row.ppLosses}</td>
+        <td>${row.wrPro.toFixed(2)}%</td>
+
+        <td>${row.topGames}</td>
+        <td>${row.topWins}/${row.topDraws}/${row.topLosses}</td>
+        <td>${row.wrTop.toFixed(2)}%</td>
+
+        <td>${row.megaGames}</td>
+        <td>${row.megaWins}/${row.megaDraws}/${row.megaLosses}</td>
+        <td>${row.wrMega.toFixed(2)}%</td>
       `;
       tableBody.appendChild(tr);
     });
   }
 
-  // Eventos de filtros (resetean a página 1)
-  nafFilter.addEventListener("input", () => { currentPage = 1; applyFilters(); });
-  coachFilter.addEventListener("input", () => { currentPage = 1; applyFilters(); });
+  // Eventos de filtros
+  nafFilter?.addEventListener("input", () => { currentPage = 1; applyFilters(); });
+  coachFilter?.addEventListener("input", () => { currentPage = 1; applyFilters(); });
   [countryFilter, wrMinFilter, wrMaxFilter, gamesMinFilter, gamesMaxFilter].forEach((el) =>
-    el.addEventListener("change", () => { currentPage = 1; applyFilters(); })
+    el?.addEventListener("change", () => { currentPage = 1; applyFilters(); })
   );
 
-  // Render inicial
+  // Render inicial (orden por defecto = games DESC)
   applyFilters();
   updateButtonsUI();
 });
