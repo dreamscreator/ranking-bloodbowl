@@ -18213,7 +18213,7 @@ const statsYear2015 = [
   {
     "NAF Nr": "12937",
     "NAF Name": "Sphinx",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 157.88044183570435,
     "bestRating": 166.5881921206607,
@@ -20403,7 +20403,7 @@ const statsYear2015 = [
   {
     "NAF Nr": "13558",
     "NAF Name": "wise",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 128.3049459749907,
     "bestRating": 144.76463811608238,
@@ -54900,7 +54900,7 @@ const statsYear2015 = [
   {
     "NAF Nr": "20830",
     "NAF Name": "Neo_chains",
-    "CCAA": "Castilla y León ",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "rating": 119.68394963843373,
     "bestRating": 144.7933760610289,
