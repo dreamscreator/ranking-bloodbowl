@@ -16733,7 +16733,7 @@ const statsYear2019 = [
   {
     "NAF Nr": "12937",
     "NAF Name": "Sphinx",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 175.32292618226742,
     "bestRating": 175.32292618226742,
@@ -18680,7 +18680,7 @@ const statsYear2019 = [
   {
     "NAF Nr": "13558",
     "NAF Name": "wise",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 149.1562739970352,
     "bestRating": 150.2550123711851,
@@ -25395,7 +25395,7 @@ const statsYear2019 = [
   {
     "NAF Nr": "16736",
     "NAF Name": "troy",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "rating": 158.7438819269571,
     "bestRating": 163.3013749568331,
@@ -44461,7 +44461,7 @@ const statsYear2019 = [
   {
     "NAF Nr": "20830",
     "NAF Name": "Neo_chains",
-    "CCAA": "Castilla y León ",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "rating": 101.13671429825517,
     "bestRating": 144.26376655485763,
@@ -74098,7 +74098,7 @@ const statsYear2019 = [
   {
     "NAF Nr": "24732",
     "NAF Name": "CadeteCacahuete",
-    "CCAA": "Apatrida",
+    "CCAA": "Aragón",
     "Country": "Spain",
     "rating": 168.71701996343782,
     "bestRating": 168.71701996343782,
@@ -76643,7 +76643,7 @@ const statsYear2019 = [
   {
     "NAF Nr": "24977",
     "NAF Name": "Lopez_de_Amarrategui",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 149.42095210522663,
     "bestRating": 149.42095210522663,
@@ -78568,7 +78568,7 @@ const statsYear2019 = [
   },
   {
     "NAF Nr": "25191",
-    "NAF Name": "biggshancock",
+    "NAF Name": "Biggs",
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 151.35196604428526,
@@ -79829,7 +79829,7 @@ const statsYear2019 = [
   {
     "NAF Nr": "25293",
     "NAF Name": "castroman",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 145.58772805370512,
     "bestRating": 149.51486830882595,
@@ -82142,7 +82142,7 @@ const statsYear2019 = [
   {
     "NAF Nr": "25487",
     "NAF Name": "Blackmoon",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 154.13399122612444,
     "bestRating": 154.13399122612444,
@@ -116054,7 +116054,7 @@ const statsYear2019 = [
   },
   {
     "NAF Nr": "27871",
-    "NAF Name": "bucky1398",
+    "NAF Name": "The_Hyde",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 124.35141112289385,
@@ -129696,7 +129696,7 @@ const statsYear2019 = [
   {
     "NAF Nr": "28865",
     "NAF Name": "Vacamu",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "rating": 156.33457346975473,
     "bestRating": 156.33457346975473,
@@ -130436,7 +130436,7 @@ const statsYear2019 = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria",
+    "CCAA": "Cantabria ",
     "Country": "Spain",
     "rating": 149.38194496544935,
     "bestRating": 149.38194496544935,

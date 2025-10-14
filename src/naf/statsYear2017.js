@@ -16114,7 +16114,7 @@ const statsYear2017 = [
   {
     "NAF Nr": "12937",
     "NAF Name": "Sphinx",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 159.47483577586186,
     "bestRating": 172.44372889795267,
@@ -25147,7 +25147,7 @@ const statsYear2017 = [
   {
     "NAF Nr": "16736",
     "NAF Name": "troy",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "rating": 148.80878794625738,
     "bestRating": 148.80878794625738,
@@ -45822,7 +45822,7 @@ const statsYear2017 = [
   {
     "NAF Nr": "20830",
     "NAF Name": "Neo_chains",
-    "CCAA": "Castilla y León ",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "rating": 104.78472362380747,
     "bestRating": 144.39255776783438,
@@ -86759,7 +86759,7 @@ const statsYear2017 = [
   {
     "NAF Nr": "24732",
     "NAF Name": "CadeteCacahuete",
-    "CCAA": "Apatrida",
+    "CCAA": "Aragón",
     "Country": "Spain",
     "rating": 163.99771597134003,
     "bestRating": 163.99771597134003,
@@ -89070,7 +89070,7 @@ const statsYear2017 = [
   },
   {
     "NAF Nr": "24902",
-    "NAF Name": "Ander",
+    "NAF Name": "Anderworld",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 150.06070405399376,
@@ -89815,7 +89815,7 @@ const statsYear2017 = [
   {
     "NAF Nr": "24976",
     "NAF Name": "Pulpomurillo",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 149.94359946497343,
     "bestRating": 149.94359946497343,
@@ -89835,7 +89835,7 @@ const statsYear2017 = [
   {
     "NAF Nr": "24977",
     "NAF Name": "Lopez_de_Amarrategui",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 141.87743567154035,
     "bestRating": 142.3972487523232,

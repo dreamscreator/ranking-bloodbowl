@@ -8361,7 +8361,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "12937",
     "NAF Name": "Sphinx",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 142.57911660516288,
     "bestRating": 150.55288883547436,
@@ -9161,7 +9161,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "13558",
     "NAF Name": "wise",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 139.17199163572744,
     "bestRating": 149.8515930035108,
@@ -23038,7 +23038,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "20830",
     "NAF Name": "Neo_chains",
-    "CCAA": "Castilla y León ",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "rating": 122.92922294297932,
     "bestRating": 145.3816077488649,
@@ -41014,7 +41014,7 @@ const statsYear2020 = [
   },
   {
     "NAF Nr": "25191",
-    "NAF Name": "biggshancock",
+    "NAF Name": "Biggs",
     "CCAA": "Apatrida",
     "Country": "Germany",
     "rating": 159.65868650870286,
@@ -41819,7 +41819,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "25293",
     "NAF Name": "castroman",
-    "CCAA": "Apatrida",
+    "CCAA": "Catalunya ",
     "Country": "Spain",
     "rating": 138.25804507267716,
     "bestRating": 144.37678016755464,
@@ -43168,7 +43168,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "25487",
     "NAF Name": "Blackmoon",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 145.3796856284146,
     "bestRating": 150,
@@ -55693,7 +55693,7 @@ const statsYear2020 = [
   },
   {
     "NAF Nr": "27871",
-    "NAF Name": "bucky1398",
+    "NAF Name": "The_Hyde",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 150.33832253054868,
@@ -61002,7 +61002,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "28865",
     "NAF Name": "Vacamu",
-    "CCAA": "Apatrida",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "rating": 154.99292232619328,
     "bestRating": 155,
@@ -64129,7 +64129,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "29186",
     "NAF Name": "misstake",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 129.3460876619905,
     "bestRating": 144.34314575050763,

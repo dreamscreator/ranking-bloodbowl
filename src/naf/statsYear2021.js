@@ -7763,7 +7763,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "12937",
     "NAF Name": "Sphinx",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 147.4502746038336,
     "bestRating": 156.15402683403676,
@@ -8544,7 +8544,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "13558",
     "NAF Name": "wise",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 144.21709276234225,
     "bestRating": 144.34314575050763,
@@ -21481,7 +21481,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "20830",
     "NAF Name": "Neo_chains",
-    "CCAA": "Castilla y León ",
+    "CCAA": "Castilla y León",
     "Country": "Spain",
     "rating": 107.4181386383018,
     "bestRating": 156.32043445988586,
@@ -23959,7 +23959,7 @@ const statsYear2021 = [
   },
   {
     "NAF Nr": "21567",
-    "NAF Name": "bbart",
+    "NAF Name": "BBart",
     "CCAA": "Apatrida",
     "Country": "Poland",
     "rating": 155.49158617542415,
@@ -34205,7 +34205,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "24732",
     "NAF Name": "CadeteCacahuete",
-    "CCAA": "Apatrida",
+    "CCAA": "Aragón",
     "Country": "Spain",
     "rating": 143.94565255889373,
     "bestRating": 148.52599558698455,
@@ -36846,7 +36846,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "25291",
     "NAF Name": "cocacolico",
-    "CCAA": "Apatrida",
+    "CCAA": "Aragón",
     "Country": "Spain",
     "rating": 145.37718630122245,
     "bestRating": 145.65291196581867,
@@ -49182,7 +49182,7 @@ const statsYear2021 = [
   },
   {
     "NAF Nr": "27871",
-    "NAF Name": "bucky1398",
+    "NAF Name": "The_Hyde",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 144.4331736190049,
@@ -54503,7 +54503,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria",
+    "CCAA": "Cantabria ",
     "Country": "Spain",
     "rating": 139.86693233210494,
     "bestRating": 144.97051126587522,
@@ -74015,7 +74015,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "31295",
     "NAF Name": "Mateillo",
-    "CCAA": "Cantabria",
+    "CCAA": "Cantabria ",
     "Country": "Spain",
     "rating": 145.55833752292975,
     "bestRating": 145.88985948878775,
@@ -74036,7 +74036,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "31296",
     "NAF Name": "Esecubi",
-    "CCAA": "Cantabria",
+    "CCAA": "Cantabria ",
     "Country": "Spain",
     "rating": 149.09863829392233,
     "bestRating": 149.09863829392233,
