@@ -890,16 +890,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 75,
-    "rating": 159.82165662295313,
-    "bestRating": 164.9277915203572,
+    "rating": 159.82165681840237,
+    "bestRating": 164.92779151997198,
     "worstRating": 155.0990195135928,
     "_lastTenRatings": [
       155.0990195135928,
       159.79973736237372,
-      164.9277915203572,
-      159.82165662295313
+      164.92779151997198,
+      159.82165681840237
     ],
-    "tendency": 4.722637109360335
+    "tendency": 4.722637304809581
   },
   {
     "NAF Nr": "5131",
@@ -1557,16 +1557,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 87.5,
-    "rating": 155.4828125059486,
-    "bestRating": 155.4828125059486,
-    "worstRating": 151.96360543412024,
+    "rating": 155.48281250089317,
+    "bestRating": 155.48281250089317,
+    "worstRating": 151.96360542898614,
     "_lastTenRatings": [
-      151.96360543412024,
-      153.7629287251265,
-      153.76618162752655,
-      155.4828125059486
+      151.96360542898614,
+      153.76292872007042,
+      153.76618162247078,
+      155.48281250089317
     ],
-    "tendency": 3.5192070718283617
+    "tendency": 3.519207071907033
   },
   {
     "NAF Nr": "7230",
@@ -1860,16 +1860,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.25849083865515,
-    "bestRating": 150.25849083865515,
+    "rating": 150.25848142906506,
+    "bestRating": 150.25848142906506,
     "worstRating": 144.9009804864072,
     "_lastTenRatings": [
       144.9009804864072,
       144.9009804864072,
       149.8161105108298,
-      150.25849083865515
+      150.25848142906506
     ],
-    "tendency": 5.357510352247942
+    "tendency": 5.35750094265785
   },
   {
     "NAF Nr": "8122",
@@ -2918,7 +2918,7 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 55,
-    "rating": 153.87478101463694,
+    "rating": 153.87478100478583,
     "bestRating": 173.15030867168554,
     "worstRating": 152.2819978359243,
     "_lastTenRatings": [
@@ -2929,11 +2929,11 @@ const statsRaceBretonnian = [
       158.637546655684,
       152.2819978359243,
       154.10419850795193,
-      153.97483654635906,
-      153.971583643959,
-      153.87478101463694
+      153.97483654132324,
+      153.97158363892288,
+      153.87478100478583
     ],
-    "tendency": -3.871185677777902
+    "tendency": -3.8711856876290085
   },
   {
     "NAF Nr": "11295",
@@ -4980,15 +4980,15 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 16.67,
-    "rating": 142.74235716582865,
-    "bestRating": 150.69276079751234,
-    "worstRating": 142.74235716582865,
+    "rating": 142.7431988930325,
+    "bestRating": 150.69366391935094,
+    "worstRating": 142.7431988930325,
     "_lastTenRatings": [
-      150.69276079751234,
-      145.8714294278992,
-      142.74235716582865
+      150.69366391935094,
+      145.87229930733542,
+      142.7431988930325
     ],
-    "tendency": -7.950403631683685
+    "tendency": -7.950465026318426
   },
   {
     "NAF Nr": "16475",
@@ -5089,16 +5089,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.2479029769499,
-    "bestRating": 149.2479029769499,
-    "worstRating": 144.77605041607757,
+    "rating": 149.24790285693706,
+    "bestRating": 149.24790285693706,
+    "worstRating": 144.77605052370177,
     "_lastTenRatings": [
       144.9009804864072,
       144.9009804864072,
-      144.77605041607757,
-      149.2479029769499
+      144.77605052370177,
+      149.24790285693706
     ],
-    "tendency": 4.346922490542681
+    "tendency": 4.346922370529853
   },
   {
     "NAF Nr": "16619",
@@ -5863,32 +5863,6 @@ const statsRaceBretonnian = [
       138.4710837371238
     ],
     "tendency": -6.051019116150513
-  },
-  {
-    "NAF Nr": "17711",
-    "NAF Name": "davey",
-    "CCAA": "Apatrida",
-    "Country": "France",
-    "raceId": "26",
-    "raceName": "Bretonnian",
-    "gamesTotal": 5,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 2,
-    "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 50,
-    "rating": 150.95262985907587,
-    "bestRating": 156.56021727980703,
-    "worstRating": 150.29566841409064,
-    "_lastTenRatings": [
-      155.65685424949237,
-      150.29566841409064,
-      155.78966105532518,
-      156.56021727980703,
-      150.95262985907587
-    ],
-    "tendency": -4.704224390416499
   },
   {
     "NAF Nr": "17924",
@@ -8536,16 +8510,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 145.52281026946517,
-    "bestRating": 149.57771056624227,
+    "rating": 145.52281327144476,
+    "bestRating": 149.5777107769741,
     "worstRating": 144.9009804864072,
     "_lastTenRatings": [
       144.9009804864072,
-      149.57771056624227,
-      149.56814113916394,
-      145.52281026946517
+      149.5777107769741,
+      149.5681413318698,
+      145.52281327144476
     ],
-    "tendency": 0.6218297830579615
+    "tendency": 0.6218327850375545
   },
   {
     "NAF Nr": "20663",
@@ -10147,16 +10121,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 75,
-    "rating": 158.73806997930114,
-    "bestRating": 158.73806997930114,
-    "worstRating": 153.18800390478265,
+    "rating": 158.73807278935578,
+    "bestRating": 158.73807278935578,
+    "worstRating": 153.18800399601514,
     "_lastTenRatings": [
       155.16211792115732,
-      153.66766027145283,
-      153.18800390478265,
-      158.73806997930114
+      153.66766035804335,
+      153.18800399601514,
+      158.73807278935578
     ],
-    "tendency": 3.5759520581438267
+    "tendency": 3.5759548681984654
   },
   {
     "NAF Nr": "21828",
@@ -10332,16 +10306,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 147.7871448026104,
-    "bestRating": 152.85673368011393,
-    "worstRating": 147.7871448026104,
+    "rating": 147.78714480260876,
+    "bestRating": 152.85673368011308,
+    "worstRating": 147.78714480260876,
     "_lastTenRatings": [
       148.03249431057478,
-      148.92539016474416,
-      152.85673368011393,
-      147.7871448026104
+      148.92539016474413,
+      152.85673368011308,
+      147.78714480260876
     ],
-    "tendency": -0.24534950796436306
+    "tendency": -0.24534950796601152
   },
   {
     "NAF Nr": "22164",
@@ -11392,16 +11366,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 100,
-    "rating": 169.85211652724686,
-    "bestRating": 169.85211652724686,
-    "worstRating": 154.81097902068674,
+    "rating": 169.85212133492993,
+    "bestRating": 169.85212133492993,
+    "worstRating": 154.81098431459253,
     "_lastTenRatings": [
-      154.81097902068674,
-      159.5709641283264,
-      164.7459816298428,
-      169.85211652724686
+      154.81098431459253,
+      159.57096921596323,
+      164.74598663336033,
+      169.85212133492993
     ],
-    "tendency": 15.04113750656012
+    "tendency": 15.041137020337402
   },
   {
     "NAF Nr": "23332",
@@ -13368,15 +13342,15 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 148.5980923477256,
-    "bestRating": 151.64688526570905,
-    "worstRating": 148.5980923477256,
+    "rating": 148.59808371181015,
+    "bestRating": 151.6468764152576,
+    "worstRating": 148.59808371181015,
     "_lastTenRatings": [
-      151.60919151004433,
-      151.64688526570905,
-      148.5980923477256
+      151.6091824394688,
+      151.6468764152576,
+      148.59808371181015
     ],
-    "tendency": -3.0110991623187147
+    "tendency": -3.0110987276586627
   },
   {
     "NAF Nr": "25245",
@@ -14102,7 +14076,7 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 5,
     "winRatio": 42.86,
-    "rating": 134.64968388733695,
+    "rating": 134.64968388733692,
     "bestRating": 155.62645292883462,
     "worstRating": 127.1563811431562,
     "_lastTenRatings": [
@@ -14115,9 +14089,9 @@ const statsRaceBretonnian = [
       130.11626095911714,
       133.83213552546727,
       137.37444881797978,
-      134.64968388733695
+      134.64968388733692
     ],
-    "tendency": -1.417805088000165
+    "tendency": -1.4178050880001933
   },
   {
     "NAF Nr": "25959",
@@ -14679,16 +14653,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 151.41762175369234,
-    "bestRating": 155.64500317963856,
+    "rating": 151.41920230737966,
+    "bestRating": 155.64579641959978,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
-      154.82133136961315,
-      155.64500317963856,
-      151.41762175369234
+      154.82136461201551,
+      155.64579641959978,
+      151.41920230737966
     ],
-    "tendency": 1.4176217536923446
+    "tendency": 1.4192023073796634
   },
   {
     "NAF Nr": "26844",
@@ -15303,16 +15277,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.01263226123154,
+    "rating": 149.01263196183376,
     "bestRating": 155.0990195135928,
-    "worstRating": 149.01263226123154,
+    "worstRating": 149.01263196183376,
     "_lastTenRatings": [
       155.0990195135928,
       150,
-      153.84610494487396,
-      149.01263226123154
+      153.84610503069803,
+      149.01263196183376
     ],
-    "tendency": -6.086387252361249
+    "tendency": -6.086387551759032
   },
   {
     "NAF Nr": "27866",
@@ -15496,32 +15470,6 @@ const statsRaceBretonnian = [
     "tendency": -0.965874861572388
   },
   {
-    "NAF Nr": "28149",
-    "NAF Name": "jonathanmartinez",
-    "CCAA": "Apatrida",
-    "Country": "Mexico",
-    "raceId": "26",
-    "raceName": "Bretonnian",
-    "gamesTotal": 5,
-    "gamesWon": 3,
-    "gamesDraw": 1,
-    "gamesLost": 1,
-    "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 70,
-    "rating": 160.41771426451976,
-    "bestRating": 160.41771426451976,
-    "worstRating": 150,
-    "_lastTenRatings": [
-      155.65685424949237,
-      150,
-      150.02657978050112,
-      154.9470912982932,
-      160.41771426451976
-    ],
-    "tendency": 4.76086001502739
-  },
-  {
     "NAF Nr": "28155",
     "NAF Name": "hectorvillafana",
     "CCAA": "Apatrida",
@@ -15703,16 +15651,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 87.5,
-    "rating": 158.24143957466958,
-    "bestRating": 158.24143957466958,
-    "worstRating": 152.6158049992777,
+    "rating": 158.2414395746692,
+    "bestRating": 158.2414395746692,
+    "worstRating": 152.61580499927726,
     "_lastTenRatings": [
-      152.6158049992777,
-      152.77030364335883,
-      155.51667464402675,
-      158.24143957466958
+      152.61580499927726,
+      152.7703036433584,
+      155.51667464402632,
+      158.2414395746692
     ],
-    "tendency": 5.625634575391871
+    "tendency": 5.625634575391928
   },
   {
     "NAF Nr": "28350",
@@ -16066,16 +16014,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 62.5,
-    "rating": 152.06542564063466,
+    "rating": 152.0654256406342,
     "bestRating": 153.16227766016837,
     "worstRating": 149.44640309381825,
     "_lastTenRatings": [
       153.16227766016837,
       149.44640309381825,
-      152.1008374997316,
-      152.06542564063466
+      152.10083749973114,
+      152.0654256406342
     ],
-    "tendency": -1.0968520195337135
+    "tendency": -1.0968520195341682
   },
   {
     "NAF Nr": "30201",
@@ -16091,16 +16039,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 87.5,
-    "rating": 165.4708804366946,
-    "bestRating": 165.4708804366946,
+    "rating": 165.47087103791966,
+    "bestRating": 165.47087103791966,
     "worstRating": 155.0990195135928,
     "_lastTenRatings": [
       155.0990195135928,
-      160.65530336941322,
-      160.6374077530522,
-      165.4708804366946
+      160.65529318691478,
+      160.6373979690554,
+      165.47087103791966
     ],
-    "tendency": 10.37186092310182
+    "tendency": 10.371851524326871
   },
   {
     "NAF Nr": "31109",
@@ -16116,15 +16064,15 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 100,
-    "rating": 159.37334823832018,
-    "bestRating": 159.37334823832018,
+    "rating": 159.3733480237842,
+    "bestRating": 159.3733480237842,
     "worstRating": 153.16227766016837,
     "_lastTenRatings": [
       153.16227766016837,
       156.32455532033674,
-      159.37334823832018
+      159.3733480237842
     ],
-    "tendency": 6.211070578151805
+    "tendency": 6.211070363615818
   },
   {
     "NAF Nr": "31339",
@@ -16140,16 +16088,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 87.5,
-    "rating": 165.1632290747493,
-    "bestRating": 165.1632290747493,
+    "rating": 165.1632288099911,
+    "bestRating": 165.1632288099911,
     "worstRating": 155.0990195135928,
     "_lastTenRatings": [
       155.0990195135928,
       160.1980390271856,
-      160.2159346435466,
-      165.1632290747493
+      160.21593424504496,
+      165.1632288099911
     ],
-    "tendency": 10.064209561156503
+    "tendency": 10.064209296398303
   },
   {
     "NAF Nr": "31709",
@@ -16165,16 +16113,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 144.60383277853032,
-    "bestRating": 149.34276508747138,
-    "worstRating": 144.60383277853032,
+    "rating": 144.60383216259947,
+    "bestRating": 149.34276485563467,
+    "worstRating": 144.60383216259947,
     "_lastTenRatings": [
       144.9009804864072,
-      149.33319566039305,
-      149.34276508747138,
-      144.60383277853032
+      149.33319541053038,
+      149.34276485563467,
+      144.60383216259947
     ],
-    "tendency": -0.2971477078768885
+    "tendency": -0.2971483238077326
   },
   {
     "NAF Nr": "32814",
@@ -16190,16 +16138,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 144.87664484354482,
-    "bestRating": 148.4306500514986,
-    "worstRating": 144.42270796005644,
+    "rating": 144.8768016614802,
+    "bestRating": 148.43065005134977,
+    "worstRating": 144.4227079600563,
     "_lastTenRatings": [
-      144.42270796005644,
-      148.4306500514986,
-      144.77998753898,
-      144.87664484354482
+      144.4227079600563,
+      148.43065005134977,
+      144.78011867945833,
+      144.8768016614802
     ],
-    "tendency": 0.4539368834883817
+    "tendency": 0.4540937014238864
   },
   {
     "NAF Nr": "32829",
@@ -16215,16 +16163,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 0,
-    "rating": 137.11085365395064,
+    "rating": 137.1108536539502,
     "bestRating": 146.98249296004911,
-    "worstRating": 137.11085365395064,
+    "worstRating": 137.1108536539502,
     "_lastTenRatings": [
       146.98249296004911,
-      143.28320635093175,
-      140.1301867676845,
-      137.11085365395064
+      143.2832063509313,
+      140.13018676768405,
+      137.1108536539502
     ],
-    "tendency": -9.871639306098473
+    "tendency": -9.871639306098928
   },
   {
     "NAF Nr": "32981",
@@ -16240,16 +16188,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 12.5,
-    "rating": 135.54118118179335,
+    "rating": 135.54118128500923,
     "bestRating": 144.9009804864072,
     "worstRating": 135.2851326132037,
     "_lastTenRatings": [
       144.9009804864072,
       140.20026263762628,
       135.2851326132037,
-      135.54118118179335
+      135.54118128500923
     ],
-    "tendency": -9.359799304613858
+    "tendency": -9.359799201397976
   },
   {
     "NAF Nr": "33619",
@@ -16265,15 +16213,15 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 153.1252820985041,
-    "bestRating": 153.1252820985041,
+    "rating": 153.1252818799117,
+    "bestRating": 153.1252818799117,
     "worstRating": 146.83772233983163,
     "_lastTenRatings": [
       146.83772233983163,
       150,
-      153.1252820985041
+      153.1252818799117
     ],
-    "tendency": 6.287559758672472
+    "tendency": 6.287559540080082
   },
   {
     "NAF Nr": "34135",
@@ -16289,16 +16237,16 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.41235550936756,
-    "bestRating": 154.13455034103401,
-    "worstRating": 145.47163584294546,
+    "rating": 150.4124830245266,
+    "bestRating": 154.13455034105118,
+    "worstRating": 145.47163584296428,
     "_lastTenRatings": [
-      145.47163584294546,
-      150.0193684774124,
-      154.13455034103401,
-      150.41235550936756
+      145.47163584296428,
+      150.0193684774305,
+      154.13455034105118,
+      150.4124830245266
     ],
-    "tendency": 4.940719666422098
+    "tendency": 4.940847181562333
   },
   {
     "NAF Nr": "34963",
@@ -16314,15 +16262,15 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 83.33,
-    "rating": 156.21475897686818,
-    "bestRating": 156.21475897686818,
-    "worstRating": 153.12458390450365,
+    "rating": 156.21475876208407,
+    "bestRating": 156.21475876208407,
+    "worstRating": 153.1245836843796,
     "_lastTenRatings": [
       153.16227766016837,
-      153.12458390450365,
-      156.21475897686818
+      153.1245836843796,
+      156.21475876208407
     ],
-    "tendency": 3.0524813166998115
+    "tendency": 3.0524811019157028
   },
   {
     "NAF Nr": "35157",
@@ -16338,15 +16286,15 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 145.35040190972856,
-    "bestRating": 148.47568400823266,
-    "worstRating": 145.35040190972856,
+    "rating": 145.35039312090873,
+    "bestRating": 148.47567500082044,
+    "worstRating": 145.35039312090873,
     "_lastTenRatings": [
       146.83772233983163,
-      148.47568400823266,
-      145.35040190972856
+      148.47567500082044,
+      145.35039312090873
     ],
-    "tendency": -1.4873204301030682
+    "tendency": -1.4873292189228948
   },
   {
     "NAF Nr": "40203",
@@ -16362,15 +16310,15 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 147.06321014049502,
+    "rating": 147.06321013515506,
     "bestRating": 150.15338521285955,
     "worstRating": 146.83772233983163,
     "_lastTenRatings": [
       146.83772233983163,
       150.15338521285955,
-      147.06321014049502
+      147.06321013515506
     ],
-    "tendency": 0.22548780066338736
+    "tendency": 0.22548779532343133
   },
   {
     "NAF Nr": "40265",
@@ -16386,14 +16334,14 @@ const statsRaceBretonnian = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 0,
-    "rating": 139.0174115868086,
+    "rating": 139.01740264789586,
     "bestRating": 146.83772233983163,
-    "worstRating": 139.0174115868086,
+    "worstRating": 139.01740264789586,
     "_lastTenRatings": [
       146.83772233983163,
       143.67544467966326,
-      139.0174115868086
+      139.01740264789586
     ],
-    "tendency": -7.820310753023023
+    "tendency": -7.820319691935765
   }
 ];
