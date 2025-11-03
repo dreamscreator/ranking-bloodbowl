@@ -1,7 +1,7 @@
 const statsYear2021 = [
   {
     "NAF Nr": "9",
-    "NAF Name": "NON-NAF",
+    "NAF Name": "Zurgal",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 136.7764853315882,
