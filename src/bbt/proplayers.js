@@ -6,20 +6,20 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 72,
-        "totalWins": 10,
-        "totalDraws": 13,
-        "totalLosses": 49,
-        "totalWinRatio": 22.92
+        "totalGames": 79,
+        "totalWins": 11,
+        "totalDraws": 15,
+        "totalLosses": 53,
+        "totalWinRatio": 23.42
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 25,
+        "totalGames": 27,
         "totalWins": 1,
         "totalDraws": 5,
-        "totalLosses": 19,
-        "totalWinRatio": 14
+        "totalLosses": 21,
+        "totalWinRatio": 12.96
       }
     ],
     "megaProplayers": [
@@ -270,11 +270,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 35,
+        "totalGames": 36,
         "totalWins": 12,
         "totalDraws": 12,
-        "totalLosses": 11,
-        "totalWinRatio": 51.43
+        "totalLosses": 12,
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
@@ -288,11 +288,11 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 18,
+        "totalGames": 19,
         "totalWins": 3,
         "totalDraws": 5,
-        "totalLosses": 10,
-        "totalWinRatio": 30.56
+        "totalLosses": 11,
+        "totalWinRatio": 28.95
       }
     ]
   },
@@ -2127,9 +2127,9 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
-        "totalDraws": 1,
+        "totalDraws": 2,
         "totalLosses": 0,
         "totalWinRatio": 50
       }
@@ -2481,11 +2481,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 2,
+        "totalWins": 1,
         "totalDraws": 0,
-        "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalLosses": 1,
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
@@ -3141,20 +3141,20 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 0
+        "totalWinRatio": 25
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 0,
         "totalDraws": 2,
-        "totalLosses": 0,
-        "totalWinRatio": 50
+        "totalLosses": 1,
+        "totalWinRatio": 33.33
       }
     ],
     "megaProplayers": [
@@ -3645,11 +3645,11 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 0
+        "totalWinRatio": 25
       }
     ],
     "megaProplayers": [
@@ -3867,11 +3867,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 3,
+        "totalGames": 4,
         "totalWins": 0,
-        "totalDraws": 2,
+        "totalDraws": 3,
         "totalLosses": 1,
-        "totalWinRatio": 33.33
+        "totalWinRatio": 37.5
       }
     ],
     "topProplayers": [
@@ -4093,7 +4093,7 @@ const proplayers = [
   },
   {
     "NAF Nr": "39966",
-    "NAF Name": "Barritas",
+    "NAF Name": "Barritas08",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "proplayers": [
@@ -4587,6 +4587,39 @@ const proplayers = [
     ]
   },
   {
+    "NAF Nr": "41961",
+    "NAF Name": "Berbalol",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
     "NAF Nr": "37064",
     "NAF Name": "Berserk",
     "CCAA": "Castilla y León",
@@ -4626,19 +4659,19 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -4692,20 +4725,20 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 1,
+        "totalWins": 1,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "megaProplayers": [
@@ -5220,11 +5253,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 0
+        "totalWinRatio": 25
       }
     ],
     "topProplayers": [
@@ -5568,11 +5601,11 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 7,
+        "totalGames": 8,
         "totalWins": 2,
         "totalDraws": 2,
-        "totalLosses": 3,
-        "totalWinRatio": 42.86
+        "totalLosses": 4,
+        "totalWinRatio": 37.5
       }
     ]
   },
@@ -5649,20 +5682,20 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 26,
-        "totalWins": 13,
+        "totalGames": 28,
+        "totalWins": 14,
         "totalDraws": 5,
-        "totalLosses": 8,
-        "totalWinRatio": 59.62
+        "totalLosses": 9,
+        "totalWinRatio": 58.93
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 18,
-        "totalWins": 8,
+        "totalGames": 19,
+        "totalWins": 9,
         "totalDraws": 4,
         "totalLosses": 6,
-        "totalWinRatio": 55.56
+        "totalWinRatio": 57.89
       }
     ],
     "megaProplayers": [
@@ -6063,11 +6096,11 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 10,
+        "totalGames": 11,
         "totalWins": 1,
-        "totalDraws": 2,
+        "totalDraws": 3,
         "totalLosses": 7,
-        "totalWinRatio": 20
+        "totalWinRatio": 22.73
       }
     ]
   },
@@ -6186,10 +6219,10 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 2,
+        "totalLosses": 3,
         "totalWinRatio": 0
       }
     ],
@@ -6705,29 +6738,29 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 7,
+        "totalGames": 8,
         "totalWins": 1,
         "totalDraws": 2,
-        "totalLosses": 4,
-        "totalWinRatio": 28.57
+        "totalLosses": 5,
+        "totalWinRatio": 25
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 3,
+        "totalGames": 4,
         "totalWins": 0,
-        "totalDraws": 1,
+        "totalDraws": 2,
         "totalLosses": 2,
-        "totalWinRatio": 16.67
+        "totalWinRatio": 25
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 50
       }
     ]
   },
@@ -6771,11 +6804,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 2,
         "totalWins": 0,
-        "totalDraws": 0,
-        "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalDraws": 1,
+        "totalLosses": 1,
+        "totalWinRatio": 25
       }
     ],
     "topProplayers": [
@@ -6804,19 +6837,19 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 3,
+        "totalGames": 5,
         "totalWins": 1,
-        "totalDraws": 0,
-        "totalLosses": 2,
-        "totalWinRatio": 33.33
+        "totalDraws": 1,
+        "totalLosses": 3,
+        "totalWinRatio": 30
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -6837,11 +6870,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 14,
+        "totalGames": 15,
         "totalWins": 4,
         "totalDraws": 5,
-        "totalLosses": 5,
-        "totalWinRatio": 46.43
+        "totalLosses": 6,
+        "totalWinRatio": 43.33
       }
     ],
     "topProplayers": [
@@ -7284,11 +7317,11 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 0
+        "totalWinRatio": 25
       }
     ]
   },
@@ -7557,6 +7590,39 @@ const proplayers = [
     ]
   },
   {
+    "NAF Nr": "37026",
+    "NAF Name": "Chispa",
+    "CCAA": "Castilla y León",
+    "Country": "Spain",
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
     "NAF Nr": "24308",
     "NAF Name": "Chobinator",
     "CCAA": "Catalunya ",
@@ -7713,11 +7779,11 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 2,
-        "totalWins": 0,
+        "totalGames": 4,
+        "totalWins": 1,
         "totalDraws": 1,
-        "totalLosses": 1,
-        "totalWinRatio": 25
+        "totalLosses": 2,
+        "totalWinRatio": 37.5
       }
     ]
   },
@@ -7728,11 +7794,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 1,
         "totalDraws": 1,
-        "totalLosses": 0,
-        "totalWinRatio": 75
+        "totalLosses": 1,
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
@@ -8487,11 +8553,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 11,
-        "totalWins": 7,
-        "totalDraws": 0,
-        "totalLosses": 4,
-        "totalWinRatio": 63.64
+        "totalGames": 14,
+        "totalWins": 8,
+        "totalDraws": 1,
+        "totalLosses": 5,
+        "totalWinRatio": 60.71
       }
     ],
     "topProplayers": [
@@ -8553,11 +8619,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 1,
+        "totalWins": 1,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "topProplayers": [
@@ -9411,11 +9477,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 1,
+        "totalWins": 1,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "topProplayers": [
@@ -9807,11 +9873,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 16,
+        "totalGames": 17,
         "totalWins": 3,
-        "totalDraws": 4,
+        "totalDraws": 5,
         "totalLosses": 9,
-        "totalWinRatio": 31.25
+        "totalWinRatio": 32.35
       }
     ],
     "topProplayers": [
@@ -10296,6 +10362,39 @@ const proplayers = [
     ]
   },
   {
+    "NAF Nr": "32812",
+    "NAF Name": "Diezminha",
+    "CCAA": "I. Canarias",
+    "Country": "Spain",
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
     "NAF Nr": "36364",
     "NAF Name": "Difox",
     "CCAA": "Apatrida",
@@ -10665,11 +10764,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 5,
+        "totalGames": 6,
         "totalWins": 2,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 3,
-        "totalWinRatio": 40
+        "totalWinRatio": 41.67
       }
     ],
     "topProplayers": [
@@ -10683,11 +10782,11 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 1,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 100
+        "totalWinRatio": 75
       }
     ]
   },
@@ -11292,8 +11391,8 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 2,
-        "totalWins": 2,
+        "totalGames": 4,
+        "totalWins": 4,
         "totalDraws": 0,
         "totalLosses": 0,
         "totalWinRatio": 100
@@ -11301,19 +11400,19 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 2,
-        "totalWinRatio": 0
+        "totalWinRatio": 16.67
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ]
@@ -11457,11 +11556,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 12,
+        "totalGames": 13,
         "totalWins": 7,
-        "totalDraws": 2,
+        "totalDraws": 3,
         "totalLosses": 3,
-        "totalWinRatio": 66.67
+        "totalWinRatio": 65.38
       }
     ],
     "topProplayers": [
@@ -11598,10 +11697,10 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -11928,11 +12027,11 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 50
       }
     ],
     "megaProplayers": [
@@ -12654,11 +12753,11 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 8,
+        "totalGames": 10,
         "totalWins": 4,
-        "totalDraws": 2,
-        "totalLosses": 2,
-        "totalWinRatio": 62.5
+        "totalDraws": 3,
+        "totalLosses": 3,
+        "totalWinRatio": 55
       }
     ],
     "megaProplayers": [
@@ -13239,10 +13338,10 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -13371,11 +13470,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 12,
+        "totalGames": 13,
         "totalWins": 2,
         "totalDraws": 3,
-        "totalLosses": 7,
-        "totalWinRatio": 29.17
+        "totalLosses": 8,
+        "totalWinRatio": 26.92
       }
     ],
     "topProplayers": [
@@ -13503,20 +13602,20 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 8,
+        "totalGames": 9,
         "totalWins": 2,
         "totalDraws": 4,
-        "totalLosses": 2,
-        "totalWinRatio": 50
+        "totalLosses": 3,
+        "totalWinRatio": 44.44
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 1,
         "totalDraws": 0,
-        "totalLosses": 1,
-        "totalWinRatio": 50
+        "totalLosses": 2,
+        "totalWinRatio": 33.33
       }
     ],
     "megaProplayers": [
@@ -13846,6 +13945,39 @@ const proplayers = [
         "totalWins": 0,
         "totalDraws": 0,
         "totalLosses": 1,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
+    "NAF Nr": "17398",
+    "NAF Name": "Fertxu",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "proplayers": [
+      {
+        "totalGames": 1,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 1,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
         "totalWinRatio": 0
       }
     ],
@@ -14427,20 +14559,20 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 11,
-        "totalWins": 6,
+        "totalGames": 12,
+        "totalWins": 7,
         "totalDraws": 4,
         "totalLosses": 1,
-        "totalWinRatio": 72.73
+        "totalWinRatio": 75
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 8,
-        "totalWins": 3,
+        "totalGames": 9,
+        "totalWins": 4,
         "totalDraws": 1,
         "totalLosses": 4,
-        "totalWinRatio": 43.75
+        "totalWinRatio": 50
       }
     ],
     "megaProplayers": [
@@ -14733,11 +14865,11 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 1,
         "totalDraws": 0,
-        "totalLosses": 1,
-        "totalWinRatio": 50
+        "totalLosses": 2,
+        "totalWinRatio": 33.33
       }
     ],
     "megaProplayers": [
@@ -14865,10 +14997,10 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -14931,20 +15063,20 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 1,
+        "totalLosses": 2,
         "totalWinRatio": 0
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 0,
         "totalDraws": 1,
-        "totalLosses": 1,
-        "totalWinRatio": 25
+        "totalLosses": 2,
+        "totalWinRatio": 16.67
       }
     ]
   },
@@ -14984,6 +15116,39 @@ const proplayers = [
   {
     "NAF Nr": "42439",
     "NAF Name": "Galomar06",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
+    "NAF Nr": "41329",
+    "NAF Name": "Ganana",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "proplayers": [
@@ -15087,11 +15252,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 1,
-        "totalWins": 0,
+        "totalGames": 2,
+        "totalWins": 1,
         "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 50
+        "totalWinRatio": 75
       }
     ],
     "topProplayers": [
@@ -15105,11 +15270,11 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 0,
         "totalDraws": 1,
-        "totalLosses": 1,
-        "totalWinRatio": 25
+        "totalLosses": 2,
+        "totalWinRatio": 16.67
       }
     ]
   },
@@ -15780,20 +15945,20 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 14,
-        "totalWins": 4,
+        "totalGames": 15,
+        "totalWins": 5,
         "totalDraws": 4,
         "totalLosses": 6,
-        "totalWinRatio": 42.86
+        "totalWinRatio": 46.67
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 11,
-        "totalWins": 4,
+        "totalGames": 13,
+        "totalWins": 5,
         "totalDraws": 5,
-        "totalLosses": 2,
-        "totalWinRatio": 59.09
+        "totalLosses": 3,
+        "totalWinRatio": 57.69
       }
     ],
     "megaProplayers": [
@@ -15813,19 +15978,19 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -17868,11 +18033,11 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 6,
+        "totalGames": 7,
         "totalWins": 0,
-        "totalDraws": 2,
+        "totalDraws": 3,
         "totalLosses": 4,
-        "totalWinRatio": 16.67
+        "totalWinRatio": 21.43
       }
     ],
     "megaProplayers": [
@@ -17991,10 +18156,10 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -18684,10 +18849,10 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -18759,11 +18924,11 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 1,
+        "totalWins": 1,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "megaProplayers": [
@@ -19278,10 +19443,10 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -19707,11 +19872,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 12,
+        "totalGames": 13,
         "totalWins": 2,
         "totalDraws": 3,
-        "totalLosses": 7,
-        "totalWinRatio": 29.17
+        "totalLosses": 8,
+        "totalWinRatio": 26.92
       }
     ],
     "topProplayers": [
@@ -19773,11 +19938,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
-        "totalDraws": 0,
+        "totalGames": 2,
+        "totalWins": 1,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 75
       }
     ],
     "topProplayers": [
@@ -20253,11 +20418,11 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 3,
-        "totalWins": 1,
+        "totalGames": 4,
+        "totalWins": 2,
         "totalDraws": 0,
         "totalLosses": 2,
-        "totalWinRatio": 33.33
+        "totalWinRatio": 50
       }
     ]
   },
@@ -20400,11 +20565,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 2,
-        "totalWins": 0,
+        "totalGames": 3,
+        "totalWins": 1,
         "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 25
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
@@ -21192,11 +21357,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 4,
-        "totalWins": 0,
+        "totalGames": 6,
+        "totalWins": 1,
         "totalDraws": 1,
-        "totalLosses": 3,
-        "totalWinRatio": 12.5
+        "totalLosses": 4,
+        "totalWinRatio": 25
       }
     ],
     "topProplayers": [
@@ -21205,6 +21370,39 @@ const proplayers = [
         "totalWins": 0,
         "totalDraws": 0,
         "totalLosses": 1,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
+    "NAF Nr": "40196",
+    "NAF Name": "JoreDakkon",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
         "totalWinRatio": 0
       }
     ],
@@ -21324,11 +21522,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 11,
-        "totalWins": 5,
+        "totalGames": 12,
+        "totalWins": 6,
         "totalDraws": 3,
         "totalLosses": 3,
-        "totalWinRatio": 59.09
+        "totalWinRatio": 62.5
       }
     ],
     "topProplayers": [
@@ -22191,19 +22389,19 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 1,
+        "totalLosses": 2,
         "totalWinRatio": 0
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 1,
+        "totalLosses": 2,
         "totalWinRatio": 0
       }
     ]
@@ -22342,15 +22540,15 @@ const proplayers = [
   },
   {
     "NAF Nr": "29249",
-    "NAF Name": "JZurita",
+    "NAF Name": "JZurita87",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -22479,11 +22677,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 9,
-        "totalWins": 3,
+        "totalGames": 10,
+        "totalWins": 4,
         "totalDraws": 2,
         "totalLosses": 4,
-        "totalWinRatio": 44.44
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
@@ -22497,11 +22695,11 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 6,
+        "totalGames": 7,
         "totalWins": 1,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 5,
-        "totalWinRatio": 16.67
+        "totalWinRatio": 21.43
       }
     ]
   },
@@ -22516,6 +22714,39 @@ const proplayers = [
         "totalWins": 0,
         "totalDraws": 0,
         "totalLosses": 1,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
+    "NAF Nr": "40409",
+    "NAF Name": "kalitros",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
         "totalWinRatio": 0
       }
     ],
@@ -25278,6 +25509,39 @@ const proplayers = [
     ]
   },
   {
+    "NAF Nr": "32423",
+    "NAF Name": "Leiran",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
     "NAF Nr": "24735",
     "NAF Name": "Lemariont",
     "CCAA": "Apatrida",
@@ -26208,11 +26472,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 18,
+        "totalGames": 19,
         "totalWins": 5,
-        "totalDraws": 3,
+        "totalDraws": 4,
         "totalLosses": 10,
-        "totalWinRatio": 36.11
+        "totalWinRatio": 36.84
       }
     ],
     "topProplayers": [
@@ -26439,11 +26703,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 1,
+        "totalWins": 1,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "topProplayers": [
@@ -27522,6 +27786,39 @@ const proplayers = [
     ]
   },
   {
+    "NAF Nr": "35228",
+    "NAF Name": "MaestroH",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
     "NAF Nr": "39741",
     "NAF Name": "Magalo",
     "CCAA": "Apatrida",
@@ -28032,11 +28329,11 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 50
       }
     ],
     "megaProplayers": [
@@ -28437,10 +28734,10 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ]
@@ -29493,11 +29790,11 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 8,
-        "totalWins": 3,
+        "totalGames": 9,
+        "totalWins": 4,
         "totalDraws": 3,
         "totalLosses": 2,
-        "totalWinRatio": 56.25
+        "totalWinRatio": 61.11
       }
     ]
   },
@@ -29508,11 +29805,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 5,
+        "totalGames": 6,
         "totalWins": 1,
         "totalDraws": 2,
-        "totalLosses": 2,
-        "totalWinRatio": 40
+        "totalLosses": 3,
+        "totalWinRatio": 33.33
       }
     ],
     "topProplayers": [
@@ -29805,10 +30102,43 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
+        "totalGames": 2,
+        "totalWins": 0,
+        "totalDraws": 1,
+        "totalLosses": 1,
+        "totalWinRatio": 25
+      }
+    ],
+    "topProplayers": [
+      {
         "totalGames": 1,
         "totalWins": 0,
+        "totalDraws": 1,
+        "totalLosses": 0,
+        "totalWinRatio": 50
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 1,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
+    "NAF Nr": "24",
+    "NAF Name": "zakros",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
         "totalWinRatio": 0
       }
     ],
@@ -29832,8 +30162,8 @@ const proplayers = [
     ]
   },
   {
-    "NAF Nr": "24",
-    "NAF Name": "zakros",
+    "NAF Nr": "25215",
+    "NAF Name": "Mikelopanda",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "proplayers": [
@@ -30507,19 +30837,19 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 50
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 3,
+        "totalGames": 4,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 3,
+        "totalLosses": 4,
         "totalWinRatio": 0
       }
     ]
@@ -30597,11 +30927,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 3,
-        "totalWins": 1,
+        "totalGames": 4,
+        "totalWins": 2,
         "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 50
+        "totalWinRatio": 62.5
       }
     ],
     "topProplayers": [
@@ -31257,11 +31587,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 7,
-        "totalWins": 2,
+        "totalGames": 8,
+        "totalWins": 3,
         "totalDraws": 1,
         "totalLosses": 4,
-        "totalWinRatio": 35.71
+        "totalWinRatio": 43.75
       }
     ],
     "topProplayers": [
@@ -31275,11 +31605,11 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 1,
         "totalDraws": 1,
-        "totalLosses": 0,
-        "totalWinRatio": 75
+        "totalLosses": 1,
+        "totalWinRatio": 50
       }
     ]
   },
@@ -31356,19 +31686,19 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 0
+        "totalWinRatio": 25
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 1,
+        "totalLosses": 2,
         "totalWinRatio": 0
       }
     ],
@@ -32346,10 +32676,10 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 2,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 2,
         "totalWinRatio": 0
       }
     ],
@@ -32738,6 +33068,39 @@ const proplayers = [
   {
     "NAF Nr": "19567",
     "NAF Name": "NuclearBoyz",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
+    "NAF Nr": "42460",
+    "NAF Name": "Nurglete",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "proplayers": [
@@ -33255,10 +33618,10 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ]
@@ -33402,11 +33765,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 41,
-        "totalWins": 11,
-        "totalDraws": 7,
-        "totalLosses": 23,
-        "totalWinRatio": 35.37
+        "totalGames": 44,
+        "totalWins": 12,
+        "totalDraws": 8,
+        "totalLosses": 24,
+        "totalWinRatio": 36.36
       }
     ],
     "topProplayers": [
@@ -33534,11 +33897,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 1,
-        "totalDraws": 1,
+        "totalDraws": 2,
         "totalLosses": 0,
-        "totalWinRatio": 75
+        "totalWinRatio": 66.67
       }
     ],
     "topProplayers": [
@@ -34029,11 +34392,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 3,
-        "totalWins": 1,
+        "totalGames": 4,
+        "totalWins": 2,
         "totalDraws": 2,
         "totalLosses": 0,
-        "totalWinRatio": 66.67
+        "totalWinRatio": 75
       }
     ],
     "topProplayers": [
@@ -34326,11 +34689,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 7,
-        "totalWins": 1,
-        "totalDraws": 4,
+        "totalGames": 9,
+        "totalWins": 2,
+        "totalDraws": 5,
         "totalLosses": 2,
-        "totalWinRatio": 42.86
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
@@ -34491,11 +34854,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 20,
+        "totalGames": 21,
         "totalWins": 6,
-        "totalDraws": 10,
+        "totalDraws": 11,
         "totalLosses": 4,
-        "totalWinRatio": 55
+        "totalWinRatio": 54.76
       }
     ],
     "topProplayers": [
@@ -35580,10 +35943,10 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -35910,20 +36273,20 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 4,
+        "totalGames": 5,
         "totalWins": 2,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 2,
         "totalWinRatio": 50
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 3,
+        "totalGames": 4,
         "totalWins": 0,
         "totalDraws": 2,
-        "totalLosses": 1,
-        "totalWinRatio": 33.33
+        "totalLosses": 2,
+        "totalWinRatio": 25
       }
     ],
     "megaProplayers": [
@@ -36762,8 +37125,8 @@ const proplayers = [
     ]
   },
   {
-    "NAF Nr": "40309",
-    "NAF Name": "RayitoMarciano",
+    "NAF Nr": "4839",
+    "NAF Name": "Rayito",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "proplayers": [
@@ -36773,6 +37136,39 @@ const proplayers = [
         "totalDraws": 0,
         "totalLosses": 0,
         "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
+    "NAF Nr": "40309",
+    "NAF Name": "RayitoMarciano",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "proplayers": [
+      {
+        "totalGames": 1,
+        "totalWins": 0,
+        "totalDraws": 1,
+        "totalLosses": 0,
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
@@ -37692,11 +38088,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 6,
+        "totalGames": 8,
         "totalWins": 2,
-        "totalDraws": 1,
-        "totalLosses": 3,
-        "totalWinRatio": 41.67
+        "totalDraws": 2,
+        "totalLosses": 4,
+        "totalWinRatio": 37.5
       }
     ],
     "topProplayers": [
@@ -37787,6 +38183,39 @@ const proplayers = [
   {
     "NAF Nr": "14342",
     "NAF Name": "Rostek",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
+    "NAF Nr": "37223",
+    "NAF Name": "rowanna78",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "proplayers": [
@@ -38007,10 +38436,10 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 1,
+        "totalLosses": 2,
         "totalWinRatio": 0
       }
     ]
@@ -38295,20 +38724,20 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 7,
+        "totalGames": 8,
         "totalWins": 2,
-        "totalDraws": 3,
+        "totalDraws": 4,
         "totalLosses": 2,
         "totalWinRatio": 50
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 3,
+        "totalGames": 4,
         "totalWins": 0,
         "totalDraws": 1,
-        "totalLosses": 2,
-        "totalWinRatio": 16.67
+        "totalLosses": 3,
+        "totalWinRatio": 12.5
       }
     ]
   },
@@ -38880,29 +39309,29 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 15,
+        "totalGames": 16,
         "totalWins": 4,
         "totalDraws": 5,
-        "totalLosses": 6,
-        "totalWinRatio": 43.33
+        "totalLosses": 7,
+        "totalWinRatio": 40.63
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 3,
-        "totalWins": 1,
+        "totalGames": 4,
+        "totalWins": 2,
         "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 50
+        "totalWinRatio": 62.5
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 6,
+        "totalGames": 7,
         "totalWins": 0,
         "totalDraws": 3,
-        "totalLosses": 3,
-        "totalWinRatio": 25
+        "totalLosses": 4,
+        "totalWinRatio": 21.43
       }
     ]
   },
@@ -39375,29 +39804,29 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 26,
-        "totalWins": 13,
+        "totalGames": 27,
+        "totalWins": 14,
         "totalDraws": 10,
         "totalLosses": 3,
-        "totalWinRatio": 69.23
+        "totalWinRatio": 70.37
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 12,
+        "totalGames": 14,
         "totalWins": 3,
-        "totalDraws": 4,
-        "totalLosses": 5,
-        "totalWinRatio": 41.67
+        "totalDraws": 5,
+        "totalLosses": 6,
+        "totalWinRatio": 39.29
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 6,
-        "totalWins": 0,
+        "totalGames": 7,
+        "totalWins": 1,
         "totalDraws": 1,
         "totalLosses": 5,
-        "totalWinRatio": 8.33
+        "totalWinRatio": 21.43
       }
     ]
   },
@@ -39483,11 +39912,11 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 1,
+        "totalWins": 1,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "megaProplayers": [
@@ -39582,19 +40011,19 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 2,
+        "totalWins": 2,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 2,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 2,
         "totalWinRatio": 0
       }
     ]
@@ -39672,11 +40101,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 28,
+        "totalGames": 29,
         "totalWins": 15,
         "totalDraws": 8,
-        "totalLosses": 5,
-        "totalWinRatio": 67.86
+        "totalLosses": 6,
+        "totalWinRatio": 65.52
       }
     ],
     "topProplayers": [
@@ -40299,11 +40728,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 1,
         "totalDraws": 1,
-        "totalLosses": 0,
-        "totalWinRatio": 75
+        "totalLosses": 1,
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
@@ -41826,11 +42255,11 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 1,
+        "totalWins": 1,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "megaProplayers": [
@@ -41982,11 +42411,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 24,
+        "totalGames": 25,
         "totalWins": 9,
         "totalDraws": 6,
-        "totalLosses": 9,
-        "totalWinRatio": 50
+        "totalLosses": 10,
+        "totalWinRatio": 48
       }
     ],
     "topProplayers": [
@@ -42000,11 +42429,11 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 6,
+        "totalGames": 7,
         "totalWins": 1,
         "totalDraws": 0,
-        "totalLosses": 5,
-        "totalWinRatio": 16.67
+        "totalLosses": 6,
+        "totalWinRatio": 14.29
       }
     ]
   },
@@ -42792,10 +43221,10 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ]
@@ -43467,11 +43896,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 19,
+        "totalGames": 21,
         "totalWins": 3,
         "totalDraws": 6,
-        "totalLosses": 10,
-        "totalWinRatio": 31.58
+        "totalLosses": 12,
+        "totalWinRatio": 28.57
       }
     ],
     "topProplayers": [
@@ -43500,11 +43929,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 3,
-        "totalWins": 1,
-        "totalDraws": 1,
+        "totalGames": 5,
+        "totalWins": 2,
+        "totalDraws": 2,
         "totalLosses": 1,
-        "totalWinRatio": 50
+        "totalWinRatio": 60
       }
     ],
     "topProplayers": [
@@ -44160,11 +44589,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 20,
+        "totalGames": 21,
         "totalWins": 9,
-        "totalDraws": 6,
+        "totalDraws": 7,
         "totalLosses": 5,
-        "totalWinRatio": 60
+        "totalWinRatio": 59.52
       }
     ],
     "topProplayers": [
@@ -44862,11 +45291,11 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 50
       }
     ],
     "megaProplayers": [
@@ -45678,11 +46107,11 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 0,
         "totalDraws": 1,
-        "totalLosses": 1,
-        "totalWinRatio": 25
+        "totalLosses": 2,
+        "totalWinRatio": 16.67
       }
     ],
     "topProplayers": [
@@ -46272,20 +46701,20 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 22,
+        "totalGames": 23,
         "totalWins": 5,
-        "totalDraws": 9,
+        "totalDraws": 10,
         "totalLosses": 8,
-        "totalWinRatio": 43.18
+        "totalWinRatio": 43.48
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 10,
+        "totalGames": 11,
         "totalWins": 2,
         "totalDraws": 3,
-        "totalLosses": 5,
-        "totalWinRatio": 35
+        "totalLosses": 6,
+        "totalWinRatio": 31.82
       }
     ],
     "megaProplayers": [
@@ -46338,19 +46767,19 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 2,
-        "totalWins": 0,
+        "totalGames": 3,
+        "totalWins": 1,
         "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 25
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -46701,10 +47130,10 @@ const proplayers = [
     "Country": "Spain",
     "proplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 4,
         "totalWins": 0,
-        "totalDraws": 1,
-        "totalLosses": 1,
+        "totalDraws": 2,
+        "totalLosses": 2,
         "totalWinRatio": 25
       }
     ],
@@ -46987,6 +47416,39 @@ const proplayers = [
         "totalWins": 0,
         "totalDraws": 0,
         "totalLosses": 1,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
+    "NAF Nr": "29615",
+    "NAF Name": "ZarHugh",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
         "totalWinRatio": 0
       }
     ]
@@ -47379,10 +47841,10 @@ const proplayers = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ]
@@ -47535,11 +47997,11 @@ const proplayers = [
     ],
     "topProplayers": [
       {
-        "totalGames": 9,
-        "totalWins": 4,
+        "totalGames": 10,
+        "totalWins": 5,
         "totalDraws": 2,
         "totalLosses": 3,
-        "totalWinRatio": 55.56
+        "totalWinRatio": 60
       }
     ],
     "megaProplayers": [

@@ -1434,7 +1434,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "39966",
-    "NAF Name": "Barritas",
+    "NAF Name": "Barritas08",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 139.26853635004662,

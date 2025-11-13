@@ -4,23 +4,23 @@ const generalAll = [
     "NAF Name": "Zurgal",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 123.54257317612829,
+    "rating": 112.06079522027521,
     "bestRating": 161.22582714183224,
-    "worstRating": 60.229073789186614,
-    "tendency": 20.467673489677708,
-    "totalTournaments": 129,
-    "totalGames": 1492,
-    "totalWins": 392,
-    "totalDraws": 348,
-    "totalLosses": 752,
-    "totalWinRatio": 37.94,
+    "worstRating": 60.230537966215564,
+    "tendency": -16.93198900330553,
+    "totalTournaments": 131,
+    "totalGames": 1537,
+    "totalWins": 403,
+    "totalDraws": 359,
+    "totalLosses": 775,
+    "totalWinRatio": 37.9,
     "victoryStreak": 0,
     "bestVictoryStreak": 4,
-    "noLostStreak": 1,
+    "noLostStreak": 0,
     "bestNoLostStreak": 11,
-    "lostStreak": 0,
+    "lostStreak": 4,
     "worstLostStreak": 9,
-    "oneTdStreak": 12,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 14,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 6,
@@ -28,20 +28,20 @@ const generalAll = [
     "bestNoTdAgainstStreak": 11,
     "proplayers": [
       {
-        "totalGames": 72,
-        "totalWins": 10,
-        "totalDraws": 13,
-        "totalLosses": 49,
-        "totalWinRatio": 22.92
+        "totalGames": 79,
+        "totalWins": 11,
+        "totalDraws": 15,
+        "totalLosses": 53,
+        "totalWinRatio": 23.42
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 25,
+        "totalGames": 27,
         "totalWins": 1,
         "totalDraws": 5,
-        "totalLosses": 19,
-        "totalWinRatio": 14
+        "totalLosses": 21,
+        "totalWinRatio": 12.96
       }
     ],
     "megaProplayers": [
@@ -54,16 +54,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      103.07489968645058,
-      111.23266107333124,
-      107.90703272587045,
-      106.91262169382289,
-      109.47925124597397,
-      117.68295621834298,
-      117.72913689688882,
-      123.64171265100649,
-      120.66662702094847,
-      123.54257317612829
+      128.99278422358074,
+      128.99278422358074,
+      126.10247371709701,
+      126.02711048550125,
+      121.57435625484182,
+      129.75755455633896,
+      127.25599482204007,
+      121.92901273192341,
+      116.41002807422345,
+      112.06079522027521
     ]
   },
   {
@@ -309,28 +309,28 @@ const generalAll = [
     "NAF Name": "9085",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
+    "rating": 149.64936795121787,
+    "bestRating": 155.34723236841126,
+    "worstRating": 149.64936795121787,
+    "tendency": -1.0623379042129386,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 1,
+    "totalDraws": 2,
+    "totalLosses": 1,
+    "totalWinRatio": 50,
     "victoryStreak": 0,
-    "bestVictoryStreak": 0,
+    "bestVictoryStreak": 1,
     "noLostStreak": 0,
-    "bestNoLostStreak": 0,
-    "lostStreak": 0,
-    "worstLostStreak": 0,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
+    "bestNoLostStreak": 3,
+    "lostStreak": 1,
+    "worstLostStreak": 1,
+    "oneTdStreak": 3,
+    "bestOneTdStreak": 3,
     "twoTdStreak": 0,
-    "bestTwoTdStreak": 0,
+    "bestTwoTdStreak": 1,
     "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
         "totalGames": 0,
@@ -357,6 +357,12 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      150.7117058554308,
+      155.34723236841126,
+      154.86656645069587,
+      149.64936795121787
     ]
   },
   {
@@ -364,10 +370,10 @@ const generalAll = [
     "NAF Name": "A.costa",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 139.2668192887136,
+    "rating": 139.26812104680104,
     "bestRating": 155.2036161120011,
     "worstRating": 129.58271384503246,
-    "tendency": -9.990081405882279,
+    "tendency": -9.988779647794843,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 3,
@@ -422,8 +428,8 @@ const generalAll = [
       139.9224133487423,
       134.45350587596076,
       129.58271384503246,
-      134.52522854270723,
-      139.2668192887136
+      134.52530030663343,
+      139.26812104680104
     ]
   },
   {
@@ -494,35 +500,35 @@ const generalAll = [
     "NAF Name": "Abaddon",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 180.80452709077042,
+    "rating": 158.72878763996127,
     "bestRating": 218.78173319060656,
     "worstRating": 145.52786404500043,
-    "tendency": -9.68730814718674,
-    "totalTournaments": 66,
-    "totalGames": 269,
+    "tendency": -14.644128943919213,
+    "totalTournaments": 67,
+    "totalGames": 274,
     "totalWins": 132,
-    "totalDraws": 70,
-    "totalLosses": 67,
-    "totalWinRatio": 62.08,
-    "victoryStreak": 1,
+    "totalDraws": 71,
+    "totalLosses": 71,
+    "totalWinRatio": 61.13,
+    "victoryStreak": 0,
     "bestVictoryStreak": 7,
-    "noLostStreak": 5,
+    "noLostStreak": 0,
     "bestNoLostStreak": 12,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 3,
-    "oneTdStreak": 5,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 26,
-    "twoTdStreak": 1,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 6,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 5,
     "proplayers": [
       {
-        "totalGames": 35,
+        "totalGames": 36,
         "totalWins": 12,
         "totalDraws": 12,
-        "totalLosses": 11,
-        "totalWinRatio": 51.43
+        "totalLosses": 12,
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
@@ -536,24 +542,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 18,
+        "totalGames": 19,
         "totalWins": 3,
         "totalDraws": 5,
-        "totalLosses": 10,
-        "totalWinRatio": 30.56
+        "totalLosses": 11,
+        "totalWinRatio": 28.95
       }
     ],
     "_lastTenRatings": [
-      190.49183523795716,
-      186.10450891455756,
-      178.00785451073114,
-      177.72868068124805,
-      173.48943349120833,
-      173.37286624334854,
-      172.31466070778998,
-      175.81130318900853,
-      176.12326691518453,
-      180.80452709077042
+      173.37291658388048,
+      172.31478061293095,
+      175.81142525795383,
+      176.1234080490243,
+      180.80466641581182,
+      177.97693077576616,
+      170.86336233507532,
+      163.86475868413638,
+      163.3841221517504,
+      158.72878763996127
     ]
   },
   {
@@ -561,10 +567,10 @@ const generalAll = [
     "NAF Name": "Abby Cadaby",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 72.02975681352787,
+    "rating": 72.03058061275546,
     "bestRating": 144.2505326456101,
-    "worstRating": 72.02975681352787,
-    "tendency": -25.133220477020444,
+    "worstRating": 72.03058061275546,
+    "tendency": -25.133027178896,
     "totalTournaments": 6,
     "totalGames": 22,
     "totalWins": 1,
@@ -611,16 +617,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      97.16297729054831,
-      93.43080071631341,
-      90.21980903076789,
-      86.833697809068,
-      89.22394698162465,
-      86.00860169479782,
-      82.92635371051199,
-      79.82177735399524,
-      75.68014267584252,
-      72.02975681352787
+      97.16360779165146,
+      93.43141396072295,
+      90.22040238245906,
+      86.83427912828517,
+      89.22460413146982,
+      86.00932721226279,
+      82.9270542525516,
+      79.82245086506686,
+      75.68079911321733,
+      72.03058061275546
     ]
   },
   {
@@ -744,10 +750,10 @@ const generalAll = [
     "NAF Name": "ACDC",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 155.3609192356723,
-    "bestRating": 155.3609192356723,
-    "worstRating": 146.09808653156063,
-    "tendency": 9.262832704111673,
+    "rating": 155.36140327140006,
+    "bestRating": 155.36140327140006,
+    "worstRating": 146.0981052571051,
+    "tendency": 9.263298014294975,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -794,10 +800,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      146.09808653156063,
-      150.6350474379224,
-      150.54707311752614,
-      155.3609192356723
+      146.0981052571051,
+      150.63557022079732,
+      150.54757820323866,
+      155.36140327140006
     ]
   },
   {
@@ -872,10 +878,10 @@ const generalAll = [
     "NAF Name": "AcrtVince",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150.22330243768837,
-    "bestRating": 150.48967429209947,
-    "worstRating": 144.3752421926623,
-    "tendency": 5.3614462683143245,
+    "rating": 150.22334696085844,
+    "bestRating": 150.48970047689363,
+    "worstRating": 144.37528243207367,
+    "tendency": 5.361463718297017,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -922,10 +928,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.86185616937405,
-      150.48967429209947,
-      144.3752421926623,
-      150.22330243768837
+      144.86188324256142,
+      150.48970047689363,
+      144.37528243207367,
+      150.22334696085844
     ]
   },
   {
@@ -1115,10 +1121,10 @@ const generalAll = [
     "NAF Name": "Adriman",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 117.19265913290572,
+    "rating": 117.1940100080645,
     "bestRating": 155.65685424949237,
-    "worstRating": 117.19265913290572,
-    "tendency": -38.46419511658665,
+    "worstRating": 117.1940100080645,
+    "tendency": -38.462844241427874,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 1,
@@ -1171,10 +1177,10 @@ const generalAll = [
       145.15754495419773,
       139.71084346894511,
       134.17451822813,
-      134.3133592014898,
-      129.2329040499908,
-      122.76415669710234,
-      117.19265913290572
+      134.313431538503,
+      129.23297327888642,
+      122.76556873053617,
+      117.1940100080645
     ]
   },
   {
@@ -1249,10 +1255,10 @@ const generalAll = [
     "NAF Name": "Adrozz",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 132.50297019010122,
-    "bestRating": 153.7081122756615,
-    "worstRating": 132.50297019010122,
-    "tendency": -14.095817857932815,
+    "rating": 132.50314767453986,
+    "bestRating": 153.7081203180284,
+    "worstRating": 132.50314767453986,
+    "tendency": -14.095640373494177,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -1302,13 +1308,13 @@ const generalAll = [
       146.59878804803404,
       141.02398849661992,
       146.75162642873445,
-      153.7081122756615,
-      147.95921883256852,
-      142.67024948831278,
-      138.48630240195038,
-      143.69078563676982,
-      138.6794184975392,
-      132.50297019010122
+      153.7081203180284,
+      147.9592265263615,
+      142.67025928865124,
+      138.48631180562583,
+      143.69082662989223,
+      138.679457733998,
+      132.50314767453986
     ]
   },
   {
@@ -1316,10 +1322,10 @@ const generalAll = [
     "NAF Name": "Aegis",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 134.29223230491257,
+    "rating": 134.29330447753625,
     "bestRating": 144.34314575050763,
     "worstRating": 113.95554046802022,
-    "tendency": 4.9214429286923576,
+    "tendency": 4.922513482052409,
     "totalTournaments": 10,
     "totalGames": 42,
     "totalWins": 14,
@@ -1366,16 +1372,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      129.37078937622022,
-      135.00154926993105,
-      131.7572437754805,
-      131.2300941178904,
-      131.7846341705401,
-      136.08553468185002,
-      136.6339385145804,
-      143.1562397534371,
-      139.3686022849152,
-      134.29223230491257
+      129.37079099548384,
+      135.00155088949634,
+      131.75728608620574,
+      131.23130058800155,
+      131.7857996495405,
+      136.08665870690706,
+      136.63501419538687,
+      143.15731258828623,
+      139.36967734103803,
+      134.29330447753625
     ]
   },
   {
@@ -1444,10 +1450,10 @@ const generalAll = [
     "NAF Name": "Aeticus",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 124.70646025993511,
+    "rating": 124.70722040865941,
     "bestRating": 148.41310994070236,
-    "worstRating": 124.56980894668449,
-    "tendency": -8.96554233064569,
+    "worstRating": 124.570592074505,
+    "tendency": -8.965694899025081,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 5,
@@ -1494,16 +1500,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      133.6720025905808,
-      138.68763132272557,
-      133.06798387844026,
-      132.68738784707972,
-      139.59951823147748,
-      134.99399396590337,
-      131.35466288662465,
-      131.04715024810946,
-      124.56980894668449,
-      124.70646025993511
+      133.6729153076845,
+      138.68866841416576,
+      133.06900337973266,
+      132.6883701867369,
+      139.600311967837,
+      134.9947507154924,
+      131.35540451881735,
+      131.0478731047459,
+      124.570592074505,
+      124.70722040865941
     ]
   },
   {
@@ -1511,10 +1517,10 @@ const generalAll = [
     "NAF Name": "Afur",
     "Country": "Spain",
     "CCAA": "I. Canarias",
-    "rating": 155.26322780932466,
-    "bestRating": 155.26322780932466,
-    "worstRating": 144.9009804864072,
-    "tendency": 10.362247322917455,
+    "rating": 155.3669340335454,
+    "bestRating": 155.3669340335454,
+    "worstRating": 144.80384757729337,
+    "tendency": 10.563086456252023,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -1561,9 +1567,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.9009804864072,
+      144.80384757729337,
       150,
-      155.26322780932466
+      155.3669340335454
     ]
   },
   {
@@ -1638,10 +1644,10 @@ const generalAll = [
     "NAF Name": "Agazapado",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 151.94322133907835,
+    "rating": 151.94322133930172,
     "bestRating": 172.40509843827724,
     "worstRating": 144.34314575050763,
-    "tendency": -12.530233659230902,
+    "tendency": -12.530233659007536,
     "totalTournaments": 8,
     "totalGames": 31,
     "totalWins": 12,
@@ -1697,7 +1703,7 @@ const generalAll = [
       155.9932275769512,
       151.09569860968912,
       151.7980792506506,
-      151.94322133907835
+      151.94322133930172
     ]
   },
   {
@@ -1772,10 +1778,10 @@ const generalAll = [
     "NAF Name": "Agurck",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 202.40642035059415,
-    "bestRating": 204.2215273270018,
+    "rating": 202.40645421819417,
+    "bestRating": 204.22156162291918,
     "worstRating": 155.44927865858418,
-    "tendency": 26.705175112848934,
+    "tendency": 26.70520898044896,
     "totalTournaments": 6,
     "totalGames": 26,
     "totalWins": 16,
@@ -1830,8 +1836,8 @@ const generalAll = [
       190.73685978234317,
       193.90781442933545,
       197.95001632641663,
-      204.2215273270018,
-      202.40642035059415
+      204.22156162291918,
+      202.40645421819417
     ]
   },
   {
@@ -1839,10 +1845,10 @@ const generalAll = [
     "NAF Name": "Aguss",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 193.79034161625046,
-    "bestRating": 201.73474763575743,
+    "rating": 193.79052179768834,
+    "bestRating": 201.73475018828296,
     "worstRating": 151.1689330874722,
-    "tendency": 0.3415414963629928,
+    "tendency": 0.3416487465044611,
     "totalTournaments": 27,
     "totalGames": 104,
     "totalWins": 46,
@@ -1889,16 +1895,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      193.44880011988747,
-      187.586578108978,
-      183.00592938459081,
-      185.48004748654014,
-      187.36693329689794,
-      191.57884283065414,
-      194.23831375360737,
-      192.09583268441563,
-      196.6662877714303,
-      193.79034161625046
+      193.44887305118388,
+      187.58664788975514,
+      183.00605339321504,
+      185.48016781545527,
+      187.36705004290474,
+      191.5789548643662,
+      194.23853918235105,
+      192.096050298407,
+      196.66649690266573,
+      193.79052179768834
     ]
   },
   {
@@ -1973,10 +1979,10 @@ const generalAll = [
     "NAF Name": "Ailannan",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 148.6141304199526,
-    "bestRating": 154.3025391634281,
-    "worstRating": 148.6141304199526,
-    "tendency": -5.688408743475492,
+    "rating": 148.62626652823207,
+    "bestRating": 154.31193390086398,
+    "worstRating": 148.62626652823207,
+    "tendency": -5.685667372631912,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -2023,9 +2029,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      154.3025391634281,
-      153.23900383754915,
-      148.6141304199526
+      154.31193390086398,
+      153.25222880810875,
+      148.62626652823207
     ]
   },
   {
@@ -2094,10 +2100,10 @@ const generalAll = [
     "NAF Name": "Ainur",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 156.92621195603388,
-    "bestRating": 168.2254304396407,
+    "rating": 156.92628709038348,
+    "bestRating": 168.22543089118386,
     "worstRating": 146.65693363462893,
-    "tendency": -5.613253581656835,
+    "tendency": -5.613178447307234,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 8,
@@ -2151,9 +2157,9 @@ const generalAll = [
       164.78653422171288,
       163.92705533160205,
       164.7574803989972,
-      168.2254304396407,
-      162.0133315391079,
-      156.92621195603388
+      168.22543089118386,
+      162.01340741696964,
+      156.92628709038348
     ]
   },
   {
@@ -2161,10 +2167,10 @@ const generalAll = [
     "NAF Name": "Airam",
     "Country": "Spain",
     "CCAA": "I. Canarias",
-    "rating": 144.9009804864072,
-    "bestRating": 155.0990195135928,
-    "worstRating": 144.9009804864072,
-    "tendency": -10.198039027185587,
+    "rating": 144.80384757729337,
+    "bestRating": 155.19615242270663,
+    "worstRating": 144.80384757729337,
+    "tendency": -10.392304845413264,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -2211,9 +2217,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      155.0990195135928,
+      155.19615242270663,
       150,
-      144.9009804864072
+      144.80384757729337
     ]
   },
   {
@@ -2221,10 +2227,10 @@ const generalAll = [
     "NAF Name": "Airus",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 141.82311014143448,
-    "bestRating": 149.3503923696546,
-    "worstRating": 141.82311014143448,
-    "tendency": -7.527282228220116,
+    "rating": 141.8231692497312,
+    "bestRating": 149.3504168668017,
+    "worstRating": 141.8231692497312,
+    "tendency": -7.527247617070515,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 0,
@@ -2271,9 +2277,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      149.3503923696546,
-      146.40624887295246,
-      141.82311014143448
+      149.3504168668017,
+      146.40627184872238,
+      141.8231692497312
     ]
   },
   {
@@ -2281,10 +2287,10 @@ const generalAll = [
     "NAF Name": "Aitatxu",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 160.65358047344807,
-    "bestRating": 171.1113318249292,
+    "rating": 160.65363939660796,
+    "bestRating": 171.11140869394663,
     "worstRating": 154.05069487974254,
-    "tendency": 1.9732475993622245,
+    "tendency": 1.9733065225221083,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 6,
@@ -2332,15 +2338,15 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       158.68033287408585,
-      163.78279035660645,
-      171.1113318249292,
-      166.46366730494154,
-      160.6321325276072,
-      161.78346151289352,
-      155.61638378380368,
-      160.60641603140186,
-      155.13986403237644,
-      160.65358047344807
+      163.7828703973427,
+      171.11140869394663,
+      166.4637409426851,
+      160.63220311439852,
+      161.78353180458987,
+      155.6164510484062,
+      160.60648041965686,
+      155.13992562818848,
+      160.65363939660796
     ]
   },
   {
@@ -2468,10 +2474,10 @@ const generalAll = [
     "NAF Name": "Ako",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 152.31894245146333,
-    "bestRating": 153.70568841006923,
+    "rating": 152.31899083437585,
+    "bestRating": 153.70573087468182,
     "worstRating": 144.59511229779335,
-    "tendency": 7.723830153669979,
+    "tendency": 7.723878536582504,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 3,
@@ -2521,10 +2527,10 @@ const generalAll = [
       144.59511229779335,
       150.28323823018343,
       150.2632441272531,
-      146.97610237725507,
-      153.70568841006923,
-      147.34741773297412,
-      152.31894245146333
+      146.97614669693888,
+      153.70573087468182,
+      147.34745839913998,
+      152.31899083437585
     ]
   },
   {
@@ -2532,10 +2538,10 @@ const generalAll = [
     "NAF Name": "Alameda 54",
     "Country": "Spain",
     "CCAA": "I. Baleares",
-    "rating": 122.37687657240797,
+    "rating": 122.37700891651997,
     "bestRating": 144.21067337003635,
-    "worstRating": 122.37687657240797,
-    "tendency": -21.83379679762838,
+    "worstRating": 122.37700891651997,
+    "tendency": -21.833664453516377,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 0,
@@ -2585,9 +2591,9 @@ const generalAll = [
       144.21067337003635,
       138.601632557696,
       133.04027556182803,
-      127.56544562503429,
-      123.02197131497861,
-      122.37687657240797
+      127.56551479322837,
+      123.02203759636606,
+      122.37700891651997
     ]
   },
   {
@@ -2595,10 +2601,10 @@ const generalAll = [
     "NAF Name": "Alastor",
     "Country": "Spain",
     "CCAA": "Murcia",
-    "rating": 143.1412662695354,
-    "bestRating": 158.89554709736615,
+    "rating": 143.13725515791918,
+    "bestRating": 158.8956975788533,
     "worstRating": 136.94591198419909,
-    "tendency": -10.982683311326099,
+    "tendency": -10.986776378695424,
     "totalTournaments": 11,
     "totalGames": 46,
     "totalWins": 17,
@@ -2645,16 +2651,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      154.1239495808615,
-      148.1166482755149,
-      152.47085907519548,
-      158.06212026714815,
-      158.89554709736615,
-      154.3820432312328,
-      147.72110151897243,
-      142.15098803366763,
-      144.63993853435494,
-      143.1412662695354
+      154.1240315366146,
+      148.11674130410495,
+      152.47095853508267,
+      158.0622562475427,
+      158.8956975788533,
+      154.38214888994273,
+      147.71661193863736,
+      142.1466945042943,
+      144.63572688644953,
+      143.13725515791918
     ]
   },
   {
@@ -2722,27 +2728,27 @@ const generalAll = [
     "NAF Name": "alberto.emcc",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 144.46196752218214,
+    "rating": 128.4681976147989,
     "bestRating": 155.96639554308592,
-    "worstRating": 141.1558932280461,
-    "tendency": -10.362979501125608,
-    "totalTournaments": 4,
-    "totalGames": 14,
+    "worstRating": 128.4681976147989,
+    "tendency": -23.122104089193243,
+    "totalTournaments": 5,
+    "totalGames": 19,
     "totalWins": 5,
-    "totalDraws": 3,
-    "totalLosses": 6,
-    "totalWinRatio": 46.43,
-    "victoryStreak": 1,
+    "totalDraws": 5,
+    "totalLosses": 9,
+    "totalWinRatio": 39.47,
+    "victoryStreak": 0,
     "bestVictoryStreak": 2,
-    "noLostStreak": 2,
+    "noLostStreak": 1,
     "bestNoLostStreak": 3,
     "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 2,
+    "oneTdStreak": 1,
     "bestOneTdStreak": 3,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 2,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
@@ -2772,16 +2778,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      154.82494702330774,
-      154.3455447638774,
-      151.72335671517877,
-      145.23688746356459,
-      151.28380681646203,
       151.59030170399214,
       146.95176148433035,
       142.03215291054207,
       141.1558932280461,
-      144.46196752218214
+      144.46196752218214,
+      139.32099834233503,
+      139.59478103699624,
+      133.56713515731548,
+      129.63524932780155,
+      128.4681976147989
     ]
   },
   {
@@ -2854,10 +2860,10 @@ const generalAll = [
     "NAF Name": "albertoz",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 189.59447016166405,
-    "bestRating": 189.59447016166405,
+    "rating": 189.59447041806848,
+    "bestRating": 189.59447041806848,
     "worstRating": 139.44789833740023,
-    "tendency": 13.971685173694851,
+    "tendency": 13.971685430099285,
     "totalTournaments": 13,
     "totalGames": 52,
     "totalWins": 27,
@@ -2911,9 +2917,9 @@ const generalAll = [
       178.69095410019906,
       173.41030896135675,
       176.79350569150162,
-      177.9801682409148,
-      184.44136825545692,
-      189.59447016166405
+      177.98016836481457,
+      184.44136838238205,
+      189.59447041806848
     ]
   },
   {
@@ -2921,10 +2927,10 @@ const generalAll = [
     "NAF Name": "albruv",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 160.6340862565538,
+    "rating": 160.63408625684474,
     "bestRating": 173.72932447674012,
     "worstRating": 145.41811255131208,
-    "tendency": -0.37401992101226256,
+    "tendency": -0.3740199207213095,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 14,
@@ -2980,7 +2986,7 @@ const generalAll = [
       160.41247223993568,
       160.88371638827047,
       167.09865321494993,
-      160.6340862565538
+      160.63408625684474
     ]
   },
   {
@@ -3049,10 +3055,10 @@ const generalAll = [
     "NAF Name": "Aldeju",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 153.59797189819471,
+    "rating": 153.59887773097313,
     "bestRating": 155.88207676248786,
     "worstRating": 145.59760382821204,
-    "tendency": 4.565611735432128,
+    "tendency": 4.566517568210543,
     "totalTournaments": 5,
     "totalGames": 17,
     "totalWins": 7,
@@ -3107,8 +3113,8 @@ const generalAll = [
       155.88207676248786,
       151.91184716981778,
       149.5839783896082,
-      151.617488926947,
-      153.59797189819471
+      151.61839396843087,
+      153.59887773097313
     ]
   },
   {
@@ -3116,10 +3122,10 @@ const generalAll = [
     "NAF Name": "aleniel9",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 136.77461531718959,
+    "rating": 136.7749311799876,
     "bestRating": 144.26449733544575,
-    "worstRating": 136.77461531718959,
-    "tendency": -7.489882018256168,
+    "worstRating": 136.7749311799876,
+    "tendency": -7.489566155458164,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -3168,8 +3174,8 @@ const generalAll = [
     "_lastTenRatings": [
       144.26449733544575,
       143.95565548014073,
-      137.87932706225513,
-      136.77461531718959
+      137.87932708105893,
+      136.7749311799876
     ]
   },
   {
@@ -3177,10 +3183,10 @@ const generalAll = [
     "NAF Name": "alex182",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 172.14606868055677,
+    "rating": 172.14615504160895,
     "bestRating": 194.65535355131948,
     "worstRating": 150,
-    "tendency": -18.905453174701847,
+    "tendency": -18.905366813649664,
     "totalTournaments": 9,
     "totalGames": 38,
     "totalWins": 19,
@@ -3233,10 +3239,10 @@ const generalAll = [
       184.1614429946285,
       175.41473440175014,
       167.69533826730833,
-      174.44365624556906,
-      178.7371920253656,
-      178.5337021066928,
-      172.14606868055677
+      174.4436628131919,
+      178.7372021711394,
+      178.53371743397287,
+      172.14615504160895
     ]
   },
   {
@@ -3244,10 +3250,10 @@ const generalAll = [
     "NAF Name": "Alexeybaal",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 144.53513655254997,
+    "rating": 144.53521691356445,
     "bestRating": 155.80086672871755,
     "worstRating": 144.24207422393442,
-    "tendency": -5.3637918544050365,
+    "tendency": -5.363711493390554,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 2,
@@ -3299,11 +3305,11 @@ const generalAll = [
       155.80086672871755,
       155.7016927786699,
       155.78928043961605,
-      154.41328700976197,
-      153.05612346855864,
-      146.39818999420214,
-      145.425580490857,
-      144.53513655254997
+      154.41327985104033,
+      153.05610953044342,
+      146.3981925222009,
+      145.42562355171637,
+      144.53521691356445
     ]
   },
   {
@@ -3311,10 +3317,10 @@ const generalAll = [
     "NAF Name": "Alexisg75",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 143.27925722819768,
+    "rating": 143.27959246321316,
     "bestRating": 144.85609372171896,
-    "worstRating": 138.70096555552286,
-    "tendency": -1.5768364935212844,
+    "worstRating": 138.70099692135932,
+    "tendency": -1.5765012585058003,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -3362,9 +3368,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       144.85609372171896,
-      138.70096555552286,
-      138.71591272264263,
-      143.27925722819768
+      138.70099692135932,
+      138.71594647199228,
+      143.27959246321316
     ]
   },
   {
@@ -3500,10 +3506,10 @@ const generalAll = [
     "NAF Name": "alghimo",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 162.70076162220522,
-    "bestRating": 162.70076162220522,
+    "rating": 162.70078534922237,
+    "bestRating": 162.70078534922237,
     "worstRating": 142.16280084500784,
-    "tendency": 10.80476037079751,
+    "tendency": 10.804784097814661,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 4,
@@ -3558,8 +3564,8 @@ const generalAll = [
       142.42794534728534,
       148.41319311856097,
       154.53106784534506,
-      160.88565464579756,
-      162.70076162220522
+      160.88567794449736,
+      162.70078534922237
     ]
   },
   {
@@ -3628,10 +3634,10 @@ const generalAll = [
     "NAF Name": "Allorolorito",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 165.4713041665711,
-    "bestRating": 165.4713041665711,
+    "rating": 165.47130581298646,
+    "bestRating": 165.47130581298646,
     "worstRating": 141.81123939434153,
-    "tendency": 23.00840129984408,
+    "tendency": 23.00840294625945,
     "totalTournaments": 4,
     "totalGames": 20,
     "totalWins": 8,
@@ -3684,10 +3690,10 @@ const generalAll = [
       146.8974768705591,
       153.01512276228192,
       158.91899147658455,
-      154.05034205763835,
-      156.82187364902668,
-      162.74644009735215,
-      165.4713041665711
+      154.05034206302236,
+      156.82187540380022,
+      162.74644177730346,
+      165.47130581298646
     ]
   },
   {
@@ -3815,10 +3821,10 @@ const generalAll = [
     "NAF Name": "Alvar",
     "Country": "Spain",
     "CCAA": "Aragón",
-    "rating": 180.6706014356123,
-    "bestRating": 193.25197825628473,
+    "rating": 180.67062371763143,
+    "bestRating": 193.2519785563268,
     "worstRating": 126.39621473417706,
-    "tendency": 1.1475285582781396,
+    "tendency": 1.1475508402972707,
     "totalTournaments": 12,
     "totalGames": 47,
     "totalWins": 19,
@@ -3871,10 +3877,10 @@ const generalAll = [
       184.61130259444113,
       190.92494833237205,
       184.09238554536975,
-      187.80091483105969,
-      193.25197825628473,
-      185.95683344485357,
-      180.6706014356123
+      187.80091514379143,
+      193.2519785563268,
+      185.95684156189944,
+      180.67062371763143
     ]
   },
   {
@@ -3949,10 +3955,10 @@ const generalAll = [
     "NAF Name": "AlWiggin",
     "Country": "Spain",
     "CCAA": "I. Baleares",
-    "rating": 169.75578362913694,
-    "bestRating": 169.75578362913694,
+    "rating": 169.75699032098328,
+    "bestRating": 169.75699032098328,
     "worstRating": 155.44670148525262,
-    "tendency": 14.309082143884325,
+    "tendency": 14.31028883573066,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 4,
@@ -4003,8 +4009,8 @@ const generalAll = [
       157.00666421685077,
       162.7780504546664,
       161.28595451437653,
-      166.14165397031937,
-      169.75578362913694
+      166.14171887863483,
+      169.75699032098328
     ]
   },
   {
@@ -4012,10 +4018,10 @@ const generalAll = [
     "NAF Name": "Amarok",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 142.03142392643045,
+    "rating": 142.03151677038207,
     "bestRating": 162.30471620937445,
     "worstRating": 133.58768896906588,
-    "tendency": 2.516993599421255,
+    "tendency": 2.5170864433728752,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 7,
@@ -4068,10 +4074,10 @@ const generalAll = [
       134.79383556895004,
       139.8827006420401,
       141.39108520679542,
-      138.9672961292159,
-      133.6307866030332,
-      137.6573316201186,
-      142.03142392643045
+      138.96731949014585,
+      133.63081037793654,
+      137.6574222880765,
+      142.03151677038207
     ]
   },
   {
@@ -4079,25 +4085,25 @@ const generalAll = [
     "NAF Name": "amen0",
     "Country": "Spain",
     "CCAA": "Cantabria ",
-    "rating": 192.4182961837767,
-    "bestRating": 192.4182961837767,
+    "rating": 192.86767632997578,
+    "bestRating": 193.98246028298024,
     "worstRating": 152.91604507583043,
-    "tendency": 5.2975053837425605,
-    "totalTournaments": 6,
-    "totalGames": 25,
-    "totalWins": 14,
-    "totalDraws": 9,
+    "tendency": 12.426940896937651,
+    "totalTournaments": 7,
+    "totalGames": 30,
+    "totalWins": 15,
+    "totalDraws": 13,
     "totalLosses": 2,
-    "totalWinRatio": 74,
-    "victoryStreak": 2,
+    "totalWinRatio": 71.67,
+    "victoryStreak": 0,
     "bestVictoryStreak": 7,
-    "noLostStreak": 5,
+    "noLostStreak": 10,
     "bestNoLostStreak": 14,
     "lostStreak": 0,
     "worstLostStreak": 1,
-    "oneTdStreak": 5,
+    "oneTdStreak": 1,
     "bestOneTdStreak": 7,
-    "twoTdStreak": 2,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 3,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 3,
@@ -4112,9 +4118,9 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
-        "totalDraws": 1,
+        "totalDraws": 2,
         "totalLosses": 0,
         "totalWinRatio": 50
       }
@@ -4129,16 +4135,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      187.12079080003414,
-      185.79731259738548,
-      189.93788461908332,
-      187.50528622579304,
-      181.87625792582384,
-      180.44073543160482,
-      183.36154405387467,
-      184.23122957854784,
-      189.2383975080054,
-      192.4182961837767
+      180.44073543303813,
+      183.36154405526145,
+      184.23123131219137,
+      189.23840955903646,
+      192.41444892253733,
+      191.21554963188876,
+      189.14026225771917,
+      193.2546875292286,
+      193.98246028298024,
+      192.86767632997578
     ]
   },
   {
@@ -4146,10 +4152,10 @@ const generalAll = [
     "NAF Name": "Amigatxo",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 157.51627731409633,
-    "bestRating": 161.74740580934818,
-    "worstRating": 132.9977885231975,
-    "tendency": 24.51848879089883,
+    "rating": 157.51648197030588,
+    "bestRating": 161.74759385938214,
+    "worstRating": 132.99773238198625,
+    "tendency": 24.518749588319622,
     "totalTournaments": 4,
     "totalGames": 15,
     "totalWins": 7,
@@ -4196,16 +4202,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      132.9977885231975,
-      138.56467145793445,
-      144.71675335105985,
-      145.5539572822836,
-      153.25193905547636,
-      159.4391597851218,
-      155.18036632013934,
-      157.07096315287538,
-      161.74740580934818,
-      157.51627731409633
+      132.99773238198625,
+      138.56461764571662,
+      144.71670185735223,
+      145.5539101531152,
+      153.25200068256277,
+      159.4392360076318,
+      155.18045817189298,
+      157.07112974965636,
+      161.74759385938214,
+      157.51648197030588
     ]
   },
   {
@@ -4213,10 +4219,10 @@ const generalAll = [
     "NAF Name": "Amnoon",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 144.68085811924516,
-    "bestRating": 148.4685201400722,
-    "worstRating": 139.30821446436806,
-    "tendency": -3.7876620208270424,
+    "rating": 144.68084279560975,
+    "bestRating": 148.46853306698122,
+    "worstRating": 139.30819766230397,
+    "tendency": -3.787690271371474,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -4263,10 +4269,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      148.4685201400722,
-      144.20005396599586,
-      139.30821446436806,
-      144.68085811924516
+      148.46853306698122,
+      144.20007252396329,
+      139.30819766230397,
+      144.68084279560975
     ]
   },
   {
@@ -4274,10 +4280,10 @@ const generalAll = [
     "NAF Name": "anderbb",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 107.35451410181939,
+    "rating": 107.35486497638242,
     "bestRating": 152.54304169283756,
-    "worstRating": 107.35451410181939,
-    "tendency": -31.97583669894418,
+    "worstRating": 107.35486497638242,
+    "tendency": -31.97576319253095,
     "totalTournaments": 5,
     "totalGames": 16,
     "totalWins": 2,
@@ -4324,16 +4330,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      139.33035080076357,
-      134.79611761878957,
-      131.33794799329476,
-      126.56490719971856,
-      122.64599779876414,
-      119.50777565657133,
-      124.19649513836296,
-      117.92327861820623,
-      112.39804905882902,
-      107.35451410181939
+      139.33062816891336,
+      134.79638518509628,
+      131.33820825218433,
+      126.56516387140888,
+      122.6462582826537,
+      119.50802851450494,
+      124.19674046512276,
+      117.92365959622626,
+      112.39841403162504,
+      107.35486497638242
     ]
   },
   {
@@ -4341,27 +4347,27 @@ const generalAll = [
     "NAF Name": "Anderworld",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 131.49235947421874,
+    "rating": 129.05484463290406,
     "bestRating": 149.47079292420167,
     "worstRating": 118.08173558025382,
-    "tendency": 0.7699128378956175,
-    "totalTournaments": 9,
-    "totalGames": 34,
-    "totalWins": 10,
-    "totalDraws": 5,
-    "totalLosses": 19,
-    "totalWinRatio": 36.76,
-    "victoryStreak": 0,
+    "tendency": -17.165790004034392,
+    "totalTournaments": 10,
+    "totalGames": 39,
+    "totalWins": 11,
+    "totalDraws": 7,
+    "totalLosses": 21,
+    "totalWinRatio": 37.18,
+    "victoryStreak": 1,
     "bestVictoryStreak": 2,
-    "noLostStreak": 0,
+    "noLostStreak": 3,
     "bestNoLostStreak": 4,
-    "lostStreak": 3,
+    "lostStreak": 0,
     "worstLostStreak": 5,
-    "oneTdStreak": 0,
+    "oneTdStreak": 3,
     "bestOneTdStreak": 5,
-    "twoTdStreak": 0,
+    "twoTdStreak": 2,
     "bestTwoTdStreak": 2,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
@@ -4391,16 +4397,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      130.72244663632313,
-      135.7171586026629,
-      132.50559122847005,
-      137.01728740052206,
-      139.94440365053984,
       146.22063463693846,
-      144.78488547025745,
-      140.6506289190254,
-      137.20119619027847,
-      131.49235947421874
+      144.78589199903558,
+      140.65159746599602,
+      137.2021308003751,
+      131.49325803021569,
+      125.26980135061356,
+      120.47901470783218,
+      122.78657494533145,
+      123.05483705625433,
+      129.05484463290406
     ]
   },
   {
@@ -4408,10 +4414,10 @@ const generalAll = [
     "NAF Name": "Andevasmaikelnais",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 116.63897102962052,
+    "rating": 116.63901847561057,
     "bestRating": 146.21822064657496,
-    "worstRating": 116.63897102962052,
-    "tendency": -19.861725387064197,
+    "worstRating": 116.63901847561057,
+    "tendency": -19.86167794107415,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 2,
@@ -4464,10 +4470,10 @@ const generalAll = [
       127.85152113524538,
       127.94812113600558,
       130.83447062779177,
-      128.83072763758247,
-      124.86113602608076,
-      120.93987154093043,
-      116.63897102962052
+      128.83073124890754,
+      124.86114191859103,
+      120.93987753297712,
+      116.63901847561057
     ]
   },
   {
@@ -4475,10 +4481,10 @@ const generalAll = [
     "NAF Name": "Andrades",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 172.84801929369524,
-    "bestRating": 172.84801929369524,
+    "rating": 172.8481779344772,
+    "bestRating": 172.8481779344772,
     "worstRating": 108.23372334345842,
-    "tendency": 20.199051555014904,
+    "tendency": 20.199210195796866,
     "totalTournaments": 12,
     "totalGames": 47,
     "totalWins": 15,
@@ -4526,15 +4532,15 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       152.64896773868034,
-      148.36746662038755,
-      154.8320335787837,
-      160.8639282878244,
-      166.16622355777326,
-      162.00109002978635,
-      160.83604145749857,
-      163.20771397016577,
-      168.23891550780814,
-      172.84801929369524
+      148.36746662722817,
+      154.83203358533336,
+      160.86392829996637,
+      166.1662235694408,
+      162.0010900410126,
+      160.8362143059955,
+      163.20788466277907,
+      168.23908099520938,
+      172.8481779344772
     ]
   },
   {
@@ -4768,35 +4774,35 @@ const generalAll = [
     "NAF Name": "Anguita",
     "Country": "Spain",
     "CCAA": "Euskadi",
-    "rating": 157.51389472789504,
-    "bestRating": 163.60117880866306,
+    "rating": 169.68109790325695,
+    "bestRating": 169.68109790325695,
     "worstRating": 150.41044902993553,
-    "tendency": 0.40537331924440423,
-    "totalTournaments": 3,
-    "totalGames": 11,
-    "totalWins": 7,
-    "totalDraws": 0,
-    "totalLosses": 4,
-    "totalWinRatio": 63.64,
-    "victoryStreak": 0,
+    "tendency": 7.5686366458946,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 10,
+    "totalDraws": 1,
+    "totalLosses": 5,
+    "totalWinRatio": 65.63,
+    "victoryStreak": 1,
     "bestVictoryStreak": 2,
-    "noLostStreak": 0,
-    "bestNoLostStreak": 2,
-    "lostStreak": 1,
+    "noLostStreak": 3,
+    "bestNoLostStreak": 3,
+    "lostStreak": 0,
     "worstLostStreak": 1,
-    "oneTdStreak": 3,
+    "oneTdStreak": 1,
     "bestOneTdStreak": 4,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 2,
-    "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 2,
+    "noTdAgainstStreak": 3,
+    "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 2,
+        "totalWins": 1,
         "totalDraws": 0,
-        "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalLosses": 1,
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
@@ -4818,16 +4824,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      157.10852140865063,
-      150.59716372634884,
-      155.80345014004246,
-      150.41044902993553,
-      156.2928250867454,
       162.11246125736236,
-      155.32798791762164,
-      159.0332011530265,
-      163.60117880866306,
-      157.51389472789504
+      155.3232548266451,
+      159.0286602037071,
+      163.596818893798,
+      157.50971710024953,
+      162.5534653846674,
+      158.37086829550188,
+      162.42332938045752,
+      162.63001045749706,
+      169.68109790325695
     ]
   },
   {
@@ -5128,10 +5134,10 @@ const generalAll = [
     "NAF Name": "AntowV1",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 140.3082976759253,
+    "rating": 140.30836454500061,
     "bestRating": 143.28558469363193,
-    "worstRating": 133.8333225560296,
-    "tendency": -2.9772870177066295,
+    "worstRating": 133.83335296344842,
+    "tendency": -2.977220148631318,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -5182,10 +5188,10 @@ const generalAll = [
       137.06823110731585,
       142.48556201193108,
       135.86985702631054,
-      133.8333225560296,
-      139.45252426602164,
-      136.34021137778367,
-      140.3082976759253
+      133.83335296344842,
+      139.45255655788208,
+      136.34028009421357,
+      140.30836454500061
     ]
   },
   {
@@ -5248,10 +5254,10 @@ const generalAll = [
     "NAF Name": "Apoli",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 193.17704285548422,
+    "rating": 193.1771264971502,
     "bestRating": 197.8811181452081,
     "worstRating": 150.48869416684752,
-    "tendency": 7.638219562237651,
+    "tendency": 7.638301096052402,
     "totalTournaments": 10,
     "totalGames": 44,
     "totalWins": 23,
@@ -5298,16 +5304,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      185.53882329324657,
-      178.13925667351444,
-      181.66000246651166,
-      186.1090046621114,
-      180.10068892810267,
-      181.94671059270033,
-      180.67015597587948,
-      180.45434449234378,
-      186.07924785666094,
-      193.17704285548422
+      185.5388254010978,
+      178.13925870136572,
+      181.66000441887235,
+      186.1090065335692,
+      180.10069110605625,
+      181.94674197335192,
+      180.67018925085782,
+      180.45438361521676,
+      186.07933024969748,
+      193.1771264971502
     ]
   },
   {
@@ -5370,10 +5376,10 @@ const generalAll = [
     "NAF Name": "Apolo141",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150.44404372714135,
+    "rating": 150.4442625892334,
     "bestRating": 161.55000459995273,
-    "worstRating": 144.75309269299652,
-    "tendency": -4.288933639541682,
+    "worstRating": 144.75351877777976,
+    "tendency": -4.288714777449627,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 5,
@@ -5426,10 +5432,10 @@ const generalAll = [
       161.55000459995273,
       157.00084178301356,
       151.32825793482598,
-      145.63586315085516,
-      149.02197437255506,
-      144.75309269299652,
-      150.44404372714135
+      145.63612613890405,
+      149.0222493930779,
+      144.75351877777976,
+      150.4442625892334
     ]
   },
   {
@@ -5437,10 +5443,10 @@ const generalAll = [
     "NAF Name": "Apostol del Gas",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 182.42042146763657,
-    "bestRating": 187.32815468396134,
+    "rating": 182.42042158834155,
+    "bestRating": 187.3281548100446,
     "worstRating": 155.4324070241296,
-    "tendency": 26.53315002941622,
+    "tendency": 26.5331501501212,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 10,
@@ -5494,9 +5500,9 @@ const generalAll = [
       168.56068210229225,
       173.21655841878368,
       177.9844369575213,
-      182.5521370574523,
-      187.32815468396134,
-      182.42042146763657
+      182.55213705745237,
+      187.3281548100446,
+      182.42042158834155
     ]
   },
   {
@@ -5990,44 +5996,44 @@ const generalAll = [
     "NAF Name": "Arkngel",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 168.92172718192575,
-    "bestRating": 168.92172718192575,
+    "rating": 157.9030988419418,
+    "bestRating": 170.70100089559043,
     "worstRating": 148.52466492757733,
-    "tendency": 15.950047233532558,
-    "totalTournaments": 4,
-    "totalGames": 16,
-    "totalWins": 6,
-    "totalDraws": 5,
-    "totalLosses": 5,
-    "totalWinRatio": 53.13,
-    "victoryStreak": 1,
+    "tendency": -1.3185651672897336,
+    "totalTournaments": 5,
+    "totalGames": 21,
+    "totalWins": 7,
+    "totalDraws": 6,
+    "totalLosses": 8,
+    "totalWinRatio": 47.62,
+    "victoryStreak": 0,
     "bestVictoryStreak": 2,
-    "noLostStreak": 1,
+    "noLostStreak": 0,
     "bestNoLostStreak": 4,
-    "lostStreak": 0,
+    "lostStreak": 2,
     "worstLostStreak": 2,
-    "oneTdStreak": 1,
-    "bestOneTdStreak": 3,
-    "twoTdStreak": 1,
+    "oneTdStreak": 6,
+    "bestOneTdStreak": 6,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 1,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 0
+        "totalWinRatio": 25
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 0,
         "totalDraws": 2,
-        "totalLosses": 0,
-        "totalWinRatio": 50
+        "totalLosses": 1,
+        "totalWinRatio": 33.33
       }
     ],
     "megaProplayers": [
@@ -6040,16 +6046,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      152.9716799483932,
-      148.52466492757733,
-      154.83592662803503,
-      152.67575665072513,
-      153.6623951041931,
       159.22166400923155,
       163.9603820578631,
       165.5099965201886,
-      163.62491196575002,
-      168.92172718192575
+      163.62491199069652,
+      168.92172720689206,
+      169.82624253061823,
+      166.02705049933442,
+      170.70100089559043,
+      164.5556338635952,
+      157.9030988419418
     ]
   },
   {
@@ -6057,10 +6063,10 @@ const generalAll = [
     "NAF Name": "Arnau",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 161.36815124495206,
-    "bestRating": 161.36815124495206,
+    "rating": 161.36842561242656,
+    "bestRating": 161.36842561242656,
     "worstRating": 155.07407328805255,
-    "tendency": 6.294077956899514,
+    "tendency": 6.294352324374017,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -6112,9 +6118,9 @@ const generalAll = [
       156.02274701853884,
       156.0201152938576,
       159.4890160181386,
-      156.78469340026842,
-      156.25676105954815,
-      161.36815124495206
+      156.78469662246795,
+      156.25704765273963,
+      161.36842561242656
     ]
   },
   {
@@ -6297,10 +6303,10 @@ const generalAll = [
     "NAF Name": "Asgair",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 162.92290620397904,
-    "bestRating": 162.92290620397904,
-    "worstRating": 156.16707772908984,
-    "tendency": 6.755828474889199,
+    "rating": 162.92291758290736,
+    "bestRating": 162.92291758290736,
+    "worstRating": 156.16708075618368,
+    "tendency": 6.75583682672368,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 3,
@@ -6347,10 +6353,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      156.16707772908984,
-      162.0983679601449,
-      157.32235033363588,
-      162.92290620397904
+      156.16708075618368,
+      162.09837093624435,
+      157.32235318365213,
+      162.92291758290736
     ]
   },
   {
@@ -6425,28 +6431,28 @@ const generalAll = [
     "NAF Name": "Assassin",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 149.94483250947604,
-    "bestRating": 149.94483250947604,
+    "rating": 159.9034589732526,
+    "bestRating": 159.9034589732526,
     "worstRating": 122.26086979312507,
-    "tendency": 22.002292106400063,
-    "totalTournaments": 5,
-    "totalGames": 22,
-    "totalWins": 8,
-    "totalDraws": 2,
+    "tendency": 28.06068011940968,
+    "totalTournaments": 6,
+    "totalGames": 26,
+    "totalWins": 10,
+    "totalDraws": 4,
     "totalLosses": 12,
-    "totalWinRatio": 40.91,
-    "victoryStreak": 1,
+    "totalWinRatio": 46.15,
+    "victoryStreak": 0,
     "bestVictoryStreak": 3,
-    "noLostStreak": 1,
-    "bestNoLostStreak": 3,
+    "noLostStreak": 5,
+    "bestNoLostStreak": 5,
     "lostStreak": 0,
     "worstLostStreak": 6,
-    "oneTdStreak": 6,
-    "bestOneTdStreak": 6,
-    "twoTdStreak": 1,
+    "oneTdStreak": 2,
+    "bestOneTdStreak": 7,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 2,
     "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 1,
+    "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
         "totalGames": 2,
@@ -6475,16 +6481,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      127.94254040307598,
-      133.87961897195828,
-      139.90801442823607,
-      136.07657659567727,
-      131.84276930825246,
-      138.64210706565353,
-      141.65779320544834,
-      146.96672411781904,
-      143.85754842870801,
-      149.94483250947604
+      131.84277885384293,
+      138.64211662608218,
+      141.65787155398198,
+      146.9669629794688,
+      143.8577806585319,
+      149.94488245208038,
+      154.94699766602423,
+      154.4631529448555,
+      159.70475345896728,
+      159.9034589732526
     ]
   },
   {
@@ -6492,10 +6498,10 @@ const generalAll = [
     "NAF Name": "Astroas",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 141.9172417440309,
+    "rating": 141.91750990221934,
     "bestRating": 164.65211002290596,
     "worstRating": 134.0628988279749,
-    "tendency": -12.538606031435108,
+    "tendency": -12.53840796726712,
     "totalTournaments": 11,
     "totalGames": 45,
     "totalWins": 13,
@@ -6542,16 +6548,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      154.455847775466,
-      154.43551426446476,
-      149.01337159088982,
-      152.98296320239155,
-      152.0932975704482,
-      152.03026175726205,
-      153.3068163740829,
-      146.9005119439136,
-      141.25401279665428,
-      141.9172417440309
+      154.45591786948646,
+      154.4355837602778,
+      149.01344010074612,
+      152.98302943106265,
+      152.09337748793968,
+      152.0303391090013,
+      153.3068918314954,
+      146.9007541352124,
+      141.25428974397877,
+      141.91750990221934
     ]
   },
   {
@@ -6744,10 +6750,10 @@ const generalAll = [
     "NAF Name": "Atrellu",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 187.97730330606962,
-    "bestRating": 199.29469246808205,
+    "rating": 187.97772026601152,
+    "bestRating": 199.29513369357102,
     "worstRating": 155.65685424949237,
-    "tendency": -2.0888474442020595,
+    "tendency": -2.0885557807527846,
     "totalTournaments": 8,
     "totalGames": 39,
     "totalWins": 22,
@@ -6794,16 +6800,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      190.06615075027167,
-      185.2976477127706,
-      181.3298532494097,
-      184.12799793364871,
-      187.7650387297248,
-      191.79686500060785,
-      195.69877846904723,
-      199.29469246808205,
-      193.32377839359157,
-      187.97730330606962
+      190.0662760467643,
+      185.29790865496324,
+      181.33011154041856,
+      184.12849604368446,
+      187.76552706270238,
+      191.79734221602754,
+      195.69923695892246,
+      199.29513369357102,
+      193.32420152067868,
+      187.97772026601152
     ]
   },
   {
@@ -6878,10 +6884,10 @@ const generalAll = [
     "NAF Name": "Azaghal_es",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 199.74296909795152,
-    "bestRating": 204.90950798306983,
+    "rating": 199.74300997206993,
+    "bestRating": 204.909522782058,
     "worstRating": 156.79623119685579,
-    "tendency": 7.498365170504286,
+    "tendency": 7.498406044622698,
     "totalTournaments": 6,
     "totalGames": 26,
     "totalWins": 15,
@@ -6934,10 +6940,10 @@ const generalAll = [
       198.57287410715284,
       197.75426283709962,
       201.77667016350307,
-      204.90950798306983,
-      204.043330504989,
-      201.13504106480337,
-      199.74296909795152
+      204.909522782058,
+      204.0433472331108,
+      201.1350551939235,
+      199.74300997206993
     ]
   },
   {
@@ -6945,23 +6951,23 @@ const generalAll = [
     "NAF Name": "Azaghtogh",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150.1049587822214,
+    "rating": 146.2601439556466,
     "bestRating": 155.95189422766612,
     "worstRating": 139.43623899347895,
-    "tendency": 6.336382982117783,
-    "totalTournaments": 7,
-    "totalGames": 24,
-    "totalWins": 8,
-    "totalDraws": 6,
-    "totalLosses": 10,
-    "totalWinRatio": 45.83,
+    "tendency": -6.974245932542573,
+    "totalTournaments": 8,
+    "totalGames": 29,
+    "totalWins": 9,
+    "totalDraws": 8,
+    "totalLosses": 12,
+    "totalWinRatio": 44.83,
     "victoryStreak": 0,
     "bestVictoryStreak": 1,
     "noLostStreak": 0,
     "bestNoLostStreak": 3,
     "lostStreak": 1,
     "worstLostStreak": 2,
-    "oneTdStreak": 6,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 6,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 1,
@@ -6978,11 +6984,11 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 0
+        "totalWinRatio": 25
       }
     ],
     "megaProplayers": [
@@ -6995,16 +7001,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      143.7685758001036,
-      149.76708552597154,
-      147.35531051314487,
-      147.3207292129868,
-      147.25723502555414,
       153.23438988818918,
-      149.7342177697846,
-      155.21823255601586,
-      155.60374061152555,
-      150.1049587822214
+      149.73421918295418,
+      155.21823403084224,
+      155.60375208924722,
+      150.10496984440474,
+      144.44355801929908,
+      144.81742977474835,
+      150.76987846821962,
+      153.2601089265205,
+      146.2601439556466
     ]
   },
   {
@@ -7012,10 +7018,10 @@ const generalAll = [
     "NAF Name": "Azardep11",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 152.02246133699123,
-    "bestRating": 157.6872450138182,
-    "worstRating": 146.35335974795356,
-    "tendency": 5.669101589037666,
+    "rating": 152.02249934274792,
+    "bestRating": 157.68728468933733,
+    "worstRating": 146.3533926741704,
+    "tendency": 5.669106668577513,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -7062,10 +7068,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      146.35335974795356,
-      151.68986927413627,
-      157.6872450138182,
-      152.02246133699123
+      146.3533926741704,
+      151.68990178637972,
+      157.68728468933733,
+      152.02249934274792
     ]
   },
   {
@@ -7073,10 +7079,10 @@ const generalAll = [
     "NAF Name": "azgrand",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 136.3447630764392,
+    "rating": 136.3447634411051,
     "bestRating": 154.81381184736986,
-    "worstRating": 136.3447630764392,
-    "tendency": -13.600854418703733,
+    "worstRating": 136.3447634411051,
+    "tendency": -13.600854054037825,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -7130,7 +7136,7 @@ const generalAll = [
       154.6049010061516,
       148.90732788815296,
       142.86853911365205,
-      136.3447630764392
+      136.3447634411051
     ]
   },
   {
@@ -7325,10 +7331,10 @@ const generalAll = [
     "NAF Name": "Baez",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 186.76517450121864,
+    "rating": 186.76505862949034,
     "bestRating": 196.97715218297404,
     "worstRating": 149.5770818057216,
-    "tendency": -6.211194038556954,
+    "tendency": -6.211309910285252,
     "totalTournaments": 9,
     "totalGames": 42,
     "totalWins": 22,
@@ -7378,13 +7384,13 @@ const generalAll = [
       192.9763685397756,
       187.9380258832351,
       191.73084149885707,
-      186.27977807363203,
-      180.3554528836919,
-      183.40524572043745,
-      185.81531318969664,
-      191.5185248916936,
-      190.78531347089955,
-      186.76517450121864
+      186.2797780863217,
+      180.35527871387262,
+      183.40508508658826,
+      185.81517314044723,
+      191.5183944061899,
+      190.78518977870863,
+      186.76505862949034
     ]
   },
   {
@@ -7392,35 +7398,35 @@ const generalAll = [
     "NAF Name": "BAIXA",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 155.42533820374106,
-    "bestRating": 167.57344656828863,
+    "rating": 150.67986023463212,
+    "bestRating": 167.57364208130596,
     "worstRating": 119.81950573945417,
-    "tendency": -12.148108364547568,
-    "totalTournaments": 12,
-    "totalGames": 50,
-    "totalWins": 17,
-    "totalDraws": 16,
-    "totalLosses": 17,
-    "totalWinRatio": 50,
-    "victoryStreak": 0,
+    "tendency": -9.679717966798478,
+    "totalTournaments": 13,
+    "totalGames": 54,
+    "totalWins": 18,
+    "totalDraws": 17,
+    "totalLosses": 19,
+    "totalWinRatio": 49.07,
+    "victoryStreak": 1,
     "bestVictoryStreak": 4,
-    "noLostStreak": 3,
+    "noLostStreak": 1,
     "bestNoLostStreak": 10,
     "lostStreak": 0,
     "worstLostStreak": 4,
     "oneTdStreak": 3,
     "bestOneTdStreak": 10,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 3,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 3,
+        "totalGames": 4,
         "totalWins": 0,
-        "totalDraws": 2,
+        "totalDraws": 3,
         "totalLosses": 1,
-        "totalWinRatio": 33.33
+        "totalWinRatio": 37.5
       }
     ],
     "topProplayers": [
@@ -7442,16 +7448,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      167.57344656828863,
-      161.91949941133873,
-      165.98363722492363,
-      160.59459603855007,
-      160.35911471482925,
-      157.82713130092696,
-      149.6040922054454,
-      154.456168025866,
-      156.08125414370093,
-      155.42533820374106
+      160.3595782014306,
+      157.82765056110455,
+      149.6045383829209,
+      154.45643113171005,
+      156.0815885590954,
+      155.42567824959056,
+      150.9382883779045,
+      152.03763656554796,
+      145.68625668896559,
+      150.67986023463212
     ]
   },
   {
@@ -7641,23 +7647,23 @@ const generalAll = [
     "NAF Name": "BARBANCHO",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 198.58371298701707,
+    "rating": 175.98735084956283,
     "bestRating": 229.32335809532483,
     "worstRating": 139.398074754107,
-    "tendency": 6.879972213028026,
-    "totalTournaments": 31,
-    "totalGames": 123,
-    "totalWins": 65,
-    "totalDraws": 28,
-    "totalLosses": 30,
-    "totalWinRatio": 64.23,
+    "tendency": -28.32374724222973,
+    "totalTournaments": 32,
+    "totalGames": 128,
+    "totalWins": 66,
+    "totalDraws": 29,
+    "totalLosses": 33,
+    "totalWinRatio": 62.89,
     "victoryStreak": 0,
     "bestVictoryStreak": 6,
     "noLostStreak": 0,
     "bestNoLostStreak": 14,
     "lostStreak": 1,
     "worstLostStreak": 5,
-    "oneTdStreak": 0,
+    "oneTdStreak": 3,
     "bestOneTdStreak": 13,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
@@ -7691,16 +7697,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      191.70374077398904,
-      195.7881081368263,
-      199.5149143379885,
-      198.98204235323342,
-      202.03916909870728,
-      204.31093202137362,
-      196.9130500763648,
-      200.29519826040433,
-      205.05113941520926,
-      198.58371298701707
+      204.31109809179256,
+      196.9132147562135,
+      200.29535852804665,
+      205.0513202896241,
+      198.58388736148726,
+      189.77324571317715,
+      182.1242040612989,
+      179.96903775035562,
+      184.17054915106,
+      175.98735084956283
     ]
   },
   {
@@ -7708,25 +7714,25 @@ const generalAll = [
     "NAF Name": "zgzpimp",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 149.13528706432,
-    "bestRating": 149.13528706432,
+    "rating": 122.05188224858168,
+    "bestRating": 149.04218376192347,
     "worstRating": 79.05270576508734,
-    "tendency": 26.270622690414157,
-    "totalTournaments": 16,
-    "totalGames": 64,
+    "tendency": -8.847317785179087,
+    "totalTournaments": 17,
+    "totalGames": 69,
     "totalWins": 18,
     "totalDraws": 12,
-    "totalLosses": 34,
-    "totalWinRatio": 37.5,
-    "victoryStreak": 1,
+    "totalLosses": 39,
+    "totalWinRatio": 34.78,
+    "victoryStreak": 0,
     "bestVictoryStreak": 3,
-    "noLostStreak": 4,
+    "noLostStreak": 0,
     "bestNoLostStreak": 7,
-    "lostStreak": 0,
+    "lostStreak": 5,
     "worstLostStreak": 7,
-    "oneTdStreak": 13,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 13,
-    "twoTdStreak": 1,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 3,
@@ -7758,16 +7764,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      122.86466437390585,
-      124.32740699745315,
-      131.11188033719387,
-      138.21990649445874,
-      134.1882896149214,
-      131.00839093915008,
-      137.66933265141046,
-      144.13182157176652,
-      141.3170493304087,
-      149.13528706432
+      130.89920003376076,
+      137.56473698506613,
+      144.0316998784003,
+      141.22024313455148,
+      149.04218376192347,
+      143.42691519123989,
+      137.83712702691437,
+      132.29697007250087,
+      128.09196732443388,
+      122.05188224858168
     ]
   },
   {
@@ -7827,13 +7833,13 @@ const generalAll = [
   },
   {
     "NAF Nr": "39966",
-    "NAF Name": "Barritas",
+    "NAF Name": "Barritas08",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 158.5932531413153,
-    "bestRating": 158.5932531413153,
+    "rating": 158.58963842396417,
+    "bestRating": 158.58963842396417,
     "worstRating": 139.43615957467642,
-    "tendency": 0.02016635403506939,
+    "tendency": 0.016692072642115363,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 8,
@@ -7880,16 +7886,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      158.57308678728023,
-      151.6191088306691,
-      151.74399080970215,
-      153.83110579014848,
-      153.84161235025212,
-      150.4723644867682,
-      156.35166452727708,
-      149.88917560692101,
-      150.33929078900513,
-      158.5932531413153
+      158.57294635132206,
+      151.6195057091808,
+      151.74457662008464,
+      153.83173661116535,
+      153.8422368264294,
+      150.4729854339501,
+      156.35225855588257,
+      149.8852956625484,
+      150.33545683233456,
+      158.58963842396417
     ]
   },
   {
@@ -7952,10 +7958,10 @@ const generalAll = [
     "NAF Name": "Barrullero",
     "Country": "Spain",
     "CCAA": "Cantabria ",
-    "rating": 139.856822005992,
+    "rating": 139.85700716033077,
     "bestRating": 150,
     "worstRating": 128.4880255453421,
-    "tendency": 1.2085363007609544,
+    "tendency": 1.2087214550997203,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 3,
@@ -8011,7 +8017,7 @@ const generalAll = [
       135.08258764522694,
       142.30949807858036,
       139.05679062782912,
-      139.856822005992
+      139.85700716033077
     ]
   },
   {
@@ -8019,10 +8025,10 @@ const generalAll = [
     "NAF Name": "Bartolo",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 140.7924995936936,
+    "rating": 140.79267115878423,
     "bestRating": 143.75017851696222,
-    "worstRating": 133.60386774866043,
-    "tendency": -2.9576789232686167,
+    "worstRating": 133.60400841388574,
+    "tendency": -2.957507358177992,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -8073,10 +8079,10 @@ const generalAll = [
       136.14052061744962,
       141.88878348481248,
       136.8061905468285,
-      142.15198520124588,
-      136.6258934473137,
-      133.60386774866043,
-      140.7924995936936
+      142.15199242709522,
+      136.6259285457424,
+      133.60400841388574,
+      140.79267115878423
     ]
   },
   {
@@ -8149,10 +8155,10 @@ const generalAll = [
     "NAF Name": "marquitos",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 151.51795714396684,
+    "rating": 151.5185067533971,
     "bestRating": 161.13843121150168,
-    "worstRating": 141.86604770435926,
-    "tendency": -8.468098444884333,
+    "worstRating": 141.86605688257646,
+    "tendency": -8.467548835454068,
     "totalTournaments": 4,
     "totalGames": 15,
     "totalWins": 7,
@@ -8206,9 +8212,9 @@ const generalAll = [
       160.3657863385295,
       154.11046038827925,
       148.5226207009846,
-      141.86604770435926,
-      146.3477739712153,
-      151.51795714396684
+      141.86605688257646,
+      146.34779057746738,
+      151.5185067533971
     ]
   },
   {
@@ -8332,10 +8338,10 @@ const generalAll = [
     "NAF Name": "Belgargh",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 137.55901375367313,
+    "rating": 137.55907714176655,
     "bestRating": 146.59136145962765,
-    "worstRating": 137.55901375367313,
-    "tendency": -9.032347705954521,
+    "worstRating": 137.55907714176655,
+    "tendency": -9.032284317861098,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 1,
@@ -8385,9 +8391,9 @@ const generalAll = [
       146.59136145962765,
       141.8208258091726,
       141.6280654198627,
-      138.46028760029887,
-      140.16856574221734,
-      137.55901375367313
+      138.46028763146458,
+      140.16863020390113,
+      137.55907714176655
     ]
   },
   {
@@ -8395,10 +8401,10 @@ const generalAll = [
     "NAF Name": "Beli",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 139.21630814439368,
+    "rating": 139.2163171855643,
     "bestRating": 149.222755155155,
-    "worstRating": 131.2539987711574,
-    "tendency": 2.897334181268775,
+    "worstRating": 131.25399918505897,
+    "tendency": 2.897343222439389,
     "totalTournaments": 5,
     "totalGames": 26,
     "totalWins": 9,
@@ -8446,15 +8452,15 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       136.3189739631249,
-      132.60330393826797,
-      138.31404105511183,
-      143.65489595240098,
-      140.78116174546975,
-      135.17316119933506,
-      131.2539987711574,
-      137.46714125318567,
-      143.82541193028078,
-      139.21630814439368
+      132.60330393848972,
+      138.31404105532397,
+      143.65489595261374,
+      140.78116179356093,
+      135.1731612453482,
+      131.25399918505897,
+      137.46714164929028,
+      143.82541412483212,
+      139.2163171855643
     ]
   },
   {
@@ -8648,10 +8654,10 @@ const generalAll = [
     "NAF Name": "Belwars",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 145.20019874643535,
-    "bestRating": 155.8309389047308,
+    "rating": 145.20087414943401,
+    "bestRating": 155.83148379828387,
     "worstRating": 129.85947482580684,
-    "tendency": 1.7304282335342691,
+    "tendency": 1.7307003631963198,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 11,
@@ -8698,16 +8704,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      143.46977051290108,
-      144.76119133636956,
-      148.46429525235163,
-      153.54028930211445,
-      151.52964444198372,
-      155.8309389047308,
-      149.6296531861718,
-      149.0260571174498,
-      140.4870395941745,
-      145.20019874643535
+      143.4701737862377,
+      144.7616281218422,
+      148.4648451457519,
+      153.54083566085956,
+      151.5302008413993,
+      155.83148379828387,
+      149.6302110300004,
+      149.02684162732658,
+      140.48773504482355,
+      145.20087414943401
     ]
   },
   {
@@ -8772,6 +8778,61 @@ const generalAll = [
     ]
   },
   {
+    "NAF Nr": "41961",
+    "NAF Name": "Berbalol",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "rating": 150,
+    "bestRating": 0,
+    "worstRating": 0,
+    "tendency": 0,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 0,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 0,
+    "lostStreak": 0,
+    "worstLostStreak": 0,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 0,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 0,
+    "noTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 0,
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
     "NAF Nr": "37064",
     "NAF Name": "Berserk",
     "Country": "Spain",
@@ -8831,43 +8892,43 @@ const generalAll = [
     "NAF Name": "Bert0",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
+    "rating": 152.8541052454975,
+    "bestRating": 152.8541052454975,
+    "worstRating": 145.53582493660352,
+    "tendency": 6.005036298321244,
+    "totalTournaments": 1,
+    "totalGames": 5,
+    "totalWins": 2,
+    "totalDraws": 1,
+    "totalLosses": 2,
+    "totalWinRatio": 50,
     "victoryStreak": 0,
-    "bestVictoryStreak": 0,
-    "noLostStreak": 0,
-    "bestNoLostStreak": 0,
+    "bestVictoryStreak": 1,
+    "noLostStreak": 2,
+    "bestNoLostStreak": 2,
     "lostStreak": 0,
-    "worstLostStreak": 0,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
+    "worstLostStreak": 1,
+    "oneTdStreak": 2,
+    "bestOneTdStreak": 2,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 0,
     "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -8879,6 +8940,13 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      146.84906894717625,
+      152.39713453586103,
+      145.53582493660352,
+      151.51920747487014,
+      152.8541052454975
     ]
   },
   {
@@ -8886,10 +8954,10 @@ const generalAll = [
     "NAF Name": "Bidone",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 189.87348650682304,
-    "bestRating": 189.87348650682304,
+    "rating": 189.8735303489753,
+    "bestRating": 189.8735303489753,
     "worstRating": 150.69089471072792,
-    "tendency": 20.996066571951417,
+    "tendency": 20.99611041410367,
     "totalTournaments": 2,
     "totalGames": 14,
     "totalWins": 7,
@@ -8940,12 +9008,12 @@ const generalAll = [
       177.79762500884274,
       183.24233971170935,
       176.9847004014174,
-      181.60873403495108,
-      183.9548357010976,
-      182.2331161479243,
-      187.03251845130944,
-      188.609445973287,
-      189.87348650682304
+      181.60873403517743,
+      183.95488735584044,
+      182.23316577538995,
+      187.03256605113503,
+      188.6094916956148,
+      189.8735303489753
     ]
   },
   {
@@ -8953,44 +9021,44 @@ const generalAll = [
     "NAF Name": "biereforever",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
+    "rating": 167.74795699228278,
+    "bestRating": 167.74795699228278,
+    "worstRating": 154.38509873365143,
+    "tendency": 13.362858258631348,
+    "totalTournaments": 1,
+    "totalGames": 5,
+    "totalWins": 3,
+    "totalDraws": 2,
     "totalLosses": 0,
-    "totalWinRatio": 0,
-    "victoryStreak": 0,
-    "bestVictoryStreak": 0,
-    "noLostStreak": 0,
-    "bestNoLostStreak": 0,
+    "totalWinRatio": 80,
+    "victoryStreak": 2,
+    "bestVictoryStreak": 2,
+    "noLostStreak": 5,
+    "bestNoLostStreak": 5,
     "lostStreak": 0,
     "worstLostStreak": 0,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
-    "twoTdStreak": 0,
-    "bestTwoTdStreak": 0,
-    "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 0,
+    "oneTdStreak": 2,
+    "bestOneTdStreak": 2,
+    "twoTdStreak": 2,
+    "bestTwoTdStreak": 2,
+    "noTdAgainstStreak": 1,
+    "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 1,
+        "totalWins": 1,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "megaProplayers": [
@@ -9001,6 +9069,13 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      154.38509873365143,
+      155.6186602438848,
+      154.8279325055841,
+      159.99661484681488,
+      167.74795699228278
     ]
   },
   {
@@ -9307,10 +9382,10 @@ const generalAll = [
     "NAF Name": "bladtum",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 144.272803992643,
+    "rating": 144.27284084017833,
     "bestRating": 155.65685424949237,
-    "worstRating": 132.7619230921752,
-    "tendency": -6.364509903060139,
+    "worstRating": 132.76192336177476,
+    "tendency": -6.3644730555247975,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -9364,9 +9439,9 @@ const generalAll = [
       143.4834102784331,
       138.10487983287294,
       132.84001848509007,
-      132.7619230921752,
-      138.57006542811348,
-      144.272803992643
+      132.76192336177476,
+      138.57007491187082,
+      144.27284084017833
     ]
   },
   {
@@ -9374,25 +9449,25 @@ const generalAll = [
     "NAF Name": "Blapymetal",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 189.9347870232998,
-    "bestRating": 193.0191402123983,
+    "rating": 188.36582927827547,
+    "bestRating": 195.41691672403536,
     "worstRating": 138.31617664546073,
-    "tendency": 0.44444386377185197,
-    "totalTournaments": 14,
-    "totalGames": 55,
-    "totalWins": 24,
-    "totalDraws": 15,
-    "totalLosses": 16,
-    "totalWinRatio": 57.27,
-    "victoryStreak": 2,
+    "tendency": -0.2873890314448033,
+    "totalTournaments": 15,
+    "totalGames": 60,
+    "totalWins": 26,
+    "totalDraws": 17,
+    "totalLosses": 17,
+    "totalWinRatio": 57.5,
+    "victoryStreak": 0,
     "bestVictoryStreak": 4,
-    "noLostStreak": 2,
+    "noLostStreak": 0,
     "bestNoLostStreak": 11,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 3,
-    "oneTdStreak": 2,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 12,
-    "twoTdStreak": 2,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
@@ -9424,16 +9499,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      189.49034315952795,
-      193.0191402123983,
-      192.54065673613465,
-      188.44051974619265,
-      183.3032187992891,
-      188.6532169176594,
-      188.1551623528272,
-      182.0188004408889,
-      186.136571377345,
-      189.9347870232998
+      188.65321830972027,
+      188.15516550240093,
+      182.0188035415506,
+      186.13657557489657,
+      189.93479136721584,
+      189.03027604348966,
+      193.96856949806258,
+      190.94693719119823,
+      195.41691672403536,
+      188.36582927827547
     ]
   },
   {
@@ -9441,10 +9516,10 @@ const generalAll = [
     "NAF Name": "bletos",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 231.88348937385,
-    "bestRating": 231.88348937385,
+    "rating": 231.88350586943537,
+    "bestRating": 231.88350586943537,
     "worstRating": 155.92167963647054,
-    "tendency": 17.365972058610907,
+    "tendency": 17.365988554196264,
     "totalTournaments": 12,
     "totalGames": 48,
     "totalWins": 29,
@@ -9497,10 +9572,10 @@ const generalAll = [
       220.55136210732599,
       219.73450241186302,
       218.8454047807596,
-      222.5802330517697,
-      225.57385273680106,
-      228.4199962078356,
-      231.88348937385
+      222.58024107948623,
+      225.57386049445728,
+      228.4200039092142,
+      231.88350586943537
     ]
   },
   {
@@ -9686,10 +9761,10 @@ const generalAll = [
     "NAF Name": "Bombero",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 122.19276333201941,
+    "rating": 122.19258180824717,
     "bestRating": 150,
     "worstRating": 114.28836130185415,
-    "tendency": -5.097174933472118,
+    "tendency": -5.097356457244359,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 3,
@@ -9740,12 +9815,12 @@ const generalAll = [
       121.91354106139754,
       118.2309730980193,
       114.28836130185415,
-      115.9977500906276,
-      122.53384000141158,
-      123.89100354261491,
-      119.97918162844695,
-      115.79874019493423,
-      122.19276333201941
+      115.9975680367793,
+      122.53366716369389,
+      123.89083748429078,
+      119.9789643487161,
+      115.79854944298904,
+      122.19258180824717
     ]
   },
   {
@@ -9930,35 +10005,35 @@ const generalAll = [
     "NAF Name": "Ramiux",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 119.14376123422394,
+    "rating": 119.82036930352712,
     "bestRating": 149.6117243179493,
     "worstRating": 103.90977012327825,
-    "tendency": 1.966222277734829,
-    "totalTournaments": 9,
-    "totalGames": 35,
-    "totalWins": 8,
-    "totalDraws": 5,
-    "totalLosses": 22,
-    "totalWinRatio": 30,
-    "victoryStreak": 1,
+    "tendency": 5.150491017720725,
+    "totalTournaments": 10,
+    "totalGames": 40,
+    "totalWins": 9,
+    "totalDraws": 7,
+    "totalLosses": 24,
+    "totalWinRatio": 31.25,
+    "victoryStreak": 0,
     "bestVictoryStreak": 2,
-    "noLostStreak": 1,
+    "noLostStreak": 0,
     "bestNoLostStreak": 3,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 8,
-    "oneTdStreak": 1,
+    "oneTdStreak": 3,
     "bestOneTdStreak": 5,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 1,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 0
+        "totalWinRatio": 25
       }
     ],
     "topProplayers": [
@@ -9980,16 +10055,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      117.17753895648912,
-      112.7015260528812,
-      114.73417019063983,
-      111.01282064712898,
-      118.34753147710734,
       114.66987828580639,
       109.8681152481174,
-      116.06318814304078,
-      111.5577532150919,
-      119.14376123422394
+      116.06318971151524,
+      111.55775532480291,
+      119.14376444154486,
+      113.18074309822597,
+      116.03783275492829,
+      122.52840891102394,
+      123.72033378986914,
+      119.82036930352712
     ]
   },
   {
@@ -9997,10 +10072,10 @@ const generalAll = [
     "NAF Name": "Boti",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 137.1177624922668,
+    "rating": 137.1166795716495,
     "bestRating": 148.93760398737064,
     "worstRating": 123.67594105882242,
-    "tendency": 12.194265230822069,
+    "tendency": 12.19318231020479,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 6,
@@ -10050,13 +10125,13 @@ const generalAll = [
       124.92349726144472,
       130.97619601498914,
       132.61384040382993,
-      137.31849260961698,
-      138.13774907888433,
-      143.6976585084274,
-      136.18424633428364,
-      136.22710178597214,
-      141.66229971836006,
-      137.1177624922668
+      137.32330889000968,
+      138.14236063113097,
+      143.70208119897578,
+      136.18276962668443,
+      136.22591982910174,
+      141.66116925842286,
+      137.1166795716495
     ]
   },
   {
@@ -10362,10 +10437,10 @@ const generalAll = [
     "NAF Name": "Brushei",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 128.1147908025421,
+    "rating": 128.11837069207544,
     "bestRating": 150.20891084121826,
-    "worstRating": 128.1147908025421,
-    "tendency": -22.094120038676152,
+    "worstRating": 128.11837069207544,
+    "tendency": -22.09054014914281,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -10413,13 +10488,13 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       150.20891084121826,
-      148.84978332983903,
-      143.202757575918,
-      137.3795420771091,
-      142.08691730447515,
-      136.77798639210445,
-      133.27374008467544,
-      128.1147908025421
+      148.85412440389374,
+      143.2069196552016,
+      137.38370084489057,
+      142.09094787955794,
+      136.78185645407112,
+      133.27747902178857,
+      128.11837069207544
     ]
   },
   {
@@ -10482,23 +10557,23 @@ const generalAll = [
     "NAF Name": "Brutus 13",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 120.14615379655291,
+    "rating": 108.63544690300107,
     "bestRating": 155.17345850952648,
-    "worstRating": 112.32510029086188,
-    "tendency": -1.8631464265873916,
-    "totalTournaments": 8,
-    "totalGames": 30,
+    "worstRating": 108.05398099645568,
+    "tendency": -14.386287230872654,
+    "totalTournaments": 9,
+    "totalGames": 34,
     "totalWins": 9,
-    "totalDraws": 3,
-    "totalLosses": 18,
-    "totalWinRatio": 35,
+    "totalDraws": 4,
+    "totalLosses": 21,
+    "totalWinRatio": 32.35,
     "victoryStreak": 0,
     "bestVictoryStreak": 2,
-    "noLostStreak": 2,
+    "noLostStreak": 1,
     "bestNoLostStreak": 2,
     "lostStreak": 0,
     "worstLostStreak": 4,
-    "oneTdStreak": 2,
+    "oneTdStreak": 1,
     "bestOneTdStreak": 2,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 1,
@@ -10532,16 +10607,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      122.0093002231403,
-      116.95149167984005,
-      122.62283956209967,
-      128.3428493394885,
-      123.01776439204936,
-      118.83958630931247,
-      113.82395757716769,
-      112.32510029086188,
-      118.84969403578587,
-      120.14615379655291
+      123.02173413387372,
+      118.8434008880282,
+      113.82764778154691,
+      112.32874719867283,
+      118.85320187475988,
+      120.14952860582059,
+      115.82954184564501,
+      111.93058473205208,
+      108.05398099645568,
+      108.63544690300107
     ]
   },
   {
@@ -10549,27 +10624,27 @@ const generalAll = [
     "NAF Name": "Bubba",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 241.8817773324143,
-    "bestRating": 245.15751676681273,
+    "rating": 233.30310355762307,
+    "bestRating": 245.1597221288379,
     "worstRating": 144.48485713868934,
-    "tendency": 11.377098590837932,
-    "totalTournaments": 29,
-    "totalGames": 119,
-    "totalWins": 71,
+    "tendency": -8.357447963679448,
+    "totalTournaments": 30,
+    "totalGames": 124,
+    "totalWins": 74,
     "totalDraws": 22,
-    "totalLosses": 26,
-    "totalWinRatio": 68.91,
-    "victoryStreak": 2,
+    "totalLosses": 28,
+    "totalWinRatio": 68.55,
+    "victoryStreak": 0,
     "bestVictoryStreak": 8,
-    "noLostStreak": 2,
+    "noLostStreak": 0,
     "bestNoLostStreak": 14,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 4,
-    "oneTdStreak": 2,
+    "oneTdStreak": 3,
     "bestOneTdStreak": 16,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 12,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 4,
     "proplayers": [
       {
@@ -10591,24 +10666,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 7,
+        "totalGames": 8,
         "totalWins": 2,
         "totalDraws": 2,
-        "totalLosses": 3,
-        "totalWinRatio": 42.86
+        "totalLosses": 4,
+        "totalWinRatio": 37.5
       }
     ],
     "_lastTenRatings": [
-      230.50467874157636,
-      233.00408660354682,
-      235.92839307779914,
-      239.4331977412192,
-      242.62182502223413,
-      241.6582741760703,
-      245.15751676681273,
-      236.7091029023248,
-      239.58755240494094,
-      241.8817773324143
+      241.66055152130252,
+      245.1597221288379,
+      236.7112591348192,
+      239.5896420022199,
+      241.88383005720596,
+      243.23152203937022,
+      237.13651262487173,
+      239.86294322622285,
+      241.64491141523993,
+      233.30310355762307
     ]
   },
   {
@@ -10616,10 +10691,10 @@ const generalAll = [
     "NAF Name": "bufal",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 125.67679975944931,
+    "rating": 125.67721723887874,
     "bestRating": 145.63696012789498,
-    "worstRating": 125.67679975944931,
-    "tendency": -19.96016036844567,
+    "worstRating": 125.67721723887874,
+    "tendency": -19.95974288901624,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -10672,8 +10747,8 @@ const generalAll = [
       141.83615020604958,
       137.14418913235792,
       137.45303098766294,
-      131.38074493902897,
-      125.67679975944931
+      131.381181174085,
+      125.67721723887874
     ]
   },
   {
@@ -10681,10 +10756,10 @@ const generalAll = [
     "NAF Name": "Bullfandur",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 103.06560372329865,
+    "rating": 103.0657521571395,
     "bestRating": 153.3166247903554,
-    "worstRating": 103.06560372329865,
-    "tendency": -24.496276176530102,
+    "worstRating": 103.0657521571395,
+    "tendency": -24.496130212628188,
     "totalTournaments": 15,
     "totalGames": 47,
     "totalWins": 14,
@@ -10731,16 +10806,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      127.56187989982875,
-      123.0373588186917,
-      123.1905918192668,
-      118.75316004882188,
-      114.0250015563157,
-      109.06550479961165,
-      104.50327583770617,
-      110.7542397319087,
-      105.30417094609419,
-      103.06560372329865
+      127.56188236976769,
+      123.03736161185232,
+      123.19059481798712,
+      118.75316333272121,
+      114.02500477591309,
+      109.06551003513623,
+      104.50328136881845,
+      110.75424503513729,
+      105.3043192110489,
+      103.0657521571395
     ]
   },
   {
@@ -10748,44 +10823,44 @@ const generalAll = [
     "NAF Name": "bululito",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 207.05795554382107,
+    "rating": 206.41522358194237,
     "bestRating": 243.70421926752252,
     "worstRating": 144.34314575050763,
-    "tendency": 2.956542520819454,
-    "totalTournaments": 53,
-    "totalGames": 214,
-    "totalWins": 118,
+    "tendency": 2.5978876005308393,
+    "totalTournaments": 54,
+    "totalGames": 219,
+    "totalWins": 121,
     "totalDraws": 43,
-    "totalLosses": 53,
-    "totalWinRatio": 65.19,
-    "victoryStreak": 0,
+    "totalLosses": 55,
+    "totalWinRatio": 65.07,
+    "victoryStreak": 1,
     "bestVictoryStreak": 9,
-    "noLostStreak": 6,
+    "noLostStreak": 1,
     "bestNoLostStreak": 12,
     "lostStreak": 0,
     "worstLostStreak": 5,
-    "oneTdStreak": 6,
+    "oneTdStreak": 1,
     "bestOneTdStreak": 19,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 7,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 5,
     "proplayers": [
       {
-        "totalGames": 26,
-        "totalWins": 13,
+        "totalGames": 28,
+        "totalWins": 14,
         "totalDraws": 5,
-        "totalLosses": 8,
-        "totalWinRatio": 59.62
+        "totalLosses": 9,
+        "totalWinRatio": 58.93
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 18,
-        "totalWins": 8,
+        "totalGames": 19,
+        "totalWins": 9,
         "totalDraws": 4,
         "totalLosses": 6,
-        "totalWinRatio": 55.56
+        "totalWinRatio": 57.89
       }
     ],
     "megaProplayers": [
@@ -10798,16 +10873,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      204.1014130230016,
-      207.21058871211264,
-      202.63268624173216,
-      197.90629403715792,
-      200.08223595275106,
-      203.81728879374842,
-      201.58703254680393,
-      203.57065849039884,
-      210.43099167875425,
-      207.05795554382107
+      203.81733598141153,
+      201.5870795337132,
+      203.57070526509915,
+      210.43103878532054,
+      207.0580865763159,
+      209.7067304896015,
+      215.76102540866546,
+      207.51365592576144,
+      201.36181647472472,
+      206.41522358194237
     ]
   },
   {
@@ -10931,10 +11006,10 @@ const generalAll = [
     "NAF Name": "Buyo",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 148.11147582839348,
-    "bestRating": 155.8380476988548,
-    "worstRating": 127.02488348835864,
-    "tendency": 15.354743890370429,
+    "rating": 148.1122889861188,
+    "bestRating": 155.8388561416019,
+    "worstRating": 127.02581848261909,
+    "tendency": 15.354653102201297,
     "totalTournaments": 8,
     "totalGames": 32,
     "totalWins": 11,
@@ -10981,16 +11056,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      132.75673193802305,
-      137.6269795536828,
-      141.32545972396255,
-      137.92350430722792,
-      137.98461735336775,
-      143.25269187800836,
-      149.45397759656737,
-      155.8380476988548,
-      150.40570075586683,
-      148.11147582839348
+      132.75763588391752,
+      137.62788189066652,
+      141.32636087210642,
+      137.92439343150176,
+      137.98547745824072,
+      143.25353783011067,
+      149.45481059839415,
+      155.8388561416019,
+      150.40647704110486,
+      148.1122889861188
     ]
   },
   {
@@ -11126,10 +11201,10 @@ const generalAll = [
     "NAF Name": "CadeteCacahuete",
     "Country": "Spain",
     "CCAA": "Aragón",
-    "rating": 181.318488302778,
+    "rating": 181.31448820931178,
     "bestRating": 181.92965082902558,
     "worstRating": 155.65685424949237,
-    "tendency": 4.6583299835900505,
+    "tendency": 4.654329890123819,
     "totalTournaments": 6,
     "totalGames": 25,
     "totalWins": 13,
@@ -11182,10 +11257,10 @@ const generalAll = [
       169.889318771371,
       174.8807419180845,
       174.59852576561534,
-      177.73140364413757,
-      170.6233774868727,
-      176.54770267681283,
-      181.318488302778
+      177.7314199361879,
+      170.6190264995581,
+      176.54352587200717,
+      181.31448820931178
     ]
   },
   {
@@ -11369,10 +11444,10 @@ const generalAll = [
     "NAF Name": "Califa_Mortal",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 165.7527088323915,
+    "rating": 165.75284815716864,
     "bestRating": 170.65199729335976,
     "worstRating": 150.00076166012042,
-    "tendency": 6.789101974223655,
+    "tendency": 6.789241299000793,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 11,
@@ -11425,10 +11500,10 @@ const generalAll = [
       166.98269492788566,
       160.61819578826888,
       154.2553431746615,
-      150.13284739485755,
-      155.526333289589,
-      160.35500889897912,
-      165.7527088323915
+      150.1328992027369,
+      155.52638664606604,
+      160.3550696962513,
+      165.75284815716864
     ]
   },
   {
@@ -11491,25 +11566,25 @@ const generalAll = [
     "NAF Name": "Calltroop",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 204.765598871087,
-    "bestRating": 207.05401663418237,
+    "rating": 202.89102173631557,
+    "bestRating": 212.7981235490718,
     "worstRating": 153.605551275464,
-    "tendency": 2.5948375883667723,
-    "totalTournaments": 70,
-    "totalGames": 275,
-    "totalWins": 131,
-    "totalDraws": 71,
-    "totalLosses": 73,
-    "totalWinRatio": 60.55,
-    "victoryStreak": 3,
+    "tendency": 8.142670357570182,
+    "totalTournaments": 71,
+    "totalGames": 280,
+    "totalWins": 133,
+    "totalDraws": 73,
+    "totalLosses": 74,
+    "totalWinRatio": 60.54,
+    "victoryStreak": 0,
     "bestVictoryStreak": 7,
-    "noLostStreak": 4,
+    "noLostStreak": 0,
     "bestNoLostStreak": 16,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 4,
-    "oneTdStreak": 4,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 17,
-    "twoTdStreak": 3,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 7,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 4,
@@ -11533,24 +11608,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 10,
+        "totalGames": 11,
         "totalWins": 1,
-        "totalDraws": 2,
+        "totalDraws": 3,
         "totalLosses": 7,
-        "totalWinRatio": 20
+        "totalWinRatio": 22.73
       }
     ],
     "_lastTenRatings": [
-      202.17076128272024,
-      204.58334514295163,
-      198.5635883326801,
-      197.25292478843437,
-      200.67776356335304,
-      194.7482178350934,
-      191.96476788817165,
-      195.12070999557926,
-      200.17722678114885,
-      204.765598871087
+      194.74835137874538,
+      191.96489659298646,
+      195.12084113219373,
+      200.17738652118038,
+      204.76575283813696,
+      209.12078127692436,
+      212.7981235490718,
+      209.67469611640328,
+      210.64236388178347,
+      202.89102173631557
     ]
   },
   {
@@ -11678,10 +11753,10 @@ const generalAll = [
     "NAF Name": "Cantonalix",
     "Country": "Spain",
     "CCAA": "Murcia",
-    "rating": 182.59093752107418,
-    "bestRating": 189.3194868056217,
+    "rating": 182.59144140767785,
+    "bestRating": 189.31982397604665,
     "worstRating": 144.15946924287306,
-    "tendency": 1.8819966691477532,
+    "tendency": 1.8824976453314548,
     "totalTournaments": 10,
     "totalGames": 40,
     "totalWins": 17,
@@ -11728,16 +11803,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      180.70894085192643,
-      179.49608812662618,
-      183.73945458557867,
-      180.2346499221586,
-      184.7377657620689,
-      189.3194868056217,
-      185.82024421487927,
-      188.9039236511564,
-      184.16556196783833,
-      182.59093752107418
+      180.7089437623464,
+      179.49609168640595,
+      183.73945800045004,
+      180.23474248453104,
+      184.73786034137456,
+      189.31982397604665,
+      185.82065336851127,
+      188.90434900347185,
+      184.16608173089304,
+      182.59144140767785
     ]
   },
   {
@@ -11745,27 +11820,27 @@ const generalAll = [
     "NAF Name": "CAOS1990",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 151.65115125365597,
-    "bestRating": 151.65115125365597,
+    "rating": 148.27821623353177,
+    "bestRating": 152.94577511453886,
     "worstRating": 113.56035834039551,
-    "tendency": 18.093872136082723,
-    "totalTournaments": 17,
-    "totalGames": 66,
-    "totalWins": 19,
+    "tendency": 9.830230317887384,
+    "totalTournaments": 18,
+    "totalGames": 71,
+    "totalWins": 21,
     "totalDraws": 19,
-    "totalLosses": 28,
-    "totalWinRatio": 43.18,
-    "victoryStreak": 2,
+    "totalLosses": 31,
+    "totalWinRatio": 42.96,
+    "victoryStreak": 0,
     "bestVictoryStreak": 3,
-    "noLostStreak": 2,
+    "noLostStreak": 0,
     "bestNoLostStreak": 7,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 4,
     "oneTdStreak": 2,
     "bestOneTdStreak": 7,
-    "twoTdStreak": 2,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 3,
-    "noTdAgainstStreak": 2,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
@@ -11778,10 +11853,10 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 2,
+        "totalLosses": 3,
         "totalWinRatio": 0
       }
     ],
@@ -11795,16 +11870,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      133.55727911757324,
-      135.02492025654453,
-      136.76300406598313,
-      138.1207862794688,
-      144.26794604085885,
       138.44798591564438,
       144.87031084892917,
       139.8781724338935,
       147.1276462011928,
-      151.65115125365597
+      151.65115125365597,
+      146.81469039054946,
+      152.94577511453886,
+      146.61198941365015,
+      151.56096214339547,
+      148.27821623353177
     ]
   },
   {
@@ -12133,10 +12208,10 @@ const generalAll = [
     "NAF Name": "Carlos_ratas",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 146.27578149342634,
+    "rating": 146.28006523282434,
     "bestRating": 148.50041653105006,
-    "worstRating": 140.92261630094265,
-    "tendency": 1.3704667594507498,
+    "worstRating": 140.92732614767596,
+    "tendency": 1.3747504988487549,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -12187,10 +12262,10 @@ const generalAll = [
       148.50041653105006,
       142.68976120803686,
       147.95940883815626,
-      140.92261630094265,
-      141.29365150740162,
-      146.20890745362564,
-      146.27578149342634
+      140.92732614767596,
+      141.29815774145524,
+      146.213221399622,
+      146.28006523282434
     ]
   },
   {
@@ -12198,10 +12273,10 @@ const generalAll = [
     "NAF Name": "carnicero",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 143.37168330666535,
-    "bestRating": 149.1598004119354,
-    "worstRating": 143.37168330666535,
-    "tendency": -5.348695772403772,
+    "rating": 143.37186067512707,
+    "bestRating": 149.15998582637937,
+    "worstRating": 143.37186067512707,
+    "tendency": -5.348518403942052,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -12250,8 +12325,8 @@ const generalAll = [
     "_lastTenRatings": [
       148.72037907906912,
       143.43049225785774,
-      149.1598004119354,
-      143.37168330666535
+      149.15998582637937,
+      143.37186067512707
     ]
   },
   {
@@ -12320,10 +12395,10 @@ const generalAll = [
     "NAF Name": "CAYSE",
     "Country": "Spain",
     "CCAA": "I. Canarias",
-    "rating": 153.51730635030503,
-    "bestRating": 153.51730635030503,
-    "worstRating": 145.81160571810892,
-    "tendency": 7.705700632196113,
+    "rating": 153.52547615986197,
+    "bestRating": 153.52547615986197,
+    "worstRating": 145.8148503083953,
+    "tendency": 7.710625851466659,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -12370,9 +12445,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      145.81160571810892,
-      150.29275584180968,
-      153.51730635030503
+      145.8148503083953,
+      150.29545458124983,
+      153.52547615986197
     ]
   },
   {
@@ -12569,10 +12644,10 @@ const generalAll = [
     "NAF Name": "CeCe",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 147.53905494450902,
+    "rating": 147.53950010600425,
     "bestRating": 154.5876712800356,
-    "worstRating": 142.07060128407414,
-    "tendency": -7.048616335526589,
+    "worstRating": 142.07106458933293,
+    "tendency": -7.048171174031353,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -12620,9 +12695,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       154.5876712800356,
-      149.02786966887493,
-      142.07060128407414,
-      147.53905494450902
+      149.0278699525225,
+      142.07106458933293,
+      147.53950010600425
     ]
   },
   {
@@ -12752,66 +12827,66 @@ const generalAll = [
     "NAF Name": "Celata",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 164.7441854606036,
+    "rating": 168.02255799538068,
     "bestRating": 174.53374842567987,
     "worstRating": 127.6929227086381,
-    "tendency": -0.4098998124405284,
-    "totalTournaments": 22,
-    "totalGames": 85,
-    "totalWins": 35,
-    "totalDraws": 23,
-    "totalLosses": 27,
-    "totalWinRatio": 54.71,
+    "tendency": 2.597190091970475,
+    "totalTournaments": 23,
+    "totalGames": 90,
+    "totalWins": 36,
+    "totalDraws": 26,
+    "totalLosses": 28,
+    "totalWinRatio": 54.44,
     "victoryStreak": 1,
     "bestVictoryStreak": 3,
-    "noLostStreak": 1,
+    "noLostStreak": 2,
     "bestNoLostStreak": 10,
     "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 1,
+    "oneTdStreak": 2,
     "bestOneTdStreak": 18,
-    "twoTdStreak": 1,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 7,
+        "totalGames": 8,
         "totalWins": 1,
         "totalDraws": 2,
-        "totalLosses": 4,
-        "totalWinRatio": 28.57
+        "totalLosses": 5,
+        "totalWinRatio": 25
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 3,
+        "totalGames": 4,
         "totalWins": 0,
-        "totalDraws": 1,
+        "totalDraws": 2,
         "totalLosses": 2,
-        "totalWinRatio": 16.67
+        "totalWinRatio": 25
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 50
       }
     ],
     "_lastTenRatings": [
-      165.15408527304413,
-      170.25732998024966,
-      165.41862499661715,
-      162.0348654636884,
-      165.96347578395668,
       165.4253679034102,
-      170.04407340668217,
-      163.4366578839827,
-      159.24540363129944,
-      164.7441854606036
+      170.0440734066836,
+      163.43665814989868,
+      159.24540553088752,
+      164.74418777573,
+      166.33745512223146,
+      169.11838655230363,
+      164.45483781364044,
+      163.71229103755186,
+      168.02255799538068
     ]
   },
   {
@@ -12819,10 +12894,10 @@ const generalAll = [
     "NAF Name": "centruki",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 126.51351008074319,
+    "rating": 126.51372340929734,
     "bestRating": 167.633295741234,
-    "worstRating": 126.51351008074319,
-    "tendency": -3.741114887263663,
+    "worstRating": 126.51372340929734,
+    "tendency": -3.7409430000265047,
     "totalTournaments": 9,
     "totalGames": 36,
     "totalWins": 13,
@@ -12869,16 +12944,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      130.25462496800685,
-      135.59770623799795,
-      138.28769600342693,
-      143.5752048396542,
-      140.69590074013217,
-      136.3946062773851,
-      140.8733151365513,
-      136.3137104086225,
-      131.48503479923238,
-      126.51351008074319
+      130.25466640932385,
+      135.5977567418293,
+      138.28782171664423,
+      143.57551946653413,
+      140.6961353196683,
+      136.39485236278372,
+      140.87355149202136,
+      136.31393889471846,
+      131.4852558445332,
+      126.51372340929734
     ]
   },
   {
@@ -12886,35 +12961,35 @@ const generalAll = [
     "NAF Name": "cesar",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 144.84497803756483,
+    "rating": 127.7809232734892,
     "bestRating": 156.51984815314725,
-    "worstRating": 144.54646868761998,
-    "tendency": -11.674870115582422,
-    "totalTournaments": 1,
-    "totalGames": 6,
+    "worstRating": 127.7809232734892,
+    "tendency": -24.056710770550026,
+    "totalTournaments": 2,
+    "totalGames": 11,
     "totalWins": 2,
-    "totalDraws": 1,
-    "totalLosses": 3,
-    "totalWinRatio": 41.67,
+    "totalDraws": 2,
+    "totalLosses": 7,
+    "totalWinRatio": 27.27,
     "victoryStreak": 0,
     "bestVictoryStreak": 1,
-    "noLostStreak": 1,
+    "noLostStreak": 0,
     "bestNoLostStreak": 1,
-    "lostStreak": 0,
-    "worstLostStreak": 2,
-    "oneTdStreak": 1,
+    "lostStreak": 3,
+    "worstLostStreak": 3,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 1,
-    "twoTdStreak": 1,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 1,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 2,
         "totalWins": 0,
-        "totalDraws": 0,
-        "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalDraws": 1,
+        "totalLosses": 1,
+        "totalWinRatio": 25
       }
     ],
     "topProplayers": [
@@ -12936,12 +13011,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      156.51984815314725,
       151.83763404403922,
       155.72940919274782,
       150.07998692777488,
       144.54646868761998,
-      144.84497803756483
+      144.84497803756483,
+      141.0815393351347,
+      143.15682670930428,
+      138.48287631304828,
+      132.09119023131802,
+      127.7809232734892
     ]
   },
   {
@@ -12949,43 +13028,43 @@ const generalAll = [
     "NAF Name": "cestroyer",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 174.23533770098274,
-    "bestRating": 175.84878583351556,
+    "rating": 169.19723763124136,
+    "bestRating": 175.84878856872302,
     "worstRating": 143.12351815185036,
-    "tendency": 10.594948330127977,
-    "totalTournaments": 9,
-    "totalGames": 34,
-    "totalWins": 17,
-    "totalDraws": 5,
-    "totalLosses": 12,
-    "totalWinRatio": 57.35,
-    "victoryStreak": 1,
+    "tendency": -1.8084422114054917,
+    "totalTournaments": 10,
+    "totalGames": 39,
+    "totalWins": 18,
+    "totalDraws": 7,
+    "totalLosses": 14,
+    "totalWinRatio": 55.13,
+    "victoryStreak": 0,
     "bestVictoryStreak": 2,
-    "noLostStreak": 1,
+    "noLostStreak": 0,
     "bestNoLostStreak": 5,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 1,
-    "oneTdStreak": 9,
+    "oneTdStreak": 4,
     "bestOneTdStreak": 11,
-    "twoTdStreak": 1,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 2,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 3,
+        "totalGames": 5,
         "totalWins": 1,
-        "totalDraws": 0,
-        "totalLosses": 2,
-        "totalWinRatio": 33.33
+        "totalDraws": 1,
+        "totalLosses": 3,
+        "totalWinRatio": 30
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -12999,16 +13078,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      163.64038937085476,
-      167.2358285254868,
-      162.94190800220707,
-      167.05620173484388,
-      173.14857192534143,
-      171.00567698597513,
-      175.84878583351556,
-      175.5477596042805,
-      170.62588108600866,
-      174.23533770098274
+      171.00567984264686,
+      175.84878856872302,
+      175.54776264620295,
+      170.6258840083721,
+      174.2353717351166,
+      169.8803432963292,
+      170.67135120641822,
+      169.75956559729187,
+      173.9483962037691,
+      169.19723763124136
     ]
   },
   {
@@ -13016,23 +13095,23 @@ const generalAll = [
     "NAF Name": "ChachePerrache",
     "Country": "Spain",
     "CCAA": "Murcia",
-    "rating": 172.12465060221697,
+    "rating": 163.7858941540679,
     "bestRating": 192.9245440997182,
     "worstRating": 125.31282910539498,
-    "tendency": -12.236782691194065,
-    "totalTournaments": 32,
-    "totalGames": 127,
-    "totalWins": 50,
-    "totalDraws": 34,
-    "totalLosses": 43,
-    "totalWinRatio": 52.76,
+    "tendency": -21.53695657606059,
+    "totalTournaments": 33,
+    "totalGames": 132,
+    "totalWins": 51,
+    "totalDraws": 36,
+    "totalLosses": 45,
+    "totalWinRatio": 52.27,
     "victoryStreak": 0,
     "bestVictoryStreak": 4,
     "noLostStreak": 0,
     "bestNoLostStreak": 11,
-    "lostStreak": 2,
+    "lostStreak": 1,
     "worstLostStreak": 3,
-    "oneTdStreak": 1,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 11,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
@@ -13040,11 +13119,11 @@ const generalAll = [
     "bestNoTdAgainstStreak": 4,
     "proplayers": [
       {
-        "totalGames": 14,
+        "totalGames": 15,
         "totalWins": 4,
         "totalDraws": 5,
-        "totalLosses": 5,
-        "totalWinRatio": 46.43
+        "totalLosses": 6,
+        "totalWinRatio": 43.33
       }
     ],
     "topProplayers": [
@@ -13066,16 +13145,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      184.36143329341104,
-      183.72410456343664,
-      180.77679892434384,
-      174.92898932740192,
-      180.49757261541492,
-      185.32272572617237,
-      181.1121338407116,
-      185.38060001478794,
-      178.4138011085879,
-      172.12465060221697
+      185.3228507301285,
+      181.11228477519364,
+      185.38074531821158,
+      178.41395861747856,
+      172.1248099402937,
+      172.39054070440667,
+      167.45224724983376,
+      166.50060817091816,
+      170.70561091898514,
+      163.7858941540679
     ]
   },
   {
@@ -13083,10 +13162,10 @@ const generalAll = [
     "NAF Name": "Chai",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 136.40337216902861,
+    "rating": 136.4054529652721,
     "bestRating": 155.65226675108332,
-    "worstRating": 135.85841160317256,
-    "tendency": -6.434237253330991,
+    "worstRating": 135.86089194629992,
+    "tendency": -6.432488810235782,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 4,
@@ -13133,16 +13212,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      142.8376094223596,
-      147.8849755925695,
-      141.47113015246833,
-      135.85841160317256,
-      140.91622014647282,
-      147.40507873167223,
-      142.12166421663773,
-      136.10896341174097,
-      136.27588039585126,
-      136.40337216902861
+      142.8379417755079,
+      147.88764166370376,
+      141.47370169889624,
+      135.86089194629992,
+      140.91879213354318,
+      147.40754146367135,
+      142.1240204876935,
+      136.1112290889879,
+      136.27804851709635,
+      136.4054529652721
     ]
   },
   {
@@ -13150,10 +13229,10 @@ const generalAll = [
     "NAF Name": "Chandalf",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 125.08021851651175,
+    "rating": 125.0801955428079,
     "bestRating": 143.8455815894167,
-    "worstRating": 125.08021851651175,
-    "tendency": -18.765363072904947,
+    "worstRating": 125.0801955428079,
+    "tendency": -18.765386046608796,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -13201,9 +13280,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       143.8455815894167,
-      136.36505252444928,
-      130.73005213578247,
-      125.08021851651175
+      136.36499614569965,
+      130.73001599516343,
+      125.0801955428079
     ]
   },
   {
@@ -13457,10 +13536,10 @@ const generalAll = [
     "NAF Name": "Charmander",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 110.7778953783059,
+    "rating": 110.77845053603234,
     "bestRating": 149.77919507281683,
-    "worstRating": 105.95278105732561,
-    "tendency": -3.7436134649592105,
+    "worstRating": 105.95365001398235,
+    "tendency": -3.743924466138921,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 6,
@@ -13507,16 +13586,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      114.52150884326511,
-      109.65126122760537,
-      105.95278105732561,
-      111.40153362262004,
-      108.40951912770068,
-      109.87124721006175,
-      116.24534932875005,
-      113.1684377081211,
-      109.27922311348637,
-      110.7778953783059
+      114.52237500217126,
+      109.65212899542225,
+      105.95365001398235,
+      111.40243943267652,
+      108.41036028717497,
+      109.87207712453367,
+      116.24614448281673,
+      113.1692311130259,
+      109.27997880750198,
+      110.77845053603234
     ]
   },
   {
@@ -13579,10 +13658,10 @@ const generalAll = [
     "NAF Name": "Chechu",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 149.5104335784191,
+    "rating": 149.51043357848133,
     "bestRating": 159.32178091519773,
-    "worstRating": 141.8457768523197,
-    "tendency": 0.009993690070956518,
+    "worstRating": 141.8457768523216,
+    "tendency": 0.00999369013317164,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 8,
@@ -13633,12 +13712,12 @@ const generalAll = [
       145.89246088878932,
       151.07582681205318,
       146.78902980789837,
-      141.8457768523197,
-      147.0354303095543,
-      152.58204259771605,
-      148.01434249778504,
-      148.0749110842001,
-      149.5104335784191
+      141.8457768523216,
+      147.03543030955615,
+      152.58204259771782,
+      148.01434249778674,
+      148.07491108420172,
+      149.51043357848133
     ]
   },
   {
@@ -13837,27 +13916,27 @@ const generalAll = [
     "NAF Name": "Chemarvi",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 109.04654849652198,
+    "rating": 140.1892031415852,
     "bestRating": 156.19151232319922,
-    "worstRating": 93.23642969407913,
-    "tendency": -1.233203751737605,
-    "totalTournaments": 14,
-    "totalGames": 58,
-    "totalWins": 15,
-    "totalDraws": 10,
+    "worstRating": 93.23668371964621,
+    "tendency": 41.506683524944464,
+    "totalTournaments": 15,
+    "totalGames": 63,
+    "totalWins": 19,
+    "totalDraws": 11,
     "totalLosses": 33,
-    "totalWinRatio": 34.48,
-    "victoryStreak": 0,
-    "bestVictoryStreak": 2,
-    "noLostStreak": 3,
-    "bestNoLostStreak": 3,
+    "totalWinRatio": 38.89,
+    "victoryStreak": 1,
+    "bestVictoryStreak": 3,
+    "noLostStreak": 8,
+    "bestNoLostStreak": 8,
     "lostStreak": 0,
     "worstLostStreak": 6,
-    "oneTdStreak": 3,
-    "bestOneTdStreak": 7,
-    "twoTdStreak": 2,
-    "bestTwoTdStreak": 2,
-    "noTdAgainstStreak": 0,
+    "oneTdStreak": 8,
+    "bestOneTdStreak": 8,
+    "twoTdStreak": 1,
+    "bestTwoTdStreak": 5,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
@@ -13879,24 +13958,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 0
+        "totalWinRatio": 25
       }
     ],
     "_lastTenRatings": [
-      110.27975224825958,
-      106.90257820612258,
-      103.44584700635198,
-      100.97177215808584,
-      95.71018042418105,
-      98.6825178077073,
-      93.23642969407913,
-      101.27410163772667,
-      107.18557902855123,
-      109.04654849652198
+      98.68251961664075,
+      93.23668371964621,
+      101.27434661645458,
+      107.18583829195798,
+      109.04679795740118,
+      116.15566769080269,
+      124.22519211789432,
+      131.08650171715183,
+      134.86222105146854,
+      140.1892031415852
     ]
   },
   {
@@ -14026,10 +14105,10 @@ const generalAll = [
     "NAF Name": "ChicaV",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 120.60342317763698,
-    "bestRating": 149.2433079594605,
-    "worstRating": 115.97344272955652,
-    "tendency": -21.46370393505697,
+    "rating": 120.61562035414548,
+    "bestRating": 149.2471109124226,
+    "worstRating": 115.98495306938835,
+    "tendency": -21.46444654463778,
     "totalTournaments": 5,
     "totalGames": 19,
     "totalWins": 3,
@@ -14076,16 +14155,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      142.06712711269395,
-      141.00018129165466,
-      140.86601940118223,
-      137.4667895739321,
-      136.59846462915786,
-      129.14311717932296,
-      124.88084871533599,
-      120.13053606606357,
-      115.97344272955652,
-      120.60342317763698
+      142.08006689878326,
+      141.01348592606422,
+      140.88046401654282,
+      137.48073289264124,
+      136.61181683446452,
+      129.15595065698884,
+      124.8932281589326,
+      120.1424704822818,
+      115.98495306938835,
+      120.61562035414548
     ]
   },
   {
@@ -14154,10 +14233,10 @@ const generalAll = [
     "NAF Name": "chicobowl",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 138.66477027521643,
+    "rating": 138.6648808062577,
     "bestRating": 164.60276362010896,
     "worstRating": 127.52438779693843,
-    "tendency": 0.11123002566597506,
+    "tendency": 0.11130649898640854,
     "totalTournaments": 14,
     "totalGames": 56,
     "totalWins": 19,
@@ -14204,16 +14283,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      138.55354024955045,
-      133.94257822371196,
-      139.3647208972869,
-      137.1985873656801,
-      137.99925762835676,
-      143.5143379159444,
-      140.91419831904298,
-      139.996764740712,
-      132.9822517377494,
-      138.66477027521643
+      138.5535743072713,
+      133.9426196488747,
+      139.3647633084064,
+      137.19863241791782,
+      137.99930484629976,
+      143.5144197826345,
+      140.91429965887838,
+      139.99688266875418,
+      132.98236532251863,
+      138.6648808062577
     ]
   },
   {
@@ -14340,10 +14419,10 @@ const generalAll = [
     "NAF Name": "Chinasko",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 140.55788061102945,
+    "rating": 140.55835265144006,
     "bestRating": 164.35690586097772,
-    "worstRating": 140.55788061102945,
-    "tendency": -15.703031600113349,
+    "worstRating": 140.55835265144006,
+    "tendency": -15.70323926501763,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 8,
@@ -14390,16 +14469,71 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      156.2609122111428,
-      150.8558078650992,
-      146.14606560244653,
-      152.05940280089868,
-      145.80560965585724,
-      145.6914047435674,
-      141.817918997334,
-      142.086553901322,
-      144.43035724842173,
-      140.55788061102945
+      156.2615919164577,
+      150.856490704161,
+      146.14675612231252,
+      152.05984143046754,
+      145.8060405844103,
+      145.69193118314365,
+      141.81845564725666,
+      142.08697279702508,
+      144.4308409658754,
+      140.55835265144006
+    ]
+  },
+  {
+    "NAF Nr": "37026",
+    "NAF Name": "Chispa",
+    "Country": "Spain",
+    "CCAA": "Castilla y León",
+    "rating": 150,
+    "bestRating": 0,
+    "worstRating": 0,
+    "tendency": 0,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 0,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 0,
+    "lostStreak": 0,
+    "worstLostStreak": 0,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 0,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 0,
+    "noTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 0,
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
     ]
   },
   {
@@ -14407,10 +14541,10 @@ const generalAll = [
     "NAF Name": "Chobinator",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 131.5757191139024,
+    "rating": 131.5757372882733,
     "bestRating": 143.86936160564542,
-    "worstRating": 131.5757191139024,
-    "tendency": -12.293642491743014,
+    "worstRating": 131.5757372882733,
+    "tendency": -12.293624317372121,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -14459,8 +14593,8 @@ const generalAll = [
     "_lastTenRatings": [
       143.86936160564542,
       143.68722239667775,
-      137.2033275661259,
-      131.5757191139024
+      137.20332797667862,
+      131.5757372882733
     ]
   },
   {
@@ -14590,10 +14724,10 @@ const generalAll = [
     "NAF Name": "Chul",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 159.70138587100436,
-    "bestRating": 159.70138587100436,
-    "worstRating": 148.14335490260768,
-    "tendency": 6.175344268564402,
+    "rating": 159.78095200927947,
+    "bestRating": 159.78095200927947,
+    "worstRating": 148.22649790314003,
+    "tendency": 6.057866212555496,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 4,
@@ -14640,12 +14774,12 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      153.52604160243996,
-      153.18196915049154,
-      148.14335490260768,
-      152.2654117956565,
-      156.62160954103618,
-      159.70138587100436
+      153.72308579672398,
+      153.3647830129039,
+      148.22649790314003,
+      152.34578149054,
+      156.69787951901463,
+      159.78095200927947
     ]
   },
   {
@@ -14653,25 +14787,25 @@ const generalAll = [
     "NAF Name": "Chusman",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 159.7673657274522,
-    "bestRating": 168.9247668430727,
+    "rating": 182.75283479273975,
+    "bestRating": 182.75283479273975,
     "worstRating": 151.32507667812243,
-    "tendency": -8.968960879092407,
-    "totalTournaments": 7,
-    "totalGames": 26,
-    "totalWins": 10,
+    "tendency": 16.030824425774483,
+    "totalTournaments": 8,
+    "totalGames": 31,
+    "totalWins": 14,
     "totalDraws": 9,
-    "totalLosses": 7,
-    "totalWinRatio": 55.77,
-    "victoryStreak": 0,
+    "totalLosses": 8,
+    "totalWinRatio": 59.68,
+    "victoryStreak": 3,
     "bestVictoryStreak": 3,
-    "noLostStreak": 0,
+    "noLostStreak": 3,
     "bestNoLostStreak": 6,
-    "lostStreak": 1,
+    "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 0,
+    "oneTdStreak": 3,
     "bestOneTdStreak": 5,
-    "twoTdStreak": 0,
+    "twoTdStreak": 2,
     "bestTwoTdStreak": 2,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
@@ -14695,24 +14829,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 2,
-        "totalWins": 0,
+        "totalGames": 4,
+        "totalWins": 1,
         "totalDraws": 1,
-        "totalLosses": 1,
-        "totalWinRatio": 25
+        "totalLosses": 2,
+        "totalWinRatio": 37.5
       }
     ],
     "_lastTenRatings": [
-      168.7363266065446,
-      168.49820001990025,
-      162.8174847148307,
-      162.25056267168696,
-      165.67061754841365,
-      166.7220102825651,
-      166.66941584720925,
-      165.01175570261404,
-      165.96184034687678,
-      159.7673657274522
+      166.72201036696526,
+      166.66942549558647,
+      165.01176462401378,
+      165.96185538213365,
+      159.76751430322582,
+      165.90906269494374,
+      163.61851109116952,
+      168.69334681177725,
+      174.4110269351229,
+      182.75283479273975
     ]
   },
   {
@@ -14720,35 +14854,35 @@ const generalAll = [
     "NAF Name": "chuvichei",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 134.07407752175118,
+    "rating": 125.29196122622541,
     "bestRating": 143.4375014581816,
-    "worstRating": 119.44461614840797,
-    "tendency": 0.8229374890042891,
-    "totalTournaments": 4,
-    "totalGames": 15,
-    "totalWins": 2,
-    "totalDraws": 7,
-    "totalLosses": 6,
-    "totalWinRatio": 36.67,
-    "victoryStreak": 2,
+    "worstRating": 119.2518761503732,
+    "tendency": -2.9450412148353706,
+    "totalTournaments": 5,
+    "totalGames": 20,
+    "totalWins": 3,
+    "totalDraws": 8,
+    "totalLosses": 9,
+    "totalWinRatio": 35,
+    "victoryStreak": 1,
     "bestVictoryStreak": 2,
     "noLostStreak": 2,
     "bestNoLostStreak": 3,
     "lostStreak": 0,
-    "worstLostStreak": 2,
-    "oneTdStreak": 6,
+    "worstLostStreak": 3,
+    "oneTdStreak": 2,
     "bestOneTdStreak": 6,
-    "twoTdStreak": 2,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 2,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 1,
         "totalDraws": 1,
-        "totalLosses": 0,
-        "totalWinRatio": 75
+        "totalLosses": 1,
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
@@ -14770,16 +14904,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      133.2511400327469,
-      133.7769991987586,
-      132.0470431815024,
-      132.7974343364409,
-      127.08868250296736,
       128.23700244106078,
       123.89368433229674,
-      119.44461614840797,
-      125.97742311792476,
-      134.07407752175118
+      119.44461647650478,
+      125.97742348651644,
+      134.07407987423534,
+      128.8990046897495,
+      123.3657595862385,
+      120.04897426846237,
+      119.2518761503732,
+      125.29196122622541
     ]
   },
   {
@@ -14848,27 +14982,27 @@ const generalAll = [
     "NAF Name": "Claverosky",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 198.8788324132212,
-    "bestRating": 200.60121751830266,
+    "rating": 194.1670529943561,
+    "bestRating": 201.36818539202477,
     "worstRating": 145.76284591282544,
-    "tendency": 8.755418602977016,
-    "totalTournaments": 27,
-    "totalGames": 113,
-    "totalWins": 56,
-    "totalDraws": 24,
-    "totalLosses": 33,
-    "totalWinRatio": 60.18,
+    "tendency": 3.664134446919036,
+    "totalTournaments": 28,
+    "totalGames": 118,
+    "totalWins": 58,
+    "totalDraws": 26,
+    "totalLosses": 34,
+    "totalWinRatio": 60.17,
     "victoryStreak": 1,
     "bestVictoryStreak": 5,
-    "noLostStreak": 1,
+    "noLostStreak": 3,
     "bestNoLostStreak": 10,
     "lostStreak": 0,
     "worstLostStreak": 3,
-    "oneTdStreak": 1,
+    "oneTdStreak": 6,
     "bestOneTdStreak": 19,
-    "twoTdStreak": 1,
+    "twoTdStreak": 3,
     "bestTwoTdStreak": 5,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
@@ -14898,16 +15032,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      190.1234138102442,
-      185.5695977404287,
-      184.92441610780833,
-      188.39266934595713,
-      186.80204468263767,
-      190.50163054946242,
-      194.62412632926637,
-      198.39537712201695,
-      194.95510995272144,
-      198.8788324132212
+      190.50291854743708,
+      194.6253625193617,
+      198.39664024039894,
+      194.95635820985964,
+      198.88003170838533,
+      201.36818539202477,
+      193.88752232771637,
+      191.23343054936186,
+      190.06756284405955,
+      194.1670529943561
     ]
   },
   {
@@ -15102,10 +15236,10 @@ const generalAll = [
     "NAF Name": "Coach_iosu",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 158.6797675687645,
-    "bestRating": 158.6797675687645,
-    "worstRating": 144.5377017699524,
-    "tendency": 14.142065798812098,
+    "rating": 158.6799584001238,
+    "bestRating": 158.6799584001238,
+    "worstRating": 144.53770470479725,
+    "tendency": 14.14225369532656,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -15152,14 +15286,14 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.5377017699524,
-      150.49764329210387,
-      151.27064303356107,
-      146.54315687176324,
-      152.35006499200605,
-      152.98855695875667,
-      157.92954671128717,
-      158.6797675687645
+      144.53770470479725,
+      150.49776861318387,
+      151.2707672288876,
+      146.5433092483713,
+      152.3502107573874,
+      152.9887222703694,
+      157.9297203876362,
+      158.6799584001238
     ]
   },
   {
@@ -15167,10 +15301,10 @@ const generalAll = [
     "NAF Name": "Cobreti",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 173.59329529776295,
+    "rating": 173.59330519074237,
     "bestRating": 180.66699100480125,
     "worstRating": 144.89502243093077,
-    "tendency": 1.4503215744083207,
+    "tendency": 1.4503314673877412,
     "totalTournaments": 8,
     "totalGames": 32,
     "totalWins": 13,
@@ -15223,10 +15357,10 @@ const generalAll = [
       173.47217900546292,
       173.13080006073287,
       169.39720354010825,
-      170.26274515694476,
-      170.09266856268738,
-      170.20923581054717,
-      173.59329529776295
+      170.2627496382829,
+      170.09267723819656,
+      170.20924596599727,
+      173.59330519074237
     ]
   },
   {
@@ -15466,10 +15600,10 @@ const generalAll = [
     "NAF Name": "COLEMANTREBOR",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 160.06066112187443,
-    "bestRating": 160.14159123472606,
-    "worstRating": 155.0990195135928,
-    "tendency": 4.961641608281639,
+    "rating": 160.25510511726543,
+    "bestRating": 160.3392592226329,
+    "worstRating": 155.19615242270663,
+    "tendency": 5.058952694558798,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -15516,9 +15650,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      155.0990195135928,
-      160.14159123472606,
-      160.06066112187443
+      155.19615242270663,
+      160.3392592226329,
+      160.25510511726543
     ]
   },
   {
@@ -16136,23 +16270,23 @@ const generalAll = [
     "NAF Name": "CRuzado17",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 167.8497931740114,
+    "rating": 169.08125998401397,
     "bestRating": 215.82286735784925,
     "worstRating": 137.6552434548087,
-    "tendency": -27.627134260223585,
-    "totalTournaments": 26,
-    "totalGames": 109,
-    "totalWins": 54,
-    "totalDraws": 21,
-    "totalLosses": 34,
-    "totalWinRatio": 59.17,
+    "tendency": -3.212449215321527,
+    "totalTournaments": 27,
+    "totalGames": 114,
+    "totalWins": 55,
+    "totalDraws": 24,
+    "totalLosses": 35,
+    "totalWinRatio": 58.77,
     "victoryStreak": 0,
     "bestVictoryStreak": 5,
-    "noLostStreak": 1,
+    "noLostStreak": 4,
     "bestNoLostStreak": 8,
     "lostStreak": 0,
     "worstLostStreak": 4,
-    "oneTdStreak": 1,
+    "oneTdStreak": 6,
     "bestOneTdStreak": 17,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
@@ -16160,11 +16294,11 @@ const generalAll = [
     "bestNoTdAgainstStreak": 4,
     "proplayers": [
       {
-        "totalGames": 11,
-        "totalWins": 7,
-        "totalDraws": 0,
-        "totalLosses": 4,
-        "totalWinRatio": 63.64
+        "totalGames": 14,
+        "totalWins": 8,
+        "totalDraws": 1,
+        "totalLosses": 5,
+        "totalWinRatio": 60.71
       }
     ],
     "topProplayers": [
@@ -16186,16 +16320,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      195.476927434235,
-      193.15866777688203,
-      189.77612557317295,
-      184.1569238631809,
-      178.172320683164,
-      172.29360508457742,
-      175.3943186346324,
-      174.3308548385322,
-      167.89544703923895,
-      167.8497931740114
+      172.2937091993355,
+      175.3944198371602,
+      174.33097203984585,
+      167.89556243806317,
+      167.84991338936453,
+      163.25994843611892,
+      162.18885476262273,
+      161.4621268235069,
+      167.9664760310095,
+      169.08125998401397
     ]
   },
   {
@@ -16203,10 +16337,10 @@ const generalAll = [
     "NAF Name": "Cryature",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 132.27264840397112,
-    "bestRating": 143.25470962447926,
-    "worstRating": 126.62281478470041,
-    "tendency": -10.982061220508143,
+    "rating": 132.27291261298163,
+    "bestRating": 143.2547357531333,
+    "worstRating": 126.6230921606261,
+    "tendency": -10.981823140151675,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 2,
@@ -16253,13 +16387,13 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      143.25470962447926,
-      136.73011587955526,
-      140.46229245379016,
-      136.6690300562708,
-      132.6854367759791,
-      126.62281478470041,
-      132.27264840397112
+      143.2547357531333,
+      136.73028107704627,
+      140.46247490797478,
+      136.66921749554936,
+      132.68570006997444,
+      126.6230921606261,
+      132.27291261298163
     ]
   },
   {
@@ -16267,35 +16401,35 @@ const generalAll = [
     "NAF Name": "CT_Konrad",
     "Country": "Spain",
     "CCAA": "Asturias",
-    "rating": 153.78502674542156,
-    "bestRating": 158.1241065870824,
-    "worstRating": 153.78502674542156,
-    "tendency": -0.573872198119119,
-    "totalTournaments": 1,
-    "totalGames": 3,
-    "totalWins": 2,
+    "rating": 148.0409652552954,
+    "bestRating": 161.21853780264541,
+    "worstRating": 141.12124849037815,
+    "tendency": -6.31793368824529,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 4,
     "totalDraws": 0,
-    "totalLosses": 1,
-    "totalWinRatio": 66.67,
-    "victoryStreak": 0,
+    "totalLosses": 4,
+    "totalWinRatio": 50,
+    "victoryStreak": 1,
     "bestVictoryStreak": 2,
-    "noLostStreak": 0,
+    "noLostStreak": 1,
     "bestNoLostStreak": 2,
-    "lostStreak": 1,
-    "worstLostStreak": 1,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 2,
+    "lostStreak": 0,
+    "worstLostStreak": 3,
+    "oneTdStreak": 3,
+    "bestOneTdStreak": 3,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 2,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 1,
+        "totalWins": 1,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "topProplayers": [
@@ -16319,7 +16453,12 @@ const generalAll = [
     "_lastTenRatings": [
       154.35889894354068,
       158.1241065870824,
-      153.78502674542156
+      153.78502674542156,
+      161.21853780264541,
+      154.01328133250055,
+      148.21550663573714,
+      141.12124849037815,
+      148.0409652552954
     ]
   },
   {
@@ -16510,10 +16649,10 @@ const generalAll = [
     "NAF Name": "DaCamRo",
     "Country": "Spain",
     "CCAA": "C. La Mancha",
-    "rating": 144.13994265114303,
+    "rating": 144.1399441575995,
     "bestRating": 149.92073310745863,
     "worstRating": 139.89587133506254,
-    "tendency": 4.244071316080493,
+    "tendency": 4.244072822536964,
     "totalTournaments": 3,
     "totalGames": 11,
     "totalWins": 3,
@@ -16567,9 +16706,9 @@ const generalAll = [
       147.0891897641932,
       141.83820476500279,
       147.72865191884753,
-      148.4319600513594,
-      149.87024866035307,
-      144.13994265114303
+      148.43196030838928,
+      149.8702489867547,
+      144.1399441575995
     ]
   },
   {
@@ -16577,10 +16716,10 @@ const generalAll = [
     "NAF Name": "Dado",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 158.38855840626968,
+    "rating": 158.3888287806162,
     "bestRating": 160.87648893289634,
     "worstRating": 148.52111831745185,
-    "tendency": 4.041133875500094,
+    "tendency": 4.041404249846607,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 6,
@@ -16634,9 +16773,9 @@ const generalAll = [
       158.0359433549889,
       159.54858870302647,
       153.92818174911727,
-      153.4617636765463,
-      158.87324641823503,
-      158.38855840626968
+      153.46205902809888,
+      158.8735289703539,
+      158.3888287806162
     ]
   },
   {
@@ -16832,10 +16971,10 @@ const generalAll = [
     "NAF Name": "Dake",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 200.92271784031036,
-    "bestRating": 206.96722755815526,
+    "rating": 200.92534723980225,
+    "bestRating": 206.9699738560267,
     "worstRating": 149.7896917440978,
-    "tendency": 8.016617838244969,
+    "tendency": 8.01564969401926,
     "totalTournaments": 8,
     "totalGames": 39,
     "totalWins": 21,
@@ -16882,16 +17021,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      192.9061000020654,
-      188.60434842043296,
-      183.53344793583713,
-      187.70614081425396,
-      191.07685575354415,
-      191.65310183926044,
-      197.75939152075614,
-      202.27059721685498,
-      206.96722755815526,
-      200.92271784031036
+      192.909697545783,
+      188.60783293572962,
+      183.53682333703776,
+      187.70942509105902,
+      191.08004274322536,
+      191.65618775212306,
+      197.76235818792662,
+      202.27346441525856,
+      206.9699738560267,
+      200.92534723980225
     ]
   },
   {
@@ -16960,10 +17099,10 @@ const generalAll = [
     "NAF Name": "Dalesway",
     "Country": "Spain",
     "CCAA": "C. La Mancha",
-    "rating": 163.88557746647177,
-    "bestRating": 164.69528735178818,
+    "rating": 163.88558832235492,
+    "bestRating": 164.69528743393178,
     "worstRating": 137.3489178560721,
-    "tendency": 17.797346304344927,
+    "tendency": 17.797357160228074,
     "totalTournaments": 4,
     "totalGames": 15,
     "totalWins": 6,
@@ -17018,8 +17157,8 @@ const generalAll = [
       151.31966148886622,
       156.88693700756164,
       160.21171901491599,
-      164.69528735178818,
-      163.88557746647177
+      164.69528743393178,
+      163.88558832235492
     ]
   },
   {
@@ -17082,10 +17221,10 @@ const generalAll = [
     "NAF Name": "DaniCK",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 127.89083567334006,
+    "rating": 127.8908819771021,
     "bestRating": 144.1079397840549,
-    "worstRating": 127.89083567334006,
-    "tendency": -16.217104110714843,
+    "worstRating": 127.8908819771021,
+    "tendency": -16.21705780695281,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -17133,9 +17272,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       144.1079397840549,
-      137.89479730202663,
-      133.57335421080708,
-      127.89083567334006
+      137.8947973198236,
+      133.5733974608412,
+      127.8908819771021
     ]
   },
   {
@@ -17143,10 +17282,10 @@ const generalAll = [
     "NAF Name": "danielmaoj",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 141.69712486844764,
+    "rating": 141.69710429856733,
     "bestRating": 149.97466794669361,
-    "worstRating": 136.5381755863143,
-    "tendency": -8.27754307824597,
+    "worstRating": 136.5379959688542,
+    "tendency": -8.27756364812629,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -17197,10 +17336,10 @@ const generalAll = [
       145.06563255678213,
       145.64094265860652,
       139.63471086559778,
-      136.70006008704803,
-      141.10615324195086,
-      136.5381755863143,
-      141.69712486844764
+      136.7000615622776,
+      141.10615465894512,
+      136.5379959688542,
+      141.69710429856733
     ]
   },
   {
@@ -17263,10 +17402,10 @@ const generalAll = [
     "NAF Name": "DaniFrogger",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 155.76040472784655,
+    "rating": 155.7623314608853,
     "bestRating": 163.5990864126623,
-    "worstRating": 131.9995763731189,
-    "tendency": 16.997757535644382,
+    "worstRating": 132.00195431064367,
+    "tendency": 16.997242183760875,
     "totalTournaments": 18,
     "totalGames": 74,
     "totalWins": 31,
@@ -17313,16 +17452,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      138.76264719220217,
-      132.96399074089157,
-      131.9995763731189,
-      139.04969544744125,
-      145.78525141487034,
-      141.78561286411596,
-      137.03355162491158,
-      141.8396973250131,
-      147.17789325336113,
-      155.76040472784655
+      138.76508927712442,
+      132.96633085410997,
+      132.00195431064367,
+      139.05197763064538,
+      145.78744069344347,
+      141.78777755816387,
+      137.03562647748686,
+      141.84176835349837,
+      147.17987835530957,
+      155.7623314608853
     ]
   },
   {
@@ -17385,10 +17524,10 @@ const generalAll = [
     "NAF Name": "daniwarpaint",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 163.1693984527248,
+    "rating": 163.169401340058,
     "bestRating": 168.24498240748963,
     "worstRating": 148.3615285469268,
-    "tendency": 0.37027368833170726,
+    "tendency": 0.3702765756648887,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 7,
@@ -17442,9 +17581,9 @@ const generalAll = [
       149.80801559922713,
       154.20461468269136,
       148.3615285469268,
-      151.97893913848955,
-      157.50461477589783,
-      163.1693984527248
+      151.9789404076231,
+      157.50461599346858,
+      163.169401340058
     ]
   },
   {
@@ -17452,10 +17591,10 @@ const generalAll = [
     "NAF Name": "Daniz_du_Bronick",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 124.64572389051045,
+    "rating": 124.64638779050819,
     "bestRating": 145.30958424017658,
-    "worstRating": 124.64572389051045,
-    "tendency": -20.663860349666123,
+    "worstRating": 124.64638779050819,
+    "tendency": -20.66319644966839,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -17507,9 +17646,9 @@ const generalAll = [
       144.99942006451482,
       140.85130078674825,
       135.5910128344466,
-      128.97761269814094,
-      124.75330634605767,
-      124.64572389051045
+      128.97814558038712,
+      124.7538234669308,
+      124.64638779050819
     ]
   },
   {
@@ -17517,10 +17656,10 @@ const generalAll = [
     "NAF Name": "Dante83",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 177.5990473816852,
+    "rating": 177.59981047125302,
     "bestRating": 189.40519097591837,
     "worstRating": 133.27489211025633,
-    "tendency": -3.4828025692461324,
+    "tendency": -3.482216392535861,
     "totalTournaments": 12,
     "totalGames": 48,
     "totalWins": 23,
@@ -17567,16 +17706,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      181.08184995093134,
-      184.70712344991227,
-      177.2943036344471,
-      181.0522952087633,
-      173.33419800213787,
-      172.87696329853406,
-      177.58670556118673,
-      173.04736366895813,
-      172.87156121988738,
-      177.5990473816852
+      181.08202686378888,
+      184.7076142581177,
+      177.2951771564505,
+      181.05317191084575,
+      173.33506452365515,
+      172.87782814345348,
+      177.58756272530195,
+      173.04819264262898,
+      172.87235249073672,
+      177.59981047125302
     ]
   },
   {
@@ -17822,10 +17961,10 @@ const generalAll = [
     "NAF Name": "darkgordu",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 153.20991211443805,
-    "bestRating": 153.20991211443805,
-    "worstRating": 140.62265890858356,
-    "tendency": 7.33150762608534,
+    "rating": 153.21038262613564,
+    "bestRating": 153.21038262613564,
+    "worstRating": 140.62272965387297,
+    "tendency": 7.331978137782926,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 4,
@@ -17876,12 +18015,12 @@ const generalAll = [
       140.8013288395115,
       146.3626858353795,
       146.68843072547742,
-      140.62265890858356,
-      147.1074382037299,
-      142.90862333977918,
-      148.6086645293605,
-      148.69663884975677,
-      153.20991211443805
+      140.62272965387297,
+      147.1075633508988,
+      142.9087436471911,
+      148.6087796135743,
+      148.69677163113298,
+      153.21038262613564
     ]
   },
   {
@@ -17889,35 +18028,35 @@ const generalAll = [
     "NAF Name": "darkthur",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
-    "victoryStreak": 0,
-    "bestVictoryStreak": 0,
-    "noLostStreak": 0,
-    "bestNoLostStreak": 0,
+    "rating": 158.50478261393295,
+    "bestRating": 158.50478261393295,
+    "worstRating": 145.3238021564715,
+    "tendency": 7.79775377505365,
+    "totalTournaments": 1,
+    "totalGames": 5,
+    "totalWins": 2,
+    "totalDraws": 2,
+    "totalLosses": 1,
+    "totalWinRatio": 60,
+    "victoryStreak": 2,
+    "bestVictoryStreak": 2,
+    "noLostStreak": 3,
+    "bestNoLostStreak": 3,
     "lostStreak": 0,
-    "worstLostStreak": 0,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
-    "twoTdStreak": 0,
-    "bestTwoTdStreak": 0,
+    "worstLostStreak": 1,
+    "oneTdStreak": 3,
+    "bestOneTdStreak": 3,
+    "twoTdStreak": 1,
+    "bestTwoTdStreak": 1,
     "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 1,
+        "totalWins": 1,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "topProplayers": [
@@ -17937,6 +18076,13 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      150.7070288388793,
+      145.3238021564715,
+      146.2754412353871,
+      151.53328262765143,
+      158.50478261393295
     ]
   },
   {
@@ -18066,10 +18212,10 @@ const generalAll = [
     "NAF Name": "DarthMG",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 148.66829371220558,
-    "bestRating": 153.6566265451721,
-    "worstRating": 148.61405482403882,
-    "tendency": -4.988332832966506,
+    "rating": 148.7738635503651,
+    "bestRating": 153.86604007825147,
+    "worstRating": 148.7229332783252,
+    "tendency": -5.09217652788638,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -18116,9 +18262,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      153.6566265451721,
-      148.61405482403882,
-      148.66829371220558
+      153.86604007825147,
+      148.7229332783252,
+      148.7738635503651
     ]
   },
   {
@@ -18187,10 +18333,10 @@ const generalAll = [
     "NAF Name": "Davarimar",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 124.54643938150357,
+    "rating": 124.5464562607942,
     "bestRating": 163.27151882778105,
-    "worstRating": 116.78136475863387,
-    "tendency": -15.239109657108116,
+    "worstRating": 116.78136498651756,
+    "tendency": -15.23909277781749,
     "totalTournaments": 7,
     "totalGames": 26,
     "totalWins": 6,
@@ -18244,9 +18390,9 @@ const generalAll = [
       134.3805398921657,
       128.25049494007683,
       123.0323286528364,
-      116.78136475863387,
-      122.30659431801108,
-      124.54643938150357
+      116.78136498651756,
+      122.30661055111878,
+      124.5464562607942
     ]
   },
   {
@@ -18315,10 +18461,10 @@ const generalAll = [
     "NAF Name": "Davidchenko",
     "Country": "Spain",
     "CCAA": "C. La Mancha",
-    "rating": 158.57423455268292,
+    "rating": 158.57424531955607,
     "bestRating": 162.1257257504363,
-    "worstRating": 155.61348223657834,
-    "tendency": 1.819534480319419,
+    "worstRating": 155.61349331914855,
+    "tendency": 1.8195452471925648,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 4,
@@ -18370,8 +18516,8 @@ const generalAll = [
       162.11074518349497,
       156.4817734205322,
       160.4399956370802,
-      155.61348223657834,
-      158.57423455268292
+      155.61349331914855,
+      158.57424531955607
     ]
   },
   {
@@ -18379,10 +18525,10 @@ const generalAll = [
     "NAF Name": "David_Q",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 161.62940215362397,
+    "rating": 161.62957791529047,
     "bestRating": 175.38490532909486,
     "worstRating": 138.63271483717753,
-    "tendency": -1.8163613804874785,
+    "tendency": -1.816185618820981,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 9,
@@ -18435,10 +18581,10 @@ const generalAll = [
       175.38490532909486,
       168.90942515887187,
       162.36584382393244,
-      162.9990085855758,
-      166.52574556572216,
-      166.94964759514554,
-      161.62940215362397
+      162.99901062625364,
+      166.52589623410364,
+      166.94979274246825,
+      161.62957791529047
     ]
   },
   {
@@ -18562,10 +18708,10 @@ const generalAll = [
     "NAF Name": "Deigon",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 144.85068193518657,
-    "bestRating": 146.199427675584,
-    "worstRating": 140.46198290303684,
-    "tendency": -1.348745740397419,
+    "rating": 144.85147950460427,
+    "bestRating": 146.19944269399923,
+    "worstRating": 140.46199726951548,
+    "tendency": -1.3479631893949602,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -18612,10 +18758,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      146.199427675584,
-      140.46198290303684,
-      145.4656689453571,
-      144.85068193518657
+      146.19944269399923,
+      140.46199726951548,
+      145.4662866814182,
+      144.85147950460427
     ]
   },
   {
@@ -18623,35 +18769,35 @@ const generalAll = [
     "NAF Name": "DeivySP",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 190.20161942326618,
-    "bestRating": 190.20161942326618,
+    "rating": 188.4588820147702,
+    "bestRating": 193.96506032777012,
     "worstRating": 131.0019799571227,
-    "tendency": 18.646546412900193,
-    "totalTournaments": 22,
-    "totalGames": 92,
-    "totalWins": 33,
-    "totalDraws": 33,
-    "totalLosses": 26,
-    "totalWinRatio": 53.8,
-    "victoryStreak": 0,
+    "tendency": 8.713946941742421,
+    "totalTournaments": 23,
+    "totalGames": 97,
+    "totalWins": 35,
+    "totalDraws": 35,
+    "totalLosses": 27,
+    "totalWinRatio": 54.12,
+    "victoryStreak": 1,
     "bestVictoryStreak": 4,
-    "noLostStreak": 10,
-    "bestNoLostStreak": 10,
+    "noLostStreak": 3,
+    "bestNoLostStreak": 11,
     "lostStreak": 0,
     "worstLostStreak": 3,
-    "oneTdStreak": 10,
-    "bestOneTdStreak": 10,
-    "twoTdStreak": 0,
+    "oneTdStreak": 3,
+    "bestOneTdStreak": 11,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 3,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 16,
+        "totalGames": 17,
         "totalWins": 3,
-        "totalDraws": 4,
+        "totalDraws": 5,
         "totalLosses": 9,
-        "totalWinRatio": 31.25
+        "totalWinRatio": 32.35
       }
     ],
     "topProplayers": [
@@ -18673,16 +18819,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      171.555073010366,
-      172.3602910294871,
-      173.60081535781546,
-      176.31380770718872,
-      175.35686785910485,
-      179.74493507302637,
-      183.50875911144652,
-      187.34019694400533,
-      188.4896962911497,
-      190.20161942326618
+      179.7449350730278,
+      183.50875915408687,
+      187.3401970075359,
+      188.48969821056576,
+      190.20162162533998,
+      193.96506032777012,
+      187.10319103320091,
+      185.5971018611356,
+      185.47266490683558,
+      188.4588820147702
     ]
   },
   {
@@ -18690,10 +18836,10 @@ const generalAll = [
     "NAF Name": "Del Castillo",
     "Country": "Spain",
     "CCAA": "I. Canarias",
-    "rating": 156.68539155588735,
-    "bestRating": 160.1980390271856,
-    "worstRating": 152.42724251805197,
-    "tendency": 1.5863720422945562,
+    "rating": 156.82533857736536,
+    "bestRating": 160.39230484541326,
+    "worstRating": 152.57047781180114,
+    "tendency": 1.6291861546587256,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 4,
@@ -18740,12 +18886,12 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      155.0990195135928,
-      160.1980390271856,
-      155.06469205748616,
-      158.14464854401828,
-      152.42724251805197,
-      156.68539155588735
+      155.19615242270663,
+      160.39230484541326,
+      155.2111253231633,
+      158.28827393794802,
+      152.57047781180114,
+      156.82533857736536
     ]
   },
   {
@@ -18753,10 +18899,10 @@ const generalAll = [
     "NAF Name": "delatorbin",
     "Country": "Spain",
     "CCAA": "I. Canarias",
-    "rating": 158.81907946996688,
-    "bestRating": 158.81907946996688,
-    "worstRating": 140.1070205230104,
-    "tendency": 14.291046139246475,
+    "rating": 158.80226081462564,
+    "bestRating": 158.80226081462564,
+    "worstRating": 140.08290212979438,
+    "tendency": 14.274227483905236,
     "totalTournaments": 4,
     "totalGames": 12,
     "totalWins": 5,
@@ -18804,15 +18950,15 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       144.5280333307204,
-      144.72104370492391,
-      145.06511615687234,
-      140.1070205230104,
-      144.79626223971496,
-      145.27908578481504,
-      149.90395920241158,
-      151.37274082421783,
-      154.42522358799667,
-      158.81907946996688
+      144.72472042337648,
+      145.08302320719656,
+      140.08290212979438,
+      144.77294610060875,
+      145.25964231564768,
+      149.88560459552437,
+      151.354874847667,
+      154.4078775598633,
+      158.80226081462564
     ]
   },
   {
@@ -18875,10 +19021,10 @@ const generalAll = [
     "NAF Name": "Eldelkamp_O",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 151.7393298649657,
+    "rating": 151.73937177864443,
     "bestRating": 155.01663926652637,
-    "worstRating": 140.12264064324287,
-    "tendency": 8.005002877922635,
+    "worstRating": 140.12264264248464,
+    "tendency": 8.005042734415497,
     "totalTournaments": 5,
     "totalGames": 18,
     "totalWins": 5,
@@ -18925,16 +19071,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      143.73432698704306,
-      140.12264064324287,
-      145.74971584383803,
-      140.93821618706204,
-      145.103717496973,
-      145.90486646773383,
-      140.33816391332826,
-      145.06632240583446,
-      149.5090736180212,
-      151.7393298649657
+      143.73432904422893,
+      140.12264264248464,
+      145.74971777598788,
+      140.93821806233416,
+      145.1037193147707,
+      145.90486830955896,
+      140.3381656752068,
+      145.06632423201492,
+      149.5091153309461,
+      151.73937177864443
     ]
   },
   {
@@ -19074,10 +19220,10 @@ const generalAll = [
     "NAF Name": "Derebor",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 158.5240378575216,
+    "rating": 158.52444607096373,
     "bestRating": 177.81767885200873,
     "worstRating": 145.67780270368542,
-    "tendency": -3.5625152918802314,
+    "tendency": -3.562107078438089,
     "totalTournaments": 9,
     "totalGames": 38,
     "totalWins": 18,
@@ -19126,14 +19272,14 @@ const generalAll = [
     "_lastTenRatings": [
       162.08655314940182,
       164.9803826712009,
-      158.90116099267135,
-      151.74450921945427,
-      156.16660247757966,
-      160.56339234138824,
-      154.56324466333504,
-      154.78913271284148,
-      158.9695741463542,
-      158.5240378575216
+      158.90116214552202,
+      151.7446654828035,
+      156.16678164018722,
+      160.56356736118656,
+      154.56369168662528,
+      154.7895710822535,
+      158.96998598798058,
+      158.52444607096373
     ]
   },
   {
@@ -19251,10 +19397,10 @@ const generalAll = [
     "NAF Name": "Desvarian",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 135.62451832312865,
+    "rating": 135.62453586062193,
     "bestRating": 148.9215718100525,
     "worstRating": 119.94823974694813,
-    "tendency": 9.535146776536905,
+    "tendency": 9.535164314030183,
     "totalTournaments": 16,
     "totalGames": 54,
     "totalWins": 16,
@@ -19307,10 +19453,10 @@ const generalAll = [
       130.4282203902295,
       127.19203523704367,
       131.46326929781426,
-      139.5474414153683,
-      134.25901621034654,
-      131.2018894648727,
-      135.62451832312865
+      139.54745383114386,
+      134.25902809387242,
+      131.20190329464805,
+      135.62453586062193
     ]
   },
   {
@@ -19487,6 +19633,61 @@ const generalAll = [
     "NAF Name": "Diegolp",
     "Country": "Spain",
     "CCAA": "Apatrida",
+    "rating": 150,
+    "bestRating": 0,
+    "worstRating": 0,
+    "tendency": 0,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 0,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 0,
+    "lostStreak": 0,
+    "worstLostStreak": 0,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 0,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 0,
+    "noTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 0,
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
+    "NAF Nr": "32812",
+    "NAF Name": "Diezminha",
+    "Country": "Spain",
+    "CCAA": "I. Canarias",
     "rating": 150,
     "bestRating": 0,
     "worstRating": 0,
@@ -19851,10 +20052,10 @@ const generalAll = [
     "NAF Name": "Docdeth",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 139.31822136329774,
+    "rating": 139.31833026691493,
     "bestRating": 149.98904091518705,
-    "worstRating": 138.25936373924995,
-    "tendency": -9.92696956405075,
+    "worstRating": 138.25962300209835,
+    "tendency": -9.926860660433562,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 4,
@@ -19908,9 +20109,9 @@ const generalAll = [
       138.7086338350295,
       143.63739389897228,
       143.34107844942466,
-      138.25936373924995,
-      144.5131568842914,
-      139.31822136329774
+      138.25962300209835,
+      144.51342384815558,
+      139.31833026691493
     ]
   },
   {
@@ -20040,10 +20241,10 @@ const generalAll = [
     "NAF Name": "doc_drak",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 151.65437978992367,
-    "bestRating": 161.31352391899583,
+    "rating": 151.65437564825012,
+    "bestRating": 161.31354946738992,
     "worstRating": 147.7083096232748,
-    "tendency": 1.3300705347097903,
+    "tendency": 1.3300663930362475,
     "totalTournaments": 3,
     "totalGames": 13,
     "totalWins": 2,
@@ -20095,11 +20296,11 @@ const generalAll = [
       147.7083096232748,
       149.62366587156666,
       150.1683896735067,
-      155.23430224046626,
-      161.31352391899583,
-      155.44177072542763,
-      155.23478953739956,
-      151.65437978992367
+      155.23432894171103,
+      161.31354946738992,
+      155.4416424054333,
+      155.23466678133903,
+      151.65437564825012
     ]
   },
   {
@@ -20229,35 +20430,35 @@ const generalAll = [
     "NAF Name": "Donpimpon",
     "Country": "Spain",
     "CCAA": "I. Baleares",
-    "rating": 212.0098524210119,
-    "bestRating": 212.0098524210119,
+    "rating": 209.75947201433797,
+    "bestRating": 218.39843630013806,
     "worstRating": 149.72664159628854,
-    "tendency": 25.422869149547182,
-    "totalTournaments": 6,
-    "totalGames": 28,
-    "totalWins": 19,
-    "totalDraws": 3,
-    "totalLosses": 6,
-    "totalWinRatio": 73.21,
-    "victoryStreak": 1,
+    "tendency": 8.43052204364676,
+    "totalTournaments": 7,
+    "totalGames": 33,
+    "totalWins": 21,
+    "totalDraws": 5,
+    "totalLosses": 7,
+    "totalWinRatio": 71.21,
+    "victoryStreak": 0,
     "bestVictoryStreak": 4,
-    "noLostStreak": 6,
-    "bestNoLostStreak": 6,
-    "lostStreak": 0,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 10,
+    "lostStreak": 1,
     "worstLostStreak": 1,
-    "oneTdStreak": 6,
-    "bestOneTdStreak": 7,
-    "twoTdStreak": 1,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 10,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 4,
     "proplayers": [
       {
-        "totalGames": 5,
+        "totalGames": 6,
         "totalWins": 2,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 3,
-        "totalWinRatio": 40
+        "totalWinRatio": 41.67
       }
     ],
     "topProplayers": [
@@ -20271,24 +20472,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 1,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 100
+        "totalWinRatio": 75
       }
     ],
     "_lastTenRatings": [
-      186.58698327146473,
-      190.4788132979912,
-      197.59717338891204,
-      191.43920007614804,
-      195.911680911654,
       201.3289499706912,
       206.14543598434983,
-      210.02581666966216,
-      208.23738769559634,
-      212.0098524210119
+      210.02581976264503,
+      208.23739371179505,
+      212.0098583396209,
+      215.16078939244466,
+      218.39843630013806,
+      217.27743016251273,
+      217.56563628457673,
+      209.75947201433797
     ]
   },
   {
@@ -20764,10 +20965,10 @@ const generalAll = [
     "NAF Name": "Dranosh",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 124.1983385898041,
+    "rating": 124.20043666186797,
     "bestRating": 150.9991760254802,
     "worstRating": 103.70740469058032,
-    "tendency": 11.351167487073099,
+    "tendency": 11.353265559136972,
     "totalTournaments": 10,
     "totalGames": 40,
     "totalWins": 10,
@@ -20820,10 +21021,10 @@ const generalAll = [
       121.11954183942352,
       128.77356489183154,
       126.3790673425896,
-      122.85832154959238,
-      117.30824559284903,
-      118.17657053762328,
-      124.1983385898041
+      122.85832162508297,
+      117.30824566506314,
+      118.17716172323986,
+      124.20043666186797
     ]
   },
   {
@@ -20953,10 +21154,10 @@ const generalAll = [
     "NAF Name": "dreamscreator",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 133.33576787171978,
+    "rating": 133.3358120747475,
     "bestRating": 153.8749237007862,
     "worstRating": 128.72482394554493,
-    "tendency": -3.6313852793622345,
+    "tendency": -3.6313410763345075,
     "totalTournaments": 8,
     "totalGames": 33,
     "totalWins": 9,
@@ -21009,10 +21210,10 @@ const generalAll = [
       128.72482394554493,
       136.25187698529902,
       143.03238994723284,
-      139.47027886154214,
-      144.28016996288645,
-      138.83787618008952,
-      133.33576787171978
+      139.4702827540142,
+      144.2801997021808,
+      138.837904541728,
+      133.3358120747475
     ]
   },
   {
@@ -21020,10 +21221,10 @@ const generalAll = [
     "NAF Name": "Drekky_Flynt",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 94.76522882148276,
+    "rating": 94.76677973860515,
     "bestRating": 145.17206810583505,
-    "worstRating": 87.25837194234305,
-    "tendency": -0.34725972564055496,
+    "worstRating": 87.25998202874564,
+    "tendency": -0.3467746550301598,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 5,
@@ -21070,16 +21271,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      95.11248854712332,
-      102.54128864000805,
-      98.74495995300556,
-      94.98689353383106,
-      90.96034851674564,
-      96.65088069828323,
-      94.30212444531374,
-      92.08880930948922,
-      87.25837194234305,
-      94.76522882148276
+      95.11355439363531,
+      102.54305498744752,
+      98.746732238118,
+      94.98859753936284,
+      90.96198562922288,
+      96.65261043293958,
+      94.30383707932471,
+      92.09047925298684,
+      87.25998202874564,
+      94.76677973860515
     ]
   },
   {
@@ -21087,10 +21288,10 @@ const generalAll = [
     "NAF Name": "Droath",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 180.6606949354391,
-    "bestRating": 180.6606949354391,
+    "rating": 180.66086219814696,
+    "bestRating": 180.66086219814696,
     "worstRating": 140.67809215483334,
-    "tendency": 23.923411261492532,
+    "tendency": 23.923578524200394,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 14,
@@ -21140,13 +21341,13 @@ const generalAll = [
       156.73728367394656,
       160.9973603971791,
       165.72799031377338,
-      161.8560831001986,
-      157.66015951352,
-      162.80524054743023,
-      167.5573017866346,
-      174.04840068214068,
-      174.25189060081348,
-      180.6606949354391
+      161.85611562183348,
+      157.66020251476385,
+      162.80528169692897,
+      167.55743277760598,
+      174.0485303226949,
+      174.2520150598614,
+      180.66086219814696
     ]
   },
   {
@@ -21154,10 +21355,10 @@ const generalAll = [
     "NAF Name": "Drog",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 115.08352110177273,
+    "rating": 115.08384394695412,
     "bestRating": 156.76570529335868,
-    "worstRating": 115.08352110177273,
-    "tendency": -10.866681437303058,
+    "worstRating": 115.08384394695412,
+    "tendency": -10.866360485110135,
     "totalTournaments": 8,
     "totalGames": 30,
     "totalWins": 6,
@@ -21204,16 +21405,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      125.95020253907579,
-      120.63882465623104,
-      127.57291111426976,
-      128.9878507484437,
-      128.4735294819071,
-      122.04985208016319,
-      117.53859532593182,
-      120.29591448699307,
-      121.22244379217092,
-      115.08352110177273
+      125.95020443206425,
+      120.63882648930655,
+      127.5729128923616,
+      128.9878524592634,
+      128.47373759932256,
+      122.05022251950237,
+      117.53895074705,
+      120.29626327240143,
+      121.22277889680933,
+      115.08384394695412
     ]
   },
   {
@@ -21221,10 +21422,10 @@ const generalAll = [
     "NAF Name": "drojo",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 153.42697855812673,
+    "rating": 153.42707505169062,
     "bestRating": 164.81215870667234,
     "worstRating": 150.01783715900643,
-    "tendency": -6.1290914403747365,
+    "tendency": -6.128994946810849,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 5,
@@ -21273,14 +21474,14 @@ const generalAll = [
     "_lastTenRatings": [
       159.55606999850147,
       164.81215870667234,
-      163.79909323939822,
-      159.9187125540859,
-      164.26075255105982,
-      163.72169965320796,
-      163.69500244393075,
-      162.14454106123893,
-      160.72198581701417,
-      153.42697855812673
+      163.7991722709242,
+      159.918788492629,
+      164.26082537062578,
+      163.72176944865458,
+      163.69507379690356,
+      162.14464136018688,
+      160.7220820365809,
+      153.42707505169062
     ]
   },
   {
@@ -21288,10 +21489,10 @@ const generalAll = [
     "NAF Name": "Druchii86",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 122.95326869268469,
+    "rating": 122.95358134396965,
     "bestRating": 144.34314575050763,
-    "worstRating": 116.601378555479,
-    "tendency": -21.389877057822943,
+    "worstRating": 116.60155778970503,
+    "tendency": -21.389564406537986,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -21344,8 +21545,8 @@ const generalAll = [
       125.24497431776608,
       120.10872283546662,
       121.34473039081722,
-      116.601378555479,
-      122.95326869268469
+      116.60155778970503,
+      122.95358134396965
     ]
   },
   {
@@ -21353,10 +21554,10 @@ const generalAll = [
     "NAF Name": "drvitores",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 137.47779764010127,
+    "rating": 137.47780522874947,
     "bestRating": 146.33201843180385,
-    "worstRating": 137.47779764010127,
-    "tendency": -8.854220791702573,
+    "worstRating": 137.47780522874947,
+    "tendency": -8.854213203054371,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 0,
@@ -21404,8 +21605,8 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       146.33201843180385,
-      142.1665171218929,
-      137.47779764010127
+      142.1665171793673,
+      137.47780522874947
     ]
   },
   {
@@ -21413,16 +21614,16 @@ const generalAll = [
     "NAF Name": "Dr_Cross",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 146.69033868725663,
+    "rating": 156.8578094652659,
     "bestRating": 170.55495533432983,
     "worstRating": 144.16876095897572,
-    "tendency": -7.313618030083518,
-    "totalTournaments": 4,
-    "totalGames": 16,
-    "totalWins": 7,
-    "totalDraws": 1,
-    "totalLosses": 8,
-    "totalWinRatio": 46.88,
+    "tendency": 9.613455236937426,
+    "totalTournaments": 5,
+    "totalGames": 21,
+    "totalWins": 9,
+    "totalDraws": 2,
+    "totalLosses": 10,
+    "totalWinRatio": 47.62,
     "victoryStreak": 0,
     "bestVictoryStreak": 3,
     "noLostStreak": 0,
@@ -21437,8 +21638,8 @@ const generalAll = [
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 2,
-        "totalWins": 2,
+        "totalGames": 4,
+        "totalWins": 4,
         "totalDraws": 0,
         "totalLosses": 0,
         "totalWinRatio": 100
@@ -21446,33 +21647,33 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 2,
-        "totalWinRatio": 0
+        "totalWinRatio": 16.67
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
     "_lastTenRatings": [
-      154.00395671734015,
-      159.66478747536513,
-      164.32046344425595,
-      158.08265722613308,
-      151.6559879914412,
       147.24435422832846,
       144.16876095897572,
       147.81258372467352,
       151.18573068783869,
-      146.69033868725663
+      146.69033868725663,
+      154.38829682216627,
+      151.99416661373726,
+      159.64306857343948,
+      161.87291557293645,
+      156.8578094652659
     ]
   },
   {
@@ -21480,10 +21681,10 @@ const generalAll = [
     "NAF Name": "Dr_McKey",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 186.9706697353407,
+    "rating": 186.9708663119365,
     "bestRating": 221.59805933368278,
     "worstRating": 150,
-    "tendency": -8.743499697196228,
+    "tendency": -8.743303120600416,
     "totalTournaments": 34,
     "totalGames": 136,
     "totalWins": 69,
@@ -21536,10 +21737,10 @@ const generalAll = [
       183.39520486647083,
       181.06504681070695,
       186.73553056829496,
-      191.69063970522498,
-      194.38397268111535,
-      188.6841710303815,
-      186.9706697353407
+      191.6906415968511,
+      194.38418457811517,
+      188.684375568288,
+      186.9708663119365
     ]
   },
   {
@@ -21607,10 +21808,10 @@ const generalAll = [
     "NAF Name": "Dudur",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 108.7443669370914,
+    "rating": 108.74590875448325,
     "bestRating": 144.34314575050763,
-    "worstRating": 108.09927219452075,
-    "tendency": -35.59877881341623,
+    "worstRating": 108.10088007463716,
+    "tendency": -35.59723699602438,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 0,
@@ -21662,11 +21863,11 @@ const generalAll = [
       132.58253846484595,
       127.50614384307883,
       122.99087826763372,
-      122.55779175460532,
-      117.8680882952141,
-      113.04178689219552,
-      108.09927219452075,
-      108.7443669370914
+      122.55962310884748,
+      117.86984245983969,
+      113.04346653623813,
+      108.10088007463716,
+      108.74590875448325
     ]
   },
   {
@@ -21674,10 +21875,10 @@ const generalAll = [
     "NAF Name": "Duffman0110",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 149.34534528028001,
-    "bestRating": 167.63520044282356,
+    "rating": 149.3462943246926,
+    "bestRating": 167.6352004430895,
     "worstRating": 128.03243664710286,
-    "tendency": -7.722503459390651,
+    "tendency": -7.721554517403945,
     "totalTournaments": 13,
     "totalGames": 54,
     "totalWins": 20,
@@ -21724,16 +21925,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      157.06784873967067,
-      163.3244428145173,
-      162.8464246151857,
-      157.86221831524603,
-      161.1469480634587,
-      155.63186777587106,
-      156.72460351212544,
-      150.20230227326874,
-      154.5919702723377,
-      149.34534528028001
+      157.06784884209654,
+      163.324442912792,
+      162.84642470995922,
+      157.8622223867068,
+      161.1479884415422,
+      155.63287350520747,
+      156.72561207401137,
+      150.203313681112,
+      154.59295964701363,
+      149.3462943246926
     ]
   },
   {
@@ -21741,35 +21942,35 @@ const generalAll = [
     "NAF Name": "Duke_Luthor",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 237.41229155352323,
-    "bestRating": 247.38177801375292,
+    "rating": 245.4777768485675,
+    "bestRating": 247.70603962688685,
     "worstRating": 150,
-    "tendency": 2.5003529744016646,
-    "totalTournaments": 28,
-    "totalGames": 115,
-    "totalWins": 72,
-    "totalDraws": 23,
+    "tendency": 21.218229537659965,
+    "totalTournaments": 29,
+    "totalGames": 120,
+    "totalWins": 76,
+    "totalDraws": 24,
     "totalLosses": 20,
-    "totalWinRatio": 72.61,
-    "victoryStreak": 1,
+    "totalWinRatio": 73.33,
+    "victoryStreak": 0,
     "bestVictoryStreak": 11,
-    "noLostStreak": 7,
+    "noLostStreak": 12,
     "bestNoLostStreak": 17,
     "lostStreak": 0,
     "worstLostStreak": 3,
-    "oneTdStreak": 7,
+    "oneTdStreak": 12,
     "bestOneTdStreak": 19,
-    "twoTdStreak": 1,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 6,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 6,
     "proplayers": [
       {
-        "totalGames": 12,
+        "totalGames": 13,
         "totalWins": 7,
-        "totalDraws": 2,
+        "totalDraws": 3,
         "totalLosses": 3,
-        "totalWinRatio": 66.67
+        "totalWinRatio": 65.38
       }
     ],
     "topProplayers": [
@@ -21791,16 +21992,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      234.91193857912157,
-      231.92395060308735,
-      223.88284545048967,
-      221.11131385910133,
-      225.4369182148316,
-      224.2595001741818,
-      228.98589237875603,
-      231.69019200403636,
-      231.4922518241667,
-      237.41229155352323
+      224.25954731090752,
+      228.98593960757646,
+      231.69023774343214,
+      231.4922959542894,
+      237.41233616566754,
+      240.06778012270038,
+      242.4619103311294,
+      245.1117923557432,
+      247.70603962688685,
+      245.4777768485675
     ]
   },
   {
@@ -21863,27 +22064,27 @@ const generalAll = [
     "NAF Name": "eckae",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 157.37407204895283,
+    "rating": 161.04980336577114,
     "bestRating": 176.7611232648331,
     "worstRating": 135.5772960597962,
-    "tendency": 4.948150474332834,
-    "totalTournaments": 17,
-    "totalGames": 66,
-    "totalWins": 20,
-    "totalDraws": 22,
-    "totalLosses": 24,
-    "totalWinRatio": 46.97,
+    "tendency": 15.126723180764827,
+    "totalTournaments": 18,
+    "totalGames": 70,
+    "totalWins": 22,
+    "totalDraws": 23,
+    "totalLosses": 25,
+    "totalWinRatio": 47.86,
     "victoryStreak": 2,
     "bestVictoryStreak": 3,
-    "noLostStreak": 4,
+    "noLostStreak": 2,
     "bestNoLostStreak": 8,
     "lostStreak": 0,
     "worstLostStreak": 4,
-    "oneTdStreak": 2,
+    "oneTdStreak": 6,
     "bestOneTdStreak": 9,
     "twoTdStreak": 2,
     "bestTwoTdStreak": 3,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 2,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
@@ -21913,16 +22114,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      152.42592157462,
-      153.78753067187978,
-      153.09940730389482,
-      148.9018150926077,
-      145.92080616279523,
-      141.94827366862376,
-      143.0064792041823,
-      143.3179398738048,
-      150.5635752140396,
-      157.37407204895283
+      145.9230801850063,
+      141.9504708537343,
+      143.00860682468382,
+      143.31997880652747,
+      150.56554303865002,
+      157.3759841165812,
+      157.04905672786344,
+      152.46682198257133,
+      157.16834886192035,
+      161.04980336577114
     ]
   },
   {
@@ -21930,10 +22131,10 @@ const generalAll = [
     "NAF Name": "Eden",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 121.48058004271213,
+    "rating": 121.4806762728216,
     "bestRating": 150.7802812416585,
-    "worstRating": 121.48058004271213,
-    "tendency": -28.602019857029077,
+    "worstRating": 121.4806762728216,
+    "tendency": -28.601923626919614,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 0,
@@ -21984,10 +22185,10 @@ const generalAll = [
       150.7802812416585,
       145.0099898057685,
       138.68191907444256,
-      132.59554600144807,
-      127.50439594374983,
-      121.8707239169318,
-      121.48058004271213
+      132.5955688572262,
+      127.5044236423342,
+      121.87079178459953,
+      121.4806762728216
     ]
   },
   {
@@ -21995,28 +22196,28 @@ const generalAll = [
     "NAF Name": "EdgarHR",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
+    "rating": 141.16355631223414,
+    "bestRating": 146.98156150652957,
+    "worstRating": 140.54700830862086,
+    "tendency": -5.818005194295438,
+    "totalTournaments": 1,
+    "totalGames": 5,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 3,
+    "totalWinRatio": 30,
     "victoryStreak": 0,
-    "bestVictoryStreak": 0,
-    "noLostStreak": 0,
-    "bestNoLostStreak": 0,
+    "bestVictoryStreak": 1,
+    "noLostStreak": 1,
+    "bestNoLostStreak": 1,
     "lostStreak": 0,
-    "worstLostStreak": 0,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
-    "twoTdStreak": 0,
-    "bestTwoTdStreak": 0,
+    "worstLostStreak": 2,
+    "oneTdStreak": 1,
+    "bestOneTdStreak": 1,
+    "twoTdStreak": 1,
+    "bestTwoTdStreak": 1,
     "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
         "totalGames": 0,
@@ -22028,10 +22229,10 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -22043,6 +22244,13 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      146.98156150652957,
+      142.09427823718914,
+      146.2101457849157,
+      140.54700830862086,
+      141.16355631223414
     ]
   },
   {
@@ -22050,10 +22258,10 @@ const generalAll = [
     "NAF Name": "Eduardofer41",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 137.29604107079751,
-    "bestRating": 143.48016362680403,
-    "worstRating": 136.5774395507863,
-    "tendency": -6.184122556006514,
+    "rating": 137.2962430237003,
+    "bestRating": 143.48057184428464,
+    "worstRating": 136.5778483016043,
+    "tendency": -6.184328820584341,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -22100,10 +22308,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      143.48016362680403,
-      143.04101508214032,
-      136.5774395507863,
-      137.29604107079751
+      143.48057184428464,
+      143.0414192919456,
+      136.5778483016043,
+      137.2962430237003
     ]
   },
   {
@@ -22111,10 +22319,10 @@ const generalAll = [
     "NAF Name": "EduarSmoka",
     "Country": "Spain",
     "CCAA": "C. La Mancha",
-    "rating": 188.35419361773543,
+    "rating": 188.35503886515647,
     "bestRating": 189.89972793361716,
     "worstRating": 122.70586006970035,
-    "tendency": 28.177608102500756,
+    "tendency": 28.177895399654005,
     "totalTournaments": 27,
     "totalGames": 110,
     "totalWins": 46,
@@ -22161,16 +22369,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      160.17658551523468,
-      165.65926458293376,
-      169.91805804791622,
-      173.92772993663021,
-      175.03060168277204,
-      170.9516351180004,
-      174.7166326568138,
-      183.16504652130175,
-      183.6446186543566,
-      188.35419361773543
+      160.17714346550247,
+      165.65979717648082,
+      169.91857501221963,
+      173.92840276061858,
+      175.0313259312956,
+      170.95233754865856,
+      174.71734219253875,
+      183.16580518655746,
+      183.6454821912227,
+      188.35503886515647
     ]
   },
   {
@@ -22178,16 +22386,16 @@ const generalAll = [
     "NAF Name": "EduVM1215",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 144.64534645508522,
+    "rating": 136.38072165827776,
     "bestRating": 154.907238142872,
-    "worstRating": 144.64534645508522,
-    "tendency": -10.261891687786772,
-    "totalTournaments": 1,
-    "totalGames": 4,
+    "worstRating": 136.38072165827776,
+    "tendency": -18.526516484594225,
+    "totalTournaments": 2,
+    "totalGames": 8,
     "totalWins": 1,
-    "totalDraws": 1,
-    "totalLosses": 2,
-    "totalWinRatio": 37.5,
+    "totalDraws": 3,
+    "totalLosses": 4,
+    "totalWinRatio": 31.25,
     "victoryStreak": 0,
     "bestVictoryStreak": 1,
     "noLostStreak": 0,
@@ -22231,7 +22439,11 @@ const generalAll = [
       154.907238142872,
       154.55535776850022,
       150.10817833270548,
-      144.64534645508522
+      144.64534645508522,
+      144.50778613814504,
+      144.68005016674897,
+      139.97852328739995,
+      136.38072165827776
     ]
   },
   {
@@ -22239,10 +22451,10 @@ const generalAll = [
     "NAF Name": "EDX",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 153.84219491631063,
-    "bestRating": 158.2663805848946,
-    "worstRating": 142.4329475617208,
-    "tendency": 9.178986520874844,
+    "rating": 153.85110330981112,
+    "bestRating": 158.27608890862328,
+    "worstRating": 142.44374004341557,
+    "tendency": 9.187894914375335,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 5,
@@ -22291,14 +22503,14 @@ const generalAll = [
     "_lastTenRatings": [
       144.6632083954358,
       150.17396955904823,
-      143.14148781386325,
-      143.1440790614586,
-      142.4329475617208,
-      147.6454431646087,
-      153.32495043234772,
-      158.2663805848946,
-      158.13855193917595,
-      153.84219491631063
+      143.1490811641102,
+      143.1516752010204,
+      142.44374004341557,
+      147.65601915100908,
+      153.33506776692545,
+      158.27608890862328,
+      158.14783995153724,
+      153.85110330981112
     ]
   },
   {
@@ -22306,10 +22518,10 @@ const generalAll = [
     "NAF Name": "Eider",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 129.87764147862057,
+    "rating": 129.8776677289429,
     "bestRating": 143.30011113402963,
-    "worstRating": 129.87764147862057,
-    "tendency": -13.42246965540906,
+    "worstRating": 129.8776677289429,
+    "tendency": -13.422443405086739,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -22357,9 +22569,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       143.30011113402963,
-      142.44610277628266,
-      136.41373138940455,
-      129.87764147862057
+      142.44612541649556,
+      136.4137668558575,
+      129.8776677289429
     ]
   },
   {
@@ -22434,10 +22646,10 @@ const generalAll = [
     "NAF Name": "el-reche",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 157.75064107370625,
+    "rating": 157.75080684882155,
     "bestRating": 173.81919130224102,
     "worstRating": 140.71346783035793,
-    "tendency": 4.3845358385429165,
+    "tendency": 4.384701613658223,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 9,
@@ -22492,8 +22704,8 @@ const generalAll = [
       173.46861831822443,
       165.71480847256356,
       158.96994145249732,
-      163.24765583718911,
-      157.75064107370625
+      163.2478218400604,
+      157.75080684882155
     ]
   },
   {
@@ -22562,10 +22774,10 @@ const generalAll = [
     "NAF Name": "ElBastardodincles",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 133.56876008496843,
+    "rating": 133.56884134015806,
     "bestRating": 144.01475222872438,
-    "worstRating": 133.56876008496843,
-    "tendency": -10.445992143755944,
+    "worstRating": 133.56884134015806,
+    "tendency": -10.445910888566317,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -22613,9 +22825,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       144.01475222872438,
-      139.04522865766552,
-      139.03028149054575,
-      133.56876008496843
+      139.04531492082546,
+      139.0303653701925,
+      133.56884134015806
     ]
   },
   {
@@ -22623,26 +22835,26 @@ const generalAll = [
     "NAF Name": "Elementari449",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
+    "rating": 141.0700350929976,
+    "bestRating": 157.64348910748066,
+    "worstRating": 141.0700350929976,
+    "tendency": -11.194579820030071,
+    "totalTournaments": 1,
+    "totalGames": 5,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 3,
+    "totalWinRatio": 30,
     "victoryStreak": 0,
-    "bestVictoryStreak": 0,
+    "bestVictoryStreak": 1,
     "noLostStreak": 0,
-    "bestNoLostStreak": 0,
-    "lostStreak": 0,
-    "worstLostStreak": 0,
+    "bestNoLostStreak": 2,
+    "lostStreak": 3,
+    "worstLostStreak": 3,
     "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
+    "bestOneTdStreak": 3,
     "twoTdStreak": 0,
-    "bestTwoTdStreak": 0,
+    "bestTwoTdStreak": 1,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 0,
     "proplayers": [
@@ -22656,11 +22868,11 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 50
       }
     ],
     "megaProplayers": [
@@ -22671,6 +22883,13 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      152.26461491302769,
+      157.64348910748066,
+      152.09310746388775,
+      147.34599976935635,
+      141.0700350929976
     ]
   },
   {
@@ -22678,10 +22897,10 @@ const generalAll = [
     "NAF Name": "elfpower",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 163.13460910683972,
-    "bestRating": 163.69984602696653,
+    "rating": 163.13460922314812,
+    "bestRating": 163.69984614636496,
     "worstRating": 129.8686670794022,
-    "tendency": 9.937367204103111,
+    "tendency": 9.93736732041151,
     "totalTournaments": 9,
     "totalGames": 30,
     "totalWins": 14,
@@ -22736,8 +22955,8 @@ const generalAll = [
       157.79741253472275,
       160.38284393292793,
       163.20621089585111,
-      163.69984602696653,
-      163.13460910683972
+      163.69984614636496,
+      163.13460922314812
     ]
   },
   {
@@ -22745,10 +22964,10 @@ const generalAll = [
     "NAF Name": "ElGoblinVolador",
     "Country": "Spain",
     "CCAA": "I. Canarias",
-    "rating": 144.9450682827411,
+    "rating": 144.94173112808173,
     "bestRating": 150,
-    "worstRating": 144.52737134879692,
-    "tendency": -5.05493171725891,
+    "worstRating": 144.42341518500697,
+    "tendency": -5.058268871918273,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 1,
@@ -22796,11 +23015,11 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       150,
-      144.52737134879692,
-      149.44821576965873,
-      149.466676034289,
-      144.98552591058825,
-      144.9450682827411
+      144.42341518500697,
+      149.4346791133172,
+      149.4535922490983,
+      144.9729879762438,
+      144.94173112808173
     ]
   },
   {
@@ -23091,10 +23310,10 @@ const generalAll = [
     "NAF Name": "elonti",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 122.25326903461588,
+    "rating": 122.25335194154077,
     "bestRating": 154.62397045765044,
-    "worstRating": 122.25326903461588,
-    "tendency": -13.32294728338708,
+    "worstRating": 122.25335194154077,
+    "tendency": -13.322864376462192,
     "totalTournaments": 5,
     "totalGames": 21,
     "totalWins": 4,
@@ -23146,11 +23365,11 @@ const generalAll = [
       129.41123350641848,
       130.801864866284,
       127.93149693692874,
-      133.30211493934613,
-      130.0608355243737,
-      125.58258253811432,
-      126.65005889842446,
-      122.25326903461588
+      133.30213121512347,
+      130.06096024372357,
+      125.5825464381727,
+      126.6501376625401,
+      122.25335194154077
     ]
   },
   {
@@ -23219,10 +23438,10 @@ const generalAll = [
     "NAF Name": "Elperas",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 158.74794637466064,
+    "rating": 158.74795193802424,
     "bestRating": 175.738642289161,
     "worstRating": 145.92409671194562,
-    "tendency": -5.751796345243349,
+    "tendency": -5.751790781879748,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 6,
@@ -23276,9 +23495,9 @@ const generalAll = [
       165.3349235560267,
       170.868765746773,
       170.5862283655032,
-      164.00265605359627,
-      165.05725795433912,
-      158.74794637466064
+      164.0026562079325,
+      165.05726087939453,
+      158.74795193802424
     ]
   },
   {
@@ -23402,10 +23621,10 @@ const generalAll = [
     "NAF Name": "Elrostar",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 173.35760578010866,
-    "bestRating": 185.6513900992933,
+    "rating": 173.3580102576006,
+    "bestRating": 185.65169852928872,
     "worstRating": 117.90874344933816,
-    "tendency": 10.818693210167964,
+    "tendency": 10.819097687659905,
     "totalTournaments": 10,
     "totalGames": 38,
     "totalWins": 15,
@@ -23453,15 +23672,15 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       162.5389125699407,
-      162.2032684350831,
-      167.72404498308345,
-      172.45591849396587,
-      177.13392402925535,
-      181.85812770177395,
-      185.6513900992933,
-      179.49286043119255,
-      178.22958703733622,
-      173.35760578010866
+      162.20363003209172,
+      167.72439756798286,
+      172.45625659597232,
+      177.13424808223616,
+      181.8584411168633,
+      185.65169852928872,
+      179.49320172794407,
+      178.2299201445803,
+      173.3580102576006
     ]
   },
   {
@@ -23533,10 +23752,10 @@ const generalAll = [
     "NAF Name": "El_Cobarde",
     "Country": "Spain",
     "CCAA": "Euskadi",
-    "rating": 146.6762948923413,
-    "bestRating": 146.6762948923413,
-    "worstRating": 142.6339738098926,
-    "tendency": 1.5153469865193188,
+    "rating": 146.6763594535983,
+    "bestRating": 146.6763594535983,
+    "worstRating": 142.63403050850818,
+    "tendency": 1.5154115477763241,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -23584,9 +23803,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       145.16094790582198,
-      142.7275669204726,
-      142.6339738098926,
-      146.6762948923413
+      142.72762568784236,
+      142.63403050850818,
+      146.6763594535983
     ]
   },
   {
@@ -23649,10 +23868,10 @@ const generalAll = [
     "NAF Name": "el_morador",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 170.07883288621238,
-    "bestRating": 170.07883288621238,
+    "rating": 170.07903122864036,
+    "bestRating": 170.07903122864036,
     "worstRating": 144.34314575050763,
-    "tendency": 25.73568713570475,
+    "tendency": 25.73588547813273,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 5,
@@ -23703,10 +23922,10 @@ const generalAll = [
       150.04387379344553,
       155.68822891005556,
       162.17850388600021,
-      158.58497402628691,
-      166.6681318824576,
-      163.78968237984145,
-      170.07883288621238
+      158.58501127258336,
+      166.6682654188562,
+      163.7898825514555,
+      170.07903122864036
     ]
   },
   {
@@ -23952,25 +24171,25 @@ const generalAll = [
     "NAF Name": "Emi_-13-_",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 215.85716175876635,
-    "bestRating": 233.61031162401585,
+    "rating": 213.1232581424523,
+    "bestRating": 233.6103766880424,
     "worstRating": 147.36379781882331,
-    "tendency": -1.9238524063437126,
-    "totalTournaments": 59,
-    "totalGames": 236,
-    "totalWins": 103,
-    "totalDraws": 66,
-    "totalLosses": 67,
-    "totalWinRatio": 57.63,
-    "victoryStreak": 0,
+    "tendency": -16.46698739637182,
+    "totalTournaments": 60,
+    "totalGames": 241,
+    "totalWins": 105,
+    "totalDraws": 68,
+    "totalLosses": 68,
+    "totalWinRatio": 57.68,
+    "victoryStreak": 1,
     "bestVictoryStreak": 7,
-    "noLostStreak": 0,
+    "noLostStreak": 3,
     "bestNoLostStreak": 12,
-    "lostStreak": 1,
+    "lostStreak": 0,
     "worstLostStreak": 4,
-    "oneTdStreak": 0,
+    "oneTdStreak": 3,
     "bestOneTdStreak": 18,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 7,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 4,
@@ -23985,11 +24204,11 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 8,
+        "totalGames": 10,
         "totalWins": 4,
-        "totalDraws": 2,
-        "totalLosses": 2,
-        "totalWinRatio": 62.5
+        "totalDraws": 3,
+        "totalLosses": 3,
+        "totalWinRatio": 55
       }
     ],
     "megaProplayers": [
@@ -24002,16 +24221,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      217.78101416511007,
-      216.27065032635653,
-      219.9695564027609,
-      222.42975813602263,
-      226.52714924281827,
-      229.59017265433494,
-      233.61031162401585,
-      228.0501889742291,
-      223.94249109171903,
-      215.85716175876635
+      229.59024553882412,
+      233.6103766880424,
+      228.0502536057729,
+      223.9425552460562,
+      215.8572293847057,
+      218.87566787817613,
+      212.82137295911218,
+      212.33074269088948,
+      209.8405122325886,
+      213.1232581424523
     ]
   },
   {
@@ -24086,10 +24305,10 @@ const generalAll = [
     "NAF Name": "Enano_Verde",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 125.17748487178248,
+    "rating": 125.17748878544319,
     "bestRating": 143.8546211743066,
-    "worstRating": 125.17748487178248,
-    "tendency": -18.67713630252412,
+    "worstRating": 125.17748878544319,
+    "tendency": -18.677132388863413,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 0,
@@ -24142,8 +24361,8 @@ const generalAll = [
       126.53738544064508,
       127.06419703784412,
       128.66221434818752,
-      130.08476959241227,
-      125.17748487178248
+      130.0847736717935,
+      125.17748878544319
     ]
   },
   {
@@ -24273,10 +24492,10 @@ const generalAll = [
     "NAF Name": "Enrique",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 143.47761204013545,
-    "bestRating": 149.2157494502608,
-    "worstRating": 143.47761204013545,
-    "tendency": -0.13918460884571004,
+    "rating": 143.47761260278278,
+    "bestRating": 149.21575006355943,
+    "worstRating": 143.47761260278278,
+    "tendency": -0.13918404619838043,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -24324,9 +24543,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       143.61679664898116,
-      149.2157494502608,
-      143.65444194157672,
-      143.47761204013545
+      149.21575006355943,
+      143.65444252973575,
+      143.47761260278278
     ]
   },
   {
@@ -24394,10 +24613,10 @@ const generalAll = [
     "NAF Name": "Ercarcu",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 115.72673911076402,
+    "rating": 115.72676190646777,
     "bestRating": 144.23881369591723,
-    "worstRating": 108.10521516386008,
-    "tendency": -17.76391114601111,
+    "worstRating": 108.10522694360148,
+    "tendency": -17.763888350307354,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 1,
@@ -24450,10 +24669,10 @@ const generalAll = [
       118.65549797499384,
       114.77636805321106,
       110.45334046772032,
-      111.57316520450357,
-      108.10521516386008,
-      115.11972816682267,
-      115.72673911076402
+      111.57317743578815,
+      108.10522694360148,
+      115.11974428983703,
+      115.72676190646777
     ]
   },
   {
@@ -24526,10 +24745,10 @@ const generalAll = [
     "NAF Name": "Erdiabo",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 172.42706474106404,
-    "bestRating": 188.6338688820956,
+    "rating": 172.4272257218374,
+    "bestRating": 188.63386980358365,
     "worstRating": 144.9150237759579,
-    "tendency": -16.20680414103157,
+    "tendency": -16.206644081746248,
     "totalTournaments": 6,
     "totalGames": 29,
     "totalWins": 15,
@@ -24576,16 +24795,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      188.6338688820956,
-      184.69028420865314,
-      180.79536252790635,
-      185.10085187028818,
-      181.28574851750554,
-      177.2539222466225,
-      170.43072077327548,
-      162.7057436254979,
-      166.93004997758118,
-      172.42706474106404
+      188.63386980358365,
+      184.690289020125,
+      180.79537491019983,
+      185.10099693701065,
+      181.28589459344647,
+      177.2540794401213,
+      170.43087143189618,
+      162.70588861714222,
+      166.93021073059856,
+      172.4272257218374
     ]
   },
   {
@@ -24718,10 +24937,10 @@ const generalAll = [
     "NAF Name": "Erkintela",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 165.27520214153114,
+    "rating": 165.27553627696992,
     "bestRating": 181.7569226519721,
     "worstRating": 153.29299117438757,
-    "tendency": 6.523437799294641,
+    "tendency": 6.523771934733418,
     "totalTournaments": 6,
     "totalGames": 29,
     "totalWins": 13,
@@ -24771,13 +24990,13 @@ const generalAll = [
       158.7517643422365,
       159.817124167211,
       156.05683543221937,
-      160.36744426556808,
-      165.48258829183933,
-      162.83838031647144,
-      167.90928080106727,
-      165.40259948568914,
-      161.76555868961304,
-      165.27520214153114
+      160.36744432860482,
+      165.4825890063549,
+      162.8383812349117,
+      167.90939083360357,
+      165.4027911046517,
+      161.7657600856338,
+      165.27553627696992
     ]
   },
   {
@@ -24905,10 +25124,10 @@ const generalAll = [
     "NAF Name": "Erven",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 176.15131458997922,
-    "bestRating": 176.48027098281358,
+    "rating": 176.15230661639765,
+    "bestRating": 176.48130130959916,
     "worstRating": 138.6923310576979,
-    "tendency": 9.79407716345466,
+    "tendency": 9.794631822482842,
     "totalTournaments": 11,
     "totalGames": 45,
     "totalWins": 20,
@@ -24955,16 +25174,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      166.35723742652456,
-      164.869107430404,
-      170.5056180995447,
-      174.39930402069788,
-      167.68393296524548,
-      163.21175589722566,
-      169.36064405261786,
-      175.5191737207186,
-      176.48027098281358,
-      176.15131458997922
+      166.3576747939148,
+      164.86952712236763,
+      170.50602691073746,
+      174.4004363805761,
+      167.68501827436603,
+      163.21281173187,
+      169.3617465797026,
+      175.52024338104727,
+      176.48130130959916,
+      176.15230661639765
     ]
   },
   {
@@ -25106,34 +25325,34 @@ const generalAll = [
     "NAF Name": "esecubi",
     "Country": "Spain",
     "CCAA": "Cantabria ",
-    "rating": 135.39676296601394,
+    "rating": 150.06476525469046,
     "bestRating": 157.45330980976178,
-    "worstRating": 129.64628537273288,
-    "tendency": -15.371098098112299,
-    "totalTournaments": 4,
-    "totalGames": 16,
-    "totalWins": 6,
-    "totalDraws": 1,
-    "totalLosses": 9,
-    "totalWinRatio": 40.63,
+    "worstRating": 129.64628820384445,
+    "tendency": 4.742512868049033,
+    "totalTournaments": 5,
+    "totalGames": 21,
+    "totalWins": 9,
+    "totalDraws": 2,
+    "totalLosses": 10,
+    "totalWinRatio": 47.62,
     "victoryStreak": 1,
     "bestVictoryStreak": 3,
-    "noLostStreak": 1,
-    "bestNoLostStreak": 3,
+    "noLostStreak": 4,
+    "bestNoLostStreak": 4,
     "lostStreak": 0,
     "worstLostStreak": 3,
-    "oneTdStreak": 3,
+    "oneTdStreak": 1,
     "bestOneTdStreak": 6,
-    "twoTdStreak": 1,
-    "bestTwoTdStreak": 1,
-    "noTdAgainstStreak": 1,
-    "bestNoTdAgainstStreak": 3,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 2,
+    "noTdAgainstStreak": 4,
+    "bestNoTdAgainstStreak": 4,
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -25156,16 +25375,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      150.76786106412624,
-      157.45330980976178,
-      151.9753841963586,
-      146.35165751107908,
-      140.36241964606606,
       145.32225238664142,
-      140.1864424805482,
-      135.19641023295003,
-      129.64628537273288,
-      135.39676296601394
+      140.18644256376479,
+      135.19641319251411,
+      129.64628820384445,
+      135.39676623723471,
+      131.74641674059856,
+      137.27966184410957,
+      143.61344754499828,
+      144.106348490281,
+      150.06476525469046
     ]
   },
   {
@@ -25295,10 +25514,10 @@ const generalAll = [
     "NAF Name": "Estertor",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 169.10337025889856,
-    "bestRating": 169.10337025889856,
+    "rating": 169.10338003352038,
+    "bestRating": 169.10338003352038,
     "worstRating": 136.47043719864087,
-    "tendency": 13.56606220408085,
+    "tendency": 13.566070082922778,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 13,
@@ -25345,16 +25564,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      155.53730805481771,
-      157.35702758639226,
-      162.49283749248548,
-      156.5615472614304,
-      161.96269703549459,
-      156.67415468581953,
-      151.31557757684917,
-      154.76321200194747,
-      161.31160580071528,
-      169.10337025889856
+      155.5373099505976,
+      157.35702951943182,
+      162.49283934230846,
+      156.5615491622478,
+      161.96269885395097,
+      156.67415654638515,
+      151.31557979761067,
+      154.76321427649918,
+      161.31161429837798,
+      169.10338003352038
     ]
   },
   {
@@ -25362,35 +25581,35 @@ const generalAll = [
     "NAF Name": "eu4ico",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 154.4179560735148,
+    "rating": 141.90538525470438,
     "bestRating": 174.58999878163715,
     "worstRating": 132.88676134442898,
-    "tendency": 13.956017742335149,
-    "totalTournaments": 26,
-    "totalGames": 109,
+    "tendency": -2.8493297987251935,
+    "totalTournaments": 27,
+    "totalGames": 114,
     "totalWins": 41,
-    "totalDraws": 25,
-    "totalLosses": 43,
-    "totalWinRatio": 49.08,
-    "victoryStreak": 1,
+    "totalDraws": 28,
+    "totalLosses": 45,
+    "totalWinRatio": 48.25,
+    "victoryStreak": 0,
     "bestVictoryStreak": 4,
-    "noLostStreak": 1,
+    "noLostStreak": 0,
     "bestNoLostStreak": 5,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 5,
-    "oneTdStreak": 1,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 8,
-    "twoTdStreak": 1,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 3,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 12,
+        "totalGames": 13,
         "totalWins": 2,
         "totalDraws": 3,
-        "totalLosses": 7,
-        "totalWinRatio": 29.17
+        "totalLosses": 8,
+        "totalWinRatio": 26.92
       }
     ],
     "topProplayers": [
@@ -25412,16 +25631,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      140.46193833117965,
-      135.15573400837928,
-      140.77624091947447,
-      136.30725560880484,
-      143.48973679779053,
       144.75471505342958,
-      148.04510712649005,
-      153.3335323315118,
-      149.1216227977556,
-      154.4179560735148
+      148.0451072312996,
+      153.33353296857103,
+      149.12162814710956,
+      154.4179612537896,
+      153.06712191190022,
+      152.69325015645094,
+      148.57882488494153,
+      147.2475986996942,
+      141.90538525470438
     ]
   },
   {
@@ -25490,10 +25709,10 @@ const generalAll = [
     "NAF Name": "Ever",
     "Country": "Spain",
     "CCAA": "Aragón",
-    "rating": 229.46657745202424,
-    "bestRating": 229.46657745202424,
+    "rating": 229.46664014965575,
+    "bestRating": 229.46664014965575,
     "worstRating": 153.54943249562567,
-    "tendency": 20.643674436695903,
+    "tendency": 20.64373713432741,
     "totalTournaments": 10,
     "totalGames": 41,
     "totalWins": 29,
@@ -25546,10 +25765,10 @@ const generalAll = [
       210.59363106519152,
       214.2386616386785,
       219.09632720541762,
-      220.09164754963547,
-      223.84044961035056,
-      224.88867498164376,
-      229.46657745202424
+      220.0916777151175,
+      223.8404885116732,
+      224.8887382590762,
+      229.46664014965575
     ]
   },
   {
@@ -25612,44 +25831,44 @@ const generalAll = [
     "NAF Name": "exAdun",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 157.0520399088267,
-    "bestRating": 168.60089206441265,
+    "rating": 163.11030944965137,
+    "bestRating": 168.60111924566897,
     "worstRating": 120.92110813830102,
-    "tendency": -4.1501616906490995,
-    "totalTournaments": 22,
-    "totalGames": 89,
-    "totalWins": 32,
+    "tendency": -0.6294638755559561,
+    "totalTournaments": 23,
+    "totalGames": 94,
+    "totalWins": 35,
     "totalDraws": 21,
-    "totalLosses": 36,
-    "totalWinRatio": 47.75,
+    "totalLosses": 38,
+    "totalWinRatio": 48.4,
     "victoryStreak": 1,
     "bestVictoryStreak": 5,
-    "noLostStreak": 2,
+    "noLostStreak": 1,
     "bestNoLostStreak": 8,
     "lostStreak": 0,
     "worstLostStreak": 5,
-    "oneTdStreak": 2,
+    "oneTdStreak": 1,
     "bestOneTdStreak": 10,
-    "twoTdStreak": 2,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 5,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 5,
     "proplayers": [
       {
-        "totalGames": 8,
+        "totalGames": 9,
         "totalWins": 2,
         "totalDraws": 4,
-        "totalLosses": 2,
-        "totalWinRatio": 50
+        "totalLosses": 3,
+        "totalWinRatio": 44.44
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 1,
         "totalDraws": 0,
-        "totalLosses": 1,
-        "totalWinRatio": 50
+        "totalLosses": 2,
+        "totalWinRatio": 33.33
       }
     ],
     "megaProplayers": [
@@ -25662,16 +25881,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      161.2022015994758,
-      168.60089206441265,
-      165.5106233398197,
-      165.56321777517553,
-      159.8258410835577,
-      163.73954840393404,
-      157.81490836320978,
-      153.91969655989524,
-      152.31576690681854,
-      157.0520399088267
+      163.73977332520732,
+      157.8151242660188,
+      153.91991006724461,
+      152.31597238561815,
+      157.05225045711103,
+      161.78387581242742,
+      157.8584849149174,
+      163.19884711819097,
+      158.72886758535384,
+      163.11030944965137
     ]
   },
   {
@@ -25800,24 +26019,24 @@ const generalAll = [
     "NAF Name": "Femilo",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 135.08526712745683,
+    "rating": 132.93369314240027,
     "bestRating": 149.2563167878666,
-    "worstRating": 135.08526712745683,
-    "tendency": -10.314595151922731,
-    "totalTournaments": 3,
-    "totalGames": 11,
-    "totalWins": 2,
-    "totalDraws": 4,
-    "totalLosses": 5,
-    "totalWinRatio": 36.36,
+    "worstRating": 128.9719268649174,
+    "tendency": -16.322623645466336,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 3,
+    "totalDraws": 6,
+    "totalLosses": 7,
+    "totalWinRatio": 37.5,
     "victoryStreak": 0,
     "bestVictoryStreak": 2,
-    "noLostStreak": 0,
+    "noLostStreak": 1,
     "bestNoLostStreak": 3,
-    "lostStreak": 2,
-    "worstLostStreak": 2,
-    "oneTdStreak": 10,
-    "bestOneTdStreak": 10,
+    "lostStreak": 0,
+    "worstLostStreak": 3,
+    "oneTdStreak": 1,
+    "bestOneTdStreak": 11,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 1,
     "noTdAgainstStreak": 0,
@@ -25850,16 +26069,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      145.39986227937956,
-      144.845381112199,
-      138.68380419976086,
-      139.17389857562276,
-      144.7803038842587,
       149.2563167878666,
       143.68904126917118,
       143.30314836010592,
-      140.51632702242694,
-      135.08526712745683
+      140.51632702344094,
+      135.0852671365536,
+      128.9719268649174,
+      131.04246708567922,
+      137.07011296535998,
+      131.81227157309564,
+      132.93369314240027
     ]
   },
   {
@@ -26056,10 +26275,10 @@ const generalAll = [
     "NAF Name": "Fernanghost",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 123.98534301980996,
-    "bestRating": 144.06257396953754,
-    "worstRating": 123.98534301980996,
-    "tendency": -20.07723094972758,
+    "rating": 123.98548628758502,
+    "bestRating": 144.06266152211026,
+    "worstRating": 123.98548628758502,
+    "tendency": -20.077175234525242,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -26106,10 +26325,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.06257396953754,
-      138.6690880748061,
-      131.49219989894968,
-      123.98534301980996
+      144.06266152211026,
+      138.6691740787811,
+      131.49228399744453,
+      123.98548628758502
     ]
   },
   {
@@ -26314,6 +26533,67 @@ const generalAll = [
     ]
   },
   {
+    "NAF Nr": "17398",
+    "NAF Name": "Fertxu",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "rating": 145.44394098554693,
+    "bestRating": 145.58833171730515,
+    "worstRating": 141.71172798170875,
+    "tendency": 0.44394098554693073,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 1,
+    "totalDraws": 1,
+    "totalLosses": 2,
+    "totalWinRatio": 37.5,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 1,
+    "noLostStreak": 2,
+    "bestNoLostStreak": 2,
+    "lostStreak": 0,
+    "worstLostStreak": 2,
+    "oneTdStreak": 4,
+    "bestOneTdStreak": 4,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 1,
+    "noTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 1,
+    "proplayers": [
+      {
+        "totalGames": 1,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 1,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "_lastTenRatings": [
+      145,
+      141.71172798170875,
+      145.58833171730515,
+      145.44394098554693
+    ]
+  },
+  {
     "NAF Nr": "19109",
     "NAF Name": "Fibrizo7",
     "Country": "Spain",
@@ -26379,10 +26659,10 @@ const generalAll = [
     "NAF Name": "Fido_Dido",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 122.18231017328155,
+    "rating": 122.18231170259786,
     "bestRating": 144.91337932831263,
-    "worstRating": 121.03059320243725,
-    "tendency": -22.73106915503108,
+    "worstRating": 121.03059479799322,
+    "tendency": -22.731067625714772,
     "totalTournaments": 2,
     "totalGames": 9,
     "totalWins": 1,
@@ -26432,12 +26712,12 @@ const generalAll = [
       144.91337932831263,
       139.77415171932685,
       134.1242383157447,
-      129.48401776939605,
-      123.80280420051423,
-      130.33907975089366,
-      125.04345580276404,
-      121.03059320243725,
-      122.18231017328155
+      129.4840177694082,
+      123.80280420052587,
+      130.33908148345236,
+      125.04345746041497,
+      121.03059479799322,
+      122.18231170259786
     ]
   },
   {
@@ -26753,10 +27033,10 @@ const generalAll = [
     "NAF Name": "FlekyCK",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 169.40906492784273,
-    "bestRating": 169.40906492784273,
-    "worstRating": 128.55160914789914,
-    "tendency": 30.658118863597593,
+    "rating": 169.40959067510124,
+    "bestRating": 169.40959067510124,
+    "worstRating": 128.55160923769498,
+    "tendency": 30.658527570589854,
     "totalTournaments": 7,
     "totalGames": 30,
     "totalWins": 12,
@@ -26803,16 +27083,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      138.75094606424514,
-      141.0692057215981,
-      145.33147418558508,
-      146.3949379816853,
-      152.0036275091463,
-      149.38911515159796,
-      154.30309228565667,
-      159.8915390009682,
-      166.0307846598631,
-      169.40906492784273
+      138.7510631045114,
+      141.06932138079296,
+      145.3320438788492,
+      146.39549167616354,
+      152.0041702839464,
+      149.38964738439907,
+      154.30360468501286,
+      159.89207546594574,
+      166.03130041107443,
+      169.40959067510124
     ]
   },
   {
@@ -27014,10 +27294,10 @@ const generalAll = [
     "NAF Name": "fraloco",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 145.64145745504405,
+    "rating": 145.64148664364822,
     "bestRating": 160.5929824817588,
     "worstRating": 144.0078186514562,
-    "tendency": -9.332193651570208,
+    "tendency": -9.332164462966034,
     "totalTournaments": 7,
     "totalGames": 25,
     "totalWins": 10,
@@ -27070,10 +27350,10 @@ const generalAll = [
       155.9095231624959,
       158.11706364910563,
       153.84582958833502,
-      159.80284499969073,
-      153.98792224574476,
-      150.2528694047474,
-      145.64145745504405
+      159.80284582048324,
+      153.98792344749552,
+      150.25287244321308,
+      145.64148664364822
     ]
   },
   {
@@ -27081,10 +27361,10 @@ const generalAll = [
     "NAF Name": "franki129",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 185.2650592011744,
+    "rating": 185.26614444203582,
     "bestRating": 200.0857610401923,
     "worstRating": 140.24348736338186,
-    "tendency": -5.964157556493262,
+    "tendency": -5.963998163426027,
     "totalTournaments": 24,
     "totalGames": 101,
     "totalWins": 49,
@@ -27131,16 +27411,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      191.22921675766767,
-      195.3986781830494,
-      197.55900182599862,
-      196.52380127013515,
-      190.98839945976192,
-      183.90738538135915,
-      186.25614163432866,
-      187.88622606727813,
-      191.67386353580002,
-      185.2650592011744
+      191.23014260546185,
+      195.39992623283706,
+      197.56021639396783,
+      196.52497199902152,
+      190.98957203463888,
+      183.90851655840163,
+      186.25728991201652,
+      187.88735633307317,
+      191.67499158032138,
+      185.26614444203582
     ]
   },
   {
@@ -27148,10 +27428,10 @@ const generalAll = [
     "NAF Name": "Franlinkfm",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 156.2961776390166,
+    "rating": 156.2963149882673,
     "bestRating": 159.88053216796888,
     "worstRating": 134.14734144590759,
-    "tendency": 16.49202357058553,
+    "tendency": 16.492160919836238,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 7,
@@ -27205,9 +27485,9 @@ const generalAll = [
       149.48790207075353,
       155.16096673731232,
       159.88053216796888,
-      155.26326688269646,
-      150.9544767157248,
-      156.2961776390166
+      155.2632668946486,
+      150.9545162616835,
+      156.2963149882673
     ]
   },
   {
@@ -27215,10 +27495,10 @@ const generalAll = [
     "NAF Name": "Fran_mutado",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 140.75982674897753,
+    "rating": 140.75982674914638,
     "bestRating": 167.41394025808566,
     "worstRating": 129.7127136797162,
-    "tendency": 3.4489763114631558,
+    "tendency": 3.448976311632009,
     "totalTournaments": 19,
     "totalGames": 76,
     "totalWins": 25,
@@ -27273,8 +27553,8 @@ const generalAll = [
       144.02204826902624,
       140.4326841515845,
       136.52345245841542,
-      136.4702397649274,
-      140.75982674897753
+      136.4702397649743,
+      140.75982674914638
     ]
   },
   {
@@ -27282,10 +27562,10 @@ const generalAll = [
     "NAF Name": "FRAYLEON",
     "Country": "Spain",
     "CCAA": "C. La Mancha",
-    "rating": 162.90177703708991,
-    "bestRating": 167.29563291906013,
+    "rating": 162.90124966588374,
+    "bestRating": 167.29563292064609,
     "worstRating": 150.21817294220983,
-    "tendency": 1.8747160353332788,
+    "tendency": 1.8741886641271037,
     "totalTournaments": 8,
     "totalGames": 33,
     "totalWins": 13,
@@ -27340,8 +27620,8 @@ const generalAll = [
       156.6899085539881,
       160.83947267041574,
       164.5074542386119,
-      167.29563291906013,
-      162.90177703708991
+      167.29563292064609,
+      162.90124966588374
     ]
   },
   {
@@ -27404,44 +27684,44 @@ const generalAll = [
     "NAF Name": "Frikipe",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 252.3932277221245,
-    "bestRating": 255.77150799010414,
+    "rating": 265.25328827495144,
+    "bestRating": 265.25328827495144,
     "worstRating": 155.65685424949237,
-    "tendency": 10.92672687268427,
-    "totalTournaments": 25,
-    "totalGames": 100,
-    "totalWins": 68,
+    "tendency": 21.80761384060591,
+    "totalTournaments": 26,
+    "totalGames": 105,
+    "totalWins": 73,
     "totalDraws": 17,
     "totalLosses": 15,
-    "totalWinRatio": 76.5,
-    "victoryStreak": 0,
+    "totalWinRatio": 77.62,
+    "victoryStreak": 5,
     "bestVictoryStreak": 7,
-    "noLostStreak": 8,
+    "noLostStreak": 13,
     "bestNoLostStreak": 13,
     "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 12,
+    "oneTdStreak": 17,
     "bestOneTdStreak": 25,
-    "twoTdStreak": 0,
+    "twoTdStreak": 5,
     "bestTwoTdStreak": 8,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 4,
     "bestNoTdAgainstStreak": 6,
     "proplayers": [
       {
-        "totalGames": 11,
-        "totalWins": 6,
+        "totalGames": 12,
+        "totalWins": 7,
         "totalDraws": 4,
         "totalLosses": 1,
-        "totalWinRatio": 72.73
+        "totalWinRatio": 75
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 8,
-        "totalWins": 3,
+        "totalGames": 9,
+        "totalWins": 4,
         "totalDraws": 1,
         "totalLosses": 4,
-        "totalWinRatio": 43.75
+        "totalWinRatio": 50
       }
     ],
     "megaProplayers": [
@@ -27454,16 +27734,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      241.46650084944022,
-      234.29777153176852,
-      235.8473189858965,
-      238.16175716114572,
-      240.17240202127644,
-      243.4448277044121,
-      248.38446185441921,
-      252.33124082080863,
-      255.77150799010414,
-      252.3932277221245
+      243.44567443434553,
+      248.385308058558,
+      252.33209956966468,
+      255.77238160020397,
+      252.39409133617715,
+      255.22182697622281,
+      257.51237857999706,
+      259.52611523651905,
+      262.8352794499731,
+      265.25328827495144
     ]
   },
   {
@@ -27471,10 +27751,10 @@ const generalAll = [
     "NAF Name": "frikrik",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 133.81296590806684,
+    "rating": 133.8129672829354,
     "bestRating": 151.0151774259084,
-    "worstRating": 130.8437173318758,
-    "tendency": -12.787006345417154,
+    "worstRating": 130.84371880591416,
+    "tendency": -12.787004970548594,
     "totalTournaments": 2,
     "totalGames": 14,
     "totalWins": 4,
@@ -27525,12 +27805,12 @@ const generalAll = [
       142.5992933897446,
       138.2717249008699,
       132.84759824488688,
-      130.8437173318758,
-      131.4329908789488,
-      137.78049236291767,
-      144.36817524349945,
-      139.28091166822097,
-      133.81296590806684
+      130.84371880591416,
+      131.4329922899479,
+      137.7804937141556,
+      144.3681765378528,
+      139.28091307268548,
+      133.8129672829354
     ]
   },
   {
@@ -27538,10 +27818,10 @@ const generalAll = [
     "NAF Name": "fukitriki",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 150.73109522774513,
-    "bestRating": 155.45529890026373,
+    "rating": 150.7311780611368,
+    "bestRating": 155.45537109576395,
     "worstRating": 136.07689160419883,
-    "tendency": 14.654203623546294,
+    "tendency": 14.654286456937967,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -27590,14 +27870,14 @@ const generalAll = [
     "_lastTenRatings": [
       136.07689160419883,
       141.6237407791318,
-      141.86814171790198,
-      148.47116967397787,
-      143.65450858648808,
-      138.54311840108417,
-      145.43560406663698,
-      152.26969900249574,
-      155.45529890026373,
-      150.73109522774513
+      141.86814398108257,
+      148.47117210493587,
+      143.6545109549263,
+      138.54313299523938,
+      145.43564902129063,
+      152.2697369600979,
+      155.45537109576395,
+      150.7311780611368
     ]
   },
   {
@@ -27666,10 +27946,10 @@ const generalAll = [
     "NAF Name": "Furbby",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 170.47530994784518,
-    "bestRating": 186.9127196753778,
+    "rating": 170.475456619498,
+    "bestRating": 186.91281887213074,
     "worstRating": 150,
-    "tendency": 10.344547375383627,
+    "tendency": 10.344694047036455,
     "totalTournaments": 9,
     "totalGames": 34,
     "totalWins": 20,
@@ -27720,12 +28000,12 @@ const generalAll = [
       164.27888185022812,
       168.97084292391978,
       173.9772813268998,
-      178.74266770780633,
-      183.81070570512432,
-      186.9127196753778,
-      180.42162077987172,
-      175.1201668524498,
-      170.47530994784518
+      178.74267126301956,
+      183.8107348945781,
+      186.91281887213074,
+      180.42172132704184,
+      175.1202714081413,
+      170.475456619498
     ]
   },
   {
@@ -27924,10 +28204,10 @@ const generalAll = [
     "NAF Name": "Gabox667",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 151.97827952706652,
-    "bestRating": 156.14774095244826,
-    "worstRating": 144.62658181413408,
-    "tendency": 1.9967397916967968,
+    "rating": 151.9868551375468,
+    "bestRating": 156.156638764922,
+    "worstRating": 144.63137634194322,
+    "tendency": 2.0057682733279023,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 3,
@@ -27974,13 +28254,13 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      149.98153973536972,
-      144.62658181413408,
-      148.10445860503592,
-      153.8436075903791,
-      149.6456242318505,
-      156.14774095244826,
-      151.97827952706652
+      149.9810868642189,
+      144.63137634194322,
+      148.1144709527904,
+      153.85318531392775,
+      149.65483691932042,
+      156.156638764922,
+      151.9868551375468
     ]
   },
   {
@@ -27988,25 +28268,25 @@ const generalAll = [
     "NAF Name": "Gafiiis",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 196.1358631814135,
-    "bestRating": 196.1358631814135,
+    "rating": 182.35676607572216,
+    "bestRating": 196.1360517612732,
     "worstRating": 135.12124408851466,
-    "tendency": 10.254592920005138,
-    "totalTournaments": 11,
-    "totalGames": 46,
-    "totalWins": 20,
+    "tendency": -8.12750798331544,
+    "totalTournaments": 12,
+    "totalGames": 51,
+    "totalWins": 22,
     "totalDraws": 15,
-    "totalLosses": 11,
-    "totalWinRatio": 59.78,
-    "victoryStreak": 1,
+    "totalLosses": 14,
+    "totalWinRatio": 57.84,
+    "victoryStreak": 0,
     "bestVictoryStreak": 4,
-    "noLostStreak": 15,
+    "noLostStreak": 0,
     "bestNoLostStreak": 15,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 3,
-    "oneTdStreak": 15,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 15,
-    "twoTdStreak": 1,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 3,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
@@ -28021,11 +28301,11 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 1,
         "totalDraws": 0,
-        "totalLosses": 1,
-        "totalWinRatio": 50
+        "totalLosses": 2,
+        "totalWinRatio": 33.33
       }
     ],
     "megaProplayers": [
@@ -28038,16 +28318,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      185.88127026140836,
-      190.47693043654047,
-      190.14216362131165,
-      187.84285086275398,
-      186.4045622537603,
-      190.48427165370896,
-      195.5643859175162,
-      193.86822653005038,
-      192.22560241370653,
-      196.1358631814135
+      190.4842740590376,
+      195.56454643499845,
+      193.86838070477114,
+      192.22577708074198,
+      196.1360517612732,
+      188.70254070404934,
+      180.69659387096135,
+      184.01337918873747,
+      187.41017318293981,
+      182.35676607572216
     ]
   },
   {
@@ -28110,10 +28390,10 @@ const generalAll = [
     "NAF Name": "Gale",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 117.71383221897166,
+    "rating": 117.71496750085028,
     "bestRating": 144.34314575050763,
-    "worstRating": 117.71383221897166,
-    "tendency": -15.310049883691349,
+    "worstRating": 117.71496750085028,
+    "tendency": -15.308914601812731,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 1,
@@ -28166,10 +28446,10 @@ const generalAll = [
       127.24580694118123,
       120.56864719043453,
       126.91797104936816,
-      127.04804572013536,
-      128.5985071028272,
-      122.6519848689438,
-      117.71383221897166
+      127.04883790508286,
+      128.59927034179955,
+      122.65317081091166,
+      117.71496750085028
     ]
   },
   {
@@ -28232,28 +28512,28 @@ const generalAll = [
     "NAF Name": "Galladur",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
-    "victoryStreak": 0,
-    "bestVictoryStreak": 0,
-    "noLostStreak": 0,
-    "bestNoLostStreak": 0,
+    "rating": 162.47452240777594,
+    "bestRating": 162.47452240777594,
+    "worstRating": 152.37762166299018,
+    "tendency": 6.8592538370923535,
+    "totalTournaments": 1,
+    "totalGames": 5,
+    "totalWins": 3,
+    "totalDraws": 1,
+    "totalLosses": 1,
+    "totalWinRatio": 70,
+    "victoryStreak": 1,
+    "bestVictoryStreak": 1,
+    "noLostStreak": 3,
+    "bestNoLostStreak": 3,
     "lostStreak": 0,
-    "worstLostStreak": 0,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
-    "twoTdStreak": 0,
-    "bestTwoTdStreak": 0,
-    "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 0,
+    "worstLostStreak": 1,
+    "oneTdStreak": 1,
+    "bestOneTdStreak": 1,
+    "twoTdStreak": 1,
+    "bestTwoTdStreak": 1,
+    "noTdAgainstStreak": 3,
+    "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
         "totalGames": 0,
@@ -28265,10 +28545,10 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -28280,6 +28560,13 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      155.61526857068358,
+      152.37762166299018,
+      156.9998068137084,
+      156.48418817153694,
+      162.47452240777594
     ]
   },
   {
@@ -28348,25 +28635,25 @@ const generalAll = [
     "NAF Name": "Galle",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 120.41884758714241,
+    "rating": 124.45869497310134,
     "bestRating": 144.34314575050763,
     "worstRating": 103.21260031899041,
-    "tendency": 1.3466718984487187,
-    "totalTournaments": 22,
-    "totalGames": 77,
-    "totalWins": 19,
+    "tendency": 6.834771193257254,
+    "totalTournaments": 23,
+    "totalGames": 82,
+    "totalWins": 21,
     "totalDraws": 19,
-    "totalLosses": 39,
-    "totalWinRatio": 37.01,
-    "victoryStreak": 1,
+    "totalLosses": 42,
+    "totalWinRatio": 37.2,
+    "victoryStreak": 0,
     "bestVictoryStreak": 2,
-    "noLostStreak": 1,
+    "noLostStreak": 0,
     "bestNoLostStreak": 5,
-    "lostStreak": 0,
+    "lostStreak": 2,
     "worstLostStreak": 7,
-    "oneTdStreak": 4,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 5,
-    "twoTdStreak": 1,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
@@ -28381,33 +28668,33 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 1,
+        "totalLosses": 2,
         "totalWinRatio": 0
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 0,
         "totalDraws": 1,
-        "totalLosses": 1,
-        "totalWinRatio": 25
+        "totalLosses": 2,
+        "totalWinRatio": 16.67
       }
     ],
     "_lastTenRatings": [
-      119.07217568869369,
-      114.10798399290869,
-      121.28493613146624,
-      123.56159710210598,
-      121.2325840057645,
-      117.6231273907904,
-      121.68707202931834,
-      118.32932443798708,
-      114.41561711761074,
-      120.41884758714241
+      117.62392377984409,
+      121.68785245863666,
+      118.33010550679224,
+      114.41637543857122,
+      120.4195812426065,
+      127.01980475960283,
+      124.26491614590019,
+      130.62210502641594,
+      128.84013683739886,
+      124.45869497310134
     ]
   },
   {
@@ -28533,14 +28820,74 @@ const generalAll = [
     ]
   },
   {
+    "NAF Nr": "41329",
+    "NAF Name": "Ganana",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "rating": 144.8188204665364,
+    "bestRating": 144.82009020676875,
+    "worstRating": 139.62328999643123,
+    "tendency": -0.0012697402323453844,
+    "totalTournaments": 1,
+    "totalGames": 3,
+    "totalWins": 1,
+    "totalDraws": 0,
+    "totalLosses": 2,
+    "totalWinRatio": 33.33,
+    "victoryStreak": 1,
+    "bestVictoryStreak": 1,
+    "noLostStreak": 1,
+    "bestNoLostStreak": 1,
+    "lostStreak": 0,
+    "worstLostStreak": 2,
+    "oneTdStreak": 1,
+    "bestOneTdStreak": 1,
+    "twoTdStreak": 1,
+    "bestTwoTdStreak": 1,
+    "noTdAgainstStreak": 1,
+    "bestNoTdAgainstStreak": 1,
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "_lastTenRatings": [
+      144.82009020676875,
+      139.62328999643123,
+      144.8188204665364
+    ]
+  },
+  {
     "NAF Nr": "27154",
     "NAF Name": "gangcha",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 134.47716707758116,
+    "rating": 134.47716936772127,
     "bestRating": 168.071409461345,
     "worstRating": 125.46541840088815,
-    "tendency": -1.3586296621269867,
+    "tendency": -1.35862737198687,
     "totalTournaments": 33,
     "totalGames": 132,
     "totalWins": 43,
@@ -28590,13 +28937,13 @@ const generalAll = [
       135.83579673970814,
       131.30683626922192,
       136.5537459902163,
-      133.9171094070015,
-      139.22848728984627,
-      139.860704405483,
-      136.21116819742122,
-      140.09570063595234,
-      137.86122656479694,
-      134.47716707758116
+      133.91710991491223,
+      139.22848785766993,
+      139.86070495026934,
+      136.21116874939892,
+      140.09570142527377,
+      137.86122859246638,
+      134.47716936772127
     ]
   },
   {
@@ -28604,27 +28951,27 @@ const generalAll = [
     "NAF Name": "Garaz",
     "Country": "Spain",
     "CCAA": "C. La Mancha",
-    "rating": 185.93929129115813,
-    "bestRating": 194.2371011581243,
+    "rating": 181.1201117822554,
+    "bestRating": 194.24029270972198,
     "worstRating": 150.48924627459223,
-    "tendency": 9.076513282820713,
-    "totalTournaments": 7,
-    "totalGames": 30,
-    "totalWins": 14,
-    "totalDraws": 11,
-    "totalLosses": 5,
-    "totalWinRatio": 65,
-    "victoryStreak": 0,
+    "tendency": -4.808001007233798,
+    "totalTournaments": 8,
+    "totalGames": 34,
+    "totalWins": 15,
+    "totalDraws": 13,
+    "totalLosses": 6,
+    "totalWinRatio": 63.24,
+    "victoryStreak": 1,
     "bestVictoryStreak": 4,
-    "noLostStreak": 0,
+    "noLostStreak": 3,
     "bestNoLostStreak": 9,
-    "lostStreak": 1,
+    "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 7,
+    "oneTdStreak": 3,
     "bestOneTdStreak": 9,
-    "twoTdStreak": 0,
+    "twoTdStreak": 2,
     "bestTwoTdStreak": 4,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 4,
     "proplayers": [
       {
@@ -28654,16 +29001,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      176.86277800833741,
-      183.0423918794321,
-      177.33083722543245,
-      181.65540494517515,
-      185.9242866247337,
-      184.96582134825292,
-      189.56731295188695,
-      194.2371011581243,
-      193.75752902506943,
-      185.93929129115813
+      185.9281127894892,
+      184.969486232714,
+      189.57068848465252,
+      194.24029270972198,
+      193.76061570505675,
+      185.93867507768476,
+      180.0602245313975,
+      178.96087634375405,
+      177.52231015313322,
+      181.1201117822554
     ]
   },
   {
@@ -28671,35 +29018,35 @@ const generalAll = [
     "NAF Name": "Garban",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 175.4903409147732,
-    "bestRating": 175.4903409147732,
-    "worstRating": 153.58515768582137,
-    "tendency": 20.81467651693478,
-    "totalTournaments": 3,
-    "totalGames": 11,
-    "totalWins": 5,
-    "totalDraws": 5,
-    "totalLosses": 1,
-    "totalWinRatio": 68.18,
+    "rating": 175.55893600702177,
+    "bestRating": 181.53117963736835,
+    "worstRating": 153.58515770770475,
+    "tendency": 9.097061591921829,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 7,
+    "totalDraws": 6,
+    "totalLosses": 3,
+    "totalWinRatio": 62.5,
     "victoryStreak": 0,
     "bestVictoryStreak": 2,
-    "noLostStreak": 5,
-    "bestNoLostStreak": 5,
-    "lostStreak": 0,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 6,
+    "lostStreak": 1,
     "worstLostStreak": 1,
-    "oneTdStreak": 3,
-    "bestOneTdStreak": 3,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 4,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 1,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 1,
-        "totalWins": 0,
+        "totalGames": 2,
+        "totalWins": 1,
         "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 50
+        "totalWinRatio": 75
       }
     ],
     "topProplayers": [
@@ -28713,24 +29060,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 0,
         "totalDraws": 1,
-        "totalLosses": 1,
-        "totalWinRatio": 25
+        "totalLosses": 2,
+        "totalWinRatio": 16.67
       }
     ],
     "_lastTenRatings": [
-      154.67566439783843,
-      159.92279213199208,
-      159.72518030350685,
-      163.2654402078987,
-      160.56306411535166,
-      166.46184183990133,
-      164.1165282682284,
-      169.5709933588711,
-      173.80480064629592,
-      175.4903409147732
+      166.46187441509994,
+      164.11675982601696,
+      169.57121488411192,
+      173.8050131847625,
+      175.49054833770265,
+      181.53117963736835,
+      175.42536843363698,
+      173.22983713746876,
+      177.97694483200016,
+      175.55893600702177
     ]
   },
   {
@@ -29055,10 +29402,10 @@ const generalAll = [
     "NAF Name": "GatoBrutal",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 150.94772384062793,
+    "rating": 150.94772391941308,
     "bestRating": 155.48389336849078,
     "worstRating": 138.99704164977453,
-    "tendency": 4.829732563520338,
+    "tendency": 4.829732642305487,
     "totalTournaments": 6,
     "totalGames": 25,
     "totalWins": 7,
@@ -29112,9 +29459,9 @@ const generalAll = [
       143.18447764590104,
       149.55980134250962,
       145.73161866937144,
-      150.66816023643807,
-      145.2670104623739,
-      150.94772384062793
+      150.66816023643813,
+      145.26701054473494,
+      150.94772391941308
     ]
   },
   {
@@ -29189,10 +29536,10 @@ const generalAll = [
     "NAF Name": "Gemerlos",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 131.69999860133046,
+    "rating": 131.70275739798996,
     "bestRating": 152.11354586674994,
-    "worstRating": 131.09853443082713,
-    "tendency": -20.111823363988037,
+    "worstRating": 131.1014161330735,
+    "tendency": -20.109064567328545,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 1,
@@ -29246,9 +29593,9 @@ const generalAll = [
       136.19576490729978,
       136.8064210839207,
       137.10273653346832,
-      136.14020082920135,
-      131.09853443082713,
-      131.69999860133046
+      136.14320424472072,
+      131.1014161330735,
+      131.70275739798996
     ]
   },
   {
@@ -29378,10 +29725,10 @@ const generalAll = [
     "NAF Name": "Gerard3G14",
     "Country": "Spain",
     "CCAA": "I. Canarias",
-    "rating": 151.56516501300317,
-    "bestRating": 151.56516501300317,
+    "rating": 151.78753617156545,
+    "bestRating": 151.78753617156545,
     "worstRating": 140.04779469649253,
-    "tendency": 0.14645509609491114,
+    "tendency": 0.36882625465719343,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 2,
@@ -29432,9 +29779,9 @@ const generalAll = [
       145.69994240995376,
       145.39259841969456,
       140.04779469649253,
-      140.4365326157319,
-      145.90916126693497,
-      151.56516501300317
+      140.44393781292283,
+      146.02052262791585,
+      151.78753617156545
     ]
   },
   {
@@ -29504,10 +29851,10 @@ const generalAll = [
     "NAF Name": "Gilles_Cacciari",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 222.82377211176365,
-    "bestRating": 222.82377211176365,
+    "rating": 222.8237806558606,
+    "bestRating": 222.8237806558606,
     "worstRating": 145.25931521625637,
-    "tendency": 19.301675472503604,
+    "tendency": 19.301684016600547,
     "totalTournaments": 18,
     "totalGames": 70,
     "totalWins": 34,
@@ -29560,10 +29907,10 @@ const generalAll = [
       210.39015765371778,
       213.99918285554216,
       214.7746931548859,
-      211.9771413660397,
-      216.15535667560482,
-      218.9421780132838,
-      222.82377211176365
+      211.9771413988154,
+      216.1553567070547,
+      218.94217804371968,
+      222.8237806558606
     ]
   },
   {
@@ -29691,10 +30038,10 @@ const generalAll = [
     "NAF Name": "Gis",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 128.75244808138302,
+    "rating": 128.76484314385615,
     "bestRating": 160.90454027365672,
-    "worstRating": 128.75244808138302,
-    "tendency": -21.934197168215064,
+    "worstRating": 128.76484314385615,
+    "tendency": -21.921802105741932,
     "totalTournaments": 2,
     "totalGames": 13,
     "totalWins": 3,
@@ -29743,14 +30090,14 @@ const generalAll = [
     "_lastTenRatings": [
       150.6866452495981,
       147.56572612924376,
-      142.35558183995798,
-      139.32930724130654,
-      134.61995217363875,
-      132.847714369415,
-      138.6110970109869,
-      134.3437611014065,
-      133.64731952910032,
-      128.75244808138302
+      142.36044904867038,
+      139.33403077052546,
+      134.62466202330776,
+      132.8523350631891,
+      138.6155871413432,
+      134.34824898058648,
+      133.65588372232304,
+      128.76484314385615
     ]
   },
   {
@@ -29823,10 +30170,10 @@ const generalAll = [
     "NAF Name": "glukosidiko",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 199.98468906266038,
-    "bestRating": 209.04829764977103,
+    "rating": 199.98433525822992,
+    "bestRating": 209.0483343201876,
     "worstRating": 141.07081886756262,
-    "tendency": -5.655982924737998,
+    "tendency": -5.656340678655653,
     "totalTournaments": 33,
     "totalGames": 127,
     "totalWins": 61,
@@ -29873,16 +30220,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      205.64067198739838,
-      200.7421274421786,
-      205.54812553136648,
-      209.04829764977103,
-      202.66536531439485,
-      195.266674849458,
-      200.08810417678527,
-      198.61932255497902,
-      197.2577134577192,
-      199.98468906266038
+      205.64067593688557,
+      200.7421312996118,
+      205.54816361495259,
+      209.0483343201876,
+      202.66540053670064,
+      195.26671792465345,
+      200.08814662491568,
+      198.61887637277306,
+      197.25734939790772,
+      199.98433525822992
     ]
   },
   {
@@ -29890,10 +30237,10 @@ const generalAll = [
     "NAF Name": "gmateu89",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 126.3388058130447,
+    "rating": 126.3419715925816,
     "bestRating": 144.960261995079,
-    "worstRating": 126.3388058130447,
-    "tendency": -18.621456182034308,
+    "worstRating": 126.3419715925816,
+    "tendency": -18.618290402497408,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -29942,8 +30289,8 @@ const generalAll = [
     "_lastTenRatings": [
       144.960261995079,
       138.55623563731268,
-      132.6906959502504,
-      126.3388058130447
+      132.69399514684622,
+      126.3419715925816
     ]
   },
   {
@@ -29951,10 +30298,10 @@ const generalAll = [
     "NAF Name": "goblintatuado",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 116.94344777510948,
+    "rating": 116.9434599995787,
     "bestRating": 145,
     "worstRating": 99.26204995130624,
-    "tendency": 7.400299933659298,
+    "tendency": 7.4003121581285285,
     "totalTournaments": 14,
     "totalGames": 52,
     "totalWins": 11,
@@ -30004,13 +30351,13 @@ const generalAll = [
       109.54314784145018,
       115.40179635418697,
       110.40708438784722,
-      112.97687005516518,
-      120.51865271936666,
-      122.28808511238817,
-      118.99275776007892,
-      115.10822532154779,
-      119.13889800545054,
-      116.94344777510948
+      112.9768781616367,
+      120.518660520409,
+      122.28809270981222,
+      118.99276534814712,
+      115.10823267227225,
+      119.13890553556664,
+      116.9434599995787
     ]
   },
   {
@@ -30018,44 +30365,44 @@ const generalAll = [
     "NAF Name": "Godzilla",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 166.3697005205374,
+    "rating": 181.7326318264969,
     "bestRating": 200.09126388603963,
     "worstRating": 153.866423917879,
-    "tendency": 8.217553859645903,
-    "totalTournaments": 32,
-    "totalGames": 126,
-    "totalWins": 48,
-    "totalDraws": 37,
-    "totalLosses": 41,
-    "totalWinRatio": 52.78,
-    "victoryStreak": 0,
+    "tendency": 12.2575156122262,
+    "totalTournaments": 33,
+    "totalGames": 131,
+    "totalWins": 51,
+    "totalDraws": 38,
+    "totalLosses": 42,
+    "totalWinRatio": 53.44,
+    "victoryStreak": 3,
     "bestVictoryStreak": 3,
-    "noLostStreak": 0,
+    "noLostStreak": 3,
     "bestNoLostStreak": 11,
-    "lostStreak": 1,
+    "lostStreak": 0,
     "worstLostStreak": 3,
-    "oneTdStreak": 9,
+    "oneTdStreak": 3,
     "bestOneTdStreak": 19,
-    "twoTdStreak": 0,
+    "twoTdStreak": 3,
     "bestTwoTdStreak": 3,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 14,
-        "totalWins": 4,
+        "totalGames": 15,
+        "totalWins": 5,
         "totalDraws": 4,
         "totalLosses": 6,
-        "totalWinRatio": 42.86
+        "totalWinRatio": 46.67
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 11,
-        "totalWins": 4,
+        "totalGames": 13,
+        "totalWins": 5,
         "totalDraws": 5,
-        "totalLosses": 2,
-        "totalWinRatio": 59.09
+        "totalLosses": 3,
+        "totalWinRatio": 57.69
       }
     ],
     "megaProplayers": [
@@ -30068,16 +30415,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      158.1521466608915,
-      164.10169582780853,
-      167.75123203587032,
-      171.98135633598034,
-      173.49172017473387,
-      169.47510501255428,
-      168.6925938947949,
-      165.5654548118035,
-      169.67492517365832,
-      166.3697005205374
+      169.4751162142707,
+      168.69275565270178,
+      165.56561278166356,
+      169.67507647900385,
+      166.3698467595265,
+      165.6628179206472,
+      162.11313006063455,
+      170.0599165687019,
+      176.71752571882635,
+      181.7326318264969
     ]
   },
   {
@@ -30085,43 +30432,43 @@ const generalAll = [
     "NAF Name": "GolDarcK",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "rating": 160.32462550432123,
+    "bestRating": 160.32462550432123,
+    "worstRating": 148.15380022433143,
+    "tendency": 4.543162660159226,
+    "totalTournaments": 1,
+    "totalGames": 5,
+    "totalWins": 3,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
-    "victoryStreak": 0,
-    "bestVictoryStreak": 0,
-    "noLostStreak": 0,
-    "bestNoLostStreak": 0,
+    "totalLosses": 2,
+    "totalWinRatio": 60,
+    "victoryStreak": 2,
+    "bestVictoryStreak": 2,
+    "noLostStreak": 2,
+    "bestNoLostStreak": 2,
     "lostStreak": 0,
-    "worstLostStreak": 0,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
-    "twoTdStreak": 0,
-    "bestTwoTdStreak": 0,
-    "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 0,
+    "worstLostStreak": 2,
+    "oneTdStreak": 5,
+    "bestOneTdStreak": 5,
+    "twoTdStreak": 2,
+    "bestTwoTdStreak": 2,
+    "noTdAgainstStreak": 2,
+    "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -30133,6 +30480,13 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      155.781462844162,
+      151.57223143264633,
+      148.15380022433143,
+      154.5099839289319,
+      160.32462550432123
     ]
   },
   {
@@ -30339,10 +30693,10 @@ const generalAll = [
     "NAF Name": "gon",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 160.06374874797027,
-    "bestRating": 165.13178674528825,
-    "worstRating": 154.72552340991103,
-    "tendency": 5.338225338059232,
+    "rating": 160.06432354185893,
+    "bestRating": 165.13238717341747,
+    "worstRating": 154.7261782640571,
+    "tendency": 5.338145277801829,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 3,
@@ -30389,10 +30743,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      154.72552340991103,
-      159.34296415293704,
-      165.13178674528825,
-      160.06374874797027
+      154.7261782640571,
+      159.34359153460935,
+      165.13238717341747,
+      160.06432354185893
     ]
   },
   {
@@ -30585,10 +30939,10 @@ const generalAll = [
     "NAF Name": "Gor",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 165.46442872352725,
-    "bestRating": 166.15310808084797,
+    "rating": 165.46454847669443,
+    "bestRating": 166.15317047093166,
     "worstRating": 149.5099056241381,
-    "tendency": 15.95452309938915,
+    "tendency": 15.954642852556333,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -30639,10 +30993,10 @@ const generalAll = [
       156.96851036768726,
       158.31944922712316,
       163.799055217513,
-      160.1751803006933,
-      166.15310808084797,
-      160.5464280423835,
-      165.46442872352725
+      160.17518378841456,
+      166.15317047093166,
+      160.54655312821887,
+      165.46454847669443
     ]
   },
   {
@@ -30650,10 +31004,10 @@ const generalAll = [
     "NAF Name": "Gordini",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 129.9092643951564,
+    "rating": 129.91374039248677,
     "bestRating": 166.5837665514332,
-    "worstRating": 129.30816962419388,
-    "tendency": -30.13377998408373,
+    "worstRating": 129.31284637922843,
+    "tendency": -30.12930398675337,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 4,
@@ -30706,10 +31060,10 @@ const generalAll = [
       145.8610173924139,
       140.0260150605932,
       134.77242764276144,
-      133.90590003742076,
-      134.59092563226952,
-      129.30816962419388,
-      129.9092643951564
+      133.91100655874303,
+      134.59581368912052,
+      129.31284637922843,
+      129.91374039248677
     ]
   },
   {
@@ -30772,10 +31126,10 @@ const generalAll = [
     "NAF Name": "Gorrrra",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150.7033768565761,
-    "bestRating": 153.4350077410293,
-    "worstRating": 150.7033768565761,
-    "tendency": -0.20477484769227772,
+    "rating": 150.7039443503808,
+    "bestRating": 153.43558990804968,
+    "worstRating": 150.7039443503808,
+    "tendency": -0.20420822738273614,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -30822,9 +31176,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      150.9081517042684,
-      153.4350077410293,
-      150.7033768565761
+      150.90815257776353,
+      153.43558990804968,
+      150.7039443503808
     ]
   },
   {
@@ -30960,10 +31314,10 @@ const generalAll = [
     "NAF Name": "gr4n0t4",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 170.02246288172333,
+    "rating": 170.0245241916634,
     "bestRating": 191.5864395311258,
     "worstRating": 146.30551333402965,
-    "tendency": -2.2881690953129805,
+    "tendency": -2.2861077853729057,
     "totalTournaments": 14,
     "totalGames": 56,
     "totalWins": 26,
@@ -31012,14 +31366,14 @@ const generalAll = [
     "_lastTenRatings": [
       172.3106319770363,
       174.55226550128276,
-      166.41851037655564,
-      160.20464484432702,
-      158.4529467396067,
-      165.33323750193478,
-      168.08727656717198,
-      172.81390549172502,
-      164.65614410484434,
-      170.02246288172333
+      166.41853374388816,
+      160.20467421211484,
+      158.45540611444164,
+      165.33570782624383,
+      168.08961397415976,
+      172.81616307542077,
+      164.65828658866178,
+      170.0245241916634
     ]
   },
   {
@@ -31027,10 +31381,10 @@ const generalAll = [
     "NAF Name": "Greenburger",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 175.34316899908092,
-    "bestRating": 175.34316899908092,
+    "rating": 176.74158550112952,
+    "bestRating": 176.74158550112952,
     "worstRating": 145.2729324953106,
-    "tendency": 29.985383518595,
+    "tendency": 31.383800020643605,
     "totalTournaments": 3,
     "totalGames": 10,
     "totalWins": 8,
@@ -31081,12 +31435,12 @@ const generalAll = [
       150.95483307184924,
       145.2729324953106,
       150.40726907650435,
-      154.18615767470936,
-      159.32090274901174,
-      164.45424971871117,
-      167.4729723514854,
-      171.3596286451286,
-      175.34316899908092
+      155.5871788697356,
+      160.7677364445205,
+      165.94891596677047,
+      168.92281494259606,
+      172.76149292447712,
+      176.74158550112952
     ]
   },
   {
@@ -31149,10 +31503,10 @@ const generalAll = [
     "NAF Name": "Gregarious",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 146.86361648787755,
+    "rating": 146.86541295543466,
     "bestRating": 147.497618561732,
-    "worstRating": 144.0998376625147,
-    "tendency": -0.3079563873762652,
+    "worstRating": 144.10079779625175,
+    "tendency": -0.3061599198191516,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 1,
@@ -31202,9 +31556,9 @@ const generalAll = [
       147.17157287525382,
       147.497618561732,
       144.48740862185392,
-      144.0998376625147,
-      147.3073502409197,
-      146.86361648787755
+      144.10079779625175,
+      147.30829405227982,
+      146.86541295543466
     ]
   },
   {
@@ -31456,10 +31810,10 @@ const generalAll = [
     "NAF Name": "Grymloq",
     "Country": "Spain",
     "CCAA": "Cantabria ",
-    "rating": 146.32870188328607,
+    "rating": 146.32870455593957,
     "bestRating": 163.29041267713689,
     "worstRating": 140.183258296236,
-    "tendency": -7.733648472891275,
+    "tendency": -7.733645800237781,
     "totalTournaments": 4,
     "totalGames": 15,
     "totalWins": 6,
@@ -31513,9 +31867,9 @@ const generalAll = [
       153.30164795025462,
       158.81561551432299,
       163.29041267713689,
-      157.28276816599958,
-      151.8424183243577,
-      146.32870188328607
+      157.28276816600098,
+      151.84241832435904,
+      146.32870455593957
     ]
   },
   {
@@ -31710,10 +32064,10 @@ const generalAll = [
     "NAF Name": "Guardianboy",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 129.07956262829413,
+    "rating": 129.08343909720583,
     "bestRating": 149.67038250365047,
     "worstRating": 120.00912919237929,
-    "tendency": -16.445294845381568,
+    "tendency": -16.44141837646987,
     "totalTournaments": 3,
     "totalGames": 11,
     "totalWins": 1,
@@ -31768,8 +32122,8 @@ const generalAll = [
       120.00912919237929,
       121.28875011331017,
       122.27357300179712,
-      127.58118622230838,
-      129.07956262829413
+      127.58522577638914,
+      129.08343909720583
     ]
   },
   {
@@ -31777,10 +32131,10 @@ const generalAll = [
     "NAF Name": "Guido-kun",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 167.38470741172722,
-    "bestRating": 167.38470741172722,
+    "rating": 167.38639312572974,
+    "bestRating": 167.38639312572974,
     "worstRating": 145.0026897910753,
-    "tendency": 4.971014031183984,
+    "tendency": 4.972699745186503,
     "totalTournaments": 7,
     "totalGames": 25,
     "totalWins": 12,
@@ -31832,11 +32186,11 @@ const generalAll = [
       163.9645935717137,
       158.3861892817109,
       160.71405806192047,
-      162.53530775195557,
-      164.30161628779155,
-      162.72441507156935,
-      164.83843948982286,
-      167.38470741172722
+      162.5362109290834,
+      164.3033475675224,
+      162.7261735146723,
+      164.84016222337505,
+      167.38639312572974
     ]
   },
   {
@@ -31904,10 +32258,10 @@ const generalAll = [
     "NAF Name": "GulgolethArrakis",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 143.45905151010103,
+    "rating": 143.45912976272857,
     "bestRating": 154.4817766915986,
     "worstRating": 140.4897229928165,
-    "tendency": -0.63863938167313,
+    "tendency": -0.6385611290455984,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -31960,10 +32314,10 @@ const generalAll = [
       149.82039459070145,
       144.74979971604904,
       140.4897229928165,
-      147.26962619934233,
-      153.2724940304171,
-      148.50710764951057,
-      143.45905151010103
+      147.2697139644811,
+      153.27257799922933,
+      148.50718806310957,
+      143.45912976272857
     ]
   },
   {
@@ -32038,10 +32392,10 @@ const generalAll = [
     "NAF Name": "Gustavez",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 138.9722138300408,
+    "rating": 138.97221383004086,
     "bestRating": 168.28395272683557,
-    "worstRating": 138.9722138300408,
-    "tendency": -3.832112105223672,
+    "worstRating": 138.97221383004086,
+    "tendency": -3.832112105223615,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 8,
@@ -32097,7 +32451,7 @@ const generalAll = [
       144.1921258549419,
       149.23918790750835,
       144.1618672872754,
-      138.9722138300408
+      138.97221383004086
     ]
   },
   {
@@ -32227,23 +32581,23 @@ const generalAll = [
     "NAF Name": "Hachablanca",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 185.1639853692956,
-    "bestRating": 190.37397942691476,
+    "rating": 173.09126237890683,
+    "bestRating": 190.37404548761162,
     "worstRating": 130.4265996288253,
-    "tendency": 2.939121199041665,
-    "totalTournaments": 56,
-    "totalGames": 224,
+    "tendency": -12.77997026443279,
+    "totalTournaments": 57,
+    "totalGames": 229,
     "totalWins": 87,
-    "totalDraws": 56,
-    "totalLosses": 81,
-    "totalWinRatio": 51.34,
+    "totalDraws": 60,
+    "totalLosses": 82,
+    "totalWinRatio": 51.09,
     "victoryStreak": 0,
     "bestVictoryStreak": 4,
-    "noLostStreak": 0,
+    "noLostStreak": 1,
     "bestNoLostStreak": 14,
-    "lostStreak": 1,
+    "lostStreak": 0,
     "worstLostStreak": 4,
-    "oneTdStreak": 2,
+    "oneTdStreak": 7,
     "bestOneTdStreak": 15,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
@@ -32277,16 +32631,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      182.22486417025394,
-      177.2445840240504,
-      181.23194362472114,
-      186.88303929496513,
-      181.17982759296817,
-      185.87116421294078,
-      190.37397942691476,
-      184.4583139352278,
-      188.9578425204669,
-      185.1639853692956
+      185.87123264333962,
+      190.37404548761162,
+      184.45837851316975,
+      188.95791161135944,
+      185.1640539190012,
+      183.26006048842515,
+      182.0264989781918,
+      181.12962083504053,
+      174.62527162753793,
+      173.09126237890683
     ]
   },
   {
@@ -32294,10 +32648,10 @@ const generalAll = [
     "NAF Name": "Hack",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 187.51920119939612,
-    "bestRating": 188.46636633062903,
+    "rating": 187.51989629643217,
+    "bestRating": 188.46708770134336,
     "worstRating": 144.385763690089,
-    "tendency": 12.20822374632499,
+    "tendency": 12.20834297976964,
     "totalTournaments": 7,
     "totalGames": 30,
     "totalWins": 15,
@@ -32344,16 +32698,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      175.31097745307113,
-      174.5607565955938,
-      178.05910013228785,
-      181.4610555490225,
-      180.6276287188045,
-      175.78049656823745,
-      180.39184947145213,
-      183.46876109208108,
-      188.46636633062903,
-      187.51920119939612
+      175.31155331666253,
+      174.5613153041749,
+      178.05964002642165,
+      181.4616074670263,
+      180.62816613571573,
+      175.78105398172107,
+      180.39259375840416,
+      183.46950712819498,
+      188.46708770134336,
+      187.51989629643217
     ]
   },
   {
@@ -32361,10 +32715,10 @@ const generalAll = [
     "NAF Name": "Hades",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 161.26290604451594,
+    "rating": 161.26303431093612,
     "bestRating": 165.31472348329282,
     "worstRating": 140.1336752914682,
-    "tendency": 1.7620373696541094,
+    "tendency": 1.7621656360742861,
     "totalTournaments": 3,
     "totalGames": 16,
     "totalWins": 7,
@@ -32419,8 +32773,8 @@ const generalAll = [
       164.35596165643403,
       164.63849903770384,
       158.09553857421386,
-      162.291077971148,
-      161.26290604451594
+      162.29113938466054,
+      161.26303431093612
     ]
   },
   {
@@ -32428,10 +32782,10 @@ const generalAll = [
     "NAF Name": "hafenbag",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 143.48474608456422,
+    "rating": 143.4847609201433,
     "bestRating": 155.5949431796552,
-    "worstRating": 138.40064819673424,
-    "tendency": -11.614273429028572,
+    "worstRating": 138.40065556607254,
+    "tendency": -11.614258593449506,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -32482,10 +32836,10 @@ const generalAll = [
       150.5860585419102,
       155.5949431796552,
       151.45837814414344,
-      148.41428236598793,
-      143.10489309104543,
-      138.40064819673424,
-      143.48474608456422
+      148.4142888266503,
+      143.1049007032581,
+      138.40065556607254,
+      143.4847609201433
     ]
   },
   {
@@ -32548,10 +32902,10 @@ const generalAll = [
     "NAF Name": "Hal 9000",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 172.48293851264077,
-    "bestRating": 174.42298465789867,
+    "rating": 172.4841872951785,
+    "bestRating": 174.42434216598178,
     "worstRating": 145.10102051443366,
-    "tendency": 27.381917998207115,
+    "tendency": 27.38316678074483,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 7,
@@ -32605,9 +32959,9 @@ const generalAll = [
       164.8617702886643,
       165.4340541834808,
       170.76895611897726,
-      174.42298465789867,
-      167.83226673862865,
-      172.48293851264077
+      174.42434216598178,
+      167.83356704415544,
+      172.4841872951785
     ]
   },
   {
@@ -32615,10 +32969,10 @@ const generalAll = [
     "NAF Name": "HAMLET",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 156.1101201660413,
-    "bestRating": 158.39191266594486,
-    "worstRating": 130.1377055200498,
-    "tendency": 0.8846795035390187,
+    "rating": 156.1179704752477,
+    "bestRating": 158.40187359735023,
+    "worstRating": 130.14515772969983,
+    "tendency": 0.8822658036255575,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 8,
@@ -32665,16 +33019,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      155.22544066250228,
-      158.39191266594486,
-      154.01404613543426,
-      154.68921279835595,
-      154.26351081722697,
-      154.59915495208458,
-      151.70855337192137,
-      153.7278831233974,
-      153.9633644471182,
-      156.1101201660413
+      155.23570467162213,
+      158.40187359735023,
+      154.0237110102348,
+      154.698515493443,
+      154.27245005281148,
+      154.60773259066045,
+      151.71693519543595,
+      153.7361414055356,
+      153.97134645780164,
+      156.1179704752477
     ]
   },
   {
@@ -32743,10 +33097,10 @@ const generalAll = [
     "NAF Name": "Haposai",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 138.80580528822796,
+    "rating": 138.8058968133865,
     "bestRating": 145.3848859262471,
     "worstRating": 136.1116290999471,
-    "tendency": -6.57908063801915,
+    "tendency": -6.578989112860597,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -32798,9 +33152,9 @@ const generalAll = [
       141.53670972846973,
       136.1116290999471,
       141.5354666300797,
-      141.93889557859265,
-      141.6443441078149,
-      138.80580528822796
+      141.938978247181,
+      141.64443361547686,
+      138.8058968133865
     ]
   },
   {
@@ -32997,10 +33351,10 @@ const generalAll = [
     "NAF Name": "Harry27",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 170.56833843322178,
+    "rating": 170.56895304562758,
     "bestRating": 175.2867516375518,
     "worstRating": 144.34314575050763,
-    "tendency": 8.50530428398784,
+    "tendency": 8.505166871563318,
     "totalTournaments": 7,
     "totalGames": 27,
     "totalWins": 14,
@@ -33047,16 +33401,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      162.06303414923394,
-      167.46813849527754,
-      160.57565282972473,
-      166.3442170051323,
-      160.3427353988749,
-      164.97682071149583,
-      164.35567790131248,
-      166.90187871920324,
-      173.13496798537287,
-      170.56833843322178
+      162.06378617406426,
+      167.46888738636096,
+      160.5763713603097,
+      166.3449225408734,
+      160.3434104153998,
+      164.97746913291778,
+      164.35630589746324,
+      166.90257484680467,
+      173.13563787726426,
+      170.56895304562758
     ]
   },
   {
@@ -33064,10 +33418,10 @@ const generalAll = [
     "NAF Name": "Harrylargo",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 103.21611311053206,
+    "rating": 103.21625443665039,
     "bestRating": 150.7196836272805,
     "worstRating": 102.08937037700925,
-    "tendency": -16.448924161983754,
+    "tendency": -16.44878283586543,
     "totalTournaments": 9,
     "totalGames": 36,
     "totalWins": 9,
@@ -33120,10 +33474,10 @@ const generalAll = [
       107.36132359426068,
       102.08937037700925,
       109.18053654944585,
-      115.15516674703763,
-      111.60989043105344,
-      107.5902054168439,
-      103.21611311053206
+      115.15531320144638,
+      111.61003154123541,
+      107.59034891895595,
+      103.21625443665039
     ]
   },
   {
@@ -33131,21 +33485,21 @@ const generalAll = [
     "NAF Name": "HarrySp",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 170.9576578342839,
+    "rating": 156.86592679402906,
     "bestRating": 202.00044693084672,
     "worstRating": 144.43467257475265,
-    "tendency": -10.037775859788553,
-    "totalTournaments": 25,
-    "totalGames": 100,
-    "totalWins": 47,
-    "totalDraws": 18,
-    "totalLosses": 35,
-    "totalWinRatio": 56,
+    "tendency": -23.166713062105345,
+    "totalTournaments": 26,
+    "totalGames": 105,
+    "totalWins": 48,
+    "totalDraws": 19,
+    "totalLosses": 38,
+    "totalWinRatio": 54.76,
     "victoryStreak": 0,
     "bestVictoryStreak": 5,
-    "noLostStreak": 0,
+    "noLostStreak": 1,
     "bestNoLostStreak": 14,
-    "lostStreak": 2,
+    "lostStreak": 0,
     "worstLostStreak": 5,
     "oneTdStreak": 1,
     "bestOneTdStreak": 19,
@@ -33181,16 +33535,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      180.99543369407246,
-      176.18943560488458,
-      177.66553034285974,
-      180.88559303294787,
-      174.7115722680696,
-      180.03181770959117,
-      177.88376117073588,
-      181.24150876206716,
-      176.18499197649757,
-      170.9576578342839
+      180.0326398561344,
+      177.88455924301658,
+      181.242306194861,
+      176.18576080587434,
+      170.95840199109477,
+      164.81685359937686,
+      169.70413686871728,
+      164.34353206793415,
+      157.9873483633337,
+      156.86592679402906
     ]
   },
   {
@@ -33320,10 +33674,10 @@ const generalAll = [
     "NAF Name": "HD-Logan",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 147.49035895878566,
+    "rating": 147.4954955626469,
     "bestRating": 155.65685424949237,
-    "worstRating": 124.15594146294664,
-    "tendency": 16.39816329882055,
+    "worstRating": 124.16376964499543,
+    "tendency": 16.396094129771683,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 11,
@@ -33370,16 +33724,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      131.0921956599651,
-      138.15893750757948,
-      134.0283884101301,
-      139.13516611392637,
-      136.14361361232474,
-      140.42206942386682,
-      135.67454033688614,
-      136.27813640560814,
-      140.71499456974348,
-      147.49035895878566
+      131.09940143287523,
+      138.16585444743075,
+      134.03507189517953,
+      139.14160926557017,
+      136.14986545331627,
+      140.4281657800055,
+      135.68037883929355,
+      136.28374824196737,
+      140.72038857781922,
+      147.4954955626469
     ]
   },
   {
@@ -33387,10 +33741,10 @@ const generalAll = [
     "NAF Name": "HEAVY",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 228.247651813849,
+    "rating": 228.24776263965418,
     "bestRating": 234.65045219454083,
     "worstRating": 144.58860060924107,
-    "tendency": 6.012414807534498,
+    "tendency": 6.012525633339692,
     "totalTournaments": 18,
     "totalGames": 71,
     "totalWins": 43,
@@ -33444,9 +33798,9 @@ const generalAll = [
       215.48070394037728,
       213.55603910920743,
       217.08496525592147,
-      219.56283827493536,
-      225.53755119770938,
-      228.247651813849
+      219.56283592356777,
+      225.53766037776873,
+      228.24776263965418
     ]
   },
   {
@@ -33698,28 +34052,28 @@ const generalAll = [
     "NAF Name": "Hely",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
-    "victoryStreak": 0,
-    "bestVictoryStreak": 0,
-    "noLostStreak": 0,
-    "bestNoLostStreak": 0,
+    "rating": 159.84408828195282,
+    "bestRating": 159.84408828195282,
+    "worstRating": 150.0659375353388,
+    "tendency": 4.1956190126822435,
+    "totalTournaments": 1,
+    "totalGames": 5,
+    "totalWins": 3,
+    "totalDraws": 1,
+    "totalLosses": 1,
+    "totalWinRatio": 70,
+    "victoryStreak": 1,
+    "bestVictoryStreak": 1,
+    "noLostStreak": 3,
+    "bestNoLostStreak": 3,
     "lostStreak": 0,
-    "worstLostStreak": 0,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
-    "twoTdStreak": 0,
-    "bestTwoTdStreak": 0,
-    "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 0,
+    "worstLostStreak": 1,
+    "oneTdStreak": 1,
+    "bestOneTdStreak": 3,
+    "twoTdStreak": 1,
+    "bestTwoTdStreak": 1,
+    "noTdAgainstStreak": 2,
+    "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
         "totalGames": 0,
@@ -33746,6 +34100,13 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      155.64846926927058,
+      150.0659375353388,
+      154.9947757822457,
+      154.501874836963,
+      159.84408828195282
     ]
   },
   {
@@ -33863,28 +34224,28 @@ const generalAll = [
     "NAF Name": "Hermes",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "rating": 151.0401595493714,
+    "bestRating": 160.763605708129,
+    "worstRating": 151.0401595493714,
+    "tendency": -3.9598404506286045,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 2,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
+    "totalLosses": 2,
+    "totalWinRatio": 50,
     "victoryStreak": 0,
-    "bestVictoryStreak": 0,
+    "bestVictoryStreak": 2,
     "noLostStreak": 0,
-    "bestNoLostStreak": 0,
-    "lostStreak": 0,
-    "worstLostStreak": 0,
+    "bestNoLostStreak": 2,
+    "lostStreak": 2,
+    "worstLostStreak": 2,
     "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
+    "bestOneTdStreak": 3,
     "twoTdStreak": 0,
-    "bestTwoTdStreak": 0,
+    "bestTwoTdStreak": 2,
     "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
         "totalGames": 0,
@@ -33911,6 +34272,12 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      155,
+      160.763605708129,
+      155.52200519401723,
+      151.0401595493714
     ]
   },
   {
@@ -33973,27 +34340,27 @@ const generalAll = [
     "NAF Name": "Hestiar",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 219.25071968084424,
-    "bestRating": 222.6810121777774,
+    "rating": 226.85139007866167,
+    "bestRating": 226.85139007866167,
     "worstRating": 135.9276562153881,
-    "tendency": 6.348340988219519,
-    "totalTournaments": 22,
-    "totalGames": 94,
-    "totalWins": 44,
-    "totalDraws": 28,
+    "tendency": 10.288793998314674,
+    "totalTournaments": 23,
+    "totalGames": 99,
+    "totalWins": 47,
+    "totalDraws": 30,
     "totalLosses": 22,
-    "totalWinRatio": 61.7,
-    "victoryStreak": 0,
+    "totalWinRatio": 62.63,
+    "victoryStreak": 1,
     "bestVictoryStreak": 4,
-    "noLostStreak": 5,
+    "noLostStreak": 10,
     "bestNoLostStreak": 16,
     "lostStreak": 0,
     "worstLostStreak": 3,
-    "oneTdStreak": 5,
+    "oneTdStreak": 4,
     "bestOneTdStreak": 20,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 3,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
@@ -34006,11 +34373,11 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 6,
+        "totalGames": 7,
         "totalWins": 0,
-        "totalDraws": 2,
+        "totalDraws": 3,
         "totalLosses": 4,
-        "totalWinRatio": 16.67
+        "totalWinRatio": 21.43
       }
     ],
     "megaProplayers": [
@@ -34023,16 +34390,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      212.90237869262472,
-      215.74091751221167,
-      217.74466050242097,
-      219.91079403402776,
-      213.94789456928754,
-      216.56240692683588,
-      219.60650270499139,
-      222.6810121777774,
-      222.14831187454706,
-      219.25071968084424
+      216.562596080347,
+      219.60668539784012,
+      222.68119144387336,
+      222.14853270434608,
+      219.251050542321,
+      216.6472953094146,
+      220.19698316942726,
+      223.92112949497758,
+      223.63292337291358,
+      226.85139007866167
     ]
   },
   {
@@ -34168,10 +34535,10 @@ const generalAll = [
     "NAF Name": "Hiruma_Zeo",
     "Country": "Spain",
     "CCAA": "Murcia",
-    "rating": 193.92611428120352,
-    "bestRating": 203.67529077365435,
+    "rating": 193.92416661795275,
+    "bestRating": 203.6733358856679,
     "worstRating": 147.56039714520344,
-    "tendency": 6.006495134875905,
+    "tendency": 6.007375532885362,
     "totalTournaments": 8,
     "totalGames": 34,
     "totalWins": 18,
@@ -34218,16 +34585,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      187.91961914632762,
-      191.87134512780176,
-      193.18349019129712,
-      196.63438427973162,
-      199.51368837925364,
-      196.24126269611799,
-      199.9706738576099,
-      203.67529077365435,
-      201.18634027296704,
-      193.92611428120352
+      187.9167910850674,
+      191.86886033339457,
+      193.18109226047318,
+      196.63208579755843,
+      199.51146994442428,
+      196.2391479125525,
+      199.9686402342971,
+      203.6733358856679,
+      201.18430350351267,
+      193.92416661795275
     ]
   },
   {
@@ -34235,34 +34602,34 @@ const generalAll = [
     "NAF Name": "Hispanov",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
+    "rating": 140.52597636312586,
+    "bestRating": 148.9983624892076,
+    "worstRating": 140.52597636312586,
+    "tendency": -8.472386126081744,
+    "totalTournaments": 1,
+    "totalGames": 4,
     "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
+    "totalDraws": 2,
+    "totalLosses": 2,
+    "totalWinRatio": 25,
     "victoryStreak": 0,
     "bestVictoryStreak": 0,
     "noLostStreak": 0,
-    "bestNoLostStreak": 0,
-    "lostStreak": 0,
-    "worstLostStreak": 0,
+    "bestNoLostStreak": 2,
+    "lostStreak": 2,
+    "worstLostStreak": 2,
     "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
+    "bestOneTdStreak": 2,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 0,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 0,
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -34283,6 +34650,12 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      148.9983624892076,
+      148.82609846060367,
+      145.5195799087924,
+      140.52597636312586
     ]
   },
   {
@@ -34290,10 +34663,10 @@ const generalAll = [
     "NAF Name": "hlodyn",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 130.64728038089515,
+    "rating": 130.64735997332818,
     "bestRating": 149.2949070861442,
-    "worstRating": 128.7898373024053,
-    "tendency": -18.647626705249053,
+    "worstRating": 128.78985098018046,
+    "tendency": -18.647547112816028,
     "totalTournaments": 3,
     "totalGames": 9,
     "totalWins": 2,
@@ -34347,8 +34720,8 @@ const generalAll = [
       137.93315202949063,
       133.128723074482,
       130.58596643752566,
-      128.7898373024053,
-      130.64728038089515
+      128.78985098018046,
+      130.64735997332818
     ]
   },
   {
@@ -34954,10 +35327,10 @@ const generalAll = [
     "NAF Name": "idroj",
     "Country": "Spain",
     "CCAA": "I. Baleares",
-    "rating": 175.8077612587172,
-    "bestRating": 182.72553924994278,
+    "rating": 175.81148146710416,
+    "bestRating": 182.72962716874105,
     "worstRating": 151.16433526163675,
-    "tendency": 0.7352067168277756,
+    "tendency": 0.7389207104833986,
     "totalTournaments": 7,
     "totalGames": 37,
     "totalWins": 17,
@@ -35004,16 +35377,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      175.07255454188942,
-      177.95747147807913,
-      174.9241709825443,
-      171.08284132514115,
-      173.83384038470876,
-      178.60234342220983,
-      182.72553924994278,
-      178.42004990756095,
-      179.31627101681562,
-      175.8077612587172
+      175.07256075662076,
+      177.95761282171014,
+      174.92430810049768,
+      171.0829780679579,
+      173.83819623650837,
+      178.60656362830943,
+      182.72962716874105,
+      178.42400514193022,
+      179.32010685440196,
+      175.81148146710416
     ]
   },
   {
@@ -35021,10 +35394,10 @@ const generalAll = [
     "NAF Name": "Ignacio_Tardon",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 139.75811738659215,
+    "rating": 139.75824376838375,
     "bestRating": 144.93736741827257,
     "worstRating": 132.43032976167228,
-    "tendency": 6.22951735213644,
+    "tendency": 6.229643733928043,
     "totalTournaments": 3,
     "totalGames": 13,
     "totalWins": 3,
@@ -35079,8 +35452,8 @@ const generalAll = [
       132.43032976167228,
       138.55642218828729,
       144.69686654321737,
-      144.40878916060427,
-      139.75811738659215
+      144.4088640194068,
+      139.75824376838375
     ]
   },
   {
@@ -35088,10 +35461,10 @@ const generalAll = [
     "NAF Name": "Ignaji",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 140.00162804116516,
+    "rating": 140.0019213307188,
     "bestRating": 155.65685424949237,
-    "worstRating": 137.20762399269668,
-    "tendency": -15.655226208327207,
+    "worstRating": 137.207642807144,
+    "tendency": -15.654932918773568,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -35142,10 +35515,10 @@ const generalAll = [
       151.78189066584252,
       146.28503454994694,
       140.70596752939073,
-      137.20762399269668,
-      139.62117219811148,
-      139.56005915197164,
-      140.00162804116516
+      137.207642807144,
+      139.6212550971893,
+      139.56017107045034,
+      140.0019213307188
     ]
   },
   {
@@ -35153,10 +35526,10 @@ const generalAll = [
     "NAF Name": "ignii",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 166.83935576092318,
-    "bestRating": 166.83935576092318,
+    "rating": 166.83945559519208,
+    "bestRating": 166.83945559519208,
     "worstRating": 134.61348327006084,
-    "tendency": 18.06750587529845,
+    "tendency": 18.06753509699695,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 9,
@@ -35203,16 +35576,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      148.77184988562473,
-      154.48277122731216,
-      159.94506945735975,
-      163.97975139528407,
-      157.74789022191402,
-      163.1068064859408,
-      163.13350369521802,
-      156.9372777731195,
-      161.650974683999,
-      166.83935576092318
+      148.77192049819513,
+      154.48283890254385,
+      159.9451341977466,
+      163.97983915736614,
+      157.7480009250916,
+      163.10691215504096,
+      163.13360780679199,
+      156.9373774054771,
+      161.65107011169977,
+      166.83945559519208
     ]
   },
   {
@@ -35220,10 +35593,10 @@ const generalAll = [
     "NAF Name": "Ignis",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 156.6512926823408,
+    "rating": 156.65158464100446,
     "bestRating": 185.49599789445065,
     "worstRating": 150,
-    "tendency": -1.5734807583525878,
+    "tendency": -1.5731887996889213,
     "totalTournaments": 8,
     "totalGames": 31,
     "totalWins": 12,
@@ -35273,13 +35646,13 @@ const generalAll = [
       158.22477344069338,
       157.34880812528542,
       153.57365470330845,
-      156.98341136358525,
-      151.43414418049088,
-      150.13768441972385,
-      150.7588272299072,
-      157.02822848554544,
-      162.01761145921978,
-      156.6512926823408
+      156.98343532786348,
+      151.4341673802921,
+      150.1378406492314,
+      150.75900388468594,
+      157.02842746223072,
+      162.01782224400608,
+      156.65158464100446
     ]
   },
   {
@@ -35469,10 +35842,10 @@ const generalAll = [
     "NAF Name": "Indeviduo",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 148.95712208024082,
-    "bestRating": 155.39012895517428,
+    "rating": 148.95738966981816,
+    "bestRating": 155.39021194630214,
     "worstRating": 110.64071846157584,
-    "tendency": 8.018173131485753,
+    "tendency": 8.018440721063087,
     "totalTournaments": 14,
     "totalGames": 55,
     "totalWins": 17,
@@ -35520,15 +35893,15 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       140.93894894875507,
-      138.17627111221736,
-      143.117319412956,
-      142.3877950601539,
-      143.97841972347337,
-      149.14833513879768,
-      155.39012895517428,
-      152.31561948238823,
-      146.22690974735403,
-      148.95712208024082
+      138.17627111221765,
+      143.11731941295628,
+      142.38779721150075,
+      143.97846557687208,
+      149.1484204751108,
+      155.39021194630214,
+      152.3157059002689,
+      146.22715721839728,
+      148.95738966981816
     ]
   },
   {
@@ -35536,34 +35909,34 @@ const generalAll = [
     "NAF Name": "Indio",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 142.3520585709627,
+    "rating": 119.9759746375239,
     "bestRating": 147.04529127013228,
-    "worstRating": 136.83718458325802,
-    "tendency": -1.9910871795449339,
-    "totalTournaments": 2,
-    "totalGames": 6,
+    "worstRating": 119.9759746375239,
+    "tendency": -21.64156586590053,
+    "totalTournaments": 3,
+    "totalGames": 11,
     "totalWins": 2,
-    "totalDraws": 0,
-    "totalLosses": 4,
-    "totalWinRatio": 33.33,
-    "victoryStreak": 1,
+    "totalDraws": 1,
+    "totalLosses": 8,
+    "totalWinRatio": 22.73,
+    "victoryStreak": 0,
     "bestVictoryStreak": 1,
-    "noLostStreak": 1,
+    "noLostStreak": 0,
     "bestNoLostStreak": 1,
-    "lostStreak": 0,
-    "worstLostStreak": 2,
-    "oneTdStreak": 1,
-    "bestOneTdStreak": 1,
+    "lostStreak": 3,
+    "worstLostStreak": 3,
+    "oneTdStreak": 2,
+    "bestOneTdStreak": 3,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 1,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -35586,12 +35959,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.34314575050763,
       141.61754050342444,
       147.04529127013228,
       142.41669444008411,
       136.83718458325802,
-      142.3520585709627
+      142.3520585709627,
+      135.75183505396637,
+      135.38094343915623,
+      128.89036728306056,
+      125.49357328885822,
+      119.9759746375239
     ]
   },
   {
@@ -35599,10 +35976,10 @@ const generalAll = [
     "NAF Name": "infinito",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 151.52143175138244,
+    "rating": 151.52200598104352,
     "bestRating": 155.54153109951787,
     "worstRating": 140.10841655569135,
-    "tendency": -4.020099348135432,
+    "tendency": -4.019525118474348,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -35655,10 +36032,10 @@ const generalAll = [
       145.47143471675977,
       140.10841655569135,
       145.5259852167804,
-      150.44336844607307,
-      155.32173722825715,
-      155.44956587397579,
-      151.52143175138244
+      150.44339223358256,
+      155.32176000252153,
+      155.45000895960757,
+      151.52200598104352
     ]
   },
   {
@@ -35666,27 +36043,27 @@ const generalAll = [
     "NAF Name": "Ini_cochambroso",
     "Country": "Spain",
     "CCAA": "Cantabria ",
-    "rating": 158.9140999606706,
-    "bestRating": 163.68488558663577,
+    "rating": 173.25662102952444,
+    "bestRating": 173.25662102952444,
     "worstRating": 148.3165929369225,
-    "tendency": 10.597507023748108,
-    "totalTournaments": 5,
-    "totalGames": 20,
-    "totalWins": 8,
-    "totalDraws": 5,
-    "totalLosses": 7,
-    "totalWinRatio": 52.5,
-    "victoryStreak": 0,
+    "tendency": 13.958959981642693,
+    "totalTournaments": 6,
+    "totalGames": 25,
+    "totalWins": 11,
+    "totalDraws": 6,
+    "totalLosses": 8,
+    "totalWinRatio": 56,
+    "victoryStreak": 1,
     "bestVictoryStreak": 2,
-    "noLostStreak": 0,
-    "bestNoLostStreak": 3,
-    "lostStreak": 1,
+    "noLostStreak": 4,
+    "bestNoLostStreak": 4,
+    "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 0,
+    "oneTdStreak": 5,
     "bestOneTdStreak": 9,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 2,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
@@ -35699,11 +36076,11 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 1,
+        "totalWins": 1,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "megaProplayers": [
@@ -35716,16 +36093,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      148.3165929369225,
-      154.86017427186192,
-      149.4805645102564,
-      149.10952930379742,
-      153.83533789976877,
-      159.29747449314732,
-      155.13027318582502,
-      159.88345613676177,
-      163.68488558663577,
-      158.9140999606706
+      159.29766104788175,
+      155.1304598381839,
+      159.88363775676603,
+      163.68510233251928,
+      158.91413999521467,
+      153.9351386299818,
+      160.0960497409627,
+      165.64643138455563,
+      165.4504567592857,
+      173.25662102952444
     ]
   },
   {
@@ -35733,10 +36110,10 @@ const generalAll = [
     "NAF Name": "Ironcat",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 146.04555275778347,
+    "rating": 146.04557960980273,
     "bestRating": 160.52484998363275,
     "worstRating": 137.70797390350393,
-    "tendency": -9.889234786529613,
+    "tendency": -9.889207934510353,
     "totalTournaments": 11,
     "totalGames": 43,
     "totalWins": 15,
@@ -35786,13 +36163,13 @@ const generalAll = [
       155.93478754431308,
       151.59452407455782,
       152.1326319551043,
-      147.28952310756387,
-      145.36198041492744,
-      140.12194553819245,
-      140.406960885577,
-      142.54944195476875,
-      141.62291264959092,
-      146.04555275778347
+      147.28952322902813,
+      145.3619863702882,
+      140.12195169574147,
+      140.4069668414321,
+      142.54945572537616,
+      141.62294010096826,
+      146.04557960980273
     ]
   },
   {
@@ -35977,10 +36354,10 @@ const generalAll = [
     "NAF Name": "Ishtar92",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150.98274778879187,
-    "bestRating": 156.0593911188615,
+    "rating": 150.9828154803866,
+    "bestRating": 156.05946135464873,
     "worstRating": 131.6907512434203,
-    "tendency": 14.523073173110845,
+    "tendency": 14.523140864705567,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 5,
@@ -36029,14 +36406,14 @@ const generalAll = [
     "_lastTenRatings": [
       136.45967461568102,
       131.6907512434203,
-      137.98988393736582,
-      141.33389674051102,
-      148.62904155194218,
-      144.3504114305641,
-      150.24553549225587,
-      154.65650834720878,
-      156.0593911188615,
-      150.98274778879187
+      137.99004701245323,
+      141.3341217272343,
+      148.62925872166167,
+      144.35044406123018,
+      150.24556739759913,
+      154.65658045538086,
+      156.05946135464873,
+      150.9828154803866
     ]
   },
   {
@@ -36221,10 +36598,10 @@ const generalAll = [
     "NAF Name": "isrra",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 136.64966682781653,
-    "bestRating": 147.99906515454268,
-    "worstRating": 136.64966682781653,
-    "tendency": -7.591331907551648,
+    "rating": 136.64978863321156,
+    "bestRating": 147.99913343412334,
+    "worstRating": 136.64978863321156,
+    "tendency": -7.591210102156623,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -36272,9 +36649,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       144.24099873536818,
-      147.99906515454268,
-      141.29547514335124,
-      136.64966682781653
+      147.99913343412334,
+      141.29554069386333,
+      136.64978863321156
     ]
   },
   {
@@ -36349,10 +36726,10 @@ const generalAll = [
     "NAF Name": "ivan_landwehr",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 203.32683083113974,
-    "bestRating": 221.17493778483666,
+    "rating": 203.3278953556799,
+    "bestRating": 221.17493922159227,
     "worstRating": 153.43678871315004,
-    "tendency": 0.5140517400185161,
+    "tendency": 0.5139160845262438,
     "totalTournaments": 30,
     "totalGames": 126,
     "totalWins": 69,
@@ -36399,16 +36776,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      202.81277909112123,
-      205.8608992170688,
-      207.89743368734975,
-      204.170791456322,
-      202.65688847210038,
-      204.3966206003486,
-      207.7279052582451,
-      203.78112629185568,
-      198.68197392653514,
-      203.32683083113974
+      202.81397927115367,
+      205.86220405559135,
+      207.89870811845347,
+      204.1720527605817,
+      202.6581170708196,
+      204.39782432282294,
+      207.72906945116029,
+      203.7822779400536,
+      198.68308056703663,
+      203.3278953556799
     ]
   },
   {
@@ -36416,27 +36793,27 @@ const generalAll = [
     "NAF Name": "j.a.m",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 152.8704225449524,
-    "bestRating": 169.21003753284694,
+    "rating": 151.6190688729485,
+    "bestRating": 169.2100470456428,
     "worstRating": 123.52682989193572,
-    "tendency": -12.997964353367735,
-    "totalTournaments": 34,
-    "totalGames": 131,
-    "totalWins": 38,
-    "totalDraws": 37,
-    "totalLosses": 56,
-    "totalWinRatio": 43.13,
+    "tendency": -9.146573602607106,
+    "totalTournaments": 35,
+    "totalGames": 136,
+    "totalWins": 40,
+    "totalDraws": 38,
+    "totalLosses": 58,
+    "totalWinRatio": 43.38,
     "victoryStreak": 0,
     "bestVictoryStreak": 3,
-    "noLostStreak": 1,
+    "noLostStreak": 3,
     "bestNoLostStreak": 6,
     "lostStreak": 0,
     "worstLostStreak": 3,
-    "oneTdStreak": 0,
+    "oneTdStreak": 3,
     "bestOneTdStreak": 7,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 3,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
@@ -36466,16 +36843,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      165.86838689832013,
-      157.55458333956543,
-      163.57434014983696,
-      160.7807195819433,
-      160.63258905952958,
-      160.76562351773316,
-      154.80860810637745,
-      158.7222822938482,
-      154.03094567387558,
-      152.8704225449524
+      160.7656424755556,
+      154.8086262434074,
+      158.72229975534816,
+      154.03096537842438,
+      152.87044238163145,
+      147.08897953746944,
+      140.52527384948894,
+      146.06543080390244,
+      151.7285682801973,
+      151.6190688729485
     ]
   },
   {
@@ -36538,10 +36915,10 @@ const generalAll = [
     "NAF Name": "Jaap",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 176.05993095259274,
-    "bestRating": 176.05993095259274,
+    "rating": 176.0605526888283,
+    "bestRating": 176.0605526888283,
     "worstRating": 138.7022841719843,
-    "tendency": 23.32416969287462,
+    "tendency": 23.324791429110178,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 9,
@@ -36594,10 +36971,10 @@ const generalAll = [
       160.49226823360704,
       161.78576830908418,
       167.169259841384,
-      171.00297660288865,
-      166.4917709067898,
-      171.11228405496203,
-      176.05993095259274
+      171.00355431740468,
+      166.49244809007274,
+      171.1129335475843,
+      176.0605526888283
     ]
   },
   {
@@ -36605,10 +36982,10 @@ const generalAll = [
     "NAF Name": "jaba",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 162.18419221906325,
-    "bestRating": 162.18419221906325,
-    "worstRating": 150.50825086091163,
-    "tendency": 7.217816466443509,
+    "rating": 162.18783484855243,
+    "bestRating": 162.18783484855243,
+    "worstRating": 150.51225415306413,
+    "tendency": 7.22145909593263,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 5,
@@ -36655,14 +37032,14 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      154.96637575261974,
-      159.2445096902332,
-      157.60741493302004,
-      156.80738355485715,
-      150.50825086091163,
-      156.03030758148583,
-      160.10497579665108,
-      162.18419221906325
+      154.9663757526198,
+      159.24902763604484,
+      157.61176645459875,
+      156.81154992209707,
+      150.51225415306413,
+      156.03415085435873,
+      160.10867460251256,
+      162.18783484855243
     ]
   },
   {
@@ -36670,34 +37047,34 @@ const generalAll = [
     "NAF Name": "Jabo",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "rating": 133.31685865221104,
+    "bestRating": 145.857033177748,
+    "worstRating": 127.7683235118521,
+    "tendency": -12.540174525536969,
+    "totalTournaments": 1,
+    "totalGames": 5,
+    "totalWins": 1,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
-    "victoryStreak": 0,
-    "bestVictoryStreak": 0,
-    "noLostStreak": 0,
-    "bestNoLostStreak": 0,
+    "totalLosses": 4,
+    "totalWinRatio": 20,
+    "victoryStreak": 1,
+    "bestVictoryStreak": 1,
+    "noLostStreak": 1,
+    "bestNoLostStreak": 1,
     "lostStreak": 0,
-    "worstLostStreak": 0,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
+    "worstLostStreak": 4,
+    "oneTdStreak": 1,
+    "bestOneTdStreak": 2,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 0,
-    "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
+    "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -36718,6 +37095,13 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      145.857033177748,
+      140.47815898329503,
+      134.1209701027793,
+      127.7683235118521,
+      133.31685865221104
     ]
   },
   {
@@ -36725,10 +37109,10 @@ const generalAll = [
     "NAF Name": "Jacaro",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 159.7641096079845,
-    "bestRating": 159.7641096079845,
-    "worstRating": 149.61126208076064,
-    "tendency": 10.152847527223855,
+    "rating": 159.95409332482072,
+    "bestRating": 159.95409332482072,
+    "worstRating": 149.6038568835697,
+    "tendency": 10.350236441251013,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -36775,9 +37159,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      149.61126208076064,
-      154.72549536010064,
-      159.7641096079845
+      149.6038568835697,
+      154.81580821505685,
+      159.95409332482072
     ]
   },
   {
@@ -36852,10 +37236,10 @@ const generalAll = [
     "NAF Name": "jacruth",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 99.43179961995041,
+    "rating": 99.43180091505984,
     "bestRating": 149.95973309998476,
-    "worstRating": 99.43179961995041,
-    "tendency": -34.49169667953588,
+    "worstRating": 99.43180091505984,
+    "tendency": -34.49169538442645,
     "totalTournaments": 7,
     "totalGames": 27,
     "totalWins": 5,
@@ -36909,9 +37293,9 @@ const generalAll = [
       118.6435446415072,
       114.60873267952074,
       108.48839263137236,
-      104.9481327269805,
-      102.4273105816463,
-      99.43179961995041
+      104.9481327277068,
+      102.42731190802928,
+      99.43180091505984
     ]
   },
   {
@@ -37102,10 +37486,10 @@ const generalAll = [
     "NAF Name": "jandron",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 173.40326374689323,
+    "rating": 173.40327757378273,
     "bestRating": 179.14105679487793,
     "worstRating": 149.79930925084219,
-    "tendency": 5.255796464598291,
+    "tendency": 5.255810291487791,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 13,
@@ -37158,10 +37542,10 @@ const generalAll = [
       175.06897440451843,
       173.498720740811,
       179.14105679487793,
-      171.98592310953973,
-      165.25633707672557,
-      169.96058197103676,
-      173.40326374689323
+      171.98592310955038,
+      165.25633893180745,
+      169.960584068993,
+      173.40327757378273
     ]
   },
   {
@@ -37291,10 +37675,10 @@ const generalAll = [
     "NAF Name": "JanMakel",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 162.1184264862322,
-    "bestRating": 162.1184264862322,
+    "rating": 162.1184871562254,
+    "bestRating": 162.1184871562254,
     "worstRating": 139.13350007279087,
-    "tendency": 16.534146546665454,
+    "tendency": 16.534207216658643,
     "totalTournaments": 3,
     "totalGames": 16,
     "totalWins": 6,
@@ -37349,8 +37733,8 @@ const generalAll = [
       159.64491897661327,
       153.87353273879762,
       153.5477878486997,
-      158.09126215875537,
-      162.1184264862322
+      158.091265045562,
+      162.1184871562254
     ]
   },
   {
@@ -37474,23 +37858,23 @@ const generalAll = [
     "NAF Name": "jaruib",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 111.7974706754233,
+    "rating": 115.67752581927658,
     "bestRating": 152.95114283747742,
-    "worstRating": 111.7974706754233,
-    "tendency": -18.429052845463232,
-    "totalTournaments": 31,
-    "totalGames": 125,
-    "totalWins": 38,
-    "totalDraws": 27,
-    "totalLosses": 60,
-    "totalWinRatio": 41.2,
+    "worstRating": 108.34015279013323,
+    "tendency": -5.291412394554655,
+    "totalTournaments": 32,
+    "totalGames": 130,
+    "totalWins": 39,
+    "totalDraws": 29,
+    "totalLosses": 62,
+    "totalWinRatio": 41.15,
     "victoryStreak": 0,
     "bestVictoryStreak": 4,
     "noLostStreak": 0,
     "bestNoLostStreak": 7,
     "lostStreak": 1,
     "worstLostStreak": 7,
-    "oneTdStreak": 4,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 12,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 3,
@@ -37498,11 +37882,11 @@ const generalAll = [
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 12,
+        "totalGames": 13,
         "totalWins": 2,
         "totalDraws": 3,
-        "totalLosses": 7,
-        "totalWinRatio": 29.17
+        "totalLosses": 8,
+        "totalWinRatio": 26.92
       }
     ],
     "topProplayers": [
@@ -37524,16 +37908,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      130.22652352088653,
-      125.92179142671512,
-      122.03878351938303,
-      118.9456171822117,
-      123.75711683898768,
-      120.96893815853946,
-      118.00818584243487,
-      114.61618113053916,
-      116.22011078361585,
-      111.7974706754233
+      120.96893821383124,
+      118.00818621342371,
+      114.61618574737972,
+      116.22012342900618,
+      111.79748392017171,
+      108.34015279013323,
+      109.30651240514861,
+      117.3325167419639,
+      118.66374292721122,
+      115.67752581927658
     ]
   },
   {
@@ -37541,10 +37925,10 @@ const generalAll = [
     "NAF Name": "Jarvi",
     "Country": "Spain",
     "CCAA": "Murcia",
-    "rating": 118.81741957956541,
+    "rating": 118.81822924027287,
     "bestRating": 155.0780789456478,
-    "worstRating": 118.78674315272362,
-    "tendency": -8.883131807439767,
+    "worstRating": 118.78760653112707,
+    "tendency": -8.883244998571357,
     "totalTournaments": 7,
     "totalGames": 27,
     "totalWins": 7,
@@ -37591,16 +37975,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      127.70055138700518,
-      123.08903641814743,
-      128.48931933739988,
-      123.77236668616197,
-      124.74497618950711,
-      125.63542012781413,
-      121.87042258900074,
-      118.78674315272362,
-      124.68930388580512,
-      118.81741957956541
+      127.70147423884423,
+      123.09004655578883,
+      128.49032609559913,
+      123.77333120133139,
+      124.74590017181593,
+      125.63630680996783,
+      121.87130216608764,
+      118.78760653112707,
+      124.69013814218758,
+      118.81822924027287
     ]
   },
   {
@@ -37608,35 +37992,35 @@ const generalAll = [
     "NAF Name": "Javibal",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 167.32516244230078,
-    "bestRating": 167.32516244230078,
+    "rating": 181.52015379088138,
+    "bestRating": 182.85505156150873,
     "worstRating": 150,
-    "tendency": 17.32516244230078,
-    "totalTournaments": 2,
-    "totalGames": 7,
-    "totalWins": 4,
-    "totalDraws": 2,
+    "tendency": 25.471755196140066,
+    "totalTournaments": 3,
+    "totalGames": 12,
+    "totalWins": 7,
+    "totalDraws": 4,
     "totalLosses": 1,
-    "totalWinRatio": 71.43,
-    "victoryStreak": 2,
-    "bestVictoryStreak": 2,
-    "noLostStreak": 2,
-    "bestNoLostStreak": 4,
+    "totalWinRatio": 75,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 5,
+    "noLostStreak": 7,
+    "bestNoLostStreak": 7,
     "lostStreak": 0,
     "worstLostStreak": 1,
-    "oneTdStreak": 2,
-    "bestOneTdStreak": 3,
-    "twoTdStreak": 2,
-    "bestTwoTdStreak": 2,
+    "oneTdStreak": 7,
+    "bestOneTdStreak": 7,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 3,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
-        "totalDraws": 0,
+        "totalGames": 2,
+        "totalWins": 1,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 75
       }
     ],
     "topProplayers": [
@@ -37658,13 +38042,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      150,
-      155.4329199945054,
       156.04839859474131,
       162.90333550934096,
       157.26048386219142,
       162.43464909427775,
-      167.32516244230078
+      167.32516244230078,
+      171.16903555948593,
+      177.2748467632173,
+      182.7306146072087,
+      182.85505156150873,
+      181.52015379088138
     ]
   },
   {
@@ -37788,10 +38175,10 @@ const generalAll = [
     "NAF Name": "JaviiCastle",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 155.15889033045502,
-    "bestRating": 159.65914645995642,
-    "worstRating": 143.5234057801738,
-    "tendency": 11.635484550281234,
+    "rating": 155.1590373228795,
+    "bestRating": 159.65925347582592,
+    "worstRating": 143.5234058642437,
+    "tendency": 11.6356314586358,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -37838,14 +38225,14 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      143.5234057801738,
-      147.51818545862128,
-      152.2844196685583,
-      154.84944076720615,
-      154.67494016001675,
-      159.65914645995642,
-      158.85847619727977,
-      155.15889033045502
+      143.5234058642437,
+      147.51818553935615,
+      152.28450689119956,
+      154.84955589879436,
+      154.6750511525735,
+      159.65925347582592,
+      158.85858104744398,
+      155.1590373228795
     ]
   },
   {
@@ -37853,10 +38240,10 @@ const generalAll = [
     "NAF Name": "javin23",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 267.5158902793317,
+    "rating": 267.5158948555482,
     "bestRating": 277.42956634238254,
     "worstRating": 154.47213595499957,
-    "tendency": 5.342208708672445,
+    "tendency": 5.342212227303662,
     "totalTournaments": 64,
     "totalGames": 254,
     "totalWins": 177,
@@ -37903,16 +38290,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      262.17368157065926,
-      264.0587661250978,
-      257.77804567284375,
-      258.95973551111337,
-      256.090764206404,
-      258.2336591457703,
-      260.88308450772644,
-      262.69719492529407,
-      265.4300540608179,
-      267.5158902793317
+      262.17368262824453,
+      264.0587671577366,
+      257.77804666729855,
+      258.95973651436714,
+      256.0907665202279,
+      258.23366147391357,
+      260.88308681607003,
+      262.6971979625671,
+      265.4300575813169,
+      267.5158948555482
     ]
   },
   {
@@ -37920,10 +38307,10 @@ const generalAll = [
     "NAF Name": "Javitron",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 144.23316905712252,
+    "rating": 144.23321971721174,
     "bestRating": 154.66454636609402,
     "worstRating": 133.68349389606436,
-    "tendency": 0.6531025094457164,
+    "tendency": 0.6531531695349315,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 4,
@@ -37979,7 +38366,7 @@ const generalAll = [
       139.6728911544817,
       139.85503036344937,
       139.29501640715037,
-      144.23316905712252
+      144.23321971721174
     ]
   },
   {
@@ -37987,10 +38374,10 @@ const generalAll = [
     "NAF Name": "Javs",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 144.32314184585442,
-    "bestRating": 148.668557793971,
-    "worstRating": 144.32314184585442,
-    "tendency": -1.8840425385236017,
+    "rating": 144.3232007479249,
+    "bestRating": 148.66860903145317,
+    "worstRating": 144.3232007479249,
+    "tendency": -1.883983636453138,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -38038,9 +38425,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       146.20718438437802,
-      145.96249806988007,
-      148.668557793971,
-      144.32314184585442
+      145.96249839994147,
+      148.66860903145317,
+      144.3232007479249
     ]
   },
   {
@@ -38048,10 +38435,10 @@ const generalAll = [
     "NAF Name": "Jazmin",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 205.82607522767614,
+    "rating": 205.82636205167677,
     "bestRating": 205.9407846601994,
     "worstRating": 144.35844824087812,
-    "tendency": 14.7353443660231,
+    "tendency": 14.735505340371645,
     "totalTournaments": 14,
     "totalGames": 65,
     "totalWins": 35,
@@ -38098,16 +38485,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      191.09073086165304,
-      195.39248244328547,
-      199.28740412403226,
-      199.52530827855722,
-      196.16558695593358,
-      199.8954673694473,
-      202.67500945529503,
-      196.2836765534756,
-      200.4796001401542,
-      205.82607522767614
+      191.09085671130512,
+      195.3927213213585,
+      199.28763543128366,
+      199.52553576474125,
+      196.16590199027428,
+      199.8957811133289,
+      202.67531310133538,
+      196.28396768993997,
+      200.4798807970096,
+      205.82636205167677
     ]
   },
   {
@@ -38115,10 +38502,10 @@ const generalAll = [
     "NAF Name": "jazzman",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 144.11958526487638,
+    "rating": 144.11959360099306,
     "bestRating": 147.5887142263367,
-    "worstRating": 137.28131244279115,
-    "tendency": -3.422932474353388,
+    "worstRating": 137.28131464981504,
+    "tendency": -3.4229241382367093,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -38169,10 +38556,10 @@ const generalAll = [
       147.5887142263367,
       144.59600163350999,
       142.76567861441904,
-      142.35436013781668,
-      137.28131244279115,
-      143.33877067917317,
-      144.11958526487638
+      142.35436149654208,
+      137.28131464981504,
+      143.33877286094028,
+      144.11959360099306
     ]
   },
   {
@@ -38235,10 +38622,10 @@ const generalAll = [
     "NAF Name": "Jb115",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 127.77954899536749,
+    "rating": 127.77959059190546,
     "bestRating": 149.2856548679129,
-    "worstRating": 122.19425260190347,
-    "tendency": 5.00813606189557,
+    "worstRating": 122.19426644053138,
+    "tendency": 5.008177510413816,
     "totalTournaments": 7,
     "totalGames": 23,
     "totalWins": 4,
@@ -38285,16 +38672,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      122.77141293347192,
-      130.6306327143571,
-      128.1985448031608,
-      125.9205932280818,
-      129.08837104764564,
-      126.97434662939212,
-      128.10682835602114,
-      122.19425260190347,
-      122.73601403835787,
-      127.77954899536749
+      122.77141308149164,
+      130.6306330732333,
+      128.198545602877,
+      125.92059468466289,
+      129.088372473061,
+      126.97438376435828,
+      128.10687781473317,
+      122.19426644053138,
+      122.73604153666284,
+      127.77959059190546
     ]
   },
   {
@@ -38418,10 +38805,10 @@ const generalAll = [
     "NAF Name": "Jcjuanky23",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 164.54763221768872,
+    "rating": 164.54782819302142,
     "bestRating": 168.3456970306602,
     "worstRating": 151.22639371246163,
-    "tendency": 2.0530185247993415,
+    "tendency": 2.053214500132043,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 6,
@@ -38474,10 +38861,10 @@ const generalAll = [
       156.96270110069264,
       151.22639371246163,
       155.51031363139873,
-      161.96604517551376,
-      164.20217410671503,
-      157.46661813928594,
-      164.54763221768872
+      161.9661058185386,
+      164.20223577958225,
+      157.46677271678416,
+      164.54782819302142
     ]
   },
   {
@@ -38485,27 +38872,27 @@ const generalAll = [
     "NAF Name": "Jdiegar",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 196.09393278476566,
-    "bestRating": 200.44414460016293,
+    "rating": 202.012843564894,
+    "bestRating": 202.012843564894,
     "worstRating": 128.7790645049083,
-    "tendency": 17.800321800451457,
-    "totalTournaments": 14,
-    "totalGames": 59,
-    "totalWins": 28,
-    "totalDraws": 12,
-    "totalLosses": 19,
-    "totalWinRatio": 57.63,
+    "tendency": 11.580709357957062,
+    "totalTournaments": 15,
+    "totalGames": 64,
+    "totalWins": 31,
+    "totalDraws": 13,
+    "totalLosses": 20,
+    "totalWinRatio": 58.59,
     "victoryStreak": 1,
     "bestVictoryStreak": 3,
-    "noLostStreak": 1,
+    "noLostStreak": 4,
     "bestNoLostStreak": 10,
     "lostStreak": 0,
     "worstLostStreak": 3,
-    "oneTdStreak": 1,
+    "oneTdStreak": 6,
     "bestOneTdStreak": 12,
-    "twoTdStreak": 1,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
@@ -38527,24 +38914,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 3,
-        "totalWins": 1,
+        "totalGames": 4,
+        "totalWins": 2,
         "totalDraws": 0,
         "totalLosses": 2,
-        "totalWinRatio": 33.33
+        "totalWinRatio": 50
       }
     ],
     "_lastTenRatings": [
-      178.2936109843142,
-      182.7755612298272,
-      183.3027279690252,
-      187.2053408691028,
-      187.73821285385787,
-      190.4319796177413,
-      196.5489327968484,
-      200.44414460016293,
-      193.8553655619701,
-      196.09393278476566
+      190.43213420693695,
+      196.54908653178458,
+      200.44430073055878,
+      193.85552000393952,
+      196.09408705784892,
+      189.53733629203614,
+      192.23572037068357,
+      196.89926910934676,
+      194.76837663123158,
+      202.012843564894
     ]
   },
   {
@@ -38753,10 +39140,10 @@ const generalAll = [
     "NAF Name": "Jemiol",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 162.05442235511282,
-    "bestRating": 162.05442235511282,
+    "rating": 162.05445372785397,
+    "bestRating": 162.05445372785397,
     "worstRating": 155.29150262212917,
-    "tendency": 6.762919732983647,
+    "tendency": 6.762951105724795,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -38804,8 +39191,8 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       155.29150262212917,
-      159.96364410350236,
-      162.05442235511282
+      159.9636773213986,
+      162.05445372785397
     ]
   },
   {
@@ -38813,35 +39200,35 @@ const generalAll = [
     "NAF Name": "Jenavil",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 168.97481792665232,
+    "rating": 168.27991028454144,
     "bestRating": 177.06228852355352,
     "worstRating": 153.28111488062908,
-    "tendency": 4.87641369085685,
-    "totalTournaments": 13,
-    "totalGames": 51,
-    "totalWins": 25,
+    "tendency": 6.273479506944909,
+    "totalTournaments": 14,
+    "totalGames": 55,
+    "totalWins": 27,
     "totalDraws": 11,
-    "totalLosses": 15,
-    "totalWinRatio": 59.8,
-    "victoryStreak": 0,
+    "totalLosses": 17,
+    "totalWinRatio": 59.09,
+    "victoryStreak": 1,
     "bestVictoryStreak": 4,
-    "noLostStreak": 2,
+    "noLostStreak": 1,
     "bestNoLostStreak": 8,
     "lostStreak": 0,
     "worstLostStreak": 3,
-    "oneTdStreak": 2,
+    "oneTdStreak": 1,
     "bestOneTdStreak": 11,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 3,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 4,
     "proplayers": [
       {
-        "totalGames": 2,
-        "totalWins": 0,
+        "totalGames": 3,
+        "totalWins": 1,
         "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 25
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
@@ -38863,16 +39250,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      164.09840423579547,
-      168.70392850136957,
-      171.74270853557329,
-      166.97715502422042,
-      162.00629347999293,
-      165.87877011738522,
-      169.7847056994853,
-      165.32023318635717,
-      168.64586153381796,
-      168.97481792665232
+      162.00643077759653,
+      165.87891909203188,
+      169.78487389557802,
+      165.3203986783285,
+      168.64597750017023,
+      168.97497219337174,
+      175.0546832907193,
+      169.2910775825903,
+      164.08294193761054,
+      168.27991028454144
     ]
   },
   {
@@ -39008,25 +39395,25 @@ const generalAll = [
     "NAF Name": "Jevins",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 170.6805471293605,
+    "rating": 169.4668383777208,
     "bestRating": 197.1538155957371,
     "worstRating": 129.71176398358767,
-    "tendency": 5.957390572042669,
-    "totalTournaments": 57,
-    "totalGames": 226,
-    "totalWins": 86,
+    "tendency": 4.305746555455954,
+    "totalTournaments": 58,
+    "totalGames": 231,
+    "totalWins": 89,
     "totalDraws": 59,
-    "totalLosses": 81,
-    "totalWinRatio": 51.11,
-    "victoryStreak": 0,
+    "totalLosses": 83,
+    "totalWinRatio": 51.3,
+    "victoryStreak": 2,
     "bestVictoryStreak": 4,
-    "noLostStreak": 0,
+    "noLostStreak": 2,
     "bestNoLostStreak": 8,
-    "lostStreak": 1,
+    "lostStreak": 0,
     "worstLostStreak": 5,
-    "oneTdStreak": 5,
+    "oneTdStreak": 2,
     "bestOneTdStreak": 15,
-    "twoTdStreak": 0,
+    "twoTdStreak": 2,
     "bestTwoTdStreak": 3,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 3,
@@ -39058,16 +39445,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      164.72315655731782,
-      169.8639933462228,
-      170.14316717570588,
-      166.16477308725948,
-      162.7399343123408,
-      165.16106691929147,
-      168.81588551706565,
-      174.5357077985046,
-      175.26891921929865,
-      170.6805471293605
+      165.16109182226484,
+      168.81590947423257,
+      174.53573644965925,
+      175.26894107714054,
+      170.68057476018396,
+      175.51703562329047,
+      167.44751119619883,
+      159.42150685938353,
+      165.56687389137875,
+      169.4668383777208
     ]
   },
   {
@@ -39130,10 +39517,10 @@ const generalAll = [
     "NAF Name": "JF_",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 228.83763307576837,
-    "bestRating": 231.17202261587732,
+    "rating": 228.838548284007,
+    "bestRating": 231.1720232900661,
     "worstRating": 142.11621223037056,
-    "tendency": 18.059951034872256,
+    "tendency": 18.06086624310214,
     "totalTournaments": 14,
     "totalGames": 63,
     "totalWins": 36,
@@ -39180,16 +39567,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      210.7776820408961,
-      216.52806159745444,
-      221.80531756522998,
-      227.12672053110282,
-      231.17202261587732,
-      228.4471585466584,
-      222.28745313176586,
-      224.45920063590296,
-      227.02738681072975,
-      228.83763307576837
+      210.77768204090486,
+      216.52806159746282,
+      221.805317565238,
+      227.1267212284825,
+      231.1720232900661,
+      228.4471592543831,
+      222.28745380900543,
+      224.45920129489892,
+      227.02779419610675,
+      228.838548284007
     ]
   },
   {
@@ -39197,10 +39584,10 @@ const generalAll = [
     "NAF Name": "JGarrido",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 158.15445003720927,
-    "bestRating": 158.15445003720927,
-    "worstRating": 152.88797640253688,
-    "tendency": 5.266473634672394,
+    "rating": 158.31314847123443,
+    "bestRating": 158.31314847123443,
+    "worstRating": 152.94299042016965,
+    "tendency": 5.370158051064777,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -39247,9 +39634,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      152.88797640253688,
-      158.07351992435764,
-      158.15445003720927
+      152.94299042016965,
+      158.22899436586695,
+      158.31314847123443
     ]
   },
   {
@@ -39384,10 +39771,10 @@ const generalAll = [
     "NAF Name": "Jinamero",
     "Country": "Spain",
     "CCAA": "I. Canarias",
-    "rating": 154.5420352811174,
-    "bestRating": 160.1980390271856,
-    "worstRating": 154.5420352811174,
-    "tendency": -0.5569842324754006,
+    "rating": 154.62529130176367,
+    "bestRating": 160.39230484541326,
+    "worstRating": 154.62529130176367,
+    "tendency": -0.5708611209429648,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -39434,9 +39821,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      155.0990195135928,
-      160.1980390271856,
-      154.5420352811174
+      155.19615242270663,
+      160.39230484541326,
+      154.62529130176367
     ]
   },
   {
@@ -39509,10 +39896,10 @@ const generalAll = [
     "NAF Name": "JL.Cano",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 148.9843005141397,
+    "rating": 148.9860952276928,
     "bestRating": 165.74064782397895,
-    "worstRating": 138.34665859207237,
-    "tendency": 5.295940998775535,
+    "worstRating": 138.34885994579093,
+    "tendency": 5.295436555318048,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 9,
@@ -39559,16 +39946,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      143.68835951536417,
-      138.34665859207237,
-      144.50813222908312,
-      144.0841513084466,
-      139.72358522096317,
-      143.53257993312968,
-      149.47000596359214,
-      145.69875517084157,
-      154.3820004475521,
-      148.9843005141397
+      143.69065867237475,
+      138.34885994579093,
+      144.51023876493554,
+      144.08617364995686,
+      139.72553315916352,
+      143.53460141030826,
+      149.471939888198,
+      145.70066216716074,
+      154.38387368861015,
+      148.9860952276928
     ]
   },
   {
@@ -39702,10 +40089,10 @@ const generalAll = [
     "NAF Name": "JoaNET",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 192.78835454992776,
-    "bestRating": 192.78835454992776,
+    "rating": 192.78843705664298,
+    "bestRating": 192.78843705664298,
     "worstRating": 152.39017462621834,
-    "tendency": 15.565101877751431,
+    "tendency": 15.565184384466647,
     "totalTournaments": 4,
     "totalGames": 20,
     "totalWins": 12,
@@ -39755,13 +40142,13 @@ const generalAll = [
       177.22325267217633,
       181.82933470126244,
       177.01284868760382,
-      181.19471055497792,
-      181.29000822135313,
-      175.1081045989741,
-      176.1681566988054,
-      183.77633502660774,
-      188.25947400079514,
-      192.78835454992776
+      181.19478345595365,
+      181.29007796393068,
+      175.10817456673072,
+      176.16824094787194,
+      183.77641689166856,
+      188.25955992802542,
+      192.78843705664298
     ]
   },
   {
@@ -40269,10 +40656,10 @@ const generalAll = [
     "NAF Name": "Jon_Furia",
     "Country": "Spain",
     "CCAA": "Euskadi",
-    "rating": 138.50842146894865,
+    "rating": 138.5084297183549,
     "bestRating": 145.09024519281914,
     "worstRating": 133.4686580746434,
-    "tendency": -6.581823723870485,
+    "tendency": -6.581815474464236,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -40322,7 +40709,7 @@ const generalAll = [
       145.09024519281914,
       139.3726773827206,
       133.4686580746434,
-      138.50842146894865
+      138.5084297183549
     ]
   },
   {
@@ -40330,23 +40717,23 @@ const generalAll = [
     "NAF Name": "JordanMungandr",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 116.60313510946827,
+    "rating": 131.61312423229057,
     "bestRating": 153.6148411190651,
-    "worstRating": 116.12344556842716,
-    "tendency": -13.71021642657044,
-    "totalTournaments": 11,
-    "totalGames": 44,
-    "totalWins": 13,
-    "totalDraws": 9,
-    "totalLosses": 22,
-    "totalWinRatio": 39.77,
+    "worstRating": 116.12394473227292,
+    "tendency": 7.497228822530303,
+    "totalTournaments": 12,
+    "totalGames": 49,
+    "totalWins": 15,
+    "totalDraws": 11,
+    "totalLosses": 23,
+    "totalWinRatio": 41.84,
     "victoryStreak": 0,
     "bestVictoryStreak": 2,
-    "noLostStreak": 1,
+    "noLostStreak": 3,
     "bestNoLostStreak": 6,
     "lostStreak": 0,
     "worstLostStreak": 5,
-    "oneTdStreak": 1,
+    "oneTdStreak": 6,
     "bestOneTdStreak": 6,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 2,
@@ -40354,11 +40741,11 @@ const generalAll = [
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 4,
-        "totalWins": 0,
+        "totalGames": 6,
+        "totalWins": 1,
         "totalDraws": 1,
-        "totalLosses": 3,
-        "totalWinRatio": 12.5
+        "totalLosses": 4,
+        "totalWinRatio": 25
       }
     ],
     "topProplayers": [
@@ -40380,16 +40767,71 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      130.3133515360387,
-      126.31768187267495,
-      123.21696832261998,
-      127.9672809718924,
-      128.85694660383575,
-      124.11546261004936,
-      119.59567998916515,
-      120.51311356749612,
-      116.12344556842716,
-      116.60313510946827
+      124.11589540976027,
+      119.59617370805036,
+      120.51359069817455,
+      116.12394473227292,
+      116.6036240068816,
+      125.41426565519171,
+      122.06144454352513,
+      124.25697583969335,
+      131.35327115292725,
+      131.61312423229057
+    ]
+  },
+  {
+    "NAF Nr": "40196",
+    "NAF Name": "JoreDakkon",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "rating": 150,
+    "bestRating": 0,
+    "worstRating": 0,
+    "tendency": 0,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 0,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 0,
+    "lostStreak": 0,
+    "worstLostStreak": 0,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 0,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 0,
+    "noTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 0,
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
     ]
   },
   {
@@ -40457,10 +40899,10 @@ const generalAll = [
     "NAF Name": "Josdelo",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 127.38413241554423,
-    "bestRating": 143.91646850542512,
-    "worstRating": 127.38413241554423,
-    "tendency": -16.532336089880886,
+    "rating": 127.38414827230694,
+    "bestRating": 143.91648124235596,
+    "worstRating": 127.38414827230694,
+    "tendency": -16.532332970049012,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -40507,10 +40949,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      143.91646850542512,
-      138.27835827120055,
-      132.75677607042132,
-      127.38413241554423
+      143.91648124235596,
+      138.27837056723664,
+      132.75679340561274,
+      127.38414827230694
     ]
   },
   {
@@ -40518,10 +40960,10 @@ const generalAll = [
     "NAF Name": "JoseGomezPedriza",
     "Country": "Spain",
     "CCAA": "I. Baleares",
-    "rating": 154.91882093305819,
+    "rating": 154.9188878066589,
     "bestRating": 160.61328602859817,
     "worstRating": 143.58124977859907,
-    "tendency": 10.138658399177046,
+    "tendency": 10.138725272777748,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 6,
@@ -40576,8 +41018,8 @@ const generalAll = [
       144.2527866607476,
       149.72169413352916,
       143.58124977859907,
-      149.16784203798466,
-      154.91882093305819
+      149.16784527301726,
+      154.9188878066589
     ]
   },
   {
@@ -40585,35 +41027,35 @@ const generalAll = [
     "NAF Name": "Josepe",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 209.80247089799843,
-    "bestRating": 212.16286669356342,
+    "rating": 214.2897556532283,
+    "bestRating": 214.3337381437811,
     "worstRating": 139.61017187372093,
-    "tendency": 15.676459117735362,
-    "totalTournaments": 12,
-    "totalGames": 57,
-    "totalWins": 26,
+    "tendency": 8.69093047793723,
+    "totalTournaments": 13,
+    "totalGames": 62,
+    "totalWins": 30,
     "totalDraws": 20,
-    "totalLosses": 11,
-    "totalWinRatio": 63.16,
-    "victoryStreak": 1,
+    "totalLosses": 12,
+    "totalWinRatio": 64.52,
+    "victoryStreak": 3,
     "bestVictoryStreak": 4,
-    "noLostStreak": 1,
+    "noLostStreak": 3,
     "bestNoLostStreak": 8,
     "lostStreak": 0,
     "worstLostStreak": 3,
-    "oneTdStreak": 1,
+    "oneTdStreak": 3,
     "bestOneTdStreak": 10,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 4,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 4,
     "proplayers": [
       {
-        "totalGames": 11,
-        "totalWins": 5,
+        "totalGames": 12,
+        "totalWins": 6,
         "totalDraws": 3,
         "totalLosses": 3,
-        "totalWinRatio": 59.09
+        "totalWinRatio": 62.5
       }
     ],
     "topProplayers": [
@@ -40635,16 +41077,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      194.12601178026307,
-      193.74980808563936,
-      197.71760254900028,
-      198.27492106740382,
-      202.09002442018647,
-      205.5985341782849,
-      208.29095947998863,
-      212.16286669356342,
-      205.89135569297827,
-      209.80247089799843
+      205.59882517529107,
+      208.291791341038,
+      212.1636660329779,
+      205.89212073647533,
+      209.80322637855286,
+      214.3337381437811,
+      206.10331285520667,
+      209.52174406352157,
+      211.7881959189294,
+      214.2897556532283
     ]
   },
   {
@@ -40707,10 +41149,10 @@ const generalAll = [
     "NAF Name": "Jose_Q",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 107.44771132809835,
+    "rating": 107.44784899359232,
     "bestRating": 147.98016568771567,
-    "worstRating": 101.04566499269256,
-    "tendency": -11.751361748114732,
+    "worstRating": 101.04581713018467,
+    "tendency": -11.751416370679365,
     "totalTournaments": 10,
     "totalGames": 41,
     "totalWins": 7,
@@ -40757,16 +41199,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      119.19907307621308,
-      114.15930968190781,
-      110.42372033194806,
-      106.50700962566694,
-      103.80656691010068,
-      105.0636270410548,
-      101.04566499269256,
-      102.97320768532899,
-      109.33043118711336,
-      107.44771132809835
+      119.19926536427168,
+      114.15949372056016,
+      110.42389736163325,
+      106.50718021171187,
+      103.80673211667416,
+      105.0637854802136,
+      101.04581713018467,
+      102.9733539889246,
+      109.3305712381511,
+      107.44784899359232
     ]
   },
   {
@@ -40774,24 +41216,24 @@ const generalAll = [
     "NAF Name": "Jose_Quin",
     "Country": "Spain",
     "CCAA": "Cantabria ",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
+    "rating": 139.92167532129855,
+    "bestRating": 150.3085431346262,
+    "worstRating": 138.38766607266746,
+    "tendency": -10.386867813327655,
+    "totalTournaments": 1,
+    "totalGames": 5,
     "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
+    "totalDraws": 3,
+    "totalLosses": 2,
+    "totalWinRatio": 30,
     "victoryStreak": 0,
     "bestVictoryStreak": 0,
-    "noLostStreak": 0,
-    "bestNoLostStreak": 0,
+    "noLostStreak": 1,
+    "bestNoLostStreak": 1,
     "lostStreak": 0,
-    "worstLostStreak": 0,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
+    "worstLostStreak": 1,
+    "oneTdStreak": 5,
+    "bestOneTdStreak": 5,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 0,
     "noTdAgainstStreak": 0,
@@ -40822,6 +41264,13 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      150.3085431346262,
+      144.45176132228994,
+      143.55634841389823,
+      138.38766607266746,
+      139.92167532129855
     ]
   },
   {
@@ -40829,10 +41278,10 @@ const generalAll = [
     "NAF Name": "JositoSoft",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 109.66462336531711,
+    "rating": 109.69452865331488,
     "bestRating": 153.8180467431059,
-    "worstRating": 109.66462336531711,
-    "tendency": -28.019906592125807,
+    "worstRating": 109.69452865331488,
+    "tendency": -28.03076672162669,
     "totalTournaments": 5,
     "totalGames": 19,
     "totalWins": 1,
@@ -40879,16 +41328,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      137.68452995744292,
-      137.90959272561028,
-      138.0437546160827,
-      131.11056624419135,
-      126.59293179728272,
-      120.5711637451019,
-      117.05218390402013,
-      117.57933356161026,
-      114.29460381339757,
-      109.66462336531711
+      137.72529537494157,
+      137.94916798783598,
+      138.08218989735738,
+      131.1475448470554,
+      126.62837513615828,
+      120.60510019753018,
+      117.0849764947032,
+      117.61096199290739,
+      114.325195938072,
+      109.69452865331488
     ]
   },
   {
@@ -41133,10 +41582,10 @@ const generalAll = [
     "NAF Name": "Jotun",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 152.34658403665063,
+    "rating": 152.3465895907185,
     "bestRating": 161.2979571318486,
     "worstRating": 133.27053209509992,
-    "tendency": 3.0118838512349555,
+    "tendency": 3.0118894053028384,
     "totalTournaments": 4,
     "totalGames": 20,
     "totalWins": 8,
@@ -41191,8 +41640,8 @@ const generalAll = [
       147.28486068732317,
       143.44894133821907,
       149.98794748740306,
-      151.80753113879877,
-      152.34658403665063
+      151.8075336687473,
+      152.3465895907185
     ]
   },
   {
@@ -41255,10 +41704,10 @@ const generalAll = [
     "NAF Name": "Jo_Laser",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 169.3035876030306,
-    "bestRating": 169.3035876030306,
+    "rating": 169.3036835132989,
+    "bestRating": 169.3036835132989,
     "worstRating": 145.5942341826106,
-    "tendency": 19.91556905875339,
+    "tendency": 19.91566496902169,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 6,
@@ -41308,13 +41757,13 @@ const generalAll = [
       149.3880185442772,
       149.9137818802249,
       155.75686801598945,
-      160.22992092221463,
-      166.30166962953587,
-      162.6689570172126,
-      156.427163200836,
-      161.7365524757785,
-      164.0569626109729,
-      169.3035876030306
+      160.2299210606224,
+      166.30167014127983,
+      162.66898775557559,
+      156.42719628438425,
+      161.73658440777646,
+      164.05701819097786,
+      169.3036835132989
     ]
   },
   {
@@ -41508,10 +41957,10 @@ const generalAll = [
     "NAF Name": "JUANITOR",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 97.48073099032555,
+    "rating": 97.4841448406871,
     "bestRating": 145.3331858863512,
-    "worstRating": 97.48073099032555,
-    "tendency": -30.33134057407058,
+    "worstRating": 97.4841448406871,
+    "tendency": -30.33248893202132,
     "totalTournaments": 8,
     "totalGames": 32,
     "totalWins": 6,
@@ -41558,16 +42007,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      127.81207156439613,
-      122.06283390871063,
-      123.22091651009211,
-      119.88003170721964,
-      115.89395640955293,
-      116.91989330864126,
-      113.21678939265918,
-      106.88881175475572,
-      103.382856190306,
-      97.48073099032555
+      127.81663377270841,
+      122.06719611076785,
+      123.22522096286892,
+      119.88406387923281,
+      115.89783893071875,
+      116.9236176049491,
+      113.22040058103941,
+      106.8923809757498,
+      103.38631168231659,
+      97.4841448406871
     ]
   },
   {
@@ -41701,10 +42150,10 @@ const generalAll = [
     "NAF Name": "juanr1969",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 155.93681037095246,
+    "rating": 155.9368908551684,
     "bestRating": 173.16433775729573,
     "worstRating": 135.75986345004836,
-    "tendency": -6.682015174966011,
+    "tendency": -6.681938437041396,
     "totalTournaments": 12,
     "totalGames": 50,
     "totalWins": 18,
@@ -41751,16 +42200,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      162.61882554591847,
-      161.89661300526208,
-      166.25766015366813,
-      169.8029364696523,
-      163.73118776233105,
-      160.22762460633896,
-      160.46900684650856,
-      159.93821330321043,
-      156.60003931832907,
-      155.93681037095246
+      162.6188292922098,
+      161.89661659189204,
+      166.25766359301176,
+      169.80294525322273,
+      163.7311961725653,
+      160.227635788663,
+      160.469077905135,
+      159.93828338430805,
+      156.60011101340896,
+      155.9368908551684
     ]
   },
   {
@@ -41829,10 +42278,10 @@ const generalAll = [
     "NAF Name": "Juan_AGR",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 175.9982153042767,
-    "bestRating": 178.84045513679425,
-    "worstRating": 140.39405309063898,
-    "tendency": 11.172216026177523,
+    "rating": 175.99854616056314,
+    "bestRating": 178.8407432611838,
+    "worstRating": 140.39405316299988,
+    "tendency": 11.172431627649729,
     "totalTournaments": 8,
     "totalGames": 33,
     "totalWins": 10,
@@ -41879,16 +42328,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      164.82599927809918,
-      165.65760067368794,
-      173.44468849344736,
-      174.47988904931083,
-      178.84045513679425,
-      173.4080226851008,
-      172.90882900225427,
-      173.21758716599058,
-      172.87906969845272,
-      175.9982153042767
+      164.8261145329134,
+      165.6577263744522,
+      173.44485837544414,
+      174.48010277039046,
+      178.8407432611838,
+      173.40829869444485,
+      172.90909312458473,
+      173.21788620240838,
+      172.87941098223678,
+      175.99854616056314
     ]
   },
   {
@@ -41963,10 +42412,10 @@ const generalAll = [
     "NAF Name": "Judaspainkiller",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 161.098083310013,
+    "rating": 161.09808331157012,
     "bestRating": 170.8343532031073,
     "worstRating": 154.33163194361447,
-    "tendency": -3.5666754202975994,
+    "tendency": -3.5666754187404877,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 10,
@@ -42022,7 +42471,7 @@ const generalAll = [
       158.84986190790087,
       165.1740721900479,
       161.2474180401161,
-      161.098083310013
+      161.09808331157012
     ]
   },
   {
@@ -42217,25 +42666,25 @@ const generalAll = [
     "NAF Name": "jull45",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 156.37688189293954,
+    "rating": 154.18739193381583,
     "bestRating": 176.40751970387825,
     "worstRating": 148.80198758567076,
-    "tendency": -19.50197185109397,
-    "totalTournaments": 10,
-    "totalGames": 35,
-    "totalWins": 14,
-    "totalDraws": 11,
-    "totalLosses": 10,
-    "totalWinRatio": 55.71,
+    "tendency": -9.86232244048793,
+    "totalTournaments": 11,
+    "totalGames": 40,
+    "totalWins": 15,
+    "totalDraws": 13,
+    "totalLosses": 12,
+    "totalWinRatio": 53.75,
     "victoryStreak": 0,
     "bestVictoryStreak": 3,
-    "noLostStreak": 0,
+    "noLostStreak": 2,
     "bestNoLostStreak": 6,
-    "lostStreak": 1,
+    "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 0,
+    "oneTdStreak": 2,
     "bestOneTdStreak": 7,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 2,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 4,
@@ -42250,33 +42699,33 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 1,
+        "totalLosses": 2,
         "totalWinRatio": 0
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 1,
+        "totalLosses": 2,
         "totalWinRatio": 0
       }
     ],
     "_lastTenRatings": [
-      175.8788537440335,
-      172.17019429999894,
-      167.8614956334924,
-      171.12868932180592,
-      170.48730274640639,
       164.04971437430376,
-      155.848605053789,
-      160.92165274881452,
-      161.20203500369698,
-      156.37688189293954
+      155.84862616081512,
+      160.92167300754215,
+      161.20205650014876,
+      156.37690798139496,
+      161.51787716124207,
+      157.84053488909464,
+      155.82679823257268,
+      154.80393993742908,
+      154.18739193381583
     ]
   },
   {
@@ -42404,10 +42853,10 @@ const generalAll = [
     "NAF Name": "Justjon",
     "Country": "Spain",
     "CCAA": "I. Canarias",
-    "rating": 143.52332935474237,
-    "bestRating": 152.1846724423559,
-    "worstRating": 143.52332935474237,
-    "tendency": -6.476670645257627,
+    "rating": 143.48667279805792,
+    "bestRating": 152.14250064003033,
+    "worstRating": 143.48667279805792,
+    "tendency": -6.513327201942076,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 2,
@@ -42455,11 +42904,11 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       150,
-      144.88576672066,
-      147.75052295374982,
-      152.1846724423559,
-      147.8284746969762,
-      143.52332935474237
+      144.78804866851286,
+      147.70689188321023,
+      152.14250064003033,
+      147.7904026115557,
+      143.48667279805792
     ]
   },
   {
@@ -42519,37 +42968,37 @@ const generalAll = [
   },
   {
     "NAF Nr": "29249",
-    "NAF Name": "JZurita",
+    "NAF Name": "JZurita87",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "rating": 146.1945434945345,
+    "bestRating": 155.66141182510563,
+    "worstRating": 140.5631064376921,
+    "tendency": -9.466868330571117,
+    "totalTournaments": 1,
+    "totalGames": 5,
+    "totalWins": 2,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
-    "victoryStreak": 0,
-    "bestVictoryStreak": 0,
-    "noLostStreak": 0,
-    "bestNoLostStreak": 0,
+    "totalLosses": 3,
+    "totalWinRatio": 40,
+    "victoryStreak": 1,
+    "bestVictoryStreak": 1,
+    "noLostStreak": 1,
+    "bestNoLostStreak": 1,
     "lostStreak": 0,
-    "worstLostStreak": 0,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
-    "twoTdStreak": 0,
-    "bestTwoTdStreak": 0,
+    "worstLostStreak": 3,
+    "oneTdStreak": 1,
+    "bestOneTdStreak": 1,
+    "twoTdStreak": 1,
+    "bestTwoTdStreak": 1,
     "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -42570,6 +43019,13 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      155.66141182510563,
+      150.5699455842047,
+      144.41752317825416,
+      140.5631064376921,
+      146.1945434945345
     ]
   },
   {
@@ -42755,35 +43211,35 @@ const generalAll = [
     "NAF Name": "Kale",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 174.60173634774694,
-    "bestRating": 185.46725537948592,
+    "rating": 195.68044197466722,
+    "bestRating": 195.68044197466722,
     "worstRating": 153.1926014407537,
-    "tendency": 11.217173214860736,
-    "totalTournaments": 21,
-    "totalGames": 87,
-    "totalWins": 38,
-    "totalDraws": 19,
+    "tendency": 25.191102830473938,
+    "totalTournaments": 22,
+    "totalGames": 92,
+    "totalWins": 42,
+    "totalDraws": 20,
     "totalLosses": 30,
-    "totalWinRatio": 54.6,
-    "victoryStreak": 1,
-    "bestVictoryStreak": 4,
-    "noLostStreak": 3,
-    "bestNoLostStreak": 7,
+    "totalWinRatio": 56.52,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 5,
+    "noLostStreak": 8,
+    "bestNoLostStreak": 8,
     "lostStreak": 0,
     "worstLostStreak": 4,
-    "oneTdStreak": 3,
-    "bestOneTdStreak": 7,
-    "twoTdStreak": 1,
+    "oneTdStreak": 8,
+    "bestOneTdStreak": 8,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 9,
-        "totalWins": 3,
+        "totalGames": 10,
+        "totalWins": 4,
         "totalDraws": 2,
         "totalLosses": 4,
-        "totalWinRatio": 44.44
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
@@ -42797,24 +43253,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 6,
+        "totalGames": 7,
         "totalWins": 1,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 5,
-        "totalWinRatio": 16.67
+        "totalWinRatio": 21.43
       }
     ],
     "_lastTenRatings": [
-      163.3845631328862,
-      167.24190886331,
-      164.34623893179133,
-      159.5155346427871,
-      166.14603900001885,
-      170.48929489542806,
-      165.53418575849804,
-      170.06841894047204,
-      169.99865513282097,
-      174.60173634774694
+      170.48933914419328,
+      165.53422811563715,
+      170.06847109945423,
+      169.9987052732724,
+      174.60178439794757,
+      179.58078576318044,
+      183.11188557238316,
+      187.89997184947475,
+      193.45217919634786,
+      195.68044197466722
     ]
   },
   {
@@ -42885,14 +43341,75 @@ const generalAll = [
     ]
   },
   {
+    "NAF Nr": "40409",
+    "NAF Name": "kalitros",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "rating": 138.77808674474778,
+    "bestRating": 148.89684189964908,
+    "worstRating": 138.77808674474778,
+    "tendency": -6.2197980413083656,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 1,
+    "totalDraws": 0,
+    "totalLosses": 3,
+    "totalWinRatio": 25,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 1,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 1,
+    "lostStreak": 2,
+    "worstLostStreak": 2,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 1,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 1,
+    "noTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 1,
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "_lastTenRatings": [
+      144.99788478605615,
+      148.89684189964908,
+      142.97505509167868,
+      138.77808674474778
+    ]
+  },
+  {
     "NAF Nr": "11262",
     "NAF Name": "Kanzo",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 142.63470132122873,
+    "rating": 142.6347415656947,
     "bestRating": 144.85744567517924,
     "worstRating": 134.1174997539347,
-    "tendency": -2.222744353950503,
+    "tendency": -2.222704109484539,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -42944,9 +43461,9 @@ const generalAll = [
       134.1174997539347,
       139.4708505932126,
       134.74022067661832,
-      134.2765834704578,
-      140.3529118883434,
-      142.63470132122873
+      134.27658390594038,
+      140.3529123050222,
+      142.6347415656947
     ]
   },
   {
@@ -42954,10 +43471,10 @@ const generalAll = [
     "NAF Name": "Kapi",
     "Country": "Spain",
     "CCAA": "Euskadi",
-    "rating": 167.31967762772638,
-    "bestRating": 167.71207210738854,
+    "rating": 167.31967762772643,
+    "bestRating": 167.7120721073886,
     "worstRating": 143.43140307090297,
-    "tendency": 2.403664065835045,
+    "tendency": 2.403664065835102,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 9,
@@ -43012,8 +43529,8 @@ const generalAll = [
       161.25077356600445,
       166.63038332761,
       162.27172226574666,
-      167.71207210738854,
-      167.31967762772638
+      167.7120721073886,
+      167.31967762772643
     ]
   },
   {
@@ -43203,10 +43720,10 @@ const generalAll = [
     "NAF Name": "Karl",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 139.3404397568791,
-    "bestRating": 145.9358621864151,
-    "worstRating": 139.3404397568791,
-    "tendency": -6.595422429536001,
+    "rating": 139.34066430812751,
+    "bestRating": 145.9358687004024,
+    "worstRating": 139.34066430812751,
+    "tendency": -6.595204392274894,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -43253,10 +43770,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      145.9358621864151,
-      143.57764666440798,
-      141.46627253554524,
-      139.3404397568791
+      145.9358687004024,
+      143.57773215739482,
+      141.46643031582065,
+      139.34066430812751
     ]
   },
   {
@@ -43264,25 +43781,25 @@ const generalAll = [
     "NAF Name": "Karrash",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 137.97962838537418,
+    "rating": 138.48204105230158,
     "bestRating": 144.34314575050763,
     "worstRating": 118.25435765876458,
-    "tendency": 9.751022422844386,
-    "totalTournaments": 5,
-    "totalGames": 22,
-    "totalWins": 6,
-    "totalDraws": 5,
-    "totalLosses": 11,
-    "totalWinRatio": 38.64,
-    "victoryStreak": 1,
+    "tendency": 15.045766338953413,
+    "totalTournaments": 6,
+    "totalGames": 26,
+    "totalWins": 7,
+    "totalDraws": 7,
+    "totalLosses": 12,
+    "totalWinRatio": 40.38,
+    "victoryStreak": 0,
     "bestVictoryStreak": 3,
-    "noLostStreak": 2,
-    "bestNoLostStreak": 3,
-    "lostStreak": 0,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 5,
+    "lostStreak": 1,
     "worstLostStreak": 3,
-    "oneTdStreak": 5,
-    "bestOneTdStreak": 5,
-    "twoTdStreak": 1,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 6,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 2,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 3,
@@ -43314,16 +43831,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      128.2286059625298,
-      134.68690037539892,
-      131.84587837876174,
-      129.0706818102784,
       123.43627471334817,
       128.21180697464987,
-      132.12498379629497,
-      126.97686550608222,
-      129.88515494626785,
-      137.97962838537418
+      132.1249113943159,
+      126.97679613683962,
+      129.88508817602693,
+      137.97956844067656,
+      142.29955520085213,
+      142.78339992202086,
+      143.26406583973625,
+      138.48204105230158
     ]
   },
   {
@@ -43331,27 +43848,27 @@ const generalAll = [
     "NAF Name": "Karrashantemi",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 195.916911980772,
-    "bestRating": 195.916911980772,
+    "rating": 175.404116105029,
+    "bestRating": 195.91690462691554,
     "worstRating": 145.52786404500043,
-    "tendency": 23.456240171707606,
-    "totalTournaments": 22,
-    "totalGames": 88,
-    "totalWins": 44,
-    "totalDraws": 13,
-    "totalLosses": 31,
-    "totalWinRatio": 57.39,
-    "victoryStreak": 4,
+    "tendency": -3.522374916293046,
+    "totalTournaments": 23,
+    "totalGames": 93,
+    "totalWins": 45,
+    "totalDraws": 14,
+    "totalLosses": 34,
+    "totalWinRatio": 55.91,
+    "victoryStreak": 0,
     "bestVictoryStreak": 5,
-    "noLostStreak": 8,
+    "noLostStreak": 0,
     "bestNoLostStreak": 8,
-    "lostStreak": 0,
+    "lostStreak": 2,
     "worstLostStreak": 3,
-    "oneTdStreak": 8,
+    "oneTdStreak": 4,
     "bestOneTdStreak": 12,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 6,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 5,
     "proplayers": [
       {
@@ -43381,16 +43898,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      172.4606718090644,
-      166.82798379468005,
-      174.0234162220649,
-      179.3349625348717,
-      178.3861208706591,
       178.92649102132205,
       184.27391770933258,
-      187.91204607365592,
-      190.88713170371395,
-      195.916911980772
+      187.9120593234533,
+      190.8871189773083,
+      195.91690462691554,
+      188.2189464920059,
+      187.42793858191686,
+      191.06614728460167,
+      182.37561609131052,
+      175.404116105029
     ]
   },
   {
@@ -43398,10 +43915,10 @@ const generalAll = [
     "NAF Name": "Kast",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 137.0519058754663,
-    "bestRating": 144.26085101465682,
-    "worstRating": 137.0519058754663,
-    "tendency": -7.208945139190519,
+    "rating": 137.05371044245499,
+    "bestRating": 144.26128563886266,
+    "worstRating": 137.05371044245499,
+    "tendency": -7.207575196407674,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -43448,10 +43965,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.26085101465682,
-      138.3643861262966,
-      143.5067226081683,
-      137.0519058754663
+      144.26128563886266,
+      138.36540570716204,
+      143.50769828794824,
+      137.05371044245499
     ]
   },
   {
@@ -43459,10 +43976,10 @@ const generalAll = [
     "NAF Name": "kata-tyson",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 160.9260843284602,
-    "bestRating": 160.9260843284602,
-    "worstRating": 154.91479267007114,
-    "tendency": 5.990885387047058,
+    "rating": 160.92705947619044,
+    "bestRating": 160.92705947619044,
+    "worstRating": 154.91546228344103,
+    "tendency": 5.991168849514963,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -43509,10 +44026,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      154.93519894141315,
-      154.91479267007114,
-      156.557416786415,
-      160.9260843284602
+      154.93589062667547,
+      154.91546228344103,
+      156.5580659074702,
+      160.92705947619044
     ]
   },
   {
@@ -43587,10 +44104,10 @@ const generalAll = [
     "NAF Name": "Kazan",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 152.61473730662212,
+    "rating": 152.6172612134351,
     "bestRating": 172.79926654261175,
-    "worstRating": 149.3993920197953,
-    "tendency": -14.123875127742508,
+    "worstRating": 149.40198429422807,
+    "tendency": -14.121351220929512,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 7,
@@ -43643,10 +44160,10 @@ const generalAll = [
       162.80300949764646,
       164.26132850257247,
       160.47046750179217,
-      157.8951192804579,
-      150.46686838010544,
-      149.3993920197953,
-      152.61473730662212
+      157.89515560319168,
+      150.46957551859546,
+      149.40198429422807,
+      152.6172612134351
     ]
   },
   {
@@ -43784,10 +44301,10 @@ const generalAll = [
     "NAF Name": "KeL",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 136.60907418130347,
-    "bestRating": 149.19946902202798,
-    "worstRating": 136.60907418130347,
-    "tendency": -7.734071569204161,
+    "rating": 136.61325950147136,
+    "bestRating": 149.20376642189035,
+    "worstRating": 136.61325950147136,
+    "tendency": -7.729886249036269,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -43835,9 +44352,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       144.34314575050763,
-      149.19946902202798,
-      142.56901966451676,
-      136.60907418130347
+      149.20376642189035,
+      142.5731461067852,
+      136.61325950147136
     ]
   },
   {
@@ -43845,25 +44362,25 @@ const generalAll = [
     "NAF Name": "kennels",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 146.24394993473075,
+    "rating": 141.96919013795235,
     "bestRating": 150.79030531948695,
     "worstRating": 133.80857714611795,
-    "tendency": -4.546355384756197,
-    "totalTournaments": 2,
-    "totalGames": 8,
+    "tendency": 2.780249409183,
+    "totalTournaments": 3,
+    "totalGames": 12,
     "totalWins": 3,
-    "totalDraws": 1,
-    "totalLosses": 4,
-    "totalWinRatio": 43.75,
+    "totalDraws": 4,
+    "totalLosses": 5,
+    "totalWinRatio": 41.67,
     "victoryStreak": 0,
     "bestVictoryStreak": 3,
-    "noLostStreak": 0,
+    "noLostStreak": 3,
     "bestNoLostStreak": 3,
-    "lostStreak": 1,
+    "lostStreak": 0,
     "worstLostStreak": 3,
-    "oneTdStreak": 4,
+    "oneTdStreak": 3,
     "bestOneTdStreak": 4,
-    "twoTdStreak": 4,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 1,
@@ -43895,14 +44412,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      150.79030531948695,
-      145.0165177449488,
       139.18894072876935,
       133.80857714611795,
       139.96299555670126,
-      145.111113846914,
-      150.55340762971093,
-      146.24394993473075
+      145.11111081417752,
+      150.55340597463032,
+      146.2439518039821,
+      141.38805556125476,
+      140.3862332155733,
+      141.82479940619413,
+      141.96919013795235
     ]
   },
   {
@@ -44032,10 +44551,10 @@ const generalAll = [
     "NAF Name": "Kewan",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 219.71012040132933,
-    "bestRating": 222.6017688346395,
+    "rating": 219.71201556725123,
+    "bestRating": 222.6017770718006,
     "worstRating": 145.90892519881768,
-    "tendency": 5.335523361020876,
+    "tendency": 5.337401769129315,
     "totalTournaments": 9,
     "totalGames": 42,
     "totalWins": 27,
@@ -44082,16 +44601,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      214.37459704030846,
-      208.8829833402867,
-      208.3067372545704,
-      211.46084383306555,
-      214.4049873297677,
-      212.31420907815723,
-      214.81865372406932,
-      213.0895479455935,
-      215.2949145621008,
-      219.71012040132933
+      214.3746137981219,
+      208.88300800844297,
+      208.30686299954527,
+      211.46082169287058,
+      214.4049667109499,
+      212.31419030449453,
+      214.81887143657266,
+      213.08979565906654,
+      215.29689086010805,
+      219.71201556725123
     ]
   },
   {
@@ -44221,10 +44740,10 @@ const generalAll = [
     "NAF Name": "Khorne44",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 132.91737313587907,
+    "rating": 132.91737426915202,
     "bestRating": 145.72874675717478,
-    "worstRating": 126.23553197623849,
-    "tendency": -12.8113736212957,
+    "worstRating": 126.23553264563269,
+    "tendency": -12.811372488022755,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 1,
@@ -44275,9 +44794,9 @@ const generalAll = [
       139.67222278041194,
       133.6020400298394,
       135.12862959863105,
-      131.12256510681166,
-      126.23553197623849,
-      132.91737313587907
+      131.12256580596735,
+      126.23553264563269,
+      132.91737426915202
     ]
   },
   {
@@ -44285,10 +44804,10 @@ const generalAll = [
     "NAF Name": "khuzad",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 147.66430450953044,
-    "bestRating": 161.20829568488702,
+    "rating": 147.66445767504695,
+    "bestRating": 161.20829568491754,
     "worstRating": 144.578091423857,
-    "tendency": -8.361341952450573,
+    "tendency": -8.361388093822654,
     "totalTournaments": 8,
     "totalGames": 32,
     "totalWins": 7,
@@ -44335,16 +44854,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      156.025646461981,
-      150.42509059163785,
-      152.4243546564073,
-      156.34512788915214,
-      151.86198891496474,
-      156.63502970854094,
-      153.7943238772717,
-      158.7098821729684,
-      152.80514129843542,
-      147.66430450953044
+      156.0258457688696,
+      150.42528136961437,
+      152.4245402209852,
+      156.34530752281555,
+      151.86216448645868,
+      156.63520886723413,
+      153.7944979151775,
+      158.71004878426757,
+      152.80530070298462,
+      147.66445767504695
     ]
   },
   {
@@ -44547,10 +45066,10 @@ const generalAll = [
     "NAF Name": "Kikingo",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 154.57908393069965,
-    "bestRating": 154.57908393069965,
-    "worstRating": 148.89249389781668,
-    "tendency": 5.336445227480198,
+    "rating": 154.57924565297284,
+    "bestRating": 154.57924565297284,
+    "worstRating": 148.8926294433179,
+    "tendency": 5.336600114189679,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -44597,10 +45116,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      149.24263870321946,
-      148.89249389781668,
-      150.15576729167302,
-      154.57908393069965
+      149.24264553878317,
+      148.8926294433179,
+      150.15591102668168,
+      154.57924565297284
     ]
   },
   {
@@ -44608,10 +45127,10 @@ const generalAll = [
     "NAF Name": "Killmister",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 151.92413612463562,
+    "rating": 151.92414417061786,
     "bestRating": 157.29639797164432,
     "worstRating": 140.09723024486465,
-    "tendency": 9.58049014133536,
+    "tendency": 9.580498187317602,
     "totalTournaments": 4,
     "totalGames": 15,
     "totalWins": 5,
@@ -44667,7 +45186,7 @@ const generalAll = [
       144.73502689370747,
       140.09723024486465,
       146.13601901936556,
-      151.92413612463562
+      151.92414417061786
     ]
   },
   {
@@ -44797,10 +45316,10 @@ const generalAll = [
     "NAF Name": "Kimi",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 101.14405855193687,
+    "rating": 101.14463831284338,
     "bestRating": 144.13184287743164,
     "worstRating": 91.49235236076696,
-    "tendency": 2.286096609314015,
+    "tendency": 2.2866763702205333,
     "totalTournaments": 9,
     "totalGames": 38,
     "totalWins": 5,
@@ -44852,11 +45371,11 @@ const generalAll = [
       99.05544970541898,
       96.5715348824039,
       104.18102607513578,
-      101.33924256929936,
-      99.17891892635015,
-      95.56150833478739,
-      93.68871110210196,
-      101.14405855193687
+      101.33924268507414,
+      99.17895252394335,
+      95.56154066324703,
+      93.68877213536771,
+      101.14463831284338
     ]
   },
   {
@@ -45047,10 +45566,10 @@ const generalAll = [
     "NAF Name": "Kinkywinky",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 164.59247330754508,
-    "bestRating": 164.59247330754508,
+    "rating": 164.59263634450312,
+    "bestRating": 164.59263634450312,
     "worstRating": 150,
-    "tendency": 13.207517312987875,
+    "tendency": 13.207680349945917,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 6,
@@ -45105,8 +45624,8 @@ const generalAll = [
       158.7021623900113,
       163.9817473400568,
       158.62264089183367,
-      163.6340080310643,
-      164.59247330754508
+      163.6340097877279,
+      164.59263634450312
     ]
   },
   {
@@ -45114,10 +45633,10 @@ const generalAll = [
     "NAF Name": "klaus44",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 156.90992388154405,
-    "bestRating": 163.32556533373065,
+    "rating": 156.91037231298662,
+    "bestRating": 163.32557184044495,
     "worstRating": 130.02153370989225,
-    "tendency": -0.7216564813888624,
+    "tendency": -0.7212080499462843,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 9,
@@ -45165,15 +45684,15 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       157.6315803629329,
-      163.32556533373065,
-      161.4380452144037,
-      154.62272280117028,
-      148.6867102156795,
-      149.13224650451212,
-      151.97608227812154,
-      154.65269993872283,
-      161.61949884492287,
-      156.90992388154405
+      163.32557184044495,
+      161.4381277306351,
+      154.62306221288796,
+      148.6870379715677,
+      149.13257788858454,
+      151.97649493179657,
+      154.65314228618738,
+      161.6199289869204,
+      156.91037231298662
     ]
   },
   {
@@ -45242,10 +45761,10 @@ const generalAll = [
     "NAF Name": "Koki",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 171.87787425463276,
-    "bestRating": 175.4696922926105,
+    "rating": 171.87803127830014,
+    "bestRating": 175.46984154836701,
     "worstRating": 149.74177314340324,
-    "tendency": 18.42888647076623,
+    "tendency": 18.429043494433614,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 8,
@@ -45297,11 +45816,11 @@ const generalAll = [
       153.66705015019576,
       159.3646232681944,
       163.8691199388533,
-      167.77083531079583,
-      173.2183427856704,
-      175.4696922926105,
-      168.92129849384267,
-      171.87787425463276
+      167.77085496463494,
+      173.2184975678198,
+      175.46984154836701,
+      168.92144152648822,
+      171.87803127830014
     ]
   },
   {
@@ -45309,23 +45828,23 @@ const generalAll = [
     "NAF Name": "kolimero",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 141.05947579679633,
-    "bestRating": 156.0651148704064,
-    "worstRating": 136.24444760069176,
-    "tendency": 4.011645972090321,
-    "totalTournaments": 5,
-    "totalGames": 19,
-    "totalWins": 6,
-    "totalDraws": 5,
-    "totalLosses": 8,
-    "totalWinRatio": 44.74,
+    "rating": 135.60432859256755,
+    "bestRating": 156.06527722783545,
+    "worstRating": 135.60432859256755,
+    "tendency": -8.371470895431798,
+    "totalTournaments": 6,
+    "totalGames": 23,
+    "totalWins": 7,
+    "totalDraws": 6,
+    "totalLosses": 10,
+    "totalWinRatio": 43.48,
     "victoryStreak": 0,
     "bestVictoryStreak": 2,
-    "noLostStreak": 1,
+    "noLostStreak": 0,
     "bestNoLostStreak": 6,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 4,
-    "oneTdStreak": 1,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 8,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
@@ -45359,16 +45878,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      137.047829824706,
-      136.24444760069176,
-      138.88708036676584,
-      144.2761215531394,
-      143.97554481235574,
-      150.41900917265002,
-      150.11957175506384,
-      145.3929428305108,
-      140.40355985683647,
-      141.05947579679633
+      143.97579948799935,
+      150.41931810527205,
+      150.119974037171,
+      145.39342493591,
+      140.40403015413463,
+      141.05994046363946,
+      141.19750078057965,
+      136.5619742675992,
+      141.33031704695287,
+      135.60432859256755
     ]
   },
   {
@@ -45439,10 +45958,10 @@ const generalAll = [
     "NAF Name": "Kolmena_morena",
     "Country": "Spain",
     "CCAA": "I. Baleares",
-    "rating": 159.3422541445668,
+    "rating": 159.3422577301261,
     "bestRating": 166.51257408516562,
     "worstRating": 141.4570537028133,
-    "tendency": 9.22418513912649,
+    "tendency": 9.224188724685803,
     "totalTournaments": 5,
     "totalGames": 24,
     "totalWins": 7,
@@ -45495,10 +46014,10 @@ const generalAll = [
       141.4570537028133,
       142.20036256506353,
       148.50689353728933,
-      149.0480335805046,
-      155.63160589241153,
-      163.11471886998237,
-      159.3422541445668
+      149.048037233198,
+      155.6316093907687,
+      163.11472235795196,
+      159.3422577301261
     ]
   },
   {
@@ -45568,10 +46087,10 @@ const generalAll = [
     "NAF Name": "korben86",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 111.61396105163189,
+    "rating": 111.61439105412842,
     "bestRating": 144.14221973286772,
-    "worstRating": 111.61396105163189,
-    "tendency": -32.528258681235826,
+    "worstRating": 111.61439105412842,
+    "tendency": -32.5278286787393,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 0,
@@ -45624,8 +46143,8 @@ const generalAll = [
       131.90498661539988,
       128.34000081076815,
       123.14667960268933,
-      117.28530893389151,
-      111.61396105163189
+      117.28555314514355,
+      111.61439105412842
     ]
   },
   {
@@ -45633,10 +46152,10 @@ const generalAll = [
     "NAF Name": "Kornelius",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 124.37879599856193,
+    "rating": 124.37974393945653,
     "bestRating": 150,
-    "worstRating": 124.37879599856193,
-    "tendency": -1.1549482531254398,
+    "worstRating": 124.37974393945653,
+    "tendency": -1.1540003122308349,
     "totalTournaments": 5,
     "totalGames": 15,
     "totalWins": 2,
@@ -45691,8 +46210,8 @@ const generalAll = [
       128.13908554419982,
       127.8484258258778,
       128.88720679635284,
-      126.35927896980964,
-      124.37879599856193
+      126.36022770199881,
+      124.37974393945653
     ]
   },
   {
@@ -45700,10 +46219,10 @@ const generalAll = [
     "NAF Name": "Kowlasky",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 165.32548682926463,
+    "rating": 165.3235724955768,
     "bestRating": 192.84869594468475,
     "worstRating": 141.08324625712555,
-    "tendency": 6.7419717081414205,
+    "tendency": 6.743219059411786,
     "totalTournaments": 17,
     "totalGames": 68,
     "totalWins": 31,
@@ -45750,16 +46269,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      158.5835151211232,
-      153.40072196098095,
-      149.65358963355214,
-      149.38495472956416,
-      151.4308906912756,
-      155.36928264579566,
-      160.95683272732114,
-      155.37268613155453,
-      159.87897587283973,
-      165.32548682926463
+      158.580353436165,
+      153.39770973908884,
+      149.65068328977512,
+      149.3821661400067,
+      151.42824382748665,
+      155.3667342833548,
+      160.95439499300028,
+      155.37036674381633,
+      159.8769772282519,
+      165.3235724955768
     ]
   },
   {
@@ -46145,10 +46664,10 @@ const generalAll = [
     "NAF Name": "Kris",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 169.83998625365183,
-    "bestRating": 169.83998625365183,
+    "rating": 169.84029964070479,
+    "bestRating": 169.84029964070479,
     "worstRating": 155.1327651679078,
-    "tendency": 14.707221085744038,
+    "tendency": 14.707534472796993,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -46199,10 +46718,10 @@ const generalAll = [
       158.17392553702686,
       163.42150307130782,
       159.71779286335524,
-      164.04385223825972,
-      169.46921818850012,
-      168.8459920233423,
-      169.83998625365183
+      164.04418704855175,
+      169.4695442188768,
+      168.84630614765686,
+      169.84029964070479
     ]
   },
   {
@@ -46210,10 +46729,10 @@ const generalAll = [
     "NAF Name": "Kronos255",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 138.5134227679315,
+    "rating": 138.5134282330654,
     "bestRating": 154.17785436548712,
     "worstRating": 138.18815471002256,
-    "tendency": -9.267665318179098,
+    "tendency": -9.267659853045188,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 6,
@@ -46267,9 +46786,9 @@ const generalAll = [
       154.17785436548712,
       147.64710001745146,
       153.40610128208328,
-      148.95709908648354,
-      143.43142344907525,
-      138.5134227679315
+      148.95709916738645,
+      143.43142358154097,
+      138.5134282330654
     ]
   },
   {
@@ -46806,10 +47325,10 @@ const generalAll = [
     "NAF Name": "kvothe",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 145.15712258577284,
-    "bestRating": 155.0990195135928,
-    "worstRating": 145.15712258577284,
-    "tendency": -9.941896927819954,
+    "rating": 145.20530477729645,
+    "bestRating": 155.19615242270663,
+    "worstRating": 145.20530477729645,
+    "tendency": -9.990847645410184,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 2,
@@ -46856,12 +47375,12 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      155.0990195135928,
-      149.91347599177203,
-      149.83310648934452,
-      153.30192791725142,
-      149.41527162360822,
-      145.15712258577284
+      155.19615242270663,
+      149.91014847700933,
+      149.82681024511444,
+      153.29884352474173,
+      149.46016554286066,
+      145.20530477729645
     ]
   },
   {
@@ -47168,10 +47687,10 @@ const generalAll = [
     "NAF Name": "LadyPuto",
     "Country": "Spain",
     "CCAA": "I. Baleares",
-    "rating": 139.5489113394162,
+    "rating": 139.54897475109016,
     "bestRating": 145.95353685087193,
     "worstRating": 131.49713561688407,
-    "tendency": -5.2261026411526075,
+    "tendency": -5.226039229478658,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 1,
@@ -47225,9 +47744,9 @@ const generalAll = [
       141.22761731043965,
       136.53165606532886,
       131.49713561688407,
-      137.05497070806322,
-      137.64109983189383,
-      139.5489113394162
+      137.05503947746595,
+      137.64116564752456,
+      139.54897475109016
     ]
   },
   {
@@ -47235,10 +47754,10 @@ const generalAll = [
     "NAF Name": "Lagar",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 136.36282100497323,
-    "bestRating": 153.08224798428583,
-    "worstRating": 136.36282100497323,
-    "tendency": -16.7194269793126,
+    "rating": 136.3627917794213,
+    "bestRating": 153.0822729597112,
+    "worstRating": 136.3627917794213,
+    "tendency": -16.719481180289904,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -47285,10 +47804,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      153.08224798428583,
-      149.37763106824139,
-      143.72066975556214,
-      136.36282100497323
+      153.0822729597112,
+      149.3775773083404,
+      143.72061597962326,
+      136.3627917794213
     ]
   },
   {
@@ -47351,10 +47870,10 @@ const generalAll = [
     "NAF Name": "Lakai",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 125.92128265476347,
+    "rating": 125.92128266121766,
     "bestRating": 160.61362808422567,
-    "worstRating": 125.92128265476347,
-    "tendency": -34.35282927430265,
+    "worstRating": 125.92128266121766,
+    "tendency": -34.35282926784846,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 3,
@@ -47409,8 +47928,8 @@ const generalAll = [
       148.1166416152343,
       142.54155325136293,
       136.7523103830294,
-      131.35783236636476,
-      125.92128265476347
+      131.35783237311142,
+      125.92128266121766
     ]
   },
   {
@@ -47418,10 +47937,10 @@ const generalAll = [
     "NAF Name": "Lamonpep",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 130.30173379222074,
+    "rating": 130.30179806947297,
     "bestRating": 144.62357935953585,
     "worstRating": 119.25611590247253,
-    "tendency": -1.4576432127012424,
+    "tendency": -1.4575789354490212,
     "totalTournaments": 3,
     "totalGames": 16,
     "totalWins": 3,
@@ -47476,8 +47995,8 @@ const generalAll = [
       120.37505686096063,
       127.58018028470816,
       129.07227622499806,
-      124.73023622802413,
-      130.30173379222074
+      124.73023934700129,
+      130.30179806947297
     ]
   },
   {
@@ -47671,10 +48190,10 @@ const generalAll = [
     "NAF Name": "Largo-Puerto",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 157.36653030372202,
-    "bestRating": 159.28741379548387,
+    "rating": 157.4592518835487,
+    "bestRating": 159.38130211431132,
     "worstRating": 150,
-    "tendency": 2.267510790129222,
+    "tendency": 2.2630994608420565,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 3,
@@ -47721,12 +48240,12 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      155.0990195135928,
+      155.19615242270663,
       150,
-      155.0990195135928,
-      159.28741379548387,
-      158.8045902503838,
-      157.36653030372202
+      155.19615242270663,
+      159.38130211431132,
+      158.8946058992724,
+      157.4592518835487
     ]
   },
   {
@@ -47923,10 +48442,10 @@ const generalAll = [
     "NAF Name": "lebanen",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 140.69562988179842,
+    "rating": 140.69563173354354,
     "bestRating": 155.65685424949237,
-    "worstRating": 140.69562988179842,
-    "tendency": -14.961224367693944,
+    "worstRating": 140.69563173354354,
+    "tendency": -14.961222515948833,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -47976,7 +48495,7 @@ const generalAll = [
       155.65685424949237,
       151.61465235241118,
       145.84071091570866,
-      140.69562988179842
+      140.69563173354354
     ]
   },
   {
@@ -48104,6 +48623,61 @@ const generalAll = [
     ]
   },
   {
+    "NAF Nr": "32423",
+    "NAF Name": "Leiran",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "rating": 150,
+    "bestRating": 0,
+    "worstRating": 0,
+    "tendency": 0,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 0,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 0,
+    "lostStreak": 0,
+    "worstLostStreak": 0,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 0,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 0,
+    "noTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 0,
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
     "NAF Nr": "24735",
     "NAF Name": "Lemariont",
     "Country": "Spain",
@@ -48223,10 +48797,10 @@ const generalAll = [
     "NAF Name": "Lestatbb",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 169.39618322571152,
-    "bestRating": 180.28415444739383,
+    "rating": 169.39620752777822,
+    "bestRating": 180.2841548682623,
     "worstRating": 145.08326864729833,
-    "tendency": -5.739469270809707,
+    "tendency": -5.7394454085529105,
     "totalTournaments": 7,
     "totalGames": 24,
     "totalWins": 10,
@@ -48273,16 +48847,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      175.13565249652123,
-      180.28415444739383,
-      173.90045631268922,
-      173.400993931044,
-      176.03996074991213,
-      171.55639241303993,
-      170.7552434422791,
-      170.32585794201796,
-      165.7554028550033,
-      169.39618322571152
+      175.13565293633113,
+      180.2841548682623,
+      173.90045900061008,
+      173.40099672208345,
+      176.0399634651841,
+      171.5563950461683,
+      170.75524605138003,
+      170.32586808796017,
+      165.75542148370144,
+      169.39620752777822
     ]
   },
   {
@@ -48351,10 +48925,10 @@ const generalAll = [
     "NAF Name": "lgr83",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 137.4918270285026,
-    "bestRating": 143.6276419467263,
-    "worstRating": 137.26938274222871,
-    "tendency": -5.669396845652727,
+    "rating": 137.5010681829117,
+    "bestRating": 143.63419564777695,
+    "worstRating": 137.279042083386,
+    "tendency": -5.66700474384686,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -48401,10 +48975,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      143.16122387415533,
-      143.6276419467263,
-      137.26938274222871,
-      137.4918270285026
+      143.16807292675855,
+      143.63419564777695,
+      137.279042083386,
+      137.5010681829117
     ]
   },
   {
@@ -48593,10 +49167,10 @@ const generalAll = [
     "NAF Name": "Lladd",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 146.10676992147563,
+    "rating": 146.1067699214889,
     "bestRating": 155.76204730377037,
     "worstRating": 142.22264134978766,
-    "tendency": -9.356027594313531,
+    "tendency": -9.356027594300258,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -48650,7 +49224,7 @@ const generalAll = [
       142.22264134978766,
       147.1782629268097,
       152.11742091842646,
-      146.10676992147563
+      146.1067699214889
     ]
   },
   {
@@ -48784,10 +49358,10 @@ const generalAll = [
     "NAF Name": "Lluvia",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 120.07950065526195,
-    "bestRating": 150.1745006071894,
-    "worstRating": 120.07950065526195,
-    "tendency": -30.09499995192745,
+    "rating": 120.07967430150597,
+    "bestRating": 150.17450474622086,
+    "worstRating": 120.07967430150597,
+    "tendency": -30.094830444714887,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 0,
@@ -48834,14 +49408,14 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      150.1745006071894,
-      146.7062473690406,
-      146.15170731639088,
-      141.21005831512954,
-      135.35117090933522,
-      131.64649334141387,
-      125.16359854309192,
-      120.07950065526195
+      150.17450474622086,
+      146.70629906560737,
+      146.1518000040684,
+      141.2101629143314,
+      135.35127503086997,
+      131.6465942429591,
+      125.16377965557672,
+      120.07967430150597
     ]
   },
   {
@@ -48849,10 +49423,10 @@ const generalAll = [
     "NAF Name": "LOBERAS",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 163.49194812397917,
+    "rating": 163.49197388443477,
     "bestRating": 166.22288354836553,
     "worstRating": 134.0774357186102,
-    "tendency": 16.93108806459597,
+    "tendency": 16.93111382505157,
     "totalTournaments": 11,
     "totalGames": 46,
     "totalWins": 16,
@@ -48905,10 +49479,10 @@ const generalAll = [
       149.84389395191707,
       149.80400895520035,
       154.42636949470005,
-      155.96686865465273,
-      153.02814495150275,
-      157.56730808325491,
-      163.49194812397917
+      155.96687760785255,
+      153.02815389351184,
+      157.56732482524626,
+      163.49197388443477
     ]
   },
   {
@@ -48916,10 +49490,10 @@ const generalAll = [
     "NAF Name": "Lobero",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 131.03181885086767,
+    "rating": 131.03185316396298,
     "bestRating": 149.9083563541647,
-    "worstRating": 131.03181885086767,
-    "tendency": -16.003739809791682,
+    "worstRating": 131.03185316396298,
+    "tendency": -16.00370549669637,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 2,
@@ -48970,12 +49544,12 @@ const generalAll = [
       146.07818403954226,
       146.18769552367215,
       149.9083563541647,
-      147.54762691538207,
-      144.2231670106831,
-      137.68689146030368,
-      131.6159958950604,
-      137.40039866659293,
-      131.03181885086767
+      147.54766933632754,
+      144.22320790291266,
+      137.68693061998619,
+      131.61603336361827,
+      137.40043450917992,
+      131.03185316396298
     ]
   },
   {
@@ -49038,10 +49612,10 @@ const generalAll = [
     "NAF Name": "Lobo_tat",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 148.94785777855404,
-    "bestRating": 157.915718122668,
+    "rating": 148.94836422486875,
+    "bestRating": 157.91629002084662,
     "worstRating": 145.1153526512608,
-    "tendency": -1.8366034189904497,
+    "tendency": -1.8360969726757332,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -49090,14 +49664,14 @@ const generalAll = [
     "_lastTenRatings": [
       150.7844611975445,
       156.6256346906423,
-      155.62670692332975,
-      148.46082290737104,
-      153.9547242544688,
-      153.78516902521864,
-      157.915718122668,
-      154.46482403423352,
-      150.40958586091512,
-      148.94785777855404
+      155.62698173344734,
+      148.46116327743513,
+      153.9550562560189,
+      153.7855074685954,
+      157.91629002084662,
+      154.46529648376136,
+      150.41008106222745,
+      148.94836422486875
     ]
   },
   {
@@ -49105,10 +49679,10 @@ const generalAll = [
     "NAF Name": "Lope84",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 195.66238733829198,
-    "bestRating": 195.66238733829198,
+    "rating": 195.66238749205183,
+    "bestRating": 195.66238749205183,
     "worstRating": 155.11565477152553,
-    "tendency": 24.95481645333919,
+    "tendency": 24.954816607099048,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 12,
@@ -49161,10 +49735,10 @@ const generalAll = [
       174.5513730559502,
       179.76381221323567,
       174.76202437355963,
-      180.770938836381,
-      184.97330891801604,
-      189.25481003630884,
-      195.66238733829198
+      180.7709390109087,
+      184.97330908546706,
+      189.25481019691924,
+      195.66238749205183
     ]
   },
   {
@@ -49172,10 +49746,10 @@ const generalAll = [
     "NAF Name": "Lopez_Surround",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 134.23620915343665,
+    "rating": 134.23684677506915,
     "bestRating": 150,
-    "worstRating": 133.35005834919647,
-    "tendency": -15.763790846563353,
+    "worstRating": 133.3507864137986,
+    "tendency": -15.763153224930846,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -49226,10 +49800,10 @@ const generalAll = [
       145.3975933578228,
       139.72848481153912,
       139.54600471936516,
-      133.35005834919647,
-      139.50518651539258,
-      134.17704336034572,
-      134.23620915343665
+      133.3507864137986,
+      139.50588321415825,
+      134.17770991200163,
+      134.23684677506915
     ]
   },
   {
@@ -49237,10 +49811,10 @@ const generalAll = [
     "NAF Name": "Lopix",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 128.5473922539846,
-    "bestRating": 144.46524613830397,
-    "worstRating": 126.14609697591905,
-    "tendency": -6.753301220428142,
+    "rating": 128.54755717954225,
+    "bestRating": 144.46524614449797,
+    "worstRating": 126.14610924073665,
+    "tendency": -6.753144835276686,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 5,
@@ -49287,16 +49861,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      135.30069347441275,
-      131.33260717627113,
-      126.14609697591905,
-      131.34063988979264,
-      127.43833918460483,
-      132.17982317839122,
-      127.26584604433249,
-      134.49259912627397,
-      129.15440319792594,
-      128.5473922539846
+      135.30070201481894,
+      131.3326175640319,
+      126.14610924073665,
+      131.34065171817412,
+      127.43839242546458,
+      132.17989059201523,
+      127.26593329140142,
+      134.4926847979842,
+      129.154574796173,
+      128.54755717954225
     ]
   },
   {
@@ -49304,10 +49878,10 @@ const generalAll = [
     "NAF Name": "Lord Aion",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 142.932705805439,
+    "rating": 142.93284053723087,
     "bestRating": 167.36713873118302,
-    "worstRating": 142.932705805439,
-    "tendency": -19.243180445755968,
+    "worstRating": 142.93284053723087,
+    "tendency": -19.243045713964108,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 5,
@@ -49359,11 +49933,11 @@ const generalAll = [
       166.84373085498063,
       166.4303510288412,
       160.21889531862328,
-      153.73003673342387,
-      158.70924784061577,
-      153.28388189037537,
-      148.78076605046508,
-      142.932705805439
+      153.7301459884951,
+      158.7093800931842,
+      153.28402292285915,
+      148.78090506601563,
+      142.93284053723087
     ]
   },
   {
@@ -49371,10 +49945,10 @@ const generalAll = [
     "NAF Name": "Lord Axia",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 134.6571355635173,
+    "rating": 134.65714862612103,
     "bestRating": 145.16525216515947,
-    "worstRating": 134.07570472162004,
-    "tendency": -10.508116601642172,
+    "worstRating": 134.07571735134746,
+    "tendency": -10.508103539038444,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -49422,9 +49996,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       145.16525216515947,
-      140.28147758450356,
-      134.07570472162004,
-      134.6571355635173
+      140.28147762716097,
+      134.07571735134746,
+      134.65714862612103
     ]
   },
   {
@@ -49499,10 +50073,10 @@ const generalAll = [
     "NAF Name": "lordjuan",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 158.9499557865784,
-    "bestRating": 164.89950495349544,
+    "rating": 158.94995705281113,
+    "bestRating": 164.89950624364994,
     "worstRating": 136.76981204670486,
-    "tendency": 12.619736412680169,
+    "tendency": 12.619737678912884,
     "totalTournaments": 6,
     "totalGames": 25,
     "totalWins": 10,
@@ -49552,13 +50126,13 @@ const generalAll = [
       146.33021937389825,
       152.5706279777452,
       147.80274943900758,
-      153.075800290799,
-      158.65992750345103,
-      159.0523219831132,
-      163.39564009187723,
-      158.24713814100463,
-      164.89950495349544,
-      158.9499557865784
+      153.07580029079904,
+      158.65992750345106,
+      159.05232198311322,
+      163.39564009187725,
+      158.24713815994608,
+      164.89950624364994,
+      158.94995705281113
     ]
   },
   {
@@ -49633,10 +50207,10 @@ const generalAll = [
     "NAF Name": "Lordputo",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 156.28435517186563,
+    "rating": 156.28486221025628,
     "bestRating": 168.63477618227097,
     "worstRating": 147.553649942174,
-    "tendency": -4.32418266345141,
+    "tendency": -4.323675625060758,
     "totalTournaments": 7,
     "totalGames": 35,
     "totalWins": 13,
@@ -49684,15 +50258,15 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       160.60853783531704,
-      161.43677159064129,
-      158.14426531489275,
-      153.83365648154404,
-      160.25568446949217,
-      160.97098661476554,
-      164.58314422339006,
-      160.54312106697037,
-      157.17240612768018,
-      156.28435517186563
+      161.43677358875203,
+      158.14426725120128,
+      153.83365835481584,
+      160.25570023528604,
+      160.9710025240585,
+      164.58330502452142,
+      160.54328596243644,
+      157.1726683102701,
+      156.28486221025628
     ]
   },
   {
@@ -49887,35 +50461,35 @@ const generalAll = [
     "NAF Name": "Lord_buba",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 135.54929842543885,
+    "rating": 139.3053027375527,
     "bestRating": 194.3428437920685,
     "worstRating": 96.81650573701253,
-    "tendency": -21.092859953567086,
-    "totalTournaments": 38,
-    "totalGames": 156,
-    "totalWins": 47,
-    "totalDraws": 39,
-    "totalLosses": 70,
-    "totalWinRatio": 42.63,
-    "victoryStreak": 0,
+    "tendency": -12.587878041310631,
+    "totalTournaments": 39,
+    "totalGames": 161,
+    "totalWins": 48,
+    "totalDraws": 42,
+    "totalLosses": 71,
+    "totalWinRatio": 42.86,
+    "victoryStreak": 1,
     "bestVictoryStreak": 4,
-    "noLostStreak": 1,
+    "noLostStreak": 4,
     "bestNoLostStreak": 8,
     "lostStreak": 0,
     "worstLostStreak": 8,
-    "oneTdStreak": 2,
+    "oneTdStreak": 7,
     "bestOneTdStreak": 13,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 2,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 4,
     "proplayers": [
       {
-        "totalGames": 18,
+        "totalGames": 19,
         "totalWins": 5,
-        "totalDraws": 3,
+        "totalDraws": 4,
         "totalLosses": 10,
-        "totalWinRatio": 36.11
+        "totalWinRatio": 36.84
       }
     ],
     "topProplayers": [
@@ -49937,16 +50511,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      156.64215837900593,
-      153.37455879393247,
-      160.74427591277967,
-      155.94582271550803,
-      151.49593369818345,
       151.89318077886333,
       146.13431074872983,
       141.23952279302316,
       135.58072670252216,
-      135.54929842543885
+      135.54929842543885,
+      130.81767307012245,
+      129.85131345510706,
+      132.00647976605035,
+      133.02933806119395,
+      139.3053027375527
     ]
   },
   {
@@ -49954,10 +50528,10 @@ const generalAll = [
     "NAF Name": "Lord_Destruccion",
     "Country": "Spain",
     "CCAA": "Euskadi",
-    "rating": 161.4361967634344,
+    "rating": 161.43635984860347,
     "bestRating": 162.93457316942016,
     "worstRating": 145.0125207578101,
-    "tendency": 5.587634326386734,
+    "tendency": 5.587797411555812,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -50013,7 +50587,7 @@ const generalAll = [
       157.1842380938511,
       162.47412491506248,
       162.93457316942016,
-      161.4361967634344
+      161.43635984860347
     ]
   },
   {
@@ -50021,10 +50595,10 @@ const generalAll = [
     "NAF Name": "Lord_Fede",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 146.7810695653155,
-    "bestRating": 158.70796595975628,
+    "rating": 146.78106963550852,
+    "bestRating": 158.7079659597566,
     "worstRating": 131.4158034941372,
-    "tendency": 0.8131764857369035,
+    "tendency": 0.813176555929914,
     "totalTournaments": 6,
     "totalGames": 26,
     "totalWins": 8,
@@ -50075,12 +50649,12 @@ const generalAll = [
       139.727783918142,
       146.83331606201568,
       150.53495450799375,
-      158.70796595975628,
-      152.80409724545365,
-      148.5839374615497,
-      154.71038228579135,
-      147.9327865361598,
-      146.7810695653155
+      158.7079659597566,
+      152.80409724545396,
+      148.58393746177615,
+      154.710382286008,
+      147.93278654011314,
+      146.78106963550852
     ]
   },
   {
@@ -50215,10 +50789,10 @@ const generalAll = [
     "NAF Name": "Lord_Uruk",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 136.00006944684287,
+    "rating": 136.00009242905386,
     "bestRating": 144.1086134786632,
-    "worstRating": 130.2961242672632,
-    "tendency": -8.108544031820315,
+    "worstRating": 130.29612849384762,
+    "tendency": -8.108521049609323,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -50270,9 +50844,9 @@ const generalAll = [
       133.08994068752938,
       138.70614101570024,
       138.1793294185012,
-      135.00982117814272,
-      130.2961242672632,
-      136.00006944684287
+      135.0098212000703,
+      130.29612849384762,
+      136.00009242905386
     ]
   },
   {
@@ -50335,35 +50909,35 @@ const generalAll = [
     "NAF Name": "lorenzus",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 147.2728773042111,
-    "bestRating": 149.6987024939914,
-    "worstRating": 140.46601326190824,
-    "tendency": -2.4258251897802836,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 1,
-    "totalDraws": 1,
-    "totalLosses": 2,
-    "totalWinRatio": 37.5,
-    "victoryStreak": 1,
+    "rating": 149.3157685230736,
+    "bestRating": 150.39819399467,
+    "worstRating": 140.46601490954433,
+    "tendency": -0.38293397091780434,
+    "totalTournaments": 2,
+    "totalGames": 9,
+    "totalWins": 2,
+    "totalDraws": 4,
+    "totalLosses": 3,
+    "totalWinRatio": 44.44,
+    "victoryStreak": 0,
     "bestVictoryStreak": 1,
-    "noLostStreak": 1,
-    "bestNoLostStreak": 1,
+    "noLostStreak": 4,
+    "bestNoLostStreak": 4,
     "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 1,
-    "bestOneTdStreak": 1,
+    "oneTdStreak": 4,
+    "bestOneTdStreak": 4,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 0,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 1,
+        "totalWins": 1,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "topProplayers": [
@@ -50386,9 +50960,14 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       149.6987024939914,
-      146.52347149829026,
-      140.46601326190824,
-      147.2728773042111
+      146.52347312066956,
+      140.46601490954433,
+      147.27288682816058,
+      141.83736673366542,
+      149.48640838554365,
+      150.39819399467,
+      149.2062691158248,
+      149.3157685230736
     ]
   },
   {
@@ -50396,10 +50975,10 @@ const generalAll = [
     "NAF Name": "Loufter",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 131.90686327845972,
+    "rating": 131.90934538293988,
     "bestRating": 145.30958424017658,
     "worstRating": 127.6503018284667,
-    "tendency": -13.402720961716852,
+    "tendency": -13.400238857236701,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -50453,7 +51032,7 @@ const generalAll = [
       127.6503018284667,
       134.05432818623302,
       131.78824350814853,
-      131.90686327845972
+      131.90934538293988
     ]
   },
   {
@@ -50461,10 +51040,10 @@ const generalAll = [
     "NAF Name": "lro_demons",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 145.5849367112401,
-    "bestRating": 155.2765641626505,
+    "rating": 145.58634243375965,
+    "bestRating": 155.27816504588608,
     "worstRating": 145.31193595437333,
-    "tendency": 0.2730007568667645,
+    "tendency": 0.2744064793863288,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 2,
@@ -50513,10 +51092,10 @@ const generalAll = [
     "_lastTenRatings": [
       145.31193595437333,
       150.92097676671366,
-      155.2765641626505,
-      151.06113949722368,
-      151.33591560631362,
-      145.5849367112401
+      155.27816504588608,
+      151.06267538617664,
+      151.33738496740128,
+      145.58634243375965
     ]
   },
   {
@@ -50524,10 +51103,10 @@ const generalAll = [
     "NAF Name": "Lucas",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 154.65156161080745,
+    "rating": 154.6515806656334,
     "bestRating": 160.33700249790283,
     "worstRating": 139.06030818762338,
-    "tendency": -0.04200475267131765,
+    "tendency": -0.041985697845376535,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 9,
@@ -50580,10 +51159,10 @@ const generalAll = [
       150.59843394231407,
       156.96293308193086,
       153.07156623491773,
-      155.9759253869001,
-      153.81697594981873,
-      157.35927102134679,
-      154.65156161080745
+      155.97592538701002,
+      153.8169941078808,
+      157.35928887889673,
+      154.6515806656334
     ]
   },
   {
@@ -50778,10 +51357,10 @@ const generalAll = [
     "NAF Name": "Lucovik",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 149.7895868856322,
-    "bestRating": 159.51837810406542,
+    "rating": 149.78963959343585,
+    "bestRating": 159.51838155714316,
     "worstRating": 128.92120864505057,
-    "tendency": 11.66972797983945,
+    "tendency": 11.669780687643112,
     "totalTournaments": 7,
     "totalGames": 27,
     "totalWins": 9,
@@ -50829,15 +51408,15 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       138.11985890579274,
-      143.958144593081,
-      149.96879559003182,
-      147.1266677306486,
-      144.06902758028622,
-      143.79007176714853,
-      150.94520545248673,
-      159.51837810406542,
-      153.71330934613195,
-      149.7895868856322
+      143.9581445933879,
+      149.96879559032547,
+      147.12666773093298,
+      144.06902758056125,
+      143.79007176741285,
+      150.9452054527404,
+      159.51838155714316,
+      153.71331309196154,
+      149.78963959343585
     ]
   },
   {
@@ -50845,10 +51424,10 @@ const generalAll = [
     "NAF Name": "Luisete",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 165.9931155986636,
-    "bestRating": 165.9931155986636,
+    "rating": 165.9931735158751,
+    "bestRating": 165.9931735158751,
     "worstRating": 147.63518275425787,
-    "tendency": 10.289576521728236,
+    "tendency": 10.289634438939743,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 4,
@@ -50898,9 +51477,9 @@ const generalAll = [
       155.70353907693536,
       151.8855548197924,
       147.63518275425787,
-      152.71563790575686,
-      159.30635582502688,
-      165.9931155986636
+      152.71564101387446,
+      159.3064161357008,
+      165.9931735158751
     ]
   },
   {
@@ -50908,10 +51487,10 @@ const generalAll = [
     "NAF Name": "Luisfer82",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 152.8805547944581,
+    "rating": 152.88057057806122,
     "bestRating": 158.01485051160506,
     "worstRating": 149.41033709506522,
-    "tendency": -5.134295717146955,
+    "tendency": -5.134279933543837,
     "totalTournaments": 5,
     "totalGames": 19,
     "totalWins": 8,
@@ -50965,9 +51544,9 @@ const generalAll = [
       150.0081079095792,
       154.77864356003425,
       149.6356530811227,
-      153.19312484054663,
-      150.2710028059139,
-      152.8805547944581
+      153.193139876619,
+      150.27101751592664,
+      152.88057057806122
     ]
   },
   {
@@ -51348,10 +51927,10 @@ const generalAll = [
     "NAF Name": "LUMIBRALO",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 158.31728375385035,
+    "rating": 158.31736463413878,
     "bestRating": 169.18644287779745,
     "worstRating": 135.7788029252215,
-    "tendency": -10.8691591239471,
+    "tendency": -10.869078243658663,
     "totalTournaments": 7,
     "totalGames": 27,
     "totalWins": 11,
@@ -51402,12 +51981,12 @@ const generalAll = [
       161.5324198253894,
       161.00665648944172,
       166.06071277453867,
-      160.7584175045898,
-      164.95026888860872,
-      164.3973434658471,
-      157.1705903839056,
-      161.73819135063832,
-      158.31728375385035
+      160.75841750506424,
+      164.9502688890652,
+      164.3973914016651,
+      157.17063989508233,
+      161.7382500893672,
+      158.31736463413878
     ]
   },
   {
@@ -51663,10 +52242,10 @@ const generalAll = [
     "NAF Name": "lupercal",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 135.51052134052006,
+    "rating": 135.5105229488497,
     "bestRating": 144.34314575050763,
-    "worstRating": 134.9178315995919,
-    "tendency": -8.832624409987574,
+    "worstRating": 134.9178329784157,
+    "tendency": -8.83262280165792,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -51717,10 +52296,10 @@ const generalAll = [
       144.05783955501838,
       138.1486701407875,
       141.52368701728977,
-      137.62107411721217,
-      134.9178315995919,
-      140.80685461627925,
-      135.51052134052006
+      137.6210747980113,
+      134.9178329784157,
+      140.80685605552975,
+      135.5105229488497
     ]
   },
   {
@@ -51850,23 +52429,23 @@ const generalAll = [
     "NAF Name": "Macabeo",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 184.34324886905353,
+    "rating": 180.98427523520283,
     "bestRating": 210.43403496877684,
     "worstRating": 155.14531019425775,
-    "tendency": 10.444256743065068,
-    "totalTournaments": 15,
-    "totalGames": 62,
-    "totalWins": 28,
-    "totalDraws": 18,
-    "totalLosses": 16,
-    "totalWinRatio": 59.68,
+    "tendency": 0.028904741760982233,
+    "totalTournaments": 16,
+    "totalGames": 67,
+    "totalWins": 29,
+    "totalDraws": 21,
+    "totalLosses": 17,
+    "totalWinRatio": 58.96,
     "victoryStreak": 0,
     "bestVictoryStreak": 7,
-    "noLostStreak": 2,
+    "noLostStreak": 4,
     "bestNoLostStreak": 9,
     "lostStreak": 0,
     "worstLostStreak": 3,
-    "oneTdStreak": 2,
+    "oneTdStreak": 4,
     "bestOneTdStreak": 11,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 2,
@@ -51900,16 +52479,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      173.89899212598846,
-      174.44584494839432,
-      175.08026963105362,
-      178.57739417064784,
-      174.99842345742246,
-      180.95534772175876,
-      185.55852725771697,
-      181.46113615092133,
-      185.01044012310928,
-      184.34324886905353
+      180.95537049344185,
+      185.5585503252352,
+      181.46116139501927,
+      185.01046527543414,
+      184.34327819619074,
+      178.30264689652503,
+      176.53358537469495,
+      181.8941901754781,
+      181.09550090604714,
+      180.98427523520283
     ]
   },
   {
@@ -52158,10 +52737,10 @@ const generalAll = [
     "NAF Name": "MaD",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 162.38419125235728,
+    "rating": 162.3841913401675,
     "bestRating": 167.7530598676691,
     "worstRating": 151.41632495316117,
-    "tendency": -4.0516833392296405,
+    "tendency": -4.051683251419433,
     "totalTournaments": 2,
     "totalGames": 14,
     "totalWins": 6,
@@ -52213,11 +52792,11 @@ const generalAll = [
       162.71391296763804,
       157.533970844884,
       151.41632495316117,
-      156.93803343081188,
-      159.4159843647408,
-      152.82830148415903,
-      158.32461635706642,
-      162.38419125235728
+      156.93803343103608,
+      159.41598436935536,
+      152.82830154565815,
+      158.32461644852185,
+      162.3841913401675
     ]
   },
   {
@@ -52406,6 +52985,61 @@ const generalAll = [
     ]
   },
   {
+    "NAF Nr": "35228",
+    "NAF Name": "MaestroH",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "rating": 150,
+    "bestRating": 0,
+    "worstRating": 0,
+    "tendency": 0,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 0,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 0,
+    "lostStreak": 0,
+    "worstLostStreak": 0,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 0,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 0,
+    "noTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 0,
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
     "NAF Nr": "39741",
     "NAF Name": "Magalo",
     "Country": "Spain",
@@ -52465,10 +53099,10 @@ const generalAll = [
     "NAF Name": "Magikarp",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 110.65202293388923,
+    "rating": 110.65256625841357,
     "bestRating": 149.75599400899853,
-    "worstRating": 103.2941741833003,
-    "tendency": -13.941997158605503,
+    "worstRating": 103.2947420582116,
+    "tendency": -13.941598763617506,
     "totalTournaments": 7,
     "totalGames": 26,
     "totalWins": 7,
@@ -52515,16 +53149,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      124.59402009249473,
-      129.63464967793806,
-      124.28885502352068,
-      124.66945105488121,
-      118.84706962295274,
-      113.82526702413345,
-      115.35674688406125,
-      107.73103234743566,
-      103.2941741833003,
-      110.65202293388923
+      124.59416502203108,
+      129.63481660802117,
+      124.28901472775446,
+      124.66964792075021,
+      118.84740496251301,
+      113.82558830386958,
+      115.35705523688836,
+      107.73138239406346,
+      103.2947420582116,
+      110.65256625841357
     ]
   },
   {
@@ -52776,10 +53410,10 @@ const generalAll = [
     "NAF Name": "maillo",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 159.7363889940157,
-    "bestRating": 159.7363889940157,
+    "rating": 159.73937421333352,
+    "bestRating": 159.73937421333352,
     "worstRating": 115.35312726565643,
-    "tendency": 21.909864167947177,
+    "tendency": 21.908587635341945,
     "totalTournaments": 17,
     "totalGames": 71,
     "totalWins": 20,
@@ -52826,16 +53460,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      137.82652482606852,
-      134.77840470012094,
-      135.94345327240873,
-      142.34975770257802,
-      148.43846743761222,
-      151.33605963131504,
-      152.11857074907442,
-      153.66435749850075,
-      153.5419143745911,
-      159.7363889940157
+      137.83078657799157,
+      134.7825617935539,
+      135.947437528571,
+      142.35357522485398,
+      148.4421239067256,
+      151.3396060687507,
+      152.12196663031963,
+      153.6676176740053,
+      153.5450331344257,
+      159.73937421333352
     ]
   },
   {
@@ -52843,10 +53477,10 @@ const generalAll = [
     "NAF Name": "Majestyc12",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 106.83640247481097,
+    "rating": 106.83645350947103,
     "bestRating": 160.7938758930008,
-    "worstRating": 102.7786599047785,
-    "tendency": -13.672465105813615,
+    "worstRating": 102.77869860646081,
+    "tendency": -13.672414071379308,
     "totalTournaments": 13,
     "totalGames": 57,
     "totalWins": 16,
@@ -52893,16 +53527,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      120.50886758062458,
-      116.44929268533373,
-      113.54493353335137,
-      110.61738742355732,
-      110.65388699072946,
-      108.85675664771448,
-      104.37804778854827,
-      102.7786599047785,
-      109.95554808063493,
-      106.83640247481097
+      120.50886758085034,
+      116.44929268920468,
+      113.5449335371124,
+      110.61738795230492,
+      110.65389556904725,
+      108.85676847262624,
+      104.3780693433886,
+      102.77869860646081,
+      109.9555886877974,
+      106.83645350947103
     ]
   },
   {
@@ -52910,10 +53544,10 @@ const generalAll = [
     "NAF Name": "Major",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 193.79075123378416,
-    "bestRating": 206.6009359068403,
+    "rating": 193.7918073917868,
+    "bestRating": 206.6010495018273,
     "worstRating": 143.9972817603734,
-    "tendency": -4.0421613689065055,
+    "tendency": -4.0412261874167825,
     "totalTournaments": 8,
     "totalGames": 39,
     "totalWins": 19,
@@ -52960,16 +53594,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      197.83291260269067,
-      201.77649727613314,
-      206.6009359068403,
-      206.36303175231535,
-      205.46681064306068,
-      202.0263361194321,
-      195.9200464379364,
-      192.81091274142273,
-      196.07254066666948,
-      193.79075123378416
+      197.83303357920357,
+      201.77661436266223,
+      206.6010495018273,
+      206.36314916836972,
+      205.46704745589798,
+      202.0266581304834,
+      195.92048769467985,
+      192.81169206903283,
+      196.0736366524593,
+      193.7918073917868
     ]
   },
   {
@@ -52977,10 +53611,10 @@ const generalAll = [
     "NAF Name": "MAKOTTE",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 133.5184058267459,
-    "bestRating": 144.9009804864072,
-    "worstRating": 133.5184058267459,
-    "tendency": -11.382574659661316,
+    "rating": 133.66439258357394,
+    "bestRating": 144.80384757729337,
+    "worstRating": 133.66439258357394,
+    "tendency": -11.139454993719426,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 1,
@@ -53027,12 +53661,12 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.9009804864072,
-      139.8019609728144,
-      143.67721758538528,
-      138.29786938917496,
-      134.17336583209095,
-      133.5184058267459
+      144.80384757729337,
+      139.60769515458674,
+      143.83074505754973,
+      138.44835725774482,
+      134.318806493971,
+      133.66439258357394
     ]
   },
   {
@@ -53166,10 +53800,10 @@ const generalAll = [
     "NAF Name": "malasnoticias",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 184.3367927545191,
-    "bestRating": 188.57960540410195,
+    "rating": 184.3377767757653,
+    "bestRating": 188.57967167129505,
     "worstRating": 144.3337247870333,
-    "tendency": -2.03688176355368,
+    "tendency": -2.0359615338763604,
     "totalTournaments": 6,
     "totalGames": 33,
     "totalWins": 15,
@@ -53216,16 +53850,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      186.3736745180728,
-      185.54544076274854,
-      180.7863769563238,
-      183.81265155497525,
-      182.5426528414382,
-      182.91885653606192,
-      181.3852080231033,
-      177.21251514468648,
-      180.0487677575203,
-      184.3367927545191
+      186.37373830964165,
+      185.54550255620666,
+      180.78643676738602,
+      183.81285504553097,
+      182.54299410044143,
+      182.91919238399342,
+      181.38578429995252,
+      177.21318254593126,
+      180.0496578047666,
+      184.3377767757653
     ]
   },
   {
@@ -53233,10 +53867,10 @@ const generalAll = [
     "NAF Name": "Malatesta",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 128.07761145709628,
+    "rating": 128.0776342064415,
     "bestRating": 150.02664920552473,
-    "worstRating": 126.09920332195,
-    "tendency": -21.949037748428452,
+    "worstRating": 126.09920451869965,
+    "tendency": -21.949014999083232,
     "totalTournaments": 3,
     "totalGames": 11,
     "totalWins": 1,
@@ -53286,13 +53920,13 @@ const generalAll = [
       150.02664920552473,
       142.8485505846866,
       137.47933652089526,
-      135.29782458406163,
-      135.35103727754966,
-      129.7110379346811,
-      126.09920332195,
-      130.46639230036104,
-      126.9170883281731,
-      128.07761145709628
+      135.29782458514225,
+      135.35103727858336,
+      129.71103806747664,
+      126.09920451869965,
+      130.46641509006344,
+      126.91711120964858,
+      128.0776342064415
     ]
   },
   {
@@ -53365,27 +53999,27 @@ const generalAll = [
     "NAF Name": "mammut90",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 152.35821535358087,
-    "bestRating": 159.05499283151482,
+    "rating": 163.3489539550913,
+    "bestRating": 169.2158180729404,
     "worstRating": 146.6249763385922,
-    "tendency": 0.566552747266968,
-    "totalTournaments": 5,
-    "totalGames": 18,
-    "totalWins": 6,
-    "totalDraws": 7,
-    "totalLosses": 5,
-    "totalWinRatio": 52.78,
-    "victoryStreak": 1,
-    "bestVictoryStreak": 1,
-    "noLostStreak": 1,
+    "tendency": 9.599391139410045,
+    "totalTournaments": 6,
+    "totalGames": 23,
+    "totalWins": 9,
+    "totalDraws": 8,
+    "totalLosses": 6,
+    "totalWinRatio": 56.52,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 3,
+    "noLostStreak": 0,
     "bestNoLostStreak": 5,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 2,
-    "oneTdStreak": 1,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 6,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 2,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
@@ -53398,11 +54032,11 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 50
       }
     ],
     "megaProplayers": [
@@ -53415,16 +54049,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      151.7916626063139,
-      146.6249763385922,
-      146.9714723014695,
-      147.60758613766262,
-      153.8822752423717,
       153.74956281568126,
       159.05499283151482,
       152.93711810473073,
-      147.4509306329511,
-      152.35821535358087
+      147.45093082725253,
+      152.35821571360285,
+      154.94999993747,
+      159.5631875290408,
+      163.73537696703806,
+      169.2158180729404,
+      163.3489539550913
     ]
   },
   {
@@ -53487,10 +54121,10 @@ const generalAll = [
     "NAF Name": "mandalaky",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 152.6677557217053,
-    "bestRating": 163.09774017837506,
-    "worstRating": 152.6677557217053,
-    "tendency": -2.989098527787064,
+    "rating": 152.66277432461786,
+    "bestRating": 163.09775474791374,
+    "worstRating": 152.66277432461786,
+    "tendency": -2.9940799248745122,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -53538,9 +54172,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       155.65685424949237,
-      163.09774017837506,
-      155.45082441534652,
-      152.6677557217053
+      163.09775474791374,
+      155.44561993550505,
+      152.66277432461786
     ]
   },
   {
@@ -53613,10 +54247,10 @@ const generalAll = [
     "NAF Name": "Manra69",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 97.88824455243116,
+    "rating": 97.88834433875707,
     "bestRating": 145.48222014178862,
-    "worstRating": 94.13241966545804,
-    "tendency": -16.835051904952564,
+    "worstRating": 94.13242329428506,
+    "tendency": -16.83495211862666,
     "totalTournaments": 11,
     "totalGames": 44,
     "totalWins": 10,
@@ -53667,12 +54301,12 @@ const generalAll = [
       110.87998798177019,
       111.8077270192892,
       107.76381405328249,
-      104.34375917655579,
-      100.05417219250569,
-      97.58005409055636,
-      94.13241966545804,
-      102.31087341068714,
-      97.88824455243116
+      104.34375917958589,
+      100.05417219541383,
+      97.58005777317358,
+      94.13242329428506,
+      102.31097690473094,
+      97.88834433875707
     ]
   },
   {
@@ -53857,10 +54491,10 @@ const generalAll = [
     "NAF Name": "Mapache515",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 176.9806050668999,
-    "bestRating": 189.61958419601572,
+    "rating": 176.98164917968276,
+    "bestRating": 189.6207580719296,
     "worstRating": 138.23226118262727,
-    "tendency": 5.01274611335063,
+    "tendency": 5.012546474717823,
     "totalTournaments": 21,
     "totalGames": 91,
     "totalWins": 38,
@@ -53907,16 +54541,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      171.96785895354927,
-      176.52167502336476,
-      179.7659805178153,
-      183.6566847312755,
-      189.61958419601572,
-      182.9167407552179,
-      176.26745203976483,
-      169.24316326508804,
-      173.5646063563076,
-      176.9806050668999
+      171.96910270496494,
+      176.52292567600134,
+      179.76719047929194,
+      183.65789417219057,
+      189.6207580719296,
+      182.91788193938072,
+      176.26854520114375,
+      169.2442177727061,
+      173.5656176316885,
+      176.98164917968276
     ]
   },
   {
@@ -53924,10 +54558,10 @@ const generalAll = [
     "NAF Name": "MapacheCoactivo",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 129.82276499749526,
+    "rating": 129.82276549466087,
     "bestRating": 175.29244937485592,
     "worstRating": 101.68840957804993,
-    "tendency": 6.884093395800292,
+    "tendency": 6.8840938929659075,
     "totalTournaments": 31,
     "totalGames": 124,
     "totalWins": 36,
@@ -53977,13 +54611,13 @@ const generalAll = [
       122.93867160169496,
       126.41210554480124,
       127.22880909395877,
-      124.58984227509065,
-      124.79739521272968,
-      124.55401360179168,
-      127.33746354871343,
-      128.99512369330864,
-      124.88565333145382,
-      129.82276499749526
+      124.58984235085813,
+      124.79739528617729,
+      124.55400009478704,
+      127.33745488054598,
+      128.99511575211866,
+      124.88565205477836,
+      129.82276549466087
     ]
   },
   {
@@ -53991,10 +54625,10 @@ const generalAll = [
     "NAF Name": "Maquinator",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 176.65555839252954,
-    "bestRating": 185.8379863573967,
+    "rating": 176.65559243706466,
+    "bestRating": 185.83801840266858,
     "worstRating": 127.56739720742262,
-    "tendency": 1.1313436711445775,
+    "tendency": 1.13137732998959,
     "totalTournaments": 22,
     "totalGames": 85,
     "totalWins": 36,
@@ -54041,16 +54675,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      175.52421472138496,
-      168.96105804627192,
-      171.9565690079678,
-      176.86355493890477,
-      174.58689396826503,
-      174.90018344021885,
-      179.92232086570974,
-      185.8379863573967,
-      178.89540345602205,
-      176.65555839252954
+      175.52421510707507,
+      168.96105844762081,
+      171.95656944059024,
+      176.8635553530737,
+      174.58692645861873,
+      174.9002149042629,
+      179.9223514282267,
+      185.83801840266858,
+      178.89543814674008,
+      176.65559243706466
     ]
   },
   {
@@ -54113,26 +54747,26 @@ const generalAll = [
     "NAF Name": "Mario",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 148.118642718003,
-    "bestRating": 152.96767211928469,
-    "worstRating": 141.50632153355016,
-    "tendency": -1.5387234973512989,
-    "totalTournaments": 2,
-    "totalGames": 8,
-    "totalWins": 2,
-    "totalDraws": 4,
-    "totalLosses": 2,
-    "totalWinRatio": 50,
-    "victoryStreak": 1,
-    "bestVictoryStreak": 1,
+    "rating": 156.20115080016163,
+    "bestRating": 156.20115080016163,
+    "worstRating": 141.50649294872142,
+    "tendency": 13.147191120549081,
+    "totalTournaments": 3,
+    "totalGames": 13,
+    "totalWins": 4,
+    "totalDraws": 6,
+    "totalLosses": 3,
+    "totalWinRatio": 53.85,
+    "victoryStreak": 2,
+    "bestVictoryStreak": 2,
     "noLostStreak": 4,
     "bestNoLostStreak": 4,
     "lostStreak": 0,
     "worstLostStreak": 2,
     "oneTdStreak": 4,
     "bestOneTdStreak": 4,
-    "twoTdStreak": 0,
-    "bestTwoTdStreak": 1,
+    "twoTdStreak": 3,
+    "bestTwoTdStreak": 3,
     "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 1,
     "proplayers": [
@@ -54155,22 +54789,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
     "_lastTenRatings": [
-      149.6573662153543,
-      152.96767211928469,
-      147.81817992431763,
       143.05395967961255,
       143.35525718562116,
-      142.93624070930264,
-      141.50632153355016,
-      148.118642718003
+      142.93624200908582,
+      141.50649294872142,
+      148.11881630616196,
+      145.6316762268253,
+      145.3578935321641,
+      146.08462147127992,
+      150.95505586056882,
+      156.20115080016163
     ]
   },
   {
@@ -54178,10 +54814,10 @@ const generalAll = [
     "NAF Name": "mario_lopez",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 164.20092393478313,
-    "bestRating": 164.20092393478313,
+    "rating": 164.2009283784057,
+    "bestRating": 164.2009283784057,
     "worstRating": 150.6728729603716,
-    "tendency": 13.528050974411542,
+    "tendency": 13.528055418034114,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -54229,9 +54865,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       150.6728729603716,
-      156.86909888247013,
-      162.35528635424976,
-      164.20092393478313
+      156.86910336168648,
+      162.35529063916468,
+      164.2009283784057
     ]
   },
   {
@@ -54239,24 +54875,24 @@ const generalAll = [
     "NAF Name": "MarkyMarc",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 168.83019954655268,
-    "bestRating": 169.29385378818324,
+    "rating": 167.5855266026926,
+    "bestRating": 178.1399500512296,
     "worstRating": 155.65685424949237,
-    "tendency": 13.173345297060308,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 3,
+    "tendency": 11.928672353200227,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 5,
     "totalDraws": 1,
-    "totalLosses": 0,
-    "totalWinRatio": 87.5,
+    "totalLosses": 2,
+    "totalWinRatio": 68.75,
     "victoryStreak": 0,
     "bestVictoryStreak": 3,
-    "noLostStreak": 4,
-    "bestNoLostStreak": 4,
-    "lostStreak": 0,
-    "worstLostStreak": 0,
-    "oneTdStreak": 4,
-    "bestOneTdStreak": 4,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 6,
+    "lostStreak": 2,
+    "worstLostStreak": 2,
+    "oneTdStreak": 1,
+    "bestOneTdStreak": 6,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 3,
     "noTdAgainstStreak": 0,
@@ -54292,7 +54928,11 @@ const generalAll = [
       155.65685424949237,
       162.32717187139625,
       169.29385378818324,
-      168.83019954655268
+      168.83019954655268,
+      173.31758941823873,
+      178.1399500512296,
+      172.4167551877213,
+      167.5855266026926
     ]
   },
   {
@@ -54300,10 +54940,10 @@ const generalAll = [
     "NAF Name": "Marmolillo",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 112.64772424788372,
+    "rating": 112.64803363137949,
     "bestRating": 144.34314575050763,
-    "worstRating": 111.25996865659403,
-    "tendency": -10.372674135458965,
+    "worstRating": 111.26022991192802,
+    "tendency": -10.372615564742105,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 7,
@@ -54350,16 +54990,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      123.02039838334268,
-      117.67731711335156,
-      115.18890426993303,
-      111.80628746777968,
-      111.76978790060754,
-      117.6485034991941,
-      113.18018156481803,
-      111.25996865659403,
-      116.0904060237402,
-      112.64772424788372
+      123.0206491961216,
+      117.67755886361616,
+      115.18917512550681,
+      111.80655020965838,
+      111.77004259291606,
+      117.64875450007258,
+      113.18043187021985,
+      111.26022991192802,
+      116.09072713616922,
+      112.64803363137949
     ]
   },
   {
@@ -54482,10 +55122,10 @@ const generalAll = [
     "NAF Name": "marth",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 134.9685553258576,
+    "rating": 134.96859289266268,
     "bestRating": 166.74699300221084,
-    "worstRating": 134.9685553258576,
-    "tendency": -8.016222640134487,
+    "worstRating": 134.96859289266268,
+    "tendency": -8.016185186652308,
     "totalTournaments": 10,
     "totalGames": 35,
     "totalWins": 12,
@@ -54532,16 +55172,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      142.9847779659921,
-      147.42550103156145,
-      155.14944213392337,
-      158.2593788623971,
-      158.11350026650473,
-      150.57171760230324,
-      143.6376311442645,
-      139.62025593650625,
-      138.78000904054124,
-      134.9685553258576
+      142.984778079315,
+      147.42550114019153,
+      155.14944223846672,
+      158.25937896491413,
+      158.11350045974385,
+      150.57171810097154,
+      143.63763169791648,
+      139.6202799187941,
+      138.78003930234547,
+      134.96859289266268
     ]
   },
   {
@@ -54549,10 +55189,10 @@ const generalAll = [
     "NAF Name": "Martillazos",
     "Country": "Spain",
     "CCAA": "I. Canarias",
-    "rating": 149.94576111183324,
+    "rating": 149.9490697279601,
     "bestRating": 150,
-    "worstRating": 144.9009804864072,
-    "tendency": 5.044780625426029,
+    "worstRating": 144.80384757729337,
+    "tendency": 5.14522215066674,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -54599,9 +55239,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.9009804864072,
+      144.80384757729337,
       150,
-      149.94576111183324
+      149.9490697279601
     ]
   },
   {
@@ -54910,10 +55550,10 @@ const generalAll = [
     "NAF Name": "Massa",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 144.30623665016103,
+    "rating": 144.30624254127173,
     "bestRating": 152.73767238715996,
     "worstRating": 138.5704687112305,
-    "tendency": 3.2321822529074495,
+    "tendency": 3.232188144018153,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 5,
@@ -54968,8 +55608,8 @@ const generalAll = [
       148.13159035807385,
       144.06032665218908,
       150.60328711567905,
-      150.01715799184845,
-      144.30623665016103
+      150.01716094562045,
+      144.30624254127173
     ]
   },
   {
@@ -55038,10 +55678,10 @@ const generalAll = [
     "NAF Name": "Mateillo",
     "Country": "Spain",
     "CCAA": "Cantabria ",
-    "rating": 147.68234424364235,
-    "bestRating": 147.74921828344304,
-    "worstRating": 143.56231515671067,
-    "tendency": 3.359904835103947,
+    "rating": 147.6859925823867,
+    "bestRating": 147.75283641558903,
+    "worstRating": 143.56231515671206,
+    "tendency": 3.3635531738468387,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -55088,10 +55728,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.3224394085384,
-      143.56231515671067,
-      147.74921828344304,
-      147.68234424364235
+      144.32243940853985,
+      143.56231515671206,
+      147.75283641558903,
+      147.6859925823867
     ]
   },
   {
@@ -55099,10 +55739,10 @@ const generalAll = [
     "NAF Name": "Matrako",
     "Country": "Spain",
     "CCAA": "Aragón",
-    "rating": 113.80337989437075,
+    "rating": 113.80344502089181,
     "bestRating": 147.07727683798456,
-    "worstRating": 110.28630509933176,
-    "tendency": -9.769689476767411,
+    "worstRating": 110.2863051576136,
+    "tendency": -9.769624350246346,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 3,
@@ -55155,10 +55795,10 @@ const generalAll = [
       126.20404694737,
       121.88574307588021,
       117.61320687650446,
-      114.6923982542346,
-      110.28630509933176,
-      110.32858700079656,
-      113.80337989437075
+      114.69239825428113,
+      110.2863051576136,
+      110.3285981352851,
+      113.80344502089181
     ]
   },
   {
@@ -55227,10 +55867,10 @@ const generalAll = [
     "NAF Name": "Mavi",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 148.99248717398805,
-    "bestRating": 148.99248717398805,
-    "worstRating": 143.53096576841074,
-    "tendency": 4.649341423480422,
+    "rating": 148.99251315958745,
+    "bestRating": 148.99251315958745,
+    "worstRating": 143.530989129553,
+    "tendency": 4.649367409079815,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -55279,8 +55919,8 @@ const generalAll = [
     "_lastTenRatings": [
       144.34314575050763,
       143.55742438696223,
-      143.53096576841074,
-      148.99248717398805
+      143.530989129553,
+      148.99251315958745
     ]
   },
   {
@@ -55288,10 +55928,10 @@ const generalAll = [
     "NAF Name": "Maykel",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 131.57994253611676,
+    "rating": 131.57999460149324,
     "bestRating": 146.85359451036354,
-    "worstRating": 130.1686123862498,
-    "tendency": -9.614855883745776,
+    "worstRating": 130.1686627530711,
+    "tendency": -9.614803818369296,
     "totalTournaments": 3,
     "totalGames": 11,
     "totalWins": 2,
@@ -55342,12 +55982,12 @@ const generalAll = [
       146.85359451036354,
       141.8919285409532,
       137.77763480831638,
-      134.4467935833284,
-      136.5478658967202,
-      134.08766416345847,
-      130.1686123862498,
-      135.12810914295386,
-      131.57994253611676
+      134.4468174772238,
+      136.54788914467667,
+      134.08768905813218,
+      130.1686627530711,
+      135.12815749384794,
+      131.57999460149324
     ]
   },
   {
@@ -55355,10 +55995,10 @@ const generalAll = [
     "NAF Name": "Mcfarlane",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 148.92560953109046,
-    "bestRating": 155.31494841805184,
-    "worstRating": 148.92560953109046,
-    "tendency": -6.389338886961383,
+    "rating": 148.9258106617375,
+    "bestRating": 155.3151586132925,
+    "worstRating": 148.9258106617375,
+    "tendency": -6.38934795155501,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -55405,10 +56045,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      155.31494841805184,
-      150.4261606123161,
-      154.44584562652562,
-      148.92560953109046
+      155.3151586132925,
+      150.42636184955018,
+      154.44604447182965,
+      148.9258106617375
     ]
   },
   {
@@ -55541,10 +56181,10 @@ const generalAll = [
     "NAF Name": "Mefiel",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 113.83368386934026,
-    "bestRating": 145.75777754266045,
-    "worstRating": 113.83368386934026,
-    "tendency": -25.95390133810122,
+    "rating": 113.83392441302493,
+    "bestRating": 145.75779181766003,
+    "worstRating": 113.83392441302493,
+    "tendency": -25.953775166532353,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 0,
@@ -55591,16 +56231,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      139.78758520744148,
-      138.76164830835313,
-      134.40743750867256,
-      131.47165110183124,
-      129.3220674428054,
-      127.23100460894501,
-      128.95834162495066,
-      124.4494037546826,
-      118.5468430216011,
-      113.83368386934026
+      139.78769957955728,
+      138.76192090532695,
+      134.40770367434922,
+      131.47191920138692,
+      129.3223957566271,
+      127.23138899305593,
+      128.9586694771628,
+      124.4495951286959,
+      118.5470635176354,
+      113.83392441302493
     ]
   },
   {
@@ -55797,10 +56437,10 @@ const generalAll = [
     "NAF Name": "Meli",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 213.18458609447188,
-    "bestRating": 225.24111785521544,
+    "rating": 213.18479433089718,
+    "bestRating": 225.24122616785868,
     "worstRating": 140.70196368584027,
-    "tendency": 0.1771037678846028,
+    "tendency": 0.17726017511398595,
     "totalTournaments": 13,
     "totalGames": 54,
     "totalWins": 29,
@@ -55847,16 +56487,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      213.00748232658728,
-      213.059437277284,
-      216.88861161582003,
-      222.18769034032513,
-      215.9535625684025,
-      219.4571257243946,
-      225.24111785521544,
-      216.66794520363675,
-      221.7670975689573,
-      213.18458609447188
+      213.0075341557832,
+      213.0594874968278,
+      216.8886599772852,
+      222.18773976777535,
+      215.9536456439475,
+      219.4572060278498,
+      225.24122616785868,
+      216.66805006345592,
+      221.7672474364729,
+      213.18479433089718
     ]
   },
   {
@@ -55864,10 +56504,10 @@ const generalAll = [
     "NAF Name": "Melow",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 143.81666237709658,
-    "bestRating": 155.0990195135928,
-    "worstRating": 143.77620474924942,
-    "tendency": -11.282357136496216,
+    "rating": 144.06995548662036,
+    "bestRating": 155.19615242270663,
+    "worstRating": 144.0386986384583,
+    "tendency": -11.126196936086274,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 1,
@@ -55914,12 +56554,12 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      155.0990195135928,
-      149.96427443929042,
-      148.3153012285426,
-      144.01276206511452,
-      143.77620474924942,
-      143.81666237709658
+      155.19615242270663,
+      150.01559484792173,
+      148.59615133450427,
+      144.2842174336403,
+      144.0386986384583,
+      144.06995548662036
     ]
   },
   {
@@ -55994,10 +56634,10 @@ const generalAll = [
     "NAF Name": "Mena",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 123.13902150492109,
-    "bestRating": 151.85899952671542,
-    "worstRating": 123.13902150492109,
-    "tendency": -28.719978021794333,
+    "rating": 123.13902313083108,
+    "bestRating": 151.8589995267325,
+    "worstRating": 123.13902313083108,
+    "tendency": -28.719976395901426,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 0,
@@ -56044,12 +56684,12 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      151.85899952671542,
-      146.66039665212784,
-      140.3866978639453,
-      134.55418417016446,
-      128.76978139863192,
-      123.13902150492109
+      151.8589995267325,
+      146.66039665215615,
+      140.38669786398236,
+      134.55418417040522,
+      128.76978302484358,
+      123.13902313083108
     ]
   },
   {
@@ -56112,27 +56752,27 @@ const generalAll = [
     "NAF Name": "Mengu",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 205.247845976391,
-    "bestRating": 214.18910978171866,
+    "rating": 215.49786549702517,
+    "bestRating": 215.49786549702517,
     "worstRating": 133.6638625017048,
-    "tendency": 9.306642918499762,
-    "totalTournaments": 29,
-    "totalGames": 114,
-    "totalWins": 56,
-    "totalDraws": 21,
+    "tendency": 2.550563488559959,
+    "totalTournaments": 30,
+    "totalGames": 119,
+    "totalWins": 59,
+    "totalDraws": 23,
     "totalLosses": 37,
-    "totalWinRatio": 58.33,
-    "victoryStreak": 0,
+    "totalWinRatio": 59.24,
+    "victoryStreak": 1,
     "bestVictoryStreak": 6,
-    "noLostStreak": 0,
+    "noLostStreak": 5,
     "bestNoLostStreak": 8,
-    "lostStreak": 1,
+    "lostStreak": 0,
     "worstLostStreak": 4,
-    "oneTdStreak": 0,
+    "oneTdStreak": 5,
     "bestOneTdStreak": 10,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 5,
     "proplayers": [
       {
@@ -56154,24 +56794,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 8,
-        "totalWins": 3,
+        "totalGames": 9,
+        "totalWins": 4,
         "totalDraws": 3,
         "totalLosses": 2,
-        "totalWinRatio": 56.25
+        "totalWinRatio": 61.11
       }
     ],
     "_lastTenRatings": [
-      195.94120305789124,
-      194.186986408473,
-      192.0859140950812,
-      199.02845136187364,
-      205.77852654709622,
-      212.94725586476793,
-      211.01387878601753,
-      214.18910978171866,
-      213.03961043457429,
-      205.247845976391
+      212.94730200846521,
+      211.0139250576184,
+      214.18915443094022,
+      213.03965322791035,
+      205.24788749276794,
+      202.98327257974026,
+      206.9086634772503,
+      213.9401235797824,
+      211.71027658028544,
+      215.49786549702517
     ]
   },
   {
@@ -56179,35 +56819,35 @@ const generalAll = [
     "NAF Name": "Menguexe",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 183.70524026005236,
-    "bestRating": 183.70524026005236,
+    "rating": 188.506233224607,
+    "bestRating": 194.29258435523835,
     "worstRating": 151.55756057565856,
-    "tendency": 15.329885427412222,
-    "totalTournaments": 6,
-    "totalGames": 26,
-    "totalWins": 11,
-    "totalDraws": 10,
-    "totalLosses": 5,
-    "totalWinRatio": 61.54,
-    "victoryStreak": 4,
-    "bestVictoryStreak": 4,
-    "noLostStreak": 5,
-    "bestNoLostStreak": 8,
-    "lostStreak": 0,
+    "tendency": 23.048308544093345,
+    "totalTournaments": 7,
+    "totalGames": 31,
+    "totalWins": 14,
+    "totalDraws": 11,
+    "totalLosses": 6,
+    "totalWinRatio": 62.9,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 5,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 9,
+    "lostStreak": 1,
     "worstLostStreak": 2,
-    "oneTdStreak": 5,
+    "oneTdStreak": 10,
     "bestOneTdStreak": 12,
-    "twoTdStreak": 4,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 5,
+        "totalGames": 6,
         "totalWins": 1,
         "totalDraws": 2,
-        "totalLosses": 2,
-        "totalWinRatio": 40
+        "totalLosses": 3,
+        "totalWinRatio": 33.33
       }
     ],
     "topProplayers": [
@@ -56229,16 +56869,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      168.37535483264014,
-      168.65757098510932,
-      167.29978877162364,
-      172.20882416153512,
-      165.80564767248643,
       165.45792468051366,
-      169.15425077990915,
-      172.15585060742498,
-      177.338499830331,
-      183.70524026005236
+      169.1590356336715,
+      172.16047353151652,
+      177.34292344756446,
+      183.70947483809212,
+      187.35982433472827,
+      184.82666441552408,
+      189.79811252754104,
+      194.29258435523835,
+      188.506233224607
     ]
   },
   {
@@ -56307,10 +56947,10 @@ const generalAll = [
     "NAF Name": "Metzar",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 133.62689553044513,
+    "rating": 133.62701569816102,
     "bestRating": 152.3484653998273,
-    "worstRating": 133.62689553044513,
-    "tendency": -3.6241714671083685,
+    "worstRating": 133.62701569816102,
+    "tendency": -3.6240512993924767,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 7,
@@ -56363,10 +57003,10 @@ const generalAll = [
       146.66297381973342,
       141.33884985278533,
       142.44927177494986,
-      136.42087631867207,
-      137.328163490313,
-      137.61425513111587,
-      133.62689553044513
+      136.42087634486552,
+      137.3282904629333,
+      137.61437823047407,
+      133.62701569816102
     ]
   },
   {
@@ -56557,10 +57197,10 @@ const generalAll = [
     "NAF Name": "MiguelAngelLopez",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 147.98060839569663,
-    "bestRating": 147.98060839569663,
-    "worstRating": 142.82304786144243,
-    "tendency": 5.157560534254202,
+    "rating": 147.98064836212012,
+    "bestRating": 147.98064836212012,
+    "worstRating": 142.82308488139714,
+    "tendency": 5.157563480722985,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -56607,10 +57247,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      142.82304786144243,
-      143.92303639917878,
-      143.6369447583759,
-      147.98060839569663
+      142.82308488139714,
+      143.92307393429016,
+      143.63698616674938,
+      147.98064836212012
     ]
   },
   {
@@ -56618,28 +57258,28 @@ const generalAll = [
     "NAF Name": "miguelo",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
+    "rating": 134.34625810924007,
+    "bestRating": 150.5614379833299,
+    "worstRating": 134.34625810924007,
+    "tendency": -10.625391709764358,
+    "totalTournaments": 1,
+    "totalGames": 5,
+    "totalWins": 1,
     "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
+    "totalLosses": 4,
+    "totalWinRatio": 20,
     "victoryStreak": 0,
-    "bestVictoryStreak": 0,
+    "bestVictoryStreak": 1,
     "noLostStreak": 0,
-    "bestNoLostStreak": 0,
-    "lostStreak": 0,
-    "worstLostStreak": 0,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
+    "bestNoLostStreak": 1,
+    "lostStreak": 3,
+    "worstLostStreak": 3,
+    "oneTdStreak": 1,
+    "bestOneTdStreak": 1,
     "twoTdStreak": 0,
-    "bestTwoTdStreak": 0,
+    "bestTwoTdStreak": 1,
     "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
         "totalGames": 0,
@@ -56666,6 +57306,13 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      144.97164981900443,
+      150.5614379833299,
+      145.22107578005634,
+      139.97769516608247,
+      134.34625810924007
     ]
   },
   {
@@ -56728,44 +57375,44 @@ const generalAll = [
     "NAF Name": "Miguis",
     "Country": "Spain",
     "CCAA": "Cantabria ",
-    "rating": 118.39917909656498,
+    "rating": 137.08255434118243,
     "bestRating": 157.58555180208361,
-    "worstRating": 118.39917909656498,
-    "tendency": -37.78789000495462,
-    "totalTournaments": 5,
-    "totalGames": 20,
-    "totalWins": 5,
-    "totalDraws": 4,
+    "worstRating": 118.39939757480215,
+    "tendency": 11.03020959782485,
+    "totalTournaments": 6,
+    "totalGames": 25,
+    "totalWins": 7,
+    "totalDraws": 7,
     "totalLosses": 11,
-    "totalWinRatio": 35,
+    "totalWinRatio": 42,
     "victoryStreak": 0,
     "bestVictoryStreak": 2,
-    "noLostStreak": 0,
-    "bestNoLostStreak": 3,
-    "lostStreak": 3,
+    "noLostStreak": 5,
+    "bestNoLostStreak": 5,
+    "lostStreak": 0,
     "worstLostStreak": 5,
-    "oneTdStreak": 0,
+    "oneTdStreak": 2,
     "bestOneTdStreak": 3,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 1,
     "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 2,
+    "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 0
+        "totalWinRatio": 25
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 50
       }
     ],
     "megaProplayers": [
@@ -56778,16 +57425,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      156.1870691015196,
-      149.7647441682348,
-      142.2831672195482,
-      136.68421441826857,
-      131.8028098062893,
-      126.05233221300823,
-      129.36501935871348,
-      125.52364014847578,
-      121.44897193331053,
-      118.39917909656498
+      126.05234474335758,
+      129.36511032285082,
+      125.52372769567161,
+      121.44920394751777,
+      118.39939757480215,
+      124.62285425440427,
+      131.82811072454913,
+      134.95153815721764,
+      137.34240742054575,
+      137.08255434118243
     ]
   },
   {
@@ -56851,14 +57498,69 @@ const generalAll = [
     ]
   },
   {
+    "NAF Nr": "25215",
+    "NAF Name": "Mikelopanda",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "rating": 150,
+    "bestRating": 0,
+    "worstRating": 0,
+    "tendency": 0,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 0,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 0,
+    "lostStreak": 0,
+    "worstLostStreak": 0,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 0,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 0,
+    "noTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 0,
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
     "NAF Nr": "41527",
     "NAF Name": "Mikes_Campos",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 116.67348359519443,
+    "rating": 116.67364859727074,
     "bestRating": 150.80604302988883,
-    "worstRating": 116.67348359519443,
-    "tendency": -18.417452839412164,
+    "worstRating": 116.67364859727074,
+    "tendency": -18.417287950056263,
     "totalTournaments": 9,
     "totalGames": 28,
     "totalWins": 5,
@@ -56905,16 +57607,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      135.0909364346066,
-      131.5760358844541,
-      131.1814052482584,
-      126.79118721909559,
-      122.90583025476818,
-      123.81217688512821,
-      122.97065955115617,
-      119.47401706993764,
-      120.31426396590265,
-      116.67348359519443
+      135.090936547327,
+      131.57603599417814,
+      131.18142193891597,
+      126.79120413366196,
+      122.90585437798327,
+      123.81219998938356,
+      122.97083866992179,
+      119.47419402489889,
+      120.31443464134752,
+      116.67364859727074
     ]
   },
   {
@@ -56922,10 +57624,10 @@ const generalAll = [
     "NAF Name": "Mike_bowl",
     "Country": "Spain",
     "CCAA": "Cantabria ",
-    "rating": 139.75720829733586,
+    "rating": 139.75720832284765,
     "bestRating": 158.44160638427826,
-    "worstRating": 133.6763590878174,
-    "tendency": -11.676158344389023,
+    "worstRating": 133.67635908781747,
+    "tendency": -11.676158318877242,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 2,
@@ -56978,10 +57680,10 @@ const generalAll = [
       152.89754117013524,
       150.00998979183896,
       144.4960222277706,
-      138.94940993960884,
-      133.6763590878174,
-      139.5803783958946,
-      139.75720829733586
+      138.94940993960893,
+      133.67635908781747,
+      139.58037839589468,
+      139.75720832284765
     ]
   },
   {
@@ -57111,25 +57813,25 @@ const generalAll = [
     "NAF Name": "mime",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 143.3329635962772,
+    "rating": 148.03438344512134,
     "bestRating": 173.02259836988554,
     "worstRating": 123.68960545496266,
-    "tendency": -15.063973914761135,
-    "totalTournaments": 23,
-    "totalGames": 92,
-    "totalWins": 27,
-    "totalDraws": 32,
-    "totalLosses": 33,
-    "totalWinRatio": 46.74,
-    "victoryStreak": 0,
+    "tendency": -8.366167911137524,
+    "totalTournaments": 24,
+    "totalGames": 97,
+    "totalWins": 29,
+    "totalDraws": 33,
+    "totalLosses": 35,
+    "totalWinRatio": 46.91,
+    "victoryStreak": 1,
     "bestVictoryStreak": 3,
-    "noLostStreak": 0,
+    "noLostStreak": 1,
     "bestNoLostStreak": 8,
-    "lostStreak": 1,
+    "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 0,
+    "oneTdStreak": 1,
     "bestOneTdStreak": 11,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 2,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
@@ -57161,16 +57863,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      158.39693751103835,
-      164.39841911729573,
-      165.15065844784928,
-      161.7862514479951,
-      158.32976721680438,
-      156.40052152602382,
-      151.7973419900656,
-      145.8000257887418,
-      149.22682226428344,
-      143.3329635962772
+      156.40055135625886,
+      151.79737152446552,
+      145.8000547644864,
+      149.2268686665834,
+      143.333009992214,
+      138.28926170779613,
+      139.36035538129232,
+      146.35895903223127,
+      141.38184842346794,
+      148.03438344512134
     ]
   },
   {
@@ -57310,10 +58012,10 @@ const generalAll = [
     "NAF Name": "Misifu",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 194.4900017617428,
-    "bestRating": 201.05241266598773,
+    "rating": 194.4901892031967,
+    "bestRating": 201.05254744890308,
     "worstRating": 155.56508636351026,
-    "tendency": 1.8617692667998824,
+    "tendency": 1.8619553173519705,
     "totalTournaments": 34,
     "totalGames": 130,
     "totalWins": 65,
@@ -57360,16 +58062,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      192.62823249494292,
-      185.08537158886818,
-      192.23255474320612,
-      198.6154870785823,
-      201.05241266598773,
-      194.93545948688063,
-      194.06991787004412,
-      197.0509267998566,
-      192.29455153140174,
-      194.4900017617428
+      192.62823388584474,
+      185.0853734676024,
+      192.23255750213644,
+      198.6154912856234,
+      201.05254744890308,
+      194.93559512405545,
+      194.0700490258808,
+      197.05112538993473,
+      192.2947436672088,
+      194.4901892031967
     ]
   },
   {
@@ -57377,10 +58079,10 @@ const generalAll = [
     "NAF Name": "Mising",
     "Country": "Spain",
     "CCAA": "Murcia",
-    "rating": 165.45656197582448,
+    "rating": 165.45745456409554,
     "bestRating": 175.0242488636084,
     "worstRating": 151.01492794124638,
-    "tendency": -9.567686887783907,
+    "tendency": -9.56679429951285,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 8,
@@ -57433,10 +58135,10 @@ const generalAll = [
       159.81270521261624,
       165.9889310753177,
       158.47718833459587,
-      162.79191207320528,
-      164.19815657828212,
-      168.6736450674053,
-      165.45656197582448
+      162.79215757912846,
+      164.19873699304054,
+      168.67456758841774,
+      165.45745456409554
     ]
   },
   {
@@ -57627,10 +58329,10 @@ const generalAll = [
     "NAF Name": "Mistygun",
     "Country": "Spain",
     "CCAA": "I. Canarias",
-    "rating": 128.52783859213034,
-    "bestRating": 144.9009804864072,
-    "worstRating": 128.22912943295069,
-    "tendency": -16.37314189427687,
+    "rating": 129.50636506047002,
+    "bestRating": 144.80384757729337,
+    "worstRating": 129.24097513930437,
+    "tendency": -15.29748251682335,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 0,
@@ -57677,12 +58379,12 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.9009804864072,
-      139.8019609728144,
-      133.33730528023096,
-      128.46694377684977,
-      128.22912943295069,
-      128.52783859213034
+      144.80384757729337,
+      139.60769515458674,
+      134.41216468448155,
+      129.508363078148,
+      129.24097513930437,
+      129.50636506047002
     ]
   },
   {
@@ -57690,10 +58392,10 @@ const generalAll = [
     "NAF Name": "Mitico",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 122.38275702064183,
+    "rating": 122.38650919231618,
     "bestRating": 155.6973213975547,
-    "worstRating": 122.27517456509462,
-    "tendency": -22.46734638290826,
+    "worstRating": 122.27907351589357,
+    "tendency": -22.46830706263502,
     "totalTournaments": 6,
     "totalGames": 29,
     "totalWins": 6,
@@ -57740,16 +58442,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.8501034035501,
-      141.46487411359578,
-      137.85271650497126,
-      142.12005241455165,
-      139.02769305916874,
-      135.51804960725065,
-      130.46204564704877,
-      126.55288894978641,
-      122.27517456509462,
-      122.38275702064183
+      144.8548162549512,
+      141.46944000149446,
+      137.85713750103153,
+      142.12447566178827,
+      139.0320961793771,
+      135.52231998804098,
+      130.4661327077673,
+      126.55695390345664,
+      122.27907351589357,
+      122.38650919231618
     ]
   },
   {
@@ -57882,10 +58584,10 @@ const generalAll = [
     "NAF Name": "Moi_Morenate",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 115.5510867120461,
+    "rating": 115.5529622261338,
     "bestRating": 145.29230763065644,
-    "worstRating": 112.48419062431647,
-    "tendency": -7.166117247357718,
+    "worstRating": 112.48617918674567,
+    "tendency": -7.166252119591277,
     "totalTournaments": 11,
     "totalGames": 44,
     "totalWins": 12,
@@ -57932,16 +58634,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      122.71720395940382,
-      128.75355703303572,
-      127.20400957890773,
-      121.7552570136133,
-      124.67080610621355,
-      120.39235029467147,
-      117.29033632441799,
-      112.48419062431647,
-      118.96708542263842,
-      115.5510867120461
+      122.71921434572508,
+      128.75549577152196,
+      127.20592971223685,
+      121.75714029354269,
+      124.67270536699904,
+      120.39440504030982,
+      117.2923210627572,
+      112.48617918674567,
+      118.96899377412807,
+      115.5529622261338
     ]
   },
   {
@@ -57949,10 +58651,10 @@ const generalAll = [
     "NAF Name": "molinet",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 156.27203546772432,
+    "rating": 156.2720973391007,
     "bestRating": 157.22999410579718,
-    "worstRating": 149.96272388804584,
-    "tendency": 4.9086113896726715,
+    "worstRating": 149.9627883977304,
+    "tendency": 4.908673261049046,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 3,
@@ -58006,9 +58708,9 @@ const generalAll = [
       157.22999410579718,
       150.92346313357137,
       155.95798358201617,
-      155.6883802029291,
-      149.96272388804584,
-      156.27203546772432
+      155.6883835467324,
+      149.9627883977304,
+      156.2720973391007
     ]
   },
   {
@@ -58083,25 +58785,25 @@ const generalAll = [
     "NAF Name": "Monkey_d_luffy",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 154.41035636582328,
+    "rating": 158.6432346556411,
     "bestRating": 181.89907265341608,
     "worstRating": 144.50934538126157,
-    "tendency": -12.08478070277556,
-    "totalTournaments": 11,
-    "totalGames": 44,
-    "totalWins": 18,
-    "totalDraws": 7,
-    "totalLosses": 19,
-    "totalWinRatio": 48.86,
-    "victoryStreak": 0,
+    "tendency": 6.91938430168139,
+    "totalTournaments": 12,
+    "totalGames": 49,
+    "totalWins": 20,
+    "totalDraws": 8,
+    "totalLosses": 21,
+    "totalWinRatio": 48.98,
+    "victoryStreak": 1,
     "bestVictoryStreak": 3,
-    "noLostStreak": 0,
+    "noLostStreak": 1,
     "bestNoLostStreak": 5,
-    "lostStreak": 2,
+    "lostStreak": 0,
     "worstLostStreak": 5,
     "oneTdStreak": 1,
     "bestOneTdStreak": 9,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 2,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
@@ -58116,33 +58818,33 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 50
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 3,
+        "totalGames": 4,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 3,
+        "totalLosses": 4,
         "totalWinRatio": 0
       }
     ],
     "_lastTenRatings": [
-      166.49513706859884,
-      160.86806186800368,
-      159.45312223382976,
-      153.99865714318705,
-      158.52317822432408,
-      151.723840466923,
-      156.16127223736794,
-      161.97619499131392,
-      158.91317157979725,
-      154.41035636582328
+      151.7238503539597,
+      156.1612818392256,
+      161.97620421221333,
+      158.9131830611929,
+      154.4103702169209,
+      157.0141254498273,
+      162.3973521322351,
+      159.670921530884,
+      154.19048042498164,
+      158.6432346556411
     ]
   },
   {
@@ -58266,35 +58968,35 @@ const generalAll = [
     "NAF Name": "Mordekay",
     "Country": "Spain",
     "CCAA": "C. La Mancha",
-    "rating": 162.8111476496479,
+    "rating": 173.5543932219802,
     "bestRating": 181.19496338632723,
     "worstRating": 145.04290931614918,
-    "tendency": -6.305338207649555,
-    "totalTournaments": 10,
-    "totalGames": 42,
-    "totalWins": 17,
+    "tendency": 18.382007452587203,
+    "totalTournaments": 11,
+    "totalGames": 46,
+    "totalWins": 20,
     "totalDraws": 14,
-    "totalLosses": 11,
-    "totalWinRatio": 57.14,
-    "victoryStreak": 1,
+    "totalLosses": 12,
+    "totalWinRatio": 58.7,
+    "victoryStreak": 2,
     "bestVictoryStreak": 2,
-    "noLostStreak": 3,
+    "noLostStreak": 2,
     "bestNoLostStreak": 10,
     "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 5,
+    "oneTdStreak": 2,
     "bestOneTdStreak": 11,
-    "twoTdStreak": 3,
-    "bestTwoTdStreak": 3,
-    "noTdAgainstStreak": 0,
+    "twoTdStreak": 1,
+    "bestTwoTdStreak": 4,
+    "noTdAgainstStreak": 2,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 3,
-        "totalWins": 1,
+        "totalGames": 4,
+        "totalWins": 2,
         "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 50
+        "totalWinRatio": 62.5
       }
     ],
     "topProplayers": [
@@ -58316,16 +59018,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      169.11648585729745,
-      163.32032656547045,
-      157.60966106639697,
-      162.08791405265632,
-      155.17578366825856,
-      160.3707191892522,
-      155.76922758561818,
-      160.27816545588624,
-      159.82805027380212,
-      162.8111476496479
+      155.172385769393,
+      160.36747935063366,
+      155.76627709869513,
+      160.27535144716202,
+      159.82519027737587,
+      162.8083220190582,
+      168.68677256534548,
+      163.8644119323546,
+      169.07254757733438,
+      173.5543932219802
     ]
   },
   {
@@ -58333,10 +59035,10 @@ const generalAll = [
     "NAF Name": "MORGAN01",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 140.71736109237645,
+    "rating": 140.7202916520985,
     "bestRating": 156.32116892029964,
-    "worstRating": 140.71736109237645,
-    "tendency": -9.616018004542553,
+    "worstRating": 140.7202916520985,
+    "tendency": -9.613087444820508,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -58385,12 +59087,12 @@ const generalAll = [
     "_lastTenRatings": [
       150.333379096919,
       156.32116892029964,
-      155.5019124510323,
-      149.11801686887407,
-      147.9599342674926,
-      153.72586971955917,
-      147.52636031180108,
-      140.71736109237645
+      155.50211717917836,
+      149.120990812245,
+      147.96296596014395,
+      153.7287705519393,
+      147.5293945247136,
+      140.7202916520985
     ]
   },
   {
@@ -58398,10 +59100,10 @@ const generalAll = [
     "NAF Name": "Morneos",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 158.22580364216483,
-    "bestRating": 160.92003166012964,
-    "worstRating": 153.44161366575864,
-    "tendency": 2.568949392672465,
+    "rating": 158.22952970343283,
+    "bestRating": 160.9202906650812,
+    "worstRating": 153.44548646845737,
+    "tendency": 2.5726754539404624,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 3,
@@ -58449,9 +59151,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       155.65685424949237,
-      160.92003166012964,
-      153.44161366575864,
-      158.22580364216483
+      160.9202906650812,
+      153.44548646845737,
+      158.22952970343283
     ]
   },
   {
@@ -58646,10 +59348,10 @@ const generalAll = [
     "NAF Name": "Mourinhorc",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 148.49073709581393,
+    "rating": 148.4908763570921,
     "bestRating": 159.31365884988008,
-    "worstRating": 141.39453044827056,
-    "tendency": -5.081054960109924,
+    "worstRating": 141.39465887225302,
+    "tendency": -5.080915698831745,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -58700,10 +59402,10 @@ const generalAll = [
       153.66231347701705,
       159.31365884988008,
       153.77299313160495,
-      148.18544305007947,
-      141.39453044827056,
-      146.91611264904978,
-      148.49073709581393
+      148.18533242195946,
+      141.39465887225302,
+      146.9162360338769,
+      148.4908763570921
     ]
   },
   {
@@ -58839,10 +59541,10 @@ const generalAll = [
     "NAF Name": "MrDiecoke",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 145.52052760266733,
-    "bestRating": 150.87944386669412,
+    "rating": 145.52052707281098,
+    "bestRating": 150.87943830276032,
     "worstRating": 145.02900682995516,
-    "tendency": 0.491520772712164,
+    "tendency": 0.4915202428558132,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -58891,8 +59593,8 @@ const generalAll = [
     "_lastTenRatings": [
       145.02900682995516,
       150.67246267866605,
-      150.87944386669412,
-      145.52052760266733
+      150.87943830276032,
+      145.52052707281098
     ]
   },
   {
@@ -58900,10 +59602,10 @@ const generalAll = [
     "NAF Name": "Mromvir",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 166.6729074901264,
+    "rating": 166.67315187655782,
     "bestRating": 184.88697918607326,
     "worstRating": 149.12334114761865,
-    "tendency": -1.3712447003931914,
+    "tendency": -1.371000471605555,
     "totalTournaments": 13,
     "totalGames": 54,
     "totalWins": 26,
@@ -58950,16 +59652,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      168.04415219051958,
-      169.400492010876,
-      165.57131767233997,
-      159.73662736740172,
-      162.92272733889268,
-      167.53368936473117,
-      168.17887099735154,
-      172.23594315235985,
-      166.62725362489886,
-      166.6729074901264
+      168.04415234816338,
+      169.40049444726853,
+      165.57132196681115,
+      159.7366997749295,
+      162.92293708904091,
+      167.5338917474375,
+      168.17911801092626,
+      172.23618143564204,
+      166.6275028278592,
+      166.67315187655782
     ]
   },
   {
@@ -59032,10 +59734,10 @@ const generalAll = [
     "NAF Name": "Mrs.Heavy",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 144.40251789495375,
-    "bestRating": 149.68198760074657,
-    "worstRating": 143.8479181068746,
-    "tendency": 0.5545997880791447,
+    "rating": 144.4026593874876,
+    "bestRating": 149.68199213866788,
+    "worstRating": 143.8479157883644,
+    "tendency": 0.5547435991232135,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -59082,10 +59784,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      143.8479181068746,
-      149.68198760074657,
-      145.00398206545708,
-      144.40251789495375
+      143.8479157883644,
+      149.68199213866788,
+      145.00400065240405,
+      144.4026593874876
     ]
   },
   {
@@ -59093,10 +59795,10 @@ const generalAll = [
     "NAF Name": "MrToyce",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 161.73326799517235,
-    "bestRating": 161.73326799517235,
+    "rating": 161.73332230632732,
+    "bestRating": 161.73332230632732,
     "worstRating": 144.14748790082473,
-    "tendency": 17.390122244664724,
+    "tendency": 17.390176555819693,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -59147,10 +59849,10 @@ const generalAll = [
       144.34314575050763,
       149.75454514126656,
       144.14748790082473,
-      149.20584724781844,
-      149.7289275954642,
-      156.4442986509166,
-      161.73326799517235
+      149.20585703611528,
+      149.72893696240698,
+      156.44435506861706,
+      161.73332230632732
     ]
   },
   {
@@ -59158,10 +59860,10 @@ const generalAll = [
     "NAF Name": "mr_coates",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 120.22333632469193,
+    "rating": 120.22651549612208,
     "bestRating": 152.3519433336565,
     "worstRating": 92.61590454368769,
-    "tendency": 20.424448485597082,
+    "tendency": 20.427464425254456,
     "totalTournaments": 12,
     "totalGames": 47,
     "totalWins": 8,
@@ -59208,16 +59910,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      99.79888783909485,
-      106.35888999353958,
-      108.45237576536914,
-      111.39968140446193,
-      107.87294442431558,
-      104.28549754981545,
-      105.12701488378748,
-      111.40023140394422,
-      116.85030018975873,
-      120.22333632469193
+      99.79905107086762,
+      106.363171552276,
+      108.45649688799986,
+      111.40367216613002,
+      107.87678655828,
+      104.2891952746708,
+      105.13055659413257,
+      111.40363746302907,
+      116.85356328711745,
+      120.22651549612208
     ]
   },
   {
@@ -59225,10 +59927,10 @@ const generalAll = [
     "NAF Name": "Mr_goblin",
     "Country": "Spain",
     "CCAA": "I. Baleares",
-    "rating": 148.64031036462418,
-    "bestRating": 154.16774087522185,
+    "rating": 148.64165128898804,
+    "bestRating": 154.16914248439406,
     "worstRating": 144.15124085011624,
-    "tendency": 4.297164614116554,
+    "tendency": 4.298505538480413,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 4,
@@ -59281,10 +59983,10 @@ const generalAll = [
       144.41600624378287,
       150.3101712680882,
       145.05408255991733,
-      149.74378601930854,
-      150.01338939839565,
-      154.16774087522185,
-      148.64031036462418
+      149.74386320892512,
+      150.01346324420888,
+      154.16914248439406,
+      148.64165128898804
     ]
   },
   {
@@ -59353,10 +60055,10 @@ const generalAll = [
     "NAF Name": "Mudarra93",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 219.62256958974731,
-    "bestRating": 228.47532435365272,
+    "rating": 219.6232105766348,
+    "bestRating": 228.47610005302712,
     "worstRating": 157.04171866471503,
-    "tendency": -3.7978061897965176,
+    "tendency": -3.7979880610593852,
     "totalTournaments": 11,
     "totalGames": 44,
     "totalWins": 29,
@@ -59403,16 +60105,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      223.42037577954383,
-      226.0515352760732,
-      228.47532435365272,
-      221.6869102685645,
-      224.23187301534824,
-      222.38585135075058,
-      216.60185921992974,
-      218.52207212815375,
-      216.20166199295934,
-      219.62256958974731
+      223.42119863769418,
+      226.05233433637756,
+      228.47610005302712,
+      221.68768844115783,
+      224.23262795362052,
+      222.38657708632485,
+      216.60255694631596,
+      218.52275890460777,
+      216.20232512140637,
+      219.6232105766348
     ]
   },
   {
@@ -59420,10 +60122,10 @@ const generalAll = [
     "NAF Name": "Mula",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 129.3292657103595,
+    "rating": 129.32938737138176,
     "bestRating": 151.89708315211246,
-    "worstRating": 129.3292657103595,
-    "tendency": -20.670734289640507,
+    "worstRating": 129.32938737138176,
+    "tendency": -20.670612628618244,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -59474,10 +60176,10 @@ const generalAll = [
       151.89708315211246,
       149.45963555303203,
       149.4789558499922,
-      145.75214964883,
-      140.26813486259874,
-      134.37911184591138,
-      129.3292657103595
+      145.75215248340263,
+      140.26813763551456,
+      134.37911455840052,
+      129.32938737138176
     ]
   },
   {
@@ -59485,10 +60187,10 @@ const generalAll = [
     "NAF Name": "Muppetillo",
     "Country": "Spain",
     "CCAA": "Aragón",
-    "rating": 176.56178704523404,
-    "bestRating": 180.97234108729012,
+    "rating": 176.56202556909713,
+    "bestRating": 180.97260632896962,
     "worstRating": 145.48187925064695,
-    "tendency": 5.013705417263878,
+    "tendency": 5.013936369389569,
     "totalTournaments": 8,
     "totalGames": 36,
     "totalWins": 17,
@@ -59535,16 +60237,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      171.54808162797016,
-      174.93331091792447,
-      170.81011509019152,
-      174.8501382466112,
-      180.34175194663297,
-      176.61187153311926,
-      180.97234108729012,
-      177.22353902657503,
-      172.21637109711747,
-      176.56178704523404
+      171.54808919970756,
+      174.9334654531643,
+      170.8104019127327,
+      174.85042097481767,
+      180.3420267644966,
+      176.612147641442,
+      180.97260632896962,
+      177.22379553241393,
+      172.21661728556884,
+      176.56202556909713
     ]
   },
   {
@@ -59552,35 +60254,35 @@ const generalAll = [
     "NAF Name": "Murdraer",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 111.54413493542565,
+    "rating": 128.72384199749925,
     "bestRating": 164.3610260578122,
-    "worstRating": 99.20182489286084,
-    "tendency": 7.844202466781709,
-    "totalTournaments": 23,
-    "totalGames": 95,
-    "totalWins": 27,
+    "worstRating": 99.2018635518136,
+    "tendency": 20.505549774755394,
+    "totalTournaments": 24,
+    "totalGames": 100,
+    "totalWins": 30,
     "totalDraws": 24,
-    "totalLosses": 44,
-    "totalWinRatio": 41.05,
-    "victoryStreak": 1,
-    "bestVictoryStreak": 2,
-    "noLostStreak": 2,
+    "totalLosses": 46,
+    "totalWinRatio": 42,
+    "victoryStreak": 3,
+    "bestVictoryStreak": 3,
+    "noLostStreak": 3,
     "bestNoLostStreak": 5,
     "lostStreak": 0,
     "worstLostStreak": 6,
-    "oneTdStreak": 3,
+    "oneTdStreak": 4,
     "bestOneTdStreak": 8,
-    "twoTdStreak": 1,
-    "bestTwoTdStreak": 2,
-    "noTdAgainstStreak": 0,
+    "twoTdStreak": 3,
+    "bestTwoTdStreak": 3,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 7,
-        "totalWins": 2,
+        "totalGames": 8,
+        "totalWins": 3,
         "totalDraws": 1,
         "totalLosses": 4,
-        "totalWinRatio": 35.71
+        "totalWinRatio": 43.75
       }
     ],
     "topProplayers": [
@@ -59594,24 +60296,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 1,
         "totalDraws": 1,
-        "totalLosses": 0,
-        "totalWinRatio": 75
+        "totalLosses": 1,
+        "totalWinRatio": 50
       }
     ],
     "_lastTenRatings": [
-      103.69993246864394,
-      99.46454708079285,
-      107.77835063954755,
-      104.42737973555703,
-      102.25143781996388,
-      108.21825197215372,
-      103.2811403061123,
-      101.2975143625174,
-      105.40521224502746,
-      111.54413493542565
+      108.21829222274386,
+      103.28117878286136,
+      101.2975530514754,
+      105.40525141119208,
+      111.5441863610473,
+      110.19649437888303,
+      106.10502022045974,
+      113.03334583333422,
+      121.72387702662537,
+      128.72384199749925
     ]
   },
   {
@@ -59619,10 +60321,10 @@ const generalAll = [
     "NAF Name": "Musashi_Miyamoto",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 152.0202110550556,
+    "rating": 152.0203871678796,
     "bestRating": 154.94409181868767,
     "worstRating": 134.42367971336182,
-    "tendency": 11.798128538127202,
+    "tendency": 11.798304650951195,
     "totalTournaments": 7,
     "totalGames": 30,
     "totalWins": 13,
@@ -59673,12 +60375,12 @@ const generalAll = [
       145.64514323645597,
       140.3397132206224,
       147.08458024068864,
-      152.4127233957355,
-      147.46816474849234,
-      144.13688009059584,
-      151.16116886527263,
-      146.97957702097136,
-      152.0202110550556
+      152.41275354284525,
+      147.4682728571532,
+      144.13702772881587,
+      151.16135515725352,
+      146.97975671151391,
+      152.0203871678796
     ]
   },
   {
@@ -59686,10 +60388,10 @@ const generalAll = [
     "NAF Name": "Muskari",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 135.6335697726508,
-    "bestRating": 143.83852636298926,
-    "worstRating": 131.88887304156427,
-    "tendency": -8.204956590338469,
+    "rating": 135.63398037129406,
+    "bestRating": 143.8386211808554,
+    "worstRating": 131.88915296563786,
+    "tendency": -8.20464080956134,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -59736,10 +60438,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      143.83852636298926,
-      137.8011508543845,
-      131.88887304156427,
-      135.6335697726508
+      143.8386211808554,
+      137.8012418778859,
+      131.88915296563786,
+      135.63398037129406
     ]
   },
   {
@@ -59747,23 +60449,23 @@ const generalAll = [
     "NAF Name": "mygaitero",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 129.8455289898435,
+    "rating": 119.72468384617791,
     "bestRating": 144.67599823032995,
-    "worstRating": 123.79606469067755,
-    "tendency": -3.565293855275911,
-    "totalTournaments": 8,
-    "totalGames": 32,
+    "worstRating": 119.72468384617791,
+    "tendency": -18.227664060393394,
+    "totalTournaments": 9,
+    "totalGames": 37,
     "totalWins": 7,
-    "totalDraws": 11,
-    "totalLosses": 14,
-    "totalWinRatio": 39.06,
+    "totalDraws": 13,
+    "totalLosses": 17,
+    "totalWinRatio": 36.49,
     "victoryStreak": 0,
     "bestVictoryStreak": 3,
     "noLostStreak": 0,
     "bestNoLostStreak": 6,
-    "lostStreak": 1,
+    "lostStreak": 2,
     "worstLostStreak": 3,
-    "oneTdStreak": 2,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 3,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 2,
@@ -59771,19 +60473,19 @@ const generalAll = [
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 0
+        "totalWinRatio": 25
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 1,
+        "totalLosses": 2,
         "totalWinRatio": 0
       }
     ],
@@ -59797,16 +60499,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      133.4108228451194,
-      129.13187911314958,
-      124.15928656560902,
-      129.2065591058567,
-      133.12546850681113,
-      137.95198190731298,
-      138.7616917926294,
-      135.12356342830606,
-      134.58180199185168,
-      129.8455289898435
+      137.9523479065713,
+      138.76204701814817,
+      135.12390540402745,
+      134.582130307896,
+      129.84585223640312,
+      127.19720832311752,
+      127.56809993792767,
+      130.2221917162822,
+      125.27321898653686,
+      119.72468384617791
     ]
   },
   {
@@ -59869,10 +60571,10 @@ const generalAll = [
     "NAF Name": "Nachobill",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 151.15063410153806,
-    "bestRating": 151.15063410153806,
-    "worstRating": 145.71957420656796,
-    "tendency": 0.04271268685732821,
+    "rating": 151.15063428092824,
+    "bestRating": 151.15063428092824,
+    "worstRating": 145.7195743940409,
+    "tendency": 0.04271279332795075,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -59919,9 +60621,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      151.10792141468073,
-      145.71957420656796,
-      151.15063410153806
+      151.1079214876003,
+      145.7195743940409,
+      151.15063428092824
     ]
   },
   {
@@ -59929,10 +60631,10 @@ const generalAll = [
     "NAF Name": "Nachorel",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 156.44778855854236,
-    "bestRating": 161.90899728683397,
+    "rating": 156.4478014780484,
+    "bestRating": 161.909007194436,
     "worstRating": 144.57962455305685,
-    "tendency": 11.607801403148045,
+    "tendency": 11.607814322654093,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -59984,9 +60686,9 @@ const generalAll = [
       150.1951437676,
       144.57962455305685,
       150.47168476900194,
-      156.1039285289005,
-      161.90899728683397,
-      156.44778855854236
+      156.10393872925437,
+      161.909007194436,
+      156.4478014780484
     ]
   },
   {
@@ -59994,27 +60696,27 @@ const generalAll = [
     "NAF Name": "Nackaro",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 126.00035063213055,
+    "rating": 123.63884030005634,
     "bestRating": 149.40302610141285,
-    "worstRating": 122.38162665161704,
-    "tendency": -19.4012277401432,
-    "totalTournaments": 5,
-    "totalGames": 20,
-    "totalWins": 5,
-    "totalDraws": 4,
-    "totalLosses": 11,
-    "totalWinRatio": 35,
-    "victoryStreak": 1,
-    "bestVictoryStreak": 1,
-    "noLostStreak": 3,
-    "bestNoLostStreak": 3,
-    "lostStreak": 0,
+    "worstRating": 122.38181869003017,
+    "tendency": -6.800433578204874,
+    "totalTournaments": 6,
+    "totalGames": 24,
+    "totalWins": 6,
+    "totalDraws": 5,
+    "totalLosses": 13,
+    "totalWinRatio": 35.42,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 2,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 4,
+    "lostStreak": 1,
     "worstLostStreak": 3,
-    "oneTdStreak": 1,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 2,
-    "twoTdStreak": 1,
-    "bestTwoTdStreak": 1,
-    "noTdAgainstStreak": 2,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 2,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
@@ -60044,16 +60746,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      145.40157837227375,
-      142.65435933345037,
-      136.92672140133584,
-      136.24721278689242,
-      130.43907045095415,
-      125.42040668582075,
-      122.38162665161704,
-      122.68913929013222,
-      122.89738425876232,
-      126.00035063213055
+      130.43927387826122,
+      125.42060646742785,
+      122.38181869003017,
+      122.68935010410163,
+      122.89759160530193,
+      126.00063707424857,
+      130.9447196270801,
+      126.63968081888666,
+      127.52029480390713,
+      123.63884030005634
     ]
   },
   {
@@ -60247,10 +60949,10 @@ const generalAll = [
     "NAF Name": "nakai_bcn",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 129.1759919544039,
+    "rating": 129.17609478832244,
     "bestRating": 151.08141313464878,
-    "worstRating": 121.88098469551647,
-    "tendency": -7.125805129301369,
+    "worstRating": 121.88108780343215,
+    "tendency": -7.125702295382837,
     "totalTournaments": 5,
     "totalGames": 18,
     "totalWins": 4,
@@ -60304,9 +61006,9 @@ const generalAll = [
       128.39778789821835,
       122.7569915271805,
       130.51080137284137,
-      125.89336062981538,
-      121.88098469551647,
-      129.1759919544039
+      125.89338810228911,
+      121.88108780343215,
+      129.17609478832244
     ]
   },
   {
@@ -60580,10 +61282,10 @@ const generalAll = [
     "NAF Name": "NDiayo",
     "Country": "Spain",
     "CCAA": "C. La Mancha",
-    "rating": 163.3857991494808,
-    "bestRating": 163.3857991494808,
+    "rating": 163.38584020985746,
+    "bestRating": 163.38584020985746,
     "worstRating": 142.31790705439747,
-    "tendency": 19.353514603629122,
+    "tendency": 19.353555664005796,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -60636,10 +61338,10 @@ const generalAll = [
       145.26665677871011,
       144.83659739680857,
       145.6960762869194,
-      151.07519360354834,
-      151.51831373417335,
-      157.82194258370436,
-      163.3857991494808
+      151.07520543951483,
+      151.51832965335342,
+      157.82198276892112,
+      163.38584020985746
     ]
   },
   {
@@ -60647,10 +61349,10 @@ const generalAll = [
     "NAF Name": "Neferata",
     "Country": "Spain",
     "CCAA": "C. La Mancha",
-    "rating": 131.89045927180848,
+    "rating": 131.89052764593865,
     "bestRating": 151.8572109366927,
-    "worstRating": 131.89045927180848,
-    "tendency": -16.384790311062545,
+    "worstRating": 131.89052764593865,
+    "tendency": -16.38472193693238,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 6,
@@ -60703,10 +61405,10 @@ const generalAll = [
       134.9794043236315,
       141.59616975203033,
       142.38753176875193,
-      146.22696551408154,
-      141.49509200319912,
-      136.5245445844294,
-      131.89045927180848
+      146.22697536596195,
+      141.4951163379725,
+      136.52458636345662,
+      131.89052764593865
     ]
   },
   {
@@ -60848,27 +61550,27 @@ const generalAll = [
     "NAF Name": "Neko10",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 114.39991730459933,
+    "rating": 103.53143218021071,
     "bestRating": 152.60187339090197,
-    "worstRating": 109.13095323351375,
-    "tendency": -28.39392982741525,
-    "totalTournaments": 4,
-    "totalGames": 13,
+    "worstRating": 101.5672823491189,
+    "tendency": -17.489369727322526,
+    "totalTournaments": 5,
+    "totalGames": 18,
     "totalWins": 2,
-    "totalDraws": 1,
-    "totalLosses": 10,
-    "totalWinRatio": 19.23,
-    "victoryStreak": 1,
+    "totalDraws": 3,
+    "totalLosses": 13,
+    "totalWinRatio": 19.44,
+    "victoryStreak": 0,
     "bestVictoryStreak": 1,
-    "noLostStreak": 1,
-    "bestNoLostStreak": 1,
+    "noLostStreak": 2,
+    "bestNoLostStreak": 2,
     "lostStreak": 0,
     "worstLostStreak": 9,
-    "oneTdStreak": 1,
+    "oneTdStreak": 2,
     "bestOneTdStreak": 3,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 1,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
@@ -60898,16 +61600,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      142.79384713201458,
-      136.3379542495534,
-      130.91020348284556,
-      127.53879104197195,
-      123.02709486991992,
       121.02080190753324,
       118.74606482460179,
       114.27235746847488,
       109.13095323351375,
-      114.39991730459933
+      114.39991730459933,
+      110.38538817073426,
+      105.68314989684545,
+      101.5672823491189,
+      102.36438046720805,
+      103.53143218021071
     ]
   },
   {
@@ -60980,10 +61682,10 @@ const generalAll = [
     "NAF Name": "Neo_chains",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 107.24279697803712,
+    "rating": 107.24305083527504,
     "bestRating": 149.90487212748116,
     "worstRating": 99.40779337163255,
-    "tendency": -3.022921002579892,
+    "tendency": -3.023044027333256,
     "totalTournaments": 11,
     "totalGames": 42,
     "totalWins": 8,
@@ -61030,16 +61732,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      110.26571798061701,
-      106.18183349383995,
-      113.66341044252655,
-      120.43011169060708,
-      122.06720644782024,
-      118.16549107587768,
-      115.03261319735546,
-      111.3273999619506,
-      111.2851180604858,
-      107.24279697803712
+      110.2660948626083,
+      106.18219665104583,
+      113.66375947279383,
+      120.43044615000674,
+      122.06770733145285,
+      118.16597230567122,
+      115.03307813509865,
+      111.32767275803667,
+      111.28537978036516,
+      107.24305083527504
     ]
   },
   {
@@ -61173,26 +61875,26 @@ const generalAll = [
     "NAF Name": "NES_one",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150.32341210321863,
-    "bestRating": 153.3972544375091,
+    "rating": 164.68657889653502,
+    "bestRating": 164.88528441082036,
     "worstRating": 144.70556395150217,
-    "tendency": -3.0738423342904753,
-    "totalTournaments": 1,
-    "totalGames": 6,
-    "totalWins": 2,
-    "totalDraws": 2,
+    "tendency": 11.28932445902592,
+    "totalTournaments": 2,
+    "totalGames": 10,
+    "totalWins": 5,
+    "totalDraws": 3,
     "totalLosses": 2,
-    "totalWinRatio": 50,
-    "victoryStreak": 1,
-    "bestVictoryStreak": 1,
-    "noLostStreak": 1,
-    "bestNoLostStreak": 2,
+    "totalWinRatio": 65,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 4,
+    "noLostStreak": 5,
+    "bestNoLostStreak": 5,
     "lostStreak": 0,
     "worstLostStreak": 1,
-    "oneTdStreak": 1,
-    "bestOneTdStreak": 4,
-    "twoTdStreak": 1,
-    "bestTwoTdStreak": 1,
+    "oneTdStreak": 5,
+    "bestOneTdStreak": 5,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 4,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 1,
     "proplayers": [
@@ -61228,7 +61930,11 @@ const generalAll = [
       148.26022516210884,
       148.75166226281638,
       144.70556395150217,
-      150.32341210321863
+      150.32341210321863,
+      154.13440144420906,
+      159.16208954731206,
+      164.88528441082036,
+      164.68657889653502
     ]
   },
   {
@@ -61236,10 +61942,10 @@ const generalAll = [
     "NAF Name": "Netovic",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 127.64227902432481,
+    "rating": 127.64717756951642,
     "bestRating": 144.3450801208837,
-    "worstRating": 121.70727030148647,
-    "tendency": -2.2373564380101243,
+    "worstRating": 121.71289600378364,
+    "tendency": -2.23285872760583,
     "totalTournaments": 7,
     "totalGames": 26,
     "totalWins": 8,
@@ -61286,16 +61992,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      129.87963546233493,
-      124.50901745991756,
-      123.51257072121538,
-      130.66922249443246,
-      126.40042214327904,
-      125.98712958375822,
-      121.70727030148647,
-      128.49818290329537,
-      123.99189316201016,
-      127.64227902432481
+      129.88003629712225,
+      124.5094020189275,
+      123.5164144505128,
+      130.67291111323132,
+      126.40396216577054,
+      125.99299268255477,
+      121.71289600378364,
+      128.50356955349008,
+      123.99695906905454,
+      127.64717756951642
     ]
   },
   {
@@ -61370,10 +62076,10 @@ const generalAll = [
     "NAF Name": "Nevil",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 115.43576022388255,
+    "rating": 115.43715663586023,
     "bestRating": 144.64765727750554,
-    "worstRating": 115.43576022388255,
-    "tendency": -28.907385526625077,
+    "worstRating": 115.43715663586023,
+    "tendency": -28.905989114647397,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 0,
@@ -61426,10 +62132,10 @@ const generalAll = [
       139.16927409981975,
       135.3627853091496,
       135.7208500334251,
-      129.21629903947272,
-      123.65846394829356,
-      119.46292455135941,
-      115.43576022388255
+      129.2178834175522,
+      123.6599795569703,
+      119.46437874652362,
+      115.43715663586023
     ]
   },
   {
@@ -61498,10 +62204,10 @@ const generalAll = [
     "NAF Name": "NickNaborro",
     "Country": "Spain",
     "CCAA": "Murcia",
-    "rating": 167.39111670661663,
-    "bestRating": 167.39111670661663,
+    "rating": 167.39124176235725,
+    "bestRating": 167.39124176235725,
     "worstRating": 129.71283991395296,
-    "tendency": 16.61240392364701,
+    "tendency": 16.612528979387633,
     "totalTournaments": 7,
     "totalGames": 30,
     "totalWins": 12,
@@ -61550,14 +62256,14 @@ const generalAll = [
     "_lastTenRatings": [
       150.77871278296962,
       144.31523934083148,
-      150.33965342280968,
-      155.05660607404758,
-      155.6798322392054,
-      150.11597567342898,
-      155.76779449699774,
-      161.01160463239574,
-      166.44395157538372,
-      167.39111670661663
+      150.33965962101664,
+      155.05665451528438,
+      155.6798925865043,
+      150.11603514556796,
+      155.76785138697977,
+      161.01167125694903,
+      166.44405035744606,
+      167.39124176235725
     ]
   },
   {
@@ -61565,10 +62271,10 @@ const generalAll = [
     "NAF Name": "Nigromiaunte",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 141.87099122168198,
+    "rating": 141.87099122197446,
     "bestRating": 146.65787547884236,
     "worstRating": 136.4344415100807,
-    "tendency": -4.786884257160381,
+    "tendency": -4.786884256867893,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -61618,7 +62324,7 @@ const generalAll = [
       146.65787547884236,
       143.0377239777584,
       136.4344415100807,
-      141.87099122168198
+      141.87099122197446
     ]
   },
   {
@@ -61681,34 +62387,34 @@ const generalAll = [
     "NAF Name": "NikoBilis",
     "Country": "Spain",
     "CCAA": "Cantabria ",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
+    "rating": 149.14915737734472,
+    "bestRating": 153.24864752764128,
+    "worstRating": 146.08159673502647,
+    "tendency": -0.6558386933989766,
+    "totalTournaments": 1,
+    "totalGames": 5,
+    "totalWins": 1,
+    "totalDraws": 2,
+    "totalLosses": 2,
+    "totalWinRatio": 40,
     "victoryStreak": 0,
-    "bestVictoryStreak": 0,
+    "bestVictoryStreak": 1,
     "noLostStreak": 0,
-    "bestNoLostStreak": 0,
-    "lostStreak": 0,
-    "worstLostStreak": 0,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
+    "bestNoLostStreak": 2,
+    "lostStreak": 1,
+    "worstLostStreak": 1,
+    "oneTdStreak": 3,
+    "bestOneTdStreak": 3,
     "twoTdStreak": 0,
-    "bestTwoTdStreak": 0,
+    "bestTwoTdStreak": 1,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 0,
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 2,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 2,
         "totalWinRatio": 0
       }
     ],
@@ -61729,6 +62435,13 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      149.8049960707437,
+      146.08159673502647,
+      152.7680109952553,
+      153.24864752764128,
+      149.14915737734472
     ]
   },
   {
@@ -61736,10 +62449,10 @@ const generalAll = [
     "NAF Name": "Nikonakis",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 132.74687967210303,
+    "rating": 132.74688196575715,
     "bestRating": 150,
-    "worstRating": 132.74687967210303,
-    "tendency": -11.619021865816165,
+    "worstRating": 132.74688196575715,
+    "tendency": -11.619019572162046,
     "totalTournaments": 4,
     "totalGames": 15,
     "totalWins": 3,
@@ -61794,8 +62507,8 @@ const generalAll = [
       139.68503804979446,
       134.78735248381523,
       135.1732453928805,
-      136.7683250848821,
-      132.74687967210303
+      136.76832508493507,
+      132.74688196575715
     ]
   },
   {
@@ -61803,10 +62516,10 @@ const generalAll = [
     "NAF Name": "Nithrom",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 169.22595072454013,
+    "rating": 169.22628052945987,
     "bestRating": 171.12906179892522,
     "worstRating": 150,
-    "tendency": 11.61778533783027,
+    "tendency": 11.618115142750014,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 10,
@@ -61857,12 +62570,12 @@ const generalAll = [
       163.42991327680977,
       169.14214562449195,
       163.6554282733331,
-      169.04279564140344,
-      163.52843290338774,
-      159.76865327006416,
-      159.54276522055773,
-      163.52884051822446,
-      169.22595072454013
+      169.04293167902586,
+      163.52857333758462,
+      159.7689006594121,
+      159.54302126378388,
+      163.52924621229795,
+      169.22628052945987
     ]
   },
   {
@@ -62002,10 +62715,10 @@ const generalAll = [
     "NAF Name": "Noerciux",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 212.91621686692608,
-    "bestRating": 228.4673987756648,
+    "rating": 212.916328765149,
+    "bestRating": 228.4674406793223,
     "worstRating": 148.11281388233664,
-    "tendency": -1.5241538354333954,
+    "tendency": -1.5240419372104839,
     "totalTournaments": 11,
     "totalGames": 46,
     "totalWins": 27,
@@ -62054,14 +62767,14 @@ const generalAll = [
     "_lastTenRatings": [
       214.44037070235947,
       216.83486825160142,
-      222.99457366649395,
-      228.4673987756648,
-      228.23845205830713,
-      221.01490376620555,
-      219.0475103935352,
-      216.675837880868,
-      220.01401186574935,
-      212.91621686692608
+      222.9945736969791,
+      228.4674406793223,
+      228.23852934774607,
+      221.0150140756175,
+      219.0476229984862,
+      216.67595264170262,
+      220.0141250126017,
+      212.916328765149
     ]
   },
   {
@@ -62069,10 +62782,10 @@ const generalAll = [
     "NAF Name": "Nonio",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 171.87810046916786,
-    "bestRating": 171.87810046916786,
+    "rating": 171.87817681794598,
+    "bestRating": 171.87817681794598,
     "worstRating": 139.22618969493698,
-    "tendency": 27.00121443589984,
+    "tendency": 27.001290784677963,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 7,
@@ -62125,10 +62838,10 @@ const generalAll = [
       152.64769782679895,
       146.88331309237685,
       152.81879705356397,
-      160.02525804984663,
-      159.81523235514717,
-      166.41689174087625,
-      171.87810046916786
+      160.0252588838289,
+      159.8153126738786,
+      166.4169711015584,
+      171.87817681794598
     ]
   },
   {
@@ -62319,10 +63032,10 @@ const generalAll = [
     "NAF Name": "Nota",
     "Country": "Spain",
     "CCAA": "Euskadi",
-    "rating": 154.8844075800191,
-    "bestRating": 156.97789335184865,
+    "rating": 154.8845680753838,
+    "bestRating": 156.97789341110766,
     "worstRating": 145.07146074121067,
-    "tendency": -0.8962147479557814,
+    "tendency": -0.8960542525910569,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 5,
@@ -62376,9 +63089,9 @@ const generalAll = [
       146.86206677440072,
       149.79374038116205,
       145.07146074121067,
-      151.41658584316457,
-      156.97789335184865,
-      154.8844075800191
+      151.41658587728398,
+      156.97789341110766,
+      154.8845680753838
     ]
   },
   {
@@ -62492,14 +63205,69 @@ const generalAll = [
     ]
   },
   {
+    "NAF Nr": "42460",
+    "NAF Name": "Nurglete",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "rating": 150,
+    "bestRating": 0,
+    "worstRating": 0,
+    "tendency": 0,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 0,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 0,
+    "lostStreak": 0,
+    "worstLostStreak": 0,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 0,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 0,
+    "noTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 0,
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
     "NAF Nr": "20834",
     "NAF Name": "Nurglinos",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 130.36594459232387,
-    "bestRating": 157.33697717064732,
-    "worstRating": 124.84449867336414,
-    "tendency": -26.971032578323445,
+    "rating": 130.3625757045967,
+    "bestRating": 157.33697753112787,
+    "worstRating": 124.84096892913381,
+    "tendency": -26.974401826531164,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 6,
@@ -62546,16 +63314,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      157.33697717064732,
-      155.87423454710003,
-      152.05741920796592,
-      146.14408200951377,
-      145.53841740384289,
-      139.84746636969805,
-      134.66839166624408,
-      129.81631584582348,
-      124.84449867336414,
-      130.36594459232387
+      157.33697753112787,
+      155.86888833002945,
+      152.05229626566725,
+      146.13921095751223,
+      145.53407057506448,
+      139.84332676361083,
+      134.66442557017092,
+      129.81253282138178,
+      124.84096892913381,
+      130.3625757045967
     ]
   },
   {
@@ -62563,10 +63331,10 @@ const generalAll = [
     "NAF Name": "Nuwilwarin",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 149.10140545436008,
-    "bestRating": 152.41775280084767,
-    "worstRating": 142.30372716789543,
-    "tendency": 4.623212268361641,
+    "rating": 149.10140620600743,
+    "bestRating": 152.4177535257397,
+    "worstRating": 142.30372781496945,
+    "tendency": 4.62321302000899,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 3,
@@ -62617,12 +63385,12 @@ const generalAll = [
       149.34433321181214,
       145.4369756839632,
       145.53655968610215,
-      142.30372716789543,
-      150.56815283639037,
-      152.41775280084767,
-      149.12977456711334,
-      143.63345969420595,
-      149.10140545436008
+      142.30372781496945,
+      150.56815355981055,
+      152.4177535257397,
+      149.12977531912105,
+      143.63346041625735,
+      149.10140620600743
     ]
   },
   {
@@ -62630,10 +63398,10 @@ const generalAll = [
     "NAF Name": "Nynox",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 226.8814702990993,
-    "bestRating": 226.8814702990993,
+    "rating": 226.8821740226352,
+    "bestRating": 226.8821740226352,
     "worstRating": 147.29157942078118,
-    "tendency": 11.801827048979902,
+    "tendency": 11.8017318571371,
     "totalTournaments": 25,
     "totalGames": 107,
     "totalWins": 54,
@@ -62680,16 +63448,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      215.0796432501194,
-      218.71235586244268,
-      220.81319956256573,
-      222.9721489996471,
-      226.40731876271855,
-      222.2942486068152,
-      224.8943882037166,
-      223.26430377076713,
-      221.69175281540655,
-      226.8814702990993
+      215.0804421654981,
+      218.71312455120236,
+      220.813949975312,
+      222.97288125444123,
+      226.40803020600768,
+      222.29496394206592,
+      224.89508406582203,
+      223.26501764476538,
+      221.6924385202547,
+      226.8821740226352
     ]
   },
   {
@@ -62758,10 +63526,10 @@ const generalAll = [
     "NAF Name": "Obeliz",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 146.6473840372522,
+    "rating": 146.64783215285203,
     "bestRating": 156.26865503271287,
-    "worstRating": 141.7341065877946,
-    "tendency": -4.123012713449555,
+    "worstRating": 141.73427666609092,
+    "tendency": -4.122564597849731,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 5,
@@ -62815,9 +63583,9 @@ const generalAll = [
       143.4269991732282,
       150.26552082232269,
       146.0586743075373,
-      141.7341065877946,
-      147.27560890829804,
-      146.6473840372522
+      141.73427666609092,
+      147.2757716052123,
+      146.64783215285203
     ]
   },
   {
@@ -62825,10 +63593,10 @@ const generalAll = [
     "NAF Name": "OBERON.",
     "Country": "Spain",
     "CCAA": "I. Baleares",
-    "rating": 143.9165343687439,
+    "rating": 143.91803715126846,
     "bestRating": 174.36406952231638,
-    "worstRating": 137.25380836251287,
-    "tendency": -13.27447754539682,
+    "worstRating": 137.25544632153557,
+    "tendency": -13.272974762872252,
     "totalTournaments": 3,
     "totalGames": 16,
     "totalWins": 6,
@@ -62879,12 +63647,12 @@ const generalAll = [
       150.3881095160497,
       145.27514366749608,
       141.22654908692422,
-      145.8703799309496,
-      140.767922448429,
-      141.08262417794478,
-      137.25380836251287,
-      143.31958017940673,
-      143.9165343687439
+      145.87224130024853,
+      140.7697037769917,
+      141.08432840416057,
+      137.25544632153557,
+      143.32114739314002,
+      143.91803715126846
     ]
   },
   {
@@ -63238,10 +64006,10 @@ const generalAll = [
     "NAF Name": "oldmanlogan",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 149.2514475756264,
-    "bestRating": 151.79771549753076,
+    "rating": 149.2514849212357,
+    "bestRating": 151.79771582359038,
     "worstRating": 129.39557568761603,
-    "tendency": 14.617460945125828,
+    "tendency": 14.617498290735114,
     "totalTournaments": 4,
     "totalGames": 15,
     "totalWins": 6,
@@ -63296,8 +64064,8 @@ const generalAll = [
       141.31590784516504,
       146.33283682594168,
       148.87559346289802,
-      151.79771549753076,
-      149.2514475756264
+      151.79771582359038,
+      149.2514849212357
     ]
   },
   {
@@ -63366,22 +64134,22 @@ const generalAll = [
     "NAF Name": "Orioncillo",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 160.4177483643385,
-    "bestRating": 170.68345036981117,
-    "worstRating": 145.78580354378494,
-    "tendency": 4.290419147709912,
-    "totalTournaments": 7,
-    "totalGames": 32,
+    "rating": 136.23169581827517,
+    "bestRating": 170.68399527429568,
+    "worstRating": 136.23169581827517,
+    "tendency": -25.615033482738227,
+    "totalTournaments": 8,
+    "totalGames": 37,
     "totalWins": 14,
     "totalDraws": 6,
-    "totalLosses": 12,
-    "totalWinRatio": 53.13,
+    "totalLosses": 17,
+    "totalWinRatio": 45.95,
     "victoryStreak": 0,
     "bestVictoryStreak": 5,
     "noLostStreak": 0,
     "bestNoLostStreak": 5,
-    "lostStreak": 2,
-    "worstLostStreak": 2,
+    "lostStreak": 7,
+    "worstLostStreak": 7,
     "oneTdStreak": 0,
     "bestOneTdStreak": 9,
     "twoTdStreak": 0,
@@ -63408,24 +64176,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
     "_lastTenRatings": [
-      156.1273292166286,
-      150.50278699489445,
-      145.78580354378494,
-      151.02929971097487,
-      155.65387097339917,
       161.8467293010134,
       166.99063557929443,
-      170.68345036981117,
-      164.32886356935867,
-      160.4177483643385
+      170.68399527429568,
+      164.3293851751434,
+      160.41827953306586,
+      157.762835576033,
+      151.6317508520436,
+      145.67930215857234,
+      141.47779075786798,
+      136.23169581827517
     ]
   },
   {
@@ -63433,10 +64201,10 @@ const generalAll = [
     "NAF Name": "Ossian",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 144.6638247212688,
-    "bestRating": 149.90485379952048,
+    "rating": 144.6640375477961,
+    "bestRating": 149.9050887379342,
     "worstRating": 125.89663111422296,
-    "tendency": 8.202099248449088,
+    "tendency": 8.202312068206624,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 10,
@@ -63483,16 +64251,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      136.46172547281972,
-      131.5125688501989,
-      127.15152170179286,
-      132.09791637637983,
-      138.31160839863222,
-      145.4365318651444,
-      149.90485379952048,
-      144.27261003962192,
-      149.66253816406123,
-      144.6638247212688
+      136.4617254795895,
+      131.51256885667934,
+      127.15152185555962,
+      132.09810268450644,
+      138.31179159461712,
+      145.43676610808146,
+      149.9050887379342,
+      144.27283477768177,
+      149.662757086022,
+      144.6640375477961
     ]
   },
   {
@@ -63689,35 +64457,35 @@ const generalAll = [
     "NAF Name": "Pablo1880",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 175.19006904525986,
+    "rating": 184.8351804238165,
     "bestRating": 195.20688420106308,
     "worstRating": 123.30009321823734,
-    "tendency": 9.714540696968612,
-    "totalTournaments": 83,
-    "totalGames": 323,
-    "totalWins": 119,
-    "totalDraws": 81,
-    "totalLosses": 123,
-    "totalWinRatio": 49.38,
-    "victoryStreak": 0,
+    "tendency": 15.26318344284195,
+    "totalTournaments": 84,
+    "totalGames": 328,
+    "totalWins": 122,
+    "totalDraws": 82,
+    "totalLosses": 124,
+    "totalWinRatio": 49.7,
+    "victoryStreak": 1,
     "bestVictoryStreak": 4,
-    "noLostStreak": 0,
+    "noLostStreak": 1,
     "bestNoLostStreak": 9,
-    "lostStreak": 1,
+    "lostStreak": 0,
     "worstLostStreak": 4,
-    "oneTdStreak": 0,
+    "oneTdStreak": 1,
     "bestOneTdStreak": 13,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 5,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 41,
-        "totalWins": 11,
-        "totalDraws": 7,
-        "totalLosses": 23,
-        "totalWinRatio": 35.37
+        "totalGames": 44,
+        "totalWins": 12,
+        "totalDraws": 8,
+        "totalLosses": 24,
+        "totalWinRatio": 36.36
       }
     ],
     "topProplayers": [
@@ -63739,16 +64507,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      165.47552834829125,
-      165.7574932395444,
-      162.86833959744655,
-      170.26622154245536,
-      164.5463992610164,
-      169.57187431817363,
-      170.23906557222938,
-      173.6310702841251,
-      180.2198493223179,
-      175.19006904525986
+      169.57199698097455,
+      170.23918406021795,
+      173.63118452626193,
+      180.2199652528812,
+      175.19017960327395,
+      181.74693036908673,
+      185.09975148075333,
+      185.48947535756386,
+      179.93726801069076,
+      184.8351804238165
     ]
   },
   {
@@ -63756,10 +64524,10 @@ const generalAll = [
     "NAF Name": "Pablo28",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150.8548742170977,
-    "bestRating": 159.6705676269174,
+    "rating": 150.8591219266513,
+    "bestRating": 159.6764588930752,
     "worstRating": 141.66714206714067,
-    "tendency": -8.815693409819715,
+    "tendency": -8.81733696642388,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 11,
@@ -63806,16 +64574,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      159.6705676269174,
-      155.0888465833646,
-      154.96396460433155,
-      149.6764557681043,
-      151.8621995505063,
-      151.42063066131277,
-      146.8092777580981,
-      151.32270220409012,
-      145.60782575790986,
-      150.8548742170977
+      159.6764588930752,
+      155.0944952584031,
+      154.96942434749926,
+      149.68172659760936,
+      151.86739458592285,
+      151.4256443256544,
+      146.8141045489713,
+      151.32733011307647,
+      145.61225288497835,
+      150.8591219266513
     ]
   },
   {
@@ -63938,35 +64706,35 @@ const generalAll = [
     "NAF Name": "PABLOOD75",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 145.50690029398265,
+    "rating": 151.43062552332213,
     "bestRating": 167.89854750625858,
     "worstRating": 145.50690029398265,
-    "tendency": -15.003957197469447,
-    "totalTournaments": 3,
-    "totalGames": 11,
-    "totalWins": 4,
-    "totalDraws": 3,
-    "totalLosses": 4,
-    "totalWinRatio": 50,
-    "victoryStreak": 0,
+    "tendency": -3.494692197645179,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 6,
+    "totalDraws": 5,
+    "totalLosses": 5,
+    "totalWinRatio": 53.13,
+    "victoryStreak": 1,
     "bestVictoryStreak": 2,
     "noLostStreak": 1,
     "bestNoLostStreak": 5,
     "lostStreak": 0,
     "worstLostStreak": 3,
-    "oneTdStreak": 3,
-    "bestOneTdStreak": 5,
+    "oneTdStreak": 1,
+    "bestOneTdStreak": 6,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 2,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 1,
-        "totalDraws": 1,
+        "totalDraws": 2,
         "totalLosses": 0,
-        "totalWinRatio": 75
+        "totalWinRatio": 66.67
       }
     ],
     "topProplayers": [
@@ -63988,16 +64756,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      160.5108574914521,
-      161.89494600281927,
-      161.37992184377885,
-      167.89854750625858,
-      161.5127147857022,
       154.9253177209673,
       147.29804516060787,
       150.9919384193502,
       145.976369336822,
-      145.50690029398265
+      145.50690029398265,
+      145.70190422323896,
+      151.55868603557522,
+      153.06477520764054,
+      147.0813926693739,
+      151.43062552332213
     ]
   },
   {
@@ -64005,10 +64773,10 @@ const generalAll = [
     "NAF Name": "Pacho",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 204.06926265882524,
-    "bestRating": 204.06926265882524,
+    "rating": 204.06942075085956,
+    "bestRating": 204.06942075085956,
     "worstRating": 144.34314575050763,
-    "tendency": 22.482644187650436,
+    "tendency": 22.482802279684762,
     "totalTournaments": 10,
     "totalGames": 44,
     "totalWins": 25,
@@ -64058,13 +64826,13 @@ const generalAll = [
       181.5866184711748,
       185.65498432383615,
       189.72624802972092,
-      182.8199711717282,
-      183.37150260824208,
-      181.4636911007197,
-      185.66250596467043,
-      192.05383886648985,
-      198.02475294098033,
-      204.06926265882524
+      182.81997452746586,
+      183.37150595020526,
+      181.46369684663966,
+      185.66251655034736,
+      192.05386196174277,
+      198.0247941346351,
+      204.06942075085956
     ]
   },
   {
@@ -64072,10 +64840,10 @@ const generalAll = [
     "NAF Name": "Paco",
     "Country": "Spain",
     "CCAA": "Murcia",
-    "rating": 130.9055897410333,
+    "rating": 130.9060421405222,
     "bestRating": 163.54225074469323,
     "worstRating": 125.70208101928154,
-    "tendency": -14.117076280041346,
+    "tendency": -14.116635344408508,
     "totalTournaments": 9,
     "totalGames": 38,
     "totalWins": 11,
@@ -64122,16 +64890,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      145.02266602107466,
-      139.2859075532791,
-      133.3453269977225,
-      133.78447554238622,
-      139.81684692926433,
-      140.15409392377094,
-      146.23762541834583,
-      140.99381528294782,
-      136.15263820022113,
-      130.9055897410333
+      145.0226774849307,
+      139.28623638221256,
+      133.3456423509923,
+      133.78479490333135,
+      139.81715346396942,
+      140.15438895848925,
+      146.2379077161333,
+      140.99408784616404,
+      136.15291118219517,
+      130.9060421405222
     ]
   },
   {
@@ -64139,10 +64907,10 @@ const generalAll = [
     "NAF Name": "Pacoperro123",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 136.83298257125156,
-    "bestRating": 150.27633777922318,
-    "worstRating": 136.83298257125156,
-    "tendency": -9.507654401940727,
+    "rating": 136.8351573038095,
+    "bestRating": 150.27773432429416,
+    "worstRating": 136.8351573038095,
+    "tendency": -9.505479770222138,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -64189,10 +64957,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      146.3406369731923,
-      150.27633777922318,
-      143.575244119513,
-      136.83298257125156
+      146.34063707403163,
+      150.27773432429416,
+      143.5765846358361,
+      136.8351573038095
     ]
   },
   {
@@ -64200,10 +64968,10 @@ const generalAll = [
     "NAF Name": "PACOTE",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 159.31607095722387,
-    "bestRating": 165.50329168686932,
+    "rating": 159.3164571310836,
+    "bestRating": 165.50369245615263,
     "worstRating": 140.9079267040622,
-    "tendency": 10.827271217404103,
+    "tendency": 10.827657391263841,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 9,
@@ -64255,11 +65023,11 @@ const generalAll = [
       159.7493247810434,
       164.65757268588203,
       164.98995063694815,
-      159.06852982896163,
-      153.54775328096127,
-      159.7616188131899,
-      165.50329168686932,
-      159.31607095722387
+      159.06868373939693,
+      153.5479162035058,
+      159.76177573527912,
+      165.50369245615263,
+      159.3164571310836
     ]
   },
   {
@@ -64588,10 +65356,10 @@ const generalAll = [
     "NAF Name": "Pakulkan",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 156.5230212640788,
+    "rating": 156.52315222315283,
     "bestRating": 169.2314160436628,
     "worstRating": 143.6453275502289,
-    "tendency": 3.1118968979762656,
+    "tendency": 3.1120278570502933,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 9,
@@ -64646,8 +65414,8 @@ const generalAll = [
       169.2314160436628,
       163.9337577116899,
       157.39475156250592,
-      157.11997545341598,
-      156.5230212640788
+      157.12004198128128,
+      156.52315222315283
     ]
   },
   {
@@ -64844,10 +65612,10 @@ const generalAll = [
     "NAF Name": "Palomares",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 163.11327523657923,
-    "bestRating": 163.11327523657923,
-    "worstRating": 145.36726620323367,
-    "tendency": 17.74600903334556,
+    "rating": 163.1135244631497,
+    "bestRating": 163.1135244631497,
+    "worstRating": 145.36734081636783,
+    "tendency": 17.746183646781873,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 3,
@@ -64894,10 +65662,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      145.36726620323367,
-      149.73171293037925,
-      157.59303914114406,
-      163.11327523657923
+      145.36734081636783,
+      149.73197130749392,
+      157.59329065305755,
+      163.1135244631497
     ]
   },
   {
@@ -64905,19 +65673,19 @@ const generalAll = [
     "NAF Name": "Pandiani",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 190.51079867297398,
-    "bestRating": 193.36433726156625,
+    "rating": 199.74051902131697,
+    "bestRating": 199.9263727127273,
     "worstRating": 142.2238654925447,
-    "tendency": 2.798851035349628,
-    "totalTournaments": 8,
-    "totalGames": 34,
-    "totalWins": 18,
+    "tendency": 6.376181759750722,
+    "totalTournaments": 9,
+    "totalGames": 39,
+    "totalWins": 22,
     "totalDraws": 9,
-    "totalLosses": 7,
-    "totalWinRatio": 66.18,
-    "victoryStreak": 0,
+    "totalLosses": 8,
+    "totalWinRatio": 67.95,
+    "victoryStreak": 2,
     "bestVictoryStreak": 4,
-    "noLostStreak": 3,
+    "noLostStreak": 2,
     "bestNoLostStreak": 10,
     "lostStreak": 0,
     "worstLostStreak": 2,
@@ -64929,11 +65697,11 @@ const generalAll = [
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 3,
-        "totalWins": 1,
+        "totalGames": 4,
+        "totalWins": 2,
         "totalDraws": 2,
         "totalLosses": 0,
-        "totalWinRatio": 66.67
+        "totalWinRatio": 75
       }
     ],
     "topProplayers": [
@@ -64955,16 +65723,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      187.71194763762435,
-      193.0522247929471,
-      186.0855428761601,
-      190.87536138685266,
-      189.36936468537212,
       193.36433726156625,
       186.8280344927066,
       185.8693666740237,
       190.4908168176411,
-      190.51079867297398
+      190.51079867297398,
+      196.20297337701007,
+      199.9263727127273,
+      192.27747075302509,
+      194.98936044878923,
+      199.74051902131697
     ]
   },
   {
@@ -65033,10 +65801,10 @@ const generalAll = [
     "NAF Name": "Panzer68",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 191.37283949072923,
-    "bestRating": 193.7752053779012,
+    "rating": 191.3731822157096,
+    "bestRating": 193.77520541081512,
     "worstRating": 145.52786404500043,
-    "tendency": 18.18023769331333,
+    "tendency": 18.18058041823886,
     "totalTournaments": 20,
     "totalGames": 84,
     "totalWins": 38,
@@ -65083,16 +65851,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      173.1926017974159,
-      177.61163084475993,
-      182.77271381540493,
-      188.14617707793198,
-      193.7752053779012,
-      187.4084649481798,
-      191.5756662555021,
-      182.58236117405895,
-      186.08660748148796,
-      191.37283949072923
+      173.19260179747073,
+      177.61163084481444,
+      182.77271385137038,
+      188.1461771123398,
+      193.77520541081512,
+      187.40865402028746,
+      191.5758552299853,
+      182.58258693915903,
+      186.08696437144158,
+      191.3731822157096
     ]
   },
   {
@@ -65155,10 +65923,10 @@ const generalAll = [
     "NAF Name": "Pardakis",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 162.50292459911645,
+    "rating": 162.50299707488585,
     "bestRating": 184.39643994468253,
     "worstRating": 140.79577020034856,
-    "tendency": -4.860677726338025,
+    "tendency": -4.860605250568625,
     "totalTournaments": 13,
     "totalGames": 57,
     "totalWins": 23,
@@ -65207,14 +65975,14 @@ const generalAll = [
     "_lastTenRatings": [
       167.36360232545448,
       163.24276733453084,
-      159.4244678038529,
-      153.29802297961126,
-      158.13176065386216,
-      161.88063735836948,
-      162.37983104121602,
-      162.51740807011433,
-      157.44012218653816,
-      162.50292459911645
+      159.42446780385293,
+      153.29802297962107,
+      158.13176072574257,
+      161.88063743788877,
+      162.3798430077489,
+      162.5174773545056,
+      157.4401954675909,
+      162.50299707488585
     ]
   },
   {
@@ -65222,10 +65990,10 @@ const generalAll = [
     "NAF Name": "Parra11",
     "Country": "Spain",
     "CCAA": "C. La Mancha",
-    "rating": 173.29434972083484,
+    "rating": 173.29445389189993,
     "bestRating": 179.711982288173,
     "worstRating": 155.1114705811414,
-    "tendency": 10.813758037134306,
+    "tendency": 10.813862208199396,
     "totalTournaments": 11,
     "totalGames": 46,
     "totalWins": 16,
@@ -65275,13 +66043,13 @@ const generalAll = [
       162.48059168370054,
       155.70007872176672,
       161.28791840906138,
-      160.76483806141562,
-      163.5565781251754,
-      163.48702587414647,
-      167.81821230707817,
-      168.41340230534215,
-      167.64040256388495,
-      173.29434972083484
+      160.76483848276968,
+      163.5566369760139,
+      163.48710065788137,
+      167.81831562569576,
+      168.4135012047676,
+      167.64050258906389,
+      173.29445389189993
     ]
   },
   {
@@ -65356,10 +66124,10 @@ const generalAll = [
     "NAF Name": "Pascu",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 146.40695064316185,
-    "bestRating": 151.34793908040228,
-    "worstRating": 146.40695064316185,
-    "tendency": -4.940988437240435,
+    "rating": 146.40695234517918,
+    "bestRating": 151.34793935610597,
+    "worstRating": 146.40695234517918,
+    "tendency": -4.94098701092679,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -65406,10 +66174,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      151.34793908040228,
-      147.26121394983346,
-      146.6919659905464,
-      146.40695064316185
+      151.34793935610597,
+      147.2612142240869,
+      146.6919674908698,
+      146.40695234517918
     ]
   },
   {
@@ -65417,10 +66185,10 @@ const generalAll = [
     "NAF Name": "pashthor",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 132.2613105529466,
+    "rating": 132.26137365175708,
     "bestRating": 148.43544758910917,
-    "worstRating": 132.2613105529466,
-    "tendency": -12.839674028807053,
+    "worstRating": 132.26137365175708,
+    "tendency": -12.839610929996581,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -65472,9 +66240,9 @@ const generalAll = [
       144.71752380157207,
       139.84951316791094,
       145.94619136058853,
-      142.3502773615537,
-      137.7297642133815,
-      132.2613105529466
+      142.35029462593997,
+      137.7298091684284,
+      132.26137365175708
     ]
   },
   {
@@ -65482,35 +66250,35 @@ const generalAll = [
     "NAF Name": "Pas_Mao",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 185.73789331463885,
-    "bestRating": 190.78566790783344,
+    "rating": 197.09584953889922,
+    "bestRating": 197.09584953889922,
     "worstRating": 158.06725295719025,
-    "tendency": 13.734430221824027,
-    "totalTournaments": 7,
-    "totalGames": 30,
-    "totalWins": 14,
-    "totalDraws": 9,
+    "tendency": 9.74660549180669,
+    "totalTournaments": 8,
+    "totalGames": 35,
+    "totalWins": 17,
+    "totalDraws": 11,
     "totalLosses": 7,
-    "totalWinRatio": 61.67,
+    "totalWinRatio": 64.29,
     "victoryStreak": 1,
     "bestVictoryStreak": 3,
-    "noLostStreak": 1,
+    "noLostStreak": 6,
     "bestNoLostStreak": 7,
     "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 1,
+    "oneTdStreak": 6,
     "bestOneTdStreak": 13,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 3,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 7,
-        "totalWins": 1,
-        "totalDraws": 4,
+        "totalGames": 9,
+        "totalWins": 2,
+        "totalDraws": 5,
         "totalLosses": 2,
-        "totalWinRatio": 42.86
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
@@ -65532,16 +66300,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      172.00346309281483,
-      176.1747501187487,
-      176.9137434101519,
-      177.54221709388705,
-      183.06145818025902,
       187.34924404709253,
       190.78566790783344,
       187.17664270600906,
       181.5852043208217,
-      185.73789331463885
+      185.73789331463885,
+      189.88086013689085,
+      194.09009154840652,
+      193.70036767159598,
+      191.30949840826787,
+      197.09584953889922
     ]
   },
   {
@@ -65616,10 +66384,10 @@ const generalAll = [
     "NAF Name": "Patxacks",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 150.88790389936602,
+    "rating": 150.89319672527964,
     "bestRating": 176.23008943379074,
     "worstRating": 148.77080652753503,
-    "tendency": 0.5725232390425674,
+    "tendency": 0.5778160649561812,
     "totalTournaments": 10,
     "totalGames": 41,
     "totalWins": 17,
@@ -65670,12 +66438,12 @@ const generalAll = [
       149.70472448370253,
       148.77080652753503,
       154.47544679842693,
-      158.89202002895763,
-      164.81344083694415,
-      156.6335882367236,
-      161.7153029468983,
-      155.97363007321889,
-      150.88790389936602
+      158.89557265166755,
+      164.81683954921877,
+      156.63962196289606,
+      161.72107741022236,
+      155.97916068934884,
+      150.89319672527964
     ]
   },
   {
@@ -65744,10 +66512,10 @@ const generalAll = [
     "NAF Name": "Pawel406",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 174.5465788940731,
-    "bestRating": 174.5465788940731,
+    "rating": 174.54659245334804,
+    "bestRating": 174.54659245334804,
     "worstRating": 141.405049679362,
-    "tendency": 17.78433868383084,
+    "tendency": 17.784352243105786,
     "totalTournaments": 12,
     "totalGames": 47,
     "totalWins": 19,
@@ -65800,10 +66568,10 @@ const generalAll = [
       168.476667214151,
       168.71272510881295,
       164.16211272497034,
-      167.51308362896089,
-      162.51063745126322,
-      169.46993556400346,
-      174.5465788940731
+      167.51308519904688,
+      162.5106401217319,
+      169.4699465790859,
+      174.54659245334804
     ]
   },
   {
@@ -65811,35 +66579,35 @@ const generalAll = [
     "NAF Name": "Pececito",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 178.24920512284396,
-    "bestRating": 199.81512681406903,
+    "rating": 158.18346209077967,
+    "bestRating": 199.81553767923987,
     "worstRating": 142.49701166271646,
-    "tendency": -14.00722966519919,
-    "totalTournaments": 43,
-    "totalGames": 171,
+    "tendency": -17.77617792472614,
+    "totalTournaments": 44,
+    "totalGames": 176,
     "totalWins": 67,
-    "totalDraws": 54,
-    "totalLosses": 50,
-    "totalWinRatio": 54.97,
-    "victoryStreak": 1,
+    "totalDraws": 56,
+    "totalLosses": 53,
+    "totalWinRatio": 53.98,
+    "victoryStreak": 0,
     "bestVictoryStreak": 5,
-    "noLostStreak": 3,
+    "noLostStreak": 0,
     "bestNoLostStreak": 9,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 3,
-    "oneTdStreak": 4,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 21,
-    "twoTdStreak": 1,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 5,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 5,
     "proplayers": [
       {
-        "totalGames": 20,
+        "totalGames": 21,
         "totalWins": 6,
-        "totalDraws": 10,
+        "totalDraws": 11,
         "totalLosses": 4,
-        "totalWinRatio": 55
+        "totalWinRatio": 54.76
       }
     ],
     "topProplayers": [
@@ -65861,16 +66629,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      192.25643478804315,
-      191.237574803758,
-      183.15340268620398,
-      180.41670758980854,
-      181.91611216837552,
-      175.95918790403923,
-      171.33924197839184,
-      173.70102383073433,
-      173.41905893948118,
-      178.24920512284396
+      175.9596400155058,
+      171.33968672429967,
+      173.70145673108374,
+      173.41948123300116,
+      178.24961350555063,
+      177.98388274143764,
+      170.06152131781656,
+      163.3751070575877,
+      164.17379632701866,
+      158.18346209077967
     ]
   },
   {
@@ -65878,10 +66646,10 @@ const generalAll = [
     "NAF Name": "PedroR",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 212.08277276071058,
-    "bestRating": 226.83647663654526,
+    "rating": 212.0836041983992,
+    "bestRating": 226.83731105855415,
     "worstRating": 155.65685424949237,
-    "tendency": -3.9148727204465956,
+    "tendency": -3.914937672637535,
     "totalTournaments": 8,
     "totalGames": 36,
     "totalWins": 21,
@@ -65928,16 +66696,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      215.99764548115718,
-      213.43262438250932,
-      216.8151665862184,
-      220.54180881724614,
-      222.7234064806419,
-      226.83647663654526,
-      221.89684248653813,
-      223.4962303703079,
-      214.81298509359738,
-      212.08277276071058
+      215.99854187103674,
+      213.43349286344193,
+      216.81601144248978,
+      220.54266680036156,
+      222.7242447946124,
+      226.83731105855415,
+      221.8976774343417,
+      223.49704817126948,
+      214.81383664982008,
+      212.0836041983992
     ]
   },
   {
@@ -65945,10 +66713,10 @@ const generalAll = [
     "NAF Name": "Pedrowsky",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 169.88846768870266,
-    "bestRating": 171.02899990480512,
+    "rating": 169.88855039006032,
+    "bestRating": 171.02905579696312,
     "worstRating": 145.98789236570155,
-    "tendency": 13.744857195170681,
+    "tendency": 13.744939896528336,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 7,
@@ -66001,10 +66769,10 @@ const generalAll = [
       152.303948722577,
       158.26992708108295,
       159.82010646142325,
-      166.46939517687633,
-      171.02899990480512,
-      164.88975424591024,
-      169.88846768870266
+      166.46944319966022,
+      171.02905579696312,
+      164.88983085183443,
+      169.88855039006032
     ]
   },
   {
@@ -66398,10 +67166,10 @@ const generalAll = [
     "NAF Name": "Pergolas",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 147.06857731822606,
+    "rating": 147.06858323906343,
     "bestRating": 155.65685424949237,
-    "worstRating": 143.91257488730545,
-    "tendency": -8.588276931266307,
+    "worstRating": 143.91248572048187,
+    "tendency": -8.58827101042894,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -66452,10 +67220,10 @@ const generalAll = [
       152.3292938902605,
       146.70449992085136,
       146.94668467068848,
-      152.12575937414246,
-      149.74637527704044,
-      143.91257488730545,
-      147.06857731822606
+      152.1255858641284,
+      149.74615322634907,
+      143.91248572048187,
+      147.06858323906343
     ]
   },
   {
@@ -66463,10 +67231,10 @@ const generalAll = [
     "NAF Name": "periprocto",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 102.76691836583164,
+    "rating": 102.76694243427816,
     "bestRating": 150,
     "worstRating": 91.3976214522,
-    "tendency": -16.778814075419604,
+    "tendency": -16.778790006973082,
     "totalTournaments": 25,
     "totalGames": 98,
     "totalWins": 20,
@@ -66519,10 +67287,10 @@ const generalAll = [
       125.2578530107635,
       121.11563099400999,
       116.96606687758234,
-      113.31124827980815,
-      109.39757409233742,
-      103.43075994014758,
-      102.76691836583164
+      113.3112492256146,
+      109.39757571367383,
+      103.43076330931116,
+      102.76694243427816
     ]
   },
   {
@@ -66650,10 +67418,10 @@ const generalAll = [
     "NAF Name": "petertujo",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 132.96188262605583,
-    "bestRating": 147.8998038155719,
-    "worstRating": 132.96188262605583,
-    "tendency": -14.93792118951606,
+    "rating": 132.96188420069257,
+    "bestRating": 147.8998052627044,
+    "worstRating": 132.96188420069257,
+    "tendency": -14.937921062011839,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -66700,10 +67468,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      147.8998038155719,
-      143.62165295096358,
-      138.4174318972075,
-      132.96188262605583
+      147.8998052627044,
+      143.62165460267482,
+      138.41743349538856,
+      132.96188420069257
     ]
   },
   {
@@ -66772,10 +67540,10 @@ const generalAll = [
     "NAF Name": "pharalapoe",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 155.197468843062,
-    "bestRating": 160.2196062685529,
-    "worstRating": 154.68400074408012,
-    "tendency": 0.5134680989818889,
+    "rating": 155.19748017997136,
+    "bestRating": 160.21961670393517,
+    "worstRating": 154.68400074421916,
+    "tendency": 0.5134794357522026,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -66822,10 +67590,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      154.68400074408012,
-      154.9795713918179,
-      160.2196062685529,
-      155.197468843062
+      154.68400074421916,
+      154.97958202938844,
+      160.21961670393517,
+      155.19748017997136
     ]
   },
   {
@@ -67136,10 +67904,10 @@ const generalAll = [
     "NAF Name": "Pinguino_Tortuga",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 88.73426816033098,
+    "rating": 88.73473423183833,
     "bestRating": 142.77732650424974,
-    "worstRating": 88.07042658601505,
-    "tendency": -15.45356995436022,
+    "worstRating": 88.07091335680533,
+    "tendency": -15.453103882852872,
     "totalTournaments": 16,
     "totalGames": 58,
     "totalWins": 10,
@@ -67187,15 +67955,15 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       104.1878381146912,
-      100.93730398787702,
-      109.13841330839178,
-      107.14253266084157,
-      101.23105527001701,
-      98.27447950922691,
-      95.86441203996772,
-      91.4972230615567,
-      88.07042658601505,
-      88.73426816033098
+      100.93791339971942,
+      109.13900161320807,
+      107.14310731144043,
+      101.23161563593703,
+      98.27502588412511,
+      95.86493783026614,
+      91.49772725890234,
+      88.07091335680533,
+      88.73473423183833
     ]
   },
   {
@@ -67445,10 +68213,10 @@ const generalAll = [
     "NAF Name": "Polailo",
     "Country": "Spain",
     "CCAA": "Cantabria ",
-    "rating": 142.60391727674974,
-    "bestRating": 143.20501204771227,
+    "rating": 142.60411816290645,
+    "bestRating": 143.2050121761648,
     "worstRating": 137.65488718749512,
-    "tendency": -0.5922049594478835,
+    "tendency": -0.5920040732911787,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -67497,8 +68265,8 @@ const generalAll = [
     "_lastTenRatings": [
       143.19612223619762,
       137.65488718749512,
-      143.20501204771227,
-      142.60391727674974
+      143.2050121761648,
+      142.60411816290645
     ]
   },
   {
@@ -67506,10 +68274,10 @@ const generalAll = [
     "NAF Name": "Polemos",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 167.99549172612558,
-    "bestRating": 167.99549172612558,
+    "rating": 167.99709982953905,
+    "bestRating": 167.99709982953905,
     "worstRating": 124.66651133614292,
-    "tendency": 21.817674958575452,
+    "tendency": 21.8173503879446,
     "totalTournaments": 10,
     "totalGames": 39,
     "totalWins": 13,
@@ -67556,16 +68324,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      146.17781676755013,
-      147.046691633154,
-      150.8430203201565,
-      150.43959137164356,
-      154.22898493575516,
-      150.6659510838731,
-      155.1857337047573,
-      155.39575939945675,
-      161.60785829998954,
-      167.99549172612558
+      146.17974944159445,
+      147.04861132456165,
+      150.84493407389118,
+      150.44142245678987,
+      154.23090651254572,
+      150.6678460513007,
+      155.1875677530106,
+      155.39751396296091,
+      161.60953743717513,
+      167.99709982953905
     ]
   },
   {
@@ -67640,10 +68408,10 @@ const generalAll = [
     "NAF Name": "Pollo",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 213.55904398252352,
-    "bestRating": 214.20935983403578,
+    "rating": 213.5608780630239,
+    "bestRating": 214.2112606055353,
     "worstRating": 150,
-    "tendency": 21.56024718618994,
+    "tendency": 21.562081266690313,
     "totalTournaments": 14,
     "totalGames": 58,
     "totalWins": 31,
@@ -67695,11 +68463,11 @@ const generalAll = [
       197.10702214812014,
       195.19166589982828,
       198.06203382918355,
-      200.98494031152737,
-      203.24261182560411,
-      210.5595211501012,
-      214.20935983403578,
-      213.55904398252352
+      200.98496616391213,
+      203.2447599853493,
+      210.56162983332115,
+      214.2112606055353,
+      213.5608780630239
     ]
   },
   {
@@ -67707,10 +68475,10 @@ const generalAll = [
     "NAF Name": "Pol_BTS",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 149.59207569347598,
-    "bestRating": 154.64241804297745,
-    "worstRating": 139.56743872480348,
-    "tendency": -5.050342349501477,
+    "rating": 149.5975510866127,
+    "bestRating": 154.6480007103047,
+    "worstRating": 139.57364992607307,
+    "tendency": -5.050449623692003,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -67757,14 +68525,14 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      154.64241804297745,
-      148.9907461767635,
-      150.10031190558936,
-      146.02178183838805,
-      139.56743872480348,
-      144.96647056755054,
-      145.7325863810184,
-      149.59207569347598
+      154.6480007103047,
+      148.99637700472394,
+      150.10570765833302,
+      146.02731603602183,
+      139.57364992607307,
+      144.97241265190257,
+      145.73828288714375,
+      149.5975510866127
     ]
   },
   {
@@ -67772,10 +68540,10 @@ const generalAll = [
     "NAF Name": "poppen",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 127.68965166916423,
+    "rating": 127.6897515460478,
     "bestRating": 145.11848937993867,
     "worstRating": 95.91379103932827,
-    "tendency": 8.44934313247127,
+    "tendency": 8.449404767887017,
     "totalTournaments": 8,
     "totalGames": 38,
     "totalWins": 8,
@@ -67822,16 +68590,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      119.24030853669296,
-      117.50057640844476,
-      122.68708660879683,
-      123.41661096159892,
-      129.85201876089215,
-      136.55486220168999,
-      142.4137496074843,
-      138.12021382768776,
-      132.73028570324846,
-      127.68965166916423
+      119.24034677816078,
+      117.50063952615744,
+      122.68714784945269,
+      123.4166700509082,
+      129.8520796526909,
+      136.55495578523977,
+      142.4138436687012,
+      138.1203043107537,
+      132.73038200241348,
+      127.6897515460478
     ]
   },
   {
@@ -67906,22 +68674,22 @@ const generalAll = [
     "NAF Name": "potemkin99",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
+    "rating": 124.96803327601108,
+    "bestRating": 144.34314575050763,
+    "worstRating": 124.96803327601108,
+    "tendency": -19.375112474496547,
+    "totalTournaments": 1,
+    "totalGames": 5,
     "totalWins": 0,
     "totalDraws": 0,
-    "totalLosses": 0,
+    "totalLosses": 5,
     "totalWinRatio": 0,
     "victoryStreak": 0,
     "bestVictoryStreak": 0,
     "noLostStreak": 0,
     "bestNoLostStreak": 0,
-    "lostStreak": 0,
-    "worstLostStreak": 0,
+    "lostStreak": 5,
+    "worstLostStreak": 5,
     "oneTdStreak": 0,
     "bestOneTdStreak": 0,
     "twoTdStreak": 0,
@@ -67930,10 +68698,10 @@ const generalAll = [
     "bestNoTdAgainstStreak": 0,
     "proplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -67954,6 +68722,13 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.79508016182285,
+      135.15687145913805,
+      130.9680408526608,
+      124.96803327601108
     ]
   },
   {
@@ -67961,10 +68736,10 @@ const generalAll = [
     "NAF Name": "potti",
     "Country": "Spain",
     "CCAA": "I. Baleares",
-    "rating": 162.6765718420161,
+    "rating": 162.6766357152856,
     "bestRating": 163.56456989309635,
     "worstRating": 144.34314575050763,
-    "tendency": -0.11831782528776102,
+    "tendency": -0.11825395201825017,
     "totalTournaments": 3,
     "totalGames": 16,
     "totalWins": 6,
@@ -68019,8 +68794,8 @@ const generalAll = [
       158.0108449065675,
       152.67594297107104,
       157.54673500199934,
-      157.14914133141843,
-      162.6765718420161
+      157.1491445198796,
+      162.6766357152856
     ]
   },
   {
@@ -68028,10 +68803,10 @@ const generalAll = [
     "NAF Name": "Pptch",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 175.344097609308,
-    "bestRating": 175.344097609308,
+    "rating": 175.34417235808576,
+    "bestRating": 175.34417235808576,
     "worstRating": 149.9428605098813,
-    "tendency": 16.14979610243566,
+    "tendency": 16.14987085121342,
     "totalTournaments": 3,
     "totalGames": 16,
     "totalWins": 7,
@@ -68083,11 +68858,11 @@ const generalAll = [
       155.4847859978483,
       150.10129446554848,
       155.75375071678303,
-      161.00862819808572,
-      160.46748815487044,
-      167.37376501286315,
-      169.16219398692897,
-      175.344097609308
+      161.00871310368942,
+      160.46756940778076,
+      167.37384291003582,
+      169.1622689608858,
+      175.34417235808576
     ]
   },
   {
@@ -68095,10 +68870,10 @@ const generalAll = [
     "NAF Name": "pratchett713",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 143.5045295551694,
+    "rating": 143.50492134809343,
     "bestRating": 143.9033218073224,
-    "worstRating": 137.87692110294591,
-    "tendency": -0.39879225215301517,
+    "worstRating": 137.8773306596881,
+    "tendency": -0.3984004592289807,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -68146,9 +68921,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       143.9033218073224,
-      138.2032806177411,
-      137.87692110294591,
-      143.5045295551694
+      138.2032858409392,
+      137.8773306596881,
+      143.50492134809343
     ]
   },
   {
@@ -68156,10 +68931,10 @@ const generalAll = [
     "NAF Name": "Primo",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 137.2130792469666,
+    "rating": 137.21307924697732,
     "bestRating": 152.76612695784695,
     "worstRating": 135.4027810719132,
-    "tendency": -9.234090139494754,
+    "tendency": -9.234090139484039,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 1,
@@ -68212,7 +68987,7 @@ const generalAll = [
       140.62412573645855,
       135.4027810719132,
       136.93412343382892,
-      137.2130792469666
+      137.21307924697732
     ]
   },
   {
@@ -68220,10 +68995,10 @@ const generalAll = [
     "NAF Name": "Prisma",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 127.35989836711258,
+    "rating": 127.36004349790954,
     "bestRating": 149.55542750630522,
-    "worstRating": 121.33886420812533,
-    "tendency": -16.090642412864838,
+    "worstRating": 121.33890812745443,
+    "tendency": -16.090497282067872,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 2,
@@ -68277,9 +69052,9 @@ const generalAll = [
       127.54393593947717,
       133.37251362479068,
       128.65294819413413,
-      126.48120068999704,
-      121.33886420812533,
-      127.35989836711258
+      126.48120070824064,
+      121.33890812745443,
+      127.36004349790954
     ]
   },
   {
@@ -68354,10 +69129,10 @@ const generalAll = [
     "NAF Name": "Puente",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 128.41550919188694,
+    "rating": 128.4156452149943,
     "bestRating": 144.70849737787083,
-    "worstRating": 128.41550919188694,
-    "tendency": -16.292988185983887,
+    "worstRating": 128.4156452149943,
+    "tendency": -16.292852162876528,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 0,
@@ -68405,12 +69180,12 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       144.70849737787083,
-      139.78438420380294,
-      134.217501269066,
-      130.77581448014746,
-      128.76040547376763,
-      128.55216050513755,
-      128.41550919188694
+      139.78438556322783,
+      134.21750029949746,
+      130.77583481366113,
+      128.760515050349,
+      128.5522735491487,
+      128.4156452149943
     ]
   },
   {
@@ -68538,23 +69313,23 @@ const generalAll = [
     "NAF Name": "Purohit",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 157.11318677627128,
+    "rating": 163.18626896850088,
     "bestRating": 194.82756516865516,
     "worstRating": 155.03731265436102,
-    "tendency": -30.70683685436387,
-    "totalTournaments": 14,
-    "totalGames": 56,
-    "totalWins": 23,
-    "totalDraws": 16,
-    "totalLosses": 17,
-    "totalWinRatio": 55.36,
+    "tendency": -14.63954243584908,
+    "totalTournaments": 15,
+    "totalGames": 61,
+    "totalWins": 25,
+    "totalDraws": 18,
+    "totalLosses": 18,
+    "totalWinRatio": 55.74,
     "victoryStreak": 0,
     "bestVictoryStreak": 4,
     "noLostStreak": 0,
     "bestNoLostStreak": 9,
     "lostStreak": 1,
     "worstLostStreak": 3,
-    "oneTdStreak": 0,
+    "oneTdStreak": 5,
     "bestOneTdStreak": 13,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 3,
@@ -68562,20 +69337,20 @@ const generalAll = [
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 4,
+        "totalGames": 5,
         "totalWins": 2,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 2,
         "totalWinRatio": 50
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 3,
+        "totalGames": 4,
         "totalWins": 0,
         "totalDraws": 2,
-        "totalLosses": 1,
-        "totalWinRatio": 33.33
+        "totalLosses": 2,
+        "totalWinRatio": 25
       }
     ],
     "megaProplayers": [
@@ -68588,16 +69363,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      187.82002363063515,
-      182.1772517358808,
-      177.16857636462476,
-      181.4169255568982,
-      174.7645587444074,
-      177.82556894028158,
-      171.52205269345487,
-      164.1110160162338,
-      163.72550796072412,
-      157.11318677627128
+      177.82581140434996,
+      171.52228498113013,
+      164.11124895216858,
+      163.7257308937636,
+      157.11340753632305,
+      156.80486440169685,
+      161.19390929160562,
+      162.0907874347569,
+      167.06789804352022,
+      163.18626896850088
     ]
   },
   {
@@ -69025,10 +69800,10 @@ const generalAll = [
     "NAF Name": "Rabent",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 128.46485947488947,
+    "rating": 128.46487285837017,
     "bestRating": 148.1595182726641,
-    "worstRating": 128.46485947488947,
-    "tendency": -19.694658797774622,
+    "worstRating": 128.46487285837017,
+    "tendency": -19.694645414293916,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 3,
@@ -69082,9 +69857,9 @@ const generalAll = [
       138.3417808932205,
       133.17791047920772,
       139.56111383022656,
-      132.79441258214604,
-      134.40193804377176,
-      128.46485947488947
+      132.79442715301366,
+      134.40195203315236,
+      128.46487285837017
     ]
   },
   {
@@ -69338,10 +70113,10 @@ const generalAll = [
     "NAF Name": "Rafmar",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 160.6571664487297,
+    "rating": 160.6573069758386,
     "bestRating": 168.0235538812793,
     "worstRating": 125.54753314354613,
-    "tendency": 2.903233532461684,
+    "tendency": 2.903374059570581,
     "totalTournaments": 16,
     "totalGames": 64,
     "totalWins": 21,
@@ -69392,12 +70167,12 @@ const generalAll = [
       160.39106153341126,
       163.84779273318188,
       158.6148374361265,
-      155.8750266667745,
-      159.82707056712295,
-      160.24844555128774,
-      157.85053415993278,
-      161.4379810344329,
-      160.6571664487297
+      155.87502666801424,
+      159.827070568491,
+      160.24844653326306,
+      157.85053643228215,
+      161.43812771589137,
+      160.6573069758386
     ]
   },
   {
@@ -69466,10 +70241,10 @@ const generalAll = [
     "NAF Name": "ramaes",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 189.5645745805419,
-    "bestRating": 198.6201452817432,
+    "rating": 189.56471138803684,
+    "bestRating": 198.62024958123837,
     "worstRating": 145.0644193976224,
-    "tendency": 20.03684314504764,
+    "tendency": 20.0366748580403,
     "totalTournaments": 5,
     "totalGames": 21,
     "totalWins": 14,
@@ -69516,16 +70291,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      169.52773143549425,
-      174.7105245956365,
-      178.45765692306531,
-      182.54129782299597,
-      186.51459511815273,
-      190.59356168292436,
-      194.15567276861506,
-      198.6201452817432,
-      197.65904801964822,
-      189.5645745805419
+      169.52803652999654,
+      174.71068022707271,
+      178.45770667638644,
+      182.54137378543442,
+      186.51467878813315,
+      190.5936671707702,
+      194.15577436398885,
+      198.62024958123837,
+      197.65919165268647,
+      189.56471138803684
     ]
   },
   {
@@ -69533,10 +70308,10 @@ const generalAll = [
     "NAF Name": "Raptor",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 143.74808766205305,
+    "rating": 143.74847701376993,
     "bestRating": 154.72856582604774,
-    "worstRating": 132.6109789650165,
-    "tendency": -10.625744605730603,
+    "worstRating": 132.61140439625322,
+    "tendency": -10.625355254013726,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -69587,12 +70362,12 @@ const generalAll = [
       154.72856582604774,
       149.0428403362382,
       147.80683278088762,
-      142.3953500391989,
-      142.172905752925,
-      139.04006793335824,
-      132.6109789650165,
-      138.2459793536833,
-      143.74808766205305
+      142.3953628386326,
+      142.1733367391069,
+      139.04048412055198,
+      132.61140439625322,
+      138.24638454678944,
+      143.74847701376993
     ]
   },
   {
@@ -69600,10 +70375,10 @@ const generalAll = [
     "NAF Name": "RaptureZero",
     "Country": "Spain",
     "CCAA": "I. Canarias",
-    "rating": 135.05200561181545,
-    "bestRating": 144.9009804864072,
-    "worstRating": 135.05200561181545,
-    "tendency": -9.848974874591761,
+    "rating": 134.77429854636713,
+    "bestRating": 144.80384757729337,
+    "worstRating": 134.77429854636713,
+    "tendency": -10.029549030926233,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 0,
@@ -69650,9 +70425,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.9009804864072,
-      139.97285003267726,
-      135.05200561181545
+      144.80384757729337,
+      139.78556247467736,
+      134.77429854636713
     ]
   },
   {
@@ -69660,10 +70435,10 @@ const generalAll = [
     "NAF Name": "Raspu",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 152.04942456337403,
-    "bestRating": 152.04942456337403,
+    "rating": 152.04975145775768,
+    "bestRating": 152.04975145775768,
     "worstRating": 126.79699712350254,
-    "tendency": 13.87934377189481,
+    "tendency": 13.879670666278457,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 5,
@@ -69713,13 +70488,13 @@ const generalAll = [
       138.17008079147922,
       132.5545334789745,
       126.79699712350254,
-      127.59890861899439,
-      133.8046814818779,
-      139.29410767032246,
-      133.91499035369353,
-      139.92769115859028,
-      146.04212325802743,
-      152.04942456337403
+      127.59920132195406,
+      133.80496159776757,
+      139.29438093431787,
+      133.91525178172245,
+      139.92804318042806,
+      146.04246122524802,
+      152.04975145775768
     ]
   },
   {
@@ -69727,10 +70502,10 @@ const generalAll = [
     "NAF Name": "Ratamuerta",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 144.04185239058535,
+    "rating": 144.04274843411832,
     "bestRating": 166.64546197587762,
     "worstRating": 141.2984704031949,
-    "tendency": -6.9681121227703215,
+    "tendency": -6.967216079237346,
     "totalTournaments": 12,
     "totalGames": 48,
     "totalWins": 17,
@@ -69784,9 +70559,9 @@ const generalAll = [
       152.36243922976576,
       147.25919452256022,
       148.71509518882843,
-      147.24128482473682,
-      143.4271843766947,
-      144.04185239058535
+      147.24225059345645,
+      143.42811474876405,
+      144.04274843411832
     ]
   },
   {
@@ -69849,10 +70624,10 @@ const generalAll = [
     "NAF Name": "Raton10",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 95.75309024542392,
+    "rating": 95.75310304143927,
     "bestRating": 147.08391600483958,
-    "worstRating": 95.75309024542392,
-    "tendency": -23.73508171024976,
+    "worstRating": 95.75310304143927,
+    "tendency": -23.735068914234404,
     "totalTournaments": 10,
     "totalGames": 37,
     "totalWins": 6,
@@ -69905,10 +70680,10 @@ const generalAll = [
       109.28871192451076,
       110.33218444064808,
       105.95767733339432,
-      104.56667738861985,
-      102.20489553627735,
-      98.1742228523746,
-      95.75309024542392
+      104.56667817149574,
+      102.20490816471167,
+      98.17423530141728,
+      95.75310304143927
     ]
   },
   {
@@ -69916,10 +70691,10 @@ const generalAll = [
     "NAF Name": "Raultorres8a",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 126.71853437884626,
+    "rating": 126.71880564067948,
     "bestRating": 155.65685424949237,
-    "worstRating": 120.92064886333985,
-    "tendency": -5.929122633222207,
+    "worstRating": 120.92064891215246,
+    "tendency": -5.928967966875433,
     "totalTournaments": 7,
     "totalGames": 30,
     "totalWins": 6,
@@ -69966,16 +70741,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      132.64765701206846,
-      128.5158295123003,
-      134.7246808184388,
-      135.14866173907532,
-      135.44321320985307,
-      136.59013683937528,
-      135.47031210259203,
-      131.7658248866201,
-      127.19822391988737,
-      126.71853437884626
+      132.6477736075549,
+      128.5159929609568,
+      134.72483723806025,
+      135.14890235303892,
+      135.44344698474308,
+      136.59043003960196,
+      135.47059307153413,
+      131.76609510957303,
+      127.19848491528816,
+      126.71880564067948
     ]
   },
   {
@@ -70161,28 +70936,28 @@ const generalAll = [
     ]
   },
   {
-    "NAF Nr": "40309",
-    "NAF Name": "RayitoMarciano",
+    "NAF Nr": "4839",
+    "NAF Name": "Rayito",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 139.53284930995136,
-    "bestRating": 148.3547802656696,
-    "worstRating": 139.53284930995136,
-    "tendency": -8.821930955718244,
-    "totalTournaments": 1,
-    "totalGames": 3,
+    "rating": 150,
+    "bestRating": 0,
+    "worstRating": 0,
+    "tendency": 0,
+    "totalTournaments": 0,
+    "totalGames": 0,
     "totalWins": 0,
-    "totalDraws": 1,
-    "totalLosses": 2,
-    "totalWinRatio": 16.67,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0,
     "victoryStreak": 0,
     "bestVictoryStreak": 0,
     "noLostStreak": 0,
-    "bestNoLostStreak": 1,
-    "lostStreak": 2,
-    "worstLostStreak": 2,
+    "bestNoLostStreak": 0,
+    "lostStreak": 0,
+    "worstLostStreak": 0,
     "oneTdStreak": 0,
-    "bestOneTdStreak": 1,
+    "bestOneTdStreak": 0,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 0,
     "noTdAgainstStreak": 0,
@@ -70213,11 +70988,71 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ]
+  },
+  {
+    "NAF Nr": "40309",
+    "NAF Name": "RayitoMarciano",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "rating": 134.219147057649,
+    "bestRating": 148.3547802656696,
+    "worstRating": 128.70154840631469,
+    "tendency": -14.135633208020607,
+    "totalTournaments": 2,
+    "totalGames": 8,
+    "totalWins": 1,
+    "totalDraws": 3,
+    "totalLosses": 4,
+    "totalWinRatio": 31.25,
+    "victoryStreak": 1,
+    "bestVictoryStreak": 1,
+    "noLostStreak": 2,
+    "bestNoLostStreak": 2,
+    "lostStreak": 0,
+    "worstLostStreak": 2,
+    "oneTdStreak": 2,
+    "bestOneTdStreak": 2,
+    "twoTdStreak": 2,
+    "bestTwoTdStreak": 2,
+    "noTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 0,
+    "proplayers": [
+      {
+        "totalGames": 1,
+        "totalWins": 0,
+        "totalDraws": 1,
+        "totalLosses": 0,
+        "totalWinRatio": 50
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
     ],
     "_lastTenRatings": [
       148.3547802656696,
       143.87235015817748,
-      139.53284930995136
+      139.53284930995136,
+      141.4368427405274,
+      135.89813613011205,
+      128.96981051723756,
+      128.70154840631469,
+      134.219147057649
     ]
   },
   {
@@ -70573,10 +71408,10 @@ const generalAll = [
     "NAF Name": "Rejit",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 139.32533174936484,
-    "bestRating": 145.350335447142,
+    "rating": 139.3260324326899,
+    "bestRating": 145.3505844241771,
     "worstRating": 132.8735281471293,
-    "tendency": -5.017814001142796,
+    "tendency": -5.017113317817717,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -70629,8 +71464,8 @@ const generalAll = [
       136.66975029903168,
       132.8735281471293,
       139.62002977937286,
-      145.350335447142,
-      139.32533174936484
+      145.3505844241771,
+      139.3260324326899
     ]
   },
   {
@@ -70638,10 +71473,10 @@ const generalAll = [
     "NAF Name": "Relic",
     "Country": "Spain",
     "CCAA": "Euskadi",
-    "rating": 144.3235992602062,
-    "bestRating": 144.3235992602062,
-    "worstRating": 137.0764723425125,
-    "tendency": 2.493943966756973,
+    "rating": 144.32375147109656,
+    "bestRating": 144.32375147109656,
+    "worstRating": 137.07653882385733,
+    "tendency": 2.494034728657084,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -70688,10 +71523,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      141.82965529344924,
-      137.0764723425125,
-      139.89839796501295,
-      144.3235992602062
+      141.82971674243947,
+      137.07653882385733,
+      139.8985117546841,
+      144.32375147109656
     ]
   },
   {
@@ -70699,10 +71534,10 @@ const generalAll = [
     "NAF Name": "Renoloko",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 126.17143325399228,
+    "rating": 126.171463555783,
     "bestRating": 144.0993228082946,
-    "worstRating": 124.03774733542608,
-    "tendency": -9.976167076318873,
+    "worstRating": 124.03775743326734,
+    "tendency": -9.976136774528143,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 1,
@@ -70755,10 +71590,10 @@ const generalAll = [
       131.3870286685451,
       126.30360674950776,
       126.81728942127383,
-      124.03774733542608,
-      124.50138454158657,
-      130.98527937213842,
-      126.17143325399228
+      124.03775743326734,
+      124.5013942039453,
+      130.98528862394443,
+      126.171463555783
     ]
   },
   {
@@ -70766,10 +71601,10 @@ const generalAll = [
     "NAF Name": "Requena115",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 190.28901147657675,
-    "bestRating": 190.28901147657675,
+    "rating": 190.28904814876645,
+    "bestRating": 190.28904814876645,
     "worstRating": 146.97453591121723,
-    "tendency": 18.10916280581938,
+    "tendency": 18.10919947800909,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 13,
@@ -70819,13 +71654,13 @@ const generalAll = [
       172.17984867075737,
       167.7973770827458,
       173.11493599317998,
-      178.00372379891573,
-      184.01203953292446,
-      189.4444719846179,
-      182.23801098833525,
-      185.9426885562566,
-      190.12428040055786,
-      190.28901147657675
+      178.00373275692232,
+      184.01204818443526,
+      189.4444927511742,
+      182.23803092090927,
+      185.94271170882013,
+      190.12431015455974,
+      190.28904814876645
     ]
   },
   {
@@ -70894,10 +71729,10 @@ const generalAll = [
     "NAF Name": "Rhox",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 193.0075908560699,
-    "bestRating": 193.0075908560699,
+    "rating": 193.0076349418353,
+    "bestRating": 193.0076349418353,
     "worstRating": 150.317583881246,
-    "tendency": 13.279998617457636,
+    "tendency": 13.280042703223046,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 14,
@@ -70951,9 +71786,9 @@ const generalAll = [
       178.44321831659772,
       183.19255420547884,
       182.3621291380837,
-      186.0666163540556,
-      187.6391673094162,
-      193.0075908560699
+      186.0666271000448,
+      187.63920622455547,
+      193.0076349418353
     ]
   },
   {
@@ -71028,10 +71863,10 @@ const generalAll = [
     "NAF Name": "rifflord",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 149.69484365575963,
-    "bestRating": 154.72317866120991,
-    "worstRating": 149.0761529072889,
-    "tendency": -0.06633484637802667,
+    "rating": 149.69522409616263,
+    "bestRating": 154.7235761204523,
+    "worstRating": 149.07637137176016,
+    "tendency": -0.06595440597502034,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -71079,9 +71914,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       149.76117850213765,
-      149.0761529072889,
-      154.72317866120991,
-      149.69484365575963
+      149.07637137176016,
+      154.7235761204523,
+      149.69522409616263
     ]
   },
   {
@@ -71144,10 +71979,10 @@ const generalAll = [
     "NAF Name": "Riochu",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 123.7172178325755,
-    "bestRating": 142.405038592907,
-    "worstRating": 123.7172178325755,
-    "tendency": -18.687820760331505,
+    "rating": 123.71950134156106,
+    "bestRating": 142.4065400604574,
+    "worstRating": 123.71950134156106,
+    "tendency": -18.687038718896332,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -71194,10 +72029,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      142.405038592907,
-      136.30207803169142,
-      129.73825199156275,
-      123.7172178325755
+      142.4065400604574,
+      136.30351471433895,
+      129.74063671201617,
+      123.71950134156106
     ]
   },
   {
@@ -71321,10 +72156,10 @@ const generalAll = [
     "NAF Name": "Rodrigo84",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150.68104516392629,
-    "bestRating": 161.30206325231293,
-    "worstRating": 150.68104516392629,
-    "tendency": -5.056185628531608,
+    "rating": 150.68104390209794,
+    "bestRating": 161.30216971325626,
+    "worstRating": 150.68104390209794,
+    "tendency": -5.056186890359953,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -71375,10 +72210,10 @@ const generalAll = [
       150.78764583471718,
       150.74898525736234,
       156.01864873727843,
-      161.30206325231293,
-      160.85894312168793,
-      156.1637242316254,
-      150.68104516392629
+      161.30216971325626,
+      160.85904549941768,
+      156.1636976130763,
+      150.68104390209794
     ]
   },
   {
@@ -71503,10 +72338,10 @@ const generalAll = [
     "NAF Name": "Roi",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 133.2942460263001,
+    "rating": 133.29424605698412,
     "bestRating": 164.26741100815667,
-    "worstRating": 133.2942460263001,
-    "tendency": -17.341065537893456,
+    "worstRating": 133.29424605698412,
+    "tendency": -17.341065507209436,
     "totalTournaments": 8,
     "totalGames": 33,
     "totalWins": 13,
@@ -71556,13 +72391,13 @@ const generalAll = [
       150.63531156419356,
       152.6265934677199,
       146.8480765618323,
-      152.92709647383575,
-      148.30306284030206,
-      142.78135436265134,
-      136.3396184140544,
-      142.17213210783524,
-      136.43808208556115,
-      133.2942460263001
+      152.9270964792288,
+      148.30306284546876,
+      142.78135436759385,
+      136.33961841878715,
+      142.1721321123643,
+      136.43808209303478,
+      133.29424605698412
     ]
   },
   {
@@ -71814,10 +72649,10 @@ const generalAll = [
     "NAF Name": "romerotomillo",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 170.47829083552506,
-    "bestRating": 170.47829083552506,
+    "rating": 170.47839651666519,
+    "bestRating": 170.47839651666519,
     "worstRating": 144.26540767823965,
-    "tendency": 13.839733206612749,
+    "tendency": 13.839838887752876,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 9,
@@ -71866,14 +72701,14 @@ const generalAll = [
     "_lastTenRatings": [
       156.6385576289123,
       162.31114147709988,
-      156.42679826051926,
-      156.15190748508618,
-      161.2008737154858,
-      158.35166420427112,
-      162.63152348654287,
-      168.2156700823095,
-      163.21806484376154,
-      170.47829083552506
+      156.42679826052233,
+      156.15191502719577,
+      161.2008873240707,
+      158.3517152762986,
+      162.6318119550697,
+      168.21584020425365,
+      163.21825963110527,
+      170.47839651666519
     ]
   },
   {
@@ -71881,35 +72716,35 @@ const generalAll = [
     "NAF Name": "Ronda",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 164.37643913235627,
-    "bestRating": 165.07706179885102,
+    "rating": 165.141502133874,
+    "bestRating": 165.5754201620082,
     "worstRating": 116.77612383566435,
-    "tendency": 6.63517553932121,
-    "totalTournaments": 19,
-    "totalGames": 74,
-    "totalWins": 25,
-    "totalDraws": 23,
-    "totalLosses": 26,
-    "totalWinRatio": 49.32,
-    "victoryStreak": 0,
+    "tendency": 3.082614970534678,
+    "totalTournaments": 20,
+    "totalGames": 79,
+    "totalWins": 27,
+    "totalDraws": 24,
+    "totalLosses": 28,
+    "totalWinRatio": 49.37,
+    "victoryStreak": 2,
     "bestVictoryStreak": 3,
-    "noLostStreak": 3,
+    "noLostStreak": 2,
     "bestNoLostStreak": 9,
     "lostStreak": 0,
     "worstLostStreak": 4,
-    "oneTdStreak": 3,
+    "oneTdStreak": 2,
     "bestOneTdStreak": 8,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 4,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 6,
+        "totalGames": 8,
         "totalWins": 2,
-        "totalDraws": 1,
-        "totalLosses": 3,
-        "totalWinRatio": 41.67
+        "totalDraws": 2,
+        "totalLosses": 4,
+        "totalWinRatio": 37.5
       }
     ],
     "topProplayers": [
@@ -71931,16 +72766,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      157.74126359303506,
-      157.9793901796794,
-      157.32568247791565,
-      162.91735746317735,
-      165.07706179885102,
-      162.0588870653056,
-      159.22627755214265,
-      160.53694109638838,
-      164.50947359055985,
-      164.37643913235627
+      162.05888716333934,
+      159.22628027238792,
+      160.53694830989335,
+      164.50955764116537,
+      164.37652087135962,
+      165.5754201620082,
+      159.41450905102727,
+      154.76119065202283,
+      160.0045712659967,
+      165.141502133874
     ]
   },
   {
@@ -71948,10 +72783,10 @@ const generalAll = [
     "NAF Name": "Roronoa",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 173.6495221163947,
-    "bestRating": 173.6495221163947,
+    "rating": 173.64968669350606,
+    "bestRating": 173.64968669350606,
     "worstRating": 154.69041575982342,
-    "tendency": 18.959106356571283,
+    "tendency": 18.95927093368263,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 5,
@@ -72004,8 +72839,8 @@ const generalAll = [
       165.5712885828421,
       164.8984156224705,
       163.30039831212713,
-      167.46959045648538,
-      173.6495221163947
+      167.46959068551706,
+      173.64968669350606
     ]
   },
   {
@@ -72125,14 +72960,69 @@ const generalAll = [
     ]
   },
   {
+    "NAF Nr": "37223",
+    "NAF Name": "rowanna78",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "rating": 150,
+    "bestRating": 0,
+    "worstRating": 0,
+    "tendency": 0,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 0,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 0,
+    "lostStreak": 0,
+    "worstLostStreak": 0,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 0,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 0,
+    "noTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 0,
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ]
+  },
+  {
     "NAF Nr": "31770",
     "NAF Name": "Ruben_Defens",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 172.16371256359506,
-    "bestRating": 172.16371256359506,
+    "rating": 172.16367352598022,
+    "bestRating": 172.16367352598022,
     "worstRating": 138.65680840654258,
-    "tendency": 27.843218014288,
+    "tendency": 27.84317897667316,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 8,
@@ -72185,10 +73075,10 @@ const generalAll = [
       147.9881269293325,
       156.3565688868926,
       162.9023697710636,
-      159.99329624566477,
-      163.19364030822183,
-      167.6191753375018,
-      172.16371256359506
+      159.99329974549372,
+      163.19364368475053,
+      167.61918383920687,
+      172.16367352598022
     ]
   },
   {
@@ -72263,10 +73153,10 @@ const generalAll = [
     "NAF Name": "Rukser",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 117.103525338108,
+    "rating": 117.1030950045417,
     "bestRating": 144.34314575050763,
     "worstRating": 114.76043574332486,
-    "tendency": -8.519689742075784,
+    "tendency": -8.520120075642083,
     "totalTournaments": 5,
     "totalGames": 18,
     "totalWins": 2,
@@ -72320,9 +73210,9 @@ const generalAll = [
       121.02307864175539,
       121.06836959045057,
       118.87498099267552,
-      119.91262649094884,
-      116.86014372717,
-      117.103525338108
+      119.91270252534774,
+      116.85969981315145,
+      117.1030950045417
     ]
   },
   {
@@ -72330,27 +73220,27 @@ const generalAll = [
     "NAF Name": "RULO",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 197.55772215284674,
-    "bestRating": 210.61836047463086,
+    "rating": 200.55315064854108,
+    "bestRating": 210.6204737914828,
     "worstRating": 144.32101648793102,
-    "tendency": -13.060638321784126,
-    "totalTournaments": 13,
-    "totalGames": 51,
-    "totalWins": 26,
+    "tendency": -5.080484592499005,
+    "totalTournaments": 14,
+    "totalGames": 55,
+    "totalWins": 29,
     "totalDraws": 16,
-    "totalLosses": 9,
-    "totalWinRatio": 66.67,
-    "victoryStreak": 1,
+    "totalLosses": 10,
+    "totalWinRatio": 67.27,
+    "victoryStreak": 3,
     "bestVictoryStreak": 5,
     "noLostStreak": 3,
     "bestNoLostStreak": 15,
     "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 4,
+    "oneTdStreak": 3,
     "bestOneTdStreak": 21,
-    "twoTdStreak": 1,
+    "twoTdStreak": 3,
     "bestTwoTdStreak": 4,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 2,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
@@ -72380,16 +73270,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      210.61836047463086,
-      202.75373456423998,
-      205.64433614440318,
-      206.73429040033102,
-      205.6314186541892,
-      199.1879542938949,
-      191.1404645533159,
-      194.31082701345412,
-      192.68574089561918,
-      197.55772215284674
+      205.63363524104008,
+      199.19011662376738,
+      191.14265802157504,
+      194.31295012382841,
+      192.68779269644307,
+      197.55970258342276,
+      191.4799914860752,
+      194.76826350436644,
+      198.07478205617772,
+      200.55315064854108
     ]
   },
   {
@@ -72462,23 +73352,23 @@ const generalAll = [
     "NAF Name": "Saburo",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 145.97640991968333,
-    "bestRating": 153.54811353521112,
+    "rating": 157.45342494820198,
+    "bestRating": 162.35133736132772,
     "worstRating": 135.1232570825165,
-    "tendency": -2.282508596966636,
-    "totalTournaments": 7,
-    "totalGames": 28,
-    "totalWins": 10,
+    "tendency": 9.472013967364433,
+    "totalTournaments": 8,
+    "totalGames": 33,
+    "totalWins": 13,
     "totalDraws": 5,
-    "totalLosses": 13,
-    "totalWinRatio": 44.64,
+    "totalLosses": 15,
+    "totalWinRatio": 46.97,
     "victoryStreak": 0,
     "bestVictoryStreak": 3,
     "noLostStreak": 0,
     "bestNoLostStreak": 3,
     "lostStreak": 1,
     "worstLostStreak": 2,
-    "oneTdStreak": 2,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 8,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 3,
@@ -72504,24 +73394,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 1,
+        "totalGames": 2,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 1,
+        "totalLosses": 2,
         "totalWinRatio": 0
       }
     ],
     "_lastTenRatings": [
-      148.25891851664997,
-      148.04784714528984,
-      142.86448122202597,
-      137.81741916945953,
-      142.46257111703295,
-      147.98141098080555,
-      153.54811353521112,
-      150.8438139099308,
-      150.96625703384044,
-      145.97640991968333
+      147.98141098083755,
+      153.54811361518972,
+      150.84381547933404,
+      150.96640001891365,
+      145.97654770724114,
+      143.6533695341132,
+      150.76693797480405,
+      156.56471267156746,
+      162.35133736132772,
+      157.45342494820198
     ]
   },
   {
@@ -72645,25 +73535,25 @@ const generalAll = [
     "NAF Name": "Salvatore",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 148.8443718854098,
-    "bestRating": 166.24299039077323,
-    "worstRating": 148.8443718854098,
-    "tendency": -10.982721677352117,
-    "totalTournaments": 6,
-    "totalGames": 24,
-    "totalWins": 9,
-    "totalDraws": 7,
-    "totalLosses": 8,
-    "totalWinRatio": 52.08,
-    "victoryStreak": 0,
+    "rating": 154.42051436901184,
+    "bestRating": 166.24308550727596,
+    "worstRating": 148.84484695893772,
+    "tendency": -9.842850537608427,
+    "totalTournaments": 7,
+    "totalGames": 28,
+    "totalWins": 11,
+    "totalDraws": 8,
+    "totalLosses": 9,
+    "totalWinRatio": 53.57,
+    "victoryStreak": 1,
     "bestVictoryStreak": 2,
-    "noLostStreak": 0,
+    "noLostStreak": 1,
     "bestNoLostStreak": 4,
-    "lostStreak": 1,
+    "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 2,
+    "oneTdStreak": 6,
     "bestOneTdStreak": 10,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 2,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
@@ -72695,16 +73585,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      159.82709356276192,
-      164.34786848927828,
-      161.42356201502596,
-      166.24299039077323,
-      164.2632520279646,
-      157.19651018035023,
-      159.19894701991686,
-      154.12295297015405,
-      154.1124464100504,
-      148.8443718854098
+      164.26336490662027,
+      157.19691189206475,
+      159.19939806117938,
+      154.12340754607172,
+      154.11290733080767,
+      148.84484695893772,
+      149.1717743476555,
+      153.47681315584893,
+      149.20331586953384,
+      154.42051436901184
     ]
   },
   {
@@ -72712,10 +73602,10 @@ const generalAll = [
     "NAF Name": "Salviusky",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 125.43459434626033,
+    "rating": 125.43501873255612,
     "bestRating": 150,
-    "worstRating": 125.43459434626033,
-    "tendency": -5.8229271019448845,
+    "worstRating": 125.43501873255612,
+    "tendency": -5.822502715649094,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 3,
@@ -72763,15 +73653,15 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       131.2575214482052,
-      132.74565144432577,
-      138.68623199988235,
-      138.59076786348683,
-      133.3004212471304,
-      128.77964632061403,
-      129.7540036980662,
-      136.4119371724227,
-      131.4709474198922,
-      125.43459434626033
+      132.74566911975242,
+      138.68626315097268,
+      138.59119776458687,
+      133.30083256115003,
+      128.78004049650156,
+      129.75438126737728,
+      136.4122982756198,
+      131.47130015835302,
+      125.43501873255612
     ]
   },
   {
@@ -73035,19 +73925,19 @@ const generalAll = [
     "NAF Name": "Sandor",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 192.72014449681106,
-    "bestRating": 192.72014449681106,
+    "rating": 201.56451763023358,
+    "bestRating": 201.9833713372039,
     "worstRating": 144.34314575050763,
-    "tendency": 8.139385928064598,
-    "totalTournaments": 25,
-    "totalGames": 100,
-    "totalWins": 42,
-    "totalDraws": 33,
-    "totalLosses": 25,
-    "totalWinRatio": 58.5,
+    "tendency": 22.52316925862445,
+    "totalTournaments": 26,
+    "totalGames": 105,
+    "totalWins": 45,
+    "totalDraws": 34,
+    "totalLosses": 26,
+    "totalWinRatio": 59.05,
     "victoryStreak": 1,
     "bestVictoryStreak": 3,
-    "noLostStreak": 4,
+    "noLostStreak": 1,
     "bestNoLostStreak": 9,
     "lostStreak": 0,
     "worstLostStreak": 2,
@@ -73055,7 +73945,7 @@ const generalAll = [
     "bestOneTdStreak": 15,
     "twoTdStreak": 1,
     "bestTwoTdStreak": 4,
-    "noTdAgainstStreak": 4,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 4,
     "proplayers": [
       {
@@ -73068,33 +73958,33 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 7,
+        "totalGames": 8,
         "totalWins": 2,
-        "totalDraws": 3,
+        "totalDraws": 4,
         "totalLosses": 2,
         "totalWinRatio": 50
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 3,
+        "totalGames": 4,
         "totalWins": 0,
         "totalDraws": 1,
-        "totalLosses": 2,
-        "totalWinRatio": 16.67
+        "totalLosses": 3,
+        "totalWinRatio": 12.5
       }
     ],
     "_lastTenRatings": [
-      184.58075856874646,
-      184.58886147114242,
-      184.5864015623416,
-      188.564795650788,
-      183.8714662332056,
-      179.04132004984282,
-      182.6531546625739,
-      187.65560084027157,
-      186.25271806861886,
-      192.72014449681106
+      179.04134837160913,
+      182.65318192038612,
+      187.6556269977011,
+      186.25274609843322,
+      192.72017902657007,
+      197.31014397981568,
+      201.4927410689812,
+      201.9833713372039,
+      198.67420712374985,
+      201.56451763023358
     ]
   },
   {
@@ -73102,10 +73992,10 @@ const generalAll = [
     "NAF Name": "Sandwichpulpo69",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 157.8618794618451,
-    "bestRating": 157.8618794618451,
+    "rating": 157.86289028211135,
+    "bestRating": 157.86289028211135,
     "worstRating": 125.35243431450161,
-    "tendency": 4.06834226319836,
+    "tendency": 4.069302474810428,
     "totalTournaments": 11,
     "totalGames": 46,
     "totalWins": 18,
@@ -73152,16 +74042,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      153.79353719864673,
-      153.81387070964797,
-      157.33285055072975,
-      153.44214633726955,
-      157.34444704245735,
-      152.17453162713304,
-      152.72745704989467,
-      147.13901033458313,
-      152.78550948184247,
-      157.8618794618451
+      153.79358780730092,
+      153.81392191650957,
+      157.33404561933656,
+      153.44334192643794,
+      157.34560121914745,
+      152.17564632090873,
+      152.72852380830884,
+      147.14005302737596,
+      152.78651741860958,
+      157.86289028211135
     ]
   },
   {
@@ -73234,27 +74124,27 @@ const generalAll = [
     "NAF Name": "Santo",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 118.73531469209885,
+    "rating": 128.00408895388594,
     "bestRating": 162.37373316555772,
     "worstRating": 111.00343871878773,
-    "tendency": -16.563801846330335,
-    "totalTournaments": 19,
-    "totalGames": 72,
-    "totalWins": 19,
-    "totalDraws": 16,
-    "totalLosses": 37,
-    "totalWinRatio": 37.5,
-    "victoryStreak": 0,
+    "tendency": 9.584954659971956,
+    "totalTournaments": 20,
+    "totalGames": 76,
+    "totalWins": 21,
+    "totalDraws": 17,
+    "totalLosses": 38,
+    "totalWinRatio": 38.82,
+    "victoryStreak": 2,
     "bestVictoryStreak": 2,
-    "noLostStreak": 1,
+    "noLostStreak": 3,
     "bestNoLostStreak": 3,
     "lostStreak": 0,
     "worstLostStreak": 5,
-    "oneTdStreak": 1,
+    "oneTdStreak": 5,
     "bestOneTdStreak": 6,
-    "twoTdStreak": 0,
-    "bestTwoTdStreak": 2,
-    "noTdAgainstStreak": 0,
+    "twoTdStreak": 3,
+    "bestTwoTdStreak": 3,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
@@ -73284,16 +74174,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      135.2991165384292,
-      132.37621005608537,
-      128.04502362315367,
-      122.84054038833425,
-      118.41844713020886,
-      119.2218293542231,
-      116.16565404444607,
-      122.59474301278782,
-      118.78149537064469,
-      118.73531469209885
+      118.41913429391398,
+      119.22249336076558,
+      116.1662969701244,
+      122.59537669442317,
+      118.7821314553044,
+      118.73588761822724,
+      114.9248982772368,
+      115.92672062291825,
+      122.27810049950062,
+      128.00408895388594
     ]
   },
   {
@@ -73301,10 +74191,10 @@ const generalAll = [
     "NAF Name": "SAO",
     "Country": "Spain",
     "CCAA": "I. Canarias",
-    "rating": 156.12868960737876,
-    "bestRating": 160.11222996133108,
-    "worstRating": 144.9009804864072,
-    "tendency": 11.227709120971554,
+    "rating": 157.43016986764783,
+    "bestRating": 161.41026244430023,
+    "worstRating": 144.80384757729337,
+    "tendency": 12.626322290354466,
     "totalTournaments": 2,
     "totalGames": 6,
     "totalWins": 4,
@@ -73351,12 +74241,12 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.9009804864072,
-      148.66687055566007,
-      153.624966189522,
-      156.8638588976162,
-      160.11222996133108,
-      156.12868960737876
+      144.80384757729337,
+      150.0006477876309,
+      155.00076886503308,
+      158.19960745095176,
+      161.41026244430023,
+      157.43016986764783
     ]
   },
   {
@@ -73486,10 +74376,10 @@ const generalAll = [
     "NAF Name": "Saruman",
     "Country": "Spain",
     "CCAA": "Aragón",
-    "rating": 159.73789193336276,
+    "rating": 159.73801353453797,
     "bestRating": 159.82207456797184,
     "worstRating": 147.39848650746887,
-    "tendency": 12.339405425893887,
+    "tendency": 12.339527027069096,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 5,
@@ -73542,10 +74432,10 @@ const generalAll = [
       154.2057569175296,
       159.82207456797184,
       153.4467508713633,
-      149.08628131719243,
-      151.8968756509749,
-      154.50127088040514,
-      159.73789193336276
+      149.08629218383567,
+      151.89694245685268,
+      154.50138678990933,
+      159.73801353453797
     ]
   },
   {
@@ -73614,10 +74504,10 @@ const generalAll = [
     "NAF Name": "Sawamura",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 167.63148163580982,
-    "bestRating": 167.63148163580982,
+    "rating": 167.63151385578607,
+    "bestRating": 167.63151385578607,
     "worstRating": 155.26028795230167,
-    "tendency": 12.371193683508153,
+    "tendency": 12.371225903484401,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 3,
@@ -73665,9 +74555,9 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       155.26028795230167,
-      156.9564473397675,
-      162.58342549640028,
-      167.63148163580982
+      156.95645368252897,
+      162.58345555540507,
+      167.63151385578607
     ]
   },
   {
@@ -73675,10 +74565,10 @@ const generalAll = [
     "NAF Name": "Sceolan21",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 161.08332949082728,
+    "rating": 161.08493119926612,
     "bestRating": 164.85805025192488,
     "worstRating": 145.9008876058644,
-    "tendency": -1.2875777714530443,
+    "tendency": -1.2859760630142034,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 7,
@@ -73731,10 +74621,10 @@ const generalAll = [
       164.38337935248325,
       158.1790875346995,
       163.31708466402074,
-      164.7627377477632,
-      157.71261867344086,
-      162.2302531203495,
-      161.08332949082728
+      164.7627678632296,
+      157.7127445432279,
+      162.231914254125,
+      161.08493119926612
     ]
   },
   {
@@ -73742,10 +74632,10 @@ const generalAll = [
     "NAF Name": "schalke08",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 176.1176538584926,
+    "rating": 176.1182675977297,
     "bestRating": 194.33969636964423,
     "worstRating": 144.2725211368298,
-    "tendency": -4.318011042976536,
+    "tendency": -4.318124179968919,
     "totalTournaments": 12,
     "totalGames": 43,
     "totalWins": 20,
@@ -73792,16 +74682,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      180.43566490146912,
-      182.2317940365895,
-      181.09931230996048,
-      175.4482166397165,
-      179.36726841692516,
-      174.61132726212023,
-      179.22273921182358,
-      183.24011441958183,
-      182.92815069340583,
-      176.1176538584926
+      180.43639177769862,
+      182.2325072350438,
+      181.1000131846689,
+      175.44888934456054,
+      179.36791564962164,
+      174.61195388804418,
+      179.22333968760904,
+      183.24069146673142,
+      182.9287086756609,
+      176.1182675977297
     ]
   },
   {
@@ -74100,10 +74990,10 @@ const generalAll = [
     "NAF Name": "sergibviza",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 135.48063043415817,
+    "rating": 135.48065952832476,
     "bestRating": 145.1928457362105,
     "worstRating": 133.532447973581,
-    "tendency": -9.232116053591568,
+    "tendency": -9.232086959424976,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -74156,8 +75046,8 @@ const generalAll = [
       139.06220734185592,
       145.1928457362105,
       140.8318276531086,
-      135.5397962272491,
-      135.48063043415817
+      135.5397963913923,
+      135.48065952832476
     ]
   },
   {
@@ -74165,21 +75055,21 @@ const generalAll = [
     "NAF Name": "sergio",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 152.37314725682594,
+    "rating": 152.33043397589105,
     "bestRating": 189.7829142997323,
-    "worstRating": 150.1118245310372,
-    "tendency": -18.704817551198033,
-    "totalTournaments": 27,
-    "totalGames": 108,
-    "totalWins": 42,
+    "worstRating": 150.11192435564698,
+    "tendency": -2.1772269915094,
+    "totalTournaments": 28,
+    "totalGames": 113,
+    "totalWins": 44,
     "totalDraws": 30,
-    "totalLosses": 36,
-    "totalWinRatio": 52.78,
+    "totalLosses": 39,
+    "totalWinRatio": 52.21,
     "victoryStreak": 0,
     "bestVictoryStreak": 4,
     "noLostStreak": 0,
     "bestNoLostStreak": 10,
-    "lostStreak": 1,
+    "lostStreak": 3,
     "worstLostStreak": 4,
     "oneTdStreak": 0,
     "bestOneTdStreak": 10,
@@ -74189,42 +75079,42 @@ const generalAll = [
     "bestNoTdAgainstStreak": 5,
     "proplayers": [
       {
-        "totalGames": 15,
+        "totalGames": 16,
         "totalWins": 4,
         "totalDraws": 5,
-        "totalLosses": 6,
-        "totalWinRatio": 43.33
+        "totalLosses": 7,
+        "totalWinRatio": 40.63
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 3,
-        "totalWins": 1,
+        "totalGames": 4,
+        "totalWins": 2,
         "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 50
+        "totalWinRatio": 62.5
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 6,
+        "totalGames": 7,
         "totalWins": 0,
         "totalDraws": 3,
-        "totalLosses": 3,
-        "totalWinRatio": 25
+        "totalLosses": 4,
+        "totalWinRatio": 21.43
       }
     ],
     "_lastTenRatings": [
-      171.07796480802398,
-      166.13843251626844,
-      160.23965479171878,
-      163.97524414167853,
-      160.6055276825396,
-      154.50765256349692,
-      150.42328520065968,
-      150.1118245310372,
-      157.05440743241184,
-      152.37314725682594
+      154.50766096740045,
+      150.42329633749063,
+      150.11192435564698,
+      157.05450461157548,
+      152.37324624478796,
+      157.80876633928312,
+      165.28942940359153,
+      162.6395473789777,
+      158.1450755512804,
+      152.33043397589105
     ]
   },
   {
@@ -74353,10 +75243,10 @@ const generalAll = [
     "NAF Name": "Sergi_LPDL",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 149.7438162595362,
+    "rating": 149.74384401592292,
     "bestRating": 154.6914631571669,
     "worstRating": 144.31771869262033,
-    "tendency": -0.256183740463797,
+    "tendency": -0.2561559840770826,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -74410,7 +75300,7 @@ const generalAll = [
       153.9239601234444,
       148.91752172046438,
       154.6914631571669,
-      149.7438162595362
+      149.74384401592292
     ]
   },
   {
@@ -74550,10 +75440,10 @@ const generalAll = [
     "NAF Name": "Serrano",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 153.74040718261327,
-    "bestRating": 153.74040718261327,
-    "worstRating": 145.31075828329543,
-    "tendency": 8.42964889931784,
+    "rating": 153.7432366064572,
+    "bestRating": 153.7432366064572,
+    "worstRating": 145.30995602918563,
+    "tendency": 8.433280577271574,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 2,
@@ -74600,9 +75490,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      145.31075828329543,
-      149.43526184037944,
-      153.74040718261327
+      145.30995602918563,
+      149.43950679295943,
+      153.7432366064572
     ]
   },
   {
@@ -74610,10 +75500,10 @@ const generalAll = [
     "NAF Name": "Serrano02",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 160.04491542315745,
-    "bestRating": 176.07371456339365,
+    "rating": 160.04439716363316,
+    "bestRating": 176.07645989860498,
     "worstRating": 150.03355022301304,
-    "tendency": -4.411113649339313,
+    "tendency": -4.410289639920791,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 14,
@@ -74660,16 +75550,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      164.45602907249676,
-      158.7589188661811,
-      163.13448534701135,
-      160.82004717176213,
-      163.8120616666815,
-      168.32556553281484,
-      166.59822851680917,
-      161.92844031057183,
-      166.82027981219963,
-      160.04491542315745
+      164.45468680355395,
+      158.75765248639203,
+      163.13326435184334,
+      160.81888616156576,
+      163.8109653070673,
+      168.32451399597787,
+      166.597233511871,
+      161.92762928680153,
+      166.81950414846085,
+      160.04439716363316
     ]
   },
   {
@@ -74677,10 +75567,10 @@ const generalAll = [
     "NAF Name": "Serserius",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 142.14667008575816,
+    "rating": 142.14689971759566,
     "bestRating": 159.28545525114805,
-    "worstRating": 129.74451321040158,
-    "tendency": 5.928898046271172,
+    "worstRating": 129.74476201725543,
+    "tendency": 5.929127678108671,
     "totalTournaments": 13,
     "totalGames": 52,
     "totalWins": 17,
@@ -74729,14 +75619,14 @@ const generalAll = [
     "_lastTenRatings": [
       136.217772039487,
       137.28577747100866,
-      133.4577191286306,
-      134.5736649187992,
-      132.03664020092035,
-      136.47994120306393,
-      129.74451321040158,
-      137.15554988762264,
-      141.39093527547374,
-      142.14667008575816
+      133.45774482708086,
+      134.573689605152,
+      132.03666487586872,
+      136.47996648225413,
+      129.74476201725543,
+      137.15579804621697,
+      141.39117480102342,
+      142.14689971759566
     ]
   },
   {
@@ -74805,10 +75695,10 @@ const generalAll = [
     "NAF Name": "Shalafi",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 119.385826030432,
+    "rating": 119.38582603668235,
     "bestRating": 144.15328559611055,
     "worstRating": 116.8101029419938,
-    "tendency": -17.68682019834465,
+    "tendency": -17.686820192094302,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 1,
@@ -74864,7 +75754,7 @@ const generalAll = [
       119.0730628012807,
       116.8101029419938,
       124.00431017237761,
-      119.385826030432
+      119.38582603668235
     ]
   },
   {
@@ -75127,66 +76017,66 @@ const generalAll = [
     "NAF Name": "Shirokov",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 230.6325478958048,
-    "bestRating": 238.62126036654044,
+    "rating": 235.19096359832196,
+    "bestRating": 239.21471269454273,
     "worstRating": 155.65685424949237,
-    "tendency": 2.5222265842558045,
-    "totalTournaments": 37,
-    "totalGames": 149,
-    "totalWins": 89,
-    "totalDraws": 31,
-    "totalLosses": 29,
+    "tendency": 7.709779857109908,
+    "totalTournaments": 38,
+    "totalGames": 154,
+    "totalWins": 92,
+    "totalDraws": 32,
+    "totalLosses": 30,
     "totalWinRatio": 70.13,
     "victoryStreak": 1,
     "bestVictoryStreak": 8,
-    "noLostStreak": 15,
+    "noLostStreak": 2,
     "bestNoLostStreak": 18,
     "lostStreak": 0,
     "worstLostStreak": 5,
-    "oneTdStreak": 16,
+    "oneTdStreak": 21,
     "bestOneTdStreak": 22,
     "twoTdStreak": 1,
     "bestTwoTdStreak": 9,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 5,
     "proplayers": [
       {
-        "totalGames": 26,
-        "totalWins": 13,
+        "totalGames": 27,
+        "totalWins": 14,
         "totalDraws": 10,
         "totalLosses": 3,
-        "totalWinRatio": 69.23
+        "totalWinRatio": 70.37
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 12,
+        "totalGames": 14,
         "totalWins": 3,
-        "totalDraws": 4,
-        "totalLosses": 5,
-        "totalWinRatio": 41.67
+        "totalDraws": 5,
+        "totalLosses": 6,
+        "totalWinRatio": 39.29
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 6,
-        "totalWins": 0,
+        "totalGames": 7,
+        "totalWins": 1,
         "totalDraws": 1,
         "totalLosses": 5,
-        "totalWinRatio": 8.33
+        "totalWinRatio": 21.43
       }
     ],
     "_lastTenRatings": [
-      228.110321311549,
-      231.39318901555217,
-      228.1027969424917,
-      225.8514474355516,
-      229.1930980700784,
-      227.48117493796192,
-      224.19065935966424,
-      227.1293830628142,
-      227.3273232426839,
-      230.6325478958048
+      227.48118374121205,
+      224.19066797774678,
+      227.1293916920875,
+      227.32733348123023,
+      230.63256320070758,
+      233.11970328004423,
+      239.21471269454273,
+      232.1832525920106,
+      231.21558482663042,
+      235.19096359832196
     ]
   },
   {
@@ -75316,28 +76206,28 @@ const generalAll = [
     "NAF Name": "Silkoun",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
+    "rating": 168.7038001081063,
+    "bestRating": 168.7038001081063,
+    "worstRating": 155.65685424949237,
+    "tendency": 13.046945858613924,
+    "totalTournaments": 1,
+    "totalGames": 5,
+    "totalWins": 3,
+    "totalDraws": 2,
     "totalLosses": 0,
-    "totalWinRatio": 0,
-    "victoryStreak": 0,
-    "bestVictoryStreak": 0,
-    "noLostStreak": 0,
-    "bestNoLostStreak": 0,
+    "totalWinRatio": 80,
+    "victoryStreak": 1,
+    "bestVictoryStreak": 1,
+    "noLostStreak": 5,
+    "bestNoLostStreak": 5,
     "lostStreak": 0,
     "worstLostStreak": 0,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
-    "twoTdStreak": 0,
-    "bestTwoTdStreak": 0,
+    "oneTdStreak": 5,
+    "bestOneTdStreak": 5,
+    "twoTdStreak": 1,
+    "bestTwoTdStreak": 1,
     "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
         "totalGames": 0,
@@ -75349,11 +76239,11 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 1,
+        "totalWins": 1,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "megaProplayers": [
@@ -75364,6 +76254,13 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      155.65685424949237,
+      156.25839256498034,
+      161.13094793140695,
+      161.3269225566769,
+      168.7038001081063
     ]
   },
   {
@@ -75432,10 +76329,10 @@ const generalAll = [
     "NAF Name": "Sinji",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 149.6542541562572,
-    "bestRating": 151.261931401508,
-    "worstRating": 147.9407528612164,
-    "tendency": -1.6076772452508123,
+    "rating": 149.65426476713142,
+    "bestRating": 151.2619336851162,
+    "worstRating": 147.94075551077992,
+    "tendency": -1.6076689179847676,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -75482,10 +76379,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      151.261931401508,
-      148.05956581866346,
-      147.9407528612164,
-      149.6542541562572
+      151.2619336851162,
+      148.05956858144336,
+      147.94075551077992,
+      149.65426476713142
     ]
   },
   {
@@ -75493,28 +76390,28 @@ const generalAll = [
     "NAF Name": "Sinkim",
     "Country": "Spain",
     "CCAA": "Cantabria ",
-    "rating": 145.1932450637965,
-    "bestRating": 158.0071158633661,
-    "worstRating": 139.3700295649876,
-    "tendency": -4.773717133516442,
-    "totalTournaments": 3,
-    "totalGames": 11,
-    "totalWins": 5,
+    "rating": 160.32733603459016,
+    "bestRating": 166.1400500114819,
+    "worstRating": 139.3741153079202,
+    "tendency": 6.011161111394017,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 8,
     "totalDraws": 1,
-    "totalLosses": 5,
-    "totalWinRatio": 50,
-    "victoryStreak": 1,
-    "bestVictoryStreak": 2,
-    "noLostStreak": 1,
-    "bestNoLostStreak": 2,
-    "lostStreak": 0,
+    "totalLosses": 7,
+    "totalWinRatio": 53.13,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 4,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 4,
+    "lostStreak": 2,
     "worstLostStreak": 2,
-    "oneTdStreak": 1,
-    "bestOneTdStreak": 2,
-    "twoTdStreak": 1,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 5,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 2,
     "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 1,
+    "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
         "totalGames": 1,
@@ -75526,33 +76423,33 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 2,
+        "totalWins": 2,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "megaProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 2,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 2,
         "totalWinRatio": 0
       }
     ],
     "_lastTenRatings": [
-      149.96696219731294,
-      155.31882990917228,
-      149.9895754983572,
-      154.26851923032703,
-      158.0071158633661,
-      154.31614034545376,
-      146.23837994102877,
-      145.09933771906526,
-      139.3700295649876,
-      145.1932450637965
+      154.31617492319614,
+      146.2384132952238,
+      145.10360887644183,
+      139.3741153079202,
+      145.19733411823123,
+      150.37240930271707,
+      158.6028345912915,
+      166.1400500114819,
+      163.54580274033825,
+      160.32733603459016
     ]
   },
   {
@@ -75620,10 +76517,10 @@ const generalAll = [
     "NAF Name": "SirLuisTheTall",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 139.16101554135545,
+    "rating": 139.16102755408437,
     "bestRating": 160.57133808359248,
-    "worstRating": 134.59878657944998,
-    "tendency": -3.087958651035507,
+    "worstRating": 134.5987988877666,
+    "tendency": -3.0879466383065903,
     "totalTournaments": 14,
     "totalGames": 47,
     "totalWins": 20,
@@ -75671,15 +76568,15 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       142.24897419239096,
-      142.81421111251777,
-      148.78274170277334,
-      145.32267005653577,
-      145.44148301398283,
-      140.83840179905687,
-      144.12891737735455,
-      140.35773729330828,
-      134.59878657944998,
-      139.16101554135545
+      142.8142111156078,
+      148.78274170572962,
+      145.32267021057172,
+      145.44148328123515,
+      140.83840415656,
+      144.12891992002525,
+      140.35774798812395,
+      134.5987988877666,
+      139.16102755408437
     ]
   },
   {
@@ -75687,35 +76584,35 @@ const generalAll = [
     "NAF Name": "SirMayans",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 234.13191102525676,
+    "rating": 225.09785407752486,
     "bestRating": 247.50688338193476,
     "worstRating": 154.47213595499957,
-    "tendency": 5.3513992400222605,
-    "totalTournaments": 51,
-    "totalGames": 204,
-    "totalWins": 117,
-    "totalDraws": 57,
-    "totalLosses": 30,
-    "totalWinRatio": 71.32,
-    "victoryStreak": 1,
+    "tendency": -12.4605053205849,
+    "totalTournaments": 52,
+    "totalGames": 209,
+    "totalWins": 119,
+    "totalDraws": 59,
+    "totalLosses": 31,
+    "totalWinRatio": 71.05,
+    "victoryStreak": 0,
     "bestVictoryStreak": 7,
-    "noLostStreak": 1,
+    "noLostStreak": 0,
     "bestNoLostStreak": 32,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 2,
-    "oneTdStreak": 16,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 29,
-    "twoTdStreak": 1,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 5,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 6,
     "proplayers": [
       {
-        "totalGames": 28,
+        "totalGames": 29,
         "totalWins": 15,
         "totalDraws": 8,
-        "totalLosses": 5,
-        "totalWinRatio": 67.86
+        "totalLosses": 6,
+        "totalWinRatio": 65.52
       }
     ],
     "topProplayers": [
@@ -75737,16 +76634,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      228.7805117852345,
-      232.35948249845987,
-      235.44975122305283,
-      231.3858065845249,
-      234.51294566751628,
-      237.55830414201066,
-      231.6382644126541,
-      237.19838706244087,
-      230.33805387408546,
-      234.13191102525676
+      237.55835939810976,
+      231.63831918673162,
+      237.19844226900113,
+      230.33810874877975,
+      234.131966441138,
+      236.45514461426592,
+      233.67421318419375,
+      236.118040345504,
+      232.3423210111873,
+      225.09785407752486
     ]
   },
   {
@@ -75937,10 +76834,10 @@ const generalAll = [
     "NAF Name": "sir_ulrik",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 122.48741768035725,
+    "rating": 122.48743971438084,
     "bestRating": 144.34314575050763,
     "worstRating": 119.52943999172977,
-    "tendency": -2.826766969924037,
+    "tendency": -2.82674493590045,
     "totalTournaments": 6,
     "totalGames": 24,
     "totalWins": 6,
@@ -75996,7 +76893,7 @@ const generalAll = [
       126.12871371284776,
       126.91443507639315,
       127.47444903269215,
-      122.48741768035725
+      122.48743971438084
     ]
   },
   {
@@ -76236,10 +77133,10 @@ const generalAll = [
     "NAF Name": "skaripense",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 143.52752957713787,
+    "rating": 143.52758832152222,
     "bestRating": 184.09664771044822,
-    "worstRating": 141.94089448311863,
-    "tendency": 1.5866350940192433,
+    "worstRating": 141.94089448381382,
+    "tendency": 1.5866938377083954,
     "totalTournaments": 24,
     "totalGames": 93,
     "totalWins": 33,
@@ -76286,16 +77183,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      141.94089448311863,
-      143.9232123745097,
-      147.9411744228719,
-      154.5485899455714,
-      151.70244647453686,
-      149.8414770065661,
-      143.94635294487432,
-      149.94366914619812,
-      144.9181940890409,
-      143.52752957713787
+      141.94089448381382,
+      143.92321237533403,
+      147.94118072536295,
+      154.54859598214784,
+      151.70245256739094,
+      149.84149290194773,
+      143.94636956557878,
+      149.9436863255579,
+      144.91821599383525,
+      143.52758832152222
     ]
   },
   {
@@ -76419,10 +77316,10 @@ const generalAll = [
     "NAF Name": "Slorten",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 137.78910521247903,
+    "rating": 137.79050554993321,
     "bestRating": 144.34754374876545,
-    "worstRating": 137.2340969841333,
-    "tendency": -6.558438536286417,
+    "worstRating": 137.23569171384938,
+    "tendency": -6.557038198832231,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 1,
@@ -76470,11 +77367,11 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       144.34754374876545,
-      137.37293795749306,
-      137.2340969841333,
-      142.70892692092704,
-      137.8532274649842,
-      137.78910521247903
+      137.37460502422238,
+      137.23569171384938,
+      142.71045248244903,
+      137.85468811819072,
+      137.79050554993321
     ]
   },
   {
@@ -76482,10 +77379,10 @@ const generalAll = [
     "NAF Name": "SmellyDiaper",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 150.21792299905343,
+    "rating": 150.21839705997039,
     "bestRating": 160.07943266175627,
     "worstRating": 143.1812746920806,
-    "tendency": -9.861509662702844,
+    "tendency": -9.861035601785886,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 6,
@@ -76534,14 +77431,14 @@ const generalAll = [
     "_lastTenRatings": [
       160.07943266175627,
       157.09563225294423,
-      156.81312221008665,
-      152.24824238845673,
-      158.48678530122166,
-      152.79280033042392,
-      146.76838624844572,
-      150.94142311399398,
-      150.04836776980326,
-      150.21792299905343
+      156.81327063143283,
+      152.24839240285746,
+      158.48693516995297,
+      152.79294369244093,
+      146.76852341225577,
+      150.9415925559772,
+      150.04884827254688,
+      150.21839705997039
     ]
   },
   {
@@ -76726,10 +77623,10 @@ const generalAll = [
     "NAF Name": "Sockram",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 141.37923901765137,
+    "rating": 141.37924192168188,
     "bestRating": 145.27858320567745,
-    "worstRating": 135.7392396747828,
-    "tendency": -3.8993441880260775,
+    "worstRating": 135.73924271057516,
+    "tendency": -3.899341283995568,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -76780,10 +77677,10 @@ const generalAll = [
       139.68559729202232,
       144.8092034750015,
       143.64693174005163,
-      138.6362611698281,
-      140.9934373791037,
-      135.7392396747828,
-      141.37923901765137
+      138.63626436725164,
+      140.99344046879935,
+      135.73924271057516,
+      141.37924192168188
     ]
   },
   {
@@ -76791,25 +77688,25 @@ const generalAll = [
     "NAF Name": "Solarius",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 168.67152251020187,
-    "bestRating": 173.0067003552721,
+    "rating": 181.64744477854518,
+    "bestRating": 181.64744477854518,
     "worstRating": 124.38906803145686,
-    "tendency": 11.749333441856407,
-    "totalTournaments": 12,
-    "totalGames": 47,
-    "totalWins": 18,
-    "totalDraws": 11,
+    "tendency": 12.871199665569407,
+    "totalTournaments": 13,
+    "totalGames": 51,
+    "totalWins": 21,
+    "totalDraws": 12,
     "totalLosses": 18,
-    "totalWinRatio": 50,
-    "victoryStreak": 0,
+    "totalWinRatio": 52.94,
+    "victoryStreak": 3,
     "bestVictoryStreak": 5,
-    "noLostStreak": 2,
+    "noLostStreak": 6,
     "bestNoLostStreak": 9,
     "lostStreak": 0,
     "worstLostStreak": 3,
-    "oneTdStreak": 12,
+    "oneTdStreak": 3,
     "bestOneTdStreak": 12,
-    "twoTdStreak": 0,
+    "twoTdStreak": 3,
     "bestTwoTdStreak": 3,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
@@ -76841,16 +77738,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      156.92218906834546,
-      164.78681497873634,
-      168.22850176765488,
-      167.09176553443376,
-      168.77557186002025,
-      173.0067003552721,
-      169.7356041568451,
-      163.46620290120688,
-      167.27945054335,
-      168.67152251020187
+      168.77624511297577,
+      173.00735700205203,
+      169.73632313391252,
+      163.46689955636774,
+      167.2801447954865,
+      168.67219001734009,
+      167.96048416190928,
+      172.5427189072014,
+      176.81621619351648,
+      181.64744477854518
     ]
   },
   {
@@ -76858,35 +77755,35 @@ const generalAll = [
     "NAF Name": "Soldurius",
     "Country": "Spain",
     "CCAA": "Cantabria ",
-    "rating": 149.53875169908397,
+    "rating": 146.44919029918984,
     "bestRating": 156.86555346803016,
     "worstRating": 137.58384389579734,
-    "tendency": 7.222402190873311,
-    "totalTournaments": 4,
-    "totalGames": 16,
-    "totalWins": 5,
-    "totalDraws": 5,
-    "totalLosses": 6,
-    "totalWinRatio": 46.88,
+    "tendency": 2.859114610383756,
+    "totalTournaments": 5,
+    "totalGames": 21,
+    "totalWins": 6,
+    "totalDraws": 7,
+    "totalLosses": 8,
+    "totalWinRatio": 45.24,
     "victoryStreak": 0,
     "bestVictoryStreak": 1,
-    "noLostStreak": 5,
+    "noLostStreak": 2,
     "bestNoLostStreak": 5,
     "lostStreak": 0,
     "worstLostStreak": 3,
-    "oneTdStreak": 2,
+    "oneTdStreak": 1,
     "bestOneTdStreak": 5,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 1,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 1,
         "totalDraws": 1,
-        "totalLosses": 0,
-        "totalWinRatio": 75
+        "totalLosses": 1,
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
@@ -76908,16 +77805,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      142.31634950821066,
-      143.0218039804315,
-      148.98134789182504,
-      142.93571160765669,
-      137.58384389579734,
       143.59007568880608,
       144.20455172509782,
       143.21972883661087,
-      148.5024848446865,
-      149.53875169908397
+      148.50269614650296,
+      149.53895413447273,
+      145.37510321061316,
+      150.16588985339456,
+      145.09105413278684,
+      145.6066727749583,
+      146.44919029918984
     ]
   },
   {
@@ -76980,10 +77877,10 @@ const generalAll = [
     "NAF Name": "Soliteck",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 145.6479773602237,
-    "bestRating": 154.48560709588727,
+    "rating": 145.64817057404912,
+    "bestRating": 154.48581248785152,
     "worstRating": 143.96407649257998,
-    "tendency": 1.304831609716075,
+    "tendency": 1.305024823541487,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -77034,10 +77931,10 @@ const generalAll = [
       143.96407649257998,
       149.3827903511869,
       149.4091968643434,
-      154.46520082454526,
-      154.48560709588727,
-      150.83635843714788,
-      145.6479773602237
+      154.46538414461708,
+      154.48581248785152,
+      150.83655605754146,
+      145.64817057404912
     ]
   },
   {
@@ -77167,10 +78064,10 @@ const generalAll = [
     "NAF Name": "SOLRAH",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150.5878412063243,
-    "bestRating": 159.17839453398847,
-    "worstRating": 149.71906645404894,
-    "tendency": -5.06901304316807,
+    "rating": 150.58765375051308,
+    "bestRating": 159.17826311249235,
+    "worstRating": 149.71909337262534,
+    "tendency": -5.069200498979285,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -77221,10 +78118,10 @@ const generalAll = [
       155.5605755512192,
       149.9387905072409,
       155.5983664945578,
-      149.71906645404894,
-      155.28917993935374,
-      159.17839453398847,
-      150.5878412063243
+      149.71909337262534,
+      155.2890108069684,
+      159.17826311249235,
+      150.58765375051308
     ]
   },
   {
@@ -77232,10 +78129,10 @@ const generalAll = [
     "NAF Name": "Somard",
     "Country": "Spain",
     "CCAA": "Aragón",
-    "rating": 147.91329734502102,
+    "rating": 147.91354771929386,
     "bestRating": 160.80081178520848,
     "worstRating": 147.14839824215025,
-    "tendency": -8.225617251639278,
+    "tendency": -8.22536687736644,
     "totalTournaments": 4,
     "totalGames": 15,
     "totalWins": 6,
@@ -77288,10 +78185,10 @@ const generalAll = [
       154.43562298164724,
       153.66718785087753,
       159.18060774428096,
-      156.18859234708503,
-      150.66653562651084,
-      153.14991839797864,
-      147.91329734502102
+      156.18864812653496,
+      150.66675142524036,
+      153.1501744639225,
+      147.91354771929386
     ]
   },
   {
@@ -77498,10 +78395,10 @@ const generalAll = [
     "NAF Name": "spectre05",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 120.34636076455597,
+    "rating": 120.34693083077589,
     "bestRating": 143.82497289423645,
-    "worstRating": 111.97015768341336,
-    "tendency": 0.8563998624970139,
+    "worstRating": 111.97073467356257,
+    "tendency": 0.8563783498173478,
     "totalTournaments": 8,
     "totalGames": 33,
     "totalWins": 8,
@@ -77548,16 +78445,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      119.48996090205895,
-      115.35421636132618,
-      111.97015768341336,
-      118.63414451351501,
-      120.61388287632364,
-      127.42288209574828,
-      123.51694651364821,
-      118.7070554123039,
-      124.76967740358259,
-      120.34636076455597
+      119.49055248095854,
+      115.35479572423252,
+      111.97073467356257,
+      118.6347058261606,
+      120.61442642681631,
+      127.42352929943142,
+      123.51757449588528,
+      118.70765754771868,
+      124.77026545706704,
+      120.34693083077589
     ]
   },
   {
@@ -77746,10 +78643,10 @@ const generalAll = [
     "NAF Name": "Splinter",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 172.24126759248304,
-    "bestRating": 172.24126759248304,
-    "worstRating": 154.7617784325856,
-    "tendency": 17.47948915989744,
+    "rating": 172.25066214837344,
+    "bestRating": 172.25066214837344,
+    "worstRating": 154.7684703338103,
+    "tendency": 17.482191814563123,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 4,
@@ -77796,10 +78693,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      154.7617784325856,
-      160.41345029879955,
-      167.5193557754401,
-      172.24126759248304
+      154.7684703338103,
+      160.42009403939107,
+      167.52609295891287,
+      172.25066214837344
     ]
   },
   {
@@ -78052,10 +78949,10 @@ const generalAll = [
     "NAF Name": "sr_lobo",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 148.93401590646596,
+    "rating": 148.91678761267875,
     "bestRating": 155.2435851718994,
-    "worstRating": 148.93401590646596,
-    "tendency": -6.296776094927509,
+    "worstRating": 148.91678761267875,
+    "tendency": -6.3140043887147215,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 2,
@@ -78106,9 +79003,9 @@ const generalAll = [
       155.2435851718994,
       149.36767503673764,
       149.46212363626418,
-      149.26911326206067,
-      154.19724371579062,
-      148.93401590646596
+      149.26543654360813,
+      154.28372164622414,
+      148.91678761267875
     ]
   },
   {
@@ -78116,10 +79013,10 @@ const generalAll = [
     "NAF Name": "sr_raez",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 126.41424314121736,
+    "rating": 126.41425046673432,
     "bestRating": 153.89732139636754,
-    "worstRating": 126.41424314121736,
-    "tendency": -14.67470751545261,
+    "worstRating": 126.41425046673432,
+    "tendency": -14.674700189935649,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 3,
@@ -78169,13 +79066,13 @@ const generalAll = [
       141.08895065666997,
       137.5295442136784,
       139.08826561123132,
-      139.60996878922495,
-      145.6288595292546,
-      141.2407923153331,
-      136.6220868120611,
-      131.7065285163644,
-      126.56747614179245,
-      126.41424314121736
+      139.60996878922836,
+      145.6288595292893,
+      141.24079231536635,
+      136.62208681209296,
+      131.70653594300288,
+      126.56748367286912,
+      126.41425046673432
     ]
   },
   {
@@ -78238,10 +79135,10 @@ const generalAll = [
     "NAF Name": "stelacero",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 113.60944749724827,
+    "rating": 113.6103356257582,
     "bestRating": 165.4211069629889,
-    "worstRating": 112.21878298534524,
-    "tendency": -15.201865648390097,
+    "worstRating": 112.21970795344515,
+    "tendency": -15.200977522264807,
     "totalTournaments": 11,
     "totalGames": 46,
     "totalWins": 12,
@@ -78288,16 +79185,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      128.81131314563837,
-      122.93819857917805,
-      118.23082335181199,
-      122.17590336864838,
-      118.37447391877436,
-      113.94927262358111,
-      121.07250705248491,
-      116.66153419753198,
-      112.21878298534524,
-      113.60944749724827
+      128.811313148023,
+      122.93916201642534,
+      118.23191498175797,
+      122.17702435143339,
+      118.37555977568016,
+      113.95032005926771,
+      121.07351211015803,
+      116.6624990523763,
+      112.21970795344515,
+      113.6103356257582
     ]
   },
   {
@@ -78415,10 +79312,10 @@ const generalAll = [
     "NAF Name": "stylambert",
     "Country": "Spain",
     "CCAA": "C. La Mancha",
-    "rating": 181.80912662526916,
-    "bestRating": 193.18675650182632,
+    "rating": 181.80922083595226,
+    "bestRating": 193.18675650182917,
     "worstRating": 149.74203849523153,
-    "tendency": 18.876815694771864,
+    "tendency": 18.876909905454966,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 10,
@@ -78472,9 +79369,9 @@ const generalAll = [
       179.07415438677907,
       184.42370296093313,
       188.6305494757185,
-      193.18675650182632,
-      186.2243324644977,
-      181.80912662526916
+      193.18675650182917,
+      186.22434554309544,
+      181.80922083595226
     ]
   },
   {
@@ -79141,10 +80038,10 @@ const generalAll = [
     "NAF Name": "Tamambolo",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 183.07365569990827,
-    "bestRating": 184.99728727109772,
+    "rating": 183.0737383470583,
+    "bestRating": 184.99734720686968,
     "worstRating": 138.9889949086471,
-    "tendency": 21.466082088023057,
+    "tendency": 21.466164735173095,
     "totalTournaments": 10,
     "totalGames": 39,
     "totalWins": 18,
@@ -79195,12 +80092,12 @@ const generalAll = [
       165.8748080368089,
       170.84580120685374,
       176.20490765507688,
-      181.82717381379342,
-      181.07493448323987,
-      184.1311097930169,
-      184.99728727109772,
-      178.7641980049281,
-      183.07365569990827
+      181.82721505513268,
+      181.07497526728133,
+      184.13117165792252,
+      184.99734720686968,
+      178.7642841764101,
+      183.0737383470583
     ]
   },
   {
@@ -79397,10 +80294,10 @@ const generalAll = [
     "NAF Name": "Taty",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 144.1080223291093,
+    "rating": 144.1084349304075,
     "bestRating": 150.86731986911062,
-    "worstRating": 135.00927999134092,
-    "tendency": -2.86321803484185,
+    "worstRating": 135.00928042777704,
+    "tendency": -2.862805433543656,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 6,
@@ -79454,9 +80351,9 @@ const generalAll = [
       140.5368286476593,
       145.14487120595314,
       140.2038229052145,
-      135.00927999134092,
-      139.16637332784796,
-      144.1080223291093
+      135.00928042777704,
+      139.16679784067048,
+      144.1084349304075
     ]
   },
   {
@@ -79713,28 +80610,28 @@ const generalAll = [
     "NAF Name": "TerreWind",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 147.96151651988157,
-    "bestRating": 147.96151651988157,
-    "worstRating": 142.9480265489952,
-    "tendency": 3.6368848042783384,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 1,
-    "totalDraws": 2,
-    "totalLosses": 1,
-    "totalWinRatio": 50,
+    "rating": 159.14852346943957,
+    "bestRating": 159.55410252731525,
+    "worstRating": 142.94856461325296,
+    "tendency": 14.823891753836335,
+    "totalTournaments": 2,
+    "totalGames": 9,
+    "totalWins": 4,
+    "totalDraws": 3,
+    "totalLosses": 2,
+    "totalWinRatio": 61.11,
     "victoryStreak": 1,
-    "bestVictoryStreak": 1,
-    "noLostStreak": 3,
-    "bestNoLostStreak": 3,
+    "bestVictoryStreak": 2,
+    "noLostStreak": 1,
+    "bestNoLostStreak": 6,
     "lostStreak": 0,
     "worstLostStreak": 1,
-    "oneTdStreak": 3,
-    "bestOneTdStreak": 3,
+    "oneTdStreak": 1,
+    "bestOneTdStreak": 6,
     "twoTdStreak": 1,
     "bestTwoTdStreak": 1,
-    "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
+    "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
         "totalGames": 0,
@@ -79746,11 +80643,11 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
-        "totalWins": 0,
+        "totalGames": 1,
+        "totalWins": 1,
         "totalDraws": 0,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 100
       }
     ],
     "megaProplayers": [
@@ -79764,9 +80661,14 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       144.32463171560323,
-      142.9480265489952,
-      142.97448516754667,
-      147.96151651988157
+      142.94856461325296,
+      142.97499987066217,
+      147.9620091889735,
+      147.21525888598794,
+      151.30673304441123,
+      159.55410252731525,
+      153.767477837555,
+      159.14852346943957
     ]
   },
   {
@@ -79774,10 +80676,10 @@ const generalAll = [
     "NAF Name": "Teseojdm",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 205.71841107744652,
-    "bestRating": 211.70709426649722,
+    "rating": 205.71949661835166,
+    "bestRating": 211.70828797542973,
     "worstRating": 130.95178104759884,
-    "tendency": 11.139487214997416,
+    "tendency": 11.140569332431738,
     "totalTournaments": 21,
     "totalGames": 89,
     "totalWins": 40,
@@ -79824,16 +80726,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      194.5789238624491,
-      197.3679401107362,
-      195.92228702699376,
-      199.3215168542439,
-      204.85691866461713,
-      208.4199525164992,
-      211.70709426649722,
-      210.37542825790894,
-      210.90812856113928,
-      205.71841107744652
+      194.57892728591992,
+      197.36868219479516,
+      195.92299899558628,
+      199.32273011948786,
+      204.8581300838705,
+      208.4211905451155,
+      211.70828797542973,
+      210.37657338120488,
+      210.90923212073216,
+      205.71949661835166
     ]
   },
   {
@@ -80022,35 +80924,35 @@ const generalAll = [
     "NAF Name": "Tharsis",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 191.32408599028525,
-    "bestRating": 193.05604996081183,
+    "rating": 187.30739994729012,
+    "bestRating": 193.056255582728,
     "worstRating": 121.98190077371791,
-    "tendency": 16.20917497942412,
-    "totalTournaments": 44,
-    "totalGames": 179,
-    "totalWins": 64,
-    "totalDraws": 45,
-    "totalLosses": 70,
-    "totalWinRatio": 48.32,
-    "victoryStreak": 1,
+    "tendency": -3.518191816689068,
+    "totalTournaments": 45,
+    "totalGames": 184,
+    "totalWins": 66,
+    "totalDraws": 46,
+    "totalLosses": 72,
+    "totalWinRatio": 48.37,
+    "victoryStreak": 0,
     "bestVictoryStreak": 4,
-    "noLostStreak": 1,
+    "noLostStreak": 0,
     "bestNoLostStreak": 9,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 5,
-    "oneTdStreak": 8,
+    "oneTdStreak": 0,
     "bestOneTdStreak": 8,
-    "twoTdStreak": 1,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 24,
+        "totalGames": 25,
         "totalWins": 9,
         "totalDraws": 6,
-        "totalLosses": 9,
-        "totalWinRatio": 50
+        "totalLosses": 10,
+        "totalWinRatio": 48
       }
     ],
     "topProplayers": [
@@ -80064,24 +80966,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 6,
+        "totalGames": 7,
         "totalWins": 1,
         "totalDraws": 0,
-        "totalLosses": 5,
-        "totalWinRatio": 16.67
+        "totalLosses": 6,
+        "totalWinRatio": 14.29
       }
     ],
     "_lastTenRatings": [
-      175.11491101086114,
-      171.65141784484672,
-      176.2713637704941,
-      182.11542445695625,
-      186.80875387453864,
-      190.82536903671823,
-      189.28486987676555,
-      193.05604996081183,
-      186.0967518480716,
-      191.32408599028525
+      190.8255917639792,
+      189.2850836508267,
+      193.056255582728,
+      186.096949125374,
+      191.32430794015357,
+      185.63213323611748,
+      182.77504357941518,
+      187.42836197841962,
+      191.28277871898166,
+      187.30739994729012
     ]
   },
   {
@@ -80223,10 +81125,10 @@ const generalAll = [
     "NAF Name": "TheBlackDog",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 120.37495768482783,
+    "rating": 120.37509367446214,
     "bestRating": 151.03755636630635,
-    "worstRating": 120.37495768482783,
-    "tendency": -5.3091553395231585,
+    "worstRating": 120.37509367446214,
+    "tendency": -5.308973793941732,
     "totalTournaments": 8,
     "totalGames": 31,
     "totalWins": 7,
@@ -80273,16 +81175,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      125.68411302435099,
-      131.43335068003648,
-      134.3693534468906,
-      135.50608968011173,
-      135.8066664208954,
-      131.86827446637534,
-      132.62563576315588,
-      129.45527330301766,
-      125.89640360378755,
-      120.37495768482783
+      125.68406746840387,
+      131.43350513034443,
+      134.3696058440111,
+      135.5063543023356,
+      135.8069306912218,
+      131.86844023535366,
+      132.6257946965705,
+      129.45550259431712,
+      125.89670044992502,
+      120.37509367446214
     ]
   },
   {
@@ -80345,10 +81247,10 @@ const generalAll = [
     "NAF Name": "TheOddRaspu",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 143.43669924650888,
+    "rating": 143.44222396948868,
     "bestRating": 151.28123155151775,
     "worstRating": 116.4955856574512,
-    "tendency": 13.944768253715893,
+    "tendency": 13.942167013253993,
     "totalTournaments": 11,
     "totalGames": 50,
     "totalWins": 15,
@@ -80395,16 +81297,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      129.491930992793,
-      130.37998194860754,
-      127.87553730269545,
-      132.14077616296225,
-      132.74644076863314,
-      133.37466563967897,
-      134.37359340699152,
-      141.18891582022493,
-      147.38842522798302,
-      143.43669924650888
+      129.5000569562347,
+      130.3878630562485,
+      127.88318192417037,
+      132.14811888084003,
+      132.7532592632878,
+      133.38119871564805,
+      134.37985167284302,
+      141.19491719059016,
+      147.39429321781586,
+      143.44222396948868
     ]
   },
   {
@@ -80412,10 +81314,10 @@ const generalAll = [
     "NAF Name": "TheRealJotaEme",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 158.1459189839352,
-    "bestRating": 158.9016537942196,
-    "worstRating": 152.99691291968662,
-    "tendency": 2.1553863792172194,
+    "rating": 158.14593639088696,
+    "bestRating": 158.9016613074592,
+    "worstRating": 152.99691322617625,
+    "tendency": 2.155403749739662,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -80462,10 +81364,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      155.99053260471797,
-      152.99691291968662,
-      158.9016537942196,
-      158.1459189839352
+      155.9905326411473,
+      152.99691322617625,
+      158.9016613074592,
+      158.14593639088696
     ]
   },
   {
@@ -80715,10 +81617,10 @@ const generalAll = [
     "NAF Name": "The_Trojan_Horseman",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 138.55725947955943,
+    "rating": 138.55728092076566,
     "bestRating": 144.72041504995448,
-    "worstRating": 133.53545688074016,
-    "tendency": -6.163155570395048,
+    "worstRating": 133.53546426212222,
+    "tendency": -6.163134129188819,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -80767,8 +81669,8 @@ const generalAll = [
     "_lastTenRatings": [
       144.72041504995448,
       139.0769592012436,
-      133.53545688074016,
-      138.55725947955943
+      133.53546426212222,
+      138.55728092076566
     ]
   },
   {
@@ -80776,10 +81678,10 @@ const generalAll = [
     "NAF Name": "Thibault",
     "Country": "Spain",
     "CCAA": "Euskadi",
-    "rating": 209.59153471571852,
-    "bestRating": 209.59153471571852,
+    "rating": 209.5915347210968,
+    "bestRating": 209.5915347210968,
     "worstRating": 155.84364037390972,
-    "tendency": 21.835873671472797,
+    "tendency": 21.835873676851065,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 13,
@@ -80835,7 +81737,7 @@ const generalAll = [
       197.07243298677918,
       201.4310940486425,
       204.68380149939375,
-      209.59153471571852
+      209.5915347210968
     ]
   },
   {
@@ -80843,10 +81745,10 @@ const generalAll = [
     "NAF Name": "thorgal1975",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 152.55328801497745,
-    "bestRating": 152.55328801497745,
+    "rating": 152.55607472118402,
+    "bestRating": 152.55607472118402,
     "worstRating": 108.74656691088072,
-    "tendency": 14.760535076766672,
+    "tendency": 14.762904309854775,
     "totalTournaments": 13,
     "totalGames": 53,
     "totalWins": 16,
@@ -80893,16 +81795,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      137.79275293821078,
-      132.15768230621424,
-      127.33622112301471,
-      120.85594977031388,
-      126.67833120224235,
-      132.85477950968033,
-      140.90226925025934,
-      141.25241405566211,
-      147.0862144453971,
-      152.55328801497745
+      137.79317041132924,
+      132.1580945606172,
+      127.33645880825947,
+      120.85933868517675,
+      126.68158164341395,
+      132.85789170287208,
+      140.90535030506442,
+      141.25536640052968,
+      147.08903390639688,
+      152.55607472118402
     ]
   },
   {
@@ -80910,10 +81812,10 @@ const generalAll = [
     "NAF Name": "Thorgeir",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 129.4150605074848,
+    "rating": 129.41540805854694,
     "bestRating": 153.11212802698319,
     "worstRating": 120.48728257536821,
-    "tendency": -18.2738013348972,
+    "tendency": -18.273453783835066,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 3,
@@ -80967,9 +81869,9 @@ const generalAll = [
       130.60471322367874,
       125.07495385540382,
       120.48728257536821,
-      128.2122597231458,
-      124.04306757878754,
-      129.4150605074848
+      128.21226539012216,
+      124.04307301673221,
+      129.41540805854694
     ]
   },
   {
@@ -81042,10 +81944,10 @@ const generalAll = [
     "NAF Name": "Thormanue",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 158.0516465062923,
+    "rating": 158.0518298035562,
     "bestRating": 176.10659542514153,
     "worstRating": 150,
-    "tendency": -13.093281659527491,
+    "tendency": -13.09309836226359,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 12,
@@ -81099,9 +82001,9 @@ const generalAll = [
       166.42478980205067,
       159.97335474423284,
       154.65579583379866,
-      159.54223458956525,
-      153.54485884988333,
-      158.0516465062923
+      159.54243268598762,
+      153.54504978303,
+      158.0518298035562
     ]
   },
   {
@@ -81292,28 +82194,28 @@ const generalAll = [
     "NAF Name": "Tirarayas",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150,
-    "bestRating": 0,
-    "worstRating": 0,
-    "tendency": 0,
-    "totalTournaments": 0,
-    "totalGames": 0,
-    "totalWins": 0,
-    "totalDraws": 0,
-    "totalLosses": 0,
-    "totalWinRatio": 0,
-    "victoryStreak": 0,
-    "bestVictoryStreak": 0,
-    "noLostStreak": 0,
-    "bestNoLostStreak": 0,
+    "rating": 153.7296189420385,
+    "bestRating": 154.85589624272734,
+    "worstRating": 148.94759415460385,
+    "tendency": -1.1262773006888267,
+    "totalTournaments": 1,
+    "totalGames": 4,
+    "totalWins": 2,
+    "totalDraws": 1,
+    "totalLosses": 1,
+    "totalWinRatio": 62.5,
+    "victoryStreak": 1,
+    "bestVictoryStreak": 1,
+    "noLostStreak": 2,
+    "bestNoLostStreak": 2,
     "lostStreak": 0,
-    "worstLostStreak": 0,
-    "oneTdStreak": 0,
-    "bestOneTdStreak": 0,
+    "worstLostStreak": 1,
+    "oneTdStreak": 4,
+    "bestOneTdStreak": 4,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 0,
-    "noTdAgainstStreak": 0,
-    "bestNoTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
+    "bestNoTdAgainstStreak": 1,
     "proplayers": [
       {
         "totalGames": 0,
@@ -81340,6 +82242,12 @@ const generalAll = [
         "totalLosses": 0,
         "totalWinRatio": 0
       }
+    ],
+    "_lastTenRatings": [
+      154.85589624272734,
+      149.82820813962434,
+      148.94759415460385,
+      153.7296189420385
     ]
   },
   {
@@ -81534,25 +82442,25 @@ const generalAll = [
     "NAF Name": "Titokobra",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 149.80687747212986,
+    "rating": 142.85890356017563,
     "bestRating": 149.80687747212986,
     "worstRating": 138.71867769719762,
-    "tendency": 5.463731721622224,
-    "totalTournaments": 1,
-    "totalGames": 4,
-    "totalWins": 2,
-    "totalDraws": 0,
-    "totalLosses": 2,
-    "totalWinRatio": 50,
-    "victoryStreak": 2,
+    "tendency": -1.4842421903319973,
+    "totalTournaments": 2,
+    "totalGames": 9,
+    "totalWins": 3,
+    "totalDraws": 1,
+    "totalLosses": 5,
+    "totalWinRatio": 38.89,
+    "victoryStreak": 0,
     "bestVictoryStreak": 2,
-    "noLostStreak": 2,
+    "noLostStreak": 0,
     "bestNoLostStreak": 2,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 2,
-    "oneTdStreak": 3,
-    "bestOneTdStreak": 3,
-    "twoTdStreak": 1,
+    "oneTdStreak": 8,
+    "bestOneTdStreak": 8,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 1,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 1,
@@ -81576,10 +82484,10 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -81587,7 +82495,12 @@ const generalAll = [
       144.34314575050763,
       138.71867769719762,
       144.38478294530134,
-      149.80687747212986
+      149.80687747212986,
+      144.15840820285928,
+      149.69711481327462,
+      147.25328765196437,
+      147.99583442805294,
+      142.85890356017563
     ]
   },
   {
@@ -81838,10 +82751,10 @@ const generalAll = [
     "NAF Name": "Toninitron",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 157.39834636895623,
-    "bestRating": 162.3830030845077,
-    "worstRating": 156.59418049215648,
-    "tendency": 0.5751448956092133,
+    "rating": 157.3983833043539,
+    "bestRating": 162.38300933573822,
+    "worstRating": 156.5942136969301,
+    "tendency": 0.5751752961287764,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -81888,10 +82801,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      156.823201473347,
-      162.3830030845077,
-      156.59418049215648,
-      157.39834636895623
+      156.82320800822512,
+      162.38300933573822,
+      156.5942136969301,
+      157.3983833043539
     ]
   },
   {
@@ -81899,10 +82812,10 @@ const generalAll = [
     "NAF Name": "Toponimias",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 193.75469909388974,
-    "bestRating": 206.79848261710444,
+    "rating": 193.75488140425333,
+    "bestRating": 206.7984826844629,
     "worstRating": 148.03792026097756,
-    "tendency": -11.229820358578792,
+    "tendency": -11.229701933717394,
     "totalTournaments": 24,
     "totalGames": 101,
     "totalWins": 46,
@@ -81949,16 +82862,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      204.98451945246853,
-      203.60909323630506,
-      201.11964306215208,
-      195.6572281006675,
-      191.35584874190792,
-      193.15297908492292,
-      186.4046611066622,
-      188.61797624248672,
-      193.91943016990862,
-      193.75469909388974
+      204.98458333797072,
+      203.60921509972349,
+      201.11976263832352,
+      195.6573457873364,
+      191.3560091026842,
+      193.1531361991052,
+      186.40481165322163,
+      188.6181694795595,
+      193.91961939846004,
+      193.75488140425333
     ]
   },
   {
@@ -81966,10 +82879,10 @@ const generalAll = [
     "NAF Name": "Toriel",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 178.15826703031084,
-    "bestRating": 178.15826703031084,
+    "rating": 178.15395220398977,
+    "bestRating": 178.15395220398977,
     "worstRating": 153.66163562939386,
-    "tendency": 24.496631400916982,
+    "tendency": 24.492316574595918,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 7,
@@ -82021,9 +82934,9 @@ const generalAll = [
       165.95740723567224,
       161.16758872497968,
       166.0066408191577,
-      169.8480200293954,
-      173.87963690893275,
-      178.15826703031084
+      169.84802344633692,
+      173.87513754355828,
+      178.15395220398977
     ]
   },
   {
@@ -82214,27 +83127,27 @@ const generalAll = [
     "NAF Name": "Totay",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 143.25447798477484,
+    "rating": 130.62403092277972,
     "bestRating": 174.73105116306684,
     "worstRating": 119.97379742312333,
-    "tendency": -8.385796461123135,
-    "totalTournaments": 36,
-    "totalGames": 144,
-    "totalWins": 47,
-    "totalDraws": 36,
-    "totalLosses": 61,
-    "totalWinRatio": 45.14,
-    "victoryStreak": 0,
+    "tendency": -18.05292564646936,
+    "totalTournaments": 37,
+    "totalGames": 149,
+    "totalWins": 48,
+    "totalDraws": 37,
+    "totalLosses": 64,
+    "totalWinRatio": 44.63,
+    "victoryStreak": 1,
     "bestVictoryStreak": 4,
-    "noLostStreak": 0,
+    "noLostStreak": 1,
     "bestNoLostStreak": 5,
-    "lostStreak": 2,
+    "lostStreak": 0,
     "worstLostStreak": 4,
-    "oneTdStreak": 0,
+    "oneTdStreak": 2,
     "bestOneTdStreak": 8,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 4,
     "proplayers": [
       {
@@ -82264,16 +83177,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      151.64027444589797,
-      158.03312428364916,
-      152.70184747336498,
-      150.85421741519164,
-      143.51950658521326,
       148.67695656924909,
       144.72895302191284,
-      150.83379212655626,
-      146.35184188104327,
-      143.25447798477484
+      150.8337921265904,
+      146.35184258330014,
+      143.2544792504927,
+      136.14560951709117,
+      137.91467103892126,
+      131.11447994378264,
+      125.10504626507978,
+      130.62403092277972
     ]
   },
   {
@@ -82345,10 +83258,10 @@ const generalAll = [
     "NAF Name": "Tovarich675",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 149.58561555127918,
-    "bestRating": 155.03212650770408,
-    "worstRating": 146.27058883850808,
-    "tendency": 3.3150267127711004,
+    "rating": 149.58547712713235,
+    "bestRating": 155.03207239445726,
+    "worstRating": 146.2705076782554,
+    "tendency": 3.314969448876951,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -82395,10 +83308,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      146.27058883850808,
-      149.37516519502483,
-      155.03212650770408,
-      149.58561555127918
+      146.2705076782554,
+      149.37511106574013,
+      155.03207239445726,
+      149.58547712713235
     ]
   },
   {
@@ -82473,10 +83386,10 @@ const generalAll = [
     "NAF Name": "Tracio",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 149.65881135472353,
+    "rating": 149.65885761657225,
     "bestRating": 158.86654308115013,
-    "worstRating": 138.006001972859,
-    "tendency": 0.3289955503115607,
+    "worstRating": 138.00604984184548,
+    "tendency": 0.32904181216028405,
     "totalTournaments": 7,
     "totalGames": 26,
     "totalWins": 11,
@@ -82525,14 +83438,14 @@ const generalAll = [
     "_lastTenRatings": [
       149.32981580441196,
       154.58340322224373,
-      149.67641729130676,
-      143.96218194501068,
-      143.05583531465064,
-      148.51138458580232,
-      141.38815015689852,
-      138.006001972859,
-      143.7649526867173,
-      149.65881135472353
+      149.67641730976027,
+      143.9621819812732,
+      143.05583636987294,
+      148.51138566456893,
+      141.38819361367862,
+      138.00604984184548,
+      143.76499894220282,
+      149.65885761657225
     ]
   },
   {
@@ -82540,10 +83453,10 @@ const generalAll = [
     "NAF Name": "Trejo",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 171.06203833886278,
-    "bestRating": 176.32076121238734,
+    "rating": 171.06206727657573,
+    "bestRating": 176.32076708446846,
     "worstRating": 147.6895304536941,
-    "tendency": 0.6043851511753928,
+    "tendency": 0.6044112964453916,
     "totalTournaments": 6,
     "totalGames": 26,
     "totalWins": 11,
@@ -82590,16 +83503,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      170.45765318768738,
-      175.74619553736244,
-      176.32076121238734,
-      168.46154143150216,
-      168.53130523915323,
-      169.5501652234384,
-      169.1287902392736,
-      176.3073696956134,
-      175.88346766619003,
-      171.06203833886278
+      170.45765598013034,
+      175.74619828769616,
+      176.32076708446846,
+      168.46154709272682,
+      168.53131291890864,
+      169.55018793611478,
+      169.1288119713427,
+      176.30739248520257,
+      175.88349597683796,
+      171.06206727657573
     ]
   },
   {
@@ -82729,10 +83642,10 @@ const generalAll = [
     "NAF Name": "TRISKELBIKER",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 203.7232246476171,
-    "bestRating": 204.4506850001492,
+    "rating": 203.72328485046918,
+    "bestRating": 204.4507255887723,
     "worstRating": 149.9675710675516,
-    "tendency": 11.116228036408131,
+    "tendency": 11.116288238836006,
     "totalTournaments": 8,
     "totalGames": 33,
     "totalWins": 19,
@@ -82779,16 +83692,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      192.60699661120896,
-      195.94012678633922,
-      199.11462976563823,
-      198.35027385087182,
-      197.91657996316172,
-      199.09399800381152,
-      201.33736432077205,
-      204.4506850001492,
-      201.01551523707775,
-      203.7232246476171
+      192.60699661163318,
+      195.94012678675622,
+      199.11462976604062,
+      198.35027393494408,
+      197.9165801390276,
+      199.09400021482415,
+      201.33736647881005,
+      204.4507255887723,
+      201.01557663720584,
+      203.72328485046918
     ]
   },
   {
@@ -82851,23 +83764,23 @@ const generalAll = [
     "NAF Name": "Troloe",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 116.40009668215465,
+    "rating": 124.44197259188027,
     "bestRating": 187.36982426765434,
-    "worstRating": 116.40009668215465,
-    "tendency": -11.145063767124924,
-    "totalTournaments": 30,
-    "totalGames": 117,
-    "totalWins": 37,
-    "totalDraws": 34,
-    "totalLosses": 46,
-    "totalWinRatio": 46.15,
+    "worstRating": 111.21377167421872,
+    "tendency": -3.5085775064844427,
+    "totalTournaments": 31,
+    "totalGames": 122,
+    "totalWins": 39,
+    "totalDraws": 35,
+    "totalLosses": 48,
+    "totalWinRatio": 46.31,
     "victoryStreak": 0,
     "bestVictoryStreak": 4,
-    "noLostStreak": 0,
+    "noLostStreak": 3,
     "bestNoLostStreak": 11,
-    "lostStreak": 3,
+    "lostStreak": 0,
     "worstLostStreak": 6,
-    "oneTdStreak": 2,
+    "oneTdStreak": 3,
     "bestOneTdStreak": 11,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 2,
@@ -82875,11 +83788,11 @@ const generalAll = [
     "bestNoTdAgainstStreak": 4,
     "proplayers": [
       {
-        "totalGames": 19,
+        "totalGames": 21,
         "totalWins": 3,
         "totalDraws": 6,
-        "totalLosses": 10,
-        "totalWinRatio": 31.58
+        "totalLosses": 12,
+        "totalWinRatio": 28.57
       }
     ],
     "topProplayers": [
@@ -82901,16 +83814,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      127.54516044927958,
-      133.2754664584896,
-      133.68678493509196,
-      134.10580141141048,
-      134.67504937069754,
-      127.95037585199083,
-      130.0984323908461,
-      126.9424902834385,
-      122.40332715168633,
-      116.40009668215465
+      127.95055009836472,
+      130.09863071148254,
+      126.94268617227527,
+      122.40351524054086,
+      116.40030943650558,
+      113.91215575286614,
+      111.21377167421872,
+      118.01396276935732,
+      124.36660936028451,
+      124.44197259188027
     ]
   },
   {
@@ -82918,35 +83831,35 @@ const generalAll = [
     "NAF Name": "Trompeltom",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 137.62109794933016,
+    "rating": 142.0289830093126,
     "bestRating": 147.7621677325171,
     "worstRating": 122.15990416649703,
-    "tendency": 1.1585649058612262,
-    "totalTournaments": 6,
-    "totalGames": 23,
-    "totalWins": 6,
-    "totalDraws": 6,
-    "totalLosses": 11,
-    "totalWinRatio": 39.13,
-    "victoryStreak": 1,
+    "tendency": 8.795719741490274,
+    "totalTournaments": 7,
+    "totalGames": 28,
+    "totalWins": 8,
+    "totalDraws": 7,
+    "totalLosses": 13,
+    "totalWinRatio": 41.07,
+    "victoryStreak": 0,
     "bestVictoryStreak": 2,
-    "noLostStreak": 1,
+    "noLostStreak": 0,
     "bestNoLostStreak": 3,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 2,
-    "oneTdStreak": 1,
-    "bestOneTdStreak": 3,
-    "twoTdStreak": 1,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 5,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 1,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 3,
-        "totalWins": 1,
-        "totalDraws": 1,
+        "totalGames": 5,
+        "totalWins": 2,
+        "totalDraws": 2,
         "totalLosses": 1,
-        "totalWinRatio": 50
+        "totalWinRatio": 60
       }
     ],
     "topProplayers": [
@@ -82968,16 +83881,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      136.46253304346894,
-      131.77542099007695,
-      128.71014880069052,
-      136.58250920592985,
-      138.0963241940112,
       133.23326326782234,
       133.2726179033633,
       136.50237902584792,
       132.7371713823062,
-      137.62109794933016
+      137.62109794933016,
+      131.12076692404347,
+      139.12671375713143,
+      145.279136163082,
+      147.4100286411972,
+      142.0289830093126
     ]
   },
   {
@@ -83353,10 +84266,10 @@ const generalAll = [
     "NAF Name": "Turbonitro",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 139.3723893528614,
+    "rating": 139.37397626666336,
     "bestRating": 151.59719527396166,
-    "worstRating": 138.05614004361624,
-    "tendency": -12.040611602658544,
+    "worstRating": 138.05786866912837,
+    "tendency": -12.039024688856585,
     "totalTournaments": 2,
     "totalGames": 10,
     "totalWins": 1,
@@ -83407,12 +84320,12 @@ const generalAll = [
       151.59719527396166,
       146.51589315375116,
       141.6497226154425,
-      146.4798139250189,
-      141.22493644371622,
-      142.23800191099033,
-      138.05614004361624,
-      138.34421742622933,
-      139.3723893528614
+      146.48177938863645,
+      141.22681700173007,
+      142.2398034374782,
+      138.05786866912837,
+      138.34587119293894,
+      139.37397626666336
     ]
   },
   {
@@ -83485,10 +84398,10 @@ const generalAll = [
     "NAF Name": "Turron",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150.40524634265975,
-    "bestRating": 150.47801819933161,
-    "worstRating": 146.4209460443233,
-    "tendency": -0.07277185667186359,
+    "rating": 150.4052575426693,
+    "bestRating": 150.47801820283277,
+    "worstRating": 146.420954778117,
+    "tendency": -0.07276066016348182,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -83535,10 +84448,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      150.47801819933161,
-      146.4209460443233,
-      150.34221052947362,
-      150.40524634265975
+      150.47801820283277,
+      146.420954778117,
+      150.3422191637309,
+      150.4052575426693
     ]
   },
   {
@@ -83607,10 +84520,10 @@ const generalAll = [
     "NAF Name": "Txapo",
     "Country": "Spain",
     "CCAA": "La Rioja",
-    "rating": 143.08143020455586,
+    "rating": 143.08148646480512,
     "bestRating": 150.2864023296078,
-    "worstRating": 140.178173574338,
-    "tendency": -1.588293954736855,
+    "worstRating": 140.17818171858474,
+    "tendency": -1.5882376944875887,
     "totalTournaments": 3,
     "totalGames": 12,
     "totalWins": 4,
@@ -83661,12 +84574,12 @@ const generalAll = [
       150.2864023296078,
       143.69184022972297,
       149.4094080398215,
-      149.34883945340644,
-      143.88670286002792,
-      140.178173574338,
-      140.42285988883594,
-      140.51645299941595,
-      143.08143020455586
+      149.34883945340653,
+      143.88671131700642,
+      140.17818171858474,
+      140.4228677030213,
+      140.51646288235548,
+      143.08148646480512
     ]
   },
   {
@@ -83736,10 +84649,10 @@ const generalAll = [
     "NAF Name": "Tyrion13",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 174.43781825943475,
+    "rating": 174.43793542934282,
     "bestRating": 179.93861447753477,
     "worstRating": 145.1343001612308,
-    "tendency": 12.235819392430955,
+    "tendency": 12.23593656233902,
     "totalTournaments": 5,
     "totalGames": 18,
     "totalWins": 8,
@@ -83794,8 +84707,8 @@ const generalAll = [
       171.07210671047372,
       175.57759639443287,
       179.93861447753477,
-      175.2419841362345,
-      174.43781825943475
+      175.24210503676662,
+      174.43793542934282
     ]
   },
   {
@@ -83862,10 +84775,10 @@ const generalAll = [
     "NAF Name": "Tzoscey",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 172.45947358338816,
-    "bestRating": 181.57751861409116,
+    "rating": 172.46137357624985,
+    "bestRating": 181.57751901075417,
     "worstRating": 138.68629150101526,
-    "tendency": -4.4729589782945425,
+    "tendency": -4.4710589854328475,
     "totalTournaments": 7,
     "totalGames": 29,
     "totalWins": 13,
@@ -83914,14 +84827,14 @@ const generalAll = [
     "_lastTenRatings": [
       176.9324325616827,
       177.39357152772877,
-      181.57751861409116,
-      180.98232861582719,
-      175.892003591658,
-      179.26960373162754,
-      173.12071557623534,
-      177.10430885652704,
-      180.66317855575716,
-      172.45947358338816
+      181.57751901075417,
+      180.98233343168232,
+      175.89202364909377,
+      179.27178721116994,
+      173.12285236333733,
+      177.10636978891225,
+      180.66517193330435,
+      172.46137357624985
     ]
   },
   {
@@ -84051,10 +84964,10 @@ const generalAll = [
     "NAF Name": "Ulvardar",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 179.3886341014179,
-    "bestRating": 181.11993960095668,
+    "rating": 179.3896369960169,
+    "bestRating": 181.121013098158,
     "worstRating": 139.8909693042639,
-    "tendency": 5.641418525820825,
+    "tendency": 5.641203857438001,
     "totalTournaments": 9,
     "totalGames": 36,
     "totalWins": 16,
@@ -84101,16 +85014,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      173.74721557559707,
-      172.45579475212858,
-      177.80883046902392,
-      172.21756927707125,
-      176.27280745038965,
-      181.11993960095668,
-      180.0272038647023,
-      179.718445700966,
-      174.09354233664882,
-      179.3886341014179
+      173.7484331385789,
+      172.4569788029744,
+      177.80998323508945,
+      172.2186855226294,
+      176.27390094416333,
+      181.121013098158,
+      180.0282745293541,
+      179.71948145153044,
+      174.09453481704972,
+      179.3896369960169
     ]
   },
   {
@@ -84173,35 +85086,35 @@ const generalAll = [
     "NAF Name": "undress_",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 216.84944573861603,
-    "bestRating": 239.58640077622948,
+    "rating": 213.26397360568953,
+    "bestRating": 239.58640081601308,
     "worstRating": 155.65685424949237,
-    "tendency": -1.1121068096250042,
-    "totalTournaments": 32,
-    "totalGames": 122,
-    "totalWins": 65,
-    "totalDraws": 31,
-    "totalLosses": 26,
-    "totalWinRatio": 65.98,
-    "victoryStreak": 2,
+    "tendency": -2.9149485775146786,
+    "totalTournaments": 33,
+    "totalGames": 127,
+    "totalWins": 67,
+    "totalDraws": 33,
+    "totalLosses": 27,
+    "totalWinRatio": 65.75,
+    "victoryStreak": 1,
     "bestVictoryStreak": 6,
     "noLostStreak": 2,
     "bestNoLostStreak": 14,
     "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 5,
+    "oneTdStreak": 1,
     "bestOneTdStreak": 21,
-    "twoTdStreak": 0,
+    "twoTdStreak": 1,
     "bestTwoTdStreak": 3,
-    "noTdAgainstStreak": 2,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 20,
+        "totalGames": 21,
         "totalWins": 9,
-        "totalDraws": 6,
+        "totalDraws": 7,
         "totalLosses": 5,
-        "totalWinRatio": 60
+        "totalWinRatio": 59.52
       }
     ],
     "topProplayers": [
@@ -84223,16 +85136,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      217.96155254824103,
-      220.23950412332002,
-      213.09232096898208,
-      215.79556348660236,
-      214.29615890803538,
-      216.1788787670504,
-      217.56987871182488,
-      211.72581802536274,
-      213.96029209651817,
-      216.84944573861603
+      216.1789221832042,
+      217.56992134510278,
+      211.72586694055553,
+      213.96033977336293,
+      216.84949598507256,
+      214.2577117612054,
+      218.0569037924892,
+      210.11011728442185,
+      209.3823445306702,
+      213.26397360568953
     ]
   },
   {
@@ -84295,10 +85208,10 @@ const generalAll = [
     "NAF Name": "Unicornio_Feliz",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 175.62185842683746,
-    "bestRating": 180.99028197349116,
+    "rating": 175.62201157132264,
+    "bestRating": 180.99044028860249,
     "worstRating": 142.46275981533165,
-    "tendency": 1.9794496728274567,
+    "tendency": 1.9796028173126388,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 10,
@@ -84347,14 +85260,14 @@ const generalAll = [
     "_lastTenRatings": [
       173.64240875401,
       167.51097970471127,
-      170.8753547033633,
-      165.5484386044122,
-      169.73412157034517,
-      173.72979123370894,
-      175.6971846063793,
-      175.912996089915,
-      180.99028197349116,
-      175.62185842683746
+      170.87547080694353,
+      165.5486233348496,
+      169.73429882277983,
+      173.72996168891544,
+      175.69735276604675,
+      175.9131584016878,
+      180.99044028860249,
+      175.62201157132264
     ]
   },
   {
@@ -84715,10 +85628,10 @@ const generalAll = [
     "NAF Name": "uteN",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 146.7310975500456,
-    "bestRating": 156.26833647438536,
-    "worstRating": 146.7310975500456,
-    "tendency": -5.4063150750720865,
+    "rating": 146.73161251012726,
+    "bestRating": 156.26888906353457,
+    "worstRating": 146.73161251012726,
+    "tendency": -5.405800139193559,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -84765,10 +85678,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      152.1374126251177,
-      156.26833647438536,
-      150.64135831775258,
-      146.7310975500456
+      152.13741264932082,
+      156.26888906353457,
+      150.64188719065848,
+      146.73161251012726
     ]
   },
   {
@@ -84776,10 +85689,10 @@ const generalAll = [
     "NAF Name": "UxiaBowl",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 131.99325311700008,
-    "bestRating": 144.03146940974443,
-    "worstRating": 131.99325311700008,
-    "tendency": -12.038216292744352,
+    "rating": 131.99326112760525,
+    "bestRating": 144.03146940987818,
+    "worstRating": 131.99326112760525,
+    "tendency": -12.038208282272933,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 0,
@@ -84826,10 +85739,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.03146940974443,
-      139.78312021747098,
-      133.25031324795418,
-      131.99325311700008
+      144.03146940987818,
+      139.78312150115636,
+      133.2503144911447,
+      131.99326112760525
     ]
   },
   {
@@ -85017,10 +85930,10 @@ const generalAll = [
     "NAF Name": "Valase",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 150.43671498555156,
-    "bestRating": 155.70116785683607,
-    "worstRating": 144.34818117643124,
-    "tendency": 6.088533809120321,
+    "rating": 150.43692216899626,
+    "bestRating": 155.70137166180564,
+    "worstRating": 144.3481837585882,
+    "tendency": 6.0887384104080695,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -85067,10 +85980,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.34818117643124,
-      149.9862914106558,
-      155.70116785683607,
-      150.43671498555156
+      144.3481837585882,
+      149.9862944337075,
+      155.70137166180564,
+      150.43692216899626
     ]
   },
   {
@@ -85383,10 +86296,10 @@ const generalAll = [
     "NAF Name": "Vandermacho",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 170.01792498719095,
-    "bestRating": 170.01792498719095,
+    "rating": 170.01820360276895,
+    "bestRating": 170.01820360276895,
     "worstRating": 150,
-    "tendency": 20.017924987190952,
+    "tendency": 20.01820360276895,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 5,
@@ -85437,10 +86350,10 @@ const generalAll = [
       155.89482870293048,
       161.33787140655224,
       161.54883604848652,
-      166.2963651354672,
-      159.91229503317976,
-      164.75347211590645,
-      170.01792498719095
+      166.29662298919845,
+      159.9125774459907,
+      164.75375410995957,
+      170.01820360276895
     ]
   },
   {
@@ -85448,27 +86361,27 @@ const generalAll = [
     "NAF Name": "varagh",
     "Country": "Spain",
     "CCAA": "Euskadi",
-    "rating": 184.75928138001743,
+    "rating": 191.352050465341,
     "bestRating": 196.55281970666636,
     "worstRating": 144.35066590644172,
-    "tendency": -1.8228612601457428,
-    "totalTournaments": 7,
-    "totalGames": 28,
-    "totalWins": 15,
-    "totalDraws": 7,
-    "totalLosses": 6,
-    "totalWinRatio": 66.07,
-    "victoryStreak": 0,
+    "tendency": -5.200769241325361,
+    "totalTournaments": 8,
+    "totalGames": 33,
+    "totalWins": 18,
+    "totalDraws": 8,
+    "totalLosses": 7,
+    "totalWinRatio": 66.67,
+    "victoryStreak": 1,
     "bestVictoryStreak": 4,
-    "noLostStreak": 2,
+    "noLostStreak": 1,
     "bestNoLostStreak": 10,
     "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 2,
+    "oneTdStreak": 7,
     "bestOneTdStreak": 12,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 2,
-    "noTdAgainstStreak": 0,
+    "noTdAgainstStreak": 1,
     "bestNoTdAgainstStreak": 4,
     "proplayers": [
       {
@@ -85481,11 +86394,11 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
-        "totalDraws": 0,
+        "totalDraws": 1,
         "totalLosses": 0,
-        "totalWinRatio": 0
+        "totalWinRatio": 50
       }
     ],
     "megaProplayers": [
@@ -85498,16 +86411,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      186.58214264016317,
-      185.26829738141586,
-      189.1479382369773,
-      188.22447701506096,
-      192.44589674513995,
       196.55281970666636,
       189.19541232943664,
-      182.06694156684713,
-      184.7673842824134,
-      184.75928138001743
+      182.0669416950258,
+      184.76738979006353,
+      184.75928690290593,
+      188.9231378267655,
+      192.23331896605097,
+      193.3543251036763,
+      186.69671595355186,
+      191.352050465341
     ]
   },
   {
@@ -85515,10 +86428,10 @@ const generalAll = [
     "NAF Name": "Varbater",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 81.82593871290862,
+    "rating": 81.82851148475224,
     "bestRating": 143.91517579023093,
-    "worstRating": 81.82593871290862,
-    "tendency": -21.025800250265704,
+    "worstRating": 81.82851148475224,
+    "tendency": -21.023259390285418,
     "totalTournaments": 6,
     "totalGames": 26,
     "totalWins": 1,
@@ -85565,16 +86478,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      102.85173896317433,
-      98.99224965071676,
-      95.15281590538714,
-      90.88757704512034,
-      87.65504293261368,
-      83.26263473124541,
-      86.5337309296724,
-      83.98753011178165,
-      84.98194114382922,
-      81.82593871290862
+      102.85177087503766,
+      98.99250267556872,
+      95.1530590783587,
+      90.88812212168905,
+      87.6557652505063,
+      83.26559602818111,
+      86.53662989632063,
+      83.99036094697921,
+      84.9846090033338,
+      81.82851148475224
     ]
   },
   {
@@ -85582,10 +86495,10 @@ const generalAll = [
     "NAF Name": "Varese",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 131.83692192693965,
+    "rating": 131.83699632515336,
     "bestRating": 151.64347022674818,
-    "worstRating": 131.1487985589547,
-    "tendency": -19.806548299808526,
+    "worstRating": 131.1487985612746,
+    "tendency": -19.806473901594813,
     "totalTournaments": 2,
     "totalGames": 7,
     "totalWins": 0,
@@ -85637,8 +86550,8 @@ const generalAll = [
       139.01554055990647,
       134.68113350394808,
       131.35635149659373,
-      131.1487985589547,
-      131.83692192693965
+      131.1487985612746,
+      131.83699632515336
     ]
   },
   {
@@ -85646,10 +86559,10 @@ const generalAll = [
     "NAF Name": "Vargo",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 139.08526919667264,
+    "rating": 139.08551235703587,
     "bestRating": 156.00232302241045,
-    "worstRating": 139.08526919667264,
-    "tendency": -11.349850024607662,
+    "worstRating": 139.08551235703587,
+    "tendency": -11.349606864244436,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -85700,10 +86613,10 @@ const generalAll = [
       156.00232302241045,
       152.44475025899047,
       151.44695514646648,
-      150.4725977690143,
-      144.70666231694776,
-      139.21276096985,
-      139.08526919667264
+      150.47261437559075,
+      144.7068097837954,
+      139.21291680521162,
+      139.08551235703587
     ]
   },
   {
@@ -85711,10 +86624,10 @@ const generalAll = [
     "NAF Name": "Varone",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 136.44042639493287,
+    "rating": 136.44055799623555,
     "bestRating": 143.62075214968522,
-    "worstRating": 136.3763041424277,
-    "tendency": -7.180325754752346,
+    "worstRating": 136.37637542797805,
+    "tendency": -7.180194153449662,
     "totalTournaments": 1,
     "totalGames": 6,
     "totalWins": 1,
@@ -85764,9 +86677,9 @@ const generalAll = [
       143.62075214968522,
       143.2626874254097,
       137.1365949987947,
-      141.96289640181328,
-      136.3763041424277,
-      136.44042639493287
+      141.96297092239624,
+      136.37637542797805,
+      136.44055799623555
     ]
   },
   {
@@ -85839,10 +86752,10 @@ const generalAll = [
     "NAF Name": "Velkor",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 173.37166172431114,
-    "bestRating": 199.2540067231845,
+    "rating": 173.37531551544456,
+    "bestRating": 199.25400995445835,
     "worstRating": 155.65685424949237,
-    "tendency": -9.062178404544909,
+    "tendency": -9.058544914884749,
     "totalTournaments": 9,
     "totalGames": 45,
     "totalWins": 21,
@@ -85889,16 +86802,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      182.43384012885605,
-      181.71853798358268,
-      175.95515534201078,
-      178.35018001705706,
-      181.44253937243997,
-      177.15451437544115,
-      172.0744001116339,
-      175.98355680889625,
-      179.55159338422047,
-      173.37166172431114
+      182.4338604303293,
+      181.71855814155685,
+      175.95530606340273,
+      178.35393613997053,
+      181.4463156223817,
+      177.158196651383,
+      172.07792427542216,
+      175.9871030797328,
+      179.55541152343355,
+      173.37531551544456
     ]
   },
   {
@@ -85906,10 +86819,10 @@ const generalAll = [
     "NAF Name": "velonius",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 146.27963595614077,
-    "bestRating": 146.27963595614077,
-    "worstRating": 140.51765581537347,
-    "tendency": 0.6552024369710239,
+    "rating": 146.27999767371483,
+    "bestRating": 146.27999767371483,
+    "worstRating": 140.51785076415806,
+    "tendency": 0.6556095391661358,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 2,
@@ -85956,10 +86869,10 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      145.62443351916974,
-      140.51765581537347,
-      144.0236113798232,
-      146.27963595614077
+      145.6243881345487,
+      140.51785076415806,
+      144.02392005759128,
+      146.27999767371483
     ]
   },
   {
@@ -86160,10 +87073,10 @@ const generalAll = [
     "NAF Name": "Victorvallejo",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 138.64452041462752,
+    "rating": 138.64457574690232,
     "bestRating": 158.24862351279722,
-    "worstRating": 138.64452041462752,
-    "tendency": -4.600527132631612,
+    "worstRating": 138.64457574690232,
+    "tendency": -4.600471800356814,
     "totalTournaments": 5,
     "totalGames": 20,
     "totalWins": 5,
@@ -86216,10 +87129,10 @@ const generalAll = [
       154.37436026146358,
       154.23574064467027,
       148.75613465428043,
-      148.20773082155006,
-      148.7385243648482,
-      143.70732282720581,
-      138.64452041462752
+      148.20777916580062,
+      148.73857368662757,
+      143.70737735419726,
+      138.64457574690232
     ]
   },
   {
@@ -86227,10 +87140,10 @@ const generalAll = [
     "NAF Name": "Vidal",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 153.11256449563442,
+    "rating": 153.11719288664284,
     "bestRating": 202.03354342026998,
     "worstRating": 135.60099080015667,
-    "tendency": 7.994733544976043,
+    "tendency": 7.993058186800226,
     "totalTournaments": 20,
     "totalGames": 81,
     "totalWins": 37,
@@ -86277,16 +87190,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      145.11783095065837,
-      150.50967960028302,
-      156.20207438425385,
-      150.57728134960072,
-      153.80981546210737,
-      154.1801202102027,
-      156.3965899723238,
-      152.3869180836098,
-      157.3577796278373,
-      153.11256449563442
+      145.1241346998426,
+      150.51573696336774,
+      156.20786875928968,
+      150.58282717554263,
+      153.81518404672536,
+      154.18527462702028,
+      156.40169671783968,
+      152.39186896944074,
+      157.3625616164833,
+      153.11719288664284
     ]
   },
   {
@@ -86428,10 +87341,10 @@ const generalAll = [
     "NAF Name": "vikingkop",
     "Country": "Spain",
     "CCAA": "Euskadi",
-    "rating": 176.6077512069289,
-    "bestRating": 183.38980864694082,
+    "rating": 176.60775689506826,
+    "bestRating": 183.3898087832196,
     "worstRating": 150.41457354142545,
-    "tendency": 8.522343022723646,
+    "tendency": 8.522348710863014,
     "totalTournaments": 3,
     "totalGames": 14,
     "totalWins": 6,
@@ -86485,9 +87398,9 @@ const generalAll = [
       178.08782549559027,
       177.51554160077376,
       182.81319993274664,
-      183.38980864694082,
-      183.2945109805656,
-      176.6077512069289
+      183.3898087832196,
+      183.29451427524256,
+      176.60775689506826
     ]
   },
   {
@@ -86495,10 +87408,10 @@ const generalAll = [
     "NAF Name": "vilka",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 122.17553058183474,
+    "rating": 122.17554569899673,
     "bestRating": 150.48035058996086,
-    "worstRating": 122.17553058183474,
-    "tendency": -15.685472491448863,
+    "worstRating": 122.17554569899673,
+    "tendency": -15.68545737428687,
     "totalTournaments": 5,
     "totalGames": 21,
     "totalWins": 6,
@@ -86552,9 +87465,9 @@ const generalAll = [
       133.66678181502277,
       130.74176277756592,
       125.31792524743332,
-      130.86800120417666,
-      126.68231823824371,
-      122.17553058183474
+      130.86800120745315,
+      126.6823257195229,
+      122.17554569899673
     ]
   },
   {
@@ -86678,10 +87591,10 @@ const generalAll = [
     "NAF Name": "VITONATOR",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 171.39036953551218,
+    "rating": 171.39039632144818,
     "bestRating": 188.96091546265126,
     "worstRating": 150.70195689897662,
-    "tendency": 9.463091500561802,
+    "tendency": 9.463114402433916,
     "totalTournaments": 19,
     "totalGames": 73,
     "totalWins": 32,
@@ -86728,16 +87641,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      161.92727803495038,
-      157.39839748581775,
-      160.693724838127,
-      156.46360053801698,
-      156.61173106043069,
-      162.5412767886903,
-      163.70850420423162,
-      169.44588089584946,
-      166.40052242135508,
-      171.39036953551218
+      161.92728191901426,
+      157.3984047903967,
+      160.6937321520618,
+      156.46360762745707,
+      156.6117384891805,
+      162.54128820904563,
+      163.7085159150405,
+      169.44590124966692,
+      166.40054400977567,
+      171.39039632144818
     ]
   },
   {
@@ -86922,10 +87835,10 @@ const generalAll = [
     "NAF Name": "Voscaroff",
     "Country": "Spain",
     "CCAA": "Castilla y León",
-    "rating": 108.48637319135722,
+    "rating": 108.486380939102,
     "bestRating": 150.25413244790644,
-    "worstRating": 108.48637319135722,
-    "tendency": -29.08871878434843,
+    "worstRating": 108.486380939102,
+    "tendency": -29.08871103660364,
     "totalTournaments": 4,
     "totalGames": 16,
     "totalWins": 1,
@@ -86977,11 +87890,11 @@ const generalAll = [
       131.51460799775685,
       133.2503814845605,
       128.879446486751,
-      127.36838561413666,
-      122.68438487005655,
-      119.18726033046234,
-      112.83003682867796,
-      108.48637319135722
+      127.36838561743706,
+      122.68438487321788,
+      119.18726038369925,
+      112.83004313447276,
+      108.486380939102
     ]
   },
   {
@@ -86989,10 +87902,10 @@ const generalAll = [
     "NAF Name": "VSERGIOV40",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 159.18416171427265,
-    "bestRating": 159.18416171427265,
-    "worstRating": 149.24608473438062,
-    "tendency": 4.493745954449224,
+    "rating": 159.18454115218807,
+    "bestRating": 159.18454115218807,
+    "worstRating": 149.24608853070717,
+    "tendency": 4.494125392364651,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 5,
@@ -87044,9 +87957,9 @@ const generalAll = [
       154.72907232002018,
       149.57358428105863,
       155.2489525654554,
-      149.24608473438062,
-      154.53811616024012,
-      159.18416171427265
+      149.24608853070717,
+      154.5381197924235,
+      159.18454115218807
     ]
   },
   {
@@ -87054,21 +87967,21 @@ const generalAll = [
     "NAF Name": "Vulcano",
     "Country": "Spain",
     "CCAA": "Catalunya ",
-    "rating": 153.34453382986084,
+    "rating": 145.10009309629842,
     "bestRating": 173.98731623752295,
-    "worstRating": 149.76230450756913,
-    "tendency": -14.336106030777046,
-    "totalTournaments": 3,
-    "totalGames": 16,
-    "totalWins": 7,
+    "worstRating": 145.10009309629842,
+    "tendency": -11.867334835018227,
+    "totalTournaments": 4,
+    "totalGames": 21,
+    "totalWins": 9,
     "totalDraws": 3,
-    "totalLosses": 6,
-    "totalWinRatio": 53.13,
+    "totalLosses": 9,
+    "totalWinRatio": 50,
     "victoryStreak": 0,
     "bestVictoryStreak": 3,
     "noLostStreak": 0,
     "bestNoLostStreak": 5,
-    "lostStreak": 1,
+    "lostStreak": 3,
     "worstLostStreak": 4,
     "oneTdStreak": 0,
     "bestOneTdStreak": 5,
@@ -87078,11 +87991,11 @@ const generalAll = [
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 3,
         "totalWins": 0,
         "totalDraws": 1,
-        "totalLosses": 1,
-        "totalWinRatio": 25
+        "totalLosses": 2,
+        "totalWinRatio": 16.67
       }
     ],
     "topProplayers": [
@@ -87104,16 +88017,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      167.68063986063788,
-      172.6898631388656,
-      173.98731623752295,
-      168.832559169589,
-      162.50127012206295,
       156.96742793131665,
       149.76230450756913,
-      154.10365681012394,
-      159.8293131250072,
-      153.34453382986084
+      154.1050691312604,
+      159.8306642802624,
+      153.34583058323656,
+      157.36035971710163,
+      162.9428914510334,
+      158.1548051739418,
+      151.0585098607079,
+      145.10009309629842
     ]
   },
   {
@@ -87182,10 +88095,10 @@ const generalAll = [
     "NAF Name": "Waltra",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 163.38463991209744,
+    "rating": 163.38463993753038,
     "bestRating": 179.76882870810397,
     "worstRating": 145.91134405975833,
-    "tendency": -10.97224348721494,
+    "tendency": -10.972243461782,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 12,
@@ -87239,9 +88152,9 @@ const generalAll = [
       167.25032524106913,
       166.1399033189046,
       166.77776483108468,
-      164.8152913144942,
-      168.6814551282732,
-      163.38463991209744
+      164.81529134086458,
+      168.68145515372592,
+      163.38463993753038
     ]
   },
   {
@@ -87834,10 +88747,10 @@ const generalAll = [
     "NAF Name": "xarro",
     "Country": "Spain",
     "CCAA": "C. La Mancha",
-    "rating": 206.7318915066909,
-    "bestRating": 221.17448580546312,
+    "rating": 206.7342365563814,
+    "bestRating": 221.1773220649171,
     "worstRating": 154.61863022827575,
-    "tendency": 1.3322933754106998,
+    "tendency": 1.3316038199579907,
     "totalTournaments": 14,
     "totalGames": 62,
     "totalWins": 32,
@@ -87884,16 +88797,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      205.39959813128021,
-      208.9800078787561,
-      212.7397875120797,
-      216.17429378362831,
-      220.2109349592993,
-      221.17448580546312,
-      218.3306500318537,
-      210.24749217568302,
-      214.98585385900108,
-      206.7318915066909
+      205.4026327364234,
+      208.98292386951232,
+      212.74259654768483,
+      216.1772269929626,
+      220.21379695130153,
+      221.1773220649171,
+      218.33340502170506,
+      210.2501508754322,
+      214.98841814801102,
+      206.7342365563814
     ]
   },
   {
@@ -87901,10 +88814,10 @@ const generalAll = [
     "NAF Name": "Xartrir",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 147.94010228772314,
-    "bestRating": 147.94010228772314,
-    "worstRating": 144.9009804864072,
-    "tendency": 3.039121801315929,
+    "rating": 147.9036843818441,
+    "bestRating": 147.9036843818441,
+    "worstRating": 144.80384757729337,
+    "tendency": 3.0998368045507334,
     "totalTournaments": 1,
     "totalGames": 3,
     "totalWins": 1,
@@ -87951,9 +88864,9 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.9009804864072,
-      147.85973278529562,
-      147.94010228772314
+      144.80384757729337,
+      147.82034614994922,
+      147.9036843818441
     ]
   },
   {
@@ -87961,10 +88874,10 @@ const generalAll = [
     "NAF Name": "Xaviere",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 180.20287661280045,
-    "bestRating": 195.98655946116662,
+    "rating": 180.2055896008282,
+    "bestRating": 195.98952198946984,
     "worstRating": 155.65685424949237,
-    "tendency": 4.6803446607943044,
+    "tendency": 4.679615801419345,
     "totalTournaments": 5,
     "totalGames": 22,
     "totalWins": 11,
@@ -88011,16 +88924,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      175.52253195200615,
-      181.10339260076836,
-      185.43488363840794,
-      188.99977669732658,
-      188.36741351568358,
-      192.74528004619418,
-      195.98655946116662,
-      194.7811491483213,
-      187.08316737512854,
-      180.20287661280045
+      175.52597379940886,
+      181.1066952418348,
+      185.4380507577144,
+      189.00284410109185,
+      188.3701884309545,
+      192.74835101806994,
+      195.98952198946984,
+      194.78398184207796,
+      187.0858913126304,
+      180.2055896008282
     ]
   },
   {
@@ -88152,44 +89065,44 @@ const generalAll = [
     "NAF Name": "Xiete",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 183.50993935833446,
-    "bestRating": 193.51527842374452,
+    "rating": 178.64465306852134,
+    "bestRating": 193.51529467081147,
     "worstRating": 134.80414103029273,
-    "tendency": -5.248963796955195,
-    "totalTournaments": 49,
-    "totalGames": 195,
-    "totalWins": 73,
-    "totalDraws": 59,
-    "totalLosses": 63,
-    "totalWinRatio": 52.56,
-    "victoryStreak": 1,
+    "tendency": -7.508768178567578,
+    "totalTournaments": 50,
+    "totalGames": 200,
+    "totalWins": 74,
+    "totalDraws": 62,
+    "totalLosses": 64,
+    "totalWinRatio": 52.5,
+    "victoryStreak": 0,
     "bestVictoryStreak": 3,
-    "noLostStreak": 1,
+    "noLostStreak": 4,
     "bestNoLostStreak": 17,
     "lostStreak": 0,
     "worstLostStreak": 4,
-    "oneTdStreak": 1,
+    "oneTdStreak": 3,
     "bestOneTdStreak": 21,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 3,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 22,
+        "totalGames": 23,
         "totalWins": 5,
-        "totalDraws": 9,
+        "totalDraws": 10,
         "totalLosses": 8,
-        "totalWinRatio": 43.18
+        "totalWinRatio": 43.48
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 10,
+        "totalGames": 11,
         "totalWins": 2,
         "totalDraws": 3,
-        "totalLosses": 5,
-        "totalWinRatio": 35
+        "totalLosses": 6,
+        "totalWinRatio": 31.82
       }
     ],
     "megaProplayers": [
@@ -88202,16 +89115,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      188.75890315528966,
-      193.51527842374452,
-      189.81637234734015,
-      188.64914493179884,
-      187.10335818237252,
-      186.15327353810977,
-      189.70144014494687,
-      186.94412098388563,
-      179.69848564365083,
-      183.50993935833446
+      186.15342124708891,
+      189.7015841394436,
+      186.94427161409217,
+      179.69870738196963,
+      183.5101537916524,
+      178.9796420264242,
+      176.90910180566237,
+      174.6015415681631,
+      178.53342739767703,
+      178.64465306852134
     ]
   },
   {
@@ -88286,43 +89199,43 @@ const generalAll = [
     "NAF Name": "Xusona",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 162.04996589139122,
-    "bestRating": 165.26651492588692,
+    "rating": 163.19144604141556,
+    "bestRating": 172.64148387918624,
     "worstRating": 150.47818096540215,
-    "tendency": 11.571784925989078,
-    "totalTournaments": 3,
-    "totalGames": 12,
-    "totalWins": 6,
-    "totalDraws": 2,
-    "totalLosses": 4,
-    "totalWinRatio": 58.33,
-    "victoryStreak": 2,
-    "bestVictoryStreak": 2,
-    "noLostStreak": 2,
-    "bestNoLostStreak": 3,
-    "lostStreak": 0,
+    "tendency": -2.0750688844713636,
+    "totalTournaments": 4,
+    "totalGames": 17,
+    "totalWins": 8,
+    "totalDraws": 3,
+    "totalLosses": 6,
+    "totalWinRatio": 55.88,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 4,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 4,
+    "lostStreak": 1,
     "worstLostStreak": 2,
-    "oneTdStreak": 3,
-    "bestOneTdStreak": 4,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 5,
     "twoTdStreak": 0,
     "bestTwoTdStreak": 1,
-    "noTdAgainstStreak": 1,
-    "bestNoTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 3,
     "proplayers": [
       {
-        "totalGames": 2,
-        "totalWins": 0,
+        "totalGames": 3,
+        "totalWins": 1,
         "totalDraws": 1,
         "totalLosses": 1,
-        "totalWinRatio": 25
+        "totalWinRatio": 50
       }
     ],
     "topProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
@@ -88336,16 +89249,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      150.47818096540215,
-      156.29683577566058,
-      152.41118462366313,
-      158.70545476086895,
-      164.24422503310532,
       165.26651492588692,
       157.49733920965926,
       151.82074703915038,
       156.90984093415454,
-      162.04996589139122
+      162.04996589139122,
+      165.77961458461704,
+      172.64148387918624,
+      167.18571603519484,
+      166.9790349581553,
+      163.19144604141556
     ]
   },
   {
@@ -88353,10 +89266,10 @@ const generalAll = [
     "NAF Name": "yago1412",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 141.37765191694803,
+    "rating": 141.379724982342,
     "bestRating": 177.00181269268862,
-    "worstRating": 141.37765191694803,
-    "tendency": -10.678900699062979,
+    "worstRating": 141.379724982342,
+    "tendency": -10.679831930121253,
     "totalTournaments": 8,
     "totalGames": 31,
     "totalWins": 12,
@@ -88403,16 +89316,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      152.056552616011,
-      156.66806758486877,
-      151.52508186784655,
-      145.56514034569508,
-      143.17489117313843,
-      143.28909608542827,
-      143.58853350301445,
-      141.87290831406904,
-      146.84472548652838,
-      141.37765191694803
+      152.05955691246325,
+      156.67098459551863,
+      151.52791171392877,
+      145.56784780554216,
+      143.17752280235752,
+      143.29163220362418,
+      143.59097627172522,
+      141.87520190488118,
+      146.84676579712914,
+      141.379724982342
     ]
   },
   {
@@ -88544,10 +89457,10 @@ const generalAll = [
     "NAF Name": "Yathrul",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 194.92925022510002,
-    "bestRating": 194.92925022510002,
+    "rating": 194.9297717556666,
+    "bestRating": 194.9297717556666,
     "worstRating": 148.59237625522212,
-    "tendency": 10.810061363719825,
+    "tendency": 10.810221734560457,
     "totalTournaments": 9,
     "totalGames": 36,
     "totalWins": 20,
@@ -88594,16 +89507,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      184.1191888613802,
-      183.28758746579143,
-      187.52980992313098,
-      187.0883943582638,
-      191.97969340037804,
-      190.9856991700685,
-      185.63266345317317,
-      188.56844986001448,
-      191.5600023616161,
-      194.92925022510002
+      184.11955002110614,
+      183.28793817956733,
+      187.5301463619073,
+      187.0887673237039,
+      191.97999000313408,
+      190.98599651008615,
+      185.6329920779711,
+      188.5687765509334,
+      191.5605203631873,
+      194.9297717556666
     ]
   },
   {
@@ -88806,10 +89719,10 @@ const generalAll = [
     "NAF Name": "Yorch",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 153.3162974901945,
+    "rating": 153.3163222563545,
     "bestRating": 168.76862330827467,
     "worstRating": 123.82080184126569,
-    "tendency": -7.830690364675917,
+    "tendency": -7.830665598515907,
     "totalTournaments": 17,
     "totalGames": 67,
     "totalWins": 27,
@@ -88857,15 +89770,15 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       161.14698785487042,
-      156.5513276797383,
-      161.19666800895922,
-      154.4689079753806,
-      161.03206465049365,
-      157.6941929097567,
-      151.70366030503874,
-      143.6659883613912,
-      148.80504073596313,
-      153.3162974901945
+      156.5513277390916,
+      161.19666813353942,
+      154.46890873122456,
+      161.0320653906788,
+      157.69419375172404,
+      151.70366111057675,
+      143.66599821376838,
+      148.80505048390214,
+      153.3163222563545
     ]
   },
   {
@@ -88873,10 +89786,10 @@ const generalAll = [
     "NAF Name": "yoryo1979",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 160.4549709599132,
+    "rating": 160.45619387029808,
     "bestRating": 173.4394268783633,
     "worstRating": 153.92351044947998,
-    "tendency": -5.89436136552203,
+    "tendency": -5.894764889130357,
     "totalTournaments": 7,
     "totalGames": 28,
     "totalWins": 10,
@@ -88923,16 +89836,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      166.34933232543523,
-      165.48045745983134,
-      161.47405764932176,
-      167.30874795426,
-      172.9154279927245,
-      165.79050452621232,
-      165.54912228604272,
-      165.4115452571444,
-      165.75006272468227,
-      160.4549709599132
+      166.35095875942844,
+      165.48209687646124,
+      161.47563227119224,
+      167.3102544630739,
+      172.91687180578668,
+      165.79189729232235,
+      165.55045517585035,
+      165.41282082909365,
+      165.75129604926525,
+      160.45619387029808
     ]
   },
   {
@@ -89001,34 +89914,34 @@ const generalAll = [
     "NAF Name": "Yoxcoco",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 164.53551145757154,
-    "bestRating": 176.62683794507524,
+    "rating": 164.31439286946338,
+    "bestRating": 176.627055482982,
     "worstRating": 139.35387182597165,
-    "tendency": -7.153218857497933,
-    "totalTournaments": 8,
-    "totalGames": 30,
-    "totalWins": 12,
-    "totalDraws": 8,
-    "totalLosses": 10,
-    "totalWinRatio": 53.33,
-    "victoryStreak": 1,
+    "tendency": -3.0129872574741796,
+    "totalTournaments": 9,
+    "totalGames": 35,
+    "totalWins": 13,
+    "totalDraws": 11,
+    "totalLosses": 11,
+    "totalWinRatio": 52.86,
+    "victoryStreak": 0,
     "bestVictoryStreak": 2,
-    "noLostStreak": 1,
+    "noLostStreak": 2,
     "bestNoLostStreak": 9,
     "lostStreak": 0,
     "worstLostStreak": 2,
-    "oneTdStreak": 1,
+    "oneTdStreak": 2,
     "bestOneTdStreak": 10,
-    "twoTdStreak": 0,
+    "twoTdStreak": 2,
     "bestTwoTdStreak": 5,
-    "noTdAgainstStreak": 1,
+    "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 2,
     "proplayers": [
       {
-        "totalGames": 2,
+        "totalGames": 4,
         "totalWins": 0,
-        "totalDraws": 1,
-        "totalLosses": 1,
+        "totalDraws": 2,
+        "totalLosses": 2,
         "totalWinRatio": 25
       }
     ],
@@ -89051,16 +89964,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      171.68873031506948,
-      176.62683794507524,
-      172.7452438465954,
-      169.01041557558528,
-      172.89577253991268,
-      167.32718925189968,
-      160.52032520959682,
-      160.94971070985795,
-      156.45018212461886,
-      164.53551145757154
+      167.32738012693756,
+      160.5205082083213,
+      160.94988617174116,
+      156.45035307355147,
+      164.53567893490197,
+      169.56402911589754,
+      168.96249080040957,
+      163.9910426883926,
+      165.15691039369491,
+      164.31439286946338
     ]
   },
   {
@@ -89129,10 +90042,10 @@ const generalAll = [
     "NAF Name": "Yulupuky",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 162.59736878877717,
-    "bestRating": 177.0332670942287,
+    "rating": 162.59824655121804,
+    "bestRating": 177.0338807130319,
     "worstRating": 128.76147916258094,
-    "tendency": -10.386369698035907,
+    "tendency": -10.385492875652204,
     "totalTournaments": 9,
     "totalGames": 35,
     "totalWins": 14,
@@ -89179,16 +90092,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      172.98373848681308,
-      177.0332670942287,
-      170.72923002460556,
-      170.05406336168386,
-      163.95303656551087,
-      168.53617529702885,
-      173.67916101405106,
-      175.4082667925269,
-      169.78600063381035,
-      162.59736878877717
+      172.98373942687024,
+      177.0338807130319,
+      170.7298297394179,
+      170.0550252562097,
+      163.9539654380852,
+      168.53706803707638,
+      173.68014091866624,
+      175.40921669617236,
+      169.78690929611656,
+      162.59824655121804
     ]
   },
   {
@@ -89257,10 +90170,10 @@ const generalAll = [
     "NAF Name": "zaiscar",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 147.15054463088245,
+    "rating": 147.15158053710678,
     "bestRating": 159.34661779863814,
-    "worstRating": 147.15054463088245,
-    "tendency": -8.402099483674306,
+    "worstRating": 147.15158053710678,
+    "tendency": -8.401063577449975,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 3,
@@ -89312,9 +90225,9 @@ const generalAll = [
       149.7314644368885,
       155.68200047510925,
       159.34661779863814,
-      158.40529176065482,
-      150.4019859733252,
-      147.15054463088245
+      158.40529184060105,
+      150.4030580137613,
+      147.15158053710678
     ]
   },
   {
@@ -89322,10 +90235,10 @@ const generalAll = [
     "NAF Name": "Zak",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 168.36587681551154,
-    "bestRating": 168.36587681551154,
+    "rating": 168.36617985515463,
+    "bestRating": 168.36617985515463,
     "worstRating": 151.8559697001916,
-    "tendency": 12.078842934427229,
+    "tendency": 12.079145974070315,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 4,
@@ -89374,12 +90287,12 @@ const generalAll = [
     "_lastTenRatings": [
       156.2870338810843,
       151.8559697001916,
-      152.91687844157312,
-      158.11492513550886,
-      158.37581331102538,
-      157.8836616631515,
-      162.0618397458884,
-      168.36587681551154
+      152.9170289265913,
+      158.11506912975577,
+      158.375951066633,
+      157.88379563569512,
+      162.06212888154064,
+      168.36617985515463
     ]
   },
   {
@@ -89442,10 +90355,10 @@ const generalAll = [
     "NAF Name": "Zan0",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 155.9267997497866,
-    "bestRating": 177.22864939956122,
+    "rating": 155.92762035830916,
+    "bestRating": 177.22884495276136,
     "worstRating": 150.9537697687628,
-    "tendency": -11.795024947107748,
+    "tendency": -11.794204338585189,
     "totalTournaments": 4,
     "totalGames": 18,
     "totalWins": 8,
@@ -89494,14 +90407,14 @@ const generalAll = [
     "_lastTenRatings": [
       167.72182469689434,
       173.59531682929207,
-      177.22864939956122,
-      170.27216355263417,
-      162.78017020872565,
-      163.23740491232948,
-      167.11089065856288,
-      163.02724975863222,
-      158.35080710215942,
-      155.9267997497866
+      177.22884495276136,
+      170.27235106346743,
+      162.7809978609943,
+      163.23823424119595,
+      167.11170977708295,
+      163.02804266803497,
+      158.3515785583092,
+      155.92762035830916
     ]
   },
   {
@@ -89569,6 +90482,61 @@ const generalAll = [
       159.6794088418604,
       164.7563489957396,
       170.6062711381386
+    ]
+  },
+  {
+    "NAF Nr": "29615",
+    "NAF Name": "ZarHugh",
+    "Country": "Spain",
+    "CCAA": "Apatrida",
+    "rating": 150,
+    "bestRating": 0,
+    "worstRating": 0,
+    "tendency": 0,
+    "totalTournaments": 0,
+    "totalGames": 0,
+    "totalWins": 0,
+    "totalDraws": 0,
+    "totalLosses": 0,
+    "totalWinRatio": 0,
+    "victoryStreak": 0,
+    "bestVictoryStreak": 0,
+    "noLostStreak": 0,
+    "bestNoLostStreak": 0,
+    "lostStreak": 0,
+    "worstLostStreak": 0,
+    "oneTdStreak": 0,
+    "bestOneTdStreak": 0,
+    "twoTdStreak": 0,
+    "bestTwoTdStreak": 0,
+    "noTdAgainstStreak": 0,
+    "bestNoTdAgainstStreak": 0,
+    "proplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "topProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
+    ],
+    "megaProplayers": [
+      {
+        "totalGames": 0,
+        "totalWins": 0,
+        "totalDraws": 0,
+        "totalLosses": 0,
+        "totalWinRatio": 0
+      }
     ]
   },
   {
@@ -89761,10 +90729,10 @@ const generalAll = [
     "NAF Name": "Zaska",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 125.60624073793095,
-    "bestRating": 144.1930918797572,
-    "worstRating": 115.59272175353851,
-    "tendency": -18.586851141826244,
+    "rating": 125.6065322839899,
+    "bestRating": 144.19309849098389,
+    "worstRating": 115.59297163022566,
+    "tendency": -18.58656620699398,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 2,
@@ -89811,14 +90779,14 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      144.1930918797572,
-      138.56527375703178,
-      132.87427145530404,
-      126.48024831821886,
-      120.10614619953056,
-      115.59272175353851,
-      119.73435643169124,
-      125.60624073793095
+      144.19309849098389,
+      138.56528125665167,
+      132.87429691787202,
+      126.48026455261389,
+      120.10619719433083,
+      115.59297163022566,
+      119.7346233820752,
+      125.6065322839899
     ]
   },
   {
@@ -90003,10 +90971,10 @@ const generalAll = [
     "NAF Name": "Zeros",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 151.57395869531123,
+    "rating": 151.57395606588614,
     "bestRating": 155.12093437460757,
     "worstRating": 140.58808130006142,
-    "tendency": 10.985877395249815,
+    "tendency": 10.985874765824718,
     "totalTournaments": 3,
     "totalGames": 11,
     "totalWins": 5,
@@ -90061,8 +91029,8 @@ const generalAll = [
       150.22041297902766,
       155.12093437460757,
       151.16271215805958,
-      154.3009343002524,
-      151.57395869531123
+      154.30094192620834,
+      151.57395606588614
     ]
   },
   {
@@ -90261,28 +91229,28 @@ const generalAll = [
     "NAF Name": "zoliak",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 165.2696853168725,
-    "bestRating": 165.2696853168725,
+    "rating": 170.24352286024487,
+    "bestRating": 173.81848519129173,
     "worstRating": 145.26128195136846,
-    "tendency": 15.476051607929094,
-    "totalTournaments": 3,
-    "totalGames": 11,
-    "totalWins": 6,
+    "tendency": 17.024979738734572,
+    "totalTournaments": 4,
+    "totalGames": 16,
+    "totalWins": 9,
     "totalDraws": 2,
-    "totalLosses": 3,
-    "totalWinRatio": 63.64,
-    "victoryStreak": 3,
-    "bestVictoryStreak": 3,
-    "noLostStreak": 3,
-    "bestNoLostStreak": 3,
+    "totalLosses": 5,
+    "totalWinRatio": 62.5,
+    "victoryStreak": 1,
+    "bestVictoryStreak": 5,
+    "noLostStreak": 1,
+    "bestNoLostStreak": 5,
     "lostStreak": 0,
-    "worstLostStreak": 1,
-    "oneTdStreak": 3,
-    "bestOneTdStreak": 3,
+    "worstLostStreak": 2,
+    "oneTdStreak": 2,
+    "bestOneTdStreak": 5,
     "twoTdStreak": 1,
     "bestTwoTdStreak": 2,
-    "noTdAgainstStreak": 3,
-    "bestNoTdAgainstStreak": 3,
+    "noTdAgainstStreak": 1,
+    "bestNoTdAgainstStreak": 5,
     "proplayers": [
       {
         "totalGames": 0,
@@ -90303,24 +91271,24 @@ const generalAll = [
     ],
     "megaProplayers": [
       {
-        "totalGames": 0,
+        "totalGames": 1,
         "totalWins": 0,
         "totalDraws": 0,
-        "totalLosses": 0,
+        "totalLosses": 1,
         "totalWinRatio": 0
       }
     ],
     "_lastTenRatings": [
-      149.79363370894342,
-      154.87095432917636,
-      155.0685661576616,
-      148.96372705301818,
-      153.85076018359135,
-      153.2185430679546,
-      148.35477381035432,
-      154.0690091566504,
-      159.27323021040647,
-      165.2696853168725
+      153.2185431215103,
+      148.35477423902591,
+      154.06900956751298,
+      159.27323067479924,
+      165.26968782035232,
+      168.7270189503908,
+      173.81848519129173,
+      170.0943388657414,
+      164.37665874239576,
+      170.24352286024487
     ]
   },
   {
@@ -90328,10 +91296,10 @@ const generalAll = [
     "NAF Name": "Zunam",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 140.1358224360986,
+    "rating": 140.1358224396745,
     "bestRating": 151.40066302700467,
-    "worstRating": 140.1358224360986,
-    "tendency": -5.723605542203558,
+    "worstRating": 140.1358224396745,
+    "tendency": -5.723605538627652,
     "totalTournaments": 1,
     "totalGames": 4,
     "totalWins": 1,
@@ -90381,7 +91349,7 @@ const generalAll = [
       145.85942797830216,
       151.40066302700467,
       145.81653581435265,
-      140.1358224360986
+      140.1358224396745
     ]
   },
   {
@@ -90389,10 +91357,10 @@ const generalAll = [
     "NAF Name": "Zusto",
     "Country": "Spain",
     "CCAA": "Andalucía",
-    "rating": 180.26718824631493,
-    "bestRating": 181.80995011984177,
+    "rating": 180.26724756767405,
+    "bestRating": 181.8099588995656,
     "worstRating": 153.16227766016837,
-    "tendency": 7.624979289796016,
+    "tendency": 7.625038611155134,
     "totalTournaments": 12,
     "totalGames": 52,
     "totalWins": 21,
@@ -90440,15 +91408,15 @@ const generalAll = [
     ],
     "_lastTenRatings": [
       172.6422089565189,
-      171.60594210212145,
-      176.46971135972174,
-      181.80995011984177,
-      181.49666064788798,
-      176.53089961220405,
-      180.4500620403817,
-      181.78172804897,
-      175.18006866324092,
-      180.26718824631493
+      171.60595096854914,
+      176.46971985103352,
+      181.8099588995656,
+      181.49667045392144,
+      176.5309090142536,
+      180.45007107454285,
+      181.7817856687677,
+      175.1801272410879,
+      180.26724756767405
     ]
   },
   {
@@ -90456,10 +91424,10 @@ const generalAll = [
     "NAF Name": "Zweken",
     "Country": "Spain",
     "CCAA": "C. Valenciana",
-    "rating": 168.21964310018674,
-    "bestRating": 168.21964310018674,
+    "rating": 168.22009232827568,
+    "bestRating": 168.22009232827568,
     "worstRating": 149.33434893440383,
-    "tendency": 9.526524821735507,
+    "tendency": 9.526941775105854,
     "totalTournaments": 7,
     "totalGames": 31,
     "totalWins": 12,
@@ -90506,16 +91474,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      158.69311827845124,
-      153.60863925283408,
-      150.09053895796896,
-      150.36542973340204,
-      155.40709613177626,
-      159.54284067250904,
-      163.18217175178776,
-      167.94772526314063,
-      163.97442796798387,
-      168.21964310018674
+      158.69315055316983,
+      153.60868896790555,
+      150.09071307849706,
+      150.36559631182362,
+      155.40738442347083,
+      159.54314118019684,
+      163.18248737687188,
+      167.94802860113396,
+      163.97472359843522,
+      168.22009232827568
     ]
   },
   {
@@ -90523,10 +91491,10 @@ const generalAll = [
     "NAF Name": "zyov",
     "Country": "Spain",
     "CCAA": "Apatrida",
-    "rating": 129.26686715558952,
+    "rating": 129.26687539189052,
     "bestRating": 145.40099920015825,
-    "worstRating": 122.74309111837668,
-    "tendency": -16.13413204456873,
+    "worstRating": 122.74309971934358,
+    "tendency": -16.13412380826773,
     "totalTournaments": 2,
     "totalGames": 8,
     "totalWins": 1,
@@ -90578,9 +91546,9 @@ const generalAll = [
       139.20897728514717,
       131.18357262533422,
       126.70877546252034,
-      127.46889971434805,
-      122.74309111837668,
-      129.26686715558952
+      127.46889971434813,
+      122.74309971934358,
+      129.26687539189052
     ]
   },
   {
@@ -90588,25 +91556,25 @@ const generalAll = [
     "NAF Name": "zZKing",
     "Country": "Spain",
     "CCAA": "Madrid",
-    "rating": 202.45954778931898,
-    "bestRating": 202.8974782091698,
+    "rating": 194.8589163004434,
+    "bestRating": 203.62116982102646,
     "worstRating": 143.76614709268463,
-    "tendency": 1.6763940141545675,
-    "totalTournaments": 49,
-    "totalGames": 199,
-    "totalWins": 90,
-    "totalDraws": 51,
-    "totalLosses": 58,
-    "totalWinRatio": 58.04,
-    "victoryStreak": 3,
+    "tendency": 5.73930832570494,
+    "totalTournaments": 50,
+    "totalGames": 204,
+    "totalWins": 92,
+    "totalDraws": 52,
+    "totalLosses": 60,
+    "totalWinRatio": 57.84,
+    "victoryStreak": 0,
     "bestVictoryStreak": 5,
-    "noLostStreak": 5,
+    "noLostStreak": 0,
     "bestNoLostStreak": 14,
-    "lostStreak": 0,
+    "lostStreak": 1,
     "worstLostStreak": 4,
-    "oneTdStreak": 5,
+    "oneTdStreak": 10,
     "bestOneTdStreak": 16,
-    "twoTdStreak": 3,
+    "twoTdStreak": 0,
     "bestTwoTdStreak": 4,
     "noTdAgainstStreak": 0,
     "bestNoTdAgainstStreak": 3,
@@ -90621,11 +91589,11 @@ const generalAll = [
     ],
     "topProplayers": [
       {
-        "totalGames": 9,
-        "totalWins": 4,
+        "totalGames": 10,
+        "totalWins": 5,
         "totalDraws": 2,
         "totalLosses": 3,
-        "totalWinRatio": 55.56
+        "totalWinRatio": 60
       }
     ],
     "megaProplayers": [
@@ -90638,16 +91606,16 @@ const generalAll = [
       }
     ],
     "_lastTenRatings": [
-      200.7831537751644,
-      193.94866494826528,
-      197.538029065707,
-      196.63220053614728,
-      190.17100052160515,
-      189.1196077874537,
-      188.4851831047944,
-      192.57190823536322,
-      197.49378675363505,
-      202.45954778931898
+      189.11960797473847,
+      188.48518334430753,
+      192.5719084763266,
+      197.49378711415744,
+      202.45954855382527,
+      200.86628120732382,
+      203.62116982102646,
+      196.08395440083606,
+      202.23579385187278,
+      194.8589163004434
     ]
   },
   {
