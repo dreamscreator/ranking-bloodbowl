@@ -1,7 +1,7 @@
     const translations = {
       es: {
         actualizacion: "Actualización 30/01/2025",
-        actualizacionUltima: "<u>ROSTERS TORNEOS Y LIGAS</u><br>-Incluidos los Jugadores Estrellas del almanaque<br>-Corregido el error en la habilidad de pase de goblin como secundaria<br>-Agregada la posibilidad de habilidad secundarias de agilidad para cerditos y zorros<br>-Corregido error en las habilidades del minotauro<br><u>SEVENS</u><br>-Corregido el error en la habilidad de pase de goblin como secundaria<br>-Agregada la posibilidad de habilidad secundarias de agilidad para cerditos y zorros<br>-Corregido error en las habilidades del minotauro",
+        actualizacionUltima: "<u>15/11/2025</u><br>-Excel, por ahora, solo para torneos.<br>-Incluye los Altos Elfos y las últimas correcciones de GW.<br>-Se ha incluido los Slann exactamente igual que BB2020 y sin acceso a habilidades Devious.<br>-Hay que indicar la liga y la regla especial al elegir la raza para poder tener los jugadores estrella correctos en el desplegable.<br>-Las traducciones a alemán, francés e italiano han sido con app. Cualquier ayuda es bienvenida.<br>-Es probable que hayan algunos errores debido a todos los cambios que ha habido en el reglamento.<br>-El archivo es compatible con Excel, por ahora, parece que da errores con LibreOffice y OpenOffice, en móvil funciona bien con la siguiente app: ",
         title: "Blood Bowl Ranking",
         inicio: "Inicio",
         rankings: "Rankings",
@@ -97,7 +97,8 @@
 	mapaPasados: "MAPA DE TORNEOS PASADOS",
 	mapaDetallePasado: "Mapa de torneos desde 2020 hasta el año posterior al actual dividido por años",
 	otro: "OTROS",
-	excelRoster: "Excel para la creación de rosters para liga, torneos y sevens creado por dreamscreator.",
+	excelRoster2025: "Excel para la creación de rosters para liga, torneos y sevens creado por dreamscreator.",
+	excelRoster: "Excel para la creación de rosters para liga, torneos y sevens creado por dreamscreator. Última actualización del 30.01.2025",
 	rachas: "Rachas",
 	bbtRacha: "RACHAS - BBT",
 	nafRacha: "RACHAS - NAF",
@@ -134,7 +135,7 @@
       },
       en: {
         actualizacion: "Update 30/01/2025",
-        actualizacionUltima: "<u>ROSTERS TOURNAMENTS AND LEAGUES</u><br>-Included Star Players from the almanac<br>-Fixed bug in goblin pass skills as secondary skill<br>-Added possibility of secondary agility skill for piggies and foxes<br>-Fixed bug in minotaur skills<br><u>SEVENS</u><br>-Fixed bug in goblin pass skills as secondary skill<br>-Added possibility of secondary agility skill for piggies and foxes<br>-Fixed bug in minotaur skills",
+        actualizacionUltima: "<u>15/11/2025</u><br>-Excel, for now, only for tournaments.<br>-Includes High Elves and the latest GW corrections.<br>-Slann have been included exactly as in BB2020 and without access to Devious skills.<br>-You must indicate the league and special rule when choosing the race in order to have the correct star players in the drop-down menu. -The translations into German, French and Italian have been done with an app. Any help is welcome.<br>-There are likely to be some errors due to all the changes that have been made to the rules.<br>-The file is compatible with Excel. For now, it seems to give errors with LibreOffice and OpenOffice, but it works well on mobile with the following app:",
         title: "Blood Bowl Ranking",
         inicio: "Home",
         rankings: "Rankings",
@@ -230,7 +231,8 @@
 	mapaPasados: "PAST TOURNAMENTS' MAP",
 	mapaDetallePasado: "Tournament calendar from 2020 to the year after the current year, divided by year",
 	otro: "OTHERS",
-	excelRoster: "Excel for creating rosters for leagues, tournaments, and sevens created by dreamscreator.",
+	excelRoster2025: "Excel for creating rosters for leagues, tournaments, and sevens created by dreamscreator.",
+	excelRoster: "Excel for creating rosters for leagues, tournaments, and sevens created by dreamscreator. Last update 30.01.2025",
 	rachas: "Streaks",
 	bbtRacha: "STREAKS - BBT",
 	nafRacha: "STREAKS - NAF",
