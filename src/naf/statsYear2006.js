@@ -19470,7 +19470,7 @@ const statsYear2006 = [
   },
   {
     "NAF Nr": "8429",
-    "NAF Name": "HarryPotter",
+    "NAF Name": "Genesis423",
     "CCAA": "Apatrida",
     "Country": "Canada",
     "rating": 142.1628878772089,

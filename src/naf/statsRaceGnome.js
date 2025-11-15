@@ -8276,7 +8276,7 @@ const statsRaceGnome = [
   {
     "NAF Nr": "24802",
     "NAF Name": "grymloq",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "33",
     "raceName": "Gnome",
@@ -16000,7 +16000,7 @@ const statsRaceGnome = [
   {
     "NAF Nr": "33685",
     "NAF Name": "Piolin",
-    "CCAA": "Castilla y León",
+    "CCAA": "Apatrida",
     "Country": "Spain",
     "raceId": "33",
     "raceName": "Gnome",

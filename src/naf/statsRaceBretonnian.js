@@ -4062,7 +4062,7 @@ const statsRaceBretonnian = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "26",
     "raceName": "Bretonnian",
@@ -9873,7 +9873,7 @@ const statsRaceBretonnian = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "26",
     "raceName": "Bretonnian",

@@ -21578,7 +21578,7 @@ const statsRaceSkaven = [
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "raceId": "2",
     "raceName": "Skaven",
     "gamesTotal": 47,
@@ -37835,7 +37835,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "17165",
     "NAF Name": "Herodes",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",
@@ -47449,7 +47449,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",
@@ -51995,7 +51995,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "20668",
     "NAF Name": "Wulfrik",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",
@@ -56794,7 +56794,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",
@@ -57066,7 +57066,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",
@@ -61517,7 +61517,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "22681",
     "NAF Name": "Begoter",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",
@@ -63590,29 +63590,29 @@ const statsRaceSkaven = [
     "Country": "France",
     "raceId": "2",
     "raceName": "Skaven",
-    "gamesTotal": 10,
-    "gamesWon": 5,
-    "gamesDraw": 3,
-    "gamesLost": 2,
+    "gamesTotal": 15,
+    "gamesWon": 7,
+    "gamesDraw": 4,
+    "gamesLost": 4,
     "totalWinRatio": 0,
-    "totalTournaments": 2,
-    "winRatio": 65,
-    "rating": 162.48744745697732,
-    "bestRating": 162.48744745697732,
+    "totalTournaments": 3,
+    "winRatio": 60,
+    "rating": 160.8932213047742,
+    "bestRating": 166.6502951126539,
     "worstRating": 148.6074145546813,
     "_lastTenRatings": [
-      154.63433506795596,
-      154.67479493091614,
-      148.6074145546813,
-      154.51958375602393,
-      160.11244850648322,
       159.67426616318673,
       154.0565395846876,
       157.58737363200711,
       157.33207697739013,
-      162.48744745697732
+      162.48744745697732,
+      166.6502951126539,
+      161.66879489139086,
+      161.28867789529755,
+      156.61351791348224,
+      160.8932213047742
     ],
-    "tendency": 7.853112389021362
+    "tendency": 1.2189551415874575
   },
   {
     "NAF Nr": "23297",
@@ -77627,7 +77627,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",
@@ -86531,24 +86531,27 @@ const statsRaceSkaven = [
     "Country": "France",
     "raceId": "2",
     "raceName": "Skaven",
-    "gamesTotal": 5,
-    "gamesWon": 2,
+    "gamesTotal": 8,
+    "gamesWon": 3,
     "gamesDraw": 2,
-    "gamesLost": 1,
+    "gamesLost": 3,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 60,
-    "rating": 153.60236817383995,
+    "totalTournaments": 2,
+    "winRatio": 50,
+    "rating": 148.98801671497114,
     "bestRating": 158.51205322799456,
-    "worstRating": 149.26933762061051,
+    "worstRating": 144.47747756573293,
     "_lastTenRatings": [
       149.26933762061051,
       153.87761231858025,
       154.07227455270592,
       158.51205322799456,
-      153.60236817383995
+      153.60236817383995,
+      149.00661274833087,
+      144.47747756573293,
+      148.98801671497114
     ],
-    "tendency": 4.333030553229435
+    "tendency": -0.28132090563937595
   },
   {
     "NAF Nr": "28715",
@@ -90523,7 +90526,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "30309",
     "NAF Name": "wallyyy",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",
@@ -104242,7 +104245,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "34276",
     "NAF Name": "sprinks",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",
@@ -104329,7 +104332,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "34292",
     "NAF Name": "Sinkim",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",
@@ -104441,7 +104444,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "34333",
     "NAF Name": "Bartolo",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",
@@ -104689,6 +104692,33 @@ const statsRaceSkaven = [
       138.662683560494
     ],
     "tendency": -2.151285596224909
+  },
+  {
+    "NAF Nr": "34396",
+    "NAF Name": "keithabix",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 5,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 167.7859031645682,
+    "bestRating": 167.7859031645682,
+    "worstRating": 154.2426406871193,
+    "_lastTenRatings": [
+      154.2426406871193,
+      158.393207822864,
+      162.99559752744258,
+      159.88535932061035,
+      163.98179590902842,
+      167.7859031645682
+    ],
+    "tendency": 13.543262477448906
   },
   {
     "NAF Nr": "34406",
@@ -105033,7 +105063,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "34536",
     "NAF Name": "Barrullero",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",
@@ -110285,7 +110315,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "36500",
     "NAF Name": "Krakenmaster",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",
@@ -113213,7 +113243,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "37929",
     "NAF Name": "chusman",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",

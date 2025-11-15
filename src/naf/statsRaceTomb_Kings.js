@@ -15017,7 +15017,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "17",
     "raceName": "Tomb Kings",
@@ -18282,7 +18282,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "17",
     "raceName": "Tomb Kings",
@@ -24566,7 +24566,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "17",
     "raceName": "Tomb Kings",
@@ -27359,7 +27359,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "17",
     "raceName": "Tomb Kings",
@@ -30248,7 +30248,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "17",
     "raceName": "Tomb Kings",
@@ -30393,7 +30393,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "17",
     "raceName": "Tomb Kings",
@@ -46448,7 +46448,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "28866",
     "NAF Name": "Berhane",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "17",
     "raceName": "Tomb Kings",
@@ -46594,7 +46594,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "17",
     "raceName": "Tomb Kings",
@@ -49009,7 +49009,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "30316",
     "NAF Name": "Vulkan66",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "17",
     "raceName": "Tomb Kings",
@@ -56024,7 +56024,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "34536",
     "NAF Name": "Barrullero",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "17",
     "raceName": "Tomb Kings",
@@ -56507,7 +56507,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "34882",
     "NAF Name": "Soldurius",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "17",
     "raceName": "Tomb Kings",
@@ -56893,7 +56893,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "35220",
     "NAF Name": "mamua",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "17",
     "raceName": "Tomb Kings",
@@ -58779,7 +58779,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "37022",
     "NAF Name": "Cortezon",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "17",
     "raceName": "Tomb Kings",
@@ -59980,27 +59980,29 @@ const statsRaceTomb_Kings = [
     "Country": "Ireland",
     "raceId": "17",
     "raceName": "Tomb Kings",
-    "gamesTotal": 8,
-    "gamesWon": 3,
+    "gamesTotal": 14,
+    "gamesWon": 6,
     "gamesDraw": 5,
-    "gamesLost": 0,
+    "gamesLost": 3,
     "totalWinRatio": 0,
-    "totalTournaments": 2,
-    "winRatio": 68.75,
-    "rating": 161.6772464833753,
-    "bestRating": 163.41861394104606,
+    "totalTournaments": 3,
+    "winRatio": 60.71,
+    "rating": 161.36886370515833,
+    "bestRating": 169.46742512581818,
     "worstRating": 155.17083337531466,
     "_lastTenRatings": [
-      155.17083337531466,
-      159.31423465657483,
-      159.31722570855183,
-      159.1213950190393,
       163.41861394104606,
       162.92963987167263,
       162.11882680194716,
-      161.6772464833753
+      161.6772464833753,
+      165.59347466782782,
+      169.46742512581818,
+      164.8650354212396,
+      160.29354691106766,
+      164.34343525934239,
+      161.36886370515833
     ],
-    "tendency": 6.506413108060656
+    "tendency": -2.0497502358877284
   },
   {
     "NAF Nr": "38964",

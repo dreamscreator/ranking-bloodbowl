@@ -6426,7 +6426,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "25",
     "raceName": "Khorne",
@@ -11087,7 +11087,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "25",
     "raceName": "Khorne",
@@ -14417,7 +14417,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "25",
     "raceName": "Khorne",
@@ -19946,7 +19946,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "24829",
     "NAF Name": "egiablacks",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "25",
     "raceName": "Khorne",
@@ -28061,7 +28061,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "28866",
     "NAF Name": "Berhane",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "25",
     "raceName": "Khorne",
@@ -28205,7 +28205,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "25",
     "raceName": "Khorne",
@@ -29188,6 +29188,33 @@ const statsRaceKhorne = [
       150.0155875784196
     ],
     "tendency": -3.1466900817487726
+  },
+  {
+    "NAF Nr": "29437",
+    "NAF Name": "WolfKahn",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.5178350325324,
+    "bestRating": 158.48985930490073,
+    "worstRating": 151.29732490350656,
+    "_lastTenRatings": [
+      154.2426406871193,
+      158.48985930490073,
+      155.42300860932926,
+      155.39376149192464,
+      151.29732490350656,
+      155.5178350325324
+    ],
+    "tendency": 1.275194345413098
   },
   {
     "NAF Nr": "29450",
@@ -34611,7 +34638,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "31806",
     "NAF Name": "Javs",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "25",
     "raceName": "Khorne",
@@ -39249,7 +39276,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "33685",
     "NAF Name": "Piolin",
-    "CCAA": "Castilla y León",
+    "CCAA": "Apatrida",
     "Country": "Spain",
     "raceId": "25",
     "raceName": "Khorne",
@@ -48047,7 +48074,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "39965",
     "NAF Name": "Kali_the_black_cat",
-    "CCAA": "Apatrida",
+    "CCAA": "Navarra",
     "Country": "Spain",
     "raceId": "25",
     "raceName": "Khorne",
@@ -48380,7 +48407,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "40408",
     "NAF Name": "hlodyn",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "25",
     "raceName": "Khorne",

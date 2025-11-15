@@ -18901,7 +18901,7 @@ const statsRaceDark_Elf = [
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "raceId": "3",
     "raceName": "Dark Elf",
     "gamesTotal": 63,
@@ -28025,7 +28025,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -39200,29 +39200,29 @@ const statsRaceDark_Elf = [
     "Country": "France",
     "raceId": "3",
     "raceName": "Dark Elf",
-    "gamesTotal": 27,
-    "gamesWon": 12,
+    "gamesTotal": 30,
+    "gamesWon": 14,
     "gamesDraw": 5,
-    "gamesLost": 10,
+    "gamesLost": 11,
     "totalWinRatio": 0,
-    "totalTournaments": 7,
-    "winRatio": 53.7,
-    "rating": 147.50292815604936,
+    "totalTournaments": 8,
+    "winRatio": 55,
+    "rating": 153.72037250485928,
     "bestRating": 173.62614401351075,
     "worstRating": 143.51340657288952,
     "_lastTenRatings": [
-      162.88268079073106,
-      167.25718136669286,
-      161.10233741252267,
       166.05374430878456,
       165.63786892913882,
       161.67502716305302,
       155.3649329733013,
       148.5532383080421,
       153.76450964700368,
-      147.50292815604936
+      147.50292815604936,
+      143.83259998908338,
+      148.77255635516642,
+      153.72037250485928
     ],
-    "tendency": -15.379752634681694
+    "tendency": -12.333371803925274
   },
   {
     "NAF Nr": "18124",
@@ -46144,7 +46144,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -51123,7 +51123,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "20670",
     "NAF Name": "Nikobilis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -55864,7 +55864,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -69218,6 +69218,31 @@ const statsRaceDark_Elf = [
     "tendency": -8.36081358379684
   },
   {
+    "NAF Nr": "25062",
+    "NAF Name": "percutator",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 141.2563214462255,
+    "bestRating": 145.52786404500043,
+    "worstRating": 136.75464976895321,
+    "_lastTenRatings": [
+      145.52786404500043,
+      141.0759148561803,
+      136.75464976895321,
+      141.2563214462255
+    ],
+    "tendency": -4.271542598774914
+  },
+  {
     "NAF Nr": "25082",
     "NAF Name": "LORD_GRINGOR",
     "CCAA": "Apatrida",
@@ -74714,7 +74739,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -76363,7 +76388,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "26819",
     "NAF Name": "Aitatxu",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -82096,29 +82121,29 @@ const statsRaceDark_Elf = [
     "Country": "France",
     "raceId": "3",
     "raceName": "Dark Elf",
-    "gamesTotal": 12,
-    "gamesWon": 6,
-    "gamesDraw": 3,
+    "gamesTotal": 17,
+    "gamesWon": 9,
+    "gamesDraw": 5,
     "gamesLost": 3,
     "totalWinRatio": 0,
-    "totalTournaments": 2,
-    "winRatio": 62.5,
-    "rating": 168.05322255450852,
-    "bestRating": 168.05322255450852,
+    "totalTournaments": 3,
+    "winRatio": 67.65,
+    "rating": 180.716280705643,
+    "bestRating": 180.716280705643,
     "worstRating": 144.60627878850482,
     "_lastTenRatings": [
-      150.98444299178564,
-      156.59060078178325,
-      162.26305413753607,
-      156.50755885957318,
-      156.2252486478698,
       159.90815529383735,
       164.15827190381953,
       158.05708860836685,
       163.49501446996507,
-      168.05322255450852
+      168.05322255450852,
+      168.23769606947153,
+      172.06432279915552,
+      171.4653341360136,
+      176.17619660440235,
+      180.716280705643
     ],
-    "tendency": 17.06877956272288
+    "tendency": 20.808125411805634
   },
   {
     "NAF Nr": "28420",
@@ -87200,7 +87225,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "30309",
     "NAF Name": "wallyyy",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -90104,7 +90129,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "31295",
     "NAF Name": "Mateillo",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -98849,6 +98874,32 @@ const statsRaceDark_Elf = [
     "tendency": -4.989191356305241
   },
   {
+    "NAF Nr": "34216",
+    "NAF Name": "Captain_Blind",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 60,
+    "rating": 155.18214884452482,
+    "bestRating": 159.64039696447787,
+    "worstRating": 154.59575542550908,
+    "_lastTenRatings": [
+      154.59575542550908,
+      159.06364815434193,
+      155.1286385856521,
+      159.64039696447787,
+      155.18214884452482
+    ],
+    "tendency": 0.5863934190157352
+  },
+  {
     "NAF Nr": "34231",
     "NAF Name": "apotre",
     "CCAA": "Apatrida",
@@ -99381,6 +99432,33 @@ const statsRaceDark_Elf = [
       158.567191759704
     ],
     "tendency": 1.6098825427849306
+  },
+  {
+    "NAF Nr": "34415",
+    "NAF Name": "pureal",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 131.6692121638205,
+    "bestRating": 149.8578518489922,
+    "worstRating": 131.6692121638205,
+    "_lastTenRatings": [
+      149.8578518489922,
+      149.72436964967503,
+      145.21915925008804,
+      140.08724791431604,
+      135.6250737892797,
+      131.6692121638205
+    ],
+    "tendency": -18.188639685171694
   },
   {
     "NAF Nr": "34455",
@@ -100370,6 +100448,33 @@ const statsRaceDark_Elf = [
     "tendency": 13.722981759207443
   },
   {
+    "NAF Nr": "34769",
+    "NAF Name": "matxukador",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 146.0105981541296,
+    "bestRating": 149.97174437533712,
+    "worstRating": 141.62378316324154,
+    "_lastTenRatings": [
+      145.66218816797394,
+      149.97174437533712,
+      145.7420295828919,
+      145.87024142157415,
+      141.62378316324154,
+      146.0105981541296
+    ],
+    "tendency": 0.34840998615567287
+  },
+  {
     "NAF Nr": "34792",
     "NAF Name": "HGaspar",
     "CCAA": "Apatrida",
@@ -100537,7 +100642,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "34882",
     "NAF Name": "Soldurius",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -101214,7 +101319,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "35219",
     "NAF Name": "ruttiger9",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -103908,7 +104013,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "36500",
     "NAF Name": "Krakenmaster",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -104837,7 +104942,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "37023",
     "NAF Name": "Iru",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -104944,6 +105049,33 @@ const statsRaceDark_Elf = [
       150.11847887729652
     ],
     "tendency": -4.9805406362962685
+  },
+  {
+    "NAF Nr": "37052",
+    "NAF Name": "zaelsus",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 146.12201842463202,
+    "bestRating": 154.38322559237145,
+    "worstRating": 146.12201842463202,
+    "_lastTenRatings": [
+      154.38322559237145,
+      150.13600697459,
+      150.13214171204143,
+      154.37018806160808,
+      150.32029971333336,
+      146.12201842463202
+    ],
+    "tendency": -8.261207167739428
   },
   {
     "NAF Nr": "37062",
@@ -106353,7 +106485,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "38012",
     "NAF Name": "Jose_Quin",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -109463,7 +109595,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "40408",
     "NAF Name": "hlodyn",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -111106,5 +111238,32 @@ const statsRaceDark_Elf = [
       147.23191055609914
     ],
     "tendency": -0.09419501605523806
+  },
+  {
+    "NAF Nr": "42651",
+    "NAF Name": "silentgolem",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 146.66238235202513,
+    "bestRating": 154.55408424474848,
+    "worstRating": 146.66238235202513,
+    "_lastTenRatings": [
+      147.0077048627846,
+      150.38376347731173,
+      154.52483712734383,
+      154.55408424474848,
+      150.4664896075649,
+      146.66238235202513
+    ],
+    "tendency": -0.3453225107594733
   }
 ];

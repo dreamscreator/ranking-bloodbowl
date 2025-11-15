@@ -18569,7 +18569,7 @@ const statsRaceWood_Elf = [
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "raceId": "12",
     "raceName": "Wood Elf",
     "gamesTotal": 15,
@@ -26953,7 +26953,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "12",
     "raceName": "Wood Elf",
@@ -46871,7 +46871,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "12",
     "raceName": "Wood Elf",
@@ -51060,7 +51060,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "12",
     "raceName": "Wood Elf",
@@ -51196,7 +51196,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "12",
     "raceName": "Wood Elf",
@@ -54658,7 +54658,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "22681",
     "NAF Name": "Begoter",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "12",
     "raceName": "Wood Elf",
@@ -65637,7 +65637,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "12",
     "raceName": "Wood Elf",
@@ -71677,7 +71677,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "12",
     "raceName": "Wood Elf",
@@ -82733,7 +82733,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "34333",
     "NAF Name": "Bartolo",
-    "CCAA": "Apatrida",
+    "CCAA": "C. Valenciana",
     "Country": "Spain",
     "raceId": "12",
     "raceName": "Wood Elf",
@@ -83525,7 +83525,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "34882",
     "NAF Name": "Soldurius",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "12",
     "raceName": "Wood Elf",
@@ -85194,7 +85194,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "36500",
     "NAF Name": "Krakenmaster",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "12",
     "raceName": "Wood Elf",
@@ -85746,7 +85746,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "37023",
     "NAF Name": "Iru",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "12",
     "raceName": "Wood Elf",
@@ -85908,22 +85908,28 @@ const statsRaceWood_Elf = [
     "Country": "Ireland",
     "raceId": "12",
     "raceName": "Wood Elf",
-    "gamesTotal": 3,
-    "gamesWon": 0,
-    "gamesDraw": 2,
-    "gamesLost": 1,
+    "gamesTotal": 9,
+    "gamesWon": 2,
+    "gamesDraw": 5,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 33.33,
-    "rating": 145.6331013272875,
-    "bestRating": 150.12198938620315,
+    "totalTournaments": 2,
+    "winRatio": 50,
+    "rating": 150.4666059031375,
+    "bestRating": 154.41702551174814,
     "worstRating": 145.6331013272875,
     "_lastTenRatings": [
       150,
       150.12198938620315,
-      145.6331013272875
+      145.6331013272875,
+      145.7752494782953,
+      150.01730759954148,
+      150.02117286209005,
+      150.1701621368224,
+      154.41702551174814,
+      150.4666059031375
     ],
-    "tendency": -4.3668986727124945
+    "tendency": 0.4666059031374914
   },
   {
     "NAF Nr": "37232",

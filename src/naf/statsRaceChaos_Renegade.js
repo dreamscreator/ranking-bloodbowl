@@ -24049,29 +24049,29 @@ const statsRaceChaos_Renegade = [
     "Country": "Wales",
     "raceId": "24",
     "raceName": "Chaos Renegade",
-    "gamesTotal": 27,
-    "gamesWon": 16,
+    "gamesTotal": 33,
+    "gamesWon": 22,
     "gamesDraw": 4,
     "gamesLost": 7,
     "totalWinRatio": 0,
-    "totalTournaments": 6,
-    "winRatio": 66.67,
-    "rating": 189.57061261008673,
-    "bestRating": 191.07467735680524,
+    "totalTournaments": 7,
+    "winRatio": 72.73,
+    "rating": 207.4854751614336,
+    "bestRating": 207.4854751614336,
     "worstRating": 145.10102051443366,
     "_lastTenRatings": [
-      191.07467735680524,
-      183.69126893690506,
-      189.96668958565851,
-      182.6316204374202,
-      186.76635105839446,
-      179.80082723821315,
       183.98589697339204,
       187.92758118318523,
       184.19845203820586,
-      189.57061261008673
+      189.57061261008673,
+      192.56290774730212,
+      195.56699249519002,
+      198.6338431907615,
+      201.74408139759373,
+      204.51090360724956,
+      207.4854751614336
     ],
-    "tendency": -1.5040647467185124
+    "tendency": 23.499578188041568
   },
   {
     "NAF Nr": "19727",
@@ -26694,7 +26694,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "20670",
     "NAF Name": "Nikobilis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "24",
     "raceName": "Chaos Renegade",
@@ -30035,7 +30035,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "24",
     "raceName": "Chaos Renegade",
@@ -30145,7 +30145,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "24",
     "raceName": "Chaos Renegade",
@@ -31257,6 +31257,33 @@ const statsRaceChaos_Renegade = [
       150.16852152996128
     ],
     "tendency": 0.1685215299612821
+  },
+  {
+    "NAF Nr": "22046",
+    "NAF Name": "Danton",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.88087482588733,
+    "bestRating": 155.88087482588733,
+    "worstRating": 150.36869022912893,
+    "_lastTenRatings": [
+      154.2426406871193,
+      150.36869022912893,
+      154.59840502157417,
+      154.44941574684182,
+      151.682593537186,
+      155.88087482588733
+    ],
+    "tendency": 1.6382341387680412
   },
   {
     "NAF Nr": "22051",
@@ -38461,7 +38488,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "24902",
     "NAF Name": "Anderworld",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "24",
     "raceName": "Chaos Renegade",
@@ -42868,7 +42895,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "26819",
     "NAF Name": "Aitatxu",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "24",
     "raceName": "Chaos Renegade",
@@ -46388,7 +46415,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "24",
     "raceName": "Chaos Renegade",
@@ -55458,7 +55485,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "34292",
     "NAF Name": "Sinkim",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "24",
     "raceName": "Chaos Renegade",
@@ -55988,7 +56015,7 @@ const statsRaceChaos_Renegade = [
   {
     "NAF Nr": "34882",
     "NAF Name": "Soldurius",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "24",
     "raceName": "Chaos Renegade",

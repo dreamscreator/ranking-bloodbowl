@@ -11679,7 +11679,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "21",
     "raceName": "Vampire",
@@ -25848,7 +25848,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "21",
     "raceName": "Vampire",
@@ -26058,7 +26058,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "21",
     "raceName": "Vampire",
@@ -32885,7 +32885,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "24902",
     "NAF Name": "Anderworld",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "21",
     "raceName": "Vampire",
@@ -36341,7 +36341,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "21",
     "raceName": "Vampire",
@@ -40937,7 +40937,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "21",
     "raceName": "Vampire",
@@ -46298,7 +46298,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "31806",
     "NAF Name": "Javs",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "21",
     "raceName": "Vampire",
@@ -51356,7 +51356,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "34882",
     "NAF Name": "Soldurius",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "21",
     "raceName": "Vampire",
@@ -51872,7 +51872,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "35219",
     "NAF Name": "ruttiger9",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "21",
     "raceName": "Vampire",
@@ -51897,7 +51897,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "35220",
     "NAF Name": "mamua",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "21",
     "raceName": "Vampire",

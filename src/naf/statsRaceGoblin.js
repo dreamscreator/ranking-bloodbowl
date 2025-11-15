@@ -12452,7 +12452,7 @@ const statsRaceGoblin = [
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "raceId": "7",
     "raceName": "Goblin",
     "gamesTotal": 3,
@@ -18237,7 +18237,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "7",
     "raceName": "Goblin",
@@ -31443,7 +31443,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "7",
     "raceName": "Goblin",
@@ -38448,7 +38448,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "7",
     "raceName": "Goblin",
@@ -49917,7 +49917,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "24902",
     "NAF Name": "Anderworld",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "7",
     "raceName": "Goblin",
@@ -54768,7 +54768,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "7",
     "raceName": "Goblin",
@@ -61631,7 +61631,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "7",
     "raceName": "Goblin",
@@ -66296,7 +66296,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "31296",
     "NAF Name": "Esecubi",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "7",
     "raceName": "Goblin",
@@ -72421,7 +72421,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "34292",
     "NAF Name": "Sinkim",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "7",
     "raceName": "Goblin",

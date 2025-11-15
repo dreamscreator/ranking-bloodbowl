@@ -12083,7 +12083,7 @@ const statsYear2018 = [
     "NAF Nr": "10677",
     "NAF Name": "Wulfgar",
     "CCAA": "Apatrida",
-    "Country": "",
+    "Country": "Germany",
     "rating": 154.0906066529232,
     "bestRating": 161.5631156922493,
     "worstRating": 145.11936700074958,
@@ -12628,7 +12628,7 @@ const statsYear2018 = [
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "rating": 187.4432280492688,
     "bestRating": 199.4471858324682,
     "worstRating": 152.82842712474618,
@@ -14305,7 +14305,7 @@ const statsYear2018 = [
   },
   {
     "NAF Nr": "12145",
-    "NAF Name": "lunchmoney",
+    "NAF Name": "Lunchmoney",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 180.25267521091942,
@@ -17454,7 +17454,7 @@ const statsYear2018 = [
   },
   {
     "NAF Nr": "13561",
-    "NAF Name": "Matt_le_Fou",
+    "NAF Name": "Tilana",
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 190.39827354423258,
@@ -18856,7 +18856,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 206.40516658355898,
     "bestRating": 206.40516658355898,
@@ -24554,7 +24554,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 175.9178135541169,
     "bestRating": 183.0525945612699,
@@ -36145,7 +36145,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "rating": 152.44190730328123,
     "bestRating": 161.74231282772723,
@@ -42097,7 +42097,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 170.5955867249861,
     "bestRating": 170.5955867249861,
@@ -42122,7 +42122,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "20670",
     "NAF Name": "Nikobilis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 156.06267496139645,
     "bestRating": 156.06267496139645,
@@ -49314,7 +49314,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 163.44099848142363,
     "bestRating": 168.50799718191743,
@@ -49660,7 +49660,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "rating": 169.96072654306968,
     "bestRating": 182.1115916924091,
@@ -58162,7 +58162,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "22681",
     "NAF Name": "Begoter",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 168.28724076456913,
     "bestRating": 170.08192673261527,
@@ -77761,7 +77761,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "24829",
     "NAF Name": "egiablacks",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 138.67437319965143,
     "bestRating": 150,
@@ -78611,7 +78611,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "24909",
     "NAF Name": "Chucksters",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 165.987989034348,
     "bestRating": 172.4187944819016,
@@ -91422,7 +91422,7 @@ const statsYear2018 = [
     "NAF Nr": "25725",
     "NAF Name": "SkraggDave",
     "CCAA": "Apatrida",
-    "Country": "England",
+    "Country": "Scotland",
     "rating": 155.16729430132608,
     "bestRating": 167.74162892984873,
     "worstRating": 149.53135011940023,
@@ -102628,7 +102628,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 151.23166074518423,
     "bestRating": 151.23166074518423,

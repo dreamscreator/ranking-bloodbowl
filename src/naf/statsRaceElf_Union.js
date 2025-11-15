@@ -11014,7 +11014,7 @@ const statsRaceElf_Union = [
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "raceId": "19",
     "raceName": "Elf Union",
     "gamesTotal": 42,
@@ -16624,7 +16624,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "19",
     "raceName": "Elf Union",
@@ -29902,7 +29902,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "19",
     "raceName": "Elf Union",
@@ -32923,7 +32923,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "19",
     "raceName": "Elf Union",
@@ -35437,7 +35437,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "22681",
     "NAF Name": "Begoter",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "19",
     "raceName": "Elf Union",
@@ -58898,7 +58898,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "33825",
     "NAF Name": "El_Padresito",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "19",
     "raceName": "Elf Union",
@@ -59858,7 +59858,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "34536",
     "NAF Name": "Barrullero",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "19",
     "raceName": "Elf Union",
@@ -60064,24 +60064,29 @@ const statsRaceElf_Union = [
     "Country": "Ireland",
     "raceId": "19",
     "raceName": "Elf Union",
-    "gamesTotal": 5,
-    "gamesWon": 2,
-    "gamesDraw": 0,
-    "gamesLost": 3,
+    "gamesTotal": 11,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 7,
     "totalWinRatio": 0,
-    "totalTournaments": 2,
-    "winRatio": 40,
-    "rating": 147.07687445323316,
-    "bestRating": 147.07687445323316,
-    "worstRating": 141.51471862576142,
+    "totalTournaments": 3,
+    "winRatio": 31.82,
+    "rating": 135.07685789775894,
+    "bestRating": 151.41468628525922,
+    "worstRating": 134.98515617784025,
     "_lastTenRatings": [
-      145.7573593128807,
       141.51471862576142,
       145.7618565314503,
       142.09561237246888,
-      147.07687445323316
+      147.07687445323316,
+      151.41468628525922,
+      147.2641191495145,
+      143.1230454994824,
+      138.97914857644264,
+      134.98515617784025,
+      135.07685789775894
     ],
-    "tendency": 1.3195151403524505
+    "tendency": -6.437860728002477
   },
   {
     "NAF Nr": "34707",
@@ -61693,7 +61698,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "36200",
     "NAF Name": "polailo95",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "19",
     "raceName": "Elf Union",
@@ -66290,5 +66295,32 @@ const statsRaceElf_Union = [
       128.18173679541587
     ],
     "tendency": -16.526760582454955
+  },
+  {
+    "NAF Nr": "42649",
+    "NAF Name": "shunter31",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
+    "raceId": "19",
+    "raceName": "Elf Union",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 137.7099848331995,
+    "bestRating": 145.7573593128807,
+    "worstRating": 133.33951242808186,
+    "_lastTenRatings": [
+      145.7573593128807,
+      141.51530119163453,
+      137.41508974105338,
+      133.33951242808186,
+      137.8016865531182,
+      137.7099848331995
+    ],
+    "tendency": -8.047374479681196
   }
 ];

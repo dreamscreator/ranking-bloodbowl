@@ -7897,7 +7897,7 @@ const statsRaceUnderworld_Denizens = [
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "raceId": "23",
     "raceName": "Underworld Denizens",
     "gamesTotal": 16,
@@ -11814,7 +11814,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "23",
     "raceName": "Underworld Denizens",
@@ -20867,7 +20867,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "23",
     "raceName": "Underworld Denizens",
@@ -23734,7 +23734,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "23",
     "raceName": "Underworld Denizens",
@@ -26922,7 +26922,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "23",
     "raceName": "Underworld Denizens",
@@ -29896,7 +29896,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "22681",
     "NAF Name": "Begoter",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "23",
     "raceName": "Underworld Denizens",
@@ -39508,7 +39508,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "26819",
     "NAF Name": "Aitatxu",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "23",
     "raceName": "Underworld Denizens",
@@ -45349,7 +45349,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "30309",
     "NAF Name": "wallyyy",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "23",
     "raceName": "Underworld Denizens",
@@ -49319,7 +49319,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "32299",
     "NAF Name": "mike_bowl",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Undisclosed",
     "raceId": "23",
     "raceName": "Underworld Denizens",
@@ -52299,7 +52299,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "34292",
     "NAF Name": "Sinkim",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "23",
     "raceName": "Underworld Denizens",
@@ -53375,7 +53375,7 @@ const statsRaceUnderworld_Denizens = [
   {
     "NAF Nr": "35219",
     "NAF Name": "ruttiger9",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "23",
     "raceName": "Underworld Denizens",

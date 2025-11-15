@@ -15174,7 +15174,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "16",
     "raceName": "Nurgle",
@@ -21503,7 +21503,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "16",
     "raceName": "Nurgle",
@@ -24095,7 +24095,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "16",
     "raceName": "Nurgle",
@@ -26991,7 +26991,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "16",
     "raceName": "Nurgle",
@@ -37397,7 +37397,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "16",
     "raceName": "Nurgle",
@@ -47806,7 +47806,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "31806",
     "NAF Name": "Javs",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "16",
     "raceName": "Nurgle",
@@ -51799,7 +51799,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "34292",
     "NAF Name": "Sinkim",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "16",
     "raceName": "Nurgle",
@@ -53874,7 +53874,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "36200",
     "NAF Name": "polailo95",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "16",
     "raceName": "Nurgle",
@@ -54153,7 +54153,7 @@ const statsRaceNurgle = [
   {
     "NAF Nr": "36500",
     "NAF Name": "Krakenmaster",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "16",
     "raceName": "Nurgle",

@@ -14989,7 +14989,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "8",
     "raceName": "Halfling",
@@ -18729,7 +18729,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "8",
     "raceName": "Halfling",
@@ -28115,7 +28115,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "8",
     "raceName": "Halfling",
@@ -31115,7 +31115,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "8",
     "raceName": "Halfling",
@@ -44319,7 +44319,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "8",
     "raceName": "Halfling",
@@ -49813,7 +49813,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "8",
     "raceName": "Halfling",
@@ -52577,7 +52577,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "30316",
     "NAF Name": "Vulkan66",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "8",
     "raceName": "Halfling",
@@ -53128,6 +53128,31 @@ const statsRaceHalfling = [
       139.5197400293178
     ],
     "tendency": -5.286009115141923
+  },
+  {
+    "NAF Nr": "30676",
+    "NAF Name": "julien",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 141.0857799824879,
+    "bestRating": 154.47213595499957,
+    "worstRating": 141.0857799824879,
+    "_lastTenRatings": [
+      154.47213595499957,
+      150.00424322616672,
+      145.59631913172612,
+      141.0857799824879
+    ],
+    "tendency": -13.386355972511666
   },
   {
     "NAF Nr": "30683",
@@ -59780,7 +59805,7 @@ const statsRaceHalfling = [
   {
     "NAF Nr": "33825",
     "NAF Name": "El_Padresito",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "8",
     "raceName": "Halfling",

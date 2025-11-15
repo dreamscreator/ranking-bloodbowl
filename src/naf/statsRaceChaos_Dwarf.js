@@ -29392,7 +29392,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "9",
     "raceName": "Chaos Dwarf",
@@ -39356,7 +39356,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "9",
     "raceName": "Chaos Dwarf",
@@ -47722,7 +47722,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "9",
     "raceName": "Chaos Dwarf",
@@ -47915,7 +47915,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "9",
     "raceName": "Chaos Dwarf",
@@ -50941,29 +50941,29 @@ const statsRaceChaos_Dwarf = [
     "Country": "France",
     "raceId": "9",
     "raceName": "Chaos Dwarf",
-    "gamesTotal": 80,
-    "gamesWon": 32,
-    "gamesDraw": 24,
-    "gamesLost": 24,
+    "gamesTotal": 85,
+    "gamesWon": 34,
+    "gamesDraw": 25,
+    "gamesLost": 26,
     "totalWinRatio": 0,
-    "totalTournaments": 18,
-    "winRatio": 55,
-    "rating": 181.2666872301304,
-    "bestRating": 182.2282607458969,
+    "totalTournaments": 19,
+    "winRatio": 54.71,
+    "rating": 177.229766548597,
+    "bestRating": 183.81561619712554,
     "worstRating": 130.29629876010372,
     "_lastTenRatings": [
-      172.79671239278773,
-      178.32002366859598,
-      176.91839464996477,
-      175.81292286146714,
-      169.95802569305832,
       173.75041268693758,
       174.1662407206941,
       178.07976308562442,
       182.2282607458969,
-      181.2666872301304
+      181.2666872301304,
+      180.213599776479,
+      183.81561619712554,
+      178.42685683476296,
+      173.71599436637422,
+      177.229766548597
     ],
-    "tendency": 8.469974837342676
+    "tendency": 3.4793538616594333
   },
   {
     "NAF Nr": "22531",
@@ -58950,7 +58950,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "24829",
     "NAF Name": "egiablacks",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "9",
     "raceName": "Chaos Dwarf",
@@ -64824,7 +64824,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "9",
     "raceName": "Chaos Dwarf",
@@ -66121,7 +66121,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "26819",
     "NAF Name": "Aitatxu",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "9",
     "raceName": "Chaos Dwarf",
@@ -71567,7 +71567,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "9",
     "raceName": "Chaos Dwarf",
@@ -76399,7 +76399,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "31295",
     "NAF Name": "Mateillo",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "9",
     "raceName": "Chaos Dwarf",
@@ -76430,7 +76430,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "31296",
     "NAF Name": "Esecubi",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "9",
     "raceName": "Chaos Dwarf",
@@ -78115,7 +78115,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "31806",
     "NAF Name": "Javs",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "9",
     "raceName": "Chaos Dwarf",
@@ -79179,7 +79179,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "32299",
     "NAF Name": "mike_bowl",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Undisclosed",
     "raceId": "9",
     "raceName": "Chaos Dwarf",
@@ -83341,6 +83341,33 @@ const statsRaceChaos_Dwarf = [
       149.02910583426333
     ],
     "tendency": -4.7148079316780525
+  },
+  {
+    "NAF Nr": "34389",
+    "NAF Name": "bozzybozboz",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
+    "raceId": "9",
+    "raceName": "Chaos Dwarf",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.2815409755451,
+    "bestRating": 149.999464871545,
+    "worstRating": 145.7530066132124,
+    "_lastTenRatings": [
+      145.7573593128807,
+      145.89084151219788,
+      149.99105296277904,
+      145.7530066132124,
+      149.999464871545,
+      149.2815409755451
+    ],
+    "tendency": 3.524181662664404
   },
   {
     "NAF Nr": "34393",

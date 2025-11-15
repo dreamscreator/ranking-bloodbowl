@@ -20850,7 +20850,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",
@@ -33891,7 +33891,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",
@@ -40702,7 +40702,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",
@@ -40802,7 +40802,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",
@@ -43921,7 +43921,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "22681",
     "NAF Name": "Begoter",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",
@@ -49821,7 +49821,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "24802",
     "NAF Name": "grymloq",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",
@@ -50145,7 +50145,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "24909",
     "NAF Name": "Chucksters",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",
@@ -59827,7 +59827,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",
@@ -66210,7 +66210,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "31806",
     "NAF Name": "Javs",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",
@@ -67285,7 +67285,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "32299",
     "NAF Name": "mike_bowl",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Undisclosed",
     "raceId": "14",
     "raceName": "Amazon",
@@ -70611,7 +70611,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "33685",
     "NAF Name": "Piolin",
-    "CCAA": "Castilla y León",
+    "CCAA": "Apatrida",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",
@@ -74442,7 +74442,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "35219",
     "NAF Name": "ruttiger9",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",
@@ -78371,7 +78371,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "37022",
     "NAF Name": "Cortezon",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",
@@ -78399,7 +78399,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "37023",
     "NAF Name": "Iru",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",

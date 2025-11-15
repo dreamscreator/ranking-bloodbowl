@@ -22991,7 +22991,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -28528,7 +28528,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -29797,7 +29797,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "17165",
     "NAF Name": "Herodes",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -38686,7 +38686,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -42460,29 +42460,29 @@ const statsRaceNecromantic_Horror = [
     "Country": "France",
     "raceId": "18",
     "raceName": "Necromantic Horror",
-    "gamesTotal": 31,
-    "gamesWon": 14,
-    "gamesDraw": 8,
-    "gamesLost": 9,
+    "gamesTotal": 36,
+    "gamesWon": 15,
+    "gamesDraw": 10,
+    "gamesLost": 11,
     "totalWinRatio": 0,
-    "totalTournaments": 8,
-    "winRatio": 58.06,
-    "rating": 173.4306070878536,
+    "totalTournaments": 9,
+    "winRatio": 55.56,
+    "rating": 165.87665466489307,
     "bestRating": 173.4306070878536,
     "worstRating": 147.3839991404169,
     "_lastTenRatings": [
-      154.8631756465159,
-      154.04401180063655,
-      147.3839991404169,
-      156.94541366847673,
-      157.6956748158854,
       157.55380043600803,
       161.61358392832506,
       166.5615363925966,
       170.04960976006103,
-      173.4306070878536
+      173.4306070878536,
+      173.24613357289059,
+      167.98815718604908,
+      171.70049323629738,
+      171.04858216615355,
+      165.87665466489307
     ],
-    "tendency": 18.567431441337675
+    "tendency": 8.322854228885035
   },
   {
     "NAF Nr": "20611",
@@ -42888,7 +42888,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -42919,7 +42919,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "20670",
     "NAF Name": "Nikobilis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -48143,7 +48143,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -52913,7 +52913,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "22681",
     "NAF Name": "Begoter",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -68523,7 +68523,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "26819",
     "NAF Name": "Aitatxu",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -75407,7 +75407,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "28866",
     "NAF Name": "Berhane",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -75644,7 +75644,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -92421,7 +92421,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "33821",
     "NAF Name": "Shamblek",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -103656,7 +103656,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "38012",
     "NAF Name": "Jose_Quin",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",

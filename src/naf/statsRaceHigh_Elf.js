@@ -23715,7 +23715,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "6",
     "raceName": "High Elf",
@@ -26636,7 +26636,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "20670",
     "NAF Name": "Nikobilis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "6",
     "raceName": "High Elf",
@@ -29452,7 +29452,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "6",
     "raceName": "High Elf",
@@ -29611,7 +29611,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "6",
     "raceName": "High Elf",
@@ -35171,7 +35171,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "24802",
     "NAF Name": "grymloq",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "6",
     "raceName": "High Elf",
@@ -48465,7 +48465,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "33825",
     "NAF Name": "El_Padresito",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "6",
     "raceName": "High Elf",
@@ -49141,7 +49141,7 @@ const statsRaceHigh_Elf = [
   {
     "NAF Nr": "34536",
     "NAF Name": "Barrullero",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "6",
     "raceName": "High Elf",

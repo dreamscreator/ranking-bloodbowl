@@ -6120,7 +6120,7 @@ const statsYear2021 = [
     "NAF Nr": "10677",
     "NAF Name": "Wulfgar",
     "CCAA": "Apatrida",
-    "Country": "",
+    "Country": "Germany",
     "rating": 156.68495609790386,
     "bestRating": 156.68495609790386,
     "worstRating": 149.85426096010275,
@@ -7202,7 +7202,7 @@ const statsYear2021 = [
   },
   {
     "NAF Nr": "12145",
-    "NAF Name": "lunchmoney",
+    "NAF Name": "Lunchmoney",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 163.82580028063805,
@@ -9360,7 +9360,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 163.9533544320294,
     "bestRating": 168.88587061310133,
@@ -12186,7 +12186,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 161.77369985188807,
     "bestRating": 161.77369985188807,
@@ -15729,7 +15729,7 @@ const statsYear2021 = [
     "NAF Nr": "18620",
     "NAF Name": "8ulldog",
     "CCAA": "Apatrida",
-    "Country": "England",
+    "Country": "Wales",
     "rating": 160.45852603838927,
     "bestRating": 160.45852603838927,
     "worstRating": 144.06749471615854,
@@ -18197,7 +18197,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "rating": 169.17772619954587,
     "bestRating": 179.2157679146267,
@@ -20838,7 +20838,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 170.1909605381876,
     "bestRating": 170.1909605381876,
@@ -20863,7 +20863,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "20670",
     "NAF Name": "Nikobilis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 156.2993166587627,
     "bestRating": 156.2993166587627,
@@ -24004,7 +24004,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 151.55635823687146,
     "bestRating": 156.58935240696147,
@@ -24270,7 +24270,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "rating": 165.2155128366682,
     "bestRating": 179.30581826588167,
@@ -38514,7 +38514,7 @@ const statsYear2021 = [
     "NAF Nr": "25725",
     "NAF Name": "SkraggDave",
     "CCAA": "Apatrida",
-    "Country": "England",
+    "Country": "Scotland",
     "rating": 160.14854631089494,
     "bestRating": 160.90480734443216,
     "worstRating": 140.16730220736187,
@@ -41947,7 +41947,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 155.91086531121857,
     "bestRating": 161.5208790789479,
@@ -54192,7 +54192,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "28866",
     "NAF Name": "Berhane",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 147.11265272747224,
     "bestRating": 155.69757044899757,
@@ -54503,7 +54503,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 139.86693233210494,
     "bestRating": 144.97051126587522,
@@ -62497,7 +62497,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "30309",
     "NAF Name": "wallyyy",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 150.67485253235338,
     "bestRating": 150.67485253235338,
@@ -64195,7 +64195,7 @@ const statsYear2021 = [
   },
   {
     "NAF Nr": "30455",
-    "NAF Name": "jod",
+    "NAF Name": "EmmaGobbo",
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 157.26476283200472,
@@ -68441,7 +68441,7 @@ const statsYear2021 = [
     "NAF Nr": "30786",
     "NAF Name": "SeducerOfTrolls",
     "CCAA": "Apatrida",
-    "Country": "Scotland",
+    "Country": "North Ireland",
     "rating": 148.69504156360156,
     "bestRating": 159.9922463418862,
     "worstRating": 139.61718783573448,
@@ -74015,7 +74015,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "31295",
     "NAF Name": "Mateillo",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 145.55833752292975,
     "bestRating": 145.88985948878775,
@@ -74036,7 +74036,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "31296",
     "NAF Name": "Esecubi",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 149.09863829392233,
     "bestRating": 149.09863829392233,

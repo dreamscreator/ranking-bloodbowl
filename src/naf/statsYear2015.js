@@ -13740,7 +13740,7 @@ const statsYear2015 = [
     "NAF Nr": "10677",
     "NAF Name": "Wulfgar",
     "CCAA": "Apatrida",
-    "Country": "",
+    "Country": "Germany",
     "rating": 154.3877847911633,
     "bestRating": 154.3877847911633,
     "worstRating": 145.14080090922266,
@@ -14326,7 +14326,7 @@ const statsYear2015 = [
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "rating": 177.53084689997254,
     "bestRating": 177.93008010891344,
     "worstRating": 145.18925240942986,
@@ -16446,7 +16446,7 @@ const statsYear2015 = [
   },
   {
     "NAF Nr": "12145",
-    "NAF Name": "lunchmoney",
+    "NAF Name": "Lunchmoney",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 151.5773579696428,
@@ -20427,7 +20427,7 @@ const statsYear2015 = [
   },
   {
     "NAF Nr": "13561",
-    "NAF Name": "Matt_le_Fou",
+    "NAF Name": "Tilana",
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 238.10542725410863,
@@ -22650,7 +22650,7 @@ const statsYear2015 = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 172.83728028865227,
     "bestRating": 187.60291219417084,
@@ -29171,7 +29171,7 @@ const statsYear2015 = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 168.17816317220644,
     "bestRating": 171.2902943920815,
@@ -30825,7 +30825,7 @@ const statsYear2015 = [
   {
     "NAF Nr": "17165",
     "NAF Name": "Herodes",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "rating": 159.1452225244266,
     "bestRating": 164.38659813283226,
@@ -44595,7 +44595,7 @@ const statsYear2015 = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "rating": 159.3286967410351,
     "bestRating": 170.21371067813655,
@@ -53082,7 +53082,7 @@ const statsYear2015 = [
   {
     "NAF Nr": "20668",
     "NAF Name": "Wulfrik",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 150.90438105682216,
     "bestRating": 150.90438105682216,
@@ -53104,7 +53104,7 @@ const statsYear2015 = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 155.81024473074208,
     "bestRating": 161.15686561182477,
@@ -65769,7 +65769,7 @@ const statsYear2015 = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 129.89221790578947,
     "bestRating": 157.81715627013713,
@@ -66402,7 +66402,7 @@ const statsYear2015 = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "rating": 144.6571905481504,
     "bestRating": 154.41590883836136,

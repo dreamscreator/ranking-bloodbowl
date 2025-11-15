@@ -12980,7 +12980,7 @@ const statsYear2014 = [
     "NAF Nr": "10677",
     "NAF Name": "Wulfgar",
     "CCAA": "Apatrida",
-    "Country": "",
+    "Country": "Germany",
     "rating": 158.88682960215164,
     "bestRating": 158.88682960215164,
     "worstRating": 145.30958424017658,
@@ -13678,7 +13678,7 @@ const statsYear2014 = [
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "rating": 180.82220975740333,
     "bestRating": 181.44927003164383,
     "worstRating": 155.39154841657694,
@@ -16026,7 +16026,7 @@ const statsYear2014 = [
   },
   {
     "NAF Nr": "12145",
-    "NAF Name": "lunchmoney",
+    "NAF Name": "Lunchmoney",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 161.9166050236789,
@@ -19839,7 +19839,7 @@ const statsYear2014 = [
   },
   {
     "NAF Nr": "13561",
-    "NAF Name": "Matt_le_Fou",
+    "NAF Name": "Tilana",
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 213.73116635705767,
@@ -21991,7 +21991,7 @@ const statsYear2014 = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 176.99727109355564,
     "bestRating": 201.5595718414863,
@@ -28904,7 +28904,7 @@ const statsYear2014 = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 152.7168539421598,
     "bestRating": 152.7168539421598,
@@ -30672,7 +30672,7 @@ const statsYear2014 = [
   {
     "NAF Nr": "17165",
     "NAF Name": "Herodes",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "rating": 133.68348675689685,
     "bestRating": 155.65685424949237,
@@ -46237,7 +46237,7 @@ const statsYear2014 = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "rating": 162.27182408752947,
     "bestRating": 168.11270989903252,
@@ -57328,7 +57328,7 @@ const statsYear2014 = [
   {
     "NAF Nr": "20668",
     "NAF Name": "Wulfrik",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 156.27380143018127,
     "bestRating": 156.27380143018127,
@@ -57354,7 +57354,7 @@ const statsYear2014 = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 154.66766909588728,
     "bestRating": 157.19321386788533,
@@ -57379,7 +57379,7 @@ const statsYear2014 = [
   {
     "NAF Nr": "20670",
     "NAF Name": "Nikobilis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 148.77499464137765,
     "bestRating": 154.94740064244445,

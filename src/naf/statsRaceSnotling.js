@@ -3688,7 +3688,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "29",
     "raceName": "Snotling",
@@ -4682,7 +4682,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "29",
     "raceName": "Snotling",
@@ -6021,6 +6021,32 @@ const statsRaceSnotling = [
       161.80716897826352
     ],
     "tendency": 6.708149464670726
+  },
+  {
+    "NAF Nr": "19142",
+    "NAF Name": "kaoragh",
+    "CCAA": "Apatrida",
+    "Country": "Mongolia",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 40,
+    "rating": 146.7241436213667,
+    "bestRating": 151.05308745365141,
+    "worstRating": 146.54480515168646,
+    "_lastTenRatings": [
+      151.05308745365141,
+      146.54480515168646,
+      146.6954322302995,
+      151.00384701265864,
+      146.7241436213667
+    ],
+    "tendency": -4.328943832284722
   },
   {
     "NAF Nr": "19152",
@@ -8487,7 +8513,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "29",
     "raceName": "Snotling",
@@ -12130,7 +12156,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "24802",
     "NAF Name": "grymloq",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "29",
     "raceName": "Snotling",
@@ -25352,7 +25378,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "33824",
     "NAF Name": "Toco",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "29",
     "raceName": "Snotling",
@@ -28943,7 +28969,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "37929",
     "NAF Name": "chusman",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "29",
     "raceName": "Snotling",

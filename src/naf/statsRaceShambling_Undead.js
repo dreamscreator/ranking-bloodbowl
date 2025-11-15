@@ -19948,7 +19948,7 @@ const statsRaceShambling_Undead = [
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "raceId": "11",
     "raceName": "Shambling Undead",
     "gamesTotal": 19,
@@ -29310,7 +29310,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "11",
     "raceName": "Shambling Undead",
@@ -35730,7 +35730,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "11",
     "raceName": "Shambling Undead",
@@ -46883,7 +46883,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "11",
     "raceName": "Shambling Undead",
@@ -51971,7 +51971,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "11",
     "raceName": "Shambling Undead",
@@ -57128,7 +57128,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "11",
     "raceName": "Shambling Undead",
@@ -57412,7 +57412,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "11",
     "raceName": "Shambling Undead",
@@ -61920,7 +61920,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "22681",
     "NAF Name": "Begoter",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "11",
     "raceName": "Shambling Undead",
@@ -69134,7 +69134,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "24802",
     "NAF Name": "grymloq",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "11",
     "raceName": "Shambling Undead",
@@ -74993,7 +74993,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "11",
     "raceName": "Shambling Undead",
@@ -76659,7 +76659,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "26819",
     "NAF Name": "Aitatxu",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "11",
     "raceName": "Shambling Undead",
@@ -84024,7 +84024,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "28866",
     "NAF Name": "Berhane",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "11",
     "raceName": "Shambling Undead",
@@ -103447,7 +103447,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "34882",
     "NAF Name": "Soldurius",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "11",
     "raceName": "Shambling Undead",
@@ -109874,7 +109874,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "37929",
     "NAF Name": "chusman",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "11",
     "raceName": "Shambling Undead",

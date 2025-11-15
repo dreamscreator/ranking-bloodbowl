@@ -9407,7 +9407,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "22",
     "raceName": "Slann",
@@ -12949,7 +12949,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "17165",
     "NAF Name": "Herodes",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "22",
     "raceName": "Slann",
@@ -19299,7 +19299,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "22",
     "raceName": "Slann",
@@ -21428,7 +21428,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "22",
     "raceName": "Slann",
@@ -21558,7 +21558,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "22",
     "raceName": "Slann",
@@ -28390,6 +28390,33 @@ const statsRaceSlann = [
       141.0798584203829
     ],
     "tendency": -4.003163831837014
+  },
+  {
+    "NAF Nr": "25747",
+    "NAF Name": "crowdog09",
+    "CCAA": "Apatrida",
+    "Country": "Ireland",
+    "raceId": "22",
+    "raceName": "Slann",
+    "gamesTotal": 6,
+    "gamesWon": 5,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 167.3555688526976,
+    "bestRating": 167.3555688526976,
+    "worstRating": 150.38434278755872,
+    "_lastTenRatings": [
+      153.38842753544662,
+      150.38434278755872,
+      154.74606609673143,
+      159.31755460690337,
+      163.40514924408694,
+      167.3555688526976
+    ],
+    "tendency": 13.967141317250963
   },
   {
     "NAF Nr": "25777",
@@ -38122,7 +38149,7 @@ const statsRaceSlann = [
   {
     "NAF Nr": "34292",
     "NAF Name": "Sinkim",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "22",
     "raceName": "Slann",
@@ -40669,22 +40696,28 @@ const statsRaceSlann = [
     "Country": "Spain",
     "raceId": "22",
     "raceName": "Slann",
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 0,
-    "gamesLost": 1,
+    "gamesTotal": 9,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 4,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 66.67,
-    "rating": 154.31883919798497,
+    "totalTournaments": 2,
+    "winRatio": 50,
+    "rating": 148.4011570543824,
     "bestRating": 154.31883919798497,
-    "worstRating": 145.52786404500043,
+    "worstRating": 144.4452954289232,
     "_lastTenRatings": [
       145.52786404500043,
       150,
-      154.31883919798497
+      154.31883919798497,
+      149.93561360561353,
+      154.04224245505506,
+      149.68051914588236,
+      149.5523073072001,
+      144.4452954289232,
+      148.4011570543824
     ],
-    "tendency": 8.790975152984544
+    "tendency": 2.8732930093819675
   },
   {
     "NAF Nr": "38493",

@@ -37586,7 +37586,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "5",
     "raceName": "Dwarf",
@@ -49254,7 +49254,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "5",
     "raceName": "Dwarf",
@@ -53553,7 +53553,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "20668",
     "NAF Name": "Wulfrik",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "5",
     "raceName": "Dwarf",
@@ -58775,7 +58775,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "5",
     "raceName": "Dwarf",
@@ -58889,7 +58889,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "5",
     "raceName": "Dwarf",
@@ -73316,7 +73316,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "24902",
     "NAF Name": "Anderworld",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "5",
     "raceName": "Dwarf",
@@ -73343,7 +73343,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "24909",
     "NAF Name": "Chucksters",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "5",
     "raceName": "Dwarf",
@@ -79893,7 +79893,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "5",
     "raceName": "Dwarf",
@@ -88878,7 +88878,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "5",
     "raceName": "Dwarf",
@@ -96040,7 +96040,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "31296",
     "NAF Name": "Esecubi",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "5",
     "raceName": "Dwarf",
@@ -108346,7 +108346,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "36200",
     "NAF Name": "polailo95",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "5",
     "raceName": "Dwarf",

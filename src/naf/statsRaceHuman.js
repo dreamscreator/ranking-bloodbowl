@@ -18345,7 +18345,7 @@ const statsRaceHuman = [
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "raceId": "4",
     "raceName": "Human",
     "gamesTotal": 15,
@@ -27226,7 +27226,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "4",
     "raceName": "Human",
@@ -34456,7 +34456,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "4",
     "raceName": "Human",
@@ -46335,7 +46335,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "4",
     "raceName": "Human",
@@ -48177,29 +48177,29 @@ const statsRaceHuman = [
     "Country": "Morocco",
     "raceId": "4",
     "raceName": "Human",
-    "gamesTotal": 18,
-    "gamesWon": 6,
-    "gamesDraw": 5,
-    "gamesLost": 7,
+    "gamesTotal": 23,
+    "gamesWon": 8,
+    "gamesDraw": 7,
+    "gamesLost": 8,
     "totalWinRatio": 0,
-    "totalTournaments": 5,
-    "winRatio": 47.22,
-    "rating": 153.25957209014095,
+    "totalTournaments": 6,
+    "winRatio": 50,
+    "rating": 157.64605763342286,
     "bestRating": 159.06433864119097,
     "worstRating": 134.73914531711574,
     "_lastTenRatings": [
-      135.30158347285024,
-      140.98950267351293,
-      147.17816840003627,
-      144.7952646493997,
-      149.74176632578832,
       144.58178354778076,
       145.62525171163355,
       151.51067230605153,
       159.06433864119097,
-      153.25957209014095
+      153.25957209014095,
+      153.14771090243755,
+      157.51182297436876,
+      152.57186660828572,
+      153.22377767842954,
+      157.64605763342286
     ],
-    "tendency": 17.95798861729071
+    "tendency": 13.064274085642097
   },
   {
     "NAF Nr": "20145",
@@ -51345,7 +51345,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "20668",
     "NAF Name": "Wulfrik",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "4",
     "raceName": "Human",
@@ -56342,7 +56342,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "4",
     "raceName": "Human",
@@ -56619,7 +56619,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "4",
     "raceName": "Human",
@@ -79711,7 +79711,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "4",
     "raceName": "Human",
@@ -95071,7 +95071,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "30316",
     "NAF Name": "Vulkan66",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "4",
     "raceName": "Human",
@@ -106446,7 +106446,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "33825",
     "NAF Name": "El_Padresito",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "4",
     "raceName": "Human",
@@ -110234,25 +110234,29 @@ const statsRaceHuman = [
     "Country": "Ireland",
     "raceId": "4",
     "raceName": "Human",
-    "gamesTotal": 6,
-    "gamesWon": 0,
-    "gamesDraw": 0,
-    "gamesLost": 6,
+    "gamesTotal": 12,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 8,
     "totalWinRatio": 0,
-    "totalTournaments": 2,
-    "winRatio": 0,
-    "rating": 123.40440340302712,
+    "totalTournaments": 3,
+    "winRatio": 25,
+    "rating": 128.45635664876707,
     "bestRating": 145.7573593128807,
-    "worstRating": 123.40440340302712,
+    "worstRating": 116.63991725305337,
     "_lastTenRatings": [
-      145.7573593128807,
-      141.65282491975827,
       137.4056870140694,
       132.79803432761065,
       128.0445239239948,
-      123.40440340302712
+      123.40440340302712,
+      120.0159758675805,
+      116.63991725305337,
+      117.49950953871827,
+      122.63142087449027,
+      127.73843275276717,
+      128.45635664876707
     ],
-    "tendency": -22.35295590985359
+    "tendency": -8.94933036530233
   },
   {
     "NAF Nr": "35504",
@@ -114401,6 +114405,32 @@ const statsRaceHuman = [
       147.8827685762995
     ],
     "tendency": 1.748111400766021
+  },
+  {
+    "NAF Nr": "37560",
+    "NAF Name": "skull-one",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "4",
+    "raceName": "Human",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 70,
+    "rating": 159.70609807884279,
+    "bestRating": 159.70609807884279,
+    "worstRating": 150.78411142722135,
+    "_lastTenRatings": [
+      154.53675492648094,
+      150.9347385058344,
+      150.78411142722135,
+      155.2222702294625,
+      159.70609807884279
+    ],
+    "tendency": 5.169343152361847
   },
   {
     "NAF Nr": "37563",

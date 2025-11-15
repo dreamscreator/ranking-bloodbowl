@@ -9039,7 +9039,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "31",
     "raceName": "Imperial Nobility",
@@ -10196,7 +10196,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "22681",
     "NAF Name": "Begoter",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "31",
     "raceName": "Imperial Nobility",
@@ -12248,7 +12248,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "24802",
     "NAF Name": "grymloq",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "31",
     "raceName": "Imperial Nobility",
@@ -12438,7 +12438,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "24909",
     "NAF Name": "Chucksters",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "31",
     "raceName": "Imperial Nobility",
@@ -17268,7 +17268,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "31",
     "raceName": "Imperial Nobility",
@@ -18880,7 +18880,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "30309",
     "NAF Name": "wallyyy",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "31",
     "raceName": "Imperial Nobility",
@@ -21620,7 +21620,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "31806",
     "NAF Name": "Javs",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "31",
     "raceName": "Imperial Nobility",
@@ -27374,24 +27374,29 @@ const statsRaceImperial_Nobility = [
     "Country": "Ireland",
     "raceId": "31",
     "raceName": "Imperial Nobility",
-    "gamesTotal": 5,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 2,
+    "gamesTotal": 11,
+    "gamesWon": 4,
+    "gamesDraw": 2,
+    "gamesLost": 5,
     "totalWinRatio": 0,
-    "totalTournaments": 2,
-    "winRatio": 50,
-    "rating": 151.63351270235833,
+    "totalTournaments": 3,
+    "winRatio": 45.45,
+    "rating": 146.39719560742583,
     "bestRating": 151.63351270235833,
     "worstRating": 141.6399098202716,
     "_lastTenRatings": [
-      150,
       145.7573593128807,
       141.6399098202716,
       146.39342022388746,
-      151.63351270235833
+      151.63351270235833,
+      147.71728451790582,
+      143.40772831054264,
+      142.54813602487775,
+      146.62371333784927,
+      150.61770573645165,
+      146.39719560742583
     ],
-    "tendency": 1.6335127023583311
+    "tendency": 0.6398362945451197
   },
   {
     "NAF Nr": "35336",
@@ -28684,7 +28689,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "36500",
     "NAF Name": "Krakenmaster",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "31",
     "raceName": "Imperial Nobility",

@@ -15698,7 +15698,7 @@ const statsRaceLizardmen = [
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "raceId": "15",
     "raceName": "Lizardmen",
     "gamesTotal": 17,
@@ -22268,7 +22268,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -29661,7 +29661,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "17165",
     "NAF Name": "Herodes",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -39294,7 +39294,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -48205,7 +48205,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -48509,7 +48509,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -67655,7 +67655,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -69244,7 +69244,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "26819",
     "NAF Name": "Aitatxu",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -76312,7 +76312,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "28866",
     "NAF Name": "Berhane",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -83938,7 +83938,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "31296",
     "NAF Name": "Esecubi",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -95179,7 +95179,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "34292",
     "NAF Name": "Sinkim",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -99011,6 +99011,32 @@ const statsRaceLizardmen = [
     "tendency": -34.21882713490737
   },
   {
+    "NAF Nr": "35577",
+    "NAF Name": "Mc_Fievel",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 60,
+    "rating": 155.66434583923242,
+    "bestRating": 155.66434583923242,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      154.50828230196495,
+      155.10727096510686,
+      150.49241833797194,
+      155.66434583923242
+    ],
+    "tendency": 5.664345839232425
+  },
+  {
     "NAF Nr": "35578",
     "NAF Name": "Aloha",
     "CCAA": "Apatrida",
@@ -100538,7 +100564,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "36200",
     "NAF Name": "polailo95",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -101326,7 +101352,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "36500",
     "NAF Name": "Krakenmaster",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -102959,7 +102985,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "37023",
     "NAF Name": "Iru",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -112672,6 +112698,33 @@ const statsRaceLizardmen = [
       168.75814913586117
     ],
     "tendency": 18.566865495808713
+  },
+  {
+    "NAF Nr": "42364",
+    "NAF Name": "ibd",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 141.6661594202521,
+    "bestRating": 150.2998377860659,
+    "worstRating": 141.65073046343917,
+    "_lastTenRatings": [
+      145.7573593128807,
+      141.65073046343917,
+      146.15594086302616,
+      150.2998377860659,
+      146.05297441114016,
+      141.6661594202521
+    ],
+    "tendency": -4.091199892628623
   },
   {
     "NAF Nr": "42436",

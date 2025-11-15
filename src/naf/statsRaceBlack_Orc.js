@@ -9040,7 +9040,7 @@ const statsRaceBlack_Orc = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "30",
     "raceName": "Black Orc",
@@ -11251,7 +11251,7 @@ const statsRaceBlack_Orc = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "30",
     "raceName": "Black Orc",
@@ -11333,7 +11333,7 @@ const statsRaceBlack_Orc = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "30",
     "raceName": "Black Orc",
@@ -15895,7 +15895,7 @@ const statsRaceBlack_Orc = [
   {
     "NAF Nr": "24802",
     "NAF Name": "grymloq",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "30",
     "raceName": "Black Orc",
@@ -16103,7 +16103,7 @@ const statsRaceBlack_Orc = [
   {
     "NAF Nr": "24909",
     "NAF Name": "Chucksters",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "30",
     "raceName": "Black Orc",
@@ -19383,7 +19383,7 @@ const statsRaceBlack_Orc = [
   {
     "NAF Nr": "26819",
     "NAF Name": "Aitatxu",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "30",
     "raceName": "Black Orc",
@@ -28494,7 +28494,7 @@ const statsRaceBlack_Orc = [
   {
     "NAF Nr": "31295",
     "NAF Name": "Mateillo",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "30",
     "raceName": "Black Orc",
@@ -28519,7 +28519,7 @@ const statsRaceBlack_Orc = [
   {
     "NAF Nr": "31296",
     "NAF Name": "Esecubi",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "30",
     "raceName": "Black Orc",

@@ -19518,7 +19518,7 @@ const statsRaceNorse = [
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "raceId": "13",
     "raceName": "Norse",
     "gamesTotal": 25,
@@ -28100,7 +28100,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "13",
     "raceName": "Norse",
@@ -46231,7 +46231,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "13",
     "raceName": "Norse",
@@ -50685,7 +50685,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "13",
     "raceName": "Norse",
@@ -55709,7 +55709,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "13",
     "raceName": "Norse",
@@ -55907,7 +55907,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "13",
     "raceName": "Norse",
@@ -60301,7 +60301,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "22681",
     "NAF Name": "Begoter",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "13",
     "raceName": "Norse",
@@ -67837,7 +67837,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "24909",
     "NAF Name": "Chucksters",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "13",
     "raceName": "Norse",
@@ -72963,7 +72963,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "13",
     "raceName": "Norse",
@@ -80875,7 +80875,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "28866",
     "NAF Name": "Berhane",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "13",
     "raceName": "Norse",
@@ -81071,7 +81071,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "13",
     "raceName": "Norse",
@@ -89326,7 +89326,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "31806",
     "NAF Name": "Javs",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "13",
     "raceName": "Norse",
@@ -96587,7 +96587,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "34292",
     "NAF Name": "Sinkim",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "13",
     "raceName": "Norse",
@@ -97434,6 +97434,32 @@ const statsRaceNorse = [
       167.64215947135733
     ],
     "tendency": 23.300693571192312
+  },
+  {
+    "NAF Nr": "34591",
+    "NAF Name": "Gorgbar",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
+    "raceId": "13",
+    "raceName": "Norse",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 151.07906731853177,
+    "bestRating": 155.56289516791205,
+    "worstRating": 146.1159763558637,
+    "_lastTenRatings": [
+      146.1159763558637,
+      150.56792554468382,
+      150.94804254077712,
+      155.56289516791205,
+      151.07906731853177
+    ],
+    "tendency": 4.963090962668076
   },
   {
     "NAF Nr": "34598",
@@ -103020,7 +103046,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "37023",
     "NAF Name": "Iru",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "13",
     "raceName": "Norse",
@@ -108134,7 +108160,7 @@ const statsRaceNorse = [
   {
     "NAF Nr": "39965",
     "NAF Name": "Kali_the_black_cat",
-    "CCAA": "Apatrida",
+    "CCAA": "Navarra",
     "Country": "Spain",
     "raceId": "13",
     "raceName": "Norse",

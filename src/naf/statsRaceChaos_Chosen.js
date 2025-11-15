@@ -22363,7 +22363,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "17165",
     "NAF Name": "Herodes",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "10",
     "raceName": "Chaos Chosen",
@@ -29869,7 +29869,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "10",
     "raceName": "Chaos Chosen",
@@ -37323,7 +37323,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "10",
     "raceName": "Chaos Chosen",
@@ -37497,7 +37497,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "10",
     "raceName": "Chaos Chosen",
@@ -56007,7 +56007,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "26819",
     "NAF Name": "Aitatxu",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "10",
     "raceName": "Chaos Chosen",

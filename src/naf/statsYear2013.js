@@ -15659,7 +15659,7 @@ const statsYear2013 = [
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "rating": 163.35931945434075,
     "bestRating": 163.35931945434075,
     "worstRating": 146.21244771737642,
@@ -18048,7 +18048,7 @@ const statsYear2013 = [
   },
   {
     "NAF Nr": "12145",
-    "NAF Name": "lunchmoney",
+    "NAF Name": "Lunchmoney",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 174.49799601217865,
@@ -22822,7 +22822,7 @@ const statsYear2013 = [
   },
   {
     "NAF Nr": "13561",
-    "NAF Name": "Matt_le_Fou",
+    "NAF Name": "Tilana",
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 219.22134829666976,
@@ -25228,7 +25228,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 138.53546058904203,
     "bestRating": 154.7135585238765,
@@ -33209,7 +33209,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 162.87612484215978,
     "bestRating": 162.87612484215978,
@@ -35197,7 +35197,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "17165",
     "NAF Name": "Herodes",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "rating": 149.45764492908683,
     "bestRating": 149.45764492908683,
@@ -54820,7 +54820,7 @@ const statsYear2013 = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "rating": 127.96644396458285,
     "bestRating": 159.75943788900162,

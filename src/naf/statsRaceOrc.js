@@ -40513,7 +40513,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -49751,7 +49751,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -65724,7 +65724,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -71930,7 +71930,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -77862,7 +77862,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -78314,7 +78314,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -85149,7 +85149,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "22681",
     "NAF Name": "Begoter",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -98207,7 +98207,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "24802",
     "NAF Name": "grymloq",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -98405,7 +98405,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "24829",
     "NAF Name": "egiablacks",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -98989,7 +98989,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "24902",
     "NAF Name": "Anderworld",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -99070,7 +99070,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "24909",
     "NAF Name": "Chucksters",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -109072,7 +109072,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -111265,7 +111265,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "26819",
     "NAF Name": "Aitatxu",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -121930,7 +121930,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "28935",
     "NAF Name": "Miguis",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -126298,6 +126298,31 @@ const statsRaceOrc = [
       150.1504156670744
     ],
     "tendency": 0.15041566707441234
+  },
+  {
+    "NAF Nr": "29993",
+    "NAF Name": "wilhelm",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 87.5,
+    "rating": 164.50324567631327,
+    "bestRating": 164.50324567631327,
+    "worstRating": 150.1118611877034,
+    "_lastTenRatings": [
+      150.1118611877034,
+      155.3698375745449,
+      160.04499755636022,
+      164.50324567631327
+    ],
+    "tendency": 14.391384488609873
   },
   {
     "NAF Nr": "30008",
@@ -131654,7 +131679,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "31295",
     "NAF Name": "Mateillo",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -141274,27 +141299,29 @@ const statsRaceOrc = [
     "Country": "France",
     "raceId": "1",
     "raceName": "Orc",
-    "gamesTotal": 8,
-    "gamesWon": 5,
-    "gamesDraw": 2,
-    "gamesLost": 1,
+    "gamesTotal": 13,
+    "gamesWon": 8,
+    "gamesDraw": 3,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 2,
-    "winRatio": 75,
-    "rating": 167.23349395313457,
-    "bestRating": 172.46170847638157,
+    "totalTournaments": 3,
+    "winRatio": 73.08,
+    "rating": 173.6158226223312,
+    "bestRating": 178.72285533292668,
     "worstRating": 150,
     "_lastTenRatings": [
-      150,
-      155.0764269278088,
-      158.76282044666104,
       163.37812897433477,
       167.66949964255662,
       167.569554825353,
       172.46170847638157,
-      167.23349395313457
+      167.23349395313457,
+      171.11751759727088,
+      174.78784576423686,
+      178.72285533292668,
+      178.15590672357183,
+      173.6158226223312
     ],
-    "tendency": 17.23349395313457
+    "tendency": 10.237693647996423
   },
   {
     "NAF Nr": "33327",
@@ -154161,7 +154188,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "37022",
     "NAF Name": "Cortezon",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -156293,7 +156320,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "37929",
     "NAF Name": "chusman",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -162327,6 +162354,32 @@ const statsRaceOrc = [
       142.79424446276033
     ],
     "tendency": -6.3123200026570885
+  },
+  {
+    "NAF Nr": "40552",
+    "NAF Name": "Novamarines",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 10,
+    "rating": 133.11346541818907,
+    "bestRating": 150,
+    "worstRating": 133.11346541818907,
+    "_lastTenRatings": [
+      150,
+      145.6358879280688,
+      141.9235518778205,
+      137.61513709546136,
+      133.11346541818907
+    ],
+    "tendency": -16.886534581810935
   },
   {
     "NAF Nr": "40599",

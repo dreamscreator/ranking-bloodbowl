@@ -4795,7 +4795,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "28",
     "raceName": "Old World Alliance",
@@ -7654,7 +7654,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "20669",
     "NAF Name": "Ini_cochambroso",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "28",
     "raceName": "Old World Alliance",
@@ -8817,7 +8817,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "28",
     "raceName": "Old World Alliance",
@@ -8900,7 +8900,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "raceId": "28",
     "raceName": "Old World Alliance",
@@ -13412,7 +13412,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "26404",
     "NAF Name": "Pokegor",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "28",
     "raceName": "Old World Alliance",
@@ -13899,7 +13899,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "26819",
     "NAF Name": "Aitatxu",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "28",
     "raceName": "Old World Alliance",
@@ -15772,7 +15772,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "28866",
     "NAF Name": "Berhane",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "raceId": "28",
     "raceName": "Old World Alliance",
@@ -19403,7 +19403,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "32299",
     "NAF Name": "mike_bowl",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Undisclosed",
     "raceId": "28",
     "raceName": "Old World Alliance",
@@ -21593,7 +21593,7 @@ const statsRaceOld_World_Alliance = [
   {
     "NAF Nr": "34882",
     "NAF Name": "Soldurius",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "raceId": "28",
     "raceName": "Old World Alliance",
@@ -21976,29 +21976,29 @@ const statsRaceOld_World_Alliance = [
     "Country": "France",
     "raceId": "28",
     "raceName": "Old World Alliance",
-    "gamesTotal": 25,
-    "gamesWon": 8,
+    "gamesTotal": 30,
+    "gamesWon": 10,
     "gamesDraw": 9,
-    "gamesLost": 8,
+    "gamesLost": 11,
     "totalWinRatio": 0,
-    "totalTournaments": 5,
-    "winRatio": 50,
-    "rating": 151.88269875850696,
+    "totalTournaments": 6,
+    "winRatio": 48.33,
+    "rating": 147.34896477524552,
     "bestRating": 160.04071312765433,
     "worstRating": 141.9635739689913,
     "_lastTenRatings": [
-      147.4112272469853,
-      147.5116601015906,
-      147.66214540300427,
-      148.11875542747197,
-      143.06444289168257,
       149.35235609340782,
       149.84125064717634,
       157.61806700499776,
       152.8593596357577,
-      151.88269875850696
+      151.88269875850696,
+      147.34594383202602,
+      151.87507901462396,
+      156.28300310906457,
+      151.7712447302388,
+      147.34896477524552
     ],
-    "tendency": 4.471471511521656
+    "tendency": -2.0033913181623006
   },
   {
     "NAF Nr": "35649",

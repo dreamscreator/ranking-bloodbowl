@@ -6617,7 +6617,7 @@ const statsYear2020 = [
     "NAF Nr": "10677",
     "NAF Name": "Wulfgar",
     "CCAA": "Apatrida",
-    "Country": "",
+    "Country": "Germany",
     "rating": 153.40777013597256,
     "bestRating": 153.40777013597256,
     "worstRating": 145.41742430504416,
@@ -7645,7 +7645,7 @@ const statsYear2020 = [
   },
   {
     "NAF Nr": "12145",
-    "NAF Name": "lunchmoney",
+    "NAF Name": "Lunchmoney",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 154.53032775386342,
@@ -9183,7 +9183,7 @@ const statsYear2020 = [
   },
   {
     "NAF Nr": "13561",
-    "NAF Name": "Matt_le_Fou",
+    "NAF Name": "Tilana",
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 154.37583891749395,
@@ -9916,7 +9916,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "14233",
     "NAF Name": "Thantalas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 166.86401428500085,
     "bestRating": 166.86401428500085,
@@ -19336,7 +19336,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "rating": 168.02722668477594,
     "bestRating": 172.72929508542214,
@@ -26326,7 +26326,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "21596",
     "NAF Name": "APOSTOL_DEL_GAS",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 159.01677161520354,
     "bestRating": 159.7414846764694,
@@ -26608,7 +26608,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "21652",
     "NAF Name": "yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "rating": 148.53499913379426,
     "bestRating": 161.7713446531584,
@@ -30599,7 +30599,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "22681",
     "NAF Name": "Begoter",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 144.4348805877133,
     "bestRating": 155.80407843637647,
@@ -44261,7 +44261,7 @@ const statsYear2020 = [
     "NAF Nr": "25725",
     "NAF Name": "SkraggDave",
     "CCAA": "Apatrida",
-    "Country": "England",
+    "Country": "Scotland",
     "rating": 170.6994826257053,
     "bestRating": 172.32151737805734,
     "worstRating": 154.53235521432424,
@@ -61024,7 +61024,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "28866",
     "NAF Name": "Berhane",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 167.50952284253685,
     "bestRating": 168.38719920256906,
@@ -66946,7 +66946,7 @@ const statsYear2020 = [
     "NAF Nr": "29437",
     "NAF Name": "WolfKahn",
     "CCAA": "Apatrida",
-    "Country": "South Africa",
+    "Country": "Ireland",
     "rating": 145.98177624939078,
     "bestRating": 146.25834261322606,
     "worstRating": 142.21581166254876,
