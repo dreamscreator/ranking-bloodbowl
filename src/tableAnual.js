@@ -1,9 +1,9 @@
-// exportTable_AnualGlobal.js (NAF Mundial - Anual)
-// Añadido: Ordenación por botones (estilo Streaks) + Paginación (25 por página)
+﻿// exportTable_AnualGlobal.js (NAF Mundial - Anual)
+// AÃ±adido: OrdenaciÃ³n por botones (estilo Streaks) + PaginaciÃ³n (25 por pÃ¡gina)
 //
 // Carga los statsYearYYYY.js desde "src/naf", filtra games>0,
-// filtros: NAF, entrenador, año, país, WR, Partidos,
-// calcula rankYear (global por año) y rankCountry (por país dentro del año),
+// filtros: NAF, entrenador, aÃ±o, paÃ­s, WR, Partidos,
+// calcula rankYear (global por aÃ±o) y rankCountry (por paÃ­s dentro del aÃ±o),
 // y ahora permite ordenar por columnas + paginar.
 
 const START_YEAR = 2008;
@@ -20,10 +20,10 @@ document.addEventListener("DOMContentLoaded", () => {
   const gamesMinFilter = document.getElementById("gamesMinFilter");
   const gamesMaxFilter = document.getElementById("gamesMaxFilter");
 
-  // ===== Ordenación por botones =====
+  // ===== OrdenaciÃ³n por botones =====
   const sortBar = document.getElementById("sortButtons");
   const validSortKeys = new Set(["rankYear", "rankCountry", "tournaments", "games", "winRatio", "rating"]);
-  let sortState = { key: null, dir: "desc" }; // sin botón => rankYear asc
+  let sortState = { key: null, dir: "desc" }; // sin botÃ³n => rankYear asc
 
   function setSort(key) {
     if (!validSortKeys.has(key)) return;
@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
       sortState.dir = sortState.dir === "desc" ? "asc" : "desc";
     } else {
       sortState.key = key;
-      sortState.dir = "desc"; // primera pulsación descendente
+      sortState.dir = "desc"; // primera pulsaciÃ³n descendente
     }
     currentPage = 1;
     applyFilters();
@@ -46,9 +46,9 @@ document.addEventListener("DOMContentLoaded", () => {
       const isActive = sortState.key === key;
       btn.classList.toggle("btn-primary", isActive);
       btn.classList.toggle("btn-outline-primary", !isActive);
-      const base = btn.dataset.label || btn.textContent.replace(/\s*[▲▼]$/, "");
+      const base = btn.dataset.label || btn.textContent.replace(/\s*[â–²â–¼]$/, "");
       btn.dataset.label = base;
-      btn.textContent = isActive ? `${base} ${sortState.dir === "desc" ? "▼" : "▲"}` : base;
+      btn.textContent = isActive ? `${base} ${sortState.dir === "desc" ? "â–¼" : "â–²"}` : base;
     });
   }
 
@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // ===== Paginación =====
+  // ===== PaginaciÃ³n =====
   const PAGE_SIZE = 25;
   let currentPage = 1;
   let lastFiltered = [];
@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (container) return container;
     container = document.createElement("nav");
     container.id = "pagination";
-    container.className = "mt-3";
+    container.className = "mt-3 d-flex justify-content-center";
     table.parentElement.appendChild(container);
     return container;
   }
@@ -107,15 +107,21 @@ document.addEventListener("DOMContentLoaded", () => {
       return li;
     }
 
-    ul.appendChild(makeItem("«", 1, currentPage === 1));
-    ul.appendChild(makeItem("‹", Math.max(1, currentPage - 1), currentPage === 1));
+    ul.appendChild(makeItem("\u00AB", 1, currentPage === 1));
+    ul.appendChild(makeItem("\u2039", Math.max(1, currentPage - 1), currentPage === 1));
 
-    for (let p = 1; p <= totalPages; p++) {
+    let startP = Math.max(1, currentPage - 4);
+    let endP = Math.min(totalPages, startP + 8);
+    if (endP - startP < 8) {
+        startP = Math.max(1, endP - 8);
+    }
+
+    for (let p = startP; p <= endP; p++) {
       ul.appendChild(makeItem(String(p), p, false, p === currentPage));
     }
 
-    ul.appendChild(makeItem("›", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
-    ul.appendChild(makeItem("»", totalPages, currentPage === totalPages));
+    ul.appendChild(makeItem("\u203A", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
+    ul.appendChild(makeItem("\u00BB", totalPages, currentPage === totalPages));
 
     container.appendChild(ul);
   }
@@ -133,7 +139,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return rows.slice(start, start + PAGE_SIZE);
   }
 
-  // ===== Años =====
+  // ===== AÃ±os =====
   const currentYear = new Date().getFullYear();
   const availableYears = [];
   for (let y = START_YEAR; y <= currentYear; y++) {
@@ -141,7 +147,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
   availableYears.sort((a, b) => b - a);
 
-  // Poblar selector de año
+  // Poblar selector de aÃ±o
   yearFilter.innerHTML = availableYears.map((y) => `<option value="${y}">${y}</option>`).join("");
 
   const yearData = {};
@@ -157,7 +163,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  // Carga dinámica de scripts de datos por año (o reutiliza si ya están en el HTML)
+  // Carga dinÃ¡mica de scripts de datos por aÃ±o (o reutiliza si ya estÃ¡n en el HTML)
   availableYears.forEach((year) => {
     const srcPath = `src/naf/statsYear${year}.js`;
     const existingScript = Array.from(document.getElementsByTagName("script")).find(
@@ -189,7 +195,7 @@ document.addEventListener("DOMContentLoaded", () => {
   function initializeTable() {
     allRows = [];
 
-    // Unificar filas de todos los años
+    // Unificar filas de todos los aÃ±os
     Object.entries(yearData).forEach(([year, data]) => {
       data.forEach((item) => {
         const games = item.gamesTotal || 0;
@@ -210,7 +216,7 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     });
 
-    // Ranking por año
+    // Ranking por aÃ±o
     const byYear = allRows.reduce((acc, row) => {
       (acc[row.year] = acc[row.year] || []).push(row);
       return acc;
@@ -222,7 +228,7 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     });
 
-    // Ranking por País dentro del año
+    // Ranking por PaÃ­s dentro del aÃ±o
     const byYearCountry = {};
     allRows.forEach((row) => {
       const key = `${row.year}|${row.country}`;
@@ -235,12 +241,12 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     });
 
-    // Población de filtros
+    // PoblaciÃ³n de filtros
     populateCountry();
     populateWinRatio();
     populateGames();
 
-    // Listeners (resetean a página 1)
+    // Listeners (resetean a pÃ¡gina 1)
     [nafFilter, coachFilter].forEach((el) => el.addEventListener("input", () => { currentPage = 1; applyFilters(); }));
     [yearFilter, countryFilter, wrMinFilter, wrMaxFilter, gamesMinFilter, gamesMaxFilter]
       .forEach((el) => el.addEventListener("change", () => { currentPage = 1; applyFilters(); }));
@@ -297,14 +303,14 @@ document.addEventListener("DOMContentLoaded", () => {
       return true;
     });
 
-    // Ordenación
+    // OrdenaciÃ³n
     if (sortState.key) {
       sortByKey(filtered, sortState.key, sortState.dir);
     } else {
-      filtered.sort((a, b) => a.rankYear - b.rankYear); // por defecto: posición general asc
+      filtered.sort((a, b) => a.rankYear - b.rankYear); // por defecto: posiciÃ³n general asc
     }
 
-    // Paginación
+    // PaginaciÃ³n
     lastFiltered = filtered;
     const totalPages = Math.max(1, Math.ceil(lastFiltered.length / PAGE_SIZE));
     currentPage = Math.min(currentPage || 1, totalPages);
@@ -343,3 +349,5 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 });
+
+

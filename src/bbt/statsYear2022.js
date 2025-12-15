@@ -1,7 +1,7 @@
-const statsYear2022 = [
+const statsYear2022Bbt = [
   {
     "NAF Nr": "9",
-    "NAF Name": "Zurgal",
+    "NAF Name": "Non-NAF",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 97.13563024284508,
@@ -861,7 +861,7 @@ const statsYear2022 = [
   {
     "NAF Nr": "37929",
     "NAF Name": "Chusman",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "rating": 160.95322127682346,
     "bestRating": 160.95322127682346,
@@ -4326,7 +4326,7 @@ const statsYear2022 = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "rating": 150.1552892880497,
     "bestRating": 155.65685424949237,

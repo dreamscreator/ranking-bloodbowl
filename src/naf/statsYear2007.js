@@ -98,6 +98,15 @@ const statsYear2007 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 70.83,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.47722557505165,
       160.9447769612516,
@@ -233,6 +242,15 @@ const statsYear2007 = [
     "gamesLost": 18,
     "gamesTotal": 70,
     "winRatio": 62.86,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       203.89481073127936,
       209.27254216784064,
@@ -392,6 +410,15 @@ const statsYear2007 = [
     "gamesLost": 11,
     "gamesTotal": 42,
     "winRatio": 67.86,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       200.25248757531577,
       198.47223687271122,
@@ -420,6 +447,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 15,
     "winRatio": 63.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       157.03236004096178,
       162.12117096081653,
@@ -594,6 +630,15 @@ const statsYear2007 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.10521733898509,
       158.47013749842517,
@@ -674,6 +719,15 @@ const statsYear2007 = [
     "gamesLost": 10,
     "gamesTotal": 45,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       188.82888332741226,
       187.66621991169393,
@@ -689,7 +743,7 @@ const statsYear2007 = [
   },
   {
     "NAF Nr": "129",
-    "NAF Name": "jelmer",
+    "NAF Name": "Jelmer",
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 151.84923485102274,
@@ -702,6 +756,15 @@ const statsYear2007 = [
     "gamesLost": 20,
     "gamesTotal": 50,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.11816874200179,
       143.6921505494861,
@@ -888,6 +951,15 @@ const statsYear2007 = [
     "gamesLost": 13,
     "gamesTotal": 60,
     "winRatio": 67.5,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       228.4755449927892,
       232.3071776742539,
@@ -944,6 +1016,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 15,
     "winRatio": 56.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.43227400909475,
       154.95196591024046,
@@ -1000,6 +1081,15 @@ const statsYear2007 = [
     "gamesLost": 8,
     "gamesTotal": 19,
     "winRatio": 47.37,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.57164603402043,
       149.77667385776266,
@@ -1309,6 +1399,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 19,
     "winRatio": 68.42,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       181.33224227583756,
       186.15629537007578,
@@ -1488,6 +1587,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 9,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       143.0194006061635,
       136.65129190121797,
@@ -1646,6 +1754,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 24,
     "winRatio": 68.75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       178.86754728308435,
       184.92481016498283,
@@ -1727,6 +1844,15 @@ const statsYear2007 = [
     "gamesLost": 8,
     "gamesTotal": 13,
     "winRatio": 34.62,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.66061437886054,
       145.1564122024491,
@@ -1808,6 +1934,15 @@ const statsYear2007 = [
     "gamesLost": 1,
     "gamesTotal": 12,
     "winRatio": 79.17,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       167.84290378519654,
       173.60657697342992,
@@ -1879,6 +2014,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 18,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       164.62035961003912,
       167.70287892478467,
@@ -2138,6 +2282,15 @@ const statsYear2007 = [
     "gamesLost": 10,
     "gamesTotal": 37,
     "winRatio": 63.51,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       191.0156243384968,
       196.4005935991835,
@@ -2166,6 +2319,15 @@ const statsYear2007 = [
     "gamesLost": 8,
     "gamesTotal": 26,
     "winRatio": 59.62,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       180.0084174449132,
       182.96472426698332,
@@ -2320,6 +2482,15 @@ const statsYear2007 = [
     "gamesLost": 11,
     "gamesTotal": 39,
     "winRatio": 60.26,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       173.65825435671692,
       164.15907128064677,
@@ -2376,6 +2547,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 25,
     "winRatio": 70,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       188.54228928126307,
       194.38382400603152,
@@ -2432,6 +2612,15 @@ const statsYear2007 = [
     "gamesLost": 0,
     "gamesTotal": 5,
     "winRatio": 90,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       162.22329403886593,
@@ -2455,6 +2644,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 18,
     "winRatio": 63.89,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       172.07653354654087,
       165.7099824082912,
@@ -2669,6 +2867,15 @@ const statsYear2007 = [
     "gamesLost": 7,
     "gamesTotal": 38,
     "winRatio": 69.74,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       188.73715409296372,
       186.9930298741965,
@@ -2697,6 +2904,15 @@ const statsYear2007 = [
     "gamesLost": 18,
     "gamesTotal": 28,
     "winRatio": 30.36,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       102.99219137002709,
       98.26094912056064,
@@ -2753,6 +2969,15 @@ const statsYear2007 = [
     "gamesLost": 11,
     "gamesTotal": 48,
     "winRatio": 69.79,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       198.94731620338908,
       203.4821385316724,
@@ -2934,6 +3159,15 @@ const statsYear2007 = [
     "gamesLost": 3,
     "gamesTotal": 14,
     "winRatio": 64.29,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       171.00847164111383,
       176.06229292096728,
@@ -3092,6 +3326,15 @@ const statsYear2007 = [
     "gamesLost": 0,
     "gamesTotal": 5,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.82842712474618,
       155.65526407178652,
@@ -3115,6 +3358,15 @@ const statsYear2007 = [
     "gamesLost": 9,
     "gamesTotal": 27,
     "winRatio": 57.41,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       167.7602004355551,
       170.2754029986322,
@@ -3171,6 +3423,15 @@ const statsYear2007 = [
     "gamesLost": 11,
     "gamesTotal": 39,
     "winRatio": 57.69,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       175.3442114346017,
       181.67642894190897,
@@ -3254,6 +3515,15 @@ const statsYear2007 = [
     "gamesLost": 9,
     "gamesTotal": 30,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       179.53923310855353,
       178.809379384441,
@@ -3310,6 +3580,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 33,
     "winRatio": 65.15,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       183.25262033775476,
       181.85420137604956,
@@ -3545,6 +3824,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 18,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       179.36640247207836,
       184.1996047346168,
@@ -3657,6 +3945,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 20,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.65535636444883,
       153.8548638388345,
@@ -3777,6 +4074,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 11,
     "winRatio": 36.36,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.87923792681707,
       149.57547251148864,
@@ -3877,6 +4183,15 @@ const statsYear2007 = [
     "gamesLost": 20,
     "gamesTotal": 64,
     "winRatio": 61.72,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       158.28777766126402,
       163.91376074716166,
@@ -3933,6 +4248,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       143.15945827479348,
       142.8929081911009,
@@ -3961,6 +4285,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 15,
     "winRatio": 63.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       164.89217879387274,
       157.0661635531636,
@@ -4017,6 +4350,15 @@ const statsYear2007 = [
     "gamesLost": 6,
     "gamesTotal": 22,
     "winRatio": 63.64,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       165.70200254331627,
       158.42220383883935,
@@ -4100,6 +4442,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.04229641693888,
       149.97728998749935,
@@ -4124,6 +4475,15 @@ const statsYear2007 = [
     "gamesLost": 8,
     "gamesTotal": 17,
     "winRatio": 44.12,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.7007254477066,
       149.3766476097051,
@@ -4152,6 +4512,15 @@ const statsYear2007 = [
     "gamesLost": 12,
     "gamesTotal": 65,
     "winRatio": 69.23,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       221.07346417016734,
       211.68299056850762,
@@ -4208,6 +4577,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 16,
     "winRatio": 53.13,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       139.19623243524214,
       144.9118229847664,
@@ -4316,6 +4694,15 @@ const statsYear2007 = [
     "gamesLost": 15,
     "gamesTotal": 54,
     "winRatio": 57.41,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       163.71589622629077,
       171.76331104975847,
@@ -4514,6 +4901,15 @@ const statsYear2007 = [
     "gamesLost": 17,
     "gamesTotal": 40,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       161.83198016943692,
       166.48327871239616,
@@ -4583,6 +4979,15 @@ const statsYear2007 = [
     "gamesLost": 11,
     "gamesTotal": 61,
     "winRatio": 73.77,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       223.23481926458047,
       229.76482620480192,
@@ -4880,6 +5285,15 @@ const statsYear2007 = [
     "gamesLost": 23,
     "gamesTotal": 86,
     "winRatio": 61.05,
+    "trophies": {
+      "winner": 3,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       200.8250396767081,
       209.28892481731245,
@@ -4964,6 +5378,15 @@ const statsYear2007 = [
     "gamesLost": 0,
     "gamesTotal": 15,
     "winRatio": 86.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       179.45733764304651,
       177.24387848652702,
@@ -4992,6 +5415,15 @@ const statsYear2007 = [
     "gamesLost": 13,
     "gamesTotal": 63,
     "winRatio": 68.25,
+    "trophies": {
+      "winner": 3,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       194.9776482148777,
       184.65904284147882,
@@ -5020,6 +5452,15 @@ const statsYear2007 = [
     "gamesLost": 12,
     "gamesTotal": 39,
     "winRatio": 60.26,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       165.52121465171513,
       173.02283981611941,
@@ -5048,6 +5489,15 @@ const statsYear2007 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.30685461577514,
       156.09305335092728,
@@ -5287,6 +5737,15 @@ const statsYear2007 = [
     "gamesLost": 3,
     "gamesTotal": 9,
     "winRatio": 55.56,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       142.32280979061184,
       151.43003438861723,
@@ -5314,6 +5773,15 @@ const statsYear2007 = [
     "gamesLost": 9,
     "gamesTotal": 41,
     "winRatio": 73.17,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       212.93529373657992,
       204.47140859597556,
@@ -5444,6 +5912,15 @@ const statsYear2007 = [
     "gamesLost": 0,
     "gamesTotal": 9,
     "winRatio": 88.89,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       157.94899559682867,
       158.51057627678696,
@@ -5471,6 +5948,15 @@ const statsYear2007 = [
     "gamesLost": 27,
     "gamesTotal": 58,
     "winRatio": 48.28,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       160.76457636769965,
       152.38008105055013,
@@ -5499,6 +5985,15 @@ const statsYear2007 = [
     "gamesLost": 7,
     "gamesTotal": 23,
     "winRatio": 63.04,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       172.4516931466201,
       180.54628468921754,
@@ -5579,6 +6074,15 @@ const statsYear2007 = [
     "gamesLost": 3,
     "gamesTotal": 21,
     "winRatio": 78.57,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       183.3267093125684,
       188.32973431262994,
@@ -5735,6 +6239,15 @@ const statsYear2007 = [
     "gamesLost": 10,
     "gamesTotal": 21,
     "winRatio": 40.48,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       117.35496330332309,
       129.99972064232384,
@@ -5763,6 +6276,15 @@ const statsYear2007 = [
     "gamesLost": 17,
     "gamesTotal": 24,
     "winRatio": 20.83,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       99.59843110360998,
       105.57246332263172,
@@ -5952,6 +6474,15 @@ const statsYear2007 = [
     "gamesLost": 2,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.16994741037405,
       149.99840982230552,
@@ -5975,6 +6506,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 43.75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.47388520073895,
       150.40735544143666,
@@ -6191,6 +6731,15 @@ const statsYear2007 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.69500108384383,
       150.7144487563516,
@@ -6307,6 +6856,15 @@ const statsYear2007 = [
     "gamesLost": 12,
     "gamesTotal": 44,
     "winRatio": 57.95,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 2,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       169.1238236233278,
       170.28648703904614,
@@ -6335,6 +6893,15 @@ const statsYear2007 = [
     "gamesLost": 16,
     "gamesTotal": 39,
     "winRatio": 48.72,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.3053203567516,
       161.0639395324726,
@@ -6443,6 +7010,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 21,
     "winRatio": 69.05,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       159.34676611243765,
       151.04606221212575,
@@ -6551,6 +7127,15 @@ const statsYear2007 = [
     "gamesLost": 2,
     "gamesTotal": 18,
     "winRatio": 77.78,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       157.2228816929354,
       161.19307691964053,
@@ -6628,6 +7213,15 @@ const statsYear2007 = [
     "gamesLost": 0,
     "gamesTotal": 5,
     "winRatio": 80,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.64831146450922,
       156.11535551914974,
@@ -7050,6 +7644,15 @@ const statsYear2007 = [
     "gamesLost": 9,
     "gamesTotal": 32,
     "winRatio": 65.63,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       179.68134296869266,
       170.28427909553915,
@@ -7127,6 +7730,15 @@ const statsYear2007 = [
     "gamesLost": 10,
     "gamesTotal": 35,
     "winRatio": 48.57,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       152.12778870897537,
       159.74726430679988,
@@ -7207,6 +7819,15 @@ const statsYear2007 = [
     "gamesLost": 6,
     "gamesTotal": 43,
     "winRatio": 77.91,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       218.84516003357524,
       223.08587822954152,
@@ -7317,6 +7938,15 @@ const statsYear2007 = [
     "gamesLost": 3,
     "gamesTotal": 18,
     "winRatio": 77.78,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       180.923214078094,
       185.84284223351486,
@@ -7345,6 +7975,15 @@ const statsYear2007 = [
     "gamesLost": 14,
     "gamesTotal": 24,
     "winRatio": 37.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       139.6284952542846,
       134.76844000565347,
@@ -7477,6 +8116,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 17,
     "winRatio": 52.94,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.52657608542532,
       149.86485375237905,
@@ -7688,6 +8336,15 @@ const statsYear2007 = [
     "gamesLost": 11,
     "gamesTotal": 23,
     "winRatio": 47.83,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.92390760050986,
       151.22032527261695,
@@ -7772,6 +8429,15 @@ const statsYear2007 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 77.78,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.5591633577182,
@@ -7853,6 +8519,15 @@ const statsYear2007 = [
     "gamesLost": 8,
     "gamesTotal": 29,
     "winRatio": 62.07,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       165.6476314341399,
       162.593849346758,
@@ -7881,6 +8556,15 @@ const statsYear2007 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.36876473764667,
       144.08424859114984,
@@ -7905,6 +8589,15 @@ const statsYear2007 = [
     "gamesLost": 21,
     "gamesTotal": 36,
     "winRatio": 30.56,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       125.02341641740287,
       116.79377553601496,
@@ -8004,6 +8697,15 @@ const statsYear2007 = [
     "gamesLost": 15,
     "gamesTotal": 58,
     "winRatio": 65.52,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       179.10772408991673,
       185.5983523002019,
@@ -8060,6 +8762,15 @@ const statsYear2007 = [
     "gamesLost": 9,
     "gamesTotal": 39,
     "winRatio": 64.1,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       182.97349844973292,
       187.49599793688049,
@@ -8088,6 +8799,15 @@ const statsYear2007 = [
     "gamesLost": 8,
     "gamesTotal": 37,
     "winRatio": 68.92,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       181.59821528296663,
       185.04032754135145,
@@ -8256,6 +8976,15 @@ const statsYear2007 = [
     "gamesLost": 7,
     "gamesTotal": 23,
     "winRatio": 58.7,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.2050933128123,
       158.3855797598325,
@@ -8336,6 +9065,15 @@ const statsYear2007 = [
     "gamesLost": 10,
     "gamesTotal": 52,
     "winRatio": 69.23,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       203.53456204376246,
       208.4606874106203,
@@ -8435,6 +9173,15 @@ const statsYear2007 = [
     "gamesLost": 15,
     "gamesTotal": 69,
     "winRatio": 64.49,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 3,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       214.47939003531494,
       201.83463269631417,
@@ -8482,6 +9229,15 @@ const statsYear2007 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.6997455380898,
       144.93693121951426,
@@ -8504,6 +9260,15 @@ const statsYear2007 = [
     "gamesLost": 12,
     "gamesTotal": 62,
     "winRatio": 66.94,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       195.13928214120517,
       199.55818949412128,
@@ -8603,6 +9368,15 @@ const statsYear2007 = [
     "gamesLost": 3,
     "gamesTotal": 9,
     "winRatio": 44.44,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       151.1964290843748,
@@ -8654,6 +9428,15 @@ const statsYear2007 = [
     "gamesLost": 7,
     "gamesTotal": 24,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       171.2188233128232,
       170.51932067131025,
@@ -8706,6 +9489,15 @@ const statsYear2007 = [
     "gamesLost": 16,
     "gamesTotal": 30,
     "winRatio": 40,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       122.28465056107783,
       118.03306964621414,
@@ -8814,6 +9606,15 @@ const statsYear2007 = [
     "gamesLost": 8,
     "gamesTotal": 12,
     "winRatio": 25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       145.75469912690033,
       141.5245291064283,
@@ -8941,6 +9742,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 21,
     "winRatio": 78.57,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       180.40442326377027,
       175.44742770518596,
@@ -9020,6 +9830,15 @@ const statsYear2007 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 72.22,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       157.74596669241484,
       165.48217927104957,
@@ -9047,6 +9866,15 @@ const statsYear2007 = [
     "gamesLost": 6,
     "gamesTotal": 17,
     "winRatio": 55.88,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       174.66485841930137,
       180.0546553031391,
@@ -9408,6 +10236,15 @@ const statsYear2007 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       159.84143703603456,
       152.05534706615984,
@@ -9742,6 +10579,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 45.83,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154.45960728562576,
       149.50645584308225,
@@ -9795,6 +10641,15 @@ const statsYear2007 = [
     "gamesLost": 7,
     "gamesTotal": 23,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.0079244086201,
       155.06726423517804,
@@ -9823,6 +10678,15 @@ const statsYear2007 = [
     "gamesLost": 1,
     "gamesTotal": 11,
     "winRatio": 77.27,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       161.29151219999997,
       166.35145751587444,
@@ -10089,6 +10953,15 @@ const statsYear2007 = [
     "gamesLost": 6,
     "gamesTotal": 12,
     "winRatio": 45.83,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       138.67563436416575,
@@ -10365,6 +11238,15 @@ const statsYear2007 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.69041575982342,
       154.6818165767578,
@@ -10413,6 +11295,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.67134683342712,
       162.28372543385115,
@@ -10656,6 +11547,15 @@ const statsYear2007 = [
     "gamesLost": 15,
     "gamesTotal": 24,
     "winRatio": 27.08,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       131.06464716388564,
       128.7218494841121,
@@ -10684,6 +11584,15 @@ const statsYear2007 = [
     "gamesLost": 9,
     "gamesTotal": 38,
     "winRatio": 67.11,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       202.06214479490714,
       192.9538191049828,
@@ -10886,6 +11795,15 @@ const statsYear2007 = [
     "gamesLost": 12,
     "gamesTotal": 32,
     "winRatio": 51.56,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       164.8126276000504,
       158.61469090063804,
@@ -11051,6 +11969,15 @@ const statsYear2007 = [
     "gamesLost": 2,
     "gamesTotal": 5,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       150.456384362326,
@@ -11074,6 +12001,15 @@ const statsYear2007 = [
     "gamesLost": 6,
     "gamesTotal": 29,
     "winRatio": 68.97,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       185.43606985883517,
       182.1227574969886,
@@ -11541,6 +12477,15 @@ const statsYear2007 = [
     "gamesLost": 3,
     "gamesTotal": 15,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       178.3046427039091,
       171.83716756508773,
@@ -11592,6 +12537,15 @@ const statsYear2007 = [
     "gamesLost": 14,
     "gamesTotal": 43,
     "winRatio": 61.63,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       186.14578794674443,
       176.30435091070987,
@@ -11862,6 +12816,15 @@ const statsYear2007 = [
     "gamesLost": 25,
     "gamesTotal": 64,
     "winRatio": 47.66,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       148.4985049553213,
       140.39995528936313,
@@ -11959,6 +12922,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 5,
     "winRatio": 10,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.17157287525382,
       144.34311046332235,
@@ -12037,6 +13009,15 @@ const statsYear2007 = [
     "gamesLost": 15,
     "gamesTotal": 42,
     "winRatio": 54.76,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       171.19807021495495,
       162.3072506615022,
@@ -12228,6 +13209,15 @@ const statsYear2007 = [
     "gamesLost": 12,
     "gamesTotal": 42,
     "winRatio": 60.71,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       203.68914813339444,
       212.38774206944268,
@@ -12411,6 +13401,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 11,
     "winRatio": 40.91,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.50193108561888,
       150.4743334896762,
@@ -12513,6 +13512,15 @@ const statsYear2007 = [
     "gamesLost": 9,
     "gamesTotal": 25,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.09385904827846,
       149.77082018896272,
@@ -12613,6 +13621,15 @@ const statsYear2007 = [
     "gamesLost": 16,
     "gamesTotal": 32,
     "winRatio": 37.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       133.7425292176014,
       127.97885602936802,
@@ -12641,6 +13658,15 @@ const statsYear2007 = [
     "gamesLost": 22,
     "gamesTotal": 73,
     "winRatio": 58.22,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       192.17279547824123,
       198.88117344947648,
@@ -12669,6 +13695,15 @@ const statsYear2007 = [
     "gamesLost": 10,
     "gamesTotal": 33,
     "winRatio": 56.06,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       172.7647516238557,
       181.09140663606837,
@@ -12723,6 +13758,15 @@ const statsYear2007 = [
     "gamesLost": 14,
     "gamesTotal": 54,
     "winRatio": 57.41,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       180.22160128605535,
       177.99303346700637,
@@ -12779,6 +13823,15 @@ const statsYear2007 = [
     "gamesLost": 22,
     "gamesTotal": 77,
     "winRatio": 62.34,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       172.53862394752556,
       178.96464214004126,
@@ -12831,6 +13884,15 @@ const statsYear2007 = [
     "gamesLost": 15,
     "gamesTotal": 47,
     "winRatio": 55.32,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       180.03167202226408,
       170.53121077448998,
@@ -12995,6 +14057,15 @@ const statsYear2007 = [
     "gamesLost": 1,
     "gamesTotal": 24,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 5,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       180.22050931998024,
       179.5874365209024,
@@ -13148,6 +14219,15 @@ const statsYear2007 = [
     "gamesLost": 52,
     "gamesTotal": 72,
     "winRatio": 18.75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       56.72476182479797,
       54.31932135019028,
@@ -13305,6 +14385,15 @@ const statsYear2007 = [
     "gamesLost": 10,
     "gamesTotal": 26,
     "winRatio": 46.15,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       138.60412330594087,
       135.94597486951983,
@@ -13445,6 +14534,15 @@ const statsYear2007 = [
     "gamesLost": 3,
     "gamesTotal": 15,
     "winRatio": 73.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       164.6534659196579,
       169.48253470975303,
@@ -13549,6 +14647,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 11,
     "winRatio": 45.45,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.2055626836393,
       151.3740030548529,
@@ -13625,6 +14732,15 @@ const statsYear2007 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 55,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       146.76098457154112,
@@ -13653,6 +14769,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 22,
     "winRatio": 72.73,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       206.3939706358994,
       210.13871976890837,
@@ -13793,6 +14918,15 @@ const statsYear2007 = [
     "gamesLost": 6,
     "gamesTotal": 12,
     "winRatio": 29.17,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.31005441437662,
       145.98668503388737,
@@ -13904,6 +15038,15 @@ const statsYear2007 = [
     "gamesLost": 6,
     "gamesTotal": 18,
     "winRatio": 52.78,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       153.99662355194212,
       151.08086651628645,
@@ -13978,6 +15121,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 16,
     "winRatio": 53.13,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       140.3672121399466,
       135.14744850855797,
@@ -14507,6 +15659,15 @@ const statsYear2007 = [
     "gamesLost": 8,
     "gamesTotal": 34,
     "winRatio": 61.76,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       174.18575098322717,
       165.42679812604368,
@@ -14879,6 +16040,15 @@ const statsYear2007 = [
     "gamesLost": 21,
     "gamesTotal": 38,
     "winRatio": 35.53,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       113.45406181292776,
       120.96158628906835,
@@ -14935,6 +16105,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 28,
     "winRatio": 73.21,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       198.28581309802718,
       188.57197323932488,
@@ -14963,6 +16142,15 @@ const statsYear2007 = [
     "gamesLost": 14,
     "gamesTotal": 39,
     "winRatio": 57.69,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       174.80634664883965,
       178.3396007022611,
@@ -14991,6 +16179,15 @@ const statsYear2007 = [
     "gamesLost": 11,
     "gamesTotal": 23,
     "winRatio": 45.65,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       143.71756534334006,
       136.45251128476113,
@@ -15543,6 +16740,15 @@ const statsYear2007 = [
     "gamesLost": 13,
     "gamesTotal": 31,
     "winRatio": 51.61,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       157.40877512777513,
       153.0470289985758,
@@ -15571,6 +16777,15 @@ const statsYear2007 = [
     "gamesLost": 7,
     "gamesTotal": 19,
     "winRatio": 55.26,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.703269266846,
       139.62527541799503,
@@ -15599,6 +16814,15 @@ const statsYear2007 = [
     "gamesLost": 11,
     "gamesTotal": 40,
     "winRatio": 63.75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       184.94578096290945,
       176.52895267399703,
@@ -15885,6 +17109,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 21,
     "winRatio": 64.29,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       164.32031586531042,
       168.97360488163633,
@@ -15913,6 +17146,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 20,
     "winRatio": 70,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.95846995035168,
       158.64745424416301,
@@ -15993,6 +17235,15 @@ const statsYear2007 = [
     "gamesLost": 7,
     "gamesTotal": 21,
     "winRatio": 59.52,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       164.44485725811322,
       174.15869711681552,
@@ -16181,6 +17432,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       141.55749748948864,
       141.92430781690078,
@@ -16233,6 +17493,15 @@ const statsYear2007 = [
     "gamesLost": 11,
     "gamesTotal": 48,
     "winRatio": 69.79,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       213.7617984207885,
       219.7940094129603,
@@ -16289,6 +17558,15 @@ const statsYear2007 = [
     "gamesLost": 0,
     "gamesTotal": 5,
     "winRatio": 90,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.0682536402513,
@@ -16536,6 +17814,15 @@ const statsYear2007 = [
     "gamesLost": 14,
     "gamesTotal": 24,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       137.82884782362373,
       137.83965997179058,
@@ -16564,6 +17851,15 @@ const statsYear2007 = [
     "gamesLost": 3,
     "gamesTotal": 5,
     "winRatio": 40,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       149.75454514126653,
@@ -16657,6 +17953,15 @@ const statsYear2007 = [
     "gamesLost": 7,
     "gamesTotal": 12,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       138.2492902459335,
       142.47946026640554,
@@ -16782,6 +18087,15 @@ const statsYear2007 = [
     "gamesLost": 1,
     "gamesTotal": 9,
     "winRatio": 72.22,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       150.24545485873347,
@@ -17491,6 +18805,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 21,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       165.02021004771385,
       160.73715682408124,
@@ -17519,6 +18842,15 @@ const statsYear2007 = [
     "gamesLost": 6,
     "gamesTotal": 33,
     "winRatio": 68.18,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       202.6116594272143,
       196.08165248699285,
@@ -17935,6 +19267,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       144.34314575050763,
@@ -18349,6 +19690,15 @@ const statsYear2007 = [
     "gamesLost": 11,
     "gamesTotal": 17,
     "winRatio": 23.53,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       137.7929320653579,
       135.82997910589395,
@@ -18710,6 +20060,15 @@ const statsYear2007 = [
     "gamesLost": 12,
     "gamesTotal": 14,
     "winRatio": 10.71,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       131.9173128787305,
       128.17256374572153,
@@ -18811,6 +20170,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 11,
     "winRatio": 40.91,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       151.29528466501392,
       144.96306715770666,
@@ -18867,6 +20235,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 15,
     "winRatio": 56.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       169.32498012262766,
       161.60230583654536,
@@ -18968,6 +20345,15 @@ const statsYear2007 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154,
       154,
@@ -19161,6 +20547,15 @@ const statsYear2007 = [
     "gamesLost": 6,
     "gamesTotal": 23,
     "winRatio": 60.87,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       158.28633440366278,
       160.9595222796773,
@@ -19189,6 +20584,15 @@ const statsYear2007 = [
     "gamesLost": 7,
     "gamesTotal": 25,
     "winRatio": 54,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.60109567632816,
       158.6692549250423,
@@ -19369,6 +20773,15 @@ const statsYear2007 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 80,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       150.24545485873347,
@@ -19491,6 +20904,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.5591633577182,
@@ -19867,6 +21289,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 24,
     "winRatio": 68.75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       170.8114328559531,
       165.55446507419552,
@@ -20170,6 +21601,15 @@ const statsYear2007 = [
     "gamesLost": 7,
     "gamesTotal": 11,
     "winRatio": 36.36,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       139.8209964032044,
       144.58735250534534,
@@ -20198,6 +21638,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 15,
     "winRatio": 60,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.76158917735714,
       150.86793735340413,
@@ -20619,6 +22068,15 @@ const statsYear2007 = [
     "gamesLost": 8,
     "gamesTotal": 24,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 3,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       169.71676314076362,
       177.43943742684593,
@@ -20713,6 +22171,15 @@ const statsYear2007 = [
     "gamesLost": 8,
     "gamesTotal": 21,
     "winRatio": 54.76,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       169.08321639804544,
       171.96221460264425,
@@ -20998,6 +22465,15 @@ const statsYear2007 = [
     "gamesLost": 7,
     "gamesTotal": 17,
     "winRatio": 55.88,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       160.95072197111222,
       154.90437422831218,
@@ -21404,6 +22880,15 @@ const statsYear2007 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.76936698641953,
       141.77302160159354,
@@ -21455,6 +22940,15 @@ const statsYear2007 = [
     "gamesLost": 3,
     "gamesTotal": 5,
     "winRatio": 40,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       142.25403330758516,
       136.30902809116662,
@@ -21736,6 +23230,15 @@ const statsYear2007 = [
     "gamesLost": 10,
     "gamesTotal": 24,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.016697628748,
       142.31557439744614,
@@ -22347,6 +23850,15 @@ const statsYear2007 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.56776436283002,
       155.77814752830167,
@@ -22854,6 +24366,15 @@ const statsYear2007 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       151.73131295840767,
       152.27225119912202,
@@ -22923,6 +24444,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.5708666098355,
       149.7259508950669,
@@ -22975,6 +24505,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 10,
     "winRatio": 30,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.0773515267903,
       146.04684004943783,
@@ -24385,6 +25924,15 @@ const statsYear2007 = [
     "gamesLost": 5,
     "gamesTotal": 5,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       138.70699967772913,
@@ -24668,6 +26216,15 @@ const statsYear2007 = [
     "gamesLost": 2,
     "gamesTotal": 17,
     "winRatio": 76.47,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       180.1681220122718,
       180.42415562100402,
@@ -24759,7 +26316,7 @@ const statsYear2007 = [
     "NAF Nr": "10677",
     "NAF Name": "Wulfgar",
     "CCAA": "Apatrida",
-    "Country": "",
+    "Country": "Germany",
     "rating": 110.60809913192341,
     "bestRating": 144.39059102512996,
     "worstRating": 110.60809913192341,
@@ -25595,6 +27152,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 15,
     "winRatio": 63.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.68401271474826,
       155.34629822344542,
@@ -26213,6 +27779,15 @@ const statsYear2007 = [
     "gamesLost": 2,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       150.01390832971714,
@@ -26494,6 +28069,15 @@ const statsYear2007 = [
     "gamesLost": 0,
     "gamesTotal": 2,
     "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.16227766016837,
       156.32455532033674
@@ -26514,6 +28098,15 @@ const statsYear2007 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.16227766016837,
       153.08553989187786,
@@ -27371,7 +28964,7 @@ const statsYear2007 = [
     "NAF Nr": "11132",
     "NAF Name": "darthmael",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "rating": 157.53167764945894,
     "bestRating": 160.50205013275436,
     "worstRating": 150.0581278364071,
@@ -28055,6 +29648,15 @@ const statsYear2007 = [
     "gamesLost": 10,
     "gamesTotal": 13,
     "winRatio": 19.23,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       140.38925603100074,
       139.56514710284114,
@@ -28260,6 +29862,15 @@ const statsYear2007 = [
     "gamesLost": 3,
     "gamesTotal": 5,
     "winRatio": 30,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.10732013187285,
       150.55092934349187,
@@ -28433,6 +30044,15 @@ const statsYear2007 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.77693465850555,
       150.75230029876678,
@@ -28622,6 +30242,15 @@ const statsYear2007 = [
     "gamesLost": 0,
     "gamesTotal": 5,
     "winRatio": 90,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.14955473013026,
       160.92254008917237,
@@ -28877,6 +30506,15 @@ const statsYear2007 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 25,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       144.8768154032808,

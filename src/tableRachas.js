@@ -1,4 +1,4 @@
-// tableRachas.js — Rachas NAF con paginación (25/ página)
+﻿// tableRachas.js — Rachas NAF con paginación (25/ página)
 // Lee `streaks` (src/naf/streaks.js), pinta nafStreak.html, ordena por botones del HTML (#sortButtons)
 // e inyecta controles de paginación debajo de la tabla.
 
@@ -134,7 +134,7 @@
       if (container) return container;
       container = document.createElement("nav");
       container.id = "pagination";
-      container.className = "mt-3";
+      container.className = "mt-3 d-flex justify-content-center";
       table.parentElement.appendChild(container);
       return container;
     }
@@ -165,16 +165,16 @@
         return li;
       }
 
-      ul.appendChild(makeItem("«", 1, currentPage === 1));
-      ul.appendChild(makeItem("‹", Math.max(1, currentPage - 1), currentPage === 1));
+      ul.appendChild(makeItem("\u00AB", 1, currentPage === 1));
+      ul.appendChild(makeItem("\u2039", Math.max(1, currentPage - 1), currentPage === 1));
 
       const total = totalPages;
       for (let p = 1; p <= total; p++) {
         ul.appendChild(makeItem(String(p), p, false, p === currentPage));
       }
 
-      ul.appendChild(makeItem("›", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
-      ul.appendChild(makeItem("»", totalPages, currentPage === totalPages));
+      ul.appendChild(makeItem("\u203A", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
+      ul.appendChild(makeItem("\u00BB", totalPages, currentPage === totalPages));
 
       container.appendChild(ul);
     }
@@ -264,3 +264,4 @@
     updateButtonsUI();
   });
 })();
+

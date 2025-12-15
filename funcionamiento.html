@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es">
 
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>¿Cómo funciona? - Blood Bowl Ranking</title>
+  <title>Â¿CÃ³mo funciona? - Blood Bowl Ranking</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
 
   <style>
@@ -40,70 +40,90 @@
             <a class="nav-link" href="index.html" data-i18n="inicio">Inicio</a>
           </li>
 
-          <!-- Funcionamiento -->
+
+
+          <!-- Perfiles -->
           <li class="nav-item">
-            <a class="nav-link" href="funcionamiento.html" data-i18n="rankingComo">¿Cómo funciona?</a>
+            <a class="nav-link" href="profiles.html" data-i18n="perfiles">Perfiles</a>
           </li>
 
-          <!-- Desplegable BBT -->
+          <!-- Desplegable Anual -->
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="submenuBBT" role="button" data-bs-toggle="dropdown"
-              aria-expanded="false">BBT</a>
+            <a class="nav-link dropdown-toggle" href="#" id="submenuAnual" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false" data-i18n="rankingGlobalAnual">Anual</a>
             <ul class="dropdown-menu" aria-labelledby="submenuBBT">
-                <li>
-                    <a class="dropdown-item" href="bbtAnual.html" data-i18n="rankingGlobalAnual">
-                      Anual
-                    </a>
-                  </li>
-                  <li>
-                    <a class="dropdown-item" href="bbtHistorico.html" data-i18n="rankingGlobalHistorico">
-                      Histórico
-                    </a>
-                  </li>
-            </ul>
-          </li>
-
-          <!-- Desplegable NAF España -->
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="submenuNAFES" role="button" data-bs-toggle="dropdown"
-              aria-expanded="false">NAF España</a>
-            <ul class="dropdown-menu" aria-labelledby="submenuNAFES">
               <li>
-                <a class="dropdown-item" href="nafEspanaAnual.html" data-i18n="rankingGlobalAnual">
-                  Anual
+                <a class="dropdown-item" href="nafAnual.html">
+                  NAF
                 </a>
               </li>
               <li>
-                <a class="dropdown-item" href="nafEspanaHistorico.html" data-i18n="rankingGlobalHistorico">
-                  Histórico
+                <a class="dropdown-item" href="nafEspanaAnual.html" data-i18n="nafSpain">
+                  NAF España
                 </a>
               </li>
               <li>
-                <a class="dropdown-item" href="nafEspanaRazas.html" data-i18n="rankingRazasHistorico">
-                  Razas Histórico
+                <a class="dropdown-item" href="bbtAnual.html">
+                  BBT
                 </a>
               </li>
             </ul>
           </li>
 
-          <!-- Desplegable NAF Mundial -->
+          <!-- Desplegable Histórico -->
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="submenuNAFM" role="button" data-bs-toggle="dropdown"
-              aria-expanded="false">NAF</a>
-            <ul class="dropdown-menu" aria-labelledby="submenuNAFM">
+            <a class="nav-link dropdown-toggle" href="#" id="submenuAnual" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false" data-i18n="rankingGlobalHistorico">Histórico</a>
+            <ul class="dropdown-menu" aria-labelledby="submenuBBT">
               <li>
-                <a class="dropdown-item" href="nafAnual.html" data-i18n="rankingGlobalAnual">
-                  Anual
+                <a class="dropdown-item" href="nafHistorico.html">
+                  NAF
                 </a>
               </li>
               <li>
-                <a class="dropdown-item" href="nafHistorico.html" data-i18n="rankingGlobalHistorico">
-                  Histórico
+                <a class="dropdown-item" href="nafEspanaHistorico.html" data-i18n="nafSpain">
+                  NAF España
                 </a>
               </li>
               <li>
-                <a class="dropdown-item" href="nafRazas.html" data-i18n="rankingRazasHistorico">
-                  Razas Histórico
+                <a class="dropdown-item" href="bbtHistorico.html">
+                  BBT
+                </a>
+              </li>
+            </ul>
+          </li>
+
+          <!-- Desplegable Razas Legacy -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="submenuAnual" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false" data-i18n="razas">Razas</a>
+            <ul class="dropdown-menu" aria-labelledby="submenuBBT">
+              <li>
+                <a class="dropdown-item" href="nafRazas.html">
+                  NAF
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="nafEspanaRazas.html" data-i18n="nafSpain">
+                  NAF España
+                </a>
+              </li>
+            </ul>
+          </li>
+
+          <!-- Desplegable Razas BB2025 -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="submenuAnual" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false" data-i18n="razas2025">Razas BB2025</a>
+            <ul class="dropdown-menu" aria-labelledby="submenuBBT">
+              <li>
+                <a class="dropdown-item" href="nafRazasBB2025.html">
+                  NAF
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="nafEspanaRazas2025.html" data-i18n="nafSpain">
+                  NAF España
                 </a>
               </li>
             </ul>
@@ -116,30 +136,41 @@
             </span>
             <ul class="dropdown-menu">
               <li class="dropdown-submenu position-relative">
-                <span class="dropdown-item dropdown-toggle">BBT</span>
+                <span class="dropdown-item dropdown-toggle">Estadísticas Extra</span>
                 <ul class="dropdown-menu submenu">
-                  <li><a class="dropdown-item" href="bbtStreak.html" data-i18n="rachas">
-                  Rachas</a></li>
-                  <li><a class="dropdown-item" href="bbtProplayers.html" data-i18n="proplayers">
-                  Contra Proplayers</a></li>
+                  <li><a class="dropdown-item" href="nafExtraStats.html">NAF</a></li>
+                  <li><a class="dropdown-item" href="nafEsExtraStats.html" data-i18n="nafSpain">NAF España</a></li>
                 </ul>
               </li>
               <li class="dropdown-submenu position-relative">
-                <span class="dropdown-item dropdown-toggle">NAF España</span>
+                <span class="dropdown-item dropdown-toggle" data-i18n="rachas">Rachas</span>
                 <ul class="dropdown-menu submenu">
-                  <li><a class="dropdown-item" href="nafEspanaStreak.html" data-i18n="rachas">
-                  Rachas</a></li>
-                  <li><a class="dropdown-item" href="nafEspanaProplayers.html" data-i18n="proplayers">
-                  Contra Proplayers</a></li>
+                  <li><a class="dropdown-item" href="nafStreak.html">
+                  NAF</a></li>
+                  <li><a class="dropdown-item" href="nafEspanaStreak.html" data-i18n="nafSpain">
+                  NAF España</a></li>
+                  <li><a class="dropdown-item" href="bbtStreak.html">
+                  BBT</a></li>
                 </ul>
               </li>
               <li class="dropdown-submenu position-relative">
-                <span class="dropdown-item dropdown-toggle">NAF</span>
+                <span class="dropdown-item dropdown-toggle">Vs Proplayers</span>
                 <ul class="dropdown-menu submenu">
-                  <li><a class="dropdown-item" href="nafStreak.html" data-i18n="rachas">
-                  Rachas</a></li>
-                  <li><a class="dropdown-item" href="nafProplayers.html" data-i18n="proplayers">
-                  Contra Proplayers</a></li>
+                  <li><a class="dropdown-item" href="nafProplayers.html">
+                  NAF</a></li>
+                  <li><a class="dropdown-item" href="nafEspanaProplayers.html" data-i18n="nafSpain">
+                  NAF España</a></li>
+                  <li><a class="dropdown-item" href="bbtProplayers.html">
+                  BBT</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu position-relative">
+                <span class="dropdown-item dropdown-toggle" data-i18n="trofeo">Trofeos</span>
+                <ul class="dropdown-menu submenu">
+                  <li><a class="dropdown-item" href="nafTrophies.html">
+                  NAF</a></li>
+                  <li><a class="dropdown-item" href="nafEspanaTrophies.html" data-i18n="nafSpain">
+                  NAF España</a></li>
                 </ul>
               </li>
             </ul>
@@ -148,33 +179,33 @@
           <!-- Desplegable Recursos -->
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="submenuBBT" role="button" data-bs-toggle="dropdown"
-               data-i18n="recursos" aria-expanded="false">Recursos</a>
+              data-i18n="recursos" aria-expanded="false">Recursos</a>
             <ul class="dropdown-menu" aria-labelledby="submenuBBT">
-                <li>
-                    <a class="dropdown-item" href="mapcalendar.html" data-i18n="mapacalendario">
-                      Mapa y calendario de torneos
-                    </a>
-                 </li>
-                <li>
-                    <a class="dropdown-item" href="rosters.html" data-i18n="roster">
-                      Creacion de rosters
-                    </a>
-                 </li>
-                <li>
-                    <a class="dropdown-item" href="managers.html" data-i18n="gestor">
-                      Gestores de torneos y ligas
-                    </a>
-                 </li>
-                <li>
-                    <a class="dropdown-item" href="files.html" data-i18n="archivo">
-                      Archivos de interés
-                    </a>
-                 </li>
-                <li>
-                    <a class="dropdown-item" href="links.html" data-i18n="link">
-                      Enlaces de interés
-                    </a>
-                 </li>
+              <li>
+                <a class="dropdown-item" href="mapcalendar.html" data-i18n="mapacalendario">
+                  Mapa y calendario de torneos
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="rosters.html" data-i18n="roster">
+                  Creacion de rosters
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="managers.html" data-i18n="gestor">
+                  Gestores de torneos y ligas
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="files.html" data-i18n="archivo">
+                  Archivos de interés
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="links.html" data-i18n="link">
+                  Enlaces de interés
+                </a>
+              </li>
             </ul>
           </li>
 
@@ -185,8 +216,8 @@
 
           <!-- Donación -->
           <li class="nav-item">
-            <a class="nav-link" target="_blank" href="https://paypal.me/BBdados?country.x=ES&locale.x=es_ES"
-              data-i18n="donacion">
+            <a class="nav-link" target="_blank"
+              href="https://paypal.me/BBdados?country.x=ES&locale.x=es_ES" data-i18n="donacion">
               Donación
             </a>
           </li>
@@ -204,8 +235,6 @@
       </div>
     </div>
   </nav>
-
-  <!-- Contenido principal -->
 
   <!-- Contenido principal -->
   <div class="container py-5 mt-4">
@@ -233,73 +262,73 @@
             englobarán todos los torneos registrados en la NAF, la tercera todos los torneos registrados en BBT.
           </p>
           <p data-i18n="queEsTexto3">
-            A su vez, los grupos de la NAF está dividido en NAF España dónde están filtrado solo los jugadores
-            españoles, y NAF Mundial con todos los jugadores NAF del mundo. A su vez estás estarán divididas en tres
-            clasificaciones distintas: un ranking global, dónde el ELO evoluciona a lo largo de la historia y no se
-            resetea nunca y no está separado por razas, un ranking anual, dónde el ELO evoluciona a lo largo de un año
+            A su vez, los grupos de la NAF estarán dividido en NAF España donde estarán filtrado solo los jugadores
+            españoles, y NAF Mundial con todos los jugadores NAF del mundo. A su vez estarán divididas en tres
+            clasificaciones distintas: un ranking global, donde el ELO evoluciona a lo largo de la historia y no se
+            resetea nunca y no está separado por razas, un ranking anual, donde el ELO evoluciona a lo largo de un año
             natural y se resetea a 150 cada 1 de enero y no está separado por razas, y el clásico ranking global por
-            razas, dónde el ELO evoluciona a lo largo de la historia y no se resetea nunca y está separado por razas.
+            razas, donde el ELO evoluciona a lo largo de la historia y no se resetea nunca y está separado por razas.
           </p>
           <p data-i18n="queEsTexto4">
-            En el caso del grupo del BBT estará dividido en dos clasificaciones distintas: un ranking global y un
+            En el caso del grupo del BBT estarÃ¡ dividido en dos clasificaciones distintas: un ranking global y un
             ranking anual.
           </p>
           <p data-i18n="queEsTexto5">
-            Cada página del ranking encontrarás en la clasificación tanto la posición general de la clasificación, el
-            número NAF, el nick de entrenador, la Comunidad Autónoma de ese entrenador, o el País en el caso de los
-            rankings de NAF Mundial, y entre paréntesis la posición en la clasificación entre los jugadores de esas
-            Comunidad Autónoma/País, el número de torneos y partidos jugados, las victorias, empates y derrotas, el win
-            ratio y el ranking de dicha clasificación.
+            Cada pÃ¡gina del ranking encontrarÃ¡s en la clasificaciÃ³n tanto la posiciÃ³n general de la clasificaciÃ³n, el
+            nÃºmero NAF, el nick de entrenador, la Comunidad AutÃ³noma de ese entrenador, o el PaÃ­s en el caso de los
+            rankings de NAF Mundial, y entre parÃ©ntesis la posiciÃ³n en la clasificaciÃ³n entre los jugadores de esas
+            Comunidad AutÃ³noma/PaÃ­s, el nÃºmero de torneos y partidos jugados, las victorias, empates y derrotas, el win
+            ratio y el ranking de dicha clasificaciÃ³n.
           </p>
           <p data-i18n="queEsTexto6">
-            La Comunidad Autónoma de cada jugador se irá rellenando poco a poco según se vaya indicando puesto que no
-            hay ningún lugar dónde consultar dicho dato, en caso de no tener el dato aparecerá como "Apatrida", si
-            deseas indicar cuál es tu Comunidad Autónoma o el de algún otro entrenador o corregir algún error que
-            detectes, puedes ponerte en contacto a través del formulario de contacto.
+            La Comunidad AutÃ³noma de cada jugador se irÃ¡ rellenando poco a poco segÃºn se vaya indicando puesto que no
+            hay ningÃºn lugar dÃ³nde consultar dicho dato, en caso de no tener el dato aparecerÃ¡ como "Apatrida", si
+            deseas indicar cuÃ¡l es tu Comunidad AutÃ³noma o el de algÃºn otro entrenador o corregir algÃºn error que
+            detectes, puedes ponerte en contacto a travÃ©s del formulario de contacto.
           </p>
 
-          <h4 class="fw-bold text-primary mt-4" data-i18n="queFiltros">¿QUÉ FILTROS HAY?</h4>
+          <h4 class="fw-bold text-primary mt-4" data-i18n="queFiltros">Â¿QUÃ‰ FILTROS HAY?</h4>
           <p data-i18n="queFiltrosTexto">
-            Las clasificaciones incluyen solo los jugadores que han indicado en la web de la NAF que son españoles y en
+            Las clasificaciones incluyen solo los jugadores que han indicado en la web de la NAF que son espaÃ±oles y en
             los rankings de NAF Mundial con los entrenadores de todo el mundo. Posteriormente se puede filtrar por
-            tramos de Win Ratio, por número NAF, por nick, Comunidad Autónoma o País. Entre paréntesis aparece la
-            clasificación entre los jugadores con la misma CCAA/País. En caso de no tener datos de la CCAA del jugador,
-            aparecerá como Apátrida.
+            tramos de Win Ratio, por nÃºmero NAF, por nick, Comunidad AutÃ³noma o PaÃ­s. Entre parÃ©ntesis aparece la
+            clasificaciÃ³n entre los jugadores con la misma CCAA/PaÃ­s. En caso de no tener datos de la CCAA del jugador,
+            aparecerÃ¡ como ApÃ¡trida.
           </p>
           <p data-i18n="queFiltrosTexto2">
-            Si estás en el listado como Apátrida y quieres indicar cuál es tu CCAA, ponte en <a
+            Si estÃ¡s en el listado como ApÃ¡trida y quieres indicar cuÃ¡l es tu CCAA, ponte en <a
               href="contacto.html">contacto</a>.
           </p>
           <p data-i18n="queFiltrosTexto4">
-            Además, cada clasificación se puede ordenar por sus diferentes columnas.
+            AdemÃ¡s, cada clasificaciÃ³n se puede ordenar por sus diferentes columnas.
           </p>
 
-          <h4 class="fw-bold text-primary" data-i18n="otrosRankings">¿QUÉ OTROS RANKINGS HAY?</h4>
+          <h4 class="fw-bold text-primary" data-i18n="otrosRankings">Â¿QUÃ‰ OTROS RANKINGS HAY?</h4>
           <p data-i18n="otrosRankingsTexto">
-            Además de las clasificaciones ELO podrás encontrar otros ranking con datos interesantes de los partidos.
+            AdemÃ¡s de las clasificaciones ELO podrÃ¡s encontrar otros ranking con datos interesantes de los partidos.
             Puedes encontrar un ranking de rachas, otro de partidos contra proplayers, contra top proplayers y contra
             mega proplayers.
           </p>
 
-          <h4 class="fw-bold text-primary mt-4" data-i18n="comoFunciona">¿CÓMO FUNCIONAN LAS RACHAS?
+          <h4 class="fw-bold text-primary mt-4" data-i18n="comoFunciona">Â¿CÃ“MO FUNCIONAN LAS RACHAS?
           </h4>
           <p data-i18n="comoFuncionaTexto">
-            En las rachas podrás encontrar seis valores: partidos ganados (victorias), partidos sin perder, partidos
-            perdidos (derrotas), partidos con 1 TD o más, partidos con 2 TD o más, partidos sin recibir TD.
+            En las rachas podrÃ¡s encontrar seis valores: partidos ganados (victorias), partidos sin perder, partidos
+            perdidos (derrotas), partidos con 1 TD o mÃ¡s, partidos con 2 TD o mÃ¡s, partidos sin recibir TD.
           </p>
 
           <p data-i18n="comoFuncionaTexto1">
-            De cada una de estos valores encontrarás dos columnas. Una con la racha actual hasta el último partido
-            registrado, y otra con la mejor racha que se haya hecho el entrenador históricamente.
+            De cada una de estos valores encontrarÃ¡s dos columnas. Una con la racha actual hasta el Ãºltimo partido
+            registrado, y otra con la mejor racha que se haya hecho el entrenador histÃ³ricamente.
           </p>
 
-          <h4 class="fw-bold text-primary mt-4" data-i18n="comoFunciona2">¿CÓMO FUNCIONA EL RANKING CONTRA PROPLAYERS (Y TOP Y MEGA)?</h4>
+          <h4 class="fw-bold text-primary mt-4" data-i18n="comoFunciona2">Â¿CÃ“MO FUNCIONA EL RANKING CONTRA PROPLAYERS (Y TOP Y MEGA)?</h4>
           <p data-i18n="comoFunciona2Texto">
-            En los rankings contra Proplayers, Top Proplayers y Mega Proplayers, podrás encontrar la cantidad de partidos,
-            así como las victorias, empates, derrotas y el Win Ratio contra ese tipo de jugadores.
+            En los rankings contra Proplayers, Top Proplayers y Mega Proplayers, podrÃ¡s encontrar la cantidad de partidos,
+            asÃ­ como las victorias, empates, derrotas y el Win Ratio contra ese tipo de jugadores.
           </p>
 
-          <h4 class="fw-bold text-primary mt-4" data-i18n="comoFunciona3">¿QUIÉN SE CONSIDERA UN PROPLAYER, TOP PROPLAYER Y MEGA PROPLAYERS?</h4>
+          <h4 class="fw-bold text-primary mt-4" data-i18n="comoFunciona3">Â¿QUIÃ‰N SE CONSIDERA UN PROPLAYER, TOP PROPLAYER Y MEGA PROPLAYERS?</h4>
           <p data-i18n="comoFunciona3Texto">
             Se considera que has jugado contra un jugador Proplayer, cuando ese jugador tiene un ranking entre 180
             y 199.99 con esa raza, o tiene al menos cinco razas con ranking entre 200 y 209.99.
@@ -309,17 +338,17 @@
             y 219.99 con esa raza, o tiene al menos cinco razas con ranking entre 210 y 219.99.
           </p>
           <p data-i18n="comoFunciona3Texto3">
-            Se considera que has jugado contra un jugador Mega Proplayer, cuando ese jugador tiene un ranking 220 o más
-            con esa raza, o tiene al menos cinco razas con ranking de 220 ó más.
+            Se considera que has jugado contra un jugador Mega Proplayer, cuando ese jugador tiene un ranking 220 o mÃ¡s
+            con esa raza, o tiene al menos cinco razas con ranking de 220 Ã³ mÃ¡s.
           </p>
           <p data-i18n="comoFunciona3Texto4">
-            En el caso de estos rankings para el BBT no se tendrán en cuenta las razas sino el ranking global.
+            En el caso de estos rankings para el BBT no se tendrÃ¡n en cuenta las razas sino el ranking global.
           </p>
 
-          <h4 class="fw-bold text-primary mt-4" data-i18n="cadaCuanto">¿CADA CUÁNTO SE ACTUALIZA?</h4>
+          <h4 class="fw-bold text-primary mt-4" data-i18n="cadaCuanto">Â¿CADA CUÃNTO SE ACTUALIZA?</h4>
           <p data-i18n="cadaCuantoTexto">
-            Las clasificaciones no tienen un periodo regular de actualización, pero se intentará que se actualice de
-            manera constante y sin periodos muy extensos entre una actualización y otra.
+            Las clasificaciones no tienen un periodo regular de actualizaciÃ³n, pero se intentarÃ¡ que se actualice de
+            manera constante y sin periodos muy extensos entre una actualizaciÃ³n y otra.
           </p>
 
           <p>

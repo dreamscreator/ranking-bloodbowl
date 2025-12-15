@@ -1,0 +1,469 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NAF - Perfiles NAF</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<style>
+
+
+  /* Tabla de perfiles */
+  #nafTable {
+    table-layout: fixed;
+  }
+
+/* Cabecera en proporción 1:1 (50/50) */
+#nafTable thead th:first-child {
+  width: 50%;
+}
+
+#nafTable thead th:last-child {
+  width: 50%;
+}
+
+  #nafTable th,
+  #nafTable td {
+    vertical-align: middle;
+  }
+
+  /* Fila principal (perfil + insignias) */
+#nafTable tbody tr.profile-main-row td:first-child {
+  width: 50%;
+  border-right: 2px solid #dee2e6; /* separaciÃ³n entre columnas */
+  border-top-left-radius: 0.75rem;
+  border-bottom-left-radius: 0.75rem;
+}
+
+#nafTable tbody tr.profile-main-row td:last-child {
+  width: 50%;
+  border-top-right-radius: 0.75rem;
+  border-bottom-right-radius: 0.75rem;
+}
+
+  /* Fila de estadísticas (debajo de las 2 columnas) */
+  #nafTable tbody tr.profile-stats-row td {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-top: none;
+    border-bottom: 1px solid #dee2e6;
+  }
+
+  .profile-stats-row .stat-item {
+    font-size: 0.9rem;
+    margin-bottom: 0.15rem;
+  }
+
+  .profile-stats-row .stat-label {
+    font-weight: 600;
+    display: inline-block;
+    min-width: 170px;
+  }
+
+  .profile-stats-row .col-md-3 {
+    border-right: 1px solid #dee2e6;
+    padding-right: 0.75rem;
+  }
+
+  .profile-stats-row .col-md-3:last-child {
+    border-right: none;
+  }
+
+/* 5 columnas iguales en pantallas medianas o mayores */
+@media (min-width: 768px) {
+  .profile-stats-row .col-md-3 {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+}
+
+</style>
+
+</head>
+
+<body>
+
+  <!-- Navbar (igual que en el resto de páginas) -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary-blue">
+    <div class="container">
+      <a class="navbar-brand fw-bold d-flex align-items-center" href="index.html">Blood Bowl Ranking</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+        <ul class="navbar-nav">
+
+          <!-- Índice -->
+          <li class="nav-item">
+            <a class="nav-link" href="index.html" data-i18n="inicio">Inicio</a>
+          </li>
+
+
+
+          <!-- Perfiles -->
+          <li class="nav-item">
+            <a class="nav-link" href="profiles.html" data-i18n="perfiles">Perfiles</a>
+          </li>
+
+          <!-- Desplegable Anual -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="submenuAnual" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false" data-i18n="rankingGlobalAnual">Anual</a>
+            <ul class="dropdown-menu" aria-labelledby="submenuBBT">
+              <li>
+                <a class="dropdown-item" href="nafAnual.html">
+                  NAF
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="nafEspanaAnual.html" data-i18n="nafSpain">
+                  NAF España
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="bbtAnual.html">
+                  BBT
+                </a>
+              </li>
+            </ul>
+          </li>
+
+          <!-- Desplegable Histórico -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="submenuAnual" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false" data-i18n="rankingGlobalHistorico">Histórico</a>
+            <ul class="dropdown-menu" aria-labelledby="submenuBBT">
+              <li>
+                <a class="dropdown-item" href="nafHistorico.html">
+                  NAF
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="nafEspanaHistorico.html" data-i18n="nafSpain">
+                  NAF España
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="bbtHistorico.html">
+                  BBT
+                </a>
+              </li>
+            </ul>
+          </li>
+
+          <!-- Desplegable Razas Legacy -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="submenuAnual" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false" data-i18n="razas">Razas</a>
+            <ul class="dropdown-menu" aria-labelledby="submenuBBT">
+              <li>
+                <a class="dropdown-item" href="nafRazas.html">
+                  NAF
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="nafEspanaRazas.html" data-i18n="nafSpain">
+                  NAF España
+                </a>
+              </li>
+            </ul>
+          </li>
+
+          <!-- Desplegable Razas BB2025 -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="submenuAnual" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false" data-i18n="razas2025">Razas BB2025</a>
+            <ul class="dropdown-menu" aria-labelledby="submenuBBT">
+              <li>
+                <a class="dropdown-item" href="nafRazasBB2025.html">
+                  NAF
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="nafEspanaRazas2025.html" data-i18n="nafSpain">
+                  NAF España
+                </a>
+              </li>
+            </ul>
+          </li>
+
+          <!-- Desplegable Otros -->
+          <li class="nav-item dropdown">
+            <span><a class="nav-link dropdown-toggle" href="#" id="submenuOtros" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false" data-i18n="otros">Otros rankings</a>
+            </span>
+            <ul class="dropdown-menu">
+              <li class="dropdown-submenu position-relative">
+                <span class="dropdown-item dropdown-toggle">Estadísticas Extra</span>
+                <ul class="dropdown-menu submenu">
+                  <li><a class="dropdown-item" href="nafExtraStats.html">NAF</a></li>
+                  <li><a class="dropdown-item" href="nafEsExtraStats.html" data-i18n="nafSpain">NAF España</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu position-relative">
+                <span class="dropdown-item dropdown-toggle" data-i18n="rachas">Rachas</span>
+                <ul class="dropdown-menu submenu">
+                  <li><a class="dropdown-item" href="nafStreak.html">
+                  NAF</a></li>
+                  <li><a class="dropdown-item" href="nafEspanaStreak.html" data-i18n="nafSpain">
+                  NAF España</a></li>
+                  <li><a class="dropdown-item" href="bbtStreak.html">
+                  BBT</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu position-relative">
+                <span class="dropdown-item dropdown-toggle">Vs Proplayers</span>
+                <ul class="dropdown-menu submenu">
+                  <li><a class="dropdown-item" href="nafProplayers.html">
+                  NAF</a></li>
+                  <li><a class="dropdown-item" href="nafEspanaProplayers.html" data-i18n="nafSpain">
+                  NAF España</a></li>
+                  <li><a class="dropdown-item" href="bbtProplayers.html">
+                  BBT</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu position-relative">
+                <span class="dropdown-item dropdown-toggle" data-i18n="trofeo">Trofeos</span>
+                <ul class="dropdown-menu submenu">
+                  <li><a class="dropdown-item" href="nafTrophies.html">
+                  NAF</a></li>
+                  <li><a class="dropdown-item" href="nafEspanaTrophies.html" data-i18n="nafSpain">
+                  NAF España</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+
+          <!-- Desplegable Recursos -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="submenuBBT" role="button" data-bs-toggle="dropdown"
+              data-i18n="recursos" aria-expanded="false">Recursos</a>
+            <ul class="dropdown-menu" aria-labelledby="submenuBBT">
+              <li>
+                <a class="dropdown-item" href="mapcalendar.html" data-i18n="mapacalendario">
+                  Mapa y calendario de torneos
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="rosters.html" data-i18n="roster">
+                  Creacion de rosters
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="managers.html" data-i18n="gestor">
+                  Gestores de torneos y ligas
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="files.html" data-i18n="archivo">
+                  Archivos de interés
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="links.html" data-i18n="link">
+                  Enlaces de interés
+                </a>
+              </li>
+            </ul>
+          </li>
+
+          <!-- Contacto -->
+          <li class="nav-item">
+            <a class="nav-link" href="contacto.html" data-i18n="contacto">Contacto</a>
+          </li>
+
+          <!-- Donación -->
+          <li class="nav-item">
+            <a class="nav-link" target="_blank"
+              href="https://paypal.me/BBdados?country.x=ES&locale.x=es_ES" data-i18n="donacion">
+              Donación
+            </a>
+          </li>
+
+          <li class="nav-item d-flex align-items-center">
+            <a class="nav-link" href="#" onclick="setLanguage('es')">
+              <img src="img/flag-es.png" alt="Español" width="24" height="16">
+            </a>
+            <a class="nav-link" href="#" onclick="setLanguage('en')">
+              <img src="img/flag-uk.png" alt="English" width="24" height="16">
+            </a>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Contenido principal -->
+  <div class="container py-5 mt-4">
+    <h4 class="fw-bold text-primary mb-4 text-center">
+      <span data-i18n="perfilNAF">PERFIL</span>
+      <button type="button" class="btn btn-primary btn-sm rounded-circle ms-2" style="width: 16px; height: 16px; padding: 0; font-style: italic; font-family: serif; font-weight: bold;" data-bs-toggle="modal" data-bs-target="#infoModal">i</button>
+    </h4>
+
+    <!-- Filtros SOLO NAF y Entrenador -->
+    <div class="section-bg p-4 mb-4 shadow rounded">
+      <div class="row g-3 mb-2">
+        <div class="col-md-6">
+          <label for="nafFilter" class="form-label"><b>NAF #</b></label>
+          <input type="text" id="nafFilter" class="form-control" data-i18n="[placeholder]buscarNaf" placeholder="Buscar por NAF">
+        </div>
+        <div class="col-md-6">
+          <label for="coachFilter" class="form-label"><b data-i18n="entrenador">Entrenador</b></label>
+          <input type="text" id="coachFilter" class="form-control" placeholder="Buscar por Entrenador">
+        </div>
+      </div>
+    </div>
+
+    <!-- Tabla de perfiles -->
+    <div class="table-responsive section-bg p-4 shadow rounded">
+<table id="nafTable" class="table table-striped table-bordered">
+  <thead class="table-light">
+    <tr>
+      <th data-i18n="perfil">Perfil</th>
+      <th data-i18n="insignias">Insignias</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Se rellena desde tableProfile.js -->
+  </tbody>
+</table>
+
+
+
+      <!-- Paginación -->
+      <nav id="pagination" class="mt-3"></nav>
+    </div>
+  </div>
+
+  <!-- Info Modal -->
+  <div class="modal fade" id="infoModal" tabindex="-1" aria-labelledby="infoModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="infoModalLabel" data-i18n="comoInsignias">¿Cómo funciona las insignias?</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body" data-i18n="infoBody">
+          <p data-i18n="comoInsignias1">Las insignias son concedidas según el entrenador alcanza diferentes hitos.</p>
+          <p data-i18n="comoInsignias2">La insignia de torneos jugados aumenta de 5 en 5 hasta los 100 que aumentará de 10 en 10 hasta los 300 que aumentará de 50 en 50 hasta los 500.</p>
+          <p data-i18n="comoInsignias3">La insignia de partidos jugados aumenta de 100 en 100 hasta los 1500 que aumentará de 250 en 250 hasta los 3000.</p>
+          <p data-i18n="comoInsignias4">La insignia de partidos ganados aumenta de 100 en 100 hasta los 1500.</p>
+          <p data-i18n="comoInsignias5">La insignia de organizador de torneos es única y se concede al entrenador que organice al menos un torneo.</p>
+          <p data-i18n="comoInsignias6">La insignia de países dónde se ha jugado al menos un torneo aumenta de 1 en 1 por cada país.</p>
+          <p data-i18n="comoInsignias7">La insignia de trofeos ganados, cualquiera de ellos, aumenta de 1 en 1 hasta 25 que aumentará de 5 en 5 hasta 100.</p>
+          <p data-i18n="comoInsignias8">La insignia de Proplayer, Top Proplayer y Mega Proplayer marca el número de razas que tienes entre 180 y 199.99 (Proplayer), entre 200 y 219.99 (Top Proplayer) y por encima de 220 (Mega Proplayer).</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- DATOS: archivo general_all (const generalAll = [...]) -->
+
+  <script src="src/naf/statsRaceAmazon.js"></script>
+  <script src="src/naf/statsRaceBlack_Orc.js"></script>
+  <script src="src/naf/statsRaceBretonnian.js"></script>
+  <script src="src/naf/statsRaceChaos_Chosen.js"></script>
+  <script src="src/naf/statsRaceChaos_Dwarf.js"></script>
+  <script src="src/naf/statsRaceChaos_Renegade.js"></script>
+  <script src="src/naf/statsRaceDark_Elf.js"></script>
+  <script src="src/naf/statsRaceDwarf.js"></script>
+  <script src="src/naf/statsRaceElf_Union.js"></script>
+  <script src="src/naf/statsRaceGnome.js"></script>
+  <script src="src/naf/statsRaceGoblin.js"></script>
+  <script src="src/naf/statsRaceHalfling.js"></script>
+  <script src="src/naf/statsRaceHigh_Elf.js"></script>
+  <script src="src/naf/statsRaceHuman.js"></script>
+  <script src="src/naf/statsRaceImperial_Nobility.js"></script>
+  <script src="src/naf/statsRaceKhorne.js"></script>
+  <script src="src/naf/statsRaceLizardmen.js"></script>
+  <script src="src/naf/statsRaceNecromantic_Horror.js"></script>
+  <script src="src/naf/statsRaceNorse.js"></script>
+  <script src="src/naf/statsRaceNurgle.js"></script>
+  <script src="src/naf/statsRaceOgre.js"></script>
+  <script src="src/naf/statsRaceOld_World_Alliance.js"></script>
+  <script src="src/naf/statsRaceOrc.js"></script>
+  <script src="src/naf/statsRaceShambling_Undead.js"></script>
+  <script src="src/naf/statsRaceSkaven.js"></script>
+  <script src="src/naf/statsRaceSlann.js"></script>
+  <script src="src/naf/statsRaceSnotling.js"></script>
+  <script src="src/naf/statsRaceTomb_Kings.js"></script>
+  <script src="src/naf/statsRaceUnderworld_Denizens.js"></script>
+  <script src="src/naf/statsRaceVampire.js"></script>
+  <script src="src/naf/statsRaceWood_Elf.js"></script>
+  <script src="src/naf/amazon2025.js"></script>
+  <script src="src/naf/blackorc2025.js"></script>
+  <script src="src/naf/bretonnian2025.js"></script>
+  <script src="src/naf/chaoschosen2025.js"></script>
+  <script src="src/naf/chaosdwarf2025.js"></script>
+  <script src="src/naf/chaosrenegade2025.js"></script>
+  <script src="src/naf/darkelf2025.js"></script>
+  <script src="src/naf/dwarf2025.js"></script>
+  <script src="src/naf/elfunion2025.js"></script>
+  <script src="src/naf/gnome2025.js"></script>
+  <script src="src/naf/goblin2025.js"></script>
+  <script src="src/naf/halfling2025.js"></script>
+  <script src="src/naf/highelf2025.js"></script>
+  <script src="src/naf/human2025.js"></script>
+  <script src="src/naf/imperialnobility2025.js"></script>
+  <script src="src/naf/khorne2025.js"></script>
+  <script src="src/naf/lizardmen2025.js"></script>
+  <script src="src/naf/necromantichorror2025.js"></script>
+  <script src="src/naf/norse2025.js"></script>
+  <script src="src/naf/nurgle2025.js"></script>
+  <script src="src/naf/ogre2025.js"></script>
+  <script src="src/naf/oldworldalliance2025.js"></script>
+  <script src="src/naf/orc2025.js"></script>
+  <script src="src/naf/shamblingundead2025.js"></script>
+  <script src="src/naf/skaven2025.js"></script>
+  <script src="src/naf/slann2025.js"></script>
+  <script src="src/naf/snotling2025.js"></script>
+  <script src="src/naf/tombkings2025.js"></script>
+  <script src="src/naf/underworlddenizens2025.js"></script>
+  <script src="src/naf/vampire2025.js"></script>
+  <script src="src/naf/woodelf2025.js"></script>
+  <script src="src/naf/statsYear2002.js"></script>
+  <script src="src/naf/statsYear2003.js"></script>
+  <script src="src/naf/statsYear2004.js"></script>
+  <script src="src/naf/statsYear2005.js"></script>
+  <script src="src/naf/statsYear2006.js"></script>
+  <script src="src/naf/statsYear2007.js"></script>
+  <script src="src/naf/statsYear2008.js"></script>
+  <script src="src/naf/statsYear2009.js"></script>
+  <script src="src/naf/statsYear2010.js"></script>
+  <script src="src/naf/statsYear2011.js"></script>
+  <script src="src/naf/statsYear2012.js"></script>
+  <script src="src/naf/statsYear2013.js"></script>
+  <script src="src/naf/statsYear2014.js"></script>
+  <script src="src/naf/statsYear2015.js"></script>
+  <script src="src/naf/statsYear2016.js"></script>
+  <script src="src/naf/statsYear2017.js"></script>
+  <script src="src/naf/statsYear2018.js"></script>
+  <script src="src/naf/statsYear2019.js"></script>
+  <script src="src/naf/statsYear2020.js"></script>
+  <script src="src/naf/statsYear2021.js"></script>
+  <script src="src/naf/statsYear2022.js"></script>
+  <script src="src/naf/statsYear2023.js"></script>
+  <script src="src/naf/statsYear2024.js"></script>
+  <script src="src/naf/statsYear2025.js"></script>
+  <script src="src/naf/general_all.js"></script>
+
+<script src="src/bbt/general_all.js"></script>
+<script src="src/bbt/statsYear2021.js"></script>
+<script src="src/bbt/statsYear2022.js"></script>
+<script src="src/bbt/statsYear2023.js"></script>
+<script src="src/bbt/statsYear2024.js"></script>
+<script src="src/bbt/statsYear2025.js"></script>
+
+  <!-- JS especÃ­fico de esta pÃ¡gina -->
+  <script src="src/tableProfile.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="src/translations.js"></script>
+
+</body>
+
+</html>
+

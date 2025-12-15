@@ -1,7 +1,7 @@
-const statsYear2021 = [
+const statsYear2021Bbt = [
   {
     "NAF Nr": "9",
-    "NAF Name": "Zurgal",
+    "NAF Name": "Non-NAF",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 136.7764853315882,
@@ -170,7 +170,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "21596",
     "NAF Name": "Apostol del Gas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 155.4324070241296,
     "bestRating": 161.3969517802532,
@@ -1508,7 +1508,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "rating": 170.22138357310442,
     "bestRating": 170.62490345465264,
@@ -2076,7 +2076,7 @@ const statsYear2021 = [
   {
     "NAF Nr": "21652",
     "NAF Name": "Yoxcoco",
-    "CCAA": "Apatrida",
+    "CCAA": "Madrid",
     "Country": "Spain",
     "rating": 145.09868451656584,
     "bestRating": 145.47637104232015,

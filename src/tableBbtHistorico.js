@@ -1,17 +1,17 @@
-// tableBbtHistorico.js
+﻿// tableBbtHistorico.js
 // - Carga datos de generalAll (general_all.js)
 // - Filtra solo Spain y games > 0
 // - Calcula rankOverall (global) y rankCcaa (por CCAA)
 // - Filtros: NAF, Entrenador, CCAA, WinRatio, Partidos
-// - NUEVO: Ordenación por botones (rankOverall, rankCcaa, tournaments, games, winRatio, rating)
-// - NUEVO: Paginación de 25 filas por página
+// - NUEVO: OrdenaciÃ³n por botones (rankOverall, rankCcaa, tournaments, games, winRatio, rating)
+// - NUEVO: PaginaciÃ³n de 25 filas por pÃ¡gina
 
 "use strict";
 
 document.addEventListener("DOMContentLoaded", () => {
-  // Verificar que generalAll esté cargado
-  if (typeof generalAll === "undefined") {
-    console.error("generalAll no está definido. Asegúrate de que general_all.js se cargue antes de este script.");
+  // Verificar que generalAll estÃ© cargado
+  if (typeof generalAllBbt === "undefined") {
+    console.error("generalAllBbt no estÃ¡ definido. AsegÃºrate de que general_all.js se cargue antes de este script.");
     return;
   }
 
@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const tableBody = document.querySelector("#nafTable tbody");
 
   // Mapear, normalizar y filtrar: solo Country Spain y games > 0
-  const data = generalAll
+  const data = generalAllBbt
     .map((item) => ({
       nafNr: item["NAF Nr"] || "",
       coach: item["NAF Name"] || "",
@@ -33,17 +33,17 @@ document.addEventListener("DOMContentLoaded", () => {
       winRatio: Number(item.totalWinRatio || 0),
       rating: Number(item.rating || 0),
     }))
-    .filter((row) => row.country === "Spain" && row.games > 0); // Solo España y partidas > 0
+    .filter((row) => row.country === "Spain" && row.games > 0); // Solo EspaÃ±a y partidas > 0
 
   // Ordenar por rating descendente para ranking general
   data.sort((a, b) => b.rating - a.rating);
 
-  // Asignar posición general
+  // Asignar posiciÃ³n general
   data.forEach((row, index) => {
     row.rankOverall = index + 1;
   });
 
-  // Agrupar por CCAA y asignar posición interna
+  // Agrupar por CCAA y asignar posiciÃ³n interna
   const groupedByCcaa = data.reduce((acc, row) => {
     (acc[row.ccaa] = acc[row.ccaa] || []).push(row);
     return acc;
@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   // ======================
-  // Configuración de filtros
+  // ConfiguraciÃ³n de filtros
   // ======================
   const nafFilter = document.getElementById("nafFilter");
   const coachFilter = document.getElementById("coachFilter");
@@ -89,17 +89,17 @@ document.addEventListener("DOMContentLoaded", () => {
     gamesMaxFilter.innerHTML = opts;
   }
 
-  // Ejecutar población de filtros
+  // Ejecutar poblaciÃ³n de filtros
   populateCcaaOptions();
   populateWinRatioOptions();
   populateGamesOptions();
 
   // ======================
-  // NUEVO: Ordenación por botones
+  // NUEVO: OrdenaciÃ³n por botones
   // ======================
   const sortBar = document.getElementById("sortButtons");
   const validSortKeys = new Set(["rankOverall", "rankCcaa", "tournaments", "games", "winRatio", "rating"]);
-  let sortState = { key: null, dir: "desc" }; // sin botón => rankOverall asc
+  let sortState = { key: null, dir: "desc" }; // sin botÃ³n => rankOverall asc
 
   function setSort(key) {
     if (!validSortKeys.has(key)) return;
@@ -107,9 +107,9 @@ document.addEventListener("DOMContentLoaded", () => {
       sortState.dir = sortState.dir === "desc" ? "asc" : "desc";
     } else {
       sortState.key = key;
-      sortState.dir = "desc"; // primera pulsación descendente (patrón Streaks)
+      sortState.dir = "desc"; // primera pulsaciÃ³n descendente (patrÃ³n Streaks)
     }
-    currentPage = 1; // al cambiar orden, volver a página 1
+    currentPage = 1; // al cambiar orden, volver a pÃ¡gina 1
     applyFilters();
     updateButtonsUI();
   }
@@ -122,9 +122,9 @@ document.addEventListener("DOMContentLoaded", () => {
       const isActive = sortState.key === key;
       btn.classList.toggle("btn-primary", isActive);
       btn.classList.toggle("btn-outline-primary", !isActive);
-      const base = btn.dataset.label || btn.textContent.replace(/\s*[▲▼]$/, "");
+      const base = btn.dataset.label || btn.textContent.replace(/\s*[â–²â–¼]$/, "");
       btn.dataset.label = base;
-      btn.textContent = isActive ? `${base} ${sortState.dir === "desc" ? "▼" : "▲"}` : base;
+      btn.textContent = isActive ? `${base} ${sortState.dir === "desc" ? "â–¼" : "â–²"}` : base;
     });
   }
 
@@ -146,7 +146,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // ======================
-  // NUEVO: Paginación
+  // NUEVO: PaginaciÃ³n
   // ======================
   const PAGE_SIZE = 25;
   let currentPage = 1;
@@ -157,7 +157,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (container) return container;
     container = document.createElement("nav");
     container.id = "pagination";
-    container.className = "mt-3";
+    container.className = "mt-3 d-flex justify-content-center";
     table.parentElement.appendChild(container);
     return container;
   }
@@ -185,15 +185,21 @@ document.addEventListener("DOMContentLoaded", () => {
       return li;
     }
 
-    ul.appendChild(makeItem("«", 1, currentPage === 1));
-    ul.appendChild(makeItem("‹", Math.max(1, currentPage - 1), currentPage === 1));
+    ul.appendChild(makeItem("\u00AB", 1, currentPage === 1));
+    ul.appendChild(makeItem("\u2039", Math.max(1, currentPage - 1), currentPage === 1));
 
-    for (let p = 1; p <= totalPages; p++) {
+    let startP = Math.max(1, currentPage - 4);
+    let endP = Math.min(totalPages, startP + 8);
+    if (endP - startP < 8) {
+        startP = Math.max(1, endP - 8);
+    }
+
+    for (let p = startP; p <= endP; p++) {
       ul.appendChild(makeItem(String(p), p, false, p === currentPage));
     }
 
-    ul.appendChild(makeItem("›", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
-    ul.appendChild(makeItem("»", totalPages, currentPage === totalPages));
+    ul.appendChild(makeItem("\u203A", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
+    ul.appendChild(makeItem("\u00BB", totalPages, currentPage === totalPages));
 
     container.appendChild(ul);
   }
@@ -237,14 +243,14 @@ document.addEventListener("DOMContentLoaded", () => {
       return true;
     });
 
-    // Ordenación: si hay botón, usarlo; si no, por posición general ascendente
+    // OrdenaciÃ³n: si hay botÃ³n, usarlo; si no, por posiciÃ³n general ascendente
     if (sortState.key) {
       sortByKey(filtered, sortState.key, sortState.dir);
     } else {
       filtered.sort((a, b) => a.rankOverall - b.rankOverall);
     }
 
-    // Paginación
+    // PaginaciÃ³n
     lastFiltered = filtered;
     const totalPages = Math.max(1, Math.ceil(lastFiltered.length / PAGE_SIZE));
     currentPage = Math.min(currentPage || 1, totalPages);
@@ -261,7 +267,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!rows.length) {
       const tr = document.createElement("tr");
       const td = document.createElement("td");
-      td.colSpan = 9; // número de columnas visibles
+      td.colSpan = 9; // nÃºmero de columnas visibles
       td.className = "text-center text-muted";
       td.textContent = "Sin resultados";
       tr.appendChild(td);
@@ -287,7 +293,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // ======================
-  // Eventos de filtros (resetean a página 1)
+  // Eventos de filtros (resetean a pÃ¡gina 1)
   // ======================
   nafFilter.addEventListener("input", () => { currentPage = 1; applyFilters(); });
   coachFilter.addEventListener("input", () => { currentPage = 1; applyFilters(); });
@@ -297,7 +303,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Render inicial
   applyFilters();
-  // Actualizar estado visual de la barra de ordenación
+  // Actualizar estado visual de la barra de ordenaciÃ³n
   const _ = updateButtonsUI;
   updateButtonsUI();
 });
+
+

@@ -1,4 +1,4 @@
-// tableEsRachas.js — NAF España Rachas con paginación (25/página)
+﻿// tableEsRachas.js — NAF España Rachas con paginación (25/página)
 // Lee `streaks` (src/naf/streaks.js), filtra Country=Spain, ordena por botones del HTML (#sortButtons)
 // y pinta nafEspanaStreak.html con paginación.
 
@@ -137,7 +137,7 @@
       if (container) return container;
       container = document.createElement("nav");
       container.id = "pagination";
-      container.className = "mt-3";
+      container.className = "mt-3 d-flex justify-content-center";
       table.parentElement.appendChild(container);
       return container;
     }
@@ -168,16 +168,16 @@
         return li;
       }
 
-      ul.appendChild(makeItem("«", 1, currentPage === 1));
-      ul.appendChild(makeItem("‹", Math.max(1, currentPage - 1), currentPage === 1));
+      ul.appendChild(makeItem("\u00AB", 1, currentPage === 1));
+      ul.appendChild(makeItem("\u2039", Math.max(1, currentPage - 1), currentPage === 1));
 
       const total = totalPages;
       for (let p = 1; p <= total; p++) {
         ul.appendChild(makeItem(String(p), p, false, p === currentPage));
       }
 
-      ul.appendChild(makeItem("›", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
-      ul.appendChild(makeItem("»", totalPages, currentPage === totalPages));
+      ul.appendChild(makeItem("\u203A", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
+      ul.appendChild(makeItem("\u00BB", totalPages, currentPage === totalPages));
 
       container.appendChild(ul);
     }
@@ -267,3 +267,4 @@
     updateButtonsUI();
   });
 })();
+
