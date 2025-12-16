@@ -294,6 +294,65 @@ const shamblingundead2025 = [
     "tendency": 0.14090422847255013
   },
   {
+    "NAF Nr": "30519",
+    "NAF Name": "deivysp",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "11",
+    "raceName": "Shambling Undead",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 87.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 166.9705627484771,
+    "bestRating": 166.9705627484771,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      161.31370849898474,
+      166.9705627484771
+    ],
+    "tendency": 11.313708498984738
+  },
+  {
+    "NAF Nr": "30635",
+    "NAF Name": "ubervermin",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "11",
+    "raceName": "Shambling Undead",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 154.62558136949113,
+    "bestRating": 154.62558136949113,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      154.47213595499957,
+      154.47213595499957,
+      150,
+      154.62558136949113
+    ],
+    "tendency": 0.15344541449155713
+  },
+  {
     "NAF Nr": "31526",
     "NAF Name": "Hinderance",
     "CCAA": "Apatrida",
@@ -402,6 +461,31 @@ const shamblingundead2025 = [
       154.85312284846074
     ],
     "tendency": 4.8531228484607425
+  },
+  {
+    "NAF Nr": "35619",
+    "NAF Name": "eckae",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "11",
+    "raceName": "Shambling Undead",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      155.65685424949237,
+      150
+    ],
+    "tendency": 5.656854249492369
   },
   {
     "NAF Nr": "36568",
@@ -552,6 +636,56 @@ const shamblingundead2025 = [
       128.08949828746293
     ],
     "tendency": -16.2536474630447
+  },
+  {
+    "NAF Nr": "40094",
+    "NAF Name": "g0nk",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "11",
+    "raceName": "Shambling Undead",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 140.9022826755093,
+    "bestRating": 145.52786404500043,
+    "worstRating": 140.9022826755093,
+    "_lastTenRatings": [
+      145.52786404500043,
+      141.05572809000085,
+      145.52786404500043,
+      140.9022826755093
+    ],
+    "tendency": -4.62558136949113
+  },
+  {
+    "NAF Nr": "40407",
+    "NAF Name": "Neko10",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "11",
+    "raceName": "Shambling Undead",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 138.4514937791313,
+    "bestRating": 150,
+    "worstRating": 138.4514937791313,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.09769089177416,
+      138.4514937791313
+    ],
+    "tendency": -5.891651971376319
   },
   {
     "NAF Nr": "41782",

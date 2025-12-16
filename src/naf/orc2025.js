@@ -1,5 +1,30 @@
 const orc2025 = [
   {
+    "NAF Nr": "8122",
+    "NAF Name": "Godzilla",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 161.31370849898474,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.65685424949237,
+      150
+    ],
+    "tendency": -5.656854249492369
+  },
+  {
     "NAF Nr": "13758",
     "NAF Name": "Hekdar",
     "CCAA": "Apatrida",
@@ -21,6 +46,31 @@ const orc2025 = [
       159.86135116208158
     ],
     "tendency": 4.694484105326495
+  },
+  {
+    "NAF Nr": "14231",
+    "NAF Name": "Jaba",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 161.5485062208687,
+    "bestRating": 161.5485062208687,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      155.90230910822584,
+      161.5485062208687
+    ],
+    "tendency": 5.891651971376319
   },
   {
     "NAF Nr": "19064",
@@ -139,6 +189,56 @@ const orc2025 = [
     "tendency": 5.656854249492369
   },
   {
+    "NAF Nr": "23058",
+    "NAF Name": "aguss",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 155.66751138634189,
+    "bestRating": 155.66751138634189,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      150,
+      155.66751138634189
+    ],
+    "tendency": 11.324365635834255
+  },
+  {
+    "NAF Nr": "23648",
+    "NAF Name": "TrevCraig",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 145.37441863050887,
+    "bestRating": 150,
+    "worstRating": 145.37441863050887,
+    "_lastTenRatings": [
+      150,
+      145.52786404500043,
+      150,
+      145.37441863050887
+    ],
+    "tendency": -4.62558136949113
+  },
+  {
     "NAF Nr": "24936",
     "NAF Name": "Bobson",
     "CCAA": "Apatrida",
@@ -183,6 +283,31 @@ const orc2025 = [
       146.394448724536,
       142.788897449072,
       146.394448724536
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "26536",
+    "NAF Name": "Mime",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 155.65685424949237,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      150,
+      155.65685424949237
     ],
     "tendency": 0
   },
@@ -290,6 +415,40 @@ const orc2025 = [
       150.16878333095391
     ],
     "tendency": 4.859199090777338
+  },
+  {
+    "NAF Nr": "31469",
+    "NAF Name": "ronda",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 161.30307229634724,
+    "bestRating": 161.30307229634724,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150.24545485873347,
+      155.90230910822584,
+      161.30307229634724
+    ],
+    "tendency": 16.959926545839608
   },
   {
     "NAF Nr": "33884",
@@ -569,6 +728,31 @@ const orc2025 = [
       144.7386548279161
     ],
     "tendency": 0.1997004415211734
+  },
+  {
+    "NAF Nr": "40221",
+    "NAF Name": "cortisone",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 161.31370849898474,
+    "bestRating": 161.31370849898474,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      155.65685424949237,
+      161.31370849898474
+    ],
+    "tendency": 5.656854249492369
   },
   {
     "NAF Nr": "41837",

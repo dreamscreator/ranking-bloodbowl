@@ -160,6 +160,31 @@ const vampire2025 = [
     "tendency": 3.5057980514623353
   },
   {
+    "NAF Nr": "41527",
+    "NAF Name": "Mikes_Campos",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 138.47188340085933,
+    "bestRating": 150,
+    "worstRating": 138.4514937791313,
+    "_lastTenRatings": [
+      150,
+      144.09769089177416,
+      138.4514937791313,
+      138.47188340085933
+    ],
+    "tendency": -11.528116599140674
+  },
+  {
     "NAF Nr": "42229",
     "NAF Name": "MACHINECORE",
     "CCAA": "Apatrida",

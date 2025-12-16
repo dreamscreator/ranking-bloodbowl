@@ -22,22 +22,22 @@ const statsRaceImperial_Nobility = [
       "bestpainted": 1,
       "otherawards": 2
     },
-    "rating": 129.43818721972463,
+    "rating": 129.43818721972468,
     "bestRating": 157.1154593123447,
     "worstRating": 74.30803133125059,
     "_lastTenRatings": [
-      126.72805959739335,
-      124.077421856514,
-      129.59813791103275,
-      130.83506118225463,
-      127.75608091119912,
-      132.05371585767193,
-      129.5940685758798,
-      130.70448238298576,
-      127.54450322542164,
-      129.43818721972463
+      126.72805959739343,
+      124.07742185651406,
+      129.5981379110328,
+      130.8350611822547,
+      127.75608091119918,
+      132.053715857672,
+      129.59406857587985,
+      130.70448238298582,
+      127.54450322542169,
+      129.43818721972468
     ],
-    "tendency": 2.710127622331271
+    "tendency": 2.7101276223312567
   },
   {
     "NAF Nr": "29",
@@ -578,15 +578,15 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 145.89256338158913,
-    "bestRating": 149.53532322860895,
-    "worstRating": 145.89256338158913,
+    "rating": 145.89256385961878,
+    "bestRating": 149.53532372024242,
+    "worstRating": 145.89256385961878,
     "_lastTenRatings": [
       145.9640892784525,
-      149.53532322860895,
-      145.89256338158913
+      149.53532372024242,
+      145.89256385961878
     ],
-    "tendency": -0.07152589686336341
+    "tendency": -0.07152541883371555
   },
   {
     "NAF Nr": "2344",
@@ -1843,15 +1843,15 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 146.59990241872887,
-    "bestRating": 148.90001968886983,
-    "worstRating": 146.42945401633992,
+    "rating": 146.59993016076197,
+    "bestRating": 148.90004744534068,
+    "worstRating": 146.42948230460573,
     "_lastTenRatings": [
-      146.42945401633992,
-      148.90001968886983,
-      146.59990241872887
+      146.42948230460573,
+      148.90004744534068,
+      146.59993016076197
     ],
-    "tendency": 0.1704484023889563
+    "tendency": 0.17044785615624392
   },
   {
     "NAF Nr": "6800",
@@ -4127,15 +4127,15 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 151.42161550748406,
-    "bestRating": 153.33386328379908,
-    "worstRating": 151.42161550748406,
+    "rating": 151.4216495061448,
+    "bestRating": 153.3338984840915,
+    "worstRating": 151.4216495061448,
     "_lastTenRatings": [
-      152.82353999591567,
-      153.33386328379908,
-      151.42161550748406
+      152.823576643695,
+      153.3338984840915,
+      151.4216495061448
     ],
-    "tendency": -1.4019244884316038
+    "tendency": -1.4019271375501887
   },
   {
     "NAF Nr": "13607",
@@ -4764,9 +4764,9 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 31.25,
-    "rating": 136.6653400838301,
+    "rating": 136.6653401961045,
     "bestRating": 156.42833842001818,
-    "worstRating": 136.22950616493887,
+    "worstRating": 136.2295062822776,
     "_lastTenRatings": [
       156.42833842001818,
       156.39484254195435,
@@ -4774,10 +4774,10 @@ const statsRaceImperial_Nobility = [
       146.2718147549382,
       141.11370329294664,
       141.2519356617073,
-      136.22950616493887,
-      136.6653400838301
+      136.2295062822776,
+      136.6653401961045
     ],
-    "tendency": -19.762998336188076
+    "tendency": -19.762998223913684
   },
   {
     "NAF Nr": "15338",
@@ -4842,7 +4842,7 @@ const statsRaceImperial_Nobility = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 165.06923911499086,
+    "rating": 165.0692391149921,
     "bestRating": 174.18019135482623,
     "worstRating": 155.5126335559143,
     "_lastTenRatings": [
@@ -4852,9 +4852,9 @@ const statsRaceImperial_Nobility = [
       174.18019135482623,
       167.14314903133808,
       171.6221793955358,
-      165.06923911499086
+      165.0692391149921
     ],
-    "tendency": 9.556605559076559
+    "tendency": 9.55660555907778
   },
   {
     "NAF Nr": "15440",
@@ -5565,6 +5565,32 @@ const statsRaceImperial_Nobility = [
       165.13822827238994
     ],
     "tendency": -12.523582461268774
+  },
+  {
+    "NAF Nr": "16714",
+    "NAF Name": "Hiruma",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 40,
+    "rating": 143.1517812313987,
+    "bestRating": 147.96894457530456,
+    "worstRating": 142.42220203136225,
+    "_lastTenRatings": [
+      144.8391999743447,
+      147.82922524166906,
+      142.42220203136225,
+      147.96894457530456,
+      143.1517812313987
+    ],
+    "tendency": -1.6874187429459937
   },
   {
     "NAF Nr": "16829",
@@ -6765,9 +6791,9 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 3,
     "winRatio": 53.85,
-    "rating": 152.48373631560705,
+    "rating": 152.48373796059954,
     "bestRating": 169.43918573786982,
-    "worstRating": 152.43415896696567,
+    "worstRating": 152.43416070197372,
     "_lastTenRatings": [
       159.73790641421886,
       160.4442219729533,
@@ -6777,10 +6803,10 @@ const statsRaceImperial_Nobility = [
       165.75663688028536,
       159.91788821013418,
       161.72507388802552,
-      152.43415896696567,
-      152.48373631560705
+      152.43416070197372,
+      152.48373796059954
     ],
-    "tendency": -7.254170098611809
+    "tendency": -7.2541684536193145
   },
   {
     "NAF Nr": "18446",
@@ -7015,7 +7041,7 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 9,
     "winRatio": 42.11,
-    "rating": 134.53257145070845,
+    "rating": 134.53257145071535,
     "bestRating": 166.93933831865453,
     "worstRating": 126.31734991433102,
     "_lastTenRatings": [
@@ -7028,9 +7054,9 @@ const statsRaceImperial_Nobility = [
       126.31734991433102,
       127.18215430898573,
       133.80392965112554,
-      134.53257145070845
+      134.53257145071535
     ],
-    "tendency": -4.749838469223562
+    "tendency": -4.749838469216655
   },
   {
     "NAF Nr": "18903",
@@ -7771,7 +7797,7 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 50,
-    "rating": 148.01774098410715,
+    "rating": 148.0178603109232,
     "bestRating": 151.3037057490831,
     "worstRating": 145.59024914347503,
     "_lastTenRatings": [
@@ -7779,9 +7805,9 @@ const statsRaceImperial_Nobility = [
       145.59024914347503,
       151.19295836021365,
       150.91964197463903,
-      148.01774098410715
+      148.0178603109232
     ],
-    "tendency": -3.285964764975944
+    "tendency": -3.285845438159896
   },
   {
     "NAF Nr": "19526",
@@ -9908,8 +9934,8 @@ const statsRaceImperial_Nobility = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 165.31760476798766,
-    "bestRating": 171.76203720742623,
+    "rating": 165.3176077142021,
+    "bestRating": 171.76204039397936,
     "worstRating": 143.9370856267529,
     "_lastTenRatings": [
       165.39054277052242,
@@ -9917,13 +9943,13 @@ const statsRaceImperial_Nobility = [
       156.88043964228874,
       150.95063545901888,
       156.5662157877636,
-      162.15587916850612,
-      167.33757124807207,
-      171.76203720742623,
-      171.0338456845488,
-      165.31760476798766
+      162.15588263179478,
+      167.33757456205274,
+      171.76204039397936,
+      171.03384874893507,
+      165.3176077142021
     ],
-    "tendency": -0.07293800253475524
+    "tendency": -0.07293505632031838
   },
   {
     "NAF Nr": "21573",
@@ -10964,22 +10990,22 @@ const statsRaceImperial_Nobility = [
       "bestpainted": 0,
       "otherawards": 2
     },
-    "rating": 174.84924254790525,
+    "rating": 174.84924216491953,
     "bestRating": 222.2498613660735,
     "worstRating": 154.57784612883313,
     "_lastTenRatings": [
       196.88858486081557,
       200.01270691711363,
       194.54848116730324,
-      188.89364512809215,
-      183.55544396082905,
-      178.02513203794106,
-      181.72001736877198,
-      180.4150803714079,
-      175.63589725422725,
-      174.84924254790525
+      188.89364469139807,
+      183.555443512786,
+      178.0251316016401,
+      181.72001694506977,
+      180.41507996036148,
+      175.6358968574274,
+      174.84924216491953
     ],
-    "tendency": -22.03934231291032
+    "tendency": -22.03934269589604
   },
   {
     "NAF Nr": "22366",
@@ -11117,7 +11143,7 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 43.75,
-    "rating": 148.31785609647102,
+    "rating": 148.31785859929855,
     "bestRating": 152.35001858619427,
     "worstRating": 144.08473305518316,
     "_lastTenRatings": [
@@ -11127,10 +11153,10 @@ const statsRaceImperial_Nobility = [
       144.08473305518316,
       147.80148826706665,
       152.35001858619427,
-      148.48977437579043,
-      148.31785609647102
+      148.48977437581482,
+      148.31785859929855
     ],
-    "tendency": 0.9260290967173717
+    "tendency": 0.9260315995448991
   },
   {
     "NAF Nr": "22578",
@@ -11274,15 +11300,15 @@ const statsRaceImperial_Nobility = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 163.36458474053123,
-    "bestRating": 163.36458474053123,
+    "rating": 163.36458474138996,
+    "bestRating": 163.36458474138996,
     "worstRating": 154.47213595499957,
     "_lastTenRatings": [
       154.47213595499957,
-      158.86114602212666,
-      163.36458474053123
+      158.8611460230159,
+      163.36458474138996
     ],
-    "tendency": 8.892448785531656
+    "tendency": 8.89244878639039
   },
   {
     "NAF Nr": "22681",
@@ -14945,22 +14971,22 @@ const statsRaceImperial_Nobility = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 143.12603062504624,
+    "rating": 143.12603062504638,
     "bestRating": 146.94474475076328,
-    "worstRating": 128.69359012586472,
+    "worstRating": 128.6935901258649,
     "_lastTenRatings": [
       140.99368515944988,
       144.81848232470716,
       141.66344355205337,
       141.608749689525,
       135.88712470529543,
-      128.69359012586472,
-      132.86353438663923,
-      133.68246790740022,
-      141.9140525237492,
-      143.12603062504624
+      128.6935901258649,
+      132.8635343866394,
+      133.6824679074004,
+      141.91405252374938,
+      143.12603062504638
     ],
-    "tendency": 2.1323454655963587
+    "tendency": 2.132345465596501
   },
   {
     "NAF Nr": "25887",
@@ -15320,7 +15346,7 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 45,
-    "rating": 143.44358345517216,
+    "rating": 143.44358345556498,
     "bestRating": 154.48775437931855,
     "worstRating": 142.99666338206166,
     "_lastTenRatings": [
@@ -15331,11 +15357,11 @@ const statsRaceImperial_Nobility = [
       154.48775437931855,
       148.41498131286366,
       143.44938511642246,
-      149.10281978278869,
-      149.11209154259922,
-      143.44358345517216
+      149.10281978300378,
+      149.11209154300988,
+      143.44358345556498
     ],
-    "tendency": -1.8498958382403714
+    "tendency": -1.849895837847555
   },
   {
     "NAF Nr": "26199",
@@ -15690,7 +15716,7 @@ const statsRaceImperial_Nobility = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 195.11453002444776,
+    "rating": 195.1145312101723,
     "bestRating": 202.68733978307273,
     "worstRating": 150,
     "_lastTenRatings": [
@@ -15698,14 +15724,14 @@ const statsRaceImperial_Nobility = [
       199.675681488248,
       195.4753668542416,
       188.83756071319073,
-      191.12702280474696,
-      190.33331575893556,
-      183.13893071277192,
-      189.09339149479854,
-      187.76541803625844,
-      195.11453002444776
+      191.12702436334683,
+      190.3333172258457,
+      183.13893209291282,
+      189.09339279727575,
+      187.7654192967241,
+      195.1145312101723
     ],
-    "tendency": -0.7816844600834827
+    "tendency": -0.7816832743589543
   },
   {
     "NAF Nr": "26536",
@@ -15789,16 +15815,16 @@ const statsRaceImperial_Nobility = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 165.4037595832034,
+    "rating": 165.40375958549305,
     "bestRating": 165.55416693794942,
     "worstRating": 155.3412797347632,
     "_lastTenRatings": [
       155.3412797347632,
       160.42445285982484,
       165.55416693794942,
-      165.4037595832034
+      165.40375958549305
     ],
-    "tendency": 10.062479848440205
+    "tendency": 10.062479850729858
   },
   {
     "NAF Nr": "26597",
@@ -17000,7 +17026,7 @@ const statsRaceImperial_Nobility = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 138.2211819897184,
+    "rating": 138.22118198971884,
     "bestRating": 153.88549098977063,
     "worstRating": 137.4690985863715,
     "_lastTenRatings": [
@@ -17011,10 +17037,10 @@ const statsRaceImperial_Nobility = [
       145.28068141518062,
       137.4690985863715,
       137.8578334003987,
-      143.78405925332166,
-      138.2211819897184
+      143.78405925332214,
+      138.22118198971884
     ],
-    "tendency": -11.663217357476356
+    "tendency": -11.6632173574759
   },
   {
     "NAF Nr": "27557",
@@ -18868,15 +18894,15 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.28009101262285,
+    "rating": 150.28009423933202,
     "bestRating": 155.7355936308219,
-    "worstRating": 150.28009101262285,
+    "worstRating": 150.28009423933202,
     "_lastTenRatings": [
       155.7355936308219,
       155.73217492785875,
-      150.28009101262285
+      150.28009423933202
     ],
-    "tendency": -5.455502618199063
+    "tendency": -5.455499391489894
   },
   {
     "NAF Nr": "28932",
@@ -20089,15 +20115,15 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 157.36124386939835,
-    "bestRating": 157.36124386939835,
+    "rating": 157.36124386942612,
+    "bestRating": 157.36124386942612,
     "worstRating": 144.95543800167513,
     "_lastTenRatings": [
       144.95543800167513,
-      150.80830358885342,
-      157.36124386939835
+      150.8083035888824,
+      157.36124386942612
     ],
-    "tendency": 12.405805867723217
+    "tendency": 12.405805867750985
   },
   {
     "NAF Nr": "29970",
@@ -20465,17 +20491,17 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 40,
-    "rating": 145.6318101686259,
+    "rating": 145.63181016862737,
     "bestRating": 161.13812806691402,
-    "worstRating": 145.6318101686259,
+    "worstRating": 145.63181016862737,
     "_lastTenRatings": [
       154.34738325551584,
       161.13812806691402,
-      156.6558379957456,
-      150.87290240506726,
-      145.6318101686259
+      156.65583799574725,
+      150.87290240506883,
+      145.63181016862737
     ],
-    "tendency": -8.715573086889947
+    "tendency": -8.715573086888469
   },
   {
     "NAF Nr": "30174",
@@ -22254,9 +22280,9 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 3,
     "winRatio": 33.33,
-    "rating": 121.08980618731944,
+    "rating": 121.0898044282901,
     "bestRating": 153.9716503071598,
-    "worstRating": 121.08980618731944,
+    "worstRating": 121.0898044282901,
     "_lastTenRatings": [
       144.54842976339435,
       139.68520336103634,
@@ -22265,11 +22291,11 @@ const statsRaceImperial_Nobility = [
       133.99547695496145,
       127.4111887307196,
       128.5158497321265,
-      122.93030082641427,
-      128.8604759635955,
-      121.08980618731944
+      122.93029880177188,
+      128.8604740933782,
+      121.0898044282901
     ],
-    "tendency": -23.458623576074913
+    "tendency": -23.45862533510426
   },
   {
     "NAF Nr": "31080",
@@ -22768,14 +22794,14 @@ const statsRaceImperial_Nobility = [
     "Country": "England",
     "raceId": "31",
     "raceName": "Imperial Nobility",
-    "gamesTotal": 6,
-    "gamesWon": 3,
-    "gamesDraw": 1,
-    "gamesLost": 2,
+    "gamesTotal": 9,
+    "gamesWon": 4,
+    "gamesDraw": 2,
+    "gamesLost": 3,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 58.33,
-    "rating": 158.87984864221275,
+    "totalTournaments": 2,
+    "winRatio": 55.56,
+    "rating": 160.9192343510613,
     "bestRating": 169.35950333679764,
     "worstRating": 155.42621658802466,
     "_lastTenRatings": [
@@ -22784,9 +22810,12 @@ const statsRaceImperial_Nobility = [
       164.09177019341126,
       169.35950333679764,
       164.27915821839997,
-      158.87984864221275
+      158.87984864221275,
+      156.32906565732102,
+      161.31131755084743,
+      160.9192343510613
     ],
-    "tendency": 3.453632054188091
+    "tendency": 5.493017763036647
   },
   {
     "NAF Nr": "31398",
@@ -25111,7 +25140,7 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 70,
-    "rating": 161.09752159092344,
+    "rating": 161.09752159158464,
     "bestRating": 161.33211313154553,
     "worstRating": 144.61167694883838,
     "_lastTenRatings": [
@@ -25119,9 +25148,9 @@ const statsRaceImperial_Nobility = [
       150.2568721377719,
       155.7094418058278,
       161.33211313154553,
-      161.09752159092344
+      161.09752159158464
     ],
-    "tendency": 16.485844642085056
+    "tendency": 16.485844642746258
   },
   {
     "NAF Nr": "32430",
@@ -26932,6 +26961,32 @@ const statsRaceImperial_Nobility = [
     "tendency": -6.352650309439397
   },
   {
+    "NAF Nr": "33363",
+    "NAF Name": "half",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 70,
+    "rating": 160.93308637326385,
+    "bestRating": 162.141932547202,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      162.141932547202,
+      161.61627547291198,
+      161.95377916472188,
+      160.93308637326385
+    ],
+    "tendency": 5.276232123771479
+  },
+  {
     "NAF Nr": "33405",
     "NAF Name": "erkintela",
     "CCAA": "Catalunya ",
@@ -27697,7 +27752,7 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 5,
     "winRatio": 38,
-    "rating": 137.50004325383296,
+    "rating": 137.5000432570082,
     "bestRating": 151.22606278184588,
     "worstRating": 120.91462961252739,
     "_lastTenRatings": [
@@ -27705,14 +27760,14 @@ const statsRaceImperial_Nobility = [
       120.91462961252739,
       122.12952352351833,
       128.1216122251112,
-      136.47688077041943,
-      138.64451421612077,
-      140.56484422128563,
-      134.11869225888003,
-      136.21737381808464,
-      137.50004325383296
+      136.47688077512458,
+      138.64451422056808,
+      140.5648442254848,
+      134.1186922628366,
+      136.21737382165315,
+      137.5000432570082
     ],
-    "tendency": 12.389210342222071
+    "tendency": 12.389210345397316
   },
   {
     "NAF Nr": "33854",
@@ -29411,7 +29466,7 @@ const statsRaceImperial_Nobility = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 140.25005420330933,
+    "rating": 140.2500542080253,
     "bestRating": 155.1713746319595,
     "worstRating": 128.7809900758948,
     "_lastTenRatings": [
@@ -29423,10 +29478,10 @@ const statsRaceImperial_Nobility = [
       132.75008544565367,
       133.0358684828439,
       128.7809900758948,
-      134.53367153212182,
-      140.25005420330933
+      134.53367153702692,
+      140.2500542080253
     ],
-    "tendency": -9.547719351834445
+    "tendency": -9.547719347118488
   },
   {
     "NAF Nr": "34907",
@@ -30367,9 +30422,9 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 9,
     "winRatio": 51.32,
-    "rating": 148.6795678118571,
+    "rating": 148.67960380565458,
     "bestRating": 181.12815696365314,
-    "worstRating": 148.6795678118571,
+    "worstRating": 148.67960380565458,
     "_lastTenRatings": [
       156.9451966041633,
       161.9833484408921,
@@ -30380,9 +30435,9 @@ const statsRaceImperial_Nobility = [
       163.97512004379348,
       158.1276567840271,
       153.45173451955827,
-      148.6795678118571
+      148.67960380565458
     ],
-    "tendency": -8.265628792306188
+    "tendency": -8.26559279850872
   },
   {
     "NAF Nr": "35675",
@@ -30478,7 +30533,7 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 70,
-    "rating": 157.94614482533257,
+    "rating": 157.9461448277749,
     "bestRating": 158.2362014572203,
     "worstRating": 149.13225968177863,
     "_lastTenRatings": [
@@ -30486,9 +30541,9 @@ const statsRaceImperial_Nobility = [
       149.13225968177863,
       153.9518276971816,
       158.2362014572203,
-      157.94614482533257
+      157.9461448277749
     ],
-    "tendency": 3.3635691303767317
+    "tendency": 3.363569132819066
   },
   {
     "NAF Nr": "35753",
@@ -31630,9 +31685,9 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 31.25,
-    "rating": 134.50255321425726,
+    "rating": 134.50255321863696,
     "bestRating": 150.9637910001778,
-    "worstRating": 134.50255321425726,
+    "worstRating": 134.50255321863696,
     "_lastTenRatings": [
       144.9009804864072,
       150,
@@ -31641,9 +31696,9 @@ const statsRaceImperial_Nobility = [
       145.54975435985824,
       140.09718469180234,
       135.41994707506873,
-      134.50255321425726
+      134.50255321863696
     ],
-    "tendency": -10.398427272149945
+    "tendency": -10.398427267770245
   },
   {
     "NAF Nr": "36836",
@@ -31898,6 +31953,15 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "rating": 148.82519290178593,
     "bestRating": 161.31370849898474,
     "worstRating": 148.82519290178593,
@@ -32496,7 +32560,7 @@ const statsRaceImperial_Nobility = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 165.34906563031058,
+    "rating": 165.34907139984318,
     "bestRating": 168.34904085964206,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
@@ -32504,10 +32568,10 @@ const statsRaceImperial_Nobility = [
       161.29498895242773,
       168.34904085964206,
       167.77217587741433,
-      166.01642041353364,
-      165.34906563031058
+      166.0164261662008,
+      165.34907139984318
     ],
-    "tendency": 9.692211380818208
+    "tendency": 9.692217150350814
   },
   {
     "NAF Nr": "37499",
@@ -33073,9 +33137,9 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 5,
     "winRatio": 33.33,
-    "rating": 128.43166229015694,
+    "rating": 128.43169554619402,
     "bestRating": 145.23012571097854,
-    "worstRating": 128.19191182981874,
+    "worstRating": 128.1919128842983,
     "_lastTenRatings": [
       137.0325422506326,
       136.95388627595696,
@@ -33084,11 +33148,11 @@ const statsRaceImperial_Nobility = [
       144.1681801303741,
       139.75598108317448,
       135.77798094225102,
-      132.2939662582238,
-      128.19191182981874,
-      128.43166229015694
+      132.29396734716303,
+      128.1919128842983,
+      128.43169554619402
     ],
-    "tendency": -8.600879960475652
+    "tendency": -8.600846704438567
   },
   {
     "NAF Nr": "38334",
@@ -33104,15 +33168,15 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 158.2696013554616,
-    "bestRating": 161.2848449549263,
+    "rating": 158.2696014102691,
+    "bestRating": 161.28484501165968,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
       155.65685424949237,
-      161.2848449549263,
-      158.2696013554616
+      161.28484501165968,
+      158.2696014102691
     ],
-    "tendency": 2.6127471059692198
+    "tendency": 2.6127471607767347
   },
   {
     "NAF Nr": "38371",
@@ -33128,16 +33192,16 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 146.2232467923573,
+    "rating": 146.2232467923576,
     "bestRating": 151.02056051095826,
     "worstRating": 144.9800783006694,
     "_lastTenRatings": [
       144.9800783006694,
       149.77764863158768,
       151.02056051095826,
-      146.2232467923573
+      146.2232467923576
     ],
-    "tendency": 1.2431684916878964
+    "tendency": 1.243168491688209
   },
   {
     "NAF Nr": "38400",
@@ -33696,15 +33760,15 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.68652630505258,
+    "rating": 150.68652630505667,
     "bestRating": 153.1580703915698,
     "worstRating": 150.597135217523,
     "_lastTenRatings": [
       153.1580703915698,
       150.597135217523,
-      150.68652630505258
+      150.68652630505667
     ],
-    "tendency": -2.4715440865172127
+    "tendency": -2.47154408651312
   },
   {
     "NAF Nr": "39369",
@@ -34044,7 +34108,7 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 4,
     "winRatio": 37.5,
-    "rating": 136.17060708942196,
+    "rating": 136.06939046327201,
     "bestRating": 150.42647824628577,
     "worstRating": 134.5651785048052,
     "_lastTenRatings": [
@@ -34055,11 +34119,11 @@ const statsRaceImperial_Nobility = [
       145.32262012583752,
       139.86218020281973,
       134.5651785048052,
-      139.8302331166479,
-      135.44069160462004,
-      136.17060708942196
+      139.7199559639652,
+      135.33496128736158,
+      136.06939046327201
     ],
-    "tendency": -10.24429837066819
+    "tendency": -10.345514996818139
   },
   {
     "NAF Nr": "39872",
@@ -34220,16 +34284,16 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 138.94194329707116,
+    "rating": 138.94194329385496,
     "bestRating": 144.74840495445167,
     "worstRating": 133.24643340296424,
     "_lastTenRatings": [
       144.74840495445167,
       138.61384881022593,
       133.24643340296424,
-      138.94194329707116
+      138.94194329385496
     ],
-    "tendency": -5.80646165738051
+    "tendency": -5.80646166059671
   },
   {
     "NAF Nr": "40063",
@@ -34455,7 +34519,7 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 41.67,
-    "rating": 139.6692157826629,
+    "rating": 139.66921578199296,
     "bestRating": 144.8657821593907,
     "worstRating": 131.4533663712413,
     "_lastTenRatings": [
@@ -34464,9 +34528,9 @@ const statsRaceImperial_Nobility = [
       142.53031519792788,
       131.4533663712413,
       131.62039537935223,
-      139.6692157826629
+      139.66921578199296
     ],
-    "tendency": -5.196566376727816
+    "tendency": -5.196566377397744
   },
   {
     "NAF Nr": "40389",
@@ -34682,9 +34746,9 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 4,
     "winRatio": 26.67,
-    "rating": 119.82528117061898,
+    "rating": 119.825281170619,
     "bestRating": 144.5402010448302,
-    "worstRating": 119.82528117061898,
+    "worstRating": 119.825281170619,
     "_lastTenRatings": [
       139.76175351893062,
       133.88276189368972,
@@ -34695,9 +34759,9 @@ const statsRaceImperial_Nobility = [
       126.34191684923836,
       127.35795998782714,
       123.46814550772876,
-      119.82528117061898
+      119.825281170619
     ],
-    "tendency": -19.93647234831164
+    "tendency": -19.936472348311625
   },
   {
     "NAF Nr": "40662",
@@ -34791,16 +34855,16 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.95107070074104,
+    "rating": 149.95107070089537,
     "bestRating": 155.5943915024352,
-    "worstRating": 149.95107070074104,
+    "worstRating": 149.95107070089537,
     "_lastTenRatings": [
       150,
       155.5943915024352,
-      150.67971250032394,
-      149.95107070074104
+      150.67971250048518,
+      149.95107070089537
     ],
-    "tendency": -0.04892929925895828
+    "tendency": -0.0489292991046284
   },
   {
     "NAF Nr": "40871",
@@ -35263,7 +35327,7 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.58609923471175,
+    "rating": 149.58609923471258,
     "bestRating": 153.7677382209072,
     "worstRating": 145.6396986575179,
     "_lastTenRatings": [
@@ -35271,9 +35335,9 @@ const statsRaceImperial_Nobility = [
       145.6396986575179,
       149.4088125205876,
       153.7677382209072,
-      149.58609923471175
+      149.58609923471258
     ],
-    "tendency": 3.9449981782524333
+    "tendency": 3.9449981782532575
   },
   {
     "NAF Nr": "41815",
@@ -35352,17 +35416,17 @@ const statsRaceImperial_Nobility = [
       "bestpainted": 1,
       "otherawards": 0
     },
-    "rating": 138.82491249071495,
-    "bestRating": 147.61582083778032,
-    "worstRating": 138.82491249071495,
+    "rating": 138.82598363250747,
+    "bestRating": 147.61696849986126,
+    "worstRating": 138.82598363250747,
     "_lastTenRatings": [
       144.57772361035316,
-      147.61582083778032,
-      143.2494327195039,
-      143.0521291014569,
-      138.82491249071495
+      147.61696849986126,
+      143.2505410102028,
+      143.05323819875275,
+      138.82598363250747
     ],
-    "tendency": -5.75281111963821
+    "tendency": -5.751739977845688
   },
   {
     "NAF Nr": "41871",
@@ -35563,16 +35627,16 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 145.3668591019564,
+    "rating": 145.3668589862463,
     "bestRating": 156.06089308120107,
-    "worstRating": 145.3668591019564,
+    "worstRating": 145.3668589862463,
     "_lastTenRatings": [
       150.45944878701985,
       156.06089308120107,
-      150.7791063842394,
-      145.3668591019564
+      150.77910632575527,
+      145.3668589862463
     ],
-    "tendency": -5.0925896850634444
+    "tendency": -5.092589800773538
   },
   {
     "NAF Nr": "42310",
@@ -35690,15 +35754,15 @@ const statsRaceImperial_Nobility = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 145.67146456450715,
-    "bestRating": 157.07087251533738,
-    "worstRating": 145.67146456450715,
+    "rating": 145.6714645651477,
+    "bestRating": 157.07087251600754,
+    "worstRating": 145.6714645651477,
     "_lastTenRatings": [
       155.90061624725516,
-      157.07087251533738,
-      151.379992943045,
-      145.67146456450715
+      157.07087251600754,
+      151.3799929436861,
+      145.6714645651477
     ],
-    "tendency": -10.229151682748011
+    "tendency": -10.22915168210747
   }
 ];

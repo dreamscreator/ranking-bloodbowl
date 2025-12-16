@@ -260,5 +260,30 @@ const lizardmen2025 = [
       142
     ],
     "tendency": -4
+  },
+  {
+    "NAF Nr": "42757",
+    "NAF Name": "kw_walker",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 154.32395155030656,
+    "bestRating": 154.47213595499957,
+    "worstRating": 154.32395155030656,
+    "_lastTenRatings": [
+      154.47213595499957,
+      154.47213595499957,
+      154.47213595499957,
+      154.32395155030656
+    ],
+    "tendency": -0.14818440469301208
   }
 ];

@@ -72,6 +72,31 @@ const imperialnobility2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "13211",
+    "NAF Name": "ARKNGEL",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 161.31370849898474,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.65685424949237,
+      150
+    ],
+    "tendency": -5.656854249492369
+  },
+  {
     "NAF Nr": "16347",
     "NAF Name": "docmaxx",
     "CCAA": "Apatrida",

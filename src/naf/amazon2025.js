@@ -24,6 +24,31 @@ const amazon2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "23272",
+    "NAF Name": "modedaala",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 145.68130945949198,
+    "bestRating": 150,
+    "worstRating": 141.05572809000085,
+    "_lastTenRatings": [
+      150,
+      145.52786404500043,
+      141.05572809000085,
+      145.68130945949198
+    ],
+    "tendency": -4.318690540508015
+  },
+  {
     "NAF Nr": "25276",
     "NAF Name": "KapitanStokczan",
     "CCAA": "Apatrida",
@@ -120,6 +145,40 @@ const amazon2025 = [
       154
     ],
     "tendency": 8
+  },
+  {
+    "NAF Nr": "37851",
+    "NAF Name": "Davarimar",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 138.68629150101526,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.0294372515229,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229,
+      138.68629150101526
+    ],
+    "tendency": -5.656854249492369
   },
   {
     "NAF Nr": "37994",

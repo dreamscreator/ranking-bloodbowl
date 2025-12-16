@@ -261,18 +261,18 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function populateCcaa() {
     const list = Array.from(new Set(allRows.map((r) => r.ccaa))).filter(Boolean).sort();
-    ccaaFilter.innerHTML = '<option value="all">Todas / All</option>' + list.map((c) => `<option value="${c}">${c}</option>`).join("");
+    ccaaFilter.innerHTML = '<option value="all" data-i18n="todas">Todas</option>' + list.map((c) => `<option value="${c}">${c}</option>`).join("");
   }
 
   function populateWinRatio() {
-    let opts = '<option value="">Todos / All</option>';
+    let opts = '<option value="" data-i18n="todos">Todos</option>';
     for (let i = 0; i <= 100; i += 10) opts += `<option value="${i}">${i}</option>`;
     wrMinFilter.innerHTML = opts;
     wrMaxFilter.innerHTML = opts;
   }
 
   function populateGames() {
-    let opts = '<option value="">Todos / All</option>';
+    let opts = '<option value="" data-i18n="todos">Todos</option>';
     for (let i = 0; i < 100; i += 10) opts += `<option value="${i}">${i}</option>`;
     for (let j = 100; j < 1000; j += 100) opts += `<option value="${j}">${j}</option>`;
     opts += '<option value="1000+">1000+</option>';

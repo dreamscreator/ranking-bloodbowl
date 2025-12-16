@@ -81,6 +81,31 @@ const dwarf2025 = [
     "tendency": -3.63423294654433
   },
   {
+    "NAF Nr": "16100",
+    "NAF Name": "Saburo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.34314575050763,
+      150
+    ],
+    "tendency": 5.656854249492369
+  },
+  {
     "NAF Nr": "16184",
     "NAF Name": "wotfudboy",
     "CCAA": "Apatrida",
@@ -127,6 +152,31 @@ const dwarf2025 = [
       150
     ],
     "tendency": -3.464101615137764
+  },
+  {
+    "NAF Nr": "24449",
+    "NAF Name": "calltroop",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      155.65685424949237,
+      150
+    ],
+    "tendency": -5.656854249492369
   },
   {
     "NAF Nr": "27626",

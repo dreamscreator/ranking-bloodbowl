@@ -1,5 +1,39 @@
 const chaosdwarf2025 = [
   {
+    "NAF Nr": "5275",
+    "NAF Name": "bb_nut",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "9",
+    "raceName": "Chaos Dwarf",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 153.3720850028871,
+    "bestRating": 156.83612152365885,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      153.46410161513776,
+      156.83612152365885,
+      153.3720850028871
+    ],
+    "tendency": 3.372085002887104
+  },
+  {
     "NAF Nr": "6780",
     "NAF Name": "runki_khrum",
     "CCAA": "Apatrida",
@@ -85,6 +119,31 @@ const chaosdwarf2025 = [
     "tendency": 3.464101615137764
   },
   {
+    "NAF Nr": "30804",
+    "NAF Name": "exadun",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "9",
+    "raceName": "Chaos Dwarf",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 144.5992368118786,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.5992368118786,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      150,
+      144.5992368118786
+    ],
+    "tendency": -11.057617437613771
+  },
+  {
     "NAF Nr": "32059",
     "NAF Name": "stratford_",
     "CCAA": "Apatrida",
@@ -158,5 +217,30 @@ const chaosdwarf2025 = [
       140.2020410288673
     ],
     "tendency": -4.898979485566343
+  },
+  {
+    "NAF Nr": "39479",
+    "NAF Name": "actualpow",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "9",
+    "raceName": "Chaos Dwarf",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.08969849040372,
+    "bestRating": 153.46410161513776,
+    "worstRating": 149.99755173544835,
+    "_lastTenRatings": [
+      153.46410161513776,
+      153.46410161513776,
+      149.99755173544835,
+      150.08969849040372
+    ],
+    "tendency": -3.3744031247340445
   }
 ];

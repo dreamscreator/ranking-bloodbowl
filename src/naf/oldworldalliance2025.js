@@ -24,6 +24,115 @@ const oldworldalliance2025 = [
     "tendency": -3.8490818270035447
   },
   {
+    "NAF Nr": "3294",
+    "NAF Name": "SirMayans",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "28",
+    "raceName": "Old World Alliance",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 161.31370849898474,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.65685424949237,
+      161.31370849898474
+    ],
+    "tendency": 5.656854249492369
+  },
+  {
+    "NAF Nr": "5675",
+    "NAF Name": "Spazzfist",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "28",
+    "raceName": "Old World Alliance",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.15344541449156,
+    "bestRating": 150.15344541449156,
+    "worstRating": 145.52786404500043,
+    "_lastTenRatings": [
+      145.52786404500043,
+      150,
+      145.52786404500043,
+      150.15344541449156
+    ],
+    "tendency": 4.62558136949113
+  },
+  {
+    "NAF Nr": "6482",
+    "NAF Name": "grant85",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "28",
+    "raceName": "Old World Alliance",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 87.5,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 163.56459226969173,
+    "bestRating": 163.56459226969173,
+    "worstRating": 154.47213595499957,
+    "_lastTenRatings": [
+      154.47213595499957,
+      154.47213595499957,
+      158.94427190999915,
+      163.56459226969173
+    ],
+    "tendency": 9.092456314692157
+  },
+  {
+    "NAF Nr": "14051",
+    "NAF Name": "Ratamuerta",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "28",
+    "raceName": "Old World Alliance",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 161.31370849898474,
+    "bestRating": 161.31370849898474,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      155.65685424949237,
+      161.31370849898474
+    ],
+    "tendency": 16.970562748477107
+  },
+  {
     "NAF Nr": "16068",
     "NAF Name": "thatasianguy",
     "CCAA": "Apatrida",
@@ -132,6 +241,40 @@ const oldworldalliance2025 = [
     "tendency": 4.461963537198898
   },
   {
+    "NAF Nr": "21834",
+    "NAF Name": "nsc",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "28",
+    "raceName": "Old World Alliance",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 158.94427190999915,
+    "bestRating": 158.94427190999915,
+    "worstRating": 145.52786404500043,
+    "_lastTenRatings": [
+      145.52786404500043,
+      150,
+      154.47213595499957,
+      158.94427190999915
+    ],
+    "tendency": 13.416407864998718
+  },
+  {
     "NAF Nr": "23560",
     "NAF Name": "M_Ruckuss",
     "CCAA": "Apatrida",
@@ -187,6 +330,30 @@ const oldworldalliance2025 = [
       159.61383892757868
     ],
     "tendency": 4.71485944201234
+  },
+  {
+    "NAF Nr": "25645",
+    "NAF Name": "Trefenwyd",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "28",
+    "raceName": "Old World Alliance",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 146.09022674846238,
+    "bestRating": 148.0609121823313,
+    "worstRating": 146.09022674846238,
+    "_lastTenRatings": [
+      148.0609121823313,
+      148.06044838860424,
+      146.09022674846238
+    ],
+    "tendency": -1.9706854338689084
   },
   {
     "NAF Nr": "26717",
@@ -296,6 +463,81 @@ const oldworldalliance2025 = [
     "tendency": -0.13684461386907287
   },
   {
+    "NAF Nr": "29932",
+    "NAF Name": "abaddon",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "28",
+    "raceName": "Old World Alliance",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 161.30305136213522,
+    "bestRating": 166.9705627484771,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      166.9705627484771,
+      161.30305136213522
+    ],
+    "tendency": 5.646197112642852
+  },
+  {
+    "NAF Nr": "30085",
+    "NAF Name": "pablo1880",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "28",
+    "raceName": "Old World Alliance",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 155.65685424949237,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      161.31370849898474,
+      155.65685424949237
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "30088",
+    "NAF Name": "murdraer",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "28",
+    "raceName": "Old World Alliance",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 144.34314575050763,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      144.34314575050763,
+      144.34314575050763
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "30428",
     "NAF Name": "elplanet4",
     "CCAA": "Apatrida",
@@ -328,6 +570,56 @@ const oldworldalliance2025 = [
       167.8739883168549
     ],
     "tendency": 13.401852361855333
+  },
+  {
+    "NAF Nr": "30754",
+    "NAF Name": "rafmar",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "28",
+    "raceName": "Old World Alliance",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 155.65685424949237,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      161.31370849898474,
+      155.65685424949237
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "30815",
+    "NAF Name": "pawel406",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "28",
+    "raceName": "Old World Alliance",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 87.5,
+    "rating": 166.9705627484771,
+    "bestRating": 166.9705627484771,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      161.31370849898474,
+      166.9705627484771
+    ],
+    "tendency": 11.313708498984738
   },
   {
     "NAF Nr": "32222",
@@ -397,6 +689,40 @@ const oldworldalliance2025 = [
       158.78083466213758
     ],
     "tendency": 4.3086987071380065
+  },
+  {
+    "NAF Nr": "32494",
+    "NAF Name": "HexBaron",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "28",
+    "raceName": "Old World Alliance",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 156.83367503497988,
+    "bestRating": 156.83367503497988,
+    "worstRating": 153.46410161513776,
+    "_lastTenRatings": [
+      153.46410161513776,
+      153.46410161513776,
+      153.46410161513776,
+      156.83367503497988
+    ],
+    "tendency": 3.369573419842112
   },
   {
     "NAF Nr": "34451",
@@ -513,6 +839,31 @@ const oldworldalliance2025 = [
       150.20571214683588
     ],
     "tendency": 5.497214768965051
+  },
+  {
+    "NAF Nr": "40486",
+    "NAF Name": "UxiaBowl",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "28",
+    "raceName": "Old World Alliance",
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 127.37258300203051,
+    "bestRating": 144.34314575050763,
+    "worstRating": 127.37258300203051,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229,
+      127.37258300203051
+    ],
+    "tendency": -16.97056274847712
   },
   {
     "NAF Nr": "42769",

@@ -82,6 +82,31 @@ const underworlddenizens2025 = [
     "tendency": 4.6904157598234235
   },
   {
+    "NAF Nr": "35614",
+    "NAF Name": "daz",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "23",
+    "raceName": "Underworld Denizens",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 153.4617183989898,
+    "bestRating": 153.4617183989898,
+    "worstRating": 146.53589838486224,
+    "_lastTenRatings": [
+      146.53589838486224,
+      146.62798009147892,
+      150.08963344206504,
+      153.4617183989898
+    ],
+    "tendency": 6.9258200141275665
+  },
+  {
     "NAF Nr": "37030",
     "NAF Name": "lloydwhite66",
     "CCAA": "Apatrida",

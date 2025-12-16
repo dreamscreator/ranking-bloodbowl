@@ -57,6 +57,31 @@ const skaven2025 = [
     "tendency": 8.71779788708136
   },
   {
+    "NAF Nr": "17880",
+    "NAF Name": "Kobro",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 154.3239515503066,
+    "bestRating": 154.47213595499957,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      154.47213595499957,
+      150,
+      154.3239515503066
+    ],
+    "tendency": 4.323951550306589
+  },
+  {
     "NAF Nr": "17893",
     "NAF Name": "fackko",
     "CCAA": "Apatrida",
@@ -129,6 +154,65 @@ const skaven2025 = [
     "tendency": 10.583005244258345
   },
   {
+    "NAF Nr": "24229",
+    "NAF Name": "stelthelf",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 153.3719548601824,
+    "bestRating": 153.46410161513776,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      153.46410161513776,
+      153.46410161513776,
+      153.3719548601824
+    ],
+    "tendency": 3.3719548601823988
+  },
+  {
+    "NAF Nr": "26425",
+    "NAF Name": "zoddicus",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.30162981918457,
+    "bestRating": 154.47213595499957,
+    "worstRating": 150.15344541449156,
+    "_lastTenRatings": [
+      154.47213595499957,
+      154.47213595499957,
+      150.15344541449156,
+      150.30162981918457
+    ],
+    "tendency": -4.170506135815003
+  },
+  {
     "NAF Nr": "28783",
     "NAF Name": "EvilSmoothie",
     "CCAA": "Apatrida",
@@ -161,6 +245,30 @@ const skaven2025 = [
       160.21058801278352
     ],
     "tendency": 10.210588012783518
+  },
+  {
+    "NAF Nr": "32132",
+    "NAF Name": "jake_shealy",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 146.03068415475087,
+    "bestRating": 148.03116251705666,
+    "worstRating": 146.03068415475087,
+    "_lastTenRatings": [
+      148.0306987233296,
+      148.03116251705666,
+      146.03068415475087
+    ],
+    "tendency": -2.0000145685787345
   },
   {
     "NAF Nr": "32223",
@@ -248,6 +356,56 @@ const skaven2025 = [
       144.34314575050763
     ],
     "tendency": -11.313708498984738
+  },
+  {
+    "NAF Nr": "37253",
+    "NAF Name": "Lestatbb",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 144.34314575050763,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      150,
+      144.34314575050763
+    ],
+    "tendency": -11.313708498984738
+  },
+  {
+    "NAF Nr": "37254",
+    "NAF Name": "anderbb",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 138.68629150101526,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      144.34314575050763,
+      138.68629150101526
+    ],
+    "tendency": -5.656854249492369
   },
   {
     "NAF Nr": "37328",

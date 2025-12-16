@@ -157,7 +157,6 @@
         mejor: "Mejor",
         peor: "Peor",
         introduce: "Introduce un NAF # o un Entrenador para buscar.",
-        buscarNAF: "Buscar por NAF",
         perfiles: "Perfiles",
         razas: "Razas",
         razas2025: "Razas BB2025",
@@ -187,6 +186,12 @@
         comoEstadisticas: "¿Cómo funciona las Estadísticas Extra?",
         comoEstadisticas1: "En las estadísticas extra se muestra la máxima anotación, la máxima encajada, el partido con más anotación combinada, la mayor diferencia a favor y la mayor diferencia en contra en un partido.",
         comoEstadisticas2: "Además se muestra el archienemigo, el entrenador contra el que se han jugado mayor número de partidos en diferentes torneos.",
+        donaciones: "DONACIÓN",
+        estadistica: "Estadísticas Extra",
+        buscarNaf: "Buscar por NAF",
+        buscarEntrenador: "Buscar por Entrenador",
+        todos: "Todos",
+        todos: "Todas",
       },
       en: {
         actualizacion: "Update 30/01/2025",
@@ -358,7 +363,6 @@
         mejor: "Best",
         peor: "Worst",
         introduce: "Enter a NAF # or Trainer to search for.",
-        buscarNAF: "Search by NAF",
         perfiles: "Profiles",
         razas: "Races",
         razas2025: "Races BB2025",
@@ -388,23 +392,54 @@
         comoEstadisticas: "How do Extra Statistics work?",
         comoEstadisticas1: "Extra statistics show the highest score, the highest number of goals conceded, the match with the highest combined score, the biggest difference in favour and the biggest difference against in a match.",
         comoEstadisticas2: "It also shows the arch-rival, the coach against whom the most matches have been played in different tournaments.",
+        donaciones: "DONATION",
+        estadistica: "Extra Stadistics",
+        buscarNaf: "Search by NAF",
+        buscarEntrenador: "Search by Coach",
+        todos: "All",
+        todas: "All",
       }
     };
 
-    function setLanguage(lang) {
-      localStorage.setItem('lang', lang);
-      applyTranslations();
-    }
+function setLanguage(lang) {
+  localStorage.setItem('lang', lang);
+  applyTranslations();
+}
 
-    function applyTranslations() {
-      const lang = localStorage.getItem('lang') || 'es';
-      document.title = translations[lang].title;
-      document.querySelectorAll('[data-i18n]').forEach(el => {
-        const key = el.getAttribute('data-i18n');
-        if (translations[lang][key]) {
-          el.innerHTML = translations[lang][key];
-        }
-      });
-    }
+function applyTranslations() {
+  const lang = localStorage.getItem('lang') || 'es';
 
-    document.addEventListener('DOMContentLoaded', applyTranslations);
+  // Título
+  if (translations[lang]?.title) {
+    document.title = translations[lang].title;
+  }
+
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    const raw = el.getAttribute('data-i18n');
+    if (!raw) return;
+
+    // Permite varias instrucciones: data-i18n="[placeholder]buscarNaf;[title]ayudaNaf"
+    const tokens = raw.split(';').map(t => t.trim()).filter(Boolean);
+
+    tokens.forEach(token => {
+      // Caso: [atributo]clave  -> setAttribute(atributo, traducción)
+      const match = token.match(/^\[(.+?)\](.+)$/);
+      if (match) {
+        const attr = match[1].trim();   // placeholder
+        const key = match[2].trim();    // buscarNaf
+        const value = translations[lang]?.[key];
+        if (value != null) el.setAttribute(attr, value);
+        return;
+      }
+
+      // Caso normal: data-i18n="clave" -> texto del elemento
+      const value = translations[lang]?.[token];
+      if (value != null) {
+        // Mejor usar textContent para labels normales (evita meter HTML sin querer)
+        el.textContent = value;
+      }
+    });
+  });
+}
+
+document.addEventListener('DOMContentLoaded', applyTranslations);

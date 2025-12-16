@@ -334,6 +334,31 @@ const human2025 = [
     "tendency": -8.291413804605298
   },
   {
+    "NAF Nr": "42043",
+    "NAF Name": "Brushei",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "4",
+    "raceName": "Human",
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 138.90071879632424,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      138.92110841805226,
+      138.90071879632424
+    ],
+    "tendency": -5.442426954183389
+  },
+  {
     "NAF Nr": "42435",
     "NAF Name": "tauorca",
     "CCAA": "Apatrida",

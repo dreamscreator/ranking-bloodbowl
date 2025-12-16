@@ -1,5 +1,30 @@
 const tombkings2025 = [
   {
+    "NAF Nr": "8196",
+    "NAF Name": "J.a.m",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "17",
+    "raceName": "Tomb Kings",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.01065713684952,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      155.65685424949237,
+      150.01065713684952
+    ],
+    "tendency": -5.646197112642852
+  },
+  {
     "NAF Nr": "17340",
     "NAF Name": "Arioch",
     "CCAA": "Apatrida",
@@ -165,6 +190,31 @@ const tombkings2025 = [
     "tendency": -4.859199090777338
   },
   {
+    "NAF Nr": "27740",
+    "NAF Name": "tharsis",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "17",
+    "raceName": "Tomb Kings",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 144.56778421276553,
+    "bestRating": 144.56778421276553,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      138.68629150101526,
+      144.56778421276553
+    ],
+    "tendency": 0.22463846225790007
+  },
+  {
     "NAF Nr": "27964",
     "NAF Name": "astrolay",
     "CCAA": "Apatrida",
@@ -187,6 +237,31 @@ const tombkings2025 = [
       154.89897948556634
     ],
     "tendency": 0
+  },
+  {
+    "NAF Nr": "29014",
+    "NAF Name": "dalyo",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "17",
+    "raceName": "Tomb Kings",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 153.36500687213757,
+    "bestRating": 153.36500687213757,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      150.09208170661668,
+      150.08718517995922,
+      153.36500687213757
+    ],
+    "tendency": 3.3650068721375703
   },
   {
     "NAF Nr": "30923",
@@ -279,6 +354,56 @@ const tombkings2025 = [
       158.93936028454527
     ],
     "tendency": 4.467224329545701
+  },
+  {
+    "NAF Nr": "32831",
+    "NAF Name": "BigDan",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "17",
+    "raceName": "Tomb Kings",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 146.5383448735412,
+    "bestRating": 150,
+    "worstRating": 146.53589838486224,
+    "_lastTenRatings": [
+      150,
+      146.53589838486224,
+      149.90791829338332,
+      146.5383448735412
+    ],
+    "tendency": -3.461655126458794
+  },
+  {
+    "NAF Nr": "33836",
+    "NAF Name": "metzar",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "17",
+    "raceName": "Tomb Kings",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 144.57794347239155,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.57794347239155,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      150.24545485873344,
+      144.57794347239155
+    ],
+    "tendency": -11.078910777100816
   },
   {
     "NAF Nr": "34191",
@@ -378,5 +503,30 @@ const tombkings2025 = [
       154.1227659692996
     ],
     "tendency": 4.122765969299593
+  },
+  {
+    "NAF Nr": "42796",
+    "NAF Name": "KFBass",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "17",
+    "raceName": "Tomb Kings",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 141.05572809000085,
+    "bestRating": 145.52786404500043,
+    "worstRating": 136.58359213500128,
+    "_lastTenRatings": [
+      145.52786404500043,
+      141.05572809000085,
+      136.58359213500128,
+      141.05572809000085
+    ],
+    "tendency": -4.4721359549995725
   }
 ];

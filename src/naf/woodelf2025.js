@@ -148,6 +148,39 @@ const woodelf2025 = [
     "tendency": 22.35050115162221
   },
   {
+    "NAF Nr": "22433",
+    "NAF Name": "HDubbs",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "12",
+    "raceName": "Wood Elf",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 151.97070000244764,
+    "bestRating": 151.97070000244764,
+    "worstRating": 148,
+    "_lastTenRatings": [
+      148,
+      150.00047836230578,
+      151.97070000244764
+    ],
+    "tendency": 3.970700002447643
+  },
+  {
     "NAF Nr": "23028",
     "NAF Name": "BadStorm",
     "CCAA": "Apatrida",
@@ -170,6 +203,31 @@ const woodelf2025 = [
       154.86262954655504
     ],
     "tendency": -0.42887307557413124
+  },
+  {
+    "NAF Nr": "24623",
+    "NAF Name": "xiete",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "12",
+    "raceName": "Wood Elf",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 144.34314575050763,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      150,
+      144.34314575050763
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "25123",
@@ -219,6 +277,56 @@ const woodelf2025 = [
       153.37446648912467
     ],
     "tendency": 3.3744664891246714
+  },
+  {
+    "NAF Nr": "27154",
+    "NAF Name": "gangcha",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "12",
+    "raceName": "Wood Elf",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.34314575050763,
+      150
+    ],
+    "tendency": -5.656854249492369
+  },
+  {
+    "NAF Nr": "29363",
+    "NAF Name": "Mapachecoactivo",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "12",
+    "raceName": "Wood Elf",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 144.11900508982473,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.11900508982473,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      149.75454514126653,
+      144.11900508982473
+    ],
+    "tendency": -11.537849159667644
   },
   {
     "NAF Nr": "31773",
@@ -311,6 +419,40 @@ const woodelf2025 = [
       158
     ],
     "tendency": 4
+  },
+  {
+    "NAF Nr": "39624",
+    "NAF Name": "NervUK",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "12",
+    "raceName": "Wood Elf",
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 12.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 139.97076591200252,
+    "bestRating": 146.53589838486224,
+    "worstRating": 139.6997768612034,
+    "_lastTenRatings": [
+      146.53589838486224,
+      143.07179676972447,
+      139.6997768612034,
+      139.97076591200252
+    ],
+    "tendency": -6.565132472859716
   },
   {
     "NAF Nr": "39874",

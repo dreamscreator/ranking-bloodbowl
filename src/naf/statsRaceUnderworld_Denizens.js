@@ -12319,8 +12319,8 @@ const statsRaceUnderworld_Denizens = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 196.6612184259185,
-    "bestRating": 198.8322828463314,
+    "rating": 196.66121842591866,
+    "bestRating": 198.8322828463316,
     "worstRating": 143.4852766922316,
     "_lastTenRatings": [
       180.37725525023137,
@@ -12330,11 +12330,11 @@ const statsRaceUnderworld_Denizens = [
       190.62477252489913,
       188.9713733877121,
       194.60045000172082,
-      198.8322828463314,
-      197.78933092437714,
-      196.6612184259185
+      198.8322828463316,
+      197.78933092437734,
+      196.66121842591866
     ],
-    "tendency": 16.28396317568712
+    "tendency": 16.28396317568729
   },
   {
     "NAF Nr": "13625",
@@ -16736,29 +16736,29 @@ const statsRaceUnderworld_Denizens = [
     "Country": "England",
     "raceId": "23",
     "raceName": "Underworld Denizens",
-    "gamesTotal": 24,
-    "gamesWon": 11,
+    "gamesTotal": 27,
+    "gamesWon": 13,
     "gamesDraw": 9,
-    "gamesLost": 4,
+    "gamesLost": 5,
     "totalWinRatio": 0,
-    "totalTournaments": 4,
-    "winRatio": 64.58,
-    "rating": 201.14683796786733,
-    "bestRating": 201.14683796786733,
+    "totalTournaments": 5,
+    "winRatio": 64.81,
+    "rating": 200.2812830408938,
+    "bestRating": 204.57793274405384,
     "worstRating": 149.75454514126653,
     "_lastTenRatings": [
-      185.99124818399167,
-      191.69370114074403,
-      190.93062467207722,
       184.4545983963956,
       174.70667165912232,
       181.12233267926229,
       179.98854550656196,
       187.31545004000634,
       192.44265709601737,
-      201.14683796786733
+      201.14683796786733,
+      204.57793274405384,
+      196.7322022974535,
+      200.2812830408938
     ],
-    "tendency": 15.155589783875655
+    "tendency": 15.826684644498215
   },
   {
     "NAF Nr": "16848",
@@ -20891,7 +20891,7 @@ const statsRaceUnderworld_Denizens = [
       "bestpainted": 1,
       "otherawards": 1
     },
-    "rating": 189.69453396726237,
+    "rating": 189.6945340023491,
     "bestRating": 198.32972632294542,
     "worstRating": 157.835652961441,
     "_lastTenRatings": [
@@ -20903,10 +20903,10 @@ const statsRaceUnderworld_Denizens = [
       188.9154347750494,
       193.91769072562315,
       198.32972632294542,
-      191.1861565468434,
-      189.69453396726237
+      191.18615658340406,
+      189.6945340023491
     ],
-    "tendency": 2.361723750723627
+    "tendency": 2.361723785810341
   },
   {
     "NAF Nr": "18742",
@@ -23628,7 +23628,7 @@ const statsRaceUnderworld_Denizens = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 175.08890764847266,
+    "rating": 175.08974227669307,
     "bestRating": 206.08792759693634,
     "worstRating": 150,
     "_lastTenRatings": [
@@ -23638,12 +23638,12 @@ const statsRaceUnderworld_Denizens = [
       174.1869635037948,
       178.1032696305676,
       172.09772215340627,
-      172.0008715707278,
-      176.0278267706002,
-      170.3167409407715,
-      175.08890764847266
+      172.00181729667102,
+      176.02873552638144,
+      170.31761156278938,
+      175.08974227669307
     ],
-    "tendency": -11.769043198480716
+    "tendency": -11.768208570260299
   },
   {
     "NAF Nr": "19850",
@@ -29738,7 +29738,7 @@ const statsRaceUnderworld_Denizens = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 161.31485820932002,
+    "rating": 161.31485820932073,
     "bestRating": 192.27554649996202,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
@@ -29751,9 +29751,9 @@ const statsRaceUnderworld_Denizens = [
       158.3970486598612,
       158.54626890154583,
       163.34650639746613,
-      161.31485820932002
+      161.31485820932073
     ],
-    "tendency": -24.030808249507203
+    "tendency": -24.030808249506492
   },
   {
     "NAF Nr": "21667",
@@ -35894,18 +35894,18 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 8.33,
-    "rating": 113.2409576089927,
+    "rating": 113.24095761458923,
     "bestRating": 143.30552025908702,
-    "worstRating": 113.2409576089927,
+    "worstRating": 113.24095761458923,
     "_lastTenRatings": [
       143.02336359955484,
       143.30552025908702,
-      136.03825960020473,
-      128.3429266228706,
-      120.16162174760184,
-      113.2409576089927
+      136.0382596069162,
+      128.34292662918307,
+      120.16162175354788,
+      113.24095761458923
     ],
-    "tendency": -29.78240599056214
+    "tendency": -29.782405984965607
   },
   {
     "NAF Nr": "23827",
@@ -37660,8 +37660,8 @@ const statsRaceUnderworld_Denizens = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 172.41269827905467,
-    "bestRating": 172.41269827905467,
+    "rating": 172.41269827916847,
+    "bestRating": 172.41269827916847,
     "worstRating": 143.73972453583968,
     "_lastTenRatings": [
       159.77169401880528,
@@ -37672,10 +37672,10 @@ const statsRaceUnderworld_Denizens = [
       159.31802212425322,
       160.87756155807458,
       168.10023068392752,
-      163.57409073916014,
-      172.41269827905467
+      163.574090739281,
+      172.41269827916847
     ],
-    "tendency": 12.641004260249389
+    "tendency": 12.64100426036319
   },
   {
     "NAF Nr": "24508",
@@ -37789,9 +37789,9 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 5,
     "winRatio": 34.21,
-    "rating": 126.25368447315468,
+    "rating": 126.2537037899298,
     "bestRating": 155.65685424949237,
-    "worstRating": 120.329393555972,
+    "worstRating": 120.32941216200541,
     "_lastTenRatings": [
       134.6842914711046,
       130.4222311411902,
@@ -37801,10 +37801,10 @@ const statsRaceUnderworld_Denizens = [
       127.46965413396497,
       130.16442545902325,
       126.24411545234109,
-      120.329393555972,
-      126.25368447315468
+      120.32941216200541,
+      126.2537037899298
     ],
-    "tendency": -8.430606997949909
+    "tendency": -8.430587681174785
   },
   {
     "NAF Nr": "24529",
@@ -38322,18 +38322,18 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 41.67,
-    "rating": 146.5847872083683,
+    "rating": 146.58478690239747,
     "bestRating": 161.61801221105904,
-    "worstRating": 146.5847872083683,
+    "worstRating": 146.58478690239747,
     "_lastTenRatings": [
       155.9808368658996,
       161.61801221105904,
       156.2401318096666,
       156.18511264701579,
-      152.34718759283345,
-      146.5847872083683
+      152.34718759297883,
+      146.58478690239747
     ],
-    "tendency": -9.396049657531279
+    "tendency": -9.396049963502122
   },
   {
     "NAF Nr": "24725",
@@ -38482,8 +38482,8 @@ const statsRaceUnderworld_Denizens = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 206.78130028598474,
-    "bestRating": 206.78130028598474,
+    "rating": 206.78130028597465,
+    "bestRating": 206.78130028597465,
     "worstRating": 148.25062849863278,
     "_lastTenRatings": [
       174.7512040493822,
@@ -38495,9 +38495,9 @@ const statsRaceUnderworld_Denizens = [
       188.73494605150728,
       195.01135023388858,
       201.47370755648166,
-      206.78130028598474
+      206.78130028597465
     ],
-    "tendency": 32.03009623660253
+    "tendency": 32.03009623659244
   },
   {
     "NAF Nr": "24737",
@@ -39112,16 +39112,16 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 147.96392778873076,
-    "bestRating": 147.96392778873076,
-    "worstRating": 144.85981455802442,
+    "rating": 147.9639277897109,
+    "bestRating": 147.9639277897109,
+    "worstRating": 144.85981455806657,
     "_lastTenRatings": [
       145.41742430504416,
       145.4264359836931,
-      144.85981455802442,
-      147.96392778873076
+      144.85981455806657,
+      147.9639277897109
     ],
-    "tendency": 2.5465034836865925
+    "tendency": 2.5465034846667436
   },
   {
     "NAF Nr": "25020",
@@ -39457,7 +39457,7 @@ const statsRaceUnderworld_Denizens = [
       "bestpainted": 1,
       "otherawards": 0
     },
-    "rating": 153.2529574133508,
+    "rating": 153.2529574337659,
     "bestRating": 153.7754069398114,
     "worstRating": 132.63406633242195,
     "_lastTenRatings": [
@@ -39470,9 +39470,9 @@ const statsRaceUnderworld_Denizens = [
       153.7754069398114,
       149.19545966181974,
       149.68098202134487,
-      153.2529574133508
+      153.2529574337659
     ],
-    "tendency": 7.011708425866431
+    "tendency": 7.0117084462815455
   },
   {
     "NAF Nr": "25147",
@@ -43159,29 +43159,29 @@ const statsRaceUnderworld_Denizens = [
     "Country": "France",
     "raceId": "23",
     "raceName": "Underworld Denizens",
-    "gamesTotal": 10,
-    "gamesWon": 4,
-    "gamesDraw": 1,
-    "gamesLost": 5,
+    "gamesTotal": 15,
+    "gamesWon": 6,
+    "gamesDraw": 2,
+    "gamesLost": 7,
     "totalWinRatio": 0,
-    "totalTournaments": 3,
-    "winRatio": 45,
-    "rating": 146.080062309705,
-    "bestRating": 146.080062309705,
+    "totalTournaments": 4,
+    "winRatio": 46.67,
+    "rating": 147.5016781763991,
+    "bestRating": 158.35671484354728,
     "worstRating": 135.54746022812776,
     "_lastTenRatings": [
-      145.57630091870888,
-      141.1451197061387,
-      138.86185054396984,
-      141.39596169342968,
-      143.66127616497874,
       139.9564718175827,
       139.4133516656887,
       135.54746022812776,
       140.88720841895207,
-      146.080062309705
+      146.080062309705,
+      152.07098564100173,
+      158.35671484354728,
+      152.94413385465037,
+      153.2871625433462,
+      147.5016781763991
     ],
-    "tendency": 0.503761390996118
+    "tendency": 7.545206358816415
   },
   {
     "NAF Nr": "26609",
@@ -44764,8 +44764,8 @@ const statsRaceUnderworld_Denizens = [
       "bestpainted": 0,
       "otherawards": 2
     },
-    "rating": 209.5585607127918,
-    "bestRating": 209.5585607127918,
+    "rating": 209.55856071299795,
+    "bestRating": 209.55856071299795,
     "worstRating": 147.06564543988557,
     "_lastTenRatings": [
       186.4334415821107,
@@ -44773,13 +44773,13 @@ const statsRaceUnderworld_Denizens = [
       193.48520516225807,
       195.73422037956115,
       197.91074752636192,
-      200.21869937905421,
-      197.73722918220912,
-      200.80849237747674,
-      204.60948048769478,
-      209.5585607127918
+      200.21869937929463,
+      197.7372291824411,
+      200.80849237770076,
+      204.6094804879101,
+      209.55856071299795
     ],
-    "tendency": 23.1251191306811
+    "tendency": 23.125119130887242
   },
   {
     "NAF Nr": "27257",
@@ -49072,7 +49072,7 @@ const statsRaceUnderworld_Denizens = [
       145.73014024548556,
       157.01229359825783,
       151.63009877571187,
-      153.3818429192776,
+      153.38184291927757,
       152.89526146533387
     ],
     "tendency": -12.362186981806303
@@ -49732,9 +49732,9 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 6,
     "winRatio": 39.29,
-    "rating": 128.41320882819,
+    "rating": 128.4131692222506,
     "bestRating": 161.43870930328083,
-    "worstRating": 128.41320882819,
+    "worstRating": 128.4131692222506,
     "_lastTenRatings": [
       148.0122888157699,
       142.85852302236202,
@@ -49745,9 +49745,9 @@ const statsRaceUnderworld_Denizens = [
       133.36170548981,
       128.82403480950674,
       133.8516927898805,
-      128.41320882819
+      128.4131692222506
     ],
-    "tendency": -19.5990799875799
+    "tendency": -19.599119593519305
   },
   {
     "NAF Nr": "30099",
@@ -50639,7 +50639,7 @@ const statsRaceUnderworld_Denizens = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 192.99904628203745,
+    "rating": 192.99904717838675,
     "bestRating": 193.1221264886661,
     "worstRating": 152.82842712474618,
     "_lastTenRatings": [
@@ -50652,9 +50652,9 @@ const statsRaceUnderworld_Denizens = [
       193.1221264886661,
       187.68211666274735,
       190.26155626419217,
-      192.99904628203745
+      192.99904717838675
     ],
-    "tendency": 8.006367705394723
+    "tendency": 8.006368601744015
   },
   {
     "NAF Nr": "30519",
@@ -51842,8 +51842,8 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 3,
     "winRatio": 59.09,
-    "rating": 164.62882881295207,
-    "bestRating": 164.86290256769993,
+    "rating": 164.62899468045714,
+    "bestRating": 164.86304541949096,
     "worstRating": 140.81951513816207,
     "_lastTenRatings": [
       146.30153066500398,
@@ -51852,12 +51852,12 @@ const statsRaceUnderworld_Denizens = [
       152.54510487146047,
       148.58697488838368,
       152.90100081071915,
-      153.21435006757065,
-      158.80602033328975,
-      164.86290256769993,
-      164.62882881295207
+      153.2143501014102,
+      158.80617175967637,
+      164.86304541949096,
+      164.62899468045714
     ],
-    "tendency": 18.327298147948085
+    "tendency": 18.32746401545316
   },
   {
     "NAF Nr": "31021",
@@ -52207,16 +52207,16 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 142.2194510708068,
-    "bestRating": 147.32009282399795,
-    "worstRating": 142.1119367919784,
+    "rating": 142.21945152853783,
+    "bestRating": 147.32009330037258,
+    "worstRating": 142.11193728774674,
     "_lastTenRatings": [
       144.9009804864072,
-      142.1119367919784,
-      147.32009282399795,
-      142.2194510708068
+      142.11193728774674,
+      147.32009330037258,
+      142.21945152853783
     ],
-    "tendency": -2.6815294156004086
+    "tendency": -2.681528957869375
   },
   {
     "NAF Nr": "31319",
@@ -52609,7 +52609,7 @@ const statsRaceUnderworld_Denizens = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 185.91207249066792,
+    "rating": 185.9120706048914,
     "bestRating": 208.5657502838673,
     "worstRating": 138.69042456414277,
     "_lastTenRatings": [
@@ -52622,9 +52622,9 @@ const statsRaceUnderworld_Denizens = [
       200.82570123090753,
       193.84236876764544,
       191.88315331639765,
-      185.91207249066792
+      185.9120706048914
     ],
-    "tendency": -12.493757174933847
+    "tendency": -12.493759060710374
   },
   {
     "NAF Nr": "31446",
@@ -55894,15 +55894,15 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 151.52130086323126,
-    "bestRating": 160.19422534071367,
+    "rating": 151.5213344599727,
+    "bestRating": 160.1942253419971,
     "worstRating": 151.4014398106649,
     "_lastTenRatings": [
       151.4014398106649,
-      160.19422534071367,
-      151.52130086323126
+      160.1942253419971,
+      151.5213344599727
     ],
-    "tendency": 0.11986105256636392
+    "tendency": 0.11989464930780969
   },
   {
     "NAF Nr": "32888",
@@ -55943,9 +55943,9 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 37.5,
-    "rating": 142.55207141756256,
+    "rating": 142.55207141509987,
     "bestRating": 157.40558806131523,
-    "worstRating": 142.55207141756256,
+    "worstRating": 142.55207141509987,
     "_lastTenRatings": [
       150.04698058770498,
       146.68620189140407,
@@ -55954,9 +55954,9 @@ const statsRaceUnderworld_Denizens = [
       157.40558806131523,
       153.83960684363169,
       148.79694758516888,
-      142.55207141756256
+      142.55207141509987
     ],
-    "tendency": -7.494909170142421
+    "tendency": -7.494909172605105
   },
   {
     "NAF Nr": "32924",
@@ -56098,15 +56098,15 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 16.67,
-    "rating": 143.22291443544336,
+    "rating": 143.22291443547473,
     "bestRating": 150.21285832508133,
-    "worstRating": 143.22291443544336,
+    "worstRating": 143.22291443547473,
     "_lastTenRatings": [
       150.21285832508133,
       146.25117757758096,
-      143.22291443544336
+      143.22291443547473
     ],
-    "tendency": -6.989943889637971
+    "tendency": -6.989943889606593
   },
   {
     "NAF Nr": "33025",
@@ -56805,7 +56805,7 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 3,
     "winRatio": 40,
-    "rating": 139.76459397336677,
+    "rating": 139.7645939733708,
     "bestRating": 144.34314575050763,
     "worstRating": 125.19032673389285,
     "_lastTenRatings": [
@@ -56817,10 +56817,10 @@ const statsRaceUnderworld_Denizens = [
       125.19032673389285,
       126.01596429561407,
       132.4854892887456,
-      133.2723479716227,
-      139.76459397336677
+      133.2723479716269,
+      139.7645939733708
     ],
-    "tendency": -4.578551777140859
+    "tendency": -4.578551777136823
   },
   {
     "NAF Nr": "33414",
@@ -57081,28 +57081,29 @@ const statsRaceUnderworld_Denizens = [
     "Country": "France",
     "raceId": "23",
     "raceName": "Underworld Denizens",
-    "gamesTotal": 9,
-    "gamesWon": 3,
-    "gamesDraw": 4,
-    "gamesLost": 2,
+    "gamesTotal": 14,
+    "gamesWon": 6,
+    "gamesDraw": 5,
+    "gamesLost": 3,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 55.56,
-    "rating": 161.4545135712689,
-    "bestRating": 167.10597703180645,
+    "totalTournaments": 2,
+    "winRatio": 60.71,
+    "rating": 172.5278476464896,
+    "bestRating": 172.5278476464896,
     "worstRating": 151.2453637260848,
     "_lastTenRatings": [
-      157.74596669241484,
-      151.2453637260848,
-      158.96528216741987,
-      158.93932382606894,
       167.10597703180645,
       160.5835982571653,
       161.88178936765425,
       162.01507706550635,
-      161.4545135712689
+      161.4545135712689,
+      166.6153135969242,
+      160.32958439437866,
+      166.34973550018884,
+      171.10740494533889,
+      172.5278476464896
     ],
-    "tendency": 3.708546878854065
+    "tendency": 5.421870614683144
   },
   {
     "NAF Nr": "33612",
@@ -57975,8 +57976,8 @@ const statsRaceUnderworld_Denizens = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 179.19449642039405,
-    "bestRating": 179.19449642039405,
+    "rating": 179.19449642123806,
+    "bestRating": 179.19449642123806,
     "worstRating": 146.39832461203565,
     "_lastTenRatings": [
       146.39832461203565,
@@ -57985,9 +57986,9 @@ const statsRaceUnderworld_Denizens = [
       167.93793263195428,
       174.8597427986873,
       174.27447015535446,
-      179.19449642039405
+      179.19449642123806
     ],
-    "tendency": 32.796171808358395
+    "tendency": 32.796171809202406
   },
   {
     "NAF Nr": "34344",
@@ -59111,18 +59112,18 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 123.17825233983322,
+    "rating": 123.17825234003082,
     "bestRating": 143.99985246096443,
-    "worstRating": 123.17825233983322,
+    "worstRating": 123.17825234003082,
     "_lastTenRatings": [
       143.99985246096443,
       135.0334716129483,
       131.91782769772982,
-      124.95679267546373,
-      131.8828523683573,
-      123.17825233983322
+      124.95679267555755,
+      131.8828523685672,
+      123.17825234003082
     ],
-    "tendency": -20.821600121131212
+    "tendency": -20.82160012093361
   },
   {
     "NAF Nr": "35181",
@@ -60228,16 +60229,16 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.7505838736888,
+    "rating": 149.75058387374543,
     "bestRating": 154.11610491867128,
-    "worstRating": 149.7505838736888,
+    "worstRating": 149.75058387374543,
     "_lastTenRatings": [
       150,
       154.11610491867128,
       153.9821148311485,
-      149.7505838736888
+      149.75058387374543
     ],
-    "tendency": -0.24941612631118915
+    "tendency": -0.2494161262545731
   },
   {
     "NAF Nr": "36403",
@@ -60332,7 +60333,7 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 3,
     "winRatio": 62.5,
-    "rating": 163.41526883092752,
+    "rating": 163.4152688309294,
     "bestRating": 166.12167411444574,
     "worstRating": 150,
     "_lastTenRatings": [
@@ -60345,9 +60346,9 @@ const statsRaceUnderworld_Denizens = [
       161.8437616667811,
       158.83966321716264,
       160.83317106668224,
-      163.41526883092752
+      163.4152688309294
     ],
-    "tendency": 2.8205960198550315
+    "tendency": 2.8205960198569073
   },
   {
     "NAF Nr": "36598",
@@ -60418,17 +60419,17 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 60,
-    "rating": 153.99238033399158,
-    "bestRating": 153.99238033399158,
+    "rating": 153.99238106259426,
+    "bestRating": 153.99238106259426,
     "worstRating": 145.6637791766094,
     "_lastTenRatings": [
       150,
       145.6637791766094,
-      146.49755076273925,
-      150.36296596369402,
-      153.99238033399158
+      146.49755153924394,
+      150.36296671572143,
+      153.99238106259426
     ],
-    "tendency": 3.9923803339915764
+    "tendency": 3.992381062594262
   },
   {
     "NAF Nr": "36725",
@@ -60644,15 +60645,15 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 152.80365486849732,
-    "bestRating": 152.80365486849732,
-    "worstRating": 148.20877755386837,
+    "rating": 152.80365724780535,
+    "bestRating": 152.80365724780535,
+    "worstRating": 148.2087800176829,
     "_lastTenRatings": [
       150,
-      148.20877755386837,
-      152.80365486849732
+      148.2087800176829,
+      152.80365724780535
     ],
-    "tendency": 2.8036548684973184
+    "tendency": 2.803657247805347
   },
   {
     "NAF Nr": "37009",
@@ -61679,7 +61680,7 @@ const statsRaceUnderworld_Denizens = [
       "bestpainted": 1,
       "otherawards": 1
     },
-    "rating": 124.90203710496331,
+    "rating": 124.9020371108942,
     "bestRating": 145.41742430504416,
     "worstRating": 121.32250594780976,
     "_lastTenRatings": [
@@ -61691,9 +61692,9 @@ const statsRaceUnderworld_Denizens = [
       121.32250594780976,
       129.83206071279167,
       123.4104900224583,
-      124.90203710496331
+      124.9020371108942
     ],
-    "tendency": -20.515387200080852
+    "tendency": -20.515387194149966
   },
   {
     "NAF Nr": "39428",
@@ -62087,16 +62088,16 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 146.00466263676054,
+    "rating": 146.00466263546383,
     "bestRating": 146.11302774430152,
     "worstRating": 141.9812139048762,
     "_lastTenRatings": [
       146.11302774430152,
       141.99692282563024,
       141.9812139048762,
-      146.00466263676054
+      146.00466263546383
     ],
-    "tendency": -0.10836510754097617
+    "tendency": -0.10836510883768824
   },
   {
     "NAF Nr": "40309",
@@ -62366,9 +62367,9 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 12.5,
-    "rating": 93.26425061635895,
+    "rating": 93.26425061635916,
     "bestRating": 150,
-    "worstRating": 93.26425061635895,
+    "worstRating": 93.26425061635916,
     "_lastTenRatings": [
       138.27323164890592,
       132.868220214188,
@@ -62377,11 +62378,11 @@ const statsRaceUnderworld_Denizens = [
       128.11834793894784,
       121.44096510831628,
       114.46770174041816,
-      107.30686209127809,
-      100.57456961683775,
-      93.26425061635895
+      107.30686209127833,
+      100.57456961683798,
+      93.26425061635916
     ],
-    "tendency": -45.00898103254697
+    "tendency": -45.00898103254676
   },
   {
     "NAF Nr": "41086",
@@ -62521,16 +62522,16 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 12.5,
-    "rating": 132.15695399043662,
+    "rating": 132.15695399043676,
     "bestRating": 144.35446216555738,
-    "worstRating": 132.15695399043662,
+    "worstRating": 132.15695399043676,
     "_lastTenRatings": [
       144.35446216555738,
       138.66380504081397,
       133.86356754489367,
-      132.15695399043662
+      132.15695399043676
     ],
-    "tendency": -12.19750817512076
+    "tendency": -12.197508175120618
   },
   {
     "NAF Nr": "41683",
@@ -62605,16 +62606,16 @@ const statsRaceUnderworld_Denizens = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 145.1347232071527,
-    "bestRating": 145.1347232071527,
-    "worstRating": 138.92166794977072,
+    "rating": 145.13468910753585,
+    "bestRating": 145.13468910753585,
+    "worstRating": 138.92163119055672,
     "_lastTenRatings": [
-      144.64807759303514,
-      138.92166794977072,
-      144.68865683358936,
-      145.1347232071527
+      144.6480394401566,
+      138.92163119055672,
+      144.68862141316916,
+      145.13468910753585
     ],
-    "tendency": 0.48664561411754903
+    "tendency": 0.48664966737925397
   },
   {
     "NAF Nr": "41900",
@@ -62654,15 +62655,15 @@ const statsRaceUnderworld_Denizens = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 138.4061999554292,
+    "rating": 138.40619995547172,
     "bestRating": 149.79404662496518,
-    "worstRating": 138.4061999554292,
+    "worstRating": 138.40619995547172,
     "_lastTenRatings": [
       149.77727076210047,
       149.79404662496518,
       143.87469811171874,
-      138.4061999554292
+      138.40619995547172
     ],
-    "tendency": -11.37107080667127
+    "tendency": -11.371070806628751
   }
 ];

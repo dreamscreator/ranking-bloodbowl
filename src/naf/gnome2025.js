@@ -114,6 +114,40 @@ const gnome2025 = [
     "tendency": -4.898979485566343
   },
   {
+    "NAF Nr": "32041",
+    "NAF Name": "BrainSap",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 154.46686895709382,
+    "bestRating": 158.94427190999915,
+    "worstRating": 154.46686895709382,
+    "_lastTenRatings": [
+      154.47213595499957,
+      154.47213595499957,
+      158.94427190999915,
+      154.46686895709382
+    ],
+    "tendency": -0.005266997905749804
+  },
+  {
     "NAF Nr": "40393",
     "NAF Name": "Borksalot",
     "CCAA": "Apatrida",
