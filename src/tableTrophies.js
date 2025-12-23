@@ -68,7 +68,7 @@
         .sort((a, b) => String(a).localeCompare(String(b)));
 
       countryFilter.innerHTML =
-        '<option value="all">Todos / All</option>' +
+        '<option value="all" data-i18n="todos">Todos</option>' +
         countries.map((c) => `<option value="${String(c)}">${String(c) || "-"}</option>`).join("");
     })();
 

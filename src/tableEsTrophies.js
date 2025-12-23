@@ -85,7 +85,7 @@
         .sort((a, b) => a.localeCompare(b));
 
       ccaaFilter.innerHTML =
-        '<option value="all">Todas / All</option>' +
+        '<option value="all" data-i18n="todas">Todas</option>' +
         ccaas.map((c) => `<option value="${c}">${c || "-"}</option>`).join("");
 
       ccaaFilter.value = "all";

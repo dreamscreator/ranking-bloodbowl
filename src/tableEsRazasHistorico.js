@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // ===== PaginaciÃ³n =====
+  // ===== Paginación =====
   const PAGE_SIZE = 25;
   let currentPage = 1;
   let lastFiltered = [];
@@ -244,14 +244,14 @@ document.addEventListener("DOMContentLoaded", () => {
       (!coachText || r.coach.toLowerCase().includes(coachText))
     );
 
-    // OrdenaciÃ³n (si hay botÃ³n) o por posiciÃ³n general ascendente
+    // Ordenación (si hay botón) o por posición general ascendente
     if (sortState.key) {
       sortByKey(filtered, sortState.key, sortState.dir);
     } else {
       filtered.sort((a, b) => a.globalRank - b.globalRank);
     }
 
-    // PaginaciÃ³n
+    // Paginación
     lastFiltered = filtered;
     const totalPages = Math.max(1, Math.ceil(lastFiltered.length / PAGE_SIZE));
     currentPage = Math.min(currentPage || 1, totalPages);
@@ -291,17 +291,17 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Rellenar filtros dinÃ¡micos
     const ccaas = Array.from(new Set(currentData.filter((i) => i.Country === "Spain").map((i) => i.CCAA))).sort();
-    ccaaFilter.innerHTML = '<option value="">Todas / All</option>' + ccaas.map((c) => `<option value="${c}">${c}</option>`).join("");
+    ccaaFilter.innerHTML = '<option value="" data-i18n="todas">Todas</option>' + ccaas.map((c) => `<option value="${c}">${c}</option>`).join("");
 
     const wrSteps = Array.from({ length: 11 }, (_, i) => i * 10);
     const wrOptions = wrSteps.map((n) => `<option value="${n}">${n}</option>`).join("");
-    wrMinFilter.innerHTML = '<option value="">Todos / All</option>' + wrOptions;
-    wrMaxFilter.innerHTML = '<option value="">Todos / All</option>' + wrOptions;
+    wrMinFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>' + wrOptions;
+    wrMaxFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>' + wrOptions;
 
     const gamesSteps = [...wrSteps, 200, 300, 400, 500, 600, 700, 800, 900];
     const gamesOptions = gamesSteps.map((n) => `<option value="${n}">${n}</option>`).join("") + '<option value="1000+">1000+</option>';
-    gamesMinFilter.innerHTML = '<option value="">Todos / All</option>' + gamesOptions;
-    gamesMaxFilter.innerHTML = '<option value="">Todos / All</option>' + gamesOptions;
+    gamesMinFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>' + gamesOptions;
+    gamesMaxFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>' + gamesOptions;
 
     applyFiltersAndRender();
     updateButtonsUI();
@@ -309,12 +309,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // ===== InicializaciÃ³n de filtros estÃ¡ticos =====
   function initializeFilters() {
-    raceFilter.innerHTML = '<option value="">Todas / All</option>' + raceList.map((r) => `<option value="${r}">${r}</option>`).join("");
-    ccaaFilter.innerHTML = '<option value="">Todas / All</option>';
-    wrMinFilter.innerHTML = '<option value="">Todos / All</option>';
-    wrMaxFilter.innerHTML = '<option value="">Todos / All</option>';
-    gamesMinFilter.innerHTML = '<option value="">Todos / All</option>';
-    gamesMaxFilter.innerHTML = '<option value="">Todos / All</option>';
+    raceFilter.innerHTML = '<option value="" data-i18n="todas">Todas</option>' + raceList.map((r) => `<option value="${r}">${r}</option>`).join("");
+    ccaaFilter.innerHTML = '<option value="" data-i18n="todas">Todas</option>';
+    wrMinFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>';
+    wrMaxFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>';
+    gamesMinFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>';
+    gamesMaxFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>';
   }
 
   // ===== Eventos =====

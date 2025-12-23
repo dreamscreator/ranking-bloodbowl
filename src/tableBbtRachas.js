@@ -64,7 +64,7 @@
     (function populateCcaaOptions() {
       const ccaaList = Array.from(new Set(baseData.map((d) => d.ccaa))).sort();
       ccaaFilter.innerHTML =
-        '<option value="all">Todas / All</option>' +
+        '<option value="all" data-i18n="todas">Todas</option>' +
         ccaaList.map((ccaa) => `<option value="${ccaa}">${ccaa}</option>`).join("");
     })();
 

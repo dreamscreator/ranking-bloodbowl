@@ -60,17 +60,17 @@ document.addEventListener("DOMContentLoaded", () => {
   function populateCountryOptions() {
     const countryList = Array.from(new Set(data.map((item) => item.country))).filter(Boolean).sort();
     countryFilter.innerHTML =
-      '<option value="all">Todos / All</option>' +
+      '<option value="all" data-i18n="todos">Todos</option>' +
       countryList.map((c) => `<option value="${c}">${c}</option>`).join("");
   }
   function populateWinRatioOptions() {
-    let opts = '<option value="">Todos / All</option>';
+    let opts = '<option value="" data-i18n="todos">Todos</option>';
     for (let i = 0; i <= 100; i += 10) opts += `<option value="${i}">${i}</option>`;
     wrMinFilter.innerHTML = opts;
     wrMaxFilter.innerHTML = opts;
   }
   function populateGamesOptions() {
-    let opts = '<option value="">Todos / All</option>';
+    let opts = '<option value="" data-i18n="todos">Todos</option>';
     for (let i = 0; i < 100; i += 10) opts += `<option value="${i}">${i}</option>`;
     for (let j = 100; j < 1000; j += 100) opts += `<option value="${j}">${j}</option>`;
     opts += `<option value="1000+">1000+</option>`;

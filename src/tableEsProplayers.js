@@ -125,19 +125,19 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!ccaaFilter) return;
     const list = Array.from(new Set(data.map((x) => x.ccaa))).filter(Boolean).sort((a, b) => a.localeCompare(b));
     ccaaFilter.innerHTML =
-      '<option value="all" data-i18n="All">Todas / All</option>' +
+      '<option value="all" data-i18n="todas">Todas</option>' +
       list.map((c) => `<option value="${c}">${c}</option>`).join("");
   }
   function populatePctVsProOptions() {
     if (!wrMinFilter || !wrMaxFilter) return;
-    let opts = '<option value="">Todos / All</option>';
+    let opts = '<option value="" data-i18n="todos">Todos</option>';
     for (let i = 0; i <= 100; i += 10) opts += `<option value="${i}">${i}</option>`;
     wrMinFilter.innerHTML = opts;
     wrMaxFilter.innerHTML = opts;
   }
   function populateGamesOptions() {
     if (!gamesMinFilter || !gamesMaxFilter) return;
-    let opts = '<option value="">Todos / All</option>';
+    let opts = '<option value="" data-i18n="todos">Todos</option>';
     for (let i = 0; i < 100; i += 10) opts += `<option value="${i}">${i}</option>`;
     for (let j = 100; j < 1000; j += 100) opts += `<option value="${j}">${j}</option>`;
     opts += `<option value="1000+">1000+</option>`;

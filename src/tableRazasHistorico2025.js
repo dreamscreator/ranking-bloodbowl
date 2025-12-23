@@ -334,19 +334,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Rellenar filtros dinÃ¡micos
     const countries = Array.from(new Set(currentData.map(i => i.Country))).sort();
-    countryFilter.innerHTML = '<option value="">Todos / All</option>' +
+    countryFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>' +
       countries.map(c => `<option value="${c}">${c}</option>`).join('');
 
     const wrSteps = Array.from({ length: 11 }, (_, i) => i * 10);
     const wrOptions = wrSteps.map(n => `<option value="${n}">${n}</option>`).join('');
-    wrMinFilter.innerHTML = '<option value="">Todos / All</option>' + wrOptions;
-    wrMaxFilter.innerHTML = '<option value="">Todos / All</option>' + wrOptions;
+    wrMinFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>' + wrOptions;
+    wrMaxFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>' + wrOptions;
 
     const gamesSteps = [...wrSteps, 200, 300, 400, 500, 600, 700, 800, 900];
     const gamesOptions = gamesSteps.map(n => `<option value="${n}">${n}</option>`).join('') +
                          '<option value="1000+">1000+</option>';
-    gamesMinFilter.innerHTML = '<option value="">Todos / All</option>' + gamesOptions;
-    gamesMaxFilter.innerHTML = '<option value="">Todos / All</option>' + gamesOptions;
+    gamesMinFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>' + gamesOptions;
+    gamesMaxFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>' + gamesOptions;
 
     applyFiltersAndRender();
     updateButtonsUI();
@@ -354,13 +354,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // ===== InicializaciÃ³n de filtros estÃ¡ticos =====
   function initializeFilters(){
-    raceFilter.innerHTML = '<option value="">Todas / All</option>' +
+    raceFilter.innerHTML = '<option value="" data-i18n="todas">Todas</option>' +
       raceList.map(r => `<option value="${r}">${r}</option>`).join('');
-    countryFilter.innerHTML = '<option value="">Todos / All</option>';
-    wrMinFilter.innerHTML = '<option value="">Todos / All</option>';
-    wrMaxFilter.innerHTML = '<option value="">Todos / All</option>';
-    gamesMinFilter.innerHTML = '<option value="">Todos / All</option>';
-    gamesMaxFilter.innerHTML = '<option value="">Todos / All</option>';
+    countryFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>';
+    wrMinFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>';
+    wrMaxFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>';
+    gamesMinFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>';
+    gamesMaxFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>';
   }
 
   // ===== Eventos =====

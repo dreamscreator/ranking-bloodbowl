@@ -61,7 +61,7 @@
     (function populateCountryOptions() {
       const countryList = Array.from(new Set(baseData.map((d) => d.country))).sort();
       countryFilter.innerHTML =
-        '<option value="all">Todos / All</option>' +
+        '<option value="all" data-i18n="todos">Todos</option>' +
         countryList.map((c) => `<option value="${c}">${c}</option>`).join("");
     })();
 
