@@ -122,7 +122,7 @@
             </span>
             <ul class="dropdown-menu">
               <li class="dropdown-submenu position-relative">
-                <span class="dropdown-item dropdown-toggle">Estadísticas Extra</span>
+                <span class="dropdown-item dropdown-toggle" data-i18n="estadistica">Estadísticas Extra</span>
                 <ul class="dropdown-menu submenu">
                   <li><a class="dropdown-item" href="nafExtraStats.html">NAF</a></li>
                   <li><a class="dropdown-item" href="nafEsExtraStats.html" data-i18n="nafSpain">NAF España</a></li>
@@ -235,16 +235,16 @@
       <div class="row g-3 mb-2">
         <div class="col-md-4">
           <label for="nafFilter" class="form-label"><b>NAF #</b></label>
-          <input type="text" id="nafFilter" class="form-control" placeholder="Buscar por NAF">
+          <input type="text" id="nafFilter" class="form-control" data-i18n="[placeholder]buscarNaf" placeholder="Buscar por NAF">
         </div>
         <div class="col-md-4">
           <label for="coachFilter" class="form-label"><b data-i18n="entrenador">Entrenador</b></label>
-          <input type="text" id="coachFilter" class="form-control" placeholder="Buscar por Entrenador">
+          <input type="text" id="coachFilter" class="form-control" data-i18n="[placeholder]buscarEntrenador" placeholder="Buscar por Entrenador">
         </div>
         <div class="col-md-4">
           <label for="ccaaFilter" class="form-label"><b data-i18n="ccaa">CCAA</b></label>
           <select id="ccaaFilter" class="form-select">
-            <option value="all" data-i18n="All">Todas / All</option>
+            <option value="all">Todas</option>
           </select>
         </div>
       </div>
@@ -334,14 +334,14 @@
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="infoModalLabel" data-i18n="infoTitle">¿Cómo funciona los rankings contra Proplayers?</h5>
+          <h5 class="modal-title" id="infoModalLabel" data-i18n="comoProplayers">¿Cómo funciona los rankings contra Proplayers?</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
-        <div class="modal-body" data-i18n="infoBody">
-          <p>En el ranking contra los Proplayers, Top Proplayers y Mega Proplayers, podrás encontrar la cantidad de partidos, así como las victorias, empates, derrotas y el Win Ratio contra ese tipo de jugadores.</p>
-          <p>Se considera que has jugado contra un jugador Proplayer, cuando ese jugador tiene un ranking entre 180 y 199.99 con esa raza, o tiene al menos cinco razas con ranking entre 200 y 209.99.</p>
-          <p>Se considera que has jugado contra un jugador Top Proplayer, cuando ese jugador tiene un ranking entre 210 y 219.99 con esa raza, o tiene al menos cinco razas con ranking entre 210 y 219.99.</p>
-          <p>Se considera que has jugado contra un jugador Mega Proplayer, cuando ese jugador tiene un ranking de 220 o más con esa raza, o tiene al menos cinco razas con ranking de 220 o más.</p>
+        <div class="modal-body">
+          <p data-i18n="comoProplayers1">En el ranking contra los Proplayers, Top Proplayers y Mega Proplayers, podrás encontrar la cantidad de partidos, así como las victorias, empates, derrotas y el Win Ratio contra ese tipo de jugadores.</p>
+          <p data-i18n="comoProplayers2">Se considera que has jugado contra un jugador Proplayer, cuando ese jugador tiene un ranking entre 180 y 199.99 con esa raza, o tiene al menos cinco razas con ranking entre 200 y 209.99.</p>
+          <p data-i18n="comoProplayers3">Se considera que has jugado contra un jugador Top Proplayer, cuando ese jugador tiene un ranking entre 210 y 219.99 con esa raza, o tiene al menos cinco razas con ranking entre 210 y 219.99.</p>
+          <p data-i18n="comoProplayers4">Se considera que has jugado contra un jugador Mega Proplayer, cuando ese jugador tiene un ranking de 220 o más con esa raza, o tiene al menos cinco razas con ranking de 220 o más.</p>
         </div>
       </div>
     </div>

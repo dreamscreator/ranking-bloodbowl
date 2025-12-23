@@ -121,7 +121,7 @@
             </span>
             <ul class="dropdown-menu">
               <li class="dropdown-submenu position-relative">
-                <span class="dropdown-item dropdown-toggle">Estadísticas Extra</span>
+                <span class="dropdown-item dropdown-toggle" data-i18n="estadistica">Estadísticas Extra</span>
                 <ul class="dropdown-menu submenu">
                   <li><a class="dropdown-item" href="nafExtraStats.html">NAF</a></li>
                   <li><a class="dropdown-item" href="nafEsExtraStats.html" data-i18n="nafSpain">NAF España</a></li>
@@ -234,16 +234,16 @@
   <div class="row g-3 mb-2">
     <div class="col-md-4">
       <label for="nafFilter" class="form-label"><b>NAF #</b></label>
-      <input type="text" id="nafFilter" class="form-control" placeholder="Buscar por NAF">
+      <input type="text" id="nafFilter" class="form-control" data-i18n="[placeholder]buscarNaf" placeholder="Buscar por NAF">
     </div>
     <div class="col-md-4">
       <label for="coachFilter" class="form-label"><b data-i18n="entrenador">Entrenador</b></label>
-      <input type="text" id="coachFilter" class="form-control" placeholder="Buscar por Entrenador">
+      <input type="text" id="coachFilter" class="form-control" data-i18n="[placeholder]buscarEntrenador" placeholder="Buscar por Entrenador">
     </div>
     <div class="col-md-4">
       <label for="countryFilter" class="form-label"><b data-i18n="pais">País</b></label>
       <select id="countryFilter" class="form-select">
-        <option value="all">Todos / All</option>
+        <option value="all">Todos</option>
       </select>
     </div>
   </div>
@@ -312,12 +312,12 @@
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="infoModalLabel" data-i18n="infoTitle">¿Cómo funciona las Rachas?</h5>
+          <h5 class="modal-title" id="infoModalLabel" data-i18n="comoRachas">¿Cómo funciona las Rachas?</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
-        <div class="modal-body" data-i18n="infoBody">
-          <p>En las rachas se muestra tanto las rachas actuales como las mejores rachas históricas.</p>
-          <p>Hay seis rachas: partidos ganados, partidos sin perder, partidos perdidos, partidos marchando al menos 1 TD, partidos marcando al menos 2 TD y partidos sin recibir TD.</p>
+        <div class="modal-body">
+          <p data-i18n="comoRachas1">En las rachas se muestra tanto las rachas actuales como las mejores rachas históricas.</p>
+          <p data-i18n="comoRachas2">Hay seis rachas: partidos ganados, partidos sin perder, partidos perdidos, partidos marchando al menos 1 TD, partidos marcando al menos 2 TD y partidos sin recibir TD.</p>
         </div>
       </div>
     </div>
