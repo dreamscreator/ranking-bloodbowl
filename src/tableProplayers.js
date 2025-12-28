@@ -1,11 +1,11 @@
-// tableProplayers.js (vista Proplayers)
+﻿// tableProplayers.js (vista Proplayers)
 //
 // - Carga datos desde proplayers.js
 // - Usa general_all.js para "Total partidos" (games)
 // - Calcula % vs proplayers = (ppGames + topGames + megaGames) / games * 100
 // - Renderiza columnas de nafProplayers.html
-// - Filtros + Paginación (25 por página)
-// - Ordenación por botones definidos en el HTML:
+// - Filtros + PaginaciÃ³n (25 por pÃ¡gina)
+// - OrdenaciÃ³n por botones definidos en el HTML:
 //   games, pctVsPro, ppGames, wrPro, topGames, wrTop, megaGames, wrMega
 //
 // Requisitos en el HTML:
@@ -16,9 +16,9 @@
 "use strict";
 
 document.addEventListener("DOMContentLoaded", () => {
-  // Verificación de datasets
+  // VerificaciÃ³n de datasets
   if (typeof proplayers === "undefined") {
-    console.error("proplayers no está definido. Carga src/naf/proplayers.js antes de este script.");
+    console.error("proplayers no estÃ¡ definido. Carga src/naf/proplayers.js antes de este script.");
     return;
   }
   const hasGeneral = typeof generalAll !== "undefined";
@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const table = document.getElementById("nafTable");
   const tableBody = table?.querySelector("tbody");
   if (!table || !tableBody) {
-    console.error("No se encontró la tabla #nafTable o su <tbody>.");
+    console.error("No se encontrÃ³ la tabla #nafTable o su <tbody>.");
     return;
   }
 
@@ -127,14 +127,14 @@ document.addEventListener("DOMContentLoaded", () => {
     const countryList = Array.from(new Set(data.map((item) => item.country))).filter(Boolean).sort();
     if (countryFilter) {
       countryFilter.innerHTML =
-        '<option value="all">Todos / All</option>' +
+        '<option value="all" data-i18n="todos">Todos</option>' +
         countryList.map((c) => `<option value="${c}">${c}</option>`).join("");
     }
   }
   function populatePctVsProOptions() {
     // Antes era Win Ratio; ahora % vs proplayers
     if (!wrMinFilter || !wrMaxFilter) return;
-    let opts = '<option value="">Todos / All</option>';
+    let opts = '<option value="" data-i18n="todos">Todos</option>';
     for (let i = 0; i <= 100; i += 10) opts += `<option value="${i}">${i}</option>`;
     wrMinFilter.innerHTML = opts;
     wrMaxFilter.innerHTML = opts;
@@ -142,7 +142,7 @@ document.addEventListener("DOMContentLoaded", () => {
   function populateGamesOptions() {
     // Filtro por "Total partidos" (games)
     if (!gamesMinFilter || !gamesMaxFilter) return;
-    let opts = '<option value="">Todos / All</option>';
+    let opts = '<option value="" data-i18n="todos">Todos</option>';
     for (let i = 0; i < 100; i += 10) opts += `<option value="${i}">${i}</option>`;
     for (let j = 100; j < 1000; j += 100) opts += `<option value="${j}">${j}</option>`;
     opts += `<option value="1000+">1000+</option>`;
@@ -154,7 +154,7 @@ document.addEventListener("DOMContentLoaded", () => {
   populatePctVsProOptions();
   populateGamesOptions();
 
-  // ====== Ordenación por botones (definidos en el HTML) ======
+  // ====== OrdenaciÃ³n por botones (definidos en el HTML) ======
   const sortBar = document.getElementById("sortButtons");
   const validSortKeys = new Set([
     "games", "pctVsPro",
@@ -163,7 +163,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "megaGames", "wrMega",
   ]);
 
-  // Por defecto ordenar por número de Partidos (Total partidos)
+  // Por defecto ordenar por nÃºmero de Partidos (Total partidos)
   let sortState = { key: "games", dir: "desc" };
 
   function setSort(key) {
@@ -172,7 +172,7 @@ document.addEventListener("DOMContentLoaded", () => {
       sortState.dir = sortState.dir === "desc" ? "asc" : "desc";
     } else {
       sortState.key = key;
-      sortState.dir = "desc"; // primera pulsación descendente
+      sortState.dir = "desc"; // primera pulsaciÃ³n descendente
     }
     currentPage = 1;
     applyFilters();
@@ -187,9 +187,9 @@ document.addEventListener("DOMContentLoaded", () => {
       const isActive = sortState.key === key;
       btn.classList.toggle("btn-primary", isActive);
       btn.classList.toggle("btn-outline-primary", !isActive);
-      const base = btn.dataset.label || btn.textContent.replace(/\s*[▲▼]$/, "");
+      const base = btn.dataset.label || btn.textContent.replace(/\s*[â–²â–¼]$/, "");
       btn.dataset.label = base;
-      btn.textContent = isActive ? `${base} ${sortState.dir === "desc" ? "▼" : "▲"}` : base;
+      btn.textContent = isActive ? `${base} ${sortState.dir === "desc" ? "â–¼" : "â–²"}` : base;
     });
   }
 
@@ -210,7 +210,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // ====== Paginación ======
+  // ====== PaginaciÃ³n ======
   const PAGE_SIZE = 25;
   let currentPage = 1;
   let lastFiltered = [];
@@ -221,7 +221,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const parent = table.parentElement || table;
     container = document.createElement("nav");
     container.id = "pagination";
-    container.className = "mt-3";
+    container.className = "mt-3 d-flex justify-content-center";
     parent.appendChild(container);
     return container;
   }
@@ -249,15 +249,21 @@ document.addEventListener("DOMContentLoaded", () => {
       return li;
     }
 
-    ul.appendChild(makeItem("«", 1, currentPage === 1));
-    ul.appendChild(makeItem("‹", Math.max(1, currentPage - 1), currentPage === 1));
+    ul.appendChild(makeItem("\u00AB", 1, currentPage === 1));
+    ul.appendChild(makeItem("\u2039", Math.max(1, currentPage - 1), currentPage === 1));
 
-    for (let p = 1; p <= totalPages; p++) {
+    let startP = Math.max(1, currentPage - 4);
+    let endP = Math.min(totalPages, startP + 8);
+    if (endP - startP < 8) {
+        startP = Math.max(1, endP - 8);
+    }
+
+    for (let p = startP; p <= endP; p++) {
       ul.appendChild(makeItem(String(p), p, false, p === currentPage));
     }
 
-    ul.appendChild(makeItem("›", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
-    ul.appendChild(makeItem("»", totalPages, currentPage === totalPages));
+    ul.appendChild(makeItem("\u203A", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
+    ul.appendChild(makeItem("\u00BB", totalPages, currentPage === totalPages));
 
     container.appendChild(ul);
   }
@@ -304,10 +310,10 @@ document.addEventListener("DOMContentLoaded", () => {
       return true;
     });
 
-    // Ordenación
+    // OrdenaciÃ³n
     sortByKey(filtered, sortState.key, sortState.dir);
 
-    // Paginación
+    // PaginaciÃ³n
     lastFiltered = filtered;
     const totalPages = Math.max(1, Math.ceil(lastFiltered.length / PAGE_SIZE));
     currentPage = Math.min(currentPage || 1, totalPages);
@@ -366,3 +372,5 @@ document.addEventListener("DOMContentLoaded", () => {
   applyFilters();
   updateButtonsUI();
 });
+
+

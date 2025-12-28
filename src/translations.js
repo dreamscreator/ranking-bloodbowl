@@ -1,7 +1,14 @@
     const translations = {
       es: {
         actualizacion: "Actualización 30/01/2025",
-        actualizacionUltima: "<u>15/11/2025</u><br>-Excel, por ahora, solo para torneos.<br>-Incluye los Altos Elfos y las últimas correcciones de GW.<br>-Se ha incluido los Slann exactamente igual que BB2020 y sin acceso a habilidades Devious.<br>-Hay que indicar la liga y la regla especial al elegir la raza para poder tener los jugadores estrella correctos en el desplegable.<br>-Las traducciones a alemán, francés e italiano han sido con app. Cualquier ayuda es bienvenida.<br>-Es probable que hayan algunos errores debido a todos los cambios que ha habido en el reglamento.<br>-El archivo es compatible con Excel, por ahora, parece que da errores con LibreOffice y OpenOffice, en móvil funciona bien con la siguiente app: ",
+        actualizacionUltima: "Actualización (15/11/2025):",
+        actualizacionUltima1: "-Excel, por ahora, solo para torneos.",
+        actualizacionUltima2: "-Incluye los Altos Elfos y las últimas correcciones de GW.",
+        actualizacionUltima3: "-Se ha incluido los Slann exactamente igual que BB2020 y sin acceso a habilidades Devious.",
+        actualizacionUltima4: "-Hay que indicar la liga y la regla especial al elegir la raza para poder tener los jugadores estrella correctos en el desplegable.",
+        actualizacionUltima5: "-Las traducciones a alemán, francés e italiano han sido con app. Cualquier ayuda es bienvenida.",
+        actualizacionUltima6: "-Es probable que hayan algunos errores debido a todos los cambios que ha habido en el reglamento.",
+        actualizacionUltima7: "-El archivo es compatible con Excel, por ahora, parece que da errores con LibreOffice y OpenOffice, en móvil funciona bien con la siguiente app: ",
         title: "Blood Bowl Ranking",
         inicio: "Inicio",
         rankings: "Rankings",
@@ -19,8 +26,6 @@
         pais: "País",
         partidos: "Partidos",
         totalPartidos: "Total partidos",
-        todos: "Todos / All",
-        todas: "Todas / All",
         entre: "Entre",
         y: "y",
         entrenador: "Entrenador",
@@ -121,10 +126,10 @@
         mejorNoDerrotas: "Mejor racha sin perder",
         derrotas: "Racha actual de derrotas",
         peorDerrotas: "Peor racha de derrotas",
-        unTd: "Racha actual con 1TD+",
-        mejorUnTd: "Mejor racha con 1TD+",
-        dosTd: "Racha actual con 2TD+",
-        mejorDosTd: "Mejor racha con 2TD+",
+        unTd: "Racha marcando 1+ TD",
+        mejorUnTd: "Mejor marcando 1+ TD",
+        dosTd: "Racha marcando 2+ TD",
+        mejorDosTd: "Mejor marcando 2+ TD",
         noTd: "Racha actual sin recibir TD",
         mejorNoTd: "Mejor racha sin recibir TD",
         ordenar: "Ordenar por:",
@@ -132,10 +137,98 @@
         ppGames: "Partidos proplayers",
         topGames: "Partidos top proplayers",
         megaGames: "Partidos mega proplayers",
+        perfilNAF: "PERFIL",
+        perfil: "Perfil",
+        insignias: "Insignias",
+        victoria: "Victorias",
+        empate: "Empates",
+        derrota: "Perdidos",
+        wrTotal: "WR Total",
+        mejorRating: "Mejor Rating",
+        peorRating: "Peor Rating",
+        tendencia: "Tendecia",
+        torneosOrganizados: "Torneos organizados",
+        torneosGanados: "Torneos ganados",
+        segundosPuestos: "Segundos puestos",
+        maxAnotador: "Máx. Anotador",
+        maxHeridos: "Máx. Heridos",
+        mejorPintado: "Mejor pintado",
+        otrosPremios: "Otros premios",
+        sinDatosAnyos: "Sin datos por años",
+        sinDatosRaza: "Sin datos por raza",
+        sinDatosRazaBB2025: "Sin datos por raza BB2025",
+        sinDatosBbt: "Sin datos BBT",
+        prizes: "Premios",
+        mejor: "Mejor",
+        peor: "Peor",
+        introduce: "Introduce un NAF # o un Entrenador para buscar.",
+        perfiles: "Perfiles",
+        raza: "Raza",
+        razas: "Razas",
+        razas2025: "Razas BB2025",
+        nafSpain: "NAF España",
+        trofeos: "TROFEOS NAF",
+        trofeosSpain: "TROFEOS NAF ESPAÑA",
+        trofeo: "Trofeos",
+        comoInsignias: "¿Cómo funciona las insignias?",
+        comoInsignias1: "Las insignias son concedidas según el entrenador alcanza diferentes hitos.",
+        comoInsignias2: "La insignia de torneos jugados aumenta de 5 en 5 hasta los 100 que aumentará de 10 en 10 hasta los 300 que aumentará de 50 en 50 hasta los 500.",
+        comoInsignias3: "La insignia de partidos jugados aumenta de 100 en 100 hasta los 1500 que aumentará de 250 en 250 hasta los 3000.",
+        comoInsignias4: "La insignia de partidos ganados aumenta de 100 en 100 hasta los 1500.",
+        comoInsignias5: "La insignia de organizador de torneos es única y se concede al entrenador que organice al menos un torneo.",
+        comoInsignias6: "La insignia de países dónde se ha jugado al menos un torneo aumenta de 1 en 1 por cada país.",
+        comoInsignias7: "La insignia de trofeos ganados, cualquiera de ellos, aumenta de 1 en 1 hasta 25 que aumentará de 5 en 5 hasta 100.",
+        comoInsignias8: "La insignia de Proplayer, Top Proplayer y Mega Proplayer marca el número de razas que tienes entre 180 y 199.99 (Proplayer), entre 200 y 219.99 (Top Proplayer) y por encima de 220 (Mega Proplayer).",
+        comoAnual: "¿Cómo funciona el Ranking Anual?",
+        comoAnual1: "En el ranking anual se calcula el ELO a partir de los partidos jugados en un mismo año natural.",
+        comoAnual2: "Al inicio de cada nuevo año se resetea a 150 el ranking de cada uno de los jugadores.",
+        comoAnual3: "Este ranking no discrimina por razas.",
+        estadisticas: "ESTADÍSTICAS EXTRA - NAF",
+        estadisticasEs: "ESTADÍSTICAS EXTRA - NAF ESPAÑA",
+        maxA: "Máx. A.",
+        maxE: "Máx. E.",
+        difV: "Dif. V.",
+        difD: "Dif. D.",
+        archienemigo: "Archienemigo",
+        comoEstadisticas: "¿Cómo funciona las Estadísticas Extra?",
+        comoEstadisticas1: "En las estadísticas extra se muestra la máxima anotación, la máxima encajada, el partido con más anotación combinada, la mayor diferencia a favor y la mayor diferencia en contra en un partido.",
+        comoEstadisticas2: "Además se muestra el archienemigo, el entrenador contra el que se han jugado mayor número de partidos en diferentes torneos.",
+        donaciones: "DONACIÓN",
+        estadistica: "Estadísticas Extra",
+        buscarNaf: "Buscar por NAF",
+        buscarEntrenador: "Buscar por Entrenador",
+        todos: "Todos",
+        todas: "Todas",
+        comoHistorico: "¿Cómo funciona el Ranking Histórico?",
+        comoHistorico1: "En el ranking histórico se calcula el ELO a partir de todos los partidos jugados por un entrenador.",
+        comoHistorico2: "Al inicio cada entrenador comienza con un ranking de 150 y nunca se resetea.",
+        comoHistorico3: "Este ranking no discrimina por razas.",
+        comoRazas: "¿Cómo funciona el Ranking Histórico por Razas?",
+        comoRazas1: "En el ranking histórico por razas se calcula el ELO a partir de todos los partidos jugados por un entrenador con una raza concreta.",
+        comoRazas2: "Al inicio cada entrenador comienza con un ranking de 150 con cada raza y nunca se resetean.",
+        comoRazas3: "Este ranking incluye los partidos de los torneos con reglas Classic, BB2016 y BB2020.",
+        comoRazas4: "Este ranking incluye los partidos de los torneos con reglas BB2025.",
+        comoRachas: "¿Cómo funciona las Rachas?",
+        comoRachas1: "En las rachas se muestra tanto las rachas actuales como las mejores rachas históricas.",
+        comoRachas2: "Hay seis rachas: partidos ganados, partidos sin perder, partidos perdidos, partidos marchando al menos 1 TD, partidos marcando al menos 2 TD y partidos sin recibir TD.",
+        comoProplayers: "¿Cómo funciona los rankings contra Proplayers?",
+        comoProplayers1: "En el ranking contra los Proplayers, Top Proplayers y Mega Proplayers, podrás encontrar la cantidad de partidos, así como las victorias, empates, derrotas y el Win Ratio contra ese tipo de jugadores.",
+        comoProplayers2: "Se considera que has jugado contra un jugador Proplayer, cuando ese jugador tiene un ranking entre 180 y 199.99 con esa raza, o tiene al menos cinco razas con ranking entre 200 y 209.99.",
+        comoProplayers3: "Se considera que has jugado contra un jugador Top Proplayer, cuando ese jugador tiene un ranking entre 210 y 219.99 con esa raza, o tiene al menos cinco razas con ranking entre 210 y 219.99.",
+        comoProplayers4: "Se considera que has jugado contra un jugador Mega Proplayer, cuando ese jugador tiene un ranking de 220 o más con esa raza, o tiene al menos cinco razas con ranking de 220 o más.",
+        comoTrofeos: "¿Cómo funciona el ranking de trofeos?",
+        comoTrofeos1: "En el ranking de trofeos encontraras todos los premios que ha ganado cada entrenador así como los torneos organizados.",
       },
       en: {
         actualizacion: "Update 30/01/2025",
-        actualizacionUltima: "<u>15/11/2025</u><br>-Excel, for now, only for tournaments.<br>-Includes High Elves and the latest GW corrections.<br>-Slann have been included exactly as in BB2020 and without access to Devious skills.<br>-You must indicate the league and special rule when choosing the race in order to have the correct star players in the drop-down menu. -The translations into German, French and Italian have been done with an app. Any help is welcome.<br>-There are likely to be some errors due to all the changes that have been made to the rules.<br>-The file is compatible with Excel. For now, it seems to give errors with LibreOffice and OpenOffice, but it works well on mobile with the following app:",
+        actualizacionUltima: "Update (11/15/2025):",
+        actualizacionUltima1: "-Excel, for now, only for tournaments.",
+        actualizacionUltima2: "-Includes High Elves and the latest GW corrections.",
+        actualizacionUltima3: "-The Slann have been included exactly as in BB2020 and without access to Devious skills.",
+        actualizacionUltima4: "-You must indicate the league and special rule when choosing the race in order to have the correct star players in the drop-down menu.",
+        actualizacionUltima5: "-The translations into German, French, and Italian were done with an app. Any help is welcome.",
+        actualizacionUltima6: "-There are likely to be some errors due to all the changes that have been made to the rules.",
+        actualizacionUltima7: "-The file is compatible with Excel. For now, it seems to cause errors with LibreOffice and OpenOffice. On mobile devices, it works well with the following app: ",
         title: "Blood Bowl Ranking",
         inicio: "Home",
         rankings: "Rankings",
@@ -153,8 +246,6 @@
         pais: "Country",
         partidos: "Games",
         totalPartidos: "Total games",
-        todos: "Todos / All",
-        todas: "Todas / All",
         entre: "Between",
         y: "and",
         entrenador: "Coach",
@@ -255,10 +346,10 @@
         mejorNoDerrotas: "Best streak of no losses",
         derrotas: "Streak of losses",
         peorDerrotas: "Worst streak of losses",
-        unTd: "Streak of 1TD+",
-        mejorUnTd: "Best streak of 1TD+",
-        dosTd: "Streak of 2TD+",
-        mejorDosTd: "Best streak of 2TD+",
+        unTd: "Streak scoring 1+ TD",
+        mejorUnTd: "Best scoring 1+ TD",
+        dosTd: "Streak scoring 2+ TD",
+        mejorDosTd: "Best scoring 2+ TD",
         noTd: "Streak without TD against",
         mejorNoTd: "Best streak without TD against",
         ordenar: "Order by:",
@@ -266,23 +357,141 @@
         ppGames: "Games proplayers",
         topGames: "Games top proplayers",
         megaGames: "Games mega proplayers",
+        perfilNAF: "PROFILE",
+        perfil: "Profile",
+        insignias: "Badges",
+        victoria: "Wins",
+        empate: "Draws",
+        derrota: "Losts",
+        wrTotal: "Total WR",
+        mejorRating: "Best Rating",
+        peorRating: "Worst Rating",
+        tendencia: "Tendecy",
+        torneosOrganizados: "Organized Tourneys",
+        torneosGanados: "Winned Tourneys",
+        segundosPuestos: "Seccond Places",
+        maxAnotador: "Max. Touchdowns",
+        maxHeridos: "Max. Casualties",
+        mejorPintado: "Best Painted",
+        otrosPremios: "Other Trophies",
+        proPartidos: "Vs Proplayers - Games",
+        proVictorias: "Vs Proplayers - Wins",
+        proEmpates: "Vs Proplayers - Draws",
+        proDerrotas: "Vs Proplayers - Losts",
+        topproPartidos: "Vs Top Proplayers - Games",
+        topproVictorias: "Vs Top Proplayers - Wins",
+        topproEmpates: "Vs Top Proplayers - Draws",
+        topproDerrotas: "Vs Top Proplayers - Losts",
+        megaproPartidos: "Vs Mega Proplayers - Games",
+        megaproVictorias: "Vs Mega Proplayers - Wins",
+        megaproEmpates: "Vs Mega Proplayers - Draws",
+        megaproDerrotas: "Vs Mega Proplayers - Losts",
+        sinDatosAnyos: "No Year Data",
+        sinDatosRaza: "No Race Data",
+        sinDatosRazaBB2025: "No Race Data BB2025",
+        sinDatosBbt: "No BBT Data",
+        prizes: "Prizes",
+        mejor: "Best",
+        peor: "Worst",
+        introduce: "Enter a NAF # or Trainer to search for.",
+        perfiles: "Profiles",
+        raza: "Race",
+        razas: "Races",
+        razas2025: "Races BB2025",
+        nafSpain: "NAF Spain",
+        trofeos: "NAF TROPHIES",
+        trofeosSpain: "NAF TROPHIES SPAIN",
+        trofeo: "Trophies",
+        comoInsignias: "How do badges work?",
+        comoInsignias1: "Badges are awarded as the coach reaches different milestones.",
+        comoInsignias2: "The tournament played badge increases by 5 up to 100, then by 10 up to 300, then by 50 up to 500.",
+        comoInsignias3: "The matches played badge increases from 100 to 100 up to 1500, which will increase from 250 to 250 up to 3000.",
+        comoInsignias4: "The matches won badge increases from 100 to 100 up to 1500.",
+        comoInsignias5: "The tournament organizer badge is unique and is awarded to the coach who organizes at least one tournament.",
+        comoInsignias6: "The badge for countries where at least one tournament has been played increases by 1 for each country.",
+        comoInsignias7: "The badge for trophies won, any of them, increases from 1 to 1 up to 25, which will increase from 5 to 5 up to 100.",
+        comoInsignias8: "The Proplayer, Top Proplayer, and Mega Proplayer badge marks the number of races you have between 180 and 199.99 (Proplayer), between 200 and 219.99 (Top Proplayer), and above 220 (Mega Proplayer).",
+        comoAnual: "How does the Annual Ranking work?",
+        comoAnual1: "In the annual ranking, the ELO is calculated based on the matches played in the same calendar year.",
+        comoAnual2: "At the beginning of each new year, the ranking of each player is reset to 150.",
+        comoAnual3: "This ranking does not discriminate based on race.",
+        estadisticas: "EXTRA STADISTICS - NAF",
+        estadisticasEs: "EXTRA STADISTICS - NAF SPAIN",
+        maxA: "High S.",
+        maxE: "High A.",
+        difV: "Dif. W.",
+        difD: "Dif. L.",
+        archienemigo: "Arch-enemy",
+        comoEstadisticas: "How do Extra Statistics work?",
+        comoEstadisticas1: "Extra statistics show the highest score, the highest number of goals conceded, the match with the highest combined score, the biggest difference in favour and the biggest difference against in a match.",
+        comoEstadisticas2: "It also shows the arch-rival, the coach against whom the most matches have been played in different tournaments.",
+        donaciones: "DONATION",
+        estadistica: "Extra Stadistics",
+        buscarNaf: "Search by NAF",
+        buscarEntrenador: "Search by Coach",
+        todos: "All",
+        todas: "All",
+        comoHistorico: "How does the Historical Ranking work?",
+        comoHistorico1: "In the historical ranking, the ELO is calculated based on all the matches played by a coach.",
+        comoHistorico2: "Each coach starts with a ranking of 150, which is never reset.",
+        comoHistorico3: "This ranking does not discriminate based on race.",
+        comoRazas: "How does the Historical Ranking by Race work?",
+        comoRazas1: "In the historical ranking by race, the ELO is calculated based on all the matches played by a coach with a specific race.",
+        comoRazas2: "At the beginning, each coach starts with a ranking of 150 with each race, and they are never reset.",
+        comoRazas3: "This ranking includes matches from tournaments with Classic, BB2016, and BB2020 rules.",
+        comoRazas4: "This ranking includes matches from tournaments with BB2025 rules.",
+        comoRachas: "How do streaks work?",
+        comoRachas1: "Streaks show both current streaks and the best historical streaks.",
+        comoRachas2: "There are six streaks: games won, games without losing, games lost, games scoring at least 1 TD, games scoring at least 2 TDs, and games without receiving a TD.",
+        comoProplayers: "How do rankings against Proplayers work?",
+        comoProplayers1: "In the rankings against Proplayers, Top Proplayers, and Mega Proplayers, you can find the number of matches, as well as wins, draws, losses, and the win ratio against that type of player.",
+        comoProplayers2: "You are considered to have played against a Proplayer when that player has a ranking between 180 and 199.99 with that race, or has at least five races with a ranking between 200 and 209.99.",
+        comoProplayers3: "You are considered to have played against a Top Proplayer when that player has a ranking between 210 and 219.99 with that race, or has at least five races with a ranking between 210 and 219.99.",
+        comoProplayers4: "You are considered to have played against a Mega Proplayer when that player has a ranking of 220 or higher with that race, or has at least five races with a ranking of 220 or higher.",
+        comoTrofeos: "How does the trophy ranking work?",
+        comoTrofeos1: "In the trophy ranking, you will find all the prizes that each coach has won, as well as the tournaments organized.",
       }
     };
 
-    function setLanguage(lang) {
-      localStorage.setItem('lang', lang);
-      applyTranslations();
-    }
+function setLanguage(lang) {
+  localStorage.setItem('lang', lang);
+  applyTranslations();
+}
 
-    function applyTranslations() {
-      const lang = localStorage.getItem('lang') || 'es';
-      document.title = translations[lang].title;
-      document.querySelectorAll('[data-i18n]').forEach(el => {
-        const key = el.getAttribute('data-i18n');
-        if (translations[lang][key]) {
-          el.innerHTML = translations[lang][key];
-        }
-      });
-    }
+function applyTranslations() {
+  const lang = localStorage.getItem('lang') || 'es';
 
-    document.addEventListener('DOMContentLoaded', applyTranslations);
+  // Título
+  if (translations[lang]?.title) {
+    document.title = translations[lang].title;
+  }
+
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    const raw = el.getAttribute('data-i18n');
+    if (!raw) return;
+
+    // Permite varias instrucciones: data-i18n="[placeholder]buscarNaf;[title]ayudaNaf"
+    const tokens = raw.split(';').map(t => t.trim()).filter(Boolean);
+
+    tokens.forEach(token => {
+      // Caso: [atributo]clave  -> setAttribute(atributo, traducción)
+      const match = token.match(/^\[(.+?)\](.+)$/);
+      if (match) {
+        const attr = match[1].trim();   // placeholder
+        const key = match[2].trim();    // buscarNaf
+        const value = translations[lang]?.[key];
+        if (value != null) el.setAttribute(attr, value);
+        return;
+      }
+
+      // Caso normal: data-i18n="clave" -> texto del elemento
+      const value = translations[lang]?.[token];
+      if (value != null) {
+        // Mejor usar textContent para labels normales (evita meter HTML sin querer)
+        el.textContent = value;
+      }
+    });
+  });
+}
+
+document.addEventListener('DOMContentLoaded', applyTranslations);

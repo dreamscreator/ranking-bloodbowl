@@ -1,11 +1,11 @@
-// tableBbtRachas.js — BBT Rachas con paginación (25/ página)
+﻿// tableBbtRachas.js — BBT Rachas con paginación (25/ página)
 // Lee `streaks` (src/bbt/streaks.js), pinta bbtStreak.html, ordena por botones del HTML (#sortButtons)
 // e inyecta controles de paginación debajo de la tabla.
 
 (function () {
   document.addEventListener("DOMContentLoaded", () => {
-    if (typeof streaks === "undefined") {
-      console.error("streaks no está definido. Carga src/bbt/streaks.js antes de este script.");
+    if (typeof streaksBbt === "undefined") {
+      console.error("streaksBbt no está definido. Carga src/bbt/streaks.js antes de este script.");
       return;
     }
 
@@ -17,7 +17,7 @@
     const tableBody = table.querySelector("tbody");
 
     // ===== Normaliza datos (solo Country = Spain) =====
-    const baseData = streaks
+    const baseData = streaksBbt
       .map((item) => ({
         nafNr: item["NAF Nr"] || "",
         coach: item["NAF Name"] || "",
@@ -64,7 +64,7 @@
     (function populateCcaaOptions() {
       const ccaaList = Array.from(new Set(baseData.map((d) => d.ccaa))).sort();
       ccaaFilter.innerHTML =
-        '<option value="all">Todas / All</option>' +
+        '<option value="all" data-i18n="todas">Todas</option>' +
         ccaaList.map((ccaa) => `<option value="${ccaa}">${ccaa}</option>`).join("");
     })();
 
@@ -137,7 +137,7 @@
       if (container) return container;
       container = document.createElement("nav");
       container.id = "pagination";
-      container.className = "mt-3";
+      container.className = "mt-3 d-flex justify-content-center";
       table.parentElement.appendChild(container);
       return container;
     }
@@ -168,8 +168,8 @@
         return li;
       }
 
-      ul.appendChild(makeItem("«", 1, currentPage === 1));
-      ul.appendChild(makeItem("‹", Math.max(1, currentPage - 1), currentPage === 1));
+      ul.appendChild(makeItem("\u00AB", 1, currentPage === 1));
+      ul.appendChild(makeItem("\u2039", Math.max(1, currentPage - 1), currentPage === 1));
 
       const total = totalPages;
       // Simple: muestra todas. Si quieres compactar, podemos añadir elipsis.
@@ -177,8 +177,8 @@
         ul.appendChild(makeItem(String(p), p, false, p === currentPage));
       }
 
-      ul.appendChild(makeItem("›", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
-      ul.appendChild(makeItem("»", totalPages, currentPage === totalPages));
+      ul.appendChild(makeItem("\u203A", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
+      ul.appendChild(makeItem("\u00BB", totalPages, currentPage === totalPages));
 
       container.appendChild(ul);
     }
@@ -269,3 +269,4 @@
     updateButtonsUI();
   });
 })();
+

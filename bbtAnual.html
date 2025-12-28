@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es">
 
 <head>
@@ -26,70 +26,90 @@
             <a class="nav-link" href="index.html" data-i18n="inicio">Inicio</a>
           </li>
 
-          <!-- Funcionamiento -->
+
+
+          <!-- Perfiles -->
           <li class="nav-item">
-            <a class="nav-link" href="funcionamiento.html" data-i18n="rankingComo">¿Cómo funciona?</a>
+            <a class="nav-link" href="profiles.html" data-i18n="perfiles">Perfiles</a>
           </li>
 
-          <!-- Desplegable BBT -->
+          <!-- Desplegable Anual -->
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="submenuBBT" role="button" data-bs-toggle="dropdown"
-              aria-expanded="false">BBT</a>
+            <a class="nav-link dropdown-toggle" href="#" id="submenuAnual" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false" data-i18n="rankingGlobalAnual">Anual</a>
             <ul class="dropdown-menu" aria-labelledby="submenuBBT">
-                <li>
-                    <a class="dropdown-item" href="bbtAnual.html" data-i18n="rankingGlobalAnual">
-                      Anual
-                    </a>
-                  </li>
-                  <li>
-                    <a class="dropdown-item" href="bbtHistorico.html" data-i18n="rankingGlobalHistorico">
-                      Histórico
-                    </a>
-                  </li>
-            </ul>
-          </li>
-
-          <!-- Desplegable NAF España -->
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="submenuNAFES" role="button" data-bs-toggle="dropdown"
-              aria-expanded="false">NAF España</a>
-            <ul class="dropdown-menu" aria-labelledby="submenuNAFES">
               <li>
-                <a class="dropdown-item" href="nafEspanaAnual.html" data-i18n="rankingGlobalAnual">
-                  Anual
+                <a class="dropdown-item" href="nafAnual.html">
+                  NAF
                 </a>
               </li>
               <li>
-                <a class="dropdown-item" href="nafEspanaHistorico.html" data-i18n="rankingGlobalHistorico">
-                  Histórico
+                <a class="dropdown-item" href="nafEspanaAnual.html" data-i18n="nafSpain">
+                  NAF España
                 </a>
               </li>
               <li>
-                <a class="dropdown-item" href="nafEspanaRazas.html" data-i18n="rankingRazasHistorico">
-                  Razas Histórico
+                <a class="dropdown-item" href="bbtAnual.html">
+                  BBT
                 </a>
               </li>
             </ul>
           </li>
 
-          <!-- Desplegable NAF Mundial -->
+          <!-- Desplegable HistÃ³rico -->
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="submenuNAFM" role="button" data-bs-toggle="dropdown"
-              aria-expanded="false">NAF</a>
-            <ul class="dropdown-menu" aria-labelledby="submenuNAFM">
+            <a class="nav-link dropdown-toggle" href="#" id="submenuAnual" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false" data-i18n="rankingGlobalHistorico">HistÃ³rico</a>
+            <ul class="dropdown-menu" aria-labelledby="submenuBBT">
               <li>
-                <a class="dropdown-item" href="nafAnual.html" data-i18n="rankingGlobalAnual">
-                  Anual
+                <a class="dropdown-item" href="nafHistorico.html">
+                  NAF
                 </a>
               </li>
               <li>
-                <a class="dropdown-item" href="nafHistorico.html" data-i18n="rankingGlobalHistorico">
-                  Histórico
+                <a class="dropdown-item" href="nafEspanaHistorico.html" data-i18n="nafSpain">
+                  NAF España
                 </a>
               </li>
               <li>
-                <a class="dropdown-item" href="nafRazas.html" data-i18n="rankingRazasHistorico">
-                  Razas Histórico
+                <a class="dropdown-item" href="bbtHistorico.html">
+                  BBT
+                </a>
+              </li>
+            </ul>
+          </li>
+
+          <!-- Desplegable Razas Legacy -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="submenuAnual" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false" data-i18n="razas">Razas</a>
+            <ul class="dropdown-menu" aria-labelledby="submenuBBT">
+              <li>
+                <a class="dropdown-item" href="nafRazas.html">
+                  NAF
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="nafEspanaRazas.html" data-i18n="nafSpain">
+                  NAF España
+                </a>
+              </li>
+            </ul>
+          </li>
+
+          <!-- Desplegable Razas BB2025 -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="submenuAnual" role="button" data-bs-toggle="dropdown"
+              aria-expanded="false" data-i18n="razas2025">Razas BB2025</a>
+            <ul class="dropdown-menu" aria-labelledby="submenuBBT">
+              <li>
+                <a class="dropdown-item" href="nafRazasBB2025.html">
+                  NAF
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="nafEspanaRazas2025.html" data-i18n="nafSpain">
+                  NAF España
                 </a>
               </li>
             </ul>
@@ -102,30 +122,41 @@
             </span>
             <ul class="dropdown-menu">
               <li class="dropdown-submenu position-relative">
-                <span class="dropdown-item dropdown-toggle">BBT</span>
+                <span class="dropdown-item dropdown-toggle" data-i18n="estadistica">Estadísticas Extra</span>
                 <ul class="dropdown-menu submenu">
-                  <li><a class="dropdown-item" href="bbtStreak.html" data-i18n="rachas">
-                  Rachas</a></li>
-                  <li><a class="dropdown-item" href="bbtProplayers.html" data-i18n="proplayers">
-                  Contra Proplayers</a></li>
+                  <li><a class="dropdown-item" href="nafExtraStats.html">NAF</a></li>
+                  <li><a class="dropdown-item" href="nafEsExtraStats.html" data-i18n="nafSpain">NAF España</a></li>
                 </ul>
               </li>
               <li class="dropdown-submenu position-relative">
-                <span class="dropdown-item dropdown-toggle">NAF España</span>
+                <span class="dropdown-item dropdown-toggle" data-i18n="rachas">Rachas</span>
                 <ul class="dropdown-menu submenu">
-                  <li><a class="dropdown-item" href="nafEspanaStreak.html" data-i18n="rachas">
-                  Rachas</a></li>
-                  <li><a class="dropdown-item" href="nafEspanaProplayers.html" data-i18n="proplayers">
-                  Contra Proplayers</a></li>
+                  <li><a class="dropdown-item" href="nafStreak.html">
+                  NAF</a></li>
+                  <li><a class="dropdown-item" href="nafEspanaStreak.html" data-i18n="nafSpain">
+                  NAF España</a></li>
+                  <li><a class="dropdown-item" href="bbtStreak.html">
+                  BBT</a></li>
                 </ul>
               </li>
               <li class="dropdown-submenu position-relative">
-                <span class="dropdown-item dropdown-toggle">NAF</span>
+                <span class="dropdown-item dropdown-toggle">Vs Proplayers</span>
                 <ul class="dropdown-menu submenu">
-                  <li><a class="dropdown-item" href="nafStreak.html" data-i18n="rachas">
-                  Rachas</a></li>
-                  <li><a class="dropdown-item" href="nafProplayers.html" data-i18n="proplayers">
-                  Contra Proplayers</a></li>
+                  <li><a class="dropdown-item" href="nafProplayers.html">
+                  NAF</a></li>
+                  <li><a class="dropdown-item" href="nafEspanaProplayers.html" data-i18n="nafSpain">
+                  NAF España</a></li>
+                  <li><a class="dropdown-item" href="bbtProplayers.html">
+                  BBT</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu position-relative">
+                <span class="dropdown-item dropdown-toggle" data-i18n="trofeo">Trofeos</span>
+                <ul class="dropdown-menu submenu">
+                  <li><a class="dropdown-item" href="nafTrophies.html">
+                  NAF</a></li>
+                  <li><a class="dropdown-item" href="nafEspanaTrophies.html" data-i18n="nafSpain">
+                  NAF España</a></li>
                 </ul>
               </li>
             </ul>
@@ -134,33 +165,33 @@
           <!-- Desplegable Recursos -->
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="submenuBBT" role="button" data-bs-toggle="dropdown"
-               data-i18n="recursos" aria-expanded="false">Recursos</a>
+              data-i18n="recursos" aria-expanded="false">Recursos</a>
             <ul class="dropdown-menu" aria-labelledby="submenuBBT">
-                <li>
-                    <a class="dropdown-item" href="mapcalendar.html" data-i18n="mapacalendario">
-                      Mapa y calendario de torneos
-                    </a>
-                 </li>
-                <li>
-                    <a class="dropdown-item" href="rosters.html" data-i18n="roster">
-                      Creacion de rosters
-                    </a>
-                 </li>
-                <li>
-                    <a class="dropdown-item" href="managers.html" data-i18n="gestor">
-                      Gestores de torneos y ligas
-                    </a>
-                 </li>
-                <li>
-                    <a class="dropdown-item" href="files.html" data-i18n="archivo">
-                      Archivos de interés
-                    </a>
-                 </li>
-                <li>
-                    <a class="dropdown-item" href="links.html" data-i18n="link">
-                      Enlaces de interés
-                    </a>
-                 </li>
+              <li>
+                <a class="dropdown-item" href="mapcalendar.html" data-i18n="mapacalendario">
+                  Mapa y calendario de torneos
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="rosters.html" data-i18n="roster">
+                  Creacion de rosters
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="managers.html" data-i18n="gestor">
+                  Gestores de torneos y ligas
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="files.html" data-i18n="archivo">
+                  Archivos de interés
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="links.html" data-i18n="link">
+                  Enlaces de interés
+                </a>
+              </li>
             </ul>
           </li>
 
@@ -171,8 +202,8 @@
 
           <!-- Donación -->
           <li class="nav-item">
-            <a class="nav-link" target="_blank" href="https://paypal.me/BBdados?country.x=ES&locale.x=es_ES"
-              data-i18n="donacion">
+            <a class="nav-link" target="_blank"
+              href="https://paypal.me/BBdados?country.x=ES&locale.x=es_ES" data-i18n="donacion">
               Donación
             </a>
           </li>
@@ -193,7 +224,10 @@
 
   <!-- Contenido principal -->
   <div class="container py-5 mt-4">
-    <h4 class="fw-bold text-primary mb-4 text-center" data-i18n="globalAnualBbt">RANKING ANUAL - BBT</h4>
+    <h4 class="fw-bold text-primary mb-4 text-center">
+      <span data-i18n="globalAnualBbt">RANKING ANUAL - BBT</span>
+      <button type="button" class="btn btn-primary btn-sm rounded-circle ms-2" style="width: 16px; height: 16px; padding: 0; font-style: italic; font-family: serif; font-weight: bold;" data-bs-toggle="modal" data-bs-target="#infoModal">i</button>
+    </h4>
 
     <!-- Filtros -->
     <div class="section-bg p-4 mb-4 shadow rounded">
@@ -231,11 +265,11 @@
       <div class="row g-3">
         <div class="col-md-6">
           <label for="nafFilter" class="form-label"><b>NAF #</b></label>
-          <input type="text" id="nafFilter" class="form-control" data-i18n="buscarNaf" placeholder="Buscar por NAF">
+          <input type="text" id="nafFilter" class="form-control" data-i18n="[placeholder]buscarNaf" placeholder="Buscar por NAF">
         </div>
         <div class="col-md-6">
           <label for="coachFilter" class="form-label"><b data-i18n="entrenador">Entrenador</b></label>
-          <input type="text" id="coachFilter" class="form-control" data-i18n="buscarEntrenador" placeholder="Buscar por Entrenador">
+          <input type="text" id="coachFilter" class="form-control" data-i18n="[placeholder]buscarEntrenador" placeholder="Buscar por Entrenador">
         </div>
       </div>
 
@@ -277,6 +311,23 @@
     </div>
   </div>
 
+  <!-- Info Modal -->
+  <div class="modal fade" id="infoModal" tabindex="-1" aria-labelledby="infoModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="infoModalLabel" data-i18n="comoAnual">¿Cómo funciona el Ranking Anual?</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p data-i18n="comoAnual1">En el ranking anual se calcula el ELO a partir de los partidos jugados en un mismo año natural.</p>
+          <p data-i18n="comoAnual2">Al inicio de cada nuevo año se resetea a 150 el ranking de cada uno de los jugadores.</p>
+          <p data-i18n="comoAnual3">Este ranking no discrimina por razas.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- Scripts de datos por año (ajusta a tus años disponibles) -->
   <script src="src/bbt/statsYear2021.js"></script>
   <script src="src/bbt/statsYear2022.js"></script>
@@ -291,3 +342,4 @@
   <script src="src/translations.js"></script>
 </body>
 </html>
+

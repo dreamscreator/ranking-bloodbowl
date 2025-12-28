@@ -1,4 +1,4 @@
-// tableEsProplayers.js (NAF España • CCAA)
+﻿// tableEsProplayers.js (NAF España • CCAA)
 // - Muestra CCAA (no país) y filtra por CCAA (select #ccaaFilter)
 // - Restringe los datos a Country = "Spain"
 // - Calcula % vs proplayers = (pp + top + mega) / total * 100
@@ -28,47 +28,47 @@ document.addEventListener("DOMContentLoaded", () => {
   // Map general_all por NAF# para total de partidos
   const generalByNaf = hasGeneral
     ? (() => {
-        const m = new Map();
-        (generalAll || []).forEach((g) => {
-          const key = String(g["NAF Nr"] ?? g.nafNr ?? "");
-          m.set(key, {
-            totalGames: Number(g.totalGames || 0),
-            country: g["Country"] || g.country || "",
-            coach: g["NAF Name"] || g.coach || "",
-          });
+      const m = new Map();
+      (generalAll || []).forEach((g) => {
+        const key = String(g["NAF Nr"] ?? g.nafNr ?? "");
+        m.set(key, {
+          totalGames: Number(g.totalGames || 0),
+          country: g["Country"] || g.country || "",
+          coach: g["NAF Name"] || g.coach || "",
         });
-        return m;
-      })()
+      });
+      return m;
+    })()
     : new Map();
 
   // Normalización desde proplayers.js
   const baseData = (proplayers || []).map((p) => {
-    const nafNr  = String(p["NAF Nr"] || "");
-    const coach  = p["NAF Name"] || "";
+    const nafNr = String(p["NAF Nr"] || "");
+    const coach = p["NAF Name"] || "";
     const country = p["Country"] || "";
-    const ccaa   = p["CCAA"] || "";
+    const ccaa = p["CCAA"] || "";
 
-    const pp   = (p.proplayers && p.proplayers[0]) || {};
-    const top  = (p.topProplayers && p.topProplayers[0]) || {};
+    const pp = (p.proplayers && p.proplayers[0]) || {};
+    const top = (p.topProplayers && p.topProplayers[0]) || {};
     const mega = (p.megaProplayers && p.megaProplayers[0]) || {};
 
-    const ppGames   = Number(pp.totalGames   || 0);
-    const ppWins    = Number(pp.totalWins    || 0);
-    const ppDraws   = Number(pp.totalDraws   || 0);
-    const ppLosses  = Number(pp.totalLosses  || 0);
-    const wrPro     = Number(pp.totalWinRatio || 0);
+    const ppGames = Number(pp.totalGames || 0);
+    const ppWins = Number(pp.totalWins || 0);
+    const ppDraws = Number(pp.totalDraws || 0);
+    const ppLosses = Number(pp.totalLosses || 0);
+    const wrPro = Number(pp.totalWinRatio || 0);
 
-    const topGames  = Number(top.totalGames  || 0);
-    const topWins   = Number(top.totalWins   || 0);
-    const topDraws  = Number(top.totalDraws  || 0);
+    const topGames = Number(top.totalGames || 0);
+    const topWins = Number(top.totalWins || 0);
+    const topDraws = Number(top.totalDraws || 0);
     const topLosses = Number(top.totalLosses || 0);
-    const wrTop     = Number(top.totalWinRatio || 0);
+    const wrTop = Number(top.totalWinRatio || 0);
 
-    const megaGames  = Number(mega.totalGames  || 0);
-    const megaWins   = Number(mega.totalWins   || 0);
-    const megaDraws  = Number(mega.totalDraws  || 0);
+    const megaGames = Number(mega.totalGames || 0);
+    const megaWins = Number(mega.totalWins || 0);
+    const megaDraws = Number(mega.totalDraws || 0);
     const megaLosses = Number(mega.totalLosses || 0);
-    const wrMega     = Number(mega.totalWinRatio || 0);
+    const wrMega = Number(mega.totalWinRatio || 0);
 
     const g = generalByNaf.get(nafNr);
     const totalGames = g ? Number(g.totalGames || 0) : 0;
@@ -113,11 +113,11 @@ document.addEventListener("DOMContentLoaded", () => {
   const data = baseData.filter((row) => row.country === ONLY_COUNTRY);
 
   // ===== Filtros =====
-  const nafFilter     = document.getElementById("nafFilter");
-  const coachFilter   = document.getElementById("coachFilter");
-  const ccaaFilter    = document.getElementById("ccaaFilter"); // <- NUEVO (sustituye a countryFilter)
-  const wrMinFilter   = document.getElementById("wrMinFilter");
-  const wrMaxFilter   = document.getElementById("wrMaxFilter");
+  const nafFilter = document.getElementById("nafFilter");
+  const coachFilter = document.getElementById("coachFilter");
+  const ccaaFilter = document.getElementById("ccaaFilter"); // <- NUEVO (sustituye a countryFilter)
+  const wrMinFilter = document.getElementById("wrMinFilter");
+  const wrMaxFilter = document.getElementById("wrMaxFilter");
   const gamesMinFilter = document.getElementById("gamesMinFilter");
   const gamesMaxFilter = document.getElementById("gamesMaxFilter");
 
@@ -125,19 +125,19 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!ccaaFilter) return;
     const list = Array.from(new Set(data.map((x) => x.ccaa))).filter(Boolean).sort((a, b) => a.localeCompare(b));
     ccaaFilter.innerHTML =
-      '<option value="all" data-i18n="All">Todas / All</option>' +
+      '<option value="all" data-i18n="todas">Todas</option>' +
       list.map((c) => `<option value="${c}">${c}</option>`).join("");
   }
   function populatePctVsProOptions() {
     if (!wrMinFilter || !wrMaxFilter) return;
-    let opts = '<option value="">Todos / All</option>';
+    let opts = '<option value="" data-i18n="todos">Todos</option>';
     for (let i = 0; i <= 100; i += 10) opts += `<option value="${i}">${i}</option>`;
     wrMinFilter.innerHTML = opts;
     wrMaxFilter.innerHTML = opts;
   }
   function populateGamesOptions() {
     if (!gamesMinFilter || !gamesMaxFilter) return;
-    let opts = '<option value="">Todos / All</option>';
+    let opts = '<option value="" data-i18n="todos">Todos</option>';
     for (let i = 0; i < 100; i += 10) opts += `<option value="${i}">${i}</option>`;
     for (let j = 100; j < 1000; j += 100) opts += `<option value="${j}">${j}</option>`;
     opts += `<option value="1000+">1000+</option>`;
@@ -214,7 +214,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const parent = table.parentElement || table;
     container = document.createElement("nav");
     container.id = "pagination";
-    container.className = "mt-3";
+    container.className = "mt-3 d-flex justify-content-center";
     parent.appendChild(container);
     return container;
   }
@@ -240,11 +240,19 @@ document.addEventListener("DOMContentLoaded", () => {
       return li;
     }
 
-    ul.appendChild(makeItem("«", 1, currentPage === 1));
-    ul.appendChild(makeItem("‹", Math.max(1, currentPage - 1), currentPage === 1));
-    for (let p = 1; p <= totalPages; p++) ul.appendChild(makeItem(String(p), p, false, p === currentPage));
-    ul.appendChild(makeItem("›", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
-    ul.appendChild(makeItem("»", totalPages, currentPage === totalPages));
+    ul.appendChild(makeItem("\u00AB", 1, currentPage === 1));
+    ul.appendChild(makeItem("\u2039", Math.max(1, currentPage - 1), currentPage === 1));
+    let startP = Math.max(1, currentPage - 4);
+    let endP = Math.min(totalPages, startP + 8);
+    if (endP - startP < 8) {
+      startP = Math.max(1, endP - 8);
+    }
+
+    for (let p = startP; p <= endP; p++) {
+      ul.appendChild(makeItem(String(p), p, false, p === currentPage));
+    }
+    ul.appendChild(makeItem("\u203A", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
+    ul.appendChild(makeItem("\u00BB", totalPages, currentPage === totalPages));
 
     container.appendChild(ul);
   }
@@ -264,9 +272,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // ===== Filtrar + ordenar + paginar =====
   function applyFilters() {
-    const nafVal   = nafFilter?.value.trim() ?? "";
+    const nafVal = nafFilter?.value.trim() ?? "";
     const coachVal = (coachFilter?.value.trim() ?? "").toLowerCase();
-    const ccaaVal  = ccaaFilter?.value ?? "all";
+    const ccaaVal = ccaaFilter?.value ?? "all";
 
     // Rango % vs proplayers
     const pctMin = wrMinFilter && wrMinFilter.value !== "" ? parseFloat(wrMinFilter.value) : -Infinity;
@@ -350,3 +358,4 @@ document.addEventListener("DOMContentLoaded", () => {
   applyFilters();
   updateButtonsUI();
 });
+

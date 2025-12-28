@@ -33,6 +33,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 8,
     "winRatio": 68.75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154,
       157.8772340307004,
@@ -59,6 +68,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       154.48931355394484,
@@ -80,6 +98,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.89897948556634,
       154.89897948556634,
@@ -101,6 +128,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 15,
     "winRatio": 70,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       161.52341684771528,
       165.22186936975055,
@@ -129,6 +165,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       150,
@@ -150,6 +195,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146,
       150,
@@ -174,6 +228,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.30958424017658,
       150.08654961939604,
@@ -185,7 +248,7 @@ const statsYear2021 = [
   },
   {
     "NAF Nr": "129",
-    "NAF Name": "jelmer",
+    "NAF Name": "Jelmer",
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "rating": 169.361830226781,
@@ -198,6 +261,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 81.25,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154.69041575982342,
       159.38083151964685,
@@ -286,6 +358,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.30016543995154,
       151.09216355882128,
@@ -310,6 +391,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 18,
     "winRatio": 86.11,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       169.63378121232455,
       173.80004776716072,
@@ -411,6 +501,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 19,
     "winRatio": 52.63,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 1,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       139.91146912958948,
       137.2719982410338,
@@ -488,6 +587,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 17,
     "winRatio": 55.88,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       151.10241704174064,
       155.84267165945093,
@@ -564,6 +672,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 9,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       147.32790361084272,
       147.32279169368675,
@@ -591,6 +708,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 22,
     "winRatio": 65.91,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       157.2893061240572,
       161.98901933153212,
@@ -640,6 +766,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.83772233983163,
       146.83772233983163,
@@ -687,6 +822,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 16,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       166.20825824013204,
       160.48694789945688,
@@ -739,6 +883,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.52277442494835,
       139.2636886890195,
@@ -905,6 +1058,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 14,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       167.01786900354557,
       161.84814119252766,
@@ -1007,6 +1169,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       155.65685424949237,
@@ -1211,6 +1382,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 11,
     "winRatio": 54.55,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.30958424017658,
       151.4561053067964,
@@ -1380,6 +1560,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 14,
     "winRatio": 60.71,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.45891589298805,
       156.96109933098123,
@@ -1555,6 +1744,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 52,
     "winRatio": 74.04,
+    "trophies": {
+      "winner": 4,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       214.38372889035224,
       207.16522220527466,
@@ -1583,6 +1781,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.83373344516383,
       150.7057374119238,
@@ -1607,6 +1814,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 28,
     "winRatio": 58.93,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       171.4399375187683,
       170.51737160557775,
@@ -1635,6 +1851,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.25250387832486,
@@ -1670,27 +1895,36 @@ const statsYear2021 = [
     "NAF Name": "Ignaz",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 165.26131188288971,
-    "bestRating": 180.4777027623212,
+    "rating": 170.23628573275465,
+    "bestRating": 181.8485867429694,
     "worstRating": 145.1185854095644,
-    "tendency": -10.949872717683576,
+    "tendency": -1.6278741411718727,
     "tournaments": 4,
     "gamesWon": 9,
-    "gamesDraw": 5,
-    "gamesLost": 5,
-    "gamesTotal": 19,
-    "winRatio": 60.53,
+    "gamesDraw": 4,
+    "gamesLost": 4,
+    "gamesTotal": 17,
+    "winRatio": 64.71,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
-      176.2111846005733,
-      180.4777027623212,
-      174.71523668129126,
-      169.34497757037667,
-      173.01777488335725,
-      172.94063882889458,
-      176.9855048188685,
-      176.71786530151715,
-      170.7677580983663,
-      165.26131188288971
+      171.86415987392652,
+      177.17556741603482,
+      176.23335728433992,
+      180.40143745367808,
+      174.77388158618004,
+      178.18909412516987,
+      177.9152677704281,
+      181.8485867429694,
+      175.82700992769935,
+      170.23628573275465
     ]
   },
   {
@@ -1708,6 +1942,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 25,
     "winRatio": 64,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.85516532923506,
       157.88339753183968,
@@ -1763,6 +2006,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.29887707414173,
@@ -1787,6 +2039,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 68.75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.3744657037954,
       162.0050947800718,
@@ -1865,6 +2126,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 15,
     "winRatio": 80,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       178.3340270320858,
       182.77970936910563,
@@ -1893,6 +2163,15 @@ const statsYear2021 = [
     "gamesLost": 13,
     "gamesTotal": 32,
     "winRatio": 45.31,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       142.1750453672792,
       138.47990230553353,
@@ -1921,6 +2200,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 37.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.52277442494835,
       144.5685950958019,
@@ -1966,6 +2254,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.07889158194774,
@@ -2018,6 +2315,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.2773364271335,
       156.52739093125547,
@@ -2042,6 +2348,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 18,
     "winRatio": 61.11,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       158.61915111430625,
       161.81403627061303,
@@ -2070,6 +2385,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 12,
     "winRatio": 79.17,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.3490249834444,
       160.43554353247316,
@@ -2143,6 +2467,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 11,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.69152711728353,
       141.59055935073374,
@@ -2171,6 +2504,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 12,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 2,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       157.24641992550363,
       161.65378959008325,
@@ -2221,6 +2563,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 9,
     "winRatio": 72.22,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       153.3166247903554,
       153.23221490230202,
@@ -2248,6 +2599,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 16,
     "winRatio": 53.13,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       151.32930374831992,
       156.92844434224,
@@ -2349,6 +2709,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       160.69706270868735,
@@ -2393,6 +2762,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 13,
     "winRatio": 57.69,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.90896608681032,
       143.82169800652156,
@@ -2502,6 +2880,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 31,
     "winRatio": 67.74,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       189.1792839417457,
       192.77059364326274,
@@ -2556,6 +2943,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 21,
     "winRatio": 73.81,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       172.9892072655381,
       169.09336707174094,
@@ -2584,6 +2980,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.12178441546718,
       160.01238620830554,
@@ -2606,6 +3011,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       143.67544467966323,
       143.67544467966323,
@@ -2630,6 +3044,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 27,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       175.76093433784192,
       175.0989927502073,
@@ -2658,6 +3081,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 16,
     "winRatio": 65.63,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       159.03486462210176,
       164.57394964513938,
@@ -2686,6 +3118,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 10,
     "winRatio": 70,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.19615242270663,
       150.15695064066074,
@@ -2714,6 +3155,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 24,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       172.93925045609083,
       169.19055816171422,
@@ -2767,6 +3217,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.17157287525382,
       149.76048245089163,
@@ -2789,6 +3248,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 18,
     "winRatio": 38.89,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       133.47534706768633,
       133.6736758268208,
@@ -2817,6 +3285,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 19,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       165.08379323372031,
       160.95536601930448,
@@ -2871,6 +3348,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 68.75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       145.30958424017658,
@@ -2920,6 +3406,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.69041575982342,
       150.00323212557277,
@@ -2947,6 +3442,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 20,
     "winRatio": 57.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       167.88117060457392,
       163.21114374257715,
@@ -2999,6 +3503,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 34,
     "winRatio": 67.65,
+    "trophies": {
+      "winner": 3,
+      "runnerup": 3,
+      "touchdowns": 3,
+      "casualties": 3,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       162.67584071695234,
       164.80077574882353,
@@ -3027,6 +3540,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 22,
     "winRatio": 72.73,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 2,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       169.0728463724641,
       169.0766940086532,
@@ -3083,6 +3605,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146,
       150,
@@ -3153,6 +3684,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       147.0242114088462,
       150.25870300199884,
@@ -3234,10 +3774,10 @@ const statsYear2021 = [
     "NAF Name": "Floridaboy",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 146.4050665863142,
-    "bestRating": 155.0990195135928,
-    "worstRating": 146.20234855308783,
-    "tendency": -8.693952927278588,
+    "rating": 146.4961681659863,
+    "bestRating": 155,
+    "worstRating": 146.3029674495914,
+    "tendency": -8.50383183401371,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -3245,11 +3785,11 @@ const statsYear2021 = [
     "gamesTotal": 5,
     "winRatio": 40,
     "_lastTenRatingsYear": [
-      155.0990195135928,
-      151.1459305178333,
-      146.20234855308783,
-      151.29037507553176,
-      146.4050665863142
+      155,
+      151.1545210783423,
+      146.3029674495914,
+      151.291178571641,
+      146.4961681659863
     ]
   },
   {
@@ -3267,6 +3807,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 13,
     "winRatio": 53.85,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       138.94933985601298,
       144.60558650306808,
@@ -3323,6 +3872,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 32,
     "winRatio": 70.31,
+    "trophies": {
+      "winner": 3,
+      "runnerup": 0,
+      "touchdowns": 3,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 2,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       187.2379471462141,
       182.8671404459918,
@@ -3471,6 +4029,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       156.32455532033677,
@@ -3498,6 +4065,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 15,
     "winRatio": 76.67,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       167.74785966048853,
       167.23151475538063,
@@ -3554,6 +4130,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 18,
     "winRatio": 72.22,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       166.15275517879869,
       166.39285975558224,
@@ -3582,6 +4167,15 @@ const statsYear2021 = [
     "gamesLost": 13,
     "gamesTotal": 36,
     "winRatio": 52.78,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       138.6981943052482,
       142.13409640097427,
@@ -3638,6 +4232,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 12,
     "winRatio": 29.17,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.69600347075922,
       150.65930786438352,
@@ -3809,6 +4412,15 @@ const statsYear2021 = [
     "gamesLost": 11,
     "gamesTotal": 20,
     "winRatio": 40,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       139.79774651382678,
       134.8026445531664,
@@ -3887,6 +4499,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 14,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       160.265885071432,
       163.11218763680594,
@@ -3915,6 +4536,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 29,
     "winRatio": 62.07,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 1,
+      "touchdowns": 4,
+      "casualties": 2,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       162.508616117149,
       167.73281425330092,
@@ -4018,6 +4648,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 80,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.10102051443366,
       150,
@@ -4031,27 +4670,36 @@ const statsYear2021 = [
     "NAF Name": "Heroic_Tackle",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 168.0114046039013,
-    "bestRating": 172.56114376404673,
+    "rating": 168.0295084548101,
+    "bestRating": 172.49438902241755,
     "worstRating": 150,
-    "tendency": 3.607280310409294,
+    "tendency": 3.0898990068968715,
     "tournaments": 4,
     "gamesWon": 9,
-    "gamesDraw": 5,
+    "gamesDraw": 4,
     "gamesLost": 5,
-    "gamesTotal": 19,
-    "winRatio": 60.53,
+    "gamesTotal": 18,
+    "winRatio": 61.11,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
-      164.404124293492,
-      160.1376061317441,
-      159.4458969444822,
-      163.61999942605507,
-      167.91119828983116,
-      167.81915650569664,
-      172.47054943576774,
-      167.30697292578182,
-      172.56114376404673,
-      168.0114046039013
+      164.93960944791323,
+      164.41643594276692,
+      160.24835577342876,
+      159.57603640855174,
+      163.6535574262483,
+      167.84422327151466,
+      172.3998695834883,
+      167.33640104486108,
+      172.49438902241755,
+      168.0295084548101
     ]
   },
   {
@@ -4059,22 +4707,31 @@ const statsYear2021 = [
     "NAF Name": "Ferragosto14",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 161.7339912760188,
-    "bestRating": 161.7339912760188,
-    "worstRating": 146.09104161665687,
-    "tendency": 15.642949659361932,
+    "rating": 161.53647472947227,
+    "bestRating": 161.53647472947227,
+    "worstRating": 146.19794953313829,
+    "tendency": 15.33852519633399,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 1,
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 70,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
-      146.09104161665687,
-      151.58622395644932,
-      156.66220056171642,
-      156.66594955254314,
-      161.7339912760188
+      146.19794953313829,
+      151.58645920544797,
+      156.5628864439685,
+      156.5657932932337,
+      161.53647472947227
     ]
   },
   {
@@ -4164,6 +4821,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 9,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       143.67544467966323,
       137.35088935932646,
@@ -4191,6 +4857,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 10,
     "winRatio": 80,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.43302028617936,
       155.4427386908839,
@@ -4219,6 +4894,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       154.69041575982342,
@@ -4243,6 +4927,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 18,
     "winRatio": 38.89,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.73655708728424,
       141.2515283790908,
@@ -4375,6 +5068,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 29,
     "winRatio": 65.52,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       169.34590350060228,
       174.9274728670822,
@@ -4452,6 +5154,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 21,
     "winRatio": 59.52,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       172.74833404214831,
       167.6041828077434,
@@ -4480,6 +5191,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       156.32455532033677,
@@ -4504,6 +5224,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       153.73125784329952,
@@ -4525,6 +5254,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 21,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       181.1495702753803,
       174.67938010270848,
@@ -4553,6 +5291,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 28,
     "winRatio": 66.07,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       177.03037771476932,
       180.2125487741823,
@@ -4654,6 +5401,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 32,
     "winRatio": 59.38,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       157.0856512363454,
       156.74093721665167,
@@ -4787,6 +5543,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 17,
     "winRatio": 55.88,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.97356156232019,
       160.05602493256802,
@@ -4839,6 +5604,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 30,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       189.64312058255624,
       194.1382043293373,
@@ -4867,6 +5641,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 9,
     "winRatio": 88.89,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.32455532033677,
       162.64911064067354,
@@ -4894,6 +5677,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       156.32455532033677,
       150,
@@ -4918,6 +5710,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 17,
     "winRatio": 76.47,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       164.79004896603254,
       170.25708988203104,
@@ -4984,27 +5785,36 @@ const statsYear2021 = [
     "NAF Name": "Spielmacher",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 202.47278650329213,
-    "bestRating": 202.47278650329213,
+    "rating": 202.279054515392,
+    "bestRating": 202.279054515392,
     "worstRating": 155.65685424949237,
-    "tendency": 7.045404822241608,
+    "tendency": 7.342641593034159,
     "tournaments": 7,
     "gamesWon": 18,
     "gamesDraw": 10,
     "gamesLost": 4,
     "gamesTotal": 32,
     "winRatio": 71.88,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
-      195.42738168105052,
-      199.1991720427752,
-      201.3317165304379,
-      197.3627062883343,
-      196.51631454823834,
-      198.73638741203177,
-      201.13938383481272,
-      195.27405130852304,
-      199.32271675977344,
-      202.47278650329213
+      194.93641292235785,
+      198.6580758998055,
+      200.72527364864567,
+      196.90877519366074,
+      196.10639002635781,
+      198.2581975090135,
+      200.74595305555982,
+      194.89028789715593,
+      199.1205457265145,
+      202.279054515392
     ]
   },
   {
@@ -5022,6 +5832,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 9,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.7573593128807,
       150,
@@ -5049,6 +5868,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 22,
     "winRatio": 63.64,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       174.82912924348645,
       168.14269214200732,
@@ -5122,6 +5950,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 34,
     "winRatio": 61.76,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       171.0550366825407,
       164.64137540961795,
@@ -5171,6 +6008,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 60,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.31370849898474,
@@ -5243,6 +6089,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 10,
     "winRatio": 70,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.47213595499957,
       154.31869054050802,
@@ -5322,6 +6177,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 23,
     "winRatio": 60.87,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.13354700763225,
       155.34678530779004,
@@ -5350,6 +6214,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 19,
     "winRatio": 68.42,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       166.10261720745015,
       169.8487310202278,
@@ -5399,6 +6272,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 24,
     "winRatio": 70.83,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       184.54115143627428,
       187.75708518048708,
@@ -5427,6 +6309,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 20,
     "winRatio": 52.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       163.74752174413086,
       163.13508038371256,
@@ -5518,6 +6409,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 19,
     "winRatio": 36.84,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       136.44364982767883,
       131.6359362930813,
@@ -5546,6 +6446,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.27590546936236,
       150.6130081204009,
@@ -5700,6 +6609,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 22,
     "winRatio": 68.18,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       164.15780807973036,
       167.92320803175258,
@@ -5833,6 +6751,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.89897948556634,
       154.89897948556634,
@@ -5857,6 +6784,15 @@ const statsYear2021 = [
     "gamesLost": 14,
     "gamesTotal": 18,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       123.23465468653161,
       124.07666214151641,
@@ -5938,6 +6874,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 23,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       139.8952915537196,
       145.35594492323278,
@@ -5966,6 +6911,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       144.72358008520504,
@@ -5990,6 +6944,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 13,
     "winRatio": 46.15,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       154.31276835124987,
       154.4827049069418,
@@ -6152,6 +7115,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 17,
     "winRatio": 82.35,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       187.20888758208753,
       191.8591033184186,
@@ -6258,6 +7230,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 15,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       158.30537229544552,
       152.09338804582032,
@@ -6286,6 +7267,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 32,
     "winRatio": 76.56,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 2,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       196.87548337545377,
       195.32152688323438,
@@ -6383,6 +7373,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 10,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.0087482994293,
       154.31631930060354,
@@ -6438,6 +7437,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 6,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.83772233983163,
       143.6828468293107,
@@ -6523,6 +7531,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 5,
     "winRatio": 70,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.97730580276098,
       155.63514538801164,
@@ -6546,6 +7563,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.37513619955382,
       156.2609576558604,
@@ -6570,6 +7596,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.47213595499957,
       154.31869054050802,
@@ -6620,6 +7655,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 17,
     "winRatio": 67.65,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       161.8575168551439,
       166.97673844829853,
@@ -6697,6 +7741,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       154.1227659692996,
@@ -6742,6 +7795,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.1426973258641,
       150.29757283638503,
@@ -6789,6 +7851,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 60,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.10102051443366,
       140.23923981754274,
@@ -6888,6 +7959,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 32,
     "winRatio": 81.25,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       205.24514521937724,
       209.60892320341864,
@@ -6939,6 +8019,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 15,
     "winRatio": 40,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150.32275201638564,
       150.54623752361147,
@@ -6967,6 +8056,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 5,
     "winRatio": 20,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.2069805860235,
       146.1653963169937,
@@ -6990,6 +8088,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 61.11,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       143.67544467966323,
@@ -7133,6 +8240,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 23,
     "winRatio": 60.87,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 2,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       161.1247384264878,
       163.7198805633101,
@@ -7161,6 +8277,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 55,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.95329722595915,
       152.7329699019721,
@@ -7189,6 +8314,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 8,
     "winRatio": 31.25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.85736480524218,
       144.29130165710822,
@@ -7215,6 +8349,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 9,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.6439869108316,
       149.84499371559957,
@@ -7325,6 +8468,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.6464067704542,
       155.60551002158434,
@@ -7392,6 +8544,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.97732382561244,
       146.0008713311527,
@@ -7413,6 +8574,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 36,
     "winRatio": 65.28,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 2,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       177.24155225259105,
       180.1778599512267,
@@ -7542,6 +8712,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 7,
     "winRatio": 64.29,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       155.7963649146464,
@@ -7567,6 +8746,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 41,
     "winRatio": 75.61,
+    "trophies": {
+      "winner": 3,
+      "runnerup": 1,
+      "touchdowns": 3,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       203.85266822444035,
       209.6123415026437,
@@ -7699,6 +8887,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       134.4855671703118,
       133.95888196560404,
@@ -7751,6 +8948,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.10102051443366,
       150,
@@ -7801,6 +9007,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154,
       158.16244611204212,
@@ -7822,6 +9037,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 20,
     "winRatio": 60,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       166.76862230666435,
       162.928958233951,
@@ -7877,6 +9101,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 16,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.97059865532535,
       158.8363851527899,
@@ -7926,6 +9159,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 80,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.57703041234774,
       150.28564621375253,
@@ -8071,6 +9313,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 19,
     "winRatio": 63.16,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.21164668212225,
       146.68421724155607,
@@ -8220,6 +9471,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 22,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.59391310612975,
       157.04497948076525,
@@ -8297,6 +9557,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.91368150954753,
       149.50452626048744,
@@ -8318,6 +9587,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 25,
     "winRatio": 68,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       194.03335587063114,
       186.8533148884409,
@@ -8369,6 +9647,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154.21574060748162,
       158.5518954271327,
@@ -8412,6 +9699,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 15,
     "winRatio": 63.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.92163254280962,
       158.68211073100352,
@@ -8606,6 +9902,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.2426406871193,
       158.92831645992217,
@@ -8627,6 +9932,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 23,
     "winRatio": 80.43,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       206.88472197060386,
       210.9694113017915,
@@ -8683,6 +9997,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 17,
     "winRatio": 44.12,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       157.4618407488382,
       157.1935057771696,
@@ -8779,6 +10102,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154.12753457353415,
       158.55606298370907,
@@ -8800,6 +10132,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 9,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.47722557505165,
       160.9467199190771,
@@ -8827,6 +10168,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 91.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.8729833462074,
       153.8729833462074,
@@ -8988,6 +10338,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 24,
     "winRatio": 68.75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 4,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       165.61188835393216,
       170.18842174448554,
@@ -9016,6 +10375,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       144.34314575050763,
@@ -9163,6 +10531,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154,
       158,
@@ -9174,27 +10551,36 @@ const statsYear2021 = [
     "NAF Name": "hanniball",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 165.84154090656298,
-    "bestRating": 165.84154090656298,
+    "rating": 165.952613728157,
+    "bestRating": 165.952613728157,
     "worstRating": 150,
-    "tendency": 15.841540906562983,
+    "tendency": 15.95261372815699,
     "tournaments": 2,
     "gamesWon": 6,
     "gamesDraw": 2,
     "gamesLost": 3,
     "gamesTotal": 11,
     "winRatio": 63.64,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       150,
       155.65685424949237,
       161.31506741312663,
       161.79341105669775,
-      156.2340960946028,
-      150.73891375481034,
-      155.62862651599067,
-      160.3350946910864,
-      165.84154090656298
+      156.34205423478804,
+      150.95354456247836,
+      155.7480950754402,
+      160.3618895332123,
+      165.952613728157
     ]
   },
   {
@@ -9237,6 +10623,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.32508200437127,
@@ -9305,6 +10700,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 5,
     "winRatio": 30,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.3166247903554,
       150,
@@ -9328,6 +10732,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.06814320868554,
       144.42524326911615,
@@ -9372,6 +10785,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 18,
     "winRatio": 61.11,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154.76653629670173,
       154.30804362546132,
@@ -9449,6 +10871,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.3980339405869,
       150.24340277534154,
@@ -9588,6 +11019,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 7,
     "winRatio": 85.71,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.46410161513776,
       150.36988251969902,
@@ -9713,6 +11153,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 9,
     "winRatio": 61.11,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.0203693370089,
       156.36286255435164,
@@ -9767,6 +11216,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 7,
     "winRatio": 64.29,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.52786404500043,
       141.05572809000085,
@@ -9893,6 +11351,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 18,
     "winRatio": 69.44,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       160.42780604293566,
       165.83448151651297,
@@ -9945,6 +11412,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 34,
     "winRatio": 70.59,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       193.97916960180913,
       189.26367914801088,
@@ -10018,6 +11494,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.0024609095776,
       154.10220886138217,
@@ -10042,6 +11527,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 16,
     "winRatio": 53.13,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.56310482968348,
       151.9317396817982,
@@ -10091,6 +11585,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.82842712474618,
       149.95558879286082,
@@ -10112,6 +11615,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 23,
     "winRatio": 71.74,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       173.2415548316177,
       176.428457748096,
@@ -10190,6 +11702,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 30,
     "winRatio": 61.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       167.33732245540207,
       163.10068510476034,
@@ -10218,6 +11739,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       147.10132600610152,
       147.06760710849397,
@@ -10269,6 +11799,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 9,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       155.65685424949237,
@@ -10400,6 +11939,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 15,
     "winRatio": 63.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       161.7896573733167,
       157.42868621932428,
@@ -10506,6 +12054,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 55,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.06791172841022,
@@ -10534,6 +12091,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.59519613846905,
       152.3418350538545,
@@ -10738,6 +12304,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 18,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       160.7513255542404,
       159.47627592044202,
@@ -10766,6 +12341,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 20,
     "winRatio": 57.5,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       176.61191180305244,
       171.23881882329397,
@@ -10794,6 +12378,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 15,
     "winRatio": 53.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.29534483166987,
       155.0655582691966,
@@ -10822,6 +12415,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 22,
     "winRatio": 77.27,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 2,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       189.04598464006494,
       182.93377733909776,
@@ -10941,6 +12543,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 20,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       173.49288492774758,
       177.5255663545979,
@@ -10969,6 +12580,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.47213595499957,
       158.91291598184833,
@@ -11041,6 +12661,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 15,
     "winRatio": 63.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       173.33848654162495,
       178.18142367051328,
@@ -11122,6 +12751,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 80,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       148.5374077148137,
       150.26920253184747,
@@ -11173,6 +12811,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 28,
     "winRatio": 60.71,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       170.420718371259,
       175.13620882505725,
@@ -11201,6 +12848,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.18643685460697,
       155.18682433034618,
@@ -11244,6 +12900,15 @@ const statsYear2021 = [
     "gamesLost": 11,
     "gamesTotal": 34,
     "winRatio": 51.47,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       163.91780047229327,
       159.07012639886773,
@@ -11307,16 +12972,25 @@ const statsYear2021 = [
     "NAF Name": "docmaxx",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 168.62556893862464,
+    "rating": 168.64197746269355,
     "bestRating": 183.87576810084275,
     "worstRating": 155.65685424949237,
-    "tendency": -15.25019916221811,
+    "tendency": -15.233790638149202,
     "tournaments": 4,
     "gamesWon": 10,
     "gamesDraw": 3,
     "gamesLost": 5,
     "gamesTotal": 18,
     "winRatio": 63.89,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       183.87576810084275,
       178.5035840144941,
@@ -11324,10 +12998,10 @@ const statsYear2021 = [
       167.94194253307367,
       171.91501675743515,
       176.03024651746222,
-      174.89652974735668,
-      170.26874991593252,
-      165.33241856151224,
-      168.62556893862464
+      174.90213019649778,
+      170.27686161108264,
+      165.34646366310992,
+      168.64197746269355
     ]
   },
   {
@@ -11396,6 +13070,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 17,
     "winRatio": 76.47,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       167.30945127990472,
       160.66538725825228,
@@ -11447,6 +13130,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       154.89897948556634,
@@ -11628,6 +13320,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.5524732253694,
       150.64037560367927,
@@ -11652,6 +13353,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 26,
     "winRatio": 59.62,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       166.88552024626108,
       160.52143791968658,
@@ -11680,6 +13390,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.4369026170054,
       153.48802545390905,
@@ -11780,27 +13499,36 @@ const statsYear2021 = [
     "NAF Name": "peterd",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 170.77735907493442,
-    "bestRating": 175.39647456288077,
+    "rating": 171.1206142904124,
+    "bestRating": 175.50905178422695,
     "worstRating": 141.482521733159,
-    "tendency": -0.2693122371177026,
+    "tendency": 0.07394297836026453,
     "tournaments": 8,
     "gamesWon": 19,
     "gamesDraw": 5,
     "gamesLost": 14,
     "gamesTotal": 38,
     "winRatio": 56.58,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       171.04667131205213,
-      171.1238073665148,
-      175.39647456288077,
-      171.27256888474636,
-      166.01839804648145,
-      165.04484433011243,
-      160.00133843517403,
-      163.56243437282686,
-      167.00791576161927,
-      170.77735907493442
+      171.3204976667939,
+      175.50905178422695,
+      171.454570359324,
+      166.29658238176754,
+      165.33808743799523,
+      160.28619629050178,
+      163.84119946033962,
+      167.35706172539625,
+      171.1206142904124
     ]
   },
   {
@@ -11818,6 +13546,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 9,
     "winRatio": 44.44,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.82737273242398,
       154.37201251178863,
@@ -11892,6 +13629,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 11,
     "winRatio": 54.55,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.9119141049044,
       151.2005694011341,
@@ -12015,6 +13761,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 14,
     "winRatio": 78.57,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       157.0821288041439,
       160.35811628291927,
@@ -12086,6 +13841,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 12,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       161.31354686559752,
       166.97067226794883,
@@ -12142,6 +13906,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 31,
     "winRatio": 74.19,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       200.94822802944466,
       193.18556302189526,
@@ -12220,6 +13993,15 @@ const statsYear2021 = [
     "gamesLost": 12,
     "gamesTotal": 21,
     "winRatio": 30.95,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       137.45183975870447,
       137.96600681657006,
@@ -12248,6 +14030,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 7,
     "winRatio": 64.29,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.69041575982342,
       159.38083151964685,
@@ -12295,6 +14086,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 7,
     "winRatio": 50,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.52277442494835,
       139.36505452030477,
@@ -12320,6 +14120,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.89897948556634,
       149.43832611605316,
@@ -12365,6 +14174,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 5,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.82842712474618,
       155.65685424949237,
@@ -12388,6 +14206,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 6,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.1757095667097,
       139.84686919685834,
@@ -12477,6 +14304,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.5363964764595,
       150.19713033057386,
@@ -12499,6 +14335,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 31,
     "winRatio": 59.68,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       160.98302264641137,
       165.94332878869602,
@@ -12725,6 +14570,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.55330270175853,
       155.22955156108407,
@@ -12773,6 +14627,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 11,
     "winRatio": 54.55,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.47574602317425,
       150.45509019274843,
@@ -12801,6 +14664,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 33,
     "winRatio": 60.61,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       180.9170438338524,
       184.26786138715224,
@@ -12819,27 +14691,36 @@ const statsYear2021 = [
     "NAF Name": "Stimme",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 196.19014806127223,
-    "bestRating": 196.19014806127223,
+    "rating": 192.78814273785704,
+    "bestRating": 192.78814273785704,
     "worstRating": 155.65685424949237,
-    "tendency": 15.211230525913464,
+    "tendency": 6.618041808179498,
     "tournaments": 6,
-    "gamesWon": 18,
-    "gamesDraw": 9,
+    "gamesWon": 17,
+    "gamesDraw": 8,
     "gamesLost": 5,
-    "gamesTotal": 32,
-    "winRatio": 70.31,
+    "gamesTotal": 30,
+    "winRatio": 70,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
-      180.97891753535876,
-      184.8878759187019,
-      188.84096491446138,
-      183.59242875300802,
-      187.78045121451498,
-      182.26406819473385,
-      185.23260054743352,
-      188.55856431961317,
-      192.55300890247918,
-      196.19014806127223
+      186.17010092967755,
+      181.83452376838858,
+      185.6365742352503,
+      189.482053156908,
+      184.29815205723526,
+      188.37171918535654,
+      182.932345296761,
+      185.77520947039227,
+      188.96292908633845,
+      192.78814273785704
     ]
   },
   {
@@ -12885,6 +14766,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 45.83,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       160.8334367232143,
       161.09970132044674,
@@ -12995,6 +14885,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 54.17,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.76019411680437,
       150.44290428043797,
@@ -13023,6 +14922,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 23,
     "winRatio": 56.52,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 2,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       148.02601273652087,
       148.48112221448272,
@@ -13051,6 +14959,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.79682260416814,
       155.11083377037022,
@@ -13233,6 +15150,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.0748637878052,
       150.7113102100513,
@@ -13285,6 +15211,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 55,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       150,
@@ -13367,6 +15302,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 5,
     "winRatio": 30,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       149.8232288331792,
@@ -13457,6 +15401,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 23,
     "winRatio": 71.74,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       173.10895033892405,
       177.99301428242993,
@@ -13485,6 +15438,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 7,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       150.00078187688837,
@@ -13529,6 +15491,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 10,
     "winRatio": 20,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.87741645657172,
       147.01495170817495,
@@ -13557,6 +15528,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 11,
     "winRatio": 68.18,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.1411212871408,
       155.874683608353,
@@ -13686,6 +15666,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.82842712474618,
       153.04153435322596,
@@ -13884,6 +15873,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 55.56,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       150,
@@ -13939,6 +15937,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 18,
     "winRatio": 52.78,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       139.668074070559,
       144.68003475440645,
@@ -13967,6 +15974,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       143.67544467966323,
       150,
@@ -13991,6 +16007,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 11,
     "winRatio": 13.64,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       138.70823670239443,
       133.78313389534796,
@@ -14019,6 +16044,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.47213595499957,
       150,
@@ -14136,6 +16170,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 50,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.00143512311234,
       139.40585798924118,
@@ -14253,6 +16296,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 7,
     "winRatio": 42.86,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.25834261322606,
       150.0209580404739,
@@ -14306,6 +16358,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 18,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.48546397515585,
       150.42314627244045,
@@ -14334,6 +16395,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 19,
     "winRatio": 47.37,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.92245599319904,
       146.32732960210706,
@@ -14362,6 +16432,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.45407528761106,
       154.57446021558167,
@@ -14556,6 +16635,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       153.34925513235893,
       153.35634776751937,
@@ -14577,6 +16665,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 10,
     "winRatio": 60,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.89897948556634,
       159.98518317718788,
@@ -14605,6 +16702,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 68.75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.70849737787083,
       144.70849737787083,
@@ -14631,6 +16737,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 38,
     "winRatio": 59.21,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 7
+    },
     "_lastTenRatingsYear": [
       175.4360801850881,
       171.6641595925414,
@@ -14659,6 +16774,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 15,
     "winRatio": 73.33,
+    "trophies": {
+      "winner": 3,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.93945429836162,
       151.77255210367807,
@@ -14803,6 +16927,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 24,
     "winRatio": 56.25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.83524074539474,
       139.69437417521578,
@@ -14831,6 +16964,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 7,
     "winRatio": 78.57,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.2368764696356,
       158.9436197010288,
@@ -14856,6 +16998,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 87.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.4602734075634,
       155.46880854039392,
@@ -14899,6 +17050,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       152.7399387015894,
       153.09829266402224,
@@ -14942,6 +17102,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.60220032421304,
       150.51072957351724,
@@ -14963,6 +17132,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 7,
     "winRatio": 35.71,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.33644843497385,
       151.0450083102427,
@@ -15040,6 +17218,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 21,
     "winRatio": 57.14,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       143.3043115804201,
       148.23335927882425,
@@ -15068,6 +17255,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 18,
     "winRatio": 69.44,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       169.01989370123482,
       172.8739367682696,
@@ -15096,6 +17292,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.74165738677394,
       158.14426633934514,
@@ -15191,6 +17396,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 18,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.28192214003448,
       153.27808219397087,
@@ -15219,6 +17433,15 @@ const statsYear2021 = [
     "gamesLost": 12,
     "gamesTotal": 39,
     "winRatio": 55.13,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 3,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.20260620294155,
       151.8256754150039,
@@ -15299,6 +17522,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 20,
     "winRatio": 57.5,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       165.25794427605285,
       164.65219446415747,
@@ -15327,6 +17559,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.99813759110242,
       149.57345399884608,
@@ -15403,16 +17644,25 @@ const statsYear2021 = [
     "NAF Name": "Kuei-Jin",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 168.06034840935024,
-    "bestRating": 172.19603871342787,
+    "rating": 168.13747822215828,
+    "bestRating": 172.27876808678823,
     "worstRating": 149.75408330292643,
-    "tendency": 12.863374572564936,
+    "tendency": 12.940504385372975,
     "tournaments": 3,
     "gamesWon": 8,
     "gamesDraw": 3,
     "gamesLost": 4,
     "gamesTotal": 15,
     "winRatio": 63.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.1969738367853,
       150.73644539702352,
@@ -15420,10 +17670,10 @@ const statsYear2021 = [
       155.60914128855873,
       160.14470780114613,
       165.4917082201343,
-      168.98815648357342,
-      172.19603871342787,
-      171.21041815286893,
-      168.06034840935024
+      168.99201684209237,
+      172.27876808678823,
+      171.29598701103578,
+      168.13747822215828
     ]
   },
   {
@@ -15431,10 +17681,10 @@ const statsYear2021 = [
     "NAF Name": "Gorgut",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 145.14102423839608,
-    "bestRating": 153.6132234218259,
-    "worstRating": 141.3755259766112,
-    "tendency": -8.472199183429808,
+    "rating": 145.33862592599857,
+    "bestRating": 153.48178921008403,
+    "worstRating": 141.57813233999377,
+    "tendency": -8.14316328408546,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -15442,14 +17692,14 @@ const statsYear2021 = [
     "gamesTotal": 8,
     "winRatio": 43.75,
     "_lastTenRatingsYear": [
-      153.6132234218259,
-      149.40095709501605,
-      145.47156444601183,
-      149.00250074351882,
-      145.50605248007972,
-      141.3755259766112,
-      141.39735131317738,
-      145.14102423839608
+      153.48178921008403,
+      149.42810832277814,
+      145.72262629294676,
+      149.1302497302197,
+      145.62994110826165,
+      141.57813233999377,
+      141.59650196721603,
+      145.33862592599857
     ]
   },
   {
@@ -15510,6 +17760,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 9,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.69606556738486,
       162.30780033735283,
@@ -15593,6 +17852,15 @@ const statsYear2021 = [
     "gamesLost": 14,
     "gamesTotal": 25,
     "winRatio": 30,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 3,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       120.61460121073503,
       116.49138814430539,
@@ -15647,6 +17915,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.42880098535477,
       156.93728135586937,
@@ -15693,6 +17970,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 7,
     "winRatio": 85.71,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       150,
@@ -15740,6 +18026,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 61.11,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.42324591699062,
       154.491508152304,
@@ -15767,6 +18062,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 30,
     "winRatio": 70,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       177.92108027763481,
       173.3316171958682,
@@ -15847,6 +18151,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 9,
     "winRatio": 38.89,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.35072718228946,
       138.73410326392167,
@@ -15874,6 +18187,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154.83905350029073,
       154.75059646745686,
@@ -15898,6 +18220,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 13,
     "winRatio": 57.69,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.7186288137917,
       156.14969628999376,
@@ -15948,6 +18279,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 24,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       166.62991192026368,
       169.39073646763217,
@@ -16043,6 +18383,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.10903161169205,
       148.27383071494828,
@@ -16093,6 +18442,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 23,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 4,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.55267710337833,
       148.933107665687,
@@ -16149,6 +18507,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 9,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.05615741919547,
       161.525235699738,
@@ -16282,6 +18649,15 @@ const statsYear2021 = [
     "gamesLost": 13,
     "gamesTotal": 26,
     "winRatio": 38.46,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       127.68590528158869,
       123.37810914806158,
@@ -16310,6 +18686,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 26,
     "winRatio": 88.46,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       210.5709897048087,
       213.77237870672244,
@@ -16365,6 +18750,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 36,
     "winRatio": 70.83,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       187.77209689700345,
       191.61021980077817,
@@ -16393,6 +18787,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       150,
@@ -16438,6 +18841,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       152.88023444177563,
@@ -16460,6 +18872,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.16227766016837,
       156.24781755204626,
@@ -16502,6 +18923,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 44,
     "winRatio": 71.59,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       197.2884615290799,
       201.64038603335857,
@@ -16530,6 +18960,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 24,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       157.20854766225975,
       159.88064405141702,
@@ -16605,6 +19044,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 18,
     "winRatio": 55.56,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       157.13093320639305,
       159.87245085580085,
@@ -16657,6 +19105,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 45,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       150,
@@ -16708,6 +19165,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 11,
     "winRatio": 72.73,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       155.91294531086336,
@@ -16736,6 +19202,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 28,
     "winRatio": 71.43,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       179.4270112616737,
       183.48705090174178,
@@ -16816,6 +19291,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 9,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.7573593128807,
       150,
@@ -16864,6 +19348,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.2426406871193,
       158.48528137423858,
@@ -16934,6 +19427,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 9,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.8224303875993,
       146.00374980762595,
@@ -17008,6 +19510,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 24,
     "winRatio": 68.75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       167.26909716282196,
       171.62767002721233,
@@ -17137,6 +19648,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 21,
     "winRatio": 61.9,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       165.17682793479233,
       168.10884885073244,
@@ -17217,6 +19737,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 21,
     "winRatio": 57.14,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.17627226540435,
       149.20323360159398,
@@ -17245,6 +19774,15 @@ const statsYear2021 = [
     "gamesLost": 13,
     "gamesTotal": 58,
     "winRatio": 62.93,
+    "trophies": {
+      "winner": 3,
+      "runnerup": 3,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       178.90794481018114,
       182.77799383201122,
@@ -17295,6 +19833,15 @@ const statsYear2021 = [
     "gamesLost": 16,
     "gamesTotal": 34,
     "winRatio": 44.12,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       148.80913747456992,
       145.92698300498353,
@@ -17323,6 +19870,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 17,
     "winRatio": 52.94,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       135.34526702668984,
       140.9559876549486,
@@ -17351,6 +19907,15 @@ const statsYear2021 = [
     "gamesLost": 11,
     "gamesTotal": 34,
     "winRatio": 58.82,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       164.62475465252737,
       160.34008593220747,
@@ -17473,6 +20038,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 12,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       160.59711957026482,
       165.8739119180299,
@@ -17501,6 +20075,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 15,
     "winRatio": 43.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.22737813864103,
       153.66889349124338,
@@ -17529,6 +20112,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 17,
     "winRatio": 32.35,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.99219188533468,
       142.63435063623658,
@@ -17602,6 +20194,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 15,
     "winRatio": 36.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       136.29744014194443,
       132.42739112011435,
@@ -17748,6 +20349,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       155.65685424949237,
@@ -17772,6 +20382,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.88795720218343,
       161.76111276598607,
@@ -17850,6 +20469,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 9,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.24151523271547,
       151.30885085743373,
@@ -17927,6 +20555,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 30,
     "winRatio": 61.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       178.9132648623735,
       173.9406529816928,
@@ -17983,6 +20620,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 23,
     "winRatio": 73.91,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       178.99195555244745,
       178.19478106771734,
@@ -18011,6 +20657,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 28,
     "winRatio": 55.36,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.0001017695225,
       156.9534061329469,
@@ -18039,6 +20694,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 14,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       160.1437135661581,
       164.05670552449422,
@@ -18110,6 +20774,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 18,
     "winRatio": 61.11,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.8668934474024,
       159.6868948072239,
@@ -18138,6 +20811,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 19,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       148.70591821344684,
       144.1935200757076,
@@ -18187,6 +20869,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.87983062542654,
       149.81612047766802,
@@ -18209,6 +20900,15 @@ const statsYear2021 = [
     "gamesLost": 13,
     "gamesTotal": 41,
     "winRatio": 57.32,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 3
+    },
     "_lastTenRatingsYear": [
       174.43111728509436,
       174.8528603731664,
@@ -18237,6 +20937,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 80,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.69041575982342,
       160.13971842047866,
@@ -18309,6 +21018,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 26,
     "winRatio": 61.54,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       167.54442690391434,
       172.37566023372148,
@@ -18337,6 +21055,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 80,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.29150262212917,
       160.58300524425835,
@@ -18458,6 +21185,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 18,
     "winRatio": 38.89,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       138.09066711011738,
       135.91795184101508,
@@ -18486,6 +21222,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 22,
     "winRatio": 59.09,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.7079996527792,
       155.61791997379865,
@@ -18535,6 +21280,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 18,
     "winRatio": 72.22,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       167.46175006552917,
       171.44368265874166,
@@ -18584,6 +21338,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       150,
@@ -18660,6 +21423,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 15,
     "winRatio": 80,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       162.7454969731038,
       162.5845250772137,
@@ -18709,6 +21481,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 10,
     "winRatio": 70,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       154.5930322038347,
@@ -18782,6 +21563,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 87.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.3166247903554,
       156.54883969265742,
@@ -18804,6 +21594,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 25,
     "winRatio": 58,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       147.71346083024375,
       148.24678814438843,
@@ -18875,6 +21674,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.89897948556634,
       155.28632087599408,
@@ -19016,6 +21824,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 16,
     "winRatio": 37.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       143.26930531821134,
       143.42433482490378,
@@ -19145,6 +21962,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 15,
     "winRatio": 73.33,
+    "trophies": {
+      "winner": 3,
+      "runnerup": 1,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       161.364899807126,
       161.23228438582362,
@@ -19232,10 +22058,10 @@ const statsYear2021 = [
     "NAF Name": "pedda",
     "CCAA": "Apatrida",
     "Country": "Sweden",
-    "rating": 140.40346370357244,
+    "rating": 140.58180165605856,
     "bestRating": 150,
-    "worstRating": 132.12122368288428,
-    "tendency": 1.6883618325727525,
+    "worstRating": 132.48822477973948,
+    "tendency": 1.6635834593953973,
     "tournaments": 4,
     "gamesWon": 4,
     "gamesDraw": 4,
@@ -19243,16 +22069,16 @@ const statsYear2021 = [
     "gamesTotal": 16,
     "winRatio": 37.5,
     "_lastTenRatingsYear": [
-      138.7151018709997,
-      134.32594627666438,
-      132.12122368288428,
-      136.26309343686435,
-      140.28339907641356,
-      138.06332621262013,
-      139.19704298272566,
-      143.20138494744566,
-      139.4178431430135,
-      140.40346370357244
+      138.91821819666316,
+      134.62526235894936,
+      132.48822477973948,
+      136.47325968865638,
+      140.41340067325453,
+      138.26159319059883,
+      139.38970951156327,
+      143.3882220512188,
+      139.5990205803061,
+      140.58180165605856
     ]
   },
   {
@@ -19350,6 +22176,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 14,
     "winRatio": 78.57,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.2915958433204,
       160.23310725589403,
@@ -19378,6 +22213,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 20,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       172.25198326269575,
       166.16420462850564,
@@ -19482,6 +22326,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 23,
     "winRatio": 60.87,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       166.09731162546552,
       168.96237460908617,
@@ -19534,6 +22387,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 54.17,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.30971783662372,
       154.81596209140562,
@@ -19608,6 +22470,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.86824493747386,
       146.13037132841635,
@@ -19651,6 +22522,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       161.30305136213522,
       155.625903574489,
@@ -19701,6 +22581,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 38,
     "winRatio": 76.32,
+    "trophies": {
+      "winner": 3,
+      "runnerup": 3,
+      "touchdowns": 4,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       204.2783181814622,
       206.31016622640033,
@@ -19729,6 +22618,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.3166247903554,
       156.6332495807108,
@@ -19772,6 +22670,15 @@ const statsYear2021 = [
     "gamesLost": 11,
     "gamesTotal": 34,
     "winRatio": 47.06,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.63241734555606,
       149.5668594906629,
@@ -19800,6 +22707,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 13,
     "winRatio": 46.15,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.52835985130403,
       140.93072659484764,
@@ -19873,6 +22789,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 87.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.43497166535522,
       159.44292145239112,
@@ -20059,6 +22984,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 18,
     "winRatio": 77.78,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       182.01636280215786,
       186.325493494982,
@@ -20204,6 +23138,15 @@ const statsYear2021 = [
     "gamesLost": 11,
     "gamesTotal": 37,
     "winRatio": 58.11,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.86799183377542,
       156.29760200539346,
@@ -20306,6 +23249,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 34,
     "winRatio": 70.59,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       183.29416645798824,
       181.96957512449438,
@@ -20379,6 +23331,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       150,
@@ -20426,6 +23387,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 7,
     "winRatio": 35.71,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       154.89897948556634,
@@ -20523,6 +23493,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 5,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.30969640867636,
       140.7797623810258,
@@ -20546,6 +23525,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.15930875072442,
       149.70865579271194,
@@ -20623,6 +23611,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 68.75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.41283544767214,
       150.17879291747977,
@@ -20691,6 +23688,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 26,
     "winRatio": 61.54,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.61536410711824,
       161.2740197739288,
@@ -20719,6 +23725,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 34,
     "winRatio": 66.18,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 3,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       186.68594626134575,
       185.33495558320035,
@@ -20747,6 +23762,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.02474786886222,
       155.73681578903702,
@@ -20822,6 +23846,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 23,
     "winRatio": 56.52,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       151.88343942069412,
       157.23185849851623,
@@ -20850,6 +23883,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 7,
     "winRatio": 85.71,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.2870670199693,
       153.85423609831176,
@@ -20875,6 +23917,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       153.55765173972557,
       149.29830907844953,
@@ -20897,6 +23948,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 26,
     "winRatio": 55.77,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       163.0001365233567,
       159.53014292501146,
@@ -20925,6 +23985,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 25,
     "winRatio": 76,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       175.92366129421373,
       180.20833001453363,
@@ -21075,6 +24144,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 14,
     "winRatio": 60.71,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.71606056447544,
       161.17945558998264,
@@ -21158,6 +24236,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.73256879181503,
       149.76922943383073,
@@ -21179,6 +24266,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 30,
     "winRatio": 71.67,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       179.98451926277517,
       182.62148048772062,
@@ -21263,6 +24359,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 16,
     "winRatio": 40.63,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       129.9550412587606,
       135.69596952096637,
@@ -21312,6 +24417,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 21,
     "winRatio": 59.52,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       148.527751321961,
       143.89033465828936,
@@ -21438,6 +24552,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 51,
     "winRatio": 73.53,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 4,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       207.56420079491878,
       211.01231455647405,
@@ -21466,6 +24589,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 72.22,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155,
       160.117908457979,
@@ -21493,6 +24625,15 @@ const statsYear2021 = [
     "gamesLost": 15,
     "gamesTotal": 22,
     "winRatio": 22.73,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       131.41536462607576,
       128.23319356666278,
@@ -21565,6 +24706,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       153.3166247903554,
@@ -21589,6 +24739,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       153.3166247903554,
@@ -21613,6 +24772,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.12072276400494,
       156.58051691674814,
@@ -21634,6 +24802,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       157.7626650075494,
       162.21297846391013,
@@ -21704,6 +24881,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 54.17,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       161.0682536402513,
       161.08580251780216,
@@ -21732,6 +24918,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 18,
     "winRatio": 72.22,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       161.3221926689696,
       166.2686254259466,
@@ -21881,6 +25076,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 21,
     "winRatio": 54.76,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 2,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.90057479520422,
       146.93864162262767,
@@ -21909,6 +25113,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.09273479773725,
       141.79027373428224,
@@ -21930,6 +25143,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       150.98556818637275,
@@ -21958,6 +25180,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 1,
+      "stuntycup": 2,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.89897948556634,
       158.74864609952422,
@@ -21986,6 +25217,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 15,
     "winRatio": 46.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.4464149177211,
       143.86783058974063,
@@ -22014,6 +25254,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 24,
     "winRatio": 72.92,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       185.3285823564735,
       184.2780351314443,
@@ -22086,6 +25335,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 14,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.43944839745288,
       150.34301498857369,
@@ -22211,6 +25469,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 12,
     "winRatio": 25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       142.8420871659537,
       138.7312605539143,
@@ -22263,6 +25530,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.46410161513776,
       156.84487813331734,
@@ -22312,6 +25588,15 @@ const statsYear2021 = [
     "gamesLost": 13,
     "gamesTotal": 37,
     "winRatio": 50,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.6793515266291,
       149.25828828833968,
@@ -22441,6 +25726,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 12,
     "winRatio": 29.17,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       138.70786966018903,
       138.70693278052644,
@@ -22693,6 +25987,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 20,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       157.8132880801632,
       163.7149724798073,
@@ -22740,6 +26043,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 11,
     "winRatio": 72.73,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       161.81088026930757,
       167.20073778841083,
@@ -22794,6 +26106,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 9,
     "winRatio": 11.11,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150.4794101180339,
       145.52824492595727,
@@ -22897,6 +26218,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.73993288194293,
       153.6295340857206,
@@ -22995,6 +26325,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 38,
     "winRatio": 67.11,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 2,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       194.96254684430968,
       197.6486071396663,
@@ -23051,6 +26390,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 21,
     "winRatio": 50,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       153.11658067960565,
       150.05810822470212,
@@ -23169,6 +26517,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 18,
     "winRatio": 63.89,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       172.11450320306446,
       177.36178418914056,
@@ -23197,6 +26554,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       144.34314575050763,
@@ -23225,6 +26591,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.28482806323976,
       161.49978933653622,
@@ -23300,6 +26675,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 24,
     "winRatio": 52.08,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.45075380402332,
       157.4165972961069,
@@ -23328,6 +26712,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 33,
     "winRatio": 78.79,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       204.12996808156407,
       207.5631057721069,
@@ -23405,6 +26798,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 18,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       157.75964855651225,
       160.41447273399086,
@@ -23433,6 +26835,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       162.36931687685296,
       158.11167694669334,
@@ -23461,6 +26872,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 12,
     "winRatio": 79.17,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.12310562561765,
       158.25112101616136,
@@ -23517,6 +26937,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 18,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       139.33293915776161,
       133.96092668979634,
@@ -23545,6 +26974,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.71571065778784,
       149.8341687329385,
@@ -23567,6 +27005,15 @@ const statsYear2021 = [
     "gamesLost": 17,
     "gamesTotal": 26,
     "winRatio": 28.85,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       122.9700592991353,
       129.80362448972016,
@@ -23648,6 +27095,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 31.25,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       155.41139939075893,
@@ -23695,6 +27151,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.30958424017658,
       150,
@@ -23719,6 +27184,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 13,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.5461316119138,
       144.19660049248327,
@@ -23799,6 +27273,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.5505102572168,
       150,
@@ -23823,6 +27306,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.82842712474618,
       155.58779978395555,
@@ -23874,6 +27366,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.63469433957872,
       149.54145460469843,
@@ -23896,6 +27397,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 55.56,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       155.68890897616762,
@@ -23944,6 +27454,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 11,
     "winRatio": 50,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.44381667824558,
       149.81828316737025,
@@ -23993,6 +27512,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 5,
     "winRatio": 80,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.99291627039847,
       161.6351794245682,
@@ -24113,6 +27641,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.10102051443366,
       140.9872105446682,
@@ -24134,6 +27671,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 17,
     "winRatio": 50,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       161.4388567858141,
       157.39718117921024,
@@ -24310,6 +27856,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 15,
     "winRatio": 63.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       159.15974908656005,
       162.37853568658542,
@@ -24338,6 +27893,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.31370849898474,
@@ -24360,6 +27924,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 14,
     "winRatio": 67.86,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.02471120280447,
       153.13284554532478,
@@ -24436,6 +28009,15 @@ const statsYear2021 = [
     "gamesLost": 14,
     "gamesTotal": 31,
     "winRatio": 46.77,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 5,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       147.04929550375903,
       147.0073981036736,
@@ -24514,6 +28096,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154,
       150,
@@ -24538,6 +28129,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 10,
     "winRatio": 65,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.47213595499957,
       150,
@@ -24643,6 +28243,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       150.14920295020607,
@@ -24699,6 +28308,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 7,
     "winRatio": 71.43,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.47213595499957,
       158.94427190999915,
@@ -24724,6 +28342,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 29,
     "winRatio": 56.9,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       172.68104036971755,
       168.18890741349495,
@@ -24773,6 +28400,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 45,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       155.6807717219655,
@@ -24893,6 +28529,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.57928493061456,
       150.81977682432034,
@@ -24961,6 +28606,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 10,
     "winRatio": 65,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.20270818927528,
       145.503799232765,
@@ -24989,6 +28643,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 70,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.394448724536,
       149.78518277405507,
@@ -25084,6 +28747,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 11,
     "winRatio": 81.82,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.72442010399158,
       156.84038950330188,
@@ -25112,6 +28784,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       151.94863985495277,
       157.51470300308674,
@@ -25135,6 +28816,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       153.46410161513776,
       156.92820323027553,
@@ -25161,6 +28851,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 7,
     "winRatio": 78.57,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.06139779102094,
       149.27295458679257,
@@ -25186,6 +28885,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.33516335901965,
       141.77623247372395,
@@ -25260,6 +28968,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 7,
     "winRatio": 57.14,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.47213595499957,
       150,
@@ -25285,6 +29002,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 14,
     "winRatio": 42.86,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 2,
+      "bestpainted": 3,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.63359405345074,
       152.09126383378484,
@@ -25313,6 +29039,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.5870960995972,
       149.91064457825163,
@@ -25324,10 +29059,10 @@ const statsYear2021 = [
     "NAF Name": "felix11_59",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 131.98296160636508,
-    "bestRating": 150.96438281546153,
-    "worstRating": 129.8477774739964,
-    "tendency": -18.981421209096453,
+    "rating": 132.91777323171266,
+    "bestRating": 150.9422101316949,
+    "worstRating": 130.4316091310903,
+    "tendency": -18.02443689998225,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 3,
@@ -25335,16 +29070,16 @@ const statsYear2021 = [
     "gamesTotal": 10,
     "winRatio": 25,
     "_lastTenRatingsYear": [
-      150.96438281546153,
-      147.22653806711133,
-      142.48569559024895,
-      137.79224749027478,
-      133.04158924051782,
-      129.8477774739964,
-      130.54270263213616,
-      136.22641846463424,
-      136.64239075931653,
-      131.98296160636508
+      150.9422101316949,
+      147.29184343635558,
+      142.82289862139265,
+      138.23150042248562,
+      133.58568801230632,
+      130.4316091310903,
+      131.25132070733048,
+      136.8072973897274,
+      137.34833015293032,
+      132.91777323171266
     ]
   },
   {
@@ -25384,6 +29119,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 15,
     "winRatio": 46.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.84593718933763,
       155.71310898929863,
@@ -25488,6 +29232,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.31728495543555,
       160.60774045947474,
@@ -25512,6 +29265,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 7,
     "winRatio": 57.14,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.31370849898474,
@@ -25537,6 +29299,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 15,
     "winRatio": 76.67,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       160.6246609231508,
       163.60065011897373,
@@ -25565,6 +29336,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 20,
     "winRatio": 40,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       130.54252689938284,
       125.92419779756601,
@@ -25593,6 +29373,15 @@ const statsYear2021 = [
     "gamesLost": 11,
     "gamesTotal": 18,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       137.02892046503814,
       131.8849580674317,
@@ -25645,6 +29434,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 9,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       143.21413532018133,
       137.60629917447693,
@@ -25672,6 +29470,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.89897948556634,
       150.00837769272798,
@@ -25694,6 +29501,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 7,
     "winRatio": 64.29,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.52786404500043,
       150,
@@ -25741,6 +29557,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 14,
     "winRatio": 42.86,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150.01363704407396,
       145.64789045957824,
@@ -25797,6 +29622,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       145.30958424017658,
@@ -25889,6 +29723,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 7,
     "winRatio": 85.71,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154,
       149.8772340307004,
@@ -25937,6 +29780,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150.41304298461066,
       151.13511291436606,
@@ -26155,6 +30007,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.75534407167953,
       143.5522228970754,
@@ -26179,6 +30040,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 12,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.09769089177416,
       149.7747805588739,
@@ -26253,6 +30123,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154.85780405249997,
       159.70941278147586,
@@ -26411,6 +30290,15 @@ const statsYear2021 = [
     "gamesLost": 17,
     "gamesTotal": 36,
     "winRatio": 47.22,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 2,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       151.55163929115437,
       154.87747500786875,
@@ -26439,6 +30327,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 2,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.46410161513776,
       157.14687152455818
@@ -26487,6 +30384,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 11,
     "winRatio": 81.82,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       161.58431262759686,
       161.5623692198803,
@@ -26589,6 +30495,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 10,
     "winRatio": 30,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       144.34314575050763,
@@ -26617,6 +30532,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.66413688718077,
       145.939760326876,
@@ -26694,6 +30618,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 32,
     "winRatio": 73.44,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 3,
+      "touchdowns": 1,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 4
+    },
     "_lastTenRatingsYear": [
       193.06940297648242,
       197.13088406707396,
@@ -26722,6 +30655,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 55,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       150,
@@ -26772,6 +30714,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 27,
     "winRatio": 70.37,
+    "trophies": {
+      "winner": 3,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       182.48198581622893,
       184.88093976576243,
@@ -26894,6 +30845,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 80,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       160.6273413255742,
@@ -26969,6 +30929,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 13,
     "winRatio": 42.31,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       147.29430030462055,
@@ -26997,6 +30966,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 10,
     "winRatio": 80,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       154.30182636780694,
       159.62950508256137,
@@ -27025,6 +31003,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 9,
     "winRatio": 38.89,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       150,
@@ -27127,6 +31114,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 54.17,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.8334425550722,
       144.18515163811276,
@@ -27155,6 +31151,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 9,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.69041575982342,
       154.68068185699687,
@@ -27182,6 +31187,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 56.25,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       149.78928821855328,
@@ -27257,6 +31271,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.54194315879104,
       153.6143384918135,
@@ -27320,6 +31343,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.74031858766855,
       153.74829109109763,
@@ -27394,6 +31426,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 70,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.77553105868074,
       155.44213128224632,
@@ -27515,6 +31556,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 17,
     "winRatio": 47.06,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       157.21527243263523,
       157.5590978605814,
@@ -27663,6 +31713,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 13,
     "winRatio": 57.69,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       161.51276611759943,
       157.14844964687055,
@@ -27691,6 +31750,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 15,
     "winRatio": 76.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       159.3879560059028,
       162.85469200021532,
@@ -28083,6 +32151,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 38,
     "winRatio": 68.42,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       187.6104638311444,
       192.73723153364963,
@@ -28132,6 +32209,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 6,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.20705448062262,
       142.2147579065828,
@@ -28180,6 +32266,15 @@ const statsYear2021 = [
     "gamesLost": 12,
     "gamesTotal": 34,
     "winRatio": 55.88,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       158.0546976822869,
       161.90496796117915,
@@ -28229,6 +32324,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 19,
     "winRatio": 52.63,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       166.12234597395516,
       161.2256196567404,
@@ -28328,6 +32432,15 @@ const statsYear2021 = [
     "gamesLost": 12,
     "gamesTotal": 28,
     "winRatio": 44.64,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 3,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       156.26413787733756,
       152.23226159908705,
@@ -28426,6 +32539,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 12,
     "winRatio": 70.83,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       158.34717508024173,
       163.64210705180326,
@@ -28475,6 +32597,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 11,
     "winRatio": 63.64,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       154.12310562561765,
@@ -28582,6 +32713,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 40,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.47722557505165,
       156.1522303095026,
@@ -28710,6 +32850,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 20,
     "winRatio": 55,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       176.1541505239277,
       169.6146091581695,
@@ -28738,6 +32887,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 13,
     "winRatio": 61.54,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       140.2081025396698,
       145.68931469535377,
@@ -28766,6 +32924,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.29150262212917,
       160.30984411061493,
@@ -28790,6 +32957,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.35889894354068,
       154.35889894354068,
@@ -28813,6 +32989,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 18,
     "winRatio": 38.89,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 3
+    },
     "_lastTenRatingsYear": [
       134.52330908221853,
       132.01406187720957,
@@ -28841,6 +33026,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       153.605551275464,
       153.59845864030356,
@@ -28862,6 +33056,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 13,
     "winRatio": 57.69,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.31010264742133,
       150.45037809342145,
@@ -28940,6 +33143,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.91210567616315,
@@ -28995,6 +33207,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 19,
     "winRatio": 81.58,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       181.6281352495625,
       186.42230730856414,
@@ -29071,6 +33292,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 7,
     "winRatio": 28.57,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.41867501403422,
       141.94523056617282,
@@ -29169,6 +33399,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.95062122438668,
       143.47321711867886,
@@ -29340,6 +33579,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 21,
     "winRatio": 73.81,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       171.88192878775405,
       175.63891905229792,
@@ -29391,6 +33639,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 10,
     "winRatio": 90,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.31370849898474,
@@ -29419,6 +33676,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 25,
     "winRatio": 52,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       151.7650794516641,
       151.89552946237956,
@@ -29499,6 +33765,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 7,
     "winRatio": 64.29,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.69041575982342,
       150,
@@ -29524,6 +33799,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.90809193617991,
       150.1412625681608,
@@ -29588,6 +33872,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 10,
     "winRatio": 45,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.0427390315336,
       150.8800302705986,
@@ -29616,6 +33909,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154,
       158,
@@ -29712,6 +34014,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.16691618568623,
       156.25234356055196,
@@ -29754,6 +34065,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       155.66683110313124,
@@ -29803,6 +34123,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 24,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.43585186893534,
       154.11374169489028,
@@ -29931,6 +34260,15 @@ const statsYear2021 = [
     "gamesLost": 14,
     "gamesTotal": 22,
     "winRatio": 31.82,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       127.72968896672174,
       125.13454682989942,
@@ -29959,6 +34297,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 7,
     "winRatio": 78.57,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       150,
       150.37122083421937,
@@ -30011,6 +34358,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       144.34314575050763,
@@ -30033,6 +34389,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 9,
     "winRatio": 55.56,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.8221814942046,
       150.15838896154628,
@@ -30060,6 +34425,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.75275741931048,
       147.09793324183187,
@@ -30088,6 +34462,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 27,
     "winRatio": 87.04,
+    "trophies": {
+      "winner": 4,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       195.19724068745936,
       197.79109524643985,
@@ -30206,6 +34589,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.4494897427832,
       154.89897948556637,
@@ -30227,6 +34619,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 24,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 3,
+      "stuntycup": 3,
+      "bestpainted": 0,
+      "otherawards": 5
+    },
     "_lastTenRatingsYear": [
       164.623180884547,
       168.54917153241448,
@@ -30255,6 +34656,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 15,
     "winRatio": 50,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.25242350021523,
       162.42558756661478,
@@ -30304,6 +34714,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.5678857274034,
       154.98961338627663,
@@ -30325,6 +34744,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154.7861625398345,
       159.68276121742102,
@@ -30349,6 +34777,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 15,
     "winRatio": 40,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       157.39497453748632,
       160.45344699238984,
@@ -30403,6 +34840,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.754214346431,
       153.8148399556673,
@@ -30498,6 +34944,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 27,
     "winRatio": 85.19,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       196.55477832354032,
       200.33721778256842,
@@ -30619,6 +35074,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.68130934506706,
       150.26236678438806,
@@ -30643,6 +35107,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 15,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.56120543045964,
       150.3384389735802,
@@ -30671,6 +35144,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 55,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.37332893511686,
       139.67174716451683,
@@ -30699,6 +35181,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       150.1848695472092,
@@ -30767,6 +35258,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       150,
@@ -30815,6 +35315,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 9,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.2426406871193,
       150,
@@ -30842,6 +35351,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       147.03737743046327,
       143.74594874876223,
@@ -30863,6 +35381,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.2025564368803,
       150.91866016557748,
@@ -30911,6 +35438,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.02612570116537,
       157.24944804206154,
@@ -30932,6 +35468,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 14,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.9898188510618,
       149.8779638235607,
@@ -30981,6 +35526,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.89897948556634,
       159.68992931868564,
@@ -31139,6 +35693,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 15,
     "winRatio": 63.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       143.9809643737512,
       149.42598615787045,
@@ -31195,6 +35758,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 11,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       144.64962586776716,
       139.7689741666702,
@@ -31249,6 +35821,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 9,
     "winRatio": 61.11,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.85930973378717,
       144.96562034889996,
@@ -31387,6 +35968,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.10667407834222,
       140.53502824622626,
@@ -31511,6 +36101,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 15,
     "winRatio": 63.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       158.94503106082942,
       164.20442242773134,
@@ -31586,6 +36185,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 15,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       139.83449301636358,
       143.5683276283669,
@@ -31614,6 +36222,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 10,
     "winRatio": 35,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.51568847770244,
       144.83591913891158,
@@ -31719,6 +36336,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150.02473939576169,
       150.04788404419034,
@@ -31747,6 +36373,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       154.14862255893587,
@@ -31771,6 +36406,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 9,
     "winRatio": 44.44,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       147.0257005182248,
       149.85729438179428,
@@ -31815,16 +36459,25 @@ const statsYear2021 = [
     "NAF Name": "Vito",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 157.58893126898766,
-    "bestRating": 157.64810897048815,
+    "rating": 157.60104530115774,
+    "bestRating": 157.6554605267772,
     "worstRating": 138.96057657073857,
-    "tendency": 7.557922000835248,
+    "tendency": 7.570036033005323,
     "tournaments": 3,
     "gamesWon": 6,
     "gamesDraw": 3,
     "gamesLost": 4,
     "gamesTotal": 13,
     "winRatio": 57.69,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.03100926815242,
       144.3839476107185,
@@ -31832,10 +36485,10 @@ const statsYear2021 = [
       140.48830558074079,
       145.74430079168417,
       146.27632526253097,
-      150.25877424386812,
-      154.04231604830028,
-      157.64810897048815,
-      157.58893126898766
+      150.26073685157365,
+      154.04993832248635,
+      157.6554605267772,
+      157.60104530115774
     ]
   },
   {
@@ -31853,6 +36506,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       154.38074698111612,
@@ -31915,27 +36577,27 @@ const statsYear2021 = [
     "NAF Name": "ThezmarAD",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 139.5811809419593,
-    "bestRating": 148.74019029686016,
-    "worstRating": 138.489322162956,
-    "tendency": -5.496222213951057,
+    "rating": 142.01943417931986,
+    "bestRating": 148.59870778595592,
+    "worstRating": 141.24046482322728,
+    "tendency": -2.2273592213820734,
     "tournaments": 3,
     "gamesWon": 3,
     "gamesDraw": 2,
-    "gamesLost": 6,
-    "gamesTotal": 11,
-    "winRatio": 36.36,
+    "gamesLost": 5,
+    "gamesTotal": 10,
+    "winRatio": 40,
     "_lastTenRatingsYear": [
+      144.24679340070193,
       145.07740315591036,
       144.85073171980463,
-      148.74019029686016,
-      145.9839085493806,
-      141.9636029098314,
-      138.489322162956,
-      142.84179645099718,
-      139.63391422114273,
-      143.7719159891819,
-      139.5811809419593
+      148.59870778595592,
+      144.65856680135778,
+      141.24046482322728,
+      145.50898802669897,
+      142.2222367820031,
+      146.28716514978876,
+      142.01943417931986
     ]
   },
   {
@@ -32026,6 +36688,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 18,
     "winRatio": 72.22,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       174.42997354644348,
       174.36230193408565,
@@ -32103,6 +36774,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.92803200162038,
       144.66023270608628,
@@ -32190,6 +36870,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       143.67544467966323,
       143.67544467966323,
@@ -32238,6 +36927,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 18,
     "winRatio": 63.89,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       169.10999546231346,
       168.27125707193727,
@@ -32291,6 +36989,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 9,
     "winRatio": 55.56,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       150.31558061219417,
@@ -32455,6 +37162,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.52786404500043,
       141.05572809000085,
@@ -32530,6 +37246,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 17,
     "winRatio": 52.94,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.97589286927914,
       150.09343274818673,
@@ -32604,6 +37329,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       155.87508327971523,
@@ -32625,6 +37359,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.0862004932981,
       149.85059369195457,
@@ -32675,6 +37418,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.01395757971918,
       144.3879176118551,
@@ -32703,6 +37455,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       149.93860737491917,
@@ -32726,6 +37487,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 12,
     "winRatio": 29.17,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.34215071260223,
       138.35202719227803,
@@ -32782,6 +37552,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 12,
     "winRatio": 79.17,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       160.75486043287842,
       165.03111837829462,
@@ -32831,6 +37610,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 7,
     "winRatio": 35.71,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.38639767995468,
       141.82975335227297,
@@ -32856,6 +37644,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 26,
     "winRatio": 59.62,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 3,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 3
+    },
     "_lastTenRatingsYear": [
       160.08038119109057,
       155.94182197444624,
@@ -32926,6 +37723,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 11,
     "winRatio": 40.91,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.29150262212917,
       149.98933824364983,
@@ -33004,6 +37810,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.78732398394627,
       159.47234304194217,
@@ -33041,10 +37856,10 @@ const statsYear2021 = [
     "NAF Name": "ChAoSmaTac",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 148.2126309982041,
-    "bestRating": 156.29490758048325,
-    "worstRating": 148.2126309982041,
-    "tendency": -2.80824544449311,
+    "rating": 148.29312047803856,
+    "bestRating": 156.15200149473807,
+    "worstRating": 148.29312047803856,
+    "tendency": -2.7042844031938387,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 2,
@@ -33052,11 +37867,11 @@ const statsYear2021 = [
     "gamesTotal": 5,
     "winRatio": 40,
     "_lastTenRatingsYear": [
-      151.02087644269722,
-      151.66417998352216,
-      156.29490758048325,
-      152.5038298619802,
-      148.2126309982041
+      150.9974048812324,
+      151.626423607409,
+      156.15200149473807,
+      152.4837863233049,
+      148.29312047803856
     ]
   },
   {
@@ -33130,6 +37945,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       157.34095616487622,
       157.03227125117496,
@@ -33305,6 +38129,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 12,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       161.8772340307004,
       165.1311621954699,
@@ -33375,6 +38208,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 9,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.43874655388032,
       157.4559775648744,
@@ -33524,6 +38366,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 22,
     "winRatio": 40.91,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.65053793898173,
       146.47895475128908,
@@ -33631,6 +38482,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       151.41927364031565,
@@ -33707,6 +38567,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 20,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       161.70774830532153,
       162.0818265980159,
@@ -33874,6 +38743,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 20,
     "winRatio": 57.5,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.2553823681673,
       149.9980296610349,
@@ -33950,6 +38828,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 7,
     "winRatio": 35.71,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146,
       141.9283800309645,
@@ -34002,6 +38889,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 26,
     "winRatio": 65.38,
+    "trophies": {
+      "winner": 4,
+      "runnerup": 3,
+      "touchdowns": 3,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 3
+    },
     "_lastTenRatingsYear": [
       156.8542600972176,
       161.06723319371662,
@@ -34080,6 +38976,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 91.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.31370849898474,
@@ -34172,6 +39077,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.45029872033317,
       149.92770282604098,
@@ -34297,6 +39211,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       143.67544467966323,
       150,
@@ -34365,6 +39288,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       150.02565734503415,
@@ -34415,6 +39347,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150.05671380810168,
       153.0138489085662,
@@ -34460,6 +39401,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.5505102572168,
       150,
@@ -34600,6 +39550,15 @@ const statsYear2021 = [
     "gamesLost": 12,
     "gamesTotal": 28,
     "winRatio": 42.86,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       137.97338214523597,
       133.23162869999143,
@@ -34628,6 +39587,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 11,
     "winRatio": 36.36,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       138.68629150101526,
       133.0294372515229,
@@ -34705,6 +39673,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 11,
     "winRatio": 59.09,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       146.83772233983163,
@@ -34828,6 +39805,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 21,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       148.2514793634594,
       153.4981057243639,
@@ -34856,6 +39842,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154,
       157.5078969224906,
@@ -34905,6 +39900,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 5,
     "winRatio": 20,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       138.67045200492615,
@@ -34928,6 +39932,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 23,
     "winRatio": 65.22,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       161.23402885526997,
       164.89677214336487,
@@ -34956,6 +39969,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 21,
     "winRatio": 35.71,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       142.9998322173984,
       140.5365367228842,
@@ -34984,6 +40006,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 24,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.08845082455906,
       158.57061778252773,
@@ -35012,6 +40043,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 27,
     "winRatio": 68.52,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 3
+    },
     "_lastTenRatingsYear": [
       180.93652866820076,
       182.6259048816921,
@@ -35040,6 +40080,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 12,
     "winRatio": 70.83,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       154.89897948556634,
@@ -35163,6 +40212,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 10,
     "winRatio": 45,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.67486239352453,
       161.33093476612854,
@@ -35191,6 +40249,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 16,
     "winRatio": 81.25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 3,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       175.6132920843819,
       180.41007612176028,
@@ -35266,6 +40333,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 10,
     "winRatio": 40,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.1270166537926,
       142.369128662907,
@@ -35322,6 +40398,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.42003122014393,
       154.42976512297048,
@@ -35570,6 +40655,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 13,
     "winRatio": 69.23,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       162.06768696001254,
       166.76968276780653,
@@ -35640,6 +40734,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       149.78443989160445,
       149.79379906342135,
@@ -35663,6 +40766,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 40,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       146.9144601081221,
@@ -35826,6 +40938,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.74238918601054,
       150.4172239076496,
@@ -35895,6 +41016,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.4494897427832,
       154.80691946378937,
@@ -35937,6 +41067,15 @@ const statsYear2021 = [
     "gamesLost": 17,
     "gamesTotal": 35,
     "winRatio": 44.29,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       134.20018274825125,
       139.29372415737913,
@@ -35986,6 +41125,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       153.46410161513776,
       150.00307627807518,
@@ -36055,6 +41203,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       150.73840294549262,
@@ -36077,6 +41234,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 55.56,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.1042402263764,
       150.27765824734675,
@@ -36127,6 +41293,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 7,
     "winRatio": 71.43,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.52786404500043,
       150,
@@ -36152,6 +41327,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.0604596446337,
       159.32544493142214,
@@ -36351,6 +41535,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.92794017030062,
       150.02590457836772,
@@ -36375,6 +41568,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 9,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       150,
       155.08309952912037,
@@ -36402,6 +41604,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 91.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.89897948556634,
       159.7979589711327,
@@ -36426,6 +41637,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 13,
     "winRatio": 42.31,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       133.64850963325844,
       134.00163177238844,
@@ -36479,6 +41699,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 21,
     "winRatio": 64.29,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       158.50464278135112,
       163.82296498325368,
@@ -36507,6 +41736,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       150.01065713684952,
@@ -36556,6 +41794,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 16,
     "winRatio": 56.25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       161.88862727113434,
       155.96140829017776,
@@ -36682,6 +41929,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 12,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       167.2735930549355,
       167.02893734775097,
@@ -36880,6 +42136,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 15,
     "winRatio": 70,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.56448163078267,
       150.53639079282266,
@@ -36934,6 +42199,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.69041575982342,
       150,
@@ -36958,6 +42232,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 15,
     "winRatio": 93.33,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 1,
+      "touchdowns": 4,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       172.93164410238072,
       169.67771593761123,
@@ -37081,6 +42364,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.45963764188167,
       157.03117249472723,
@@ -37122,6 +42414,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 15,
     "winRatio": 53.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       141.40804160001963,
       147.3285469865747,
@@ -37150,6 +42451,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 25,
     "winRatio": 56,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       151.01464453977647,
       156.4096766713481,
@@ -37178,6 +42488,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.53589838486224,
       146.53360270158205,
@@ -37293,6 +42612,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.69041575982342,
       154.69041575982342,
@@ -37314,6 +42642,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 9,
     "winRatio": 11.11,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       138.68629150101526,
@@ -37365,6 +42702,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 15,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       140.60364016736452,
       146.6674469902728,
@@ -37393,6 +42739,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 12,
     "winRatio": 70.83,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.92110198248193,
       162.27773843704549,
@@ -37442,6 +42797,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.76099480384428,
       157.6435405151217,
@@ -37466,6 +42830,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 10,
     "winRatio": 15,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.98813069208683,
       143.225515264839,
@@ -37537,6 +42910,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 20,
     "winRatio": 70,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       143.79389450385358,
       149.7586467568562,
@@ -37720,6 +43102,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 14,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.74250454627514,
       145.92729054946273,
@@ -37748,6 +43139,15 @@ const statsYear2021 = [
     "gamesLost": 17,
     "gamesTotal": 22,
     "winRatio": 18.18,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       127.24746920236652,
       123.91714916220297,
@@ -37798,6 +43198,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 80,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       154.69041575982342,
       159.38083151964685,
@@ -37864,6 +43273,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 18,
     "winRatio": 63.89,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 3,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       156.18357886270078,
       160.22853519567377,
@@ -37915,6 +43333,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 11,
     "winRatio": 72.73,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.80532574640867,
       156.19500031787112,
@@ -37943,6 +43370,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 7,
     "winRatio": 85.71,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.74153449048532,
       154.7116313230024,
@@ -37968,6 +43404,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.51771321502517,
       139.6406665539991,
@@ -37992,6 +43437,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 14,
     "winRatio": 39.29,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       139.23101592565578,
       134.38651418627748,
@@ -38010,27 +43464,36 @@ const statsYear2021 = [
     "NAF Name": "Steynberg",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 182.6085972890751,
-    "bestRating": 182.6085972890751,
+    "rating": 182.33242666948746,
+    "bestRating": 182.33242666948746,
     "worstRating": 154.66783706476232,
-    "tendency": 9.41090984128516,
+    "tendency": 9.134739221697515,
     "tournaments": 3,
     "gamesWon": 9,
     "gamesDraw": 3,
     "gamesLost": 2,
     "gamesTotal": 14,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       173.19768744778995,
       167.83231367121553,
       172.83177111915603,
       172.78346519678647,
       167.00197779870916,
-      171.43935219954886,
-      170.82092373430558,
-      175.9845002442915,
-      177.09221426929398,
-      182.6085972890751
+      171.35318138697815,
+      170.74593858090154,
+      175.80940711952877,
+      176.89305278089194,
+      182.33242666948746
     ]
   },
   {
@@ -38070,6 +43533,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.7573593128807,
       150.04381546997698,
@@ -38142,6 +43614,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 15,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.99936274807476,
       162.93284335849475,
@@ -38170,6 +43651,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 7,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       150.24545485873347,
@@ -38195,6 +43685,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.3699540744259,
       139.9440172846833,
@@ -38206,16 +43705,25 @@ const statsYear2021 = [
     "NAF Name": "Eldryr",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 171.3498548716921,
-    "bestRating": 171.3498548716921,
+    "rating": 171.3147232199253,
+    "bestRating": 171.3147232199253,
     "worstRating": 144.0875156235391,
-    "tendency": 1.3916711255119765,
+    "tendency": 1.3565394737451868,
     "tournaments": 9,
     "gamesWon": 16,
     "gamesDraw": 14,
     "gamesLost": 9,
     "gamesTotal": 39,
     "winRatio": 58.97,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       169.9581837461801,
       169.56800406873305,
@@ -38223,10 +43731,10 @@ const statsYear2021 = [
       164.28580758480354,
       163.9490017213991,
       167.98597754326798,
-      170.69772373421495,
-      167.3717599620353,
-      168.21815170213125,
-      171.3498548716921
+      170.60852127688338,
+      167.4208016609372,
+      168.22318682824013,
+      171.3147232199253
     ]
   },
   {
@@ -38296,6 +43804,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 20,
     "winRatio": 70,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       158.3943074791681,
       158.99692523636293,
@@ -38324,6 +43841,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 5,
     "winRatio": 30,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.6833752096446,
       143.53331766508612,
@@ -38368,6 +43894,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 36,
     "winRatio": 59.72,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       174.45008524429335,
       171.15630804123865,
@@ -38721,6 +44256,15 @@ const statsYear2021 = [
     "gamesLost": 12,
     "gamesTotal": 21,
     "winRatio": 30.95,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       137.8525235253677,
       132.76118622778569,
@@ -38800,6 +44344,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 13,
     "winRatio": 46.15,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       150.14647129165348,
@@ -38849,6 +44402,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150.13788688148261,
       147.27210038401807,
@@ -38875,6 +44437,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.45797144480275,
       150.45026801884256,
@@ -38899,6 +44470,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 10,
     "winRatio": 40,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 2,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146,
       150,
@@ -38951,6 +44531,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 10,
     "winRatio": 90,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.88189478050643,
       158.2462112512353,
@@ -39002,6 +44591,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 9,
     "winRatio": 61.11,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       150,
@@ -39079,6 +44677,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 15,
     "winRatio": 40,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       141.61952668189997,
       137.24144440777638,
@@ -39251,6 +44858,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 10,
     "winRatio": 90,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.31370849898474,
@@ -39279,6 +44895,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 10,
     "winRatio": 70,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       156.11226766815335,
@@ -39449,6 +45074,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.53589838486224,
       150,
@@ -39492,6 +45126,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 9,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.41742430504416,
       145.45529620222098,
@@ -39591,6 +45234,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 17,
     "winRatio": 32.35,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       132.9969359115424,
       138.69515698616598,
@@ -39619,6 +45271,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.64686765240648,
       154.10512951327755,
@@ -39791,6 +45452,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 21,
     "winRatio": 76.19,
+    "trophies": {
+      "winner": 3,
+      "runnerup": 1,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       183.06851333109924,
       187.03179694766166,
@@ -39900,6 +45570,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 1,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.94043548097704
     ]
@@ -39919,6 +45598,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       151.23029906183555,
       155.83928823849342,
@@ -40018,10 +45706,10 @@ const statsYear2021 = [
     "NAF Name": "MJF1704",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 129.2931141243932,
+    "rating": 129.443151373276,
     "bestRating": 144.34314575050763,
-    "worstRating": 129.2931141243932,
-    "tendency": -15.050031626114418,
+    "worstRating": 129.443151373276,
+    "tendency": -14.899994377231621,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 3,
@@ -40035,10 +45723,10 @@ const statsYear2021 = [
       133.20042356027295,
       133.4583610581191,
       138.85237594332781,
-      139.3384698871619,
-      135.3341279224419,
-      133.03678704961192,
-      129.2931141243932
+      139.341259822856,
+      135.34274728320045,
+      133.18527533205855,
+      129.443151373276
     ]
   },
   {
@@ -40056,6 +45744,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 5,
     "winRatio": 30,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.69041575982342,
       150,
@@ -40200,6 +45897,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 15,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       157.98518928941138,
       160.77754001157467,
@@ -40217,7 +45923,7 @@ const statsYear2021 = [
     "NAF Nr": "26036",
     "NAF Name": "tuorgustavo",
     "CCAA": "Apatrida",
-    "Country": "Portugal",
+    "Country": "Brazil",
     "rating": 149.55272933073175,
     "bestRating": 155.65685424949237,
     "worstRating": 149.24731630023544,
@@ -40279,6 +45985,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 9,
     "winRatio": 72.22,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.13747670456934,
       154.2527111558199,
@@ -40385,6 +46100,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 20,
     "winRatio": 47.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.1896860055737,
       152.46838994207067,
@@ -40461,6 +46185,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 13,
     "winRatio": 46.15,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.73763571227735,
       159.419925881361,
@@ -40489,6 +46222,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 9,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146,
       150,
@@ -40516,6 +46258,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 15,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 2,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.54021638605178,
       154.38443690993907,
@@ -40792,6 +46543,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.1270166537926,
       142.2540333075852,
@@ -40814,6 +46574,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.69041575982342,
       154.69041575982342,
@@ -40864,6 +46633,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.83772233983163,
       150.19392736775572,
@@ -40918,10 +46696,10 @@ const statsYear2021 = [
     "NAF Name": "Ashira",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 143.07044718074403,
+    "rating": 142.91593268626983,
     "bestRating": 159.38075116303594,
-    "worstRating": 137.13889653839507,
-    "tendency": -3.538535127844682,
+    "worstRating": 137.2042432772176,
+    "tendency": -3.693049622318881,
     "tournaments": 6,
     "gamesWon": 8,
     "gamesDraw": 8,
@@ -40935,10 +46713,10 @@ const statsYear2021 = [
       143.01784381431352,
       139.04476958995204,
       139.27144102605777,
-      137.13889653839507,
-      141.3511628652049,
-      145.4956976985954,
-      143.07044718074403
+      137.2042432772176,
+      141.2579241645235,
+      145.25425396130262,
+      142.91593268626983
     ]
   },
   {
@@ -40946,27 +46724,27 @@ const statsYear2021 = [
     "NAF Name": "Ekogon",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 161.63955296604504,
-    "bestRating": 161.63955296604504,
-    "worstRating": 142.401464542579,
-    "tendency": 11.668843375802567,
+    "rating": 161.43073572462825,
+    "bestRating": 161.43073572462825,
+    "worstRating": 142.57206351653878,
+    "tendency": 11.461119975647762,
     "tournaments": 3,
     "gamesWon": 8,
-    "gamesDraw": 2,
+    "gamesDraw": 1,
     "gamesLost": 6,
-    "gamesTotal": 16,
-    "winRatio": 56.25,
+    "gamesTotal": 15,
+    "winRatio": 56.67,
     "_lastTenRatingsYear": [
-      149.97070959024248,
-      146.3053953304609,
-      142.401464542579,
-      147.09491264255317,
-      151.48406823688848,
-      156.35204226928366,
-      151.7006493392126,
-      156.75799346765422,
-      156.7542444768275,
-      161.63955296604504
+      149.9696157489805,
+      146.3889047713996,
+      142.57206351653878,
+      147.1634617154458,
+      151.4564175531596,
+      156.23477350646635,
+      151.6791271944927,
+      156.63863216823876,
+      156.63572531897353,
+      161.43073572462825
     ]
   },
   {
@@ -41064,6 +46842,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 4,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.96878552707435,
       141.72267837581964,
@@ -41193,6 +46980,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154.58257569495584,
       150,
@@ -41237,6 +47033,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 2,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.2683349716686,
       155.11190118598805
@@ -41257,6 +47062,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       138.68629150101526,
@@ -41326,6 +47140,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.439830444591,
       150.2837043442067,
@@ -41414,6 +47237,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       147.30111210063671,
       144.7684359955208,
@@ -41435,6 +47267,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 16,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.18268305259295,
       152.630340333721,
@@ -41517,6 +47358,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 9,
     "winRatio": 61.11,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.6154462982425,
       159.0610025625519,
@@ -41645,6 +47495,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.30958424017658,
       140.61916848035315,
@@ -41666,6 +47525,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       154.58257569495584,
@@ -41756,6 +47624,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 28,
     "winRatio": 57.14,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       143.91090821523542,
       144.19430441377926,
@@ -41851,6 +47728,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 6,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.98290447736466,
       143.82094831334462,
@@ -41875,6 +47761,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 11,
     "winRatio": 63.64,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.22943584396452,
       160.90484766250088,
@@ -41903,6 +47798,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 11,
     "winRatio": 63.64,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       149.99920315854476,
@@ -41931,6 +47835,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 18,
     "winRatio": 61.11,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       160.85606823594574,
       167.4778425104151,
@@ -42009,6 +47922,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       144.41141889345974,
@@ -42054,6 +47976,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 23,
     "winRatio": 65.22,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       169.05886556619626,
       168.5995521746418,
@@ -42082,6 +48013,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       155.65685424949237,
@@ -42242,6 +48182,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 1,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.8863914073404
     ]
@@ -42261,6 +48210,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 14,
     "winRatio": 64.29,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       167.0196998013305,
       172.7460844403812,
@@ -42289,6 +48247,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 9,
     "winRatio": 44.44,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.04401057656534,
       150.72364225998265,
@@ -42316,6 +48283,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 12,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       160.93143648960583,
       166.59352246826242,
@@ -42344,6 +48320,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.19808730060146,
       156.190804555408,
@@ -42398,6 +48383,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 2,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.52601660060287,
       155.02316799905017,
@@ -42422,6 +48416,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 7,
     "winRatio": 57.14,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       150,
@@ -42588,6 +48591,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 19,
     "winRatio": 52.63,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 3,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       163.68657161998976,
       168.8340326330971,
@@ -42670,6 +48682,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.32455532033677,
       162.64911064067354,
@@ -42725,6 +48746,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 54.17,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.99266934343348,
       149.76718951838913,
@@ -42800,6 +48830,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 16,
     "winRatio": 78.13,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 2,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       165.50874867129204,
       170.7392603253488,
@@ -42828,6 +48867,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       155.65747789141363,
@@ -42878,6 +48926,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 10,
     "winRatio": 85,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.6457513110646,
       155.2915026221292,
@@ -42932,6 +48989,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 24,
     "winRatio": 70.83,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       174.81000683019604,
       173.19886082022788,
@@ -42960,6 +49026,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 18,
     "winRatio": 69.44,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       169.73550998245193,
       169.3826817266525,
@@ -43055,6 +49130,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       144.09769089177416,
@@ -43079,6 +49163,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 18,
     "winRatio": 44.44,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       151.91419833514874,
       146.4044045428554,
@@ -43107,6 +49200,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 15,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       165.39186536760351,
       160.6503308771182,
@@ -43181,6 +49283,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 18,
     "winRatio": 63.89,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       167.65536603593492,
       161.51459655437802,
@@ -43320,6 +49431,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 33,
     "winRatio": 68.18,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 5,
+      "stuntycup": 2,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       196.64200565892725,
       200.72631395765939,
@@ -43348,6 +49468,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 12,
     "winRatio": 37.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       148.83021051425536,
       143.44937454546962,
@@ -43376,6 +49505,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 16,
     "winRatio": 71.88,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       169.9680883402709,
       170.0823914110747,
@@ -43418,16 +49556,25 @@ const statsYear2021 = [
     "NAF Name": "motzer",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 141.74529756980507,
+    "rating": 141.82128209561768,
     "bestRating": 150,
     "worstRating": 120.99834028390929,
-    "tendency": 16.006202590214173,
+    "tendency": 16.082187116026773,
     "tournaments": 4,
     "gamesWon": 5,
     "gamesDraw": 3,
     "gamesLost": 8,
     "gamesTotal": 16,
     "winRatio": 40.63,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       125.7390949795909,
       120.99834028390929,
@@ -43435,10 +49582,10 @@ const statsYear2021 = [
       132.80050185997135,
       129.26222455143224,
       130.25151702354228,
-      135.29502291848067,
-      141.16035544477035,
-      137.55456252258247,
-      141.74529756980507
+      135.30340817103573,
+      141.15907332943962,
+      137.55355112514877,
+      141.82128209561768
     ]
   },
   {
@@ -43523,6 +49670,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.4494897427832,
       154.80691946378937,
@@ -43568,6 +49724,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154,
       154,
@@ -43637,6 +49802,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.53589838486224,
       143.07179676972447,
@@ -43681,6 +49855,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154,
       158.01108219562022,
@@ -43702,6 +49885,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150.3406729858718,
       150.18425817582346,
@@ -43806,6 +49998,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 21,
     "winRatio": 61.9,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.75068984186302,
       159.5742517019272,
@@ -43882,6 +50083,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.30958424017658,
       150,
@@ -43928,6 +50138,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 11,
     "winRatio": 18.18,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.70849737787083,
       139.41699475574165,
@@ -43977,6 +50196,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 17,
     "winRatio": 70.59,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       170.98765943131679,
       175.57020798210525,
@@ -44033,6 +50261,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 17,
     "winRatio": 64.71,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       157.91341715400776,
       157.77645041639147,
@@ -44061,6 +50298,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 20,
     "winRatio": 42.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.9402340832474,
       141.35768553245893,
@@ -44259,6 +50505,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 15,
     "winRatio": 53.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       148.95265255970355,
       146.16030183754026,
@@ -44388,6 +50643,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 24,
     "winRatio": 45.83,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       136.637043637563,
       133.65295871881915,
@@ -44406,27 +50670,36 @@ const statsYear2021 = [
     "NAF Name": "tobyeatworld",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 150.40410120054543,
-    "bestRating": 158.90579444824624,
+    "rating": 150.56790058529674,
+    "bestRating": 158.992737383371,
     "worstRating": 144.34314575050763,
-    "tendency": -5.53500363118971,
+    "tendency": -5.371204246438396,
     "tournaments": 4,
     "gamesWon": 7,
     "gamesDraw": 3,
     "gamesLost": 7,
     "gamesTotal": 17,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.93910483173514,
       154.9498123596251,
-      151.98128000692543,
-      155.43436264717124,
-      151.28982781378076,
-      154.76410856065615,
-      154.27801461682208,
-      158.90579444824624,
-      154.79762722695378,
-      150.40410120054543
+      152.10694818599384,
+      155.43458049613267,
+      151.43825069935355,
+      154.85635267748404,
+      154.36746879795587,
+      158.992737383371,
+      154.88677532045327,
+      150.56790058529674
     ]
   },
   {
@@ -44462,10 +50735,10 @@ const statsYear2021 = [
     "NAF Name": "V0Iv4gi4",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 134.59533168085613,
-    "bestRating": 146.11054142294444,
-    "worstRating": 134.59533168085613,
-    "tendency": -11.515209742088302,
+    "rating": 135.15558698946776,
+    "bestRating": 146.25202393384868,
+    "worstRating": 135.15558698946776,
+    "tendency": -11.096436944380912,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
@@ -44473,10 +50746,10 @@ const statsYear2021 = [
     "gamesTotal": 4,
     "winRatio": 0,
     "_lastTenRatingsYear": [
-      146.11054142294444,
-      141.96867166896436,
-      138.12626797836313,
-      134.59533168085613
+      146.25202393384868,
+      142.26698902493177,
+      138.5632104267407,
+      135.15558698946776
     ]
   },
   {
@@ -44484,25 +50757,33 @@ const statsYear2021 = [
     "NAF Name": "Nex",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 146.3315931024735,
-    "bestRating": 147.1325196048869,
-    "worstRating": 141.25302196138904,
-    "tendency": -0.8009265024134038,
+    "rating": 148.79714830846518,
+    "bestRating": 149.52161900832888,
+    "worstRating": 143.9423270700974,
+    "tendency": 2.9810113299676857,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 0,
-    "gamesLost": 5,
-    "gamesTotal": 8,
-    "winRatio": 37.5,
+    "gamesLost": 4,
+    "gamesTotal": 7,
+    "winRatio": 42.86,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
-      147.1325196048869,
-      142.85832890472656,
-      146.78772155373082,
-      143.65601838416998,
-      141.25302196138904,
-      145.38354846485757,
-      141.93806707606515,
-      146.3315931024735
+      145.8161369784975,
+      149.52161900832888,
+      146.43008261664372,
+      143.9423270700974,
+      147.99413583836528,
+      144.47827357330866,
+      148.79714830846518
     ]
   },
   {
@@ -44569,6 +50850,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.89897948556634,
       159.7979589711327,
@@ -44703,6 +50993,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.17837883236749,
       150.27276444746263,
@@ -44776,6 +51075,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153,
       156,
@@ -44818,6 +51126,15 @@ const statsYear2021 = [
     "gamesLost": 13,
     "gamesTotal": 19,
     "winRatio": 26.32,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       121.54530309420139,
       118.76778308991854,
@@ -44892,6 +51209,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.2838962713028,
       145.2811558830272,
@@ -45028,6 +51354,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 11,
     "winRatio": 40.91,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       138.68629150101526,
       138.68629150101526,
@@ -45104,6 +51439,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 45.83,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       151.3812184068368,
       145.47117491262497,
@@ -45224,6 +51568,15 @@ const statsYear2021 = [
     "gamesLost": 12,
     "gamesTotal": 24,
     "winRatio": 47.92,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154.94055437596003,
       150.88522480928634,
@@ -45273,6 +51626,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 19,
     "winRatio": 55.26,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 2,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       143.54220920599397,
       148.2958791102022,
@@ -45301,6 +51663,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146,
       141.45564853965317,
@@ -45527,6 +51898,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.1093505142278,
       156.7904545435133,
@@ -45551,6 +51931,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       153.46410161513776,
       156.92820323027553,
@@ -45597,6 +51986,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 24,
     "winRatio": 54.17,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       148.84473638556028,
       150.92479031338706,
@@ -45653,6 +52051,15 @@ const statsYear2021 = [
     "gamesLost": 14,
     "gamesTotal": 27,
     "winRatio": 40.74,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       139.50586976627815,
       133.81192976292382,
@@ -45709,6 +52116,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 14,
     "winRatio": 67.86,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       160.57602629728697,
       165.0268613262712,
@@ -45737,6 +52153,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 5,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       140.61902792860198,
@@ -45834,6 +52259,15 @@ const statsYear2021 = [
     "gamesLost": 11,
     "gamesTotal": 12,
     "winRatio": 4.17,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 2,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       144.68644105329864,
       140.8505635761549,
@@ -45862,6 +52296,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       152.54541325257043,
       149.11700466277952,
@@ -45907,6 +52350,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.3166247903554,
       157.43557149361686,
@@ -45931,6 +52383,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 11,
     "winRatio": 45.45,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.99005308005513,
       155.157856753268,
@@ -45959,6 +52420,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.16227766016837,
       153.16227766016837,
@@ -46004,6 +52474,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.71464205161942,
       151.37195596550703,
@@ -46077,6 +52556,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.16227766016837,
       156.32455532033674,
@@ -46126,6 +52614,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 13,
     "winRatio": 69.23,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.7647251088986,
       155.24640769339047,
@@ -46154,6 +52651,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 9,
     "winRatio": 61.11,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.01192129847075,
       142.25403330758516,
@@ -46283,6 +52789,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 14,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       167.0404243125579,
       171.76180509379066,
@@ -46421,6 +52936,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 14,
     "winRatio": 53.57,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154.9573136099578,
       156.3083042881032,
@@ -46439,16 +52963,25 @@ const statsYear2021 = [
     "NAF Name": "MrFling",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 155.77960483230743,
-    "bestRating": 159.4898704441221,
+    "rating": 155.93734898728184,
+    "bestRating": 159.6464863266785,
     "worstRating": 149.58674348378528,
-    "tendency": 1.3074688773078549,
+    "tendency": 1.4652130322822643,
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 1,
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 55,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.47213595499957,
       150.00671741830843,
@@ -46456,10 +52989,10 @@ const statsYear2021 = [
       149.58674348378528,
       154.11823371368064,
       149.9862803434404,
-      155.38170322282963,
-      159.4898704441221,
-      155.72042713080694,
-      155.77960483230743
+      155.54052426376077,
+      159.6464863266785,
+      155.88293376166237,
+      155.93734898728184
     ]
   },
   {
@@ -46568,6 +53101,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 7,
     "winRatio": 35.71,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       151.9799136352364,
@@ -46621,6 +53163,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.46410161513776,
       149.73739631135533,
@@ -46645,6 +53196,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 7,
     "winRatio": 21.43,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.54646509124356,
       138.8980094523669,
@@ -46736,6 +53296,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       154,
@@ -46760,6 +53329,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.75752961173134,
       143.28829058694058,
@@ -46804,6 +53382,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 12,
     "winRatio": 29.17,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       142.97971506310782,
       139.60776015818436,
@@ -46928,6 +53515,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.6373088613306,
       144.36053646054384,
@@ -47247,6 +53843,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.47722557505165,
       155.8187571267407,
@@ -47271,6 +53876,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 15,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       156.40091207992148,
       162.43188578157373,
@@ -47486,6 +54100,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.6975829018375,
       146.69765469405627,
@@ -47592,27 +54215,36 @@ const statsYear2021 = [
     "NAF Name": "Storr",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 192.81059934530012,
-    "bestRating": 204.74672000978086,
+    "rating": 198.1683085727325,
+    "bestRating": 204.50169698717977,
     "worstRating": 150.2669967303891,
-    "tendency": -5.005144789592151,
+    "tendency": 4.968918815415208,
     "tournaments": 7,
     "gamesWon": 21,
     "gamesDraw": 8,
-    "gamesLost": 7,
-    "gamesTotal": 36,
-    "winRatio": 69.44,
+    "gamesLost": 6,
+    "gamesTotal": 35,
+    "winRatio": 71.43,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
-      197.81574413489227,
-      201.15959185317635,
-      200.62281433164645,
-      204.74672000978086,
-      203.63900598477838,
-      197.42952053945535,
-      192.03409766006615,
-      194.56192392372054,
-      196.85926479655052,
-      192.81059934530012
+      193.1993897573173,
+      197.53496691860627,
+      200.97291229770764,
+      200.44721556227682,
+      204.50169698717977,
+      203.41805132581658,
+      197.8638074054962,
+      200.2410944509492,
+      202.3985664020911,
+      198.1683085727325
     ]
   },
   {
@@ -47654,6 +54286,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 10,
     "winRatio": 65,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       145.41742430504416,
@@ -47825,6 +54466,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154,
       150,
@@ -47852,6 +54502,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 9,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.12295562032014,
       150.3526230376655,
@@ -47948,6 +54607,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 72.22,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       149.6290257251518,
@@ -48050,6 +54718,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.277306220564,
       145.3223802810437,
@@ -48071,6 +54748,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 2,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       153.01323409915958,
       152.94386418767738
@@ -48205,6 +54891,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.15033338604212,
       142.2644769314785,
@@ -48247,6 +54942,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.10102051443366,
       149.25135390047578,
@@ -48296,6 +55000,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 22,
     "winRatio": 47.73,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       142.1906333936421,
       145.36221658133474,
@@ -48324,6 +55037,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 23,
     "winRatio": 54.35,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 1,
+      "touchdowns": 2,
+      "casualties": 2,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       142.26040981401374,
       140.0766389781376,
@@ -48527,6 +55249,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 18,
     "winRatio": 47.22,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       148.33236408187446,
       148.294297254451,
@@ -48555,6 +55286,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 18,
     "winRatio": 55.56,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       140.96588760735665,
       146.30912003022328,
@@ -48583,6 +55323,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       160.37990127968547,
@@ -48604,6 +55353,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.19178442747742,
       149.8552104740174,
@@ -48713,6 +55471,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.61668861294044,
       151.0689221692449,
@@ -48834,6 +55601,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 15,
     "winRatio": 46.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       141.88551058267794,
       147.23276535651775,
@@ -48862,6 +55638,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.7509545519013,
       150.38934039581008,
@@ -48937,6 +55722,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.5989653215912,
       150.00214731363874,
@@ -49000,6 +55794,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 29,
     "winRatio": 65.52,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 2,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       178.99869274371207,
       182.722187768333,
@@ -49028,6 +55831,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 33,
     "winRatio": 56.06,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       167.11970613489277,
       166.69553976834817,
@@ -49056,6 +55868,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.59991090946102,
       140.9063864721679,
@@ -49139,6 +55960,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 10,
     "winRatio": 40,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.1225129025686,
       154.03688433642947,
@@ -49219,6 +56049,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 13,
     "winRatio": 61.54,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       159.91694310404804,
       164.5576840195313,
@@ -49298,6 +56137,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 18,
     "winRatio": 61.11,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 2,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       171.83349016889252,
       166.96227232196327,
@@ -49326,6 +56174,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       150,
@@ -49350,6 +56207,15 @@ const statsYear2021 = [
     "gamesLost": 11,
     "gamesTotal": 29,
     "winRatio": 58.62,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 2,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 4,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.63134202221113,
       154.7174098313951,
@@ -49476,6 +56342,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.95417952669087,
       149.9561689581271,
@@ -49498,6 +56373,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.03893055095628,
       149.62676681811175,
@@ -49564,6 +56448,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       155.85135679563192,
@@ -49586,6 +56479,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 7,
     "winRatio": 28.57,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146,
       142,
@@ -49638,6 +56540,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 9,
     "winRatio": 38.89,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146,
       142,
@@ -49687,6 +56598,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.2426406871193,
       158.48528137423858,
@@ -49802,6 +56722,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.45873006420547,
       150.43716600462994,
@@ -49830,6 +56759,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.12926611120636,
       150.2210554705799,
@@ -49900,6 +56838,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 15,
     "winRatio": 36.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.9632262756211,
       146.81988093136184,
@@ -49976,6 +56923,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 9,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.52786404500043,
       141.05572809000085,
@@ -50027,6 +56983,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 11,
     "winRatio": 59.09,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 2,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       150,
@@ -50076,6 +57041,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 6,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       147.50536698188898,
       144.16781781700598,
@@ -50250,6 +57224,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 5,
     "winRatio": 20,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       144.70849737787083,
@@ -50347,6 +57330,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 9,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       150,
@@ -50425,6 +57417,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.2426406871193,
       158.48528137423858,
@@ -50470,6 +57471,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 9,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.2426406871193,
       150,
@@ -50542,6 +57552,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       149.86189370600314,
@@ -50587,6 +57606,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.9916579004285,
       150.24409922841136,
@@ -50746,6 +57774,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       150.13810629399686,
@@ -50791,6 +57828,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 7,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.1589652341623,
       146.1951089533822,
@@ -50880,6 +57926,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 30,
     "winRatio": 65,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 3
+    },
     "_lastTenRatingsYear": [
       186.21462554134393,
       189.09678001093033,
@@ -50987,6 +58042,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.1270166537926,
       142.3554309975467,
@@ -51060,6 +58124,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.01899249773768,
       149.81003094942577,
@@ -51181,6 +58254,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 70,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.43598705094598,
       156.78185088420273,
@@ -51225,6 +58307,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.64110105645932,
       150,
@@ -51251,6 +58342,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146,
       150.00488736478724,
@@ -51320,6 +58420,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 18,
     "winRatio": 69.44,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       160.2849678769026,
       155.4024042170661,
@@ -51392,6 +58501,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 12,
     "winRatio": 37.5,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 2,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.62572158834405,
       149.091816836091,
@@ -51474,6 +58592,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 43,
     "winRatio": 73.26,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 2,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       197.60435217132664,
       201.09284519038405,
@@ -51552,6 +58679,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 19,
     "winRatio": 63.16,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       162.24357340480313,
       164.4877448382633,
@@ -51651,6 +58787,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 7,
     "winRatio": 35.71,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       156.1098137405612,
@@ -51676,6 +58821,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 5,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       151.65198045046336,
@@ -51699,6 +58853,15 @@ const statsYear2021 = [
     "gamesLost": 12,
     "gamesTotal": 24,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 2,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.6311130682676,
       143.73681555031808,
@@ -51727,6 +58890,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 70,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 3,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.31370849898474,
@@ -51829,6 +59001,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 7,
     "winRatio": 57.14,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       160.89503935403627,
@@ -51878,6 +59059,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.01420531083872,
       151.2452045245375,
@@ -51899,6 +59089,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.29150262212917,
       150.00104711808999,
@@ -52145,6 +59344,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.37869380955743,
       138.9854800471918,
@@ -52215,6 +59423,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 9,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       145.7573593128807,
@@ -52365,6 +59582,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       144.09769089177416,
@@ -52450,6 +59676,15 @@ const statsYear2021 = [
     "gamesLost": 12,
     "gamesTotal": 54,
     "winRatio": 61.11,
+    "trophies": {
+      "winner": 4,
+      "runnerup": 4,
+      "touchdowns": 2,
+      "casualties": 3,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       176.01520590520843,
       173.09913124932083,
@@ -52552,6 +59787,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 5,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.76530821371043,
       141.2725818097725,
@@ -52596,6 +59840,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 12,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       141.65282491975827,
       136.34809387134774,
@@ -52740,6 +59993,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154,
       149.47744891189978,
@@ -52834,6 +60096,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       144.34354094363235,
@@ -52858,6 +60129,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       150,
@@ -53005,6 +60285,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.44813224148035,
       155.03373472479174,
@@ -53026,6 +60315,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.605551275464,
       157.10518359870758,
@@ -53094,6 +60392,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.6749710642205,
       160.95835553684668,
@@ -53142,6 +60449,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 9,
     "winRatio": 11.11,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       145.7573593128807,
@@ -53169,6 +60485,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       154.89942310273616,
@@ -53395,6 +60720,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 7,
     "winRatio": 7.14,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.72499991411473,
       141.245353400968,
@@ -53571,6 +60905,15 @@ const statsYear2021 = [
     "gamesLost": 14,
     "gamesTotal": 36,
     "winRatio": 48.61,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 3,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.2340098640561,
       147.88195645882533,
@@ -53599,6 +60942,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 30,
     "winRatio": 75,
+    "trophies": {
+      "winner": 7,
+      "runnerup": 1,
+      "touchdowns": 3,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       211.03744288244962,
       209.67000268816074,
@@ -53627,6 +60979,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 6,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       143.59100119948914,
       138.38999454938744,
@@ -53781,6 +61142,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 17,
     "winRatio": 61.76,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.09636895525276,
       155.22488875730286,
@@ -53809,6 +61179,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       150.25712745798887,
@@ -53873,6 +61252,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 11,
     "winRatio": 63.64,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.12840810279957,
       149.81395837421658,
@@ -53944,6 +61332,15 @@ const statsYear2021 = [
     "gamesLost": 12,
     "gamesTotal": 25,
     "winRatio": 44,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 4
+    },
     "_lastTenRatingsYear": [
       152.99813160122088,
       148.44704364655328,
@@ -53972,6 +61369,15 @@ const statsYear2021 = [
     "gamesLost": 12,
     "gamesTotal": 18,
     "winRatio": 30.56,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       137.03555600823188,
       133.03641847089554,
@@ -54111,6 +61517,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.43011001660008,
       150.17335459572195,
@@ -54277,6 +61692,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.09034120031342,
       150.95212189720434,
@@ -54395,6 +61819,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 4,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       147.70725538959138,
       144.92758271357843,
@@ -54438,6 +61871,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 18,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       118.15141863382036,
       113.98703805577888,
@@ -54466,6 +61908,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       149.91710146180571,
@@ -54487,6 +61938,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 21,
     "winRatio": 57.14,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       160.8112234243662,
       166.23452550548242,
@@ -54561,6 +62021,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.47213595499957,
       150,
@@ -54658,6 +62127,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.47722557505165,
       149.7680865799577,
@@ -54733,6 +62211,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 15,
     "winRatio": 36.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.6909915051504,
       140.89849460213625,
@@ -54761,6 +62248,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 24,
     "winRatio": 60.42,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 2,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       167.94983019041803,
       167.5988278281556,
@@ -54889,6 +62385,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 43.75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154,
       154,
@@ -54915,6 +62420,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 22,
     "winRatio": 52.27,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       152.1612692620334,
       156.78150644200588,
@@ -54964,6 +62478,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 12,
     "winRatio": 45.83,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       159.38083151964685,
       154.12973111625976,
@@ -54992,6 +62515,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 12,
     "winRatio": 25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       150.1247366738916,
@@ -55186,6 +62718,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 15,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.58460583327667,
       155.63603545816082,
@@ -55355,6 +62896,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 6,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.31370849898474,
@@ -55379,6 +62929,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.95544196758684,
       161.6026701542058,
@@ -55530,6 +63089,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 11,
     "winRatio": 27.27,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 2,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       138.71819582520934,
       138.71806116264287,
@@ -55585,6 +63153,15 @@ const statsYear2021 = [
     "gamesLost": 14,
     "gamesTotal": 32,
     "winRatio": 45.31,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       137.89510818706398,
       138.3379204609894,
@@ -55624,27 +63201,36 @@ const statsYear2021 = [
     "NAF Name": "Volkajo",
     "CCAA": "Apatrida",
     "Country": "Ladonia",
-    "rating": 195.80510864084857,
-    "bestRating": 197.37430270586322,
+    "rating": 195.42348572757763,
+    "bestRating": 196.91037810406343,
     "worstRating": 144.34314575050763,
-    "tendency": 11.605882558119646,
+    "tendency": 11.353896683349461,
     "tournaments": 6,
     "gamesWon": 18,
     "gamesDraw": 5,
     "gamesLost": 6,
     "gamesTotal": 29,
     "winRatio": 70.69,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
-      184.19922608272893,
-      187.39303784925036,
-      187.92981537078026,
-      191.81020337237752,
-      186.65083070983408,
-      191.20056986997952,
-      193.40529246375962,
-      197.37430270586322,
-      193.3798581229972,
-      195.80510864084857
+      184.06958904422817,
+      187.22366792544418,
+      187.749364660875,
+      191.5566167550902,
+      186.49196150226118,
+      190.95684206986863,
+      193.0938796490785,
+      196.91037810406343,
+      193.08516445254483,
+      195.42348572757763
     ]
   },
   {
@@ -55662,6 +63248,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 61.11,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       147.09242858545207,
       147.09754050260804,
@@ -55793,6 +63388,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 7,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.74165738677394,
       153.63423294654433,
@@ -55835,10 +63439,10 @@ const statsYear2021 = [
     "NAF Name": "Schredd0r",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 151.81799122416584,
-    "bestRating": 155.92577551244688,
-    "worstRating": 150.16330943141693,
-    "tendency": -2.8724245356575864,
+    "rating": 151.7760542646429,
+    "bestRating": 155.78724738035595,
+    "worstRating": 150.1596915128579,
+    "tendency": -2.8065214303129267,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -55846,11 +63450,11 @@ const statsYear2021 = [
     "gamesTotal": 5,
     "winRatio": 50,
     "_lastTenRatingsYear": [
-      154.69041575982342,
-      150.16330943141693,
-      155.92577551244688,
-      155.91178879986637,
-      151.81799122416584
+      154.58257569495584,
+      150.1596915128579,
+      155.78724738035595,
+      155.7739993612471,
+      151.7760542646429
     ]
   },
   {
@@ -55943,6 +63547,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.63741666367164,
       149.95239760567574,
@@ -55957,27 +63570,36 @@ const statsYear2021 = [
     "NAF Name": "SickasEggs",
     "CCAA": "Apatrida",
     "Country": "England",
-    "rating": 169.96652388787973,
-    "bestRating": 169.96652388787973,
+    "rating": 169.61998913258566,
+    "bestRating": 169.61998913258566,
     "worstRating": 149.75454514126653,
-    "tendency": 20.211978746613198,
+    "tendency": 19.865443991319125,
     "tournaments": 2,
     "gamesWon": 4,
     "gamesDraw": 7,
     "gamesLost": 0,
     "gamesTotal": 11,
     "winRatio": 68.18,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.75454514126653,
       149.75524875190905,
       155.41018059591462,
       155.18535397033907,
       154.70757353944728,
-      159.22858908636158,
-      163.75569541476807,
-      164.39182549159077,
-      165.4561014531027,
-      169.96652388787973
+      159.12464379988552,
+      163.54752798198345,
+      164.17400892009599,
+      165.21307548575155,
+      169.61998913258566
     ]
   },
   {
@@ -56092,6 +63714,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.66427222085338,
       139.5814129717912,
@@ -56113,6 +63744,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.5741709044047,
       149.89522733973735,
@@ -56243,6 +63883,15 @@ const statsYear2021 = [
     "gamesLost": 14,
     "gamesTotal": 28,
     "winRatio": 37.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       136.1304720356936,
       132.45954690863124,
@@ -56292,6 +63941,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 11,
     "winRatio": 45.45,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       142,
       146,
@@ -56513,6 +64171,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 7,
     "winRatio": 14.29,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.52786404500043,
       141.05572809000085,
@@ -56538,6 +64205,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 70,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.58363432770082,
       152.5889485234922,
@@ -56582,6 +64258,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 14,
     "winRatio": 53.57,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       158.53206075500225,
       155.8546676143528,
@@ -56631,6 +64316,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 13,
     "winRatio": 61.54,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.20371601075118,
       150.40258996981416,
@@ -56659,6 +64353,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 11,
     "winRatio": 68.18,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       158.71779788708136,
       162.93092082586315,
@@ -56687,6 +64390,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 16,
     "winRatio": 59.38,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150.19479715696605,
       150.59975851574907,
@@ -56793,6 +64505,15 @@ const statsYear2021 = [
     "gamesLost": 12,
     "gamesTotal": 19,
     "winRatio": 23.68,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       139.1277818049529,
       137.43840559146156,
@@ -56891,6 +64612,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 15,
     "winRatio": 40,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.98759855308228,
       150.61241517278748,
@@ -57036,6 +64766,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 13,
     "winRatio": 57.69,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.2368302286625,
       150.46720802612285,
@@ -57064,6 +64803,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 13,
     "winRatio": 65.38,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       161.73932717439598,
       165.36314275048392,
@@ -57116,6 +64864,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 7,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.52786404500043,
       141.05572809000085,
@@ -57141,6 +64898,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.87560832654302,
       150.16070990414957,
@@ -57278,22 +65044,31 @@ const statsYear2021 = [
     "NAF Name": "badluckboii",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 139.70203687918945,
-    "bestRating": 144.9009804864072,
-    "worstRating": 139.66923188029912,
-    "tendency": -5.198943607217757,
+    "rating": 139.9152207717578,
+    "bestRating": 145,
+    "worstRating": 139.87263658225595,
+    "tendency": -5.084779228242212,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 3,
     "gamesLost": 2,
     "gamesTotal": 5,
     "winRatio": 30,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
-      144.9009804864072,
-      139.82785517194864,
-      139.66923188029912,
-      139.7016688859572,
-      139.70203687918945
+      145,
+      140.02489827663035,
+      139.87263658225595,
+      139.90831862982688,
+      139.9152207717578
     ]
   },
   {
@@ -57332,6 +65107,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.07887613705682,
       149.90388067306492,
@@ -57402,6 +65186,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 16,
     "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       164.33940037983163,
       167.90396218186646,
@@ -57430,6 +65223,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 14,
     "winRatio": 64.29,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.3237855105529,
       154.86803387450217,
@@ -57504,6 +65306,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 16,
     "winRatio": 34.38,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       144.69436529256592,
@@ -57578,6 +65389,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 8,
     "winRatio": 56.25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       144.34314575050763,
@@ -57594,10 +65414,10 @@ const statsYear2021 = [
     "NAF Name": "major_grooves",
     "CCAA": "Apatrida",
     "Country": "Scotland",
-    "rating": 150.80636454548403,
-    "bestRating": 160.06242873046665,
+    "rating": 150.83112967334745,
+    "bestRating": 159.8753782377073,
     "worstRating": 150,
-    "tendency": 0.8063645454840298,
+    "tendency": 0.8311296733474478,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -57606,10 +65426,10 @@ const statsYear2021 = [
     "winRatio": 50,
     "_lastTenRatingsYear": [
       150,
-      155.11884676572117,
-      160.06242873046665,
-      155.8744062689597,
-      150.80636454548403
+      155.0238246089564,
+      159.8753782377073,
+      155.80181110958603,
+      150.83112967334745
     ]
   },
   {
@@ -57991,10 +65811,10 @@ const statsYear2021 = [
     "NAF Name": "Zwenn",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 139.9927026434064,
+    "rating": 140.27234657321478,
     "bestRating": 150,
-    "worstRating": 138.4597339851798,
-    "tendency": -4.7513021456502145,
+    "worstRating": 138.71661852702866,
+    "tendency": -4.471658215841842,
     "tournaments": 3,
     "gamesWon": 3,
     "gamesDraw": 2,
@@ -58004,14 +65824,14 @@ const statsYear2021 = [
     "_lastTenRatingsYear": [
       144.74400478905662,
       145.5260400472515,
-      141.91281662542562,
-      138.4597339851798,
-      142.30213767578104,
-      145.70464830201684,
-      141.7221993206797,
-      139.1943730570253,
-      144.13070441144558,
-      139.9927026434064
+      142.04425083716748,
+      138.71661852702866,
+      142.42039712521972,
+      145.76857562752338,
+      141.7841640384807,
+      139.4068769930277,
+      144.33727494100043,
+      140.27234657321478
     ]
   },
   {
@@ -58051,6 +65871,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 12,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       138.60140733362815,
       134.7254060926467,
@@ -58079,6 +65908,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 7,
     "winRatio": 42.86,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.25834261322606,
       150.0063766813575,
@@ -58174,6 +66012,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 15,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154.11781734222444,
       160.07174388691246,
@@ -58185,34 +66032,6 @@ const statsYear2021 = [
       156.23781975508527,
       155.95057202360317,
       161.421805958498
-    ]
-  },
-  {
-    "NAF Nr": "29707",
-    "NAF Name": "Flownaldinho",
-    "CCAA": "Apatrida",
-    "Country": "Germany",
-    "rating": 185.27549089003915,
-    "bestRating": 188.9126300488322,
-    "worstRating": 149.998906158738,
-    "tendency": 19.716367224344708,
-    "tournaments": 3,
-    "gamesWon": 9,
-    "gamesDraw": 4,
-    "gamesLost": 1,
-    "gamesTotal": 14,
-    "winRatio": 78.57,
-    "_lastTenRatingsYear": [
-      165.55912366569444,
-      165.65116544982897,
-      170.14058383385057,
-      170.4082233512019,
-      174.8029785707072,
-      181.01246401603024,
-      183.87994441114333,
-      186.6362261586229,
-      188.9126300488322,
-      185.27549089003915
     ]
   },
   {
@@ -58391,6 +66210,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 15,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.80413954127707,
       145.2598911773278,
@@ -58419,6 +66247,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 68.75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       152.93093465269325,
@@ -58435,22 +66272,31 @@ const statsYear2021 = [
     "NAF Name": "spudworks",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 140.86942383140567,
-    "bestRating": 145.30958424017658,
-    "worstRating": 135.91889494161236,
-    "tendency": -4.4401604087709075,
+    "rating": 141.0792999865793,
+    "bestRating": 145.41742430504416,
+    "worstRating": 136.2428205937997,
+    "tendency": -4.338124318464878,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 5,
     "winRatio": 30,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
-      145.30958424017658,
-      140.61916848035315,
-      135.91889494161236,
-      136.11876558164872,
-      140.86942383140567
+      145.41742430504416,
+      140.83484861008833,
+      136.2428205937997,
+      136.4334875764,
+      141.0792999865793
     ]
   },
   {
@@ -58496,6 +66342,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 10,
     "winRatio": 10,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       144.00310084532492,
       138.4957839563674,
@@ -58524,6 +66379,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 23,
     "winRatio": 45.65,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       147.24778543038582,
       149.65657169229522,
@@ -58552,6 +66416,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.54216312197823,
       143.38416223790753,
@@ -58592,6 +66465,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 4,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.52786404500043,
       141.05572809000085,
@@ -58661,6 +66543,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.9240439592719,
       151.75781019815338,
@@ -58689,6 +66580,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 2,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.39217304481826,
       151.2490063751456,
@@ -58741,6 +66641,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 6,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       143.67544467966323,
       137.35088935932646,
@@ -58765,6 +66674,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 12,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.49633163867614,
       150.39080678490015,
@@ -58793,6 +66711,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 9,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.47722557505165,
       160.9544511501033,
@@ -58820,6 +66747,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 15,
     "winRatio": 63.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.01514640373642,
       153.4974261112043,
@@ -58869,6 +66805,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 12,
     "winRatio": 37.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.84655458550844,
       145.37441863050887,
@@ -58897,6 +66842,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       156.13906686600285,
       150.93853851699623,
@@ -58921,6 +66875,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 5,
     "winRatio": 20,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154.69041575982342,
       150.40785548005096,
@@ -58944,6 +66907,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 9,
     "winRatio": 44.44,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146,
       150,
@@ -58992,6 +66964,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       153.15701456204172,
@@ -59013,6 +66994,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 18,
     "winRatio": 63.89,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150.60433005087623,
       156.45372260305402,
@@ -59084,6 +67074,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 16,
     "winRatio": 56.25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.86242126524175,
       153.86441449474682,
@@ -59139,6 +67138,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 65,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150.7585375205517,
       145.06874949075788,
@@ -59219,6 +67227,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 15,
     "winRatio": 80,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       171.50103032296704,
       171.05961678255338,
@@ -59247,6 +67264,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 27,
     "winRatio": 74.07,
+    "trophies": {
+      "winner": 2,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       189.1924324742962,
       182.62048721797078,
@@ -59346,6 +67372,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 13,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.78315598784178,
       146.62614142580006,
@@ -59535,6 +67570,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 10,
     "winRatio": 25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       138.68629150101526,
@@ -59563,6 +67607,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 10,
     "winRatio": 55,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       150,
@@ -59656,6 +67709,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.83772233983163,
       143.6573956038316,
@@ -59698,6 +67760,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.60472733980296,
       157.0249392041226,
@@ -59841,6 +67912,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 11,
     "winRatio": 27.27,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       138.68629150101526,
       133.0299964604878,
@@ -59980,6 +68060,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 6,
     "winRatio": 8.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.85610287216284,
       139.81958496845203,
@@ -60004,6 +68093,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.69041575982342,
       159.38083151964685,
@@ -60162,6 +68260,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 7,
     "winRatio": 71.43,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.8041922926974,
       154.88705154175958,
@@ -60278,6 +68385,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 54.17,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       150.4645651742856,
       150.33909141973317,
@@ -60330,6 +68446,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 5,
     "winRatio": 40,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.30958424017658,
       140.81442404832652,
@@ -60372,6 +68497,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.8729833462074,
       149.98885202793693,
@@ -60396,6 +68530,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.9694398554526,
       149.82473557748463,
@@ -60620,6 +68763,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 8,
     "winRatio": 37.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.13496208243902,
       138.64741858907215,
@@ -60770,6 +68922,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.8404503567107,
       142.13189048144184,
@@ -60957,6 +69118,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.35889894354068,
       154.35889894354068,
@@ -61022,6 +69192,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 18,
     "winRatio": 44.44,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150.64384671458564,
       145.5673963949465,
@@ -61050,6 +69229,15 @@ const statsYear2021 = [
     "gamesLost": 11,
     "gamesTotal": 24,
     "winRatio": 45.83,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 2,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.01951413376986,
       140.24728003380798,
@@ -61124,6 +69312,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.9000270480848,
       146.63492087302373,
@@ -61148,6 +69345,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.31770983091636,
       150.15341296182663,
@@ -61169,6 +69375,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.17157287525382,
       146.88663669264795,
@@ -61190,6 +69405,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.64687786087,
       146.88750520166064,
@@ -61211,6 +69435,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       147.65287168854871,
       144.81716855763844,
@@ -61486,6 +69719,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 10,
     "winRatio": 20,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       138.68629150101526,
@@ -61566,6 +69808,15 @@ const statsYear2021 = [
     "gamesLost": 12,
     "gamesTotal": 43,
     "winRatio": 60.47,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       184.16273743595806,
       183.74099434788602,
@@ -61655,6 +69906,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       147.10294769434273,
       142.81649153724646,
@@ -61676,6 +69936,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.0143382147884,
       158.126299467169,
@@ -61718,6 +69987,15 @@ const statsYear2021 = [
     "gamesLost": 8,
     "gamesTotal": 14,
     "winRatio": 32.14,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       129.4034078821542,
       134.53770019722086,
@@ -61746,6 +70024,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 7,
     "winRatio": 28.57,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       138.73887660100203,
@@ -62466,6 +70753,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.26014007301168,
       158.24406756437745,
@@ -62580,6 +70876,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 6,
     "winRatio": 8.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       146.74849786718536,
       143.9989899423591,
@@ -62625,6 +70930,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 19,
     "winRatio": 52.63,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 3,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       157.41652693082048,
       154.91985887616693,
@@ -62702,6 +71016,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 37.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       153.58668054781526,
@@ -62746,6 +71069,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.64009338923088,
       149.52836746082372,
@@ -62864,6 +71196,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 16,
     "winRatio": 59.38,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       162.80564073815583,
       167.32199538146742,
@@ -62892,6 +71233,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 17,
     "winRatio": 58.82,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.5065586462596,
       154.2230108687404,
@@ -62941,6 +71291,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 14,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.68934101506392,
       159.80778999666836,
@@ -63075,6 +71434,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 13,
     "winRatio": 38.46,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.1823375820438,
       150.17442086120568,
@@ -63127,6 +71495,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 9,
     "winRatio": 27.78,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.37196693386304,
       139.67044429488809,
@@ -63286,6 +71663,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.49925021373053,
       146.5368220216853,
@@ -63493,6 +71879,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.48038540773834,
       142.7323513396069,
@@ -63721,6 +72116,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.8286477716233,
       145.87054517170873,
@@ -63871,6 +72275,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 13,
     "winRatio": 46.15,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       151.9431720689395,
       157.59286142244122,
@@ -63899,6 +72312,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 8,
     "winRatio": 68.75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.14659255596854,
       148.89501029413785,
@@ -63953,6 +72375,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 8,
     "winRatio": 18.75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       139.17627869375255,
@@ -64002,6 +72433,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.33302986619714,
       152.98840425809,
@@ -64051,6 +72491,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 18,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       148.66947564959702,
       154.63210859324496,
@@ -64079,6 +72528,15 @@ const statsYear2021 = [
     "gamesLost": 9,
     "gamesTotal": 16,
     "winRatio": 34.38,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       140.18886253826489,
       140.25990282095594,
@@ -64107,6 +72565,15 @@ const statsYear2021 = [
     "gamesLost": 10,
     "gamesTotal": 14,
     "winRatio": 28.57,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       130.5993250040647,
       125.77447936302784,
@@ -64156,6 +72623,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       152.89550178609903,
@@ -64180,6 +72656,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 14,
     "winRatio": 71.43,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       161.36585816173854,
       162.1738594299349,
@@ -64208,6 +72693,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 11,
     "winRatio": 59.09,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       150.24545485873344,
@@ -64445,6 +72939,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 7,
     "winRatio": 21.43,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.1663672556847,
       142.3348317240241,
@@ -64542,6 +73045,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.64606256541234,
       143.37446656930214,
@@ -64563,6 +73075,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150.4272284150533,
       146.96896655418223,
@@ -64584,6 +73105,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 70,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       155.4506403120008,
@@ -64607,6 +73137,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 6,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.12310562561765,
       150,
@@ -64675,6 +73214,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 13,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.25003458994874,
       149.93995097029983,
@@ -64850,6 +73398,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150.47337464569839,
       143.6398094551135,
@@ -65181,6 +73738,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.76472317863343,
       151.24612689852245,
@@ -65317,6 +73883,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 54.17,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       146,
       150.1227659692996,
@@ -65365,6 +73940,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 9,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       154,
       150,
@@ -65706,6 +74290,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       147.17157287525382,
       144.34314575050763,
@@ -65815,6 +74408,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 8,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.16227766016837,
       156.32455532033674,
@@ -65881,6 +74483,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.13224319117086,
       153.29131112796057,
@@ -65936,10 +74547,10 @@ const statsYear2021 = [
     "NAF Name": "shadowwyrm",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 146.42969977049395,
-    "bestRating": 154.69041575982342,
-    "worstRating": 145.30958424017658,
-    "tendency": 1.1201155303173778,
+    "rating": 146.5094100789763,
+    "bestRating": 154.58257569495584,
+    "worstRating": 145.41742430504416,
+    "tendency": 1.091985773932123,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -65947,11 +74558,11 @@ const statsYear2021 = [
     "gamesTotal": 5,
     "winRatio": 40,
     "_lastTenRatingsYear": [
-      145.30958424017658,
+      145.41742430504416,
       150,
-      154.69041575982342,
-      150.04007120865597,
-      146.42969977049395
+      154.58257569495584,
+      150.03831977215003,
+      146.5094100789763
     ]
   },
   {
@@ -66080,6 +74691,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 7,
     "winRatio": 42.86,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.75236844689888,
       149.17729819879037,
@@ -66126,6 +74746,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.58257569495584,
       159.05153145366106,
@@ -66655,6 +75284,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 5,
     "winRatio": 20,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146,
       142,
@@ -66730,6 +75368,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       145.2983605999599,
@@ -66909,6 +75556,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 12,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.24713790568887,
       148.65148827685638,
@@ -66961,6 +75617,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 2,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.91394863028177,
       161.30208876317687,
@@ -66985,6 +75650,15 @@ const statsYear2021 = [
     "gamesLost": 7,
     "gamesTotal": 10,
     "winRatio": 20,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.9009804864072,
       139.8030160783401,
@@ -67146,6 +75820,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       152.59203170947313,
@@ -67243,6 +75926,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 12,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 2,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       145.10102051443366,
@@ -67338,6 +76030,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.6457513110646,
       150,
@@ -67551,6 +76252,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.4495554159623,
       146.45185109924248,
@@ -67572,6 +76282,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.32364948629709,
       142.93313672811104,
@@ -67617,6 +76336,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.53589838486224,
       149.9301774688987,
@@ -67686,6 +76414,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       144.34314575050763,
@@ -67912,27 +76649,26 @@ const statsYear2021 = [
     "NAF Name": "LexusD",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 141.81665623249683,
-    "bestRating": 155.55124420810222,
-    "worstRating": 136.56502686106998,
-    "tendency": -12.873759527326598,
+    "rating": 145.9156088321748,
+    "bestRating": 155.42383663765656,
+    "worstRating": 140.92154902791572,
+    "tendency": -8.666966862781038,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 2,
-    "gamesLost": 5,
-    "gamesTotal": 10,
-    "winRatio": 40,
+    "gamesLost": 4,
+    "gamesTotal": 9,
+    "winRatio": 44.44,
     "_lastTenRatingsYear": [
-      154.69041575982342,
-      151.152167160245,
-      155.53725749552171,
-      155.55124420810222,
-      151.0592845022198,
-      147.71543678393573,
-      147.02051162579596,
-      141.70816715614677,
-      136.56502686106998,
-      141.81665623249683
+      154.58257569495584,
+      151.12681955367222,
+      155.4105886185477,
+      155.42383663765656,
+      151.9858912585552,
+      151.16617968231503,
+      145.9585664188083,
+      140.92154902791572,
+      145.9156088321748
     ]
   },
   {
@@ -67940,10 +76676,10 @@ const statsYear2021 = [
     "NAF Name": "Knueppi",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 136.56939235513678,
-    "bestRating": 145.4789844530857,
-    "worstRating": 136.56939235513678,
-    "tendency": -8.909592097948916,
+    "rating": 136.87969627016008,
+    "bestRating": 145.58292973956176,
+    "worstRating": 136.87969627016008,
+    "tendency": -8.703233469401681,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 2,
@@ -67951,11 +76687,11 @@ const statsYear2021 = [
     "gamesTotal": 5,
     "winRatio": 20,
     "_lastTenRatingsYear": [
-      145.4789844530857,
-      140.7824702430653,
-      141.47417943032718,
-      141.27430879029083,
-      136.56939235513678
+      145.58292973956176,
+      140.99453279654153,
+      141.66685216141855,
+      141.47618517881824,
+      136.87969627016008
     ]
   },
   {
@@ -67963,10 +76699,10 @@ const statsYear2021 = [
     "NAF Name": "CoachFritz",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 136.9487395030934,
-    "bestRating": 154.69041575982342,
-    "worstRating": 136.9487395030934,
-    "tendency": -17.741676256730017,
+    "rating": 137.42184557845258,
+    "bestRating": 154.58257569495584,
+    "worstRating": 137.42184557845258,
+    "tendency": -17.16073011650326,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 0,
@@ -67974,11 +76710,11 @@ const statsYear2021 = [
     "gamesTotal": 5,
     "winRatio": 20,
     "_lastTenRatingsYear": [
-      154.69041575982342,
+      154.58257569495584,
       150,
-      145.30958424017658,
-      140.62153681607398,
-      136.9487395030934
+      145.41742430504416,
+      140.8370581174424,
+      137.42184557845258
     ]
   },
   {
@@ -67986,27 +76722,27 @@ const statsYear2021 = [
     "NAF Name": "RaggaMuffin",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 127.05768779577542,
-    "bestRating": 145.5764304414019,
-    "worstRating": 127.05768779577542,
-    "tendency": -18.518742645626475,
+    "rating": 129.75608376790154,
+    "bestRating": 145.67710284729702,
+    "worstRating": 128.9203992487027,
+    "tendency": -11.324530170737319,
     "tournaments": 3,
     "gamesWon": 3,
     "gamesDraw": 2,
-    "gamesLost": 9,
-    "gamesTotal": 14,
-    "winRatio": 28.57,
+    "gamesLost": 8,
+    "gamesTotal": 13,
+    "winRatio": 30.77,
     "_lastTenRatingsYear": [
-      145.5764304414019,
-      140.70845640900671,
-      135.77346067273612,
-      135.93208396438564,
-      136.0859552600511,
-      131.17415780300715,
-      128.46241161206018,
-      132.73660231222053,
-      130.46019842201122,
-      127.05768779577542
+      141.08061393863886,
+      145.67710284729702,
+      140.89874689399028,
+      136.05608633354953,
+      136.20834802792393,
+      136.36313238966991,
+      131.5429429823181,
+      128.9203992487027,
+      133.1042622702052,
+      129.75608376790154
     ]
   },
   {
@@ -68014,10 +76750,10 @@ const statsYear2021 = [
     "NAF Name": "BigBlackBud",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 135.2139955886472,
-    "bestRating": 154.75606402846944,
-    "worstRating": 135.2139955886472,
-    "tendency": -10.095588651529368,
+    "rating": 135.77270149692978,
+    "bestRating": 154.79608780635223,
+    "worstRating": 135.77270149692978,
+    "tendency": -9.64472280811438,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -68025,16 +76761,16 @@ const statsYear2021 = [
     "gamesTotal": 10,
     "winRatio": 35,
     "_lastTenRatingsYear": [
-      145.30958424017658,
-      150.006098450197,
-      145.3753708532359,
-      150.06341827733849,
-      154.75606402846944,
-      150.50662149263363,
-      145.38777472691245,
-      140.49806196573212,
-      140.46562496007405,
-      135.2139955886472
+      145.41742430504416,
+      150.0058212480644,
+      145.48024336073533,
+      150.06060954833708,
+      154.79608780635223,
+      150.62081847067807,
+      145.59699386172167,
+      140.80244334875982,
+      140.76676130118886,
+      135.77270149692978
     ]
   },
   {
@@ -68042,27 +76778,35 @@ const statsYear2021 = [
     "NAF Name": "HansReiter",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 141.3349563404071,
-    "bestRating": 150.56659499122085,
-    "worstRating": 141.3349563404071,
-    "tendency": -9.20052881401412,
+    "rating": 145.40481132274928,
+    "bestRating": 154.99211832010923,
+    "worstRating": 145.40481132274928,
+    "tendency": -5.118362182397021,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 4,
-    "gamesLost": 4,
-    "gamesTotal": 10,
-    "winRatio": 40,
+    "gamesLost": 3,
+    "gamesTotal": 9,
+    "winRatio": 44.44,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
-      150.53548515442122,
-      145.82575251435847,
-      150.56659499122085,
-      150.12536201807117,
-      145.43271626694022,
-      145.61139022341894,
-      141.56652423344502,
-      146.87886870309418,
-      146.4628964084119,
-      141.3349563404071
+      150.5231735051463,
+      154.99211832010923,
+      154.40943450976656,
+      149.6739562517514,
+      149.68646861687196,
+      145.75314964433068,
+      150.96076290783742,
+      150.4197301446345,
+      145.40481132274928
     ]
   },
   {
@@ -68070,22 +76814,31 @@ const statsYear2021 = [
     "NAF Name": "JuanF.",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 155.94344569645955,
-    "bestRating": 160.4538681312366,
-    "worstRating": 154.69041575982342,
-    "tendency": 1.2530299366361248,
+    "rating": 155.80942229841693,
+    "bestRating": 160.21633594525105,
+    "worstRating": 154.58257569495584,
+    "tendency": 1.226846603461098,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
     "gamesLost": 2,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
-      154.69041575982342,
-      159.38083151964685,
-      155.80352358006914,
-      160.4538681312366,
-      155.94344569645955
+      154.58257569495584,
+      159.16515138991167,
+      155.67208002244524,
+      160.21633594525105,
+      155.80942229841693
     ]
   },
   {
@@ -68261,6 +77014,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.14780995024242,
       150.04989043310752,
@@ -68282,6 +77044,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 4,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.53589838486224,
       150,
@@ -68641,6 +77412,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       152.4494897427832,
       152.35742972100618,
@@ -69058,6 +77838,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.83772233983163,
       146.83772233983163,
@@ -69128,6 +77917,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.83772233983163,
       150,
@@ -69152,6 +77950,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.0289095773526,
       155.67261933316578,
@@ -69242,6 +78049,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 5,
     "winRatio": 30,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.30958424017658,
       140.81194407249885,
@@ -69333,6 +78149,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       147.15274686311918,
       149.8745998796232,
@@ -69552,6 +78377,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.43003168123437,
       143.0907746576501,
@@ -69731,6 +78565,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 6,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.3427694100798,
       138.6859315005214,
@@ -69878,6 +78721,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154,
       157.8772340307004,
@@ -69941,6 +78793,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 4,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       150.18157077464087,
@@ -70008,6 +78869,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 7,
     "winRatio": 57.14,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.05386145603978,
       153.1067793613417,
@@ -70169,6 +79039,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 6,
     "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146,
       150.1227659692996,
@@ -70215,6 +79094,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 7,
     "winRatio": 21.43,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.99454045059466,
       149.99541258121695,
@@ -70333,6 +79221,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 11,
     "winRatio": 68.18,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.03354535263506,
       153.31577062949978,
@@ -70383,6 +79280,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 5,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.3891746877747,
       161.05765102165736,
@@ -70406,6 +79312,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       143.96440080244287,
@@ -70521,6 +79436,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 5,
     "winRatio": 40,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150.45931339155447,
       147.64806326980204,
@@ -70544,6 +79468,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 7,
     "winRatio": 57.14,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 2
+    },
     "_lastTenRatingsYear": [
       144.34314575050763,
       144.34314575050763,
@@ -70774,6 +79707,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.70357794640574,
       161.62329762385974,
@@ -70926,6 +79868,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       147.37708469492748,
       143.64837668483094,
@@ -70947,6 +79898,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.56409790427392,
       143.16778362632277,
@@ -71011,6 +79971,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       153.51523818261376,
       157.26621235503708,
@@ -71099,6 +80068,15 @@ const statsYear2021 = [
     "gamesLost": 5,
     "gamesTotal": 12,
     "winRatio": 54.17,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       151.24923833966633,
       156.8278226676468,
@@ -71281,6 +80259,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.5562204575155,
       142.28302567959713,
@@ -71344,6 +80331,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 6,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       149.69113644873525,
       153.40389569228242,
@@ -71582,6 +80578,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       153.73787360905752,
@@ -71637,22 +80642,21 @@ const statsYear2021 = [
     "NAF Name": "shanba",
     "CCAA": "Apatrida",
     "Country": "Belgium",
-    "rating": 152.56202935918714,
-    "bestRating": 156.17774342733824,
-    "worstRating": 147.9026002062357,
-    "tendency": -2.997285602907823,
+    "rating": 156.68190445498877,
+    "bestRating": 156.68190445498877,
+    "worstRating": 152.2513475337711,
+    "tendency": 1.2305476330790555,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
-    "gamesLost": 2,
-    "gamesTotal": 5,
-    "winRatio": 50,
+    "gamesLost": 1,
+    "gamesTotal": 4,
+    "winRatio": 62.5,
     "_lastTenRatingsYear": [
-      155.55931496209496,
-      156.17774342733824,
-      152.297355425741,
-      147.9026002062357,
-      152.56202935918714
+      155.4513568219097,
+      156.05859962798633,
+      152.2513475337711,
+      156.68190445498877
     ]
   },
   {
@@ -71670,6 +80674,15 @@ const statsYear2021 = [
     "gamesLost": 6,
     "gamesTotal": 7,
     "winRatio": 14.29,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.24188916337064,
       139.07269948098545,
@@ -71764,6 +80777,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       145.99202749657093,
@@ -72479,6 +81501,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 5,
     "winRatio": 70,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.40179504329106,
       150.00714301945752,
@@ -72525,6 +81556,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.91457262513427,
       143.8271685428595,
@@ -72592,6 +81632,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       150,
       144.52403171834163,
@@ -72688,6 +81737,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.938191448298,
       147.36601893017686,
@@ -72709,6 +81767,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 9,
     "winRatio": 44.44,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.1270166537926,
       142.2540333075852,
@@ -72850,6 +81917,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.25834261322606,
       142.29674525703993,
@@ -73033,6 +82109,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 5,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       153.16227766016837,
       156.32455532033674,
@@ -73098,6 +82183,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.0990195135928,
       149.97773547757566,
@@ -73273,6 +82367,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154,
       150,
@@ -73315,6 +82418,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       150,
       154,
@@ -73399,6 +82511,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154,
       153.9931878419979,
@@ -73410,22 +82531,21 @@ const statsYear2021 = [
     "NAF Name": "adam-clark",
     "CCAA": "Apatrida",
     "Country": "New Zealand",
-    "rating": 150.85186076672377,
-    "bestRating": 150.85186076672377,
-    "worstRating": 140.5807804036422,
-    "tendency": 0.8518607667237745,
+    "rating": 155.04589809157855,
+    "bestRating": 155.04589809157855,
+    "worstRating": 144.99396187880075,
+    "tendency": 5.04589809157855,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 1,
-    "gamesLost": 2,
-    "gamesTotal": 5,
-    "winRatio": 50,
+    "gamesLost": 1,
+    "gamesTotal": 4,
+    "winRatio": 62.5,
     "_lastTenRatingsYear": [
       150,
-      145.5105816159784,
-      140.5807804036422,
-      145.72392069871898,
-      150.85186076672377
+      144.99396187880075,
+      150.03097926969332,
+      155.04589809157855
     ]
   },
   {
@@ -73492,6 +82612,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       162.32558423804628,
@@ -73556,6 +82685,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154,
       158,
@@ -73693,21 +82831,30 @@ const statsYear2021 = [
     "NAF Name": "lucky_dorfdepp",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 138.7714540606274,
-    "bestRating": 145.64752571195882,
-    "worstRating": 138.7714540606274,
-    "tendency": -6.876071651331415,
+    "rating": 138.86259019988458,
+    "bestRating": 145.7314767965283,
+    "worstRating": 138.86259019988458,
+    "tendency": -6.868886596643733,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 12.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
-      145.64752571195882,
-      142.086429774306,
-      142.0646044377398,
-      138.7714540606274
+      145.7314767965283,
+      142.17647362669047,
+      142.1581039994682,
+      138.86259019988458
     ]
   },
   {
@@ -73874,6 +83021,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       154.12310562561765,
       158.25541977594372,
@@ -73895,6 +83051,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 4,
     "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       146.21566872775338,
       149.69165552892375,
@@ -74060,10 +83225,10 @@ const statsYear2021 = [
     "NAF Name": "Igralius",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 156.94409427644018,
-    "bestRating": 160.71588463816485,
-    "worstRating": 144.9009804864072,
-    "tendency": 12.043113790032976,
+    "rating": 157.14861251946235,
+    "bestRating": 160.87027549691,
+    "worstRating": 145,
+    "tendency": 12.148612519462347,
     "tournaments": 1,
     "gamesWon": 3,
     "gamesDraw": 0,
@@ -74071,11 +83236,11 @@ const statsYear2021 = [
     "gamesTotal": 5,
     "winRatio": 60,
     "_lastTenRatingsYear": [
-      144.9009804864072,
-      149.8359762226778,
-      154.765777435014,
-      160.71588463816485,
-      156.94409427644018
+      145,
+      149.84266056044075,
+      154.84869868163997,
+      160.87027549691,
+      157.14861251946235
     ]
   },
   {
@@ -74083,10 +83248,10 @@ const statsYear2021 = [
     "NAF Name": "FB_Titel17",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 145.78373606712543,
-    "bestRating": 150.63575091361886,
-    "worstRating": 140.8719386100815,
-    "tendency": 0.22111046796513278,
+    "rating": 145.87078811093437,
+    "bestRating": 150.62389813510066,
+    "worstRating": 141.05059870358252,
+    "tendency": 0.22199169920335748,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -74094,11 +83259,11 @@ const statsYear2021 = [
     "gamesTotal": 5,
     "winRatio": 40,
     "_lastTenRatingsYear": [
-      145.5626255991603,
-      150.63575091361886,
-      145.5784067851772,
-      140.8719386100815,
-      145.78373606712543
+      145.648796411731,
+      150.62389813510066,
+      145.6643931613546,
+      141.05059870358252,
+      145.87078811093437
     ]
   },
   {
@@ -74106,10 +83271,10 @@ const statsYear2021 = [
     "NAF Name": "FB_Korni",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 139.71070372575952,
-    "bestRating": 149.82132604352128,
-    "worstRating": 139.71070372575952,
-    "tendency": -10.110622317761766,
+    "rating": 140.08127033137256,
+    "bestRating": 149.98748763487944,
+    "worstRating": 140.08127033137256,
+    "tendency": -9.906217303506878,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 3,
@@ -74117,11 +83282,11 @@ const statsYear2021 = [
     "gamesTotal": 5,
     "winRatio": 30,
     "_lastTenRatingsYear": [
-      149.82132604352128,
-      145.5486588471553,
-      139.86494301465723,
-      139.71107171899178,
-      139.71070372575952
+      149.98748763487944,
+      145.7989335174464,
+      140.24295683504945,
+      140.08817247330347,
+      140.08127033137256
     ]
   },
   {
@@ -74129,10 +83294,10 @@ const statsYear2021 = [
     "NAF Name": "FB_Grimgork",
     "CCAA": "Apatrida",
     "Country": "Germany",
-    "rating": 141.8069862870175,
-    "bestRating": 155.0990195135928,
-    "worstRating": 140.83343257064848,
-    "tendency": -13.292033226575285,
+    "rating": 141.96606002357635,
+    "bestRating": 155,
+    "worstRating": 141.00756507980404,
+    "tendency": -13.033939976423653,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -74140,11 +83305,11 @@ const statsYear2021 = [
     "gamesTotal": 5,
     "winRatio": 30,
     "_lastTenRatingsYear": [
-      155.0990195135928,
-      150.9974356983595,
-      145.9214590930924,
-      140.83343257064848,
-      141.8069862870175
+      155,
+      150.9722034403742,
+      145.99577620185366,
+      141.00756507980404,
+      141.96606002357635
     ]
   },
   {
@@ -74205,6 +83370,15 @@ const statsYear2021 = [
     "gamesLost": 4,
     "gamesTotal": 4,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       144.7748977933956,
       139.7776291805876,
@@ -74227,6 +83401,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.77701697240383,
       146.27738464916024,
@@ -74248,6 +83431,15 @@ const statsYear2021 = [
     "gamesLost": 1,
     "gamesTotal": 3,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       146.394448724536,
       146.4074104225136,
@@ -74269,6 +83461,15 @@ const statsYear2021 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       153.605551275464,
       150.4556303435535,
@@ -74331,6 +83532,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.3153811280527,
       155.0619471670145,
@@ -74352,6 +83562,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 4,
     "winRatio": 25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       153.15916426962062,
       149.09138815389815,
@@ -74585,6 +83804,15 @@ const statsYear2021 = [
     "gamesLost": 3,
     "gamesTotal": 3,
     "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       145.91379767441188,
       141.44091101868867,
@@ -75058,6 +84286,15 @@ const statsYear2021 = [
     "gamesLost": 0,
     "gamesTotal": 3,
     "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       155.65685424949237,
       161.0944102008589,

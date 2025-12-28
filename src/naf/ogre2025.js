@@ -1,0 +1,122 @@
+const ogre2025 = [
+  {
+    "NAF Nr": "24872",
+    "NAF Name": "paperbag_dar",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 146.6279800914789,
+    "bestRating": 146.6279800914789,
+    "worstRating": 143.07179676972447,
+    "_lastTenRatings": [
+      146.53589838486224,
+      143.07179676972447,
+      146.6279800914789
+    ],
+    "tendency": 0.09208170661665349
+  },
+  {
+    "NAF Nr": "31514",
+    "NAF Name": "PP",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 146.71761521749198,
+    "bestRating": 146.71761521749198,
+    "worstRating": 143.16387847634115,
+    "_lastTenRatings": [
+      146.53589838486224,
+      143.16387847634115,
+      146.71761521749198
+    ],
+    "tendency": 0.18171683262974625
+  },
+  {
+    "NAF Nr": "32227",
+    "NAF Name": "Mattruffy",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 9,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 38.89,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 143.5570007025308,
+    "bestRating": 150,
+    "worstRating": 136.71633098484352,
+    "_lastTenRatings": [
+      150,
+      145.52786404500043,
+      150,
+      145.68130945949198,
+      141.20390650658666,
+      136.71633098484352,
+      137.25396941320602,
+      137.7699887860922,
+      143.5570007025308
+    ],
+    "tendency": -6.442999297469214
+  },
+  {
+    "NAF Nr": "42136",
+    "NAF Name": "BOSS_BABY",
+    "CCAA": "Apatrida",
+    "Country": "Ukraine",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
+    "rating": 149.8772340307004,
+    "bestRating": 154,
+    "worstRating": 149.8772340307004,
+    "_lastTenRatings": [
+      154,
+      150,
+      149.8772340307004
+    ],
+    "tendency": -4.122765969299593
+  }
+];

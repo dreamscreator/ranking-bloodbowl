@@ -1,17 +1,17 @@
-// exportTable_nafHistoricoGlobal.js
-// Añadido: Ordenación por botones (estilo Streaks) + Paginación (25 por página)
+﻿// exportTable_nafHistoricoGlobal.js
+// AÃ±adido: OrdenaciÃ³n por botones (estilo Streaks) + PaginaciÃ³n (25 por pÃ¡gina)
 //
 // Carga generalAll (general_all.js), excluye jugadores con 0 partidas,
-// calcula rankOverall (global) y rankCountry (por país),
-// aplica filtros (NAF, entrenador, país, WR, Partidos),
+// calcula rankOverall (global) y rankCountry (por paÃ­s),
+// aplica filtros (NAF, entrenador, paÃ­s, WR, Partidos),
 // y ahora permite ordenar por columnas + paginar.
 
 "use strict";
 
 document.addEventListener("DOMContentLoaded", () => {
-  // Verificar que generalAll esté cargado
+  // Verificar que generalAll estÃ© cargado
   if (typeof generalAll === "undefined") {
-    console.error("generalAll no está definido. Asegúrate de que general_all.js se cargue antes de este script.");
+    console.error("generalAll no estÃ¡ definido. AsegÃºrate de que general_all.js se cargue antes de este script.");
     return;
   }
 
@@ -34,11 +34,11 @@ document.addEventListener("DOMContentLoaded", () => {
     }))
     .filter((row) => row.games > 0);
 
-  // Ranking general por rating ↓
+  // Ranking general por rating â†“
   data.sort((a, b) => b.rating - a.rating);
   data.forEach((row, index) => { row.rankOverall = index + 1; });
 
-  // Ranking por país (dentro de cada país por rating ↓)
+  // Ranking por paÃ­s (dentro de cada paÃ­s por rating â†“)
   const groupedByCountry = data.reduce((acc, row) => {
     (acc[row.country] = acc[row.country] || []).push(row);
     return acc;
@@ -60,17 +60,17 @@ document.addEventListener("DOMContentLoaded", () => {
   function populateCountryOptions() {
     const countryList = Array.from(new Set(data.map((item) => item.country))).filter(Boolean).sort();
     countryFilter.innerHTML =
-      '<option value="all">Todos / All</option>' +
+      '<option value="all" data-i18n="todos">Todos</option>' +
       countryList.map((c) => `<option value="${c}">${c}</option>`).join("");
   }
   function populateWinRatioOptions() {
-    let opts = '<option value="">Todos / All</option>';
+    let opts = '<option value="" data-i18n="todos">Todos</option>';
     for (let i = 0; i <= 100; i += 10) opts += `<option value="${i}">${i}</option>`;
     wrMinFilter.innerHTML = opts;
     wrMaxFilter.innerHTML = opts;
   }
   function populateGamesOptions() {
-    let opts = '<option value="">Todos / All</option>';
+    let opts = '<option value="" data-i18n="todos">Todos</option>';
     for (let i = 0; i < 100; i += 10) opts += `<option value="${i}">${i}</option>`;
     for (let j = 100; j < 1000; j += 100) opts += `<option value="${j}">${j}</option>`;
     opts += `<option value="1000+">1000+</option>`;
@@ -82,10 +82,10 @@ document.addEventListener("DOMContentLoaded", () => {
   populateWinRatioOptions();
   populateGamesOptions();
 
-  // ===== Ordenación por botones (como en Streaks) =====
+  // ===== OrdenaciÃ³n por botones (como en Streaks) =====
   const sortBar = document.getElementById("sortButtons");
   const validSortKeys = new Set(["rankOverall", "rankCountry", "tournaments", "games", "winRatio", "rating"]);
-  let sortState = { key: null, dir: "desc" }; // sin botón => rankOverall asc
+  let sortState = { key: null, dir: "desc" }; // sin botÃ³n => rankOverall asc
 
   function setSort(key) {
     if (!validSortKeys.has(key)) return;
@@ -93,7 +93,7 @@ document.addEventListener("DOMContentLoaded", () => {
       sortState.dir = sortState.dir === "desc" ? "asc" : "desc";
     } else {
       sortState.key = key;
-      sortState.dir = "desc"; // primera pulsación descendente
+      sortState.dir = "desc"; // primera pulsaciÃ³n descendente
     }
     currentPage = 1;
     applyFilters();
@@ -108,9 +108,9 @@ document.addEventListener("DOMContentLoaded", () => {
       const isActive = sortState.key === key;
       btn.classList.toggle("btn-primary", isActive);
       btn.classList.toggle("btn-outline-primary", !isActive);
-      const base = btn.dataset.label || btn.textContent.replace(/\s*[▲▼]$/, "");
+      const base = btn.dataset.label || btn.textContent.replace(/\s*[â–²â–¼]$/, "");
       btn.dataset.label = base;
-      btn.textContent = isActive ? `${base} ${sortState.dir === "desc" ? "▼" : "▲"}` : base;
+      btn.textContent = isActive ? `${base} ${sortState.dir === "desc" ? "â–¼" : "â–²"}` : base;
     });
   }
 
@@ -131,7 +131,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // ===== Paginación =====
+  // ===== PaginaciÃ³n =====
   const PAGE_SIZE = 25;
   let currentPage = 1;
   let lastFiltered = [];
@@ -141,7 +141,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (container) return container;
     container = document.createElement("nav");
     container.id = "pagination";
-    container.className = "mt-3";
+    container.className = "mt-3 d-flex justify-content-center";
     table.parentElement.appendChild(container);
     return container;
   }
@@ -169,15 +169,21 @@ document.addEventListener("DOMContentLoaded", () => {
       return li;
     }
 
-    ul.appendChild(makeItem("«", 1, currentPage === 1));
-    ul.appendChild(makeItem("‹", Math.max(1, currentPage - 1), currentPage === 1));
+    ul.appendChild(makeItem("\u00AB", 1, currentPage === 1));
+    ul.appendChild(makeItem("\u2039", Math.max(1, currentPage - 1), currentPage === 1));
 
-    for (let p = 1; p <= totalPages; p++) {
+    let startP = Math.max(1, currentPage - 4);
+    let endP = Math.min(totalPages, startP + 8);
+    if (endP - startP < 8) {
+        startP = Math.max(1, endP - 8);
+    }
+
+    for (let p = startP; p <= endP; p++) {
       ul.appendChild(makeItem(String(p), p, false, p === currentPage));
     }
 
-    ul.appendChild(makeItem("›", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
-    ul.appendChild(makeItem("»", totalPages, currentPage === totalPages));
+    ul.appendChild(makeItem("\u203A", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
+    ul.appendChild(makeItem("\u00BB", totalPages, currentPage === totalPages));
 
     container.appendChild(ul);
   }
@@ -219,14 +225,14 @@ document.addEventListener("DOMContentLoaded", () => {
       return true;
     });
 
-    // Ordenación
+    // OrdenaciÃ³n
     if (sortState.key) {
       sortByKey(filtered, sortState.key, sortState.dir);
     } else {
-      filtered.sort((a, b) => a.rankOverall - b.rankOverall); // por defecto: posición general asc
+      filtered.sort((a, b) => a.rankOverall - b.rankOverall); // por defecto: posiciÃ³n general asc
     }
 
-    // Paginación
+    // PaginaciÃ³n
     lastFiltered = filtered;
     const totalPages = Math.max(1, Math.ceil(lastFiltered.length / PAGE_SIZE));
     currentPage = Math.min(currentPage || 1, totalPages);
@@ -266,7 +272,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // Eventos de filtros (resetean a página 1)
+  // Eventos de filtros (resetean a pÃ¡gina 1)
   nafFilter.addEventListener("input", () => { currentPage = 1; applyFilters(); });
   coachFilter.addEventListener("input", () => { currentPage = 1; applyFilters(); });
   [countryFilter, wrMinFilter, wrMaxFilter, gamesMinFilter, gamesMaxFilter].forEach((el) =>
@@ -277,3 +283,5 @@ document.addEventListener("DOMContentLoaded", () => {
   applyFilters();
   updateButtonsUI();
 });
+
+

@@ -1,13 +1,13 @@
-// tableEsRazasHistorico.js
-// - Carga estadísticas por raza (solo Spain, games > 0)
+﻿// tableEsRazasHistorico.js
+// - Carga estadÃ­sticas por raza (solo Spain, games > 0)
 // - Filtros: NAF, Entrenador, Raza, CCAA, WinRatio, Partidos
 // - Calcula globalRank (general) y ccaaRank (dentro de la CCAA)
-// - NUEVO: Ordenación por botones (globalRank, ccaaRank, tournaments, games, wr, rating)
-// - NUEVO: Paginación a 25 filas por página
+// - NUEVO: OrdenaciÃ³n por botones (globalRank, ccaaRank, tournaments, games, wr, rating)
+// - NUEVO: PaginaciÃ³n a 25 filas por pÃ¡gina
 
 "use strict";
 
-// exportTable_nafHistoricoRazas.js (extendido con ordenación + paginación)
+// exportTable_nafHistoricoRazas.js (extendido con ordenaciÃ³n + paginaciÃ³n)
 document.addEventListener("DOMContentLoaded", () => {
   const table        = document.getElementById("nafTable");
   const tableBody    = document.querySelector("#nafTable tbody");
@@ -20,10 +20,10 @@ document.addEventListener("DOMContentLoaded", () => {
   const nafFilter    = document.getElementById("nafFilter");
   const coachFilter  = document.getElementById("coachFilter");
 
-  // ===== Botonera de ordenación (como en Streaks) =====
+  // ===== Botonera de ordenaciÃ³n (como en Streaks) =====
   const sortBar = document.getElementById("sortButtons");
   const validSortKeys = new Set(["globalRank", "ccaaRank", "tournaments", "games", "wr", "rating"]);
-  let sortState = { key: null, dir: "desc" }; // sin botón => globalRank asc
+  let sortState = { key: null, dir: "desc" }; // sin botÃ³n => globalRank asc
 
   function setSort(key) {
     if (!validSortKeys.has(key)) return;
@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
       sortState.dir = sortState.dir === "desc" ? "asc" : "desc";
     } else {
       sortState.key = key;
-      sortState.dir = "desc"; // primera pulsación descendente
+      sortState.dir = "desc"; // primera pulsaciÃ³n descendente
     }
     currentPage = 1;
     applyFiltersAndRender();
@@ -46,9 +46,9 @@ document.addEventListener("DOMContentLoaded", () => {
       const isActive = sortState.key === key;
       btn.classList.toggle("btn-primary", isActive);
       btn.classList.toggle("btn-outline-primary", !isActive);
-      const base = btn.dataset.label || btn.textContent.replace(/\s*[▲▼]$/, "");
+      const base = btn.dataset.label || btn.textContent.replace(/\s*[â–²â–¼]$/, "");
       btn.dataset.label = base;
-      btn.textContent = isActive ? `${base} ${sortState.dir === "desc" ? "▼" : "▲"}` : base;
+      btn.textContent = isActive ? `${base} ${sortState.dir === "desc" ? "â–¼" : "â–²"}` : base;
     });
   }
 
@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (container) return container;
     container = document.createElement("nav");
     container.id = "pagination";
-    container.className = "mt-3";
+    container.className = "mt-3 d-flex justify-content-center";
     table.parentElement.appendChild(container);
     return container;
   }
@@ -107,15 +107,21 @@ document.addEventListener("DOMContentLoaded", () => {
       return li;
     }
 
-    ul.appendChild(makeItem("«", 1, currentPage === 1));
-    ul.appendChild(makeItem("‹", Math.max(1, currentPage - 1), currentPage === 1));
+    ul.appendChild(makeItem("\u00AB", 1, currentPage === 1));
+    ul.appendChild(makeItem("\u2039", Math.max(1, currentPage - 1), currentPage === 1));
 
-    for (let p = 1; p <= totalPages; p++) {
+    let startP = Math.max(1, currentPage - 4);
+    let endP = Math.min(totalPages, startP + 8);
+    if (endP - startP < 8) {
+        startP = Math.max(1, endP - 8);
+    }
+
+    for (let p = startP; p <= endP; p++) {
       ul.appendChild(makeItem(String(p), p, false, p === currentPage));
     }
 
-    ul.appendChild(makeItem("›", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
-    ul.appendChild(makeItem("»", totalPages, currentPage === totalPages));
+    ul.appendChild(makeItem("\u203A", Math.min(totalPages, currentPage + 1), currentPage === totalPages));
+    ul.appendChild(makeItem("\u00BB", totalPages, currentPage === totalPages));
 
     container.appendChild(ul);
   }
@@ -283,32 +289,32 @@ document.addEventListener("DOMContentLoaded", () => {
       r.ccaaRank = ccaaCounters[r.ccaa];
     });
 
-    // Rellenar filtros dinámicos
+    // Rellenar filtros dinÃ¡micos
     const ccaas = Array.from(new Set(currentData.filter((i) => i.Country === "Spain").map((i) => i.CCAA))).sort();
-    ccaaFilter.innerHTML = '<option value="">Todas / All</option>' + ccaas.map((c) => `<option value="${c}">${c}</option>`).join("");
+    ccaaFilter.innerHTML = '<option value="" data-i18n="todas">Todas</option>' + ccaas.map((c) => `<option value="${c}">${c}</option>`).join("");
 
     const wrSteps = Array.from({ length: 11 }, (_, i) => i * 10);
     const wrOptions = wrSteps.map((n) => `<option value="${n}">${n}</option>`).join("");
-    wrMinFilter.innerHTML = '<option value="">Todos / All</option>' + wrOptions;
-    wrMaxFilter.innerHTML = '<option value="">Todos / All</option>' + wrOptions;
+    wrMinFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>' + wrOptions;
+    wrMaxFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>' + wrOptions;
 
     const gamesSteps = [...wrSteps, 200, 300, 400, 500, 600, 700, 800, 900];
     const gamesOptions = gamesSteps.map((n) => `<option value="${n}">${n}</option>`).join("") + '<option value="1000+">1000+</option>';
-    gamesMinFilter.innerHTML = '<option value="">Todos / All</option>' + gamesOptions;
-    gamesMaxFilter.innerHTML = '<option value="">Todos / All</option>' + gamesOptions;
+    gamesMinFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>' + gamesOptions;
+    gamesMaxFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>' + gamesOptions;
 
     applyFiltersAndRender();
     updateButtonsUI();
   }
 
-  // ===== Inicialización de filtros estáticos =====
+  // ===== InicializaciÃ³n de filtros estÃ¡ticos =====
   function initializeFilters() {
-    raceFilter.innerHTML = '<option value="">Todas / All</option>' + raceList.map((r) => `<option value="${r}">${r}</option>`).join("");
-    ccaaFilter.innerHTML = '<option value="">Todas / All</option>';
-    wrMinFilter.innerHTML = '<option value="">Todos / All</option>';
-    wrMaxFilter.innerHTML = '<option value="">Todos / All</option>';
-    gamesMinFilter.innerHTML = '<option value="">Todos / All</option>';
-    gamesMaxFilter.innerHTML = '<option value="">Todos / All</option>';
+    raceFilter.innerHTML = '<option value="" data-i18n="todas">Todas</option>' + raceList.map((r) => `<option value="${r}">${r}</option>`).join("");
+    ccaaFilter.innerHTML = '<option value="" data-i18n="todas">Todas</option>';
+    wrMinFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>';
+    wrMaxFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>';
+    gamesMinFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>';
+    gamesMaxFilter.innerHTML = '<option value="" data-i18n="todos">Todos</option>';
   }
 
   // ===== Eventos =====
@@ -324,3 +330,5 @@ document.addEventListener("DOMContentLoaded", () => {
   // Carga inicial (todas las razas)
   handleRaceChange();
 });
+
+

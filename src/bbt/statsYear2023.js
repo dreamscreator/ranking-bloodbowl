@@ -1,7 +1,7 @@
-const statsYear2023 = [
+const statsYear2023Bbt = [
   {
     "NAF Nr": "9",
-    "NAF Name": "Zurgal",
+    "NAF Name": "Non-NAF",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 112.41086211731118,
@@ -330,7 +330,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "16831",
     "NAF Name": "amen0",
-    "CCAA": "Cantabria ",
+    "CCAA": "Cantabria",
     "Country": "Spain",
     "rating": 153.93703235937255,
     "bestRating": 158.07658732754066,
@@ -353,7 +353,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "21596",
     "NAF Name": "Apostol del Gas",
-    "CCAA": "Apatrida",
+    "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 161.8289283332158,
     "bestRating": 161.8289283332158,
@@ -3371,6 +3371,28 @@ const statsYear2023 = [
     ]
   },
   {
+    "NAF Nr": "38337",
+    "NAF Name": "KikedineZidane",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "rating": 138.999496992051,
+    "bestRating": 149.97675234843084,
+    "worstRating": 138.999496992051,
+    "tendency": -5.343648758456624,
+    "tournaments": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "gamesTotal": 4,
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      144.34314575050763,
+      149.97675234843084,
+      144.54196411687684,
+      138.999496992051
+    ]
+  },
+  {
     "NAF Nr": "35281",
     "NAF Name": "kimura-trap",
     "CCAA": "Aragón",
@@ -4586,7 +4608,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "19676",
     "NAF Name": "Panzer68",
-    "CCAA": "Apatrida",
+    "CCAA": "La Rioja",
     "Country": "Spain",
     "rating": 162.35524320074893,
     "bestRating": 165.13748370574103,
@@ -5040,7 +5062,7 @@ const statsYear2023 = [
   },
   {
     "NAF Nr": "31767",
-    "NAF Name": "Rafiky",
+    "NAF Name": "rafiky",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 143.60637472318948,
@@ -5844,28 +5866,6 @@ const statsYear2023 = [
       150.79729985252854,
       144.52013401195842,
       138.15656707928295
-    ]
-  },
-  {
-    "NAF Nr": "38337",
-    "NAF Name": "TheBlackDog",
-    "CCAA": "C. Valenciana",
-    "Country": "Spain",
-    "rating": 138.999496992051,
-    "bestRating": 149.97675234843084,
-    "worstRating": 138.999496992051,
-    "tendency": -5.343648758456624,
-    "tournaments": 1,
-    "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 3,
-    "gamesTotal": 4,
-    "winRatio": 25,
-    "_lastTenRatingsYear": [
-      144.34314575050763,
-      149.97675234843084,
-      144.54196411687684,
-      138.999496992051
     ]
   },
   {
