@@ -1,5 +1,29 @@
 const chaosrenegade2025 = [
   {
+    "NAF Nr": "9",
+    "NAF Name": "Non-NAF",
+    "CCAA": "Apatrida",
+    "Country": "Cayman Islands",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.7573593128807,
+    "bestRating": 150,
+    "worstRating": 145.7573593128807,
+    "_lastTenRatings": [
+      145.7573593128807,
+      150,
+      145.7573593128807
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "23922",
     "NAF Name": "Whitey",
     "CCAA": "Apatrida",
@@ -23,6 +47,30 @@ const chaosrenegade2025 = [
       158.93394263936332
     ],
     "tendency": 4.461806684363751
+  },
+  {
+    "NAF Nr": "26719",
+    "NAF Name": "matt75",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.34314575050763,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.34314575050763
+    ],
+    "tendency": -11.313708498984738
   },
   {
     "NAF Nr": "33268",
@@ -109,6 +157,30 @@ const chaosrenegade2025 = [
       144.34314575050763
     ],
     "tendency": 0
+  },
+  {
+    "NAF Nr": "33780",
+    "NAF Name": "juangarayjr",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.7573593128807,
+    "bestRating": 154.2426406871193,
+    "worstRating": 145.7573593128807,
+    "_lastTenRatings": [
+      154.2426406871193,
+      150,
+      145.7573593128807
+    ],
+    "tendency": -8.485281374238582
   },
   {
     "NAF Nr": "35344",

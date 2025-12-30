@@ -25479,7 +25479,7 @@ const statsYear2013 = [
     "NAF Nr": "13620",
     "NAF Name": "Ulvardar",
     "CCAA": "Apatrida",
-    "Country": "Ladonia",
+    "Country": "Spain",
     "rating": 126.35143997707831,
     "bestRating": 155.68499066032265,
     "worstRating": 126.35143997707831,
@@ -43353,7 +43353,7 @@ const statsYear2013 = [
   },
   {
     "NAF Nr": "17918",
-    "NAF Name": "Lord_Asmodai",
+    "NAF Name": "Lord_Croquetas",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 132.323263881203,

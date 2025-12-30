@@ -85,6 +85,88 @@ const chaosdwarf2025 = [
     "tendency": 16.97010003732717
   },
   {
+    "NAF Nr": "9829",
+    "NAF Name": "RimK",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "9",
+    "raceName": "Chaos Dwarf",
+    "gamesTotal": 2,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 142.73135715574793,
+    "bestRating": 146.25834261322606,
+    "worstRating": 142.73135715574793,
+    "_lastTenRatings": [
+      146.25834261322606,
+      142.73135715574793
+    ],
+    "tendency": -3.5269854574781334
+  },
+  {
+    "NAF Nr": "27015",
+    "NAF Name": "JC_Phoenix",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
+    "raceId": "9",
+    "raceName": "Chaos Dwarf",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 70,
+    "rating": 159.81795803492523,
+    "bestRating": 159.81795803492523,
+    "worstRating": 154.89897948556634,
+    "_lastTenRatings": [
+      154.89897948556634,
+      159.7979589711327,
+      154.89897948556634,
+      159.7979589711327,
+      159.81795803492523
+    ],
+    "tendency": 4.918978549358883
+  },
+  {
+    "NAF Nr": "28257",
+    "NAF Name": "Joost",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "raceId": "9",
+    "raceName": "Chaos Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 158.48528137423858,
+    "bestRating": 158.48528137423858,
+    "worstRating": 154.2426406871193,
+    "_lastTenRatings": [
+      154.2426406871193,
+      154.2426406871193,
+      158.48528137423858
+    ],
+    "tendency": 4.242640687119291
+  },
+  {
     "NAF Nr": "29013",
     "NAF Name": "sexmachine",
     "CCAA": "Apatrida",
@@ -117,6 +199,39 @@ const chaosdwarf2025 = [
       150
     ],
     "tendency": 3.464101615137764
+  },
+  {
+    "NAF Nr": "30546",
+    "NAF Name": "HurriKane",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "9",
+    "raceName": "Chaos Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 154.47213595499957,
+    "bestRating": 158.94427190999915,
+    "worstRating": 154.47213595499957,
+    "_lastTenRatings": [
+      154.47213595499957,
+      158.94427190999915,
+      154.47213595499957
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "30804",
@@ -170,6 +285,30 @@ const chaosdwarf2025 = [
     "tendency": 5.656854249492369
   },
   {
+    "NAF Nr": "32216",
+    "NAF Name": "NBrandt",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "9",
+    "raceName": "Chaos Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 146.53589838486224,
+    "bestRating": 150,
+    "worstRating": 146.53589838486224,
+    "_lastTenRatings": [
+      146.53589838486224,
+      150,
+      146.53589838486224
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "35526",
     "NAF Name": "son_of_wocky",
     "CCAA": "Apatrida",
@@ -193,6 +332,87 @@ const chaosdwarf2025 = [
       145.36552148821366
     ],
     "tendency": -4.634478511786341
+  },
+  {
+    "NAF Nr": "35772",
+    "NAF Name": "grosjambon",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "9",
+    "raceName": "Chaos Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 158.71779788708136,
+    "bestRating": 158.71779788708136,
+    "worstRating": 154.35889894354068,
+    "_lastTenRatings": [
+      154.35889894354068,
+      154.35889894354068,
+      158.71779788708136
+    ],
+    "tendency": 4.35889894354068
+  },
+  {
+    "NAF Nr": "36692",
+    "NAF Name": "Bruisemonkey",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "9",
+    "raceName": "Chaos Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.65685424949237,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      150,
+      155.65685424949237
+    ],
+    "tendency": 5.656854249492369
+  },
+  {
+    "NAF Nr": "37779",
+    "NAF Name": "Coopernicus",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "9",
+    "raceName": "Chaos Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 154.46784003250377,
+    "bestRating": 154.46784003250377,
+    "worstRating": 150.00742793807396,
+    "_lastTenRatings": [
+      154.2426406871193,
+      150.00742793807396,
+      154.46784003250377
+    ],
+    "tendency": 0.22519934538448183
   },
   {
     "NAF Nr": "38266",
@@ -242,5 +462,86 @@ const chaosdwarf2025 = [
       150.08969849040372
     ],
     "tendency": -3.3744031247340445
+  },
+  {
+    "NAF Nr": "39556",
+    "NAF Name": "gruurk666",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "9",
+    "raceName": "Chaos Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 154.35889894354068,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      154.35889894354068,
+      150
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "39782",
+    "NAF Name": "DEATH",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "9",
+    "raceName": "Chaos Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 145.52786404500043,
+    "_lastTenRatings": [
+      145.52786404500043,
+      145.52786404500043,
+      150
+    ],
+    "tendency": 4.4721359549995725
+  },
+  {
+    "NAF Nr": "42938",
+    "NAF Name": "jeffselvey",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "9",
+    "raceName": "Chaos Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 141.05572809000085,
+    "bestRating": 145.52786404500043,
+    "worstRating": 141.05572809000085,
+    "_lastTenRatings": [
+      145.52786404500043,
+      145.52786404500043,
+      141.05572809000085
+    ],
+    "tendency": -4.4721359549995725
   }
 ];

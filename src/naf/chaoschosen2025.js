@@ -33,6 +33,39 @@ const chaoschosen2025 = [
     "tendency": 7.11134932692633
   },
   {
+    "NAF Nr": "4789",
+    "NAF Name": "frozenflame",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "10",
+    "raceName": "Chaos Chosen",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 158.1227659692996,
+    "bestRating": 158.1227659692996,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      154,
+      158.1227659692996
+    ],
+    "tendency": 8.122765969299593
+  },
+  {
     "NAF Nr": "7468",
     "NAF Name": "Darkness49",
     "CCAA": "Apatrida",
@@ -129,6 +162,39 @@ const chaoschosen2025 = [
       145.10102051443366
     ],
     "tendency": -9.797958971132687
+  },
+  {
+    "NAF Nr": "28534",
+    "NAF Name": "houseblackfyre",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "10",
+    "raceName": "Chaos Chosen",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 157.996230946571,
+    "bestRating": 157.996230946571,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      154,
+      157.996230946571
+    ],
+    "tendency": 7.996230946570989
   },
   {
     "NAF Nr": "28841",
@@ -264,6 +330,30 @@ const chaoschosen2025 = [
     "tendency": -10.583005244258345
   },
   {
+    "NAF Nr": "36576",
+    "NAF Name": "darntootin123",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "10",
+    "raceName": "Chaos Chosen",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.2426406871193,
+    "bestRating": 158.48528137423858,
+    "worstRating": 154.2426406871193,
+    "_lastTenRatings": [
+      154.2426406871193,
+      158.48528137423858,
+      154.2426406871193
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "37637",
     "NAF Name": "alessiosauro",
     "CCAA": "Apatrida",
@@ -336,5 +426,31 @@ const chaoschosen2025 = [
       145.00247301396251
     ],
     "tendency": 0.300001078279422
+  },
+  {
+    "NAF Nr": "41847",
+    "NAF Name": "Paladin",
+    "CCAA": "Apatrida",
+    "Country": "Ukraine",
+    "raceId": "10",
+    "raceName": "Chaos Chosen",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 40,
+    "rating": 146.54006225130234,
+    "bestRating": 150.20678853134325,
+    "worstRating": 143.2650548614852,
+    "_lastTenRatings": [
+      146.74833517253705,
+      150.20678853134325,
+      146.7344372137774,
+      143.2650548614852,
+      146.54006225130234
+    ],
+    "tendency": -0.20827292123470897
   }
 ];

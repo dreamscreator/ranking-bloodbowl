@@ -1,5 +1,73 @@
 const blackorc2025 = [
   {
+    "NAF Nr": "9",
+    "NAF Name": "Non-NAF",
+    "CCAA": "Apatrida",
+    "Country": "Cayman Islands",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 2,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 154.38074698111612,
+    "bestRating": 154.38074698111612,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      154.2426406871193,
+      150,
+      154.38074698111612
+    ],
+    "tendency": 0.1381062939968274
+  },
+  {
+    "NAF Nr": "12500",
+    "NAF Name": "woete",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 20,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 135.30334060297383,
+    "bestRating": 145.10102051443366,
+    "worstRating": 135.28949446118168,
+    "_lastTenRatings": [
+      145.10102051443366,
+      145.10102051443366,
+      140.37924738049688,
+      135.28949446118168,
+      135.30334060297383
+    ],
+    "tendency": -9.797679911459824
+  },
+  {
     "NAF Nr": "25780",
     "NAF Name": "Skab",
     "CCAA": "Apatrida",
@@ -65,6 +133,15 @@ const blackorc2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 10,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "rating": 127.39385714650602,
     "bestRating": 150,
     "worstRating": 127.39385714650602,
@@ -103,19 +180,76 @@ const blackorc2025 = [
     "tendency": 3.553736741150857
   },
   {
+    "NAF Nr": "37780",
+    "NAF Name": "BlueFenix",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 137.4056870140694,
+    "bestRating": 145.7573593128807,
+    "worstRating": 137.4056870140694,
+    "_lastTenRatings": [
+      145.7573593128807,
+      141.65282491975827,
+      137.4056870140694
+    ],
+    "tendency": -8.351672298811309
+  },
+  {
+    "NAF Nr": "39261",
+    "NAF Name": "DragonHunterSeth",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 144.34314575050763,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.34314575050763
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "41744",
     "NAF Name": "OlafWonderbeard",
     "CCAA": "Apatrida",
     "Country": "Ukraine",
     "raceId": "30",
     "raceName": "Black Orc",
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 0,
+    "gamesTotal": 8,
+    "gamesWon": 4,
+    "gamesDraw": 2,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 83.33,
+    "totalTournaments": 2,
+    "winRatio": 62.5,
     "trophies": {
       "winner": 0,
       "runnerup": 1,
@@ -125,15 +259,20 @@ const blackorc2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 158,
-    "bestRating": 158,
+    "rating": 157.06932931345753,
+    "bestRating": 161.25166482746295,
     "worstRating": 154,
     "_lastTenRatings": [
       154,
       158,
-      158
+      158,
+      161.25166482746295,
+      157.58075400182855,
+      157.46858812556505,
+      160.6343135475582,
+      157.06932931345753
     ],
-    "tendency": 4
+    "tendency": 3.06932931345753
   },
   {
     "NAF Nr": "41827",

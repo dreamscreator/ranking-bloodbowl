@@ -1,5 +1,29 @@
 const orc2025 = [
   {
+    "NAF Nr": "9",
+    "NAF Name": "Non-NAF",
+    "CCAA": "Apatrida",
+    "Country": "Cayman Islands",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 141.56417338845557,
+    "bestRating": 150,
+    "worstRating": 141.56417338845557,
+    "_lastTenRatings": [
+      150,
+      145.7820052849319,
+      141.56417338845557
+    ],
+    "tendency": -8.435826611544428
+  },
+  {
     "NAF Nr": "8122",
     "NAF Name": "Godzilla",
     "CCAA": "Madrid",
@@ -23,6 +47,32 @@ const orc2025 = [
       150
     ],
     "tendency": -5.656854249492369
+  },
+  {
+    "NAF Nr": "8168",
+    "NAF Name": "Da_Great_MC",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 70,
+    "rating": 159.62101190303386,
+    "bestRating": 164.51974151681003,
+    "worstRating": 154.89897948556634,
+    "_lastTenRatings": [
+      154.89897948556634,
+      154.89897948556634,
+      159.61383892757868,
+      164.51974151681003,
+      159.62101190303386
+    ],
+    "tendency": 4.722032417467517
   },
   {
     "NAF Nr": "13758",
@@ -163,6 +213,39 @@ const orc2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "20768",
+    "NAF Name": "spleggy",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 166.9705627484771,
+    "bestRating": 166.9705627484771,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      166.9705627484771
+    ],
+    "tendency": 11.313708498984738
+  },
+  {
     "NAF Nr": "21143",
     "NAF Name": "dementor",
     "CCAA": "Apatrida",
@@ -187,6 +270,40 @@ const orc2025 = [
       155.65685424949237
     ],
     "tendency": 5.656854249492369
+  },
+  {
+    "NAF Nr": "22357",
+    "NAF Name": "CRuzado17",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 87.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 164.51974151681,
+    "bestRating": 164.51974151681,
+    "worstRating": 154.89897948556634,
+    "_lastTenRatings": [
+      154.89897948556634,
+      159.7979589711327,
+      164.51281841314503,
+      164.51974151681
+    ],
+    "tendency": 9.620762031243657
   },
   {
     "NAF Nr": "23058",
@@ -393,6 +510,30 @@ const orc2025 = [
     "tendency": 6.92575674159653
   },
   {
+    "NAF Nr": "30993",
+    "NAF Name": "mikelangelo90",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 156.4946103169718,
+    "bestRating": 161.53337460757376,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.53337460757376,
+      156.4946103169718
+    ],
+    "tendency": 0.8377560674794324
+  },
+  {
     "NAF Nr": "31438",
     "NAF Name": "erbsenzaehler83",
     "CCAA": "Apatrida",
@@ -449,6 +590,69 @@ const orc2025 = [
       161.30307229634724
     ],
     "tendency": 16.959926545839608
+  },
+  {
+    "NAF Nr": "33029",
+    "NAF Name": "viccy",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 4,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 148.8804888806402,
+    "bestRating": 150.4142457111691,
+    "worstRating": 144.80384757729337,
+    "_lastTenRatings": [
+      144.80384757729337,
+      150.20712285558454,
+      150.4142457111691,
+      149.78735562480193,
+      149.42235163308402,
+      148.8804888806402
+    ],
+    "tendency": 4.0766413033468325
+  },
+  {
+    "NAF Nr": "33620",
+    "NAF Name": "lixtor",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 4,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 159.88773761676535,
+    "bestRating": 159.97871627864308,
+    "worstRating": 155.19615242270663,
+    "_lastTenRatings": [
+      155.19615242270663,
+      159.97871627864308,
+      159.59792427546967,
+      159.61341368702801,
+      159.65937693919804,
+      159.88773761676535
+    ],
+    "tendency": 4.691585194058717
   },
   {
     "NAF Nr": "33884",
@@ -548,6 +752,30 @@ const orc2025 = [
     "tendency": 1.7456616358999497
   },
   {
+    "NAF Nr": "35043",
+    "NAF Name": "squigsmightfly",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.65685424949237,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      155.65685424949237
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "36829",
     "NAF Name": "fredzolomon",
     "CCAA": "Apatrida",
@@ -582,6 +810,33 @@ const orc2025 = [
       167.7151514848564
     ],
     "tendency": 17.715151484856392
+  },
+  {
+    "NAF Nr": "37524",
+    "NAF Name": "bitter",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.8940078661589,
+    "bestRating": 160.39230484541326,
+    "worstRating": 149.8940078661589,
+    "_lastTenRatings": [
+      155.19615242270663,
+      160.39230484541326,
+      154.98078275950513,
+      160.35281637523227,
+      154.95831922226475,
+      149.8940078661589
+    ],
+    "tendency": -5.302144556547745
   },
   {
     "NAF Nr": "37566",
@@ -682,6 +937,32 @@ const orc2025 = [
     "tendency": 8
   },
   {
+    "NAF Nr": "39136",
+    "NAF Name": "Ruby_Tuesday",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 20,
+    "rating": 135.48615085667905,
+    "bestRating": 145.10102051443366,
+    "worstRating": 135.30306154330097,
+    "_lastTenRatings": [
+      145.10102051443366,
+      140.2020410288673,
+      135.30306154330097,
+      140.39281446261617,
+      135.48615085667905
+    ],
+    "tendency": -9.61486965775461
+  },
+  {
     "NAF Nr": "39270",
     "NAF Name": "skaggi",
     "CCAA": "Apatrida",
@@ -704,6 +985,42 @@ const orc2025 = [
       149.71331976676856
     ],
     "tendency": -0.28668023323143643
+  },
+  {
+    "NAF Nr": "39472",
+    "NAF Name": "durinbjornsson",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 143.68949139293156,
+    "bestRating": 155.19615242270663,
+    "worstRating": 143.68949139293156,
+    "_lastTenRatings": [
+      155.19615242270663,
+      149.5864114332298,
+      154.6083859105255,
+      154.21809831387182,
+      149.21336545262062,
+      143.68949139293156
+    ],
+    "tendency": -11.506661029775074
   },
   {
     "NAF Nr": "39625",
@@ -755,6 +1072,30 @@ const orc2025 = [
     "tendency": 5.656854249492369
   },
   {
+    "NAF Nr": "41346",
+    "NAF Name": "Jon_Prince",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      150
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "41837",
     "NAF Name": "sikeymoto",
     "CCAA": "Apatrida",
@@ -786,5 +1127,29 @@ const orc2025 = [
       142.97971506310782
     ],
     "tendency": -3.5561833217544176
+  },
+  {
+    "NAF Nr": "42221",
+    "NAF Name": "Barker",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "1",
+    "raceName": "Orc",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.65685424949237,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      150,
+      155.65685424949237
+    ],
+    "tendency": 5.656854249492369
   }
 ];

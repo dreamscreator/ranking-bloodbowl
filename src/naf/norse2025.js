@@ -1,5 +1,32 @@
 const norse2025 = [
   {
+    "NAF Nr": "14941",
+    "NAF Name": "ozt",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "13",
+    "raceName": "Norse",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 158.28706713547817,
+    "bestRating": 164.02465890737054,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      154.9890295671221,
+      154.3946990914253,
+      159.01992604611934,
+      164.02465890737054,
+      158.28706713547817
+    ],
+    "tendency": 8.287067135478168
+  },
+  {
     "NAF Nr": "18261",
     "NAF Name": "Mr_Frodo",
     "CCAA": "Apatrida",
@@ -20,6 +47,33 @@ const norse2025 = [
       145.64110105645932
     ],
     "tendency": 0
+  },
+  {
+    "NAF Nr": "18639",
+    "NAF Name": "mr.selecta",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "13",
+    "raceName": "Norse",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 139.0881022939803,
+    "bestRating": 145.0109704328779,
+    "worstRating": 134.04551494698362,
+    "_lastTenRatings": [
+      144.80384757729337,
+      139.81481801017128,
+      145.0109704328779,
+      139.61591683763362,
+      134.04551494698362,
+      139.0881022939803
+    ],
+    "tendency": -5.715745283313055
   },
   {
     "NAF Nr": "20249",
@@ -95,6 +149,30 @@ const norse2025 = [
     "tendency": -10.392304845413292
   },
   {
+    "NAF Nr": "25008",
+    "NAF Name": "hathi91",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "13",
+    "raceName": "Norse",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 141.56888234615008,
+    "bestRating": 145.64110105645932,
+    "worstRating": 141.42797811767753,
+    "_lastTenRatings": [
+      145.64110105645932,
+      141.42797811767753,
+      141.56888234615008
+    ],
+    "tendency": -4.072218710309244
+  },
+  {
     "NAF Nr": "26158",
     "NAF Name": "strubot",
     "CCAA": "Apatrida",
@@ -117,6 +195,28 @@ const norse2025 = [
       145.78200528493187
     ],
     "tendency": 0.14090422847255013
+  },
+  {
+    "NAF Nr": "27632",
+    "NAF Name": "TheRock",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "13",
+    "raceName": "Norse",
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 144.34314575050763,
+    "bestRating": 144.34314575050763,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "30084",
@@ -142,6 +242,32 @@ const norse2025 = [
       138.68629150101526
     ],
     "tendency": -16.970562748477107
+  },
+  {
+    "NAF Nr": "30556",
+    "NAF Name": "saltymurcutt",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "13",
+    "raceName": "Norse",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 40,
+    "rating": 145.10102051443366,
+    "bestRating": 154.89897948556634,
+    "worstRating": 145.10102051443366,
+    "_lastTenRatings": [
+      154.89897948556634,
+      150,
+      145.10102051443366,
+      150,
+      145.10102051443366
+    ],
+    "tendency": -9.797958971132687
   },
   {
     "NAF Nr": "30616",
@@ -170,6 +296,30 @@ const norse2025 = [
     "tendency": 16.490290972706674
   },
   {
+    "NAF Nr": "30764",
+    "NAF Name": "ragingengie",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
+    "raceId": "13",
+    "raceName": "Norse",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 146.003769053429,
+    "bestRating": 150,
+    "worstRating": 146,
+    "_lastTenRatings": [
+      146,
+      150,
+      146.003769053429
+    ],
+    "tendency": 0.0037690534290106825
+  },
+  {
     "NAF Nr": "30893",
     "NAF Name": "Yorch",
     "CCAA": "Madrid",
@@ -193,6 +343,29 @@ const norse2025 = [
       149.98934286315048
     ],
     "tendency": 5.646197112642852
+  },
+  {
+    "NAF Nr": "31068",
+    "NAF Name": "Lebouffeurdecrepes",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "13",
+    "raceName": "Norse",
+    "gamesTotal": 2,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 142.40926078622252,
+    "bestRating": 146.25834261322606,
+    "worstRating": 142.40926078622252,
+    "_lastTenRatings": [
+      146.25834261322606,
+      142.40926078622252
+    ],
+    "tendency": -3.8490818270035447
   },
   {
     "NAF Nr": "38280",
@@ -246,6 +419,30 @@ const norse2025 = [
     "tendency": -5.881457544105757
   },
   {
+    "NAF Nr": "39264",
+    "NAF Name": "IcelandicShayman",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "13",
+    "raceName": "Norse",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.34314575050763,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.34314575050763
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "39956",
     "NAF Name": "jnhaamer",
     "CCAA": "Apatrida",
@@ -269,6 +466,31 @@ const norse2025 = [
       150
     ],
     "tendency": 4.4721359549995725
+  },
+  {
+    "NAF Nr": "40972",
+    "NAF Name": "AntowV1",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "raceId": "13",
+    "raceName": "Norse",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 154.71485944201234,
+    "bestRating": 154.71485944201234,
+    "worstRating": 145.10102051443366,
+    "_lastTenRatings": [
+      145.10102051443366,
+      145.10102051443366,
+      150,
+      154.71485944201234
+    ],
+    "tendency": 9.613838927578684
   },
   {
     "NAF Nr": "41677",
@@ -320,6 +542,30 @@ const norse2025 = [
     "tendency": -10.591713709097945
   },
   {
+    "NAF Nr": "42081",
+    "NAF Name": "CausticDRMZ",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "13",
+    "raceName": "Norse",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.9317463597487,
+    "bestRating": 150,
+    "worstRating": 138.9317463597487,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      138.9317463597487
+    ],
+    "tendency": -11.0682536402513
+  },
+  {
     "NAF Nr": "42871",
     "NAF Name": "warpsturm",
     "CCAA": "Apatrida",
@@ -342,5 +588,29 @@ const norse2025 = [
       136.09145980916702
     ],
     "tendency": -9.218124431009556
+  },
+  {
+    "NAF Nr": "42904",
+    "NAF Name": "antrim",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
+    "raceId": "13",
+    "raceName": "Norse",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 139.6076951545867,
+    "bestRating": 146.53589838486224,
+    "worstRating": 139.6076951545867,
+    "_lastTenRatings": [
+      146.53589838486224,
+      143.07179676972447,
+      139.6076951545867
+    ],
+    "tendency": -6.928203230275528
   }
 ];

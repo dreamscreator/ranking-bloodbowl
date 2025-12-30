@@ -87,6 +87,15 @@ const human2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "rating": 155.65685424949237,
     "bestRating": 155.65685424949237,
     "worstRating": 144.34314575050763,
@@ -98,6 +107,157 @@ const human2025 = [
       155.65685424949237
     ],
     "tendency": 5.656854249492369
+  },
+  {
+    "NAF Nr": "14163",
+    "NAF Name": "diams",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "4",
+    "raceName": "Human",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 157.26864284425207,
+    "bestRating": 157.26864284425207,
+    "worstRating": 153.74165738677394,
+    "_lastTenRatings": [
+      153.74165738677394,
+      153.74165738677394,
+      157.26864284425207
+    ],
+    "tendency": 3.5269854574781334
+  },
+  {
+    "NAF Nr": "19252",
+    "NAF Name": "spoiledsquid",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "4",
+    "raceName": "Human",
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 8.33,
+    "rating": 127.48146296107294,
+    "bestRating": 150,
+    "worstRating": 127.48146296107294,
+    "_lastTenRatings": [
+      150,
+      145.0109704328779,
+      140.40914848586806,
+      135.98765163311657,
+      131.39454245368972,
+      127.48146296107294
+    ],
+    "tendency": -22.518537038927064
+  },
+  {
+    "NAF Nr": "20999",
+    "NAF Name": "Gallo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "4",
+    "raceName": "Human",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 143.92465786843934,
+    "bestRating": 150,
+    "worstRating": 143.92465786843934,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      143.92465786843934
+    ],
+    "tendency": -6.07534213156066
+  },
+  {
+    "NAF Nr": "21319",
+    "NAF Name": "Drexxl",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "4",
+    "raceName": "Human",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 152.68328510807768,
+    "bestRating": 164.5754803404613,
+    "worstRating": 152.68328510807768,
+    "_lastTenRatings": [
+      155.19615242270663,
+      160.18518198982872,
+      164.5754803404613,
+      158.78413231376035,
+      153.23818146907848,
+      152.68328510807768
+    ],
+    "tendency": -2.5128673146289486
+  },
+  {
+    "NAF Nr": "21913",
+    "NAF Name": "Dilde",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "4",
+    "raceName": "Human",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.33248861365811,
+    "bestRating": 150,
+    "worstRating": 144.33248861365811,
+    "_lastTenRatings": [
+      150,
+      150,
+      144.33248861365811
+    ],
+    "tendency": -5.667511386341886
+  },
+  {
+    "NAF Nr": "22993",
+    "NAF Name": "DaniFrogger",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "raceId": "4",
+    "raceName": "Human",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 159.61383892757868,
+    "bestRating": 159.7979589711327,
+    "worstRating": 154.89897948556634,
+    "_lastTenRatings": [
+      154.89897948556634,
+      159.7979589711327,
+      159.7979589711327,
+      159.61383892757868
+    ],
+    "tendency": 4.71485944201234
   },
   {
     "NAF Nr": "25626",
@@ -147,6 +307,30 @@ const human2025 = [
       153.46410161513776
     ],
     "tendency": 0
+  },
+  {
+    "NAF Nr": "26800",
+    "NAF Name": "Zama",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "4",
+    "raceName": "Human",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.99181307413411,
+    "bestRating": 155.65685424949237,
+    "worstRating": 149.99181307413411,
+    "_lastTenRatings": [
+      150,
+      155.65685424949237,
+      149.99181307413411
+    ],
+    "tendency": -0.008186925865885541
   },
   {
     "NAF Nr": "27369",
@@ -246,6 +430,63 @@ const human2025 = [
     "tendency": 0.006076242316595426
   },
   {
+    "NAF Nr": "36673",
+    "NAF Name": "Aegis",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "raceId": "4",
+    "raceName": "Human",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.17027386387568,
+    "bestRating": 150.18412004355403,
+    "worstRating": 145.10102051443366,
+    "_lastTenRatings": [
+      145.10102051443366,
+      145.10102051443366,
+      150.18412004355403,
+      150.17027386387568
+    ],
+    "tendency": 5.069253349442022
+  },
+  {
+    "NAF Nr": "37485",
+    "NAF Name": "bluxxt",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "4",
+    "raceName": "Human",
+    "gamesTotal": 2,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 150.10433939558845,
+    "bestRating": 153.84908182700354,
+    "worstRating": 150.10433939558845,
+    "_lastTenRatings": [
+      153.84908182700354,
+      150.10433939558845
+    ],
+    "tendency": -3.7447424314150908
+  },
+  {
     "NAF Nr": "38861",
     "NAF Name": "gabmasse",
     "CCAA": "Apatrida",
@@ -332,6 +573,29 @@ const human2025 = [
       146.18072215039427
     ],
     "tendency": -8.291413804605298
+  },
+  {
+    "NAF Nr": "40507",
+    "NAF Name": "dmj",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "4",
+    "raceName": "Human",
+    "gamesTotal": 2,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 146.25834261322606,
+    "_lastTenRatings": [
+      146.25834261322606,
+      150
+    ],
+    "tendency": 3.7416573867739373
   },
   {
     "NAF Nr": "42043",

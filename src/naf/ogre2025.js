@@ -1,5 +1,29 @@
 const ogre2025 = [
   {
+    "NAF Nr": "9865",
+    "NAF Name": "Morpheous",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 146,
+    "bestRating": 146,
+    "worstRating": 142,
+    "_lastTenRatings": [
+      146,
+      142,
+      146
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "24872",
     "NAF Name": "paperbag_dar",
     "CCAA": "Apatrida",
@@ -85,6 +109,39 @@ const ogre2025 = [
       143.5570007025308
     ],
     "tendency": -6.442999297469214
+  },
+  {
+    "NAF Nr": "41006",
+    "NAF Name": "beefhammer",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 142.11899691587058,
+    "bestRating": 146.1227659692996,
+    "worstRating": 142.11899691587058,
+    "_lastTenRatings": [
+      146,
+      146.1227659692996,
+      142.11899691587058
+    ],
+    "tendency": -3.881003084129418
   },
   {
     "NAF Nr": "42136",

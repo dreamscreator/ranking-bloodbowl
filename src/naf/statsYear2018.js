@@ -20497,7 +20497,7 @@ const statsYear2018 = [
     "NAF Nr": "13620",
     "NAF Name": "Ulvardar",
     "CCAA": "Apatrida",
-    "Country": "Ladonia",
+    "Country": "Spain",
     "rating": 158.27673857825485,
     "bestRating": 158.99786958396678,
     "worstRating": 138.72667093682335,

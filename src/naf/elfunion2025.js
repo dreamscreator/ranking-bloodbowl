@@ -1,5 +1,29 @@
 const elfunion2025 = [
   {
+    "NAF Nr": "5222",
+    "NAF Name": "LEGION",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "19",
+    "raceName": "Elf Union",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.52786404500043,
+    "bestRating": 154.47213595499957,
+    "worstRating": 145.52786404500043,
+    "_lastTenRatings": [
+      154.47213595499957,
+      150,
+      145.52786404500043
+    ],
+    "tendency": -8.944271909999145
+  },
+  {
     "NAF Nr": "18503",
     "NAF Name": "douglowe",
     "CCAA": "Apatrida",
@@ -73,15 +97,15 @@ const elfunion2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 153.63731799118548,
+    "rating": 153.6327891431986,
     "bestRating": 153.74165738677394,
     "worstRating": 149.8925755597704,
     "_lastTenRatings": [
       153.74165738677394,
       149.8925755597704,
-      153.63731799118548
+      153.6327891431986
     ],
-    "tendency": -0.10433939558845395
+    "tendency": -0.10886824357532987
   },
   {
     "NAF Nr": "28725",
@@ -108,6 +132,39 @@ const elfunion2025 = [
     "tendency": 0.09208170661665349
   },
   {
+    "NAF Nr": "28941",
+    "NAF Name": "crocmort79",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "19",
+    "raceName": "Elf Union",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 162.7996076943778,
+    "bestRating": 162.7996076943778,
+    "worstRating": 154.2131229387818,
+    "_lastTenRatings": [
+      154.2131229387818,
+      158.4311176538499,
+      162.7996076943778
+    ],
+    "tendency": 8.586484755596018
+  },
+  {
     "NAF Nr": "30539",
     "NAF Name": "sirgalahad_grailhunter",
     "CCAA": "Apatrida",
@@ -132,6 +189,30 @@ const elfunion2025 = [
     "tendency": -0.21176630580760047
   },
   {
+    "NAF Nr": "34410",
+    "NAF Name": "MacGingee",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "19",
+    "raceName": "Elf Union",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.2426406871193,
+    "bestRating": 154.2426406871193,
+    "worstRating": 145.7573593128807,
+    "_lastTenRatings": [
+      145.7573593128807,
+      150,
+      154.2426406871193
+    ],
+    "tendency": 8.485281374238582
+  },
+  {
     "NAF Nr": "35955",
     "NAF Name": "mano",
     "CCAA": "Apatrida",
@@ -154,6 +235,31 @@ const elfunion2025 = [
       134.12549213361248
     ],
     "tendency": -10.583005244258345
+  },
+  {
+    "NAF Nr": "36600",
+    "NAF Name": "Claverosky",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "raceId": "19",
+    "raceName": "Elf Union",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 159.62075261950312,
+    "bestRating": 159.62075261950312,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      154.89897948556634,
+      150,
+      154.89897948556634,
+      159.62075261950312
+    ],
+    "tendency": 4.721773133936779
   },
   {
     "NAF Nr": "42507",

@@ -49,6 +49,92 @@ const darkelf2025 = [
     "tendency": 4.3637759922903
   },
   {
+    "NAF Nr": "16794",
+    "NAF Name": "Hamstertaker",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.35380288735715,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      144.35380288735715
+    ],
+    "tendency": -5.646197112642852
+  },
+  {
+    "NAF Nr": "19271",
+    "NAF Name": "pellevin",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 30,
+    "rating": 141.72569767969676,
+    "bestRating": 144.80384757729337,
+    "worstRating": 136.18606420588063,
+    "_lastTenRatings": [
+      144.80384757729337,
+      140.02128372135692,
+      140.6156141970537,
+      136.18606420588063,
+      141.72569767969676
+    ],
+    "tendency": -3.078149897596603
+  },
+  {
+    "NAF Nr": "19483",
+    "NAF Name": "inforthepain",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 6,
+    "gamesWon": 5,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 168.15828416961565,
+    "bestRating": 168.15828416961565,
+    "worstRating": 155.19615242270663,
+    "_lastTenRatings": [
+      155.19615242270663,
+      159.97871627864308,
+      164.58053822565293,
+      159.01076415063318,
+      164.24520467699887,
+      168.15828416961565
+    ],
+    "tendency": 12.962131746909023
+  },
+  {
     "NAF Nr": "21627",
     "NAF Name": "Mewash",
     "CCAA": "Apatrida",
@@ -71,6 +157,54 @@ const darkelf2025 = [
       153.55373674115083
     ],
     "tendency": 0.08963512601306434
+  },
+  {
+    "NAF Nr": "24134",
+    "NAF Name": "Saki",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.62374562708212,
+    "bestRating": 145.7573593128807,
+    "worstRating": 145.62374562708212,
+    "_lastTenRatings": [
+      145.7573593128807,
+      145.7573593128807,
+      145.62374562708212
+    ],
+    "tendency": -0.13361368579859345
+  },
+  {
+    "NAF Nr": "25517",
+    "NAF Name": "Bigio",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.89440378923453,
+    "bestRating": 145.02899398874814,
+    "worstRating": 138.89440378923453,
+    "_lastTenRatings": [
+      145.02899398874814,
+      144.56070396395094,
+      138.89440378923453
+    ],
+    "tendency": -6.13459019951361
   },
   {
     "NAF Nr": "26969",
@@ -108,6 +242,33 @@ const darkelf2025 = [
       163.3843392025658
     ],
     "tendency": 9.920237587428034
+  },
+  {
+    "NAF Nr": "27803",
+    "NAF Name": "privateniceguy",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 146.5090242551106,
+    "bestRating": 146.5090242551106,
+    "worstRating": 135.4245196595387,
+    "_lastTenRatings": [
+      144.80384757729337,
+      139.81481801017128,
+      135.4245196595387,
+      140.62014620370363,
+      140.98515019542154,
+      146.5090242551106
+    ],
+    "tendency": 1.705176677817235
   },
   {
     "NAF Nr": "28783",
@@ -158,6 +319,57 @@ const darkelf2025 = [
     "tendency": -4.71485944201234
   },
   {
+    "NAF Nr": "29395",
+    "NAF Name": "Theomir",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 8.33,
+    "rating": 125.15131472351844,
+    "bestRating": 144.80384757729337,
+    "worstRating": 125.15131472351844,
+    "_lastTenRatings": [
+      144.80384757729337,
+      144.80384757729337,
+      140.02128372135692,
+      135.3960567666629,
+      130.19390207051515,
+      125.15131472351844
+    ],
+    "tendency": -19.65253285377493
+  },
+  {
+    "NAF Nr": "30814",
+    "NAF Name": "Greebo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.99181307494777,
+    "bestRating": 150,
+    "worstRating": 144.3345872320356,
+    "_lastTenRatings": [
+      150,
+      144.3345872320356,
+      149.99181307494777
+    ],
+    "tendency": -0.008186925052228844
+  },
+  {
     "NAF Nr": "33910",
     "NAF Name": "fingers",
     "CCAA": "Apatrida",
@@ -191,6 +403,30 @@ const darkelf2025 = [
     "tendency": -7.21110255092799
   },
   {
+    "NAF Nr": "33997",
+    "NAF Name": "FlamingViper",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 158.480784155669,
+    "bestRating": 158.480784155669,
+    "worstRating": 154.2426406871193,
+    "_lastTenRatings": [
+      154.2426406871193,
+      154.2426406871193,
+      158.480784155669
+    ],
+    "tendency": 4.238143468549708
+  },
+  {
     "NAF Nr": "34687",
     "NAF Name": "jacruth",
     "CCAA": "Apatrida",
@@ -216,6 +452,31 @@ const darkelf2025 = [
     "tendency": -5.656854249492369
   },
   {
+    "NAF Nr": "35675",
+    "NAF Name": "duffman0110",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 159.98207901468672,
+    "bestRating": 159.98207901468672,
+    "worstRating": 154.89897948556634,
+    "_lastTenRatings": [
+      154.89897948556634,
+      159.7979589711327,
+      154.89897948556634,
+      159.98207901468672
+    ],
+    "tendency": 5.083099529120375
+  },
+  {
     "NAF Nr": "38955",
     "NAF Name": "vishiz",
     "CCAA": "Apatrida",
@@ -238,5 +499,121 @@ const darkelf2025 = [
       154
     ],
     "tendency": 8
+  },
+  {
+    "NAF Nr": "40147",
+    "NAF Name": "Minecrafter15",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 133.0294372515229,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.0294372515229,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229
+    ],
+    "tendency": -11.313708498984738
+  },
+  {
+    "NAF Nr": "40763",
+    "NAF Name": "riptide_wing",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.99512295125038,
+    "bestRating": 154.35889894354068,
+    "worstRating": 149.99512295125038,
+    "_lastTenRatings": [
+      154.35889894354068,
+      154.35889894354068,
+      149.99512295125038
+    ],
+    "tendency": -4.3637759922903
+  },
+  {
+    "NAF Nr": "41332",
+    "NAF Name": "raymon",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 154.2426406871193,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      154.2426406871193,
+      154.2426406871193,
+      150
+    ],
+    "tendency": -4.242640687119291
+  },
+  {
+    "NAF Nr": "41351",
+    "NAF Name": "Rezzy",
+    "CCAA": "Apatrida",
+    "Country": "Ukraine",
+    "raceId": "3",
+    "raceName": "Dark Elf",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 70,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 156.93009845779073,
+    "bestRating": 156.93009845779073,
+    "worstRating": 146.42957993672857,
+    "_lastTenRatings": [
+      146.42957993672857,
+      149.89650834214723,
+      153.36885965971308,
+      153.4636179051295,
+      156.93009845779073
+    ],
+    "tendency": 10.500518521062162
   }
 ];

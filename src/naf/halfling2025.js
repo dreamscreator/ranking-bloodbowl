@@ -125,6 +125,39 @@ const halfling2025 = [
     "tendency": 7.486399818189028
   },
   {
+    "NAF Nr": "32758",
+    "NAF Name": "Mammouth",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 146.36576705345567,
+    "bestRating": 146.36576705345567,
+    "worstRating": 142.51668522645213,
+    "_lastTenRatings": [
+      146.25834261322606,
+      142.51668522645213,
+      146.36576705345567
+    ],
+    "tendency": 0.1074244402296074
+  },
+  {
     "NAF Nr": "33566",
     "NAF Name": "laika",
     "CCAA": "Apatrida",

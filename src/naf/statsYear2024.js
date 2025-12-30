@@ -150,6 +150,15 @@ const statsYear2024 = [
     "gamesLost": 7,
     "gamesTotal": 27,
     "winRatio": 61.11,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       163.7556736783532,
       157.96940867194957,
@@ -9006,7 +9015,7 @@ const statsYear2024 = [
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 0,
-      "stuntycup": 0,
+      "stuntycup": 1,
       "bestpainted": 0,
       "otherawards": 0
     },
@@ -17104,7 +17113,7 @@ const statsYear2024 = [
     "NAF Nr": "13620",
     "NAF Name": "Ulvardar",
     "CCAA": "Apatrida",
-    "Country": "Ladonia",
+    "Country": "Spain",
     "rating": 182.31413654969282,
     "bestRating": 188.61394635086765,
     "worstRating": 142.25403330758516,
@@ -27031,7 +27040,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "17761",
-    "NAF Name": "SparkyDave",
+    "NAF Name": "Epicentre",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 170.75639459885468,
@@ -77375,7 +77384,7 @@ const statsYear2024 = [
     "NAF Nr": "27084",
     "NAF Name": "Moi_Morenate",
     "CCAA": "Andalucía",
-    "Country": "Spain",
+    "Country": "Liechtenstein",
     "rating": 96.40551474357241,
     "bestRating": 157.74596669241484,
     "worstRating": 96.40551474357241,
@@ -130090,6 +130099,15 @@ const statsYear2024 = [
     "gamesLost": 5,
     "gamesTotal": 28,
     "winRatio": 66.07,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       164.12942144531914,
       168.62517699945937,
@@ -147705,7 +147723,7 @@ const statsYear2024 = [
     "NAF Nr": "34611",
     "NAF Name": "biti",
     "CCAA": "Apatrida",
-    "Country": "Spain",
+    "Country": "St Pierre And Miquelon",
     "rating": 98.52168302048437,
     "bestRating": 144.34314575050763,
     "worstRating": 96.80921848950906,
@@ -157310,6 +157328,15 @@ const statsYear2024 = [
     "gamesLost": 5,
     "gamesTotal": 25,
     "winRatio": 64,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       172.13779201149237,
       176.70474989328892,
@@ -203905,7 +203932,7 @@ const statsYear2024 = [
       "touchdowns": 0,
       "casualties": 0,
       "stuntycup": 0,
-      "bestpainted": 1,
+      "bestpainted": 2,
       "otherawards": 0
     },
     "_lastTenRatingsYear": [
@@ -213265,7 +213292,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "39572",
-    "NAF Name": "MiguelAngelLopez",
+    "NAF Name": "Likimi20",
     "CCAA": "Apatrida",
     "Country": "Mexico",
     "rating": 156.8042417266566,

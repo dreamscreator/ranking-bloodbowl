@@ -24,6 +24,84 @@ const amazon2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "10840",
+    "NAF Name": "Hippie",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      150,
+      150
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "16238",
+    "NAF Name": "melisqus",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 156.1367412132971,
+    "bestRating": 156.1367412132971,
+    "worstRating": 144.59672472170882,
+    "_lastTenRatings": [
+      150,
+      144.59672472170882,
+      144.80384757729337,
+      145.19413517394705,
+      150.39914944140475,
+      156.1367412132971
+    ],
+    "tendency": 6.136741213297114
+  },
+  {
+    "NAF Nr": "21414",
+    "NAF Name": "Sindragosa",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 152.29241358241615,
+    "bestRating": 152.29241358241615,
+    "worstRating": 140.19546166676787,
+    "_lastTenRatings": [
+      144.80384757729337,
+      145.21743614406356,
+      140.19546166676787,
+      140.38709761964785,
+      146.53055161467185,
+      152.29241358241615
+    ],
+    "tendency": 7.488566005122777
+  },
+  {
     "NAF Nr": "23272",
     "NAF Name": "modedaala",
     "CCAA": "Apatrida",
@@ -72,6 +150,81 @@ const amazon2025 = [
       146.71503869326978
     ],
     "tendency": -6.7490629218679885
+  },
+  {
+    "NAF Nr": "27015",
+    "NAF Name": "JC_Phoenix",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 157.37280790460517,
+    "bestRating": 157.37280790460517,
+    "worstRating": 153.74165738677394,
+    "_lastTenRatings": [
+      153.74165738677394,
+      153.74165738677394,
+      157.37280790460517
+    ],
+    "tendency": 3.63115051783123
+  },
+  {
+    "NAF Nr": "27441",
+    "NAF Name": "zedd",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 153.90062896045507,
+    "bestRating": 164.40021313139457,
+    "worstRating": 153.90062896045507,
+    "_lastTenRatings": [
+      155.19615242270663,
+      155.19615242270663,
+      159.97871627864308,
+      164.40021313139457,
+      159.02936064950683,
+      153.90062896045507
+    ],
+    "tendency": -1.2955234622515661
+  },
+  {
+    "NAF Nr": "32213",
+    "NAF Name": "Niding",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.09208170661668,
+    "bestRating": 150.09208170661668,
+    "worstRating": 146.53589838486224,
+    "_lastTenRatings": [
+      146.53589838486224,
+      146.62798009147892,
+      150.09208170661668
+    ],
+    "tendency": 3.556183321754446
   },
   {
     "NAF Nr": "33078",
@@ -205,6 +358,54 @@ const amazon2025 = [
     "tendency": -4.696492002140019
   },
   {
+    "NAF Nr": "40346",
+    "NAF Name": "sirrion",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      150
+    ],
+    "tendency": -5.656854249492369
+  },
+  {
+    "NAF Nr": "40549",
+    "NAF Name": "bigbear76",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 133.0294372515229,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.0294372515229,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229
+    ],
+    "tendency": -11.313708498984738
+  },
+  {
     "NAF Nr": "40676",
     "NAF Name": "johanmadden",
     "CCAA": "Apatrida",
@@ -255,5 +456,31 @@ const amazon2025 = [
       144.58860060924107
     ],
     "tendency": -5.41139939075893
+  },
+  {
+    "NAF Nr": "42135",
+    "NAF Name": "tatiko",
+    "CCAA": "Apatrida",
+    "Country": "Ukraine",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 40,
+    "rating": 146.5394943290369,
+    "bestRating": 153.4727732415354,
+    "worstRating": 146.5394943290369,
+    "_lastTenRatings": [
+      153.46410161513776,
+      153.3606073652719,
+      153.4727732415354,
+      150.00355197831334,
+      146.5394943290369
+    ],
+    "tendency": -6.924607286100866
   }
 ];

@@ -1,5 +1,89 @@
 const goblin2025 = [
   {
+    "NAF Nr": "2233",
+    "NAF Name": "Sjapie",
+    "CCAA": "Apatrida",
+    "Country": "Belgium",
+    "raceId": "7",
+    "raceName": "Goblin",
+    "gamesTotal": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "rating": 154.89897948556634,
+    "bestRating": 154.89897948556634,
+    "worstRating": 154.89897948556634,
+    "_lastTenRatings": [
+      154.89897948556634
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "2714",
+    "NAF Name": "Schwifty",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "raceId": "7",
+    "raceName": "Goblin",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 149.98498709160344,
+    "bestRating": 154.2426406871193,
+    "worstRating": 149.98498709160344,
+    "_lastTenRatings": [
+      154.2426406871193,
+      154.2271224511017,
+      149.98498709160344
+    ],
+    "tendency": -4.257653595515848
+  },
+  {
+    "NAF Nr": "6587",
+    "NAF Name": "Vinz_D",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "raceId": "7",
+    "raceName": "Goblin",
+    "gamesTotal": 8,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 6,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 25,
+    "rating": 132.44483348834723,
+    "bestRating": 145.10102051443366,
+    "worstRating": 131.5372270122842,
+    "_lastTenRatings": [
+      145.10102051443366,
+      140.2020410288673,
+      145.10102051443366,
+      140.2020410288673,
+      135.30331207117848,
+      131.5372270122842,
+      136.24109458674712,
+      132.44483348834723
+    ],
+    "tendency": -12.656187026086428
+  },
+  {
     "NAF Nr": "9339",
     "NAF Name": "Darkstar",
     "CCAA": "Apatrida",
@@ -31,6 +115,41 @@ const goblin2025 = [
       145.50019682798677
     ],
     "tendency": -0.14090422847255013
+  },
+  {
+    "NAF Nr": "10845",
+    "NAF Name": "Glowworm",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "7",
+    "raceName": "Goblin",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
+    "rating": 149.6586542482403,
+    "bestRating": 150,
+    "worstRating": 144.91690047087963,
+    "_lastTenRatings": [
+      150,
+      144.91690047087963,
+      144.9238235745446,
+      149.6522511062677,
+      149.6586542482403
+    ],
+    "tendency": -0.3413457517596896
   },
   {
     "NAF Nr": "11292",
@@ -126,6 +245,30 @@ const goblin2025 = [
     "tendency": -13.114778045814177
   },
   {
+    "NAF Nr": "20816",
+    "NAF Name": "Lumibralo",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "raceId": "7",
+    "raceName": "Goblin",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 140.38616107242132,
+    "bestRating": 145.10102051443366,
+    "worstRating": 140.2020410288673,
+    "_lastTenRatings": [
+      145.10102051443366,
+      140.2020410288673,
+      140.38616107242132
+    ],
+    "tendency": -4.71485944201234
+  },
+  {
     "NAF Nr": "23522",
     "NAF Name": "warashes",
     "CCAA": "Apatrida",
@@ -188,15 +331,96 @@ const goblin2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 146.2552575685849,
+    "rating": 146.10208726177294,
     "bestRating": 153.74165738677394,
-    "worstRating": 146.2552575685849,
+    "worstRating": 146.10208726177294,
     "_lastTenRatings": [
       153.74165738677394,
-      150,
-      146.2552575685849
+      149.84230084520115,
+      146.10208726177294
     ],
-    "tendency": -7.486399818189028
+    "tendency": -7.639570125001001
+  },
+  {
+    "NAF Nr": "28617",
+    "NAF Name": "Bob_Gaffa_Blodgins",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "7",
+    "raceName": "Goblin",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.34314575050763,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      144.34314575050763
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "30446",
+    "NAF Name": "nimoan",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
+    "raceId": "7",
+    "raceName": "Goblin",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 146.53589838486224,
+    "bestRating": 146.53589838486224,
+    "worstRating": 143.07179676972447,
+    "_lastTenRatings": [
+      146.53589838486224,
+      143.07179676972447,
+      146.53589838486224
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "31674",
+    "NAF Name": "greenskinphil",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "7",
+    "raceName": "Goblin",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 161.31370849898474,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      161.31370849898474
+    ],
+    "tendency": 5.656854249492369
   },
   {
     "NAF Nr": "32223",
@@ -312,13 +536,13 @@ const goblin2025 = [
     "Country": "Ukraine",
     "raceId": "7",
     "raceName": "Goblin",
-    "gamesTotal": 3,
-    "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 2,
+    "gamesTotal": 8,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 5,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 33.33,
+    "totalTournaments": 2,
+    "winRatio": 31.25,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
@@ -328,15 +552,20 @@ const goblin2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 146,
+    "rating": 139.59406515306765,
     "bestRating": 154,
-    "worstRating": 146,
+    "worstRating": 139.59406515306765,
     "_lastTenRatings": [
       154,
       150,
-      146
+      146,
+      149.57042006327143,
+      149.6739143131373,
+      146.21848263389953,
+      143.05275721190637,
+      139.59406515306765
     ],
-    "tendency": -8
+    "tendency": -14.405934846932354
   },
   {
     "NAF Nr": "40223",
@@ -405,6 +634,41 @@ const goblin2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "41415",
+    "NAF Name": "BlaFyr",
+    "CCAA": "Apatrida",
+    "Country": "Ukraine",
+    "raceId": "7",
+    "raceName": "Goblin",
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 132.87094694107503,
+    "bestRating": 146.53589838486224,
+    "worstRating": 132.87094694107503,
+    "_lastTenRatings": [
+      146.53589838486224,
+      143.06896997944358,
+      139.6049435228997,
+      136.14595433089218,
+      132.87094694107503
+    ],
+    "tendency": -13.664951443787203
+  },
+  {
     "NAF Nr": "41526",
     "NAF Name": "Bullfandur",
     "CCAA": "Apatrida",
@@ -460,5 +724,62 @@ const goblin2025 = [
       140.9955218796872
     ],
     "tendency": -4.49980317201323
+  },
+  {
+    "NAF Nr": "41861",
+    "NAF Name": "brandonthedm",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "7",
+    "raceName": "Goblin",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 157.8772340307004,
+    "bestRating": 157.8772340307004,
+    "worstRating": 154,
+    "_lastTenRatings": [
+      154,
+      154,
+      157.8772340307004
+    ],
+    "tendency": 3.877234030700407
+  },
+  {
+    "NAF Nr": "42940",
+    "NAF Name": "GazN",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "7",
+    "raceName": "Goblin",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 141.05572809000085,
+    "bestRating": 150,
+    "worstRating": 141.05572809000085,
+    "_lastTenRatings": [
+      150,
+      145.52786404500043,
+      141.05572809000085
+    ],
+    "tendency": -8.944271909999145
   }
 ];

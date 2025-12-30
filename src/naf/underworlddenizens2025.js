@@ -25,6 +25,54 @@ const underworlddenizens2025 = [
     "tendency": -10.153779236897066
   },
   {
+    "NAF Nr": "20447",
+    "NAF Name": "Moro84",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "23",
+    "raceName": "Underworld Denizens",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.7640827195688,
+    "bestRating": 149.7640827195688,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.35311537308823,
+      149.7640827195688
+    ],
+    "tendency": 5.4209369690611595
+  },
+  {
+    "NAF Nr": "21419",
+    "NAF Name": "LordBertoCaos",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "23",
+    "raceName": "Underworld Denizens",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      150
+    ],
+    "tendency": -5.656854249492369
+  },
+  {
     "NAF Nr": "26021",
     "NAF Name": "bgmcclean",
     "CCAA": "Apatrida",
@@ -58,6 +106,63 @@ const underworlddenizens2025 = [
     "tendency": 7.21110255092799
   },
   {
+    "NAF Nr": "28105",
+    "NAF Name": "Lewi88",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "23",
+    "raceName": "Underworld Denizens",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 166.9705627484771,
+    "bestRating": 166.9705627484771,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      166.9705627484771
+    ],
+    "tendency": 11.313708498984738
+  },
+  {
+    "NAF Nr": "30406",
+    "NAF Name": "TTGumption",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "23",
+    "raceName": "Underworld Denizens",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.65685424949237,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.65685424949237
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "32419",
     "NAF Name": "FettgarAllanPow",
     "CCAA": "Apatrida",
@@ -80,6 +185,33 @@ const underworlddenizens2025 = [
       150
     ],
     "tendency": 4.6904157598234235
+  },
+  {
+    "NAF Nr": "32550",
+    "NAF Name": "sirvejlance",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "23",
+    "raceName": "Underworld Denizens",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.53253895982635,
+    "bestRating": 155.76990981346796,
+    "worstRating": 144.80384757729337,
+    "_lastTenRatings": [
+      144.80384757729337,
+      150.4135885667702,
+      150.7943805699436,
+      151.17680063404111,
+      155.76990981346796,
+      150.53253895982635
+    ],
+    "tendency": 5.728691382532986
   },
   {
     "NAF Nr": "35614",
@@ -139,6 +271,30 @@ const underworlddenizens2025 = [
       158.8009989133083
     ],
     "tendency": 8.800998913308291
+  },
+  {
+    "NAF Nr": "37168",
+    "NAF Name": "olehskaven",
+    "CCAA": "Apatrida",
+    "Country": "Ukraine",
+    "raceId": "23",
+    "raceName": "Underworld Denizens",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.86639092457273,
+    "bestRating": 154.10453439312244,
+    "worstRating": 149.86639092457273,
+    "_lastTenRatings": [
+      150,
+      154.10453439312244,
+      149.86639092457273
+    ],
+    "tendency": -0.13360907542727318
   },
   {
     "NAF Nr": "39950",

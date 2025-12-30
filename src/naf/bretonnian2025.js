@@ -1,5 +1,62 @@
 const bretonnian2025 = [
   {
+    "NAF Nr": "128",
+    "NAF Name": "miloquaser",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "raceId": "26",
+    "raceName": "Bretonnian",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 158.48477604661755,
+    "bestRating": 158.48477604661755,
+    "worstRating": 154.2426406871193,
+    "_lastTenRatings": [
+      154.2426406871193,
+      154.2426406871193,
+      158.48477604661755
+    ],
+    "tendency": 4.242135359498263
+  },
+  {
+    "NAF Nr": "154",
+    "NAF Name": "Jonny_P",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "26",
+    "raceName": "Bretonnian",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.17576755624455,
+    "bestRating": 154.47213595499957,
+    "worstRating": 154.17576755624455,
+    "_lastTenRatings": [
+      154.47213595499957,
+      154.31869054050802,
+      154.17576755624455
+    ],
+    "tendency": -0.2963683987550212
+  },
+  {
     "NAF Nr": "6376",
     "NAF Name": "Emi_-13-_",
     "CCAA": "Andalucía",
@@ -38,15 +95,15 @@ const bretonnian2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 153.63423294654433,
-    "bestRating": 153.63423294654433,
+    "rating": 153.63409915805073,
+    "bestRating": 153.63409915805073,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       150,
-      153.63423294654433
+      153.63409915805073
     ],
-    "tendency": 3.63423294654433
+    "tendency": 3.6340991580507307
   },
   {
     "NAF Nr": "21573",
@@ -71,6 +128,30 @@ const bretonnian2025 = [
       142.97971506310782
     ],
     "tendency": -3.5561833217544176
+  },
+  {
+    "NAF Nr": "21763",
+    "NAF Name": "PanicoBlack",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "26",
+    "raceName": "Bretonnian",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.90230910822584,
+    "bestRating": 155.90230910822584,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      155.90230910822584
+    ],
+    "tendency": 0.24545485873346706
   },
   {
     "NAF Nr": "24151",
@@ -180,6 +261,31 @@ const bretonnian2025 = [
     "tendency": 4.170506135815003
   },
   {
+    "NAF Nr": "27557",
+    "NAF Name": "JuanR1969",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "raceId": "26",
+    "raceName": "Bretonnian",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 144.91690047087963,
+    "bestRating": 150,
+    "worstRating": 144.91690047087963,
+    "_lastTenRatings": [
+      145.10102051443366,
+      145.10102051443366,
+      150,
+      144.91690047087963
+    ],
+    "tendency": -0.18412004355403155
+  },
+  {
     "NAF Nr": "27655",
     "NAF Name": "Yellow-Ox",
     "CCAA": "Apatrida",
@@ -229,6 +335,30 @@ const bretonnian2025 = [
       149.64182576924168
     ],
     "tendency": -0.35817423075832266
+  },
+  {
+    "NAF Nr": "31370",
+    "NAF Name": "jblackmane",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "raceId": "26",
+    "raceName": "Bretonnian",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 154.2426406871193,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      154.2426406871193,
+      154.2426406871193,
+      150
+    ],
+    "tendency": -4.242640687119291
   },
   {
     "NAF Nr": "32256",
@@ -314,6 +444,30 @@ const bretonnian2025 = [
     "tendency": -6.746486397645754
   },
   {
+    "NAF Nr": "36992",
+    "NAF Name": "morty",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "26",
+    "raceName": "Bretonnian",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.75823367340274,
+    "bestRating": 150,
+    "worstRating": 145.75823367340274,
+    "_lastTenRatings": [
+      150,
+      149.8772340307004,
+      145.75823367340274
+    ],
+    "tendency": -4.241766326597258
+  },
+  {
     "NAF Nr": "37208",
     "NAF Name": "CackleZone",
     "CCAA": "Apatrida",
@@ -339,6 +493,30 @@ const bretonnian2025 = [
     "tendency": 0.18101196740667547
   },
   {
+    "NAF Nr": "38639",
+    "NAF Name": "castopher",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
+    "raceId": "26",
+    "raceName": "Bretonnian",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.99755173544835,
+    "bestRating": 150,
+    "worstRating": 146.53589838486224,
+    "_lastTenRatings": [
+      146.53589838486224,
+      150,
+      149.99755173544835
+    ],
+    "tendency": 3.4616533505861184
+  },
+  {
     "NAF Nr": "41852",
     "NAF Name": "Dangard",
     "CCAA": "Apatrida",
@@ -361,5 +539,29 @@ const bretonnian2025 = [
       141.8772340307004
     ],
     "tendency": -8.122765969299593
+  },
+  {
+    "NAF Nr": "42854",
+    "NAF Name": "mezme",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "26",
+    "raceName": "Bretonnian",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.50019682798677,
+    "bestRating": 150,
+    "worstRating": 145.50019682798677,
+    "_lastTenRatings": [
+      150,
+      145.64110105645932,
+      145.50019682798677
+    ],
+    "tendency": -4.49980317201323
   }
 ];

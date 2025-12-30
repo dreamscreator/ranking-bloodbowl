@@ -1,5 +1,29 @@
 const dwarf2025 = [
   {
+    "NAF Nr": "9",
+    "NAF Name": "Non-NAF",
+    "CCAA": "Apatrida",
+    "Country": "Cayman Islands",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 2,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 145.5234238008011,
+    "bestRating": 145.64110105645932,
+    "worstRating": 141.28220211291864,
+    "_lastTenRatings": [
+      145.64110105645932,
+      141.28220211291864,
+      145.5234238008011
+    ],
+    "tendency": -0.11767725565820797
+  },
+  {
     "NAF Nr": "5571",
     "NAF Name": "Nyeusi",
     "CCAA": "Apatrida",
@@ -70,15 +94,15 @@ const dwarf2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 16.67,
-    "rating": 142.62410966668173,
+    "rating": 142.6195809547009,
     "bestRating": 146.25834261322606,
-    "worstRating": 142.62410966668173,
+    "worstRating": 142.6195809547009,
     "_lastTenRatings": [
       146.25834261322606,
-      146.25834261322606,
-      142.62410966668173
+      146.25368011275162,
+      142.6195809547009
     ],
-    "tendency": -3.63423294654433
+    "tendency": -3.638761658525169
   },
   {
     "NAF Nr": "16100",
@@ -128,6 +152,33 @@ const dwarf2025 = [
       154.07221871030924
     ],
     "tendency": 4.072218710309244
+  },
+  {
+    "NAF Nr": "16278",
+    "NAF Name": "duckwing",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 165.84869493460812,
+    "bestRating": 165.84869493460812,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.40327527829118,
+      155.19615242270663,
+      160.76592649772638,
+      160.71996324555636,
+      165.84869493460812
+    ],
+    "tendency": 15.848694934608119
   },
   {
     "NAF Nr": "18753",
@@ -236,6 +287,39 @@ const dwarf2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "34582",
+    "NAF Name": "mrlight",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 145.63167735921803,
+    "bestRating": 145.64110105645932,
+    "worstRating": 141.28220211291864,
+    "_lastTenRatings": [
+      145.64110105645932,
+      141.28220211291864,
+      145.63167735921803
+    ],
+    "tendency": -0.009423697241288664
+  },
+  {
     "NAF Nr": "37799",
     "NAF Name": "ash1986",
     "CCAA": "Apatrida",
@@ -260,5 +344,78 @@ const dwarf2025 = [
       144.57796266754463
     ],
     "tendency": -11.078891581947744
+  },
+  {
+    "NAF Nr": "41008",
+    "NAF Name": "madmahler",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.11900035729767,
+    "bestRating": 150.11900035729767,
+    "worstRating": 146,
+    "_lastTenRatings": [
+      150,
+      146,
+      150.11900035729767
+    ],
+    "tendency": 0.119000357297665
+  },
+  {
+    "NAF Nr": "42630",
+    "NAF Name": "jmabc05",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 12.5,
+    "rating": 135.30306154330097,
+    "bestRating": 145.10102051443366,
+    "worstRating": 135.30306154330097,
+    "_lastTenRatings": [
+      145.10102051443366,
+      140.2020410288673,
+      140.2020410288673,
+      135.30306154330097
+    ],
+    "tendency": -9.797958971132687
+  },
+  {
+    "NAF Nr": "42822",
+    "NAF Name": "james_harrison",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.65685424949237,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      150,
+      155.65685424949237
+    ],
+    "tendency": 5.656854249492369
   }
 ];
