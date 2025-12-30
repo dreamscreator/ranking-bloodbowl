@@ -41550,7 +41550,7 @@ const statsRaceTomb_Kings = [
   {
     "NAF Nr": "24765",
     "NAF Name": "Sinkhole",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "raceId": "17",
     "raceName": "Tomb Kings",

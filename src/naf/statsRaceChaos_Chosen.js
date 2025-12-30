@@ -51683,7 +51683,7 @@ const statsRaceChaos_Chosen = [
   {
     "NAF Nr": "24763",
     "NAF Name": "Endiminion",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "raceId": "10",
     "raceName": "Chaos Chosen",

@@ -53688,7 +53688,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "24768",
     "NAF Name": "Don_Juanfra",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",
@@ -90848,7 +90848,7 @@ const statsRaceAmazon = [
   {
     "NAF Nr": "41391",
     "NAF Name": "Andresito",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",

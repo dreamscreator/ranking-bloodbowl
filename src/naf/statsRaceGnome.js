@@ -27094,7 +27094,7 @@ const statsRaceGnome = [
   {
     "NAF Nr": "40286",
     "NAF Name": "GutY",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "33",
     "raceName": "Gnome",

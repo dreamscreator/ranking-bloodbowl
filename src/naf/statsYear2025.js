@@ -61165,7 +61165,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "25211",
     "NAF Name": "Kramerkiller",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 153.4583900657103,
     "bestRating": 162.37595436913097,
@@ -86325,7 +86325,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "29036",
     "NAF Name": "Inaky",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 150.66400387672627,
     "bestRating": 161.31370849898474,
@@ -114483,7 +114483,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "32416",
     "NAF Name": "Kiffie",
-    "CCAA": "Andalucía",
+    "CCAA": "Andalucía/Ceuta",
     "Country": "Spain",
     "rating": 129.16706312665977,
     "bestRating": 150.01762171925358,
@@ -136850,7 +136850,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "34583",
     "NAF Name": "Fern",
-    "CCAA": "Apatrida",
+    "CCAA": "Ceuta",
     "Country": "Spain",
     "rating": 150.96279133547125,
     "bestRating": 151.6238702140175,
@@ -190027,7 +190027,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "39712",
     "NAF Name": "prisma",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 128.95766890832277,
     "bestRating": 149.5211813347784,
@@ -198028,7 +198028,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "40286",
     "NAF Name": "GutY",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 128.14072699060517,
     "bestRating": 150.7025192320843,
@@ -211988,7 +211988,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "41132",
     "NAF Name": "ChichoBlizter",
-    "CCAA": "Apatrida",
+    "CCAA": "Ceuta",
     "Country": "Spain",
     "rating": 140.36104354906158,
     "bestRating": 146.0015714980816,
@@ -213046,7 +213046,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "41201",
     "NAF Name": "Kingkiwi",
-    "CCAA": "Apatrida",
+    "CCAA": "Ceuta",
     "Country": "Spain",
     "rating": 138.2932848456097,
     "bestRating": 155.3928274518256,
@@ -215922,7 +215922,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "41386",
     "NAF Name": "JaviiCastle",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 153.4012737218282,
     "bestRating": 157.0831804910988,
@@ -215948,7 +215948,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "41387",
     "NAF Name": "Gimlinegro",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 153.12856673684192,
     "bestRating": 163.82088803931777,
@@ -216002,7 +216002,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "41389",
     "NAF Name": "Ensuciandominiaturas",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 143.875269619052,
     "bestRating": 145.8033914667921,
@@ -216030,7 +216030,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "41390",
     "NAF Name": "Arcaneo",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 157.18139867140079,
     "bestRating": 160.67754804008254,
@@ -216058,7 +216058,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "41391",
     "NAF Name": "Andresito",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 120.18012948964765,
     "bestRating": 146.2555182762779,
@@ -216396,7 +216396,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "41409",
     "NAF Name": "ZAMUEH",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 159.20442212952835,
     "bestRating": 161.5727548834054,
@@ -216707,7 +216707,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "41424",
     "NAF Name": "CandymanRaR",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 146.38970061817494,
     "bestRating": 150.68566894786287,
@@ -216773,7 +216773,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "41427",
     "NAF Name": "fernanghost",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 117.61691612694769,
     "bestRating": 144.45024262744454,
@@ -217488,7 +217488,7 @@ const statsYear2025 = [
   {
     "NAF Nr": "41475",
     "NAF Name": "El_Darky",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 163.32144259453975,
     "bestRating": 173.0867520304239,

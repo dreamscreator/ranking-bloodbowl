@@ -96942,7 +96942,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "29036",
     "NAF Name": "Inaky",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 149.90812859397454,
     "bestRating": 173.21278211846132,
@@ -132956,7 +132956,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "32416",
     "NAF Name": "Kiffie",
-    "CCAA": "Andalucía",
+    "CCAA": "Andalucía/Ceuta",
     "Country": "Spain",
     "rating": 140.62841083464696,
     "bestRating": 146.13353517630748,
@@ -164778,7 +164778,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "34583",
     "NAF Name": "Fern",
-    "CCAA": "Apatrida",
+    "CCAA": "Ceuta",
     "Country": "Spain",
     "rating": 111.87509373188561,
     "bestRating": 150,
@@ -174915,7 +174915,7 @@ const statsYear2023 = [
   {
     "NAF Nr": "35193",
     "NAF Name": "Ziost",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 154.51351789564,
     "bestRating": 154.51351789564,

@@ -76494,7 +76494,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "24769",
     "NAF Name": "Conde_Merluzord",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "raceId": "4",
     "raceName": "Human",
@@ -128846,7 +128846,7 @@ const statsRaceHuman = [
   {
     "NAF Nr": "41390",
     "NAF Name": "Arcaneo",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "4",
     "raceName": "Human",

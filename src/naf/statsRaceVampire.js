@@ -36141,7 +36141,7 @@ const statsRaceVampire = [
   {
     "NAF Nr": "25211",
     "NAF Name": "Kramerkiller",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "21",
     "raceName": "Vampire",

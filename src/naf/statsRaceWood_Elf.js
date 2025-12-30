@@ -98693,7 +98693,7 @@ const statsRaceWood_Elf = [
   {
     "NAF Nr": "41201",
     "NAF Name": "Kingkiwi",
-    "CCAA": "Apatrida",
+    "CCAA": "Ceuta",
     "Country": "Spain",
     "raceId": "12",
     "raceName": "Wood Elf",

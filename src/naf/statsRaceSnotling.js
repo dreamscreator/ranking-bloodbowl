@@ -35667,7 +35667,7 @@ const statsRaceSnotling = [
   {
     "NAF Nr": "41475",
     "NAF Name": "El_Darky",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "29",
     "raceName": "Snotling",

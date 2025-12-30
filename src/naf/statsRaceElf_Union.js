@@ -66510,7 +66510,7 @@ const statsRaceElf_Union = [
   {
     "NAF Nr": "35193",
     "NAF Name": "Ziost",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "19",
     "raceName": "Elf Union",

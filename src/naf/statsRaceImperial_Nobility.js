@@ -35350,7 +35350,7 @@ const statsRaceImperial_Nobility = [
   {
     "NAF Nr": "41389",
     "NAF Name": "Ensuciandominiaturas",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "31",
     "raceName": "Imperial Nobility",

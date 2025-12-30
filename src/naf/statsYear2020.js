@@ -43584,7 +43584,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "24768",
     "NAF Name": "Don_Juanfra",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "rating": 150.42003362177917,
     "bestRating": 150.4390983025262,
@@ -69467,7 +69467,7 @@ const statsYear2020 = [
   {
     "NAF Nr": "29036",
     "NAF Name": "Inaky",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 138.4623249022285,
     "bestRating": 150,

@@ -63969,7 +63969,7 @@ const statsYear2024 = [
   {
     "NAF Nr": "25211",
     "NAF Name": "Kramerkiller",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 145.6775532967442,
     "bestRating": 149.0463622144561,
@@ -90895,7 +90895,7 @@ const statsYear2024 = [
   {
     "NAF Nr": "29036",
     "NAF Name": "Inaky",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 157.06954643321995,
     "bestRating": 157.06954643321995,
@@ -122337,7 +122337,7 @@ const statsYear2024 = [
   {
     "NAF Nr": "32416",
     "NAF Name": "Kiffie",
-    "CCAA": "Andalucía",
+    "CCAA": "Andalucía/Ceuta",
     "Country": "Spain",
     "rating": 145.97469277283358,
     "bestRating": 146.5192021846722,
@@ -153777,7 +153777,7 @@ const statsYear2024 = [
   {
     "NAF Nr": "35193",
     "NAF Name": "Ziost",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 161.7393557235211,
     "bestRating": 161.7393557235211,

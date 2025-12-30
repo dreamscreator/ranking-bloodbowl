@@ -31616,7 +31616,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "29036",
     "NAF Name": "Inaky",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "25",
     "raceName": "Khorne",
@@ -54146,7 +54146,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "41132",
     "NAF Name": "ChichoBlizter",
-    "CCAA": "Apatrida",
+    "CCAA": "Ceuta",
     "Country": "Spain",
     "raceId": "25",
     "raceName": "Khorne",
@@ -54361,7 +54361,7 @@ const statsRaceKhorne = [
   {
     "NAF Nr": "41475",
     "NAF Name": "El_Darky",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "25",
     "raceName": "Khorne",

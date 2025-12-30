@@ -96213,7 +96213,7 @@ const statsYear2017 = [
   {
     "NAF Nr": "24763",
     "NAF Name": "Endiminion",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "rating": 158.60369668404286,
     "bestRating": 158.60369668404286,
@@ -96265,7 +96265,7 @@ const statsYear2017 = [
   {
     "NAF Nr": "24765",
     "NAF Name": "Sinkhole",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "rating": 128.1981997849484,
     "bestRating": 143.8269887224302,
@@ -96313,7 +96313,7 @@ const statsYear2017 = [
   {
     "NAF Nr": "24767",
     "NAF Name": "Paco_Creed",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "rating": 139.9184133481367,
     "bestRating": 144.57311541922155,
@@ -96337,7 +96337,7 @@ const statsYear2017 = [
   {
     "NAF Nr": "24768",
     "NAF Name": "Don_Juanfra",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "rating": 142.28037383499364,
     "bestRating": 155.32597002770305,
@@ -96361,7 +96361,7 @@ const statsYear2017 = [
   {
     "NAF Nr": "24769",
     "NAF Name": "Conde_Merluzord",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "rating": 153.83773380024306,
     "bestRating": 155.0275656720969,
@@ -96433,7 +96433,7 @@ const statsYear2017 = [
   {
     "NAF Nr": "24772",
     "NAF Name": "Temukhan",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "rating": 135.24276336895556,
     "bestRating": 145.24196985529983,

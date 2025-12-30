@@ -81693,7 +81693,7 @@ const statsRaceGoblin = [
   {
     "NAF Nr": "34583",
     "NAF Name": "Fern",
-    "CCAA": "Apatrida",
+    "CCAA": "Ceuta",
     "Country": "Spain",
     "raceId": "7",
     "raceName": "Goblin",

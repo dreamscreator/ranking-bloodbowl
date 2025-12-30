@@ -35578,7 +35578,7 @@ const statsRaceBlack_Orc = [
   {
     "NAF Nr": "32416",
     "NAF Name": "Kiffie",
-    "CCAA": "Andalucía",
+    "CCAA": "Andalucía/Ceuta",
     "Country": "Spain",
     "raceId": "30",
     "raceName": "Black Orc",
@@ -52452,7 +52452,7 @@ const statsRaceBlack_Orc = [
   {
     "NAF Nr": "41389",
     "NAF Name": "Ensuciandominiaturas",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "30",
     "raceName": "Black Orc",

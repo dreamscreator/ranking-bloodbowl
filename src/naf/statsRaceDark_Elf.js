@@ -73753,7 +73753,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "24772",
     "NAF Name": "Temukhan",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -75404,7 +75404,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "25211",
     "NAF Name": "Kramerkiller",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",
@@ -101290,7 +101290,7 @@ const statsRaceDark_Elf = [
   {
     "NAF Nr": "32416",
     "NAF Name": "Kiffie",
-    "CCAA": "Andalucía",
+    "CCAA": "Andalucía/Ceuta",
     "Country": "Spain",
     "raceId": "3",
     "raceName": "Dark Elf",

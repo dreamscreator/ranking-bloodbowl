@@ -64983,7 +64983,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "24765",
     "NAF Name": "Sinkhole",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -65014,7 +65014,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "24768",
     "NAF Name": "Don_Juanfra",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -118823,7 +118823,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "41386",
     "NAF Name": "JaviiCastle",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -118852,7 +118852,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "41387",
     "NAF Name": "Gimlinegro",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",
@@ -118984,7 +118984,7 @@ const statsRaceNecromantic_Horror = [
   {
     "NAF Nr": "41424",
     "NAF Name": "CandymanRaR",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "18",
     "raceName": "Necromantic Horror",

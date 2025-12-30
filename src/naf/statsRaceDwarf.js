@@ -78677,7 +78677,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "24767",
     "NAF Name": "Paco_Creed",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "raceId": "5",
     "raceName": "Dwarf",
@@ -109041,7 +109041,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "32416",
     "NAF Name": "Kiffie",
-    "CCAA": "Andalucía",
+    "CCAA": "Andalucía/Ceuta",
     "Country": "Spain",
     "raceId": "5",
     "raceName": "Dwarf",
@@ -123975,7 +123975,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "39712",
     "NAF Name": "prisma",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "5",
     "raceName": "Dwarf",
@@ -126190,7 +126190,7 @@ const statsRaceDwarf = [
   {
     "NAF Nr": "41390",
     "NAF Name": "Arcaneo",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "5",
     "raceName": "Dwarf",

@@ -293528,7 +293528,7 @@ const streaks = [
   {
     "NAF Nr": "24763",
     "NAF Name": "Endiminion",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "victoryStreak": 2,
     "bestVictoryStreak": 2,
@@ -293564,7 +293564,7 @@ const streaks = [
   {
     "NAF Nr": "24765",
     "NAF Name": "Sinkhole",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "victoryStreak": 1,
     "bestVictoryStreak": 1,
@@ -293600,7 +293600,7 @@ const streaks = [
   {
     "NAF Nr": "24767",
     "NAF Name": "Paco_Creed",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 1,
@@ -293618,7 +293618,7 @@ const streaks = [
   {
     "NAF Nr": "24768",
     "NAF Name": "Don_Juanfra",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 2,
@@ -293636,7 +293636,7 @@ const streaks = [
   {
     "NAF Nr": "24769",
     "NAF Name": "Conde_Merluzord",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "victoryStreak": 3,
     "bestVictoryStreak": 3,
@@ -293690,7 +293690,7 @@ const streaks = [
   {
     "NAF Nr": "24772",
     "NAF Name": "Temukhan",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 1,
@@ -300980,7 +300980,7 @@ const streaks = [
   {
     "NAF Nr": "25211",
     "NAF Name": "Kramerkiller",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 1,
     "bestVictoryStreak": 2,
@@ -367148,7 +367148,7 @@ const streaks = [
   {
     "NAF Nr": "29036",
     "NAF Name": "Inaky",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 4,
@@ -424784,7 +424784,7 @@ const streaks = [
   {
     "NAF Nr": "32416",
     "NAF Name": "Kiffie",
-    "CCAA": "Andalucía",
+    "CCAA": "Andalucía/Ceuta",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 1,
@@ -461648,7 +461648,7 @@ const streaks = [
   {
     "NAF Nr": "34583",
     "NAF Name": "Fern",
-    "CCAA": "Apatrida",
+    "CCAA": "Ceuta",
     "Country": "Spain",
     "victoryStreak": 1,
     "bestVictoryStreak": 1,
@@ -471926,7 +471926,7 @@ const streaks = [
   {
     "NAF Nr": "35193",
     "NAF Name": "Ziost",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 3,
     "bestVictoryStreak": 3,
@@ -548516,7 +548516,7 @@ const streaks = [
   {
     "NAF Nr": "39712",
     "NAF Name": "prisma",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 1,
     "bestVictoryStreak": 1,
@@ -558506,7 +558506,7 @@ const streaks = [
   {
     "NAF Nr": "40286",
     "NAF Name": "GutY",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 0,
@@ -573554,7 +573554,7 @@ const streaks = [
   {
     "NAF Nr": "41132",
     "NAF Name": "ChichoBlizter",
-    "CCAA": "Apatrida",
+    "CCAA": "Ceuta",
     "Country": "Spain",
     "victoryStreak": 1,
     "bestVictoryStreak": 1,
@@ -574778,7 +574778,7 @@ const streaks = [
   {
     "NAF Nr": "41201",
     "NAF Name": "Kingkiwi",
-    "CCAA": "Apatrida",
+    "CCAA": "Ceuta",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 1,
@@ -578108,7 +578108,7 @@ const streaks = [
   {
     "NAF Nr": "41386",
     "NAF Name": "JaviiCastle",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 2,
@@ -578126,7 +578126,7 @@ const streaks = [
   {
     "NAF Nr": "41387",
     "NAF Name": "Gimlinegro",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 3,
@@ -578162,7 +578162,7 @@ const streaks = [
   {
     "NAF Nr": "41389",
     "NAF Name": "Ensuciandominiaturas",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 1,
     "bestVictoryStreak": 3,
@@ -578180,7 +578180,7 @@ const streaks = [
   {
     "NAF Nr": "41390",
     "NAF Name": "Arcaneo",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 2,
@@ -578198,7 +578198,7 @@ const streaks = [
   {
     "NAF Nr": "41391",
     "NAF Name": "Andresito",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 1,
@@ -578522,7 +578522,7 @@ const streaks = [
   {
     "NAF Nr": "41409",
     "NAF Name": "ZAMUEH",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 1,
     "bestVictoryStreak": 1,
@@ -578792,7 +578792,7 @@ const streaks = [
   {
     "NAF Nr": "41424",
     "NAF Name": "CandymanRaR",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 0,
@@ -578846,7 +578846,7 @@ const streaks = [
   {
     "NAF Nr": "41427",
     "NAF Name": "fernanghost",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 0,
@@ -579656,7 +579656,7 @@ const streaks = [
   {
     "NAF Nr": "41472",
     "NAF Name": "FumaD_ON",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 0,
@@ -579674,7 +579674,7 @@ const streaks = [
   {
     "NAF Nr": "41473",
     "NAF Name": "MrKnut0",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 0,
@@ -579710,7 +579710,7 @@ const streaks = [
   {
     "NAF Nr": "41475",
     "NAF Name": "El_Darky",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 4,
@@ -595658,7 +595658,7 @@ const streaks = [
   {
     "NAF Nr": "42366",
     "NAF Name": "Macac0lino_tiradados",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "victoryStreak": 0,
     "bestVictoryStreak": 0,

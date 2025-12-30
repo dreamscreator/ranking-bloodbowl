@@ -66544,7 +66544,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "24768",
     "NAF Name": "Don_Juanfra",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -68275,7 +68275,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "25211",
     "NAF Name": "Kramerkiller",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -121791,7 +121791,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "41391",
     "NAF Name": "Andresito",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",
@@ -121816,7 +121816,7 @@ const statsRaceLizardmen = [
   {
     "NAF Nr": "41427",
     "NAF Name": "fernanghost",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "15",
     "raceName": "Lizardmen",

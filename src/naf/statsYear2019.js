@@ -84197,7 +84197,7 @@ const statsYear2019 = [
   {
     "NAF Nr": "24765",
     "NAF Name": "Sinkhole",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "rating": 144.55121265973193,
     "bestRating": 151.29780919277144,
@@ -84248,7 +84248,7 @@ const statsYear2019 = [
   {
     "NAF Nr": "24768",
     "NAF Name": "Don_Juanfra",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "rating": 129.6481799130888,
     "bestRating": 150.2540709762316,
@@ -84276,7 +84276,7 @@ const statsYear2019 = [
   {
     "NAF Nr": "24769",
     "NAF Name": "Conde_Merluzord",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "rating": 158.3225433630571,
     "bestRating": 158.3225433630571,
@@ -88950,7 +88950,7 @@ const statsYear2019 = [
   {
     "NAF Nr": "25211",
     "NAF Name": "Kramerkiller",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 155.86591250071208,
     "bestRating": 155.86591250071208,

@@ -58817,7 +58817,7 @@ const statsYear2022 = [
   {
     "NAF Nr": "25211",
     "NAF Name": "Kramerkiller",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 149.65587537816086,
     "bestRating": 155.3439272180401,
@@ -86955,7 +86955,7 @@ const statsYear2022 = [
   {
     "NAF Nr": "29036",
     "NAF Name": "Inaky",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 157.40522160379004,
     "bestRating": 157.40522160379004,

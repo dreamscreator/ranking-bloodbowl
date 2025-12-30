@@ -104672,7 +104672,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "24769",
     "NAF Name": "Conde_Merluzord",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -131172,7 +131172,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "29036",
     "NAF Name": "Inaky",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -147487,7 +147487,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "32416",
     "NAF Name": "Kiffie",
-    "CCAA": "Andalucía",
+    "CCAA": "Andalucía/Ceuta",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -176161,7 +176161,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "41391",
     "NAF Name": "Andresito",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",
@@ -176234,7 +176234,7 @@ const statsRaceOrc = [
   {
     "NAF Nr": "41409",
     "NAF Name": "ZAMUEH",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "1",
     "raceName": "Orc",

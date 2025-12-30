@@ -98810,7 +98810,7 @@ const statsRaceChaos_Dwarf = [
   {
     "NAF Nr": "41387",
     "NAF Name": "Gimlinegro",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "9",
     "raceName": "Chaos Dwarf",

@@ -122176,7 +122176,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "39712",
     "NAF Name": "prisma",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "11",
     "raceName": "Shambling Undead",
@@ -124921,7 +124921,7 @@ const statsRaceShambling_Undead = [
   {
     "NAF Nr": "41390",
     "NAF Name": "Arcaneo",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "11",
     "raceName": "Shambling Undead",

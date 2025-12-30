@@ -79293,7 +79293,7 @@ const statsRaceSkaven = [
   {
     "NAF Nr": "25211",
     "NAF Name": "Kramerkiller",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",

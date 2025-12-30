@@ -67363,7 +67363,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "34583",
     "NAF Name": "Fern",
-    "CCAA": "Apatrida",
+    "CCAA": "Ceuta",
     "Country": "Spain",
     "raceId": "20",
     "raceName": "Ogre",
@@ -73174,7 +73174,7 @@ const statsRaceOgre = [
   {
     "NAF Nr": "40286",
     "NAF Name": "GutY",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "raceId": "20",
     "raceName": "Ogre",

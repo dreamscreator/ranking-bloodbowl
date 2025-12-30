@@ -87880,7 +87880,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "24765",
     "NAF Name": "Sinkhole",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía ",
     "Country": "Spain",
     "rating": 149.7119504637652,
     "bestRating": 149.7119504637652,
@@ -93608,7 +93608,7 @@ const statsYear2018 = [
   {
     "NAF Nr": "25211",
     "NAF Name": "Kramerkiller",
-    "CCAA": "Apatrida",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 140.20211502104348,
     "bestRating": 160.44640750214197,
