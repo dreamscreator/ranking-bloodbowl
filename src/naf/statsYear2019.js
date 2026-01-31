@@ -37493,6 +37493,15 @@ const statsYear2019 = [
     "gamesLost": 10,
     "gamesTotal": 44,
     "winRatio": 65.91,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       196.34808327524343,
       199.89528466318131,
@@ -40357,6 +40366,15 @@ const statsYear2019 = [
     "gamesLost": 15,
     "gamesTotal": 61,
     "winRatio": 64.75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       215.90217086334204,
       218.50148738324725,
@@ -48376,7 +48394,7 @@ const statsYear2019 = [
     "NAF Nr": "20568",
     "NAF Name": "Pepe",
     "CCAA": "Apatrida",
-    "Country": "Switzerland",
+    "Country": "Germany",
     "rating": 118.0500548879166,
     "bestRating": 142.25403330758516,
     "worstRating": 117.52914223294314,
@@ -48611,6 +48629,15 @@ const statsYear2019 = [
     "gamesLost": 10,
     "gamesTotal": 42,
     "winRatio": 61.9,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       183.31523827378678,
       188.44432425477572,
@@ -69107,7 +69134,7 @@ const statsYear2019 = [
   },
   {
     "NAF Nr": "23169",
-    "NAF Name": "Rafiky",
+    "NAF Name": "rafa_hell",
     "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 148.68209115217485,
@@ -72747,16 +72774,16 @@ const statsYear2019 = [
     "NAF Name": "landphil",
     "CCAA": "Apatrida",
     "Country": "United States Of America",
-    "rating": 155.0921634666233,
+    "rating": 154.8809572142825,
     "bestRating": 155.762440788134,
     "worstRating": 149.69106662823168,
-    "tendency": 5.121825838007453,
+    "tendency": 4.9106195856666375,
     "tournaments": 3,
     "gamesWon": 3,
-    "gamesDraw": 4,
+    "gamesDraw": 5,
     "gamesLost": 1,
-    "gamesTotal": 8,
-    "winRatio": 62.5,
+    "gamesTotal": 9,
+    "winRatio": 61.11,
     "_lastTenRatingsYear": [
       149.97033762861585,
       155.762440788134,
@@ -72765,7 +72792,8 @@ const statsYear2019 = [
       150.35871102708674,
       150.15151428272105,
       152.5978532198476,
-      155.0921634666233
+      152.38260160426987,
+      154.8809572142825
     ]
   },
   {
@@ -73591,10 +73619,10 @@ const statsYear2019 = [
     "NAF Name": "xrishadowchaser",
     "CCAA": "Apatrida",
     "Country": "United States Of America",
-    "rating": 152.48781142715092,
+    "rating": 152.483766063914,
     "bestRating": 155.43208324198204,
     "worstRating": 149.78498808162198,
-    "tendency": -2.9442718148311258,
+    "tendency": -2.948317178068038,
     "tournaments": 2,
     "gamesWon": 3,
     "gamesDraw": 1,
@@ -73607,7 +73635,7 @@ const statsYear2019 = [
       149.79556268393563,
       152.12583329146292,
       154.98212167392663,
-      152.48781142715092
+      152.483766063914
     ]
   },
   {
@@ -84103,7 +84131,7 @@ const statsYear2019 = [
   },
   {
     "NAF Nr": "24759",
-    "NAF Name": "lord_relictor",
+    "NAF Name": "TripWire",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 127.74451434222385,
@@ -90426,7 +90454,7 @@ const statsYear2019 = [
     "NAF Nr": "25312",
     "NAF Name": "ironbreaker",
     "CCAA": "Apatrida",
-    "Country": "Portugal",
+    "Country": "Luxembourg",
     "rating": 143.83054261416663,
     "bestRating": 165.50257373017445,
     "worstRating": 134.16206240667933,
@@ -91138,7 +91166,7 @@ const statsYear2019 = [
     "NAF Nr": "25373",
     "NAF Name": "Dr_SLM",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Luxembourg",
     "rating": 178.7652457675084,
     "bestRating": 180.50459719219495,
     "worstRating": 135.39456600986634,
@@ -103395,10 +103423,10 @@ const statsYear2019 = [
     "NAF Name": "p-wept",
     "CCAA": "Apatrida",
     "Country": "United States Of America",
-    "rating": 140.69002165975616,
+    "rating": 140.90135169510566,
     "bestRating": 154.64655666194585,
-    "worstRating": 140.69002165975616,
-    "tendency": -13.956535002189696,
+    "worstRating": 140.90135169510566,
+    "tendency": -13.745204966840191,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 2,
@@ -103410,9 +103438,8 @@ const statsYear2019 = [
       149.06084963261245,
       143.44928326881563,
       141.11901266128834,
-      141.11901266128834,
-      141.11901266128834,
-      140.69002165975616
+      141.33426427686607,
+      140.90135169510566
     ]
   },
   {
@@ -122327,10 +122354,10 @@ const statsYear2019 = [
     "NAF Name": "IronheartAlex",
     "CCAA": "Apatrida",
     "Country": "United States Of America",
-    "rating": 118.49229200930866,
+    "rating": 118.49621358953688,
     "bestRating": 144.5232029320078,
     "worstRating": 118.06330100777647,
-    "tendency": -26.030910922699135,
+    "tendency": -26.026989342470912,
     "tournaments": 3,
     "gamesWon": 0,
     "gamesDraw": 2,
@@ -122355,7 +122382,7 @@ const statsYear2019 = [
       121.54135137928472,
       120.00269202715033,
       118.06330100777647,
-      118.49229200930866
+      118.49621358953688
     ]
   },
   {
@@ -144076,7 +144103,7 @@ const statsYear2019 = [
   },
   {
     "NAF Nr": "28848",
-    "NAF Name": "NotSlimShady",
+    "NAF Name": "ChaosWelly",
     "CCAA": "Apatrida",
     "Country": "Wales",
     "rating": 153.42454186349656,

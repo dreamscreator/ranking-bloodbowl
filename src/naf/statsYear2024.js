@@ -10489,7 +10489,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "9244",
-    "NAF Name": "spknox",
+    "NAF Name": "UKnighted",
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 180.6048988495524,
@@ -11911,7 +11911,7 @@ const statsYear2024 = [
     "winRatio": 72.22,
     "trophies": {
       "winner": 0,
-      "runnerup": 1,
+      "runnerup": 2,
       "touchdowns": 0,
       "casualties": 0,
       "stuntycup": 0,
@@ -14773,10 +14773,10 @@ const statsYear2024 = [
     "NAF Name": "Anguita",
     "CCAA": "Euskadi",
     "Country": "Spain",
-    "rating": 174.17896778773547,
+    "rating": 173.52303171604697,
     "bestRating": 176.93513156518475,
     "worstRating": 156.34629375987905,
-    "tendency": -0.08723977983598274,
+    "tendency": 4.5018711722264015,
     "tournaments": 7,
     "gamesWon": 13,
     "gamesDraw": 10,
@@ -14793,16 +14793,16 @@ const statsYear2024 = [
       "otherawards": 0
     },
     "_lastTenRatingsYear": [
+      169.02116054382057,
       174.26620756757146,
       171.8847332867792,
       176.93513156518475,
       170.03817351523247,
       175.19462514268545,
-      175.19462514268545,
-      175.19462514268545,
-      168.489087328477,
-      169.8622587921921,
-      174.17896778773547
+      174.45028544495133,
+      167.7759874327323,
+      169.1782568926177,
+      173.52303171604697
     ]
   },
   {
@@ -23619,10 +23619,10 @@ const statsYear2024 = [
     "NAF Name": "amen0",
     "CCAA": "Cantabria",
     "Country": "Spain",
-    "rating": 191.77115165891942,
+    "rating": 191.74434620178462,
     "bestRating": 208.8838372753435,
     "worstRating": 152.89239869014568,
-    "tendency": -0.14400225374001252,
+    "tendency": -0.1708077108748114,
     "tournaments": 7,
     "gamesWon": 17,
     "gamesDraw": 5,
@@ -23647,8 +23647,8 @@ const statsYear2024 = [
       205.5008122986626,
       208.8838372753435,
       200.760028892554,
-      199.3868574288389,
-      191.77115165891942
+      199.35775943266864,
+      191.74434620178462
     ]
   },
   {
@@ -25002,16 +25002,16 @@ const statsYear2024 = [
     "NAF Name": "ibram",
     "CCAA": "Apatrida",
     "Country": "Spain",
-    "rating": 174.32237374422928,
-    "bestRating": 174.32237374422928,
+    "rating": 174.97497034000997,
+    "bestRating": 174.97497034000997,
     "worstRating": 142.66775267698705,
-    "tendency": 18.521480811758465,
+    "tendency": 14.073937140921942,
     "tournaments": 7,
     "gamesWon": 15,
-    "gamesDraw": 4,
+    "gamesDraw": 5,
     "gamesLost": 9,
-    "gamesTotal": 28,
-    "winRatio": 60.71,
+    "gamesTotal": 29,
+    "winRatio": 60.34,
     "trophies": {
       "winner": 0,
       "runnerup": 2,
@@ -25022,16 +25022,16 @@ const statsYear2024 = [
       "otherawards": 0
     },
     "_lastTenRatingsYear": [
-      155.80089293247082,
       160.90103319908803,
       166.59505465707943,
       169.8621732840439,
       164.96562020903758,
       158.38666393660827,
       157.9510547327297,
-      163.388473997393,
-      168.1454681172969,
-      174.32237374422928
+      158.6953944304638,
+      164.1005521136225,
+      168.82743807251285,
+      174.97497034000997
     ]
   },
   {
@@ -30193,7 +30193,7 @@ const statsYear2024 = [
     "gamesTotal": 56,
     "winRatio": 78.57,
     "trophies": {
-      "winner": 1,
+      "winner": 3,
       "runnerup": 2,
       "touchdowns": 1,
       "casualties": 0,
@@ -33102,7 +33102,7 @@ const statsYear2024 = [
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 0
+      "otherawards": 1
     },
     "_lastTenRatingsYear": [
       155.7830014603621,
@@ -41564,7 +41564,7 @@ const statsYear2024 = [
     "NAF Nr": "21229",
     "NAF Name": "seiei",
     "CCAA": "Apatrida",
-    "Country": "Belgium",
+    "Country": "Luxembourg",
     "rating": 173.66051746888925,
     "bestRating": 173.86263018648765,
     "worstRating": 146.70892322760093,
@@ -51515,7 +51515,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "23169",
-    "NAF Name": "Rafiky",
+    "NAF Name": "rafa_hell",
     "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 174.49832752367013,
@@ -53733,10 +53733,10 @@ const statsYear2024 = [
     "NAF Name": "guillerkawasaki",
     "CCAA": "Apatrida",
     "Country": "Spain",
-    "rating": 138.85376776166984,
+    "rating": 138.85382659036176,
     "bestRating": 166.9705627484771,
-    "worstRating": 138.85376776166984,
-    "tendency": -21.7015393719268,
+    "worstRating": 138.85382659036176,
+    "tendency": -21.70148054323488,
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 3,
@@ -53753,7 +53753,7 @@ const statsYear2024 = [
       151.39990640465612,
       145.81588841385945,
       139.5108397131807,
-      138.85376776166984
+      138.85382659036176
     ]
   },
   {
@@ -55778,10 +55778,10 @@ const statsYear2024 = [
     "NAF Name": "bruto",
     "CCAA": "Euskadi",
     "Country": "Spain",
-    "rating": 152.1406048455669,
+    "rating": 152.11201555927872,
     "bestRating": 157.5435189561166,
     "worstRating": 135.87628294154493,
-    "tendency": 1.3178126541184554,
+    "tendency": 1.2892233678302603,
     "tournaments": 6,
     "gamesWon": 10,
     "gamesDraw": 4,
@@ -55805,9 +55805,9 @@ const statsYear2024 = [
       154.79888122805093,
       150.65733566261824,
       150.75886627092623,
-      157.46440408513467,
-      157.51638145807783,
-      152.1406048455669
+      157.43316428314526,
+      157.4864979070621,
+      152.11201555927872
     ]
   },
   {
@@ -61003,7 +61003,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "24759",
-    "NAF Name": "lord_relictor",
+    "NAF Name": "TripWire",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 154.0308843887563,
@@ -62166,10 +62166,10 @@ const statsYear2024 = [
     "NAF Name": "Chucksters",
     "CCAA": "Euskadi",
     "Country": "Spain",
-    "rating": 169.37125776819067,
-    "bestRating": 169.37125776819067,
+    "rating": 169.36996350346314,
+    "bestRating": 169.36996350346314,
     "worstRating": 145.47649579014376,
-    "tendency": 17.72213191503377,
+    "tendency": 17.720837650306237,
     "tournaments": 4,
     "gamesWon": 7,
     "gamesDraw": 7,
@@ -62186,7 +62186,7 @@ const statsYear2024 = [
       159.17555007737874,
       163.81391381821433,
       163.99548115567976,
-      169.37125776819067
+      169.36996350346314
     ]
   },
   {
@@ -65037,7 +65037,7 @@ const statsYear2024 = [
     "NAF Nr": "25312",
     "NAF Name": "ironbreaker",
     "CCAA": "Apatrida",
-    "Country": "Portugal",
+    "Country": "Luxembourg",
     "rating": 169.1602728170112,
     "bestRating": 173.70861435763243,
     "worstRating": 150.0224632935176,
@@ -65198,7 +65198,7 @@ const statsYear2024 = [
     "NAF Nr": "25373",
     "NAF Name": "Dr_SLM",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Luxembourg",
     "rating": 170.08912221181083,
     "bestRating": 170.53620994965982,
     "worstRating": 145.17732366556518,
@@ -78701,10 +78701,10 @@ const statsYear2024 = [
     "NAF Name": "Olymau",
     "CCAA": "Euskadi",
     "Country": "Spain",
-    "rating": 173.9802724424462,
+    "rating": 174.00964580188145,
     "bestRating": 180.15717806937857,
     "worstRating": 146.08030018919368,
-    "tendency": 27.899972253252514,
+    "tendency": 27.92934561268777,
     "tournaments": 2,
     "gamesWon": 6,
     "gamesDraw": 2,
@@ -78721,7 +78721,7 @@ const statsYear2024 = [
       175.45121688195744,
       179.79993974966516,
       180.15717806937857,
-      173.9802724424462
+      174.00964580188145
     ]
   },
   {
@@ -103815,10 +103815,10 @@ const statsYear2024 = [
     "NAF Name": "barakataka",
     "CCAA": "Euskadi",
     "Country": "Spain",
-    "rating": 164.66549779057556,
-    "bestRating": 164.66549779057556,
+    "rating": 164.6642001321891,
+    "bestRating": 164.6642001321891,
     "worstRating": 119.48516234636034,
-    "tendency": 10.893086388684708,
+    "tendency": 10.89178873029826,
     "tournaments": 9,
     "gamesWon": 16,
     "gamesDraw": 9,
@@ -103843,8 +103843,8 @@ const statsYear2024 = [
       152.7878978821077,
       153.07755967648743,
       158.6615776672841,
-      158.60960029434094,
-      164.66549779057556
+      158.60824404336725,
+      164.6642001321891
     ]
   },
   {
@@ -118723,7 +118723,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "32095",
-    "NAF Name": "sidsiddo",
+    "NAF Name": "Siddo",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 138.4888644709933,
@@ -121467,10 +121467,10 @@ const statsYear2024 = [
     "NAF Name": "txentxo",
     "CCAA": "Apatrida",
     "Country": "Spain",
-    "rating": 132.45988410807186,
+    "rating": 132.488691173107,
     "bestRating": 152.4412136845778,
-    "worstRating": 132.45988410807186,
-    "tendency": -19.981329576505942,
+    "worstRating": 132.488691173107,
+    "tendency": -19.952522511470818,
     "tournaments": 3,
     "gamesWon": 3,
     "gamesDraw": 2,
@@ -121486,8 +121486,8 @@ const statsYear2024 = [
       141.58585529163327,
       136.18051615140865,
       142.4854263581447,
-      137.7284322382408,
-      132.45988410807186
+      137.75854039925437,
+      132.488691173107
     ]
   },
   {
@@ -122337,7 +122337,7 @@ const statsYear2024 = [
   {
     "NAF Nr": "32416",
     "NAF Name": "Kiffie",
-    "CCAA": "Andalucía/Ceuta",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 145.97469277283358,
     "bestRating": 146.5192021846722,
@@ -122910,7 +122910,7 @@ const statsYear2024 = [
     "NAF Nr": "32449",
     "NAF Name": "GeorgesLeYeti",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Luxembourg",
     "rating": 168.32207175436767,
     "bestRating": 201.69190359792043,
     "worstRating": 152.70245804486441,
@@ -123074,7 +123074,7 @@ const statsYear2024 = [
     "NAF Nr": "32474",
     "NAF Name": "tibor",
     "CCAA": "Apatrida",
-    "Country": "Undisclosed",
+    "Country": "Scotland",
     "rating": 143.59666690923032,
     "bestRating": 155.65685424949237,
     "worstRating": 143.59666690923032,
@@ -125648,7 +125648,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "32672",
-    "NAF Name": "varone",
+    "NAF Name": "Camisarayas",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 113.70831972078905,
@@ -133860,7 +133860,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "33407",
-    "NAF Name": "kbotcraft",
+    "NAF Name": "Eldelrol",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "rating": 161.83521086031257,
@@ -144865,10 +144865,10 @@ const statsYear2024 = [
     "NAF Name": "txantxi",
     "CCAA": "Apatrida",
     "Country": "Spain",
-    "rating": 159.94112376439747,
+    "rating": 159.96971933863327,
     "bestRating": 160.67550460201164,
     "worstRating": 146.32464878195916,
-    "tendency": 4.284269514905105,
+    "tendency": 4.3128650891408995,
     "tournaments": 2,
     "gamesWon": 5,
     "gamesDraw": 1,
@@ -144883,9 +144883,9 @@ const statsYear2024 = [
       146.32464878195916,
       152.9960339954232,
       152.8945033871152,
-      147.4570841224519,
-      152.325417994478,
-      159.94112376439747
+      147.4893457039565,
+      152.35630610774925,
+      159.96971933863327
     ]
   },
   {
@@ -145716,10 +145716,10 @@ const statsYear2024 = [
     "NAF Name": "tipodeincognito2",
     "CCAA": "Apatrida",
     "Country": "Spain",
-    "rating": 151.95451156835088,
-    "bestRating": 151.95451156835088,
+    "rating": 151.95581266432933,
+    "bestRating": 151.95581266432933,
     "worstRating": 146.6169750233191,
-    "tendency": 5.3375365450317815,
+    "tendency": 5.33883764101023,
     "tournaments": 1,
     "gamesWon": 2,
     "gamesDraw": 0,
@@ -145730,7 +145730,7 @@ const statsYear2024 = [
       146.6169750233191,
       150.9719267420177,
       146.68596343818194,
-      151.95451156835088
+      151.95581266432933
     ]
   },
   {
@@ -154335,7 +154335,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "35241",
-    "NAF Name": "danielbrowning88",
+    "NAF Name": "GreenSkinDan",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 147.0954974037526,
@@ -156221,10 +156221,10 @@ const statsYear2024 = [
     "NAF Name": "hasuth",
     "CCAA": "Apatrida",
     "Country": "Spain",
-    "rating": 161.75973449776828,
+    "rating": 161.75967590518104,
     "bestRating": 173.54646544049373,
     "worstRating": 155.48262142141243,
-    "tendency": -11.477799060181098,
+    "tendency": -11.477857652768336,
     "tournaments": 4,
     "gamesWon": 7,
     "gamesDraw": 7,
@@ -156241,7 +156241,7 @@ const statsYear2024 = [
       161.16449118050085,
       167.99719933146832,
       167.8156319940029,
-      161.75973449776828
+      161.75967590518104
     ]
   },
   {
@@ -170664,7 +170664,7 @@ const statsYear2024 = [
     "NAF Nr": "36617",
     "NAF Name": "kiri",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Luxembourg",
     "rating": 131.33310665104912,
     "bestRating": 165.14328381982722,
     "worstRating": 131.33310665104912,
@@ -171847,7 +171847,7 @@ const statsYear2024 = [
     "NAF Nr": "36711",
     "NAF Name": "hiero",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Luxembourg",
     "rating": 168.63283014273256,
     "bestRating": 168.63283014273256,
     "worstRating": 131.86422705234122,
@@ -177084,10 +177084,10 @@ const statsYear2024 = [
     "NAF Name": "Leia",
     "CCAA": "Apatrida",
     "Country": "Spain",
-    "rating": 134.0816891828182,
+    "rating": 134.05362335493228,
     "bestRating": 150.06353705903675,
-    "worstRating": 134.0816891828182,
-    "tendency": -15.981847876218552,
+    "worstRating": 134.05362335493228,
+    "tendency": -16.009913704104463,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 1,
@@ -177107,7 +177107,7 @@ const statsYear2024 = [
       150.06353705903675,
       143.45732431188094,
       138.39839817836156,
-      134.0816891828182
+      134.05362335493228
     ]
   },
   {
@@ -188233,10 +188233,10 @@ const statsYear2024 = [
     "NAF Name": "larra",
     "CCAA": "Apatrida",
     "Country": "Spain",
-    "rating": 124.96565063584359,
+    "rating": 124.96696527538501,
     "bestRating": 144.2578436351818,
-    "worstRating": 124.30857868433274,
-    "tendency": -19.292192999338226,
+    "worstRating": 124.30995215256607,
+    "tendency": -19.290878359796807,
     "tournaments": 2,
     "gamesWon": 0,
     "gamesDraw": 1,
@@ -188248,8 +188248,8 @@ const statsYear2024 = [
       139.7558562637753,
       134.28548499929084,
       129.17691255635881,
-      124.30857868433274,
-      124.96565063584359
+      124.30995215256607,
+      124.96696527538501
     ]
   },
   {
@@ -213365,7 +213365,7 @@ const statsYear2024 = [
     "NAF Nr": "39576",
     "NAF Name": "BriçouB2",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Luxembourg",
     "rating": 145.9801658784644,
     "bestRating": 149.51294806643457,
     "worstRating": 145.02349994457748,
@@ -217924,28 +217924,6 @@ const statsYear2024 = [
     ]
   },
   {
-    "NAF Nr": "39953",
-    "NAF Name": "barritas",
-    "CCAA": "Apatrida",
-    "Country": "Ladonia",
-    "rating": 139.0375898105764,
-    "bestRating": 149.1202514766793,
-    "worstRating": 139.0375898105764,
-    "tendency": -6.109203930290732,
-    "tournaments": 1,
-    "gamesWon": 1,
-    "gamesDraw": 0,
-    "gamesLost": 3,
-    "gamesTotal": 4,
-    "winRatio": 25,
-    "_lastTenRatingsYear": [
-      145.14679374086714,
-      149.1202514766793,
-      144.75257027368443,
-      139.0375898105764
-    ]
-  },
-  {
     "NAF Nr": "39954",
     "NAF Name": "serrano02",
     "CCAA": "Apatrida",
@@ -218117,6 +218095,28 @@ const statsYear2024 = [
       143.53665877652566,
       150.11561504895496,
       144.6858606573271
+    ]
+  },
+  {
+    "NAF Nr": "39966",
+    "NAF Name": "Barritas08",
+    "CCAA": "Apatrida",
+    "Country": "Ladonia",
+    "rating": 139.0375898105764,
+    "bestRating": 149.1202514766793,
+    "worstRating": 139.0375898105764,
+    "tendency": -6.109203930290732,
+    "tournaments": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "gamesTotal": 4,
+    "winRatio": 25,
+    "_lastTenRatingsYear": [
+      145.14679374086714,
+      149.1202514766793,
+      144.75257027368443,
+      139.0375898105764
     ]
   },
   {

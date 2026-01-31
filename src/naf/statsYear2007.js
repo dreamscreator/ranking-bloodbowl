@@ -19997,7 +19997,7 @@ const statsYear2007 = [
   },
   {
     "NAF Nr": "9244",
-    "NAF Name": "spknox",
+    "NAF Name": "UKnighted",
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 153.36163096350145,

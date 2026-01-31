@@ -169,7 +169,7 @@ const statsYear2021Bbt = [
   },
   {
     "NAF Nr": "21596",
-    "NAF Name": "Apostol del Gas",
+    "NAF Name": "APOSTOL_DEL_GAS",
     "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 155.4324070241296,

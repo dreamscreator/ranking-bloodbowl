@@ -13684,7 +13684,7 @@ const statsYear2014 = [
     "gamesTotal": 55,
     "winRatio": 60.91,
     "trophies": {
-      "winner": 0,
+      "winner": 1,
       "runnerup": 0,
       "touchdowns": 1,
       "casualties": 0,
@@ -22185,7 +22185,7 @@ const statsYear2014 = [
     "gamesTotal": 79,
     "winRatio": 76.58,
     "trophies": {
-      "winner": 2,
+      "winner": 3,
       "runnerup": 5,
       "touchdowns": 1,
       "casualties": 2,
@@ -42673,7 +42673,7 @@ const statsYear2014 = [
     "gamesTotal": 30,
     "winRatio": 73.33,
     "trophies": {
-      "winner": 0,
+      "winner": 1,
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 0,
@@ -55785,7 +55785,7 @@ const statsYear2014 = [
     "NAF Nr": "20262",
     "NAF Name": "kurrobcn",
     "CCAA": "Apatrida",
-    "Country": "Spain",
+    "Country": "Undisclosed",
     "rating": 152.0712602758961,
     "bestRating": 152.0712602758961,
     "worstRating": 145.06408990552518,
@@ -60210,7 +60210,7 @@ const statsYear2014 = [
     "NAF Nr": "20568",
     "NAF Name": "Pepe",
     "CCAA": "Apatrida",
-    "Country": "Switzerland",
+    "Country": "Germany",
     "rating": 120.84708584133864,
     "bestRating": 150.16271463435194,
     "worstRating": 120.84708584133864,
@@ -61152,28 +61152,6 @@ const statsYear2014 = [
       145.5688177510953,
       145.39071470760757,
       145.3923617328257
-    ]
-  },
-  {
-    "NAF Nr": "20627",
-    "NAF Name": "rudzianski",
-    "CCAA": "Apatrida",
-    "Country": "United States Of America",
-    "rating": 145.43481803991517,
-    "bestRating": 145.5830083433101,
-    "worstRating": 145.30958424017658,
-    "tendency": 0.12523379973859505,
-    "tournaments": 1,
-    "gamesWon": 0,
-    "gamesDraw": 3,
-    "gamesLost": 1,
-    "gamesTotal": 4,
-    "winRatio": 37.5,
-    "_lastTenRatingsYear": [
-      145.30958424017658,
-      145.5830083433101,
-      145.4364650651333,
-      145.43481803991517
     ]
   },
   {
@@ -66206,6 +66184,28 @@ const statsYear2014 = [
       153.0080211222112,
       149.8791605267217,
       146.1593837005971
+    ]
+  },
+  {
+    "NAF Nr": "21467",
+    "NAF Name": "bluedaybreak",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "rating": 145.43481803991517,
+    "bestRating": 145.5830083433101,
+    "worstRating": 145.30958424017658,
+    "tendency": 0.12523379973859505,
+    "tournaments": 1,
+    "gamesWon": 0,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "gamesTotal": 4,
+    "winRatio": 37.5,
+    "_lastTenRatingsYear": [
+      145.30958424017658,
+      145.5830083433101,
+      145.4364650651333,
+      145.43481803991517
     ]
   }
 ];

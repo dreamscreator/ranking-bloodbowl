@@ -352,7 +352,7 @@ const statsYear2023Bbt = [
   },
   {
     "NAF Nr": "21596",
-    "NAF Name": "Apostol del Gas",
+    "NAF Name": "APOSTOL_DEL_GAS",
     "CCAA": "Euskadi",
     "Country": "Spain",
     "rating": 161.8289283332158,
@@ -512,6 +512,34 @@ const statsYear2023Bbt = [
     ]
   },
   {
+    "NAF Nr": "0",
+    "NAF Name": "zgzpimp",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "rating": 135.1954725210329,
+    "bestRating": 144.34314575050763,
+    "worstRating": 131.51060731334255,
+    "tendency": 2.169529985455796,
+    "tournaments": 3,
+    "gamesWon": 3,
+    "gamesDraw": 4,
+    "gamesLost": 6,
+    "gamesTotal": 13,
+    "winRatio": 38.46,
+    "_lastTenRatingsYear": [
+      133.02594253557712,
+      137.12778860526257,
+      140.71902535141282,
+      137.85408697216351,
+      138.19107988543567,
+      135.43434288315305,
+      131.51060731334255,
+      132.04279941079625,
+      134.90916904556016,
+      135.1954725210329
+    ]
+  },
+  {
     "NAF Nr": "34880",
     "NAF Name": "Baranir",
     "CCAA": "Apatrida",
@@ -558,34 +586,6 @@ const statsYear2023Bbt = [
       178.40664343816545,
       183.09962591344788,
       179.40335411257362
-    ]
-  },
-  {
-    "NAF Nr": "0",
-    "NAF Name": "zgzpimp",
-    "CCAA": "Apatrida",
-    "Country": "Spain",
-    "rating": 135.1954725210329,
-    "bestRating": 144.34314575050763,
-    "worstRating": 131.51060731334255,
-    "tendency": 2.169529985455796,
-    "tournaments": 3,
-    "gamesWon": 3,
-    "gamesDraw": 4,
-    "gamesLost": 6,
-    "gamesTotal": 13,
-    "winRatio": 38.46,
-    "_lastTenRatingsYear": [
-      133.02594253557712,
-      137.12778860526257,
-      140.71902535141282,
-      137.85408697216351,
-      138.19107988543567,
-      135.43434288315305,
-      131.51060731334255,
-      132.04279941079625,
-      134.90916904556016,
-      135.1954725210329
     ]
   },
   {

@@ -17463,7 +17463,7 @@ const statsYear2009 = [
   },
   {
     "NAF Nr": "9244",
-    "NAF Name": "spknox",
+    "NAF Name": "UKnighted",
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "rating": 145.36364127597938,
@@ -21790,10 +21790,10 @@ const statsYear2009 = [
     "NAF Name": "rabid-squig",
     "CCAA": "Apatrida",
     "Country": "Scotland",
-    "rating": 141.45741580275103,
-    "bestRating": 152.59294452841107,
-    "worstRating": 141.45741580275103,
-    "tendency": -8.922195780649929,
+    "rating": 151.6141174770052,
+    "bestRating": 151.96335228173797,
+    "worstRating": 147.02518016558105,
+    "tendency": 1.2345058936042506,
     "tournaments": 1,
     "gamesWon": 1,
     "gamesDraw": 3,
@@ -21805,8 +21805,7 @@ const statsYear2009 = [
       150.0172959804312,
       151.96335228173797,
       147.02518016558105,
-      152.59294452841107,
-      141.45741580275103
+      151.6141174770052
     ]
   },
   {
@@ -28744,22 +28743,23 @@ const statsYear2009 = [
     "NAF Name": "eion755",
     "CCAA": "Apatrida",
     "Country": "England",
-    "rating": 123.87971341597395,
+    "rating": 119.29077610454979,
     "bestRating": 145.40279148103423,
-    "worstRating": 123.87971341597395,
-    "tendency": -21.523078065060275,
+    "worstRating": 119.29077610454979,
+    "tendency": -26.112015376484436,
     "tournaments": 1,
     "gamesWon": 0,
     "gamesDraw": 0,
-    "gamesLost": 5,
-    "gamesTotal": 5,
+    "gamesLost": 6,
+    "gamesTotal": 6,
     "winRatio": 0,
     "_lastTenRatingsYear": [
       145.40279148103423,
       140.00777531103392,
       133.85340310911684,
       129.10805267589623,
-      123.87971341597395
+      123.87971341597395,
+      119.29077610454979
     ]
   },
   {
@@ -38755,7 +38755,7 @@ const statsYear2009 = [
     "NAF Nr": "13739",
     "NAF Name": "Toad",
     "CCAA": "Apatrida",
-    "Country": "United States Of America",
+    "Country": "England",
     "rating": 135.56955682282248,
     "bestRating": 140.11601409745703,
     "worstRating": 125.9301749342354,

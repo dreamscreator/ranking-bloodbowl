@@ -49713,7 +49713,7 @@ const statsYear2016 = [
     "NAF Nr": "20568",
     "NAF Name": "Pepe",
     "CCAA": "Apatrida",
-    "Country": "Switzerland",
+    "Country": "Germany",
     "rating": 146.34555822977944,
     "bestRating": 146.34555822977944,
     "worstRating": 142.345632724568,
