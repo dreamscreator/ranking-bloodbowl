@@ -6,23 +6,48 @@ const halfling2025 = [
     "Country": "Cayman Islands",
     "raceId": "8",
     "raceName": "Halfling",
-    "gamesTotal": 3,
+    "gamesTotal": 5,
     "gamesWon": 1,
     "gamesDraw": 0,
-    "gamesLost": 2,
+    "gamesLost": 4,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 33.33,
-    "rating": 142.58223009244813,
+    "totalTournaments": 2,
+    "winRatio": 20,
+    "rating": 140.0659327592404,
     "bestRating": 146.53589838486224,
-    "worstRating": 139.009867214245,
+    "worstRating": 139.00903836227783,
     "_lastTenRatings": [
       146.53589838486224,
       143.07179676972447,
-      139.009867214245,
-      142.58223009244813
+      139.00903836227783,
+      142.5833842501355,
+      145.38262039653313,
+      142.90314921834312,
+      140.0659327592404
     ],
-    "tendency": -3.9536682924141076
+    "tendency": -6.469965625621825
+  },
+  {
+    "NAF Nr": "2460",
+    "NAF Name": "KaduC",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 1,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "rating": 155.65685424949237,
+    "bestRating": 155.65685424949237,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "3228",
@@ -38,18 +63,18 @@ const halfling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 58.33,
-    "rating": 153.5331504608463,
-    "bestRating": 157.26864284425207,
-    "worstRating": 146.25834261322606,
+    "rating": 153.42133197664606,
+    "bestRating": 157.1535181925177,
+    "worstRating": 146.1389952973747,
     "_lastTenRatings": [
-      150,
-      146.25834261322606,
-      150,
-      153.74165738677394,
-      157.26864284425207,
-      153.5331504608463
+      149.87712389458036,
+      146.1389952973747,
+      149.87797851824092,
+      153.62314015128175,
+      157.1535181925177,
+      153.42133197664606
     ],
-    "tendency": 3.5331504608462865
+    "tendency": 3.544208082065694
   },
   {
     "NAF Nr": "6060",
@@ -76,6 +101,40 @@ const halfling2025 = [
       138.68629150101526
     ],
     "tendency": -16.970562748477107
+  },
+  {
+    "NAF Nr": "6737",
+    "NAF Name": "Twyllenimor",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 155.3532177202799,
+    "bestRating": 155.3532177202799,
+    "worstRating": 145.30958424017658,
+    "_lastTenRatings": [
+      145.30958424017658,
+      150.0065902929626,
+      154.86555243819205,
+      155.3532177202799
+    ],
+    "tendency": 10.043633480103324
   },
   {
     "NAF Nr": "9711",
@@ -156,31 +215,37 @@ const halfling2025 = [
     "Country": "Spain",
     "raceId": "8",
     "raceName": "Halfling",
-    "gamesTotal": 3,
-    "gamesWon": 2,
+    "gamesTotal": 9,
+    "gamesWon": 7,
     "gamesDraw": 0,
-    "gamesLost": 1,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 66.67,
+    "totalTournaments": 2,
+    "winRatio": 77.78,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 0,
-      "stuntycup": 1,
+      "stuntycup": 2,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 2
     },
-    "rating": 155.47722557505165,
-    "bestRating": 155.47722557505165,
+    "rating": 183.74129936118797,
+    "bestRating": 185.23346427889945,
     "worstRating": 150,
     "_lastTenRatings": [
-      155.47722557505165,
+      157.74596669241484,
       150,
-      155.47722557505165
+      157.74596669241484,
+      165.49193338482968,
+      173.26209675908856,
+      181.03687286526227,
+      185.23346427889945,
+      179.44191997800007,
+      183.74129936118797
     ],
-    "tendency": 0
+    "tendency": 25.99533266877313
   },
   {
     "NAF Nr": "17294",
@@ -214,6 +279,82 @@ const halfling2025 = [
       155.26141225720218
     ],
     "tendency": 9.35952023299808
+  },
+  {
+    "NAF Nr": "18508",
+    "NAF Name": "Da_Git",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 140.62529281022984,
+    "bestRating": 145.30958424017658,
+    "worstRating": 140.61916848035315,
+    "_lastTenRatings": [
+      145.30958424017658,
+      140.61916848035315,
+      140.6255215214325,
+      140.62529281022984
+    ],
+    "tendency": -4.6842914299467395
+  },
+  {
+    "NAF Nr": "18811",
+    "NAF Name": "AngryHobbit",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.6944571290729,
+    "bestRating": 144.6944571290729,
+    "worstRating": 144.4693781000294,
+    "_lastTenRatings": [
+      144.4693781000294,
+      144.69386276195254,
+      144.6944571290729
+    ],
+    "tendency": 0.2250790290435134
+  },
+  {
+    "NAF Nr": "18872",
+    "NAF Name": "stelacero",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 157.77972115139903,
+    "bestRating": 157.77972115139903,
+    "worstRating": 142.25403330758516,
+    "_lastTenRatings": [
+      142.25403330758516,
+      150,
+      150,
+      142.25403330758516,
+      150.02734655825017,
+      157.77972115139903
+    ],
+    "tendency": 15.52568784381387
   },
   {
     "NAF Nr": "18903",
@@ -255,17 +396,53 @@ const halfling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 0,
-    "rating": 124.05697281611575,
+    "rating": 123.88586326063233,
     "bestRating": 144.34314575050763,
-    "worstRating": 124.05697281611575,
+    "worstRating": 123.88586326063233,
     "_lastTenRatings": [
       144.34314575050763,
-      138.68629150101526,
-      133.51942444426018,
-      128.34155885797423,
-      124.05697281611575
+      138.48298444260655,
+      133.32487714470383,
+      128.15539677774797,
+      123.88586326063233
     ],
-    "tendency": -20.286172934391885
+    "tendency": -20.457282489875297
+  },
+  {
+    "NAF Nr": "20367",
+    "NAF Name": "barbancho",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
+    "rating": 157.74740740628297,
+    "bestRating": 157.74740740628297,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150,
+      157.74596669241484,
+      157.74596669241484,
+      150,
+      157.74740740628297
+    ],
+    "tendency": 0.0014407138681349352
   },
   {
     "NAF Nr": "21062",
@@ -281,18 +458,18 @@ const halfling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 138.1122977875227,
+    "rating": 138.11807179983663,
     "bestRating": 146,
     "worstRating": 138,
     "_lastTenRatings": [
       146,
       142,
       138,
-      141.99742752373584,
-      142.2390481490668,
-      138.1122977875227
+      142.00337833134057,
+      142.24481710793597,
+      138.11807179983663
     ],
-    "tendency": -7.887702212477308
+    "tendency": -7.881928200163372
   },
   {
     "NAF Nr": "23522",
@@ -319,6 +496,66 @@ const halfling2025 = [
       150.14364413053636
     ],
     "tendency": -4.328491824463214
+  },
+  {
+    "NAF Nr": "23749",
+    "NAF Name": "AlarmDelon",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 141.13789660121554,
+    "bestRating": 145.13933540496782,
+    "worstRating": 141.13789660121554,
+    "_lastTenRatings": [
+      144.9009804864072,
+      145.13933540496782,
+      141.13789660121554
+    ],
+    "tendency": -3.763083885191662
+  },
+  {
+    "NAF Nr": "24065",
+    "NAF Name": "Scouseboy",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 161.3043800939708,
+    "bestRating": 161.31370849898474,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      155.65685424949237,
+      161.31370849898474,
+      155.65685424949237,
+      161.3043800939708
+    ],
+    "tendency": 16.96123434346316
   },
   {
     "NAF Nr": "25398",
@@ -387,16 +624,16 @@ const halfling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 62.5,
-    "rating": 152.86323170959054,
-    "bestRating": 152.86323170959054,
+    "rating": 152.86254317785136,
+    "bestRating": 152.86254317785136,
     "worstRating": 146.53589838486224,
     "_lastTenRatings": [
       146.53589838486224,
       150.09208170661665,
-      150.07245914656355,
-      152.86323170959054
+      150.07257437465225,
+      152.86254317785136
     ],
-    "tendency": 6.327333324728301
+    "tendency": 6.3266447929891285
   },
   {
     "NAF Nr": "25850",
@@ -421,18 +658,18 @@ const halfling2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 156.66918781973598,
-    "bestRating": 162.36756752919078,
-    "worstRating": 150.48221355100407,
+    "rating": 156.44878762267743,
+    "bestRating": 162.0914392985809,
+    "worstRating": 149.7528239464077,
     "_lastTenRatings": [
-      150.48221355100407,
-      155.50635440113695,
-      156.00012578564704,
-      156.99815729057386,
-      162.36756752919078,
-      156.66918781973598
+      149.7528239464077,
+      154.48941728269807,
+      155.02735213283677,
+      156.06626534901014,
+      162.0914392985809,
+      156.44878762267743
     ],
-    "tendency": 6.186974268731916
+    "tendency": 6.695963676269741
   },
   {
     "NAF Nr": "25856",
@@ -490,14 +727,15 @@ const halfling2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 143.67544467966326,
+    "rating": 140.66478109509086,
     "bestRating": 146.83772233983163,
-    "worstRating": 143.67544467966326,
+    "worstRating": 140.66478109509086,
     "_lastTenRatings": [
       146.83772233983163,
-      143.67544467966326
+      143.75218244795374,
+      140.66478109509086
     ],
-    "tendency": -3.162277660168371
+    "tendency": -6.17294124474077
   },
   {
     "NAF Nr": "27840",
@@ -522,6 +760,39 @@ const halfling2025 = [
       150
     ],
     "tendency": -5.477225575051648
+  },
+  {
+    "NAF Nr": "27861",
+    "NAF Name": "mising",
+    "CCAA": "Murcia",
+    "Country": "Spain",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 157.7839030463892,
+    "bestRating": 157.7839030463892,
+    "worstRating": 154.2426406871193,
+    "_lastTenRatings": [
+      154.2426406871193,
+      157.76093949625803,
+      157.7839030463892
+    ],
+    "tendency": 3.541262359269922
   },
   {
     "NAF Nr": "27960",
@@ -557,6 +828,39 @@ const halfling2025 = [
     "tendency": -4.898979485566343
   },
   {
+    "NAF Nr": "28196",
+    "NAF Name": "Ionas",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 158.42127857279974,
+    "bestRating": 158.42127857279974,
+    "worstRating": 152.82842712474618,
+    "_lastTenRatings": [
+      152.82842712474618,
+      155.65685424949237,
+      158.42127857279974
+    ],
+    "tendency": 5.592851448053551
+  },
+  {
     "NAF Nr": "28989",
     "NAF Name": "Hamez",
     "CCAA": "Apatrida",
@@ -590,6 +894,146 @@ const halfling2025 = [
     "tendency": 7.486399818189028
   },
   {
+    "NAF Nr": "30516",
+    "NAF Name": "Haram",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 160.96607958185956,
+    "bestRating": 166.40946681153167,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.22690090486955,
+      160.2628887261921,
+      160.8905941896255,
+      166.40946681153167,
+      160.96607958185956
+    ],
+    "tendency": 10.96607958185956
+  },
+  {
+    "NAF Nr": "31224",
+    "NAF Name": "msfilling",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 8.33,
+    "rating": 112.58079836874836,
+    "bestRating": 150,
+    "worstRating": 112.58079836874836,
+    "_lastTenRatings": [
+      150,
+      142.25403330758516,
+      134.50806661517032,
+      127.20196537017583,
+      120.3438757989082,
+      112.58079836874836
+    ],
+    "tendency": -37.41920163125164
+  },
+  {
+    "NAF Nr": "31551",
+    "NAF Name": "Zimonyi",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 133.98765337104655,
+    "bestRating": 150,
+    "worstRating": 133.98765337104655,
+    "_lastTenRatings": [
+      142.25403330758516,
+      150,
+      142.25403330758516,
+      149.9540789243676,
+      142.19979299975168,
+      133.98765337104655
+    ],
+    "tendency": -8.266379936538613
+  },
+  {
+    "NAF Nr": "31836",
+    "NAF Name": "tostaky",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 5,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 90,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 172.39447112741766,
+    "bestRating": 172.39447112741766,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.61595968002806,
+      161.0291313107451,
+      166.72704379378578,
+      172.39447112741766
+    ],
+    "tendency": 22.39447112741766
+  },
+  {
+    "NAF Nr": "32672",
+    "NAF Name": "Camisarayas",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 133.26471524887427,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.26471524887427,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.26471524887427
+    ],
+    "tendency": -11.078430501633363
+  },
+  {
     "NAF Nr": "32758",
     "NAF Name": "Mammouth",
     "CCAA": "Apatrida",
@@ -612,18 +1056,44 @@ const halfling2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 137.78820949614138,
+    "rating": 137.78149846949958,
     "bestRating": 146.36576705345567,
-    "worstRating": 137.78820949614138,
+    "worstRating": 137.78149846949958,
     "_lastTenRatings": [
       146.25834261322606,
       142.51668522645213,
       146.36576705345567,
       142.01834348134625,
       142.1387783387581,
-      137.78820949614138
+      137.78149846949958
     ],
-    "tendency": -8.470133117084686
+    "tendency": -8.476844143726481
+  },
+  {
+    "NAF Nr": "32894",
+    "NAF Name": "telrunya",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 40,
+    "rating": 145.24941910106855,
+    "bestRating": 150.23448023939798,
+    "worstRating": 144.1372354116341,
+    "_lastTenRatings": [
+      144.34314575050763,
+      149.50028656065484,
+      144.1372354116341,
+      150.23448023939798,
+      145.24941910106855
+    ],
+    "tendency": 0.9062733505609231
   },
   {
     "NAF Nr": "33315",
@@ -648,6 +1118,39 @@ const halfling2025 = [
       146.2574254878017
     ],
     "tendency": -0.0009171254243653948
+  },
+  {
+    "NAF Nr": "33323",
+    "NAF Name": "Tyler_swaft",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 166.8311787838018,
+    "bestRating": 166.8311787838018,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.1675334947693,
+      166.8311787838018
+    ],
+    "tendency": 11.17432453430942
   },
   {
     "NAF Nr": "33566",
@@ -719,13 +1222,13 @@ const halfling2025 = [
     "Country": "Sweden",
     "raceId": "8",
     "raceName": "Halfling",
-    "gamesTotal": 5,
-    "gamesWon": 3,
-    "gamesDraw": 2,
-    "gamesLost": 0,
+    "gamesTotal": 11,
+    "gamesWon": 4,
+    "gamesDraw": 5,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 80,
+    "totalTournaments": 2,
+    "winRatio": 59.09,
     "trophies": {
       "winner": 0,
       "runnerup": 1,
@@ -735,17 +1238,47 @@ const halfling2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 166.9868476141338,
-    "bestRating": 166.9868476141338,
-    "worstRating": 155.65685424949237,
+    "rating": 162.86689483068355,
+    "bestRating": 162.86689483068355,
+    "worstRating": 143.55953210064578,
+    "_lastTenRatings": [
+      144.36200933097626,
+      144.69699285602155,
+      143.55953210064578,
+      151.68691339593795,
+      144.16528966995597,
+      149.7123053942468,
+      150.25968956992511,
+      156.15081013022962,
+      156.9783464953215,
+      162.86689483068355
+    ],
+    "tendency": 18.504885499707285
+  },
+  {
+    "NAF Nr": "34138",
+    "NAF Name": "samiatus",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 144.35380288735715,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       155.65685424949237,
-      155.675458045273,
-      161.3315045558932,
-      161.33073188739507,
-      166.9868476141338
+      150,
+      144.34314575050763,
+      144.35380288735715
     ],
-    "tendency": 11.329993364641439
+    "tendency": -11.303051362135221
   },
   {
     "NAF Nr": "34266",
@@ -987,24 +1520,29 @@ const halfling2025 = [
     "Country": "Sweden",
     "raceId": "8",
     "raceName": "Halfling",
-    "gamesTotal": 5,
-    "gamesWon": 2,
-    "gamesDraw": 0,
-    "gamesLost": 3,
+    "gamesTotal": 11,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 7,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 40,
-    "rating": 144.3495416141799,
+    "totalTournaments": 2,
+    "winRatio": 31.82,
+    "rating": 127.61293842767577,
     "bestRating": 150,
-    "worstRating": 144.34314575050763,
+    "worstRating": 121.12810726940394,
     "_lastTenRatings": [
-      144.34314575050763,
-      150,
-      144.34314575050763,
-      150,
-      144.3495416141799
+      142.7140085112525,
+      135.42801702250497,
+      128.51970080594444,
+      121.12810726940394,
+      129.74380283532057,
+      124.9594130545487,
+      131.47736115620063,
+      125.96317488552985,
+      132.46758852886734,
+      127.61293842767577
     ],
-    "tendency": 0.006395863672281621
+    "tendency": -15.10107008357673
   },
   {
     "NAF Nr": "37997",
@@ -1040,6 +1578,30 @@ const halfling2025 = [
     "tendency": 10.198039027185587
   },
   {
+    "NAF Nr": "38334",
+    "NAF Name": "spectre05",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.70246111390625,
+    "bestRating": 150.01767075795036,
+    "worstRating": 138.70246111390625,
+    "_lastTenRatings": [
+      150.01767075795036,
+      144.36004928018502,
+      138.70246111390625
+    ],
+    "tendency": -11.315209644044103
+  },
+  {
     "NAF Nr": "39264",
     "NAF Name": "IcelandicShayman",
     "CCAA": "Apatrida",
@@ -1062,18 +1624,18 @@ const halfling2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 134.54366014561217,
+    "rating": 134.5446128079738,
     "bestRating": 150.3361029074439,
     "worstRating": 134.53216350035635,
     "_lastTenRatings": [
       150.3361029074439,
       142.5701541041214,
       134.53216350035635,
-      142.29437809004295,
-      134.54601279987043,
-      134.54366014561217
+      142.2954549953748,
+      134.54702568050354,
+      134.5446128079738
     ],
-    "tendency": -15.792442761831722
+    "tendency": -15.791490099470082
   },
   {
     "NAF Nr": "39672",
@@ -1098,6 +1660,39 @@ const halfling2025 = [
       150.13360907542727
     ],
     "tendency": 4.376249762546564
+  },
+  {
+    "NAF Nr": "40058",
+    "NAF Name": "Brutus13",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 149.77769153051452,
+    "bestRating": 149.77769153051452,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      149.77769153051452
+    ],
+    "tendency": 5.434545780006886
   },
   {
     "NAF Nr": "40133",
@@ -1125,6 +1720,39 @@ const halfling2025 = [
       138.67517260435048
     ],
     "tendency": -5.667973146157152
+  },
+  {
+    "NAF Nr": "41627",
+    "NAF Name": "kc_chob",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 149.87727257063327,
+    "bestRating": 150,
+    "worstRating": 149.87727257063327,
+    "_lastTenRatings": [
+      150,
+      150,
+      149.87727257063327
+    ],
+    "tendency": -0.12272742936673353
   },
   {
     "NAF Nr": "42984",
@@ -1158,5 +1786,53 @@ const halfling2025 = [
       149.9939319086878
     ],
     "tendency": -0.006068091312187107
+  },
+  {
+    "NAF Nr": "43229",
+    "NAF Name": "joshua_laver",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.65339485502392,
+    "bestRating": 146.25834261322606,
+    "worstRating": 141.73579483365435,
+    "_lastTenRatings": [
+      146.25834261322606,
+      141.73579483365435,
+      144.65339485502392
+    ],
+    "tendency": -1.6049477582021439
+  },
+  {
+    "NAF Nr": "43443",
+    "NAF Name": "Nikita_Zebrov",
+    "CCAA": "Apatrida",
+    "Country": "Russia",
+    "raceId": "8",
+    "raceName": "Halfling",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.39237863359236,
+    "bestRating": 150,
+    "worstRating": 144.39237863359236,
+    "_lastTenRatings": [
+      150,
+      144.61483519286548,
+      144.39237863359236
+    ],
+    "tendency": -5.607621366407642
   }
 ];

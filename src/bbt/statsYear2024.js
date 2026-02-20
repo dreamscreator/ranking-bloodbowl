@@ -4,27 +4,27 @@ const statsYear2024Bbt = [
     "NAF Name": "Non-NAF",
     "CCAA": "Apatrida",
     "Country": "Spain",
-    "rating": 107.55288995588288,
+    "rating": 96.08004019222322,
     "bestRating": 153.605551275464,
     "worstRating": 83.3695534808024,
-    "tendency": 17.360049732479993,
-    "tournaments": 34,
-    "gamesWon": 62,
-    "gamesDraw": 67,
+    "tendency": 1.7881402412204181,
+    "tournaments": 33,
+    "gamesWon": 61,
+    "gamesDraw": 65,
     "gamesLost": 134,
-    "gamesTotal": 263,
-    "winRatio": 36.31,
+    "gamesTotal": 260,
+    "winRatio": 35.96,
     "_lastTenRatingsYear": [
+      94.2918999510028,
+      97.70887722228144,
+      94.03553954569198,
       90.19284022340288,
       93.95213595149183,
       92.03862593491547,
       92.84203042101697,
       91.20056574864813,
       92.3902343292811,
-      96.08004019222322,
-      97.78167109678883,
-      100.54569689627085,
-      107.55288995588288
+      96.08004019222322
     ]
   },
   {
@@ -1760,6 +1760,27 @@ const statsYear2024Bbt = [
     ]
   },
   {
+    "NAF Nr": "40226",
+    "NAF Name": "Bones",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "rating": 155.56963039249038,
+    "bestRating": 155.56963039249038,
+    "worstRating": 149.57524173508054,
+    "tendency": 5.994388657409843,
+    "tournaments": 1,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "gamesTotal": 3,
+    "winRatio": 66.67,
+    "_lastTenRatingsYear": [
+      149.57524173508054,
+      150.5279964853727,
+      155.56963039249038
+    ]
+  },
+  {
     "NAF Nr": "32829",
     "NAF Name": "Ramiux",
     "CCAA": "Apatrida",
@@ -1858,10 +1879,10 @@ const statsYear2024Bbt = [
     "NAF Name": "Brutus 13",
     "CCAA": "Apatrida",
     "Country": "Spain",
-    "rating": 128.00399114846996,
+    "rating": 129.96549598141675,
     "bestRating": 155.65685424949237,
-    "worstRating": 128.00399114846996,
-    "tendency": -27.652863101022405,
+    "worstRating": 129.96549598141675,
+    "tendency": -25.691358268075618,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -1873,9 +1894,9 @@ const statsYear2024Bbt = [
       150.0027740794415,
       144.94566506642565,
       139.5189738702153,
-      137.8173429656497,
-      133.69343100159233,
-      128.00399114846996
+      139.94373213513475,
+      135.7373746201021,
+      129.96549598141675
     ]
   },
   {
@@ -7673,7 +7694,7 @@ const statsYear2024Bbt = [
   {
     "NAF Nr": "32416",
     "NAF Name": "Kiffie",
-    "CCAA": "Andalucía/Ceuta",
+    "CCAA": "Andalucía",
     "Country": "Spain",
     "rating": 145.587717729828,
     "bestRating": 145.96688675750812,
@@ -7892,10 +7913,10 @@ const statsYear2024Bbt = [
     "NAF Name": "Kowlasky",
     "CCAA": "C. Valenciana",
     "Country": "Spain",
-    "rating": 165.43151116458804,
+    "rating": 165.51063242329369,
     "bestRating": 171.61490537331113,
     "worstRating": 150.3918688620841,
-    "tendency": 15.03964230250395,
+    "tendency": 15.11876356120959,
     "tournaments": 3,
     "gamesWon": 6,
     "gamesDraw": 2,
@@ -7911,8 +7932,8 @@ const statsYear2024Bbt = [
       171.61490537331113,
       171.16815221740433,
       167.0466686158524,
-      171.17058057990977,
-      165.43151116458804
+      171.25302613088508,
+      165.51063242329369
     ]
   },
   {
@@ -10932,10 +10953,10 @@ const statsYear2024Bbt = [
     "NAF Name": "Netovic",
     "CCAA": "C. Valenciana",
     "Country": "Spain",
-    "rating": 137.36391132678872,
+    "rating": 139.3294704792831,
     "bestRating": 144.37110438640076,
-    "worstRating": 137.36391132678872,
-    "tendency": -6.979234423718907,
+    "worstRating": 138.6873805453376,
+    "tendency": -5.0136752712245425,
     "tournaments": 2,
     "gamesWon": 2,
     "gamesDraw": 1,
@@ -10949,7 +10970,7 @@ const statsYear2024Bbt = [
       144.11692201068323,
       139.51663813293362,
       144.37110438640076,
-      137.36391132678872
+      139.3294704792831
     ]
   },
   {
@@ -12302,10 +12323,10 @@ const statsYear2024Bbt = [
     "NAF Name": "Pollo",
     "CCAA": "C. Valenciana",
     "Country": "Spain",
-    "rating": 165.8631855103443,
-    "bestRating": 165.8631855103443,
+    "rating": 165.86650980261396,
+    "bestRating": 165.86650980261396,
     "worstRating": 148.9498002768998,
-    "tendency": 4.549477011359556,
+    "tendency": 4.552801303629224,
     "tournaments": 3,
     "gamesWon": 6,
     "gamesDraw": 2,
@@ -12322,7 +12343,7 @@ const statsYear2024Bbt = [
       161.94589100211553,
       156.2642399510125,
       160.12411609502257,
-      165.8631855103443
+      165.86650980261396
     ]
   },
   {
@@ -14631,10 +14652,10 @@ const statsYear2024Bbt = [
     "NAF Name": "TheOddRaspu",
     "CCAA": "C. Valenciana",
     "Country": "Spain",
-    "rating": 129.56625367457195,
+    "rating": 129.64869246013495,
     "bestRating": 144.88972764118057,
     "worstRating": 123.8768138214496,
-    "tendency": -15.323473966608617,
+    "tendency": -15.241035181045618,
     "tournaments": 2,
     "gamesWon": 1,
     "gamesDraw": 1,
@@ -14648,7 +14669,7 @@ const statsYear2024Bbt = [
       133.5298391997276,
       128.73128007491675,
       123.8768138214496,
-      129.56625367457195
+      129.64869246013495
     ]
   },
   {
@@ -14722,10 +14743,10 @@ const statsYear2024Bbt = [
     "NAF Name": "thorgal1975",
     "CCAA": "C. Valenciana",
     "Country": "Spain",
-    "rating": 147.4300380508063,
+    "rating": 147.50198233659478,
     "bestRating": 158.0037716177398,
-    "worstRating": 147.4300380508063,
-    "tendency": -8.141454752966666,
+    "worstRating": 147.50198233659478,
+    "tendency": -8.06951046717819,
     "tournaments": 3,
     "gamesWon": 3,
     "gamesDraw": 4,
@@ -14742,7 +14763,7 @@ const statsYear2024Bbt = [
       152.32212056663678,
       158.0037716177398,
       151.9729780177484,
-      147.4300380508063
+      147.50198233659478
     ]
   },
   {
@@ -15096,10 +15117,10 @@ const statsYear2024Bbt = [
     "NAF Name": "Tremmendo",
     "CCAA": "C. Valenciana",
     "Country": "Spain",
-    "rating": 175.07161314507226,
-    "bestRating": 175.07161314507226,
+    "rating": 176.81093990847364,
+    "bestRating": 176.81093990847364,
     "worstRating": 150,
-    "tendency": 19.414758895579894,
+    "tendency": 21.154085658981273,
     "tournaments": 3,
     "gamesWon": 5,
     "gamesDraw": 6,
@@ -15115,8 +15136,8 @@ const statsYear2024Bbt = [
       167.77197591207872,
       168.75780126569003,
       173.2926989776122,
-      170.52867317813016,
-      175.07161314507226
+      172.33994422732002,
+      176.81093990847364
     ]
   },
   {

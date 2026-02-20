@@ -31,6 +31,39 @@ const vampire2025 = [
     "tendency": -2.392330602401046
   },
   {
+    "NAF Nr": "103",
+    "NAF Name": "Grumbledook",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 133.15834320251176,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.15834320251176,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.8210483160428,
+      133.15834320251176
+    ],
+    "tendency": -11.184802547995872
+  },
+  {
     "NAF Nr": "5024",
     "NAF Name": "Rodders",
     "CCAA": "Apatrida",
@@ -68,18 +101,18 @@ const vampire2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.84108009375512,
-    "bestRating": 155.41962310163882,
-    "worstRating": 149.7430399414449,
+    "rating": 150.06957300630077,
+    "bestRating": 156.09179240043466,
+    "worstRating": 149.99332156160943,
     "_lastTenRatings": [
       150,
       149.99332156160943,
-      149.7430399414449,
-      155.41962310163882,
-      149.76724234736983,
-      149.84108009375512
+      150.41515202203047,
+      156.09179240043466,
+      150.00604872145126,
+      150.06957300630077
     ],
-    "tendency": -0.15891990624487562
+    "tendency": 0.06957300630077157
   },
   {
     "NAF Nr": "6261",
@@ -95,16 +128,16 @@ const vampire2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.02035046451084,
+    "rating": 150.0008816513437,
     "bestRating": 155.65685424949237,
     "worstRating": 150,
     "_lastTenRatings": [
       155.65685424949237,
       150,
       150.0212741444755,
-      150.02035046451084
+      150.0008816513437
     ],
-    "tendency": -5.636503784981528
+    "tendency": -5.655972598148679
   },
   {
     "NAF Nr": "7550",
@@ -120,7 +153,7 @@ const vampire2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 44.44,
-    "rating": 145.36008374235982,
+    "rating": 145.4574061018579,
     "bestRating": 156.13712602526286,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
@@ -129,12 +162,62 @@ const vampire2025 = [
       144.34314575050763,
       150.24545485873347,
       156.13712602526286,
-      150.7323800737489,
-      145.4743084174079,
-      145.67359590368127,
-      145.36008374235982
+      150.7516590966208,
+      145.8972009870275,
+      146.0606575775644,
+      145.4574061018579
     ],
-    "tendency": -10.29677050713255
+    "tendency": -10.199448147634456
+  },
+  {
+    "NAF Nr": "8994",
+    "NAF Name": "Lordm",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 155.65685424949237,
+    "bestRating": 155.65685424949237,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      155.65685424949237,
+      155.65685424949237
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "10279",
+    "NAF Name": "Cesar",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 138.67694612641532,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.67694612641532,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      144.33337620203497,
+      138.67694612641532
+    ],
+    "tendency": -5.6661996240923145
   },
   {
     "NAF Nr": "15027",
@@ -143,22 +226,28 @@ const vampire2025 = [
     "Country": "Italy",
     "raceId": "21",
     "raceName": "Vampire",
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 0,
+    "gamesTotal": 9,
+    "gamesWon": 4,
+    "gamesDraw": 4,
     "gamesLost": 1,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
+    "totalTournaments": 2,
     "winRatio": 66.67,
-    "rating": 154.9677785810792,
-    "bestRating": 154.9677785810792,
+    "rating": 164.27185931049962,
+    "bestRating": 165.66053282981608,
     "worstRating": 144.43223563716998,
     "_lastTenRatings": [
       144.43223563716998,
       150.06491813393646,
-      154.9677785810792
+      154.9677785810792,
+      154.75219223002273,
+      160.44832442846834,
+      165.66053282981608,
+      164.81833903739513,
+      164.68215801465777,
+      164.27185931049962
     ],
-    "tendency": 10.535542943909206
+    "tendency": 19.83962367332964
   },
   {
     "NAF Nr": "16723",
@@ -174,18 +263,54 @@ const vampire2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.8079478660807,
-    "bestRating": 149.8079478660807,
-    "worstRating": 138.37378218510972,
+    "rating": 149.55317915044552,
+    "bestRating": 149.55317915044552,
+    "worstRating": 138.0670383990019,
     "_lastTenRatings": [
       144.34314575050763,
       144.62772388687247,
-      138.37378218510972,
-      144.06584005741496,
-      149.74648417593357,
-      149.8079478660807
+      138.0670383990019,
+      143.7724891582206,
+      149.46596541851082,
+      149.55317915044552
     ],
-    "tendency": 5.464802115573065
+    "tendency": 5.210033399937885
+  },
+  {
+    "NAF Nr": "17776",
+    "NAF Name": "Bonico",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 157.90023452747886,
+    "bestRating": 165.49193338482968,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150,
+      157.74596669241484,
+      157.74596669241484,
+      165.49193338482968,
+      157.90023452747886
+    ],
+    "tendency": 0.15426783506401875
   },
   {
     "NAF Nr": "19236",
@@ -239,6 +364,96 @@ const vampire2025 = [
     "tendency": -5.656854249492369
   },
   {
+    "NAF Nr": "20447",
+    "NAF Name": "Moro84",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 4,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 161.16178306009644,
+    "bestRating": 161.16178306009644,
+    "worstRating": 155.8819177629099,
+    "_lastTenRatings": [
+      155.89213307881647,
+      155.8819177629099,
+      156.70803318857693,
+      156.6374041959339,
+      156.3602559428424,
+      161.16178306009644
+    ],
+    "tendency": 5.269649981279969
+  },
+  {
+    "NAF Nr": "22729",
+    "NAF Name": "Santa",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 9,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 38.89,
+    "rating": 139.50551800157874,
+    "bestRating": 150.00046271114996,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      144.34314575050763,
+      150.00046271114996,
+      144.09769176451596,
+      144.10834886347294,
+      149.63897076344355,
+      144.57689491925726,
+      139.50551800157874
+    ],
+    "tendency": -4.837627748928895
+  },
+  {
+    "NAF Nr": "23332",
+    "NAF Name": "coewolf",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 158.94427190999915,
+    "bestRating": 158.94427190999915,
+    "worstRating": 154.47213595499957,
+    "_lastTenRatings": [
+      154.47213595499957,
+      158.94427190999915,
+      158.94427190999915
+    ],
+    "tendency": 4.4721359549995725
+  },
+  {
     "NAF Nr": "24224",
     "NAF Name": "karrash",
     "CCAA": "C. Valenciana",
@@ -261,15 +476,39 @@ const vampire2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 150.00967418885173,
-    "bestRating": 150.00967418885173,
+    "rating": 149.9952672741923,
+    "bestRating": 150,
     "worstRating": 144.52277442494835,
     "_lastTenRatings": [
       144.52277442494835,
       150,
-      150.00967418885173
+      149.9952672741923
     ],
-    "tendency": 5.486899763903381
+    "tendency": 5.472492849243935
+  },
+  {
+    "NAF Nr": "25545",
+    "NAF Name": "skarlan",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 153.63423294654433,
+    "bestRating": 153.63423294654433,
+    "worstRating": 146.25834261322606,
+    "_lastTenRatings": [
+      146.25834261322606,
+      150,
+      153.63423294654433
+    ],
+    "tendency": 7.375890333318267
   },
   {
     "NAF Nr": "26782",
@@ -285,15 +524,15 @@ const vampire2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 146.8378745855769,
-    "bestRating": 146.8378745855769,
-    "worstRating": 143.67543213576153,
+    "rating": 146.8404302547713,
+    "bestRating": 146.8404302547713,
+    "worstRating": 143.67805137756363,
     "_lastTenRatings": [
       146.83772233983163,
-      143.67543213576153,
-      146.8378745855769
+      143.67805137756363,
+      146.8404302547713
     ],
-    "tendency": 0.0001522457452836079
+    "tendency": 0.0027079149396627145
   },
   {
     "NAF Nr": "26800",
@@ -302,38 +541,62 @@ const vampire2025 = [
     "Country": "Italy",
     "raceId": "21",
     "raceName": "Vampire",
-    "gamesTotal": 12,
-    "gamesWon": 4,
-    "gamesDraw": 6,
-    "gamesLost": 2,
+    "gamesTotal": 18,
+    "gamesWon": 7,
+    "gamesDraw": 8,
+    "gamesLost": 3,
     "totalWinRatio": 0,
-    "totalTournaments": 3,
-    "winRatio": 58.33,
+    "totalTournaments": 4,
+    "winRatio": 61.11,
     "trophies": {
       "winner": 0,
-      "runnerup": 0,
+      "runnerup": 1,
       "touchdowns": 1,
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 160.8922895641254,
-    "bestRating": 160.8922895641254,
-    "worstRating": 149.594439499783,
+    "rating": 167.5136642511228,
+    "bestRating": 170.9331853655421,
+    "worstRating": 150,
     "_lastTenRatings": [
-      150.22421730261283,
-      155.50661362074106,
-      150.2063745350189,
-      155.48949551346777,
-      149.594439499783,
-      155.03256476898324,
-      154.81370765269122,
-      160.28081292898338,
-      160.30526510526008,
-      160.8922895641254
+      170.9331853655421,
+      170.51405560690307,
+      164.99187065345168,
+      164.18222432927087,
+      157.91202738320948,
+      163.0109005467192,
+      162.4474060337135,
+      167.5510973639631,
+      167.24757631282446,
+      167.5136642511228
     ],
-    "tendency": 10.668072261512577
+    "tendency": -3.4195211144192967
+  },
+  {
+    "NAF Nr": "28040",
+    "NAF Name": "Jadawin",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 136.73703754949284,
+    "bestRating": 145.52786404500043,
+    "worstRating": 136.73703754949284,
+    "_lastTenRatings": [
+      145.52786404500043,
+      141.05572809000085,
+      136.73703754949284
+    ],
+    "tendency": -8.790826495507588
   },
   {
     "NAF Nr": "29867",
@@ -385,22 +648,22 @@ const vampire2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 152.82698001046657,
-    "bestRating": 153.058419502295,
-    "worstRating": 147.14701684183407,
+    "rating": 152.69614122393662,
+    "bestRating": 152.92980536982685,
+    "worstRating": 147.01843463331898,
     "_lastTenRatings": [
-      152.76703449966536,
-      149.939984260706,
-      147.23882724424186,
-      149.88652863354915,
-      147.18125371438572,
-      147.14701684183407,
-      149.9426933807386,
-      153.058419502295,
-      150.56558502824848,
-      152.82698001046657
+      152.63273751400573,
+      149.80860272249578,
+      147.11022892021518,
+      149.75792949564934,
+      147.05265894213267,
+      147.01843463331898,
+      149.81412319069904,
+      152.92980536982685,
+      150.43703831543033,
+      152.69614122393662
     ],
-    "tendency": 0.059945510801213686
+    "tendency": 0.0634037099308955
   },
   {
     "NAF Nr": "31211",
@@ -440,16 +703,16 @@ const vampire2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 144.6089162179039,
-    "bestRating": 144.6089162179039,
-    "worstRating": 138.68629150101526,
+    "rating": 144.18023561335139,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.23820191659058,
     "_lastTenRatings": [
       144.34314575050763,
-      144.34314575050763,
-      138.68629150101526,
-      144.6089162179039
+      143.87471807940963,
+      138.23820191659058,
+      144.18023561335139
     ],
-    "tendency": 0.26577046739626553
+    "tendency": -0.16291013715624558
   },
   {
     "NAF Nr": "31910",
@@ -474,16 +737,43 @@ const vampire2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 145.10064683229277,
+    "rating": 145.10064688055851,
     "bestRating": 145.10102051443366,
     "worstRating": 140.2020410288673,
     "_lastTenRatings": [
       145.10102051443366,
       145.10102051443366,
       140.2020410288673,
-      145.10064683229277
+      145.10064688055851
     ],
-    "tendency": -0.00037368214088928653
+    "tendency": -0.0003736338751423318
+  },
+  {
+    "NAF Nr": "32127",
+    "NAF Name": "snowwite",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.85430500763448,
+    "bestRating": 155.85430500763448,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      150,
+      155.65729773994298,
+      150.20639351850298,
+      155.85430500763448
+    ],
+    "tendency": 0.19745075814211077
   },
   {
     "NAF Nr": "32449",
@@ -510,6 +800,57 @@ const vampire2025 = [
       144.54782043693703
     ],
     "tendency": -11.109033812555339
+  },
+  {
+    "NAF Nr": "32727",
+    "NAF Name": "ganglari",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.94853386273527,
+    "bestRating": 157.75242337449166,
+    "worstRating": 142.26133204816594,
+    "_lastTenRatings": [
+      142.26133204816594,
+      150.0068648122692,
+      157.75242337449166,
+      149.9646122215742,
+      142.65194461549427,
+      149.94853386273527
+    ],
+    "tendency": 7.687201814569335
+  },
+  {
+    "NAF Nr": "32908",
+    "NAF Name": "bonethugsnoharmony",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 160.58300524425835,
+    "bestRating": 160.58300524425835,
+    "worstRating": 155.29150262212917,
+    "_lastTenRatings": [
+      155.29150262212917,
+      155.29150262212917,
+      160.58300524425835
+    ],
+    "tendency": 5.2915026221291726
   },
   {
     "NAF Nr": "33060",
@@ -551,18 +892,18 @@ const vampire2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 41.67,
-    "rating": 142.26965283335707,
+    "rating": 142.50809072950855,
     "bestRating": 157.74596669241484,
-    "worstRating": 142.25403330758516,
+    "worstRating": 142.50809072950855,
     "_lastTenRatings": [
       157.74596669241484,
-      150,
-      142.25403330758516,
-      142.25403330758516,
-      149.99993895359222,
-      142.26965283335707
+      150.30468090984579,
+      142.5406002112612,
+      142.5235631223424,
+      150.25344457246175,
+      142.50809072950855
     ],
-    "tendency": -15.476313859057768
+    "tendency": -15.237875962906287
   },
   {
     "NAF Nr": "33564",
@@ -604,15 +945,15 @@ const vampire2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 0,
-    "rating": 134.2243315242219,
+    "rating": 133.89701962790363,
     "bestRating": 144.52277442494835,
-    "worstRating": 134.2243315242219,
+    "worstRating": 133.89701962790363,
     "_lastTenRatings": [
       144.52277442494835,
-      139.5001757858507,
-      134.2243315242219
+      139.5012412829961,
+      133.89701962790363
     ],
-    "tendency": -10.298442900726457
+    "tendency": -10.62575479704472
   },
   {
     "NAF Nr": "34468",
@@ -639,6 +980,30 @@ const vampire2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "34553",
+    "NAF Name": "Alastor",
+    "CCAA": "Murcia",
+    "Country": "Spain",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.35323563409307,
+    "bestRating": 154.22286818490917,
+    "worstRating": 149.35323563409307,
+    "_lastTenRatings": [
+      150,
+      154.22286818490917,
+      149.35323563409307
+    ],
+    "tendency": -0.6467643659069324
+  },
+  {
     "NAF Nr": "34923",
     "NAF Name": "SzerokiNaczej",
     "CCAA": "Apatrida",
@@ -652,8 +1017,8 @@ const vampire2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 161.71866632619125,
-    "bestRating": 161.71866632619125,
+    "rating": 161.70972354205168,
+    "bestRating": 161.70972354205168,
     "worstRating": 150,
     "_lastTenRatings": [
       155.65685424949237,
@@ -661,9 +1026,96 @@ const vampire2025 = [
       155.67555983255184,
       150.01789342479128,
       155.69135577251444,
-      161.71866632619125
+      161.70972354205168
     ],
-    "tendency": 6.061812076698885
+    "tendency": 6.052869292559308
+  },
+  {
+    "NAF Nr": "35897",
+    "NAF Name": "TheOverlord",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 8.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 122.89486877731972,
+    "bestRating": 144.34314575050763,
+    "worstRating": 122.89486877731972,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229,
+      127.37302562327417,
+      122.89486877731972
+    ],
+    "tendency": -21.448276973187916
+  },
+  {
+    "NAF Nr": "35962",
+    "NAF Name": "wagur",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 140.8875607425927,
+    "bestRating": 149.06021019137944,
+    "worstRating": 133.93506162819898,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.50806661517032,
+      133.93506162819898,
+      142.2021206201118,
+      149.06021019137944,
+      140.8875607425927
+    ],
+    "tendency": -1.3664725649924492
+  },
+  {
+    "NAF Nr": "36283",
+    "NAF Name": "kuh1",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.89425342034733,
+    "bestRating": 145.10939226132547,
+    "worstRating": 144.89425342034733,
+    "_lastTenRatings": [
+      145.10939226132547,
+      145.1012357773033,
+      144.89425342034733
+    ],
+    "tendency": -0.21513884097814184
   },
   {
     "NAF Nr": "36708",
@@ -705,8 +1157,8 @@ const vampire2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 165.49193338482968,
-    "bestRating": 165.49193338482968,
+    "rating": 165.52314935502037,
+    "bestRating": 165.52314935502037,
     "worstRating": 150,
     "_lastTenRatings": [
       157.74596669241484,
@@ -714,9 +1166,9 @@ const vampire2025 = [
       150,
       150,
       157.74596669241484,
-      165.49193338482968
+      165.52314935502037
     ],
-    "tendency": 7.745966692414839
+    "tendency": 7.777182662605526
   },
   {
     "NAF Nr": "36752",
@@ -789,18 +1241,18 @@ const vampire2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 127.01074865445338,
-    "bestRating": 142.25403330758516,
-    "worstRating": 127.01074865445338,
+    "rating": 127.02874583533222,
+    "bestRating": 142.27329030019712,
+    "worstRating": 127.02874583533222,
     "_lastTenRatings": [
       142.25403330758516,
-      142.25403330758516,
-      134.8054560185278,
-      127.04324142884118,
-      134.77249358421005,
-      127.01074865445338
+      142.27329030019712,
+      134.82356981602845,
+      127.06027832100999,
+      134.79061547792975,
+      127.02874583533222
     ],
-    "tendency": -15.24328465313178
+    "tendency": -15.225287472252944
   },
   {
     "NAF Nr": "37490",
@@ -840,15 +1292,63 @@ const vampire2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 144.33623055574495,
-    "bestRating": 149.96282042029222,
-    "worstRating": 144.3256013753954,
+    "rating": 144.33626890630262,
+    "bestRating": 149.96282057790415,
+    "worstRating": 144.32560154016102,
     "_lastTenRatings": [
-      144.3256013753954,
-      149.96282042029222,
-      144.33623055574495
+      144.32560154016102,
+      149.96282057790415,
+      144.33626890630262
     ],
-    "tendency": 0.010629180349553735
+    "tendency": 0.010667366141603907
+  },
+  {
+    "NAF Nr": "37997",
+    "NAF Name": "Bobsol",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.56196615333474,
+    "bestRating": 154.56196615333474,
+    "worstRating": 154,
+    "_lastTenRatings": [
+      154,
+      154.453099166605,
+      154.56196615333474
+    ],
+    "tendency": 0.5619661533347369
+  },
+  {
+    "NAF Nr": "38199",
+    "NAF Name": "sindik",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.52786404500043,
+    "bestRating": 150,
+    "worstRating": 145.52786404500043,
+    "_lastTenRatings": [
+      145.52786404500043,
+      150,
+      145.52786404500043
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "38419",
@@ -891,15 +1391,15 @@ const vampire2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 16.67,
-    "rating": 141.06099508790658,
+    "rating": 141.07851665319805,
     "bestRating": 145.52786404500043,
-    "worstRating": 141.06099508790658,
+    "worstRating": 141.07851665319805,
     "_lastTenRatings": [
       145.52786404500043,
       145.52786404500043,
-      141.06099508790658
+      141.07851665319805
     ],
-    "tendency": -4.466868957093851
+    "tendency": -4.449347391802377
   },
   {
     "NAF Nr": "38502",
@@ -924,18 +1424,18 @@ const vampire2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 134.17710940390995,
+    "rating": 134.10121253352264,
     "bestRating": 150,
-    "worstRating": 128.28517653019566,
+    "worstRating": 128.20550314867796,
     "_lastTenRatings": [
       150,
-      144.38271126327126,
-      139.18460048596305,
-      133.4925426136578,
-      128.28517653019566,
-      134.17710940390995
+      144.3831004015624,
+      139.18633797603314,
+      133.48088721681444,
+      128.20550314867796,
+      134.10121253352264
     ],
-    "tendency": -15.822890596090048
+    "tendency": -15.898787466477359
   },
   {
     "NAF Nr": "38683",
@@ -997,6 +1497,56 @@ const vampire2025 = [
     "tendency": 3.877234030700407
   },
   {
+    "NAF Nr": "39125",
+    "NAF Name": "-Paladin-",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 60,
+    "rating": 152.26336459450266,
+    "bestRating": 158.94427190999915,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      154.47213595499957,
+      158.94427190999915,
+      158.55653877339347,
+      152.26336459450266
+    ],
+    "tendency": 2.2633645945026615
+  },
+  {
+    "NAF Nr": "39237",
+    "NAF Name": "SnarkyHobbit",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145,
+    "bestRating": 155,
+    "worstRating": 145,
+    "_lastTenRatings": [
+      155,
+      150,
+      145
+    ],
+    "tendency": -10
+  },
+  {
     "NAF Nr": "39571",
     "NAF Name": "stardown",
     "CCAA": "Apatrida",
@@ -1010,15 +1560,15 @@ const vampire2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 0,
-    "rating": 136.5598255314739,
+    "rating": 136.12887969856604,
     "bestRating": 145.64110105645932,
-    "worstRating": 136.5598255314739,
+    "worstRating": 136.12887969856604,
     "_lastTenRatings": [
       145.64110105645932,
-      140.89350866164645,
-      136.5598255314739
+      140.4476470302121,
+      136.12887969856604
     ],
-    "tendency": -9.081275524985415
+    "tendency": -9.512221357893281
   },
   {
     "NAF Nr": "40087",
@@ -1043,18 +1593,18 @@ const vampire2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 150.56862086447825,
-    "bestRating": 162.45974953927183,
-    "worstRating": 150.56862086447825,
+    "rating": 150.57214484699335,
+    "bestRating": 162.46359976778976,
+    "worstRating": 150.57214484699335,
     "_lastTenRatings": [
       153.605551275464,
       153.605551275464,
-      157.11134932692633,
-      162.45974953927183,
-      156.50779557790233,
-      150.56862086447825
+      157.11537376868102,
+      162.46359976778976,
+      156.51147909253498,
+      150.57214484699335
     ],
-    "tendency": -3.0369304109857467
+    "tendency": -3.0334064284706415
   },
   {
     "NAF Nr": "40483",
@@ -1159,16 +1709,16 @@ const vampire2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 138.47188340085933,
+    "rating": 138.45936029644844,
     "bestRating": 150,
     "worstRating": 138.4514937791313,
     "_lastTenRatings": [
       150,
       144.09769089177416,
       138.4514937791313,
-      138.47188340085933
+      138.45936029644844
     ],
-    "tendency": -11.528116599140674
+    "tendency": -11.540639703551562
   },
   {
     "NAF Nr": "42229",
@@ -1203,22 +1753,52 @@ const vampire2025 = [
     "Country": "Portugal",
     "raceId": "21",
     "raceName": "Vampire",
-    "gamesTotal": 3,
-    "gamesWon": 0,
-    "gamesDraw": 1,
-    "gamesLost": 2,
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 16.67,
-    "rating": 139.23085941196024,
+    "totalTournaments": 2,
+    "winRatio": 33.33,
+    "rating": 140.25322377575486,
     "bestRating": 144.9009804864072,
-    "worstRating": 139.20759834734312,
+    "worstRating": 134.34585774323847,
     "_lastTenRatings": [
       144.9009804864072,
       139.20759834734312,
-      139.23085941196024
+      139.23026427918063,
+      134.34585774323847,
+      139.85706562144338,
+      140.25322377575486
     ],
-    "tendency": -5.670121074446968
+    "tendency": -4.647756710652345
+  },
+  {
+    "NAF Nr": "42598",
+    "NAF Name": "petit_pierre",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.39171661087187,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.3270421329187,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.3270421329187,
+      150.0229374936877,
+      144.38372500034305,
+      144.39171661087187
+    ],
+    "tendency": -11.265137638620502
   },
   {
     "NAF Nr": "42846",
@@ -1265,5 +1845,120 @@ const vampire2025 = [
       138
     ],
     "tendency": -8
+  },
+  {
+    "NAF Nr": "43249",
+    "NAF Name": "addon.mail",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
+    "rating": 147.2316327291358,
+    "bestRating": 150.06139262508083,
+    "worstRating": 147.17157287525382,
+    "_lastTenRatings": [
+      147.17157287525382,
+      150.06139262508083,
+      147.2316327291358
+    ],
+    "tendency": 0.060059853881995195
+  },
+  {
+    "NAF Nr": "43366",
+    "NAF Name": "CptPervert",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 150.18159193134812,
+    "bestRating": 153.46410161513776,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      153.46410161513776,
+      150,
+      150.18159193134812
+    ],
+    "tendency": -3.282509683789641
+  },
+  {
+    "NAF Nr": "43367",
+    "NAF Name": "Rozinthmius",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 139.6997768612034,
+    "bestRating": 146.53589838486224,
+    "worstRating": 139.6997768612034,
+    "_lastTenRatings": [
+      146.53589838486224,
+      143.07179676972447,
+      139.6997768612034
+    ],
+    "tendency": -6.836121523658846
+  },
+  {
+    "NAF Nr": "43461",
+    "NAF Name": "Warmill",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "21",
+    "raceName": "Vampire",
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 139.02895067771743,
+    "bestRating": 144.72670145509215,
+    "worstRating": 139.02895067771743,
+    "_lastTenRatings": [
+      144.72670145509215,
+      144.71004829661834,
+      139.03726392883738,
+      139.02895067771743
+    ],
+    "tendency": -5.697750777374722
   }
 ];

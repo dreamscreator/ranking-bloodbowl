@@ -13,18 +13,18 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 50,
-    "rating": 150.3327781570986,
-    "bestRating": 150.3327781570986,
-    "worstRating": 144.43442485963274,
+    "rating": 150.33630361955244,
+    "bestRating": 150.33630361955244,
+    "worstRating": 144.43811003339582,
     "_lastTenRatings": [
       146.394448724536,
-      150,
-      150.09975322400166,
-      150.09542214326922,
-      144.43442485963274,
-      150.3327781570986
+      150.00414182731484,
+      150.10378051955857,
+      150.09927458197183,
+      144.43811003339582,
+      150.33630361955244
     ],
-    "tendency": 3.938329432562597
+    "tendency": 3.9418548950164336
   },
   {
     "NAF Nr": "341",
@@ -64,6 +64,39 @@ const imperialnobility2025 = [
       170.736013881187
     ],
     "tendency": 15.079159631694637
+  },
+  {
+    "NAF Nr": "2344",
+    "NAF Name": "Grasshopper",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
+    "rating": 145.52786404500043,
+    "bestRating": 145.52786404500043,
+    "worstRating": 141.05572809000085,
+    "_lastTenRatings": [
+      145.52786404500043,
+      141.05572809000085,
+      145.52786404500043
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "5900",
@@ -295,17 +328,17 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 40,
-    "rating": 146.15408581042257,
+    "rating": 146.15390017658936,
     "bestRating": 153.8729833462074,
-    "worstRating": 146.15408581042257,
+    "worstRating": 146.15390017658936,
     "_lastTenRatings": [
       153.8729833462074,
       149.88490464467816,
-      153.77302206257787,
-      150.03092980645988,
-      146.15408581042257
+      153.7730224575381,
+      150.03074419350853,
+      146.15390017658936
     ],
-    "tendency": -7.7188975357848335
+    "tendency": -7.719083169618045
   },
   {
     "NAF Nr": "13211",
@@ -321,16 +354,16 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150,
+    "rating": 149.9869112711484,
     "bestRating": 161.31370849898474,
-    "worstRating": 150,
+    "worstRating": 149.9869112711484,
     "_lastTenRatings": [
       155.65685424949237,
       161.31370849898474,
-      155.65685424949237,
-      150
+      155.6437655204964,
+      149.9869112711484
     ],
-    "tendency": -5.656854249492369
+    "tendency": -5.6699429783439825
   },
   {
     "NAF Nr": "14720",
@@ -478,6 +511,30 @@ const imperialnobility2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "17327",
+    "NAF Name": "Thoringar",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 139.8019609728144,
+    "bestRating": 144.9009804864072,
+    "worstRating": 139.8019609728144,
+    "_lastTenRatings": [
+      144.9009804864072,
+      139.8019609728144,
+      139.8019609728144
+    ],
+    "tendency": -5.099019513592793
+  },
+  {
     "NAF Nr": "17711",
     "NAF Name": "davey",
     "CCAA": "Apatrida",
@@ -594,7 +651,7 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.57609733383933,
+    "rating": 149.75722811416168,
     "bestRating": 154,
     "worstRating": 146,
     "_lastTenRatings": [
@@ -602,10 +659,10 @@ const imperialnobility2025 = [
       150,
       146,
       150,
-      153.9938710793244,
-      149.57609733383933
+      153.9996217061641,
+      149.75722811416168
     ],
-    "tendency": -4.4239026661606715
+    "tendency": -4.242771885838323
   },
   {
     "NAF Nr": "20857",
@@ -630,18 +687,18 @@ const imperialnobility2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 165.46787763939616,
-    "bestRating": 165.46787763939616,
-    "worstRating": 153.8666268925318,
+    "rating": 165.6490890216073,
+    "bestRating": 165.6490890216073,
+    "worstRating": 153.87293453723922,
     "_lastTenRatings": [
       154,
-      153.8666268925318,
-      157.87072159682234,
-      157.87092153593105,
-      161.44391705388838,
-      165.46787763939616
+      153.87293453723922,
+      157.87683558987425,
+      157.87684782245967,
+      161.63068002647478,
+      165.6490890216073
     ],
-    "tendency": 11.467877639396164
+    "tendency": 11.649089021607296
   },
   {
     "NAF Nr": "20957",
@@ -650,24 +707,53 @@ const imperialnobility2025 = [
     "Country": "Sweden",
     "raceId": "31",
     "raceName": "Imperial Nobility",
-    "gamesTotal": 5,
-    "gamesWon": 3,
-    "gamesDraw": 1,
-    "gamesLost": 1,
+    "gamesTotal": 11,
+    "gamesWon": 5,
+    "gamesDraw": 3,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 59.09,
+    "rating": 161.2602672496221,
+    "bestRating": 162.06711840043442,
+    "worstRating": 141.6945196257936,
+    "_lastTenRatings": [
+      149.39099924068424,
+      141.6945196257936,
+      149.9336000496666,
+      149.91166072541515,
+      150.81234225619954,
+      150.77707246892038,
+      156.43081584719664,
+      162.06711840043442,
+      156.94982983818798,
+      161.2602672496221
+    ],
+    "tendency": 11.869268008937865
+  },
+  {
+    "NAF Nr": "21567",
+    "NAF Name": "BBart",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 3,
+    "gamesLost": 0,
     "totalWinRatio": 0,
     "totalTournaments": 1,
-    "winRatio": 70,
-    "rating": 161.08555204730115,
-    "bestRating": 161.31370849898474,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
-      155.65685424949237,
-      161.31370849898474,
-      155.64650004394997,
-      161.08555204730115
+      150,
+      150
     ],
-    "tendency": 11.08555204730115
+    "tendency": 0
   },
   {
     "NAF Nr": "21736",
@@ -722,6 +808,68 @@ const imperialnobility2025 = [
     "tendency": 11.000036513996491
   },
   {
+    "NAF Nr": "22728",
+    "NAF Name": "Luciferous Windmill",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 121.71572875253813,
+    "bestRating": 144.34314575050763,
+    "worstRating": 121.71572875253813,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229,
+      127.37258300203051,
+      121.71572875253813
+    ],
+    "tendency": -22.627416997969505
+  },
+  {
+    "NAF Nr": "23061",
+    "NAF Name": "stripeydave",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 138.68586809754868,
+    "bestRating": 155.65685424949237,
+    "worstRating": 138.68586809754868,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      155.65685424949237,
+      150,
+      144.34270312933216,
+      138.68586809754868
+    ],
+    "tendency": -5.657277652958953
+  },
+  {
     "NAF Nr": "23778",
     "NAF Name": "kholek",
     "CCAA": "Apatrida",
@@ -771,6 +919,54 @@ const imperialnobility2025 = [
       138.8812572158331
     ],
     "tendency": -5.461888534674529
+  },
+  {
+    "NAF Nr": "24002",
+    "NAF Name": "Jayycee",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.52482447968782,
+    "bestRating": 159.61383892757868,
+    "worstRating": 154.52482447968782,
+    "_lastTenRatings": [
+      154.89897948556634,
+      159.61383892757868,
+      154.52482447968782
+    ],
+    "tendency": -0.3741550058785208
+  },
+  {
+    "NAF Nr": "24225",
+    "NAF Name": "Darios",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.4742658199877,
+    "bestRating": 150.99578300588107,
+    "worstRating": 145.4742658199877,
+    "_lastTenRatings": [
+      150.99578300588107,
+      150.75742808732045,
+      145.4742658199877
+    ],
+    "tendency": -5.521517185893373
   },
   {
     "NAF Nr": "24279",
@@ -838,15 +1034,15 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 155.6696652013323,
-    "bestRating": 155.6696652013323,
+    "rating": 155.66967243686778,
+    "bestRating": 155.66967243686778,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
       150,
-      155.6696652013323
+      155.66967243686778
     ],
-    "tendency": 11.326519450824662
+    "tendency": 11.326526686360154
   },
   {
     "NAF Nr": "24846",
@@ -899,6 +1095,33 @@ const imperialnobility2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "25277",
+    "NAF Name": "Brama",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 156.16131318862463,
+    "bestRating": 156.16131318862463,
+    "worstRating": 139.2821416014265,
+    "_lastTenRatings": [
+      144.76974982715626,
+      139.2821416014265,
+      144.75866489632068,
+      150.4468000845104,
+      155.90553133447943,
+      156.16131318862463
+    ],
+    "tendency": 11.391563361468371
+  },
+  {
     "NAF Nr": "25379",
     "NAF Name": "SilentKnight",
     "CCAA": "Apatrida",
@@ -926,6 +1149,33 @@ const imperialnobility2025 = [
     "tendency": 0.035164359483701446
   },
   {
+    "NAF Nr": "25471",
+    "NAF Name": "mysza",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 145.36678600600982,
+    "bestRating": 155.48254881785462,
+    "worstRating": 145.17277556526,
+    "_lastTenRatings": [
+      150,
+      155.48254881785462,
+      150.630034195076,
+      145.17277556526,
+      150.6419596238792,
+      145.36678600600982
+    ],
+    "tendency": -4.633213993990182
+  },
+  {
     "NAF Nr": "25936",
     "NAF Name": "Picnicmik",
     "CCAA": "Apatrida",
@@ -948,15 +1198,15 @@ const imperialnobility2025 = [
       "bestpainted": 1,
       "otherawards": 0
     },
-    "rating": 155.71247707776308,
-    "bestRating": 155.71247707776308,
+    "rating": 155.72563884306854,
+    "bestRating": 155.72563884306854,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       150,
-      155.71247707776308
+      155.72563884306854
     ],
-    "tendency": 5.712477077763083
+    "tendency": 5.725638843068538
   },
   {
     "NAF Nr": "26310",
@@ -1018,6 +1268,33 @@ const imperialnobility2025 = [
     "tendency": -11.303514071714204
   },
   {
+    "NAF Nr": "27013",
+    "NAF Name": "Yersinia",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 138.67696309720492,
+    "bestRating": 150,
+    "worstRating": 138.67696309720492,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.34314575050763,
+      150,
+      144.33339394310568,
+      138.67696309720492
+    ],
+    "tendency": -5.666182653302712
+  },
+  {
     "NAF Nr": "27071",
     "NAF Name": "HydroHound",
     "CCAA": "Apatrida",
@@ -1055,16 +1332,16 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 75,
-    "rating": 159.78839344447792,
+    "rating": 159.78839468027815,
     "bestRating": 159.7979589711327,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       154.89897948556634,
       159.7979589711327,
-      159.78839344447792
+      159.78839468027815
     ],
-    "tendency": 9.788393444477919
+    "tendency": 9.788394680278145
   },
   {
     "NAF Nr": "27368",
@@ -1089,6 +1366,60 @@ const imperialnobility2025 = [
       154.2426406871193
     ],
     "tendency": 8.485281374238582
+  },
+  {
+    "NAF Nr": "27686",
+    "NAF Name": "Engmir",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.89168858615128,
+    "bestRating": 155.91208009473218,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      150.01067718885722,
+      150.01021360709,
+      155.91208009473218,
+      150.2450679960851,
+      155.89168858615128
+    ],
+    "tendency": 5.891688586151275
+  },
+  {
+    "NAF Nr": "28011",
+    "NAF Name": "müller",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 129.7726320366785,
+    "bestRating": 150,
+    "worstRating": 127.86337252103148,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      138.6850660672768,
+      133.26273669788557,
+      127.86337252103148,
+      129.7726320366785
+    ],
+    "tendency": -20.227367963321512
   },
   {
     "NAF Nr": "28306",
@@ -1178,6 +1509,30 @@ const imperialnobility2025 = [
       145.61925301888388
     ],
     "tendency": -4.380746981116118
+  },
+  {
+    "NAF Nr": "30574",
+    "NAF Name": "poolky",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 154.47213595499957,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      154.47213595499957,
+      150
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "30637",
@@ -1339,15 +1694,39 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 145.37555182529655,
+    "rating": 145.3688446681928,
     "bestRating": 150,
-    "worstRating": 145.37555182529655,
+    "worstRating": 145.3688446681928,
     "_lastTenRatings": [
       150,
-      149.84655458550844,
-      145.37555182529655
+      149.83960902258778,
+      145.3688446681928
     ],
-    "tendency": -4.624448174703446
+    "tendency": -4.631155331807207
+  },
+  {
+    "NAF Nr": "31463",
+    "NAF Name": "twoller",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.53829668221633,
+    "bestRating": 150.00414232043892,
+    "worstRating": 145.52786404500043,
+    "_lastTenRatings": [
+      145.52786404500043,
+      150.00414232043892,
+      145.53829668221633
+    ],
+    "tendency": 0.010432637215899376
   },
   {
     "NAF Nr": "31718",
@@ -1374,6 +1753,31 @@ const imperialnobility2025 = [
     "tendency": -0.1381062939968558
   },
   {
+    "NAF Nr": "31793",
+    "NAF Name": "Lopez_Surround",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.76968841373468,
+    "bestRating": 155.3932309457951,
+    "worstRating": 149.7478226669731,
+    "_lastTenRatings": [
+      155.3932309457951,
+      149.7478226669731,
+      149.75877167888405,
+      149.76968841373468
+    ],
+    "tendency": -5.623542532060412
+  },
+  {
     "NAF Nr": "31926",
     "NAF Name": "rockfist",
     "CCAA": "Apatrida",
@@ -1396,6 +1800,32 @@ const imperialnobility2025 = [
       149.9906007323721
     ],
     "tendency": -0.009399267627912877
+  },
+  {
+    "NAF Nr": "32143",
+    "NAF Name": "lordtyberos",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 127.4205414435203,
+    "bestRating": 145.41742430504416,
+    "worstRating": 127.4205414435203,
+    "_lastTenRatings": [
+      145.41742430504416,
+      140.83484861008833,
+      136.2522729151325,
+      131.67586330529633,
+      127.4205414435203
+    ],
+    "tendency": -17.996882861523858
   },
   {
     "NAF Nr": "32174",
@@ -1436,15 +1866,15 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 155.6707125867155,
-    "bestRating": 155.6707125867155,
+    "rating": 155.67071452342793,
+    "bestRating": 155.67071452342793,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       155.65685424949237,
-      155.6707125867155
+      155.67071452342793
     ],
-    "tendency": 5.670712586715496
+    "tendency": 5.670714523427932
   },
   {
     "NAF Nr": "32782",
@@ -1482,6 +1912,40 @@ const imperialnobility2025 = [
     "tendency": 16.970562748477107
   },
   {
+    "NAF Nr": "32888",
+    "NAF Name": "Ignacio_Tardon",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 138.46165303875736,
+    "bestRating": 150,
+    "worstRating": 138.46165303875736,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.34314575050763,
+      138.46165303875736
+    ],
+    "tendency": -5.881492711750269
+  },
+  {
     "NAF Nr": "33598",
     "NAF Name": "Tibald",
     "CCAA": "Apatrida",
@@ -1495,15 +1959,15 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 145.52115351337522,
-    "bestRating": 150,
+    "rating": 145.53362238516814,
+    "bestRating": 150.01293353738825,
     "worstRating": 145.30958424017658,
     "_lastTenRatings": [
       145.30958424017658,
-      150,
-      145.52115351337522
+      150.01293353738825,
+      145.53362238516814
     ],
-    "tendency": 0.2115692731986485
+    "tendency": 0.22403814499156738
   },
   {
     "NAF Nr": "33601",
@@ -1528,15 +1992,15 @@ const imperialnobility2025 = [
       "bestpainted": 1,
       "otherawards": 0
     },
-    "rating": 154.00913503181425,
-    "bestRating": 154.00913503181425,
-    "worstRating": 150.00969067331368,
+    "rating": 154.0336114865801,
+    "bestRating": 154.0336114865801,
+    "worstRating": 150.03494189641313,
     "_lastTenRatings": [
       154,
-      150.00969067331368,
-      154.00913503181425
+      150.03494189641313,
+      154.0336114865801
     ],
-    "tendency": 0.009135031814253125
+    "tendency": 0.03361148658009938
   },
   {
     "NAF Nr": "33736",
@@ -1552,18 +2016,51 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.9897846121408,
-    "bestRating": 155.65731695892876,
-    "worstRating": 144.34314575050763,
+    "rating": 149.98976988781942,
+    "bestRating": 155.6573015662929,
+    "worstRating": 144.34312816535333,
     "_lastTenRatings": [
       150,
-      144.34314575050763,
-      150,
-      155.64619711264285,
-      155.65731695892876,
-      149.9897846121408
+      144.34312816535333,
+      149.99998317835727,
+      155.64618102135896,
+      155.6573015662929,
+      149.98976988781942
     ],
-    "tendency": -0.010215387859204839
+    "tendency": -0.010230112180579454
+  },
+  {
+    "NAF Nr": "33835",
+    "NAF Name": "GPBoom",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 156.65452959231072,
+    "bestRating": 156.83612152365885,
+    "worstRating": 153.46410161513776,
+    "_lastTenRatings": [
+      153.46410161513776,
+      156.83612152365885,
+      156.65452959231072
+    ],
+    "tendency": 3.190427977172959
   },
   {
     "NAF Nr": "33838",
@@ -1579,16 +2076,16 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 139.1776405815958,
+    "rating": 139.2114298456309,
     "bestRating": 144.34314575050763,
-    "worstRating": 133.26471524887427,
+    "worstRating": 133.2830379176684,
     "_lastTenRatings": [
       144.34314575050763,
       138.68629150101526,
-      133.26471524887427,
-      139.1776405815958
+      133.2830379176684,
+      139.2114298456309
     ],
-    "tendency": -5.165505168911835
+    "tendency": -5.131715904876728
   },
   {
     "NAF Nr": "33849",
@@ -1604,7 +2101,7 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 40,
-    "rating": 145.70810800852365,
+    "rating": 145.70810919104886,
     "bestRating": 154.89897948556634,
     "worstRating": 140.21587709009907,
     "_lastTenRatings": [
@@ -1612,9 +2109,9 @@ const imperialnobility2025 = [
       149.815879956446,
       145.10793347200044,
       140.21587709009907,
-      145.70810800852365
+      145.70810919104886
     ],
-    "tendency": -9.190871477042691
+    "tendency": -9.190870294517481
   },
   {
     "NAF Nr": "33906",
@@ -1639,6 +2136,42 @@ const imperialnobility2025 = [
       149.86189370600317
     ],
     "tendency": -0.1381062939968274
+  },
+  {
+    "NAF Nr": "34073",
+    "NAF Name": "del_castillo",
+    "CCAA": "I. Canarias",
+    "Country": "Spain",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 156.85568472046398,
+    "bestRating": 156.85568472046398,
+    "worstRating": 142.25403330758516,
+    "_lastTenRatings": [
+      142.25403330758516,
+      142.25403330758516,
+      142.25619380092667,
+      142.25606535421474,
+      149.5425893864753,
+      156.85568472046398
+    ],
+    "tendency": 14.601651412878823
   },
   {
     "NAF Nr": "34490",
@@ -1680,6 +2213,32 @@ const imperialnobility2025 = [
     "tendency": 5.999861481278657
   },
   {
+    "NAF Nr": "34538",
+    "NAF Name": "LaZa",
+    "CCAA": "Apatrida",
+    "Country": "Hungary",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 5,
+    "gamesWon": 4,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 80,
+    "rating": 163.0664969298297,
+    "bestRating": 163.0664969298297,
+    "worstRating": 154.07021916748786,
+    "_lastTenRatings": [
+      154.07021916748786,
+      158.55615083706778,
+      154.09731283786147,
+      158.58229744231613,
+      163.0664969298297
+    ],
+    "tendency": 8.996277762341833
+  },
+  {
     "NAF Nr": "34597",
     "NAF Name": "civ92",
     "CCAA": "Apatrida",
@@ -1719,7 +2278,7 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 61.11,
-    "rating": 159.48561464656842,
+    "rating": 159.47108625694108,
     "bestRating": 164.97022012260206,
     "worstRating": 149.51001280726268,
     "_lastTenRatings": [
@@ -1731,9 +2290,60 @@ const imperialnobility2025 = [
       155.16863204540093,
       160.0654758468581,
       164.97022012260206,
-      159.48561464656842
+      159.47108625694108
     ],
-    "tendency": 3.828760397076053
+    "tendency": 3.814232007448709
+  },
+  {
+    "NAF Nr": "34694",
+    "NAF Name": "boti",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      150
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "34831",
+    "NAF Name": "muminslayer",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 143.85774036307274,
+    "bestRating": 165.03195818116234,
+    "worstRating": 143.85774036307274,
+    "_lastTenRatings": [
+      157.74596669241484,
+      165.03195818116234,
+      157.5234470958695,
+      149.7911627761066,
+      150.78714563232825,
+      143.85774036307274
+    ],
+    "tendency": -13.888226329342103
   },
   {
     "NAF Nr": "34976",
@@ -1831,18 +2441,45 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 41.67,
-    "rating": 144.09901962773768,
-    "bestRating": 155.65685424949237,
-    "worstRating": 144.09901962773768,
+    "rating": 144.09901889875002,
+    "bestRating": 155.65685418319217,
+    "worstRating": 144.09901889875002,
     "_lastTenRatings": [
       144.34314575050763,
       144.34314575050763,
-      150,
-      155.65685424949237,
-      149.75454514126653,
-      144.09901962773768
+      149.99999996534527,
+      155.65685418319217,
+      149.75454507783954,
+      144.09901889875002
     ],
-    "tendency": -0.2441261227699556
+    "tendency": -0.2441268517576134
+  },
+  {
+    "NAF Nr": "35400",
+    "NAF Name": "baddestgj",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 138.68629150101526,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      144.34314575050763,
+      144.34314575050763,
+      138.68629150101526,
+      138.68629150101526
+    ],
+    "tendency": -5.656854249492369
   },
   {
     "NAF Nr": "35444",
@@ -1903,6 +2540,32 @@ const imperialnobility2025 = [
       133.50976649895247
     ],
     "tendency": -16.490233501047527
+  },
+  {
+    "NAF Nr": "35833",
+    "NAF Name": "mackz",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 40,
+    "rating": 144.68020855067783,
+    "bestRating": 156.02782852434058,
+    "worstRating": 144.68020855067783,
+    "_lastTenRatings": [
+      155.65685424949237,
+      156.02782852434058,
+      150.69931716064826,
+      150.43388755064183,
+      144.68020855067783
+    ],
+    "tendency": -10.976645698814536
   },
   {
     "NAF Nr": "35889",
@@ -2003,6 +2666,55 @@ const imperialnobility2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "36198",
+    "NAF Name": "rosstopher",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.993076896335,
+    "bestRating": 154.89897948556634,
+    "worstRating": 149.993076896335,
+    "_lastTenRatings": [
+      150,
+      154.89897948556634,
+      149.993076896335
+    ],
+    "tendency": -0.0069231036650023725
+  },
+  {
+    "NAF Nr": "36381",
+    "NAF Name": "peel1979",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 160.78157664232768,
+    "bestRating": 160.78157664232768,
+    "worstRating": 155.12338317718374,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.3717441788505,
+      155.12338317718374,
+      160.78157664232768
+    ],
+    "tendency": 5.124722392835309
+  },
+  {
     "NAF Nr": "36562",
     "NAF Name": "choza",
     "CCAA": "Apatrida",
@@ -2025,6 +2737,57 @@ const imperialnobility2025 = [
       138.68629150101526
     ],
     "tendency": -5.656854249492369
+  },
+  {
+    "NAF Nr": "36716",
+    "NAF Name": "PeteRob616",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 161.31370849898474,
+    "bestRating": 161.31370849898474,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.65685424949237,
+      161.31370849898474
+    ],
+    "tendency": 11.313708498984738
+  },
+  {
+    "NAF Nr": "36738",
+    "NAF Name": "simonso",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 143.49135133365908,
+    "bestRating": 157.77877487728907,
+    "worstRating": 143.49135133365908,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150.03488200705084,
+      157.77877487728907,
+      150.50289376875205,
+      150.90616201775106,
+      143.49135133365908
+    ],
+    "tendency": -14.254615358755757
   },
   {
     "NAF Nr": "36770",
@@ -2082,6 +2845,30 @@ const imperialnobility2025 = [
       154.2426406871193
     ],
     "tendency": 0
+  },
+  {
+    "NAF Nr": "37083",
+    "NAF Name": "StiefelSven",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.60384184568852,
+    "bestRating": 150,
+    "worstRating": 144.9009804864072,
+    "_lastTenRatings": [
+      144.9009804864072,
+      150,
+      149.60384184568852
+    ],
+    "tendency": 4.702861359281314
   },
   {
     "NAF Nr": "37143",
@@ -2158,6 +2945,54 @@ const imperialnobility2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "37392",
+    "NAF Name": "rhicheese",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.65685424949237,
+    "bestRating": 155.65685424949237,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      155.65685424949237
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "37770",
+    "NAF Name": "HookahLord",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.52786404500043,
+    "bestRating": 150,
+    "worstRating": 145.52786404500043,
+    "_lastTenRatings": [
+      145.52786404500043,
+      150,
+      145.52786404500043
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "37907",
     "NAF Name": "Stupot",
     "CCAA": "Apatrida",
@@ -2171,15 +3006,63 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 16.67,
-    "rating": 139.41064745496567,
+    "rating": 139.41043829001617,
     "bestRating": 144.70849737787083,
-    "worstRating": 139.40968818341577,
+    "worstRating": 139.4101660404979,
     "_lastTenRatings": [
       144.70849737787083,
-      139.40968818341577,
-      139.41064745496567
+      139.4101660404979,
+      139.41043829001617
     ],
-    "tendency": -5.297849922905158
+    "tendency": -5.298059087854654
+  },
+  {
+    "NAF Nr": "37962",
+    "NAF Name": "Honza",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.52786404500043,
+    "bestRating": 154.47213595499957,
+    "worstRating": 145.52786404500043,
+    "_lastTenRatings": [
+      154.47213595499957,
+      150,
+      145.52786404500043
+    ],
+    "tendency": -8.944271909999145
+  },
+  {
+    "NAF Nr": "38371",
+    "NAF Name": "mrdiecoke",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 133.04023188664723,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.04023188664723,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.04023188664723
+    ],
+    "tendency": -11.302913863860397
   },
   {
     "NAF Nr": "38582",
@@ -2247,8 +3130,8 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 161.3239230145875,
-    "bestRating": 161.3239230145875,
+    "rating": 161.32392301446276,
+    "bestRating": 161.32392301446276,
     "worstRating": 138.68629150101526,
     "_lastTenRatings": [
       144.34314575050763,
@@ -2256,9 +3139,9 @@ const imperialnobility2025 = [
       144.34314575050763,
       150,
       155.65639153834243,
-      161.3239230145875
+      161.32392301446276
     ],
-    "tendency": 16.980777264079876
+    "tendency": 16.980777263955133
   },
   {
     "NAF Nr": "39062",
@@ -2322,15 +3205,39 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 16.67,
-    "rating": 138.7343847362463,
+    "rating": 138.74765854987496,
     "bestRating": 144.34314575050763,
-    "worstRating": 138.7343847362463,
+    "worstRating": 138.74765854987496,
     "_lastTenRatings": [
       144.34314575050763,
       144.34314575050763,
-      138.7343847362463
+      138.74765854987496
     ],
-    "tendency": -5.608761014261319
+    "tendency": -5.595487200632675
+  },
+  {
+    "NAF Nr": "40178",
+    "NAF Name": "BlueWizard",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 144.9009804864072,
+    "_lastTenRatings": [
+      144.9009804864072,
+      150,
+      150
+    ],
+    "tendency": 5.099019513592793
   },
   {
     "NAF Nr": "40327",
@@ -2370,16 +3277,16 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 138.45436728748075,
+    "rating": 138.45400392467116,
     "bestRating": 149.78034960594618,
-    "worstRating": 138.45436728748075,
+    "worstRating": 138.45400392467116,
     "_lastTenRatings": [
       144.1135257338732,
       149.78034960594618,
       143.88756000190264,
-      138.45436728748075
+      138.45400392467116
     ],
-    "tendency": -5.659158446392439
+    "tendency": -5.659521809202033
   },
   {
     "NAF Nr": "40770",
@@ -2406,6 +3313,32 @@ const imperialnobility2025 = [
     "tendency": -3.877234030700407
   },
   {
+    "NAF Nr": "40926",
+    "NAF Name": "Peanutline",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 40,
+    "rating": 144.0976230034434,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.68622053738943,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      144.34314575050763,
+      138.68622053738943,
+      144.0976230034434
+    ],
+    "tendency": -0.2455227470642285
+  },
+  {
     "NAF Nr": "41423",
     "NAF Name": "Rayist",
     "CCAA": "Apatrida",
@@ -2419,15 +3352,15 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 144.52277442494835,
-    "bestRating": 150,
-    "worstRating": 144.52277442494835,
+    "rating": 146.68049455128374,
+    "bestRating": 150.97987393447164,
+    "worstRating": 145.48944978951894,
     "_lastTenRatings": [
-      144.52277442494835,
-      150,
-      144.52277442494835
+      145.48944978951894,
+      150.97987393447164,
+      146.68049455128374
     ],
-    "tendency": 0
+    "tendency": 1.1910447617648003
   },
   {
     "NAF Nr": "42181",
@@ -2452,16 +3385,111 @@ const imperialnobility2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 128.33143597691276,
+    "rating": 128.14617510591134,
     "bestRating": 144.34314575050763,
-    "worstRating": 128.33143597691276,
+    "worstRating": 128.14617510591134,
     "_lastTenRatings": [
       144.34314575050763,
       138.68629150101526,
-      133.51942444426018,
-      128.33143597691276
+      133.3258162844243,
+      128.14617510591134
     ],
-    "tendency": -16.011709773594873
+    "tendency": -16.19697064459629
+  },
+  {
+    "NAF Nr": "42213",
+    "NAF Name": "devonexile",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 134.12549213361248,
+    "bestRating": 144.70849737787083,
+    "worstRating": 134.12549213361248,
+    "_lastTenRatings": [
+      144.70849737787083,
+      139.41699475574165,
+      134.12549213361248
+    ],
+    "tendency": -10.583005244258345
+  },
+  {
+    "NAF Nr": "42253",
+    "NAF Name": "konrad",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 8,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 7,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 6.25,
+    "rating": 118.28215290054915,
+    "bestRating": 145.52786404500043,
+    "worstRating": 118.28215290054915,
+    "_lastTenRatings": [
+      145.52786404500043,
+      141.05572809000085,
+      136.58359213500128,
+      131.50720070330755,
+      132.06271513324467,
+      127.15385713976634,
+      122.27088837023423,
+      118.28215290054915
+    ],
+    "tendency": -27.245711144451278
+  },
+  {
+    "NAF Nr": "42530",
+    "NAF Name": "drudgedouche",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 147.16896152338427,
+    "bestRating": 150,
+    "worstRating": 147.16896152338427,
+    "_lastTenRatings": [
+      147.17157287525382,
+      150,
+      147.16896152338427
+    ],
+    "tendency": -0.002611351869546752
   },
   {
     "NAF Nr": "42629",
@@ -2527,18 +3555,18 @@ const imperialnobility2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 132.91166219197527,
-    "bestRating": 150,
-    "worstRating": 132.91166219197527,
+    "rating": 133.52481887205514,
+    "bestRating": 150.72896240410788,
+    "worstRating": 133.52481887205514,
     "_lastTenRatings": [
-      150,
-      149.99969687476292,
-      144.33646731173292,
-      144.19290592787272,
-      138.55029047489867,
-      132.91166219197527
+      150.72896240410788,
+      150.69700955754908,
+      145.00350460987337,
+      144.8323071942817,
+      139.19116670242215,
+      133.52481887205514
     ],
-    "tendency": -17.088337808024733
+    "tendency": -17.20414353205274
   },
   {
     "NAF Nr": "43043",
@@ -2620,5 +3648,77 @@ const imperialnobility2025 = [
       139.8019609728144
     ],
     "tendency": -5.099019513592793
+  },
+  {
+    "NAF Nr": "43430",
+    "NAF Name": "Liberman88",
+    "CCAA": "Apatrida",
+    "Country": "Russia",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 139.22967038573097,
+    "bestRating": 150,
+    "worstRating": 139.22967038573097,
+    "_lastTenRatings": [
+      150,
+      144.61483519286548,
+      139.22967038573097
+    ],
+    "tendency": -10.77032961426903
+  },
+  {
+    "NAF Nr": "43432",
+    "NAF Name": "Lapyh",
+    "CCAA": "Apatrida",
+    "Country": "Russia",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.22245655927313,
+    "bestRating": 150.22245655927313,
+    "worstRating": 144.61483519286548,
+    "_lastTenRatings": [
+      144.61483519286548,
+      144.61483519286548,
+      150.22245655927313
+    ],
+    "tendency": 5.607621366407642
+  },
+  {
+    "NAF Nr": "43464",
+    "NAF Name": "jillogloria",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "31",
+    "raceName": "Imperial Nobility",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 138.9867941454858,
+    "bestRating": 146.25834261322606,
+    "worstRating": 138.9867941454858,
+    "_lastTenRatings": [
+      146.25834261322606,
+      142.62410966668173,
+      138.9867941454858
+    ],
+    "tendency": -7.271548467740274
   }
 ];

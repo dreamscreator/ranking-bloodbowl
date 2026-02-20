@@ -33252,7 +33252,7 @@ const statsYear2020 = [
   },
   {
     "NAF Nr": "22445",
-    "NAF Name": "inyector",
+    "NAF Name": "Fourrouses",
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "rating": 133.46924337023148,
@@ -70812,7 +70812,7 @@ const statsYear2020 = [
   },
   {
     "NAF Nr": "29157",
-    "NAF Name": "ninjadaterroa",
+    "NAF Name": "Ninja",
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "rating": 138.14372845785456,
@@ -74909,7 +74909,7 @@ const statsYear2020 = [
     "NAF Nr": "29571",
     "NAF Name": "freddo",
     "CCAA": "Apatrida",
-    "Country": "Undisclosed",
+    "Country": "Sweden",
     "rating": 140.5557597984115,
     "bestRating": 150.45095300439922,
     "worstRating": 135.8891463327979,

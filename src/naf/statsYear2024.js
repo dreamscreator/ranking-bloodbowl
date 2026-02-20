@@ -35949,9 +35949,9 @@ const statsYear2024 = [
     "winRatio": 47.73,
     "trophies": {
       "winner": 0,
-      "runnerup": 0,
+      "runnerup": 1,
       "touchdowns": 0,
-      "casualties": 1,
+      "casualties": 2,
       "stuntycup": 0,
       "bestpainted": 0,
       "otherawards": 1
@@ -47605,7 +47605,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "22345",
-    "NAF Name": "stevieg",
+    "NAF Name": "DaLuckyStevieG",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 143.02872274643755,
@@ -48223,7 +48223,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "22445",
-    "NAF Name": "inyector",
+    "NAF Name": "Fourrouses",
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "rating": 136.67842733598144,
@@ -91457,7 +91457,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "29157",
-    "NAF Name": "ninjadaterroa",
+    "NAF Name": "Ninja",
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "rating": 168.34046129670566,
@@ -94623,7 +94623,7 @@ const statsYear2024 = [
     "NAF Nr": "29571",
     "NAF Name": "freddo",
     "CCAA": "Apatrida",
-    "Country": "Undisclosed",
+    "Country": "Sweden",
     "rating": 150.11969132774482,
     "bestRating": 150.12412224846315,
     "worstRating": 134.50806661517032,
@@ -96123,7 +96123,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "29756",
-    "NAF Name": "marquitos",
+    "NAF Name": "TejonMelero",
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 155.91777211960743,
@@ -111990,7 +111990,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "31498",
-    "NAF Name": "komodo661",
+    "NAF Name": "MrCrowley",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 125.75866371786195,
@@ -125056,7 +125056,7 @@ const statsYear2024 = [
     "NAF Nr": "32619",
     "NAF Name": "zalmour",
     "CCAA": "Apatrida",
-    "Country": "Undisclosed",
+    "Country": "Sweden",
     "rating": 171.41055479278657,
     "bestRating": 171.41055479278657,
     "worstRating": 140.43885765969077,
@@ -131044,6 +131044,15 @@ const statsYear2024 = [
     "gamesLost": 11,
     "gamesTotal": 46,
     "winRatio": 60.87,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       180.63621652853107,
       179.02631249165117,
@@ -159041,6 +159050,15 @@ const statsYear2024 = [
     "gamesLost": 2,
     "gamesTotal": 3,
     "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       145.28961092207203,
       149.3026193016496,
@@ -160437,6 +160455,15 @@ const statsYear2024 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
     "_lastTenRatingsYear": [
       144.9980813325168,
       147.80765231124892,
@@ -167233,7 +167260,7 @@ const statsYear2024 = [
     "NAF Nr": "36344",
     "NAF Name": "zarganlawful",
     "CCAA": "Apatrida",
-    "Country": "Brazil",
+    "Country": "England",
     "rating": 138.17376571968882,
     "bestRating": 150.1586741521489,
     "worstRating": 137.33024134625973,
@@ -176070,7 +176097,7 @@ const statsYear2024 = [
   },
   {
     "NAF Nr": "37003",
-    "NAF Name": "canabos",
+    "NAF Name": "VVAX",
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 138.8889792449066,
@@ -189046,7 +189073,7 @@ const statsYear2024 = [
     "NAF Nr": "37799",
     "NAF Name": "ash1986",
     "CCAA": "Apatrida",
-    "Country": "England",
+    "Country": "Ireland",
     "rating": 128.10258699159078,
     "bestRating": 149.5312556311169,
     "worstRating": 124.00159882891148,

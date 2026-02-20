@@ -55,11 +55,23 @@
         coach: item["NAF Name"] || "",
         country: item["Country"] || "",
 
-        maxScored: item.maxScored || 0,
-        maxConceded: item.maxConceded || 0,
-        maxCombined: item.maxCombined || 0,
-        biggestWinDiff: item.biggestWinDiff || 0,
-        biggestLossDiff: item.biggestLossDiff || 0,
+        // TD
+        tdMaxScored: item.tdMaxScored || 0,
+        tdMaxConceded: item.tdMaxConceded || 0,
+        tdMediaFor: item.tdMediaFor || 0,
+        tdMediaAgain: item.tdMediaAgain || 0,
+        tdMaxDifFor: item.tdMaxDifFor || 0,
+        tdMaxDifAgain: item.tdMaxDifAgain || 0,
+        tdMaxDifCombined: item.tdMaxDifCombined || 0,
+
+        // CAS
+        casMaxScored: item.casMaxScored || 0,
+        casMaxConceded: item.casMaxConceded || 0,
+        casMediaFor: item.casMediaFor || 0,
+        casMediaAgain: item.casMediaAgain || 0,
+        casMaxDifFor: item.casMaxDifFor || 0,
+        casMaxDifAgain: item.casMaxDifAgain || 0,
+        casMaxDifCombined: item.casMaxDifCombined || 0,
 
         // Archienemigo
         rivalCount: archCount, // Para poder ordenar numéricamente
@@ -98,15 +110,27 @@
 
     // Lista de keys válidas que coinciden con data-key de los botones
     const validSortKeys = new Set([
-      "maxScored",
-      "maxConceded",
-      "maxCombined",
-      "biggestWinDiff",
-      "biggestLossDiff",
+      // TD
+      "tdMaxScored",
+      "tdMaxConceded",
+      "tdMediaFor",
+      "tdMediaAgain",
+      "tdMaxDifFor",
+      "tdMaxDifAgain",
+      "tdMaxDifCombined",
+      // CAS
+      "casMaxScored",
+      "casMaxConceded",
+      "casMediaFor",
+      "casMaxDifFor",
+      "casMediaAgain",
+      "casMaxDifAgain",
+      "casMaxDifCombined",
+
       "rivalCount"
     ]);
 
-    let sortState = { key: "maxScored", dir: "desc" };
+    let sortState = { key: "tdMaxScored", dir: "desc" };
 
     function setSort(key) {
       if (!validSortKeys.has(key)) return;
@@ -295,31 +319,57 @@
         // We will render as -X.
 
         // Render
-        /* Columnas:
-           1. NAF #
-           2. Entrenador
-           3. País
-           4. Max Scored (Max A.)
-           5. Max Conceded (Max E.)
-           6. Combined (Comb.)
-           7. Win Diff (Dif V.) (+X)
-           8. Loss Diff (Dif D.) (-X)
-           9. Archienemigo (N vs Name)
+        // Render
+        /* Columnas (18 total):
+           1. NAF # | 2. Entrenador | 3. País
+           
+           TD:
+           4. tdMaxScored   | 5. tdMaxConceded
+           6. tdMediaFor    | 7. tdMediaAgain
+           8. tdMaxDifFor   | 9. tdMaxDifAgain
+           10. tdMaxDifCombined
+           
+           CAS:
+           11. casMaxScored | 12. casMaxConceded
+           13. casMediaFor  | 14. casMediaAgain
+           15. casMaxDifFor | 16. casMaxDifAgain
+           17. casMaxDifCombined
+
+           18. Archienemigo
         */
+
+        // Clases para diferencias
+        const tdDifForClass = row.tdMaxDifFor > 0 ? "text-success fw-bold" : "";
+        const tdDifAgainClass = row.tdMaxDifAgain > 0 ? "text-danger fw-bold" : "";
+
+        const casDifForClass = row.casMaxDifFor > 0 ? "text-success fw-bold" : "";
+        const casDifAgainClass = row.casMaxDifAgain > 0 ? "text-danger fw-bold" : "";
+
 
         tr.innerHTML = `
           <td>${row.nafNr}</td>
-          <td class="fw-bold">${row.coach}</td>
+          <td class="text-start">${row.coach}</td>
           <td class="country-column">${row.country}</td>
           
-          <td>${row.maxScored}</td>
-          <td>${row.maxConceded}</td>
-          <td>${row.maxCombined}</td>
+          <!-- TD -->
+          <td>${row.tdMaxScored}</td>
+          <td>${row.tdMaxConceded}</td>
+          <td>${row.tdMediaFor}</td>
+          <td>${row.tdMediaAgain}</td>
+          <td class="${tdDifForClass}">+${row.tdMaxDifFor}</td>
+          <td class="${tdDifAgainClass}">-${Math.abs(row.tdMaxDifAgain)}</td>
+          <td>${row.tdMaxDifCombined}</td>
+
+          <!-- CAS -->
+          <td>${row.casMaxScored}</td>
+          <td>${row.casMaxConceded}</td>
+          <td>${row.casMediaFor}</td>
+          <td>${row.casMediaAgain}</td>
+          <td class="${casDifForClass}">+${row.casMaxDifFor}</td>
+          <td class="${casDifAgainClass}">-${Math.abs(row.casMaxDifAgain)}</td>
+          <td>${row.casMaxDifCombined}</td>
           
-          <td class="${winDiffClass}">+${row.biggestWinDiff}</td>
-          <td class="${lossDiffClass}">-${Math.abs(row.biggestLossDiff)}</td>
-          
-          <td>${row.rivalStr}</td>
+          <td class="text-start">${row.rivalStr}</td>
         `;
         tableBody.appendChild(tr);
       });

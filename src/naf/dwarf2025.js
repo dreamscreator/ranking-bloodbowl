@@ -13,7 +13,7 @@ const dwarf2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 21.43,
-    "rating": 135.2080884991903,
+    "rating": 134.7822300198622,
     "bestRating": 155.65685424949237,
     "worstRating": 130.70195987377272,
     "_lastTenRatings": [
@@ -24,9 +24,9 @@ const dwarf2025 = [
       138.67653969498838,
       134.69552504490514,
       130.70195987377272,
-      135.2080884991903
+      134.7822300198622
     ],
-    "tendency": -20.448765750302073
+    "tendency": -20.87462422963017
   },
   {
     "NAF Nr": "128",
@@ -42,17 +42,17 @@ const dwarf2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 60,
-    "rating": 153.77790031817227,
+    "rating": 153.7777140236297,
     "bestRating": 153.87640469813186,
-    "worstRating": 149.90105632213496,
+    "worstRating": 149.90087000671053,
     "_lastTenRatings": [
       150,
       153.8729833462074,
       153.87640469813186,
-      149.90105632213496,
-      153.77790031817227
+      149.90087000671053,
+      153.7777140236297
     ],
-    "tendency": 3.7779003181722715
+    "tendency": 3.7777140236296987
   },
   {
     "NAF Nr": "1315",
@@ -77,6 +77,33 @@ const dwarf2025 = [
       144.34314575050763
     ],
     "tendency": 0
+  },
+  {
+    "NAF Nr": "3902",
+    "NAF Name": "Azaghal_es",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 142.34095569512533,
+    "bestRating": 157.74596669241484,
+    "worstRating": 134.54577996835772,
+    "_lastTenRatings": [
+      157.74596669241484,
+      157.74596669241484,
+      150,
+      142.26505538448157,
+      134.54577996835772,
+      142.34095569512533
+    ],
+    "tendency": -15.405010997289509
   },
   {
     "NAF Nr": "5571",
@@ -149,17 +176,17 @@ const dwarf2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 60,
-    "rating": 155.6283360480656,
-    "bestRating": 155.6283360480656,
+    "rating": 155.62833468019932,
+    "bestRating": 155.62833468019932,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       150,
       144.34314575050763,
       150.23593535455117,
       150.2256915337512,
-      155.6283360480656
+      155.62833468019932
     ],
-    "tendency": 5.6283360480655915
+    "tendency": 5.628334680199316
   },
   {
     "NAF Nr": "9957",
@@ -202,17 +229,17 @@ const dwarf2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 60,
-    "rating": 153.12496178753463,
-    "bestRating": 153.12496178753463,
+    "rating": 153.1250643521032,
+    "bestRating": 153.1250643521032,
     "worstRating": 146.12359530186814,
     "_lastTenRatings": [
       150,
       146.1270166537926,
       146.12359530186814,
-      149.49306925287388,
-      153.12496178753463
+      149.49316061437105,
+      153.1250643521032
     ],
-    "tendency": 3.1249617875346303
+    "tendency": 3.125064352103209
   },
   {
     "NAF Nr": "13750",
@@ -277,15 +304,15 @@ const dwarf2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 154.0555570895677,
+    "rating": 154.05555810445404,
     "bestRating": 154.2131229387818,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       154.2131229387818,
-      154.0555570895677
+      154.05555810445404
     ],
-    "tendency": 4.0555570895677135
+    "tendency": 4.055558104454036
   },
   {
     "NAF Nr": "16278",
@@ -294,25 +321,29 @@ const dwarf2025 = [
     "Country": "Sweden",
     "raceId": "5",
     "raceName": "Dwarf",
-    "gamesTotal": 6,
-    "gamesWon": 3,
-    "gamesDraw": 3,
-    "gamesLost": 0,
+    "gamesTotal": 12,
+    "gamesWon": 6,
+    "gamesDraw": 4,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 75,
-    "rating": 165.84869493460812,
-    "bestRating": 165.84869493460812,
+    "totalTournaments": 2,
+    "winRatio": 66.67,
+    "rating": 168.37311724362328,
+    "bestRating": 169.73640375538855,
     "worstRating": 150,
     "_lastTenRatings": [
-      150,
-      155.40327527829118,
       155.19615242270663,
       160.76592649772638,
       160.71996324555636,
-      165.84869493460812
+      165.84869493460812,
+      164.91107067757386,
+      156.2824539858192,
+      162.74579840597858,
+      169.73640375538855,
+      161.2050812342556,
+      168.37311724362328
     ],
-    "tendency": 15.848694934608119
+    "tendency": 13.176964820916652
   },
   {
     "NAF Nr": "18221",
@@ -400,15 +431,15 @@ const dwarf2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 16.67,
-    "rating": 142.51668522645213,
+    "rating": 142.510584214935,
     "bestRating": 150,
-    "worstRating": 142.51668522645213,
+    "worstRating": 142.510584214935,
     "_lastTenRatings": [
       150,
-      146.25834261322606,
-      142.51668522645213
+      146.2520612106193,
+      142.510584214935
     ],
-    "tendency": -7.483314773547875
+    "tendency": -7.489415785065006
   },
   {
     "NAF Nr": "21087",
@@ -435,6 +466,89 @@ const dwarf2025 = [
       150.0000000000682
     ],
     "tendency": 5.656854249560581
+  },
+  {
+    "NAF Nr": "22087",
+    "NAF Name": "gloosniffer81",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.07322014053315,
+    "bestRating": 152.90177834433194,
+    "worstRating": 150.07175883956225,
+    "_lastTenRatings": [
+      152.90177834433194,
+      150.07175883956225,
+      150.07322014053315
+    ],
+    "tendency": -2.828558203798792
+  },
+  {
+    "NAF Nr": "22445",
+    "NAF Name": "Fourrouses",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 2,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 144.57794347239155,
+    "bestRating": 144.58860060924107,
+    "worstRating": 144.57794347239155,
+    "_lastTenRatings": [
+      144.58860060924107,
+      144.57794347239155
+    ],
+    "tendency": -0.010657136849516746
+  },
+  {
+    "NAF Nr": "24059",
+    "NAF Name": "Dr.One",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 4,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 135.69699007709798,
+    "bestRating": 150.01401440779756,
+    "worstRating": 135.29671186428143,
+    "_lastTenRatings": [
+      150,
+      149.5400247963327,
+      150.01401440779756,
+      142.72757517635546,
+      135.29671186428143,
+      135.69699007709798
+    ],
+    "tendency": -14.303009922902021
   },
   {
     "NAF Nr": "24449",
@@ -486,6 +600,42 @@ const dwarf2025 = [
     "tendency": -5.318603886942924
   },
   {
+    "NAF Nr": "25564",
+    "NAF Name": "Dake",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 150.40752419005815,
+    "bestRating": 165.49193338482968,
+    "worstRating": 150.40752419005815,
+    "_lastTenRatings": [
+      157.74596669241484,
+      157.74596669241484,
+      165.49193338482968,
+      158.20594189608218,
+      158.178595337832,
+      150.40752419005815
+    ],
+    "tendency": -7.338442502356685
+  },
+  {
     "NAF Nr": "26048",
     "NAF Name": "m4cguff1n",
     "CCAA": "Apatrida",
@@ -508,6 +658,30 @@ const dwarf2025 = [
       150
     ],
     "tendency": -5.656854249492369
+  },
+  {
+    "NAF Nr": "26295",
+    "NAF Name": "Jenavil",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.70508305178873,
+    "bestRating": 155.70508305178873,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      150,
+      155.70508305178873
+    ],
+    "tendency": 5.705083051788733
   },
   {
     "NAF Nr": "27626",
@@ -594,6 +768,54 @@ const dwarf2025 = [
     "tendency": 5.422056527608447
   },
   {
+    "NAF Nr": "30200",
+    "NAF Name": "kuro82",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.4057468883316,
+    "bestRating": 151.11082994012034,
+    "worstRating": 145.4057468883316,
+    "_lastTenRatings": [
+      145.50439335882314,
+      151.11082994012034,
+      145.4057468883316
+    ],
+    "tendency": -0.09864647049153064
+  },
+  {
+    "NAF Nr": "30809",
+    "NAF Name": "borek_g",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 161.30305136213522,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      161.30305136213522
+    ],
+    "tendency": 5.646197112642852
+  },
+  {
     "NAF Nr": "31526",
     "NAF Name": "Hinderance",
     "CCAA": "Apatrida",
@@ -644,6 +866,30 @@ const dwarf2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "32265",
+    "NAF Name": "DangerNoodle",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 143.53103169624896,
+    "bestRating": 146.6833752096446,
+    "worstRating": 143.36220581081793,
+    "_lastTenRatings": [
+      146.6833752096446,
+      143.36220581081793,
+      143.53103169624896
+    ],
+    "tendency": -3.1523435133956355
+  },
+  {
     "NAF Nr": "33324",
     "NAF Name": "runbad",
     "CCAA": "Apatrida",
@@ -666,6 +912,39 @@ const dwarf2025 = [
       161.30305136213522
     ],
     "tendency": 5.646197112642852
+  },
+  {
+    "NAF Nr": "33491",
+    "NAF Name": "dwarvenpower",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 141.72096891553664,
+    "bestRating": 147.31372323445908,
+    "worstRating": 141.72096891553664,
+    "_lastTenRatings": [
+      147.31372323445908,
+      144.48221017156885,
+      141.72096891553664
+    ],
+    "tendency": -5.592754318922431
   },
   {
     "NAF Nr": "33751",
@@ -701,6 +980,40 @@ const dwarf2025 = [
     "tendency": 11.313708498984738
   },
   {
+    "NAF Nr": "33953",
+    "NAF Name": "sergi_lpdl",
+    "CCAA": "Apatrida",
+    "Country": "Andorra",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 138.4911601870088,
+    "bestRating": 144.34314575050763,
+    "worstRating": 132.81419489283638,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.4612795938561,
+      132.81419489283638,
+      138.4911601870088
+    ],
+    "tendency": -5.851985563498829
+  },
+  {
     "NAF Nr": "34582",
     "NAF Name": "mrlight",
     "CCAA": "Apatrida",
@@ -723,15 +1036,98 @@ const dwarf2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 145.9809058081294,
-    "bestRating": 145.9809058081294,
+    "rating": 145.9659900096029,
+    "bestRating": 145.9659900096029,
     "worstRating": 141.64722267795685,
     "_lastTenRatings": [
       145.64110105645932,
       141.64722267795685,
-      145.9809058081294
+      145.9659900096029
     ],
-    "tendency": 0.33980475167007285
+    "tendency": 0.324888953143585
+  },
+  {
+    "NAF Nr": "35034",
+    "NAF Name": "ulmar99",
+    "CCAA": "Apatrida",
+    "Country": "Ukraine",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 10,
+    "rating": 138.93130487104398,
+    "bestRating": 150,
+    "worstRating": 138.93130487104398,
+    "_lastTenRatings": [
+      150,
+      147.17157287525382,
+      144.34314575050763,
+      141.51738291233784,
+      138.93130487104398
+    ],
+    "tendency": -11.068695128956023
+  },
+  {
+    "NAF Nr": "35475",
+    "NAF Name": "glamazon3000",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.0438021432979,
+    "bestRating": 155.0438021432979,
+    "worstRating": 150.2959866230286,
+    "_lastTenRatings": [
+      154.77864339966843,
+      150.2959866230286,
+      155.0438021432979
+    ],
+    "tendency": 0.26515874362948466
+  },
+  {
+    "NAF Nr": "36005",
+    "NAF Name": "banzaj",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 154.47213595499957,
+    "bestRating": 154.47213595499957,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      154.47213595499957,
+      150,
+      154.47213595499957
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "36017",
@@ -747,17 +1143,17 @@ const dwarf2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 30,
-    "rating": 138.22287281686704,
-    "bestRating": 155.65685424949237,
-    "worstRating": 138.22287281686704,
+    "rating": 137.48015745803113,
+    "bestRating": 155.95746826813544,
+    "worstRating": 137.48015745803113,
     "_lastTenRatings": [
-      150,
-      155.65685424949237,
-      150,
-      144.11500461369874,
-      138.22287281686704
+      150.31425845342392,
+      155.95746826813544,
+      150.32116571489766,
+      143.30190804192162,
+      137.48015745803113
     ],
-    "tendency": -11.777127183132961
+    "tendency": -12.834100995392788
   },
   {
     "NAF Nr": "36310",
@@ -785,10 +1181,92 @@ const dwarf2025 = [
     "tendency": -7.208496799994293
   },
   {
+    "NAF Nr": "36561",
+    "NAF Name": "Chipboard",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 155.6422941432366,
+    "bestRating": 155.6422941432366,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      150,
+      155.6422941432366
+    ],
+    "tendency": 11.299148392728966
+  },
+  {
+    "NAF Nr": "36846",
+    "NAF Name": "Tyrion23",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.88957614808947,
+    "bestRating": 149.9881311576726,
+    "worstRating": 144.88957614808947,
+    "_lastTenRatings": [
+      144.9009804864072,
+      149.9881311576726,
+      144.88957614808947
+    ],
+    "tendency": -0.0114043383177318
+  },
+  {
+    "NAF Nr": "37576",
+    "NAF Name": "gazman84",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 160.78907168121918,
+    "bestRating": 160.78907168121918,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.50629247997702,
+      160.78907168121918
+    ],
+    "tendency": 10.789071681219184
+  },
+  {
     "NAF Nr": "37799",
     "NAF Name": "ash1986",
     "CCAA": "Apatrida",
-    "Country": "England",
+    "Country": "Ireland",
     "raceId": "5",
     "raceName": "Dwarf",
     "gamesTotal": 5,
@@ -817,22 +1295,25 @@ const dwarf2025 = [
     "Country": "United States Of America",
     "raceId": "5",
     "raceName": "Dwarf",
-    "gamesTotal": 3,
-    "gamesWon": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
     "gamesDraw": 0,
-    "gamesLost": 2,
+    "gamesLost": 4,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
+    "totalTournaments": 2,
     "winRatio": 33.33,
-    "rating": 146.47010891903366,
-    "bestRating": 150.1074244402296,
-    "worstRating": 146.25834261322606,
+    "rating": 143.24647339160387,
+    "bestRating": 153.605551275464,
+    "worstRating": 142.84806235329245,
     "_lastTenRatings": [
-      146.25834261322606,
-      150.1074244402296,
-      146.47010891903366
+      153.605551275464,
+      149.99455932321726,
+      146.48891171960335,
+      142.84806235329245,
+      146.7949050496907,
+      143.24647339160387
     ],
-    "tendency": 0.21176630580760047
+    "tendency": -10.359077883860124
   },
   {
     "NAF Nr": "38519",
@@ -848,17 +1329,71 @@ const dwarf2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 60,
-    "rating": 155.45310976413813,
-    "bestRating": 161.0682536402513,
-    "worstRating": 155.1765824737219,
+    "rating": 155.4561492464837,
+    "bestRating": 160.84728913822173,
+    "worstRating": 154.81980657058992,
     "_lastTenRatings": [
-      155.65685424949237,
-      161.0682536402513,
-      155.1765824737219,
-      160.84409469347526,
-      155.45310976413813
+      155.2670157073101,
+      160.6953113684096,
+      154.81980657058992,
+      160.84728913822173,
+      155.4561492464837
     ],
-    "tendency": -0.2037444853542354
+    "tendency": 0.18913353917361064
+  },
+  {
+    "NAF Nr": "38650",
+    "NAF Name": "Migui1701",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 119.79297533079651,
+    "bestRating": 142.25403330758516,
+    "worstRating": 119.43406222301542,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.96804181883766,
+      127.19472856817266,
+      119.43406222301542,
+      127.15518208078443,
+      119.79297533079651
+    ],
+    "tendency": -22.461057976788652
+  },
+  {
+    "NAF Nr": "39694",
+    "NAF Name": "Danielux",
+    "CCAA": "Apatrida",
+    "Country": "Ladonia",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 134.96642854837725,
+    "bestRating": 142.71401612080066,
+    "worstRating": 134.50806661517032,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.50806661517032,
+      142.25403330758516,
+      134.50806661517032,
+      142.71401612080066,
+      134.96642854837725
+    ],
+    "tendency": -7.287604759207909
   },
   {
     "NAF Nr": "39820",
@@ -874,17 +1409,17 @@ const dwarf2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 30,
-    "rating": 139.18282161334355,
-    "bestRating": 155.65685424949237,
-    "worstRating": 139.18282161334355,
+    "rating": 140.09807666390614,
+    "bestRating": 155.40017883429704,
+    "worstRating": 140.09807666390614,
     "_lastTenRatings": [
-      155.65685424949237,
-      155.65685424949237,
-      150,
-      144.58860060924107,
-      139.18282161334355
+      154.78438978077185,
+      155.40017883429704,
+      150.3890317528825,
+      145.83798477529277,
+      140.09807666390614
     ],
-    "tendency": -16.47403263614882
+    "tendency": -14.686313116865705
   },
   {
     "NAF Nr": "39872",
@@ -909,6 +1444,105 @@ const dwarf2025 = [
       158
     ],
     "tendency": 4
+  },
+  {
+    "NAF Nr": "40225",
+    "NAF Name": "Rib-Goaty",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 158.94427190999915,
+    "bestRating": 158.94427190999915,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      154.47213595499957,
+      158.94427190999915
+    ],
+    "tendency": 8.944271909999145
+  },
+  {
+    "NAF Nr": "40433",
+    "NAF Name": "magicalpedro",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 138.93651386997905,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.25685748920915,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      138.68629150101526,
+      133.27489211025633,
+      133.25685748920915,
+      138.93651386997905
+    ],
+    "tendency": -5.406631880528579
+  },
+  {
+    "NAF Nr": "40467",
+    "NAF Name": "dazsd",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 135.48025848318997,
+    "bestRating": 145.10102051443366,
+    "worstRating": 135.48025848318997,
+    "_lastTenRatings": [
+      145.10102051443366,
+      140.38616107242132,
+      135.48025848318997
+    ],
+    "tendency": -9.620762031243686
+  },
+  {
+    "NAF Nr": "40498",
+    "NAF Name": "Mr._M03",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 151.3333927399591,
+    "bestRating": 151.3333927399591,
+    "worstRating": 144.9009804864072,
+    "_lastTenRatings": [
+      144.9009804864072,
+      146.05023047262634,
+      151.3333927399591
+    ],
+    "tendency": 6.432412253551888
   },
   {
     "NAF Nr": "41008",
@@ -961,6 +1595,55 @@ const dwarf2025 = [
     "tendency": -9.941882852138065
   },
   {
+    "NAF Nr": "41641",
+    "NAF Name": "muskari",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 140.61935367944338,
+    "bestRating": 145.3097763554695,
+    "worstRating": 140.61916848035315,
+    "_lastTenRatings": [
+      145.30958424017658,
+      140.61916848035315,
+      145.3097763554695,
+      140.61935367944338
+    ],
+    "tendency": -4.690230560733198
+  },
+  {
+    "NAF Nr": "41779",
+    "NAF Name": "JimChungus",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.9890553659313,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      149.9890553659313
+    ],
+    "tendency": 5.645909615423676
+  },
+  {
     "NAF Nr": "42605",
     "NAF Name": "watandersdanbas",
     "CCAA": "Apatrida",
@@ -974,15 +1657,15 @@ const dwarf2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.76520227811608,
+    "rating": 149.75500781892566,
     "bestRating": 155.41139939075893,
-    "worstRating": 149.76520227811608,
+    "worstRating": 149.75500781892566,
     "_lastTenRatings": [
       150,
       155.41139939075893,
-      149.76520227811608
+      149.75500781892566
     ],
-    "tendency": -0.2347977218839219
+    "tendency": -0.24499218107433762
   },
   {
     "NAF Nr": "42630",
@@ -1034,6 +1717,63 @@ const dwarf2025 = [
     "tendency": 5.488340654425315
   },
   {
+    "NAF Nr": "43187",
+    "NAF Name": "edctuna",
+    "CCAA": "Apatrida",
+    "Country": "Bulgaria",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 153.0874024230436,
+    "bestRating": 153.0874024230436,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      153.0855398918779,
+      153.0874024230436
+    ],
+    "tendency": 3.0874024230436135
+  },
+  {
+    "NAF Nr": "43240",
+    "NAF Name": "Hackbeil",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 134.70294145922162,
+    "bestRating": 144.9009804864072,
+    "worstRating": 134.70294145922162,
+    "_lastTenRatings": [
+      144.9009804864072,
+      139.8019609728144,
+      134.70294145922162
+    ],
+    "tendency": -10.198039027185587
+  },
+  {
     "NAF Nr": "43262",
     "NAF Name": "Bastion",
     "CCAA": "Apatrida",
@@ -1056,5 +1796,112 @@ const dwarf2025 = [
       144.90878645679504
     ],
     "tendency": -5.091213543204958
+  },
+  {
+    "NAF Nr": "43455",
+    "NAF Name": "DeathrollerSaysWatts",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 127.39987775573451,
+    "bestRating": 144.34314575050763,
+    "worstRating": 127.39987775573451,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0400943883724,
+      127.39987775573451
+    ],
+    "tendency": -16.943267994773123
+  },
+  {
+    "NAF Nr": "43459",
+    "NAF Name": "VelvetThunder",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 139.06350876880475,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.42329213616685,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.42329213616685,
+      139.06350876880475
+    ],
+    "tendency": -5.279636981702879
+  },
+  {
+    "NAF Nr": "43466",
+    "NAF Name": "ggiceman",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 146.36268200881455,
+    "bestRating": 150,
+    "worstRating": 146.36268200881455,
+    "_lastTenRatings": [
+      150,
+      146.36576705345567,
+      146.36268200881455
+    ],
+    "tendency": -3.637317991185455
+  },
+  {
+    "NAF Nr": "43570",
+    "NAF Name": "onewhoparks",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "5",
+    "raceName": "Dwarf",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 152.76703449966536,
+    "bestRating": 155.65685424949237,
+    "worstRating": 152.76703449966536,
+    "_lastTenRatings": [
+      152.82842712474618,
+      155.65685424949237,
+      152.76703449966536
+    ],
+    "tendency": -0.061392625080827656
   }
 ];

@@ -6,13 +6,13 @@ const blackorc2025 = [
     "Country": "Cayman Islands",
     "raceId": "30",
     "raceName": "Black Orc",
-    "gamesTotal": 5,
+    "gamesTotal": 8,
     "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 2,
+    "gamesDraw": 2,
+    "gamesLost": 4,
     "totalWinRatio": 0,
-    "totalTournaments": 2,
-    "winRatio": 50,
+    "totalTournaments": 3,
+    "winRatio": 37.5,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
@@ -22,18 +22,45 @@ const blackorc2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 142.7154118697181,
-    "bestRating": 154.38074698111612,
-    "worstRating": 142.7154118697181,
+    "rating": 134.7152487661944,
+    "bestRating": 145.32347513423892,
+    "worstRating": 134.7152487661944,
     "_lastTenRatings": [
-      154.2426406871193,
-      150,
-      154.38074698111612,
-      153.77567052406337,
-      148.12519135401294,
-      142.7154118697181
+      145,
+      140,
+      140,
+      144.56763745921754,
+      140.63947063297547,
+      145.32347513423892,
+      145.08375481775053,
+      139.7857350032774,
+      134.7152487661944
     ],
-    "tendency": -11.52722881740118
+    "tendency": -10.284751233805594
+  },
+  {
+    "NAF Nr": "371",
+    "NAF Name": "Loki",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.26586657400432,
+    "bestRating": 155.29150262212917,
+    "worstRating": 149.97327869874573,
+    "_lastTenRatings": [
+      155.29150262212917,
+      149.97327869874573,
+      155.26586657400432
+    ],
+    "tendency": -0.025636048124852095
   },
   {
     "NAF Nr": "2785",
@@ -60,6 +87,69 @@ const blackorc2025 = [
     "tendency": -5.505133617366766
   },
   {
+    "NAF Nr": "3904",
+    "NAF Name": "MUKITAURO",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 142.3179541666585,
+    "bestRating": 157.74596669241484,
+    "worstRating": 142.2861925445837,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150,
+      142.28822534643461,
+      142.2861925445837,
+      150.0575938706889,
+      142.3179541666585
+    ],
+    "tendency": -15.428012525756344
+  },
+  {
+    "NAF Nr": "4019",
+    "NAF Name": "JC",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 138.68275118348106,
+    "bestRating": 150.00088433241538,
+    "worstRating": 138.68275118348106,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.34314575050763,
+      150.00088433241538,
+      144.32925031604762,
+      138.68275118348106
+    ],
+    "tendency": -5.660394567026572
+  },
+  {
     "NAF Nr": "4668",
     "NAF Name": "tombstone_frank",
     "CCAA": "Apatrida",
@@ -73,16 +163,16 @@ const blackorc2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 12.5,
-    "rating": 139.5106457224287,
-    "bestRating": 146.59546275239066,
-    "worstRating": 139.5106457224287,
+    "rating": 139.58249110980717,
+    "bestRating": 146.60077648613273,
+    "worstRating": 139.58249110980717,
     "_lastTenRatings": [
-      146.59546275239066,
-      143.00795720407177,
-      143.08300860063184,
-      139.5106457224287
+      146.60077648613273,
+      143.08382416047334,
+      143.15683699766484,
+      139.58249110980717
     ],
-    "tendency": -7.084817029961954
+    "tendency": -7.018285376325565
   },
   {
     "NAF Nr": "8439",
@@ -107,18 +197,18 @@ const blackorc2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 167.10951803245587,
-    "bestRating": 167.10951803245587,
-    "worstRating": 150.01113807794806,
+    "rating": 168.0612045270052,
+    "bestRating": 168.0612045270052,
+    "worstRating": 151.17692824187188,
     "_lastTenRatings": [
       155.65685424949237,
-      150.01113807794806,
-      155.74267533471118,
-      155.72920484056164,
-      161.41113832300107,
-      167.10951803245587
+      151.17692824187188,
+      156.8578534611035,
+      156.79513156053457,
+      162.41855285110174,
+      168.0612045270052
     ],
-    "tendency": 11.452663782963498
+    "tendency": 12.404350277512833
   },
   {
     "NAF Nr": "12500",
@@ -143,17 +233,41 @@ const blackorc2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 135.317887437889,
+    "rating": 135.29683107124544,
     "bestRating": 145.10102051443366,
-    "worstRating": 135.29688955678813,
+    "worstRating": 135.29683107124544,
     "_lastTenRatings": [
       145.10102051443366,
       145.10102051443366,
       140.38693094757053,
-      135.29688955678813,
-      135.317887437889
+      135.29690688341478,
+      135.29683107124544
     ],
-    "tendency": -9.783133076544658
+    "tendency": -9.804189443188221
+  },
+  {
+    "NAF Nr": "12821",
+    "NAF Name": "Tet",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.34314575050763,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.34314575050763
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "13347",
@@ -169,15 +283,15 @@ const blackorc2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 147.23163272913584,
-    "bestRating": 147.23163272913584,
+    "rating": 147.2317034749188,
+    "bestRating": 147.2317034749188,
     "worstRating": 144.40453837558846,
     "_lastTenRatings": [
       147.17157287525382,
       144.40453837558846,
-      147.23163272913584
+      147.2317034749188
     ],
-    "tendency": 0.06005985388202362
+    "tendency": 0.060130599664972806
   },
   {
     "NAF Nr": "16802",
@@ -204,6 +318,55 @@ const blackorc2025 = [
       155.9023091082258
     ],
     "tendency": 0.24545485873343864
+  },
+  {
+    "NAF Nr": "17113",
+    "NAF Name": "hieronymus_tosh",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.69694863786478,
+    "bestRating": 150,
+    "worstRating": 138.69694863786478,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      138.69694863786478
+    ],
+    "tendency": -11.303051362135221
+  },
+  {
+    "NAF Nr": "17294",
+    "NAF Name": "flytime",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.1809517094022,
+    "bestRating": 150.1809517094022,
+    "worstRating": 145.12611181686893,
+    "_lastTenRatings": [
+      145.12611181686893,
+      150,
+      145.30958424017658,
+      150.1809517094022
+    ],
+    "tendency": 5.054839892533266
   },
   {
     "NAF Nr": "17295",
@@ -254,6 +417,32 @@ const blackorc2025 = [
     "tendency": -5.656854249492369
   },
   {
+    "NAF Nr": "21118",
+    "NAF Name": "Davouille",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.22589669698002,
+    "bestRating": 155.86486173858196,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      150,
+      155.86486173858196,
+      150.22589669698002
+    ],
+    "tendency": 0.22589669698001558
+  },
+  {
     "NAF Nr": "21836",
     "NAF Name": "CharlieBanks",
     "CCAA": "Apatrida",
@@ -267,15 +456,15 @@ const blackorc2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 144.69118194318432,
+    "rating": 144.26960980084166,
     "bestRating": 150,
-    "worstRating": 144.69118194318432,
+    "worstRating": 144.26960980084166,
     "_lastTenRatings": [
       150,
       150,
-      144.69118194318432
+      144.26960980084166
     ],
-    "tendency": -5.3088180568156815
+    "tendency": -5.730390199158336
   },
   {
     "NAF Nr": "21978",
@@ -303,6 +492,33 @@ const blackorc2025 = [
       132.78396330598932
     ],
     "tendency": -17.216036694010683
+  },
+  {
+    "NAF Nr": "22222",
+    "NAF Name": "Karrashantemi",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 142.25547155699277,
+    "bestRating": 157.74596669241484,
+    "worstRating": 134.50806661517032,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150,
+      142.25403330758516,
+      134.50806661517032,
+      134.50959577706226,
+      142.25547155699277
+    ],
+    "tendency": -15.490495135422066
   },
   {
     "NAF Nr": "22298",
@@ -338,6 +554,66 @@ const blackorc2025 = [
     "tendency": 10.618725733791905
   },
   {
+    "NAF Nr": "23349",
+    "NAF Name": "Smollar",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 127.25504843669728,
+    "bestRating": 144.52277442494835,
+    "worstRating": 127.25504843669728,
+    "_lastTenRatings": [
+      144.52277442494835,
+      143.78006403546914,
+      138.33406111728516,
+      138.13416659189215,
+      132.45490216598012,
+      127.25504843669728
+    ],
+    "tendency": -17.267725988251073
+  },
+  {
+    "NAF Nr": "23600",
+    "NAF Name": "Sporran",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 165,
+    "bestRating": 165,
+    "worstRating": 155,
+    "_lastTenRatings": [
+      155,
+      160,
+      165
+    ],
+    "tendency": 10
+  },
+  {
     "NAF Nr": "24309",
     "NAF Name": "PercyTheTroll",
     "CCAA": "Apatrida",
@@ -351,15 +627,48 @@ const blackorc2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.2057127052932,
-    "bestRating": 150.43829871281486,
-    "worstRating": 150.2057127052932,
+    "rating": 150.2111884524353,
+    "bestRating": 150.44400606641506,
+    "worstRating": 150.2111884524353,
     "_lastTenRatings": [
-      150.43829871281486,
-      150.42049781092425,
-      150.2057127052932
+      150.44400606641506,
+      150.42597336995834,
+      150.2111884524353
     ],
-    "tendency": -0.23258600752166103
+    "tendency": -0.23281761397976197
+  },
+  {
+    "NAF Nr": "24415",
+    "NAF Name": "KidRichard",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 154.90625152679644,
+    "bestRating": 154.90625152679644,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      150.15344541449156,
+      154.90625152679644
+    ],
+    "tendency": 4.906251526796439
   },
   {
     "NAF Nr": "24875",
@@ -386,6 +695,56 @@ const blackorc2025 = [
     "tendency": -11.313708498984738
   },
   {
+    "NAF Nr": "24907",
+    "NAF Name": "fleks",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 10,
+    "rating": 127.56588569346407,
+    "bestRating": 144.34314575050763,
+    "worstRating": 127.56588569346407,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      138.910947523563,
+      133.31599314664214,
+      127.56588569346407
+    ],
+    "tendency": -16.777260057043563
+  },
+  {
+    "NAF Nr": "25645",
+    "NAF Name": "Trefenwyd",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 155.7182468745732,
+    "bestRating": 155.7182468745732,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      152.82842712474618,
+      155.7182468745732
+    ],
+    "tendency": 5.718246874573197
+  },
+  {
     "NAF Nr": "25780",
     "NAF Name": "Skab",
     "CCAA": "Apatrida",
@@ -399,22 +758,82 @@ const blackorc2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 50,
-    "rating": 150.5789749871018,
+    "rating": 150.5790057218822,
     "bestRating": 161.31370849898474,
-    "worstRating": 150.5789749871018,
+    "worstRating": 150.5790057218822,
     "_lastTenRatings": [
       155.65685424949237,
       155.65685424949237,
       155.65685424949237,
       161.31370849898474,
       161.30351323830251,
-      156.5712294205705,
-      156.1410482442306,
-      150.8431970244973,
-      156.07120590552637,
-      150.5789749871018
+      156.57126520062474,
+      156.1410826892907,
+      150.84323018297258,
+      156.071237822832,
+      150.5790057218822
     ],
-    "tendency": -5.0778792623905815
+    "tendency": -5.077848527610172
+  },
+  {
+    "NAF Nr": "26467",
+    "NAF Name": "SilvaGeargrinder",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 136.58359213500128,
+    "bestRating": 145.52786404500043,
+    "worstRating": 136.58359213500128,
+    "_lastTenRatings": [
+      145.52786404500043,
+      141.05572809000085,
+      136.58359213500128
+    ],
+    "tendency": -8.944271909999145
+  },
+  {
+    "NAF Nr": "26638",
+    "NAF Name": "Kantagallo",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 138.92730076626574,
+    "bestRating": 155.68425263713144,
+    "worstRating": 138.92730076626574,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.68425263713144,
+      149.78075619732303,
+      149.78907827145852,
+      144.12780675312268,
+      138.92730076626574
+    ],
+    "tendency": -16.729553483226624
   },
   {
     "NAF Nr": "27100",
@@ -430,8 +849,8 @@ const blackorc2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 58.33,
-    "rating": 156.10702481366158,
-    "bestRating": 156.10702481366158,
+    "rating": 156.10702478332252,
+    "bestRating": 156.10702478332252,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       155.65685424949237,
@@ -439,9 +858,9 @@ const blackorc2025 = [
       144.34314575050763,
       150.48998719273732,
       150.46917575300978,
-      156.10702481366158
+      156.10702478332252
     ],
-    "tendency": 0.45017056416921264
+    "tendency": 0.45017053383014627
   },
   {
     "NAF Nr": "27724",
@@ -467,6 +886,122 @@ const blackorc2025 = [
       149.97964289168445
     ],
     "tendency": -5.67721135780792
+  },
+  {
+    "NAF Nr": "28075",
+    "NAF Name": "Bashman",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 135.78092598217867,
+    "bestRating": 149.99350492347477,
+    "worstRating": 135.78092598217867,
+    "_lastTenRatings": [
+      145.20416847668727,
+      145.20416847668727,
+      149.99350492347477,
+      145.19232994768666,
+      140.5731642615088,
+      135.78092598217867
+    ],
+    "tendency": -9.4232424945086
+  },
+  {
+    "NAF Nr": "28342",
+    "NAF Name": "snowtroll",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 165.45746683864215,
+    "bestRating": 165.45746683864215,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      154.97228336103882,
+      159.76161980782632,
+      159.9318238171826,
+      164.72092968519732,
+      165.45746683864215
+    ],
+    "tendency": 15.457466838642148
+  },
+  {
+    "NAF Nr": "28453",
+    "NAF Name": "eldiouk",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.99991140288077,
+    "bestRating": 157.48331477354787,
+    "worstRating": 149.99991140288077,
+    "_lastTenRatings": [
+      150,
+      153.74165738677394,
+      157.48331477354787,
+      153.74474243141506,
+      149.99991140288077
+    ],
+    "tendency": -0.00008859711923037139
+  },
+  {
+    "NAF Nr": "28490",
+    "NAF Name": "i_done_goofd",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 139.59158596914503,
+    "bestRating": 144.34314575050763,
+    "worstRating": 128.10527129635784,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229,
+      128.10527129635784,
+      133.975821051832,
+      139.59158596914503
+    ],
+    "tendency": -4.751559781362602
   },
   {
     "NAF Nr": "28527",
@@ -521,6 +1056,39 @@ const blackorc2025 = [
     "tendency": 5.401266642997655
   },
   {
+    "NAF Nr": "29559",
+    "NAF Name": "Vaggulis",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 146.62798009147892,
+    "bestRating": 146.62798009147892,
+    "worstRating": 146.53589838486224,
+    "_lastTenRatings": [
+      146.53589838486224,
+      146.62798009147892,
+      146.62798009147892
+    ],
+    "tendency": 0.09208170661668191
+  },
+  {
     "NAF Nr": "30661",
     "NAF Name": "captainfalcon",
     "CCAA": "Apatrida",
@@ -556,31 +1124,59 @@ const blackorc2025 = [
     "tendency": -22.606142853493978
   },
   {
+    "NAF Nr": "31156",
+    "NAF Name": "prophetryu",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 144.46587317987436,
+    "bestRating": 147.17157287525382,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      147.17157287525382,
+      144.34314575050763,
+      144.46587317987436
+    ],
+    "tendency": -2.705699695379451
+  },
+  {
     "NAF Nr": "31252",
     "NAF Name": "nick_riviera",
     "CCAA": "Apatrida",
     "Country": "Italy",
     "raceId": "30",
     "raceName": "Black Orc",
-    "gamesTotal": 6,
-    "gamesWon": 1,
-    "gamesDraw": 2,
-    "gamesLost": 3,
+    "gamesTotal": 12,
+    "gamesWon": 4,
+    "gamesDraw": 3,
+    "gamesLost": 5,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 33.33,
-    "rating": 140.06850764654226,
-    "bestRating": 144.34314575050763,
-    "worstRating": 133.04828683588232,
+    "totalTournaments": 2,
+    "winRatio": 45.83,
+    "rating": 143.5573855929911,
+    "bestRating": 155.65685424949237,
+    "worstRating": 137.06299821862785,
     "_lastTenRatings": [
-      144.34314575050763,
-      138.68649065015475,
-      133.04828683588232,
-      139.4370246837704,
-      140.1275997999305,
-      140.06850764654226
+      144.7959114884016,
+      144.75083705900528,
+      149.52426647128053,
+      154.56845165644935,
+      148.71332580294606,
+      142.84691881496155,
+      137.06299821862785,
+      143.27971193040673,
+      143.80538591436402,
+      143.5573855929911
     ],
-    "tendency": -4.274638103965373
+    "tendency": -1.238525895410504
   },
   {
     "NAF Nr": "31511",
@@ -596,15 +1192,15 @@ const blackorc2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 144.35595669922998,
-    "bestRating": 144.35595669922998,
-    "worstRating": 138.69968392131645,
+    "rating": 144.35596393476015,
+    "bestRating": 144.35596393476015,
+    "worstRating": 138.69969148525752,
     "_lastTenRatings": [
       144.34314575050763,
-      138.69968392131645,
-      144.35595669922998
+      138.69969148525752,
+      144.35596393476015
     ],
-    "tendency": 0.012810948722346893
+    "tendency": 0.012818184252523679
   },
   {
     "NAF Nr": "31669",
@@ -696,20 +1292,20 @@ const blackorc2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 145.51200197750993,
+    "rating": 145.51202820185668,
     "bestRating": 150,
-    "worstRating": 131.46521208892923,
+    "worstRating": 131.46524193689297,
     "_lastTenRatings": [
       150,
       145.28514055798766,
-      140.39541322012875,
-      135.48916274109328,
-      131.46521208892923,
-      137.92142387382125,
-      144.79877295222587,
-      145.51200197750993
+      140.39541327032578,
+      135.48916278940285,
+      131.46524193689297,
+      137.92145245172438,
+      144.79880034709393,
+      145.51202820185668
     ],
-    "tendency": -4.487998022490075
+    "tendency": -4.48797179814332
   },
   {
     "NAF Nr": "32092",
@@ -725,18 +1321,18 @@ const blackorc2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 134.91649445816736,
+    "rating": 134.94866634540602,
     "bestRating": 142.25403330758516,
-    "worstRating": 127.1948154531002,
+    "worstRating": 127.22902091878088,
     "_lastTenRatings": [
       142.25403330758516,
       134.50806661517032,
       142.25403330758516,
-      134.50806661517032,
-      127.1948154531002,
-      134.91649445816736
+      134.54335358381303,
+      127.22902091878088,
+      134.94866634540602
     ],
-    "tendency": -7.337538849417797
+    "tendency": -7.305366962179136
   },
   {
     "NAF Nr": "32418",
@@ -798,29 +1394,116 @@ const blackorc2025 = [
     "tendency": -16.51068059443469
   },
   {
+    "NAF Nr": "32506",
+    "NAF Name": "MoonMaster",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.6659662643558,
+    "bestRating": 161.32323409583915,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      161.31297757791657,
+      155.66681220026308,
+      161.32323409583915,
+      155.6659662643558
+    ],
+    "tendency": 0.00911201486343316
+  },
+  {
+    "NAF Nr": "32644",
+    "NAF Name": "elpresidente",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 160.5899367046443,
+    "bestRating": 160.5899367046443,
+    "worstRating": 155.0990195135928,
+    "_lastTenRatings": [
+      155.0990195135928,
+      155.29928789824623,
+      160.5899367046443
+    ],
+    "tendency": 5.490917191051494
+  },
+  {
     "NAF Nr": "32687",
     "NAF Name": "McChasenigle",
     "CCAA": "Apatrida",
     "Country": "Finland",
     "raceId": "30",
     "raceName": "Black Orc",
-    "gamesTotal": 4,
-    "gamesWon": 2,
+    "gamesTotal": 7,
+    "gamesWon": 4,
     "gamesDraw": 0,
-    "gamesLost": 2,
+    "gamesLost": 3,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 50,
-    "rating": 150.0896351260131,
-    "bestRating": 153.46410161513776,
-    "worstRating": 146.53589838486224,
+    "totalTournaments": 2,
+    "winRatio": 57.14,
+    "rating": 154.09156652011686,
+    "bestRating": 154.09156652011686,
+    "worstRating": 146.08688322638105,
     "_lastTenRatings": [
       146.53589838486224,
       150,
       153.46410161513776,
-      150.0896351260131
+      150.0896351260131,
+      146.08688322638105,
+      150.07430012261915,
+      154.09156652011686
     ],
-    "tendency": 3.553736741150857
+    "tendency": 7.555668135254621
+  },
+  {
+    "NAF Nr": "32877",
+    "NAF Name": "kendrallsharne",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 161.07891077710082,
+    "bestRating": 161.07891077710082,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.0682536402513,
+      161.07891077710082
+    ],
+    "tendency": 5.422056527608447
   },
   {
     "NAF Nr": "33061",
@@ -901,6 +1584,30 @@ const blackorc2025 = [
     "tendency": -0.010648341870137301
   },
   {
+    "NAF Nr": "34540",
+    "NAF Name": "deckard92",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 141.05572809000085,
+    "bestRating": 150,
+    "worstRating": 141.05572809000085,
+    "_lastTenRatings": [
+      150,
+      145.52786404500043,
+      141.05572809000085
+    ],
+    "tendency": -8.944271909999145
+  },
+  {
     "NAF Nr": "34579",
     "NAF Name": "Carabor",
     "CCAA": "Apatrida",
@@ -950,15 +1657,65 @@ const blackorc2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 142.51668522645213,
+    "rating": 142.3068948633241,
     "bestRating": 150,
-    "worstRating": 142.51668522645213,
+    "worstRating": 142.3068948633241,
     "_lastTenRatings": [
       150,
-      146.25834261322606,
-      142.51668522645213
+      146.04587808419032,
+      142.3068948633241
     ],
-    "tendency": -7.483314773547875
+    "tendency": -7.693105136675911
+  },
+  {
+    "NAF Nr": "35336",
+    "NAF Name": "dertrainer",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.2798607908619,
+    "bestRating": 155.0990195135928,
+    "worstRating": 145.2798607908619,
+    "_lastTenRatings": [
+      155.0990195135928,
+      150,
+      145.2798607908619
+    ],
+    "tendency": -9.81915872273089
+  },
+  {
+    "NAF Nr": "35368",
+    "NAF Name": "Senkifia",
+    "CCAA": "Apatrida",
+    "Country": "Hungary",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 20,
+    "rating": 136.8721857482102,
+    "bestRating": 150,
+    "worstRating": 136.8721857482102,
+    "_lastTenRatings": [
+      145.52786404500043,
+      150,
+      145.68130945949198,
+      141.20899292079443,
+      136.8721857482102
+    ],
+    "tendency": -8.655678296790228
   },
   {
     "NAF Nr": "35454",
@@ -983,15 +1740,15 @@ const blackorc2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 165.7089054603071,
-    "bestRating": 165.7089054603071,
+    "rating": 165.71973780117165,
+    "bestRating": 165.71973780117165,
     "worstRating": 155.29150262212917,
     "_lastTenRatings": [
       155.29150262212917,
       160.58300524425835,
-      165.7089054603071
+      165.71973780117165
     ],
-    "tendency": 10.417402838177935
+    "tendency": 10.428235179042474
   },
   {
     "NAF Nr": "35567",
@@ -1018,10 +1775,10 @@ const blackorc2025 = [
     "tendency": -6.651885244295613
   },
   {
-    "NAF Nr": "36666",
-    "NAF Name": "b4njo_dan",
+    "NAF Nr": "35903",
+    "NAF Name": "darrenmartin",
     "CCAA": "Apatrida",
-    "Country": "England",
+    "Country": "Canada",
     "raceId": "30",
     "raceName": "Black Orc",
     "gamesTotal": 3,
@@ -1031,15 +1788,42 @@ const blackorc2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.75525261224305,
-    "bestRating": 149.75525261224305,
-    "worstRating": 144.34314575050763,
+    "rating": 150.00526699790575,
+    "bestRating": 150.00526699790575,
+    "worstRating": 145.52786404500043,
     "_lastTenRatings": [
-      144.34314575050763,
-      144.34314575050763,
-      149.75525261224305
+      150,
+      145.52786404500043,
+      150.00526699790575
     ],
-    "tendency": 5.412106861735424
+    "tendency": 0.005266997905749804
+  },
+  {
+    "NAF Nr": "36666",
+    "NAF Name": "b4njo_dan",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 33.33,
+    "rating": 140.06423096949075,
+    "bestRating": 150,
+    "worstRating": 133.75374165382982,
+    "_lastTenRatings": [
+      150,
+      144.70849737787083,
+      139.17660002135509,
+      133.75374165382982,
+      134.21250225602367,
+      140.06423096949075
+    ],
+    "tendency": -9.935769030509249
   },
   {
     "NAF Nr": "37700",
@@ -1090,6 +1874,65 @@ const blackorc2025 = [
     "tendency": -8.351672298811309
   },
   {
+    "NAF Nr": "38671",
+    "NAF Name": "therewearethen",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.70849737787083,
+    "bestRating": 144.70849737787083,
+    "worstRating": 139.41699475574165,
+    "_lastTenRatings": [
+      144.70849737787083,
+      139.41699475574165,
+      144.70849737787083
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "38993",
+    "NAF Name": "yangzubr",
+    "CCAA": "Apatrida",
+    "Country": "Ukraine",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 152.82842712474618,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      152.82842712474618,
+      155.65685424949237,
+      152.82576283816977,
+      152.82842712474618
+    ],
+    "tendency": 2.8284271247461845
+  },
+  {
     "NAF Nr": "39261",
     "NAF Name": "DragonHunterSeth",
     "CCAA": "Apatrida",
@@ -1121,6 +1964,30 @@ const blackorc2025 = [
       144.34314575050763
     ],
     "tendency": 0
+  },
+  {
+    "NAF Nr": "41721",
+    "NAF Name": "Warzog",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.47213595499957,
+    "bestRating": 154.47213595499957,
+    "worstRating": 145.52786404500043,
+    "_lastTenRatings": [
+      145.52786404500043,
+      150,
+      154.47213595499957
+    ],
+    "tendency": 8.944271909999145
   },
   {
     "NAF Nr": "41744",
@@ -1174,15 +2041,15 @@ const blackorc2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 145.86542038724517,
+    "rating": 145.86589191336753,
     "bestRating": 146,
-    "worstRating": 141.73451182813997,
+    "worstRating": 141.73499827266735,
     "_lastTenRatings": [
       146,
-      141.73451182813997,
-      145.86542038724517
+      141.73499827266735,
+      145.86589191336753
     ],
-    "tendency": -0.134579612754834
+    "tendency": -0.13410808663246598
   },
   {
     "NAF Nr": "41857",
@@ -1260,21 +2127,47 @@ const blackorc2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 144.76229261862358,
-    "bestRating": 150,
-    "worstRating": 144.76229261862358,
+    "rating": 144.43435264790602,
+    "bestRating": 149.64263180976178,
+    "worstRating": 144.43047233709777,
     "_lastTenRatings": [
-      150,
-      144.77280364925545,
-      144.76229261862358
+      149.64263180976178,
+      144.43047233709777,
+      144.43435264790602
     ],
-    "tendency": -5.237707381376424
+    "tendency": -5.2082791618557565
+  },
+  {
+    "NAF Nr": "42652",
+    "NAF Name": "Bazijoe",
+    "CCAA": "Apatrida",
+    "Country": "Hungary",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.48958622517088,
+    "bestRating": 154.47213595499957,
+    "worstRating": 145.15277905258665,
+    "_lastTenRatings": [
+      154.47213595499957,
+      149.98620428541966,
+      145.51454100596987,
+      145.15277905258665,
+      149.48958622517088
+    ],
+    "tendency": -4.9825497298286905
   },
   {
     "NAF Nr": "42721",
     "NAF Name": "mael-el-ratel",
     "CCAA": "Apatrida",
-    "Country": "France",
+    "Country": "Cote Divoire (ivory Coast)",
     "raceId": "30",
     "raceName": "Black Orc",
     "gamesTotal": 5,
@@ -1284,7 +2177,7 @@ const blackorc2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 60,
-    "rating": 155.24057546058734,
+    "rating": 155.43066398870917,
     "bestRating": 159.97515591102174,
     "worstRating": 150,
     "_lastTenRatings": [
@@ -1292,9 +2185,34 @@ const blackorc2025 = [
       155.08309952912037,
       159.97515591102174,
       159.9684931228725,
-      155.24057546058734
+      155.43066398870917
     ],
-    "tendency": 5.240575460587337
+    "tendency": 5.4306639887091706
+  },
+  {
+    "NAF Nr": "42772",
+    "NAF Name": "Rug_Bane",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 12.5,
+    "rating": 133.01896263568543,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.01896263568543,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      138.67534145657774,
+      133.01896263568543
+    ],
+    "tendency": -11.324183114822205
   },
   {
     "NAF Nr": "42988",
@@ -1367,15 +2285,15 @@ const blackorc2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.17129105429686,
+    "rating": 150.17129110561473,
     "bestRating": 155.65685424949237,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       155.65685424949237,
-      150.17129105429686
+      150.17129110561473
     ],
-    "tendency": 0.17129105429685865
+    "tendency": 0.1712911056147277
   },
   {
     "NAF Nr": "43123",
@@ -1400,5 +2318,110 @@ const blackorc2025 = [
       150
     ],
     "tendency": -4
+  },
+  {
+    "NAF Nr": "43254",
+    "NAF Name": "dethlok",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 149.81376464532275,
+    "bestRating": 154.47213595499957,
+    "worstRating": 149.81376464532275,
+    "_lastTenRatings": [
+      154.47213595499957,
+      150,
+      149.81376464532275
+    ],
+    "tendency": -4.658371309676824
+  },
+  {
+    "NAF Nr": "43369",
+    "NAF Name": "GenghisKeith",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.9062804531829,
+    "bestRating": 150,
+    "worstRating": 147.30052908734396,
+    "_lastTenRatings": [
+      150,
+      147.30052908734396,
+      149.9062804531829
+    ],
+    "tendency": -0.09371954681711259
+  },
+  {
+    "NAF Nr": "43446",
+    "NAF Name": "Fantazor",
+    "CCAA": "Apatrida",
+    "Country": "Russia",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.22245655927313,
+    "bestRating": 155.38516480713452,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.38516480713452,
+      150,
+      150.22245655927313
+    ],
+    "tendency": -5.162708247861389
+  },
+  {
+    "NAF Nr": "43489",
+    "NAF Name": "Farmer",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "30",
+    "raceName": "Black Orc",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 141.20390650658666,
+    "bestRating": 150,
+    "worstRating": 141.20390650658666,
+    "_lastTenRatings": [
+      150,
+      145.68130945949198,
+      141.20390650658666
+    ],
+    "tendency": -8.796093493413338
   }
 ];

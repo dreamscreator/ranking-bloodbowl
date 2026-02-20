@@ -1,5 +1,29 @@
 const ogre2025 = [
   {
+    "NAF Nr": "9",
+    "NAF Name": "Non-NAF",
+    "CCAA": "Apatrida",
+    "Country": "Cayman Islands",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.90276748807102,
+    "bestRating": 144.34295371038448,
+    "worstRating": 138.90276748807102,
+    "_lastTenRatings": [
+      144.34294499394383,
+      144.34295371038448,
+      138.90276748807102
+    ],
+    "tendency": -5.440177505872811
+  },
+  {
     "NAF Nr": "778",
     "NAF Name": "oberon_wolf",
     "CCAA": "Apatrida",
@@ -37,15 +61,74 @@ const ogre2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 0,
-    "rating": 133.27489211025633,
-    "bestRating": 144.34314575050763,
-    "worstRating": 133.27489211025633,
+    "rating": 133.9352091722634,
+    "bestRating": 145.07583404483495,
+    "worstRating": 133.9352091722634,
     "_lastTenRatings": [
-      144.34314575050763,
-      138.68629150101526,
-      133.27489211025633
+      145.07583404483495,
+      139.3871682989752,
+      133.9352091722634
     ],
-    "tendency": -11.0682536402513
+    "tendency": -11.14062487257155
+  },
+  {
+    "NAF Nr": "8604",
+    "NAF Name": "baerlie",
+    "CCAA": "Apatrida",
+    "Country": "Austria",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 20,
+    "rating": 136.24316707781344,
+    "bestRating": 145.52786404500043,
+    "worstRating": 136.20800773577386,
+    "_lastTenRatings": [
+      145.52786404500043,
+      140.6674993859162,
+      136.20800773577386,
+      140.70337704262232,
+      136.24316707781344
+    ],
+    "tendency": -9.284696967186989
+  },
+  {
+    "NAF Nr": "9259",
+    "NAF Name": "gumbi",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 144.3325095478701,
+    "bestRating": 150.24545485873347,
+    "worstRating": 144.3325095478701,
+    "_lastTenRatings": [
+      150,
+      150.24545485873347,
+      144.3325095478701
+    ],
+    "tendency": -5.667490452129897
   },
   {
     "NAF Nr": "9865",
@@ -124,6 +207,64 @@ const ogre2025 = [
     "tendency": 8.981585886638925
   },
   {
+    "NAF Nr": "13010",
+    "NAF Name": "tobyn",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.92108922289918,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.92108922289918,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.9317463597487,
+      138.92108922289918
+    ],
+    "tendency": -5.422056527608447
+  },
+  {
+    "NAF Nr": "13553",
+    "NAF Name": "Armydave",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 150.0012761096689,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150.0012761096689,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150.01065713684952,
+      155.6559297396854,
+      150.0012761096689
+    ],
+    "tendency": -5.6555781398234615
+  },
+  {
     "NAF Nr": "15257",
     "NAF Name": "Chewblocka",
     "CCAA": "Apatrida",
@@ -163,18 +304,18 @@ const ogre2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 140.96050481799733,
+    "rating": 141.06894100155043,
     "bestRating": 146.15518595486554,
-    "worstRating": 140.96050481799733,
+    "worstRating": 141.0592910415312,
     "_lastTenRatings": [
       146.15518595486554,
       146.07649585037,
-      141.0292595695525,
-      141.1728209534127,
-      141.07285201891364,
-      140.96050481799733
+      141.0592910415312,
+      141.23048845712287,
+      141.1280136390488,
+      141.06894100155043
     ],
-    "tendency": -5.194681136868212
+    "tendency": -5.086244953315116
   },
   {
     "NAF Nr": "17308",
@@ -190,16 +331,16 @@ const ogre2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 138.22328155916688,
+    "rating": 138.22328160603882,
     "bestRating": 150,
-    "worstRating": 138.22328155916688,
+    "worstRating": 138.22328160603882,
     "_lastTenRatings": [
       150,
       150,
-      144.10461319990392,
-      138.22328155916688
+      144.1046132488998,
+      138.22328160603882
     ],
-    "tendency": -11.776718440833122
+    "tendency": -11.776718393961175
   },
   {
     "NAF Nr": "20141",
@@ -226,6 +367,40 @@ const ogre2025 = [
       149.99024819259805
     ],
     "tendency": 5.647102442090414
+  },
+  {
+    "NAF Nr": "20229",
+    "NAF Name": "Stoevers",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 12.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 136.08811707157807,
+    "bestRating": 145.49264667415696,
+    "worstRating": 136.08811707157807,
+    "_lastTenRatings": [
+      145.49264667415696,
+      140.79564062137092,
+      140.78928758029159,
+      136.08811707157807
+    ],
+    "tendency": -9.40452960257889
   },
   {
     "NAF Nr": "20248",
@@ -274,16 +449,40 @@ const ogre2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 159.553129022103,
-    "bestRating": 159.553129022103,
+    "rating": 159.55316065253103,
+    "bestRating": 159.55316065253103,
     "worstRating": 154.89897948556634,
     "_lastTenRatings": [
       154.89897948556634,
-      159.53362424390994,
-      159.54356349544824,
-      159.553129022103
+      159.53365839422068,
+      159.5435963616765,
+      159.55316065253103
     ],
-    "tendency": 4.654149536536664
+    "tendency": 4.65418116696469
+  },
+  {
+    "NAF Nr": "20865",
+    "NAF Name": "donpimpon",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.52990508561163,
+    "bestRating": 149.52990508561163,
+    "worstRating": 144.10832883347064,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.10832883347064,
+      149.52990508561163
+    ],
+    "tendency": 5.186759335104
   },
   {
     "NAF Nr": "21163",
@@ -299,32 +498,66 @@ const ogre2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 30,
-    "rating": 139.64551153143842,
-    "bestRating": 144.34314575050763,
-    "worstRating": 139.165699788254,
+    "rating": 140.2674447632593,
+    "bestRating": 145.09494764015727,
+    "worstRating": 139.8716206320867,
     "_lastTenRatings": [
-      144.34314575050763,
-      144.34314575050763,
-      139.165699788254,
-      139.379734560606,
-      139.64551153143842
+      145.09494764015727,
+      145.0801168187922,
+      139.8716206320867,
+      140.03894132388706,
+      140.2674447632593
     ],
-    "tendency": -4.697634219069215
+    "tendency": -4.827502876897967
   },
   {
-    "NAF Nr": "22460",
-    "NAF Name": "Jogrenaut",
-    "CCAA": "Apatrida",
-    "Country": "United States Of America",
+    "NAF Nr": "21636",
+    "NAF Name": "Mr_goblin",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
     "raceId": "20",
     "raceName": "Ogre",
-    "gamesTotal": 11,
-    "gamesWon": 4,
+    "gamesTotal": 4,
+    "gamesWon": 2,
     "gamesDraw": 2,
-    "gamesLost": 5,
+    "gamesLost": 0,
     "totalWinRatio": 0,
     "totalTournaments": 1,
-    "winRatio": 45.45,
+    "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 161.07842891175184,
+    "bestRating": 161.07842891175184,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.41139939075893,
+      155.66749045212993,
+      161.07842891175184
+    ],
+    "tendency": 11.078428911751843
+  },
+  {
+    "NAF Nr": "22007",
+    "NAF Name": "RatOgre",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
@@ -334,22 +567,55 @@ const ogre2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 147.97062859310878,
-    "bestRating": 150.3527809573064,
-    "worstRating": 142.13121768373412,
+    "rating": 149.86771430509395,
+    "bestRating": 149.86771430509395,
+    "worstRating": 146,
     "_lastTenRatings": [
-      147.23296550033464,
-      147.3825154544734,
-      150.0856146098122,
-      147.3766871077877,
-      144.55223615466468,
-      142.13121768373412,
-      144.73386980505666,
-      147.57206756968685,
-      150.3527809573064,
-      147.97062859310878
+      146,
+      146,
+      149.86771430509395
     ],
-    "tendency": 0.7376630927741417
+    "tendency": 3.867714305093955
+  },
+  {
+    "NAF Nr": "22460",
+    "NAF Name": "Jogrenaut",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 17,
+    "gamesWon": 5,
+    "gamesDraw": 3,
+    "gamesLost": 9,
+    "totalWinRatio": 0,
+    "totalTournaments": 3,
+    "winRatio": 38.24,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 2,
+      "stuntycup": 2,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 140.26745272479485,
+    "bestRating": 150,
+    "worstRating": 136.69859693920935,
+    "_lastTenRatings": [
+      141.70411506629293,
+      139.0026012563092,
+      136.69859693920935,
+      139.41602255655874,
+      142.36679702872587,
+      145.25766461714784,
+      142.98003136054245,
+      146.47518399846967,
+      143.33255528083563,
+      140.26745272479485
+    ],
+    "tendency": -1.436662341498078
   },
   {
     "NAF Nr": "23067",
@@ -374,6 +640,54 @@ const ogre2025 = [
       149.75454514126653
     ],
     "tendency": -0.24545485873346706
+  },
+  {
+    "NAF Nr": "23793",
+    "NAF Name": "kwarrend",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.8772340307004,
+    "bestRating": 149.8772340307004,
+    "worstRating": 146,
+    "_lastTenRatings": [
+      146,
+      146,
+      149.8772340307004
+    ],
+    "tendency": 3.877234030700407
+  },
+  {
+    "NAF Nr": "24115",
+    "NAF Name": "herotosucara",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 152.82842712474618,
+    "bestRating": 152.82842712474618,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      150,
+      152.82842712474618
+    ],
+    "tendency": 2.8284271247461845
   },
   {
     "NAF Nr": "24446",
@@ -457,6 +771,39 @@ const ogre2025 = [
     "tendency": 0.09208170661665349
   },
   {
+    "NAF Nr": "24873",
+    "NAF Name": "grimfoe",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 163.41640786499872,
+    "bestRating": 163.41640786499872,
+    "worstRating": 154.47213595499957,
+    "_lastTenRatings": [
+      154.47213595499957,
+      158.94427190999915,
+      163.41640786499872
+    ],
+    "tendency": 8.944271909999145
+  },
+  {
     "NAF Nr": "26528",
     "NAF Name": "disposablehero",
     "CCAA": "Apatrida",
@@ -491,6 +838,30 @@ const ogre2025 = [
     "tendency": 7.310779439390416
   },
   {
+    "NAF Nr": "26831",
+    "NAF Name": "JPH",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.4514937791313,
+    "bestRating": 144.35380288735715,
+    "worstRating": 138.4514937791313,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.35380288735715,
+      138.4514937791313
+    ],
+    "tendency": -5.891651971376319
+  },
+  {
     "NAF Nr": "27590",
     "NAF Name": "orioncillo",
     "CCAA": "Catalunya ",
@@ -514,6 +885,30 @@ const ogre2025 = [
       149.58000369782664
     ],
     "tendency": 5.2368579473190096
+  },
+  {
+    "NAF Nr": "28562",
+    "NAF Name": "titi33",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.6244155496431,
+    "bestRating": 154.6244155496431,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      154.47213595499957,
+      150,
+      154.6244155496431
+    ],
+    "tendency": 0.1522795946435167
   },
   {
     "NAF Nr": "28642",
@@ -542,6 +937,57 @@ const ogre2025 = [
     "tendency": -11.303051362135221
   },
   {
+    "NAF Nr": "30288",
+    "NAF Name": "broderjoe75",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 139.80438412773321,
+    "bestRating": 165.49193338482968,
+    "worstRating": 139.80438412773321,
+    "_lastTenRatings": [
+      157.74596669241484,
+      157.74596669241484,
+      165.49193338482968,
+      156.8261209604542,
+      148.3203638970765,
+      139.80438412773321
+    ],
+    "tendency": -17.941582564681624
+  },
+  {
+    "NAF Nr": "30556",
+    "NAF Name": "saltymurcutt",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.69694863786478,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      138.69694863786478
+    ],
+    "tendency": -5.646197112642852
+  },
+  {
     "NAF Nr": "30951",
     "NAF Name": "OrcDaddy",
     "CCAA": "Apatrida",
@@ -555,16 +1001,16 @@ const ogre2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 62.5,
-    "rating": 153.46094974300385,
+    "rating": 153.4627796290688,
     "bestRating": 153.46410161513776,
     "worstRating": 150,
     "_lastTenRatings": [
       153.46410161513776,
       150,
       153.46410161513776,
-      153.46094974300385
+      153.4627796290688
     ],
-    "tendency": -0.0031518721339125477
+    "tendency": -0.0013219860689730467
   },
   {
     "NAF Nr": "31092",
@@ -604,7 +1050,7 @@ const ogre2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 134.50879344843173,
+    "rating": 134.5088536667032,
     "bestRating": 142.25403330758516,
     "worstRating": 126.76209992275548,
     "_lastTenRatings": [
@@ -613,9 +1059,9 @@ const ogre2025 = [
       126.76209992275548,
       126.76209992275548,
       134.50644079417347,
-      134.50879344843173
+      134.5088536667032
     ],
-    "tendency": -7.745239859153429
+    "tendency": -7.7451796408819575
   },
   {
     "NAF Nr": "31349",
@@ -731,13 +1177,13 @@ const ogre2025 = [
     "Country": "Finland",
     "raceId": "20",
     "raceName": "Ogre",
-    "gamesTotal": 5,
+    "gamesTotal": 8,
     "gamesWon": 2,
-    "gamesDraw": 0,
-    "gamesLost": 3,
+    "gamesDraw": 1,
+    "gamesLost": 5,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 40,
+    "totalTournaments": 2,
+    "winRatio": 31.25,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
@@ -747,17 +1193,20 @@ const ogre2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 145.52768986778108,
-    "bestRating": 150.1585318289412,
-    "worstRating": 141.05572809000085,
+    "rating": 137.8218927333936,
+    "bestRating": 150.1755315904414,
+    "worstRating": 137.8218927333936,
     "_lastTenRatings": [
       145.52786404500043,
       141.05572809000085,
       145.68130945949198,
-      150.1585318289412,
-      145.52768986778108
+      150.1755315904414,
+      145.54468690035597,
+      145.67702393472567,
+      141.68960703848757,
+      137.8218927333936
     ],
-    "tendency": -0.00017417721934975816
+    "tendency": -7.705971311606817
   },
   {
     "NAF Nr": "32227",
@@ -799,6 +1248,55 @@ const ogre2025 = [
     "tendency": -6.442999297469214
   },
   {
+    "NAF Nr": "32674",
+    "NAF Name": "abf",
+    "CCAA": "Apatrida",
+    "Country": "Colombia",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 140.68650720925473,
+    "bestRating": 150,
+    "worstRating": 140.68650720925473,
+    "_lastTenRatings": [
+      150,
+      145.52786404500043,
+      140.68650720925473
+    ],
+    "tendency": -9.313492790745272
+  },
+  {
+    "NAF Nr": "32814",
+    "NAF Name": "Potti",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 144.58906154037805,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.58906154037805,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.4113993907589,
+      149.99999999999997,
+      144.58906154037805
+    ],
+    "tendency": -11.067792709114315
+  },
+  {
     "NAF Nr": "33383",
     "NAF Name": "CQ",
     "CCAA": "Apatrida",
@@ -821,6 +1319,39 @@ const ogre2025 = [
       145.14530411720983
     ],
     "tendency": -2.4052061400069817
+  },
+  {
+    "NAF Nr": "33588",
+    "NAF Name": "ksym77",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 144.36440154067705,
+    "bestRating": 144.36440154067705,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.35422546061628,
+      144.36440154067705
+    ],
+    "tendency": 0.021255790169419697
   },
   {
     "NAF Nr": "34028",
@@ -847,6 +1378,33 @@ const ogre2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "34044",
+    "NAF Name": "cindurion",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 142.89823889569396,
+    "bestRating": 150.21674279285116,
+    "worstRating": 142.45789021328318,
+    "_lastTenRatings": [
+      142.48447650858847,
+      150.21674279285116,
+      142.45789021328318,
+      143.36265575887677,
+      142.84013183379412,
+      142.89823889569396
+    ],
+    "tendency": 0.41376238710549273
+  },
+  {
     "NAF Nr": "34457",
     "NAF Name": "spellingmistax",
     "CCAA": "Apatrida",
@@ -860,17 +1418,17 @@ const ogre2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 40,
-    "rating": 144.07732113009604,
+    "rating": 144.07732109976203,
     "bestRating": 150.24545485873347,
-    "worstRating": 144.07732113009604,
+    "worstRating": 144.07732109976203,
     "_lastTenRatings": [
       144.34314575050763,
       144.34314575050763,
       150.24545485873347,
-      144.32233601200866,
-      144.07732113009604
+      144.32233598036564,
+      144.07732109976203
     ],
-    "tendency": -0.2658246204115926
+    "tendency": -0.2658246507455999
   },
   {
     "NAF Nr": "34828",
@@ -886,17 +1444,229 @@ const ogre2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 30,
-    "rating": 139.05181219745322,
-    "bestRating": 150.00730688790358,
-    "worstRating": 139.05181219745322,
+    "rating": 141.15628655680084,
+    "bestRating": 151.06702461936453,
+    "worstRating": 141.15628655680084,
+    "_lastTenRatings": [
+      145.4084571233649,
+      151.06702461936453,
+      145.79498520358345,
+      145.77232352789773,
+      141.15628655680084
+    ],
+    "tendency": -4.252170566564075
+  },
+  {
+    "NAF Nr": "35685",
+    "NAF Name": "theoman222",
+    "CCAA": "Apatrida",
+    "Country": "Japan",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 149.97717912641,
+    "bestRating": 150.01065713684952,
+    "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
-      150.00730688790358,
-      144.35013538823827,
-      144.3498319124209,
-      139.05181219745322
+      150,
+      150,
+      150.01065713684952,
+      149.97717912641
     ],
-    "tendency": -5.2913335530544146
+    "tendency": 5.634033375902362
+  },
+  {
+    "NAF Nr": "37242",
+    "NAF Name": "Trogg",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 134.94471400129717,
+    "bestRating": 150,
+    "worstRating": 134.50806661517032,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.50806661517032,
+      142.25403330758516,
+      150,
+      142.25468857229038,
+      134.94471400129717
+    ],
+    "tendency": -7.309319306287989
+  },
+  {
+    "NAF Nr": "37325",
+    "NAF Name": "NoveltyBoy",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
+    "rating": 132.8185092839825,
+    "bestRating": 144.34314575050763,
+    "worstRating": 132.8185092839825,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.46580989867886,
+      132.8185092839825
+    ],
+    "tendency": -11.524636466525124
+  },
+  {
+    "NAF Nr": "37507",
+    "NAF Name": "tetris",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 30,
+    "rating": 138.49167828952872,
+    "bestRating": 144.34314575050763,
+    "worstRating": 132.8237316834781,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.71810297043837,
+      138.71672178133042,
+      132.8237316834781,
+      138.49167828952872
+    ],
+    "tendency": -5.85146746097891
+  },
+  {
+    "NAF Nr": "37698",
+    "NAF Name": "danimal",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.65643084602567,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.65643084602567,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.65643084602567
+    ],
+    "tendency": -0.0004234034666978914
+  },
+  {
+    "NAF Nr": "37716",
+    "NAF Name": "impulsivebonz",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 154.3243186641541,
+    "bestRating": 158.7908264955076,
+    "worstRating": 154.3243186641541,
+    "_lastTenRatings": [
+      154.47213595499957,
+      158.7908264955076,
+      154.3243186641541
+    ],
+    "tendency": -0.1478172908454667
+  },
+  {
+    "NAF Nr": "37816",
+    "NAF Name": "mr_t_",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 144.27487954665398,
+    "bestRating": 149.89618905091072,
+    "worstRating": 144.27487954665398,
+    "_lastTenRatings": [
+      144.34314575050763,
+      149.64782804924397,
+      149.89618905091072,
+      144.27487954665398
+    ],
+    "tendency": -0.06826620385365345
   },
   {
     "NAF Nr": "39499",
@@ -930,6 +1700,30 @@ const ogre2025 = [
       144.34314575050763
     ],
     "tendency": -11.313708498984738
+  },
+  {
+    "NAF Nr": "39567",
+    "NAF Name": "punktuality",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 140.2020410288673,
+    "bestRating": 145.10102051443366,
+    "worstRating": 140.2020410288673,
+    "_lastTenRatings": [
+      145.10102051443366,
+      145.10102051443366,
+      140.2020410288673
+    ],
+    "tendency": -4.898979485566343
   },
   {
     "NAF Nr": "39626",
@@ -1097,16 +1891,16 @@ const ogre2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 146.3916878512043,
+    "rating": 146.17238181839687,
     "bestRating": 150,
-    "worstRating": 142.85034066134742,
+    "worstRating": 142.62501505601878,
     "_lastTenRatings": [
       150,
       146.44381667824558,
-      142.85034066134742,
-      146.3916878512043
+      142.62501505601878,
+      146.17238181839687
     ],
-    "tendency": -3.6083121487957044
+    "tendency": -3.8276181816031283
   },
   {
     "NAF Nr": "42097",
@@ -1122,16 +1916,16 @@ const ogre2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 138.4404286652148,
+    "rating": 138.4404287198043,
     "bestRating": 150,
-    "worstRating": 138.4404286652148,
+    "worstRating": 138.4404287198043,
     "_lastTenRatings": [
       150,
       144.34314575050763,
       144.34314575050763,
-      138.4404286652148
+      138.4404287198043
     ],
-    "tendency": -11.559571334785204
+    "tendency": -11.559571280195712
   },
   {
     "NAF Nr": "42136",
@@ -1165,6 +1959,63 @@ const ogre2025 = [
       149.8772340307004
     ],
     "tendency": -4.122765969299593
+  },
+  {
+    "NAF Nr": "42152",
+    "NAF Name": "noonisms",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 140.22208418443702,
+    "bestRating": 145.10102051443366,
+    "worstRating": 140.22208418443702,
+    "_lastTenRatings": [
+      145.10102051443366,
+      140.2228876494656,
+      140.22208418443702
+    ],
+    "tendency": -4.878936329996634
+  },
+  {
+    "NAF Nr": "42268",
+    "NAF Name": "dj_pain619",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 147.17614965467885,
+    "bestRating": 150.00308593814404,
+    "worstRating": 147.17157287525382,
+    "_lastTenRatings": [
+      147.17157287525382,
+      150.00308593814404,
+      147.17614965467885
+    ],
+    "tendency": 0.004576779425036648
   },
   {
     "NAF Nr": "42741",
@@ -1204,14 +2055,48 @@ const ogre2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 0,
-    "rating": 132.99716161687434,
+    "rating": 132.99716166962207,
     "bestRating": 144.34314575050763,
-    "worstRating": 132.99716161687434,
+    "worstRating": 132.99716166962207,
     "_lastTenRatings": [
       144.34314575050763,
       138.68629150101526,
-      132.99716161687434
+      132.99716166962207
     ],
-    "tendency": -11.345984133633294
+    "tendency": -11.345984080885557
+  },
+  {
+    "NAF Nr": "43450",
+    "NAF Name": "pitbull_original",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "20",
+    "raceName": "Ogre",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 155.4008041532576,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      150,
+      155.4008041532576
+    ],
+    "tendency": -0.25605009623475894
   }
 ];

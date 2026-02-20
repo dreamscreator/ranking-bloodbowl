@@ -6,38 +6,38 @@ const skaven2025 = [
     "Country": "Cayman Islands",
     "raceId": "2",
     "raceName": "Skaven",
-    "gamesTotal": 10,
-    "gamesWon": 7,
-    "gamesDraw": 1,
-    "gamesLost": 2,
+    "gamesTotal": 24,
+    "gamesWon": 13,
+    "gamesDraw": 4,
+    "gamesLost": 7,
     "totalWinRatio": 0,
-    "totalTournaments": 3,
-    "winRatio": 75,
+    "totalTournaments": 6,
+    "winRatio": 62.5,
     "trophies": {
-      "winner": 1,
+      "winner": 2,
       "runnerup": 0,
-      "touchdowns": 0,
+      "touchdowns": 1,
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 165.84722305044843,
-    "bestRating": 165.84722305044843,
+    "rating": 164.14003605183427,
+    "bestRating": 168.3484694602163,
     "worstRating": 152.2404965745025,
     "_lastTenRatings": [
-      153.605551275464,
-      157.211102550928,
-      157.01174869612,
-      152.54100131427413,
-      156.7009086689323,
-      152.2404965745025,
-      155.64503382211183,
-      159.03193455936452,
-      162.4401071053564,
-      165.84722305044843
+      155.83963949481426,
+      159.2213459488562,
+      162.62448386641194,
+      166.02653569006267,
+      168.3484694602163,
+      165.33256164183325,
+      162.42999184001556,
+      164.77745100302613,
+      167.1305933381263,
+      164.14003605183427
     ],
-    "tendency": 12.24167177498444
+    "tendency": 8.300396557020008
   },
   {
     "NAF Nr": "1009",
@@ -53,18 +53,42 @@ const skaven2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 165.49199587212712,
-    "bestRating": 165.49199587212712,
+    "rating": 165.76566288106014,
+    "bestRating": 165.76566288106014,
     "worstRating": 157.74596669241484,
     "_lastTenRatings": [
       157.74596669241484,
       165.49193338482968,
-      157.74596669241484,
-      157.74596669241484,
-      157.74596669241484,
-      165.49199587212712
+      158.03255995785594,
+      158.01775179654135,
+      158.00369317401487,
+      165.76566288106014
     ],
-    "tendency": 7.746029179712281
+    "tendency": 8.019696188645298
+  },
+  {
+    "NAF Nr": "1389",
+    "NAF Name": "netrnner",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.4950782579044,
+    "bestRating": 149.96604884243652,
+    "worstRating": 145.33381494091228,
+    "_lastTenRatings": [
+      145.33381494091228,
+      149.96604884243652,
+      145.4950782579044
+    ],
+    "tendency": 0.1612633169921196
   },
   {
     "NAF Nr": "1814",
@@ -89,15 +113,65 @@ const skaven2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 150.29636839875502,
-    "bestRating": 150.29636839875502,
+    "rating": 150.19020519302728,
+    "bestRating": 150.19020519302728,
     "worstRating": 145.52786404500043,
     "_lastTenRatings": [
       145.52786404500043,
       150.15344541449156,
-      150.29636839875502
+      150.19020519302728
     ],
-    "tendency": 4.768504353754594
+    "tendency": 4.662341148026854
+  },
+  {
+    "NAF Nr": "3709",
+    "NAF Name": "howlinggriffon",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.676096240333,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.676096240333,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      138.676096240333
+    ],
+    "tendency": -5.667049510174621
+  },
+  {
+    "NAF Nr": "7015",
+    "NAF Name": "Spacemanspiff",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.77925160963622,
+    "bestRating": 153.74165738677394,
+    "worstRating": 149.77925160963622,
+    "_lastTenRatings": [
+      153.74165738677394,
+      153.74165738677394,
+      150,
+      149.88949313105726,
+      149.77925160963622
+    ],
+    "tendency": -3.962405777137718
   },
   {
     "NAF Nr": "8666",
@@ -122,15 +196,15 @@ const skaven2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 139.1982264074188,
+    "rating": 139.1949309500856,
     "bestRating": 146.25834261322606,
-    "worstRating": 139.1982264074188,
+    "worstRating": 139.1949309500856,
     "_lastTenRatings": [
       146.25834261322606,
-      142.73135715574793,
-      139.1982264074188
+      142.7279645719901,
+      139.1949309500856
     ],
-    "tendency": -7.060116205807276
+    "tendency": -7.063411663140471
   },
   {
     "NAF Nr": "13625",
@@ -155,7 +229,7 @@ const skaven2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 164.9809250194969,
+    "rating": 164.98094302364285,
     "bestRating": 165.20230674724658,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
@@ -165,10 +239,43 @@ const skaven2025 = [
       155.44428410634688,
       160.32275968144674,
       165.20230674724658,
-      165.183304460589,
-      164.9809250194969
+      165.18332181334682,
+      164.98094302364285
     ],
-    "tendency": 20.637779268989277
+    "tendency": 20.63779727313522
+  },
+  {
+    "NAF Nr": "13741",
+    "NAF Name": "DeeTee",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 155.07137691767852,
+    "bestRating": 155.07137691767852,
+    "worstRating": 144.70849737787083,
+    "_lastTenRatings": [
+      144.70849737787083,
+      150,
+      155.07137691767852
+    ],
+    "tendency": 10.362879539807693
   },
   {
     "NAF Nr": "15384",
@@ -230,6 +337,31 @@ const skaven2025 = [
     "tendency": 6.909936111736982
   },
   {
+    "NAF Nr": "17312",
+    "NAF Name": "Kevindez",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 155.6564301074589,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.6564301074589,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.65685424949237,
+      155.6564301074589
+    ],
+    "tendency": -0.00042414203346652357
+  },
+  {
     "NAF Nr": "17549",
     "NAF Name": "scs.sam",
     "CCAA": "Apatrida",
@@ -252,15 +384,42 @@ const skaven2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 163.07611943392192,
-    "bestRating": 163.07611943392192,
+    "rating": 163.0761194690964,
+    "bestRating": 163.0761194690964,
     "worstRating": 154.35889894354068,
     "_lastTenRatings": [
       154.35889894354068,
       158.71779788708136,
-      163.07611943392192
+      163.0761194690964
     ],
-    "tendency": 8.717220490381237
+    "tendency": 8.717220525555717
+  },
+  {
+    "NAF Nr": "17684",
+    "NAF Name": "vagabond1982uk",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.34314575050763,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.34314575050763,
+      144.34314575050763,
+      150,
+      144.34314575050763
+    ],
+    "tendency": -11.313708498984738
   },
   {
     "NAF Nr": "17880",
@@ -364,6 +523,42 @@ const skaven2025 = [
     "tendency": -5.6262501484712
   },
   {
+    "NAF Nr": "19114",
+    "NAF Name": "Mordekay",
+    "CCAA": "C. La Mancha",
+    "Country": "Spain",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 150.43262864541714,
+    "bestRating": 165.49193338482968,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      157.74596669241484,
+      165.49193338482968,
+      157.74596669241484,
+      150,
+      158.20594189608215,
+      150.43262864541714
+    ],
+    "tendency": -7.3133380469977
+  },
+  {
     "NAF Nr": "19132",
     "NAF Name": "Polly",
     "CCAA": "Apatrida",
@@ -385,6 +580,33 @@ const skaven2025 = [
       160.90719622850727
     ],
     "tendency": 5.3394318656772555
+  },
+  {
+    "NAF Nr": "19879",
+    "NAF Name": "Kirou",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 161.33414193172513,
+    "bestRating": 166.9705627484771,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      166.9705627484771,
+      166.9705627484771,
+      166.9705627484771,
+      161.33414193172513
+    ],
+    "tendency": 5.677287682232759
   },
   {
     "NAF Nr": "20646",
@@ -411,6 +633,39 @@ const skaven2025 = [
     "tendency": 0.006501133166779027
   },
   {
+    "NAF Nr": "21342",
+    "NAF Name": "toranath",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 156.2973174583428,
+    "bestRating": 156.2973174583428,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      153.23221490230202,
+      156.2973174583428
+    ],
+    "tendency": 6.297317458342803
+  },
+  {
     "NAF Nr": "21432",
     "NAF Name": "zio_kirie",
     "CCAA": "Apatrida",
@@ -433,6 +688,32 @@ const skaven2025 = [
       155.6142655883763
     ],
     "tendency": -0.03393083678537323
+  },
+  {
+    "NAF Nr": "21534",
+    "NAF Name": "Fudd",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 40,
+    "rating": 143.84684197791242,
+    "bestRating": 155.65685424949237,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.34314575050763,
+      138.68629150101526,
+      143.84684197791242
+    ],
+    "tendency": -11.81001227157995
   },
   {
     "NAF Nr": "21628",
@@ -459,6 +740,30 @@ const skaven2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "21833",
+    "NAF Name": "nvts8a",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 152.923002749733,
+    "bestRating": 152.923002749733,
+    "worstRating": 146.394448724536,
+    "_lastTenRatings": [
+      146.394448724536,
+      149.73546435303538,
+      152.923002749733
+    ],
+    "tendency": 6.528554025196996
+  },
+  {
     "NAF Nr": "21890",
     "NAF Name": "Jerbal_Porkhopper",
     "CCAA": "Apatrida",
@@ -472,17 +777,17 @@ const skaven2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.17158872535842,
-    "bestRating": 150.1844928458603,
-    "worstRating": 145.10102051443366,
+    "rating": 149.63324890598588,
+    "bestRating": 149.63324890598588,
+    "worstRating": 144.69738277573535,
     "_lastTenRatings": [
       145.10102051443366,
-      150.1844928458603,
-      145.2785762388962,
-      150.1708794456591,
-      150.17158872535842
+      149.5805921367538,
+      144.69738277573535,
+      149.61154009639054,
+      149.63324890598588
     ],
-    "tendency": 5.070568210924762
+    "tendency": 4.5322283915522235
   },
   {
     "NAF Nr": "21969",
@@ -545,22 +850,89 @@ const skaven2025 = [
     "Country": "Germany",
     "raceId": "2",
     "raceName": "Skaven",
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 0,
+    "gamesTotal": 9,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 44.44,
+    "rating": 151.3634600200631,
+    "bestRating": 151.3634600200631,
+    "worstRating": 139.61429895672245,
+    "_lastTenRatings": [
+      150,
+      146.53589838486224,
+      143.1662483011999,
+      139.61429895672245,
+      143.2624511439862,
+      140.05228319464922,
+      145.53986598426158,
+      145.91330719899705,
+      151.3634600200631
+    ],
+    "tendency": 1.363460020063087
+  },
+  {
+    "NAF Nr": "22667",
+    "NAF Name": "Historic",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 0,
+    "gamesLost": 2,
     "totalWinRatio": 0,
     "totalTournaments": 1,
-    "winRatio": 83.33,
-    "rating": 160.19023305679775,
-    "bestRating": 160.19023305679775,
-    "worstRating": 155.0990195135928,
+    "winRatio": 66.67,
+    "rating": 161.00350736203274,
+    "bestRating": 161.00350736203274,
+    "worstRating": 138.68629150101526,
     "_lastTenRatings": [
-      155.0990195135928,
-      155.0990195135928,
-      160.19023305679775
+      144.34314575050763,
+      138.68629150101526,
+      143.98821210318658,
+      149.66047680977607,
+      155.33211082614383,
+      161.00350736203274
     ],
-    "tendency": 5.091213543204958
+    "tendency": 16.660361611525104
+  },
+  {
+    "NAF Nr": "24151",
+    "NAF Name": "ThezmarAD",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 154.8530765783359,
+    "bestRating": 159.38083151964685,
+    "worstRating": 154.69041575982342,
+    "_lastTenRatings": [
+      154.69041575982342,
+      154.69041575982342,
+      159.38083151964685,
+      154.8530765783359
+    ],
+    "tendency": 0.16266081851247804
   },
   {
     "NAF Nr": "24161",
@@ -620,19 +992,45 @@ const skaven2025 = [
     "tendency": 10.591951518135858
   },
   {
+    "NAF Nr": "24217",
+    "NAF Name": "Meowcats",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 40,
+    "rating": 144.56773188256304,
+    "bestRating": 150.23479772188395,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      144.5886006092411,
+      150.23479772188395,
+      144.56773188256304
+    ],
+    "tendency": 0.224586132055407
+  },
+  {
     "NAF Nr": "24229",
     "NAF Name": "stelthelf",
     "CCAA": "Apatrida",
     "Country": "England",
     "raceId": "2",
     "raceName": "Skaven",
-    "gamesTotal": 13,
-    "gamesWon": 4,
+    "gamesTotal": 16,
+    "gamesWon": 6,
     "gamesDraw": 6,
-    "gamesLost": 3,
+    "gamesLost": 4,
     "totalWinRatio": 0,
-    "totalTournaments": 3,
-    "winRatio": 53.85,
+    "totalTournaments": 4,
+    "winRatio": 56.25,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
@@ -642,22 +1040,49 @@ const skaven2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 153.24308888025806,
-    "bestRating": 157.31499125116025,
+    "rating": 158.5108203059104,
+    "bestRating": 158.5108203059104,
     "worstRating": 141.79405810391785,
     "_lastTenRatings": [
-      157.3133380469977,
-      157.31499125116025,
-      149.5959176570249,
-      155.2703162816295,
-      155.46558418338583,
-      149.81703448417787,
-      149.82189916124716,
-      153.30344220560394,
-      153.33059343695146,
-      153.24308888025806
+      155.27031991177296,
+      155.46558765610365,
+      149.8170378061177,
+      149.82190239486354,
+      153.30556256220706,
+      153.3326721579321,
+      153.2451680289073,
+      147.44744433086632,
+      152.96954176533114,
+      158.5108203059104
     ],
-    "tendency": -4.070249166739643
+    "tendency": 3.240500394137456
+  },
+  {
+    "NAF Nr": "24242",
+    "NAF Name": "_Nico_",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.64791150809359,
+    "bestRating": 155.65685424949237,
+    "worstRating": 149.98934286315048,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      155.65685424949237,
+      149.98934286315048,
+      149.9906513597031,
+      155.64791150809359
+    ],
+    "tendency": -0.008942741398783483
   },
   {
     "NAF Nr": "25245",
@@ -684,6 +1109,33 @@ const skaven2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "25379",
+    "NAF Name": "SilentKnight",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.35334017777816,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      150,
+      150,
+      150,
+      144.35334017777816
+    ],
+    "tendency": -5.646659822221835
+  },
+  {
     "NAF Nr": "25744",
     "NAF Name": "tok_janne",
     "CCAA": "Apatrida",
@@ -706,17 +1158,41 @@ const skaven2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 166.08261583162505,
-    "bestRating": 166.08261583162505,
-    "worstRating": 155.4113993907589,
+    "rating": 165.78610402572426,
+    "bestRating": 165.78610402572426,
+    "worstRating": 155.42837994581632,
     "_lastTenRatings": [
       155.65685424949237,
-      155.4113993907589,
-      160.58884535301254,
-      160.61985441098608,
-      166.08261583162505
+      155.42837994581632,
+      160.63687613252182,
+      160.66579985053303,
+      165.78610402572426
     ],
-    "tendency": 10.42576158213268
+    "tendency": 10.129249776231887
+  },
+  {
+    "NAF Nr": "25855",
+    "NAF Name": "Eden",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.68702541811257,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.68702541811257,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      138.68702541811257
+    ],
+    "tendency": -5.656120332395062
   },
   {
     "NAF Nr": "25859",
@@ -732,18 +1208,70 @@ const skaven2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 41.67,
-    "rating": 142.2803251953246,
+    "rating": 142.2803930820813,
     "bestRating": 157.74596669241484,
-    "worstRating": 142.2803251953246,
+    "worstRating": 142.2803930820813,
     "_lastTenRatings": [
       157.74596669241484,
       150,
       157.74596669241484,
       149.9989732871265,
-      150.02631983178952,
-      142.2803251953246
+      150.02638362373978,
+      142.2803930820813
     ],
-    "tendency": -15.465641497090246
+    "tendency": -15.465573610333536
+  },
+  {
+    "NAF Nr": "26213",
+    "NAF Name": "Ashira",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.66873042089014,
+    "bestRating": 154.69041575982342,
+    "worstRating": 149.66873042089014,
+    "_lastTenRatings": [
+      150,
+      154.69041575982342,
+      149.83145361459398,
+      149.66873042089014
+    ],
+    "tendency": -0.33126957910985766
+  },
+  {
+    "NAF Nr": "26295",
+    "NAF Name": "Jenavil",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.45846260964782,
+    "bestRating": 150.45846260964782,
+    "worstRating": 126.76209992275548,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.50806661517032,
+      126.76209992275548,
+      134.50806661517032,
+      142.71412889536492,
+      150.45846260964782
+    ],
+    "tendency": 8.204429302062664
   },
   {
     "NAF Nr": "26425",
@@ -771,30 +1299,77 @@ const skaven2025 = [
     "tendency": -4.7109961783179415
   },
   {
+    "NAF Nr": "26870",
+    "NAF Name": "illmatik",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 150,
+    "bestRating": 154.47213595499957,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      154.47213595499957,
+      150
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "27124",
     "NAF Name": "N3Rk",
     "CCAA": "Apatrida",
     "Country": "Finland",
     "raceId": "2",
     "raceName": "Skaven",
-    "gamesTotal": 5,
-    "gamesWon": 3,
-    "gamesDraw": 1,
-    "gamesLost": 1,
+    "gamesTotal": 14,
+    "gamesWon": 8,
+    "gamesDraw": 2,
+    "gamesLost": 4,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 70,
-    "rating": 158.52004606680663,
-    "bestRating": 158.7908264955076,
-    "worstRating": 154.0174032581098,
+    "totalTournaments": 3,
+    "winRatio": 64.29,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 169.6789618642914,
+    "bestRating": 173.29424551253913,
+    "worstRating": 150.02572614964825,
     "_lastTenRatings": [
-      154.47213595499957,
-      158.7908264955076,
-      154.0174032581098,
-      154.03301185451082,
-      158.52004606680663
+      157.8023325742107,
+      165.54494817472875,
+      169.48602270837756,
+      173.29424551253913,
+      168.0309487617476,
+      167.56721658618102,
+      171.59122020614984,
+      166.93434743526484,
+      170.29711364828864,
+      169.6789618642914
     ],
-    "tendency": 4.047910111807056
+    "tendency": 11.8766292900807
   },
   {
     "NAF Nr": "27500",
@@ -834,17 +1409,17 @@ const skaven2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 30,
-    "rating": 138.9641568419644,
+    "rating": 138.96412664146106,
     "bestRating": 155.65685424949237,
-    "worstRating": 138.9641568419644,
+    "worstRating": 138.96412664146106,
     "_lastTenRatings": [
       155.65685424949237,
       155.43718814090337,
       149.78987133688636,
-      144.3668013562788,
-      138.9641568419644
+      144.3667697879092,
+      138.96412664146106
     ],
-    "tendency": -16.69269740752796
+    "tendency": -16.692727608031305
   },
   {
     "NAF Nr": "28196",
@@ -1059,31 +1634,151 @@ const skaven2025 = [
     "tendency": -0.23707992156184332
   },
   {
+    "NAF Nr": "28997",
+    "NAF Name": "stilger",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 152.89869617074885,
+    "bestRating": 152.89869617074885,
+    "worstRating": 147.17157287525382,
+    "_lastTenRatings": [
+      147.17157287525382,
+      150.07175988728366,
+      152.89869617074885
+    ],
+    "tendency": 5.7271232954950335
+  },
+  {
+    "NAF Nr": "29157",
+    "NAF Name": "Ninja",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.52786404500043,
+    "bestRating": 154.47213595499957,
+    "worstRating": 145.52786404500043,
+    "_lastTenRatings": [
+      154.47213595499957,
+      150,
+      145.52786404500043
+    ],
+    "tendency": -8.944271909999145
+  },
+  {
+    "NAF Nr": "29611",
+    "NAF Name": "dizzybess",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 138.6867140322161,
+    "bestRating": 144.3435883716831,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      138.68629150101526,
+      138.68629150101526,
+      144.3435883716831,
+      138.6867140322161
+    ],
+    "tendency": -5.656431718291543
+  },
+  {
+    "NAF Nr": "29669",
+    "NAF Name": "Sami",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 153.5836781259965,
+    "bestRating": 153.5836781259965,
+    "worstRating": 149.31885726962727,
+    "_lastTenRatings": [
+      153.53857123496343,
+      149.31885726962727,
+      153.5836781259965
+    ],
+    "tendency": 0.04510689103307186
+  },
+  {
     "NAF Nr": "29677",
     "NAF Name": "Melmoth",
     "CCAA": "Apatrida",
     "Country": "Germany",
     "raceId": "2",
     "raceName": "Skaven",
-    "gamesTotal": 6,
-    "gamesWon": 3,
-    "gamesDraw": 2,
-    "gamesLost": 1,
+    "gamesTotal": 9,
+    "gamesWon": 4,
+    "gamesDraw": 3,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 66.67,
-    "rating": 157.47673037910667,
-    "bestRating": 157.67118678366216,
+    "totalTournaments": 2,
+    "winRatio": 61.11,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 156.79004641319602,
+    "bestRating": 157.86452099286225,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       154,
-      157.67118678366216,
-      153.56227316637427,
-      157.45274060336266,
-      157.47673037910667
+      157.86452099286225,
+      153.7496764405429,
+      157.63457692064515,
+      157.65299003568404,
+      157.35382338314633,
+      151.9673067767992,
+      156.79004641319602
     ],
-    "tendency": 7.4767303791066695
+    "tendency": 6.790046413196023
   },
   {
     "NAF Nr": "30733",
@@ -1108,8 +1803,8 @@ const skaven2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 164.2063962972438,
-    "bestRating": 164.2063962972438,
+    "rating": 163.7866605571542,
+    "bestRating": 163.7866605571542,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
@@ -1119,9 +1814,33 @@ const skaven2025 = [
       161.31370849898474,
       156.5772490664209,
       160.57112744492338,
-      164.2063962972438
+      163.7866605571542
     ],
-    "tendency": 19.863250546736168
+    "tendency": 19.44351480664656
+  },
+  {
+    "NAF Nr": "30916",
+    "NAF Name": "fullfatbeard",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.98715336723933,
+    "bestRating": 154.89897948556634,
+    "worstRating": 149.98715336723933,
+    "_lastTenRatings": [
+      154.89897948556634,
+      154.8856309331247,
+      149.98715336723933
+    ],
+    "tendency": -4.9118261183270135
   },
   {
     "NAF Nr": "31102",
@@ -1137,18 +1856,69 @@ const skaven2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 41.67,
-    "rating": 142.66732780643102,
-    "bestRating": 158.21510689767356,
-    "worstRating": 142.66732780643102,
+    "rating": 142.70148366576282,
+    "bestRating": 158.25264120946457,
+    "worstRating": 142.70148366576282,
     "_lastTenRatings": [
       142.78435683306492,
       150.49879464473582,
-      158.21510689767356,
-      158.21293619453087,
-      150.43920712065915,
-      142.66732780643102
+      158.25264120946457,
+      158.24823899838793,
+      150.4724111139225,
+      142.70148366576282
     ],
-    "tendency": -0.11702902663390091
+    "tendency": -0.08287316730209682
+  },
+  {
+    "NAF Nr": "31369",
+    "NAF Name": "gilles.nb",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.895658134422,
+    "bestRating": 149.895658134422,
+    "worstRating": 146.25834261322606,
+    "_lastTenRatings": [
+      146.25834261322606,
+      146.25834261322606,
+      149.895658134422
+    ],
+    "tendency": 3.6373155211959443
+  },
+  {
+    "NAF Nr": "31370",
+    "NAF Name": "jblackmane",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.36274608841575,
+    "bestRating": 150.0097716915309,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      150,
+      150.0097716915309,
+      150.0093666784819,
+      144.36274608841575
+    ],
+    "tendency": 0.019600337908116217
   },
   {
     "NAF Nr": "31410",
@@ -1175,6 +1945,42 @@ const skaven2025 = [
     "tendency": 3.3720199085210822
   },
   {
+    "NAF Nr": "31698",
+    "NAF Name": "Quack",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 150.77208920148678,
+    "bestRating": 154.79583152331273,
+    "worstRating": 145.98004782241236,
+    "_lastTenRatings": [
+      154.79583152331273,
+      150,
+      154.79583152331273,
+      150.79878693256285,
+      145.98004782241236,
+      150.77208920148678
+    ],
+    "tendency": -4.023742321825949
+  },
+  {
     "NAF Nr": "31705",
     "NAF Name": "scumbag",
     "CCAA": "Apatrida",
@@ -1197,21 +2003,21 @@ const skaven2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 162.47717232779723,
-    "bestRating": 163.09263426870592,
+    "rating": 162.477225060756,
+    "bestRating": 163.09269188174238,
     "worstRating": 142.25403330758516,
     "_lastTenRatings": [
       142.25403330758516,
       150,
       150,
       142.25403330758516,
-      150.0023985977577,
-      157.77286202071411,
-      163.09263426870592,
-      157.1132836801326,
-      162.47717232779723
+      150.00246262245642,
+      157.77292223902305,
+      163.09269188174238,
+      157.11333879985855,
+      162.477225060756
     ],
-    "tendency": 20.223139020212074
+    "tendency": 20.223191753170852
   },
   {
     "NAF Nr": "31996",
@@ -1236,15 +2042,15 @@ const skaven2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 153.64569354648586,
-    "bestRating": 153.64569354648586,
+    "rating": 153.97571363694277,
+    "bestRating": 153.97571363694277,
     "worstRating": 150,
     "_lastTenRatings": [
       153.46410161513776,
       150,
-      153.64569354648586
+      153.97571363694277
     ],
-    "tendency": 0.1815919313480947
+    "tendency": 0.5116120218050071
   },
   {
     "NAF Nr": "32120",
@@ -1331,6 +2137,30 @@ const skaven2025 = [
     "tendency": 17.44856743479383
   },
   {
+    "NAF Nr": "32237",
+    "NAF Name": "hatecore",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.6209846571687,
+    "bestRating": 144.6209846571687,
+    "worstRating": 139.51056080283993,
+    "_lastTenRatings": [
+      144.59771147410532,
+      139.51056080283993,
+      144.6209846571687
+    ],
+    "tendency": 0.023273183063366787
+  },
+  {
     "NAF Nr": "32646",
     "NAF Name": "clownlegs",
     "CCAA": "Apatrida",
@@ -1413,6 +2243,57 @@ const skaven2025 = [
     "tendency": 4.678519226281082
   },
   {
+    "NAF Nr": "32899",
+    "NAF Name": "baronshroogit",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.24669412878475,
+    "bestRating": 155.52967277565133,
+    "worstRating": 144.24669412878475,
+    "_lastTenRatings": [
+      155.52967277565133,
+      149.8991705709434,
+      144.24669412878475
+    ],
+    "tendency": -11.282978646866582
+  },
+  {
+    "NAF Nr": "33239",
+    "NAF Name": "d-rock",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 141.97664123475454,
+    "bestRating": 157.74596669241484,
+    "worstRating": 141.44498292627694,
+    "_lastTenRatings": [
+      150,
+      157.74596669241484,
+      149.11025700989234,
+      141.44498292627694,
+      149.70933991562904,
+      141.97664123475454
+    ],
+    "tendency": -8.023358765245462
+  },
+  {
     "NAF Nr": "33352",
     "NAF Name": "milbeadler",
     "CCAA": "Apatrida",
@@ -1426,16 +2307,68 @@ const skaven2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 144.1100018336938,
-    "bestRating": 149.7558090586775,
-    "worstRating": 144.1100018336938,
+    "rating": 144.10198068205395,
+    "bestRating": 149.74742383934742,
+    "worstRating": 144.10198068205395,
     "_lastTenRatings": [
       144.58860060924107,
       144.57794347239155,
-      149.7558090586775,
-      144.1100018336938
+      149.74742383934742,
+      144.10198068205395
     ],
-    "tendency": -0.47859877554728314
+    "tendency": -0.486619927187121
+  },
+  {
+    "NAF Nr": "33354",
+    "NAF Name": "eljabalicojo",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 161.762471906829,
+    "bestRating": 161.762471906829,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.65685424949237,
+      156.08531007594385,
+      161.762471906829
+    ],
+    "tendency": 11.762471906829006
+  },
+  {
+    "NAF Nr": "33675",
+    "NAF Name": "qb1",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 135.8176478139876,
+    "bestRating": 150.1184545558979,
+    "worstRating": 135.8176478139876,
+    "_lastTenRatings": [
+      142.25403330758516,
+      150,
+      150,
+      150.1184545558979,
+      143.17924345063187,
+      135.8176478139876
+    ],
+    "tendency": -6.436385493597555
   },
   {
     "NAF Nr": "33754",
@@ -1451,18 +2384,18 @@ const skaven2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 41.67,
-    "rating": 141.41435360580184,
-    "bestRating": 150,
-    "worstRating": 141.41435360580184,
+    "rating": 141.43139696150422,
+    "bestRating": 150.01811212308684,
+    "worstRating": 141.43139696150422,
     "_lastTenRatings": [
       142.25403330758516,
       142.25403330758516,
-      150,
-      141.79399343377588,
-      149.107244595846,
-      141.41435360580184
+      150.01811212308684,
+      141.81103255309685,
+      149.125365218129,
+      141.43139696150422
     ],
-    "tendency": -0.8396797017833251
+    "tendency": -0.8226363460809409
   },
   {
     "NAF Nr": "33879",
@@ -1519,28 +2452,150 @@ const skaven2025 = [
     "tendency": -4.725840009570476
   },
   {
+    "NAF Nr": "34093",
+    "NAF Name": "fredd",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 20,
+    "rating": 131.95947338045738,
+    "bestRating": 149.05810219900292,
+    "worstRating": 131.95947338045738,
+    "_lastTenRatings": [
+      149.05810219900292,
+      143.44214251897486,
+      137.78524112419447,
+      137.82436227051826,
+      131.95947338045738
+    ],
+    "tendency": -17.098628818545535
+  },
+  {
+    "NAF Nr": "34382",
+    "NAF Name": "aragorn",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.52786404500043,
+    "bestRating": 150,
+    "worstRating": 145.52786404500043,
+    "_lastTenRatings": [
+      145.52786404500043,
+      150,
+      145.52786404500043
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "34490",
+    "NAF Name": "Winnie_the_Pow",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 139.69437368884974,
+    "bestRating": 156.52955753534178,
+    "worstRating": 139.69437368884974,
+    "_lastTenRatings": [
+      155.65685424949237,
+      156.52955753534178,
+      156.517875574572,
+      150.60985857669368,
+      145.16559873184895,
+      139.69437368884974
+    ],
+    "tendency": -15.962480560642632
+  },
+  {
     "NAF Nr": "34641",
     "NAF Name": "jotamolon",
     "CCAA": "Apatrida",
     "Country": "Germany",
     "raceId": "2",
     "raceName": "Skaven",
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 0,
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 1,
     "gamesLost": 1,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 66.67,
-    "rating": 155.32823244707447,
-    "bestRating": 155.32823244707447,
+    "totalTournaments": 2,
+    "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 164.9251490936588,
+    "bestRating": 164.9251490936588,
     "worstRating": 150.23042496544568,
     "_lastTenRatings": [
       155.0990195135928,
       150.23042496544568,
-      155.32823244707447
+      155.32823244707447,
+      160.218840185749,
+      160.01857180109556,
+      164.9251490936588
     ],
-    "tendency": 0.22921293348167637
+    "tendency": 9.82612958006601
+  },
+  {
+    "NAF Nr": "34913",
+    "NAF Name": "darkgordu",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 151.11378750831187,
+    "bestRating": 151.11378750831187,
+    "worstRating": 144.58860060924107,
+    "_lastTenRatings": [
+      144.58860060924107,
+      150.7248631459722,
+      151.11378750831187
+    ],
+    "tendency": 6.525186899070803
   },
   {
     "NAF Nr": "34953",
@@ -1576,6 +2631,37 @@ const skaven2025 = [
     "tendency": -0.10834161160414624
   },
   {
+    "NAF Nr": "35266",
+    "NAF Name": "Papatte",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 11,
+    "gamesWon": 5,
+    "gamesDraw": 2,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 54.55,
+    "rating": 156.07393579659768,
+    "bestRating": 156.07393579659768,
+    "worstRating": 138.70493089775658,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.34314575050763,
+      138.70493089775658,
+      144.39603044980845,
+      144.639193445571,
+      150.29388376980347,
+      145.0904050631981,
+      149.9733738327302,
+      156.07393579659768
+    ],
+    "tendency": 0.41708154710531176
+  },
+  {
     "NAF Nr": "35532",
     "NAF Name": "BreadBread",
     "CCAA": "Apatrida",
@@ -1607,6 +2693,31 @@ const skaven2025 = [
       150
     ],
     "tendency": 0
+  },
+  {
+    "NAF Nr": "35614",
+    "NAF Name": "daz",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 156.33617387545866,
+    "bestRating": 156.33617387545866,
+    "worstRating": 145.08970063476437,
+    "_lastTenRatings": [
+      150.78043957388155,
+      145.08970063476437,
+      150.7148643712019,
+      156.33617387545866
+    ],
+    "tendency": 5.555734301577104
   },
   {
     "NAF Nr": "35671",
@@ -1648,15 +2759,15 @@ const skaven2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 16.67,
-    "rating": 141.79223182317625,
+    "rating": 141.62013497159688,
     "bestRating": 145.7573593128807,
-    "worstRating": 141.65881293481826,
+    "worstRating": 141.48092956367097,
     "_lastTenRatings": [
       145.7573593128807,
-      141.65881293481826,
-      141.79223182317625
+      141.48092956367097,
+      141.62013497159688
     ],
-    "tendency": -3.9651274897044573
+    "tendency": -4.137224341283826
   },
   {
     "NAF Nr": "35724",
@@ -1672,16 +2783,16 @@ const skaven2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.75514324640346,
+    "rating": 149.75517488721985,
     "bestRating": 150,
-    "worstRating": 144.84659718692845,
+    "worstRating": 144.84663006395093,
     "_lastTenRatings": [
       145.10102051443366,
       150,
-      144.84659718692845,
-      149.75514324640346
+      144.84663006395093,
+      149.75517488721985
     ],
-    "tendency": 4.654122731969807
+    "tendency": 4.654154372786195
   },
   {
     "NAF Nr": "35726",
@@ -1711,6 +2822,30 @@ const skaven2025 = [
     "tendency": 0.6130554700326627
   },
   {
+    "NAF Nr": "35850",
+    "NAF Name": "swampmonkey",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.92051347972557,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.92051347972557,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150.60357347111687,
+      144.92051347972557
+    ],
+    "tendency": -10.736340769766798
+  },
+  {
     "NAF Nr": "36300",
     "NAF Name": "Arclas",
     "CCAA": "Apatrida",
@@ -1733,6 +2868,32 @@ const skaven2025 = [
       150
     ],
     "tendency": -4
+  },
+  {
+    "NAF Nr": "36309",
+    "NAF Name": "soso_007",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 70,
+    "rating": 161.30313541484523,
+    "bestRating": 166.9705627484771,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      161.31370849898474,
+      166.9705627484771,
+      161.30313541484523
+    ],
+    "tendency": 5.64628116535286
   },
   {
     "NAF Nr": "36472",
@@ -1759,6 +2920,33 @@ const skaven2025 = [
       144.34314575050763
     ],
     "tendency": -11.313708498984738
+  },
+  {
+    "NAF Nr": "36573",
+    "NAF Name": "therealalucard",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.05420362213044,
+    "bestRating": 157.74596669241484,
+    "worstRating": 142.26152076079356,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150,
+      150,
+      142.26152076079356,
+      150.01168135513993,
+      150.05420362213044
+    ],
+    "tendency": -7.691763070284395
   },
   {
     "NAF Nr": "36724",
@@ -1859,6 +3047,33 @@ const skaven2025 = [
     "tendency": 7.865014563274343
   },
   {
+    "NAF Nr": "37335",
+    "NAF Name": "mamie-tromblon",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 161.29330056181504,
+    "bestRating": 161.31370849898474,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.65685424949237,
+      161.31370849898474,
+      161.30305136213522,
+      155.6466598237928,
+      161.29330056181504
+    ],
+    "tendency": 11.293300561815045
+  },
+  {
     "NAF Nr": "37620",
     "NAF Name": "riogwe",
     "CCAA": "Apatrida",
@@ -1872,15 +3087,15 @@ const skaven2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.0000001639399,
-    "bestRating": 150.0000001639399,
+    "rating": 150.00000188187695,
+    "bestRating": 150.00000188187695,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
       144.34314575050763,
-      150.0000001639399
+      150.00000188187695
     ],
-    "tendency": 5.6568544134322565
+    "tendency": 5.656856131369324
   },
   {
     "NAF Nr": "37677",
@@ -1945,6 +3160,39 @@ const skaven2025 = [
     "tendency": -9.594271273735927
   },
   {
+    "NAF Nr": "37769",
+    "NAF Name": "rmbyoung",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 154.9190519311109,
+    "bestRating": 154.9190519311109,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      154.89897948556634,
+      150,
+      154.9190519311109
+    ],
+    "tendency": 0.02007244554454246
+  },
+  {
     "NAF Nr": "37834",
     "NAF Name": "korbi14",
     "CCAA": "Apatrida",
@@ -1958,15 +3206,15 @@ const skaven2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 16.67,
-    "rating": 139.7786999081973,
+    "rating": 139.76408811007946,
     "bestRating": 144.9009804864072,
-    "worstRating": 139.7786999081973,
+    "worstRating": 139.76408811007946,
     "_lastTenRatings": [
       144.9009804864072,
-      139.8019609728144,
-      139.7786999081973
+      139.78675404191696,
+      139.76408811007946
     ],
-    "tendency": -5.12228057820991
+    "tendency": -5.136892376327751
   },
   {
     "NAF Nr": "37857",
@@ -1991,17 +3239,45 @@ const skaven2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 172.36308146409553,
-    "bestRating": 172.36308146409553,
+    "rating": 172.3628538892796,
+    "bestRating": 172.3628538892796,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       155.65685424949237,
       161.30417105350938,
-      166.9720965347584,
-      172.36308146409553
+      166.97171399754157,
+      172.3628538892796
     ],
-    "tendency": 22.36308146409553
+    "tendency": 22.36285388927959
+  },
+  {
+    "NAF Nr": "37882",
+    "NAF Name": "Kariga",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 7,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 42.86,
+    "rating": 145.1917167925927,
+    "bestRating": 155.0990195135928,
+    "worstRating": 140.49054628387918,
+    "_lastTenRatings": [
+      155.0990195135928,
+      150,
+      155.0990195135928,
+      150.22513133046172,
+      145.35124314733065,
+      140.49054628387918,
+      145.1917167925927
+    ],
+    "tendency": -9.907302721000093
   },
   {
     "NAF Nr": "38065",
@@ -2010,22 +3286,51 @@ const skaven2025 = [
     "Country": "Hungary",
     "raceId": "2",
     "raceName": "Skaven",
-    "gamesTotal": 3,
-    "gamesWon": 0,
+    "gamesTotal": 8,
+    "gamesWon": 3,
     "gamesDraw": 2,
-    "gamesLost": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 50,
+    "rating": 148.84220931757181,
+    "bestRating": 154.61495021663404,
+    "worstRating": 145.52786404500043,
+    "_lastTenRatings": [
+      145.52786404500043,
+      150,
+      145.6760484496934,
+      150.14836498839097,
+      154.61495021663404,
+      154.41466224542523,
+      149.05707086471932,
+      148.84220931757181
+    ],
+    "tendency": 3.314345272571387
+  },
+  {
+    "NAF Nr": "38337",
+    "NAF Name": "KikedineZidane",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
     "totalWinRatio": 0,
     "totalTournaments": 1,
-    "winRatio": 33.33,
-    "rating": 144.8012018881529,
-    "bestRating": 150,
-    "worstRating": 144.8012018881529,
+    "winRatio": 66.67,
+    "rating": 155.1218818744692,
+    "bestRating": 155.1218818744692,
+    "worstRating": 150,
     "_lastTenRatings": [
       150,
-      144.83313294324492,
-      144.8012018881529
+      150,
+      155.1218818744692
     ],
-    "tendency": -5.198798111847111
+    "tendency": 5.12188187446921
   },
   {
     "NAF Nr": "38491",
@@ -2041,18 +3346,44 @@ const skaven2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 138.93259069444477,
+    "rating": 138.93258999435207,
     "bestRating": 155.65685424949237,
-    "worstRating": 138.67609707374473,
+    "worstRating": 138.67609634194406,
     "_lastTenRatings": [
       155.65685424949237,
       155.65685424949237,
-      150,
-      144.34314575050763,
-      138.67609707374473,
-      138.93259069444477
+      149.99999923648843,
+      144.34314501864154,
+      138.67609634194406,
+      138.93258999435207
     ],
-    "tendency": -16.7242635550476
+    "tendency": -16.724264255140298
+  },
+  {
+    "NAF Nr": "38791",
+    "NAF Name": "Lou_loup_hyank",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 10,
+    "rating": 127.24480312878103,
+    "bestRating": 144.34314575050763,
+    "worstRating": 127.24480312878103,
+    "_lastTenRatings": [
+      144.34314575050763,
+      143.7876313205705,
+      137.52248344297053,
+      132.61791515761885,
+      127.24480312878103
+    ],
+    "tendency": -17.0983426217266
   },
   {
     "NAF Nr": "39111",
@@ -2079,6 +3410,33 @@ const skaven2025 = [
     "tendency": 4.245334771202238
   },
   {
+    "NAF Nr": "39313",
+    "NAF Name": "Kosmo",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 161.3043800964898,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.6471024434655,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.65685424949237,
+      161.30351407171423,
+      155.6471024434655,
+      161.3043800964898
+    ],
+    "tendency": 5.647525846997439
+  },
+  {
     "NAF Nr": "39839",
     "NAF Name": "Big_Lepowski",
     "CCAA": "Apatrida",
@@ -2092,15 +3450,15 @@ const skaven2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 155.27507225293135,
+    "rating": 155.27553070261507,
     "bestRating": 155.29150262212917,
     "worstRating": 149.99018065607677,
     "_lastTenRatings": [
       155.29150262212917,
       149.99018065607677,
-      155.27507225293135
+      155.27553070261507
     ],
-    "tendency": -0.016430369197820482
+    "tendency": -0.01597191951410082
   },
   {
     "NAF Nr": "40134",
@@ -2128,6 +3486,84 @@ const skaven2025 = [
       116.99913090556213
     ],
     "tendency": -27.344014844945505
+  },
+  {
+    "NAF Nr": "40284",
+    "NAF Name": "gnoblarnbob",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 127.84513868467147,
+    "bestRating": 150,
+    "worstRating": 119.09191721440175,
+    "_lastTenRatings": [
+      150,
+      142.23991267823962,
+      134.03480733379288,
+      126.80407885983384,
+      119.09191721440175,
+      127.84513868467147
+    ],
+    "tendency": -22.15486131532853
+  },
+  {
+    "NAF Nr": "40612",
+    "NAF Name": "Bonsai",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 133.03028405852146,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.03028405852146,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      138.68629150101526,
+      144.34314575050763,
+      138.6867341221907,
+      133.03028405852146
+    ],
+    "tendency": -11.312861691986171
+  },
+  {
+    "NAF Nr": "40640",
+    "NAF Name": "seedy",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.34685888290923,
+    "bestRating": 152.96179964841474,
+    "worstRating": 149.34685888290923,
+    "_lastTenRatings": [
+      152.9387415778992,
+      152.96179964841474,
+      149.34685888290923
+    ],
+    "tendency": -3.5918826949899767
   },
   {
     "NAF Nr": "40833",
@@ -2163,13 +3599,13 @@ const skaven2025 = [
     "Country": "Spain",
     "raceId": "2",
     "raceName": "Skaven",
-    "gamesTotal": 4,
-    "gamesWon": 3,
-    "gamesDraw": 0,
-    "gamesLost": 1,
+    "gamesTotal": 8,
+    "gamesWon": 4,
+    "gamesDraw": 2,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 75,
+    "totalTournaments": 2,
+    "winRatio": 62.5,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
@@ -2179,16 +3615,20 @@ const skaven2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 161.06823450352658,
+    "rating": 159.04845167745952,
     "bestRating": 166.9705627484771,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
       155.65685424949237,
       161.31370849898474,
       166.9705627484771,
-      161.06823450352658
+      161.06823450599995,
+      166.24568129305698,
+      165.5439598801355,
+      165.11550405368402,
+      159.04845167745952
     ],
-    "tendency": 5.4113802540342135
+    "tendency": 3.391597427967156
   },
   {
     "NAF Nr": "41128",
@@ -2213,6 +3653,32 @@ const skaven2025 = [
       152.82709435354735
     ],
     "tendency": -0.0013327711988324609
+  },
+  {
+    "NAF Nr": "41252",
+    "NAF Name": "FlameOfTheSouth",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 40,
+    "rating": 144.34314575050763,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      150,
+      144.34314575050763,
+      144.34314575050763
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "41268",
@@ -2264,15 +3730,15 @@ const skaven2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 155.93917471342408,
-    "bestRating": 155.93917471342408,
+    "rating": 155.93933424554163,
+    "bestRating": 155.93933424554163,
     "worstRating": 150,
     "_lastTenRatings": [
       155.65685424949237,
       150,
-      155.93917471342408
+      155.93933424554163
     ],
-    "tendency": 0.2823204639317112
+    "tendency": 0.2824799960492612
   },
   {
     "NAF Nr": "41765",
@@ -2302,6 +3768,120 @@ const skaven2025 = [
       149.9486147999525
     ],
     "tendency": -4.950364685613835
+  },
+  {
+    "NAF Nr": "42457",
+    "NAF Name": "stelteck",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 132.8911303835522,
+    "bestRating": 150,
+    "worstRating": 132.8911303835522,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.36351364444738,
+      138.70577506253963,
+      138.70426003543992,
+      132.8911303835522
+    ],
+    "tendency": -11.452015366955436
+  },
+  {
+    "NAF Nr": "42579",
+    "NAF Name": "YarKo",
+    "CCAA": "Apatrida",
+    "Country": "Ukraine",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 60,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 152.9458259809601,
+    "bestRating": 152.94849026753653,
+    "worstRating": 147.17157287525382,
+    "_lastTenRatings": [
+      147.17157287525382,
+      147.17157287525382,
+      150.12272742936673,
+      152.94849026753653,
+      152.9458259809601
+    ],
+    "tendency": 5.774253105706293
+  },
+  {
+    "NAF Nr": "42771",
+    "NAF Name": "Kikinho",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.53848313562304,
+    "bestRating": 150,
+    "worstRating": 144.12822478177878,
+    "_lastTenRatings": [
+      150,
+      149.7753240702072,
+      144.12822478177878,
+      149.53848313562304
+    ],
+    "tendency": -0.4615168643769607
+  },
+  {
+    "NAF Nr": "42804",
+    "NAF Name": "agedus",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.33333784602738,
+    "bestRating": 150,
+    "worstRating": 144.33333784602738,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.34314575050763,
+      150,
+      144.34314575050763,
+      144.33333784602738
+    ],
+    "tendency": -0.009807904480254592
   },
   {
     "NAF Nr": "42841",
@@ -2416,6 +3996,30 @@ const skaven2025 = [
     "tendency": -11.096363428435865
   },
   {
+    "NAF Nr": "43120",
+    "NAF Name": "flyte",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.34314575050763,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      144.34314575050763
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "43239",
     "NAF Name": "project35",
     "CCAA": "Apatrida",
@@ -2438,14 +4042,71 @@ const skaven2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 139.43234827153077,
-    "bestRating": 144.72485999999824,
-    "worstRating": 139.43234827153077,
+    "rating": 139.4165971683777,
+    "bestRating": 144.70770672173987,
+    "worstRating": 139.4165971683777,
     "_lastTenRatings": [
-      144.72485999999824,
-      139.43330754308067,
-      139.43234827153077
+      144.70770672173987,
+      139.41686941789598,
+      139.4165971683777
     ],
-    "tendency": -5.292511728467474
+    "tendency": -5.291109553362162
+  },
+  {
+    "NAF Nr": "43313",
+    "NAF Name": "cosmaty",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 141.23668439503098,
+    "bestRating": 145.72191314908858,
+    "worstRating": 141.23668439503098,
+    "_lastTenRatings": [
+      145.72191314908858,
+      145.7152524356026,
+      141.23668439503098
+    ],
+    "tendency": -4.4852287540576015
+  },
+  {
+    "NAF Nr": "43444",
+    "NAF Name": "mr_mesmer",
+    "CCAA": "Apatrida",
+    "Country": "Georgia",
+    "raceId": "2",
+    "raceName": "Skaven",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 166.15549442140355,
+    "bestRating": 166.15549442140355,
+    "worstRating": 155.38516480713452,
+    "_lastTenRatings": [
+      155.38516480713452,
+      160.77032961426903,
+      166.15549442140355
+    ],
+    "tendency": 10.77032961426903
   }
 ];

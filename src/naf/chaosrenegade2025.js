@@ -13,15 +13,42 @@ const chaosrenegade2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 145.7573593128807,
+    "rating": 145.74712092913893,
     "bestRating": 150,
-    "worstRating": 145.7573593128807,
+    "worstRating": 145.74712092913893,
     "_lastTenRatings": [
       145.7573593128807,
       150,
-      145.7573593128807
+      145.74712092913893
     ],
-    "tendency": 0
+    "tendency": -0.01023838374177899
+  },
+  {
+    "NAF Nr": "5131",
+    "NAF Name": "Besters",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 154.96129725062727,
+    "bestRating": 159.74910783453572,
+    "worstRating": 145.20416847668727,
+    "_lastTenRatings": [
+      145.20416847668727,
+      150.1764518377261,
+      154.9657882845136,
+      159.74910783453572,
+      154.960001966521,
+      154.96129725062727
+    ],
+    "tendency": 9.757128773939996
   },
   {
     "NAF Nr": "7633",
@@ -57,6 +84,29 @@ const chaosrenegade2025 = [
     "tendency": -5.4327135888094915
   },
   {
+    "NAF Nr": "10658",
+    "NAF Name": "Sizzler",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 2,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "rating": 159.4023228011195,
+    "bestRating": 159.4023228011195,
+    "worstRating": 154.92416595516505,
+    "_lastTenRatings": [
+      154.92416595516505,
+      159.4023228011195
+    ],
+    "tendency": 4.478156845954459
+  },
+  {
     "NAF Nr": "13625",
     "NAF Name": "The_Tyser",
     "CCAA": "Apatrida",
@@ -70,15 +120,41 @@ const chaosrenegade2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 154.35057111757564,
-    "bestRating": 154.35057111757564,
+    "rating": 154.35033271175874,
+    "bestRating": 154.35033271175874,
     "worstRating": 149.87956835736375,
     "_lastTenRatings": [
       154.34742357210942,
       149.87956835736375,
-      154.35057111757564
+      154.35033271175874
     ],
-    "tendency": 0.003147545466219981
+    "tendency": 0.002909139649318604
+  },
+  {
+    "NAF Nr": "14337",
+    "NAF Name": "Malygn",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 30,
+    "rating": 138.6867370495535,
+    "bestRating": 155.65685424949237,
+    "worstRating": 138.6862735594159,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.34314575050763,
+      138.6862735594159,
+      138.6867370495535
+    ],
+    "tendency": -16.97011719993887
   },
   {
     "NAF Nr": "18753",
@@ -94,15 +170,15 @@ const chaosrenegade2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 153.7415626761245,
-    "bestRating": 153.7415626761245,
+    "rating": 153.74146493028397,
+    "bestRating": 153.74146493028397,
     "worstRating": 146.25834261322606,
     "_lastTenRatings": [
       146.25834261322606,
-      150,
-      153.7415626761245
+      149.99989936406845,
+      153.74146493028397
     ],
-    "tendency": 7.483220062898425
+    "tendency": 7.483122317057905
   },
   {
     "NAF Nr": "20177",
@@ -129,6 +205,55 @@ const chaosrenegade2025 = [
     "tendency": -0.0007404073096779484
   },
   {
+    "NAF Nr": "20192",
+    "NAF Name": "lapiedra",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 144.00826527718215,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      144.2192818783849,
+      144.00826527718215
+    ],
+    "tendency": -0.33488047332548376
+  },
+  {
+    "NAF Nr": "20267",
+    "NAF Name": "MightyZuk",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.8772340307004,
+    "bestRating": 150,
+    "worstRating": 146,
+    "_lastTenRatings": [
+      146,
+      150,
+      149.8772340307004
+    ],
+    "tendency": 3.877234030700407
+  },
+  {
     "NAF Nr": "20376",
     "NAF Name": "vinnythefish",
     "CCAA": "Apatrida",
@@ -151,15 +276,84 @@ const chaosrenegade2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 161.21880715695366,
-    "bestRating": 161.21880715695366,
+    "rating": 161.21550098941952,
+    "bestRating": 161.21550098941952,
     "worstRating": 153.74165738677394,
     "_lastTenRatings": [
       153.74165738677394,
       157.48331477354787,
-      161.21880715695366
+      161.21550098941952
     ],
-    "tendency": 7.477149770179722
+    "tendency": 7.473843602645587
+  },
+  {
+    "NAF Nr": "20513",
+    "NAF Name": "Pacho",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 87.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 167.17498169830097,
+    "bestRating": 167.17498169830097,
+    "worstRating": 150.24572400683275,
+    "_lastTenRatings": [
+      150.24572400683275,
+      155.89190943365548,
+      161.5385580774265,
+      167.17498169830097
+    ],
+    "tendency": 16.929257691468223
+  },
+  {
+    "NAF Nr": "21318",
+    "NAF Name": "GothmogBalrog",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
+    "rating": 150.23330493265328,
+    "bestRating": 155.90074856356716,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      150,
+      155.90074856356716,
+      150.23330493265328
+    ],
+    "tendency": 5.890159182145652
   },
   {
     "NAF Nr": "21684",
@@ -238,6 +432,63 @@ const chaosrenegade2025 = [
     "tendency": 4.461806684363751
   },
   {
+    "NAF Nr": "23981",
+    "NAF Name": "aagueci",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 153.5898393395658,
+    "bestRating": 158.3376548598351,
+    "worstRating": 153.5898393395658,
+    "_lastTenRatings": [
+      154.47213595499957,
+      158.3376548598351,
+      153.5898393395658
+    ],
+    "tendency": -0.8822966154337735
+  },
+  {
+    "NAF Nr": "24413",
+    "NAF Name": "iniq",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.16524512601646,
+    "bestRating": 154.47213595499957,
+    "worstRating": 149.84655458550844,
+    "_lastTenRatings": [
+      154.47213595499957,
+      149.84655458550844,
+      154.16524512601646
+    ],
+    "tendency": -0.30689082898311426
+  },
+  {
     "NAF Nr": "24722",
     "NAF Name": "BellyBrassknuckle",
     "CCAA": "Apatrida",
@@ -301,6 +552,42 @@ const chaosrenegade2025 = [
     "tendency": 5.656854249492369
   },
   {
+    "NAF Nr": "25263",
+    "NAF Name": "Grigonian",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 134.96804181883766,
+    "bestRating": 157.74596669241484,
+    "worstRating": 134.96804181883766,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150,
+      157.74596669241484,
+      150,
+      142.25403330758516,
+      134.96804181883766
+    ],
+    "tendency": -22.777924873577177
+  },
+  {
     "NAF Nr": "25795",
     "NAF Name": "seg",
     "CCAA": "Apatrida",
@@ -314,15 +601,39 @@ const chaosrenegade2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 144.0968825703746,
+    "rating": 144.1077167553725,
     "bestRating": 155.29150262212917,
-    "worstRating": 144.0968825703746,
+    "worstRating": 144.1077167553725,
     "_lastTenRatings": [
       155.29150262212917,
-      149.82739459583453,
-      144.0968825703746
+      149.83868413233344,
+      144.1077167553725
     ],
-    "tendency": -11.194620051754583
+    "tendency": -11.183785866756665
+  },
+  {
+    "NAF Nr": "25955",
+    "NAF Name": "BlackCaps",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.11900035729767,
+    "bestRating": 154,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      154,
+      150,
+      150.11900035729767
+    ],
+    "tendency": -3.880999642702335
   },
   {
     "NAF Nr": "26530",
@@ -338,16 +649,16 @@ const chaosrenegade2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.02086457315397,
-    "bestRating": 150.02086457315397,
-    "worstRating": 144.09769089177416,
+    "rating": 150.20346253942853,
+    "bestRating": 150.20346253942853,
+    "worstRating": 144.1060101257533,
     "_lastTenRatings": [
-      144.34314575050763,
-      144.09769089177416,
-      144.1296219468662,
-      150.02086457315397
+      144.35184183895888,
+      144.1060101257533,
+      144.3208716729008,
+      150.20346253942853
     ],
-    "tendency": 5.677718822646341
+    "tendency": 5.8516207004696525
   },
   {
     "NAF Nr": "26719",
@@ -440,6 +751,34 @@ const chaosrenegade2025 = [
     "tendency": 0.24545485873346706
   },
   {
+    "NAF Nr": "29171",
+    "NAF Name": "Gerri",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 7,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 42.86,
+    "rating": 145.60236516679538,
+    "bestRating": 155.0990195135928,
+    "worstRating": 144.9009804864072,
+    "_lastTenRatings": [
+      155.0990195135928,
+      150,
+      144.9009804864072,
+      149.77486866953828,
+      154.64875685266935,
+      150.12862219647394,
+      145.60236516679538
+    ],
+    "tendency": -9.496654346797413
+  },
+  {
     "NAF Nr": "29367",
     "NAF Name": "Caracolito",
     "CCAA": "Apatrida",
@@ -453,16 +792,16 @@ const chaosrenegade2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150,
-    "bestRating": 150,
+    "rating": 149.97921954728983,
+    "bestRating": 149.97966191332668,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
       144.34314575050763,
-      150,
-      150
+      149.97966191332668,
+      149.97921954728983
     ],
-    "tendency": 5.656854249492369
+    "tendency": 5.636073796782199
   },
   {
     "NAF Nr": "29452",
@@ -487,6 +826,30 @@ const chaosrenegade2025 = [
       160.1980390271856
     ],
     "tendency": 10.198039027185587
+  },
+  {
+    "NAF Nr": "29592",
+    "NAF Name": "Armöö",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 141.34239419349285,
+    "bestRating": 145.69845299643794,
+    "worstRating": 141.34239419349285,
+    "_lastTenRatings": [
+      145.69845299643794,
+      145.6925975490469,
+      141.34239419349285
+    ],
+    "tendency": -4.3560588029450855
   },
   {
     "NAF Nr": "30428",
@@ -519,36 +882,88 @@ const chaosrenegade2025 = [
     "Country": "United States Of America",
     "raceId": "24",
     "raceName": "Chaos Renegade",
-    "gamesTotal": 8,
-    "gamesWon": 4,
+    "gamesTotal": 11,
+    "gamesWon": 7,
     "gamesDraw": 1,
     "gamesLost": 3,
     "totalWinRatio": 0,
-    "totalTournaments": 2,
-    "winRatio": 56.25,
+    "totalTournaments": 3,
+    "winRatio": 68.18,
     "trophies": {
-      "winner": 0,
+      "winner": 1,
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 0,
       "stuntycup": 0,
-      "bestpainted": 0,
+      "bestpainted": 1,
       "otherawards": 1
     },
-    "rating": 156.55351937462018,
+    "rating": 164.62155275510574,
     "bestRating": 166.71979920727915,
     "worstRating": 153.36245792726837,
     "_lastTenRatings": [
-      155.65105321791393,
       161.30815933636836,
       166.71979920727915,
       160.838535792491,
       160.8591667103924,
       157.10700868856958,
       153.36245792726837,
-      156.55351937462018
+      156.55351937462018,
+      159.2397961401611,
+      161.9291512180526,
+      164.62155275510574
     ],
-    "tendency": 0.9024661567062537
+    "tendency": 3.313393418737377
+  },
+  {
+    "NAF Nr": "30937",
+    "NAF Name": "mavi",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 138.71553380035792,
+    "bestRating": 150,
+    "worstRating": 138.71553380035792,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      144.37371531811695,
+      138.71553380035792
+    ],
+    "tendency": -11.284466199642083
+  },
+  {
+    "NAF Nr": "31102",
+    "NAF Name": "JandyrColdheart",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 161.68060298287816,
+    "bestRating": 161.68060298287816,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.65685424949237,
+      161.664815152503,
+      161.68060298287816
+    ],
+    "tendency": 11.680602982878156
   },
   {
     "NAF Nr": "31288",
@@ -625,6 +1040,32 @@ const chaosrenegade2025 = [
     "tendency": 5.61836866738534
   },
   {
+    "NAF Nr": "32443",
+    "NAF Name": "Ozgooner",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.0391697787713,
+    "bestRating": 154.86347844337976,
+    "worstRating": 149.0391697787713,
+    "_lastTenRatings": [
+      149.13297034708404,
+      154.82746870045221,
+      154.86347844337976,
+      154.652414151332,
+      149.0391697787713
+    ],
+    "tendency": -0.09380056831273009
+  },
+  {
     "NAF Nr": "33251",
     "NAF Name": "saigorei",
     "CCAA": "Apatrida",
@@ -684,6 +1125,30 @@ const chaosrenegade2025 = [
       148.76005046104802
     ],
     "tendency": -6.531452161081148
+  },
+  {
+    "NAF Nr": "33324",
+    "NAF Name": "runbad",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 158,
+    "bestRating": 158,
+    "worstRating": 154,
+    "_lastTenRatings": [
+      154,
+      154,
+      158
+    ],
+    "tendency": 4
   },
   {
     "NAF Nr": "33591",
@@ -788,6 +1253,59 @@ const chaosrenegade2025 = [
     "tendency": -11.5285599861962
   },
   {
+    "NAF Nr": "34449",
+    "NAF Name": "greybeardtom",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.99129048478468,
+    "bestRating": 150,
+    "worstRating": 144.3427325206139,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.3427325206139,
+      149.99960471170564,
+      149.99129048478468
+    ],
+    "tendency": 5.648144734277054
+  },
+  {
+    "NAF Nr": "34949",
+    "NAF Name": "flubslayer",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 138.72010407941713,
+    "bestRating": 155.65685424949237,
+    "worstRating": 138.68559217213294,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.34314575050763,
+      138.68559217213294,
+      138.72226948107902,
+      138.72010407941713
+    ],
+    "tendency": -16.936750170075243
+  },
+  {
     "NAF Nr": "35344",
     "NAF Name": "daviusmajor",
     "CCAA": "Apatrida",
@@ -812,6 +1330,30 @@ const chaosrenegade2025 = [
     "tendency": -3.605551275463995
   },
   {
+    "NAF Nr": "35731",
+    "NAF Name": "stutheking",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 152.82975989594502,
+    "bestRating": 152.82975989594502,
+    "worstRating": 152.82842712474618,
+    "_lastTenRatings": [
+      152.82842712474618,
+      152.82842712474618,
+      152.82975989594502
+    ],
+    "tendency": 0.0013327711988324609
+  },
+  {
     "NAF Nr": "35787",
     "NAF Name": "Triangulon",
     "CCAA": "Apatrida",
@@ -825,15 +1367,15 @@ const chaosrenegade2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 156.07201886487135,
-    "bestRating": 156.07201886487135,
+    "rating": 156.07201891761545,
+    "bestRating": 156.07201891761545,
     "worstRating": 144.83313294324492,
     "_lastTenRatings": [
       144.83313294324492,
-      150.43400830112537,
-      156.07201886487135
+      150.4340083562634,
+      156.07201891761545
     ],
-    "tendency": 11.238885921626434
+    "tendency": 11.238885974370532
   },
   {
     "NAF Nr": "36424",
@@ -860,6 +1402,32 @@ const chaosrenegade2025 = [
     "tendency": -8.62338766823541
   },
   {
+    "NAF Nr": "36764",
+    "NAF Name": "curef99",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 40,
+    "rating": 144.14935634068897,
+    "bestRating": 150,
+    "worstRating": 138.4943813454802,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.34314575050763,
+      138.4943813454802,
+      144.14935634068897
+    ],
+    "tendency": -0.19378940981866322
+  },
+  {
     "NAF Nr": "38452",
     "NAF Name": "mercutio_uk",
     "CCAA": "Apatrida",
@@ -873,15 +1441,64 @@ const chaosrenegade2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 145.13008932472013,
+    "rating": 145.13009872439483,
     "bestRating": 150,
     "worstRating": 144.92328723571865,
     "_lastTenRatings": [
       150,
       144.92328723571865,
-      145.13008932472013
+      145.13009872439483
     ],
-    "tendency": -4.869910675279868
+    "tendency": -4.869901275605173
+  },
+  {
+    "NAF Nr": "39177",
+    "NAF Name": "Mackdl",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.31869054050802,
+    "bestRating": 154.47213595499957,
+    "worstRating": 154.31869054050802,
+    "_lastTenRatings": [
+      154.47213595499957,
+      154.47213595499957,
+      154.31869054050802
+    ],
+    "tendency": -0.15344541449155713
+  },
+  {
+    "NAF Nr": "39709",
+    "NAF Name": "Yayula",
+    "CCAA": "Apatrida",
+    "Country": "Mexico",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.90215299548143,
+    "bestRating": 153.46319493844052,
+    "worstRating": 146.53589838486224,
+    "_lastTenRatings": [
+      146.53589838486224,
+      150.00158369505778,
+      153.46319493844052,
+      149.90215299548143
+    ],
+    "tendency": 3.366254610619194
   },
   {
     "NAF Nr": "41160",
@@ -897,16 +1514,41 @@ const chaosrenegade2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 62.5,
-    "rating": 155.43225095487898,
-    "bestRating": 155.43225095487898,
+    "rating": 155.42249765260323,
+    "bestRating": 155.42249765260323,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       155.41139939075893,
       155.42205652760845,
-      155.43225095487898
+      155.42249765260323
     ],
-    "tendency": 5.432250954878981
+    "tendency": 5.4224976526032265
+  },
+  {
+    "NAF Nr": "42686",
+    "NAF Name": "Ferestec",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "24",
+    "raceName": "Chaos Renegade",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 155.65924664067785,
+    "bestRating": 155.65924664067785,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      150,
+      155.65924664067785
+    ],
+    "tendency": 0.0023923911854808466
   },
   {
     "NAF Nr": "43008",
@@ -922,16 +1564,16 @@ const chaosrenegade2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 20,
-    "rating": 133.02947080758827,
-    "bestRating": 144.34314575050763,
-    "worstRating": 133.02947080758827,
+    "rating": 133.4428887553228,
+    "bestRating": 145.63218705760912,
+    "worstRating": 133.4428887553228,
     "_lastTenRatings": [
-      144.34314575050763,
-      138.68629150101526,
-      144.34314575050763,
-      138.68629150101526,
-      133.02947080758827
+      145.2949532753643,
+      140.04549329397273,
+      145.63218705760912,
+      139.12777341427162,
+      133.4428887553228
     ],
-    "tendency": -11.313674942919363
+    "tendency": -11.852064520041495
   }
 ];

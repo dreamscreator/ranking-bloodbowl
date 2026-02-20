@@ -6,28 +6,29 @@ const amazon2025 = [
     "Country": "Cayman Islands",
     "raceId": "14",
     "raceName": "Amazon",
-    "gamesTotal": 9,
-    "gamesWon": 4,
-    "gamesDraw": 1,
+    "gamesTotal": 14,
+    "gamesWon": 6,
+    "gamesDraw": 4,
     "gamesLost": 4,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 50,
-    "rating": 151.38695138550733,
-    "bestRating": 154.69041575982342,
+    "totalTournaments": 3,
+    "winRatio": 57.14,
+    "rating": 163.91600171030797,
+    "bestRating": 163.91600171030797,
     "worstRating": 136.44550312305105,
     "_lastTenRatings": [
-      154.69041575982342,
-      149.83121666904609,
-      145.14687715153926,
-      140.80546140011487,
-      136.44550312305105,
       141.45453676763816,
       141.76172753571,
       146.74832871183608,
-      151.38695138550733
+      151.38695138550733,
+      156.98358930856145,
+      156.92598716865217,
+      162.52773999746876,
+      162.00055986124403,
+      161.59878348434543,
+      163.91600171030797
     ],
-    "tendency": -3.3034643743160927
+    "tendency": 22.461464942669807
   },
   {
     "NAF Nr": "83",
@@ -54,6 +55,31 @@ const amazon2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "1894",
+    "NAF Name": "lebox",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 147.29435812541547,
+    "bestRating": 147.29435812541547,
+    "worstRating": 144.40453837558846,
+    "_lastTenRatings": [
+      147.17157287525382,
+      147.17157287525382,
+      144.40453837558846,
+      147.29435812541547
+    ],
+    "tendency": 0.12278525016165531
+  },
+  {
     "NAF Nr": "3709",
     "NAF Name": "howlinggriffon",
     "CCAA": "Apatrida",
@@ -67,15 +93,42 @@ const amazon2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 154.34221783949698,
-    "bestRating": 158.70053938633754,
-    "worstRating": 154.34221783949698,
+    "rating": 154.34221885569468,
+    "bestRating": 158.70054043770972,
+    "worstRating": 154.34221885569468,
     "_lastTenRatings": [
       154.35889894354068,
-      158.70053938633754,
-      154.34221783949698
+      158.70054043770972,
+      154.34221885569468
     ],
-    "tendency": -0.01668110404369827
+    "tendency": -0.01668008784599806
+  },
+  {
+    "NAF Nr": "4837",
+    "NAF Name": "ElMasMalo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 126.71362146355975,
+    "bestRating": 150,
+    "worstRating": 126.71362146355975,
+    "_lastTenRatings": [
+      150,
+      142.25403330758516,
+      134.50806661517032,
+      142.25403330758516,
+      134.50806661517032,
+      126.71362146355975
+    ],
+    "tendency": -23.286378536440253
   },
   {
     "NAF Nr": "5844",
@@ -114,6 +167,59 @@ const amazon2025 = [
     "tendency": 21.004649570462902
   },
   {
+    "NAF Nr": "5863",
+    "NAF Name": "Rabid_Bogscum",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 70,
+    "rating": 161.5591633577182,
+    "bestRating": 161.5591633577182,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      161.31370849898474,
+      155.65685424949237,
+      161.5591633577182
+    ],
+    "tendency": 5.902309108225836
+  },
+  {
+    "NAF Nr": "7503",
+    "NAF Name": "Tonalt",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 137.52350167018332,
+    "bestRating": 157.74596669241484,
+    "worstRating": 137.52350167018332,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150.21675419833394,
+      142.45790094068346,
+      142.9119574481831,
+      143.81663507017382,
+      137.52350167018332
+    ],
+    "tendency": -20.222465022231518
+  },
+  {
     "NAF Nr": "10840",
     "NAF Name": "Hippie",
     "CCAA": "Apatrida",
@@ -127,21 +233,48 @@ const amazon2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 66.67,
-    "rating": 167.67057605584688,
-    "bestRating": 167.67057605584688,
-    "worstRating": 150,
+    "rating": 168.0231004609499,
+    "bestRating": 168.0231004609499,
+    "worstRating": 149.6510479946315,
     "_lastTenRatings": [
       150,
       150,
       150,
-      150.4617038682189,
-      156.09851196112874,
-      161.75537175848152,
-      161.57349346725968,
-      167.61538997127067,
-      167.67057605584688
+      149.6510479946315,
+      155.32305299241972,
+      160.9799048470586,
+      161.90869005089897,
+      167.96386813854085,
+      168.0231004609499
     ],
-    "tendency": 17.67057605584688
+    "tendency": 18.023100460949905
+  },
+  {
+    "NAF Nr": "13511",
+    "NAF Name": "Ever",
+    "CCAA": "Aragón",
+    "Country": "Spain",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 158.25603438649577,
+    "bestRating": 173.2746424921268,
+    "worstRating": 157.74596669241484,
+    "_lastTenRatings": [
+      157.74596669241484,
+      157.74596669241484,
+      165.50365172015464,
+      173.2746424921268,
+      166.00543886223912,
+      158.25603438649577
+    ],
+    "tendency": 0.5100676940809308
   },
   {
     "NAF Nr": "14843",
@@ -157,7 +290,7 @@ const amazon2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.9784322913113,
+    "rating": 149.9823795172023,
     "bestRating": 150,
     "worstRating": 142.22942992777556,
     "_lastTenRatings": [
@@ -165,10 +298,10 @@ const amazon2025 = [
       150,
       149.97265344174983,
       142.22942992777556,
-      142.23110229295943,
-      149.9784322913113
+      142.23320112441522,
+      149.9823795172023
     ],
-    "tendency": 7.724398983726132
+    "tendency": 7.728346209617143
   },
   {
     "NAF Nr": "16238",
@@ -255,30 +388,86 @@ const amazon2025 = [
     "tendency": 7.483314773547875
   },
   {
+    "NAF Nr": "19526",
+    "NAF Name": "Thot",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 161.29427722814214,
+    "bestRating": 161.29427722814214,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      150,
+      150,
+      155.64665982222186,
+      161.29427722814214
+    ],
+    "tendency": 11.294277228142136
+  },
+  {
     "NAF Nr": "19529",
     "NAF Name": "kaju",
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "raceId": "14",
     "raceName": "Amazon",
-    "gamesTotal": 5,
-    "gamesWon": 3,
+    "gamesTotal": 11,
+    "gamesWon": 6,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 63.64,
+    "rating": 168.7226312534885,
+    "bestRating": 168.7226312534885,
+    "worstRating": 155.62756903561922,
+    "_lastTenRatings": [
+      161.31370849898474,
+      161.31370849898474,
+      167.18586712003702,
+      161.28309406901275,
+      155.62756903561922,
+      162.35919829051952,
+      161.8118141148412,
+      167.20163117861395,
+      162.26909412634356,
+      168.7226312534885
+    ],
+    "tendency": 7.408922754503749
+  },
+  {
+    "NAF Nr": "19792",
+    "NAF Name": "Tobitee",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 0,
     "gamesDraw": 1,
-    "gamesLost": 1,
+    "gamesLost": 2,
     "totalWinRatio": 0,
     "totalTournaments": 1,
-    "winRatio": 70,
-    "rating": 161.90732708776926,
-    "bestRating": 161.90732708776926,
-    "worstRating": 156.03191409330475,
+    "winRatio": 16.67,
+    "rating": 140.0782408500104,
+    "bestRating": 144.9009804864072,
+    "worstRating": 140.0782408500104,
     "_lastTenRatings": [
-      156.08533735807012,
-      156.0667335622895,
-      161.70579174651652,
-      156.03191409330475,
-      161.90732708776926
+      144.9009804864072,
+      144.9009804864072,
+      140.0782408500104
     ],
-    "tendency": 5.8219897296991405
+    "tendency": -4.822739636396818
   },
   {
     "NAF Nr": "20768",
@@ -294,18 +483,42 @@ const amazon2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 58.33,
-    "rating": 157.33586769771534,
-    "bestRating": 165.54495039632081,
-    "worstRating": 157.33586769771534,
+    "rating": 157.33879429535307,
+    "bestRating": 165.5480612825064,
+    "worstRating": 157.33879429535307,
     "_lastTenRatings": [
       157.74596669241484,
       157.74596669241484,
       165.49312137109837,
       157.80233493623075,
-      165.54495039632081,
-      157.33586769771534
+      165.5480612825064,
+      157.33879429535307
     ],
-    "tendency": -0.41009899469949573
+    "tendency": -0.4071723970617711
+  },
+  {
+    "NAF Nr": "21143",
+    "NAF Name": "dementor",
+    "CCAA": "Apatrida",
+    "Country": "Wales",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 151.98497210787562,
+    "bestRating": 151.98497210787562,
+    "worstRating": 147.3569725839337,
+    "_lastTenRatings": [
+      147.3569725839337,
+      149.4955772717499,
+      151.98497210787562
+    ],
+    "tendency": 4.627999523941924
   },
   {
     "NAF Nr": "21414",
@@ -314,25 +527,29 @@ const amazon2025 = [
     "Country": "Sweden",
     "raceId": "14",
     "raceName": "Amazon",
-    "gamesTotal": 6,
+    "gamesTotal": 12,
     "gamesWon": 2,
-    "gamesDraw": 2,
-    "gamesLost": 2,
+    "gamesDraw": 5,
+    "gamesLost": 5,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 50,
-    "rating": 152.29241358241615,
+    "totalTournaments": 2,
+    "winRatio": 37.5,
+    "rating": 127.37734973642736,
     "bestRating": 152.29241358241615,
-    "worstRating": 140.19546166676787,
+    "worstRating": 127.37734973642736,
     "_lastTenRatings": [
-      144.80384757729337,
-      145.21743614406356,
       140.19546166676787,
       140.38709761964785,
       146.53055161467185,
-      152.29241358241615
+      152.29241358241615,
+      144.4101712535883,
+      136.53602848927326,
+      136.84846185076586,
+      136.2507591274565,
+      136.13057120669708,
+      127.37734973642736
     ],
-    "tendency": 7.488566005122777
+    "tendency": -12.818111930340507
   },
   {
     "NAF Nr": "22375",
@@ -348,18 +565,18 @@ const amazon2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 58.33,
-    "rating": 155.78472357604946,
-    "bestRating": 161.44709332080933,
+    "rating": 155.7757479995451,
+    "bestRating": 161.4377103554409,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
       150,
       155.65685424949237,
       161.31452065725293,
-      161.44709332080933,
-      155.78472357604946
+      161.4377103554409,
+      155.7757479995451
     ],
-    "tendency": 11.441577825541827
+    "tendency": 11.432602249037473
   },
   {
     "NAF Nr": "23272",
@@ -385,6 +602,30 @@ const amazon2025 = [
       146.39844492816522
     ],
     "tendency": -4.370523484000842
+  },
+  {
+    "NAF Nr": "23720",
+    "NAF Name": "BB-Sprout",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 161.07917633175137,
+    "bestRating": 161.07917633175137,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.41139939075893,
+      161.07917633175137
+    ],
+    "tendency": 11.07917633175137
   },
   {
     "NAF Nr": "23767",
@@ -427,7 +668,7 @@ const amazon2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 41.67,
-    "rating": 142.25413228642597,
+    "rating": 142.25623106504509,
     "bestRating": 157.74596669241484,
     "worstRating": 134.50806661517032,
     "_lastTenRatings": [
@@ -436,9 +677,33 @@ const amazon2025 = [
       142.25403330758516,
       134.50806661517032,
       134.50806661517032,
-      142.25413228642597
+      142.25623106504509
     ],
-    "tendency": -15.491834405988868
+    "tendency": -15.489735627369754
+  },
+  {
+    "NAF Nr": "24110",
+    "NAF Name": "rone",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 159.41027021332414,
+    "bestRating": 159.77721529308238,
+    "worstRating": 155.06872929182248,
+    "_lastTenRatings": [
+      155.06872929182248,
+      159.77721529308238,
+      159.41027021332414
+    ],
+    "tendency": 4.341540921501661
   },
   {
     "NAF Nr": "24423",
@@ -447,25 +712,65 @@ const amazon2025 = [
     "Country": "England",
     "raceId": "14",
     "raceName": "Amazon",
+    "gamesTotal": 12,
+    "gamesWon": 5,
+    "gamesDraw": 3,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 54.17,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
+    "rating": 158.26492817845326,
+    "bestRating": 158.26492817845326,
+    "worstRating": 142.84053452429652,
+    "_lastTenRatings": [
+      150,
+      155.65685424949237,
+      155.65685424949237,
+      150,
+      157.74596669241484,
+      150.63133534806346,
+      142.87748878333468,
+      142.84053452429652,
+      150.5517650998118,
+      158.26492817845326
+    ],
+    "tendency": 8.26492817845326
+  },
+  {
+    "NAF Nr": "24880",
+    "NAF Name": "jaruib",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "14",
+    "raceName": "Amazon",
     "gamesTotal": 6,
-    "gamesWon": 3,
-    "gamesDraw": 1,
-    "gamesLost": 2,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
     "totalWinRatio": 0,
     "totalTournaments": 1,
-    "winRatio": 58.33,
-    "rating": 157.7707388438997,
-    "bestRating": 157.7707388438997,
-    "worstRating": 142.28203615871763,
+    "winRatio": 33.33,
+    "rating": 134.50877380862346,
+    "bestRating": 157.74596669241484,
+    "worstRating": 134.50877380862346,
     "_lastTenRatings": [
+      150,
+      150,
       157.74596669241484,
       150,
-      142.28368774706226,
-      142.28203615871763,
-      150.0263380118904,
-      157.7707388438997
+      142.25403330758516,
+      134.50877380862346
     ],
-    "tendency": 0.024772151484853566
+    "tendency": -15.49122619137654
   },
   {
     "NAF Nr": "25276",
@@ -481,21 +786,21 @@ const amazon2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 72.22,
-    "rating": 169.05966858196516,
-    "bestRating": 169.24771842289522,
+    "rating": 169.0511057245027,
+    "bestRating": 169.23836084630682,
     "worstRating": 153.13768444282803,
     "_lastTenRatings": [
       153.46410161513776,
       156.92820323027553,
       153.28006823744596,
       153.13768444282803,
-      158.4132766311739,
-      163.9504704938911,
-      169.24771842289522,
-      163.49156229811416,
-      169.05966858196516
+      158.4030524014237,
+      163.94068998145127,
+      169.23836084630682,
+      163.48261088373343,
+      169.0511057245027
     ],
-    "tendency": 15.595566966827391
+    "tendency": 15.587004109364926
   },
   {
     "NAF Nr": "27015",
@@ -544,18 +849,18 @@ const amazon2025 = [
       "bestpainted": 1,
       "otherawards": 0
     },
-    "rating": 134.64443097898032,
+    "rating": 134.8265521562445,
     "bestRating": 146,
-    "worstRating": 130.1665603202032,
+    "worstRating": 130.34869902775785,
     "_lastTenRatings": [
       146,
-      141.7869074129069,
-      137.91620906997133,
-      133.9187815462355,
-      130.1665603202032,
-      134.64443097898032
+      141.98687065135005,
+      138.11003932560865,
+      134.10666099426808,
+      130.34869902775785,
+      134.8265521562445
     ],
-    "tendency": -11.355569021019676
+    "tendency": -11.173447843755497
   },
   {
     "NAF Nr": "27441",
@@ -612,6 +917,85 @@ const amazon2025 = [
     "tendency": 11.313305936877981
   },
   {
+    "NAF Nr": "28257",
+    "NAF Name": "Joost",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 161.80461821645167,
+    "bestRating": 161.80461821645167,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      155.65685424949237,
+      155.65685424949237,
+      161.5591633577182,
+      161.80461821645167
+    ],
+    "tendency": 17.46147246594404
+  },
+  {
+    "NAF Nr": "28702",
+    "NAF Name": "noxer",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 161.36641729118386,
+    "bestRating": 161.368809671599,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.71445638940165,
+      161.368809671599,
+      161.36641729118386
+    ],
+    "tendency": 5.709563041691496
+  },
+  {
+    "NAF Nr": "28991",
+    "NAF Name": "lue",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 139.29573015181649,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.70435015334985,
+    "_lastTenRatings": [
+      144.34314575050763,
+      139.39183747072516,
+      133.70435015334985,
+      133.89421124146529,
+      139.32808834348515,
+      139.29573015181649
+    ],
+    "tendency": -5.0474155986911455
+  },
+  {
     "NAF Nr": "29677",
     "NAF Name": "Melmoth",
     "CCAA": "Apatrida",
@@ -663,6 +1047,30 @@ const amazon2025 = [
     "tendency": 5.891651971376319
   },
   {
+    "NAF Nr": "30033",
+    "NAF Name": "shriyke",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.411987332814,
+    "bestRating": 155.411987332814,
+    "worstRating": 145.655439672474,
+    "_lastTenRatings": [
+      145.655439672474,
+      150.53357253744207,
+      155.411987332814
+    ],
+    "tendency": 9.756547660340004
+  },
+  {
     "NAF Nr": "30073",
     "NAF Name": "Loidl",
     "CCAA": "Apatrida",
@@ -685,6 +1093,33 @@ const amazon2025 = [
       150.40771107646353
     ],
     "tendency": 5.304554877920708
+  },
+  {
+    "NAF Nr": "30804",
+    "NAF Name": "exadun",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.4358175896731,
+    "bestRating": 157.7475372721073,
+    "worstRating": 142.25403330758516,
+    "_lastTenRatings": [
+      142.25403330758516,
+      150,
+      142.25403330758516,
+      150.00162582099685,
+      157.7475372721073,
+      150.4358175896731
+    ],
+    "tendency": 8.181784282087932
   },
   {
     "NAF Nr": "30935",
@@ -724,15 +1159,15 @@ const amazon2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 145.51816137984886,
+    "rating": 145.51755076018082,
     "bestRating": 150,
-    "worstRating": 145.51816137984886,
+    "worstRating": 145.51755076018082,
     "_lastTenRatings": [
       150,
-      145.52209735353162,
-      145.51816137984886
+      145.5214650294105,
+      145.51755076018082
     ],
-    "tendency": -4.481838620151137
+    "tendency": -4.482449239819175
   },
   {
     "NAF Nr": "31536",
@@ -767,22 +1202,25 @@ const amazon2025 = [
     "Country": "England",
     "raceId": "14",
     "raceName": "Amazon",
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 1,
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 3,
     "gamesLost": 0,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 83.33,
-    "rating": 161.31370849898474,
-    "bestRating": 161.31370849898474,
+    "totalTournaments": 2,
+    "winRatio": 75,
+    "rating": 165.58290327120108,
+    "bestRating": 166.01170977359487,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
       155.65685424949237,
       155.65685424949237,
-      161.31370849898474
+      161.31370849898474,
+      160.82372130624745,
+      166.01170977359487,
+      165.58290327120108
     ],
-    "tendency": 5.656854249492369
+    "tendency": 9.926049021708707
   },
   {
     "NAF Nr": "31685",
@@ -822,17 +1260,17 @@ const amazon2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 60,
-    "rating": 154.95527257976647,
-    "bestRating": 155.65685424949237,
-    "worstRating": 149.54400474541004,
+    "rating": 155.93089542699184,
+    "bestRating": 156.71058392038415,
+    "worstRating": 150.562495004448,
     "_lastTenRatings": [
-      155.65685424949237,
-      155.65685424949237,
-      155.64619711264285,
-      149.54400474541004,
-      154.95527257976647
+      155.67547343920467,
+      156.3943905756462,
+      156.71058392038415,
+      150.562495004448,
+      155.93089542699184
     ],
-    "tendency": -0.701581669725897
+    "tendency": 0.25542198778717307
   },
   {
     "NAF Nr": "32020",
@@ -865,22 +1303,27 @@ const amazon2025 = [
     "Country": "Norway",
     "raceId": "14",
     "raceName": "Amazon",
-    "gamesTotal": 3,
-    "gamesWon": 1,
+    "gamesTotal": 8,
+    "gamesWon": 4,
     "gamesDraw": 1,
-    "gamesLost": 1,
+    "gamesLost": 3,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 50,
-    "rating": 150.09208170661668,
-    "bestRating": 150.09208170661668,
-    "worstRating": 146.53589838486224,
+    "totalTournaments": 2,
+    "winRatio": 56.25,
+    "rating": 154.9509270567885,
+    "bestRating": 159.56871857307232,
+    "worstRating": 146.88669275557925,
     "_lastTenRatings": [
-      146.53589838486224,
-      146.62798009147892,
-      150.09208170661668
+      146.88669275557925,
+      146.9694535003273,
+      150.43352729427536,
+      155.00085477714939,
+      159.56871857307232,
+      154.8051947457891,
+      150.2147889746884,
+      154.9509270567885
     ],
-    "tendency": 3.556183321754446
+    "tendency": 8.06423430120924
   },
   {
     "NAF Nr": "32487",
@@ -905,22 +1348,22 @@ const amazon2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 160.34868465797305,
-    "bestRating": 163.46861254349915,
-    "worstRating": 152.70896114000473,
+    "rating": 160.21788763063162,
+    "bestRating": 163.34020138621176,
+    "worstRating": 152.57777013744712,
     "_lastTenRatings": [
-      155.59546162441154,
-      152.70896114000473,
-      152.77296019215177,
-      155.56298676337784,
-      158.26826168254127,
-      160.92574454837552,
-      163.46861254349915,
-      160.69106849205554,
-      157.84995918639962,
-      160.34868465797305
+      155.46136059194947,
+      152.57777013744712,
+      152.64455243246846,
+      155.4345891061147,
+      158.13985965963136,
+      160.79733784227497,
+      163.34020138621176,
+      160.56272270891765,
+      157.72156508607287,
+      160.21788763063162
     ],
-    "tendency": 4.753223033561511
+    "tendency": 4.756527038682151
   },
   {
     "NAF Nr": "33078",
@@ -946,6 +1389,66 @@ const amazon2025 = [
       144.7248140126143
     ],
     "tendency": -5.275185987385697
+  },
+  {
+    "NAF Nr": "33151",
+    "NAF Name": "paulyboy88",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.75886813163237,
+    "bestRating": 150,
+    "worstRating": 149.74792349756368,
+    "_lastTenRatings": [
+      150,
+      149.74792349756368,
+      149.75886813163237
+    ],
+    "tendency": -0.24113186836763134
+  },
+  {
+    "NAF Nr": "33152",
+    "NAF Name": "gemerlos",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 165.8519717744417,
+    "bestRating": 165.8989265983286,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150,
+      158.178686055562,
+      165.8989265983286,
+      158.1287632240697,
+      165.8519717744417
+    ],
+    "tendency": 8.106005082026854
   },
   {
     "NAF Nr": "33295",
@@ -980,13 +1483,13 @@ const amazon2025 = [
     "Country": "Netherlands",
     "raceId": "14",
     "raceName": "Amazon",
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 1,
+    "gamesTotal": 9,
+    "gamesWon": 5,
+    "gamesDraw": 4,
     "gamesLost": 0,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 83.33,
+    "totalTournaments": 2,
+    "winRatio": 77.78,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
@@ -996,15 +1499,48 @@ const amazon2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 161.31370849898474,
-    "bestRating": 161.31370849898474,
+    "rating": 176.1788120149135,
+    "bestRating": 176.85019528388142,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
       155.65685424949237,
       161.31370849898474,
-      161.31370849898474
+      161.31370849898474,
+      166.9705627484771,
+      167.21601760721057,
+      166.9705627484771,
+      171.89472870364216,
+      176.85019528388142,
+      176.1788120149135
     ],
-    "tendency": 5.656854249492369
+    "tendency": 20.52195776542112
+  },
+  {
+    "NAF Nr": "33745",
+    "NAF Name": "kralyx",
+    "CCAA": "Aragón",
+    "Country": "Spain",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 157.74776430341853,
+    "bestRating": 165.49193338482968,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      157.74596669241484,
+      165.49193338482968,
+      157.74596669241484,
+      150,
+      157.74776430341853
+    ],
+    "tendency": 7.747764303418535
   },
   {
     "NAF Nr": "33884",
@@ -1031,6 +1567,31 @@ const amazon2025 = [
       166.98121988532662
     ],
     "tendency": 11.324365635834255
+  },
+  {
+    "NAF Nr": "34186",
+    "NAF Name": "r4ir0n",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 138.90318931434538,
+    "bestRating": 150,
+    "worstRating": 138.90318931434538,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      144.34360896903206,
+      138.90318931434538
+    ],
+    "tendency": -11.096810685654617
   },
   {
     "NAF Nr": "34195",
@@ -1063,22 +1624,103 @@ const amazon2025 = [
     "Country": "Italy",
     "raceId": "14",
     "raceName": "Amazon",
-    "gamesTotal": 3,
-    "gamesWon": 0,
+    "gamesTotal": 9,
+    "gamesWon": 2,
     "gamesDraw": 1,
-    "gamesLost": 2,
+    "gamesLost": 6,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 16.67,
-    "rating": 139.41699475574165,
-    "bestRating": 144.70849737787083,
-    "worstRating": 139.41699475574165,
+    "totalTournaments": 2,
+    "winRatio": 27.78,
+    "rating": 131.7066634693638,
+    "bestRating": 145.7753215357322,
+    "worstRating": 130.46700682603756,
     "_lastTenRatings": [
       144.70849737787083,
       139.41699475574165,
-      139.41699475574165
+      139.41699475574165,
+      145.7753215357322,
+      140.77276116504157,
+      135.54775753410416,
+      130.46700682603756,
+      136.50819058661784,
+      131.7066634693638
     ],
-    "tendency": -5.2915026221291726
+    "tendency": -13.001833908507024
+  },
+  {
+    "NAF Nr": "34673",
+    "NAF Name": "lepeg",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.84655458550844,
+    "bestRating": 154.47213595499957,
+    "worstRating": 149.84655458550844,
+    "_lastTenRatings": [
+      154.47213595499957,
+      150,
+      149.84655458550844
+    ],
+    "tendency": -4.62558136949113
+  },
+  {
+    "NAF Nr": "34805",
+    "NAF Name": "Ursamajor",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 143.2343219865312,
+    "bestRating": 150,
+    "worstRating": 138.39368323536596,
+    "_lastTenRatings": [
+      150,
+      143.7209514043975,
+      143.75773782843805,
+      143.80281225783438,
+      138.39368323536596,
+      143.2343219865312
+    ],
+    "tendency": -6.765678013468801
+  },
+  {
+    "NAF Nr": "35683",
+    "NAF Name": "thebunneh",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.19178794845888,
+    "bestRating": 155,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155,
+      150.19178794845888
+    ],
+    "tendency": 0.19178794845888092
   },
   {
     "NAF Nr": "35864",
@@ -1103,6 +1745,64 @@ const amazon2025 = [
       144.34314575050763
     ],
     "tendency": -11.313708498984738
+  },
+  {
+    "NAF Nr": "35965",
+    "NAF Name": "mattyass",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 161.2023389170393,
+    "bestRating": 161.2023389170393,
+    "worstRating": 153.74165738677394,
+    "_lastTenRatings": [
+      153.74165738677394,
+      157.4576609316235,
+      161.2023389170393
+    ],
+    "tendency": 7.4606815302653615
+  },
+  {
+    "NAF Nr": "36082",
+    "NAF Name": "mygaitero",
+    "CCAA": "Castilla y León",
+    "Country": "Spain",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 145.1409858687613,
+    "bestRating": 145.30958424017658,
+    "worstRating": 140.61916848035315,
+    "_lastTenRatings": [
+      145.30958424017658,
+      140.61916848035315,
+      140.61916848035315,
+      145.1409858687613
+    ],
+    "tendency": -0.16859837141527123
   },
   {
     "NAF Nr": "36597",
@@ -1176,19 +1876,43 @@ const amazon2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 42.86,
-    "rating": 145.4757948818228,
+    "rating": 145.4907497686472,
     "bestRating": 145.52786404500043,
-    "worstRating": 137.33976459436354,
+    "worstRating": 137.35567908632225,
     "_lastTenRatings": [
       145.52786404500043,
       141.05572809000085,
       141.05572809000085,
-      141.0659068986797,
-      137.33976459436354,
-      141.60525276622357,
-      145.4757948818228
+      141.0823230262974,
+      137.35567908632225,
+      141.6206808136549,
+      145.4907497686472
     ],
-    "tendency": -0.05206916317763444
+    "tendency": -0.037114276353236164
+  },
+  {
+    "NAF Nr": "37610",
+    "NAF Name": "jcurran001",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 146,
+    "bestRating": 150,
+    "worstRating": 146,
+    "_lastTenRatings": [
+      146,
+      150,
+      146
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "37851",
@@ -1238,7 +1962,7 @@ const amazon2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 50,
-    "rating": 149.65903149747584,
+    "rating": 149.9928912688418,
     "bestRating": 165.49193338482968,
     "worstRating": 149.61760070755622,
     "_lastTenRatings": [
@@ -1249,10 +1973,10 @@ const amazon2025 = [
       157.33949199014148,
       149.61760070755622,
       154.3217829061465,
-      154.3350537534994,
-      149.65903149747584
+      154.68138136789045,
+      149.9928912688418
     ],
-    "tendency": -8.086935194939002
+    "tendency": -7.753075423573051
   },
   {
     "NAF Nr": "38002",
@@ -1268,42 +1992,116 @@ const amazon2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 30,
-    "rating": 138.68704451168148,
+    "rating": 139.89057457029676,
     "bestRating": 155.65685424949237,
-    "worstRating": 138.68704451168148,
+    "worstRating": 139.89057457029676,
     "_lastTenRatings": [
       155.65685424949237,
-      150,
-      144.34314575050763,
-      144.343449226325,
-      138.68704451168148
+      150.944803244997,
+      145.2730399890011,
+      145.29570166468682,
+      139.89057457029676
     ],
-    "tendency": -16.96980973781089
+    "tendency": -15.766279679195605
   },
   {
-    "NAF Nr": "40005",
-    "NAF Name": "nomanslan",
+    "NAF Nr": "38374",
+    "NAF Name": "Morgath",
     "CCAA": "Apatrida",
-    "Country": "Denmark",
+    "Country": "New Zealand",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.003769053429,
+    "bestRating": 154.003769053429,
+    "worstRating": 146,
+    "_lastTenRatings": [
+      146,
+      150,
+      154.003769053429
+    ],
+    "tendency": 8.00376905342901
+  },
+  {
+    "NAF Nr": "38469",
+    "NAF Name": "margrim",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 30,
+    "rating": 138.89564736227703,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.03075847221615,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      138.6876726901232,
+      133.03075847221615,
+      138.89564736227703
+    ],
+    "tendency": -5.447498388230599
+  },
+  {
+    "NAF Nr": "38800",
+    "NAF Name": "Powerhouse",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "rating": 160.08625234733162,
+    "bestRating": 160.08625234733162,
+    "worstRating": 153.74165738677394,
+    "_lastTenRatings": [
+      153.74165738677394,
+      157.13992143439867,
+      160.08625234733162
+    ],
+    "tendency": 6.344594960557686
+  },
+  {
+    "NAF Nr": "38965",
+    "NAF Name": "Juan_AGR",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",
     "gamesTotal": 4,
-    "gamesWon": 1,
+    "gamesWon": 2,
     "gamesDraw": 1,
-    "gamesLost": 2,
+    "gamesLost": 1,
     "totalWinRatio": 0,
     "totalTournaments": 1,
-    "winRatio": 37.5,
-    "rating": 147.29435812541547,
-    "bestRating": 147.29435812541547,
-    "worstRating": 144.40453837558846,
+    "winRatio": 62.5,
+    "rating": 154.51577465003683,
+    "bestRating": 159.37475527733025,
+    "worstRating": 154.51577465003683,
     "_lastTenRatings": [
-      147.17157287525382,
-      147.17157287525382,
-      144.40453837558846,
-      147.29435812541547
+      154.69041575982342,
+      154.69041575982342,
+      159.37475527733025,
+      154.51577465003683
     ],
-    "tendency": 0.12278525016165531
+    "tendency": -0.17464110978659164
   },
   {
     "NAF Nr": "40346",
@@ -1339,25 +2137,28 @@ const amazon2025 = [
     "Country": "England",
     "raceId": "14",
     "raceName": "Amazon",
-    "gamesTotal": 6,
+    "gamesTotal": 9,
     "gamesWon": 3,
     "gamesDraw": 0,
-    "gamesLost": 3,
+    "gamesLost": 6,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 50,
-    "rating": 150,
-    "bestRating": 157.74596669241484,
-    "worstRating": 142.25403330758516,
+    "totalTournaments": 2,
+    "winRatio": 33.33,
+    "rating": 133.5113878428678,
+    "bestRating": 158.2710269281883,
+    "worstRating": 133.5113878428678,
     "_lastTenRatings": [
-      142.25403330758516,
-      150,
-      142.25403330758516,
-      150,
-      157.74596669241484,
-      150
+      142.92497590346227,
+      150.63105373953385,
+      142.84756962344258,
+      150.5582493472147,
+      158.2710269281883,
+      150.49384426558277,
+      144.81554840776414,
+      139.17947491303434,
+      133.5113878428678
     ],
-    "tendency": 7.745966692414839
+    "tendency": -9.413588060594464
   },
   {
     "NAF Nr": "40549",
@@ -1410,6 +2211,33 @@ const amazon2025 = [
     "tendency": -0.23479772188395032
   },
   {
+    "NAF Nr": "40923",
+    "NAF Name": "JonnyCage",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.3524933707114,
+    "bestRating": 144.3524933707114,
+    "worstRating": 133.03963167879343,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      138.68629150101526,
+      133.03963167879343,
+      138.69604330704215,
+      144.3524933707114
+    ],
+    "tendency": 0.009347620203755014
+  },
+  {
     "NAF Nr": "40953",
     "NAF Name": "Daniz_du_Bronick",
     "CCAA": "Apatrida",
@@ -1435,6 +2263,30 @@ const amazon2025 = [
     "tendency": -0.008858130921908014
   },
   {
+    "NAF Nr": "41055",
+    "NAF Name": "griessbart",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.10634847814865,
+    "bestRating": 155.10634847814865,
+    "worstRating": 155.0990195135928,
+    "_lastTenRatings": [
+      155.0990195135928,
+      155.0990195135928,
+      155.10634847814865
+    ],
+    "tendency": 0.00732896455585319
+  },
+  {
     "NAF Nr": "41060",
     "NAF Name": "LIXEC",
     "CCAA": "Apatrida",
@@ -1457,15 +2309,15 @@ const amazon2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 144.52277442494835,
-    "bestRating": 144.52277442494835,
+    "rating": 144.57605479846885,
+    "bestRating": 144.57605479846885,
     "worstRating": 139.0455488498967,
     "_lastTenRatings": [
       144.52277442494835,
       139.0455488498967,
-      144.52277442494835
+      144.57605479846885
     ],
-    "tendency": 0
+    "tendency": 0.05328037352049364
   },
   {
     "NAF Nr": "41242",
@@ -1481,17 +2333,17 @@ const amazon2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 30,
-    "rating": 140.202291556726,
+    "rating": 140.20973521367586,
     "bestRating": 154.89897948556634,
-    "worstRating": 140.202291556726,
+    "worstRating": 140.20973521367586,
     "_lastTenRatings": [
       154.89897948556634,
       150,
-      150,
-      145.10102051443366,
-      140.202291556726
+      150.00803666888055,
+      145.108754996069,
+      140.20973521367586
     ],
-    "tendency": -14.696687928840333
+    "tendency": -14.689244271890487
   },
   {
     "NAF Nr": "41631",
@@ -1516,15 +2368,15 @@ const amazon2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 150.22044877102996,
-    "bestRating": 150.2301229598817,
+    "rating": 149.89215398392335,
+    "bestRating": 149.89215398392335,
     "worstRating": 144.52277442494835,
     "_lastTenRatings": [
       144.52277442494835,
-      150.2301229598817,
-      150.22044877102996
+      149.88742125811564,
+      149.89215398392335
     ],
-    "tendency": 5.697674346081612
+    "tendency": 5.369379558974998
   },
   {
     "NAF Nr": "41635",
@@ -1580,6 +2432,67 @@ const amazon2025 = [
     "tendency": -16.980357055126206
   },
   {
+    "NAF Nr": "42064",
+    "NAF Name": "Handy_Andy",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 130.84605250885437,
+    "bestRating": 150,
+    "worstRating": 130.84605250885437,
+    "_lastTenRatings": [
+      150,
+      145.02771663896118,
+      140.23838019217368,
+      140.26201992700163,
+      135.6288656323795,
+      130.84605250885437
+    ],
+    "tendency": -19.15394749114563
+  },
+  {
+    "NAF Nr": "42071",
+    "NAF Name": "Azardep11",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 140.95066648517303,
+    "bestRating": 145.30958424017658,
+    "worstRating": 136.09753605148362,
+    "_lastTenRatings": [
+      145.30958424017658,
+      140.78795181130704,
+      136.09753605148362,
+      140.95066648517303
+    ],
+    "tendency": -4.358917755003546
+  },
+  {
     "NAF Nr": "42135",
     "NAF Name": "tatiko",
     "CCAA": "Apatrida",
@@ -1607,27 +2520,108 @@ const amazon2025 = [
   },
   {
     "NAF Nr": "42683",
-    "NAF Name": "greygrass",
+    "NAF Name": "GreyGrass",
     "CCAA": "Apatrida",
     "Country": "Spain",
     "raceId": "14",
     "raceName": "Amazon",
-    "gamesTotal": 4,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 1,
+    "gamesTotal": 8,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 62.5,
-    "rating": 155.6630648575675,
-    "bestRating": 155.6630648575675,
+    "totalTournaments": 2,
+    "winRatio": 56.25,
+    "rating": 154.77137243538024,
+    "bestRating": 155.66306495922802,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
-      144.35039551686938,
-      150.00649340887605,
-      155.6630648575675
+      144.35039556818023,
+      150.00649351503324,
+      155.66306495922802,
+      155.41734095239528,
+      155.1822665098624,
+      149.33095278069356,
+      154.77137243538024
     ],
-    "tendency": 11.31991910705986
+    "tendency": 10.428226684872612
+  },
+  {
+    "NAF Nr": "42904",
+    "NAF Name": "antrim",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 20,
+    "rating": 136.57092827816516,
+    "bestRating": 145.43267251712598,
+    "worstRating": 136.42758251415216,
+    "_lastTenRatings": [
+      145.43267251712598,
+      140.84956050339207,
+      136.42758251415216,
+      141.00399212398833,
+      136.57092827816516
+    ],
+    "tendency": -8.861744238960824
+  },
+  {
+    "NAF Nr": "43234",
+    "NAF Name": "NecroToño",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 143.85225331051015,
+    "bestRating": 150,
+    "worstRating": 143.85225331051015,
+    "_lastTenRatings": [
+      150,
+      149.75454514126653,
+      143.85225331051015
+    ],
+    "tendency": -6.14774668948985
+  },
+  {
+    "NAF Nr": "43394",
+    "NAF Name": "Pinguins",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "14",
+    "raceName": "Amazon",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.42956088619727,
+    "bestRating": 161.31455443596693,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      155.65685424949237,
+      161.31370849898474,
+      161.31455443596693,
+      155.42956088619727
+    ],
+    "tendency": 11.086415135689634
   }
 ];

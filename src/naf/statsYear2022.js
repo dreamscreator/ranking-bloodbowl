@@ -3585,6 +3585,15 @@ const statsYear2022 = [
     "gamesLost": 5,
     "gamesTotal": 38,
     "winRatio": 72.37,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       220.4408509156896,
       219.78478447134714,
@@ -3658,6 +3667,15 @@ const statsYear2022 = [
     "gamesLost": 3,
     "gamesTotal": 6,
     "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       157.74596669241484,
       150,
@@ -14911,7 +14929,7 @@ const statsYear2022 = [
       "casualties": 0,
       "stuntycup": 1,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 2
     },
     "_lastTenRatingsYear": [
       165.83085001069014,
@@ -20020,7 +20038,7 @@ const statsYear2022 = [
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 2
     },
     "_lastTenRatingsYear": [
       196.76619125559884,
@@ -21257,6 +21275,15 @@ const statsYear2022 = [
     "gamesLost": 11,
     "gamesTotal": 26,
     "winRatio": 42.31,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       139.3670251651119,
       144.8811889759294,
@@ -25955,6 +25982,15 @@ const statsYear2022 = [
     "gamesLost": 4,
     "gamesTotal": 25,
     "winRatio": 68,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       181.26445901173514,
       187.92497621473672,
@@ -33256,7 +33292,7 @@ const statsYear2022 = [
       "casualties": 0,
       "stuntycup": 1,
       "bestpainted": 0,
-      "otherawards": 0
+      "otherawards": 1
     },
     "_lastTenRatingsYear": [
       182.41607478070458,
@@ -34035,7 +34071,7 @@ const statsYear2022 = [
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 2
     },
     "_lastTenRatingsYear": [
       168.12462895217135,
@@ -34895,7 +34931,7 @@ const statsYear2022 = [
       "casualties": 0,
       "stuntycup": 1,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 2
     },
     "_lastTenRatingsYear": [
       209.1643247307351,
@@ -40834,6 +40870,15 @@ const statsYear2022 = [
     "gamesLost": 5,
     "gamesTotal": 10,
     "winRatio": 30,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       142.0314603260027,
       135.76513934378295,
@@ -43373,7 +43418,7 @@ const statsYear2022 = [
   },
   {
     "NAF Nr": "22445",
-    "NAF Name": "inyector",
+    "NAF Name": "Fourrouses",
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "rating": 139.50935554166497,
@@ -46840,7 +46885,7 @@ const statsYear2022 = [
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 0
+      "otherawards": 1
     },
     "_lastTenRatingsYear": [
       218.8827742126438,
@@ -53561,7 +53606,7 @@ const statsYear2022 = [
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 2
     },
     "_lastTenRatingsYear": [
       176.44566465489862,
@@ -55516,6 +55561,15 @@ const statsYear2022 = [
     "gamesLost": 21,
     "gamesTotal": 48,
     "winRatio": 40.63,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       135.66762009865732,
       132.69516388990803,
@@ -59250,7 +59304,7 @@ const statsYear2022 = [
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 0
+      "otherawards": 1
     },
     "_lastTenRatingsYear": [
       195.51494728742242,
@@ -62282,6 +62336,15 @@ const statsYear2022 = [
     "gamesLost": 8,
     "gamesTotal": 11,
     "winRatio": 22.73,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       149.75632904340665,
       143.40628235401135,
@@ -64359,7 +64422,7 @@ const statsYear2022 = [
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 2
     },
     "_lastTenRatingsYear": [
       219.20897987480072,
@@ -66487,6 +66550,15 @@ const statsYear2022 = [
     "gamesLost": 8,
     "gamesTotal": 34,
     "winRatio": 55.88,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       157.78606348836706,
       156.52360484752708,
@@ -68057,6 +68129,15 @@ const statsYear2022 = [
     "gamesLost": 10,
     "gamesTotal": 13,
     "winRatio": 19.23,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       135.5717306299167,
       127.74454286221915,
@@ -68426,6 +68507,15 @@ const statsYear2022 = [
     "gamesLost": 11,
     "gamesTotal": 34,
     "winRatio": 52.94,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
     "_lastTenRatingsYear": [
       166.41273360747812,
       160.5553255626029,
@@ -81397,7 +81487,7 @@ const statsYear2022 = [
       "casualties": 5,
       "stuntycup": 4,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 2
     },
     "_lastTenRatingsYear": [
       285.84620146802484,
@@ -87705,7 +87795,7 @@ const statsYear2022 = [
   },
   {
     "NAF Nr": "29157",
-    "NAF Name": "ninjadaterroa",
+    "NAF Name": "Ninja",
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "rating": 159.48569066195952,
@@ -87762,7 +87852,7 @@ const statsYear2022 = [
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 2
     },
     "_lastTenRatingsYear": [
       185.8740775481407,
@@ -88515,7 +88605,7 @@ const statsYear2022 = [
       "casualties": 3,
       "stuntycup": 5,
       "bestpainted": 0,
-      "otherawards": 0
+      "otherawards": 1
     },
     "_lastTenRatingsYear": [
       205.72784462657953,
@@ -91040,7 +91130,7 @@ const statsYear2022 = [
     "NAF Nr": "29571",
     "NAF Name": "freddo",
     "CCAA": "Apatrida",
-    "Country": "Undisclosed",
+    "Country": "Sweden",
     "rating": 149.96096663391586,
     "bestRating": 151.5493908393619,
     "worstRating": 144.9554294895322,
@@ -92975,7 +93065,7 @@ const statsYear2022 = [
   },
   {
     "NAF Nr": "29756",
-    "NAF Name": "marquitos",
+    "NAF Name": "TejonMelero",
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 152.24143942902094,
@@ -96161,7 +96251,7 @@ const statsYear2022 = [
       "casualties": 0,
       "stuntycup": 3,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 2
     },
     "_lastTenRatingsYear": [
       172.13964592096934,
@@ -111738,7 +111828,7 @@ const statsYear2022 = [
   },
   {
     "NAF Nr": "31498",
-    "NAF Name": "komodo661",
+    "NAF Name": "MrCrowley",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 136.1443060757348,

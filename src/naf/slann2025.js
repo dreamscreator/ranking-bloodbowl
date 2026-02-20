@@ -22,17 +22,17 @@ const slann2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 161.51885854886532,
-    "bestRating": 161.54852541602176,
+    "rating": 161.50437231619864,
+    "bestRating": 161.532359047312,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
       155.65685424949237,
       155.65685424949237,
-      161.54852541602176,
-      161.29335705545208,
-      161.51885854886532
+      161.532359047312,
+      161.27859628643415,
+      161.50437231619864
     ],
-    "tendency": 5.8620042993729555
+    "tendency": 5.847518066706272
   },
   {
     "NAF Nr": "15912",
@@ -48,16 +48,230 @@ const slann2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 62.5,
-    "rating": 155.64712492610067,
+    "rating": 155.64712612907473,
     "bestRating": 155.65685424949237,
-    "worstRating": 150.00092724240162,
+    "worstRating": 150.00092849997682,
     "_lastTenRatings": [
       155.65685424949237,
       155.65685424949237,
-      150.00092724240162,
-      155.64712492610067
+      150.00092849997682,
+      155.64712612907473
     ],
-    "tendency": -0.009729323391695743
+    "tendency": -0.009728120417634045
+  },
+  {
+    "NAF Nr": "16876",
+    "NAF Name": "happygrue",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "22",
+    "raceName": "Slann",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.47097058453213,
+    "bestRating": 154.47097058453213,
+    "worstRating": 145.52786404500043,
+    "_lastTenRatings": [
+      145.52786404500043,
+      150,
+      154.47097058453213
+    ],
+    "tendency": 8.943106539531698
+  },
+  {
+    "NAF Nr": "18888",
+    "NAF Name": "ThePeacockWrangler",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "22",
+    "raceName": "Slann",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 138.68629150101526,
+    "bestRating": 150,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      144.34314575050763,
+      150,
+      144.34314575050763,
+      138.68629150101526
+    ],
+    "tendency": -5.656854249492369
+  },
+  {
+    "NAF Nr": "19828",
+    "NAF Name": "Kiave",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "22",
+    "raceName": "Slann",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 156.63477184428154,
+    "bestRating": 156.63477184428154,
+    "worstRating": 138.40304572766115,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.40304572766115,
+      144.57328690136674,
+      150.24902671108012,
+      150.52617496417162,
+      156.63477184428154
+    ],
+    "tendency": 12.291626093773914
+  },
+  {
+    "NAF Nr": "21913",
+    "NAF Name": "Dilde",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "22",
+    "raceName": "Slann",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.62585642955912,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.21555772540097,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.43097713288856,
+      160.52762842621914,
+      155.21555772540097,
+      155.62585642955912
+    ],
+    "tendency": -0.030997819933247683
+  },
+  {
+    "NAF Nr": "21960",
+    "NAF Name": "schalke08",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "22",
+    "raceName": "Slann",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 165.09480945607595,
+    "bestRating": 165.09480945607595,
+    "worstRating": 142.25403330758516,
+    "_lastTenRatings": [
+      142.25403330758516,
+      142.25403330758516,
+      149.54002479633266,
+      157.26026533909925,
+      165.0454746457314,
+      165.09480945607595
+    ],
+    "tendency": 22.84077614849079
+  },
+  {
+    "NAF Nr": "23061",
+    "NAF Name": "stripeydave",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "22",
+    "raceName": "Slann",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 145,
+    "_lastTenRatings": [
+      145,
+      150,
+      150
+    ],
+    "tendency": 5
+  },
+  {
+    "NAF Nr": "23359",
+    "NAF Name": "NEVIL",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "22",
+    "raceName": "Slann",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.29509294743013,
+    "bestRating": 161.0682536402513,
+    "worstRating": 149.29509294743013,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.0682536402513,
+      155.16594453202546,
+      149.29509294743013
+    ],
+    "tendency": -6.361761302062234
+  },
+  {
+    "NAF Nr": "29013",
+    "NAF Name": "sexmachine",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "raceId": "22",
+    "raceName": "Slann",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 154,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      154,
+      154,
+      150
+    ],
+    "tendency": -4
   },
   {
     "NAF Nr": "29927",
@@ -73,16 +287,16 @@ const slann2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 62.5,
-    "rating": 155.41139939075893,
-    "bestRating": 155.41139939075893,
+    "rating": 155.41258116116495,
+    "bestRating": 155.41258116116495,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
       144.34314575050763,
-      150,
-      155.41139939075893
+      150.00126221514097,
+      155.41258116116495
     ],
-    "tendency": 11.0682536402513
+    "tendency": 11.06943541065732
   },
   {
     "NAF Nr": "31793",
@@ -98,16 +312,16 @@ const slann2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 144.10928785254973,
+    "rating": 144.10928790715087,
     "bestRating": 155.41139939075893,
-    "worstRating": 144.10928785254973,
+    "worstRating": 144.10928790715087,
     "_lastTenRatings": [
       155.41139939075893,
       149.7443873713743,
       149.75548553624878,
-      144.10928785254973
+      144.10928790715087
     ],
-    "tendency": -11.302111538209203
+    "tendency": -11.302111483608059
   },
   {
     "NAF Nr": "32482",
@@ -116,13 +330,13 @@ const slann2025 = [
     "Country": "Malta",
     "raceId": "22",
     "raceName": "Slann",
-    "gamesTotal": 4,
-    "gamesWon": 2,
-    "gamesDraw": 2,
-    "gamesLost": 0,
+    "gamesTotal": 7,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 1,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 75,
+    "totalTournaments": 2,
+    "winRatio": 64.29,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
@@ -132,16 +346,19 @@ const slann2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 160.1980390271856,
+    "rating": 159.47564316799563,
     "bestRating": 160.1980390271856,
-    "worstRating": 155.0990195135928,
+    "worstRating": 154.91638368015634,
     "_lastTenRatings": [
       155.0990195135928,
       155.0990195135928,
       160.1980390271856,
-      160.1980390271856
+      160.1980390271856,
+      154.91638368015634,
+      159.4477243582643,
+      159.47564316799563
     ],
-    "tendency": 5.099019513592793
+    "tendency": 4.3766236544028345
   },
   {
     "NAF Nr": "33382",
@@ -201,6 +418,30 @@ const slann2025 = [
     "tendency": 0.046911659458089616
   },
   {
+    "NAF Nr": "33661",
+    "NAF Name": "veldora",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "22",
+    "raceName": "Slann",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 140,
+    "bestRating": 145,
+    "worstRating": 140,
+    "_lastTenRatings": [
+      145,
+      140,
+      140
+    ],
+    "tendency": -5
+  },
+  {
     "NAF Nr": "34436",
     "NAF Name": "mordranian",
     "CCAA": "Apatrida",
@@ -214,16 +455,40 @@ const slann2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 143.88365611942214,
+    "rating": 143.55914501487712,
     "bestRating": 150,
-    "worstRating": 143.88365611942214,
+    "worstRating": 143.55914501487712,
     "_lastTenRatings": [
       144.34314575050763,
       150,
-      144.09769089177416,
-      143.88365611942214
+      143.7264657066775,
+      143.55914501487712
     ],
-    "tendency": -0.45948963108548924
+    "tendency": -0.7840007356305136
+  },
+  {
+    "NAF Nr": "36325",
+    "NAF Name": "izachiel",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "22",
+    "raceName": "Slann",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 139.8019609728144,
+    "bestRating": 144.9009804864072,
+    "worstRating": 139.8019609728144,
+    "_lastTenRatings": [
+      144.9009804864072,
+      139.8019609728144,
+      139.8019609728144
+    ],
+    "tendency": -5.099019513592793
   },
   {
     "NAF Nr": "36388",
@@ -286,5 +551,112 @@ const slann2025 = [
       153.48696421774906
     ],
     "tendency": 7.729604904868353
+  },
+  {
+    "NAF Nr": "37312",
+    "NAF Name": "Kocopał",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "22",
+    "raceName": "Slann",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.2075294594509,
+    "bestRating": 150.12662555182607,
+    "worstRating": 139.16295365466138,
+    "_lastTenRatings": [
+      150.12662555182607,
+      144.64407673397145,
+      144.64023186180162,
+      139.16295365466138,
+      139.38841398904634,
+      144.2075294594509
+    ],
+    "tendency": -5.919096092375156
+  },
+  {
+    "NAF Nr": "37500",
+    "NAF Name": "Wickity",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "22",
+    "raceName": "Slann",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.2730625172894,
+    "bestRating": 149.2730625172894,
+    "worstRating": 143.54821647753886,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      143.54821647753886,
+      149.23958450684987,
+      149.2730625172894
+    ],
+    "tendency": 4.9299167667817585
+  },
+  {
+    "NAF Nr": "39685",
+    "NAF Name": "tipsyslayer",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "22",
+    "raceName": "Slann",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.36290371184418,
+    "bestRating": 149.7601777221005,
+    "worstRating": 144.29050872334656,
+    "_lastTenRatings": [
+      144.52277442494835,
+      144.52277442494835,
+      149.7601777221005,
+      144.29050872334656,
+      149.35307977049592,
+      149.36290371184418
+    ],
+    "tendency": 4.840129286895831
+  },
+  {
+    "NAF Nr": "43311",
+    "NAF Name": "fafnir",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "22",
+    "raceName": "Slann",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 143.7205182060519,
+    "bestRating": 149.52704172694766,
+    "worstRating": 143.7205182060519,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.56822616920593,
+      144.5314397451654,
+      149.52704172694766,
+      149.324484075956,
+      143.7205182060519
+    ],
+    "tendency": -0.6226275444557245
   }
 ];

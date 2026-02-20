@@ -6,29 +6,29 @@ const lizardmen2025 = [
     "Country": "Cayman Islands",
     "raceId": "15",
     "raceName": "Lizardmen",
-    "gamesTotal": 9,
-    "gamesWon": 1,
-    "gamesDraw": 1,
-    "gamesLost": 7,
+    "gamesTotal": 16,
+    "gamesWon": 2,
+    "gamesDraw": 4,
+    "gamesLost": 10,
     "totalWinRatio": 0,
-    "totalTournaments": 3,
-    "winRatio": 16.67,
-    "rating": 121.6307439025952,
+    "totalTournaments": 6,
+    "winRatio": 25,
+    "rating": 124.61295198878267,
     "bestRating": 145.7573593128807,
-    "worstRating": 119.65484599618713,
+    "worstRating": 118.66150265135417,
     "_lastTenRatings": [
-      145.7573593128807,
-      141.51471862576142,
-      137.27207793864213,
-      132.72497416059318,
-      127.57122441154594,
-      122.39579633400493,
-      119.65484599618713,
-      120.35958691014271,
-      124.42151646562219,
-      121.6307439025952
+      121.60024422925338,
+      118.66150265135417,
+      123.1840504309259,
+      123.92170169610532,
+      128.40243925087393,
+      129.01706464227604,
+      126.07073372934309,
+      127.53927125229622,
+      127.10234682490838,
+      124.61295198878267
     ],
-    "tendency": -24.12661541028551
+    "tendency": 3.0127077595292917
   },
   {
     "NAF Nr": "371",
@@ -44,15 +44,69 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.90895620497227,
-    "bestRating": 150.90895620497227,
-    "worstRating": 145.2914066803136,
+    "rating": 150.90954025733095,
+    "bestRating": 150.90954025733095,
+    "worstRating": 145.2920159905604,
     "_lastTenRatings": [
       150,
-      145.2914066803136,
-      150.90895620497227
+      145.2920159905604,
+      150.90954025733095
     ],
-    "tendency": 0.9089562049722701
+    "tendency": 0.9095402573309457
+  },
+  {
+    "NAF Nr": "2785",
+    "NAF Name": "Jokaero",
+    "CCAA": "Apatrida",
+    "Country": "Switzerland",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.66618265450634,
+    "bestRating": 155.66618265450634,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      150,
+      144.34314575050763,
+      150,
+      155.66618265450634
+    ],
+    "tendency": 11.323036903998712
+  },
+  {
+    "NAF Nr": "4768",
+    "NAF Name": "Indibro",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 161.31370849898474,
+    "bestRating": 161.31370849898474,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.34314575050763,
+      150,
+      155.65685424949237,
+      161.31370849898474
+    ],
+    "tendency": 5.656854249492369
   },
   {
     "NAF Nr": "5290",
@@ -61,13 +115,13 @@ const lizardmen2025 = [
     "Country": "England",
     "raceId": "15",
     "raceName": "Lizardmen",
-    "gamesTotal": 3,
-    "gamesWon": 3,
-    "gamesDraw": 0,
+    "gamesTotal": 9,
+    "gamesWon": 6,
+    "gamesDraw": 3,
     "gamesLost": 0,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 100,
+    "totalTournaments": 2,
+    "winRatio": 83.33,
     "trophies": {
       "winner": 0,
       "runnerup": 1,
@@ -77,15 +131,21 @@ const lizardmen2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 166.9705627484771,
-    "bestRating": 166.9705627484771,
+    "rating": 181.83566626440586,
+    "bestRating": 181.83566626440586,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
       155.65685424949237,
+      155.65685424949237,
+      155.65685424949237,
       161.31370849898474,
-      166.9705627484771
+      166.9705627484771,
+      166.9705627484771,
+      171.89472870364216,
+      176.85019528388142,
+      181.83566626440586
     ],
-    "tendency": 11.313708498984738
+    "tendency": 26.17881201491349
   },
   {
     "NAF Nr": "5798",
@@ -127,13 +187,13 @@ const lizardmen2025 = [
     "Country": "England",
     "raceId": "15",
     "raceName": "Lizardmen",
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 0,
-    "gamesLost": 1,
+    "gamesTotal": 9,
+    "gamesWon": 5,
+    "gamesDraw": 1,
+    "gamesLost": 3,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 66.67,
+    "totalTournaments": 2,
+    "winRatio": 61.11,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
@@ -143,15 +203,21 @@ const lizardmen2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 153.605551275464,
-    "bestRating": 157.211102550928,
-    "worstRating": 153.605551275464,
+    "rating": 158.58024044586145,
+    "bestRating": 162.32730281889255,
+    "worstRating": 144.34314575050763,
     "_lastTenRatings": [
-      153.605551275464,
-      157.211102550928,
-      153.605551275464
+      144.34314575050763,
+      150,
+      155.65685424949237,
+      155.65685424949237,
+      161.31370849898474,
+      155.4113993907589,
+      158.86728366096122,
+      162.32730281889255,
+      158.58024044586145
     ],
-    "tendency": 0
+    "tendency": 14.237094695353818
   },
   {
     "NAF Nr": "9524",
@@ -224,18 +290,45 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 41.67,
-    "rating": 144.52355502302436,
-    "bestRating": 150.49084567701559,
-    "worstRating": 144.52085377011113,
+    "rating": 145.75323041175218,
+    "bestRating": 150.90926031037927,
+    "worstRating": 145.19422649511966,
     "_lastTenRatings": [
       150.49084567701559,
-      150.20670144127348,
-      150.19743693030506,
-      144.52085377011113,
-      150.16346922308517,
-      144.52355502302436
+      150.90926031037927,
+      150.87086687352385,
+      145.19422649511966,
+      150.8353669869792,
+      145.75323041175218
     ],
-    "tendency": -5.967290653991228
+    "tendency": -4.7376152652634005
+  },
+  {
+    "NAF Nr": "13630",
+    "NAF Name": "Tutanchemon",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.0111879086322,
+    "bestRating": 150.0111879086322,
+    "worstRating": 134.50806661517032,
+    "_lastTenRatings": [
+      150,
+      150,
+      142.25403330758516,
+      134.50806661517032,
+      142.2659284096705,
+      150.0111879086322
+    ],
+    "tendency": 0.011187908632194876
   },
   {
     "NAF Nr": "13785",
@@ -251,20 +344,20 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 68.75,
-    "rating": 165.15999688428352,
-    "bestRating": 165.15999688428352,
-    "worstRating": 154.97171821062264,
+    "rating": 165.74982862184984,
+    "bestRating": 165.74982862184984,
+    "worstRating": 155.0033687030064,
     "_lastTenRatings": [
       155.56776436283002,
       161.14542477828707,
       161.12214573891188,
-      154.97171821062264,
-      160.16982898793086,
-      160.57060483516295,
-      160.1582145556056,
-      165.15999688428352
+      155.0033687030064,
+      160.20013112853565,
+      160.57621711753126,
+      160.16362913809846,
+      165.74982862184984
     ],
-    "tendency": 9.592232521453496
+    "tendency": 10.182064259019825
   },
   {
     "NAF Nr": "14737",
@@ -304,14 +397,50 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 75,
-    "rating": 155.65685424949237,
-    "bestRating": 155.65685424949237,
-    "worstRating": 155.65685424949237,
+    "rating": 155.84651731139937,
+    "bestRating": 155.8551258535033,
+    "worstRating": 155.84651731139937,
     "_lastTenRatings": [
-      155.65685424949237,
-      155.65685424949237
+      155.8551258535033,
+      155.84651731139937
     ],
-    "tendency": 0
+    "tendency": -0.008608542103928585
+  },
+  {
+    "NAF Nr": "15254",
+    "NAF Name": "Trondur",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 173.69701929276502,
+    "bestRating": 173.69701929276502,
+    "worstRating": 142.8289394517874,
+    "_lastTenRatings": [
+      142.86527928119773,
+      142.8289394517874,
+      150.54072676340854,
+      158.25617188152444,
+      165.94761481702167,
+      173.69701929276502
+    ],
+    "tendency": 30.83174001156729
   },
   {
     "NAF Nr": "16089",
@@ -327,18 +456,111 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 165.4864126893968,
-    "bestRating": 165.4864126893968,
+    "rating": 165.48647272620858,
+    "bestRating": 165.48647272620858,
     "worstRating": 141.9635302831711,
     "_lastTenRatings": [
       142.25403330758516,
       141.9635302831711,
       149.7267680755416,
-      150.02272336340138,
-      157.76733909526143,
-      165.4864126893968
+      150.022791229958,
+      157.7674029269823,
+      165.48647272620858
     ],
-    "tendency": 23.232379381811626
+    "tendency": 23.232439418623414
+  },
+  {
+    "NAF Nr": "16213",
+    "NAF Name": "Sebotouno",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.64881163704004,
+    "bestRating": 161.32548473097532,
+    "worstRating": 155.64881163704004,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.66916498867369,
+      161.32548473097532,
+      155.652714612194,
+      155.64881163704004
+    ],
+    "tendency": -0.008042612452328513
+  },
+  {
+    "NAF Nr": "16322",
+    "NAF Name": "phelanward",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 153.04427688788346,
+    "bestRating": 153.04427688788346,
+    "worstRating": 147.3542486889354,
+    "_lastTenRatings": [
+      147.3542486889354,
+      150.05371960159144,
+      153.04427688788346
+    ],
+    "tendency": 5.690028198948056
+  },
+  {
+    "NAF Nr": "17294",
+    "NAF Name": "flytime",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 165.10883833109156,
+    "bestRating": 165.10883833109156,
+    "worstRating": 155.0990195135928,
+    "_lastTenRatings": [
+      155.0990195135928,
+      160.1980390271856,
+      165.10883833109156
+    ],
+    "tendency": 10.009818817498768
   },
   {
     "NAF Nr": "17893",
@@ -363,8 +585,8 @@ const lizardmen2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 176.76259766300487,
-    "bestRating": 182.92658342608064,
+    "rating": 176.73621841473147,
+    "bestRating": 182.90161650248493,
     "worstRating": 150,
     "_lastTenRatings": [
       161.31370849898474,
@@ -373,12 +595,12 @@ const lizardmen2025 = [
       176.6357765948125,
       181.38956004917486,
       180.2866028626683,
-      179.22978836831416,
-      178.23175686338735,
-      182.92658342608064,
-      176.76259766300487
+      179.23014909303592,
+      178.19123587686255,
+      182.90161650248493,
+      176.73621841473147
     ],
-    "tendency": 15.44888916402013
+    "tendency": 15.42250991574673
   },
   {
     "NAF Nr": "17924",
@@ -394,18 +616,126 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 134.50817682187545,
+    "rating": 134.51015087279373,
     "bestRating": 157.74596669241484,
-    "worstRating": 134.50817682187545,
+    "worstRating": 134.51015087279373,
     "_lastTenRatings": [
       157.74596669241484,
       150,
       142.25403330758516,
       150,
       142.25403330758516,
-      134.50817682187545
+      134.51015087279373
     ],
-    "tendency": -23.237789870539387
+    "tendency": -23.23581581962111
+  },
+  {
+    "NAF Nr": "18344",
+    "NAF Name": "RedDawn_Junior",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.65685358965678,
+    "bestRating": 166.9705627484771,
+    "worstRating": 155.65685358965678,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      161.31370849898474,
+      166.9705627484771,
+      161.31370849898474,
+      155.65685358965678
+    ],
+    "tendency": -6.598355923870258e-7
+  },
+  {
+    "NAF Nr": "18694",
+    "NAF Name": "Kopecz",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 5,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 172.41567702429708,
+    "bestRating": 172.41567702429708,
+    "worstRating": 155.4113993907589,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.4113993907589,
+      161.0789107771008,
+      166.76459358858938,
+      172.41567702429708
+    ],
+    "tendency": 16.758822774804713
+  },
+  {
+    "NAF Nr": "19116",
+    "NAF Name": "Tribble",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.56869253923588,
+    "bestRating": 165.03886260627456,
+    "worstRating": 149.56869253923588,
+    "_lastTenRatings": [
+      157.74596669241484,
+      157.7528315050464,
+      157.75242337483246,
+      165.03886260627456,
+      157.24111920175974,
+      149.56869253923588
+    ],
+    "tendency": -8.177274153178956
+  },
+  {
+    "NAF Nr": "19739",
+    "NAF Name": "Yaouch",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.46679202288243,
+    "bestRating": 155.46679202288243,
+    "worstRating": 149.80133211556614,
+    "_lastTenRatings": [
+      150,
+      150,
+      155.41139939075893,
+      155.42205652760845,
+      149.80133211556614,
+      155.46679202288243
+    ],
+    "tendency": 5.46679202288243
   },
   {
     "NAF Nr": "20248",
@@ -421,18 +751,18 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.92088335621892,
+    "rating": 150.9165741913632,
     "bestRating": 155.65685424949237,
     "worstRating": 149.76518308296298,
     "_lastTenRatings": [
       155.65685424949237,
       149.76518308296298,
-      155.43242309500263,
-      155.44589358915218,
-      149.88892941450956,
-      149.92088335621892
+      155.41318701932104,
+      155.47590891988997,
+      150.9399446144366,
+      150.9165741913632
     ],
-    "tendency": -5.735970893273446
+    "tendency": -4.740280058129173
   },
   {
     "NAF Nr": "20556",
@@ -457,17 +787,17 @@ const lizardmen2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 164.73746152256481,
-    "bestRating": 164.73746152256481,
+    "rating": 164.73746275212213,
+    "bestRating": 164.73746275212213,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       155.08309952912037,
       159.79104601356593,
       164.73149547022646,
-      164.73746152256481
+      164.73746275212213
     ],
-    "tendency": 14.737461522564814
+    "tendency": 14.737462752122127
   },
   {
     "NAF Nr": "20581",
@@ -530,6 +860,60 @@ const lizardmen2025 = [
     "tendency": 8.132971208191378
   },
   {
+    "NAF Nr": "20747",
+    "NAF Name": "deeferdan",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.3431649682165,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      150,
+      155.65685424949237,
+      150,
+      144.3431649682165
+    ],
+    "tendency": 0.000019217708882024453
+  },
+  {
+    "NAF Nr": "20914",
+    "NAF Name": "canta",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.7202347964844,
+    "bestRating": 149.7202347964844,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      144.37377881839058,
+      139.1973342898913,
+      144.5966984667454,
+      149.7202347964844
+    ],
+    "tendency": 5.37708904597676
+  },
+  {
     "NAF Nr": "21378",
     "NAF Name": "Sazooman",
     "CCAA": "Apatrida",
@@ -552,6 +936,33 @@ const lizardmen2025 = [
       150
     ],
     "tendency": -4.898979485566343
+  },
+  {
+    "NAF Nr": "21831",
+    "NAF Name": "gillywonka",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 138.68629150101526,
+    "bestRating": 150,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.34314575050763,
+      138.68629150101526,
+      138.68629150101526,
+      138.68629150101526
+    ],
+    "tendency": -5.656854249492369
   },
   {
     "NAF Nr": "22788",
@@ -687,6 +1098,30 @@ const lizardmen2025 = [
     "tendency": 5.667049510174593
   },
   {
+    "NAF Nr": "24435",
+    "NAF Name": "Mr.Christie",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.17050613581503,
+    "bestRating": 154.47213595499957,
+    "worstRating": 149.84655458550844,
+    "_lastTenRatings": [
+      154.47213595499957,
+      149.84655458550844,
+      154.17050613581503
+    ],
+    "tendency": -0.3016298191845408
+  },
+  {
     "NAF Nr": "24592",
     "NAF Name": "rorarimbo",
     "CCAA": "Apatrida",
@@ -766,15 +1201,15 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 83.33,
-    "rating": 158.58287526801942,
-    "bestRating": 158.58287526801942,
+    "rating": 158.58232267563392,
+    "bestRating": 158.58232267563392,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       154.2131229387818,
-      158.58287526801942
+      158.58232267563392
     ],
-    "tendency": 8.582875268019421
+    "tendency": 8.582322675633918
   },
   {
     "NAF Nr": "25284",
@@ -800,6 +1235,84 @@ const lizardmen2025 = [
       142.01028096057706
     ],
     "tendency": -3.8666134138052826
+  },
+  {
+    "NAF Nr": "25564",
+    "NAF Name": "Dake",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 155.65900252762356,
+    "bestRating": 155.65900252762356,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      150,
+      155.65900252762356
+    ],
+    "tendency": 5.6590025276235565
+  },
+  {
+    "NAF Nr": "25729",
+    "NAF Name": "The_Martian",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.33248865155065,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      138.68629150101526,
+      138.68629150101526,
+      144.34314575050763,
+      144.33248865155065
+    ],
+    "tendency": -0.010657098956983191
+  },
+  {
+    "NAF Nr": "25954",
+    "NAF Name": "ravenmojo",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 80,
+    "rating": 163.74247009838552,
+    "bestRating": 163.74247009838552,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      154.58257569495584,
+      154.57690888627633,
+      159.15970209767804,
+      163.74247009838552
+    ],
+    "tendency": 13.742470098385525
   },
   {
     "NAF Nr": "25973",
@@ -917,18 +1430,42 @@ const lizardmen2025 = [
     "tendency": -0.24545485873346706
   },
   {
+    "NAF Nr": "27095",
+    "NAF Name": "NightSword",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.83371409051242,
+    "bestRating": 155.83371409051242,
+    "worstRating": 155.2747880511231,
+    "_lastTenRatings": [
+      155.28165534702924,
+      155.2747880511231,
+      155.83371409051242
+    ],
+    "tendency": 0.5520587434831725
+  },
+  {
     "NAF Nr": "27257",
     "NAF Name": "unicornson",
     "CCAA": "Apatrida",
     "Country": "Poland",
     "raceId": "15",
     "raceName": "Lizardmen",
-    "gamesTotal": 6,
-    "gamesWon": 4,
-    "gamesDraw": 1,
-    "gamesLost": 1,
+    "gamesTotal": 12,
+    "gamesWon": 8,
+    "gamesDraw": 2,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
+    "totalTournaments": 2,
     "winRatio": 75,
     "trophies": {
       "winner": 0,
@@ -939,18 +1476,73 @@ const lizardmen2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 166.98243045275825,
-    "bestRating": 166.98243045275825,
+    "rating": 179.27412845953276,
+    "bestRating": 186.01616515319952,
     "worstRating": 155.6563915383424,
     "_lastTenRatings": [
-      155.65685424949237,
-      161.31370849898474,
       161.31370849898474,
       155.6563915383424,
       161.32006070799838,
-      166.98243045275825
+      166.9820230638942,
+      171.7493525530898,
+      176.54604466982505,
+      181.1548874364594,
+      186.01616515319952,
+      184.97535588975933,
+      179.27412845953276
     ],
-    "tendency": 11.325576203265882
+    "tendency": 17.960419960548023
+  },
+  {
+    "NAF Nr": "27869",
+    "NAF Name": "Nourrou",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 4,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 160.45977830490816,
+    "bestRating": 160.45977830490816,
+    "worstRating": 149.79626574019184,
+    "_lastTenRatings": [
+      150,
+      150,
+      150.03998557096804,
+      149.79626574019184,
+      154.98414072860265,
+      160.45977830490816
+    ],
+    "tendency": 10.459778304908156
+  },
+  {
+    "NAF Nr": "27885",
+    "NAF Name": "Bilorca",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "rating": 164.5678117208388,
+    "bestRating": 164.5678117208388,
+    "worstRating": 155.09031711753585,
+    "_lastTenRatings": [
+      155.09031711753585,
+      159.43835756015693,
+      164.5678117208388
+    ],
+    "tendency": 9.477494603302944
   },
   {
     "NAF Nr": "28335",
@@ -979,6 +1571,33 @@ const lizardmen2025 = [
     "tendency": 0.4598989962129849
   },
   {
+    "NAF Nr": "28385",
+    "NAF Name": "onyersix",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 154.64890679308618,
+    "bestRating": 154.64890679308618,
+    "worstRating": 145.19767340016205,
+    "_lastTenRatings": [
+      145.20416847668727,
+      150,
+      145.19767340016205,
+      149.9939830827874,
+      154.61314876896526,
+      154.64890679308618
+    ],
+    "tendency": 9.444738316398912
+  },
+  {
     "NAF Nr": "28658",
     "NAF Name": "Kukulkan",
     "CCAA": "Apatrida",
@@ -992,16 +1611,16 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 145.2398277395469,
-    "bestRating": 145.50560471037932,
-    "worstRating": 144.58860060924107,
+    "rating": 145.07618132629193,
+    "bestRating": 145.30468476566418,
+    "worstRating": 144.5717043389005,
     "_lastTenRatings": [
-      144.58860060924107,
-      145.0680088964798,
-      145.50560471037932,
-      145.2398277395469
+      144.5717043389005,
+      145.0518409508183,
+      145.30468476566418,
+      145.07618132629193
     ],
-    "tendency": 0.6512271303058412
+    "tendency": 0.5044769873914277
   },
   {
     "NAF Nr": "28709",
@@ -1010,22 +1629,25 @@ const lizardmen2025 = [
     "Country": "Italy",
     "raceId": "15",
     "raceName": "Lizardmen",
-    "gamesTotal": 3,
-    "gamesWon": 1,
-    "gamesDraw": 1,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 3,
     "gamesLost": 1,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 50,
-    "rating": 150.43905418045588,
-    "bestRating": 150.43905418045588,
+    "totalTournaments": 2,
+    "winRatio": 58.33,
+    "rating": 156.27218085918383,
+    "bestRating": 156.28789728605312,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
       150,
-      150.43905418045588
+      150.43905418045588,
+      156.28789728605312,
+      156.26049889841406,
+      156.27218085918383
     ],
-    "tendency": 6.095908429948253
+    "tendency": 11.929035108676203
   },
   {
     "NAF Nr": "28997",
@@ -1085,6 +1707,57 @@ const lizardmen2025 = [
     "tendency": 4.9657967537198715
   },
   {
+    "NAF Nr": "29192",
+    "NAF Name": "Mind_Locker",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 153.46410161513776,
+    "bestRating": 153.46410161513776,
+    "worstRating": 146.53589838486224,
+    "_lastTenRatings": [
+      146.53589838486224,
+      150,
+      153.46410161513776
+    ],
+    "tendency": 6.928203230275528
+  },
+  {
+    "NAF Nr": "29300",
+    "NAF Name": "SickasEggs",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 167.440638478398,
+    "bestRating": 167.440638478398,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      166.9705627484771,
+      161.31370849898474,
+      167.20537966551413,
+      167.440638478398
+    ],
+    "tendency": 11.783784228905631
+  },
+  {
     "NAF Nr": "29394",
     "NAF Name": "densom",
     "CCAA": "Apatrida",
@@ -1121,6 +1794,162 @@ const lizardmen2025 = [
     "tendency": -8.47587569932088
   },
   {
+    "NAF Nr": "30033",
+    "NAF Name": "shriyke",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 155,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155,
+      150,
+      150
+    ],
+    "tendency": -5
+  },
+  {
+    "NAF Nr": "30042",
+    "NAF Name": "03philpota",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 159.60973914829876,
+    "bestRating": 159.60973914829876,
+    "worstRating": 140.40833695337454,
+    "_lastTenRatings": [
+      145.20416847668727,
+      140.40833695337454,
+      145.40537192513483,
+      150.01735589097453,
+      154.81993206413762,
+      159.60973914829876
+    ],
+    "tendency": 14.405570671611486
+  },
+  {
+    "NAF Nr": "30428",
+    "NAF Name": "elplanet4",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 161.32436563426305,
+    "bestRating": 161.32436563426305,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      161.31370849898474,
+      155.65685424949237,
+      161.31372858895935,
+      161.32436563426305
+    ],
+    "tendency": 5.667511384770677
+  },
+  {
+    "NAF Nr": "30460",
+    "NAF Name": "froxt",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 161.81209544070754,
+    "bestRating": 168.90901880501127,
+    "worstRating": 157.74596669241484,
+    "_lastTenRatings": [
+      157.74596669241484,
+      165.49193338482968,
+      157.74596669241484,
+      166.38328070610237,
+      168.90901880501127,
+      161.81209544070754
+    ],
+    "tendency": 4.066128748292698
+  },
+  {
+    "NAF Nr": "30786",
+    "NAF Name": "SeducerOfTrolls",
+    "CCAA": "Apatrida",
+    "Country": "North Ireland",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 133.0294372515229,
+    "bestRating": 150,
+    "worstRating": 133.0294372515229,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.34314575050763,
+      138.68629150101526,
+      138.68629150101526,
+      133.0294372515229
+    ],
+    "tendency": -11.313708498984738
+  },
+  {
+    "NAF Nr": "30813",
+    "NAF Name": "araquel",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.6151663807259,
+    "bestRating": 144.33226662955548,
+    "worstRating": 138.58280818905723,
+    "_lastTenRatings": [
+      144.33226662955548,
+      138.58280818905723,
+      138.6151663807259
+    ],
+    "tendency": -5.717100248829581
+  },
+  {
     "NAF Nr": "31309",
     "NAF Name": "FB_Grimgork",
     "CCAA": "Apatrida",
@@ -1149,6 +1978,30 @@ const lizardmen2025 = [
       154.3228383140446
     ],
     "tendency": 9.979692563536958
+  },
+  {
+    "NAF Nr": "31336",
+    "NAF Name": "Dinlo",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.66029911640015,
+    "bestRating": 161.32394440543266,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.32394440543266,
+      155.66029911640015
+    ],
+    "tendency": 0.0034448669077846716
   },
   {
     "NAF Nr": "31516",
@@ -1201,6 +2054,66 @@ const lizardmen2025 = [
     "tendency": -10.517600751261284
   },
   {
+    "NAF Nr": "32547",
+    "NAF Name": "cptoats",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 166.97035287985258,
+    "bestRating": 166.97035287985258,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31348910470808,
+      166.97035287985258
+    ],
+    "tendency": 11.313498630360215
+  },
+  {
+    "NAF Nr": "33028",
+    "NAF Name": "fredlund",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.86758004277783,
+    "bestRating": 150.86758004277783,
+    "worstRating": 126.76209992275548,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.50806661517032,
+      126.76209992275548,
+      134.94078597831748,
+      143.09185665727952,
+      150.86758004277783
+    ],
+    "tendency": 8.61354673519267
+  },
+  {
     "NAF Nr": "33200",
     "NAF Name": "Ranumo",
     "CCAA": "Apatrida",
@@ -1226,6 +2139,40 @@ const lizardmen2025 = [
     "tendency": 0.09452819529562362
   },
   {
+    "NAF Nr": "33380",
+    "NAF Name": "CEKELLA",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 87.5,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 166.9700681135632,
+    "bestRating": 166.9705627484771,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      166.9705627484771,
+      166.9700681135632
+    ],
+    "tendency": 11.313213864070832
+  },
+  {
     "NAF Nr": "33457",
     "NAF Name": "Mądry",
     "CCAA": "Apatrida",
@@ -1239,18 +2186,18 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.26240224305022,
-    "bestRating": 155.91512260301033,
+    "rating": 150.2534093488926,
+    "bestRating": 155.9057398968402,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
       150,
       155.65685424949237,
       155.6639574873484,
-      155.91512260301033,
-      150.26240224305022
+      155.9057398968402,
+      150.2534093488926
     ],
-    "tendency": 5.919256492542587
+    "tendency": 5.910263598384972
   },
   {
     "NAF Nr": "33607",
@@ -1286,6 +2233,54 @@ const lizardmen2025 = [
     "tendency": -10.368215386410526
   },
   {
+    "NAF Nr": "34215",
+    "NAF Name": "SparTaNxX",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 153.28238478250802,
+    "bestRating": 153.28238478250802,
+    "worstRating": 149.90791829338335,
+    "_lastTenRatings": [
+      150,
+      149.90791829338335,
+      153.28238478250802
+    ],
+    "tendency": 3.282384782508018
+  },
+  {
+    "NAF Nr": "34293",
+    "NAF Name": "CapnRedbeard",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 155,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155,
+      150,
+      150
+    ],
+    "tendency": -5
+  },
+  {
     "NAF Nr": "34432",
     "NAF Name": "skalandjir",
     "CCAA": "Apatrida",
@@ -1299,18 +2294,45 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 132.63175477848588,
+    "rating": 132.63175474683183,
     "bestRating": 144.34314575050763,
-    "worstRating": 132.63175477848588,
+    "worstRating": 132.63175474683183,
     "_lastTenRatings": [
       144.34314575050763,
       138.68629150101526,
       144.34314575050763,
-      138.4408366422818,
-      138.4514937791313,
-      132.63175477848588
+      138.4408366091941,
+      138.4514937474802,
+      132.63175474683183
     ],
-    "tendency": -11.711390972021746
+    "tendency": -11.7113910036758
+  },
+  {
+    "NAF Nr": "34601",
+    "NAF Name": "azmogui",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 166.96162015206318,
+    "bestRating": 166.96162015206318,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.65685424949237,
+      155.65685424949237,
+      155.64619711264285,
+      161.30351407328519,
+      166.96162015206318
+    ],
+    "tendency": 16.961620152063176
   },
   {
     "NAF Nr": "35186",
@@ -1363,6 +2385,89 @@ const lizardmen2025 = [
     "tendency": -11.313708498984738
   },
   {
+    "NAF Nr": "35540",
+    "NAF Name": "bigdog",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 70,
+    "rating": 161.1301636291608,
+    "bestRating": 166.77868703233608,
+    "worstRating": 155.43764781615474,
+    "_lastTenRatings": [
+      155.43764781615474,
+      161.104019553017,
+      166.76997806110452,
+      166.77868703233608,
+      161.1301636291608
+    ],
+    "tendency": 5.692515813006054
+  },
+  {
+    "NAF Nr": "35593",
+    "NAF Name": "LCYig",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
+    "rating": 157.89113301327026,
+    "bestRating": 158,
+    "worstRating": 154,
+    "_lastTenRatings": [
+      154,
+      158,
+      157.89113301327026
+    ],
+    "tendency": 3.891133013270263
+  },
+  {
+    "NAF Nr": "35868",
+    "NAF Name": "Webimpulse",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 142.72485570099687,
+    "bestRating": 147.67806622984637,
+    "worstRating": 142.72485570099687,
+    "_lastTenRatings": [
+      147.67806622984637,
+      145.3306070668358,
+      142.72485570099687
+    ],
+    "tendency": -4.953210528849496
+  },
+  {
     "NAF Nr": "36403",
     "NAF Name": "Steveo",
     "CCAA": "Apatrida",
@@ -1376,8 +2481,8 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 165.5158286991252,
-    "bestRating": 165.5158286991252,
+    "rating": 165.5158889183968,
+    "bestRating": 165.5158889183968,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
@@ -1385,9 +2490,9 @@ const lizardmen2025 = [
       165.49193338482968,
       165.49193338482968,
       157.7702549587245,
-      165.5158286991252
+      165.5158889183968
     ],
-    "tendency": 15.515828699125194
+    "tendency": 15.515888918396797
   },
   {
     "NAF Nr": "36882",
@@ -1403,15 +2508,15 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 146.25513940200312,
+    "rating": 146.2551365119121,
     "bestRating": 153.74165738677394,
-    "worstRating": 146.25513940200312,
+    "worstRating": 146.2551365119121,
     "_lastTenRatings": [
       153.74165738677394,
       149.9967020781276,
-      146.25513940200312
+      146.2551365119121
     ],
-    "tendency": -7.486517984770813
+    "tendency": -7.486520874861839
   },
   {
     "NAF Nr": "37159",
@@ -1427,16 +2532,16 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.55135750801108,
+    "rating": 149.5416014239547,
     "bestRating": 150,
-    "worstRating": 144.34314575050763,
+    "worstRating": 144.33294975908078,
     "_lastTenRatings": [
       144.34314575050763,
       150,
-      144.34314575050763,
-      149.55135750801108
+      144.33294975908078,
+      149.5416014239547
     ],
-    "tendency": 5.208211757503449
+    "tendency": 5.198455673447057
   },
   {
     "NAF Nr": "37403",
@@ -1461,6 +2566,33 @@ const lizardmen2025 = [
       155.0990195135928
     ],
     "tendency": 0
+  },
+  {
+    "NAF Nr": "37599",
+    "NAF Name": "MrEsprit",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.54866883270512,
+    "bestRating": 150.21485148721146,
+    "worstRating": 138.92108922289918,
+    "_lastTenRatings": [
+      150,
+      144.58860060924107,
+      138.92108922289918,
+      144.56774904512105,
+      150.21485148721146,
+      144.54866883270512
+    ],
+    "tendency": -5.451331167294882
   },
   {
     "NAF Nr": "37674",
@@ -1511,6 +2643,33 @@ const lizardmen2025 = [
     "tendency": -0.3185609492172716
   },
   {
+    "NAF Nr": "37877",
+    "NAF Name": "belet",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.5597958303546,
+    "bestRating": 155.65685424949237,
+    "worstRating": 138.92108922289918,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.58860060924107,
+      138.92108922289918,
+      144.56778744088342,
+      144.5597958303546
+    ],
+    "tendency": -11.097058419137767
+  },
+  {
     "NAF Nr": "37961",
     "NAF Name": "fralum",
     "CCAA": "Apatrida",
@@ -1524,18 +2683,18 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 41.67,
-    "rating": 144.60451066631165,
-    "bestRating": 150.2440737417812,
+    "rating": 144.69169886858887,
+    "bestRating": 150.29301721563812,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
       144.34314575050763,
-      150.01065543852917,
-      150.2440737417812,
-      144.58876832531033,
-      144.60451066631165
+      150.01296240460027,
+      150.29301721563812,
+      144.63810047264073,
+      144.69169886858887
     ],
-    "tendency": 0.2613649158040232
+    "tendency": 0.34855311808124156
   },
   {
     "NAF Nr": "38931",
@@ -1564,6 +2723,33 @@ const lizardmen2025 = [
     "tendency": 5.891651971376319
   },
   {
+    "NAF Nr": "39019",
+    "NAF Name": "JanisTraveler",
+    "CCAA": "Apatrida",
+    "Country": "Brazil",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.99998078229112,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      150,
+      150,
+      144.34314575050763,
+      149.99998078229112
+    ],
+    "tendency": -0.000019217708882024453
+  },
+  {
     "NAF Nr": "39432",
     "NAF Name": "gmlello",
     "CCAA": "Apatrida",
@@ -1577,17 +2763,17 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 20,
-    "rating": 133.04601961285877,
-    "bestRating": 144.34314575050763,
-    "worstRating": 133.0294372515229,
+    "rating": 132.92424757427048,
+    "bestRating": 144.94742621915825,
+    "worstRating": 132.84278435386994,
     "_lastTenRatings": [
-      144.34314575050763,
-      138.68629150101526,
-      133.0294372515229,
-      138.68659497685462,
-      133.04601961285877
+      144.94742621915825,
+      138.42947811750633,
+      132.84278435386994,
+      138.53481367501473,
+      132.92424757427048
     ],
-    "tendency": -11.29712613764886
+    "tendency": -12.023178644887764
   },
   {
     "NAF Nr": "39605",
@@ -1614,35 +2800,83 @@ const lizardmen2025 = [
     "tendency": -4.4721359549995725
   },
   {
+    "NAF Nr": "39747",
+    "NAF Name": "HALFTIME_OJ",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.57794347239158,
+    "bestRating": 144.5886006092411,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.5886006092411,
+      144.57794347239158
+    ],
+    "tendency": 0.23479772188395032
+  },
+  {
+    "NAF Nr": "39943",
+    "NAF Name": "Mfarrell87",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 145,
+    "_lastTenRatings": [
+      145,
+      150,
+      150
+    ],
+    "tendency": 5
+  },
+  {
     "NAF Nr": "40001",
     "NAF Name": "teschione",
     "CCAA": "Apatrida",
     "Country": "Italy",
     "raceId": "15",
     "raceName": "Lizardmen",
-    "gamesTotal": 12,
-    "gamesWon": 2,
-    "gamesDraw": 5,
-    "gamesLost": 5,
+    "gamesTotal": 18,
+    "gamesWon": 3,
+    "gamesDraw": 7,
+    "gamesLost": 8,
     "totalWinRatio": 0,
-    "totalTournaments": 3,
-    "winRatio": 37.5,
-    "rating": 138.7589071533959,
+    "totalTournaments": 4,
+    "winRatio": 36.11,
+    "rating": 132.71682419929002,
     "bestRating": 144.34314575050763,
-    "worstRating": 130.8242247358685,
+    "worstRating": 123.63082862084187,
     "_lastTenRatings": [
-      138.68629150101526,
-      133.60079751490753,
-      134.28204967724386,
-      134.96138246431045,
-      135.8483655860014,
-      130.8242247358685,
-      137.07816643763127,
-      132.23726351037573,
-      138.44539499207445,
-      138.7589071533959
+      142.48598571297612,
+      137.38933441964554,
+      132.27676221711408,
+      127.1532258873751,
+      128.36742195713225,
+      123.63082862084187,
+      130.19151410871245,
+      125.64091104738974,
+      132.11357272358353,
+      132.71682419929002
     ],
-    "tendency": 0.07261565238064804
+    "tendency": -9.7691615136861
   },
   {
     "NAF Nr": "40087",
@@ -1667,6 +2901,79 @@ const lizardmen2025 = [
       155.41139939075893
     ],
     "tendency": 5.41139939075893
+  },
+  {
+    "NAF Nr": "40138",
+    "NAF Name": "CageCrasher",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 160.30151864524672,
+    "bestRating": 160.30151864524672,
+    "worstRating": 150.36694507975824,
+    "_lastTenRatings": [
+      150.36694507975824,
+      155.44403524557364,
+      160.30151864524672
+    ],
+    "tendency": 9.934573565488478
+  },
+  {
+    "NAF Nr": "40158",
+    "NAF Name": "Pupilosaurio",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 155.64573531212375,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.4113993907589,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.4113993907589,
+      161.31370849898474,
+      155.64573531212375
+    ],
+    "tendency": -0.011118937368621573
+  },
+  {
+    "NAF Nr": "40226",
+    "NAF Name": "bones88",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      150
+    ],
+    "tendency": -5.656854249492369
   },
   {
     "NAF Nr": "40267",
@@ -1696,30 +3003,108 @@ const lizardmen2025 = [
     "tendency": -38.269822073367095
   },
   {
+    "NAF Nr": "40322",
+    "NAF Name": "bouchy",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 141.20391249469384,
+    "bestRating": 145.52786404500043,
+    "worstRating": 141.20391249469384,
+    "_lastTenRatings": [
+      145.52786404500043,
+      145.52786404500043,
+      141.20391249469384
+    ],
+    "tendency": -4.323951550306589
+  },
+  {
+    "NAF Nr": "40378",
+    "NAF Name": "Molillo",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 155.4315753369857,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.4315753369857,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      161.06799895786017,
+      155.4315753369857
+    ],
+    "tendency": -0.22527891250666698
+  },
+  {
     "NAF Nr": "40462",
     "NAF Name": "Saph",
     "CCAA": "Apatrida",
     "Country": "France",
     "raceId": "15",
     "raceName": "Lizardmen",
-    "gamesTotal": 5,
-    "gamesWon": 3,
-    "gamesDraw": 1,
-    "gamesLost": 1,
+    "gamesTotal": 11,
+    "gamesWon": 6,
+    "gamesDraw": 2,
+    "gamesLost": 3,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 70,
-    "rating": 161.32344021503712,
-    "bestRating": 161.32344021503712,
+    "totalTournaments": 2,
+    "winRatio": 63.64,
+    "rating": 164.33096175502416,
+    "bestRating": 166.48988791337837,
     "worstRating": 150,
     "_lastTenRatings": [
-      150,
       155.65685424949237,
       150,
       155.6670486767629,
-      161.32344021503712
+      161.32344021503712,
+      166.48988791337837,
+      160.35539817076557,
+      154.2498780168767,
+      153.8205749401162,
+      159.06632973389517,
+      164.33096175502416
     ],
-    "tendency": 11.323440215037124
+    "tendency": 8.674107505531794
+  },
+  {
+    "NAF Nr": "40690",
+    "NAF Name": "Elliot",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 153.50595260713567,
+    "bestRating": 157.11410986007255,
+    "worstRating": 153.50579805146234,
+    "_lastTenRatings": [
+      153.50579805146234,
+      157.11410986007255,
+      153.50595260713567
+    ],
+    "tendency": 0.0001545556733333342
   },
   {
     "NAF Nr": "40747",
@@ -1746,6 +3131,30 @@ const lizardmen2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "40922",
+    "NAF Name": "serpowda",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.19244222102955,
+    "bestRating": 155.0990195135928,
+    "worstRating": 150.19244222102955,
+    "_lastTenRatings": [
+      155.0990195135928,
+      155.0990195135928,
+      150.19244222102955
+    ],
+    "tendency": -4.906577292563242
+  },
+  {
     "NAF Nr": "41067",
     "NAF Name": "TheKanZ",
     "CCAA": "Apatrida",
@@ -1759,17 +3168,78 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.2153262841943,
-    "bestRating": 150.24545485873347,
-    "worstRating": 144.33295045527655,
+    "rating": 150.5610008506907,
+    "bestRating": 150.6202572596774,
+    "worstRating": 144.6759606902167,
+    "_lastTenRatings": [
+      150.39178295600135,
+      150.6202572596774,
+      144.93647290818606,
+      144.6759606902167,
+      150.5610008506907
+    ],
+    "tendency": 0.16921789468935344
+  },
+  {
+    "NAF Nr": "41124",
+    "NAF Name": "Azariel",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.98529091998677,
+    "bestRating": 155.64709928842842,
+    "worstRating": 149.98529091998677,
     "_lastTenRatings": [
       150,
-      150.24545485873347,
-      144.57794347239158,
-      144.33295045527655,
-      150.2153262841943
+      150,
+      155.64709928842842,
+      149.98529091998677
     ],
-    "tendency": 0.21532628419430466
+    "tendency": -0.014709080013233233
+  },
+  {
+    "NAF Nr": "41308",
+    "NAF Name": "balotelliot",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 133.0294372515229,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229,
+      138.68629150101526,
+      144.34314575050763,
+      150
+    ],
+    "tendency": 5.656854249492369
   },
   {
     "NAF Nr": "41664",
@@ -1818,15 +3288,39 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 145.99214791191247,
+    "rating": 145.99293808096203,
     "bestRating": 154,
-    "worstRating": 145.99214791191247,
+    "worstRating": 145.99293808096203,
     "_lastTenRatings": [
       154,
-      149.99159227041304,
-      145.99214791191247
+      149.991607671129,
+      145.99293808096203
     ],
-    "tendency": -8.007852088087532
+    "tendency": -8.007061919037966
+  },
+  {
+    "NAF Nr": "42057",
+    "NAF Name": "mjpalm10",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 147.172905004917,
+    "bestRating": 152.82842712474618,
+    "worstRating": 147.172905004917,
+    "_lastTenRatings": [
+      152.82842712474618,
+      149.93860737491917,
+      147.172905004917
+    ],
+    "tendency": -5.655522119829186
   },
   {
     "NAF Nr": "42197",
@@ -1851,15 +3345,15 @@ const lizardmen2025 = [
       "bestpainted": 1,
       "otherawards": 0
     },
-    "rating": 154.36950264991933,
+    "rating": 154.3376454834656,
     "bestRating": 158.73042943455638,
-    "worstRating": 154.35889894354068,
+    "worstRating": 154.3376454834656,
     "_lastTenRatings": [
       154.35889894354068,
       158.73042943455638,
-      154.36950264991933
+      154.3376454834656
     ],
-    "tendency": 0.010603706378645938
+    "tendency": -0.021253460075087105
   },
   {
     "NAF Nr": "42261",
@@ -1947,18 +3441,18 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 138.9206492460784,
+    "rating": 138.92064924333275,
     "bestRating": 150,
-    "worstRating": 138.67563436416575,
+    "worstRating": 138.67563436272914,
     "_lastTenRatings": [
       144.34314575050763,
       150,
       144.34314575050763,
       138.68629150101526,
-      138.67563436416575,
-      138.9206492460784
+      138.67563436272914,
+      138.92064924333275
     ],
-    "tendency": -5.422496504429233
+    "tendency": -5.422496507174884
   },
   {
     "NAF Nr": "42496",
@@ -2000,16 +3494,16 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 62.5,
-    "rating": 155.6670495101746,
+    "rating": 155.66616675945323,
     "bestRating": 161.31370849898474,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
       155.65685424949237,
       161.31370849898474,
-      161.31370849898474,
-      155.6670495101746
+      161.3127856815424,
+      155.66616675945323
     ],
-    "tendency": 0.010195260682223761
+    "tendency": 0.00931250996086419
   },
   {
     "NAF Nr": "42674",
@@ -2025,15 +3519,41 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 146.25525756858494,
+    "rating": 146.25245004856697,
     "bestRating": 146.25834261322606,
-    "worstRating": 146.25525756858494,
+    "worstRating": 146.25245004856697,
     "_lastTenRatings": [
       146.25834261322606,
       146.25834261322606,
-      146.25525756858494
+      146.25245004856697
     ],
-    "tendency": -0.003085044641125023
+    "tendency": -0.005892564659092159
+  },
+  {
+    "NAF Nr": "42727",
+    "NAF Name": "Bows3r",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 30,
+    "rating": 142.73153410691134,
+    "bestRating": 146.36576705345567,
+    "worstRating": 142.51668522645213,
+    "_lastTenRatings": [
+      146.25834261322606,
+      142.51668522645213,
+      142.62410966668173,
+      146.36576705345567,
+      142.73153410691134
+    ],
+    "tendency": -3.5268085063147225
   },
   {
     "NAF Nr": "42757",
@@ -2085,6 +3605,33 @@ const lizardmen2025 = [
     "tendency": -7.483314773547875
   },
   {
+    "NAF Nr": "43004",
+    "NAF Name": "underhive_uproar2",
+    "CCAA": "Apatrida",
+    "Country": "Netherlands",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 132.81333294833448,
+    "bestRating": 144.34314575050763,
+    "worstRating": 132.81333294833448,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      138.68629150101526,
+      133.03920820925046,
+      138.45018416505727,
+      132.81333294833448
+    ],
+    "tendency": -11.529812802173154
+  },
+  {
     "NAF Nr": "43041",
     "NAF Name": "Dunkelfels",
     "CCAA": "Apatrida",
@@ -2098,15 +3645,15 @@ const lizardmen2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 0,
-    "rating": 140.51977914994603,
+    "rating": 140.51984272255376,
     "bestRating": 146.83772233983163,
-    "worstRating": 140.51977914994603,
+    "worstRating": 140.51984272255376,
     "_lastTenRatings": [
       146.83772233983163,
       143.68222159976142,
-      140.51977914994603
+      140.51984272255376
     ],
-    "tendency": -6.317943189885597
+    "tendency": -6.3178796172778675
   },
   {
     "NAF Nr": "43063",
@@ -2133,6 +3680,30 @@ const lizardmen2025 = [
     "tendency": -4.242640687119291
   },
   {
+    "NAF Nr": "43106",
+    "NAF Name": "leelee",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 147.1152274660127,
+    "bestRating": 147.17157287525382,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      147.17157287525382,
+      144.34314575050763,
+      147.1152274660127
+    ],
+    "tendency": -0.05634540924111775
+  },
+  {
     "NAF Nr": "43261",
     "NAF Name": "Sh4rd",
     "CCAA": "Apatrida",
@@ -2155,5 +3726,56 @@ const lizardmen2025 = [
       139.8019609728144
     ],
     "tendency": -5.099019513592793
+  },
+  {
+    "NAF Nr": "43272",
+    "NAF Name": "yixxie",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.5345812180998,
+    "bestRating": 154.47213595499957,
+    "worstRating": 145.5345812180998,
+    "_lastTenRatings": [
+      154.47213595499957,
+      150,
+      145.5345812180998
+    ],
+    "tendency": -8.937554736899784
+  },
+  {
+    "NAF Nr": "43397",
+    "NAF Name": "Bozu",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "15",
+    "raceName": "Lizardmen",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 127.53089935145006,
+    "bestRating": 144.34314575050763,
+    "worstRating": 121.88076640906435,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229,
+      127.03300176793176,
+      121.88076640906435,
+      127.53089935145006
+    ],
+    "tendency": -16.81224639905757
   }
 ];

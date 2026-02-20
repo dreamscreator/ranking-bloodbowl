@@ -1,5 +1,38 @@
 const khorne2025 = [
   {
+    "NAF Nr": "9",
+    "NAF Name": "Non-NAF",
+    "CCAA": "Apatrida",
+    "Country": "Cayman Islands",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 141.92347293090927,
+    "bestRating": 145.5192624452314,
+    "worstRating": 141.90623343480968,
+    "_lastTenRatings": [
+      145.5192624452314,
+      141.90623343480968,
+      141.92347293090927
+    ],
+    "tendency": -3.595789514322121
+  },
+  {
     "NAF Nr": "109",
     "NAF Name": "Khankill",
     "CCAA": "Apatrida",
@@ -89,6 +122,33 @@ const khorne2025 = [
     "tendency": -3.705304499465626
   },
   {
+    "NAF Nr": "14320",
+    "NAF Name": "saiharris",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.00000000000003,
+    "bestRating": 150.00000000000003,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      144.34314575050763,
+      150,
+      144.34312566053302,
+      150.00000000000003
+    ],
+    "tendency": 5.6568542494923975
+  },
+  {
     "NAF Nr": "16089",
     "NAF Name": "TheShepherd",
     "CCAA": "Apatrida",
@@ -113,6 +173,57 @@ const khorne2025 = [
       149.98980557430042
     ],
     "tendency": -0.010194425699580734
+  },
+  {
+    "NAF Nr": "17761",
+    "NAF Name": "Epicentre",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.234816917037,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150.234816917037,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      150.234816917037
+    ],
+    "tendency": -5.422037332455375
+  },
+  {
+    "NAF Nr": "18503",
+    "NAF Name": "douglowe",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 166.9701393448855,
+    "bestRating": 166.9701393448855,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.65685424949237,
+      161.31370849898474,
+      161.31370849898474,
+      166.9701393448855
+    ],
+    "tendency": 11.313285095393127
   },
   {
     "NAF Nr": "20030",
@@ -147,29 +258,89 @@ const khorne2025 = [
     "Country": "Italy",
     "raceId": "25",
     "raceName": "Khorne",
-    "gamesTotal": 12,
+    "gamesTotal": 18,
     "gamesWon": 5,
-    "gamesDraw": 5,
+    "gamesDraw": 8,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 4,
+    "winRatio": 50,
+    "rating": 151.77563908460044,
+    "bestRating": 161.13333448340296,
+    "worstRating": 143.0395293640816,
+    "_lastTenRatings": [
+      154.45897610953594,
+      148.39164513647094,
+      143.0395293640816,
+      144.30342798431653,
+      144.55060403790884,
+      150.63195767190626,
+      156.53230600931806,
+      156.77804795283936,
+      151.36419936849646,
+      151.77563908460044
+    ],
+    "tendency": -2.683337024935497
+  },
+  {
+    "NAF Nr": "20834",
+    "NAF Name": "nurglinos",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 134.9423282387194,
+    "bestRating": 150.4599752036673,
+    "worstRating": 134.50806661517032,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.50806661517032,
+      142.25403330758516,
+      150.4599752036673,
+      142.6866619530023,
+      134.9423282387194
+    ],
+    "tendency": -7.311705068865763
+  },
+  {
+    "NAF Nr": "21622",
+    "NAF Name": "skullbucket",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
     "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 3,
-    "winRatio": 62.5,
-    "rating": 164.67016443271217,
-    "bestRating": 171.26506293101986,
-    "worstRating": 144.49370752002298,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.52786404500043,
+    "bestRating": 154.47213595499957,
+    "worstRating": 145.52786404500043,
     "_lastTenRatings": [
-      149.79393356303916,
-      149.8028805400803,
-      155.4682933080447,
-      161.13333448340296,
-      160.6511209323989,
-      166.04861136738145,
-      171.26506293101986,
-      170.87025578929027,
-      164.8448806960635,
-      164.67016443271217
+      154.47213595499957,
+      150,
+      145.52786404500043
     ],
-    "tendency": 14.876230869673009
+    "tendency": -8.944271909999145
   },
   {
     "NAF Nr": "24279",
@@ -195,6 +366,33 @@ const khorne2025 = [
       150.00035429012496
     ],
     "tendency": 0.0003542901249602437
+  },
+  {
+    "NAF Nr": "25123",
+    "NAF Name": "orso71",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 133.92505685898337,
+    "bestRating": 150.72410481054447,
+    "worstRating": 133.29133609343623,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150.72410481054447,
+      145.0082596637299,
+      139.3325198540165,
+      133.29133609343623,
+      133.92505685898337
+    ],
+    "tendency": -10.418088891524263
   },
   {
     "NAF Nr": "25506",
@@ -297,28 +495,170 @@ const khorne2025 = [
     "tendency": 11.313708498984738
   },
   {
+    "NAF Nr": "26909",
+    "NAF Name": "armydan",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.8911392164649,
+    "bestRating": 150.01434518280854,
+    "worstRating": 145.8911392164649,
+    "_lastTenRatings": [
+      146,
+      150.01434518280854,
+      145.8911392164649
+    ],
+    "tendency": -0.10886078353510698
+  },
+  {
+    "NAF Nr": "27340",
+    "NAF Name": "Misiek",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 6,
+    "gamesWon": 5,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 172.65778676380907,
+    "bestRating": 172.65778676380907,
+    "worstRating": 155.47722557505165,
+    "_lastTenRatings": [
+      155.47722557505165,
+      160.9544511501033,
+      166.44092130291622,
+      161.5796435861761,
+      167.21439953413696,
+      172.65778676380907
+    ],
+    "tendency": 17.180561188757423
+  },
+  {
+    "NAF Nr": "27368",
+    "NAF Name": "justchris01",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.99957659646807,
+    "bestRating": 155.65685424949237,
+    "worstRating": 149.99957659646807,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      155.65685424949237,
+      150,
+      155.65685424949237,
+      149.99957659646807
+    ],
+    "tendency": -5.657277653024295
+  },
+  {
+    "NAF Nr": "28259",
+    "NAF Name": "muppetillo",
+    "CCAA": "Aragón",
+    "Country": "Spain",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 144.39047649419646,
+    "bestRating": 150.05760185651795,
+    "worstRating": 144.39047649419646,
+    "_lastTenRatings": [
+      144.40336207694588,
+      150.05760185651795,
+      150.04947902182002,
+      144.39047649419646
+    ],
+    "tendency": -0.0128855827494192
+  },
+  {
     "NAF Nr": "28292",
     "NAF Name": "Sjenky",
     "CCAA": "Apatrida",
     "Country": "Netherlands",
     "raceId": "25",
     "raceName": "Khorne",
+    "gamesTotal": 9,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 44.44,
+    "rating": 145.39608257389764,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.34358920449978,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      150.0004635817672,
+      144.34358920449978,
+      150.00042420012406,
+      144.35251271099258,
+      144.71970037140696,
+      148.9961301206167,
+      145.39608257389764
+    ],
+    "tendency": -10.260771675594725
+  },
+  {
+    "NAF Nr": "28890",
+    "NAF Name": "Splatteo",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "25",
+    "raceName": "Khorne",
     "gamesTotal": 3,
     "gamesWon": 1,
-    "gamesDraw": 1,
-    "gamesLost": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
     "totalWinRatio": 0,
     "totalTournaments": 1,
-    "winRatio": 50,
-    "rating": 150.0109506962081,
-    "bestRating": 154.28263752211254,
-    "worstRating": 150.0109506962081,
+    "winRatio": 66.67,
+    "rating": 155.64665982222184,
+    "bestRating": 155.65685424949237,
+    "worstRating": 155.64665982222184,
     "_lastTenRatings": [
-      150.1840911440501,
-      154.28263752211254,
-      150.0109506962081
+      155.65685424949237,
+      155.65685424949237,
+      155.64665982222184
     ],
-    "tendency": -0.17314044784197336
+    "tendency": -0.010194427270533879
   },
   {
     "NAF Nr": "29116",
@@ -343,6 +683,84 @@ const khorne2025 = [
       155.07671276428133
     ],
     "tendency": -0.21478985784784754
+  },
+  {
+    "NAF Nr": "29560",
+    "NAF Name": "Eiravel",
+    "CCAA": "Apatrida",
+    "Country": "Greece",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 153.46410161513776,
+    "bestRating": 156.92820323027553,
+    "worstRating": 153.46410161513776,
+    "_lastTenRatings": [
+      153.46410161513776,
+      156.92820323027553,
+      153.46410161513776
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "29571",
+    "NAF Name": "freddo",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 140.921965484898,
+    "bestRating": 150,
+    "worstRating": 133.60984889716494,
+    "_lastTenRatings": [
+      142.25403330758516,
+      142.25403330758516,
+      150,
+      141.76091957612698,
+      133.60984889716494,
+      140.921965484898
+    ],
+    "tendency": -1.3320678226871507
+  },
+  {
+    "NAF Nr": "29658",
+    "NAF Name": "lechatventru",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.74665860569317,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.34314575050763,
+      144.77244882726814,
+      150.41066368001918,
+      144.74665860569317
+    ],
+    "tendency": -10.910195643799199
   },
   {
     "NAF Nr": "29706",
@@ -381,17 +799,17 @@ const khorne2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 30,
-    "rating": 141.34209268605693,
-    "bestRating": 145.829493864185,
-    "worstRating": 141.34209268605693,
+    "rating": 141.80394212774613,
+    "bestRating": 146.32475919499208,
+    "worstRating": 141.80394212774613,
     "_lastTenRatings": [
-      145.52786404500043,
-      145.68130945949198,
-      145.829493864185,
-      141.3522714947358,
-      141.34209268605693
+      146.05892546635118,
+      146.19416125856904,
+      146.32475919499208,
+      141.83053706404266,
+      141.80394212774613
     ],
-    "tendency": -4.185771358943498
+    "tendency": -4.254983338605058
   },
   {
     "NAF Nr": "30358",
@@ -418,6 +836,76 @@ const khorne2025 = [
     "tendency": -11.559163357718205
   },
   {
+    "NAF Nr": "30495",
+    "NAF Name": "winterb0rn",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 134.12549213361248,
+    "bestRating": 144.70849737787083,
+    "worstRating": 134.12549213361248,
+    "_lastTenRatings": [
+      144.70849737787083,
+      139.41699475574165,
+      134.12549213361248
+    ],
+    "tendency": -10.583005244258345
+  },
+  {
+    "NAF Nr": "30546",
+    "NAF Name": "HurriKane",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.83117411456897,
+    "bestRating": 149.83117411456897,
+    "worstRating": 149.83117411456897,
+    "_lastTenRatings": [
+      149.83117411456897
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "30646",
+    "NAF Name": "fluffy_kraken",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      150
+    ],
+    "tendency": 5.656854249492369
+  },
+  {
     "NAF Nr": "31645",
     "NAF Name": "willwalsh",
     "CCAA": "Apatrida",
@@ -431,18 +919,18 @@ const khorne2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 161.55825886194935,
-    "bestRating": 161.55825886194935,
+    "rating": 161.5582581936351,
+    "bestRating": 161.5582581936351,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
       155.65685424949237,
       161.31370849898474,
       155.65685424949237,
       155.90230910822584,
-      155.89118926193993,
-      161.55825886194935
+      155.8911885632919,
+      161.5582581936351
     ],
-    "tendency": 5.901404612456986
+    "tendency": 5.901403944142743
   },
   {
     "NAF Nr": "31954",
@@ -472,19 +960,46 @@ const khorne2025 = [
     "tendency": 0.45860092041783673
   },
   {
+    "NAF Nr": "32104",
+    "NAF Name": "Cegorach",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 142.7244308434429,
+    "bestRating": 150.0006966538075,
+    "worstRating": 134.50806661517032,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.50806661517032,
+      142.25403330758516,
+      150.0006966538075,
+      142.25478520269704,
+      142.7244308434429
+    ],
+    "tendency": 0.47039753585772814
+  },
+  {
     "NAF Nr": "32925",
     "NAF Name": "Wednesday",
     "CCAA": "Apatrida",
     "Country": "England",
     "raceId": "25",
     "raceName": "Khorne",
-    "gamesTotal": 3,
-    "gamesWon": 0,
+    "gamesTotal": 6,
+    "gamesWon": 1,
     "gamesDraw": 1,
-    "gamesLost": 2,
+    "gamesLost": 4,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 16.67,
+    "totalTournaments": 2,
+    "winRatio": 25,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
@@ -494,15 +1009,18 @@ const khorne2025 = [
       "bestpainted": 1,
       "otherawards": 0
     },
-    "rating": 138.68629150101526,
+    "rating": 134.27503034311437,
     "bestRating": 144.34314575050763,
-    "worstRating": 138.68629150101526,
+    "worstRating": 134.27503034311437,
     "_lastTenRatings": [
       144.34314575050763,
       138.68629150101526,
-      138.68629150101526
+      138.68629150101526,
+      144.34314575050763,
+      139.23304142607435,
+      134.27503034311437
     ],
-    "tendency": -5.656854249492369
+    "tendency": -10.068115407393265
   },
   {
     "NAF Nr": "33007",
@@ -623,6 +1141,33 @@ const khorne2025 = [
     "tendency": 16.281426365576692
   },
   {
+    "NAF Nr": "34452",
+    "NAF Name": "n3ro",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.47631443961762,
+    "bestRating": 166.697994617645,
+    "worstRating": 149.47631443961762,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.28490424444462,
+      166.697994617645,
+      161.09839557309053,
+      154.83008418265376,
+      149.47631443961762
+    ],
+    "tendency": -6.180539809874745
+  },
+  {
     "NAF Nr": "34709",
     "NAF Name": "Helltrain696",
     "CCAA": "Apatrida",
@@ -669,18 +1214,45 @@ const khorne2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 138.73606183006584,
-    "bestRating": 150.02257226707715,
-    "worstRating": 138.72711735909232,
+    "rating": 138.74595041606406,
+    "bestRating": 150,
+    "worstRating": 138.73793704168997,
     "_lastTenRatings": [
       150,
-      144.36319190709017,
-      150.02257226707715,
-      144.37377758888766,
-      138.72711735909232,
-      138.73606183006584
+      144.3279950022118,
+      149.9889035395121,
+      144.356533994382,
+      138.73793704168997,
+      138.74595041606406
     ],
-    "tendency": -11.263938169934164
+    "tendency": -11.254049583935938
+  },
+  {
+    "NAF Nr": "35489",
+    "NAF Name": "Eloso",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.11779963841093,
+    "bestRating": 150,
+    "worstRating": 144.10788531904473,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      144.34314575050763,
+      149.75454514126656,
+      144.10788531904473,
+      144.11779963841093
+    ],
+    "tendency": -5.882200361589071
   },
   {
     "NAF Nr": "35526",
@@ -696,18 +1268,90 @@ const khorne2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 16.67,
-    "rating": 119.06461249304974,
+    "rating": 119.06664607149172,
     "bestRating": 150,
-    "worstRating": 119.06461249304974,
+    "worstRating": 119.06664607149172,
     "_lastTenRatings": [
       150,
       150,
       142.28137986583533,
       134.53378735242364,
       126.78629149811688,
-      119.06461249304974
+      119.06664607149172
     ],
-    "tendency": -30.935387506950264
+    "tendency": -30.933353928508282
+  },
+  {
+    "NAF Nr": "36235",
+    "NAF Name": "Trojines",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 144.70849737787083,
+    "_lastTenRatings": [
+      144.70849737787083,
+      150,
+      150
+    ],
+    "tendency": 5.2915026221291726
+  },
+  {
+    "NAF Nr": "36351",
+    "NAF Name": "Furynorsca86",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.4408366422818,
+    "bestRating": 150,
+    "worstRating": 138.4408366422818,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      138.4408366422818
+    ],
+    "tendency": -11.559163357718205
+  },
+  {
+    "NAF Nr": "36412",
+    "NAF Name": "astorhaz",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 146.25834261322606,
+    "_lastTenRatings": [
+      146.25834261322606,
+      150,
+      150
+    ],
+    "tendency": 3.7416573867739373
   },
   {
     "NAF Nr": "36460",
@@ -723,15 +1367,39 @@ const khorne2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 0,
-    "rating": 139.28309939760967,
-    "bestRating": 146.394448724536,
-    "worstRating": 139.28309939760967,
+    "rating": 139.42460032570997,
+    "bestRating": 146.54411572979768,
+    "worstRating": 139.42460032570997,
     "_lastTenRatings": [
-      146.394448724536,
-      142.788897449072,
-      139.28309939760967
+      146.54411572979768,
+      142.93442262701885,
+      139.42460032570997
     ],
-    "tendency": -7.11134932692633
+    "tendency": -7.119515404087707
+  },
+  {
+    "NAF Nr": "36672",
+    "NAF Name": "trolle",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.94370881724254,
+    "bestRating": 152.7081331405499,
+    "worstRating": 149.94370881724254,
+    "_lastTenRatings": [
+      150,
+      152.7081331405499,
+      149.94370881724254
+    ],
+    "tendency": -0.056291182757462366
   },
   {
     "NAF Nr": "37177",
@@ -814,24 +1482,29 @@ const khorne2025 = [
     "Country": "Hungary",
     "raceId": "25",
     "raceName": "Khorne",
-    "gamesTotal": 5,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 2,
+    "gamesTotal": 10,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 4,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 50,
-    "rating": 148.93094072616705,
-    "bestRating": 155.16686705675508,
-    "worstRating": 144.34314575050763,
+    "totalTournaments": 2,
+    "winRatio": 45,
+    "rating": 145.00813616318163,
+    "bestRating": 154.0174032581098,
+    "worstRating": 139.65857148647817,
     "_lastTenRatings": [
-      144.34314575050763,
       150,
-      155.16686705675508,
-      154.72927124285556,
-      148.93094072616705
+      149.84655458550844,
+      154.0174032581098,
+      149.5610566865227,
+      145.10290387893977,
+      139.65857148647817,
+      145.51873279437925,
+      150.87920801097022,
+      150.62636419612434,
+      145.00813616318163
     ],
-    "tendency": 4.5877949756594205
+    "tendency": -4.991863836818368
   },
   {
     "NAF Nr": "38819",
@@ -916,6 +1589,30 @@ const khorne2025 = [
     "tendency": -4.35889894354068
   },
   {
+    "NAF Nr": "39560",
+    "NAF Name": "therockdoctor",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 140.38616107242132,
+    "bestRating": 145.10102051443366,
+    "worstRating": 140.38616107242132,
+    "_lastTenRatings": [
+      145.10102051443366,
+      145.10102051443366,
+      140.38616107242132
+    ],
+    "tendency": -4.71485944201234
+  },
+  {
     "NAF Nr": "39671",
     "NAF Name": "Sywern",
     "CCAA": "Apatrida",
@@ -940,6 +1637,39 @@ const khorne2025 = [
     "tendency": 0.13361368579859345
   },
   {
+    "NAF Nr": "40192",
+    "NAF Name": "dullellahan",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 152.97615092238783,
+    "bestRating": 152.97615092238783,
+    "worstRating": 149.1323467787939,
+    "_lastTenRatings": [
+      152.84835032364347,
+      149.1323467787939,
+      152.97615092238783
+    ],
+    "tendency": 0.12780059874435779
+  },
+  {
     "NAF Nr": "40760",
     "NAF Name": "roll_mops",
     "CCAA": "Apatrida",
@@ -962,6 +1692,32 @@ const khorne2025 = [
       150
     ],
     "tendency": 5.2915026221291726
+  },
+  {
+    "NAF Nr": "40827",
+    "NAF Name": "Miam",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.81995219266403,
+    "bestRating": 155.90230910822584,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      155.65685424949237,
+      155.90230910822584,
+      150.81995219266403
+    ],
+    "tendency": 6.476806442156402
   },
   {
     "NAF Nr": "40964",
@@ -1108,16 +1864,43 @@ const khorne2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 144.81307800048575,
-    "bestRating": 144.81307800048575,
+    "rating": 144.81307800260967,
+    "bestRating": 144.81307800260967,
     "worstRating": 138.9317463597487,
     "_lastTenRatings": [
       144.34314575050763,
       144.34314575050763,
       138.9317463597487,
-      144.81307800048575
+      144.81307800260967
     ],
-    "tendency": 0.46993224997811467
+    "tendency": 0.4699322521020406
+  },
+  {
+    "NAF Nr": "43084",
+    "NAF Name": "windhover",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 157.09035349559332,
+    "bestRating": 157.09035349559332,
+    "worstRating": 135.85031964064837,
+    "_lastTenRatings": [
+      150,
+      143.19853084163495,
+      135.85031964064837,
+      144.00397266125194,
+      151.18642691397983,
+      157.09035349559332
+    ],
+    "tendency": 7.09035349559332
   },
   {
     "NAF Nr": "43310",
@@ -1153,5 +1936,29 @@ const khorne2025 = [
       144.304026755267
     ],
     "tendency": -0.4044706226038386
+  },
+  {
+    "NAF Nr": "43340",
+    "NAF Name": "MihalSanych",
+    "CCAA": "Apatrida",
+    "Country": "Georgia",
+    "raceId": "25",
+    "raceName": "Khorne",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.61483519286548,
+    "bestRating": 155.38516480713452,
+    "worstRating": 144.61483519286548,
+    "_lastTenRatings": [
+      155.38516480713452,
+      150,
+      144.61483519286548
+    ],
+    "tendency": -10.77032961426903
   }
 ];

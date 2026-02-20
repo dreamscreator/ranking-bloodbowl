@@ -358,6 +358,28 @@ const statsYear2021Bbt = [
     ]
   },
   {
+    "NAF Nr": "27067",
+    "NAF Name": "C.Hamming",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
+    "rating": 149.97766284620138,
+    "bestRating": 160.61328602859817,
+    "worstRating": 149.97766284620138,
+    "tendency": -4.9469780571678825,
+    "tournaments": 1,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "gamesTotal": 4,
+    "winRatio": 50,
+    "_lastTenRatingsYear": [
+      154.92464090336927,
+      160.61328602859817,
+      154.9676066818977,
+      149.97766284620138
+    ]
+  },
+  {
     "NAF Nr": "29740",
     "NAF Name": "Calamar",
     "CCAA": "Apatrida",
@@ -1001,28 +1023,6 @@ const statsYear2021Bbt = [
       150.02764372634329,
       144.42034066630868,
       150.066848501705
-    ]
-  },
-  {
-    "NAF Nr": "27067",
-    "NAF Name": "JoseGomezPedriza",
-    "CCAA": "I. Baleares",
-    "Country": "Spain",
-    "rating": 149.97766284620138,
-    "bestRating": 160.61328602859817,
-    "worstRating": 149.97766284620138,
-    "tendency": -4.9469780571678825,
-    "tournaments": 1,
-    "gamesWon": 2,
-    "gamesDraw": 0,
-    "gamesLost": 2,
-    "gamesTotal": 4,
-    "winRatio": 50,
-    "_lastTenRatingsYear": [
-      154.92464090336927,
-      160.61328602859817,
-      154.9676066818977,
-      149.97766284620138
     ]
   },
   {

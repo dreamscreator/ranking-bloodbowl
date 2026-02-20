@@ -1,5 +1,41 @@
 const snotling2025 = [
   {
+    "NAF Nr": "9",
+    "NAF Name": "Non-NAF",
+    "CCAA": "Apatrida",
+    "Country": "Cayman Islands",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 40,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 144.26069186695108,
+    "bestRating": 149.64182564843324,
+    "worstRating": 143.12977744219512,
+    "_lastTenRatings": [
+      146.59546275239066,
+      143.12977744219512,
+      149.08464658226617,
+      149.36975665290805,
+      149.64182564843324,
+      144.26069186695108
+    ],
+    "tendency": -2.334770885439582
+  },
+  {
     "NAF Nr": "83",
     "NAF Name": "Firebreather",
     "CCAA": "Apatrida",
@@ -66,6 +102,35 @@ const snotling2025 = [
     "tendency": -5.422056527608447
   },
   {
+    "NAF Nr": "372",
+    "NAF Name": "Maitre_tactac",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 8,
+    "gamesWon": 5,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 81.25,
+    "rating": 173.35820212378107,
+    "bestRating": 174.58249279623737,
+    "worstRating": 154.47213595499957,
+    "_lastTenRatings": [
+      154.47213595499957,
+      158.94427190999915,
+      158.94427190999915,
+      158.55653877339347,
+      163.59871298896724,
+      168.92722435265955,
+      174.58249279623737,
+      173.35820212378107
+    ],
+    "tendency": 18.886066168781497
+  },
+  {
     "NAF Nr": "1123",
     "NAF Name": "Shaniepoo1",
     "CCAA": "Apatrida",
@@ -112,15 +177,15 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.03187830210874,
-    "bestRating": 150.03187830210874,
-    "worstRating": 145.52786404500043,
+    "rating": 149.8429378385499,
+    "bestRating": 149.8429378385499,
+    "worstRating": 145.32526699187915,
     "_lastTenRatings": [
-      145.52786404500043,
-      145.68130945949198,
-      150.03187830210874
+      145.32526699187915,
+      145.48565796929137,
+      149.8429378385499
     ],
-    "tendency": 4.5040142571083095
+    "tendency": 4.51767084667074
   },
   {
     "NAF Nr": "2444",
@@ -147,41 +212,71 @@ const snotling2025 = [
     "tendency": -8.405242125860411
   },
   {
+    "NAF Nr": "4024",
+    "NAF Name": "Ynik",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 125.96269965629548,
+    "bestRating": 142.71317195961706,
+    "worstRating": 125.96269965629548,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.50806661517032,
+      142.71317195961706,
+      134.44611296770424,
+      126.80476770552792,
+      125.96269965629548
+    ],
+    "tendency": -16.291333651289676
+  },
+  {
     "NAF Nr": "4310",
     "NAF Name": "Sturmjarl",
     "CCAA": "Apatrida",
     "Country": "United States Of America",
     "raceId": "29",
     "raceName": "Snotling",
-    "gamesTotal": 7,
-    "gamesWon": 1,
+    "gamesTotal": 10,
+    "gamesWon": 3,
     "gamesDraw": 2,
-    "gamesLost": 4,
+    "gamesLost": 5,
     "totalWinRatio": 0,
-    "totalTournaments": 2,
-    "winRatio": 28.57,
+    "totalTournaments": 3,
+    "winRatio": 40,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
-      "touchdowns": 0,
+      "touchdowns": 1,
       "casualties": 0,
-      "stuntycup": 0,
+      "stuntycup": 1,
       "bestpainted": 1,
       "otherawards": 0
     },
-    "rating": 138.84539616453372,
-    "bestRating": 150,
-    "worstRating": 138.84539616453372,
+    "rating": 141.29972370651373,
+    "bestRating": 153.31203022285902,
+    "worstRating": 141.29972370651373,
     "_lastTenRatings": [
-      150,
-      145.52786404500043,
-      145.52786404500043,
-      141.9521519004059,
-      145.5396574487248,
-      142.19410094616447,
-      138.84539616453372
+      146.83772233983163,
+      150.0767377682905,
+      153.31203022285902,
+      153.19836955914062,
+      148.6164718980992,
+      148.50670340247487,
+      144.61285387688784,
+      148.12980620254723,
+      144.71542581500927,
+      141.29972370651373
     ],
-    "tendency": -11.154603835466276
+    "tendency": -5.537998633317898
   },
   {
     "NAF Nr": "10715",
@@ -241,6 +336,33 @@ const snotling2025 = [
       162.72792206135787
     ],
     "tendency": 8.485281374238582
+  },
+  {
+    "NAF Nr": "12457",
+    "NAF Name": "Pink_Charlie",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 166.9709763304681,
+    "bestRating": 166.9709763304681,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.65685424949237,
+      161.31370849898474,
+      155.65685424949237,
+      161.31370849898474,
+      166.9709763304681
+    ],
+    "tendency": 16.97097633046809
   },
   {
     "NAF Nr": "12552",
@@ -318,19 +440,88 @@ const snotling2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 130.0607990506113,
-    "bestRating": 144.34314592188852,
-    "worstRating": 130.0607990506113,
+    "rating": 130.13070985834037,
+    "bestRating": 144.34314771780043,
+    "worstRating": 130.13070985834037,
     "_lastTenRatings": [
       144.34314575050763,
-      144.34314592188852,
-      138.68629166495512,
-      138.98634631130528,
-      135.81425136825771,
-      132.63741651501022,
-      130.0607990506113
+      144.34314771780043,
+      138.68629338289222,
+      138.98634798390862,
+      135.81425299903756,
+      132.63741850252921,
+      130.13070985834037
     ],
-    "tendency": -14.282346699896323
+    "tendency": -14.212435892167264
+  },
+  {
+    "NAF Nr": "14078",
+    "NAF Name": "dontcallmeflossy",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 155.22318098696223,
+    "bestRating": 164.38749456993818,
+    "worstRating": 154.79583152331273,
+    "_lastTenRatings": [
+      154.79583152331273,
+      159.59166304662546,
+      164.38749456993818,
+      164.21729056058192,
+      160.02487395099828,
+      155.22318098696223
+    ],
+    "tendency": 0.4273494636495059
+  },
+  {
+    "NAF Nr": "16176",
+    "NAF Name": "Nazgob",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 165.8488717917116,
+    "bestRating": 165.8488717917116,
+    "worstRating": 155.29150262212917,
+    "_lastTenRatings": [
+      155.29150262212917,
+      160.58300524425835,
+      165.8488717917116
+    ],
+    "tendency": 10.557369169582415
   },
   {
     "NAF Nr": "16366",
@@ -355,6 +546,66 @@ const snotling2025 = [
       144.9507089377224
     ],
     "tendency": 0.24221155985156884
+  },
+  {
+    "NAF Nr": "16619",
+    "NAF Name": "peterd",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 154.52163242886954,
+    "bestRating": 154.52163242886954,
+    "worstRating": 145.30958424017658,
+    "_lastTenRatings": [
+      150,
+      145.30958424017658,
+      150,
+      154.52163242886954
+    ],
+    "tendency": 4.5216324288695375
+  },
+  {
+    "NAF Nr": "16829",
+    "NAF Name": "Zulu",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.68937362765118,
+    "bestRating": 149.68937362765118,
+    "worstRating": 140.83484861008833,
+    "_lastTenRatings": [
+      145.41742430504416,
+      140.83484861008833,
+      145.41742430504416,
+      145.256309781828,
+      149.68937362765118
+    ],
+    "tendency": 4.271949322607014
   },
   {
     "NAF Nr": "17063",
@@ -416,6 +667,33 @@ const snotling2025 = [
     "tendency": 6.105216820746563
   },
   {
+    "NAF Nr": "19133",
+    "NAF Name": "xarro",
+    "CCAA": "C. La Mancha",
+    "Country": "Spain",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 142.2797930216127,
+    "bestRating": 150,
+    "worstRating": 142.25403330758516,
+    "_lastTenRatings": [
+      142.25403330758516,
+      150,
+      142.25403330758516,
+      150,
+      150,
+      142.2797930216127
+    ],
+    "tendency": 0.025759714027543623
+  },
+  {
     "NAF Nr": "21487",
     "NAF Name": "biereforever",
     "CCAA": "Apatrida",
@@ -429,17 +707,17 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.0064122597902,
-    "bestRating": 150.0064122597902,
+    "rating": 150.0067030844757,
+    "bestRating": 150.0067030844757,
     "worstRating": 140.2089641325323,
     "_lastTenRatings": [
       150,
       145.10102051443366,
       140.2089641325323,
       145.10768330208256,
-      150.0064122597902
+      150.0067030844757
     ],
-    "tendency": 0.006412259790209873
+    "tendency": 0.006703084475702781
   },
   {
     "NAF Nr": "21488",
@@ -481,8 +759,8 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 58.33,
-    "rating": 155.70775233455186,
-    "bestRating": 155.70775233455186,
+    "rating": 155.70775230420836,
+    "bestRating": 155.70775230420836,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       155.65685424949237,
@@ -490,9 +768,66 @@ const snotling2025 = [
       144.34314575050763,
       150.01065713684952,
       150.03146857657705,
-      155.70775233455186
+      155.70775230420836
     ],
-    "tendency": 0.050898085059486675
+    "tendency": 0.05089805471598652
+  },
+  {
+    "NAF Nr": "21652",
+    "NAF Name": "yoxcoco",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.57794347239158,
+    "bestRating": 150.24545485873347,
+    "worstRating": 144.57794347239158,
+    "_lastTenRatings": [
+      150.24545485873347,
+      144.5886006092411,
+      144.57794347239158
+    ],
+    "tendency": -5.667511386341886
+  },
+  {
+    "NAF Nr": "22110",
+    "NAF Name": "stoddieboy",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 154.71485944201234,
+    "bestRating": 154.71485944201234,
+    "worstRating": 145.10102051443366,
+    "_lastTenRatings": [
+      145.10102051443366,
+      150,
+      154.71485944201234
+    ],
+    "tendency": 9.613838927578684
   },
   {
     "NAF Nr": "22559",
@@ -508,20 +843,20 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 37.5,
-    "rating": 141.11799229378198,
-    "bestRating": 145.4334458339918,
-    "worstRating": 140.1968390800308,
+    "rating": 140.6338579798447,
+    "bestRating": 145.10102051443366,
+    "worstRating": 139.638288000506,
     "_lastTenRatings": [
       145.10102051443366,
       145.10102051443366,
-      145.0944567230342,
-      140.1968390800308,
-      145.1031982884009,
-      145.27120147728095,
-      145.4334458339918,
-      141.11799229378198
+      144.5149667234958,
+      139.638288000506,
+      144.56566570893006,
+      144.7520906578718,
+      144.9321273298364,
+      140.6338579798447
     ],
-    "tendency": -3.9830282206516756
+    "tendency": -4.467162534588965
   },
   {
     "NAF Nr": "23299",
@@ -584,6 +919,30 @@ const snotling2025 = [
     "tendency": 5.371237667254661
   },
   {
+    "NAF Nr": "24050",
+    "NAF Name": "SaltySeaWench",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.47738323677447,
+    "bestRating": 150,
+    "worstRating": 138.47738323677447,
+    "_lastTenRatings": [
+      150,
+      143.63475195487692,
+      138.47738323677447
+    ],
+    "tendency": -11.522616763225528
+  },
+  {
     "NAF Nr": "24247",
     "NAF Name": "Wotan",
     "CCAA": "Apatrida",
@@ -632,15 +991,49 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 143.86171957855626,
-    "bestRating": 144.34314575050763,
-    "worstRating": 138.68629150101526,
+    "rating": 143.1177141334465,
+    "bestRating": 143.53033317277087,
+    "worstRating": 137.90876913016547,
     "_lastTenRatings": [
-      144.34314575050763,
-      138.68629150101526,
-      143.86171957855626
+      143.53033317277087,
+      137.90876913016547,
+      143.1177141334465
     ],
-    "tendency": -0.4814261719513695
+    "tendency": -0.41261903932436894
+  },
+  {
+    "NAF Nr": "24737",
+    "NAF Name": "Mourety",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 161.7182848821933,
+    "bestRating": 161.7182848821933,
+    "worstRating": 155.6512325059688,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      155.6512325059688,
+      161.7182848821933
+    ],
+    "tendency": 6.061430632700933
   },
   {
     "NAF Nr": "24799",
@@ -656,15 +1049,88 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 147.2316333434217,
+    "rating": 147.2317040580202,
     "bestRating": 152.82842712474618,
-    "worstRating": 147.2316333434217,
+    "worstRating": 147.2317040580202,
     "_lastTenRatings": [
       152.82842712474618,
       150,
-      147.2316333434217
+      147.2317040580202
     ],
-    "tendency": -5.596793781324493
+    "tendency": -5.5967230667259855
+  },
+  {
+    "NAF Nr": "24826",
+    "NAF Name": "Alex7419",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 154.5216324288695,
+    "bestRating": 154.69041575982342,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      150,
+      154.69041575982342,
+      154.5216324288695
+    ],
+    "tendency": 4.521632428869509
+  },
+  {
+    "NAF Nr": "24875",
+    "NAF Name": "pauladin",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.81371642794747,
+    "bestRating": 154.43813197759056,
+    "worstRating": 149.81371642794747,
+    "_lastTenRatings": [
+      150,
+      154.43813197759056,
+      149.81371642794747
+    ],
+    "tendency": -0.1862835720525311
+  },
+  {
+    "NAF Nr": "24887",
+    "NAF Name": "brigonjin",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 146,
+    "bestRating": 146,
+    "worstRating": 142,
+    "_lastTenRatings": [
+      146,
+      142,
+      146
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "25204",
@@ -743,15 +1209,15 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 0,
-    "rating": 137.71569355989163,
+    "rating": 137.70995663661074,
     "bestRating": 145.7573593128807,
-    "worstRating": 137.71569355989163,
+    "worstRating": 137.70995663661074,
     "_lastTenRatings": [
       145.7573593128807,
-      141.8305008111852,
-      137.71569355989163
+      141.82457096717079,
+      137.70995663661074
     ],
-    "tendency": -8.041665752989076
+    "tendency": -8.047402676269968
   },
   {
     "NAF Nr": "26360",
@@ -825,16 +1291,16 @@ const snotling2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 149.88460316649298,
+    "rating": 149.95160049335777,
     "bestRating": 150,
     "worstRating": 146.53589838486224,
     "_lastTenRatings": [
       146.53589838486224,
       150,
       146.53589838486224,
-      149.88460316649298
+      149.95160049335777
     ],
-    "tendency": 3.348704781630744
+    "tendency": 3.4157021084955375
   },
   {
     "NAF Nr": "26802",
@@ -859,15 +1325,49 @@ const snotling2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 150.0226654451439,
-    "bestRating": 150.0226654451439,
+    "rating": 150.02266541825446,
+    "bestRating": 150.02266541825446,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
       150,
-      150.0226654451439
+      150.02266541825446
     ],
-    "tendency": 5.679519694636269
+    "tendency": 5.679519667746831
+  },
+  {
+    "NAF Nr": "26838",
+    "NAF Name": "samiel",
+    "CCAA": "I. Baleares",
+    "Country": "Spain",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 87.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 166.48011490874578,
+    "bestRating": 166.48011490874578,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.0682536402513,
+      166.47965303101023,
+      166.48011490874578
+    ],
+    "tendency": 10.823260659253407
   },
   {
     "NAF Nr": "26857",
@@ -892,18 +1392,51 @@ const snotling2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 149.85044189689094,
-    "bestRating": 155.77083453149473,
-    "worstRating": 149.85044189689094,
+    "rating": 149.85005343172654,
+    "bestRating": 155.77041007946585,
+    "worstRating": 149.85005343172654,
     "_lastTenRatings": [
       150,
       155.65685424949237,
-      150.11966038677517,
-      155.77083453149473,
-      155.756911036257,
-      149.85044189689094
+      150.1192166694648,
+      155.77041007946585,
+      155.7565050129582,
+      149.85005343172654
     ],
-    "tendency": -0.14955810310905804
+    "tendency": -0.14994656827346375
+  },
+  {
+    "NAF Nr": "26989",
+    "NAF Name": "MiniMorg",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 156.5452872574448,
+    "bestRating": 156.5452872574448,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      156.11648075505101,
+      156.5452872574448
+    ],
+    "tendency": 0.8884330079524432
   },
   {
     "NAF Nr": "27015",
@@ -919,15 +1452,39 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 145.41136516127133,
+    "rating": 145.41134345681826,
     "bestRating": 145.52786404500043,
     "worstRating": 145.40742918758858,
     "_lastTenRatings": [
       145.52786404500043,
       145.40742918758858,
-      145.41136516127133
+      145.41134345681826
     ],
-    "tendency": -0.11649888372909345
+    "tendency": -0.11652058818216915
+  },
+  {
+    "NAF Nr": "27247",
+    "NAF Name": "Wyld",
+    "CCAA": "Apatrida",
+    "Country": "Ukraine",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 154,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      154,
+      154,
+      150
+    ],
+    "tendency": -4
   },
   {
     "NAF Nr": "27310",
@@ -992,15 +1549,51 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 144.34314575050763,
+    "rating": 145.01408089154117,
     "bestRating": 155.65685424949237,
-    "worstRating": 144.34314575050763,
+    "worstRating": 145.01408089154117,
     "_lastTenRatings": [
       155.65685424949237,
-      150,
-      144.34314575050763
+      150.7013876692531,
+      145.01408089154117
     ],
-    "tendency": -11.313708498984738
+    "tendency": -10.6427733579512
+  },
+  {
+    "NAF Nr": "27840",
+    "NAF Name": "Gr4n0t4",
+    "CCAA": "Apatrida",
+    "Country": "Mordheim",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 157.72321336646442,
+    "bestRating": 165.4677418094683,
+    "worstRating": 142.25403330758516,
+    "_lastTenRatings": [
+      142.25403330758516,
+      150,
+      149.97265344174983,
+      157.72024595516152,
+      165.4677418094683,
+      157.72321336646442
+    ],
+    "tendency": 15.46918005887926
   },
   {
     "NAF Nr": "28207",
@@ -1092,15 +1685,15 @@ const snotling2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 153.01259458598125,
+    "rating": 153.01513463462607,
     "bestRating": 153.16227766016837,
     "worstRating": 150,
     "_lastTenRatings": [
       153.16227766016837,
       150,
-      153.01259458598125
+      153.01513463462607
     ],
-    "tendency": -0.14968307418712357
+    "tendency": -0.14714302554230585
   },
   {
     "NAF Nr": "28527",
@@ -1116,17 +1709,44 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 70,
-    "rating": 158.92989835811824,
+    "rating": 158.9298995529247,
     "bestRating": 159.6069259700119,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       154.89897948556634,
       159.6069259700119,
-      154.37891708898283,
-      158.92989835811824
+      154.3789183301525,
+      158.9298995529247
     ],
-    "tendency": 8.929898358118237
+    "tendency": 8.929899552924695
+  },
+  {
+    "NAF Nr": "28804",
+    "NAF Name": "Brigadier_cogsworth",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 127.3730064054972,
+    "bestRating": 155.65685424949237,
+    "worstRating": 127.3730064054972,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229,
+      127.3730064054972
+    ],
+    "tendency": -28.283847843995176
   },
   {
     "NAF Nr": "28813",
@@ -1187,15 +1807,50 @@ const snotling2025 = [
       "bestpainted": 1,
       "otherawards": 0
     },
-    "rating": 150.65525101039074,
-    "bestRating": 150.67385103164273,
-    "worstRating": 145.03243927504016,
+    "rating": 150.65526015922265,
+    "bestRating": 150.673860595723,
+    "worstRating": 145.0324471576691,
     "_lastTenRatings": [
-      145.03243927504016,
-      150.67385103164273,
-      150.65525101039074
+      145.0324471576691,
+      150.673860595723,
+      150.65526015922265
     ],
-    "tendency": 5.622811735350581
+    "tendency": 5.6228130015535385
+  },
+  {
+    "NAF Nr": "29216",
+    "NAF Name": "Le_Schtroumpf_Boxeur",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 10,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 135.2511248597048,
+    "bestRating": 146.25834261322606,
+    "worstRating": 135.2511248597048,
+    "_lastTenRatings": [
+      146.25834261322606,
+      142.51668522645213,
+      142.62410966668173,
+      138.8824522799078,
+      135.2511248597048
+    ],
+    "tendency": -11.007217753521275
   },
   {
     "NAF Nr": "29836",
@@ -1211,18 +1866,18 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 138.68673412075321,
+    "rating": 138.68673409041673,
     "bestRating": 150,
-    "worstRating": 138.68673412075321,
+    "worstRating": 138.68673409041673,
     "_lastTenRatings": [
       144.34314575050763,
       150,
       150,
       144.34314575050763,
-      144.35380288735715,
-      138.68673412075321
+      144.35380285564375,
+      138.68673409041673
     ],
-    "tendency": -5.656411629754416
+    "tendency": -5.656411660090896
   },
   {
     "NAF Nr": "29945",
@@ -1231,24 +1886,92 @@ const snotling2025 = [
     "Country": "Sweden",
     "raceId": "29",
     "raceName": "Snotling",
-    "gamesTotal": 5,
-    "gamesWon": 2,
+    "gamesTotal": 11,
+    "gamesWon": 3,
     "gamesDraw": 0,
-    "gamesLost": 3,
+    "gamesLost": 8,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 27.27,
+    "rating": 121.02245329174387,
+    "bestRating": 142.25403330758516,
+    "worstRating": 118.31363303020196,
+    "_lastTenRatings": [
+      134.50806661517032,
+      126.76293942934772,
+      134.56707659968433,
+      126.30477846618518,
+      118.9926618784521,
+      125.34092045571074,
+      121.93917234109391,
+      118.31363303020196,
+      125.332890703178,
+      121.02245329174387
+    ],
+    "tendency": -13.485613323426449
+  },
+  {
+    "NAF Nr": "30054",
+    "NAF Name": "madcatpt",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 9,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 38.89,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 139.58803595639262,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.0294372515229,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229,
+      138.68629150101526,
+      138.68629150101526,
+      138.4408366422818,
+      134.36443020568132,
+      134.74667912064692,
+      139.58803595639262
+    ],
+    "tendency": -4.755109794115015
+  },
+  {
+    "NAF Nr": "30193",
+    "NAF Name": "master_wiggins",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 3,
+    "gamesLost": 0,
     "totalWinRatio": 0,
     "totalTournaments": 1,
-    "winRatio": 40,
-    "rating": 145.188558089385,
-    "bestRating": 155.65685424949237,
-    "worstRating": 144.74261470643492,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 150,
     "_lastTenRatings": [
-      155.65685424949237,
-      150.1609912178553,
-      144.74261470643492,
-      150.62761009273618,
-      145.188558089385
+      150,
+      150,
+      150
     ],
-    "tendency": -10.468296160107371
+    "tendency": 0
   },
   {
     "NAF Nr": "30275",
@@ -1345,15 +2068,15 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 146.49420194853766,
+    "rating": 146.63570962431564,
     "bestRating": 153.605551275464,
-    "worstRating": 146.49420194853766,
+    "worstRating": 146.63570962431564,
     "_lastTenRatings": [
       153.605551275464,
-      150,
-      146.49420194853766
+      150.14553211753267,
+      146.63570962431564
     ],
-    "tendency": -7.11134932692633
+    "tendency": -6.969841651148357
   },
   {
     "NAF Nr": "30813",
@@ -1413,6 +2136,40 @@ const snotling2025 = [
     "tendency": -0.18412004355403155
   },
   {
+    "NAF Nr": "31365",
+    "NAF Name": "Kimi",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 131.41207971252007,
+    "bestRating": 145.30958424017658,
+    "worstRating": 131.41207971252007,
+    "_lastTenRatings": [
+      145.30958424017658,
+      140.62450497604456,
+      135.93389710092822,
+      131.41207971252007
+    ],
+    "tendency": -13.897504527656508
+  },
+  {
     "NAF Nr": "31370",
     "NAF Name": "jblackmane",
     "CCAA": "Apatrida",
@@ -1426,17 +2183,43 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 60,
-    "rating": 154.89925784907823,
-    "bestRating": 154.89925784907823,
+    "rating": 154.89970330452212,
+    "bestRating": 154.89970330452212,
     "worstRating": 145.10102051443366,
     "_lastTenRatings": [
       145.10102051443366,
-      150,
-      154.89897948556634,
-      150,
-      154.89925784907823
+      150.00047953448222,
+      154.89944098904513,
+      150.0004448284449,
+      154.89970330452212
     ],
-    "tendency": 9.798237334644568
+    "tendency": 9.798682790088463
+  },
+  {
+    "NAF Nr": "31687",
+    "NAF Name": "zezito",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.14758251304028,
+    "bestRating": 155.84701499374285,
+    "worstRating": 149.97479765482308,
+    "_lastTenRatings": [
+      155.65685424949237,
+      149.97479765482308,
+      155.84701499374285,
+      150.17168996234255,
+      150.14758251304028
+    ],
+    "tendency": -5.509271736452092
   },
   {
     "NAF Nr": "31866",
@@ -1512,6 +2295,63 @@ const snotling2025 = [
     "tendency": -1.213729244254381
   },
   {
+    "NAF Nr": "32092",
+    "NAF Name": "markthemagnificent",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.7074121247414,
+    "bestRating": 150,
+    "worstRating": 144.7074121247414,
+    "_lastTenRatings": [
+      144.70849737787083,
+      150,
+      144.7074121247414
+    ],
+    "tendency": -0.0010852531294176515
+  },
+  {
+    "NAF Nr": "32191",
+    "NAF Name": "HighlandEnoch",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 145.10794361809866,
+    "bestRating": 145.10794361809866,
+    "worstRating": 140.2020410288673,
+    "_lastTenRatings": [
+      145.10102051443366,
+      140.2020410288673,
+      145.10794361809866
+    ],
+    "tendency": 0.0069231036650023725
+  },
+  {
     "NAF Nr": "32270",
     "NAF Name": "WoodyWoodPecker",
     "CCAA": "Apatrida",
@@ -1543,6 +2383,32 @@ const snotling2025 = [
       133.0294372515229
     ],
     "tendency": -11.313708498984738
+  },
+  {
+    "NAF Nr": "32323",
+    "NAF Name": "fogfrog",
+    "CCAA": "Apatrida",
+    "Country": "Norway",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 60,
+    "rating": 154.9063479521384,
+    "bestRating": 159.17298146605654,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      154.58257569495584,
+      150,
+      154.58257569495584,
+      159.17298146605654,
+      154.9063479521384
+    ],
+    "tendency": 0.3237722571825543
   },
   {
     "NAF Nr": "32437",
@@ -1667,6 +2533,72 @@ const snotling2025 = [
     "tendency": 11.538311793598155
   },
   {
+    "NAF Nr": "33736",
+    "NAF Name": "fleetmacwood",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 155,
+    "bestRating": 155,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155,
+      150,
+      155
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "33751",
+    "NAF Name": "jleav",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 154,
+    "bestRating": 158,
+    "worstRating": 154,
+    "_lastTenRatings": [
+      154,
+      158,
+      154
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "33905",
     "NAF Name": "Weltensammler",
     "CCAA": "Apatrida",
@@ -1694,30 +2626,68 @@ const snotling2025 = [
     "tendency": 16.26507029338711
   },
   {
+    "NAF Nr": "33955",
+    "NAF Name": "chaosmaxident",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
+    "rating": 144.34314575050763,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.34314575050763
+    ],
+    "tendency": -11.313708498984738
+  },
+  {
     "NAF Nr": "34047",
     "NAF Name": "kazztruul",
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "raceId": "29",
     "raceName": "Snotling",
-    "gamesTotal": 5,
-    "gamesWon": 0,
-    "gamesDraw": 2,
-    "gamesLost": 3,
+    "gamesTotal": 11,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 6,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 20,
-    "rating": 133.04646861211998,
-    "bestRating": 144.34314575050763,
-    "worstRating": 133.04646861211998,
+    "totalTournaments": 2,
+    "winRatio": 31.82,
+    "rating": 128.19005207738803,
+    "bestRating": 158.3510765593759,
+    "worstRating": 128.19005207738803,
     "_lastTenRatings": [
-      144.34314575050763,
-      138.68629150101526,
-      138.68629150101526,
-      138.70332303057265,
-      133.04646861211998
+      142.3872655837273,
+      150.12531128814413,
+      158.3510765593759,
+      151.47068824675915,
+      144.65283821361402,
+      139.22801656442567,
+      133.11284128288082,
+      133.35653761406473,
+      133.63971507496862,
+      128.19005207738803
     ],
-    "tendency": -11.29667713838765
+    "tendency": -14.197213506339267
   },
   {
     "NAF Nr": "34653",
@@ -1733,16 +2703,16 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 12.5,
-    "rating": 133.25363794406417,
+    "rating": 133.61349638104855,
     "bestRating": 144.34314575050763,
-    "worstRating": 133.25363794406417,
+    "worstRating": 133.61349638104855,
     "_lastTenRatings": [
       144.34314575050763,
-      138.9317463597487,
-      139.1665632767857,
-      133.25363794406417
+      139.3048185792885,
+      139.54188830901106,
+      133.61349638104855
     ],
-    "tendency": -11.089507806443464
+    "tendency": -10.729649369459082
   },
   {
     "NAF Nr": "34769",
@@ -1787,13 +2757,13 @@ const snotling2025 = [
     "Country": "Canada",
     "raceId": "29",
     "raceName": "Snotling",
-    "gamesTotal": 4,
-    "gamesWon": 0,
+    "gamesTotal": 7,
+    "gamesWon": 1,
     "gamesDraw": 0,
-    "gamesLost": 4,
+    "gamesLost": 6,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 14.29,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
@@ -1803,16 +2773,46 @@ const snotling2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 131.5898521695941,
+    "rating": 129.08838691569017,
     "bestRating": 144.94863870482732,
-    "worstRating": 131.5898521695941,
+    "worstRating": 129.08838691569017,
     "_lastTenRatings": [
       144.94863870482732,
       140.49638447764272,
       136.0434478249317,
-      131.5898521695941
+      131.5898521695941,
+      136.68974234619802,
+      132.82422344136248,
+      129.08838691569017
     ],
-    "tendency": -13.358786535233207
+    "tendency": -15.860251789137152
+  },
+  {
+    "NAF Nr": "34845",
+    "NAF Name": "mrnyv",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.63658771423354,
+    "bestRating": 155.63658771423354,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      150,
+      149.98934286315048,
+      155.63600268537235,
+      155.63658771423354
+    ],
+    "tendency": 5.636587714233542
   },
   {
     "NAF Nr": "34928",
@@ -1839,6 +2839,42 @@ const snotling2025 = [
     "tendency": -0.19164958207414884
   },
   {
+    "NAF Nr": "35633",
+    "NAF Name": "doglobro",
+    "CCAA": "Apatrida",
+    "Country": "South Africa",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 138.68669728329795,
+    "bestRating": 144.34356995069757,
+    "worstRating": 133.0294372515229,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229,
+      138.68629150101526,
+      144.34356995069757,
+      138.68669728329795
+    ],
+    "tendency": -5.656448467209685
+  },
+  {
     "NAF Nr": "35682",
     "NAF Name": "giusecipriani",
     "CCAA": "Apatrida",
@@ -1852,15 +2888,42 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 0,
-    "rating": 137.24429519648638,
+    "rating": 137.24480587360856,
     "bestRating": 145.7573593128807,
-    "worstRating": 137.24429519648638,
+    "worstRating": 137.24480587360856,
     "_lastTenRatings": [
       145.7573593128807,
       141.51471862576142,
-      137.24429519648638
+      137.24480587360856
     ],
-    "tendency": -8.513064116394332
+    "tendency": -8.512553439272153
+  },
+  {
+    "NAF Nr": "35757",
+    "NAF Name": "thrakkadathurd",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.1744015664685,
+    "bestRating": 154.79583152331273,
+    "worstRating": 145.22897776396997,
+    "_lastTenRatings": [
+      154.79583152331273,
+      150,
+      145.22897776396997,
+      150.2005878996021,
+      145.39801172643905,
+      150.1744015664685
+    ],
+    "tendency": -4.621429956844224
   },
   {
     "NAF Nr": "35955",
@@ -1876,18 +2939,18 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 138.5972846035765,
-    "bestRating": 150.00258607301953,
-    "worstRating": 138.4849374026602,
+    "rating": 139.82647919830657,
+    "bestRating": 150.06336472022824,
+    "worstRating": 139.7674065608082,
     "_lastTenRatings": [
       149.99301843681403,
-      149.9933215620511,
-      150.00258607301953,
-      144.10589503322262,
-      138.4849374026602,
-      138.5972846035765
+      150.02497128337282,
+      150.06336472022824,
+      144.80709765626014,
+      139.7674065608082,
+      139.82647919830657
     ],
-    "tendency": -11.395733833237529
+    "tendency": -10.166539238507454
   },
   {
     "NAF Nr": "35997",
@@ -1903,15 +2966,72 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 144.3583013838402,
-    "bestRating": 144.3583013838402,
+    "rating": 144.35830333453254,
+    "bestRating": 144.35830333453254,
     "worstRating": 138.68629150101526,
     "_lastTenRatings": [
       144.34314575050763,
       138.68629150101526,
-      144.3583013838402
+      144.35830333453254
     ],
-    "tendency": 0.015155633332568641
+    "tendency": 0.01515758402490519
+  },
+  {
+    "NAF Nr": "36132",
+    "NAF Name": "ooavox",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.48440645862095,
+    "bestRating": 150,
+    "worstRating": 144.48440645862095,
+    "_lastTenRatings": [
+      150,
+      149.77551533807684,
+      144.48440645862095
+    ],
+    "tendency": -5.515593541379047
+  },
+  {
+    "NAF Nr": "36133",
+    "NAF Name": "bobineto",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 153.81816330920591,
+    "bestRating": 157.56284129462173,
+    "worstRating": 153.74165738677394,
+    "_lastTenRatings": [
+      153.74165738677394,
+      157.56284129462173,
+      153.81816330920591
+    ],
+    "tendency": 0.07650592243197707
   },
   {
     "NAF Nr": "37162",
@@ -1960,17 +3080,125 @@ const snotling2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 146.48647209044447,
-    "bestRating": 150.39402203745593,
-    "worstRating": 146.42370675981,
+    "rating": 146.48648668756917,
+    "bestRating": 150.39403532424197,
+    "worstRating": 146.42370776618623,
     "_lastTenRatings": [
-      146.42370675981,
-      150.39402203745593,
-      146.50590461955622,
-      150.35570306702127,
-      146.48647209044447
+      146.42370776618623,
+      150.39403532424197,
+      146.50591751138202,
+      150.35571817580455,
+      146.48648668756917
     ],
-    "tendency": 0.06276533063447687
+    "tendency": 0.06277892138294305
+  },
+  {
+    "NAF Nr": "37668",
+    "NAF Name": "stuartt",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 156.84677367752445,
+    "bestRating": 156.84677367752445,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      153.33352947827944,
+      156.84677367752445
+    ],
+    "tendency": 6.846773677524453
+  },
+  {
+    "NAF Nr": "37793",
+    "NAF Name": "Imuzerg",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 6,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 116.07582863173832,
+    "bestRating": 144.34314575050763,
+    "worstRating": 116.07582863173832,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229,
+      127.38324013888003,
+      121.72596157412403,
+      116.07582863173832
+    ],
+    "tendency": -28.267317118769313
+  },
+  {
+    "NAF Nr": "37816",
+    "NAF Name": "mr_t_",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 155.29150262212917,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.29150262212917,
+      150,
+      150
+    ],
+    "tendency": -5.2915026221291726
+  },
+  {
+    "NAF Nr": "38574",
+    "NAF Name": "withy",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.52786404500043,
+    "bestRating": 145.52786404500043,
+    "worstRating": 141.05572809000085,
+    "_lastTenRatings": [
+      145.52786404500043,
+      141.05572809000085,
+      145.52786404500043
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "38830",
@@ -1997,6 +3225,30 @@ const snotling2025 = [
       140.05831016543078
     ],
     "tendency": -15.23319245669839
+  },
+  {
+    "NAF Nr": "38971",
+    "NAF Name": "LordMacragge",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.10373339575844,
+    "bestRating": 153.74165738677394,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      153.74165738677394,
+      150,
+      150.10373339575844
+    ],
+    "tendency": -3.637923991015498
   },
   {
     "NAF Nr": "39007",
@@ -2056,6 +3308,33 @@ const snotling2025 = [
     "tendency": 4.380746981116118
   },
   {
+    "NAF Nr": "39229",
+    "NAF Name": "theentityq",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 143.84168814197693,
+    "bestRating": 157.74596669241484,
+    "worstRating": 135.32570837263364,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150,
+      143.14377629769282,
+      143.15061474165088,
+      135.32570837263364,
+      143.84168814197693
+    ],
+    "tendency": -13.904278550437908
+  },
+  {
     "NAF Nr": "39346",
     "NAF Name": "neodaud",
     "CCAA": "Apatrida",
@@ -2096,17 +3375,17 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.0147752888364,
+    "rating": 149.43569439917172,
     "bestRating": 150.21257014314548,
-    "worstRating": 145.13067492280115,
+    "worstRating": 145.1080595333105,
     "_lastTenRatings": [
       150.21257014314548,
-      145.31515320734928,
-      145.13067492280115,
-      150.02829256580455,
-      150.0147752888364
+      145.2916555271251,
+      145.1080595333105,
+      149.9847382563003,
+      149.43569439917172
     ],
-    "tendency": -0.1977948543090804
+    "tendency": -0.7768757439737612
   },
   {
     "NAF Nr": "39478",
@@ -2122,15 +3401,39 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 153.50579805146234,
+    "rating": 153.50591258322027,
     "bestRating": 153.605551275464,
-    "worstRating": 153.50579805146234,
+    "worstRating": 153.50591258322027,
     "_lastTenRatings": [
       153.605551275464,
       153.605551275464,
-      153.50579805146234
+      153.50591258322027
     ],
-    "tendency": -0.09975322400165965
+    "tendency": -0.09963869224372957
+  },
+  {
+    "NAF Nr": "39803",
+    "NAF Name": "cromwell",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.68629150101526,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      138.68629150101526
+    ],
+    "tendency": -5.656854249492369
   },
   {
     "NAF Nr": "40100",
@@ -2146,15 +3449,15 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 144.99578560110942,
+    "rating": 144.99578798787658,
     "bestRating": 150.35967424877404,
     "worstRating": 144.7191450780607,
     "_lastTenRatings": [
       144.7191450780607,
       150.35967424877404,
-      144.99578560110942
+      144.99578798787658
     ],
-    "tendency": 0.27664052304871234
+    "tendency": 0.2766429098158767
   },
   {
     "NAF Nr": "40150",
@@ -2243,6 +3546,30 @@ const snotling2025 = [
     "tendency": 7.024344534519258
   },
   {
+    "NAF Nr": "40943",
+    "NAF Name": "Agent3",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.7160262276615,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.7160262276615,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34313703406698,
+      138.7160262276615
+    ],
+    "tendency": -5.6271195228461295
+  },
+  {
     "NAF Nr": "41227",
     "NAF Name": "tartanjames",
     "CCAA": "Apatrida",
@@ -2280,15 +3607,15 @@ const snotling2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 144.62539641551336,
-    "bestRating": 150.2950616168457,
-    "worstRating": 144.62539641551336,
+    "rating": 144.6255558292736,
+    "bestRating": 150.29522826614138,
+    "worstRating": 144.6255558292736,
     "_lastTenRatings": [
-      144.6515997876545,
-      150.2950616168457,
-      144.62539641551336
+      144.65177400089127,
+      150.29522826614138,
+      144.6255558292736
     ],
-    "tendency": -0.02620337214113988
+    "tendency": -0.02621817161767126
   },
   {
     "NAF Nr": "42455",
@@ -2313,15 +3640,15 @@ const snotling2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 144.34314575050763,
+    "rating": 144.36306307171714,
     "bestRating": 150,
-    "worstRating": 144.34314575050763,
+    "worstRating": 144.36306307171714,
     "_lastTenRatings": [
       150,
       150,
-      144.34314575050763
+      144.36306307171714
     ],
-    "tendency": -5.656854249492369
+    "tendency": -5.636936928282864
   },
   {
     "NAF Nr": "42540",
@@ -2375,5 +3702,30 @@ const snotling2025 = [
       145.81422884682328
     ],
     "tendency": -8.657907108176289
+  },
+  {
+    "NAF Nr": "43456",
+    "NAF Name": "SnotlingAirService",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "29",
+    "raceName": "Snotling",
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 126.8208075385671,
+    "bestRating": 144.04513085992895,
+    "worstRating": 126.8208075385671,
+    "_lastTenRatings": [
+      144.04513085992895,
+      138.4012157867357,
+      132.7567389237054,
+      126.8208075385671
+    ],
+    "tendency": -17.22432332136185
   }
 ];

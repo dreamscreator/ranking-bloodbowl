@@ -50,6 +50,60 @@ const highelf2025 = [
     "tendency": -4.404176161797977
   },
   {
+    "NAF Nr": "12552",
+    "NAF Name": "brocCooLi",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "6",
+    "raceName": "High Elf",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 143.40284133885885,
+    "bestRating": 150.12817607190019,
+    "worstRating": 135.31689528997723,
+    "_lastTenRatings": [
+      142.25403330758516,
+      150.12817607190019,
+      143.58997674665204,
+      143.05090891117254,
+      135.31689528997723,
+      143.40284133885885
+    ],
+    "tendency": 1.1488080312736884
+  },
+  {
+    "NAF Nr": "13234",
+    "NAF Name": "PumpkinBrother",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "6",
+    "raceName": "High Elf",
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 3,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 139.53902340917446,
+    "bestRating": 150.00257971549502,
+    "worstRating": 139.53902340917446,
+    "_lastTenRatings": [
+      150,
+      150,
+      150.00257971549502,
+      146.5431507175104,
+      142.89499853024665,
+      139.53902340917446
+    ],
+    "tendency": -10.460976590825538
+  },
+  {
     "NAF Nr": "16452",
     "NAF Name": "warlok",
     "CCAA": "Apatrida",
@@ -172,6 +226,68 @@ const highelf2025 = [
     "tendency": -5.099019513592793
   },
   {
+    "NAF Nr": "22691",
+    "NAF Name": "marmolillo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "6",
+    "raceName": "High Elf",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 150.43434024315573,
+    "bestRating": 150.43434024315573,
+    "worstRating": 126.76209992275548,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.50806661517032,
+      126.76209992275548,
+      134.50806661517032,
+      142.68675267073232,
+      150.43434024315573
+    ],
+    "tendency": 8.18030693557057
+  },
+  {
+    "NAF Nr": "23553",
+    "NAF Name": "crazywaïki",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "6",
+    "raceName": "High Elf",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 40,
+    "rating": 143.00167662754998,
+    "bestRating": 155.13465290426737,
+    "worstRating": 137.7729683898503,
+    "_lastTenRatings": [
+      155.13465290426737,
+      149.50047145095238,
+      143.17422214979783,
+      137.7729683898503,
+      143.00167662754998
+    ],
+    "tendency": -12.132976276717386
+  },
+  {
     "NAF Nr": "23720",
     "NAF Name": "BB-Sprout",
     "CCAA": "Apatrida",
@@ -242,17 +358,17 @@ const highelf2025 = [
       "bestpainted": 1,
       "otherawards": 0
     },
-    "rating": 149.9800155337951,
+    "rating": 150.44364971456852,
     "bestRating": 154.47213595499957,
-    "worstRating": 149.9800155337951,
+    "worstRating": 150,
     "_lastTenRatings": [
       154.47213595499957,
       150,
       154.47213595499957,
-      154.4670497460909,
-      149.9800155337951
+      154.46765333453735,
+      150.44364971456852
     ],
-    "tendency": -4.492120421204476
+    "tendency": -4.02848624043105
   },
   {
     "NAF Nr": "26389",
@@ -302,6 +418,33 @@ const highelf2025 = [
       153.69985983020237
     ],
     "tendency": 7.305411105666366
+  },
+  {
+    "NAF Nr": "28196",
+    "NAF Name": "Ionas",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "6",
+    "raceName": "High Elf",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 156.49949609221696,
+    "bestRating": 157.74596669241484,
+    "worstRating": 141.36146165000363,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150,
+      149.5400247963327,
+      141.36146165000363,
+      149.56723262842394,
+      156.49949609221696
+    ],
+    "tendency": -1.2464706001978811
   },
   {
     "NAF Nr": "28280",
@@ -379,18 +522,18 @@ const highelf2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.27146743517665,
-    "bestRating": 155.6891321351148,
+    "rating": 150.2538862681908,
+    "bestRating": 155.68013883923035,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
       150,
       144.34314575050763,
       150.01789343328613,
-      155.6891321351148,
-      150.27146743517665
+      155.68013883923035,
+      150.2538862681908
     ],
-    "tendency": 5.928321684669015
+    "tendency": 5.910740517683166
   },
   {
     "NAF Nr": "29013",
@@ -415,7 +558,7 @@ const highelf2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 162.96739549393953,
+    "rating": 162.98347530646708,
     "bestRating": 167.8885438199983,
     "worstRating": 154.47213595499957,
     "_lastTenRatings": [
@@ -423,9 +566,36 @@ const highelf2025 = [
       158.94427190999915,
       163.41640786499872,
       167.8885438199983,
-      162.96739549393953
+      162.98347530646708
     ],
-    "tendency": 8.495259538939962
+    "tendency": 8.511339351467512
+  },
+  {
+    "NAF Nr": "29553",
+    "NAF Name": "kremeran",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "6",
+    "raceName": "High Elf",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 135.81664786311248,
+    "bestRating": 143.5923712486108,
+    "worstRating": 134.52218724451586,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.52218724451586,
+      142.26731443033847,
+      135.00644825634063,
+      143.5923712486108,
+      135.81664786311248
+    ],
+    "tendency": -6.437385444472682
   },
   {
     "NAF Nr": "29759",
@@ -483,6 +653,63 @@ const highelf2025 = [
       137.27207793864213
     ],
     "tendency": -8.485281374238582
+  },
+  {
+    "NAF Nr": "31674",
+    "NAF Name": "greenskinphil",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "6",
+    "raceName": "High Elf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.00585070650527,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150.00585070650527,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      150.00585070650527
+    ],
+    "tendency": -5.651003542987098
+  },
+  {
+    "NAF Nr": "31710",
+    "NAF Name": "Buyo",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "6",
+    "raceName": "High Elf",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 158.44317640258092,
+    "bestRating": 158.46613995271213,
+    "worstRating": 154.2426406871193,
+    "_lastTenRatings": [
+      154.2426406871193,
+      158.46613995271213,
+      158.44317640258092
+    ],
+    "tendency": 4.200535715461626
   },
   {
     "NAF Nr": "31856",
@@ -656,18 +883,18 @@ const highelf2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 58.33,
-    "rating": 155.67183044260224,
+    "rating": 155.48223620336475,
     "bestRating": 161.31370849898474,
-    "worstRating": 155.65685424949237,
+    "worstRating": 155.48223620336475,
     "_lastTenRatings": [
       155.65685424949237,
       161.31370849898474,
       161.31370849898474,
       155.66240431675232,
       155.6664607892678,
-      155.67183044260224
+      155.48223620336475
     ],
-    "tendency": 0.014976193109873748
+    "tendency": -0.17461804612761966
   },
   {
     "NAF Nr": "33574",
@@ -694,6 +921,57 @@ const highelf2025 = [
       127.14794453977262
     ],
     "tendency": -17.195201210735007
+  },
+  {
+    "NAF Nr": "33811",
+    "NAF Name": "captainchaostn25",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "6",
+    "raceName": "High Elf",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 140.19307758448753,
+    "bestRating": 144.9009804864072,
+    "worstRating": 140.0014165252764,
+    "_lastTenRatings": [
+      144.9009804864072,
+      140.0014165252764,
+      140.19307758448753
+    ],
+    "tendency": -4.707902901919681
+  },
+  {
+    "NAF Nr": "34689",
+    "NAF Name": "Rhag",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "raceId": "6",
+    "raceName": "High Elf",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 157.66520879831583,
+    "bestRating": 157.69833795130148,
+    "worstRating": 142.25403330758516,
+    "_lastTenRatings": [
+      142.25403330758516,
+      150.4599752036673,
+      150.43747177730364,
+      157.69833795130148,
+      149.93251011744132,
+      157.66520879831583
+    ],
+    "tendency": 15.41117549073067
   },
   {
     "NAF Nr": "35650",
@@ -729,13 +1007,13 @@ const highelf2025 = [
     "Country": "Germany",
     "raceId": "6",
     "raceName": "High Elf",
-    "gamesTotal": 9,
-    "gamesWon": 6,
-    "gamesDraw": 2,
+    "gamesTotal": 12,
+    "gamesWon": 7,
+    "gamesDraw": 4,
     "gamesLost": 1,
     "totalWinRatio": 0,
-    "totalTournaments": 2,
-    "winRatio": 77.78,
+    "totalTournaments": 3,
+    "winRatio": 75,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
@@ -745,21 +1023,49 @@ const highelf2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 175.77496324253596,
-    "bestRating": 175.77496324253596,
+    "rating": 177.63136905418804,
+    "bestRating": 177.63136905418804,
     "worstRating": 150,
     "_lastTenRatings": [
-      155.65685424949237,
-      150,
       150,
       155.90230910822584,
       161.78333983699846,
       167.43044075832353,
       172.01822065217368,
       171.34259317581171,
-      175.77496324253596
+      175.77496324253596,
+      174.7791802366549,
+      173.62993025043576,
+      177.63136905418804
     ],
-    "tendency": 20.11810899304359
+    "tendency": 27.631369054188042
+  },
+  {
+    "NAF Nr": "36696",
+    "NAF Name": "Païpaï",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "6",
+    "raceName": "High Elf",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 133.80257683734175,
+    "bestRating": 150,
+    "worstRating": 133.80257683734175,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      145.2262490591087,
+      139.53035369833972,
+      139.49367638939364,
+      133.80257683734175
+    ],
+    "tendency": -10.540568913165885
   },
   {
     "NAF Nr": "37131",
@@ -775,18 +1081,18 @@ const highelf2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 41.67,
-    "rating": 144.0154419219198,
+    "rating": 144.0150521792178,
     "bestRating": 144.34314575050763,
-    "worstRating": 132.78469976599283,
+    "worstRating": 132.7842738459379,
     "_lastTenRatings": [
       144.34314575050763,
       138.68629150101526,
       138.68629150101526,
-      132.78469976599283,
-      138.45212448872704,
-      144.0154419219198
+      132.7842738459379,
+      138.4517170611877,
+      144.0150521792178
     ],
-    "tendency": -0.3277038285878291
+    "tendency": -0.32809357128982697
   },
   {
     "NAF Nr": "37213",
@@ -819,6 +1125,39 @@ const highelf2025 = [
     "tendency": -4.555027386921552
   },
   {
+    "NAF Nr": "37994",
+    "NAF Name": "Minerva256",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "6",
+    "raceName": "High Elf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 149.81177831373182,
+    "bestRating": 155.0990195135928,
+    "worstRating": 149.81177831373182,
+    "_lastTenRatings": [
+      155.0990195135928,
+      154.9112553879253,
+      149.81177831373182
+    ],
+    "tendency": -5.287241199860972
+  },
+  {
     "NAF Nr": "38222",
     "NAF Name": "Janux",
     "CCAA": "Apatrida",
@@ -846,6 +1185,33 @@ const highelf2025 = [
     "tendency": 11.336178988096947
   },
   {
+    "NAF Nr": "38721",
+    "NAF Name": "kaneeda",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "6",
+    "raceName": "High Elf",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 143.04223113476957,
+    "bestRating": 153.46410161513776,
+    "worstRating": 143.04223113476957,
+    "_lastTenRatings": [
+      150,
+      153.46410161513776,
+      149.89123884042118,
+      150.06572644618632,
+      146.59987343448327,
+      143.04223113476957
+    ],
+    "tendency": -6.957768865230435
+  },
+  {
     "NAF Nr": "39170",
     "NAF Name": "Mr_MLG",
     "CCAA": "Apatrida",
@@ -859,15 +1225,15 @@ const highelf2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.90024677599834,
-    "bestRating": 149.90024677599834,
+    "rating": 149.90427102584488,
+    "bestRating": 149.90427102584488,
     "worstRating": 146.394448724536,
     "_lastTenRatings": [
       146.394448724536,
       146.394448724536,
-      149.90024677599834
+      149.90427102584488
     ],
-    "tendency": 3.5057980514623353
+    "tendency": 3.5098223013088727
   },
   {
     "NAF Nr": "39664",
@@ -894,6 +1260,30 @@ const highelf2025 = [
     "tendency": -10.583003848242157
   },
   {
+    "NAF Nr": "40775",
+    "NAF Name": "fraserhepburn",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "6",
+    "raceName": "High Elf",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 154.89897948556634,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      154.89897948556634,
+      154.89897948556634,
+      150
+    ],
+    "tendency": -4.898979485566343
+  },
+  {
     "NAF Nr": "40804",
     "NAF Name": "dj_beardscruff",
     "CCAA": "Apatrida",
@@ -916,5 +1306,31 @@ const highelf2025 = [
       147.59482634588832
     ],
     "tendency": 0.044316088671507714
+  },
+  {
+    "NAF Nr": "42653",
+    "NAF Name": "Tzuko",
+    "CCAA": "Apatrida",
+    "Country": "Hungary",
+    "raceId": "6",
+    "raceName": "High Elf",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.69611147154495,
+    "bestRating": 158.7908264955076,
+    "worstRating": 149.69611147154495,
+    "_lastTenRatings": [
+      154.47213595499957,
+      154.47213595499957,
+      158.7908264955076,
+      154.15762632308434,
+      149.69611147154495
+    ],
+    "tendency": -4.77602448345462
   }
 ];

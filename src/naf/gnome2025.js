@@ -6,13 +6,13 @@ const gnome2025 = [
     "Country": "Cayman Islands",
     "raceId": "33",
     "raceName": "Gnome",
-    "gamesTotal": 3,
-    "gamesWon": 2,
+    "gamesTotal": 6,
+    "gamesWon": 3,
     "gamesDraw": 1,
-    "gamesLost": 0,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 83.33,
+    "totalTournaments": 2,
+    "winRatio": 58.33,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
@@ -22,16 +22,19 @@ const gnome2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 152.8533699849387,
-    "bestRating": 152.8533699849387,
-    "worstRating": 149.3540496005651,
+    "rating": 148.8462814015838,
+    "bestRating": 156.51126945302553,
+    "worstRating": 148.8462814015838,
     "_lastTenRatings": [
-      152.7409503378178,
-      149.3540496005651,
-      149.3736721606182,
-      152.8533699849387
+      152.74009003712402,
+      149.3583835830821,
+      149.3778909150465,
+      152.8514888540625,
+      156.51126945302553,
+      152.69008554517774,
+      148.8462814015838
     ],
-    "tendency": 0.1124196471209018
+    "tendency": -3.8938086355402106
   },
   {
     "NAF Nr": "113",
@@ -82,6 +85,39 @@ const gnome2025 = [
     "tendency": 5.373825593191583
   },
   {
+    "NAF Nr": "2591",
+    "NAF Name": "Tojurub",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 136.84978018795516,
+    "bestRating": 145.64854379008037,
+    "worstRating": 136.84978018795516,
+    "_lastTenRatings": [
+      145.64854379008037,
+      141.17226551464188,
+      136.84978018795516
+    ],
+    "tendency": -8.798763602125206
+  },
+  {
     "NAF Nr": "4789",
     "NAF Name": "frozenflame",
     "CCAA": "Apatrida",
@@ -115,6 +151,91 @@ const gnome2025 = [
     "tendency": 3.2799382019044288
   },
   {
+    "NAF Nr": "8021",
+    "NAF Name": "Velkor",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 155.41689571240207,
+    "bestRating": 155.41689571240207,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      149.75465844259736,
+      155.41689571240207
+    ],
+    "tendency": 11.073749961894436
+  },
+  {
+    "NAF Nr": "14128",
+    "NAF Name": "gj703",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.65685424949237,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      155.65685424949237
+    ],
+    "tendency": 11.313708498984738
+  },
+  {
+    "NAF Nr": "14387",
+    "NAF Name": "Netsmurf",
+    "CCAA": "Apatrida",
+    "Country": "Denmark",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 126.89324491801017,
+    "bestRating": 144.34314575050763,
+    "worstRating": 126.89324491801017,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      144.34314575050763,
+      138.4408366422818,
+      132.79463952963894,
+      126.89324491801017
+    ],
+    "tendency": -17.449900832497462
+  },
+  {
     "NAF Nr": "16619",
     "NAF Name": "peterd",
     "CCAA": "Apatrida",
@@ -137,15 +258,118 @@ const gnome2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 159.41089380079686,
-    "bestRating": 159.41089380079686,
+    "rating": 159.42336164382195,
+    "bestRating": 159.42336164382195,
     "worstRating": 154.69041575982342,
     "_lastTenRatings": [
       154.69041575982342,
       154.73487154477328,
-      159.41089380079686
+      159.42336164382195
     ],
-    "tendency": 4.720478040973433
+    "tendency": 4.732945883998525
+  },
+  {
+    "NAF Nr": "17063",
+    "NAF Name": "Josepe",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 145.04805598853596,
+    "bestRating": 145.04805598853596,
+    "worstRating": 138.9317463597487,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.9317463597487,
+      139.1665632767857,
+      145.04805598853596
+    ],
+    "tendency": 0.704910238028333
+  },
+  {
+    "NAF Nr": "18175",
+    "NAF Name": "DangerRat",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 149.6453608144975,
+    "bestRating": 149.6453608144975,
+    "worstRating": 146.63460757850558,
+    "_lastTenRatings": [
+      147,
+      146.63460757850558,
+      149.6453608144975
+    ],
+    "tendency": 2.645360814497508
+  },
+  {
+    "NAF Nr": "18772",
+    "NAF Name": "valkohukka",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 150.02576215505644,
+    "bestRating": 157.773313250665,
+    "worstRating": 134.50806661517032,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.50806661517032,
+      142.25403330758516,
+      150,
+      157.773313250665,
+      150.02576215505644
+    ],
+    "tendency": 7.77172884747128
   },
   {
     "NAF Nr": "20918",
@@ -205,6 +429,42 @@ const gnome2025 = [
     "tendency": 10.153425528562707
   },
   {
+    "NAF Nr": "21628",
+    "NAF Name": "Elkolak",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 161.7385349632824,
+    "bestRating": 161.9943168174276,
+    "worstRating": 155.47722557505165,
+    "_lastTenRatings": [
+      155.47722557505165,
+      161.17435479657564,
+      155.68788464376271,
+      160.9535075539874,
+      161.9943168174276,
+      161.7385349632824
+    ],
+    "tendency": 6.261309388230757
+  },
+  {
     "NAF Nr": "21766",
     "NAF Name": "Fol",
     "CCAA": "Catalunya ",
@@ -218,16 +478,79 @@ const gnome2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 62.5,
-    "rating": 155.89166561231966,
-    "bestRating": 155.9023233683108,
+    "rating": 155.8916656124162,
+    "bestRating": 155.90232336841171,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       155.65685424949237,
-      155.9023233683108,
-      155.89166561231966
+      155.90232336841171,
+      155.8916656124162
     ],
-    "tendency": 5.891665612319656
+    "tendency": 5.891665612416205
+  },
+  {
+    "NAF Nr": "21827",
+    "NAF Name": "imp",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 156.70247306117574,
+    "bestRating": 164.8363974546635,
+    "worstRating": 149.76248859145056,
+    "_lastTenRatings": [
+      149.76248859145056,
+      157.52257591321094,
+      157.04858630174607,
+      164.8363974546635,
+      156.64773631992688,
+      156.70247306117574
+    ],
+    "tendency": 6.939984469725175
+  },
+  {
+    "NAF Nr": "22776",
+    "NAF Name": "firedept",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.99565213930305,
+    "bestRating": 155.66704867519195,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.34314575050763,
+      150.01065713684952,
+      155.66704867519195,
+      149.99565213930305
+    ],
+    "tendency": -5.661202110189322
   },
   {
     "NAF Nr": "23576",
@@ -252,6 +575,129 @@ const gnome2025 = [
       141.06098867462353
     ],
     "tendency": -8.93901132537647
+  },
+  {
+    "NAF Nr": "24161",
+    "NAF Name": "Stewbacca",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 155.65667054735974,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.65667054735974,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.65667054735974
+    ],
+    "tendency": -0.00018370213263096957
+  },
+  {
+    "NAF Nr": "24759",
+    "NAF Name": "TripWire",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.256091061371,
+    "bestRating": 150.256091061371,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      150.256091061371
+    ],
+    "tendency": 5.912945310863364
+  },
+  {
+    "NAF Nr": "26273",
+    "NAF Name": "Gotissues",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 160.36941047371892,
+    "bestRating": 160.36941047371892,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.41139939075893,
+      160.36941047371892
+    ],
+    "tendency": 10.369410473718915
+  },
+  {
+    "NAF Nr": "27859",
+    "NAF Name": "Paco",
+    "CCAA": "Murcia",
+    "Country": "Spain",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 153.3853554882765,
+    "bestRating": 153.3853554882765,
+    "worstRating": 145.0093944645906,
+    "_lastTenRatings": [
+      145.0093944645906,
+      149.27639121554037,
+      153.3853554882765
+    ],
+    "tendency": 8.375961023685903
   },
   {
     "NAF Nr": "27866",
@@ -300,7 +746,7 @@ const gnome2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 161.3239028791822,
+    "rating": 161.32390218196335,
     "bestRating": 166.9705627484771,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
@@ -309,9 +755,9 @@ const gnome2025 = [
       166.9705627484771,
       161.06779180191117,
       166.72466610348255,
-      161.3239028791822
+      161.32390218196335
     ],
-    "tendency": 5.667048629689845
+    "tendency": 5.667047932470979
   },
   {
     "NAF Nr": "28306",
@@ -360,22 +806,22 @@ const gnome2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 140.09454004099723,
+    "rating": 139.85632467984243,
     "bestRating": 154.31342995588534,
-    "worstRating": 140.09454004099723,
+    "worstRating": 139.85632467984243,
     "_lastTenRatings": [
       154.12824792867568,
-      153.9786979745369,
-      151.00397277825166,
-      148.2139462070256,
-      145.6040932891769,
-      145.63833016172853,
-      142.842653622824,
-      145.37397890019022,
-      142.59326551257067,
-      140.09454004099723
+      153.84798863617078,
+      150.87603046106904,
+      148.0859937874228,
+      145.47607733629408,
+      145.51030164510777,
+      142.71461308772774,
+      145.24351481282315,
+      142.35264722440118,
+      139.85632467984243
     ],
-    "tendency": -14.033707887678446
+    "tendency": -14.271923248833247
   },
   {
     "NAF Nr": "28659",
@@ -400,17 +846,17 @@ const gnome2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 156.39053223250744,
-    "bestRating": 156.39053223250744,
-    "worstRating": 150,
+    "rating": 156.04266404959938,
+    "bestRating": 156.04266404959938,
+    "worstRating": 149.63625757611314,
     "_lastTenRatings": [
       155.65685424949237,
-      150,
-      155.90230910822584,
-      150,
-      156.39053223250744
+      149.990772742506,
+      155.8934817239226,
+      149.63625757611314,
+      156.04266404959938
     ],
-    "tendency": 0.7336779830150704
+    "tendency": 0.3858098001070118
   },
   {
     "NAF Nr": "30008",
@@ -435,15 +881,15 @@ const gnome2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 149.910366557935,
+    "rating": 149.91943969453098,
     "bestRating": 150,
-    "worstRating": 149.90791829338335,
+    "worstRating": 149.91723925525196,
     "_lastTenRatings": [
       150,
-      149.90791829338335,
-      149.910366557935
+      149.91723925525196,
+      149.91943969453098
     ],
-    "tendency": -0.08963344206500778
+    "tendency": -0.08056030546902093
   },
   {
     "NAF Nr": "30244",
@@ -483,15 +929,15 @@ const gnome2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 148.44733276127602,
-    "bestRating": 149.07521146727294,
-    "worstRating": 143.61126215211192,
+    "rating": 148.60647523579757,
+    "bestRating": 149.23977569189756,
+    "worstRating": 143.78328628822112,
     "_lastTenRatings": [
-      143.61126215211192,
-      149.07521146727294,
-      148.44733276127602
+      143.78328628822112,
+      149.23977569189756,
+      148.60647523579757
     ],
-    "tendency": 4.836070609164096
+    "tendency": 4.823188947576455
   },
   {
     "NAF Nr": "31446",
@@ -515,6 +961,33 @@ const gnome2025 = [
       141.7537887487647
     ],
     "tendency": -4.123105625617654
+  },
+  {
+    "NAF Nr": "31549",
+    "NAF Name": "Squirrelbay",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 148.44409071265596,
+    "bestRating": 157.74596669241484,
+    "worstRating": 140.60448947090623,
+    "_lastTenRatings": [
+      157.74596669241484,
+      157.74596669241484,
+      149.5400247963327,
+      149.1904124631764,
+      140.60448947090623,
+      148.44409071265596
+    ],
+    "tendency": -9.301875979758876
   },
   {
     "NAF Nr": "31863",
@@ -586,6 +1059,30 @@ const gnome2025 = [
     "tendency": 0.6903433319884016
   },
   {
+    "NAF Nr": "32583",
+    "NAF Name": "chicken23",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.65685424949237,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      155.65685424949237
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "32762",
     "NAF Name": "Ménalque",
     "CCAA": "Apatrida",
@@ -608,15 +1105,15 @@ const gnome2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 154.628829029326,
-    "bestRating": 154.628829029326,
+    "rating": 154.64050022786583,
+    "bestRating": 154.64050022786583,
     "worstRating": 145.52786404500043,
     "_lastTenRatings": [
       145.52786404500043,
-      150.00881076706773,
-      154.628829029326
+      150.02089634983503,
+      154.64050022786583
     ],
-    "tendency": 9.100964984325572
+    "tendency": 9.112636182865401
   },
   {
     "NAF Nr": "32786",
@@ -643,6 +1140,33 @@ const gnome2025 = [
       155.64665982222184
     ],
     "tendency": 5.646659822221835
+  },
+  {
+    "NAF Nr": "32819",
+    "NAF Name": "rukgor",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 127.22218835355422,
+    "bestRating": 150,
+    "worstRating": 119.01613323034064,
+    "_lastTenRatings": [
+      150,
+      142.25403330758516,
+      134.50806661517032,
+      126.76209992275548,
+      119.01613323034064,
+      127.22218835355422
+    ],
+    "tendency": -22.777811646445784
   },
   {
     "NAF Nr": "33054",
@@ -684,17 +1208,17 @@ const gnome2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 40,
-    "rating": 144.7021057385183,
+    "rating": 145.2115095738171,
     "bestRating": 150,
-    "worstRating": 139.06153037452245,
+    "worstRating": 139.60094347307285,
     "_lastTenRatings": [
       150,
       144.34314575050763,
-      139.07856190407983,
-      139.06153037452245,
-      144.7021057385183
+      139.88412093397673,
+      139.60094347307285,
+      145.2115095738171
     ],
-    "tendency": -5.2978942614817015
+    "tendency": -4.7884904261829035
   },
   {
     "NAF Nr": "35159",
@@ -745,6 +1269,33 @@ const gnome2025 = [
       138.68629150101526
     ],
     "tendency": -5.656854249492369
+  },
+  {
+    "NAF Nr": "38002",
+    "NAF Name": "mysan",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 127.81914753485128,
+    "bestRating": 150,
+    "worstRating": 120.05607010469146,
+    "_lastTenRatings": [
+      150,
+      141.81190820803585,
+      134.55210409044668,
+      127.26488548633561,
+      120.05607010469146,
+      127.81914753485128
+    ],
+    "tendency": -22.180852465148718
   },
   {
     "NAF Nr": "39313",
@@ -869,6 +1420,39 @@ const gnome2025 = [
     "tendency": -9.797958971132687
   },
   {
+    "NAF Nr": "40942",
+    "NAF Name": "Chiggles",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 133.0294372515229,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.0294372515229,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229
+    ],
+    "tendency": -11.313708498984738
+  },
+  {
     "NAF Nr": "41173",
     "NAF Name": "AngryRasin",
     "CCAA": "Apatrida",
@@ -920,6 +1504,66 @@ const gnome2025 = [
     "tendency": 5.076176425455401
   },
   {
+    "NAF Nr": "41883",
+    "NAF Name": "pixelslotha",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 127.37431418043906,
+    "bestRating": 144.34314575050763,
+    "worstRating": 127.37346733390086,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.030361722017,
+      127.37346733390086,
+      133.03074589865685,
+      127.37431418043906
+    ],
+    "tendency": -16.968831570068573
+  },
+  {
+    "NAF Nr": "41889",
+    "NAF Name": "acousticAnalyst",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 140.00734888526745,
+    "bestRating": 150,
+    "worstRating": 140.00734888526745,
+    "_lastTenRatings": [
+      150,
+      144.80821205154112,
+      140.00734888526745
+    ],
+    "tendency": -9.992651114732553
+  },
+  {
     "NAF Nr": "41935",
     "NAF Name": "bananahead4",
     "CCAA": "Apatrida",
@@ -942,6 +1586,30 @@ const gnome2025 = [
       138.94238256238626
     ],
     "tendency": -5.400763188121374
+  },
+  {
+    "NAF Nr": "42177",
+    "NAF Name": "miyr",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 133.0294372515229,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.0294372515229,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229
+    ],
+    "tendency": -11.313708498984738
   },
   {
     "NAF Nr": "42678",
@@ -999,18 +1667,18 @@ const gnome2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 134.6114018818256,
+    "rating": 134.18904811521202,
     "bestRating": 144.58860060924107,
-    "worstRating": 134.41679654930073,
+    "worstRating": 133.9765921232255,
     "_lastTenRatings": [
       144.58860060924107,
       138.92108922289918,
       144.56774904512105,
-      139.4967429321021,
-      134.41679654930073,
-      134.6114018818256
+      139.03793714788054,
+      133.9765921232255,
+      134.18904811521202
     ],
-    "tendency": -9.97719872741547
+    "tendency": -10.399552494029052
   },
   {
     "NAF Nr": "42891",
@@ -1037,6 +1705,30 @@ const gnome2025 = [
     "tendency": -4.118996915870582
   },
   {
+    "NAF Nr": "43098",
+    "NAF Name": "manualmorpheus",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 143.9273945788808,
+    "bestRating": 150,
+    "worstRating": 143.9273945788808,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      143.9273945788808
+    ],
+    "tendency": -0.4157511716268232
+  },
+  {
     "NAF Nr": "43116",
     "NAF Name": "Perrin",
     "CCAA": "Apatrida",
@@ -1050,17 +1742,98 @@ const gnome2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 8.33,
-    "rating": 121.98070945628352,
+    "rating": 121.9806917647524,
     "bestRating": 150.14238379461793,
-    "worstRating": 121.98070945628352,
+    "worstRating": 121.9806917647524,
     "_lastTenRatings": [
       150.14238379461793,
       144.47934753355997,
       138.81580457677458,
       133.02815858642822,
-      127.360733863694,
-      121.98070945628352
+      127.36071537117839,
+      121.9806917647524
     ],
-    "tendency": -28.161674338334407
+    "tendency": -28.161692029865534
+  },
+  {
+    "NAF Nr": "43127",
+    "NAF Name": "cheesepapa",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 146.48399526760878,
+    "bestRating": 153.605551275464,
+    "worstRating": 146.48399526760878,
+    "_lastTenRatings": [
+      153.605551275464,
+      149.99723946685378,
+      146.48399526760878
+    ],
+    "tendency": -7.121556007855219
+  },
+  {
+    "NAF Nr": "43266",
+    "NAF Name": "Diranic",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 1,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 155.59412949474836,
+    "bestRating": 155.59412949474836,
+    "worstRating": 152.82842712474618,
+    "_lastTenRatings": [
+      152.82842712474618,
+      152.82842712474618,
+      155.59412949474836
+    ],
+    "tendency": 2.765702370002174
+  },
+  {
+    "NAF Nr": "43349",
+    "NAF Name": "elevensies",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "33",
+    "raceName": "Gnome",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 136.57294563895277,
+    "bestRating": 145.52786404500043,
+    "worstRating": 136.57294563895277,
+    "_lastTenRatings": [
+      145.52786404500043,
+      141.0341806483613,
+      136.57294563895277
+    ],
+    "tendency": -8.954918406047653
   }
 ];

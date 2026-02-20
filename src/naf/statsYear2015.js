@@ -42421,7 +42421,7 @@ const statsYear2015 = [
   },
   {
     "NAF Nr": "18694",
-    "NAF Name": "themasterofchaos",
+    "NAF Name": "Kopecz",
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 133.03037889250587,

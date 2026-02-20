@@ -606,7 +606,20 @@ document.addEventListener("DOMContentLoaded", function () {
         totalWins: item.totalWins,
         totalDraws: item.totalDraws,
         totalLosses: item.totalLosses,
-        totalWinRatio: item.totalWinRatio
+        totalWinRatio: item.totalWinRatio,
+        // Streaks
+        victoryStreak: item.victoryStreak,
+        bestVictoryStreak: item.bestVictoryStreak,
+        noLostStreak: item.noLostStreak,
+        bestNoLostStreak: item.bestNoLostStreak,
+        lostStreak: item.lostStreak,
+        worstLostStreak: item.worstLostStreak,
+        oneTdStreak: item.oneTdStreak,
+        bestOneTdStreak: item.bestOneTdStreak,
+        twoTdStreak: item.twoTdStreak,
+        bestTwoTdStreak: item.bestTwoTdStreak,
+        noTdAgainstStreak: item.noTdAgainstStreak,
+        bestNoTdAgainstStreak: item.bestNoTdAgainstStreak
       };
     }
   }
@@ -686,6 +699,44 @@ document.addEventListener("DOMContentLoaded", function () {
       bbtYearStatsByNaf[key].sort(function (a, b) {
         return b.year - a.year;
       });
+    }
+  }
+
+  // --- STATS EXTRA (TD/CAS details) ---
+  var statsExtraByNaf = {};
+  var bbtStatsExtraByNaf = {};
+
+  function initStatsExtra() {
+    console.log("initStatsExtra called");
+    statsExtraByNaf = {};
+    if (typeof statsExtra === "undefined") {
+      console.error("statsExtra is undefined inside initStatsExtra!");
+      return;
+    }
+    if (!statsExtra) {
+      console.warn("statsExtra is null/false");
+      return;
+    }
+    console.log("statsExtra length: " + statsExtra.length);
+    for (var i = 0; i < statsExtra.length; i++) {
+      var item = statsExtra[i];
+      var nafNr = String(item["NAF Nr"] || "");
+      if (!nafNr) continue;
+      statsExtraByNaf[nafNr] = item;
+    }
+    console.log("statsExtraByNaf keys count: " + Object.keys(statsExtraByNaf).length);
+    var keys = Object.keys(statsExtraByNaf);
+    if (keys.length > 0) console.log("Sample key: '" + keys[0] + "'");
+  }
+
+  function initBbtStatsExtra() {
+    bbtStatsExtraByNaf = {};
+    if (typeof statsExtraBbt === "undefined" || !statsExtraBbt) return;
+    for (var i = 0; i < statsExtraBbt.length; i++) {
+      var item = statsExtraBbt[i];
+      var nafNr = String(item["NAF Nr"] || "");
+      if (!nafNr) continue;
+      bbtStatsExtraByNaf[nafNr] = item;
     }
   }
 
@@ -837,14 +888,41 @@ document.addEventListener("DOMContentLoaded", function () {
         perfilHtml += "<div><strong data-i18n='ccaa'>CCAA:</strong> " + r.ccaa + "</div>";
       }
 
-      // Totales globales justo debajo del entrenador
+      // Totales globales en 2 columnas (NAF | BBT)
       perfilHtml += '<hr class="my-2">';
+      perfilHtml += '<div class="row">';
+
+      // Columna NAF
+      perfilHtml += '<div class="col-6" style="border-right: 1px solid #dee2e6;">';
+      perfilHtml += '<div class="text-start mb-1"><u>NAF</u></div>';
       perfilHtml += '<div><strong data-i18n="torneos">Torneos:</strong> ' + safeVal(r.totalTournaments) + '</div>';
       perfilHtml += '<div><strong data-i18n="partidos">Partidos:</strong> ' + safeVal(r.totalGames) + '</div>';
       perfilHtml += '<div><strong data-i18n="victoria">Victorias:</strong> ' + safeVal(r.totalWins) + '</div>';
       perfilHtml += '<div><strong data-i18n="empate">Empates:</strong> ' + safeVal(r.totalDraws) + '</div>';
       perfilHtml += '<div><strong data-i18n="derrota">Derrotas:</strong> ' + safeVal(r.totalLosses) + '</div>';
       perfilHtml += '<div><strong data-i18n="wrTotal">WR total:</strong> ' + safeNum(r.totalWinRatio, 2, "%") + '</div>';
+      perfilHtml += '</div>';
+
+      // Columna BBT
+      var bbtOverall = bbtOverallByNaf[r.nafNr];
+      var bbtT = bbtOverall ? safeVal(bbtOverall.totalTournaments) : "-";
+      var bbtG = bbtOverall ? safeVal(bbtOverall.totalGames) : "-";
+      var bbtW = bbtOverall ? safeVal(bbtOverall.totalWins) : "-";
+      var bbtD = bbtOverall ? safeVal(bbtOverall.totalDraws) : "-";
+      var bbtL = bbtOverall ? safeVal(bbtOverall.totalLosses) : "-";
+      var bbtWR = bbtOverall ? safeNum(bbtOverall.totalWinRatio, 2, "%") : "-";
+
+      perfilHtml += '<div class="col-6">';
+      perfilHtml += '<div class="text-start mb-1"><u>BBT</u></div>';
+      perfilHtml += '<div><strong data-i18n="torneos">Torneos:</strong> ' + bbtT + '</div>';
+      perfilHtml += '<div><strong data-i18n="partidos">Partidos:</strong> ' + bbtG + '</div>';
+      perfilHtml += '<div><strong data-i18n="victoria">Victorias:</strong> ' + bbtW + '</div>';
+      perfilHtml += '<div><strong data-i18n="empate">Empates:</strong> ' + bbtD + '</div>';
+      perfilHtml += '<div><strong data-i18n="derrota">Derrotas:</strong> ' + bbtL + '</div>';
+      perfilHtml += '<div><strong data-i18n="wrTotal">WR total:</strong> ' + bbtWR + '</div>';
+      perfilHtml += '</div>';
+
+      perfilHtml += '</div>'; // fin .row
 
       // Insignias en el orden solicitado
       var badgesHtml = "";
@@ -1023,11 +1101,56 @@ document.addEventListener("DOMContentLoaded", function () {
       // ===== COLUMNA 1: GLOBAL NAF (rating, rachas, proplayers…) =====
       statsHtml += '<div class="col-md-3 col-12">';
 
+      // 0) TITULO NAF
+      statsHtml += '<div class="stat-item"><strong>NAF</strong></div>';
+
       // 1) RATING (los totales ya se muestran arriba)
       statsHtml += '<div class="stat-item"><span class="stat-label">Rating:</span> ' + safeNum(r.rating, 2) + '</div>';
       statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="mejorRating">Mejor Rating:</span> ' + safeNum(r.bestRating, 2) + '</div>';
       statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="peorRating">Peor Rating:</span> ' + safeNum(r.worstRating, 2) + '</div>';
       statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="tendencia">Tendencia:</span> ' + safeNum(r.tendency, 2) + '</div>';
+
+      // Arch-Enemy (NAF)
+      var lookupKey = String(r.nafNr);
+      // console.log("DEBUG Render: NAF=" + r.nafNr + " LookupKey='" + lookupKey + "' in map? " + (!!statsExtraByNaf[lookupKey]));
+      var extraNaf = statsExtraByNaf[lookupKey];
+
+      console.log("DEBUG Arch-Enemy: NAF=" + r.nafNr, extraNaf);
+      if (extraNaf && extraNaf.rivals && extraNaf.rivals.length > 0) {
+        var maxCount = -1;
+        var maxRivalId = "";
+        for (var k = 0; k < extraNaf.rivals.length; k++) {
+          var riv = extraNaf.rivals[k];
+          var c = parseInt(riv.count, 10) || 0;
+          if (c > maxCount) {
+            maxCount = c;
+            maxRivalId = riv.id;
+          }
+        }
+        if (maxCount > 0 && maxRivalId) {
+          console.log("Arch-Enemy found: " + maxCount + " vs " + maxRivalId);
+          // Find coach name for maxRivalId
+          // We need a lookup. We can build it once or search on the fly.
+          // Search on the fly is slower but easier to implement without big changes.
+          // generalAll is global.
+          var rivalName = "Unknown";
+          // Optimization: build map outside render loop if slow. For now simple search.
+          // Better: use a helper function or global map.
+          // Let's assume we can search generalAll or create the map in initDataFromGeneralAll.
+          // For now, linear search.
+          if (typeof generalAll !== "undefined" && generalAll) {
+            var found = generalAll.find(function (g) { return String(g["NAF Nr"]) === String(maxRivalId); });
+            if (found) rivalName = found["NAF Name"];
+            else console.warn("Rival NAF " + maxRivalId + " not found in generalAll.");
+          } else {
+            console.error("generalAll is undefined when searching for rival!");
+          }
+
+          statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="archienemigo">Archienemigo:</span> ' + maxCount + ' vs ' + rivalName + '</div>';
+        } else {
+          console.log("No Arch-Enemy found (maxCount=" + maxCount + ", maxRivalId=" + maxRivalId + ")");
+        }
+      }
 
       statsHtml += '<hr class="my-2">';
 
@@ -1044,7 +1167,12 @@ document.addEventListener("DOMContentLoaded", function () {
         (r.trophiesBestpainted || 0) +
         (r.trophiesOtherawards || 0);
 
-      if (hasOrganizer || totalTrophiesGlobal > 0) {
+      if (hasOrganizer || totalTrophiesGlobal > 0 || cpCount > 0) {
+
+        // --- NUEVO: Países visitados (antes de organizador) ---
+        if (cpCount > 0) {
+          statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="paisesVisitados">Países visitados: </span>' + cpCount + '</div>';
+        }
 
         if (hasOrganizer) {
           statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="torneosOrganizados">Torneos organizados: </span>' + organizerCountGlobal + '</div>';
@@ -1089,6 +1217,27 @@ document.addEventListener("DOMContentLoaded", function () {
       statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="noTd">Racha sin recibir TD:</span> ' + safeVal(r.noTdAgainstStreak) + '</div>';
       statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="mejorNoTd">Mejor racha sin recibir TD:</span> ' + safeVal(r.bestNoTdAgainstStreak) + '</div>';
 
+      // EXTRA STATS (NAF)
+      var extraNaf = statsExtraByNaf[r.nafNr];
+      if (extraNaf) {
+        statsHtml += '<hr class="my-2">';
+        statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="maxTdFavor">Máximos TD a favor:</span> ' + safeVal(extraNaf.tdMaxScored) + '</div>';
+        statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="maxTdContra">Máximos TD en contra:</span> ' + safeVal(extraNaf.tdMaxConceded) + '</div>';
+        statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="mediaTdFavor">Media TD a favor:</span> ' + safeNum(extraNaf.tdMediaFor, 2) + '</div>';
+        statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="mediaTdContra">Media TD en contra:</span> ' + safeNum(extraNaf.tdMediaAgain, 2) + '</div>';
+        statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="diffTdFavor">Diferencia TD a favor:</span> ' + safeVal(extraNaf.tdMaxDifFor) + '</div>';
+        statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="diffTdContra">Diferencia TD en contra:</span> ' + safeVal(extraNaf.tdMaxDifAgain) + '</div>';
+        statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="partidoMasTd">Partido con más TD:</span> ' + safeVal(extraNaf.tdMaxDifCombined) + '</div>';
+
+        statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="maxCasFavor">Máximos CAS a favor:</span> ' + safeVal(extraNaf.casMaxScored) + '</div>';
+        statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="maxCasContra">Máximos CAS en contra:</span> ' + safeVal(extraNaf.casMaxConceded) + '</div>';
+        statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="mediaCasFavor">Media CAS a favor:</span> ' + safeNum(extraNaf.casMediaFor, 2) + '</div>';
+        statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="mediaCasContra">Media CAS en contra:</span> ' + safeNum(extraNaf.casMediaAgain, 2) + '</div>';
+        statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="diffCasFavor">Diferencia CAS a favor:</span> ' + safeVal(extraNaf.casMaxDifFor) + '</div>';
+        statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="diffCasContra">Diferencia CAS en contra:</span> ' + safeVal(extraNaf.casMaxDifAgain) + '</div>';
+        statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="partidoMasCas">Partido con más CAS:</span> ' + safeVal(extraNaf.casMaxDifCombined) + '</div>';
+      }
+
       statsHtml += '<hr class="my-2">';
 
       // 4) PROPLAYERS
@@ -1128,7 +1277,7 @@ document.addEventListener("DOMContentLoaded", function () {
         for (var yi = 0; yi < yearList.length; yi++) {
           var ys = yearList[yi];
 
-          statsHtml += '<div class="stat-item"><strong data-i18n="anyo">' + ys.year + '</strong></div>';
+          statsHtml += '<div class="stat-item"><strong>' + ys.year + '</strong></div>';
           statsHtml += '<div class="stat-item ms-3"><span data-i18n="torneos">Torneos</span>: ' + safeVal(ys.tournaments) + '</div>';
           statsHtml += '<div class="stat-item ms-3"><span data-i18n="partidos">Partidos</span>: ' + safeVal(ys.gamesTotal) + " (" + safeVal(ys.gamesWon) + "/" + safeVal(ys.gamesDraw) + "/" + safeVal(ys.gamesLost) + ")</div>";
           statsHtml += '<div class="stat-item ms-3">WR: ' + safeNum(ys.winRatio, 2, "%") + '</div>';
@@ -1302,20 +1451,52 @@ document.addEventListener("DOMContentLoaded", function () {
         statsHtml += '<div class="stat-item"><span class="stat-label" data-i18n="sinDatosBbt">Sin datos BBT</span></div>';
       } else {
         if (bbtOverall) {
-          statsHtml += '<div class="stat-item"><strong>BBT global</strong></div>';
-          statsHtml += '<div class="stat-item ms-3"><span data-i18n="torneos">Torneos</span>: ' + safeVal(bbtOverall.totalTournaments) + '</div>';
-          statsHtml += '<div class="stat-item ms-3"><span data-i18n="partidos">Partidos</span>: ' + safeVal(bbtOverall.totalGames) + '</div>';
-          statsHtml += '<div class="stat-item ms-3"><span data-i18n="victoria">Victorias</span>: ' + safeVal(bbtOverall.totalWins) + '</div>';
-          statsHtml += '<div class="stat-item ms-3"><span data-i18n="empate">Empates</span>: ' + safeVal(bbtOverall.totalDraws) + '</div>';
-          statsHtml += '<div class="stat-item ms-3"><span data-i18n="derrota">Derrotas</span>: ' + safeVal(bbtOverall.totalLosses) + '</div>';
-          statsHtml += '<div class="stat-item ms-3"><span data-i18n="wrTotal">WR total</span>: ' + safeNum(bbtOverall.totalWinRatio, 2, "%") + '</div>';
+
+          statsHtml += '<div class="stat-item"><strong>BBT</strong></div>';
+          statsHtml += '<div class="stat-item ms-3"><strong>Rating:</strong> ' + safeNum(bbtOverall.rating, 2) + '</div>';
+          statsHtml += '<div class="stat-item ms-3"><strong data-i18n="mejorRating">Mejor Rating:</strong> ' + safeNum(bbtOverall.bestRating, 2) + '</div>';
+          statsHtml += '<div class="stat-item ms-3"><strong data-i18n="peorRating">Peor Rating:</strong> ' + safeNum(bbtOverall.worstRating, 2) + '</div>';
+          statsHtml += '<div class="stat-item ms-3"><strong data-i18n="tendencia">Tendencia:</strong> ' + safeNum(bbtOverall.tendency, 2) + '</div>';
 
           statsHtml += '<hr class="my-2">';
 
-          statsHtml += '<div class="stat-item ms-3">Rating: ' + safeNum(bbtOverall.rating, 2) + '</div>';
-          statsHtml += '<div class="stat-item ms-3"><span data-i18n="mejorRating">Mejor Rating</span>: ' + safeNum(bbtOverall.bestRating, 2) + '</div>';
-          statsHtml += '<div class="stat-item ms-3"><span data-i18n="peorRating">Peor Rating</span>: ' + safeNum(bbtOverall.worstRating, 2) + '</div>';
-          statsHtml += '<div class="stat-item ms-3"><span data-i18n="tendencia">Tendencia</span>: ' + safeNum(bbtOverall.tendency, 2) + '</div>';
+          // Arch-Enemy (BBT) - Not available in data currently, but placeholder if added later
+          // if (extraBbt && extraBbt.rivals && extraBbt.rivals.length > 0) { ... }
+
+          // Rachas BBT
+          statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="victorias">Racha victorias:</span> ' + safeVal(bbtOverall.victoryStreak) + '</div>';
+          statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="mejorVictorias">Mejor racha victorias:</span> ' + safeVal(bbtOverall.bestVictoryStreak) + '</div>';
+          statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="noDerrotas">Racha sin perder:</span> ' + safeVal(bbtOverall.noLostStreak) + '</div>';
+          statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="mejorNoDerrotas">Mejor racha sin perder:</span> ' + safeVal(bbtOverall.bestNoLostStreak) + '</div>';
+          statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="derrotas">Racha derrotas:</span> ' + safeVal(bbtOverall.lostStreak) + '</div>';
+          statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="peorDerrotas">Peor racha derrotas:</span> ' + safeVal(bbtOverall.worstLostStreak) + '</div>';
+          statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="unTd">Racha marcando 1+ TD:</span> ' + safeVal(bbtOverall.oneTdStreak) + '</div>';
+          statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="mejorUnTd">Mejor marcando 1+ TD:</span> ' + safeVal(bbtOverall.bestOneTdStreak) + '</div>';
+          statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="dosTd">Racha marcando 2+ TD:</span> ' + safeVal(bbtOverall.twoTdStreak) + '</div>';
+          statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="mejorDosTd">Mejor marcando 2+ TD:</span> ' + safeVal(bbtOverall.bestTwoTdStreak) + '</div>';
+          statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="noTd">Racha sin recibir TD:</span> ' + safeVal(bbtOverall.noTdAgainstStreak) + '</div>';
+          statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="mejorNoTd">Mejor racha sin recibir TD:</span> ' + safeVal(bbtOverall.bestNoTdAgainstStreak) + '</div>';
+
+          // EXTRA STATS (BBT)
+          var extraBbt = bbtStatsExtraByNaf[r.nafNr];
+          if (extraBbt) {
+            statsHtml += '<hr class="my-2">';
+            statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="maxTdFavor">Máximos TD a favor:</span> ' + safeVal(extraBbt.tdMaxScored) + '</div>';
+            statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="maxTdContra">Máximos TD en contra:</span> ' + safeVal(extraBbt.tdMaxConceded) + '</div>';
+            statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="mediaTdFavor">Media TD a favor:</span> ' + safeNum(extraBbt.tdMediaFor, 2) + '</div>';
+            statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="mediaTdContra">Media TD en contra:</span> ' + safeNum(extraBbt.tdMediaAgain, 2) + '</div>';
+            statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="diffTdFavor">Diferencia TD a favor:</span> ' + safeVal(extraBbt.tdMaxDifFor) + '</div>';
+            statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="diffTdContra">Diferencia TD en contra:</span> ' + safeVal(extraBbt.tdMaxDifAgain) + '</div>';
+            statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="partidoMasTd">Partido con más TD:</span> ' + safeVal(extraBbt.tdMaxDifCombined) + '</div>';
+
+            statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="maxCasFavor">Máximos CAS a favor:</span> ' + safeVal(extraBbt.casMaxScored) + '</div>';
+            statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="maxCasContra">Máximos CAS en contra:</span> ' + safeVal(extraBbt.casMaxConceded) + '</div>';
+            statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="mediaCasFavor">Media CAS a favor:</span> ' + safeNum(extraBbt.casMediaFor, 2) + '</div>';
+            statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="mediaCasContra">Media CAS en contra:</span> ' + safeNum(extraBbt.casMediaAgain, 2) + '</div>';
+            statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="diffCasFavor">Diferencia CAS a favor:</span> ' + safeVal(extraBbt.casMaxDifFor) + '</div>';
+            statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="diffCasContra">Diferencia CAS en contra:</span> ' + safeVal(extraBbt.casMaxDifAgain) + '</div>';
+            statsHtml += '<div class="stat-item ms-3"><span class="stat-label" data-i18n="partidoMasCas">Partido con más CAS:</span> ' + safeVal(extraBbt.casMaxDifCombined) + '</div>';
+          }
         }
 
         if (bbtYears && bbtYears.length) {
@@ -1468,6 +1649,8 @@ document.addEventListener("DOMContentLoaded", function () {
   initRaceStats2025();   // razas BB2025 (variantid 15)
   initBbtOverall();
   initBbtYearStats();
+  initStatsExtra();
+  initBbtStatsExtra();
   renderEmptyState();
 
   nafFilter.addEventListener("input", applyFilters);

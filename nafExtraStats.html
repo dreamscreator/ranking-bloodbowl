@@ -124,6 +124,7 @@
                 <ul class="dropdown-menu submenu">
                   <li><a class="dropdown-item" href="nafExtraStats.html">NAF</a></li>
                   <li><a class="dropdown-item" href="nafEsExtraStats.html" data-i18n="nafSpain">NAF España</a></li>
+                  <li><a class="dropdown-item" href="bbtExtraStats.html">BBT</a></li>
                 </ul>
               </li>
               <li class="dropdown-submenu position-relative">
@@ -251,15 +252,31 @@
         <span class="fw-bold me-2" data-i18n="ordenar">Ordenar por:</span>
 
         <span class="me-2">
-          <button type="button" class="btn btn-outline-primary btn-sm sort-btn mb-1" data-key="maxScored" title="Maximum Scored" data-i18n="maxA">Max. A.</button>
-          <button type="button" class="btn btn-outline-primary btn-sm sort-btn mb-1" data-key="maxConceded" title="Maximum Conceded" data-i18n="maxE">Max. E.</button>
+            <!-- TD STATS -->
+          <button type="button" class="btn btn-outline-primary btn-sm sort-btn mb-1" data-key="tdMaxScored" title="Maximum Scored" data-i18n="maxA">Max. A.</button>
+          <button type="button" class="btn btn-outline-primary btn-sm sort-btn mb-1" data-key="tdMaxConceded" title="Maximum Conceded" data-i18n="maxE">Max. E.</button>
           
-          <button type="button" class="btn btn-outline-primary btn-sm sort-btn mb-1" data-key="maxCombined" title="Maximum Combined">Comb.</button>
+          <button type="button" class="btn btn-outline-primary btn-sm sort-btn mb-1" data-key="tdMediaFor" title="Average Scored">Med. A.</button>
+          <button type="button" class="btn btn-outline-primary btn-sm sort-btn mb-1" data-key="tdMediaAgain" title="Average Conceded">Med. E.</button>
 
-          <button type="button" class="btn btn-outline-primary btn-sm sort-btn mb-1" data-key="biggestWinDiff" title="Biggest Win Diff" data-i18n="difV">Dif. V.</button>
-          <button type="button" class="btn btn-outline-primary btn-sm sort-btn mb-1" data-key="biggestLossDiff" title="Biggest Loss Diff" data-i18n="difD">Dif D.</button>
+          <button type="button" class="btn btn-outline-primary btn-sm sort-btn mb-1" data-key="tdMaxDifFor" title="Max Diff For" data-i18n="difV">Dif. A.</button>
+          <button type="button" class="btn btn-outline-primary btn-sm sort-btn mb-1" data-key="tdMaxDifAgain" title="Max Diff Against" data-i18n="difD">Dif. E.</button>
+          
+          <button type="button" class="btn btn-outline-primary btn-sm sort-btn mb-1" data-key="tdMaxDifCombined" title="Max Combined">Comb. TD</button>
 
-          <button type="button" class="btn btn-outline-primary btn-sm sort-btn mb-1" data-key="rivalCount" title="Most Played Rival" data-i18n="archienemigo">Archienemigo</button>
+            <!-- CAS STATS -->
+          <button type="button" class="btn btn-outline-danger btn-sm sort-btn mb-1" data-key="casMaxScored" title="Max CAS Scored">Max. CAS A.</button>
+          <button type="button" class="btn btn-outline-danger btn-sm sort-btn mb-1" data-key="casMaxConceded" title="Max CAS Conceded">Max. CAS E.</button>
+
+          <button type="button" class="btn btn-outline-danger btn-sm sort-btn mb-1" data-key="casMediaFor" title="Average CAS Scored">Med. CAS A.</button>
+          <button type="button" class="btn btn-outline-danger btn-sm sort-btn mb-1" data-key="casMediaAgain" title="Average CAS Conceded">Med. CAS E.</button>
+
+          <button type="button" class="btn btn-outline-danger btn-sm sort-btn mb-1" data-key="casMaxDifFor" title="Max CAS Diff For">Dif. CAS A.</button>
+          <button type="button" class="btn btn-outline-danger btn-sm sort-btn mb-1" data-key="casMaxDifAgain" title="Max CAS Diff Against">Dif. CAS E.</button>
+
+          <button type="button" class="btn btn-outline-danger btn-sm sort-btn mb-1" data-key="casMaxDifCombined" title="Max CAS Combined">Comb. CAS</button>
+
+          <button type="button" class="btn btn-outline-secondary btn-sm sort-btn mb-1" data-key="rivalCount" title="Most Played Rival" data-i18n="archienemigo">Archienemigo</button>
         </span>
       </div>
     </div>
@@ -276,11 +293,25 @@
             <th>NAF #</th>
             <th data-i18n="entrenador">Entrenador</th>
             <th class="country-column" data-i18n="pais">País</th>
+            
+            <!-- TD -->
             <th title="Máximo Anotado" data-i18n="maxA">Max. A.</th>
             <th title="Máximo Encajado" data-i18n="maxE">Max. E.</th>
-            <th title="Combinado">Comb.</th>
-            <th title="Diferencia Victoria" data-i18n="difV">Dif V.</th>
-            <th title="Diferencia Derrota" data-i18n="difD">Dif D.</th>
+            <th title="Media Anotado">Med. A.</th>
+            <th title="Media Encajado">Med. E.</th>
+            <th title="Diferencia Anotado" data-i18n="difV">Dif. A.</th>
+            <th title="Diferencia Encajado" data-i18n="difD">Dif. E.</th>
+            <th title="Combinado TD">Comb. TD</th>
+
+            <!-- CAS -->
+            <th title="Máximo CAS Anotado">Max. CAS A.</th>
+            <th title="Máximo CAS Encajado">Max. CAS E.</th>
+            <th title="Media CAS Anotado">Med. CAS A.</th>
+            <th title="Media CAS Encajado">Med. CAS E.</th>
+            <th title="Diferencia CAS Anotado">Dif. CAS A.</th>
+            <th title="Diferencia CAS Encajado">Dif. CAS E.</th>
+            <th title="Combinado CAS">Comb. CAS</th>
+
             <th title="Partidos vs Entrenador" data-i18n="archienemigo">Archienemigo</th>
           </tr>
         </thead>

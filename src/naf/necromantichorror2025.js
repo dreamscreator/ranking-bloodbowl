@@ -1,5 +1,36 @@
 const necromantichorror2025 = [
   {
+    "NAF Nr": "9",
+    "NAF Name": "Non-NAF",
+    "CCAA": "Apatrida",
+    "Country": "Cayman Islands",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 17,
+    "gamesWon": 5,
+    "gamesDraw": 5,
+    "gamesLost": 7,
+    "totalWinRatio": 0,
+    "totalTournaments": 4,
+    "winRatio": 44.12,
+    "rating": 146.99438819603563,
+    "bestRating": 146.99438819603563,
+    "worstRating": 124.63815075138449,
+    "_lastTenRatings": [
+      124.63815075138449,
+      129.69638562882227,
+      134.45939417108227,
+      134.8263757483008,
+      139.6960082991169,
+      144.27348491988238,
+      144.1828705787246,
+      144.44617478174575,
+      144.84795115864435,
+      146.99438819603563
+    ],
+    "tendency": 22.356237444651143
+  },
+  {
     "NAF Nr": "2916",
     "NAF Name": "Willi",
     "CCAA": "Apatrida",
@@ -13,18 +44,131 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 141.8712124953468,
+    "rating": 141.8769650528888,
     "bestRating": 146,
-    "worstRating": 141.8712124953468,
+    "worstRating": 141.8769650528888,
     "_lastTenRatings": [
       146,
       142,
       146,
-      141.99979972674893,
-      145.75202095278124,
-      141.8712124953468
+      141.99998763858233,
+      145.75794960509256,
+      141.8769650528888
     ],
-    "tendency": -4.128787504653189
+    "tendency": -4.123034947111194
+  },
+  {
+    "NAF Nr": "2940",
+    "NAF Name": "Uriah",
+    "CCAA": "Aragón",
+    "Country": "Spain",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 4,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.69435232513771,
+    "bestRating": 157.9430710353574,
+    "worstRating": 149.69435232513771,
+    "_lastTenRatings": [
+      157.74596669241484,
+      157.9430710353574,
+      150.1853860076176,
+      150.17436435502188,
+      150.16399796588357,
+      149.69435232513771
+    ],
+    "tendency": -8.051614367277125
+  },
+  {
+    "NAF Nr": "4521",
+    "NAF Name": "BusterGut",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.15112887761998,
+    "bestRating": 155.81951158966763,
+    "worstRating": 150.15112887761998,
+    "_lastTenRatings": [
+      155.81951158966763,
+      150.15559509380952,
+      155.8051319330344,
+      150.15112887761998
+    ],
+    "tendency": -5.668382712047645
+  },
+  {
+    "NAF Nr": "5143",
+    "NAF Name": "MagicDave",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 159.46644940043078,
+    "bestRating": 159.46644940043078,
+    "worstRating": 145.20416847668727,
+    "_lastTenRatings": [
+      145.20416847668727,
+      145.2299056974937,
+      149.84833930161832,
+      154.64951427740644,
+      154.848734896351,
+      159.46644940043078
+    ],
+    "tendency": 14.262280923743504
+  },
+  {
+    "NAF Nr": "5663",
+    "NAF Name": "yiyo",
+    "CCAA": "Catalunya ",
+    "Country": "Spain",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 161.07356590226956,
+    "bestRating": 161.07356590226956,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      155.65685424949237,
+      161.07356590226956
+    ],
+    "tendency": 16.730420151761933
   },
   {
     "NAF Nr": "6123",
@@ -40,15 +184,97 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 83.33,
-    "rating": 161.31370849898474,
-    "bestRating": 161.31370849898474,
+    "rating": 161.98509176795267,
+    "bestRating": 161.98509176795267,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
       155.65685424949237,
       161.31370849898474,
-      161.31370849898474
+      161.98509176795267
     ],
-    "tendency": 5.656854249492369
+    "tendency": 6.328237518460298
+  },
+  {
+    "NAF Nr": "6984",
+    "NAF Name": "Nicap",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 11,
+    "gamesWon": 4,
+    "gamesDraw": 3,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 50,
+    "rating": 148.59078693953285,
+    "bestRating": 161.33319207147596,
+    "worstRating": 148.59078693953285,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      161.33319207147596,
+      161.33234613449378,
+      155.67424005571579,
+      161.08488601579458,
+      154.93742661511502,
+      149.06520927619525,
+      154.46646303614278,
+      148.59078693953285
+    ],
+    "tendency": -7.0660673099595215
+  },
+  {
+    "NAF Nr": "7037",
+    "NAF Name": "GardenGnome",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 60,
+    "rating": 155.6666705509779,
+    "bestRating": 155.6666705509779,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      155.65685424949237,
+      149.99960471165699,
+      155.6666705509779
+    ],
+    "tendency": 11.323524800470267
+  },
+  {
+    "NAF Nr": "7407",
+    "NAF Name": "Pakulkan",
+    "CCAA": "Apatrida",
+    "Country": "Monaco",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.9906553256715,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.34314575050763,
+      149.9906553256715
+    ],
+    "tendency": 5.647509575163866
   },
   {
     "NAF Nr": "7656",
@@ -64,16 +290,43 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.99981925711052,
+    "rating": 149.99981926171458,
     "bestRating": 150,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
       150,
       150,
-      149.99981925711052
+      149.99981926171458
     ],
-    "tendency": 5.6566735066028855
+    "tendency": 5.656673511206947
+  },
+  {
+    "NAF Nr": "8734",
+    "NAF Name": "Haktar",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 156.8816136160505,
+    "bestRating": 161.29760488758802,
+    "worstRating": 151.28032803990905,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.29687396651985,
+      161.29760488758802,
+      155.8986562344327,
+      151.28032803990905,
+      156.8816136160505
+    ],
+    "tendency": 1.2247593665581178
   },
   {
     "NAF Nr": "10236",
@@ -98,15 +351,15 @@ const necromantichorror2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 144.95841543293213,
+    "rating": 144.9594370272986,
     "bestRating": 155.47722557505165,
-    "worstRating": 144.95841543293213,
+    "worstRating": 144.9594370272986,
     "_lastTenRatings": [
       155.47722557505165,
       150,
-      144.95841543293213
+      144.9594370272986
     ],
-    "tendency": -10.51881014211952
+    "tendency": -10.517788547753042
   },
   {
     "NAF Nr": "11280",
@@ -131,15 +384,15 @@ const necromantichorror2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 158.9527812116328,
-    "bestRating": 158.9527812116328,
-    "worstRating": 154.47213595499957,
+    "rating": 158.7755228493418,
+    "bestRating": 158.7755228493418,
+    "worstRating": 154.27647923939847,
     "_lastTenRatings": [
       154.47213595499957,
-      154.47213595499957,
-      158.9527812116328
+      154.27647923939847,
+      158.7755228493418
     ],
-    "tendency": 4.480645256633238
+    "tendency": 4.303386894342225
   },
   {
     "NAF Nr": "11793",
@@ -180,18 +433,18 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.59294466434432,
-    "bestRating": 156.3068320884931,
-    "worstRating": 150.59294466434432,
+    "rating": 150.4250457232451,
+    "bestRating": 156.2701969460614,
+    "worstRating": 150.3432187161529,
     "_lastTenRatings": [
-      155.89505601368478,
-      155.8847137903254,
-      150.668262226687,
-      156.3068320884931,
-      150.62489860605368,
-      150.59294466434432
+      156.2701969460614,
+      156.2435670535647,
+      150.3432187161529,
+      156.02509659073885,
+      150.4016753001717,
+      150.4250457232451
     ],
-    "tendency": -5.302111349340464
+    "tendency": -5.845151222816298
   },
   {
     "NAF Nr": "12145",
@@ -216,19 +469,46 @@ const necromantichorror2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 160.94867855639632,
-    "bestRating": 160.94867855639632,
+    "rating": 161.02280977503517,
+    "bestRating": 161.02280977503517,
     "worstRating": 144.58860060924107,
     "_lastTenRatings": [
       150,
       144.58860060924107,
       150.23479772188392,
       153.6926565507635,
-      154.06132985560896,
-      157.51017743108602,
-      160.94867855639632
+      154.1395654589123,
+      157.58633335771157,
+      161.02280977503517
     ],
-    "tendency": 10.948678556396317
+    "tendency": 11.02280977503517
+  },
+  {
+    "NAF Nr": "12272",
+    "NAF Name": "Rhox",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 172.75219842340624,
+    "bestRating": 172.75219842340624,
+    "worstRating": 157.74596669241484,
+    "_lastTenRatings": [
+      157.74596669241484,
+      157.74596669241484,
+      157.74596669241484,
+      165.49193338482968,
+      165.4645868265795,
+      172.75219842340624
+    ],
+    "tendency": 15.006231730991402
   },
   {
     "NAF Nr": "12828",
@@ -253,6 +533,66 @@ const necromantichorror2025 = [
       145.7618565314503
     ],
     "tendency": 0.004497218569582628
+  },
+  {
+    "NAF Nr": "13333",
+    "NAF Name": "VoldemortsCleaner",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 75,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 166.96651543356265,
+    "bestRating": 166.96651543356265,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      149.9951663176341,
+      149.99537618626593,
+      155.6524311923221,
+      161.30947748193765,
+      166.96651543356265
+    ],
+    "tendency": 22.623369683055017
+  },
+  {
+    "NAF Nr": "13411",
+    "NAF Name": "RobDowney",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.71248310279628,
+    "bestRating": 144.34314575050763,
+    "worstRating": 138.71248310279628,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      138.71248310279628
+    ],
+    "tendency": -5.630662647711347
   },
   {
     "NAF Nr": "15807",
@@ -303,15 +643,15 @@ const necromantichorror2025 = [
       "bestpainted": 1,
       "otherawards": 0
     },
-    "rating": 159.7337448860619,
-    "bestRating": 159.7337448860619,
-    "worstRating": 154.73146221629528,
+    "rating": 159.86450751509105,
+    "bestRating": 159.86450751509105,
+    "worstRating": 154.89636334849808,
     "_lastTenRatings": [
       155.42203733245537,
-      154.73146221629528,
-      159.7337448860619
+      154.89636334849808,
+      159.86450751509105
     ],
-    "tendency": 4.311707553606539
+    "tendency": 4.442470182635674
   },
   {
     "NAF Nr": "16320",
@@ -351,8 +691,8 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 3,
     "winRatio": 66.67,
-    "rating": 169.92987344007224,
-    "bestRating": 170.45549862879673,
+    "rating": 170.14738941064314,
+    "bestRating": 171.09806965953163,
     "worstRating": 149.75454514126653,
     "_lastTenRatings": [
       155.65685424949237,
@@ -360,13 +700,13 @@ const necromantichorror2025 = [
       155.1765824737219,
       160.60926024393405,
       160.63253928330923,
-      160.1719182068122,
-      165.21915448762974,
-      170.45549862879673,
-      164.41360212478574,
-      169.92987344007224
+      160.8721407048733,
+      165.8893455137121,
+      171.09806965953163,
+      165.04289157188975,
+      170.14738941064314
     ],
-    "tendency": 14.273019190579873
+    "tendency": 14.490535161150774
   },
   {
     "NAF Nr": "17419",
@@ -424,8 +764,8 @@ const necromantichorror2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 178.00669806777046,
-    "bestRating": 178.00669806777046,
+    "rating": 178.0066848933842,
+    "bestRating": 178.0066848933842,
     "worstRating": 150,
     "_lastTenRatings": [
       158.6187440047908,
@@ -435,11 +775,11 @@ const necromantichorror2025 = [
       158.5766208350061,
       162.8291305124307,
       163.16746912391037,
-      167.71457290195931,
-      172.8493951175296,
-      178.00669806777046
+      167.7145585151525,
+      172.84938135004901,
+      178.0066848933842
     ],
-    "tendency": 19.387954062979645
+    "tendency": 19.38794088859339
   },
   {
     "NAF Nr": "19726",
@@ -455,7 +795,7 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 58.33,
-    "rating": 157.76575267875432,
+    "rating": 157.76670200859635,
     "bestRating": 157.773313250665,
     "worstRating": 150.05144151035913,
     "_lastTenRatings": [
@@ -463,10 +803,10 @@ const necromantichorror2025 = [
       157.74596669241484,
       157.773313250665,
       150.05144151035913,
-      157.76700336110926,
-      157.76575267875432
+      157.76801269857683,
+      157.76670200859635
     ],
-    "tendency": 0.019785986339485362
+    "tendency": 0.020735316181514918
   },
   {
     "NAF Nr": "19765",
@@ -493,19 +833,122 @@ const necromantichorror2025 = [
     "tendency": 5.68450395442099
   },
   {
+    "NAF Nr": "19923",
+    "NAF Name": "Bearded_Steve",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.65530343900957,
+    "bestRating": 150.65530343900957,
+    "worstRating": 144.8234835648254,
+    "_lastTenRatings": [
+      144.8234835648254,
+      145.0281926326041,
+      150.65530343900957
+    ],
+    "tendency": 5.831819874184163
+  },
+  {
+    "NAF Nr": "20115",
+    "NAF Name": "Bim",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 4,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.68439730783155,
+    "bestRating": 150.72691957482206,
+    "worstRating": 141.85722174994868,
+    "_lastTenRatings": [
+      150,
+      149.57810587305505,
+      141.85722174994868,
+      149.6267798051596,
+      150.72691957482206,
+      150.68439730783155
+    ],
+    "tendency": 0.6843973078315457
+  },
+  {
+    "NAF Nr": "20659",
+    "NAF Name": "gogore",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 4,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 140.6193971915558,
+    "bestRating": 150,
+    "worstRating": 140.61916848035315,
+    "_lastTenRatings": [
+      150,
+      145.30958424017658,
+      140.61916848035315,
+      140.6193971915558
+    ],
+    "tendency": -9.380602808444195
+  },
+  {
+    "NAF Nr": "20776",
+    "NAF Name": "Garfunkel",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 142.225248498798,
+    "bestRating": 157.74596669241484,
+    "worstRating": 142.225248498798,
+    "_lastTenRatings": [
+      142.25403330758516,
+      150,
+      150,
+      157.74596669241484,
+      149.99847083810806,
+      142.225248498798
+    ],
+    "tendency": -0.02878480878715095
+  },
+  {
     "NAF Nr": "21409",
     "NAF Name": "RealMalteser",
     "CCAA": "Apatrida",
     "Country": "Malta",
     "raceId": "18",
     "raceName": "Necromantic Horror",
-    "gamesTotal": 4,
-    "gamesWon": 3,
-    "gamesDraw": 0,
-    "gamesLost": 1,
+    "gamesTotal": 7,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 75,
+    "totalTournaments": 2,
+    "winRatio": 64.29,
     "trophies": {
       "winner": 0,
       "runnerup": 1,
@@ -515,16 +958,55 @@ const necromantichorror2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 160.19023305679775,
-    "bestRating": 165.29705854077838,
+    "rating": 160.4429047682539,
+    "bestRating": 165.57235892893576,
     "worstRating": 155.0990195135928,
     "_lastTenRatings": [
       155.0990195135928,
       160.1980390271856,
       165.29705854077838,
-      160.19023305679775
+      160.19023305679775,
+      160.16231424706643,
+      165.57235892893576,
+      160.4429047682539
     ],
-    "tendency": 5.091213543204958
+    "tendency": 5.343885254661103
+  },
+  {
+    "NAF Nr": "21513",
+    "NAF Name": "Khamul",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 156.1466075839648,
+    "bestRating": 156.1466075839648,
+    "worstRating": 144.97388843136804,
+    "_lastTenRatings": [
+      155.8513977583922,
+      150.18609683271578,
+      144.97388843136804,
+      145.20301378288318,
+      150.5426417140607,
+      156.1466075839648
+    ],
+    "tendency": 0.29520982557258435
   },
   {
     "NAF Nr": "22007",
@@ -540,15 +1022,51 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 146.29667224445578,
+    "rating": 147.0745347870333,
     "bestRating": 154,
-    "worstRating": 146.29667224445578,
+    "worstRating": 147.0745347870333,
     "_lastTenRatings": [
       154,
       150,
-      146.29667224445578
+      147.0745347870333
     ],
-    "tendency": -7.7033277555442226
+    "tendency": -6.925465212966714
+  },
+  {
+    "NAF Nr": "22121",
+    "NAF Name": "spob",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 6,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 183.93046748948447,
+    "bestRating": 183.93046748948447,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      166.9705627484771,
+      172.62741699796948,
+      178.28427124746185,
+      183.93046748948447
+    ],
+    "tendency": 28.273613239992102
   },
   {
     "NAF Nr": "22316",
@@ -584,6 +1102,35 @@ const necromantichorror2025 = [
     "tendency": 5.502866052247128
   },
   {
+    "NAF Nr": "22978",
+    "NAF Name": "rhadghut",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 8,
+    "gamesWon": 4,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 68.75,
+    "rating": 161.97685995163343,
+    "bestRating": 168.89070016028748,
+    "worstRating": 154.47213595499957,
+    "_lastTenRatings": [
+      154.47213595499957,
+      158.94427190999915,
+      158.94427190999915,
+      164.21339302288587,
+      163.84241874803766,
+      168.89070016028748,
+      163.23543171670966,
+      161.97685995163343
+    ],
+    "tendency": 7.504723996633857
+  },
+  {
     "NAF Nr": "23922",
     "NAF Name": "Whitey",
     "CCAA": "Apatrida",
@@ -597,18 +1144,18 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 75,
-    "rating": 173.27785223453705,
-    "bestRating": 173.27785223453705,
+    "rating": 173.27803723342387,
+    "bestRating": 173.27803723342387,
     "worstRating": 157.74596669241484,
     "_lastTenRatings": [
       157.74596669241484,
       165.49193338482968,
       165.49193338482968,
       165.49193338482968,
-      165.50856110285082,
-      173.27785223453705
+      165.50862512798443,
+      173.27803723342387
     ],
-    "tendency": 15.531885542122211
+    "tendency": 15.532070541009034
   },
   {
     "NAF Nr": "24874",
@@ -672,18 +1219,45 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 58.33,
-    "rating": 155.6368678739778,
-    "bestRating": 161.30395669158278,
+    "rating": 155.63686720566523,
+    "bestRating": 161.30395599293652,
     "worstRating": 150,
     "_lastTenRatings": [
       155.65685424949237,
       155.65685424949237,
       150,
       155.65685424949237,
-      161.30395669158278,
-      155.6368678739778
+      161.30395599293652,
+      155.63686720566523
     ],
-    "tendency": -0.01998637551457705
+    "tendency": -0.019987043827143225
+  },
+  {
+    "NAF Nr": "25515",
+    "NAF Name": "juiblex",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 131.80503510660074,
+    "bestRating": 157.74596669241484,
+    "worstRating": 131.80503510660074,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150,
+      145.0856401798606,
+      137.14534461770904,
+      138.41760766753265,
+      131.80503510660074
+    ],
+    "tendency": -25.9409315858141
   },
   {
     "NAF Nr": "25649",
@@ -699,18 +1273,45 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.00174348693207,
-    "bestRating": 150.00174348693207,
+    "rating": 150.03297327525155,
+    "bestRating": 150.03297327525155,
     "worstRating": 134.50806661517032,
     "_lastTenRatings": [
       142.25403330758516,
       134.50806661517032,
       142.2559077780616,
-      142.25755936640624,
-      142.25588700122236,
-      150.00174348693207
+      142.29286203709978,
+      142.28909084046012,
+      150.03297327525155
     ],
-    "tendency": 7.74771017934691
+    "tendency": 7.778939967666389
+  },
+  {
+    "NAF Nr": "25725",
+    "NAF Name": "SkraggDave",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 138.68629150101526,
+    "bestRating": 150,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      144.34314575050763,
+      150,
+      144.34314575050763,
+      138.68629150101526
+    ],
+    "tendency": -5.656854249492369
   },
   {
     "NAF Nr": "25762",
@@ -774,16 +1375,16 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 138.9317463597487,
+    "rating": 138.9312327249861,
     "bestRating": 155.65685424949237,
-    "worstRating": 138.9317463597487,
+    "worstRating": 138.9312327249861,
     "_lastTenRatings": [
       155.65685424949237,
       150,
-      144.34314575050763,
-      138.9317463597487
+      144.34255167101009,
+      138.9312327249861
     ],
-    "tendency": -16.72510788974367
+    "tendency": -16.725621524506266
   },
   {
     "NAF Nr": "26033",
@@ -799,15 +1400,42 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 145.68455080824705,
-    "bestRating": 145.68455080824705,
+    "rating": 145.69622164042755,
+    "bestRating": 145.69622164042755,
     "worstRating": 141.2091735044924,
     "_lastTenRatings": [
       145.52786404500043,
       141.2091735044924,
-      145.68455080824705
+      145.69622164042755
     ],
-    "tendency": 0.15668676324662556
+    "tendency": 0.1683575954271248
+  },
+  {
+    "NAF Nr": "26066",
+    "NAF Name": "Kral",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.39914677777486,
+    "bestRating": 161.31370849898474,
+    "worstRating": 144.39914677777486,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      161.31370849898474,
+      155.65685424949237,
+      150.0004323539163,
+      144.39914677777486
+    ],
+    "tendency": -11.25770747171751
   },
   {
     "NAF Nr": "26249",
@@ -847,7 +1475,7 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.78561122249815,
+    "rating": 149.78561122112123,
     "bestRating": 161.31370849898474,
     "worstRating": 144.11854245589421,
     "_lastTenRatings": [
@@ -856,9 +1484,36 @@ const necromantichorror2025 = [
       155.4113993907589,
       149.76520227811605,
       144.11854245589421,
-      149.78561122249815
+      149.78561122112123
     ],
-    "tendency": -5.871243026994222
+    "tendency": -5.87124302837114
+  },
+  {
+    "NAF Nr": "26639",
+    "NAF Name": "Piddu",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.07043288758342,
+    "bestRating": 155.72645940030256,
+    "worstRating": 150.02485384068342,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.66706956539895,
+      150.25397919219856,
+      150.02485384068342,
+      155.72645940030256,
+      150.07043288758342
+    ],
+    "tendency": -5.586421361908947
   },
   {
     "NAF Nr": "26640",
@@ -910,28 +1565,120 @@ const necromantichorror2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "26743",
+    "NAF Name": "mahwell-skel",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.7944769178025,
+    "bestRating": 161.0682536402513,
+    "worstRating": 149.7753967053866,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.0682536402513,
+      155.42205652760845,
+      149.7753967053866,
+      155.44200276228094,
+      149.7944769178025
+    ],
+    "tendency": -5.862377331689856
+  },
+  {
     "NAF Nr": "26989",
     "NAF Name": "MiniMorg",
     "CCAA": "Apatrida",
     "Country": "England",
     "raceId": "18",
     "raceName": "Necromantic Horror",
-    "gamesTotal": 3,
-    "gamesWon": 0,
-    "gamesDraw": 2,
-    "gamesLost": 1,
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 33.33,
-    "rating": 144.34314575050763,
-    "bestRating": 144.34314575050763,
+    "totalTournaments": 2,
+    "winRatio": 41.67,
+    "rating": 145.048055988536,
+    "bestRating": 150.4802717757705,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
       144.34314575050763,
-      144.34314575050763
+      144.34314575050763,
+      144.5886006092411,
+      150.4802717757705,
+      145.048055988536
     ],
-    "tendency": 0
+    "tendency": 0.7049102380283614
+  },
+  {
+    "NAF Nr": "27132",
+    "NAF Name": "macfly78",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 122.66433129630586,
+    "bestRating": 144.34314575050763,
+    "worstRating": 122.66433129630586,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.70312603348015,
+      133.0563246674365,
+      127.89303953400557,
+      122.66433129630586
+    ],
+    "tendency": -21.67881445420177
+  },
+  {
+    "NAF Nr": "27181",
+    "NAF Name": "Zweken",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 165.51927994307985,
+    "bestRating": 173.23790007724452,
+    "worstRating": 157.74596669241484,
+    "_lastTenRatings": [
+      157.74596669241484,
+      165.49193338482968,
+      173.23790007724452,
+      165.49193338482968,
+      157.74596669241484,
+      165.51927994307985
+    ],
+    "tendency": 7.773313250665012
   },
   {
     "NAF Nr": "27803",
@@ -971,18 +1718,70 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 134.5067033092333,
+    "rating": 134.53804402623933,
     "bestRating": 157.74596669241484,
-    "worstRating": 134.5067033092333,
+    "worstRating": 134.53804402623933,
     "_lastTenRatings": [
       157.74596669241484,
       157.74596669241484,
       157.74596669241484,
       150,
-      142.25403330758516,
-      134.5067033092333
+      142.28722241902642,
+      134.53804402623933
     ],
-    "tendency": -23.239263383181537
+    "tendency": -23.207922666175506
+  },
+  {
+    "NAF Nr": "28052",
+    "NAF Name": "Darius_G.R.",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.2583288241894,
+    "bestRating": 144.55646250782388,
+    "worstRating": 139.05847509490656,
+    "_lastTenRatings": [
+      144.52277442494835,
+      144.55261763565406,
+      144.55646250782388,
+      144.55526066802202,
+      139.05847509490656,
+      144.2583288241894
+    ],
+    "tendency": -0.26444560075896106
+  },
+  {
+    "NAF Nr": "28225",
+    "NAF Name": "pidrito",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 155.89165197137632,
+    "bestRating": 155.90230910822584,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      150.24545485873347,
+      155.90230910822584,
+      155.89165197137632
+    ],
+    "tendency": 5.891651971376319
   },
   {
     "NAF Nr": "28324",
@@ -1010,6 +1809,33 @@ const necromantichorror2025 = [
     "tendency": 0.002607805299390975
   },
   {
+    "NAF Nr": "29024",
+    "NAF Name": "Rafal44",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 160.72558338401072,
+    "bestRating": 160.72558338401072,
+    "worstRating": 144.52277442494835,
+    "_lastTenRatings": [
+      144.52277442494835,
+      144.52277442494835,
+      149.96877734313233,
+      155.45220078528237,
+      155.45040976614135,
+      160.72558338401072
+    ],
+    "tendency": 16.202808959062367
+  },
+  {
     "NAF Nr": "29078",
     "NAF Name": "Wolter",
     "CCAA": "Apatrida",
@@ -1032,6 +1858,69 @@ const necromantichorror2025 = [
       150
     ],
     "tendency": -4.795831523312728
+  },
+  {
+    "NAF Nr": "29195",
+    "NAF Name": "Ishtar92",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 142.38275386017162,
+    "bestRating": 157.92033775995262,
+    "worstRating": 142.38275386017162,
+    "_lastTenRatings": [
+      150,
+      157.74596669241484,
+      150.1853931444342,
+      157.92033775995262,
+      150.13512845332048,
+      142.38275386017162
+    ],
+    "tendency": -7.6172461398283815
+  },
+  {
+    "NAF Nr": "29394",
+    "NAF Name": "densom",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.25981107650372,
+    "bestRating": 150.25981107650372,
+    "worstRating": 135.44605309028384,
+    "_lastTenRatings": [
+      141.87915095367515,
+      135.44605309028384,
+      135.8231594464083,
+      136.20596844744983,
+      143.84731370962615,
+      150.25981107650372
+    ],
+    "tendency": 8.380660122828573
   },
   {
     "NAF Nr": "29454",
@@ -1058,6 +1947,39 @@ const necromantichorror2025 = [
     "tendency": 10.198039027185587
   },
   {
+    "NAF Nr": "29610",
+    "NAF Name": "pullis",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 161.87601513712426,
+    "bestRating": 161.87601513712426,
+    "worstRating": 154.00275189963205,
+    "_lastTenRatings": [
+      154.00275189963205,
+      157.87144935182567,
+      161.87601513712426
+    ],
+    "tendency": 7.8732632374922105
+  },
+  {
     "NAF Nr": "29656",
     "NAF Name": "caolang",
     "CCAA": "Apatrida",
@@ -1071,18 +1993,18 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.23477763198076,
-    "bestRating": 155.90230910822584,
+    "rating": 150.2347776292323,
+    "bestRating": 155.90230910535263,
     "worstRating": 150,
     "_lastTenRatings": [
       155.65685424949237,
       150,
       155.65685424949237,
       150,
-      155.90230910822584,
-      150.23477763198076
+      155.90230910535263,
+      150.2347776292323
     ],
-    "tendency": -5.422076617511607
+    "tendency": -5.422076620260071
   },
   {
     "NAF Nr": "29658",
@@ -1117,6 +2039,39 @@ const necromantichorror2025 = [
     "tendency": 3.7416573867739373
   },
   {
+    "NAF Nr": "29673",
+    "NAF Name": "Paisti",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 154.01560078316962,
+    "bestRating": 158.0201665684682,
+    "worstRating": 154,
+    "_lastTenRatings": [
+      154,
+      158.0201665684682,
+      154.01560078316962
+    ],
+    "tendency": 0.015600783169617216
+  },
+  {
     "NAF Nr": "29877",
     "NAF Name": "coach_kev",
     "CCAA": "Apatrida",
@@ -1130,17 +2085,42 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.84719740640836,
+    "rating": 149.84716547578412,
     "bestRating": 159.80595182613388,
-    "worstRating": 149.84719740640836,
+    "worstRating": 149.84716547578412,
     "_lastTenRatings": [
       154.89897948556634,
       159.80595182613388,
       154.92640476033404,
       154.7535679477054,
-      149.84719740640836
+      149.84716547578412
     ],
-    "tendency": -5.051782079157988
+    "tendency": -5.05181400978222
+  },
+  {
+    "NAF Nr": "29961",
+    "NAF Name": "bar0n_1",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 155.908958408914,
+    "bestRating": 161.330834256441,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.69073893911718,
+      161.330834256441,
+      155.908958408914
+    ],
+    "tendency": 5.908958408914003
   },
   {
     "NAF Nr": "30436",
@@ -1165,16 +2145,16 @@ const necromantichorror2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 172.39261927608555,
-    "bestRating": 172.39261927608555,
+    "rating": 172.97957751099577,
+    "bestRating": 172.97957751099577,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
       155.65685424949237,
       161.31370849898474,
       166.72510788974367,
-      172.39261927608555
+      172.97957751099577
     ],
-    "tendency": 16.735765026593185
+    "tendency": 17.3227232615034
   },
   {
     "NAF Nr": "30499",
@@ -1251,6 +2231,122 @@ const necromantichorror2025 = [
     "tendency": -4.898979485566343
   },
   {
+    "NAF Nr": "30782",
+    "NAF Name": "doc70",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 144.34314575050763,
+    "bestRating": 150,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.34314575050763,
+      138.68629150101526,
+      138.68629150101526,
+      144.34314575050763
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "30837",
+    "NAF Name": "GatoBrutal",
+    "CCAA": "Castilla y León",
+    "Country": "Spain",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 80,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 158.1227543197728,
+    "bestRating": 158.36521823144824,
+    "worstRating": 152.82842712474618,
+    "_lastTenRatings": [
+      152.82842712474618,
+      152.82842712474618,
+      155.53412682012564,
+      158.36521823144824,
+      158.1227543197728
+    ],
+    "tendency": 5.294327195026625
+  },
+  {
+    "NAF Nr": "30987",
+    "NAF Name": "benbowbaggins",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.65727765295884,
+    "bestRating": 155.65731696064233,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      150,
+      155.65731696064233,
+      150.00044262117535,
+      155.65727765295884
+    ],
+    "tendency": 11.314131902451209
+  },
+  {
+    "NAF Nr": "31068",
+    "NAF Name": "Lebouffeurdecrepes",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.9833394023378,
+    "bestRating": 161.8749326113504,
+    "worstRating": 150.88097515842543,
+    "_lastTenRatings": [
+      150.96276109201443,
+      150.92096072939347,
+      150.88097515842543,
+      156.2542081993081,
+      161.8749326113504,
+      155.9833394023378
+    ],
+    "tendency": 5.020578310323373
+  },
+  {
     "NAF Nr": "31246",
     "NAF Name": "Seafarer",
     "CCAA": "Apatrida",
@@ -1264,17 +2360,17 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 40,
-    "rating": 145.38967167312953,
+    "rating": 145.4060722915335,
     "bestRating": 150,
-    "worstRating": 145.38476605475705,
+    "worstRating": 145.40174886974407,
     "_lastTenRatings": [
       145.52786404500043,
       150,
-      149.851815595307,
-      145.38476605475705,
-      145.38967167312953
+      149.86940206357696,
+      145.40174886974407,
+      145.4060722915335
     ],
-    "tendency": -0.1381923718709004
+    "tendency": -0.12179175346693683
   },
   {
     "NAF Nr": "31398",
@@ -1290,8 +2386,8 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 58.33,
-    "rating": 157.74721737476978,
-    "bestRating": 157.74721737476978,
+    "rating": 157.7472773823953,
+    "bestRating": 157.7472773823953,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
@@ -1299,9 +2395,9 @@ const necromantichorror2025 = [
       150,
       150,
       157.74596669241484,
-      157.74721737476978
+      157.7472773823953
     ],
-    "tendency": 7.747217374769775
+    "tendency": 7.7472773823953105
   },
   {
     "NAF Nr": "31560",
@@ -1317,18 +2413,18 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 165.49193338482968,
-    "bestRating": 165.49193338482968,
+    "rating": 165.55344841632166,
+    "bestRating": 165.55344841632166,
     "worstRating": 157.74596669241484,
     "_lastTenRatings": [
       157.74596669241484,
       157.74596669241484,
       165.49193338482968,
-      157.74596669241484,
-      157.74596669241484,
-      165.49193338482968
+      157.7812833556238,
+      157.79534197815028,
+      165.55344841632166
     ],
-    "tendency": 7.745966692414839
+    "tendency": 7.807481723906818
   },
   {
     "NAF Nr": "31954",
@@ -1344,15 +2440,42 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 144.90858371828398,
-    "bestRating": 150,
-    "worstRating": 144.9009804864072,
+    "rating": 144.54983906937406,
+    "bestRating": 149.62664365487788,
+    "worstRating": 144.51241721038764,
     "_lastTenRatings": [
-      144.9009804864072,
-      150,
-      144.90858371828398
+      144.51241721038764,
+      149.62664365487788,
+      144.54983906937406
     ],
-    "tendency": 0.007603231876771588
+    "tendency": 0.03742185898641992
+  },
+  {
+    "NAF Nr": "32016",
+    "NAF Name": "Mr_Mezcal",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.00001841790726,
+    "bestRating": 150.00001841790726,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.34314575050763,
+      138.68629150101526,
+      144.34314575050763,
+      150.00001841790726
+    ],
+    "tendency": 5.656872667399625
   },
   {
     "NAF Nr": "32210",
@@ -1377,17 +2500,17 @@ const necromantichorror2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 155.2467196611586,
-    "bestRating": 160.15928536631628,
+    "rating": 155.44418247770054,
+    "bestRating": 160.35672919049432,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       154.89897948556634,
       159.98207901468672,
-      160.15928536631628,
-      155.2467196611586
+      160.35672919049432,
+      155.44418247770054
     ],
-    "tendency": 5.2467196611586076
+    "tendency": 5.4441824777005365
   },
   {
     "NAF Nr": "32220",
@@ -1403,18 +2526,44 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 138.82563533717754,
-    "bestRating": 156.09863973913298,
-    "worstRating": 138.7665431837893,
+    "rating": 138.337793294581,
+    "bestRating": 155.32299783429036,
+    "worstRating": 138.08979297320806,
     "_lastTenRatings": [
       150,
-      156.09863973913298,
-      150.4417799417802,
-      144.97467466548804,
-      138.7665431837893,
-      138.82563533717754
+      155.32299783429036,
+      149.66614597965147,
+      144.56245464940187,
+      138.08979297320806,
+      138.337793294581
     ],
-    "tendency": -11.174364662822455
+    "tendency": -11.66220670541901
+  },
+  {
+    "NAF Nr": "32243",
+    "NAF Name": "cravate",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.34573574107304,
+    "bestRating": 149.34573574107304,
+    "worstRating": 138.93466371568874,
+    "_lastTenRatings": [
+      144.5893540399212,
+      138.93466371568874,
+      144.58146508173238,
+      144.8468946917388,
+      149.34573574107304
+    ],
+    "tendency": 4.756381701151838
   },
   {
     "NAF Nr": "32391",
@@ -1430,7 +2579,7 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 40,
-    "rating": 145.7947599778497,
+    "rating": 145.79475997964417,
     "bestRating": 154.89897948556634,
     "worstRating": 140.4074206041754,
     "_lastTenRatings": [
@@ -1438,9 +2587,35 @@ const necromantichorror2025 = [
       150,
       145.10997586278322,
       140.4074206041754,
-      145.7947599778497
+      145.79475997964417
     ],
-    "tendency": -9.104219507716635
+    "tendency": -9.104219505922174
+  },
+  {
+    "NAF Nr": "32441",
+    "NAF Name": "pthechemist",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 30,
+    "rating": 138.69648514772717,
+    "bestRating": 155.65685424949237,
+    "worstRating": 138.69648514772717,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      144.34314575050763,
+      138.69694863786478,
+      138.69648514772717
+    ],
+    "tendency": -16.960369101765195
   },
   {
     "NAF Nr": "32455",
@@ -1473,15 +2648,15 @@ const necromantichorror2025 = [
     "Country": "United States Of America",
     "raceId": "18",
     "raceName": "Necromantic Horror",
-    "gamesTotal": 3,
-    "gamesWon": 1,
+    "gamesTotal": 6,
+    "gamesWon": 4,
     "gamesDraw": 2,
     "gamesLost": 0,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 66.67,
+    "totalTournaments": 2,
+    "winRatio": 83.33,
     "trophies": {
-      "winner": 0,
+      "winner": 1,
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 1,
@@ -1489,15 +2664,45 @@ const necromantichorror2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 154.47740295290532,
-    "bestRating": 154.47740295290532,
+    "rating": 164.08618139206146,
+    "bestRating": 164.08618139206146,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       150,
-      154.47740295290532
+      154.47362977699936,
+      157.67641842027066,
+      160.88210155286177,
+      164.08618139206146
     ],
-    "tendency": 4.477402952905322
+    "tendency": 14.086181392061462
+  },
+  {
+    "NAF Nr": "32501",
+    "NAF Name": "maciejka",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 156.51895685688729,
+    "bestRating": 156.56225441433085,
+    "worstRating": 151.10499578451484,
+    "_lastTenRatings": [
+      155.47722557505165,
+      155.7138385511492,
+      151.10499578451484,
+      156.56225441433085,
+      156.52582673063992,
+      156.51895685688729
+    ],
+    "tendency": 1.041731281835638
   },
   {
     "NAF Nr": "32575",
@@ -1506,49 +2711,68 @@ const necromantichorror2025 = [
     "Country": "Scotland",
     "raceId": "18",
     "raceName": "Necromantic Horror",
-    "gamesTotal": 6,
-    "gamesWon": 4,
-    "gamesDraw": 1,
-    "gamesLost": 1,
+    "gamesTotal": 12,
+    "gamesWon": 6,
+    "gamesDraw": 4,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 75,
-    "rating": 173.23790007724452,
-    "bestRating": 173.23790007724452,
-    "worstRating": 157.74596669241484,
+    "totalTournaments": 2,
+    "winRatio": 66.67,
+    "rating": 177.0123986499809,
+    "bestRating": 177.77405084071046,
+    "worstRating": 149.75454514126653,
     "_lastTenRatings": [
-      157.74596669241484,
-      165.49193338482968,
-      173.23790007724452,
-      165.49193338482968,
-      173.23790007724452,
-      173.23790007724452
+      149.76520227811605,
+      155.43225095487895,
+      149.78514851278854,
+      155.45133116729488,
+      162.8733916311677,
+      170.31467741373675,
+      177.77405084071046,
+      169.75850759926283,
+      177.25090645826975,
+      177.0123986499809
     ],
-    "tendency": 15.491933384829679
+    "tendency": 27.247196371864845
   },
   {
     "NAF Nr": "32619",
     "NAF Name": "zalmour",
     "CCAA": "Apatrida",
-    "Country": "Undisclosed",
+    "Country": "Sweden",
     "raceId": "18",
     "raceName": "Necromantic Horror",
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 0,
-    "gamesLost": 1,
+    "gamesTotal": 9,
+    "gamesWon": 6,
+    "gamesDraw": 1,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 66.67,
-    "rating": 153.996230946571,
-    "bestRating": 158,
+    "totalTournaments": 2,
+    "winRatio": 72.22,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 175.1766483825222,
+    "bestRating": 176.5357607414029,
     "worstRating": 153.996230946571,
     "_lastTenRatings": [
       154,
       158,
-      153.996230946571
+      153.996230946571,
+      161.5046862304364,
+      169.02724965611006,
+      176.5357607414029,
+      168.59379849705954,
+      176.18344542143547,
+      175.1766483825222
     ],
-    "tendency": -0.0037690534290106825
+    "tendency": 21.17664838252219
   },
   {
     "NAF Nr": "32717",
@@ -1584,6 +2808,30 @@ const necromantichorror2025 = [
     "tendency": -10.954451150103296
   },
   {
+    "NAF Nr": "32822",
+    "NAF Name": "stahlei",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.2789475033754,
+    "bestRating": 155.2789475033754,
+    "worstRating": 145.09586406173463,
+    "_lastTenRatings": [
+      145.09586406173463,
+      150.18725653535205,
+      155.2789475033754
+    ],
+    "tendency": 10.183083441640775
+  },
+  {
     "NAF Nr": "32902",
     "NAF Name": "marvin_the_marsian",
     "CCAA": "Apatrida",
@@ -1607,6 +2855,42 @@ const necromantichorror2025 = [
       153.5140032538718
     ],
     "tendency": -0.09154802159218889
+  },
+  {
+    "NAF Nr": "33243",
+    "NAF Name": "Vacant",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 164.66732908835476,
+    "bestRating": 164.66732908835476,
+    "worstRating": 154.79583152331273,
+    "_lastTenRatings": [
+      154.79583152331273,
+      159.59166304662546,
+      160.2413259431718,
+      160.06485674326328,
+      159.8656361243187,
+      164.66732908835476
+    ],
+    "tendency": 9.871497565042034
   },
   {
     "NAF Nr": "33346",
@@ -1653,8 +2937,8 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 165.49410126212183,
-    "bestRating": 165.49410126212183,
+    "rating": 165.49416148082398,
+    "bestRating": 165.49416148082398,
     "worstRating": 149.9816389265355,
     "_lastTenRatings": [
       157.74596669241484,
@@ -1662,9 +2946,36 @@ const necromantichorror2025 = [
       157.72869723050638,
       157.72972394303693,
       165.47761057607278,
-      165.49410126212183
+      165.49416148082398
     ],
-    "tendency": 7.748134569706991
+    "tendency": 7.748194788409137
+  },
+  {
+    "NAF Nr": "33495",
+    "NAF Name": "showmemagik",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.63600192276226,
+    "bestRating": 161.31370849898474,
+    "worstRating": 155.63600192276226,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.65685424949237,
+      161.31370849898474,
+      161.31370849898474,
+      155.63600192276226
+    ],
+    "tendency": -0.020852326730107507
   },
   {
     "NAF Nr": "33563",
@@ -1680,16 +2991,16 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.24545485873347,
+    "rating": 149.81597037442677,
     "bestRating": 155.65685424949237,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       155.65685424949237,
       150,
       144.34314575050763,
-      150.24545485873347
+      149.81597037442677
     ],
-    "tendency": -5.411399390758902
+    "tendency": -5.8408838750656
   },
   {
     "NAF Nr": "33580",
@@ -1744,8 +3055,8 @@ const necromantichorror2025 = [
       "bestpainted": 1,
       "otherawards": 0
     },
-    "rating": 161.649397150732,
-    "bestRating": 161.649397150732,
+    "rating": 161.6503485476076,
+    "bestRating": 161.6503485476076,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
@@ -1754,12 +3065,12 @@ const necromantichorror2025 = [
       155.65685424949237,
       155.32075134204848,
       147.2586284644416,
-      154.70720575349898,
-      154.4112504656392,
-      154.14918735023548,
-      161.649397150732
+      154.70834894861028,
+      154.4123257941939,
+      154.1501988210228,
+      161.6503485476076
     ],
-    "tendency": 17.30625140022437
+    "tendency": 17.30720279709996
   },
   {
     "NAF Nr": "33760",
@@ -1775,15 +3086,15 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150,
-    "bestRating": 150,
-    "worstRating": 144.34314575050763,
+    "rating": 149.99116937603594,
+    "bestRating": 149.99116937603594,
+    "worstRating": 144.33248944968102,
     "_lastTenRatings": [
       144.34314575050763,
-      144.34314575050763,
-      150
+      144.33248944968102,
+      149.99116937603594
     ],
-    "tendency": 5.656854249492369
+    "tendency": 5.64802362552831
   },
   {
     "NAF Nr": "33904",
@@ -1863,6 +3174,57 @@ const necromantichorror2025 = [
     "tendency": 16.714912594512555
   },
   {
+    "NAF Nr": "34594",
+    "NAF Name": "Itsiamaru",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 157.7557174823621,
+    "bestRating": 165.49193338482968,
+    "worstRating": 157.74596669241484,
+    "_lastTenRatings": [
+      157.74596669241484,
+      165.49193338482968,
+      157.74596669241484,
+      157.74596669241484,
+      165.49193338482968,
+      157.7557174823621
+    ],
+    "tendency": 0.00975078994724754
+  },
+  {
+    "NAF Nr": "34850",
+    "NAF Name": "jamesa",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.8785469067513,
+    "bestRating": 150,
+    "worstRating": 147.110180250173,
+    "_lastTenRatings": [
+      150,
+      147.110180250173,
+      149.8785469067513
+    ],
+    "tendency": -0.12145309324870368
+  },
+  {
     "NAF Nr": "34975",
     "NAF Name": "dgt99",
     "CCAA": "Andalucía",
@@ -1888,6 +3250,60 @@ const necromantichorror2025 = [
     "tendency": -4.320173735546092
   },
   {
+    "NAF Nr": "35030",
+    "NAF Name": "Kaoskungen",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 158.6217666307943,
+    "bestRating": 166.40903538829872,
+    "worstRating": 157.74596669241484,
+    "_lastTenRatings": [
+      157.74596669241484,
+      157.74596669241484,
+      157.74637482262878,
+      166.40903538829872,
+      158.1387013510173,
+      158.6217666307943
+    ],
+    "tendency": 0.8757999383794584
+  },
+  {
+    "NAF Nr": "35260",
+    "NAF Name": "smellydiaper",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.00162582099685,
+    "bestRating": 157.74596669241484,
+    "worstRating": 142.25403330758516,
+    "_lastTenRatings": [
+      142.25403330758516,
+      150,
+      150,
+      150,
+      157.74596669241484,
+      150.00162582099685
+    ],
+    "tendency": 7.747592513411689
+  },
+  {
     "NAF Nr": "35282",
     "NAF Name": "makutodj",
     "CCAA": "Catalunya ",
@@ -1901,16 +3317,16 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.99601788296152,
-    "bestRating": 155.664433072322,
-    "worstRating": 149.99583714007204,
+    "rating": 149.99601798439807,
+    "bestRating": 155.66443312596175,
+    "worstRating": 149.99583724611264,
     "_lastTenRatings": [
-      155.664433072322,
-      150.00724976579676,
-      149.99583714007204,
-      149.99601788296152
+      155.66443312596175,
+      150.00724981710758,
+      149.99583724611264,
+      149.99601798439807
     ],
-    "tendency": -5.6684151893604735
+    "tendency": -5.668415141563685
   },
   {
     "NAF Nr": "35453",
@@ -1926,15 +3342,15 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 154.87373502521464,
-    "bestRating": 154.87373502521464,
+    "rating": 154.85588799547136,
+    "bestRating": 154.85588799547136,
     "worstRating": 144.70849737787083,
     "_lastTenRatings": [
       144.70849737787083,
-      149.7884437606722,
-      154.87373502521464
+      149.76984240252588,
+      154.85588799547136
     ],
-    "tendency": 10.165237647343815
+    "tendency": 10.147390617600536
   },
   {
     "NAF Nr": "35708",
@@ -1983,6 +3399,30 @@ const necromantichorror2025 = [
       143.25351360235425
     ],
     "tendency": -6.746486397645754
+  },
+  {
+    "NAF Nr": "36135",
+    "NAF Name": "garvfield",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.70849737787083,
+    "bestRating": 144.70849737787083,
+    "worstRating": 139.41699475574165,
+    "_lastTenRatings": [
+      144.70849737787083,
+      139.41699475574165,
+      144.70849737787083
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "36225",
@@ -2039,29 +3479,86 @@ const necromantichorror2025 = [
     "Country": "Italy",
     "raceId": "18",
     "raceName": "Necromantic Horror",
-    "gamesTotal": 12,
-    "gamesWon": 3,
-    "gamesDraw": 4,
-    "gamesLost": 5,
+    "gamesTotal": 18,
+    "gamesWon": 7,
+    "gamesDraw": 5,
+    "gamesLost": 6,
     "totalWinRatio": 0,
-    "totalTournaments": 3,
-    "winRatio": 41.67,
-    "rating": 140.0008638521008,
-    "bestRating": 161.31370849898474,
-    "worstRating": 140.0008638521008,
+    "totalTournaments": 4,
+    "winRatio": 52.78,
+    "rating": 152.95002848789713,
+    "bestRating": 164.56140192121927,
+    "worstRating": 137.81398510853833,
     "_lastTenRatings": [
-      155.42203733245535,
-      149.6227003691595,
-      148.94144820682317,
-      143.66615324907247,
-      143.94093952369207,
-      144.22508375943417,
-      144.4753653795987,
-      150.37205641939562,
-      145.0026461807787,
-      140.0008638521008
+      149.72338082780962,
+      149.68733996661038,
+      155.34861148494622,
+      160.60480481695777,
+      160.1453799510359,
+      159.7269653176722,
+      159.30513485725118,
+      164.56140192121927,
+      158.53622797164851,
+      152.95002848789713
     ],
-    "tendency": -15.421173480354554
+    "tendency": 3.226647660087508
+  },
+  {
+    "NAF Nr": "36649",
+    "NAF Name": "bryanbeasley",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.68518631065632,
+    "bestRating": 154.68518631065632,
+    "worstRating": 144.70849737787083,
+    "_lastTenRatings": [
+      144.70849737787083,
+      150,
+      154.68518631065632
+    ],
+    "tendency": 9.976688932785493
+  },
+  {
+    "NAF Nr": "36727",
+    "NAF Name": "borilla",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 165.65439896830765,
+    "bestRating": 165.65439896830765,
+    "worstRating": 155.29150262212917,
+    "_lastTenRatings": [
+      155.29150262212917,
+      160.35357846631547,
+      165.65439896830765
+    ],
+    "tendency": 10.362896346178474
   },
   {
     "NAF Nr": "36830",
@@ -2077,15 +3574,39 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 154.55487267148447,
-    "bestRating": 154.55487267148447,
-    "worstRating": 149.83199681111995,
+    "rating": 154.86659726961344,
+    "bestRating": 154.86659726961344,
+    "worstRating": 149.81357505105825,
     "_lastTenRatings": [
-      149.83199681111995,
-      154.30989945758833,
-      154.55487267148447
+      149.81357505105825,
+      154.29211002164774,
+      154.86659726961344
     ],
-    "tendency": 4.722875860364525
+    "tendency": 5.053022218555185
+  },
+  {
+    "NAF Nr": "36888",
+    "NAF Name": "tommysaurus",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.33314949453626,
+    "bestRating": 144.34268303935767,
+    "worstRating": 138.6858488798399,
+    "_lastTenRatings": [
+      144.34268303935767,
+      138.6858488798399,
+      144.33314949453626
+    ],
+    "tendency": -0.009533544821408668
   },
   {
     "NAF Nr": "37009",
@@ -2150,18 +3671,18 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 126.78547406305704,
+    "rating": 126.80252012048939,
     "bestRating": 142.25403330758516,
-    "worstRating": 119.04195062549388,
+    "worstRating": 119.06007417280657,
     "_lastTenRatings": [
       142.25403330758516,
       134.50806661517032,
-      134.50806661517032,
-      126.76047410175865,
-      119.04195062549388,
-      126.78547406305704
+      134.51043810698715,
+      126.76270460248526,
+      119.06007417280657,
+      126.80252012048939
     ],
-    "tendency": -15.468559244528123
+    "tendency": -15.45151318709577
   },
   {
     "NAF Nr": "37320",
@@ -2186,6 +3707,30 @@ const necromantichorror2025 = [
       146.53589838486224
     ],
     "tendency": -6.928203230275528
+  },
+  {
+    "NAF Nr": "37601",
+    "NAF Name": "Electrik_Vision",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.34314575050763,
+      150
+    ],
+    "tendency": 5.656854249492369
   },
   {
     "NAF Nr": "37796",
@@ -2227,16 +3772,16 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 62.5,
-    "rating": 155.65605104578373,
+    "rating": 155.65568697809346,
     "bestRating": 155.65685424949237,
     "worstRating": 150,
     "_lastTenRatings": [
       155.65685424949237,
       150,
       150.01024382079999,
-      155.65605104578373
+      155.65568697809346
     ],
-    "tendency": -0.0008032037086422861
+    "tendency": -0.001167271398912817
   },
   {
     "NAF Nr": "38163",
@@ -2269,22 +3814,25 @@ const necromantichorror2025 = [
     "Country": "Germany",
     "raceId": "18",
     "raceName": "Necromantic Horror",
-    "gamesTotal": 3,
-    "gamesWon": 2,
-    "gamesDraw": 1,
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 2,
     "gamesLost": 0,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
+    "totalTournaments": 2,
     "winRatio": 83.33,
-    "rating": 159.5368211369592,
-    "bestRating": 159.5368211369592,
-    "worstRating": 154.6771449124705,
+    "rating": 168.49584654218512,
+    "bestRating": 168.49584654218512,
+    "worstRating": 150,
     "_lastTenRatings": [
-      154.69041575982342,
-      154.6771449124705,
-      159.5368211369592
+      150,
+      154.8995639611308,
+      159.9990410353243,
+      164.3301936652013,
+      163.97059520345735,
+      168.49584654218512
     ],
-    "tendency": 4.846405377135767
+    "tendency": 18.49584654218512
   },
   {
     "NAF Nr": "38234",
@@ -2316,25 +3864,28 @@ const necromantichorror2025 = [
     "Country": "Germany",
     "raceId": "18",
     "raceName": "Necromantic Horror",
-    "gamesTotal": 6,
-    "gamesWon": 2,
-    "gamesDraw": 0,
-    "gamesLost": 4,
+    "gamesTotal": 9,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 5,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 33.33,
-    "rating": 142.23589216114124,
+    "totalTournaments": 2,
+    "winRatio": 38.89,
+    "rating": 143.13559601550736,
     "bestRating": 150,
-    "worstRating": 138.10914179959713,
+    "worstRating": 138.11507552514053,
     "_lastTenRatings": [
       146,
       150,
       146,
       142,
-      138.10914179959713,
-      142.23589216114124
+      138.11507552514053,
+      142.24182083323987,
+      147.64410935913455,
+      142.83653036267697,
+      143.13559601550736
     ],
-    "tendency": -3.764107838858763
+    "tendency": -2.8644039844926397
   },
   {
     "NAF Nr": "38384",
@@ -2343,13 +3894,13 @@ const necromantichorror2025 = [
     "Country": "Malta",
     "raceId": "18",
     "raceName": "Necromantic Horror",
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "gamesTotal": 7,
+    "gamesWon": 2,
     "gamesDraw": 1,
-    "gamesLost": 2,
+    "gamesLost": 4,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 37.5,
+    "totalTournaments": 2,
+    "winRatio": 35.71,
     "trophies": {
       "winner": 0,
       "runnerup": 0,
@@ -2359,16 +3910,19 @@ const necromantichorror2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 144.70152493394522,
+    "rating": 139.87089714196395,
     "bestRating": 150,
     "worstRating": 139.8019609728144,
     "_lastTenRatings": [
       150,
       144.9009804864072,
       139.8019609728144,
-      144.70152493394522
+      144.70152493394522,
+      149.24707293988524,
+      144.37579571578394,
+      139.87089714196395
     ],
-    "tendency": -5.2984750660547775
+    "tendency": -10.129102858036049
   },
   {
     "NAF Nr": "38765",
@@ -2408,18 +3962,66 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 50,
-    "rating": 151.37828032752063,
-    "bestRating": 156.5041805435694,
-    "worstRating": 145.5686660217423,
+    "rating": 151.63440860338758,
+    "bestRating": 156.77114116030089,
+    "worstRating": 145.8586820803744,
     "_lastTenRatings": [
-      151.33929030555655,
-      151.28114309950539,
-      145.5686660217423,
-      151.04007251727475,
-      156.5041805435694,
-      151.37828032752063
+      151.65622705161292,
+      151.58432092344293,
+      145.8586820803744,
+      151.31832267050515,
+      156.77114116030089,
+      151.63440860338758
     ],
-    "tendency": 0.03899002196408219
+    "tendency": -0.021818448225332077
+  },
+  {
+    "NAF Nr": "38875",
+    "NAF Name": "yosoycharly",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      150
+    ],
+    "tendency": 5.656854249492369
+  },
+  {
+    "NAF Nr": "38930",
+    "NAF Name": "Jeff1986",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 133.25895267897454,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.25895267897454,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.9317463597487,
+      133.25895267897454
+    ],
+    "tendency": -11.084193071533093
   },
   {
     "NAF Nr": "38947",
@@ -2459,18 +4061,76 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 138.92418160532864,
-    "bestRating": 144.61377019482077,
-    "worstRating": 138.92418160532864,
+    "rating": 138.91448737250332,
+    "bestRating": 144.61597700716763,
+    "worstRating": 138.91448737250332,
     "_lastTenRatings": [
       144.34314575050763,
       144.34314575050763,
       138.95854376993054,
-      144.61377019482077,
-      138.93312607630216,
-      138.92418160532864
+      144.61597700716763,
+      138.9225007468774,
+      138.91448737250332
     ],
-    "tendency": -5.41896414517899
+    "tendency": -5.4286583780043145
+  },
+  {
+    "NAF Nr": "39201",
+    "NAF Name": "polemos",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "rating": 154.50992498152695,
+    "bestRating": 154.69041575982342,
+    "worstRating": 154.50992498152695,
+    "_lastTenRatings": [
+      154.69041575982342,
+      154.69041575982342,
+      154.68433951750683,
+      154.50992498152695
+    ],
+    "tendency": -0.1804907782964733
+  },
+  {
+    "NAF Nr": "39277",
+    "NAF Name": "gorilla13",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 165.0170239434147,
+    "bestRating": 165.0170239434147,
+    "worstRating": 155.0990195135928,
+    "_lastTenRatings": [
+      155.0990195135928,
+      159.90659851005037,
+      165.0170239434147
+    ],
+    "tendency": 9.918004429821906
   },
   {
     "NAF Nr": "39386",
@@ -2500,6 +4160,57 @@ const necromantichorror2025 = [
     "tendency": -23.464316455418754
   },
   {
+    "NAF Nr": "39829",
+    "NAF Name": "reallybigg",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 155.54187405291557,
+    "bestRating": 155.54187405291557,
+    "worstRating": 145.20282730009868,
+    "_lastTenRatings": [
+      145.23267051080438,
+      145.20282730009868,
+      149.93992829611213,
+      155.40959729486607,
+      155.4113883140071,
+      155.54187405291557
+    ],
+    "tendency": 10.309203542111192
+  },
+  {
+    "NAF Nr": "39865",
+    "NAF Name": "slavo",
+    "CCAA": "Apatrida",
+    "Country": "Slovak Republic",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 145.52786404500043,
+    "bestRating": 145.52786404500043,
+    "worstRating": 141.05572809000085,
+    "_lastTenRatings": [
+      145.52786404500043,
+      141.05572809000085,
+      145.52786404500043
+    ],
+    "tendency": 0
+  },
+  {
     "NAF Nr": "39913",
     "NAF Name": "faskill",
     "CCAA": "Apatrida",
@@ -2513,16 +4224,16 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.00092367996467,
-    "bestRating": 155.65685424949237,
-    "worstRating": 150,
+    "rating": 149.57198586381836,
+    "bestRating": 155.16732460580852,
+    "worstRating": 149.53172463522546,
     "_lastTenRatings": [
-      155.65685424949237,
-      150,
-      150,
-      150.00092367996467
+      155.16732460580852,
+      149.53172463522546,
+      149.55159337068653,
+      149.57198586381836
     ],
-    "tendency": -5.655930569527698
+    "tendency": -5.595338741990162
   },
   {
     "NAF Nr": "40049",
@@ -2538,16 +4249,16 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 0,
-    "rating": 128.78007846890168,
+    "rating": 128.77963856153121,
     "bestRating": 144.34314575050763,
-    "worstRating": 128.78007846890168,
+    "worstRating": 128.77963856153121,
     "_lastTenRatings": [
       144.34314575050763,
       139.17627869375255,
       133.98829022640513,
-      128.78007846890168
+      128.77963856153121
     ],
-    "tendency": -15.563067281605953
+    "tendency": -15.563507188976416
   },
   {
     "NAF Nr": "40293",
@@ -2597,16 +4308,16 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 139.8407000529761,
+    "rating": 139.84070005485938,
     "bestRating": 150,
-    "worstRating": 139.8407000529761,
+    "worstRating": 139.84070005485938,
     "_lastTenRatings": [
       150,
       150,
       144.91690047087963,
-      139.8407000529761
+      139.84070005485938
     ],
-    "tendency": -10.159299947023896
+    "tendency": -10.159299945140617
   },
   {
     "NAF Nr": "40387",
@@ -2622,7 +4333,7 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 134.50950486457796,
+    "rating": 134.50956508385065,
     "bestRating": 142.2555624694771,
     "worstRating": 126.76209992275548,
     "_lastTenRatings": [
@@ -2631,9 +4342,121 @@ const necromantichorror2025 = [
       126.76209992275548,
       134.50806661517032,
       142.2555624694771,
-      134.50950486457796
+      134.50956508385065
     ],
-    "tendency": -7.744528443007198
+    "tendency": -7.744468223734515
+  },
+  {
+    "NAF Nr": "40418",
+    "NAF Name": "Arnado",
+    "CCAA": "Apatrida",
+    "Country": "Ladonia",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 118.55795603844639,
+    "bestRating": 142.25403330758516,
+    "worstRating": 118.55795603844639,
+    "_lastTenRatings": [
+      142.25403330758516,
+      134.50806661517032,
+      134.50806661517032,
+      126.76413197205348,
+      126.76401116165997,
+      118.55795603844639
+    ],
+    "tendency": -23.69607726913877
+  },
+  {
+    "NAF Nr": "40452",
+    "NAF Name": "Rifraf",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 138.67456147267976,
+    "bestRating": 150,
+    "worstRating": 138.67088104391814,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150,
+      144.34314575050763,
+      138.67088104391814,
+      138.67239607101786,
+      138.67456147267976
+    ],
+    "tendency": -5.668584277827875
+  },
+  {
+    "NAF Nr": "40566",
+    "NAF Name": "bobertybear",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 4,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.4960344511525,
+    "bestRating": 161.32077074535047,
+    "worstRating": 149.4960344511525,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.32077074535047,
+      155.15422791629643,
+      149.4960344511525
+    ],
+    "tendency": -6.1608197983398725
+  },
+  {
+    "NAF Nr": "40654",
+    "NAF Name": "Anakyn",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.58097283792924,
+    "bestRating": 144.58097283792924,
+    "worstRating": 138.9349132235612,
+    "_lastTenRatings": [
+      144.5708411591312,
+      138.9349132235612,
+      144.58097283792924
+    ],
+    "tendency": 0.01013167879804655
   },
   {
     "NAF Nr": "41121",
@@ -2658,6 +4481,39 @@ const necromantichorror2025 = [
       160.58300524425835
     ],
     "tendency": 5.2915026221291726
+  },
+  {
+    "NAF Nr": "41358",
+    "NAF Name": "KingCapital",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 158.64790351124412,
+    "bestRating": 158.64790351124412,
+    "worstRating": 154.31869054050802,
+    "_lastTenRatings": [
+      154.47213595499957,
+      154.31869054050802,
+      158.64790351124412
+    ],
+    "tendency": 4.175767556244551
   },
   {
     "NAF Nr": "41644",
@@ -2730,17 +4586,17 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 20,
-    "rating": 133.48791531311295,
+    "rating": 133.50312121665408,
     "bestRating": 144.34314575050763,
-    "worstRating": 133.48791531311295,
+    "worstRating": 133.50312121665408,
     "_lastTenRatings": [
       144.34314575050763,
       138.68629150101526,
-      138.93174635974873,
-      139.17673937686376,
-      133.48791531311295
+      138.93212321422084,
+      139.1926354321902,
+      133.50312121665408
     ],
-    "tendency": -10.855230437394681
+    "tendency": -10.840024533853551
   },
   {
     "NAF Nr": "41804",
@@ -2814,15 +4670,15 @@ const necromantichorror2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 145.67604246158623,
-    "bestRating": 150.15344541449156,
-    "worstRating": 145.67604246158623,
+    "rating": 145.56989027798863,
+    "bestRating": 150.043520054988,
+    "worstRating": 145.56989027798863,
     "_lastTenRatings": [
       150,
-      150.15344541449156,
-      145.67604246158623
+      150.043520054988,
+      145.56989027798863
     ],
-    "tendency": -4.323957538413765
+    "tendency": -4.430109722011366
   },
   {
     "NAF Nr": "42648",
@@ -2847,6 +4703,39 @@ const necromantichorror2025 = [
       145.30958424017658
     ],
     "tendency": -9.380831519646847
+  },
+  {
+    "NAF Nr": "42660",
+    "NAF Name": "LuckyWhopper",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
+    "rating": 149.815561766741,
+    "bestRating": 150,
+    "worstRating": 145,
+    "_lastTenRatings": [
+      150,
+      145,
+      149.815561766741
+    ],
+    "tendency": -0.18443823325898734
   },
   {
     "NAF Nr": "42700",
@@ -2895,6 +4784,53 @@ const necromantichorror2025 = [
       142
     ],
     "tendency": -4
+  },
+  {
+    "NAF Nr": "42929",
+    "NAF Name": "dhenon_kira",
+    "CCAA": "Apatrida",
+    "Country": "Mexico",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 2,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 142.97740326648605,
+    "bestRating": 146.44381667824558,
+    "worstRating": 142.97740326648605,
+    "_lastTenRatings": [
+      146.44381667824558,
+      142.97740326648605
+    ],
+    "tendency": -3.4664134117595324
+  },
+  {
+    "NAF Nr": "42943",
+    "NAF Name": "meisi",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.9009804864072,
+    "bestRating": 144.9009804864072,
+    "worstRating": 139.8019609728144,
+    "_lastTenRatings": [
+      144.9009804864072,
+      139.8019609728144,
+      144.9009804864072
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "42947",
@@ -2979,5 +4915,212 @@ const necromantichorror2025 = [
       144.49370752002298
     ],
     "tendency": -5.50629247997702
+  },
+  {
+    "NAF Nr": "43255",
+    "NAF Name": "treant",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 141.23922288048277,
+    "bestRating": 145.72357180465602,
+    "worstRating": 141.23922288048277,
+    "_lastTenRatings": [
+      145.52786404500043,
+      145.72357180465602,
+      141.23922288048277
+    ],
+    "tendency": -4.2886411645176565
+  },
+  {
+    "NAF Nr": "43341",
+    "NAF Name": "Denis_andreichikov",
+    "CCAA": "Apatrida",
+    "Country": "Georgia",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 2,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 139.22967038573097,
+    "bestRating": 144.61483519286548,
+    "worstRating": 139.22967038573097,
+    "_lastTenRatings": [
+      144.61483519286548,
+      139.22967038573097
+    ],
+    "tendency": -5.385164807134515
+  },
+  {
+    "NAF Nr": "43343",
+    "NAF Name": "Blackmore",
+    "CCAA": "Apatrida",
+    "Country": "Russia",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.3667151527282,
+    "bestRating": 155.3667151527282,
+    "worstRating": 144.61483519286548,
+    "_lastTenRatings": [
+      144.61483519286548,
+      150,
+      155.3667151527282
+    ],
+    "tendency": 10.75187995986272
+  },
+  {
+    "NAF Nr": "43396",
+    "NAF Name": "Xandor",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 9,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 44.44,
+    "rating": 147.15592381525875,
+    "bestRating": 147.15592381525875,
+    "worstRating": 134.01042946472703,
+    "_lastTenRatings": [
+      145.28492096627727,
+      139.8326965081647,
+      145.43977747439922,
+      139.4192698027168,
+      134.2141828574771,
+      134.01042946472703,
+      140.33667876588157,
+      145.93163314280244,
+      147.15592381525875
+    ],
+    "tendency": 1.871002848981476
+  },
+  {
+    "NAF Nr": "43402",
+    "NAF Name": "harry668",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.99953728885006,
+    "bestRating": 150,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      149.99953728885006
+    ],
+    "tendency": -0.0004627111499360126
+  },
+  {
+    "NAF Nr": "43440",
+    "NAF Name": "zormax",
+    "CCAA": "Apatrida",
+    "Country": "Georgia",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.38516480713452,
+    "bestRating": 155.38516480713452,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.38516480713452,
+      150,
+      155.38516480713452
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "43445",
+    "NAF Name": "VladLeto",
+    "CCAA": "Apatrida",
+    "Country": "Russia",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 155.38516480713452,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.38516480713452,
+      155.38516480713452,
+      150
+    ],
+    "tendency": -5.385164807134515
+  },
+  {
+    "NAF Nr": "43460",
+    "NAF Name": "TheGraveHorrorClub",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "18",
+    "raceName": "Necromantic Horror",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "rating": 138.6978321825355,
+    "bestRating": 155.65685424949237,
+    "worstRating": 138.6978321825355,
+    "_lastTenRatings": [
+      155.65685424949237,
+      149.743908938629,
+      144.09863633579312,
+      138.6978321825355
+    ],
+    "tendency": -16.959022066956862
   }
 ];

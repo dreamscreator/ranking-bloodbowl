@@ -22,15 +22,15 @@ const nurgle2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 162.72792206135787,
-    "bestRating": 162.72792206135787,
+    "rating": 162.42368854093974,
+    "bestRating": 162.42368854093974,
     "worstRating": 154.2426406871193,
     "_lastTenRatings": [
       154.2426406871193,
-      158.48528137423858,
-      162.72792206135787
+      158.17080751336135,
+      162.42368854093974
     ],
-    "tendency": 8.485281374238582
+    "tendency": 8.181047853820445
   },
   {
     "NAF Nr": "1009",
@@ -114,17 +114,17 @@ const nurgle2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 169.615012979476,
-    "bestRating": 169.615012979476,
-    "worstRating": 154.89897948556634,
+    "rating": 169.6146220829131,
+    "bestRating": 169.6146220829131,
+    "worstRating": 154.8994777555256,
     "_lastTenRatings": [
-      154.89897948556634,
-      159.7979589711327,
-      164.69693845669903,
-      164.7159407433566,
-      169.615012979476
+      154.8994777555256,
+      159.79843850561477,
+      164.69739996017768,
+      164.71638489407744,
+      169.6146220829131
     ],
-    "tendency": 14.716033493909663
+    "tendency": 14.715144327387492
   },
   {
     "NAF Nr": "3874",
@@ -164,17 +164,17 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 20,
-    "rating": 135.8343336797087,
+    "rating": 135.29496647117017,
     "bestRating": 145.10102051443366,
-    "worstRating": 135.8343336797087,
+    "worstRating": 135.29489065900083,
     "_lastTenRatings": [
       145.10102051443366,
       140.406632800765,
-      140.59111108531314,
-      135.85533156080956,
-      135.8343336797087
+      140.59022879457962,
+      135.29489065900083,
+      135.29496647117017
     ],
-    "tendency": -9.266686834724965
+    "tendency": -9.806054043263487
   },
   {
     "NAF Nr": "5954",
@@ -311,16 +311,16 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 62.5,
-    "rating": 155.19384641268616,
+    "rating": 155.19384645957254,
     "bestRating": 155.41139939075893,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       150,
       155.41139939075893,
-      155.19384641268616
+      155.19384645957254
     ],
-    "tendency": 5.193846412686156
+    "tendency": 5.193846459572541
   },
   {
     "NAF Nr": "8168",
@@ -345,15 +345,15 @@ const nurgle2025 = [
       "bestpainted": 1,
       "otherawards": 0
     },
-    "rating": 163.25882847346685,
-    "bestRating": 163.25882847346685,
+    "rating": 163.07037020929064,
+    "bestRating": 163.07037020929064,
     "worstRating": 154.47213595499957,
     "_lastTenRatings": [
       154.47213595499957,
       158.93999116974524,
-      163.25882847346685
+      163.07037020929064
     ],
-    "tendency": 8.786692518467277
+    "tendency": 8.598234254291071
   },
   {
     "NAF Nr": "8402",
@@ -378,8 +378,8 @@ const nurgle2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 211.25931332622534,
-    "bestRating": 211.25931332622534,
+    "rating": 212.55406707419212,
+    "bestRating": 212.55406707419212,
     "worstRating": 150,
     "_lastTenRatings": [
       186.47348008012696,
@@ -388,12 +388,12 @@ const nurgle2025 = [
       193.25714735052875,
       197.1019613956632,
       201.0172884287159,
-      205.0114737800291,
-      209.07730555185628,
-      207.24076821905584,
-      211.25931332622534
+      206.09558937577455,
+      210.13513334415836,
+      208.6137949938208,
+      212.55406707419212
     ],
-    "tendency": 24.785833246098377
+    "tendency": 26.080586994065158
   },
   {
     "NAF Nr": "9152",
@@ -509,6 +509,30 @@ const nurgle2025 = [
     "tendency": 19.088673356403575
   },
   {
+    "NAF Nr": "10216",
+    "NAF Name": "Meradanis",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.27895779020378,
+    "bestRating": 155.28628675475963,
+    "worstRating": 155.0990195135928,
+    "_lastTenRatings": [
+      155.0990195135928,
+      155.28628675475963,
+      155.27895779020378
+    ],
+    "tendency": 0.17993827661098294
+  },
+  {
     "NAF Nr": "10236",
     "NAF Name": "Hachablanca",
     "CCAA": "Madrid",
@@ -534,6 +558,66 @@ const nurgle2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "11534",
+    "NAF Name": "Pas_Mao",
+    "CCAA": "Madrid",
+    "Country": "Spain",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 3,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "rating": 156.9058765683276,
+    "bestRating": 156.9058765683276,
+    "worstRating": 142.25403330758516,
+    "_lastTenRatings": [
+      142.25403330758516,
+      142.2903731369955,
+      142.288212643654,
+      142.286180597015,
+      149.5959019973344,
+      156.9058765683276
+    ],
+    "tendency": 14.651843260742453
+  },
+  {
+    "NAF Nr": "11777",
+    "NAF Name": "Purplegoo",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 166.49029097270667,
+    "bestRating": 166.49029097270667,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.0682536402513,
+      166.49029097270667
+    ],
+    "tendency": 10.833436723214305
+  },
+  {
     "NAF Nr": "12500",
     "NAF Name": "woete",
     "CCAA": "Apatrida",
@@ -547,15 +631,15 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.23939554124223,
-    "bestRating": 154.72004079787547,
-    "worstRating": 150.23939554124223,
+    "rating": 150.561355474278,
+    "bestRating": 155.06039908422133,
+    "worstRating": 150.561355474278,
     "_lastTenRatings": [
       154.47213595499957,
-      154.72004079787547,
-      150.23939554124223
+      155.06039908422133,
+      150.561355474278
     ],
-    "tendency": -4.232740413757341
+    "tendency": -3.91078048072157
   },
   {
     "NAF Nr": "12520",
@@ -580,16 +664,16 @@ const nurgle2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 172.62741699796948,
-    "bestRating": 172.62741699796948,
+    "rating": 172.61489655198505,
+    "bestRating": 172.61489655198505,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
       155.65685424949237,
       161.31370849898474,
       166.9705627484771,
-      172.62741699796948
+      172.61489655198505
     ],
-    "tendency": 16.970562748477107
+    "tendency": 16.958042302492686
   },
   {
     "NAF Nr": "12543",
@@ -629,17 +713,17 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 60,
-    "rating": 155.6576065466016,
-    "bestRating": 161.31372227334035,
-    "worstRating": 150,
+    "rating": 156.42915018063488,
+    "bestRating": 162.31769851599694,
+    "worstRating": 150.60141906211288,
     "_lastTenRatings": [
-      155.65685424949237,
-      150,
-      155.65685424949237,
-      161.31372227334035,
-      155.6576065466016
+      156.28557068534678,
+      150.60141906211288,
+      156.27318231810878,
+      162.31769851599694,
+      156.42915018063488
     ],
-    "tendency": 0.0007522971092441821
+    "tendency": 0.143579495288094
   },
   {
     "NAF Nr": "13417",
@@ -664,6 +748,41 @@ const nurgle2025 = [
       161.29287692405083
     ],
     "tendency": 5.390567815824994
+  },
+  {
+    "NAF Nr": "13462",
+    "NAF Name": "Foad",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 5,
+    "gamesWon": 4,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 80,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 166.96221474134262,
+    "bestRating": 166.96221474134262,
+    "worstRating": 155.6477499908972,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      155.6477499908972,
+      161.3049995287326,
+      166.96221474134262
+    ],
+    "tendency": 11.305360491850251
   },
   {
     "NAF Nr": "15239",
@@ -703,17 +822,17 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 60,
-    "rating": 154.73721224550644,
-    "bestRating": 159.8120383274559,
+    "rating": 154.69526393261222,
+    "bestRating": 159.79018492241042,
     "worstRating": 145.10102051443366,
     "_lastTenRatings": [
       145.10102051443366,
       150,
-      154.9059166069641,
-      159.8120383274559,
-      154.73721224550644
+      154.88320936101846,
+      159.79018492241042,
+      154.69526393261222
     ],
-    "tendency": 9.636191731072785
+    "tendency": 9.594243418178564
   },
   {
     "NAF Nr": "15540",
@@ -729,15 +848,15 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 16.67,
-    "rating": 138.686926939391,
+    "rating": 138.6869269443022,
     "bestRating": 150,
-    "worstRating": 138.686926939391,
+    "worstRating": 138.6869269443022,
     "_lastTenRatings": [
       150,
       144.34314575050763,
-      138.686926939391
+      138.6869269443022
     ],
-    "tendency": -11.313073060609014
+    "tendency": -11.3130730556978
   },
   {
     "NAF Nr": "15927",
@@ -779,22 +898,34 @@ const nurgle2025 = [
     "Country": "Italy",
     "raceId": "16",
     "raceName": "Nurgle",
-    "gamesTotal": 3,
-    "gamesWon": 2,
+    "gamesTotal": 6,
+    "gamesWon": 5,
     "gamesDraw": 0,
     "gamesLost": 1,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 66.67,
-    "rating": 155.65685424949237,
-    "bestRating": 155.65685424949237,
+    "totalTournaments": 2,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 1,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 168.5108336007675,
+    "bestRating": 168.5108336007675,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
       150,
-      155.65685424949237
+      155.65685424949237,
+      159.9349411004038,
+      164.2196765539924,
+      168.5108336007675
     ],
-    "tendency": 11.313708498984738
+    "tendency": 24.16768785025988
   },
   {
     "NAF Nr": "16185",
@@ -828,6 +959,40 @@ const nurgle2025 = [
       160.3923048454133
     ],
     "tendency": 6.928203230275528
+  },
+  {
+    "NAF Nr": "16347",
+    "NAF Name": "docmaxx",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 4,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 159.21667278950198,
+    "bestRating": 159.21667278950198,
+    "worstRating": 145.30958424017658,
+    "_lastTenRatings": [
+      145.30958424017658,
+      150,
+      154.69041575982342,
+      159.21667278950198
+    ],
+    "tendency": 13.907088549325408
   },
   {
     "NAF Nr": "16998",
@@ -867,7 +1032,7 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 2,
     "winRatio": 43.75,
-    "rating": 145.48271967457748,
+    "rating": 145.4827522524952,
     "bestRating": 150,
     "worstRating": 138.68629150101526,
     "_lastTenRatings": [
@@ -878,9 +1043,9 @@ const nurgle2025 = [
       138.9210892228992,
       144.66146694983112,
       145.31033225162514,
-      145.48271967457748
+      145.4827522524952
     ],
-    "tendency": -4.517280325422519
+    "tendency": -4.517247747504797
   },
   {
     "NAF Nr": "17419",
@@ -896,17 +1061,17 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.00933330828448,
-    "bestRating": 161.5591633577182,
-    "worstRating": 150.00933330828448,
+    "rating": 150.00161315345306,
+    "bestRating": 161.5503527497539,
+    "worstRating": 150.00161315345306,
     "_lastTenRatings": [
       155.65685424949237,
       155.65685424949237,
-      161.5591633577182,
-      155.89123787646918,
-      150.00933330828448
+      161.5503527497539,
+      155.8828098057217,
+      150.00161315345306
     ],
-    "tendency": -5.647520941207887
+    "tendency": -5.655241096039305
   },
   {
     "NAF Nr": "17481",
@@ -946,7 +1111,7 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 3,
     "winRatio": 50,
-    "rating": 150.4809520486788,
+    "rating": 150.5804862526843,
     "bestRating": 161.31370849898474,
     "worstRating": 149.83920095308403,
     "_lastTenRatings": [
@@ -956,12 +1121,36 @@ const nurgle2025 = [
       149.83920095308403,
       149.84618251627,
       149.85286095466057,
-      155.51609051769057,
-      150.27974637652358,
-      155.93505179299444,
-      150.4809520486788
+      155.54636590233628,
+      150.33764175651675,
+      155.99255849951413,
+      150.5804862526843
     ],
-    "tendency": -5.175902200813567
+    "tendency": -5.076367996808074
+  },
+  {
+    "NAF Nr": "17948",
+    "NAF Name": "king_ghidra",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 150,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      150,
+      150
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "18140",
@@ -1093,7 +1282,7 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 134.51038830400415,
+    "rating": 134.51134477701996,
     "bestRating": 150,
     "worstRating": 134.50806661517032,
     "_lastTenRatings": [
@@ -1101,10 +1290,10 @@ const nurgle2025 = [
       134.50806661517032,
       142.25403330758516,
       150,
-      142.25538426813995,
-      134.51038830400415
+      142.2553883029757,
+      134.51134477701996
     ],
-    "tendency": -7.743645003581008
+    "tendency": -7.742688530565204
   },
   {
     "NAF Nr": "18960",
@@ -1137,25 +1326,56 @@ const nurgle2025 = [
     "Country": "Italy",
     "raceId": "16",
     "raceName": "Nurgle",
-    "gamesTotal": 6,
-    "gamesWon": 3,
-    "gamesDraw": 1,
-    "gamesLost": 2,
+    "gamesTotal": 12,
+    "gamesWon": 4,
+    "gamesDraw": 4,
+    "gamesLost": 4,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 58.33,
-    "rating": 154.48248274393566,
+    "totalTournaments": 2,
+    "winRatio": 50,
+    "rating": 147.8784330724617,
     "bestRating": 154.48248274393566,
-    "worstRating": 145.52786404500043,
+    "worstRating": 141.9655879487815,
     "_lastTenRatings": [
-      145.52786404500043,
-      150,
       145.52786404500043,
       145.52786404500043,
       150.00526699790575,
-      154.48248274393566
+      154.48248274393566,
+      148.63108498554345,
+      148.4449785959969,
+      148.71772453124964,
+      147.9578844240624,
+      141.9655879487815,
+      147.8784330724617
     ],
-    "tendency": 8.954618698935235
+    "tendency": 2.350569027461262
+  },
+  {
+    "NAF Nr": "19252",
+    "NAF Name": "spoiledsquid",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 134.33991239025517,
+    "bestRating": 149.95162079547927,
+    "worstRating": 134.33991239025517,
+    "_lastTenRatings": [
+      142.25403330758516,
+      142.25403330758516,
+      142.2555076524437,
+      149.95162079547927,
+      142.1795136320049,
+      134.33991239025517
+    ],
+    "tendency": -7.914120917329996
   },
   {
     "NAF Nr": "20481",
@@ -1244,6 +1464,75 @@ const nurgle2025 = [
     "tendency": 0.21485148721146174
   },
   {
+    "NAF Nr": "21072",
+    "NAF Name": "molinet",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 150.00038140679305,
+    "bestRating": 150.00038140679305,
+    "worstRating": 144.09808957603667,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      144.09808957603667,
+      150.00038140679305
+    ],
+    "tendency": 0.0003814067930534293
+  },
+  {
+    "NAF Nr": "21120",
+    "NAF Name": "Timbur",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 4,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 10,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 1
+    },
+    "rating": 127.41126392873011,
+    "bestRating": 144.34314575050763,
+    "worstRating": 127.41126392873011,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      138.68629150101526,
+      133.07921053478074,
+      127.41126392873011
+    ],
+    "tendency": -16.931881821777523
+  },
+  {
     "NAF Nr": "21223",
     "NAF Name": "copemon",
     "CCAA": "Apatrida",
@@ -1294,6 +1583,93 @@ const nurgle2025 = [
     "tendency": 4.329816682451707
   },
   {
+    "NAF Nr": "21667",
+    "NAF Name": "kennels",
+    "CCAA": "C. Valenciana",
+    "Country": "Spain",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 58.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 157.2879357246928,
+    "bestRating": 165.4919774206749,
+    "worstRating": 142.25403330758516,
+    "_lastTenRatings": [
+      142.25403330758516,
+      150,
+      157.74596669241484,
+      165.4919774206749,
+      165.4919748026342,
+      157.2879357246928
+    ],
+    "tendency": 15.03390241710764
+  },
+  {
+    "NAF Nr": "21977",
+    "NAF Name": "fromherashes",
+    "CCAA": "Apatrida",
+    "Country": "Scotland",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155,
+    "bestRating": 160,
+    "worstRating": 155,
+    "_lastTenRatings": [
+      155,
+      160,
+      155
+    ],
+    "tendency": 0
+  },
+  {
+    "NAF Nr": "21978",
+    "NAF Name": "felix11_59",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 6,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 8.33,
+    "rating": 122.44139994644077,
+    "bestRating": 144.34314575050763,
+    "worstRating": 121.96160704622369,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229,
+      127.37258300203051,
+      121.96160704622369,
+      122.44139994644077
+    ],
+    "tendency": -21.901745804066863
+  },
+  {
     "NAF Nr": "22126",
     "NAF Name": "oklaoma",
     "CCAA": "Apatrida",
@@ -1307,17 +1683,17 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 60,
-    "rating": 154.89923001344386,
-    "bestRating": 154.89923001344386,
+    "rating": 154.90696449587367,
+    "bestRating": 154.90696449587367,
     "worstRating": 145.10102051443366,
     "_lastTenRatings": [
       150,
       145.10102051443366,
       150,
-      154.89897948556634,
-      154.89923001344386
+      154.89928167281155,
+      154.90696449587367
     ],
-    "tendency": 4.899230013443855
+    "tendency": 4.906964495873666
   },
   {
     "NAF Nr": "22198",
@@ -1326,24 +1702,56 @@ const nurgle2025 = [
     "Country": "Sweden",
     "raceId": "16",
     "raceName": "Nurgle",
-    "gamesTotal": 5,
-    "gamesWon": 3,
-    "gamesDraw": 1,
-    "gamesLost": 1,
+    "gamesTotal": 11,
+    "gamesWon": 6,
+    "gamesDraw": 3,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 68.18,
+    "rating": 172.72457468031413,
+    "bestRating": 173.23790007724452,
+    "worstRating": 157.74596669241484,
+    "_lastTenRatings": [
+      165.49193338482968,
+      173.23790007724452,
+      164.57523951157458,
+      164.5381573748645,
+      164.5406313221516,
+      158.2550606368048,
+      163.31017309675795,
+      168.1794299229517,
+      172.64305325591727,
+      172.72457468031413
+    ],
+    "tendency": 7.232641295484456
+  },
+  {
+    "NAF Nr": "22375",
+    "NAF Name": "Leonek",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
     "totalWinRatio": 0,
     "totalTournaments": 1,
-    "winRatio": 70,
-    "rating": 161.08913875195267,
-    "bestRating": 161.08913875195267,
-    "worstRating": 144.34314575050763,
+    "winRatio": 33.33,
+    "rating": 138.9707558050033,
+    "bestRating": 155.47722557505165,
+    "worstRating": 138.9707558050033,
     "_lastTenRatings": [
-      144.34314575050763,
       150,
-      155.41139939075893,
-      161.07891077710082,
-      161.08913875195267
+      155.47722557505165,
+      150.1162078584021,
+      144.63278441625206,
+      144.6644613713622,
+      138.9707558050033
     ],
-    "tendency": 16.745993001445044
+    "tendency": -11.029244194996693
   },
   {
     "NAF Nr": "22487",
@@ -1359,15 +1767,15 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 154.10784684246738,
-    "bestRating": 154.10784684246738,
+    "rating": 153.65886644390042,
+    "bestRating": 153.65886644390042,
     "worstRating": 145.63358678419647,
     "_lastTenRatings": [
       145.63358678419647,
-      149.74069563839032,
-      154.10784684246738
+      149.27617454819529,
+      153.65886644390042
     ],
-    "tendency": 8.474260058270914
+    "tendency": 8.025279659703955
   },
   {
     "NAF Nr": "22926",
@@ -1376,23 +1784,29 @@ const nurgle2025 = [
     "Country": "Spain",
     "raceId": "16",
     "raceName": "Nurgle",
-    "gamesTotal": 4,
-    "gamesWon": 2,
-    "gamesDraw": 1,
-    "gamesLost": 1,
+    "gamesTotal": 10,
+    "gamesWon": 4,
+    "gamesDraw": 2,
+    "gamesLost": 4,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 62.5,
-    "rating": 155.65685424949237,
-    "bestRating": 155.65685424949237,
-    "worstRating": 144.34314575050763,
+    "totalTournaments": 2,
+    "winRatio": 50,
+    "rating": 149.5720339508007,
+    "bestRating": 165.49193338482968,
+    "worstRating": 137.39242773602865,
     "_lastTenRatings": [
-      144.34314575050763,
-      150,
-      150,
-      155.65685424949237
+      157.74596669241484,
+      165.49193338482968,
+      158.2870710547333,
+      150.5410938188719,
+      142.76448739430944,
+      142.73413978235607,
+      137.39242773602865,
+      143.35078201092244,
+      143.6392271193322,
+      149.5720339508007
     ],
-    "tendency": 11.313708498984738
+    "tendency": -8.173932741614152
   },
   {
     "NAF Nr": "23050",
@@ -1433,15 +1847,39 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 144.3456703834584,
+    "rating": 144.34626776765154,
     "bestRating": 150,
-    "worstRating": 144.3456703834584,
+    "worstRating": 144.34626776765154,
     "_lastTenRatings": [
       150,
       150,
-      144.3456703834584
+      144.34626776765154
     ],
-    "tendency": -5.654329616541588
+    "tendency": -5.65373223234846
+  },
+  {
+    "NAF Nr": "23943",
+    "NAF Name": "keksmuzh",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.47213595499957,
+    "bestRating": 158.94427190999915,
+    "worstRating": 154.47213595499957,
+    "_lastTenRatings": [
+      154.47213595499957,
+      158.94427190999915,
+      154.47213595499957
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "24437",
@@ -1450,22 +1888,86 @@ const nurgle2025 = [
     "Country": "Canada",
     "raceId": "16",
     "raceName": "Nurgle",
-    "gamesTotal": 3,
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 41.67,
+    "rating": 147.31657458013072,
+    "bestRating": 154.47213595499957,
+    "worstRating": 147.31657458013072,
+    "_lastTenRatings": [
+      154.47213595499957,
+      150,
+      150.15344541449156,
+      147.32168714778268,
+      150.14685544616378,
+      147.31657458013072
+    ],
+    "tendency": -7.155561374868853
+  },
+  {
+    "NAF Nr": "24496",
+    "NAF Name": "rodvil",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 6,
     "gamesWon": 1,
-    "gamesDraw": 0,
+    "gamesDraw": 3,
     "gamesLost": 2,
     "totalWinRatio": 0,
     "totalTournaments": 1,
-    "winRatio": 33.33,
-    "rating": 147.17290564645262,
-    "bestRating": 150,
-    "worstRating": 147.17157287525382,
+    "winRatio": 41.67,
+    "rating": 144.32631727189747,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.32631727189747,
     "_lastTenRatings": [
-      147.17157287525382,
       150,
-      147.17290564645262
+      155.65685424949237,
+      150,
+      144.34314575050763,
+      144.33623159126367,
+      144.32631727189747
     ],
-    "tendency": 0.0013327711988040392
+    "tendency": -5.673682728102534
+  },
+  {
+    "NAF Nr": "24819",
+    "NAF Name": "maillo",
+    "CCAA": "Andalucía",
+    "Country": "Spain",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 62.5,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 154.3697288940326,
+    "bestRating": 154.52770867118613,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      154.52163242886954,
+      154.52770867118613,
+      154.3697288940326
+    ],
+    "tendency": 4.3697288940325905
   },
   {
     "NAF Nr": "24846",
@@ -1557,22 +2059,28 @@ const nurgle2025 = [
     "Country": "Italy",
     "raceId": "16",
     "raceName": "Nurgle",
-    "gamesTotal": 3,
-    "gamesWon": 1,
-    "gamesDraw": 1,
-    "gamesLost": 1,
+    "gamesTotal": 9,
+    "gamesWon": 3,
+    "gamesDraw": 3,
+    "gamesLost": 3,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
+    "totalTournaments": 2,
     "winRatio": 50,
-    "rating": 149.98934286315048,
+    "rating": 150.9981698855905,
     "bestRating": 155.65685424949237,
-    "worstRating": 149.98934286315048,
+    "worstRating": 144.98825399383378,
     "_lastTenRatings": [
       150,
       155.65685424949237,
-      149.98934286315048
+      149.98934286315048,
+      150.99071695771008,
+      150.9575496902586,
+      144.98825399383378,
+      151.05558496689878,
+      145.35397940727964,
+      150.9981698855905
     ],
-    "tendency": -0.010657136849516746
+    "tendency": 0.9981698855904995
   },
   {
     "NAF Nr": "25282",
@@ -1610,16 +2118,16 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 144.34340850825484,
+    "rating": 144.34340851534202,
     "bestRating": 155.65685424949237,
-    "worstRating": 144.34340850825484,
+    "worstRating": 144.34340851534202,
     "_lastTenRatings": [
       155.65685424949237,
       155.65685424949237,
-      149.99997995694628,
-      144.34340850825484
+      149.9999799595368,
+      144.34340851534202
     ],
-    "tendency": -11.31344574123753
+    "tendency": -11.31344573415035
   },
   {
     "NAF Nr": "25564",
@@ -1635,16 +2143,16 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 37.5,
-    "rating": 144.91652731757515,
+    "rating": 144.91652736577242,
     "bestRating": 150,
-    "worstRating": 144.91652731757515,
+    "worstRating": 144.91652736577242,
     "_lastTenRatings": [
       150,
       145.10102051443366,
       150,
-      144.91652731757515
+      144.91652736577242
     ],
-    "tendency": -5.083472682424855
+    "tendency": -5.083472634227576
   },
   {
     "NAF Nr": "25642",
@@ -1680,6 +2188,54 @@ const nurgle2025 = [
     "tendency": 3.9083890943390998
   },
   {
+    "NAF Nr": "25727",
+    "NAF Name": "Fiotkt",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 133.0294372515229,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.0294372515229,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229
+    ],
+    "tendency": -11.313708498984738
+  },
+  {
+    "NAF Nr": "25878",
+    "NAF Name": "BartK",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      150
+    ],
+    "tendency": -5.656854249492369
+  },
+  {
     "NAF Nr": "26068",
     "NAF Name": "Oren",
     "CCAA": "Apatrida",
@@ -1710,34 +2266,38 @@ const nurgle2025 = [
     "Country": "Poland",
     "raceId": "16",
     "raceName": "Nurgle",
-    "gamesTotal": 6,
-    "gamesWon": 4,
-    "gamesDraw": 1,
+    "gamesTotal": 12,
+    "gamesWon": 8,
+    "gamesDraw": 3,
     "gamesLost": 1,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 75,
+    "totalTournaments": 2,
+    "winRatio": 79.17,
     "trophies": {
       "winner": 0,
-      "runnerup": 1,
+      "runnerup": 2,
       "touchdowns": 0,
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 0
+      "otherawards": 1
     },
-    "rating": 167.0719859821523,
-    "bestRating": 172.7165244475586,
+    "rating": 185.34521290686985,
+    "bestRating": 185.34521290686985,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
-      155.65685424949237,
-      161.31370849898474,
       161.30305136213522,
       166.96036832277755,
-      172.7165244475586,
-      167.0719859821523
+      172.71611828535094,
+      167.07159745459577,
+      171.05964136529855,
+      170.40767376647977,
+      175.2601883892584,
+      174.632482925825,
+      179.64398547664328,
+      185.34521290686985
     ],
-    "tendency": 11.415131732659944
+    "tendency": 24.042161544734626
   },
   {
     "NAF Nr": "27080",
@@ -1774,6 +2334,32 @@ const nurgle2025 = [
     "tendency": 0.15721627336091615
   },
   {
+    "NAF Nr": "27089",
+    "NAF Name": "glygly",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 4,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 40,
+    "rating": 146.15990054524843,
+    "bestRating": 150,
+    "worstRating": 146.0496590238274,
+    "_lastTenRatings": [
+      150,
+      146.25834261322606,
+      146.15091817299646,
+      146.0496590238274,
+      146.15990054524843
+    ],
+    "tendency": -3.8400994547515666
+  },
+  {
     "NAF Nr": "27223",
     "NAF Name": "mage923",
     "CCAA": "Apatrida",
@@ -1799,6 +2385,30 @@ const nurgle2025 = [
     "tendency": -16.27521858642288
   },
   {
+    "NAF Nr": "27252",
+    "NAF Name": "MightyRig",
+    "CCAA": "Apatrida",
+    "Country": "Undisclosed",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.57705618796112,
+    "bestRating": 150.57705618796112,
+    "worstRating": 144.94639354024977,
+    "_lastTenRatings": [
+      144.97377391543054,
+      144.94639354024977,
+      150.57705618796112
+    ],
+    "tendency": 5.603282272530578
+  },
+  {
     "NAF Nr": "27503",
     "NAF Name": "bagrar",
     "CCAA": "Apatrida",
@@ -1812,15 +2422,42 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 83.33,
-    "rating": 160.58362498962643,
-    "bestRating": 160.58362498962643,
-    "worstRating": 155.0990195135928,
+    "rating": 160.2247121645183,
+    "bestRating": 160.2247121645183,
+    "worstRating": 154.72557829885733,
     "_lastTenRatings": [
       155.0990195135928,
-      155.0990195135928,
-      160.58362498962643
+      154.72557829885733,
+      160.2247121645183
     ],
-    "tendency": 5.484605476033636
+    "tendency": 5.125692650925515
+  },
+  {
+    "NAF Nr": "27569",
+    "NAF Name": "Vex",
+    "CCAA": "Apatrida",
+    "Country": "Poland",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 140.05271378391768,
+    "bestRating": 155.47722557505165,
+    "worstRating": 140.05271378391768,
+    "_lastTenRatings": [
+      155.47722557505165,
+      150.6805334583164,
+      150.65192459558958,
+      145.38630168536488,
+      145.35462473025476,
+      140.05271378391768
+    ],
+    "tendency": -15.424511791133966
   },
   {
     "NAF Nr": "27696",
@@ -1836,18 +2473,18 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 139.3379710194362,
-    "bestRating": 144.80972958314103,
-    "worstRating": 138.76199278386622,
+    "rating": 139.29721333834976,
+    "bestRating": 144.83600433931818,
+    "worstRating": 138.7604646065529,
     "_lastTenRatings": [
       144.34268303935767,
       144.4213731438532,
-      138.76199278386622,
-      138.76689973209747,
-      144.80972958314103,
-      139.3379710194362
+      138.7604646065529,
+      138.76543790507637,
+      144.83600433931818,
+      139.29721333834976
     ],
-    "tendency": -5.00471201992147
+    "tendency": -5.045469701007903
   },
   {
     "NAF Nr": "27703",
@@ -1856,23 +2493,62 @@ const nurgle2025 = [
     "Country": "Malta",
     "raceId": "16",
     "raceName": "Nurgle",
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "gamesTotal": 7,
+    "gamesWon": 2,
     "gamesDraw": 0,
-    "gamesLost": 3,
+    "gamesLost": 5,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 25,
-    "rating": 140.00141652527637,
+    "totalTournaments": 2,
+    "winRatio": 28.57,
+    "rating": 136.02781141754588,
     "bestRating": 145.10043603886916,
-    "worstRating": 139.8019609728144,
+    "worstRating": 135.4776580370746,
     "_lastTenRatings": [
       144.9009804864072,
       139.8019609728144,
       145.10043603886916,
-      140.00141652527637
+      140.00141652527637,
+      135.4776580370746,
+      140.37585186016696,
+      136.02781141754588
     ],
-    "tendency": -4.899563961130838
+    "tendency": -8.87316906886133
+  },
+  {
+    "NAF Nr": "27915",
+    "NAF Name": "vikingkop",
+    "CCAA": "Euskadi",
+    "Country": "Spain",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 166.70727287457154,
+    "bestRating": 166.70727287457154,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      144.52925214005418,
+      149.7494323975439,
+      155.41716576798842,
+      160.76928154037776,
+      166.70727287457154
+    ],
+    "tendency": 22.364127124063913
   },
   {
     "NAF Nr": "28011",
@@ -1912,15 +2588,39 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 149.65896168120108,
-    "bestRating": 153.84303627478386,
-    "worstRating": 149.501395831987,
+    "rating": 149.65899104115633,
+    "bestRating": 153.8430677009976,
+    "worstRating": 149.50142620682857,
     "_lastTenRatings": [
-      153.84303627478386,
-      149.501395831987,
-      149.65896168120108
+      153.8430677009976,
+      149.50142620682857,
+      149.65899104115633
     ],
-    "tendency": -4.184074593582778
+    "tendency": -4.184076659841281
+  },
+  {
+    "NAF Nr": "28592",
+    "NAF Name": "damyokruder",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.99953375308303,
+    "bestRating": 154.47213595499957,
+    "worstRating": 149.99953375308303,
+    "_lastTenRatings": [
+      150,
+      154.47213595499957,
+      149.99953375308303
+    ],
+    "tendency": -0.00046624691697161325
   },
   {
     "NAF Nr": "29024",
@@ -1948,6 +2648,32 @@ const nurgle2025 = [
       150.37624789339765
     ],
     "tendency": 5.582843941985146
+  },
+  {
+    "NAF Nr": "29438",
+    "NAF Name": "Finrod",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 5,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 40,
+    "rating": 143.292380754702,
+    "bestRating": 155.65685424949237,
+    "worstRating": 143.292380754702,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      154.79297760019625,
+      148.9281158616143,
+      143.292380754702
+    ],
+    "tendency": -12.36447349479036
   },
   {
     "NAF Nr": "29843",
@@ -1999,6 +2725,30 @@ const nurgle2025 = [
       160.86401607275363
     ],
     "tendency": 10.864016072753628
+  },
+  {
+    "NAF Nr": "30111",
+    "NAF Name": "Vodkatron",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      150
+    ],
+    "tendency": -5.656854249492369
   },
   {
     "NAF Nr": "30275",
@@ -2082,22 +2832,28 @@ const nurgle2025 = [
     "Country": "Italy",
     "raceId": "16",
     "raceName": "Nurgle",
-    "gamesTotal": 3,
-    "gamesWon": 0,
-    "gamesDraw": 1,
-    "gamesLost": 2,
+    "gamesTotal": 9,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 4,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 16.67,
-    "rating": 139.1659060137588,
-    "bestRating": 144.34314575050763,
+    "totalTournaments": 2,
+    "winRatio": 44.44,
+    "rating": 147.93407030508254,
+    "bestRating": 153.2284256477443,
     "worstRating": 138.92110841805226,
     "_lastTenRatings": [
       144.34314575050763,
       138.92110841805226,
-      139.1659060137588
+      139.1659060137588,
+      145.01807415429295,
+      151.13581864597234,
+      146.1179204648866,
+      146.96011425730754,
+      153.2284256477443,
+      147.93407030508254
     ],
-    "tendency": -5.177239736748817
+    "tendency": 3.5909245545749116
   },
   {
     "NAF Nr": "30686",
@@ -2192,6 +2948,32 @@ const nurgle2025 = [
     "tendency": -4.714859442012312
   },
   {
+    "NAF Nr": "30941",
+    "NAF Name": "LaMurge",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 60,
+    "rating": 154.11329837843067,
+    "bestRating": 160.64696391475272,
+    "worstRating": 154.11329837843067,
+    "_lastTenRatings": [
+      154.98731681760762,
+      160.64696391475272,
+      155.01905810284129,
+      160.21386034229815,
+      154.11329837843067
+    ],
+    "tendency": -0.8740184391769503
+  },
+  {
     "NAF Nr": "31117",
     "NAF Name": "Tsackree",
     "CCAA": "Apatrida",
@@ -2238,16 +3020,16 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 25,
-    "rating": 138.88938681576397,
+    "rating": 138.8699778358918,
     "bestRating": 144.8120115326526,
     "worstRating": 138.68629150101526,
     "_lastTenRatings": [
       144.34314575050763,
       138.68629150101526,
       144.8120115326526,
-      138.88938681576397
+      138.8699778358918
     ],
-    "tendency": -5.453758934743661
+    "tendency": -5.4731679146158285
   },
   {
     "NAF Nr": "31349",
@@ -2323,6 +3105,33 @@ const nurgle2025 = [
     "tendency": -0.09208170661665349
   },
   {
+    "NAF Nr": "31722",
+    "NAF Name": "elibar",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 152.066000206163,
+    "bestRating": 152.066000206163,
+    "worstRating": 144.31492163006544,
+    "_lastTenRatings": [
+      150,
+      144.31492163006544,
+      149.97300131329627,
+      145.35690901037293,
+      151.242992115467,
+      152.066000206163
+    ],
+    "tendency": 2.066000206163011
+  },
+  {
     "NAF Nr": "31727",
     "NAF Name": "Goaty_McGoatface",
     "CCAA": "Apatrida",
@@ -2372,16 +3181,40 @@ const nurgle2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 160.88520800068164,
-    "bestRating": 160.88520800068164,
+    "rating": 160.8852092036399,
+    "bestRating": 160.8852092036399,
     "worstRating": 155.17744596225364,
     "_lastTenRatings": [
       155.17744596225364,
       160.84445798163827,
       160.86483179415524,
-      160.88520800068164
+      160.8852092036399
     ],
-    "tendency": 5.707762038428001
+    "tendency": 5.70776324138626
+  },
+  {
+    "NAF Nr": "32103",
+    "NAF Name": "ilmiraz",
+    "CCAA": "Apatrida",
+    "Country": "Italy",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.47213595499957,
+    "bestRating": 158.94427190999915,
+    "worstRating": 154.47213595499957,
+    "_lastTenRatings": [
+      154.47213595499957,
+      158.94427190999915,
+      154.47213595499957
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "32259",
@@ -2408,12 +3241,39 @@ const nurgle2025 = [
     },
     "rating": 153.16413906794372,
     "bestRating": 153.16413906794372,
-    "worstRating": 153.0855398918779,
+    "worstRating": 150,
     "_lastTenRatings": [
+      150,
       153.0855398918779,
       153.16413906794372
     ],
-    "tendency": 0.07859917606583622
+    "tendency": 3.1641390679437222
+  },
+  {
+    "NAF Nr": "32322",
+    "NAF Name": "etienne4185",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 80,
+    "rating": 166.49029097270665,
+    "bestRating": 166.49029097270665,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      161.31370849898474,
+      161.06825364025127,
+      166.49029097270665
+    ],
+    "tendency": 10.833436723214277
   },
   {
     "NAF Nr": "32323",
@@ -2476,6 +3336,54 @@ const nurgle2025 = [
     "tendency": -0.23662060179589162
   },
   {
+    "NAF Nr": "32437",
+    "NAF Name": "Mr.BombBasti",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.89239959881652,
+    "bestRating": 154.89239959881652,
+    "worstRating": 144.9009804864072,
+    "_lastTenRatings": [
+      144.9009804864072,
+      150,
+      154.89239959881652
+    ],
+    "tendency": 9.991419112409318
+  },
+  {
+    "NAF Nr": "32532",
+    "NAF Name": "totalfuzzylogic",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 156.58625748679498,
+    "bestRating": 156.58625748679498,
+    "worstRating": 145.29417171973654,
+    "_lastTenRatings": [
+      145.29417171973654,
+      150.93024521446634,
+      156.58625748679498
+    ],
+    "tendency": 11.292085767058438
+  },
+  {
     "NAF Nr": "32539",
     "NAF Name": "shiratokai",
     "CCAA": "Apatrida",
@@ -2515,15 +3423,15 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 155.90230910822584,
-    "bestRating": 155.90230910822584,
+    "rating": 156.3389570414132,
+    "bestRating": 156.3389570414132,
     "worstRating": 155.65685424949237,
     "_lastTenRatings": [
       155.65685424949237,
       155.65685424949237,
-      155.90230910822584
+      156.3389570414132
     ],
-    "tendency": 0.24545485873346706
+    "tendency": 0.6821027919208404
   },
   {
     "NAF Nr": "32620",
@@ -2563,15 +3471,71 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 155.28569151956486,
-    "bestRating": 155.28569151956486,
+    "rating": 155.27107982335266,
+    "bestRating": 155.27107982335266,
     "worstRating": 150.19427523784884,
     "_lastTenRatings": [
       155.0990195135928,
       150.19427523784884,
-      155.28569151956486
+      155.27107982335266
     ],
-    "tendency": 0.18667200597207056
+    "tendency": 0.1720603097598712
+  },
+  {
+    "NAF Nr": "32640",
+    "NAF Name": "Pyromastah",
+    "CCAA": "Apatrida",
+    "Country": "Canada",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.9947394153773,
+    "bestRating": 154.62558136949113,
+    "worstRating": 149.9947394153773,
+    "_lastTenRatings": [
+      150,
+      154.62558136949113,
+      149.9947394153773
+    ],
+    "tendency": -0.0052605846227038455
+  },
+  {
+    "NAF Nr": "32657",
+    "NAF Name": "Krnasaur",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 2,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 25,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
+    "rating": 146.601861325308,
+    "bestRating": 150,
+    "worstRating": 146.601861325308,
+    "_lastTenRatings": [
+      150,
+      146.601861325308
+    ],
+    "tendency": -3.3981386746920066
   },
   {
     "NAF Nr": "32757",
@@ -2587,15 +3551,15 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 66.67,
-    "rating": 154.31545354020983,
-    "bestRating": 154.31545354020983,
+    "rating": 154.2982693499917,
+    "bestRating": 154.2982693499917,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       150,
-      154.31545354020983
+      154.2982693499917
     ],
-    "tendency": 4.31545354020983
+    "tendency": 4.298269349991699
   },
   {
     "NAF Nr": "32765",
@@ -2646,6 +3610,54 @@ const nurgle2025 = [
     "tendency": 6.928203230275528
   },
   {
+    "NAF Nr": "32999",
+    "NAF Name": "Darock",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 160.1980390271856,
+    "bestRating": 160.1980390271856,
+    "worstRating": 155.0990195135928,
+    "_lastTenRatings": [
+      155.0990195135928,
+      160.1980390271856,
+      160.1980390271856
+    ],
+    "tendency": 5.099019513592793
+  },
+  {
+    "NAF Nr": "33027",
+    "NAF Name": "gettheref",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 3,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.99738864818093,
+    "bestRating": 150,
+    "worstRating": 149.9973307004083,
+    "_lastTenRatings": [
+      150,
+      149.9973307004083,
+      149.99738864818093
+    ],
+    "tendency": -0.002611351819069796
+  },
+  {
     "NAF Nr": "33051",
     "NAF Name": "Skeletor",
     "CCAA": "Apatrida",
@@ -2672,6 +3684,54 @@ const nurgle2025 = [
     "tendency": 9.750857381679538
   },
   {
+    "NAF Nr": "33083",
+    "NAF Name": "Petronikus",
+    "CCAA": "Apatrida",
+    "Country": "Malta",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 159.06424879516533,
+    "bestRating": 159.06424879516533,
+    "worstRating": 150.18439062180906,
+    "_lastTenRatings": [
+      150.18439062180906,
+      155.07643682970235,
+      159.06424879516533
+    ],
+    "tendency": 8.879858173356268
+  },
+  {
+    "NAF Nr": "33241",
+    "NAF Name": "JoeR",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 161.31370849898474,
+    "bestRating": 161.31370849898474,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.65685424949237,
+      161.31370849898474
+    ],
+    "tendency": 11.313708498984738
+  },
+  {
     "NAF Nr": "33270",
     "NAF Name": "megabog",
     "CCAA": "Apatrida",
@@ -2685,18 +3745,18 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 41.67,
-    "rating": 142.26884578141824,
-    "bestRating": 142.26884578141824,
-    "worstRating": 134.50710085166156,
+    "rating": 142.28499469014682,
+    "bestRating": 142.28499469014682,
+    "worstRating": 134.50806661517032,
     "_lastTenRatings": [
       142.25403330758516,
       134.50806661517032,
       134.50806661517032,
       142.25300649766862,
-      134.50710085166156,
-      142.26884578141824
+      134.52312504754929,
+      142.28499469014682
     ],
-    "tendency": 0.014812473833075046
+    "tendency": 0.030961382561656592
   },
   {
     "NAF Nr": "33324",
@@ -2907,6 +3967,30 @@ const nurgle2025 = [
     "tendency": 20.780289649480693
   },
   {
+    "NAF Nr": "33963",
+    "NAF Name": "croberts",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 136.9255442291982,
+    "bestRating": 145.52786404500043,
+    "worstRating": 136.9255442291982,
+    "_lastTenRatings": [
+      145.52786404500043,
+      141.05572809000085,
+      136.9255442291982
+    ],
+    "tendency": -8.602319815802218
+  },
+  {
     "NAF Nr": "34029",
     "NAF Name": "Mase",
     "CCAA": "Apatrida",
@@ -2944,18 +4028,18 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 58.33,
-    "rating": 158.61352488848132,
-    "bestRating": 158.61352488848132,
+    "rating": 158.61447429017258,
+    "bestRating": 158.61447429017258,
     "worstRating": 142.25294169602913,
     "_lastTenRatings": [
       142.25403330758516,
       150,
       142.25294169602913,
-      150.45894826225324,
-      150.4316017175902,
-      158.61352488848132
+      150.4600212660191,
+      150.43261092940583,
+      158.61447429017258
     ],
-    "tendency": 16.35949158089616
+    "tendency": 16.36044098258742
   },
   {
     "NAF Nr": "34921",
@@ -2971,16 +4055,121 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 12.5,
-    "rating": 133.25404054613628,
+    "rating": 133.2345798768752,
     "bestRating": 144.34314575050763,
-    "worstRating": 133.25404054613628,
+    "worstRating": 133.2345798768752,
     "_lastTenRatings": [
       144.34314575050763,
       138.9317463597487,
       138.92108922289918,
-      133.25404054613628
+      133.2345798768752
     ],
-    "tendency": -11.08910520437135
+    "tendency": -11.108565873632443
+  },
+  {
+    "NAF Nr": "34969",
+    "NAF Name": "dwhyte",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.65685424949237,
+    "bestRating": 155.65685424949237,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.65685424949237,
+      155.65685424949237
+    ],
+    "tendency": 5.656854249492369
+  },
+  {
+    "NAF Nr": "35157",
+    "NAF Name": "carbon_skumbag",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 1
+    },
+    "rating": 150.13761074588376,
+    "bestRating": 152.82842712474618,
+    "worstRating": 150.13761074588376,
+    "_lastTenRatings": [
+      152.82842712474618,
+      150.13907204685466,
+      150.13761074588376
+    ],
+    "tendency": -2.690816378862422
+  },
+  {
+    "NAF Nr": "35560",
+    "NAF Name": "dadalusms",
+    "CCAA": "Apatrida",
+    "Country": "Germany",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.09855500958312,
+    "bestRating": 155.0990195135928,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.0990195135928,
+      150,
+      155.09855500958312
+    ],
+    "tendency": -0.00046450400967046335
+  },
+  {
+    "NAF Nr": "35649",
+    "NAF Name": "Kubusta",
+    "CCAA": "Apatrida",
+    "Country": "Czech Republic",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 158.94427190999915,
+    "bestRating": 158.94427190999915,
+    "worstRating": 154.47213595499957,
+    "_lastTenRatings": [
+      154.47213595499957,
+      158.94427190999915,
+      158.94427190999915
+    ],
+    "tendency": 4.4721359549995725
   },
   {
     "NAF Nr": "35660",
@@ -3008,6 +4197,56 @@ const nurgle2025 = [
     "tendency": -14.512818413145027
   },
   {
+    "NAF Nr": "35670",
+    "NAF Name": "Calvo",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 60,
+    "rating": 155.6560979980803,
+    "bestRating": 161.31331321069032,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      155.65685424949237,
+      161.31331321069032,
+      155.6560979980803
+    ],
+    "tendency": -0.0007562514120706965
+  },
+  {
+    "NAF Nr": "35737",
+    "NAF Name": "azguard84",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 138.68629150101526,
+    "bestRating": 150,
+    "worstRating": 138.68629150101526,
+    "_lastTenRatings": [
+      150,
+      144.34314575050763,
+      138.68629150101526
+    ],
+    "tendency": -11.313708498984738
+  },
+  {
     "NAF Nr": "35892",
     "NAF Name": "Wacky_Willow",
     "CCAA": "Apatrida",
@@ -3030,18 +4269,153 @@ const nurgle2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 150.62225117233828,
-    "bestRating": 150.62225117233828,
+    "rating": 150.30129499335973,
+    "bestRating": 150.30129499335973,
+    "worstRating": 144.34314575050763,
+    "_lastTenRatings": [
+      144.34314575050763,
+      150.0208148363273,
+      144.36305684909294,
+      150.0973670058084,
+      145.23080875627673,
+      150.30129499335973
+    ],
+    "tendency": 5.958149242852102
+  },
+  {
+    "NAF Nr": "35908",
+    "NAF Name": "MattBB",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 133.0294372515229,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.0294372515229,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229
+    ],
+    "tendency": -11.313708498984738
+  },
+  {
+    "NAF Nr": "35952",
+    "NAF Name": "mrrockercrocker",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 154.661112747883,
+    "bestRating": 154.6747858553587,
+    "worstRating": 150.1956939659828,
+    "_lastTenRatings": [
+      154.6747858553587,
+      150.1956939659828,
+      154.661112747883
+    ],
+    "tendency": -0.0136731074756824
+  },
+  {
+    "NAF Nr": "36174",
+    "NAF Name": "nilsson1224",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 6,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 41.67,
+    "rating": 142.46866439302127,
+    "bestRating": 157.74596669241484,
+    "worstRating": 136.31437725322178,
+    "_lastTenRatings": [
+      157.74596669241484,
+      150,
+      143.17075110535595,
+      136.31437725322178,
+      143.52319263486595,
+      142.46866439302127
+    ],
+    "tendency": -15.277302299393568
+  },
+  {
+    "NAF Nr": "36345",
+    "NAF Name": "Dgey",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 6,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 150.00122278323266,
+    "bestRating": 155.65685424949237,
     "worstRating": 144.34314575050763,
     "_lastTenRatings": [
       144.34314575050763,
       150,
-      144.34314575050763,
-      150.07825889907244,
-      145.21247168804345,
-      150.62225117233828
+      155.65685424949237,
+      150,
+      144.34360846165757,
+      150.00122278323266
     ],
-    "tendency": 6.27910542183065
+    "tendency": 5.658077032725032
+  },
+  {
+    "NAF Nr": "36394",
+    "NAF Name": "schoolyb",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 3,
+    "gamesDraw": 0,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 100,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 167.70874653325959,
+    "bestRating": 167.70874653325959,
+    "worstRating": 156.97529271020363,
+    "_lastTenRatings": [
+      156.97529271020363,
+      162.0853970346369,
+      167.70874653325959
+    ],
+    "tendency": 10.733453823055953
   },
   {
     "NAF Nr": "36424",
@@ -3131,6 +4505,114 @@ const nurgle2025 = [
     "tendency": -9.561717205496336
   },
   {
+    "NAF Nr": "36731",
+    "NAF Name": "oxinotl",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 149.99994205222737,
+    "bestRating": 152.82842712474618,
+    "worstRating": 149.99994205222737,
+    "_lastTenRatings": [
+      152.82842712474618,
+      150,
+      149.99994205222737
+    ],
+    "tendency": -2.8284850725188164
+  },
+  {
+    "NAF Nr": "36893",
+    "NAF Name": "JMarinA",
+    "CCAA": "Apatrida",
+    "Country": "Mexico",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "rating": 149.82328108185996,
+    "bestRating": 150,
+    "worstRating": 146.35686767010043,
+    "_lastTenRatings": [
+      150,
+      146.35686767010043,
+      149.82328108185996
+    ],
+    "tendency": -0.1767189181400397
+  },
+  {
+    "NAF Nr": "36936",
+    "NAF Name": "83wotan",
+    "CCAA": "Apatrida",
+    "Country": "Sweden",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 6,
+    "gamesWon": 4,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 75,
+    "rating": 170.47380728410656,
+    "bestRating": 179.4761848071022,
+    "worstRating": 157.74596669241484,
+    "_lastTenRatings": [
+      157.74596669241484,
+      165.03195818116234,
+      171.8881818834695,
+      171.47410306707422,
+      179.4761848071022,
+      170.47380728410656
+    ],
+    "tendency": 12.727840591691717
+  },
+  {
+    "NAF Nr": "36939",
+    "NAF Name": "ELDESTRUCTO83",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 133.0294372515229,
+    "bestRating": 144.34314575050763,
+    "worstRating": 133.0294372515229,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      133.0294372515229
+    ],
+    "tendency": -11.313708498984738
+  },
+  {
     "NAF Nr": "37247",
     "NAF Name": "TheWardancer",
     "CCAA": "Apatrida",
@@ -3195,18 +4677,44 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 150.00000623159846,
-    "bestRating": 150.00000623159846,
+    "rating": 150.01507774503366,
+    "bestRating": 150.01507774503366,
     "worstRating": 142.25403330758516,
     "_lastTenRatings": [
       142.25403330758516,
       150,
       142.25403330758516,
-      142.25403330758516,
-      142.25403330758516,
-      150.00000623159846
+      142.27107039650394,
+      142.27005749912635,
+      150.01507774503366
     ],
-    "tendency": 7.7459729240133015
+    "tendency": 7.761044437448504
+  },
+  {
+    "NAF Nr": "37498",
+    "NAF Name": "RandomSaiyan",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 70,
+    "rating": 161.32429788040625,
+    "bestRating": 161.32429788040625,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.65685424949237,
+      150,
+      155.65685424949237,
+      161.32429788040625
+    ],
+    "tendency": 11.324297880406249
   },
   {
     "NAF Nr": "37715",
@@ -3222,17 +4730,67 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 30,
-    "rating": 140.03816964197893,
+    "rating": 140.03846046466572,
     "bestRating": 149.815879956446,
-    "worstRating": 140.03816964197893,
+    "worstRating": 140.03846046466572,
     "_lastTenRatings": [
       145.10102051443366,
       145.10102051443366,
       149.815879956446,
       144.92408389002128,
-      140.03816964197893
+      140.03846046466572
     ],
-    "tendency": -5.062850872454732
+    "tendency": -5.062560049767939
+  },
+  {
+    "NAF Nr": "37958",
+    "NAF Name": "krebs_zoid",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 5,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 70,
+    "rating": 162.1182352148384,
+    "bestRating": 162.1182352148384,
+    "worstRating": 144.73087888711328,
+    "_lastTenRatings": [
+      144.73087888711328,
+      150.37089860414076,
+      156.26785735870595,
+      156.25108147792005,
+      162.1182352148384
+    ],
+    "tendency": 17.387356327725115
+  },
+  {
+    "NAF Nr": "38022",
+    "NAF Name": "mutilus",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 16.67,
+    "rating": 144.40453837558846,
+    "bestRating": 150,
+    "worstRating": 144.40453837558846,
+    "_lastTenRatings": [
+      150,
+      147.17157287525382,
+      144.40453837558846
+    ],
+    "tendency": -5.595461624411541
   },
   {
     "NAF Nr": "38195",
@@ -3241,15 +4799,15 @@ const nurgle2025 = [
     "Country": "Wales",
     "raceId": "16",
     "raceName": "Nurgle",
-    "gamesTotal": 5,
-    "gamesWon": 4,
-    "gamesDraw": 1,
+    "gamesTotal": 11,
+    "gamesWon": 8,
+    "gamesDraw": 3,
     "gamesLost": 0,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 90,
+    "totalTournaments": 2,
+    "winRatio": 86.36,
     "trophies": {
-      "winner": 1,
+      "winner": 2,
       "runnerup": 1,
       "touchdowns": 0,
       "casualties": 0,
@@ -3257,17 +4815,22 @@ const nurgle2025 = [
       "bestpainted": 0,
       "otherawards": 0
     },
-    "rating": 169.1317606249387,
-    "bestRating": 169.1317606249387,
+    "rating": 184.15347763499375,
+    "bestRating": 184.89001478843858,
     "worstRating": 154.89897948556634,
     "_lastTenRatings": [
-      154.89897948556634,
       159.61383892757868,
-      159.64267349531528,
-      164.75722190801264,
-      169.1317606249387
+      159.64267477326766,
+      164.75722313800568,
+      169.1317630382649,
+      173.22838482735307,
+      177.3502164846514,
+      176.70055358810507,
+      180.69759817885495,
+      184.89001478843858,
+      184.15347763499375
     ],
-    "tendency": 14.23278113937235
+    "tendency": 24.539638707415065
   },
   {
     "NAF Nr": "38334",
@@ -3303,6 +4866,72 @@ const nurgle2025 = [
     "tendency": 0
   },
   {
+    "NAF Nr": "38439",
+    "NAF Name": "foodog",
+    "CCAA": "Apatrida",
+    "Country": "Finland",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 1,
+      "touchdowns": 0,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 158,
+    "bestRating": 158,
+    "worstRating": 154,
+    "_lastTenRatings": [
+      154,
+      154,
+      158
+    ],
+    "tendency": 4
+  },
+  {
+    "NAF Nr": "38452",
+    "NAF Name": "mercutio_uk",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 1,
+      "casualties": 0,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 161.89136175301067,
+    "bestRating": 161.89136175301067,
+    "worstRating": 155.65685424949237,
+    "_lastTenRatings": [
+      155.65685424949237,
+      161.31370849898474,
+      161.89136175301067
+    ],
+    "tendency": 6.2345075035183015
+  },
+  {
     "NAF Nr": "38493",
     "NAF Name": "jdubthetall",
     "CCAA": "Apatrida",
@@ -3325,6 +4954,30 @@ const nurgle2025 = [
       146.6304265801579
     ],
     "tendency": -6.833675034979876
+  },
+  {
+    "NAF Nr": "38643",
+    "NAF Name": "GraveMisteak",
+    "CCAA": "Apatrida",
+    "Country": "New Zealand",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 157.996230946571,
+    "bestRating": 157.996230946571,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      154,
+      157.996230946571
+    ],
+    "tendency": 7.996230946570989
   },
   {
     "NAF Nr": "38877",
@@ -3502,9 +5155,9 @@ const nurgle2025 = [
       "bestpainted": 0,
       "otherawards": 1
     },
-    "rating": 133.51652408397496,
+    "rating": 133.5169972445819,
     "bestRating": 145.52786404500043,
-    "worstRating": 133.51652408397496,
+    "worstRating": 133.5169972445819,
     "_lastTenRatings": [
       145.52786404500043,
       141.05572809000085,
@@ -3512,9 +5165,9 @@ const nurgle2025 = [
       136.57832513709553,
       140.9889343313205,
       137.38706619957418,
-      133.51652408397496
+      133.5169972445819
     ],
-    "tendency": -12.01133996102547
+    "tendency": -12.01086680041854
   },
   {
     "NAF Nr": "39479",
@@ -3523,26 +5176,75 @@ const nurgle2025 = [
     "Country": "England",
     "raceId": "16",
     "raceName": "Nurgle",
-    "gamesTotal": 7,
-    "gamesWon": 3,
-    "gamesDraw": 2,
-    "gamesLost": 2,
+    "gamesTotal": 11,
+    "gamesWon": 4,
+    "gamesDraw": 3,
+    "gamesLost": 4,
     "totalWinRatio": 0,
-    "totalTournaments": 2,
-    "winRatio": 57.14,
-    "rating": 153.74734742443792,
+    "totalTournaments": 3,
+    "winRatio": 50,
+    "rating": 147.24802829381346,
     "bestRating": 159.76950303042466,
-    "worstRating": 149.99473300209425,
+    "worstRating": 147.24802829381346,
     "_lastTenRatings": [
-      154.47213595499957,
       154.47213595499957,
       149.99473300209425,
       154.29924553420508,
       159.76950303042466,
-      159.57423512866833,
-      153.74734742443792
+      159.57423528609394,
+      153.74734757503458,
+      147.92783598536695,
+      147.77223530585184,
+      153.03523467070025,
+      147.24802829381346
     ],
-    "tendency": -0.7247885305616535
+    "tendency": -7.22410766118611
+  },
+  {
+    "NAF Nr": "39605",
+    "NAF Name": "houndoom21",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 152.98049235191502,
+    "bestRating": 152.98049235191502,
+    "worstRating": 146.50484736207278,
+    "_lastTenRatings": [
+      146.50484736207278,
+      149.82601676089945,
+      152.98049235191502
+    ],
+    "tendency": 6.4756449898422375
+  },
+  {
+    "NAF Nr": "39704",
+    "NAF Name": "Navarreteando",
+    "CCAA": "Apatrida",
+    "Country": "Mexico",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 1,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 146.53589838486224,
+    "bestRating": 146.53589838486224,
+    "worstRating": 146.53589838486224,
+    "_lastTenRatings": [
+      146.53589838486224
+    ],
+    "tendency": 0
   },
   {
     "NAF Nr": "39747",
@@ -3614,23 +5316,26 @@ const nurgle2025 = [
     "Country": "Malta",
     "raceId": "16",
     "raceName": "Nurgle",
-    "gamesTotal": 4,
-    "gamesWon": 1,
+    "gamesTotal": 7,
+    "gamesWon": 2,
     "gamesDraw": 3,
-    "gamesLost": 0,
+    "gamesLost": 2,
     "totalWinRatio": 0,
-    "totalTournaments": 1,
-    "winRatio": 62.5,
-    "rating": 154.71569829224873,
+    "totalTournaments": 2,
+    "winRatio": 50,
+    "rating": 148.94399017808374,
     "bestRating": 155.0990195135928,
-    "worstRating": 150,
+    "worstRating": 148.94399017808374,
     "_lastTenRatings": [
       150,
       155.0990195135928,
       154.89956396113084,
-      154.71569829224873
+      154.71569829224873,
+      149.44120684424854,
+      153.98586002374446,
+      148.94399017808374
     ],
-    "tendency": 4.715698292248732
+    "tendency": -1.0560098219162626
   },
   {
     "NAF Nr": "40135",
@@ -3682,6 +5387,114 @@ const nurgle2025 = [
       150
     ],
     "tendency": 0
+  },
+  {
+    "NAF Nr": "40629",
+    "NAF Name": "pampa85",
+    "CCAA": "Apatrida",
+    "Country": "Spain",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 4,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 37.5,
+    "rating": 144.39585477999793,
+    "bestRating": 155.65685424949237,
+    "worstRating": 144.39585477999793,
+    "_lastTenRatings": [
+      155.65685424949237,
+      155.65685424949237,
+      150.05510142067578,
+      144.39585477999793
+    ],
+    "tendency": -11.260999469494436
+  },
+  {
+    "NAF Nr": "40935",
+    "NAF Name": "Regor",
+    "CCAA": "Apatrida",
+    "Country": "Portugal",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 0,
+      "otherawards": 0
+    },
+    "rating": 158.9311548178132,
+    "bestRating": 158.9311548178132,
+    "worstRating": 154.45855261589665,
+    "_lastTenRatings": [
+      154.47213595499957,
+      154.45855261589665,
+      158.9311548178132
+    ],
+    "tendency": 4.459018862813622
+  },
+  {
+    "NAF Nr": "41054",
+    "NAF Name": "Antix7",
+    "CCAA": "Apatrida",
+    "Country": "Australia",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 5,
+    "gamesWon": 0,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 20,
+    "rating": 132.53181611642964,
+    "bestRating": 144.34314575050763,
+    "worstRating": 132.53181611642964,
+    "_lastTenRatings": [
+      144.34314575050763,
+      138.68629150101526,
+      138.68629150101526,
+      138.16765065252847,
+      132.53181611642964
+    ],
+    "tendency": -11.811329634077993
+  },
+  {
+    "NAF Nr": "41230",
+    "NAF Name": "Dewgong",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 0,
+    "gamesDraw": 0,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 0,
+    "rating": 138,
+    "bestRating": 146,
+    "worstRating": 138,
+    "_lastTenRatings": [
+      146,
+      142,
+      138
+    ],
+    "tendency": -8
   },
   {
     "NAF Nr": "41255",
@@ -3758,6 +5571,33 @@ const nurgle2025 = [
     "tendency": -3.8776206896676797
   },
   {
+    "NAF Nr": "41849",
+    "NAF Name": "MJHumphrey",
+    "CCAA": "Apatrida",
+    "Country": "England",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 6,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 3,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 140.7653504633357,
+    "bestRating": 150,
+    "worstRating": 135.79635298753485,
+    "_lastTenRatings": [
+      150,
+      145.20416847668727,
+      140.40833695337454,
+      135.79635298753485,
+      135.98253733981056,
+      140.7653504633357
+    ],
+    "tendency": -9.234649536664307
+  },
+  {
     "NAF Nr": "41949",
     "NAF Name": "WaltzWizard",
     "CCAA": "Apatrida",
@@ -3771,15 +5611,15 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 33.33,
-    "rating": 145.52786404500043,
-    "bestRating": 145.52786404500043,
-    "worstRating": 145.52786404500043,
+    "rating": 145.5276729120024,
+    "bestRating": 145.5276729120024,
+    "worstRating": 145.4139959034407,
     "_lastTenRatings": [
-      145.52786404500043,
-      145.52786404500043,
-      145.52786404500043
+      145.4139959034407,
+      145.41790441637806,
+      145.5276729120024
     ],
-    "tendency": 0
+    "tendency": 0.11367700856169449
   },
   {
     "NAF Nr": "42008",
@@ -3821,15 +5661,15 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 50,
-    "rating": 151.23095176829253,
+    "rating": 151.5261386426117,
     "bestRating": 155.65685424949237,
     "worstRating": 150,
     "_lastTenRatings": [
       150,
       155.65685424949237,
-      151.23095176829253
+      151.5261386426117
     ],
-    "tendency": 1.2309517682925275
+    "tendency": 1.5261386426116985
   },
   {
     "NAF Nr": "42241",
@@ -3887,6 +5727,95 @@ const nurgle2025 = [
       144.34314575050763
     ],
     "tendency": 0
+  },
+  {
+    "NAF Nr": "42581",
+    "NAF Name": "moustache",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 9,
+    "gamesWon": 3,
+    "gamesDraw": 1,
+    "gamesLost": 5,
+    "totalWinRatio": 0,
+    "totalTournaments": 2,
+    "winRatio": 38.89,
+    "rating": 140.91714745563894,
+    "bestRating": 150,
+    "worstRating": 134.77155113986421,
+    "_lastTenRatings": [
+      145.52786404500043,
+      150,
+      145.52786404500043,
+      140.06510459802882,
+      140.25078169709192,
+      134.77155113986421,
+      140.59832430169686,
+      135.10401780375122,
+      140.91714745563894
+    ],
+    "tendency": -4.610716589361488
+  },
+  {
+    "NAF Nr": "42610",
+    "NAF Name": "dreag",
+    "CCAA": "Apatrida",
+    "Country": "France",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 5,
+    "gamesWon": 2,
+    "gamesDraw": 2,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 60,
+    "rating": 155.05026811631996,
+    "bestRating": 155.65685424949237,
+    "worstRating": 149.41453300940768,
+    "_lastTenRatings": [
+      155.65685424949237,
+      150,
+      150,
+      149.41453300940768,
+      155.05026811631996
+    ],
+    "tendency": -0.6065861331724136
+  },
+  {
+    "NAF Nr": "42657",
+    "NAF Name": "Vianco",
+    "CCAA": "Apatrida",
+    "Country": "United States Of America",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 1,
+    "gamesLost": 1,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 50,
+    "trophies": {
+      "winner": 0,
+      "runnerup": 0,
+      "touchdowns": 0,
+      "casualties": 1,
+      "stuntycup": 0,
+      "bestpainted": 1,
+      "otherawards": 0
+    },
+    "rating": 150.11892235543084,
+    "bestRating": 152.70698408835239,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      152.70698408835239,
+      150.11892235543084
+    ],
+    "tendency": 0.11892235543083984
   },
   {
     "NAF Nr": "42766",
@@ -3992,16 +5921,88 @@ const nurgle2025 = [
     "totalWinRatio": 0,
     "totalTournaments": 1,
     "winRatio": 20,
-    "rating": 133.2434742563518,
+    "rating": 133.24347425629253,
     "bestRating": 150,
-    "worstRating": 133.2434742563518,
+    "worstRating": 133.24347425629253,
     "_lastTenRatings": [
       144.34314575050763,
       150,
       144.09769089177416,
       138.4514937791313,
-      133.2434742563518
+      133.24347425629253
     ],
-    "tendency": -11.099671494155842
+    "tendency": -11.099671494215102
+  },
+  {
+    "NAF Nr": "43344",
+    "NAF Name": "div_vers",
+    "CCAA": "Apatrida",
+    "Country": "Georgia",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 0,
+    "gamesLost": 2,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 33.33,
+    "rating": 144.39237863359236,
+    "bestRating": 150,
+    "worstRating": 144.39237863359236,
+    "_lastTenRatings": [
+      144.61483519286548,
+      150,
+      144.39237863359236
+    ],
+    "tendency": -0.22245655927312669
+  },
+  {
+    "NAF Nr": "43345",
+    "NAF Name": "Kot_B_noskE",
+    "CCAA": "Apatrida",
+    "Country": "Russia",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 1,
+    "gamesDraw": 2,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 66.67,
+    "rating": 155.1627082478614,
+    "bestRating": 155.38516480713452,
+    "worstRating": 150,
+    "_lastTenRatings": [
+      150,
+      155.38516480713452,
+      155.1627082478614
+    ],
+    "tendency": 5.162708247861389
+  },
+  {
+    "NAF Nr": "43431",
+    "NAF Name": "Shiro",
+    "CCAA": "Apatrida",
+    "Country": "Georgia",
+    "raceId": "16",
+    "raceName": "Nurgle",
+    "gamesTotal": 3,
+    "gamesWon": 2,
+    "gamesDraw": 1,
+    "gamesLost": 0,
+    "totalWinRatio": 0,
+    "totalTournaments": 1,
+    "winRatio": 83.33,
+    "rating": 160.75187425730587,
+    "bestRating": 160.77032961426903,
+    "worstRating": 155.38516480713452,
+    "_lastTenRatings": [
+      155.38516480713452,
+      160.77032961426903,
+      160.75187425730587
+    ],
+    "tendency": 5.366709450171356
   }
 ];

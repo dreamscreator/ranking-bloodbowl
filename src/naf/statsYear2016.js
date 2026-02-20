@@ -71309,7 +71309,7 @@ const statsYear2016 = [
   },
   {
     "NAF Nr": "22445",
-    "NAF Name": "inyector",
+    "NAF Name": "Fourrouses",
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "rating": 142.6424113904972,

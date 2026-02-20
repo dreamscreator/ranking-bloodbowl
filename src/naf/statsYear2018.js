@@ -1833,13 +1833,13 @@ const statsYear2018 = [
     "gamesTotal": 45,
     "winRatio": 56.67,
     "trophies": {
-      "winner": 0,
+      "winner": 1,
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 0
     },
     "_lastTenRatingsYear": [
       180.47606859882785,
@@ -1870,13 +1870,13 @@ const statsYear2018 = [
     "gamesTotal": 6,
     "winRatio": 66.67,
     "trophies": {
-      "winner": 0,
+      "winner": 1,
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 0
     },
     "_lastTenRatingsYear": [
       150.88857766597195,
@@ -3625,13 +3625,13 @@ const statsYear2018 = [
     "gamesTotal": 19,
     "winRatio": 55.26,
     "trophies": {
-      "winner": 0,
+      "winner": 1,
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 0
     },
     "_lastTenRatingsYear": [
       142.0858838800879,
@@ -13078,13 +13078,13 @@ const statsYear2018 = [
     "gamesTotal": 18,
     "winRatio": 61.11,
     "trophies": {
-      "winner": 0,
+      "winner": 1,
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 0
     },
     "_lastTenRatingsYear": [
       162.94349104316197,
@@ -13143,13 +13143,13 @@ const statsYear2018 = [
     "gamesTotal": 17,
     "winRatio": 58.82,
     "trophies": {
-      "winner": 0,
+      "winner": 1,
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 0
     },
     "_lastTenRatingsYear": [
       149.58754992885156,
@@ -29425,13 +29425,13 @@ const statsYear2018 = [
     "gamesTotal": 67,
     "winRatio": 72.39,
     "trophies": {
-      "winner": 0,
+      "winner": 1,
       "runnerup": 2,
       "touchdowns": 0,
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 0
     },
     "_lastTenRatingsYear": [
       233.06809696281326,
@@ -30386,13 +30386,13 @@ const statsYear2018 = [
     "gamesTotal": 40,
     "winRatio": 72.5,
     "trophies": {
-      "winner": 0,
+      "winner": 1,
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 0
     },
     "_lastTenRatingsYear": [
       202.6011013473214,
@@ -33564,13 +33564,13 @@ const statsYear2018 = [
     "gamesTotal": 40,
     "winRatio": 58.75,
     "trophies": {
-      "winner": 0,
+      "winner": 1,
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 0
     },
     "_lastTenRatingsYear": [
       178.3603234648283,
@@ -44226,15 +44226,6 @@ const statsYear2018 = [
     "gamesLost": 14,
     "gamesTotal": 31,
     "winRatio": 46.77,
-    "trophies": {
-      "winner": 0,
-      "runnerup": 0,
-      "touchdowns": 0,
-      "casualties": 1,
-      "stuntycup": 0,
-      "bestpainted": 0,
-      "otherawards": 0
-    },
     "_lastTenRatingsYear": [
       146.3858716435059,
       151.15720249980197,
@@ -47112,13 +47103,13 @@ const statsYear2018 = [
     "gamesTotal": 61,
     "winRatio": 49.18,
     "trophies": {
-      "winner": 0,
+      "winner": 1,
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 0,
       "stuntycup": 0,
       "bestpainted": 0,
-      "otherawards": 1
+      "otherawards": 0
     },
     "_lastTenRatingsYear": [
       151.4062696014891,
@@ -63987,7 +63978,7 @@ const statsYear2018 = [
   },
   {
     "NAF Nr": "22445",
-    "NAF Name": "inyector",
+    "NAF Name": "Fourrouses",
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "rating": 146.09490562375828,
@@ -108372,7 +108363,7 @@ const statsYear2018 = [
     "NAF Nr": "25987",
     "NAF Name": "gcflash",
     "CCAA": "Apatrida",
-    "Country": "Undisclosed",
+    "Country": "Scotland",
     "rating": 146.81366648528927,
     "bestRating": 154.47687040907667,
     "worstRating": 145.9462948228433,

@@ -56,11 +56,23 @@
                     country: item["Country"] || "",
                     ccaa: item["CCAA"] ?? item.ccaa ?? "", // Mapeo de CCAA
 
-                    maxScored: item.maxScored || 0,
-                    maxConceded: item.maxConceded || 0,
-                    maxCombined: item.maxCombined || 0,
-                    biggestWinDiff: item.biggestWinDiff || 0,
-                    biggestLossDiff: item.biggestLossDiff || 0,
+                    // TD
+                    tdMaxScored: item.tdMaxScored || 0,
+                    tdMaxConceded: item.tdMaxConceded || 0,
+                    tdMediaFor: item.tdMediaFor || 0,
+                    tdMediaAgain: item.tdMediaAgain || 0,
+                    tdMaxDifFor: item.tdMaxDifFor || 0,
+                    tdMaxDifAgain: item.tdMaxDifAgain || 0,
+                    tdMaxDifCombined: item.tdMaxDifCombined || 0,
+
+                    // CAS
+                    casMaxScored: item.casMaxScored || 0,
+                    casMaxConceded: item.casMaxConceded || 0,
+                    casMediaFor: item.casMediaFor || 0,
+                    casMediaAgain: item.casMediaAgain || 0,
+                    casMaxDifFor: item.casMaxDifFor || 0,
+                    casMaxDifAgain: item.casMaxDifAgain || 0,
+                    casMaxDifCombined: item.casMaxDifCombined || 0,
 
                     rivalCount: archCount,
                     rivalStr: archStr,
@@ -96,15 +108,27 @@
         const sortBar = document.getElementById("sortButtons");
 
         const validSortKeys = new Set([
-            "maxScored",
-            "maxConceded",
-            "maxCombined",
-            "biggestWinDiff",
-            "biggestLossDiff",
+            // TD
+            "tdMaxScored",
+            "tdMaxConceded",
+            "tdMediaFor",
+            "tdMediaAgain",
+            "tdMaxDifFor",
+            "tdMaxDifAgain",
+            "tdMaxDifCombined",
+            // CAS
+            "casMaxScored",
+            "casMaxConceded",
+            "casMediaFor",
+            "casMaxDifFor",
+            "casMediaAgain",
+            "casMaxDifAgain",
+            "casMaxDifCombined",
+
             "rivalCount"
         ]);
 
-        let sortState = { key: "maxScored", dir: "desc" };
+        let sortState = { key: "tdMaxScored", dir: "desc" };
 
         function setSort(key) {
             if (!validSortKeys.has(key)) return;
@@ -274,20 +298,35 @@
             rows.forEach((row) => {
                 const tr = document.createElement("tr");
 
-                const winDiffClass = row.biggestWinDiff > 0 ? "text-success fw-bold" : "";
-                const lossDiffClass = row.biggestLossDiff < 0 ? "text-danger fw-bold" : (row.biggestLossDiff > 0 ? "text-danger fw-bold" : "");
+                // Clases para diferencias
+                const tdDifForClass = row.tdMaxDifFor > 0 ? "text-success fw-bold" : "";
+                const tdDifAgainClass = row.tdMaxDifAgain > 0 ? "text-danger fw-bold" : "";
+
+                const casDifForClass = row.casMaxDifFor > 0 ? "text-success fw-bold" : "";
+                const casDifAgainClass = row.casMaxDifAgain > 0 ? "text-danger fw-bold" : "";
 
                 tr.innerHTML = `
           <td>${row.nafNr}</td>
-          <td class="fw-bold">${row.coach}</td>
+          <td class="text-start">${row.coach}</td>
           <td class="country-column">${row.ccaa}</td> <!-- ✅ CCAA -->
           
-          <td>${row.maxScored}</td>
-          <td>${row.maxConceded}</td>
-          <td>${row.maxCombined}</td>
-          
-          <td class="${winDiffClass}">+${row.biggestWinDiff}</td>
-          <td class="${lossDiffClass}">-${Math.abs(row.biggestLossDiff)}</td>
+          <!-- TD -->
+          <td>${row.tdMaxScored}</td>
+          <td>${row.tdMaxConceded}</td>
+          <td>${row.tdMediaFor}</td>
+          <td>${row.tdMediaAgain}</td>
+          <td class="${tdDifForClass}">+${row.tdMaxDifFor}</td>
+          <td class="${tdDifAgainClass}">-${Math.abs(row.tdMaxDifAgain)}</td>
+          <td>${row.tdMaxDifCombined}</td>
+
+          <!-- CAS -->
+          <td>${row.casMaxScored}</td>
+          <td>${row.casMaxConceded}</td>
+          <td>${row.casMediaFor}</td>
+          <td>${row.casMediaAgain}</td>
+          <td class="${casDifForClass}">+${row.casMaxDifFor}</td>
+          <td class="${casDifAgainClass}">-${Math.abs(row.casMaxDifAgain)}</td>
+          <td>${row.casMaxDifCombined}</td>
           
           <td>${row.rivalStr}</td>
         `;

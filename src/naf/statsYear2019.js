@@ -37611,7 +37611,7 @@ const statsYear2019 = [
   },
   {
     "NAF Nr": "18694",
-    "NAF Name": "themasterofchaos",
+    "NAF Name": "Kopecz",
     "CCAA": "Apatrida",
     "Country": "France",
     "rating": 156.67170052042312,
@@ -63811,7 +63811,7 @@ const statsYear2019 = [
   },
   {
     "NAF Nr": "22445",
-    "NAF Name": "inyector",
+    "NAF Name": "Fourrouses",
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "rating": 132.8167484324565,

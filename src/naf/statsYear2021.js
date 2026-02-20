@@ -62883,7 +62883,7 @@ const statsYear2021 = [
   },
   {
     "NAF Nr": "29157",
-    "NAF Name": "ninjadaterroa",
+    "NAF Name": "Ninja",
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "rating": 172.9917829096202,
@@ -64976,7 +64976,7 @@ const statsYear2021 = [
     "NAF Nr": "29571",
     "NAF Name": "freddo",
     "CCAA": "Apatrida",
-    "Country": "Undisclosed",
+    "Country": "Sweden",
     "rating": 137.2732178853487,
     "bestRating": 150,
     "worstRating": 137.2732178853487,

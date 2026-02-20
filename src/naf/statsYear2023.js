@@ -10529,7 +10529,7 @@ const statsYear2023 = [
     "gamesTotal": 42,
     "winRatio": 57.14,
     "trophies": {
-      "winner": 1,
+      "winner": 2,
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 0,
@@ -34754,7 +34754,7 @@ const statsYear2023 = [
     "gamesTotal": 58,
     "winRatio": 71.55,
     "trophies": {
-      "winner": 2,
+      "winner": 3,
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 0,
@@ -51690,7 +51690,7 @@ const statsYear2023 = [
   },
   {
     "NAF Nr": "22445",
-    "NAF Name": "inyector",
+    "NAF Name": "Fourrouses",
     "CCAA": "I. Baleares",
     "Country": "Spain",
     "rating": 145.25526945345578,
@@ -61268,15 +61268,6 @@ const statsYear2023 = [
     "gamesLost": 14,
     "gamesTotal": 39,
     "winRatio": 51.28,
-    "trophies": {
-      "winner": 1,
-      "runnerup": 0,
-      "touchdowns": 0,
-      "casualties": 0,
-      "stuntycup": 0,
-      "bestpainted": 0,
-      "otherawards": 0
-    },
     "_lastTenRatingsYear": [
       161.16045183859075,
       165.58221938634355,
@@ -97742,7 +97733,7 @@ const statsYear2023 = [
   },
   {
     "NAF Nr": "29157",
-    "NAF Name": "ninjadaterroa",
+    "NAF Name": "Ninja",
     "CCAA": "Apatrida",
     "Country": "Portugal",
     "rating": 179.09553336562465,
@@ -101129,7 +101120,7 @@ const statsYear2023 = [
     "NAF Nr": "29571",
     "NAF Name": "freddo",
     "CCAA": "Apatrida",
-    "Country": "Undisclosed",
+    "Country": "Sweden",
     "rating": 166.1085760728453,
     "bestRating": 166.1085760728453,
     "worstRating": 143.57087746689285,
@@ -102450,7 +102441,7 @@ const statsYear2023 = [
     "gamesTotal": 30,
     "winRatio": 68.33,
     "trophies": {
-      "winner": 1,
+      "winner": 2,
       "runnerup": 0,
       "touchdowns": 0,
       "casualties": 0,
@@ -102558,7 +102549,7 @@ const statsYear2023 = [
   },
   {
     "NAF Nr": "29756",
-    "NAF Name": "marquitos",
+    "NAF Name": "TejonMelero",
     "CCAA": "C. Valenciana",
     "Country": "Spain",
     "rating": 146.34472006230004,
@@ -106611,7 +106602,7 @@ const statsYear2023 = [
     "gamesTotal": 43,
     "winRatio": 55.81,
     "trophies": {
-      "winner": 0,
+      "winner": 1,
       "runnerup": 1,
       "touchdowns": 0,
       "casualties": 0,
@@ -120406,7 +120397,7 @@ const statsYear2023 = [
   },
   {
     "NAF Nr": "31498",
-    "NAF Name": "komodo661",
+    "NAF Name": "MrCrowley",
     "CCAA": "Apatrida",
     "Country": "England",
     "rating": 137.11866965224934,
@@ -172173,7 +172164,7 @@ const statsYear2023 = [
   },
   {
     "NAF Nr": "35030",
-    "NAF Name": "kaos",
+    "NAF Name": "Kaoskungen",
     "CCAA": "Apatrida",
     "Country": "Sweden",
     "rating": 133.2827708935964,
